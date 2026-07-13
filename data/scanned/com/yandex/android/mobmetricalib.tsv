@@ -4,24 +4,72 @@
 1.65		2015-04-13T14:17:07Z	
 1.82		2015-06-18T15:50:06Z	
 2.00		2015-08-27T06:13:09Z	
+2.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.20/mobmetricalib-2.20.jar returned status 404
 2.20	jar	2015-10-19T13:43:56Z	
+2.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.21/mobmetricalib-2.21.jar returned status 404
 2.21	jar	2015-10-20T19:00:15Z	
+2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.23/mobmetricalib-2.23.jar returned status 404
 2.23	jar	2015-11-13T16:01:59Z	
+2.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.30/mobmetricalib-2.30.jar returned status 404
 2.30	jar	2015-12-16T14:01:33Z	
+2.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.32/mobmetricalib-2.32.jar returned status 404
 2.32	jar	2016-01-29T11:17:19Z	
+2.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.40/mobmetricalib-2.40.jar returned status 404
 2.40	jar	2016-03-28T11:55:23Z	
+2.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.41/mobmetricalib-2.41.jar returned status 404
 2.41	jar	2016-04-27T14:04:14Z	
+2.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.42/mobmetricalib-2.42.jar returned status 404
 2.42	jar	2016-06-17T14:54:55Z	
+2.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.51/mobmetricalib-2.51.jar returned status 404
 2.51	jar	2016-09-29T14:28:16Z	
+2.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.60/mobmetricalib-2.60.jar returned status 404
 2.60	jar	2016-11-22T14:28:09Z	
+2.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.62/mobmetricalib-2.62.jar returned status 404
 2.62	jar	2016-12-30T12:00:29Z	
+2.70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.70/mobmetricalib-2.70.jar returned status 404
 2.70	jar	2017-05-16T09:08:41Z	
+2.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.71/mobmetricalib-2.71.jar returned status 404
 2.71	jar	2017-06-01T10:40:46Z	
+2.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.73/mobmetricalib-2.73.jar returned status 404
 2.73	jar	2017-06-15T11:10:27Z	
+2.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.76/mobmetricalib-2.76.jar returned status 404
 2.76	jar	2017-08-17T12:25:29Z	
+2.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.77/mobmetricalib-2.77.jar returned status 404
 2.77	jar	2017-10-09T12:22:32Z	
+2.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.78/mobmetricalib-2.78.jar returned status 404
 2.78	jar	2017-11-16T15:33:12Z	
+2.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/2.80/mobmetricalib-2.80.jar returned status 404
 2.80	jar	2017-12-27T15:21:25Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.0.0/mobmetricalib-3.0.0.jar returned status 404
+3.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.0.0-RC1/mobmetricalib-3.0.0-RC1.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.1.0/mobmetricalib-3.1.0.jar returned status 404
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.10.0/mobmetricalib-3.10.0.jar returned status 404
+3.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.13.1/mobmetricalib-3.13.1.jar returned status 404
+3.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.13.3/mobmetricalib-3.13.3.jar returned status 404
+3.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.14.2/mobmetricalib-3.14.2.jar returned status 404
+3.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.14.3/mobmetricalib-3.14.3.jar returned status 404
+3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.15.0/mobmetricalib-3.15.0.jar returned status 404
+3.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.16.1/mobmetricalib-3.16.1.jar returned status 404
+3.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.16.2/mobmetricalib-3.16.2.jar returned status 404
+3.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.18.0/mobmetricalib-3.18.0.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.2.0/mobmetricalib-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.2.1/mobmetricalib-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.2.2/mobmetricalib-3.2.2.jar returned status 404
+3.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.20.1/mobmetricalib-3.20.1.jar returned status 404
+3.20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.20.2/mobmetricalib-3.20.2.jar returned status 404
+3.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.21.0/mobmetricalib-3.21.0.jar returned status 404
+3.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.21.1/mobmetricalib-3.21.1.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.4.0/mobmetricalib-3.4.0.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.5.0/mobmetricalib-3.5.0.jar returned status 404
+3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.5.1/mobmetricalib-3.5.1.jar returned status 404
+3.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.5.3/mobmetricalib-3.5.3.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.6.0/mobmetricalib-3.6.0.jar returned status 404
+3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.6.1/mobmetricalib-3.6.1.jar returned status 404
+3.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.6.2/mobmetricalib-3.6.2.jar returned status 404
+3.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.6.3/mobmetricalib-3.6.3.jar returned status 404
+3.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.6.4/mobmetricalib-3.6.4.jar returned status 404
+3.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.7.2/mobmetricalib-3.7.2.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/3.8.0/mobmetricalib-3.8.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/4.0.0/mobmetricalib-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/4.1.0/mobmetricalib-4.1.0.jar returned status 404
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobmetricalib/4.1.1/mobmetricalib-4.1.1.jar returned status 404

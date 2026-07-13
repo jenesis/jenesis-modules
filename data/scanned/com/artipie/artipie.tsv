@@ -26,3 +26,19 @@ v0.30.0		2023-05-02T10:42:51Z
 v0.30.0	jar-with-dependencies	2023-05-02T10:42:51Z	
 v0.30.1		2023-06-06T10:42:58Z	
 v0.30.1	jar-with-dependencies	2023-06-06T10:42:49Z	
+v0.30.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v0.30.13/artipie-v0.30.13.jar returned status 404
+v0.30.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v0.30.14/artipie-v0.30.14.jar returned status 404
+v0.30.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v0.30.15/artipie-v0.30.15.jar returned status 404
+v1.17.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.10/artipie-v1.17.10.jar returned status 404
+v1.17.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.11/artipie-v1.17.11.jar returned status 404
+v1.17.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.12/artipie-v1.17.12.jar returned status 404
+v1.17.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.13/artipie-v1.17.13.jar returned status 404
+v1.17.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.14/artipie-v1.17.14.jar returned status 404
+v1.17.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.15/artipie-v1.17.15.jar returned status 404
+v1.17.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.16/artipie-v1.17.16.jar returned status 404
+v1.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.2/artipie-v1.17.2.jar returned status 404
+v1.17.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.3/artipie-v1.17.3.jar returned status 404
+v1.17.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.4/artipie-v1.17.4.jar returned status 404
+v1.17.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.6/artipie-v1.17.6.jar returned status 404
+v1.17.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.7/artipie-v1.17.7.jar returned status 404
+v1.17.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/artipie/artipie/v1.17.9/artipie-v1.17.9.jar returned status 404

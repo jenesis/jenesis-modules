@@ -3,44 +3,83 @@
 2.01		2016-02-12T20:31:31Z	
 2.02		2016-03-05T13:22:06Z	
 2.10		2016-04-07T19:06:47Z	
+2.100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.100/mobileads-2.100.jar returned status 404
 2.100	jar	2019-06-26T22:05:37Z	
+2.101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.101/mobileads-2.101.jar returned status 404
 2.101	jar	2019-08-22T18:43:27Z	
+2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.11/mobileads-2.11.jar returned status 404
 2.11	jar	2016-04-26T15:32:43Z	
+2.110			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.110/mobileads-2.110.jar returned status 404
 2.110	jar	2019-10-22T15:21:16Z	
+2.111			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.111/mobileads-2.111.jar returned status 404
 2.111	jar	2019-11-05T21:05:29Z	
+2.112			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.112/mobileads-2.112.jar returned status 404
 2.112	jar	2019-12-20T11:13:23Z	
+2.113			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.113/mobileads-2.113.jar returned status 404
 2.113	jar	2020-01-23T13:45:28Z	
+2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.12/mobileads-2.12.jar returned status 404
 2.12	jar	2016-05-13T15:13:45Z	
+2.120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.120/mobileads-2.120.jar returned status 404
 2.120	jar	2020-03-05T06:17:45Z	
+2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.13/mobileads-2.13.jar returned status 404
 2.13	jar	2016-06-20T14:26:36Z	
+2.130			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.130/mobileads-2.130.jar returned status 404
 2.130	jar	2020-03-18T13:58:32Z	
+2.140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.140/mobileads-2.140.jar returned status 404
 2.140	jar	2020-03-25T05:33:59Z	
+2.141			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.141/mobileads-2.141.jar returned status 404
 2.141	jar	2020-04-08T09:52:22Z	
+2.142			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.142/mobileads-2.142.jar returned status 404
 2.142	jar	2020-04-16T12:13:04Z	
+2.143			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.143/mobileads-2.143.jar returned status 404
 2.143	jar	2020-05-15T15:54:54Z	
+2.150			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.150/mobileads-2.150.jar returned status 404
 2.150	jar	2020-05-27T10:50:03Z	
+2.160			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.160/mobileads-2.160.jar returned status 404
 2.160	jar	2020-07-01T06:32:44Z	
+2.170			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.170/mobileads-2.170.jar returned status 404
 2.170	jar	2020-07-31T13:34:16Z	
+2.180			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.180/mobileads-2.180.jar returned status 404
 2.180	jar	2020-08-28T16:02:21Z	
+2.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.20/mobileads-2.20.jar returned status 404
 2.20	jar	2016-07-20T00:35:26Z	
+2.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.30/mobileads-2.30.jar returned status 404
 2.30	jar	2016-08-22T17:13:18Z	
+2.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.31/mobileads-2.31.jar returned status 404
 2.31	jar	2016-09-24T11:40:21Z	
+2.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.41/mobileads-2.41.jar returned status 404
 2.41	jar	2016-12-09T17:40:33Z	
+2.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.50/mobileads-2.50.jar returned status 404
 2.50	jar	2017-01-20T20:47:20Z	
+2.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.51/mobileads-2.51.jar returned status 404
 2.51	jar	2017-04-18T10:30:39Z	
+2.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.60/mobileads-2.60.jar returned status 404
 2.60	jar	2017-06-23T17:19:35Z	
+2.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.61/mobileads-2.61.jar returned status 404
 2.61	jar	2017-08-31T17:29:05Z	
+2.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.62/mobileads-2.62.jar returned status 404
 2.62	jar	2017-11-13T20:11:58Z	
+2.70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.70/mobileads-2.70.jar returned status 404
 2.70	jar	2018-02-05T16:21:53Z	
+2.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.71/mobileads-2.71.jar returned status 404
 2.71	jar	2018-04-20T17:59:15Z	
+2.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.72/mobileads-2.72.jar returned status 404
 2.72	jar	2018-05-28T19:52:43Z	
+2.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.73/mobileads-2.73.jar returned status 404
 2.73	jar	2018-08-17T15:56:50Z	
+2.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.74/mobileads-2.74.jar returned status 404
 2.74	jar	2018-09-14T17:42:25Z	
+2.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.75/mobileads-2.75.jar returned status 404
 2.75	jar	2018-10-01T14:16:45Z	
+2.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.80/mobileads-2.80.jar returned status 404
 2.80	jar	2018-12-14T00:21:15Z	
+2.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.81/mobileads-2.81.jar returned status 404
 2.81	jar	2019-03-07T13:11:31Z	
+2.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.90/mobileads-2.90.jar returned status 404
 2.90	jar	2019-05-22T20:55:38Z	
+2.91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/2.91/mobileads-2.91.jar returned status 404
 2.91	jar	2019-05-23T20:31:46Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/3.0.0/mobileads-3.0.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/3.1.0/mobileads-3.1.0.jar returned status 404
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/3.1.1/mobileads-3.1.1.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/mobileads/3.2.0/mobileads-3.2.0.jar returned status 404

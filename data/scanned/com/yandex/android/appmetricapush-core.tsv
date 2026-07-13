@@ -1,3 +1,8 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/appmetricapush-core/1.10.0/appmetricapush-core-1.10.0.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/appmetricapush-core/1.11.0/appmetricapush-core-1.11.0.jar returned status 404
+1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/appmetricapush-core/1.11.1/appmetricapush-core-1.11.1.jar returned status 404
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/appmetricapush-core/1.12.0/appmetricapush-core-1.12.0.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/appmetricapush-core/1.13.0/appmetricapush-core-1.13.0.jar returned status 404
 1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/appmetricapush-core/1.14.0/appmetricapush-core-1.14.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/appmetricapush-core/2.0.0/appmetricapush-core-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/android/appmetricapush-core/2.1.0/appmetricapush-core-2.1.0.jar returned status 404
