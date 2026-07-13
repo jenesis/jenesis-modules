@@ -1,3 +1,15 @@
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.0.2/mejb-2.0.2.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.1/mejb-2.1.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.1.1/mejb-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.1.2/mejb-2.1.2.jar returned status 404
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.1.3/mejb-2.1.3.jar returned status 404
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.1.4/mejb-2.1.4.jar returned status 404
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.1.5/mejb-2.1.5.jar returned status 404
+2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.1.6/mejb-2.1.6.jar returned status 404
+2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.1.7/mejb-2.1.7.jar returned status 404
+2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.1.8/mejb-2.1.8.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.2/mejb-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/2.2.1/mejb-2.2.1.jar returned status 404
 3.0-beta-1		2011-11-07T06:36:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/3.0-beta-1/mejb-3.0-beta-1.jar returned status 404
 3.0.0		2012-07-03T14:09:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/3.0.0/mejb-3.0.0.jar returned status 404
 3.0.1		2013-05-23T03:38:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/mejb/3.0.1/mejb-3.0.1.jar returned status 404

@@ -4,3 +4,21 @@
 0.5		2008-10-15T21:47:50Z	
 0.6		2009-03-05T23:19:07Z	
 0.6.1		2010-12-27T20:57:06Z	
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.7/apache-mime4j-0.7.jar returned status 404
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.7.1/apache-mime4j-0.7.1.jar returned status 404
+0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.7.2/apache-mime4j-0.7.2.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.0/apache-mime4j-0.8.0.jar returned status 404
+0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.1/apache-mime4j-0.8.1.jar returned status 404
+0.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.10/apache-mime4j-0.8.10.jar returned status 404
+0.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.11/apache-mime4j-0.8.11.jar returned status 404
+0.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.12/apache-mime4j-0.8.12.jar returned status 404
+0.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.13/apache-mime4j-0.8.13.jar returned status 404
+0.8.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.14/apache-mime4j-0.8.14.jar returned status 404
+0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.2/apache-mime4j-0.8.2.jar returned status 404
+0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.3/apache-mime4j-0.8.3.jar returned status 404
+0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.4/apache-mime4j-0.8.4.jar returned status 404
+0.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.5/apache-mime4j-0.8.5.jar returned status 404
+0.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.6/apache-mime4j-0.8.6.jar returned status 404
+0.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.7/apache-mime4j-0.8.7.jar returned status 404
+0.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.8/apache-mime4j-0.8.8.jar returned status 404
+0.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-mime4j/0.8.9/apache-mime4j-0.8.9.jar returned status 404

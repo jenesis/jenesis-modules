@@ -1,5 +1,15 @@
+0.10.0			
 0.10.0	jar-with-dependencies	2019-04-21T16:17:27Z	
+0.11.0			
 0.11.0	jar-with-dependencies	2019-08-23T23:55:13Z	
+0.11.1			
 0.11.1	jar-with-dependencies	2019-10-30T03:19:07Z	
+0.12.0			
 0.12.0	jar-with-dependencies	2020-04-13T22:46:09Z	
+0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/yetus/shelldocs/0.13.0/shelldocs-0.13.0.jar returned status 404
+0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/yetus/shelldocs/0.14.0/shelldocs-0.14.0.jar returned status 404
+0.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/yetus/shelldocs/0.14.1/shelldocs-0.14.1.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/yetus/shelldocs/0.15.0/shelldocs-0.15.0.jar returned status 404
+0.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/yetus/shelldocs/0.15.1/shelldocs-0.15.1.jar returned status 404
+0.9.0			
 0.9.0	jar-with-dependencies	2019-03-23T17:59:23Z	

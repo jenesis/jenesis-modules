@@ -7,6 +7,8 @@
 2.1.6		2010-06-22T21:01:35Z	
 2.1.7		2010-11-24T07:44:10Z	
 2.1.8		2011-12-21T01:17:22Z	
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/jaxws-tools/2.2/jaxws-tools-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/jaxws-tools/2.2.1/jaxws-tools-2.2.1.jar returned status 404
 3.0-beta-1		2011-11-07T06:19:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/jaxws-tools/3.0-beta-1/jaxws-tools-3.0-beta-1.jar returned status 404
 3.0.0		2012-07-03T13:59:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/jaxws-tools/3.0.0/jaxws-tools-3.0.0.jar returned status 404
 3.0.1		2013-05-23T03:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/jaxws-tools/3.0.1/jaxws-tools-3.0.1.jar returned status 404

@@ -1,2 +1,9 @@
 1.10.0		2017-02-22T10:09:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.10.0/repository-1.10.0.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.11.0/repository-1.11.0.jar returned status 404
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.12.0/repository-1.12.0.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.13.0/repository-1.13.0.jar returned status 404
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.14.0/repository-1.14.0.jar returned status 404
+1.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.16.0/repository-1.16.0.jar returned status 404
+1.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.16.1/repository-1.16.1.jar returned status 404
 1.8.0		2016-03-30T12:40:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.8.0/repository-1.8.0.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/aries/rsa/repository/1.9.0/repository-1.9.0.jar returned status 404

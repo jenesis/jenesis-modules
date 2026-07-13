@@ -1,3 +1,16 @@
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.0.1/cxf-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.0.2/cxf-2.0.2.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.1/cxf-2.1.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.1.1/cxf-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.1.2/cxf-2.1.2.jar returned status 404
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.1.3/cxf-2.1.3.jar returned status 404
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.1.4/cxf-2.1.4.jar returned status 404
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.1.5/cxf-2.1.5.jar returned status 404
+2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.1.6/cxf-2.1.6.jar returned status 404
+2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.1.7/cxf-2.1.7.jar returned status 404
+2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.1.8/cxf-2.1.8.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.2/cxf-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/2.2.1/cxf-2.2.1.jar returned status 404
 3.0-beta-1		2011-11-07T06:12:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/3.0-beta-1/cxf-3.0-beta-1.jar returned status 404
 3.0.0		2012-07-03T13:54:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/3.0.0/cxf-3.0.0.jar returned status 404
 3.0.1		2013-05-23T03:21:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/cxf/3.0.1/cxf-3.0.1.jar returned status 404

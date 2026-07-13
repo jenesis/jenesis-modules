@@ -1,3 +1,17 @@
+1.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/1.2-beta/system-database-1.2-beta.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.0.1/system-database-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.0.2/system-database-2.0.2.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.1/system-database-2.1.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.1.1/system-database-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.1.2/system-database-2.1.2.jar returned status 404
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.1.3/system-database-2.1.3.jar returned status 404
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.1.4/system-database-2.1.4.jar returned status 404
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.1.5/system-database-2.1.5.jar returned status 404
+2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.1.6/system-database-2.1.6.jar returned status 404
+2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.1.7/system-database-2.1.7.jar returned status 404
+2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.1.8/system-database-2.1.8.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.2/system-database-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/2.2.1/system-database-2.2.1.jar returned status 404
 3.0-M1		2010-06-09T17:49:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/3.0-M1/system-database-3.0-M1.jar returned status 404
 3.0-beta-1		2011-11-07T05:00:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/3.0-beta-1/system-database-3.0-beta-1.jar returned status 404
 3.0.0		2012-07-03T13:13:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/system-database/3.0.0/system-database-3.0.0.jar returned status 404

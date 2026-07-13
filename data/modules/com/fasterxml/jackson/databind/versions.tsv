@@ -4185,6 +4185,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.0.0-RC1	named	io.strimzi	crd-generator	2026-04-20T20:30:45Z	2.21.2
 0.1.2	named	io.hyperfoil.tools	jjq-benchmark	2026-04-21T20:41:19Z	2.18.2
 1.0.0-RC2	named	io.strimzi	crd-generator	2026-04-23T18:40:09Z	2.21.2
+26.0.0	named	org.apache.doris	doris-kafka-connector	2026-04-24T00:46:27Z	2.13.2.1
 2.0.1	named	org.octopusden.octopus.sonar	sonar-automation	2026-04-24T00:49:05Z	2.20.1
 2.0.2	named	org.octopusden.octopus.sonar	sonar-automation	2026-04-24T04:43:58Z	2.20.1
 1.24.7	named	io.joynr.examples	stateless-async-car-sim	2026-04-24T07:56:46Z	2.14.2

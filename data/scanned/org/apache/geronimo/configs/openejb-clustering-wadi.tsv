@@ -1,3 +1,5 @@
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/openejb-clustering-wadi/2.2/openejb-clustering-wadi-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/openejb-clustering-wadi/2.2.1/openejb-clustering-wadi-2.2.1.jar returned status 404
 3.0-M1		2010-06-09T19:01:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/openejb-clustering-wadi/3.0-M1/openejb-clustering-wadi-3.0-M1.jar returned status 404
 3.0-beta-1		2011-11-07T06:22:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/openejb-clustering-wadi/3.0-beta-1/openejb-clustering-wadi-3.0-beta-1.jar returned status 404
 3.0.0		2012-07-03T14:00:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/openejb-clustering-wadi/3.0.0/openejb-clustering-wadi-3.0.0.jar returned status 404

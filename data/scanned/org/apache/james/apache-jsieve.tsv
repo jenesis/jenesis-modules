@@ -1,3 +1,7 @@
 0.2		2008-08-19T18:58:02Z	
 0.3		2009-06-18T09:38:07Z	
 0.4		2010-05-06T17:29:09Z	
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-jsieve/0.5/apache-jsieve-0.5.jar returned status 404
+0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-jsieve/0.6/apache-jsieve-0.6.jar returned status 404
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-jsieve/0.7/apache-jsieve-0.7.jar returned status 404
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/apache-jsieve/0.8/apache-jsieve-0.8.jar returned status 404

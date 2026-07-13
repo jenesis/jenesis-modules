@@ -1,3 +1,6 @@
+1.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/uddi-jetty/1.2-beta/uddi-jetty-1.2-beta.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/uddi-jetty/2.2/uddi-jetty-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/uddi-jetty/2.2.1/uddi-jetty-2.2.1.jar returned status 404
 3.0-M1		2010-06-09T19:04:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/uddi-jetty/3.0-M1/uddi-jetty-3.0-M1.jar returned status 404
 3.0-beta-1		2011-11-07T06:33:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/uddi-jetty/3.0-beta-1/uddi-jetty-3.0-beta-1.jar returned status 404
 3.0.0		2012-07-03T14:08:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/geronimo/configs/uddi-jetty/3.0.0/uddi-jetty-3.0.0.jar returned status 404
