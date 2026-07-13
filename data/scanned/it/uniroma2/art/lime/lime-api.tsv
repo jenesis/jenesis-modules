@@ -1,4 +1,19 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.1/lime-api-0.1.jar returned status 404
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.2/lime-api-0.2.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.3/lime-api-0.3.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.3.1/lime-api-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.3.2/lime-api-0.3.2.jar returned status 404
+0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.3.3/lime-api-0.3.3.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4/lime-api-0.4.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.1/lime-api-0.4.1.jar returned status 404
 0.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.10/lime-api-0.4.10.jar returned status 404
 0.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.11/lime-api-0.4.11.jar returned status 404
 0.4.12		2026-05-29T12:48:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.12/lime-api-0.4.12.jar returned status 404
+0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.2/lime-api-0.4.2.jar returned status 404
+0.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.3/lime-api-0.4.3.jar returned status 404
+0.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.4/lime-api-0.4.4.jar returned status 404
+0.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.5/lime-api-0.4.5.jar returned status 404
+0.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.6/lime-api-0.4.6.jar returned status 404
+0.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.7/lime-api-0.4.7.jar returned status 404
+0.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.8/lime-api-0.4.8.jar returned status 404
 0.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/uniroma2/art/lime/lime-api/0.4.9/lime-api-0.4.9.jar returned status 404

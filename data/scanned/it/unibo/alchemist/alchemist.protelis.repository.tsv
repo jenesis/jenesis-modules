@@ -1,1 +1,7 @@
+0.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.repository/0.0.0/alchemist.protelis.repository-0.0.0.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.repository/1.0.0/alchemist.protelis.repository-1.0.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.repository/2.0.0/alchemist.protelis.repository-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.repository/2.0.1/alchemist.protelis.repository-2.0.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.repository/3.0.0/alchemist.protelis.repository-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.repository/3.1.0/alchemist.protelis.repository-3.1.0.jar returned status 404
 3.1.1		2021-01-15T13:05:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.repository/3.1.1/alchemist.protelis.repository-3.1.1.jar returned status 404

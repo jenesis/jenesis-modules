@@ -6,3 +6,7 @@
 1.0.8		2021-09-20T08:36:01Z	
 1.1.0		2021-12-01T11:16:35Z	
 1.1.1		2022-01-27T10:26:56Z	
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/bancaditalia/oss/vtl/vtl-envs/1.1.2/vtl-envs-1.1.2.jar returned status 404
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/bancaditalia/oss/vtl/vtl-envs/1.1.4/vtl-envs-1.1.4.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/bancaditalia/oss/vtl/vtl-envs/1.2.1/vtl-envs-1.2.1.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/bancaditalia/oss/vtl/vtl-envs/1.3.0/vtl-envs-1.3.0.jar returned status 404

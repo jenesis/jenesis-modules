@@ -1,2 +1,8 @@
 0.1.0		2018-04-19T03:21:34Z	
 0.2.0		2018-04-19T04:28:14Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/namespace/service-wight/service-wight/0.3.0/service-wight-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/namespace/service-wight/service-wight/0.3.1/service-wight-0.3.1.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/namespace/service-wight/service-wight/0.4.0/service-wight-0.4.0.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/namespace/service-wight/service-wight/0.5.0/service-wight-0.5.0.jar returned status 404
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/namespace/service-wight/service-wight/0.5.1/service-wight-0.5.1.jar returned status 404
+0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/namespace/service-wight/service-wight/0.5.2/service-wight-0.5.2.jar returned status 404

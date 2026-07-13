@@ -1,3 +1,12 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/3.0.0/quartz-manager-parent-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/3.0.1/quartz-manager-parent-3.0.1.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/3.1.0/quartz-manager-parent-3.1.0.jar returned status 404
 4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/4/quartz-manager-parent-4.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/4.0.3/quartz-manager-parent-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/4.0.4/quartz-manager-parent-4.0.4.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/4.0.5/quartz-manager-parent-4.0.5.jar returned status 404
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/4.0.6/quartz-manager-parent-4.0.6.jar returned status 404
+4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/4.0.8/quartz-manager-parent-4.0.8.jar returned status 404
+4.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/4.0.9/quartz-manager-parent-4.0.9.jar returned status 404
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/4.1.1/quartz-manager-parent-4.1.1.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/fabioformosa/quartz-manager/quartz-manager-parent/5.0.1/quartz-manager-parent-5.0.1.jar returned status 404

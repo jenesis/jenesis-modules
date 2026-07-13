@@ -1,3 +1,8 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.1/puml-parent-0.1.jar returned status 404
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.2/puml-parent-0.2.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.3/puml-parent-0.3.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4/puml-parent-0.4.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.1/puml-parent-0.4.1.jar returned status 404
 0.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.10/puml-parent-0.4.10.jar returned status 404
 0.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.11/puml-parent-0.4.11.jar returned status 404
 0.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.12/puml-parent-0.4.12.jar returned status 404
@@ -5,6 +10,7 @@
 0.4.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.14/puml-parent-0.4.14.jar returned status 404
 0.4.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.15/puml-parent-0.4.15.jar returned status 404
 0.4.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.16/puml-parent-0.4.16.jar returned status 404
+0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.2/puml-parent-0.4.2.jar returned status 404
 0.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.6/puml-parent-0.4.6.jar returned status 404
 0.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.7/puml-parent-0.4.7.jar returned status 404
 0.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.4.8/puml-parent-0.4.8.jar returned status 404

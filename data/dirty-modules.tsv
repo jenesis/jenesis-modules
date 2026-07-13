@@ -1916,3 +1916,9 @@ us.fatehi.mcp_json_schema
 eu.maveniverse.domtrip
 eu.maveniverse.domtrip.maven
 eu.maveniverse.domtrip.jaxen
+ac.simons.neo4j.migrations.cli
+ac.simons.neo4j.flyway
+eu.mihosoft.vmf.vmftext
+eu.mihosoft.vmf.runtime
+eu.mihosoft.vmf.core
+com.google.errorprone.annotations

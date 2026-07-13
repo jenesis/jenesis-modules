@@ -1,3 +1,9 @@
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/5.1.0/use-5.1.0.jar returned status 404
+5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/5.1.1/use-5.1.1.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/5.2.0/use-5.2.0.jar returned status 404
+5.2.0-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/5.2.0-2/use-5.2.0-2.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/5.2.1/use-5.2.1.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/5.3.0/use-5.3.0.jar returned status 404
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/5.4.0/use-5.4.0.jar returned status 404
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/5.5.0/use-5.5.0.jar returned status 404
 5.5.0-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/unicore/services/use/5.5.0-rc/use-5.5.0-rc.jar returned status 404

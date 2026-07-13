@@ -97,3 +97,5 @@
 2.8.1-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/co/t-id/sdk-auth/2.8.1-rc4/sdk-auth-2.8.1-rc4.jar returned status 404
 2.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/co/t-id/sdk-auth/2.8.2/sdk-auth-2.8.2.jar returned status 404
 2.9.0		2026-06-02T01:34:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/co/t-id/sdk-auth/2.9.0/sdk-auth-2.9.0.jar returned status 404
+2.9.1-beta0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/co/t-id/sdk-auth/2.9.1-beta0/sdk-auth-2.9.1-beta0.jar returned status 404
+2.9.1-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/co/t-id/sdk-auth/2.9.1-beta1/sdk-auth-2.9.1-beta1.jar returned status 404

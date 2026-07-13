@@ -1,1 +1,4 @@
+0.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.parent/0.0.0/alchemist.protelis.parent-0.0.0.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.parent/1.0.0/alchemist.protelis.parent-1.0.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.parent/2.0.0/alchemist.protelis.parent-2.0.0.jar returned status 404
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/alchemist/alchemist.protelis.parent/3.1.1/alchemist.protelis.parent-3.1.1.jar returned status 404

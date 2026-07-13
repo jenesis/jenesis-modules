@@ -1,1 +1,10 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/micegroup/voila2runtime-attachment/1.0/voila2runtime-attachment-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/micegroup/voila2runtime-attachment/1.1/voila2runtime-attachment-1.1.jar returned status 404
+1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/micegroup/voila2runtime-attachment/1.10/voila2runtime-attachment-1.10.jar returned status 404
+1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/micegroup/voila2runtime-attachment/1.11/voila2runtime-attachment-1.11.jar returned status 404
 1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/micegroup/voila2runtime-attachment/1.12/voila2runtime-attachment-1.12.jar returned status 404
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/micegroup/voila2runtime-attachment/1.4/voila2runtime-attachment-1.4.jar returned status 404
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/micegroup/voila2runtime-attachment/1.5/voila2runtime-attachment-1.5.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/micegroup/voila2runtime-attachment/1.6/voila2runtime-attachment-1.6.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/micegroup/voila2runtime-attachment/1.7/voila2runtime-attachment-1.7.jar returned status 404
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/micegroup/voila2runtime-attachment/1.8/voila2runtime-attachment-1.8.jar returned status 404
