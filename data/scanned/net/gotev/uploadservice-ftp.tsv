@@ -1,3 +1,13 @@
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/3.0/uploadservice-ftp-3.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/3.0.1/uploadservice-ftp-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/3.0.2/uploadservice-ftp-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/3.0.3/uploadservice-ftp-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/3.0.4/uploadservice-ftp-3.0.4.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/3.1/uploadservice-ftp-3.1.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/3.2.1/uploadservice-ftp-3.2.1.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/3.3/uploadservice-ftp-3.3.jar returned status 404
+4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/4.5.1/uploadservice-ftp-4.5.1.jar returned status 404
+4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/4.5.2/uploadservice-ftp-4.5.2.jar returned status 404
 4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/4.5.3/uploadservice-ftp-4.5.3.jar returned status 404
 4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/4.5.4/uploadservice-ftp-4.5.4.jar returned status 404
 4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice-ftp/4.5.5/uploadservice-ftp-4.5.5.jar returned status 404

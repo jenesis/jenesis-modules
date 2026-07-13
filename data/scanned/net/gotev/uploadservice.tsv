@@ -1,3 +1,16 @@
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/2.0/uploadservice-2.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/2.0.1/uploadservice-2.0.1.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/2.1/uploadservice-2.1.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/3.0/uploadservice-3.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/3.0.1/uploadservice-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/3.0.2/uploadservice-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/3.0.3/uploadservice-3.0.3.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/3.1/uploadservice-3.1.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/3.2/uploadservice-3.2.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/3.2.1/uploadservice-3.2.1.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/3.3/uploadservice-3.3.jar returned status 404
+4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/4.5.1/uploadservice-4.5.1.jar returned status 404
+4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/4.5.2/uploadservice-4.5.2.jar returned status 404
 4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/4.5.3/uploadservice-4.5.3.jar returned status 404
 4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/4.5.4/uploadservice-4.5.4.jar returned status 404
 4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gotev/uploadservice/4.5.5/uploadservice-4.5.5.jar returned status 404

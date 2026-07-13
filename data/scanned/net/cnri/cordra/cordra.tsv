@@ -1,13 +1,24 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.0.0/cordra-2.0.0.jar returned status 404
 2.0.0	classes	2019-10-14T05:06:49Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.1.0/cordra-2.1.0.jar returned status 404
 2.1.0	classes	2020-05-09T03:32:42Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.2.0/cordra-2.2.0.jar returned status 404
 2.2.0	classes	2020-10-06T17:43:04Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.3.0/cordra-2.3.0.jar returned status 404
 2.3.0	classes	2021-04-09T04:29:54Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.3.1/cordra-2.3.1.jar returned status 404
 2.3.1	classes	2021-12-11T05:40:27Z	
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.3.2/cordra-2.3.2.jar returned status 404
 2.3.2	classes	2021-12-16T00:55:42Z	
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.3.3/cordra-2.3.3.jar returned status 404
 2.3.3	classes	2023-08-08T04:29:38Z	
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.3.4/cordra-2.3.4.jar returned status 404
 2.3.4	classes	2023-08-29T05:04:46Z	
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.4.0/cordra-2.4.0.jar returned status 404
 2.4.0	classes	2022-02-21T06:09:30Z	
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.4.1/cordra-2.4.1.jar returned status 404
 2.4.1	classes	2023-08-08T04:25:40Z	
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.4.2/cordra-2.4.2.jar returned status 404
 2.4.2	classes	2023-08-29T04:59:44Z	
 2.5.0		2023-04-30T23:13:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cnri/cordra/cordra/2.5.0/cordra-2.5.0.jar returned status 404
 2.5.0	classes	2023-04-30T23:15:09Z	

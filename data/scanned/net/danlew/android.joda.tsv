@@ -1,3 +1,7 @@
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.0/android.joda-2.10.0.jar returned status 404
+2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.1/android.joda-2.10.1.jar returned status 404
+2.10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.1.1/android.joda-2.10.1.1.jar returned status 404
+2.10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.1.2/android.joda-2.10.1.2.jar returned status 404
 2.10.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.12/android.joda-2.10.12.jar returned status 404
 2.10.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.12.1/android.joda-2.10.12.1.jar returned status 404
 2.10.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.12.2/android.joda-2.10.12.2.jar returned status 404
@@ -11,6 +15,17 @@
 2.10.14	debug-sources	2022-03-24T18:26:11Z	
 2.10.14	release-javadoc	2022-03-24T18:26:09Z	
 2.10.14	release-sources	2022-03-24T18:26:08Z	
+2.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.2/android.joda-2.10.2.jar returned status 404
+2.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.3/android.joda-2.10.3.jar returned status 404
+2.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.6/android.joda-2.10.6.jar returned status 404
+2.10.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.6.1/android.joda-2.10.6.1.jar returned status 404
+2.10.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.6.2/android.joda-2.10.6.2.jar returned status 404
+2.10.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.6.3/android.joda-2.10.6.3.jar returned status 404
+2.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.7/android.joda-2.10.7.jar returned status 404
+2.10.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.7.1/android.joda-2.10.7.1.jar returned status 404
+2.10.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.7.2/android.joda-2.10.7.2.jar returned status 404
+2.10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.9/android.joda-2.10.9.jar returned status 404
+2.10.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.10.9.1/android.joda-2.10.9.1.jar returned status 404
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.11.0/android.joda-2.11.0.jar returned status 404
 2.11.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.11.0.1/android.joda-2.11.0.1.jar returned status 404
 2.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.11.2/android.joda-2.11.2.jar returned status 404
@@ -27,3 +42,36 @@
 2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.14.0/android.joda-2.14.0.jar returned status 404
 2.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.14.1/android.joda-2.14.1.jar returned status 404
 2.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.14.2/android.joda-2.14.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.3/android.joda-2.3.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.3.1/android.joda-2.3.1.jar returned status 404
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.3.2/android.joda-2.3.2.jar returned status 404
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.3.3/android.joda-2.3.3.jar returned status 404
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.3.4/android.joda-2.3.4.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.4.0/android.joda-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.4.1/android.joda-2.4.1.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.5.0/android.joda-2.5.0.jar returned status 404
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.5.1/android.joda-2.5.1.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.6.0/android.joda-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.7.0/android.joda-2.7.0.jar returned status 404
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.7.1/android.joda-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.7.2/android.joda-2.7.2.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.8.0/android.joda-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.8.1/android.joda-2.8.1.jar returned status 404
+2.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.8.2/android.joda-2.8.2.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.0/android.joda-2.9.0.jar returned status 404
+2.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.1/android.joda-2.9.1.jar returned status 404
+2.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.2/android.joda-2.9.2.jar returned status 404
+2.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.3/android.joda-2.9.3.jar returned status 404
+2.9.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.3.1/android.joda-2.9.3.1.jar returned status 404
+2.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.4/android.joda-2.9.4.jar returned status 404
+2.9.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.4.1/android.joda-2.9.4.1.jar returned status 404
+2.9.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.4.2/android.joda-2.9.4.2.jar returned status 404
+2.9.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.4.3/android.joda-2.9.4.3.jar returned status 404
+2.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.5/android.joda-2.9.5.jar returned status 404
+2.9.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.5.1/android.joda-2.9.5.1.jar returned status 404
+2.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.7/android.joda-2.9.7.jar returned status 404
+2.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.9/android.joda-2.9.9.jar returned status 404
+2.9.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.9.1/android.joda-2.9.9.1.jar returned status 404
+2.9.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.9.2/android.joda-2.9.9.2.jar returned status 404
+2.9.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.9.3/android.joda-2.9.9.3.jar returned status 404
+2.9.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/danlew/android.joda/2.9.9.4/android.joda-2.9.9.4.jar returned status 404

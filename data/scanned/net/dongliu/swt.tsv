@@ -1,5 +1,7 @@
+4.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/dongliu/swt/4.13/swt-4.13.jar returned status 404
 4.13	linux	2019-11-01T03:54:43Z	
 4.13	osx	2019-11-01T03:54:44Z	
+4.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/dongliu/swt/4.13.1/swt-4.13.1.jar returned status 404
 4.13.1	linux	2019-11-01T04:45:09Z	
 4.13.1	osx	2019-11-01T04:45:14Z	
 4.13.1	win	2019-11-01T04:45:27Z	
