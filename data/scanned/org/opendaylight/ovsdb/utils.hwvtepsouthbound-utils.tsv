@@ -12,6 +12,7 @@
 1.12.2		2021-08-12T07:14:51Z	
 1.12.3		2021-11-04T01:42:54Z	
 1.12.4		2022-01-28T11:31:36Z	
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ovsdb/utils.hwvtepsouthbound-utils/1.13.0/utils.hwvtepsouthbound-utils-1.13.0.jar returned status 404
 1.13.1		2021-11-26T01:33:28Z	
 1.13.2		2022-02-15T11:09:00Z	
 1.13.3		2022-05-27T01:06:08Z	
