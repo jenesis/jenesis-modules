@@ -1,3 +1,27 @@
+7.3.0.v20110203			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.3.0.v20110203/jetty-atomikos-7.3.0.v20110203.jar returned status 404
+7.3.1.v20110307			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.3.1.v20110307/jetty-atomikos-7.3.1.v20110307.jar returned status 404
+7.4.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.4.0.RC0/jetty-atomikos-7.4.0.RC0.jar returned status 404
+7.4.0.v20110414			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.4.0.v20110414/jetty-atomikos-7.4.0.v20110414.jar returned status 404
+7.4.1.v20110513			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.4.1.v20110513/jetty-atomikos-7.4.1.v20110513.jar returned status 404
+7.4.2.v20110526			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.4.2.v20110526/jetty-atomikos-7.4.2.v20110526.jar returned status 404
+7.4.3.v20110701			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.4.3.v20110701/jetty-atomikos-7.4.3.v20110701.jar returned status 404
+7.4.4.v20110707			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.4.4.v20110707/jetty-atomikos-7.4.4.v20110707.jar returned status 404
+7.4.5.v20110725			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.4.5.v20110725/jetty-atomikos-7.4.5.v20110725.jar returned status 404
+7.5.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.5.0.RC0/jetty-atomikos-7.5.0.RC0.jar returned status 404
+7.5.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.5.0.RC1/jetty-atomikos-7.5.0.RC1.jar returned status 404
+7.5.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.5.0.RC2/jetty-atomikos-7.5.0.RC2.jar returned status 404
+7.5.0.v20110901			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.5.0.v20110901/jetty-atomikos-7.5.0.v20110901.jar returned status 404
+7.5.1.v20110908			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.5.1.v20110908/jetty-atomikos-7.5.1.v20110908.jar returned status 404
+7.5.2.v20111006			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.5.2.v20111006/jetty-atomikos-7.5.2.v20111006.jar returned status 404
+7.5.3.v20111011			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.5.3.v20111011/jetty-atomikos-7.5.3.v20111011.jar returned status 404
+7.5.4.v20111024			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.5.4.v20111024/jetty-atomikos-7.5.4.v20111024.jar returned status 404
+7.6.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.6.0.RC0/jetty-atomikos-7.6.0.RC0.jar returned status 404
+7.6.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.6.0.RC1/jetty-atomikos-7.6.0.RC1.jar returned status 404
+7.6.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.6.0.RC2/jetty-atomikos-7.6.0.RC2.jar returned status 404
+7.6.0.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.6.0.RC3/jetty-atomikos-7.6.0.RC3.jar returned status 404
+7.6.0.RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.6.0.RC4/jetty-atomikos-7.6.0.RC4.jar returned status 404
+7.6.0.RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.6.0.RC5/jetty-atomikos-7.6.0.RC5.jar returned status 404
+7.6.0.v20120127			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/7.6.0.v20120127/jetty-atomikos-7.6.0.v20120127.jar returned status 404
 7.6.1.v20120215		2012-02-15T22:33:36Z	
 7.6.10.v20130312		2013-03-12T16:46:29Z	
 7.6.11.v20130520		2013-05-20T13:54:30Z	
@@ -14,6 +38,19 @@
 7.6.7.v20120910		2012-09-10T20:44:37Z	
 7.6.8.v20121106		2012-11-06T15:03:14Z	
 7.6.9.v20130131		2013-01-31T16:36:39Z	
+8.0.0.M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.0.0.M3/jetty-atomikos-8.0.0.M3.jar returned status 404
+8.0.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.0.0.RC0/jetty-atomikos-8.0.0.RC0.jar returned status 404
+8.0.0.v20110901			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.0.0.v20110901/jetty-atomikos-8.0.0.v20110901.jar returned status 404
+8.0.1.v20110908			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.0.1.v20110908/jetty-atomikos-8.0.1.v20110908.jar returned status 404
+8.0.2.v20111006			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.0.2.v20111006/jetty-atomikos-8.0.2.v20111006.jar returned status 404
+8.0.3.v20111011			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.0.3.v20111011/jetty-atomikos-8.0.3.v20111011.jar returned status 404
+8.0.4.v20111024			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.0.4.v20111024/jetty-atomikos-8.0.4.v20111024.jar returned status 404
+8.1.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.1.0.RC0/jetty-atomikos-8.1.0.RC0.jar returned status 404
+8.1.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.1.0.RC1/jetty-atomikos-8.1.0.RC1.jar returned status 404
+8.1.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.1.0.RC2/jetty-atomikos-8.1.0.RC2.jar returned status 404
+8.1.0.RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.1.0.RC4/jetty-atomikos-8.1.0.RC4.jar returned status 404
+8.1.0.RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.1.0.RC5/jetty-atomikos-8.1.0.RC5.jar returned status 404
+8.1.0.v20120127			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-atomikos/8.1.0.v20120127/jetty-atomikos-8.1.0.v20120127.jar returned status 404
 8.1.1.v20120215		2012-02-15T23:19:48Z	
 8.1.10.v20130312		2013-03-12T18:11:10Z	
 8.1.11.v20130520		2013-05-20T14:49:14Z	

@@ -26,3 +26,21 @@
 5.1.7rc0		2006-03-14T17:35:33Z	
 5.1.8		2006-03-14T17:35:33Z	
 5.1.9		2006-03-14T17:35:33Z	
+6.0-20060311.093250-41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060311.093250-41/org.mortbay.jaas-6.0-20060311.093250-41.jar returned status 404
+6.0-20060311.183228-10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060311.183228-10/org.mortbay.jaas-6.0-20060311.183228-10.jar returned status 404
+6.0-20060311.183228-29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060311.183228-29/org.mortbay.jaas-6.0-20060311.183228-29.jar returned status 404
+6.0-20060311.183228-30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060311.183228-30/org.mortbay.jaas-6.0-20060311.183228-30.jar returned status 404
+6.0-20060311.183228-37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060311.183228-37/org.mortbay.jaas-6.0-20060311.183228-37.jar returned status 404
+6.0-20060311.183228-40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060311.183228-40/org.mortbay.jaas-6.0-20060311.183228-40.jar returned status 404
+6.0-20060311.183228-42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060311.183228-42/org.mortbay.jaas-6.0-20060311.183228-42.jar returned status 404
+6.0-20060311.183228-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060311.183228-6/org.mortbay.jaas-6.0-20060311.183228-6.jar returned status 404
+6.0-20060311.183228-9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060311.183228-9/org.mortbay.jaas-6.0-20060311.183228-9.jar returned status 404
+6.0-20060313.001659-10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060313.001659-10/org.mortbay.jaas-6.0-20060313.001659-10.jar returned status 404
+6.0-20060313.001659-11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060313.001659-11/org.mortbay.jaas-6.0-20060313.001659-11.jar returned status 404
+6.0-20060313.001659-30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060313.001659-30/org.mortbay.jaas-6.0-20060313.001659-30.jar returned status 404
+6.0-20060313.001659-31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060313.001659-31/org.mortbay.jaas-6.0-20060313.001659-31.jar returned status 404
+6.0-20060313.001659-38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060313.001659-38/org.mortbay.jaas-6.0-20060313.001659-38.jar returned status 404
+6.0-20060313.001659-41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060313.001659-41/org.mortbay.jaas-6.0-20060313.001659-41.jar returned status 404
+6.0-20060313.001659-43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060313.001659-43/org.mortbay.jaas-6.0-20060313.001659-43.jar returned status 404
+6.0-20060313.001659-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-20060313.001659-7/org.mortbay.jaas-6.0-20060313.001659-7.jar returned status 404
+6.0-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/org.mortbay.jaas/6.0-SNAPSHOT/org.mortbay.jaas-6.0-SNAPSHOT.jar returned status 404

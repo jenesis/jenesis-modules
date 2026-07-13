@@ -1,2 +1,5 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/imixs/security/imixs-security/2.0.0/imixs-security-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/imixs/security/imixs-security/2.0.1/imixs-security-2.0.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/imixs/security/imixs-security/3.0.0/imixs-security-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/imixs/security/imixs-security/3.0.1/imixs-security-3.0.1.jar returned status 404
 3.0.2		2026-06-05T13:08:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/imixs/security/imixs-security/3.0.2/imixs-security-3.0.2.jar returned status 404

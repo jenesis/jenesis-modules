@@ -1,35 +1,73 @@
+7.3.1.v20110307			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.3.1.v20110307/test-war-servlet25-7.3.1.v20110307.jar returned status 404
+7.4.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.4.0.RC0/test-war-servlet25-7.4.0.RC0.jar returned status 404
+7.4.0.v20110414			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.4.0.v20110414/test-war-servlet25-7.4.0.v20110414.jar returned status 404
+7.4.1.v20110513			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.4.1.v20110513/test-war-servlet25-7.4.1.v20110513.jar returned status 404
 7.4.1.v20110513	config	2011-05-13T06:47:16Z	
+7.4.2.v20110526			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.4.2.v20110526/test-war-servlet25-7.4.2.v20110526.jar returned status 404
 7.4.2.v20110526	config	2011-05-26T13:54:39Z	
+7.4.3.v20110701			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.4.3.v20110701/test-war-servlet25-7.4.3.v20110701.jar returned status 404
 7.4.3.v20110701	config	2011-07-01T12:20:29Z	
+7.4.4.v20110707			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.4.4.v20110707/test-war-servlet25-7.4.4.v20110707.jar returned status 404
 7.4.4.v20110707	config	2011-07-08T00:51:58Z	
+7.4.5.v20110725			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.4.5.v20110725/test-war-servlet25-7.4.5.v20110725.jar returned status 404
 7.4.5.v20110725	config	2011-07-25T19:59:05Z	
+7.5.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.5.0.RC0/test-war-servlet25-7.5.0.RC0.jar returned status 404
 7.5.0.RC0	config	2011-08-16T01:29:19Z	
+7.5.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.5.0.RC1/test-war-servlet25-7.5.0.RC1.jar returned status 404
 7.5.0.RC1	config	2011-08-19T13:49:11Z	
+7.5.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.5.0.RC2/test-war-servlet25-7.5.0.RC2.jar returned status 404
 7.5.0.RC2	config	2011-08-30T23:45:06Z	
+7.5.0.v20110901			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.5.0.v20110901/test-war-servlet25-7.5.0.v20110901.jar returned status 404
 7.5.0.v20110901	config	2011-09-01T19:00:28Z	
+7.5.1.v20110908			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.5.1.v20110908/test-war-servlet25-7.5.1.v20110908.jar returned status 404
 7.5.1.v20110908	config	2011-09-08T18:58:22Z	
+7.5.2.v20111006			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.5.2.v20111006/test-war-servlet25-7.5.2.v20111006.jar returned status 404
 7.5.2.v20111006	config	2011-10-06T23:35:05Z	
+7.5.3.v20111011			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.5.3.v20111011/test-war-servlet25-7.5.3.v20111011.jar returned status 404
 7.5.3.v20111011	config	2011-10-11T14:50:49Z	
+7.5.4.v20111024			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.5.4.v20111024/test-war-servlet25-7.5.4.v20111024.jar returned status 404
 7.5.4.v20111024	config	2011-10-24T21:46:48Z	
+7.6.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.6.0.RC0/test-war-servlet25-7.6.0.RC0.jar returned status 404
 7.6.0.RC0	config	2011-11-30T00:39:06Z	
+7.6.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.6.0.RC1/test-war-servlet25-7.6.0.RC1.jar returned status 404
 7.6.0.RC1	config	2011-12-04T22:03:53Z	
+7.6.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.6.0.RC2/test-war-servlet25-7.6.0.RC2.jar returned status 404
 7.6.0.RC2	config	2011-12-22T20:59:22Z	
+7.6.0.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.6.0.RC3/test-war-servlet25-7.6.0.RC3.jar returned status 404
 7.6.0.RC3	config	2012-01-05T19:16:12Z	
+7.6.0.RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.6.0.RC4/test-war-servlet25-7.6.0.RC4.jar returned status 404
 7.6.0.RC4	config	2012-01-13T18:53:43Z	
+7.6.0.RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.6.0.RC5/test-war-servlet25-7.6.0.RC5.jar returned status 404
 7.6.0.RC5	config	2012-01-20T20:07:53Z	
+7.6.0.v20120127			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/7.6.0.v20120127/test-war-servlet25-7.6.0.v20120127.jar returned status 404
 7.6.0.v20120127	config	2012-01-27T15:44:22Z	
+8.0.0.M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.0.0.M3/test-war-servlet25-8.0.0.M3.jar returned status 404
 8.0.0.M3	config	2011-05-31T01:33:07Z	
+8.0.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.0.0.RC0/test-war-servlet25-8.0.0.RC0.jar returned status 404
 8.0.0.RC0	config	2011-08-16T15:38:30Z	
+8.0.0.v20110901			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.0.0.v20110901/test-war-servlet25-8.0.0.v20110901.jar returned status 404
 8.0.0.v20110901	config	2011-09-01T20:01:25Z	
+8.0.1.v20110908			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.0.1.v20110908/test-war-servlet25-8.0.1.v20110908.jar returned status 404
 8.0.1.v20110908	config	2011-09-08T19:31:58Z	
+8.0.2.v20111006			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.0.2.v20111006/test-war-servlet25-8.0.2.v20111006.jar returned status 404
 8.0.2.v20111006	config	2011-10-07T01:31:02Z	
+8.0.3.v20111011			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.0.3.v20111011/test-war-servlet25-8.0.3.v20111011.jar returned status 404
 8.0.3.v20111011	config	2011-10-11T16:23:32Z	
+8.0.4.v20111024			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.0.4.v20111024/test-war-servlet25-8.0.4.v20111024.jar returned status 404
 8.0.4.v20111024	config	2011-10-24T22:20:42Z	
+8.1.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.1.0.RC0/test-war-servlet25-8.1.0.RC0.jar returned status 404
 8.1.0.RC0	config	2011-11-30T21:32:02Z	
+8.1.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.1.0.RC1/test-war-servlet25-8.1.0.RC1.jar returned status 404
 8.1.0.RC1	config	2011-12-06T23:02:32Z	
+8.1.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.1.0.RC2/test-war-servlet25-8.1.0.RC2.jar returned status 404
 8.1.0.RC2	config	2011-12-22T22:21:58Z	
+8.1.0.RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.1.0.RC4/test-war-servlet25-8.1.0.RC4.jar returned status 404
 8.1.0.RC4	config	2012-01-13T19:33:46Z	
+8.1.0.RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.1.0.RC5/test-war-servlet25-8.1.0.RC5.jar returned status 404
 8.1.0.RC5	config	2012-01-20T20:44:56Z	
+8.1.0.v20120127			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/8.1.0.v20120127/test-war-servlet25-8.1.0.v20120127.jar returned status 404
 8.1.0.v20120127	config	2012-01-27T17:09:15Z	
+9.0.0.v20120203			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/9.0.0.v20120203/test-war-servlet25-9.0.0.v20120203.jar returned status 404
 9.0.0.v20120203	config	2012-02-03T20:48:11Z	
+9.0.0.v20130315			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servlet25/9.0.0.v20130315/test-war-servlet25-9.0.0.v20130315.jar returned status 404
 9.0.0.v20130315	config	2013-03-15T16:54:53Z	

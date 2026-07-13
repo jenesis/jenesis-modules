@@ -1,12 +1,24 @@
+7.0.0.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/7.0.0.RC3/test-jaas-webapp-7.0.0.RC3.jar returned status 404
 7.0.0.RC3	config	2009-08-11T13:11:31Z	
+7.0.0.RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/7.0.0.RC4/test-jaas-webapp-7.0.0.RC4.jar returned status 404
 7.0.0.RC4	config	2009-08-18T05:01:21Z	
+7.0.0.RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/7.0.0.RC5/test-jaas-webapp-7.0.0.RC5.jar returned status 404
 7.0.0.RC5	config	2009-08-27T16:01:28Z	
+7.0.0.RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/7.0.0.RC6/test-jaas-webapp-7.0.0.RC6.jar returned status 404
 7.0.0.RC6	config	2009-09-21T19:26:35Z	
+7.0.0.v20091005			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/7.0.0.v20091005/test-jaas-webapp-7.0.0.v20091005.jar returned status 404
 7.0.0.v20091005	config	2009-10-05T19:03:54Z	
+7.0.1.v20091125			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/7.0.1.v20091125/test-jaas-webapp-7.0.1.v20091125.jar returned status 404
 7.0.1.v20091125	config	2009-11-25T04:16:39Z	
+7.0.2.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/7.0.2.RC0/test-jaas-webapp-7.0.2.RC0.jar returned status 404
 7.0.2.RC0	config	2010-03-17T14:04:46Z	
+7.0.2.v20100331			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/7.0.2.v20100331/test-jaas-webapp-7.0.2.v20100331.jar returned status 404
 7.0.2.v20100331	config	2010-04-01T20:38:18Z	
+7.1.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/7.1.0.RC0/test-jaas-webapp-7.1.0.RC0.jar returned status 404
 7.1.0.RC0	config	2010-04-29T16:33:05Z	
+8.0.0.M0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/8.0.0.M0/test-jaas-webapp-8.0.0.M0.jar returned status 404
 8.0.0.M0	config	2010-03-17T16:41:12Z	
+8.0.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/8.0.0.M1/test-jaas-webapp-8.0.0.M1.jar returned status 404
 8.0.0.M1	config	2010-07-12T11:25:01Z	
+8.0.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/test-jaas-webapp/8.0.0.M2/test-jaas-webapp-8.0.0.M2.jar returned status 404
 8.0.0.M2	config	2010-11-19T20:39:27Z	

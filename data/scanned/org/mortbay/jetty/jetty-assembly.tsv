@@ -6,13 +6,21 @@
 6.1.15.pre0	site-component	2009-01-21T02:53:58Z	
 6.1.15.rc2	site-component	2009-01-23T18:39:18Z	
 6.1.16	site-component	2009-04-03T17:19:27Z	
+6.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-assembly/6.1.18/jetty-assembly-6.1.18.jar returned status 404
 6.1.18	site-component	2009-05-18T08:37:51Z	
+6.1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-assembly/6.1.19/jetty-assembly-6.1.19.jar returned status 404
 6.1.19	site-component	2009-07-03T03:21:38Z	
+6.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-assembly/6.1.20/jetty-assembly-6.1.20.jar returned status 404
 6.1.20	site-component	2009-08-27T16:39:51Z	
+6.1.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-assembly/6.1.21/jetty-assembly-6.1.21.jar returned status 404
 6.1.21	site-component	2009-09-23T01:44:16Z	
+6.1.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-assembly/6.1.24/jetty-assembly-6.1.24.jar returned status 404
 6.1.24	site-component	2010-04-21T19:01:45Z	
+6.1.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-assembly/6.1.25/jetty-assembly-6.1.25.jar returned status 404
 6.1.25	site-component	2010-07-26T13:45:15Z	
+6.1.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-assembly/6.1.26/jetty-assembly-6.1.26.jar returned status 404
 6.1.26	site-component	2010-11-10T22:18:57Z	
+6.1.26RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-assembly/6.1.26RC0/jetty-assembly-6.1.26RC0.jar returned status 404
 6.1.26RC0	site-component	2010-10-20T00:19:59Z	
 7.0.0.pre5	site-component	2008-10-30T20:55:18Z	
 7.0.0pre2	site-component	2008-06-30T13:17:14Z	
