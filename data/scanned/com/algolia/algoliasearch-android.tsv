@@ -14,5 +14,53 @@
 2.8.1		2016-04-13T17:08:57Z	
 3.0		2016-04-14T08:46:48Z	
 3.0a1		2016-04-13T08:50:35Z	
+3.0a2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.0a2/algoliasearch-android-3.0a2.jar returned status 404
 3.0a3		2016-04-13T15:13:59Z	
 3.1		2016-05-09T08:49:21Z	
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.10.0/algoliasearch-android-3.10.0.jar returned status 404
+3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.10.1/algoliasearch-android-3.10.1.jar returned status 404
+3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.11.0/algoliasearch-android-3.11.0.jar returned status 404
+3.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.12.0/algoliasearch-android-3.12.0.jar returned status 404
+3.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.12.1/algoliasearch-android-3.12.1.jar returned status 404
+3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.13.0/algoliasearch-android-3.13.0.jar returned status 404
+3.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.13.1/algoliasearch-android-3.13.1.jar returned status 404
+3.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.14.0/algoliasearch-android-3.14.0.jar returned status 404
+3.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.14.1/algoliasearch-android-3.14.1.jar returned status 404
+3.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.19.0/algoliasearch-android-3.19.0.jar returned status 404
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.2/algoliasearch-android-3.2.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.2.1/algoliasearch-android-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.2.2/algoliasearch-android-3.2.2.jar returned status 404
+3.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.0/algoliasearch-android-3.20.0.jar returned status 404
+3.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.1/algoliasearch-android-3.20.1.jar returned status 404
+3.20.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.10/algoliasearch-android-3.20.10.jar returned status 404
+3.20.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.11/algoliasearch-android-3.20.11.jar returned status 404
+3.20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.2/algoliasearch-android-3.20.2.jar returned status 404
+3.20.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.3/algoliasearch-android-3.20.3.jar returned status 404
+3.20.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.4/algoliasearch-android-3.20.4.jar returned status 404
+3.20.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.5/algoliasearch-android-3.20.5.jar returned status 404
+3.20.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.6/algoliasearch-android-3.20.6.jar returned status 404
+3.20.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.7/algoliasearch-android-3.20.7.jar returned status 404
+3.20.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.8/algoliasearch-android-3.20.8.jar returned status 404
+3.20.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.20.9/algoliasearch-android-3.20.9.jar returned status 404
+3.21.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.21.11/algoliasearch-android-3.21.11.jar returned status 404
+3.21.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.21.12/algoliasearch-android-3.21.12.jar returned status 404
+3.21.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.21.13/algoliasearch-android-3.21.13.jar returned status 404
+3.22.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.22.13/algoliasearch-android-3.22.13.jar returned status 404
+3.22.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.22.14/algoliasearch-android-3.22.14.jar returned status 404
+3.22.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.22.15/algoliasearch-android-3.22.15.jar returned status 404
+3.23.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.23.13/algoliasearch-android-3.23.13.jar returned status 404
+3.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.24.0/algoliasearch-android-3.24.0.jar returned status 404
+3.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.25.0/algoliasearch-android-3.25.0.jar returned status 404
+3.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.26.0/algoliasearch-android-3.26.0.jar returned status 404
+3.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.26.1/algoliasearch-android-3.26.1.jar returned status 404
+3.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.27.0/algoliasearch-android-3.27.0.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.3.0/algoliasearch-android-3.3.0.jar returned status 404
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.4.0/algoliasearch-android-3.4.0.jar returned status 404
+3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.4.1/algoliasearch-android-3.4.1.jar returned status 404
+3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.4.2/algoliasearch-android-3.4.2.jar returned status 404
+3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.5/algoliasearch-android-3.5.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.6.0/algoliasearch-android-3.6.0.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.7.0/algoliasearch-android-3.7.0.jar returned status 404
+3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.7.1/algoliasearch-android-3.7.1.jar returned status 404
+3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.8/algoliasearch-android-3.8.jar returned status 404
+3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-android/3.9/algoliasearch-android-3.9.jar returned status 404

@@ -18,10 +18,44 @@
 2.0.7		2023-08-26T08:01:15Z	
 2.0.8		2023-09-26T07:15:15Z	
 2.0.9		2023-11-18T18:03:44Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.1.0/bom-2.1.0.jar returned status 404
 2.1.0-M1		2024-01-07T10:37:08Z	
 2.1.0-RC1		2024-02-27T21:23:06Z	
+2.1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.1.0-RC2/bom-2.1.0-RC2.jar returned status 404
 2.10.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.10.0-M1/bom-2.10.0-M1.jar returned status 404
 2.10.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.10.0-M2/bom-2.10.0-M2.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.2.0/bom-2.2.0.jar returned status 404
+2.2.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.2.0-M1/bom-2.2.0-M1.jar returned status 404
+2.2.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.2.0-M2/bom-2.2.0-M2.jar returned status 404
+2.2.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.2.0-RC1/bom-2.2.0-RC1.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.2.1/bom-2.2.1.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.3.0/bom-2.3.0.jar returned status 404
+2.3.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.3.0-M1/bom-2.3.0-M1.jar returned status 404
+2.3.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.3.0-M2/bom-2.3.0-M2.jar returned status 404
+2.3.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.3.0-M3/bom-2.3.0-M3.jar returned status 404
+2.3.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.3.0-M4/bom-2.3.0-M4.jar returned status 404
+2.3.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.3.0-M5/bom-2.3.0-M5.jar returned status 404
+2.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.3.0-RC1/bom-2.3.0-RC1.jar returned status 404
+2.3.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.3.0-RC2/bom-2.3.0-RC2.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.3.1/bom-2.3.1.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.4.0/bom-2.4.0.jar returned status 404
+2.4.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.4.0-M1/bom-2.4.0-M1.jar returned status 404
+2.4.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.4.0-M2/bom-2.4.0-M2.jar returned status 404
+2.4.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.4.0-M3/bom-2.4.0-M3.jar returned status 404
+2.4.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.4.0-RC1/bom-2.4.0-RC1.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.5.0/bom-2.5.0.jar returned status 404
+2.5.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.5.0-M1/bom-2.5.0-M1.jar returned status 404
+2.5.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.5.0-RC1/bom-2.5.0-RC1.jar returned status 404
+2.5.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.5.0-RC2/bom-2.5.0-RC2.jar returned status 404
+2.5.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.5.0-RC3/bom-2.5.0-RC3.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.6.0/bom-2.6.0.jar returned status 404
+2.6.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.6.0-M1/bom-2.6.0-M1.jar returned status 404
+2.6.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.6.0-M2/bom-2.6.0-M2.jar returned status 404
+2.6.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.6.0-M3/bom-2.6.0-M3.jar returned status 404
+2.6.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.6.0-RC1/bom-2.6.0-RC1.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.7.0/bom-2.7.0.jar returned status 404
+2.7.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.7.0-M1/bom-2.7.0-M1.jar returned status 404
+2.7.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.7.0-RC1/bom-2.7.0-RC1.jar returned status 404
 2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.7.1/bom-2.7.1.jar returned status 404
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.8.0/bom-2.8.0.jar returned status 404
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buschmais/jqassistant/bom/2.9.0/bom-2.9.0.jar returned status 404

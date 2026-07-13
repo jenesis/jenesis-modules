@@ -1,4 +1,23 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/10.0.0/web-tester-product-10.0.0.jar returned status 404
+10.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/10.0.14/web-tester-product-10.0.14.jar returned status 404
+10.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/10.0.15/web-tester-product-10.0.15.jar returned status 404
+10.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/10.0.16/web-tester-product-10.0.16.jar returned status 404
+11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/11.1.0/web-tester-product-11.1.0.jar returned status 404
+11.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/11.2.0/web-tester-product-11.2.0.jar returned status 404
+11.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/11.2.1/web-tester-product-11.2.1.jar returned status 404
+11.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/11.3.0/web-tester-product-11.3.0.jar returned status 404
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/12.0.0/web-tester-product-12.0.0.jar returned status 404
+12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/12.0.1/web-tester-product-12.0.1.jar returned status 404
 12.0.2		2025-08-11T09:55:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/12.0.2/web-tester-product-12.0.2.jar returned status 404
 12.0.3		2026-02-27T10:45:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/12.0.3/web-tester-product-12.0.3.jar returned status 404
+13.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/13.1.0/web-tester-product-13.1.0.jar returned status 404
 13.1.1		2025-08-12T06:48:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/13.1.1/web-tester-product-13.1.1.jar returned status 404
 13.2.0		2025-12-16T13:03:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/13.2.0/web-tester-product-13.2.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/8.0.0/web-tester-product-8.0.0.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/8.0.1/web-tester-product-8.0.1.jar returned status 404
+8.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/8.0.10/web-tester-product-8.0.10.jar returned status 404
+9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/9.1.0/web-tester-product-9.1.0.jar returned status 404
+9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/9.2.0/web-tester-product-9.2.0.jar returned status 404
+9.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/9.2.1/web-tester-product-9.2.1.jar returned status 404
+9.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/9.2.2/web-tester-product-9.2.2.jar returned status 404
+9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/axonivy/ivy/webtest/web-tester-product/9.3.0/web-tester-product-9.3.0.jar returned status 404

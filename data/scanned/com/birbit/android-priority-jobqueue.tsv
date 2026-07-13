@@ -4,3 +4,14 @@
 1.3.3		2015-07-12T17:42:52Z	
 1.3.4		2015-09-13T02:58:23Z	
 1.3.5		2015-11-08T01:28:00Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/2.0.0/android-priority-jobqueue-2.0.0.jar returned status 404
+2.0.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/2.0.0-alpha1/android-priority-jobqueue-2.0.0-alpha1.jar returned status 404
+2.0.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/2.0.0-alpha2/android-priority-jobqueue-2.0.0-alpha2.jar returned status 404
+2.0.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/2.0.0-alpha3/android-priority-jobqueue-2.0.0-alpha3.jar returned status 404
+2.0.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/2.0.0-alpha4/android-priority-jobqueue-2.0.0-alpha4.jar returned status 404
+2.0.0-alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/2.0.0-alpha5/android-priority-jobqueue-2.0.0-alpha5.jar returned status 404
+2.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/2.0.0-beta1/android-priority-jobqueue-2.0.0-beta1.jar returned status 404
+2.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/2.0.0-beta2/android-priority-jobqueue-2.0.0-beta2.jar returned status 404
+2.0.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/2.0.0-beta3/android-priority-jobqueue-2.0.0-beta3.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/2.0.1/android-priority-jobqueue-2.0.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/birbit/android-priority-jobqueue/3.0.0/android-priority-jobqueue-3.0.0.jar returned status 404

@@ -5,3 +5,5 @@
 1.6		2015-04-28T13:56:26Z	
 2.0		2015-04-28T14:18:01Z	
 2.1		2015-09-01T11:38:14Z	
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcao/slf4j-timber/3.0/slf4j-timber-3.0.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/arcao/slf4j-timber/3.1/slf4j-timber-3.1.jar returned status 404
