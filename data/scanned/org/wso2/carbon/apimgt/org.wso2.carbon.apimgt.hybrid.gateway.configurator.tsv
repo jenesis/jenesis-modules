@@ -70,6 +70,24 @@
 6.4.209		2019-05-31T04:45:10Z	
 6.4.210		2019-05-31T10:12:47Z	
 6.4.211		2019-05-31T14:10:05Z	
+6.4.212			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.212/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.212.jar returned status 404
+6.4.213			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.213/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.213.jar returned status 404
+6.4.214			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.214/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.214.jar returned status 404
+6.4.215			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.215/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.215.jar returned status 404
+6.4.216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.216/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.216.jar returned status 404
+6.4.217			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.217/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.217.jar returned status 404
+6.4.218			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.218/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.218.jar returned status 404
+6.4.219			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.219/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.219.jar returned status 404
+6.4.221			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.221/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.221.jar returned status 404
+6.4.222			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.222/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.222.jar returned status 404
+6.4.223			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.223/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.223.jar returned status 404
+6.4.224			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.224/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.224.jar returned status 404
+6.4.225			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.225/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.225.jar returned status 404
+6.4.226			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.226/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.226.jar returned status 404
+6.4.227			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.227/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.227.jar returned status 404
+6.4.228			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.228/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.228.jar returned status 404
+6.4.229			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.229/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.229.jar returned status 404
+6.4.230			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.hybrid.gateway.configurator/6.4.230/org.wso2.carbon.apimgt.hybrid.gateway.configurator-6.4.230.jar returned status 404
 6.5.121		2019-09-21T11:54:55Z	
 6.5.122		2019-09-23T14:30:39Z	
 6.5.123		2019-09-23T15:36:56Z	
