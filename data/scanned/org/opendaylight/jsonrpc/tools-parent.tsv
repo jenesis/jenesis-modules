@@ -3,6 +3,7 @@
 1.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.10.2/tools-parent-1.10.2.jar returned status 404
 1.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.10.3/tools-parent-1.10.3.jar returned status 404
 1.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.10.4/tools-parent-1.10.4.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.11.0/tools-parent-1.11.0.jar returned status 404
 1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.11.1/tools-parent-1.11.1.jar returned status 404
 1.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.11.2/tools-parent-1.11.2.jar returned status 404
 1.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.11.3/tools-parent-1.11.3.jar returned status 404
@@ -35,6 +36,7 @@
 1.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.18.2/tools-parent-1.18.2.jar returned status 404
 1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.19.0/tools-parent-1.19.0.jar returned status 404
 1.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.19.1/tools-parent-1.19.1.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.9.0/tools-parent-1.9.0.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.9.1/tools-parent-1.9.1.jar returned status 404
 1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.9.2/tools-parent-1.9.2.jar returned status 404
 1.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/tools-parent/1.9.3/tools-parent-1.9.3.jar returned status 404

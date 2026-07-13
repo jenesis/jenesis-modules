@@ -43,17 +43,31 @@
 7.6.0.v20120127	config	2012-01-27T15:44:28Z	
 8.0.0.M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.0.0.M3/test-war-servletmixed2-8.0.0.M3.jar returned status 404
 8.0.0.M3	config	2011-05-31T01:33:26Z	
+8.0.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.0.0.RC0/test-war-servletmixed2-8.0.0.RC0.jar returned status 404
 8.0.0.RC0	config	2011-08-16T15:38:36Z	
+8.0.0.v20110901			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.0.0.v20110901/test-war-servletmixed2-8.0.0.v20110901.jar returned status 404
 8.0.0.v20110901	config	2011-09-01T20:01:32Z	
+8.0.1.v20110908			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.0.1.v20110908/test-war-servletmixed2-8.0.1.v20110908.jar returned status 404
 8.0.1.v20110908	config	2011-09-08T19:32:05Z	
+8.0.2.v20111006			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.0.2.v20111006/test-war-servletmixed2-8.0.2.v20111006.jar returned status 404
 8.0.2.v20111006	config	2011-10-07T01:31:09Z	
+8.0.3.v20111011			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.0.3.v20111011/test-war-servletmixed2-8.0.3.v20111011.jar returned status 404
 8.0.3.v20111011	config	2011-10-11T16:23:39Z	
+8.0.4.v20111024			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.0.4.v20111024/test-war-servletmixed2-8.0.4.v20111024.jar returned status 404
 8.0.4.v20111024	config	2011-10-24T22:20:49Z	
+8.1.0.RC0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.1.0.RC0/test-war-servletmixed2-8.1.0.RC0.jar returned status 404
 8.1.0.RC0	config	2011-11-30T21:32:22Z	
+8.1.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.1.0.RC1/test-war-servletmixed2-8.1.0.RC1.jar returned status 404
 8.1.0.RC1	config	2011-12-06T23:02:39Z	
+8.1.0.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.1.0.RC2/test-war-servletmixed2-8.1.0.RC2.jar returned status 404
 8.1.0.RC2	config	2011-12-22T22:22:06Z	
+8.1.0.RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.1.0.RC4/test-war-servletmixed2-8.1.0.RC4.jar returned status 404
 8.1.0.RC4	config	2012-01-13T19:33:54Z	
+8.1.0.RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.1.0.RC5/test-war-servletmixed2-8.1.0.RC5.jar returned status 404
 8.1.0.RC5	config	2012-01-20T20:45:03Z	
+8.1.0.v20120127			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/8.1.0.v20120127/test-war-servletmixed2-8.1.0.v20120127.jar returned status 404
 8.1.0.v20120127	config	2012-01-27T17:09:21Z	
+9.0.0.v20120203			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/9.0.0.v20120203/test-war-servletmixed2-9.0.0.v20120203.jar returned status 404
 9.0.0.v20120203	config	2012-02-03T20:48:18Z	
+9.0.0.v20130315			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/testwars/test-war-servletmixed2/9.0.0.v20130315/test-war-servletmixed2-9.0.0.v20130315.jar returned status 404
 9.0.0.v20130315	config	2013-03-15T16:55:02Z	

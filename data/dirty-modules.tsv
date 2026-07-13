@@ -1714,3 +1714,5 @@ org.bouncycastle.fips.core
 org.bouncycastle.mls
 org.bouncycastle.fips.tls
 org.bouncycastle.fips.util
+org.mortbay.apache.el
+org.mortbay.apache.jasper

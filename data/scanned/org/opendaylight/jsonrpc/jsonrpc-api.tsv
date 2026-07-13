@@ -3,6 +3,7 @@
 1.10.2		2021-08-12T07:14:25Z	
 1.10.3		2021-11-04T01:42:26Z	
 1.10.4		2022-01-28T11:31:08Z	
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/jsonrpc-api/1.11.0/jsonrpc-api-1.11.0.jar returned status 404
 1.11.1		2021-11-26T01:32:47Z	
 1.11.2		2022-02-15T11:08:25Z	
 1.11.3		2022-05-27T01:05:35Z	

@@ -21,6 +21,7 @@
 10.1.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/10.1.48/apache-el-10.1.48.jar returned status 404
 10.1.5		2023-02-07T06:15:24Z	
 10.1.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/10.1.55/apache-el-10.1.55.jar returned status 404
+10.1.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/10.1.56/apache-el-10.1.56.jar returned status 404
 10.1.7		2023-04-03T13:59:32Z	
 11.0.0		2024-10-10T01:06:53Z	
 11.0.0-M19		2024-05-06T17:11:08Z	
@@ -30,6 +31,7 @@
 11.0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/11.0.10.1/apache-el-11.0.10.1.jar returned status 404
 11.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/11.0.18/apache-el-11.0.18.jar returned status 404
 11.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/11.0.22/apache-el-11.0.22.jar returned status 404
+11.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/11.0.23/apache-el-11.0.23.jar returned status 404
 11.0.4		2025-02-26T15:06:38Z	
 11.0.7		2025-05-28T16:22:31Z	
 11.0.9		2025-07-15T04:17:21Z	
@@ -69,6 +71,7 @@
 9.0.108.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/9.0.108.1/apache-el-9.0.108.1.jar returned status 404
 9.0.111			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/9.0.111/apache-el-9.0.111.jar returned status 404
 9.0.118			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/9.0.118/apache-el-9.0.118.jar returned status 404
+9.0.119			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jasper/apache-el/9.0.119/apache-el-9.0.119.jar returned status 404
 9.0.14		2019-01-15T03:16:50Z	
 9.0.14.1		2019-01-30T00:53:53Z	
 9.0.19		2019-04-17T01:44:50Z	

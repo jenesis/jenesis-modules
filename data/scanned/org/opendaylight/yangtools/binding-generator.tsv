@@ -1,3 +1,18 @@
+0.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.5.8/binding-generator-0.5.8.jar returned status 404
+0.5.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.5.8.1/binding-generator-0.5.8.1.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.6.0/binding-generator-0.6.0.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.6.1/binding-generator-0.6.1.jar returned status 404
+0.6.2-Helium			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.6.2-Helium/binding-generator-0.6.2-Helium.jar returned status 404
+0.6.3-Helium-SR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.6.3-Helium-SR1/binding-generator-0.6.3-Helium-SR1.jar returned status 404
+0.6.3-Helium-SR1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.6.3-Helium-SR1.1/binding-generator-0.6.3-Helium-SR1.1.jar returned status 404
+0.6.4-Helium-SR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.6.4-Helium-SR2/binding-generator-0.6.4-Helium-SR2.jar returned status 404
+0.6.5-Helium-SR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.6.5-Helium-SR3/binding-generator-0.6.5-Helium-SR3.jar returned status 404
+0.6.6-Helium-SR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.6.6-Helium-SR4/binding-generator-0.6.6-Helium-SR4.jar returned status 404
+0.7.0-Lithium			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.7.0-Lithium/binding-generator-0.7.0-Lithium.jar returned status 404
+0.7.1-Lithium-SR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.7.1-Lithium-SR1/binding-generator-0.7.1-Lithium-SR1.jar returned status 404
+0.7.2-Lithium-SR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.7.2-Lithium-SR2/binding-generator-0.7.2-Lithium-SR2.jar returned status 404
+0.7.3-Lithium-SR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.7.3-Lithium-SR3/binding-generator-0.7.3-Lithium-SR3.jar returned status 404
+0.7.4-Lithium-SR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/binding-generator/0.7.4-Lithium-SR4/binding-generator-0.7.4-Lithium-SR4.jar returned status 404
 14.0.0		2024-07-16T09:47:02Z	
 14.0.1		2024-07-25T13:59:56Z	
 14.0.10		2025-02-25T13:21:26Z	

@@ -3,6 +3,7 @@
 1.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.10.2/odl-jsonrpc-all-1.10.2.jar returned status 404
 1.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.10.3/odl-jsonrpc-all-1.10.3.jar returned status 404
 1.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.10.4/odl-jsonrpc-all-1.10.4.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.11.0/odl-jsonrpc-all-1.11.0.jar returned status 404
 1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.11.1/odl-jsonrpc-all-1.11.1.jar returned status 404
 1.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.11.2/odl-jsonrpc-all-1.11.2.jar returned status 404
 1.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.11.3/odl-jsonrpc-all-1.11.3.jar returned status 404
@@ -35,7 +36,11 @@
 1.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.18.2/odl-jsonrpc-all-1.18.2.jar returned status 404
 1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.19.0/odl-jsonrpc-all-1.19.0.jar returned status 404
 1.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.19.1/odl-jsonrpc-all-1.19.1.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.8.0/odl-jsonrpc-all-1.8.0.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.8.1/odl-jsonrpc-all-1.8.1.jar returned status 404
+1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.8.2/odl-jsonrpc-all-1.8.2.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.8.3/odl-jsonrpc-all-1.8.3.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.9.0/odl-jsonrpc-all-1.9.0.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.9.1/odl-jsonrpc-all-1.9.1.jar returned status 404
 1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.9.2/odl-jsonrpc-all-1.9.2.jar returned status 404
 1.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/odl-jsonrpc-all/1.9.3/odl-jsonrpc-all-1.9.3.jar returned status 404

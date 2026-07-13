@@ -1,2 +1,4 @@
+7.0.0.1beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-test-jndi-webapp/7.0.0.1beta2/jetty-test-jndi-webapp-7.0.0.1beta2.jar returned status 404
 7.0.0.1beta2	config	2009-06-22T01:29:28Z	
+7.0.0.1beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mortbay/jetty/jetty-test-jndi-webapp/7.0.0.1beta3/jetty-test-jndi-webapp-7.0.0.1beta3.jar returned status 404
 7.0.0.1beta3	config	2009-07-02T08:25:52Z	

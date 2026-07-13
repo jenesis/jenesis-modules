@@ -1,5 +1,10 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/ietf-artifacts/1.0.0/ietf-artifacts-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/ietf-artifacts/1.0.1/ietf-artifacts-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/ietf-artifacts/1.0.2/ietf-artifacts-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/ietf-artifacts/1.0.3/ietf-artifacts-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/ietf-artifacts/1.0.4/ietf-artifacts-1.0.4.jar returned status 404
 1.0.5		2026-06-09T15:15:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/ietf-artifacts/1.0.5/ietf-artifacts-1.0.5.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/ietf-artifacts/2.0.0/ietf-artifacts-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/ietf-artifacts/2.0.1/ietf-artifacts-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/ietf-artifacts/2.0.2/ietf-artifacts-2.0.2.jar returned status 404
 2.0.3		2026-06-10T03:09:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/ietf-artifacts/2.0.3/ietf-artifacts-2.0.3.jar returned status 404

@@ -1,5 +1,12 @@
 1.0.0		2013-12-10T12:44:41Z	
 1.0.1		2013-12-10T17:07:30Z	
+1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/defense4all/webgui/1.0.12/webgui-1.0.12.jar returned status 404
+1.0.14-Helium			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/defense4all/webgui/1.0.14-Helium/webgui-1.0.14-Helium.jar returned status 404
+1.0.15-Helium-SR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/defense4all/webgui/1.0.15-Helium-SR1/webgui-1.0.15-Helium-SR1.jar returned status 404
+1.0.15-Helium-SR1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/defense4all/webgui/1.0.15-Helium-SR1.1/webgui-1.0.15-Helium-SR1.1.jar returned status 404
+1.0.16-Helium-SR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/defense4all/webgui/1.0.16-Helium-SR2/webgui-1.0.16-Helium-SR2.jar returned status 404
+1.0.17-Helium-SR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/defense4all/webgui/1.0.17-Helium-SR3/webgui-1.0.17-Helium-SR3.jar returned status 404
+1.0.18-Helium-SR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/defense4all/webgui/1.0.18-Helium-SR4/webgui-1.0.18-Helium-SR4.jar returned status 404
 1.0.3		2014-01-09T16:04:04Z	
 1.0.4		2014-01-15T15:36:57Z	
 1.0.5		2014-01-21T14:40:11Z	
