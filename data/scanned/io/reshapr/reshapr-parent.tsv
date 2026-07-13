@@ -10,3 +10,4 @@
 0.0.7		2026-03-30T17:31:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reshapr/reshapr-parent/0.0.7/reshapr-parent-0.0.7.jar returned status 404
 0.0.8		2026-04-03T09:59:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reshapr/reshapr-parent/0.0.8/reshapr-parent-0.0.8.jar returned status 404
 0.0.9		2026-04-17T13:20:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reshapr/reshapr-parent/0.0.9/reshapr-parent-0.0.9.jar returned status 404
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/reshapr/reshapr-parent/0.1.0/reshapr-parent-0.1.0.jar returned status 404
