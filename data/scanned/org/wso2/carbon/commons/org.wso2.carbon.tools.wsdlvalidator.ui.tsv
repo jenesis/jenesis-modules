@@ -15,6 +15,7 @@
 4.10.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/commons/org.wso2.carbon.tools.wsdlvalidator.ui/4.10.22/org.wso2.carbon.tools.wsdlvalidator.ui-4.10.22.jar returned status 404
 4.10.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/commons/org.wso2.carbon.tools.wsdlvalidator.ui/4.10.23/org.wso2.carbon.tools.wsdlvalidator.ui-4.10.23.jar returned status 404
 4.10.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/commons/org.wso2.carbon.tools.wsdlvalidator.ui/4.10.24/org.wso2.carbon.tools.wsdlvalidator.ui-4.10.24.jar returned status 404
+4.10.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/commons/org.wso2.carbon.tools.wsdlvalidator.ui/4.10.25/org.wso2.carbon.tools.wsdlvalidator.ui-4.10.25.jar returned status 404
 4.10.3		2023-04-24T09:05:42Z	
 4.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/commons/org.wso2.carbon.tools.wsdlvalidator.ui/4.10.4/org.wso2.carbon.tools.wsdlvalidator.ui-4.10.4.jar returned status 404
 4.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/commons/org.wso2.carbon.tools.wsdlvalidator.ui/4.10.5/org.wso2.carbon.tools.wsdlvalidator.ui-4.10.5.jar returned status 404
@@ -22,6 +23,8 @@
 4.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/commons/org.wso2.carbon.tools.wsdlvalidator.ui/4.10.7/org.wso2.carbon.tools.wsdlvalidator.ui-4.10.7.jar returned status 404
 4.10.8		2024-02-08T06:45:18Z	
 4.10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/commons/org.wso2.carbon.tools.wsdlvalidator.ui/4.10.9/org.wso2.carbon.tools.wsdlvalidator.ui-4.10.9.jar returned status 404
+4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/commons/org.wso2.carbon.tools.wsdlvalidator.ui/4.11.0/org.wso2.carbon.tools.wsdlvalidator.ui-4.11.0.jar returned status 404
+4.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/commons/org.wso2.carbon.tools.wsdlvalidator.ui/4.11.1/org.wso2.carbon.tools.wsdlvalidator.ui-4.11.1.jar returned status 404
 4.11.2		2025-11-25T02:52:12Z	
 4.12.0		2026-02-12T09:24:40Z	
 4.13.0		2026-02-18T10:51:34Z	
