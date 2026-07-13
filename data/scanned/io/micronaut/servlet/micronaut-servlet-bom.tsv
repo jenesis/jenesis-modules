@@ -1,3 +1,4 @@
+.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/servlet/micronaut-servlet-bom/.9.3/micronaut-servlet-bom-.9.3.jar returned status 404
 3.2.0		2022-02-02T13:58:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/servlet/micronaut-servlet-bom/3.2.0/micronaut-servlet-bom-3.2.0.jar returned status 404
 3.2.1		2022-03-13T23:04:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/servlet/micronaut-servlet-bom/3.2.1/micronaut-servlet-bom-3.2.1.jar returned status 404
 3.2.2		2022-03-24T10:26:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/servlet/micronaut-servlet-bom/3.2.2/micronaut-servlet-bom-3.2.2.jar returned status 404
@@ -69,3 +70,4 @@
 6.0.0-M2		2026-02-18T15:25:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/servlet/micronaut-servlet-bom/6.0.0-M2/micronaut-servlet-bom-6.0.0-M2.jar returned status 404
 6.0.0-M3		2026-04-17T13:38:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/servlet/micronaut-servlet-bom/6.0.0-M3/micronaut-servlet-bom-6.0.0-M3.jar returned status 404
 6.0.0-RC1		2026-05-07T07:29:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/servlet/micronaut-servlet-bom/6.0.0-RC1/micronaut-servlet-bom-6.0.0-RC1.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/servlet/micronaut-servlet-bom/6.1.0/micronaut-servlet-bom-6.1.0.jar returned status 404

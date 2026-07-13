@@ -115,3 +115,4 @@
 6.0.0-M2		2026-04-21T06:05:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/oraclecloud/micronaut-oraclecloud-bom/6.0.0-M2/micronaut-oraclecloud-bom-6.0.0-M2.jar returned status 404
 6.0.0-RC1		2026-05-11T09:56:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/oraclecloud/micronaut-oraclecloud-bom/6.0.0-RC1/micronaut-oraclecloud-bom-6.0.0-RC1.jar returned status 404
 6.0.0-RC2		2026-05-11T19:28:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/oraclecloud/micronaut-oraclecloud-bom/6.0.0-RC2/micronaut-oraclecloud-bom-6.0.0-RC2.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/oraclecloud/micronaut-oraclecloud-bom/6.0.1/micronaut-oraclecloud-bom-6.0.1.jar returned status 404

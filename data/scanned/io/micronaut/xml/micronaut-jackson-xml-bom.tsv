@@ -18,3 +18,4 @@
 5.0.0-M1		2026-02-19T17:46:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/xml/micronaut-jackson-xml-bom/5.0.0-M1/micronaut-jackson-xml-bom-5.0.0-M1.jar returned status 404
 5.0.0-M2		2026-04-22T04:47:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/xml/micronaut-jackson-xml-bom/5.0.0-M2/micronaut-jackson-xml-bom-5.0.0-M2.jar returned status 404
 5.0.0-RC1		2026-05-06T13:51:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/xml/micronaut-jackson-xml-bom/5.0.0-RC1/micronaut-jackson-xml-bom-5.0.0-RC1.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/xml/micronaut-jackson-xml-bom/5.1.0/micronaut-jackson-xml-bom-5.1.0.jar returned status 404

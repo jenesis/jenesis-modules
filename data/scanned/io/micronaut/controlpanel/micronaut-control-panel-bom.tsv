@@ -1,3 +1,4 @@
+.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/controlpanel/micronaut-control-panel-bom/.0.1/micronaut-control-panel-bom-.0.1.jar returned status 404
 1.0.0		2023-07-13T10:11:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/controlpanel/micronaut-control-panel-bom/1.0.0/micronaut-control-panel-bom-1.0.0.jar returned status 404
 1.0.0-M1		2023-06-21T16:10:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/controlpanel/micronaut-control-panel-bom/1.0.0-M1/micronaut-control-panel-bom-1.0.0-M1.jar returned status 404
 1.0.0-M2		2023-07-06T13:12:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/controlpanel/micronaut-control-panel-bom/1.0.0-M2/micronaut-control-panel-bom-1.0.0-M2.jar returned status 404

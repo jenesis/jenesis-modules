@@ -26,6 +26,8 @@
 7.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/7.22.4/sentry-android-replay-7.22.4.jar returned status 404
 7.22.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/7.22.5/sentry-android-replay-7.22.5.jar returned status 404
 7.22.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/7.22.6/sentry-android-replay-7.22.6.jar returned status 404
+7.8.0-alpha.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/7.8.0-alpha.0/sentry-android-replay-7.8.0-alpha.0.jar returned status 404
+7.9.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/7.9.0-alpha.1/sentry-android-replay-7.9.0-alpha.1.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/8.0.0/sentry-android-replay-8.0.0.jar returned status 404
 8.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/8.0.0-beta.1/sentry-android-replay-8.0.0-beta.1.jar returned status 404
 8.0.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/8.0.0-beta.2/sentry-android-replay-8.0.0-beta.2.jar returned status 404
@@ -98,6 +100,7 @@
 8.45.0		2026-06-24T15:49:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/8.45.0/sentry-android-replay-8.45.0.jar returned status 404
 8.46.0		2026-06-25T14:50:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/8.46.0/sentry-android-replay-8.46.0.jar returned status 404
 8.47.0		2026-07-02T10:11:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/8.47.0/sentry-android-replay-8.47.0.jar returned status 404
+8.48.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/8.48.0/sentry-android-replay-8.48.0.jar returned status 404
 8.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/8.5.0/sentry-android-replay-8.5.0.jar returned status 404
 8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/8.6.0/sentry-android-replay-8.6.0.jar returned status 404
 8.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-replay/8.7.0/sentry-android-replay-8.7.0.jar returned status 404
