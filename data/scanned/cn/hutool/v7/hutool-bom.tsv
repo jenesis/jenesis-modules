@@ -4,3 +4,4 @@
 7.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/hutool/v7/hutool-bom/7.0.0-M4/hutool-bom-7.0.0-M4.jar returned status 404
 7.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/hutool/v7/hutool-bom/7.0.0-M5/hutool-bom-7.0.0-M5.jar returned status 404
 7.0.0-M6		2026-05-27T03:11:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/hutool/v7/hutool-bom/7.0.0-M6/hutool-bom-7.0.0-M6.jar returned status 404
+7.0.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/hutool/v7/hutool-bom/7.0.0-M7/hutool-bom-7.0.0-M7.jar returned status 404

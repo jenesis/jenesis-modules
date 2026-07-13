@@ -1,5 +1,7 @@
 1.0.1.RELEASE		2020-12-26T14:00:43Z	
+1.0.1.SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-common/1.0.1.SNAPSHOT/structure-common-1.0.1.SNAPSHOT.jar returned status 404
 1.0.2.RELEASE		2022-05-07T16:48:09Z	
+1.0.2.SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-common/1.0.2.SNAPSHOT/structure-common-1.0.2.SNAPSHOT.jar returned status 404
 1.1.0		2024-07-17T11:23:51Z	
 1.1.0.RELEASE		2022-05-16T12:51:53Z	
 1.1.2.RELEASE		2022-05-16T13:59:31Z	

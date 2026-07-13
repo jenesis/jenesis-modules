@@ -1,13 +1,25 @@
 2.0.10	assembly-resources	2021-02-11T10:34:33Z	
 2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.0.6/albirar-root-dependencies-2.0.6.jar returned status 404
+2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.0.7/albirar-root-dependencies-2.0.7.jar returned status 404
+2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.0.8/albirar-root-dependencies-2.0.8.jar returned status 404
 2.0.8	assembly-resources	2021-01-21T12:30:43Z	
+2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.0.9/albirar-root-dependencies-2.0.9.jar returned status 404
 2.0.9	assembly-resources	2021-01-21T17:30:19Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.1.0/albirar-root-dependencies-2.1.0.jar returned status 404
 2.1.0	assembly-resources	2021-02-16T10:15:51Z	
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.1.1/albirar-root-dependencies-2.1.1.jar returned status 404
 2.1.1	assembly-resources	2021-06-03T13:59:08Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.2.0/albirar-root-dependencies-2.2.0.jar returned status 404
 2.2.0	assembly-resources	2021-06-09T21:31:51Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.3.0/albirar-root-dependencies-2.3.0.jar returned status 404
 2.3.0	assembly-resources	2021-06-12T14:53:32Z	
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.4.0/albirar-root-dependencies-2.4.0.jar returned status 404
 2.4.0	assembly-resources	2021-06-12T17:12:17Z	
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.4.1/albirar-root-dependencies-2.4.1.jar returned status 404
 2.4.1	assembly-resources	2021-06-12T19:44:51Z	
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.5.0/albirar-root-dependencies-2.5.0.jar returned status 404
 2.5.0	assembly-resources	2021-07-13T19:58:21Z	
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.5.1/albirar-root-dependencies-2.5.1.jar returned status 404
 2.5.1	assembly-resources	2021-07-13T23:54:12Z	
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cat/albirar/albirar-root-dependencies/2.6.0/albirar-root-dependencies-2.6.0.jar returned status 404
 2.6.0	assembly-resources	2021-07-15T15:55:54Z	

@@ -1,3 +1,17 @@
 1.1.0		2020-10-14T00:41:12Z	
 1.2.0		2020-11-26T09:34:27Z	
 1.2.1		2020-12-24T06:24:40Z	
+1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.10/weforward-data-1.2.10.jar returned status 404
+1.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.11/weforward-data-1.2.11.jar returned status 404
+1.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.12/weforward-data-1.2.12.jar returned status 404
+1.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.13/weforward-data-1.2.13.jar returned status 404
+1.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.15/weforward-data-1.2.15.jar returned status 404
+1.2.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.17/weforward-data-1.2.17.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.2/weforward-data-1.2.2.jar returned status 404
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.3/weforward-data-1.2.3.jar returned status 404
+1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.4/weforward-data-1.2.4.jar returned status 404
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.5/weforward-data-1.2.5.jar returned status 404
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.6/weforward-data-1.2.6.jar returned status 404
+1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.7/weforward-data-1.2.7.jar returned status 404
+1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.8/weforward-data-1.2.8.jar returned status 404
+1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/weforward/weforward-data/1.2.9/weforward-data-1.2.9.jar returned status 404
