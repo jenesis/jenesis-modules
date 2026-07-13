@@ -1,3 +1,6 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-verifier/10.0.0/drools-verifier-10.0.0.jar returned status 404
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-verifier/10.1.0/drools-verifier-10.1.0.jar returned status 404
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-verifier/10.2.0/drools-verifier-10.2.0.jar returned status 404
 5.0.0.CR1		2009-03-10T02:11:24Z	
 5.0.0.M3		2008-11-24T13:14:58Z	
 5.0.0.M4		2008-12-12T15:28:19Z	

@@ -1,2 +1,5 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/testcoverage/test-integration-ruleunits/10.0.0/test-integration-ruleunits-10.0.0.jar returned status 404
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/testcoverage/test-integration-ruleunits/10.1.0/test-integration-ruleunits-10.1.0.jar returned status 404
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/testcoverage/test-integration-ruleunits/10.2.0/test-integration-ruleunits-10.2.0.jar returned status 404
 8.33.0.Final		2023-01-23T09:41:35Z	
 8.34.0.Final		2023-02-09T09:09:50Z	

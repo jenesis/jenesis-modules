@@ -2,3 +2,4 @@
 5.1.0.CR1		2010-07-23T08:11:04Z	
 5.1.0.M2		2010-05-26T22:32:31Z	
 5.1.1		2010-08-24T09:40:17Z	
+5.2.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-ide-common/5.2.0.M1/drools-ide-common-5.2.0.M1.jar returned status 404

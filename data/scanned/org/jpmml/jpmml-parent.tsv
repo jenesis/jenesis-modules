@@ -1,3 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.0/jpmml-parent-1.0.0.jar returned status 404
 1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.10/jpmml-parent-1.0.10.jar returned status 404
 1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.11/jpmml-parent-1.0.11.jar returned status 404
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.12/jpmml-parent-1.0.12.jar returned status 404
@@ -8,8 +9,12 @@
 1.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.17/jpmml-parent-1.0.17.jar returned status 404
 1.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.18/jpmml-parent-1.0.18.jar returned status 404
 1.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.19/jpmml-parent-1.0.19.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.2/jpmml-parent-1.0.2.jar returned status 404
 1.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.20/jpmml-parent-1.0.20.jar returned status 404
 1.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.21/jpmml-parent-1.0.21.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.3/jpmml-parent-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.4/jpmml-parent-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.5/jpmml-parent-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.6/jpmml-parent-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.7/jpmml-parent-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-parent/1.0.8/jpmml-parent-1.0.8.jar returned status 404

@@ -1,3 +1,11 @@
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-repository/4.0.0/drools-repository-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-repository/4.0.1/drools-repository-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-repository/4.0.2/drools-repository-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-repository/4.0.3/drools-repository-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-repository/4.0.4/drools-repository-4.0.4.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-repository/4.0.5/drools-repository-4.0.5.jar returned status 404
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-repository/4.0.6/drools-repository-4.0.6.jar returned status 404
+4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-repository/4.0.7/drools-repository-4.0.7.jar returned status 404
 5.0.0.CR1		2009-03-10T01:51:36Z	
 5.0.0.M3		2008-11-24T13:14:58Z	
 5.0.0.M4		2008-12-12T15:28:19Z	
@@ -8,3 +16,4 @@
 5.1.0.M1		2009-10-03T10:27:58Z	
 5.1.0.M2		2010-05-26T22:34:06Z	
 5.1.1		2010-08-24T09:43:37Z	
+5.2.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-repository/5.2.0.M1/drools-repository-5.2.0.M1.jar returned status 404

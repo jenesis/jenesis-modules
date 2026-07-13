@@ -1,2 +1,8 @@
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/client/cas-client/4.0.0/cas-client-4.0.0.jar returned status 404
+4.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/client/cas-client/4.0.0-RC1/cas-client-4.0.0-RC1.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/client/cas-client/4.0.1/cas-client-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/client/cas-client/4.0.2/cas-client-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/client/cas-client/4.0.3/cas-client-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/client/cas-client/4.0.4/cas-client-4.0.4.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/client/cas-client/4.1.0/cas-client-4.1.0.jar returned status 404
 4.1.1		2026-05-20T19:34:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/client/cas-client/4.1.1/cas-client-4.1.1.jar returned status 404

@@ -1,8 +1,13 @@
+5.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-pipeline/5.0.0.CR1/drools-pipeline-5.0.0.CR1.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-pipeline/5.0.1/drools-pipeline-5.0.1.jar returned status 404
 5.1.0		2010-08-01T09:22:24Z	
 5.1.0.CR1		2010-07-23T08:56:03Z	
+5.1.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-pipeline/5.1.0.M1/drools-pipeline-5.1.0.M1.jar returned status 404
+5.1.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-pipeline/5.1.0.M2/drools-pipeline-5.1.0.M2.jar returned status 404
 5.1.1		2010-08-24T09:49:34Z	
 5.2.0.CR1		2011-05-26T15:45:48Z	
 5.2.0.Final		2011-06-23T10:38:13Z	
+5.2.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drools/drools-pipeline/5.2.0.M1/drools-pipeline-5.2.0.M1.jar returned status 404
 5.2.0.M2		2011-04-21T15:41:33Z	
 5.2.1.Final		2011-09-20T18:44:25Z	
 5.3.0.Beta1		2011-08-08T18:18:48Z	

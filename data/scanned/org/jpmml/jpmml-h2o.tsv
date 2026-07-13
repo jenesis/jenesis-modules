@@ -19,6 +19,24 @@
 1.1.6		2021-06-27T07:04:29Z	
 1.1.7		2021-08-12T13:49:18Z	
 1.1.8		2021-09-30T05:04:24Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.0/jpmml-h2o-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.1/jpmml-h2o-1.2.1.jar returned status 404
+1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.10/jpmml-h2o-1.2.10.jar returned status 404
+1.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.11/jpmml-h2o-1.2.11.jar returned status 404
+1.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.12/jpmml-h2o-1.2.12.jar returned status 404
+1.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.13/jpmml-h2o-1.2.13.jar returned status 404
+1.2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.14/jpmml-h2o-1.2.14.jar returned status 404
+1.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.15/jpmml-h2o-1.2.15.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.2/jpmml-h2o-1.2.2.jar returned status 404
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.3/jpmml-h2o-1.2.3.jar returned status 404
+1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.4/jpmml-h2o-1.2.4.jar returned status 404
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.5/jpmml-h2o-1.2.5.jar returned status 404
+1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.6/jpmml-h2o-1.2.6.jar returned status 404
+1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.7/jpmml-h2o-1.2.7.jar returned status 404
+1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.8/jpmml-h2o-1.2.8.jar returned status 404
+1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.2.9/jpmml-h2o-1.2.9.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.3.0/jpmml-h2o-1.3.0.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.3.1/jpmml-h2o-1.3.1.jar returned status 404
 1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.3.2/jpmml-h2o-1.3.2.jar returned status 404
 1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.3.3/jpmml-h2o-1.3.3.jar returned status 404
 1.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-h2o/1.3.4/jpmml-h2o-1.3.4.jar returned status 404
