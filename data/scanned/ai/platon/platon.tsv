@@ -1,2 +1,12 @@
+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/3/platon-3.jar returned status 404
 3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/3.1/platon-3.1.jar returned status 404
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/3.3/platon-3.3.jar returned status 404
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/3.4/platon-3.4.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/3.6.0/platon-3.6.0.jar returned status 404
+3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/3.6.1/platon-3.6.1.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/3.7.0/platon-3.7.0.jar returned status 404
+3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/3.7.1/platon-3.7.1.jar returned status 404
+3.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/3.7.3/platon-3.7.3.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/4.0.1/platon-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/4.0.2/platon-4.0.2.jar returned status 404
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/platon/4.0.3/platon-4.0.3.jar returned status 404

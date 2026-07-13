@@ -1837,3 +1837,4 @@ ai.timefold.solver.quarkus.benchmark.deployment
 ai.timefold.solver.jpa
 ai.timefold.solver.jackson
 ai.timefold.solver.migration
+ai.singlr.scimsql

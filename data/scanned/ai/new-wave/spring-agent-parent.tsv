@@ -31,3 +31,4 @@
 1.6.0		2026-06-08T13:17:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/new-wave/spring-agent-parent/1.6.0/spring-agent-parent-1.6.0.jar returned status 404
 1.6.1		2026-06-08T13:43:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/new-wave/spring-agent-parent/1.6.1/spring-agent-parent-1.6.1.jar returned status 404
 1.7.0		2026-06-10T22:54:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/new-wave/spring-agent-parent/1.7.0/spring-agent-parent-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/new-wave/spring-agent-parent/1.8.0/spring-agent-parent-1.8.0.jar returned status 404
