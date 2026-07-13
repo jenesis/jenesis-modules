@@ -41,6 +41,7 @@
 0.45.0		2026-06-10T14:28:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose/0.45.0/sdds-uikit-compose-0.45.0.jar returned status 404
 0.46.0		2026-06-24T13:49:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose/0.46.0/sdds-uikit-compose-0.46.0.jar returned status 404
 0.46.1		2026-07-02T07:45:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose/0.46.1/sdds-uikit-compose-0.46.1.jar returned status 404
+0.47.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose/0.47.0/sdds-uikit-compose-0.47.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose/0.5.0/sdds-uikit-compose-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose/0.6.0/sdds-uikit-compose-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose/0.7.0/sdds-uikit-compose-0.7.0.jar returned status 404

@@ -1,5 +1,9 @@
 1.4.1-release		2023-04-17T08:08:05Z	
 1.4.10		2024-08-01T07:56:48Z	
+1.4.3-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/francis200214/biz-all/1.4.3-release/biz-all-1.4.3-release.jar returned status 404
+1.4.4-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/francis200214/biz-all/1.4.4-release/biz-all-1.4.4-release.jar returned status 404
+1.4.5-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/francis200214/biz-all/1.4.5-release/biz-all-1.4.5-release.jar returned status 404
+1.4.6-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/francis200214/biz-all/1.4.6-release/biz-all-1.4.6-release.jar returned status 404
 1.4.7		2024-07-31T02:28:49Z	
 1.4.8		2024-08-01T02:43:47Z	
 1.4.9-release		2024-08-01T07:34:38Z	

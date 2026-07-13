@@ -3,3 +3,5 @@
 1.0.3		2022-03-20T11:34:50Z	
 1.0.4		2022-04-02T07:12:10Z	
 1.0.5		2022-04-23T15:12:28Z	
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyh200/dynamic-tp-adapter/1.0.6/dynamic-tp-adapter-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyh200/dynamic-tp-adapter/1.0.7/dynamic-tp-adapter-1.0.7.jar returned status 404

@@ -1,3 +1,4 @@
+${revision}			IllegalArgumentException: Illegal character in path at index 46: io/github/taikonaut3/virtue-dependencies-bom/${revision}/virtue-dependencies-bom-${revision}.jar
 0.0.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/taikonaut3/virtue-dependencies-bom/0.0.1-alpha/virtue-dependencies-bom-0.0.1-alpha.jar returned status 404
 0.0.10-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/taikonaut3/virtue-dependencies-bom/0.0.10-alpha/virtue-dependencies-bom-0.0.10-alpha.jar returned status 404
 0.0.11-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/taikonaut3/virtue-dependencies-bom/0.0.11-alpha/virtue-dependencies-bom-0.0.11-alpha.jar returned status 404

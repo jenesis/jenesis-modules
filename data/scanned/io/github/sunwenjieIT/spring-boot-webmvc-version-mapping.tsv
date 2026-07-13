@@ -1,3 +1,4 @@
 1.0.0-RELEASE		2021-04-12T12:33:07Z	
 1.0.1-RELEASE		2021-04-12T13:09:04Z	
 1.0.2-RELEASE		2021-04-13T02:24:21Z	
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sunwenjieIT/spring-boot-webmvc-version-mapping/2.0.5/spring-boot-webmvc-version-mapping-2.0.5.jar returned status 404

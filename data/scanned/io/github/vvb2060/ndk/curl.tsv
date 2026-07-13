@@ -15,6 +15,8 @@
 8.10.0-lto-ndk27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/curl/8.10.0-lto-ndk27/curl-8.10.0-lto-ndk27.jar returned status 404
 8.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/curl/8.12.0/curl-8.12.0.jar returned status 404
 8.12.0-lto-ndk28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/curl/8.12.0-lto-ndk28/curl-8.12.0-lto-ndk28.jar returned status 404
+8.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/curl/8.18.0/curl-8.18.0.jar returned status 404
+8.18.0-lto-ndk29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/curl/8.18.0-lto-ndk29/curl-8.18.0-lto-ndk29.jar returned status 404
 8.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/curl/8.2.1/curl-8.2.1.jar returned status 404
 8.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/curl/8.3.0/curl-8.3.0.jar returned status 404
 8.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/curl/8.4.0/curl-8.4.0.jar returned status 404

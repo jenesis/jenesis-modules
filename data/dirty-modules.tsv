@@ -2432,3 +2432,7 @@ com.github.maeda6uiui.mechtatel.audio.natives.windows
 com.github.maeda6uiui.mechtatel.common.utils
 org.example.functionapi
 org.paramcalc.functionapi
+jeeware.cloud.lock4j
+io.github.eckig.libavoid
+io.github.chrimle.exceptionfactory
+io.github.chrimle.semver

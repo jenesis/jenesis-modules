@@ -9,6 +9,10 @@
 1.0.0+1.20.4		2024-07-21T16:42:19Z	
 1.0.0+1.20.5		2024-07-21T16:50:37Z	
 1.0.0+1.21		2024-07-21T16:53:15Z	
+1.0.01.14.4patch.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.0.01.14.4patch.4/cute-translation-api-1.0.01.14.4patch.4.jar returned status 404
+1.0.01.14.4patch.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.0.01.14.4patch.5/cute-translation-api-1.0.01.14.4patch.5.jar returned status 404
+1.0.01.20.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.0.01.20.4/cute-translation-api-1.0.01.20.4.jar returned status 404
+1.0.01.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.0.01.21/cute-translation-api-1.0.01.21.jar returned status 404
 1.1.0+1.14.4		2024-07-22T12:31:54Z	
 1.1.0+1.14.4+patch.1		2024-07-22T16:52:21Z	
 1.1.0+1.14.4+patch.2		2024-08-05T17:19:41Z	
@@ -30,3 +34,13 @@
 1.1.0+1.21		2024-07-22T12:51:33Z	
 1.1.0+1.21+patch.1		2024-07-22T17:13:06Z	
 1.1.0+1.21+patch.2		2024-08-05T16:31:58Z	
+1.1.01.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.1.01.14.4/cute-translation-api-1.1.01.14.4.jar returned status 404
+1.1.01.14.4patch.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.1.01.14.4patch.2/cute-translation-api-1.1.01.14.4patch.2.jar returned status 404
+1.1.01.16.2patch.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.1.01.16.2patch.2/cute-translation-api-1.1.01.16.2patch.2.jar returned status 404
+1.1.01.19patch.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.1.01.19patch.1/cute-translation-api-1.1.01.19patch.1.jar returned status 404
+1.1.01.20.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.1.01.20.3/cute-translation-api-1.1.01.20.3.jar returned status 404
+1.1.01.20.4patch.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.1.01.20.4patch.2/cute-translation-api-1.1.01.20.4patch.2.jar returned status 404
+1.1.01.20.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.1.01.20.5/cute-translation-api-1.1.01.20.5.jar returned status 404
+1.1.01.20.5patch.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.1.01.20.5patch.2/cute-translation-api-1.1.01.20.5patch.2.jar returned status 404
+1.1.01.21patch.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.1.01.21patch.1/cute-translation-api-1.1.01.21patch.1.jar returned status 404
+1.1.01.21patch.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gdrfgdrf/cutetranslationapi/cute-translation-api/1.1.01.21patch.2/cute-translation-api-1.1.01.21patch.2.jar returned status 404

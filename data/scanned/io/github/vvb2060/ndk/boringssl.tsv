@@ -3,6 +3,8 @@
 20241024-lto-ndk27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/boringssl/20241024-lto-ndk27/boringssl-20241024-lto-ndk27.jar returned status 404
 20250114			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/boringssl/20250114/boringssl-20250114.jar returned status 404
 20250114-lto-ndk28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/boringssl/20250114-lto-ndk28/boringssl-20250114-lto-ndk28.jar returned status 404
+20251124			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/boringssl/20251124/boringssl-20251124.jar returned status 404
+20251124-lto-ndk29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/boringssl/20251124-lto-ndk29/boringssl-20251124-lto-ndk29.jar returned status 404
 3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/boringssl/3.0/boringssl-3.0.jar returned status 404
 3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/boringssl/3.1/boringssl-3.1.jar returned status 404
 4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vvb2060/ndk/boringssl/4.0/boringssl-4.0.jar returned status 404
