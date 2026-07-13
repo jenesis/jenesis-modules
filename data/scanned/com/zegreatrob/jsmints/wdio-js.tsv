@@ -1184,7 +1184,10 @@
 6.11.85		2026-06-29T17:48:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdio-js/6.11.85/wdio-js-6.11.85.jar returned status 404
 6.11.86		2026-07-01T17:25:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdio-js/6.11.86/wdio-js-6.11.86.jar returned status 404
 6.11.87		2026-07-02T17:03:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdio-js/6.11.87/wdio-js-6.11.87.jar returned status 404
+6.11.88			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdio-js/6.11.88/wdio-js-6.11.88.jar returned status 404
+6.11.89			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdio-js/6.11.89/wdio-js-6.11.89.jar returned status 404
 6.11.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdio-js/6.11.9/wdio-js-6.11.9.jar returned status 404
+6.11.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdio-js/6.11.90/wdio-js-6.11.90.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdio-js/6.2.0/wdio-js-6.2.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdio-js/6.2.1/wdio-js-6.2.1.jar returned status 404
 6.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/wdio-js/6.2.10/wdio-js-6.2.10.jar returned status 404
