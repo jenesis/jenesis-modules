@@ -1,12 +1,28 @@
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/3.3.0/dirigible-openshift-all-3.3.0.jar returned status 404
 3.3.0	exec-war	2018-12-20T14:49:18Z	
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/3.3.1/dirigible-openshift-all-3.3.1.jar returned status 404
 3.3.1	exec-war	2019-03-02T14:59:29Z	
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/3.3.2/dirigible-openshift-all-3.3.2.jar returned status 404
 3.3.2	exec-war	2019-03-29T20:34:24Z	
+3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/3.3.3/dirigible-openshift-all-3.3.3.jar returned status 404
 3.3.3	exec-war	2019-04-01T13:05:35Z	
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/3.4.0/dirigible-openshift-all-3.4.0.jar returned status 404
 3.4.0	exec-war	2019-05-03T14:28:14Z	
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/3.5.0/dirigible-openshift-all-3.5.0.jar returned status 404
 3.5.0	exec-war	2019-09-10T14:47:24Z	
+3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/3.5.1/dirigible-openshift-all-3.5.1.jar returned status 404
 3.5.1	exec-war	2019-09-19T16:47:35Z	
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/3.5.2/dirigible-openshift-all-3.5.2.jar returned status 404
 3.5.2	exec-war	2019-09-30T15:02:44Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/4.0.0/dirigible-openshift-all-4.0.0.jar returned status 404
 4.0.0	exec-war	2019-11-24T14:36:10Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/4.1.0/dirigible-openshift-all-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/4.2.0/dirigible-openshift-all-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/4.3.0/dirigible-openshift-all-4.3.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/4.4.0/dirigible-openshift-all-4.4.0.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/4.5.0/dirigible-openshift-all-4.5.0.jar returned status 404
+4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/4.6.0/dirigible-openshift-all-4.6.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-openshift-all/5.0.0/dirigible-openshift-all-5.0.0.jar returned status 404
 5.1.0		2020-08-24T18:08:16Z	
 5.10.0		2021-04-24T21:00:00Z	
 5.10.1		2021-04-29T11:17:17Z	
