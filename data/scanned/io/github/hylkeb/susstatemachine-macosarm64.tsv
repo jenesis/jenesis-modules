@@ -1,3 +1,4 @@
+.1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hylkeb/susstatemachine-macosarm64/.1.1.1/susstatemachine-macosarm64-.1.1.1.jar returned status 404
 0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hylkeb/susstatemachine-macosarm64/0.0.1/susstatemachine-macosarm64-0.0.1.jar returned status 404
 0.0.1	metadata	2024-03-15T21:53:43Z	
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hylkeb/susstatemachine-macosarm64/1.0.0/susstatemachine-macosarm64-1.0.0.jar returned status 404

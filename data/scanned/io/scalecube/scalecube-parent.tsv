@@ -1,3 +1,14 @@
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.0.2/scalecube-parent-0.0.2.jar returned status 404
+0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.0.5/scalecube-parent-0.0.5.jar returned status 404
+0.2.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.2.20/scalecube-parent-0.2.20.jar returned status 404
+0.2.20.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.2.20.RC1/scalecube-parent-0.2.20.RC1.jar returned status 404
+0.2.20.RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.2.20.RC2/scalecube-parent-0.2.20.RC2.jar returned status 404
+0.2.20.RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.2.20.RC3/scalecube-parent-0.2.20.RC3.jar returned status 404
+0.2.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.2.21/scalecube-parent-0.2.21.jar returned status 404
+0.2.21.test.rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.2.21.test.rc2/scalecube-parent-0.2.21.test.rc2.jar returned status 404
+0.2.21.test.rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.2.21.test.rc3/scalecube-parent-0.2.21.test.rc3.jar returned status 404
+0.2.21.test.rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.2.21.test.rc4/scalecube-parent-0.2.21.test.rc4.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.3.1/scalecube-parent-0.3.1.jar returned status 404
 0.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.3.11/scalecube-parent-0.3.11.jar returned status 404
 0.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.3.12/scalecube-parent-0.3.12.jar returned status 404
 0.3.13.test-pre-release.rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.3.13.test-pre-release.rc1/scalecube-parent-0.3.13.test-pre-release.rc1.jar returned status 404
@@ -15,3 +26,14 @@
 0.3.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.3.22/scalecube-parent-0.3.22.jar returned status 404
 0.3.23		2026-05-18T14:18:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.3.23/scalecube-parent-0.3.23.jar returned status 404
 0.3.24		2026-07-03T18:12:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.3.24/scalecube-parent-0.3.24.jar returned status 404
+0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/0.9.0/scalecube-parent-0.9.0.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/1.0.0/scalecube-parent-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/1.0.1/scalecube-parent-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/1.0.2/scalecube-parent-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/1.0.3/scalecube-parent-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/1.0.4/scalecube-parent-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/1.0.5/scalecube-parent-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/1.0.6/scalecube-parent-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/1.0.7/scalecube-parent-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/1.0.8/scalecube-parent-1.0.8.jar returned status 404
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-parent/1.0.9/scalecube-parent-1.0.9.jar returned status 404

@@ -1,3 +1,4 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emays/parent/0.0.1/parent-0.0.1.jar returned status 404
 0.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emays/parent/0.0.10/parent-0.0.10.jar returned status 404
 0.0.11		2026-07-04T19:50:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emays/parent/0.0.11/parent-0.0.11.jar returned status 404
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emays/parent/0.0.2/parent-0.0.2.jar returned status 404

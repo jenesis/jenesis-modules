@@ -1,1 +1,4 @@
 ares-kele			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aresxue/ares-parent/ares-kele/ares-parent-ares-kele.jar returned status 404
+final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aresxue/ares-parent/final/ares-parent-final.jar returned status 404
+kele			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aresxue/ares-parent/kele/ares-parent-kele.jar returned status 404
+release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aresxue/ares-parent/release/ares-parent-release.jar returned status 404

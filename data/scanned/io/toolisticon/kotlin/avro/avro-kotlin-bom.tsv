@@ -1,4 +1,16 @@
 1.11.4.2		2024-05-26T22:34:36Z	
+1.11.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.11.4.3/avro-kotlin-bom-1.11.4.3.jar returned status 404
+1.11.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.11.4.4/avro-kotlin-bom-1.11.4.4.jar returned status 404
+1.11.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.11.5.0/avro-kotlin-bom-1.11.5.0.jar returned status 404
+1.12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.0.0/avro-kotlin-bom-1.12.0.0.jar returned status 404
+1.12.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.1.0/avro-kotlin-bom-1.12.1.0.jar returned status 404
+1.12.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.1.1/avro-kotlin-bom-1.12.1.1.jar returned status 404
+1.12.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.2.0/avro-kotlin-bom-1.12.2.0.jar returned status 404
+1.12.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.3.0/avro-kotlin-bom-1.12.3.0.jar returned status 404
+1.12.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.4.0/avro-kotlin-bom-1.12.4.0.jar returned status 404
+1.12.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.4.1/avro-kotlin-bom-1.12.4.1.jar returned status 404
+1.12.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.4.2/avro-kotlin-bom-1.12.4.2.jar returned status 404
+1.12.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.4.3/avro-kotlin-bom-1.12.4.3.jar returned status 404
 1.12.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.5.0/avro-kotlin-bom-1.12.5.0.jar returned status 404
 1.12.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.5.1/avro-kotlin-bom-1.12.5.1.jar returned status 404
 1.12.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/kotlin/avro/avro-kotlin-bom/1.12.5.2/avro-kotlin-bom-1.12.5.2.jar returned status 404

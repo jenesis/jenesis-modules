@@ -1,6 +1,26 @@
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/0.2/avaje-nima-parent-0.2.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/0.3/avaje-nima-parent-0.3.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/0.4/avaje-nima-parent-0.4.jar returned status 404
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/0.5/avaje-nima-parent-0.5.jar returned status 404
+0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/0.6/avaje-nima-parent-0.6.jar returned status 404
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/0.7/avaje-nima-parent-0.7.jar returned status 404
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/0.8/avaje-nima-parent-0.8.jar returned status 404
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.0/avaje-nima-parent-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.1/avaje-nima-parent-1.1.jar returned status 404
+1.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.1-RC1/avaje-nima-parent-1.1-RC1.jar returned status 404
+1.1-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.1-RC2/avaje-nima-parent-1.1-RC2.jar returned status 404
+1.1-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.1-RC3/avaje-nima-parent-1.1-RC3.jar returned status 404
+1.1-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.1-RC4/avaje-nima-parent-1.1-RC4.jar returned status 404
+1.1-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.1-RC5/avaje-nima-parent-1.1-RC5.jar returned status 404
 1.10		2026-06-23T02:15:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.10/avaje-nima-parent-1.10.jar returned status 404
 1.11		2026-07-06T11:27:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.11/avaje-nima-parent-1.11.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.2/avaje-nima-parent-1.2.jar returned status 404
+1.2-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.2-RC1/avaje-nima-parent-1.2-RC1.jar returned status 404
+1.2-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.2-RC2/avaje-nima-parent-1.2-RC2.jar returned status 404
+1.2-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.2-RC3/avaje-nima-parent-1.2-RC3.jar returned status 404
+1.2-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.2-RC4/avaje-nima-parent-1.2-RC4.jar returned status 404
 1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.3/avaje-nima-parent-1.3.jar returned status 404
+1.3-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.3-RC1/avaje-nima-parent-1.3-RC1.jar returned status 404
 1.3-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.3-RC2/avaje-nima-parent-1.3-RC2.jar returned status 404
 1.3-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.3-RC3/avaje-nima-parent-1.3-RC3.jar returned status 404
 1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-parent/1.4/avaje-nima-parent-1.4.jar returned status 404
