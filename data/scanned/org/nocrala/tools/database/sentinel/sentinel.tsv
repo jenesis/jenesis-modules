@@ -1,3 +1,7 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nocrala/tools/database/sentinel/sentinel/1.0.0/sentinel-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nocrala/tools/database/sentinel/sentinel/1.0.1/sentinel-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nocrala/tools/database/sentinel/sentinel/1.0.2/sentinel-1.0.2.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nocrala/tools/database/sentinel/sentinel/1.0.4/sentinel-1.0.4.jar returned status 404
 1.0.5		2020-03-25T13:37:02Z	
 1.0.6		2020-06-12T22:36:36Z	
 1.0.7		2020-06-13T17:58:19Z	

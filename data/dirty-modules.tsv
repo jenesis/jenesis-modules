@@ -754,3 +754,6 @@ org.mongodb.driver.core
 org.mongodb.driver.kotlin.sync
 org.mongodb.driver.scala
 org.mongodb.bson.scala
+org.tinylog.adapter.jul
+org.tinylog.api.scala
+org.tinylog.adapter.jboss

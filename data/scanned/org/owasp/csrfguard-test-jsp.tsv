@@ -1,1 +1,14 @@
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.0.0/csrfguard-test-jsp-4.0.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.1.1/csrfguard-test-jsp-4.1.1.jar returned status 404
 4.1.1	exec-war	2021-11-13T10:12:04Z	
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.1.2/csrfguard-test-jsp-4.1.2.jar returned status 404
+4.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.1.3/csrfguard-test-jsp-4.1.3.jar returned status 404
+4.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.1.4/csrfguard-test-jsp-4.1.4.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.2.0/csrfguard-test-jsp-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.2.1/csrfguard-test-jsp-4.2.1.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.3.0/csrfguard-test-jsp-4.3.0.jar returned status 404
+4.3.0-jakarta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.3.0-jakarta/csrfguard-test-jsp-4.3.0-jakarta.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.4.0/csrfguard-test-jsp-4.4.0.jar returned status 404
+4.4.0-jakarta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.4.0-jakarta/csrfguard-test-jsp-4.4.0-jakarta.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.5.0/csrfguard-test-jsp-4.5.0.jar returned status 404
+4.5.0-jakarta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/csrfguard-test-jsp/4.5.0-jakarta/csrfguard-test-jsp-4.5.0-jakarta.jar returned status 404

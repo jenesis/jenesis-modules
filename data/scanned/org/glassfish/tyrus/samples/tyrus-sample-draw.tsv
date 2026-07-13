@@ -1,7 +1,50 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0/tyrus-sample-draw-1.0.jar returned status 404
+1.0-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-b07/tyrus-sample-draw-1.0-b07.jar returned status 404
+1.0-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-b08/tyrus-sample-draw-1.0-b08.jar returned status 404
+1.0-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-b09/tyrus-sample-draw-1.0-b09.jar returned status 404
+1.0-b10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-b10/tyrus-sample-draw-1.0-b10.jar returned status 404
+1.0-b11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-b11/tyrus-sample-draw-1.0-b11.jar returned status 404
+1.0-b12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-b12/tyrus-sample-draw-1.0-b12.jar returned status 404
+1.0-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-b13/tyrus-sample-draw-1.0-b13.jar returned status 404
+1.0-b14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-b14/tyrus-sample-draw-1.0-b14.jar returned status 404
+1.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-rc1/tyrus-sample-draw-1.0-rc1.jar returned status 404
+1.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-rc2/tyrus-sample-draw-1.0-rc2.jar returned status 404
+1.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.0-rc3/tyrus-sample-draw-1.0-rc3.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.1/tyrus-sample-draw-1.1.jar returned status 404
+1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.10/tyrus-sample-draw-1.10.jar returned status 404
+1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.11/tyrus-sample-draw-1.11.jar returned status 404
+1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.11.1/tyrus-sample-draw-1.11.1.jar returned status 404
+1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.12/tyrus-sample-draw-1.12.jar returned status 404
+1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.13/tyrus-sample-draw-1.13.jar returned status 404
+1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.13.1/tyrus-sample-draw-1.13.1.jar returned status 404
+1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.14/tyrus-sample-draw-1.14.jar returned status 404
+1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.15/tyrus-sample-draw-1.15.jar returned status 404
+1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.16/tyrus-sample-draw-1.16.jar returned status 404
+1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.17/tyrus-sample-draw-1.17.jar returned status 404
 1.18		2023-01-19T19:49:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.18/tyrus-sample-draw-1.18.jar returned status 404
 1.19		2023-01-19T19:49:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.19/tyrus-sample-draw-1.19.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.2/tyrus-sample-draw-1.2.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.2.1/tyrus-sample-draw-1.2.1.jar returned status 404
 1.20		2023-01-19T19:49:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.20/tyrus-sample-draw-1.20.jar returned status 404
+1.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.21/tyrus-sample-draw-1.21.jar returned status 404
+1.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.22/tyrus-sample-draw-1.22.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.3/tyrus-sample-draw-1.3.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.3.1/tyrus-sample-draw-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.3.2/tyrus-sample-draw-1.3.2.jar returned status 404
+1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.3.3/tyrus-sample-draw-1.3.3.jar returned status 404
+1.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.3.4/tyrus-sample-draw-1.3.4.jar returned status 404
+1.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.3.5/tyrus-sample-draw-1.3.5.jar returned status 404
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.4/tyrus-sample-draw-1.4.jar returned status 404
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.5/tyrus-sample-draw-1.5.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.6/tyrus-sample-draw-1.6.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.7/tyrus-sample-draw-1.7.jar returned status 404
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.8/tyrus-sample-draw-1.8.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.8.1/tyrus-sample-draw-1.8.1.jar returned status 404
+1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.8.2/tyrus-sample-draw-1.8.2.jar returned status 404
+1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.8.3/tyrus-sample-draw-1.8.3.jar returned status 404
+1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/1.9/tyrus-sample-draw-1.9.jar returned status 404
 2.0.0		2023-01-19T19:49:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.0/tyrus-sample-draw-2.0.0.jar returned status 404
+2.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.0-M1/tyrus-sample-draw-2.0.0-M1.jar returned status 404
 2.0.0-M2		2023-01-19T19:49:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.0-M2/tyrus-sample-draw-2.0.0-M2.jar returned status 404
 2.0.0-M3		2023-01-19T19:49:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.0-M3/tyrus-sample-draw-2.0.0-M3.jar returned status 404
 2.0.0-RC1		2023-01-19T19:49:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.0-RC1/tyrus-sample-draw-2.0.0-RC1.jar returned status 404
@@ -9,6 +52,9 @@
 2.0.2		2023-01-19T19:49:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.2/tyrus-sample-draw-2.0.2.jar returned status 404
 2.0.3		2023-01-19T19:49:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.3/tyrus-sample-draw-2.0.3.jar returned status 404
 2.0.4		2023-01-19T19:49:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.4/tyrus-sample-draw-2.0.4.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.5/tyrus-sample-draw-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.6/tyrus-sample-draw-2.0.6.jar returned status 404
+2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.7/tyrus-sample-draw-2.0.7.jar returned status 404
 2.0.8		2025-10-02T12:25:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.0.8/tyrus-sample-draw-2.0.8.jar returned status 404
 2.1.0		2023-01-19T19:49:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.1.0/tyrus-sample-draw-2.1.0.jar returned status 404
 2.1.0-M1		2023-01-19T19:49:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.1.0-M1/tyrus-sample-draw-2.1.0-M1.jar returned status 404
@@ -16,7 +62,12 @@
 2.1.0-M4		2023-01-19T19:49:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.1.0-M4/tyrus-sample-draw-2.1.0-M4.jar returned status 404
 2.1.1		2023-01-19T19:49:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.1.1/tyrus-sample-draw-2.1.1.jar returned status 404
 2.1.2		2023-01-19T19:49:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.1.2/tyrus-sample-draw-2.1.2.jar returned status 404
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.1.3/tyrus-sample-draw-2.1.3.jar returned status 404
+2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.1.4/tyrus-sample-draw-2.1.4.jar returned status 404
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.1.5/tyrus-sample-draw-2.1.5.jar returned status 404
 2.1.6		2025-10-17T10:24:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.1.6/tyrus-sample-draw-2.1.6.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.2.0/tyrus-sample-draw-2.2.0.jar returned status 404
+2.2.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.2.0-M1/tyrus-sample-draw-2.2.0-M1.jar returned status 404
 2.2.1		2025-10-24T06:54:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.2.1/tyrus-sample-draw-2.2.1.jar returned status 404
 2.2.2		2026-01-24T20:00:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.2.2/tyrus-sample-draw-2.2.2.jar returned status 404
 2.2.2-M1		2026-01-24T12:10:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/tyrus/samples/tyrus-sample-draw/2.2.2-M1/tyrus-sample-draw-2.2.2-M1.jar returned status 404
