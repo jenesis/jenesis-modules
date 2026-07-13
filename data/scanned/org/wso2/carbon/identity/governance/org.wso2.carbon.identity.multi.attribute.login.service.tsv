@@ -83,6 +83,7 @@
 1.16.7		2026-04-03T06:36:55Z	
 1.16.8		2026-04-06T07:58:52Z	
 1.16.9		2026-04-28T12:07:41Z	
+1.4.100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.4.100/org.wso2.carbon.identity.multi.attribute.login.service-1.4.100.jar returned status 404
 1.4.101		2022-10-26T15:04:03Z	
 1.4.98		2022-02-02T05:14:55Z	
 1.4.99		2022-02-11T08:43:10Z	
@@ -144,12 +145,36 @@
 1.5.6		2021-05-02T07:53:45Z	
 1.5.60		2022-02-25T05:37:16Z	
 1.5.61		2022-02-28T04:52:19Z	
+1.5.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.62/org.wso2.carbon.identity.multi.attribute.login.service-1.5.62.jar returned status 404
+1.5.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.63/org.wso2.carbon.identity.multi.attribute.login.service-1.5.63.jar returned status 404
+1.5.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.64/org.wso2.carbon.identity.multi.attribute.login.service-1.5.64.jar returned status 404
+1.5.65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.65/org.wso2.carbon.identity.multi.attribute.login.service-1.5.65.jar returned status 404
+1.5.66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.66/org.wso2.carbon.identity.multi.attribute.login.service-1.5.66.jar returned status 404
+1.5.67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.67/org.wso2.carbon.identity.multi.attribute.login.service-1.5.67.jar returned status 404
+1.5.68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.68/org.wso2.carbon.identity.multi.attribute.login.service-1.5.68.jar returned status 404
+1.5.69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.69/org.wso2.carbon.identity.multi.attribute.login.service-1.5.69.jar returned status 404
 1.5.7		2021-05-05T04:10:04Z	
+1.5.70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.70/org.wso2.carbon.identity.multi.attribute.login.service-1.5.70.jar returned status 404
+1.5.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.71/org.wso2.carbon.identity.multi.attribute.login.service-1.5.71.jar returned status 404
+1.5.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.72/org.wso2.carbon.identity.multi.attribute.login.service-1.5.72.jar returned status 404
+1.5.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.73/org.wso2.carbon.identity.multi.attribute.login.service-1.5.73.jar returned status 404
+1.5.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.74/org.wso2.carbon.identity.multi.attribute.login.service-1.5.74.jar returned status 404
+1.5.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.75/org.wso2.carbon.identity.multi.attribute.login.service-1.5.75.jar returned status 404
+1.5.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.76/org.wso2.carbon.identity.multi.attribute.login.service-1.5.76.jar returned status 404
+1.5.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.77/org.wso2.carbon.identity.multi.attribute.login.service-1.5.77.jar returned status 404
+1.5.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.78/org.wso2.carbon.identity.multi.attribute.login.service-1.5.78.jar returned status 404
+1.5.79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.79/org.wso2.carbon.identity.multi.attribute.login.service-1.5.79.jar returned status 404
 1.5.8		2021-05-10T06:15:17Z	
+1.5.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.80/org.wso2.carbon.identity.multi.attribute.login.service-1.5.80.jar returned status 404
+1.5.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.81/org.wso2.carbon.identity.multi.attribute.login.service-1.5.81.jar returned status 404
+1.5.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.82/org.wso2.carbon.identity.multi.attribute.login.service-1.5.82.jar returned status 404
+1.5.83			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.83/org.wso2.carbon.identity.multi.attribute.login.service-1.5.83.jar returned status 404
 1.5.84		2022-07-09T07:20:30Z	
 1.5.85		2022-07-15T09:03:31Z	
 1.5.86		2022-07-19T16:41:59Z	
 1.5.87		2022-07-27T04:44:06Z	
+1.5.88			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.88/org.wso2.carbon.identity.multi.attribute.login.service-1.5.88.jar returned status 404
+1.5.89			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.5.89/org.wso2.carbon.identity.multi.attribute.login.service-1.5.89.jar returned status 404
 1.5.9		2021-05-10T07:21:00Z	
 1.5.90		2022-08-05T09:25:17Z	
 1.6.0		2022-08-05T18:03:25Z	
@@ -164,12 +189,15 @@
 1.7.3		2023-04-12T08:40:45Z	
 1.8.0		2022-09-26T07:33:46Z	
 1.8.1		2022-10-03T04:10:48Z	
+1.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.8.10/org.wso2.carbon.identity.multi.attribute.login.service-1.8.10.jar returned status 404
 1.8.101		2024-01-10T04:12:18Z	
 1.8.102		2024-01-10T09:23:27Z	
 1.8.103		2024-01-11T06:41:40Z	
 1.8.104		2024-01-17T10:32:04Z	
 1.8.108		2024-08-27T11:30:45Z	
+1.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.8.11/org.wso2.carbon.identity.multi.attribute.login.service-1.8.11.jar returned status 404
 1.8.113		2026-02-11T08:45:47Z	
+1.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.8.12/org.wso2.carbon.identity.multi.attribute.login.service-1.8.12.jar returned status 404
 1.8.13		2023-01-17T14:41:25Z	
 1.8.14		2023-01-24T08:28:02Z	
 1.8.15		2023-01-31T08:09:51Z	
@@ -191,12 +219,15 @@
 1.8.3		2022-10-26T05:24:54Z	
 1.8.30		2023-04-20T05:47:54Z	
 1.8.31		2023-04-22T17:59:39Z	
+1.8.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.8.32/org.wso2.carbon.identity.multi.attribute.login.service-1.8.32.jar returned status 404
+1.8.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.8.33/org.wso2.carbon.identity.multi.attribute.login.service-1.8.33.jar returned status 404
 1.8.4		2022-10-28T05:41:31Z	
 1.8.5		2022-11-18T07:44:55Z	
 1.8.6		2022-11-23T00:51:38Z	
 1.8.69		2023-09-19T05:09:32Z	
 1.8.7		2022-11-29T05:30:52Z	
 1.8.8		2022-11-30T05:25:11Z	
+1.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/governance/org.wso2.carbon.identity.multi.attribute.login.service/1.8.9/org.wso2.carbon.identity.multi.attribute.login.service-1.8.9.jar returned status 404
 1.9.11		2024-04-18T07:12:53Z	
 1.9.12		2024-05-14T04:53:28Z	
 1.9.13		2024-05-17T05:20:54Z	
