@@ -71,3 +71,13 @@
 301		2023-07-14T16:27:36Z	
 302		2023-07-28T23:58:30Z	
 303		2023-08-14T08:06:08Z	
+304			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alluxio/alluxio-tests/304/alluxio-tests-304.jar returned status 404
+305			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alluxio/alluxio-tests/305/alluxio-tests-305.jar returned status 404
+306			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alluxio/alluxio-tests/306/alluxio-tests-306.jar returned status 404
+307			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alluxio/alluxio-tests/307/alluxio-tests-307.jar returned status 404
+308			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alluxio/alluxio-tests/308/alluxio-tests-308.jar returned status 404
+309			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alluxio/alluxio-tests/309/alluxio-tests-309.jar returned status 404
+310			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alluxio/alluxio-tests/310/alluxio-tests-310.jar returned status 404
+311			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alluxio/alluxio-tests/311/alluxio-tests-311.jar returned status 404
+312			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alluxio/alluxio-tests/312/alluxio-tests-312.jar returned status 404
+313			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/alluxio/alluxio-tests/313/alluxio-tests-313.jar returned status 404
