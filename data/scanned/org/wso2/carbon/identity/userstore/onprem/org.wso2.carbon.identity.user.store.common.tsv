@@ -1,2 +1,5 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/userstore/onprem/org.wso2.carbon.identity.user.store.common/2.0.0/org.wso2.carbon.identity.user.store.common-2.0.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/userstore/onprem/org.wso2.carbon.identity.user.store.common/3.0.0/org.wso2.carbon.identity.user.store.common-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/userstore/onprem/org.wso2.carbon.identity.user.store.common/3.0.1/org.wso2.carbon.identity.user.store.common-3.0.1.jar returned status 404
 3.0.3		2017-12-21T13:07:05Z	
 3.0.4		2019-06-11T06:16:04Z	
