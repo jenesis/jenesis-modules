@@ -4,6 +4,7 @@
 0.7.1.RELEASE		2011-04-05T12:03:13Z	
 0.7.1.RELEASE	jdk5	2011-04-26T14:28:09Z	
 0.8.0-alpha1		2012-02-22T10:46:45Z	
+0.8.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jolbox/bonecp-spring/0.8.0-beta1/bonecp-spring-0.8.0-beta1.jar returned status 404
 0.8.0-beta1	jdk7	2012-10-31T22:04:15Z	
 0.8.0-rc1		2012-12-05T22:15:18Z	
 0.8.0-rc3		2013-09-12T11:16:24Z	

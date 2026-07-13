@@ -403,3 +403,5 @@ com.fasterxml.jackson.module.jaxb
 org.apache.commons.codec
 org.apache.commons.pool2
 io.netty.codec.http
+com.appslandia.plum
+com.appslandia.common
