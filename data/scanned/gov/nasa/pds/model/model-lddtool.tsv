@@ -1,4 +1,32 @@
 0.0.7		2024-11-17T19:23:38Z	
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/10.0.0/model-lddtool-10.0.0.jar returned status 404
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/10.1.0/model-lddtool-10.1.0.jar returned status 404
+10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/10.1.1/model-lddtool-10.1.1.jar returned status 404
+10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/10.1.2/model-lddtool-10.1.2.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/11.0.0/model-lddtool-11.0.0.jar returned status 404
+11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/11.1.0/model-lddtool-11.1.0.jar returned status 404
+11.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/11.2.0/model-lddtool-11.2.0.jar returned status 404
+11.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/11.2.1/model-lddtool-11.2.1.jar returned status 404
+11.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/11.2.2/model-lddtool-11.2.2.jar returned status 404
+11.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/11.2.3/model-lddtool-11.2.3.jar returned status 404
+11.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/11.3.0/model-lddtool-11.3.0.jar returned status 404
+11.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/11.3.1/model-lddtool-11.3.1.jar returned status 404
+11.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/11.3.2/model-lddtool-11.3.2.jar returned status 404
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/12.0.0/model-lddtool-12.0.0.jar returned status 404
+12.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/12.0.2/model-lddtool-12.0.2.jar returned status 404
+12.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/12.0.3/model-lddtool-12.0.3.jar returned status 404
+12.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/12.1.0/model-lddtool-12.1.0.jar returned status 404
+13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/13.0.0/model-lddtool-13.0.0.jar returned status 404
+13.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/13.0.1/model-lddtool-13.0.1.jar returned status 404
+13.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/13.0.2/model-lddtool-13.0.2.jar returned status 404
+13.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/13.1.0/model-lddtool-13.1.0.jar returned status 404
+14.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/14.0.8/model-lddtool-14.0.8.jar returned status 404
+15.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/15.0.3/model-lddtool-15.0.3.jar returned status 404
+15.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/15.0.4/model-lddtool-15.0.4.jar returned status 404
+15.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/15.0.5/model-lddtool-15.0.5.jar returned status 404
+15.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/15.0.6/model-lddtool-15.0.6.jar returned status 404
+15.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/15.0.7/model-lddtool-15.0.7.jar returned status 404
+15.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gov/nasa/pds/model/model-lddtool/15.1.0/model-lddtool-15.1.0.jar returned status 404
 15.2.0		2024-11-08T18:22:57Z	
 15.2.1		2024-11-09T15:15:03Z	
 15.2.2		2024-11-18T00:54:08Z	

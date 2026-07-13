@@ -1,7 +1,53 @@
+1.7.2.230622			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.2.230622/igrp-core-war-1.7.2.230622.jar returned status 404
+1.7.2.230624			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.2.230624/igrp-core-war-1.7.2.230624.jar returned status 404
 1.7.2.230627		2023-06-28T00:46:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.2.230627/igrp-core-war-1.7.2.230627.jar returned status 404
+1.7.2.230728			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.2.230728/igrp-core-war-1.7.2.230728.jar returned status 404
+1.7.3.230801			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.3.230801/igrp-core-war-1.7.3.230801.jar returned status 404
+1.7.3.230802			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.3.230802/igrp-core-war-1.7.3.230802.jar returned status 404
+1.7.3.230811			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.3.230811/igrp-core-war-1.7.3.230811.jar returned status 404
+1.7.4.230829			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.4.230829/igrp-core-war-1.7.4.230829.jar returned status 404
+1.7.4.230906			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.4.230906/igrp-core-war-1.7.4.230906.jar returned status 404
+1.7.4.231011			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.7.4.231011/igrp-core-war-1.7.4.231011.jar returned status 404
+1.8.0.240116			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.8.0.240116/igrp-core-war-1.8.0.240116.jar returned status 404
+1.8.2.240415			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.8.2.240415/igrp-core-war-1.8.2.240415.jar returned status 404
+1.8.2.240713			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.8.2.240713/igrp-core-war-1.8.2.240713.jar returned status 404
+1.8.2.240803			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.8.2.240803/igrp-core-war-1.8.2.240803.jar returned status 404
+1.8.3.240902			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.8.3.240902/igrp-core-war-1.8.3.240902.jar returned status 404
+1.8.3.240912			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.8.3.240912/igrp-core-war-1.8.3.240912.jar returned status 404
+1.8.3.240913			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.8.3.240913/igrp-core-war-1.8.3.240913.jar returned status 404
+1.8.4.250518			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.8.4.250518/igrp-core-war-1.8.4.250518.jar returned status 404
 1.8.5.260126		2026-01-25T19:49:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.8.5.260126/igrp-core-war-1.8.5.260126.jar returned status 404
 1.9.0.260630		2026-06-30T17:33:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/1.9.0.260630/igrp-core-war-1.9.0.260630.jar returned status 404
+2.0.0.230625-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230625-alpha/igrp-core-war-2.0.0.230625-alpha.jar returned status 404
 2.0.0.230627-alpha		2023-06-28T00:46:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230627-alpha/igrp-core-war-2.0.0.230627-alpha.jar returned status 404
+2.0.0.230706-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230706-alpha/igrp-core-war-2.0.0.230706-alpha.jar returned status 404
+2.0.0.230725-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230725-alpha/igrp-core-war-2.0.0.230725-alpha.jar returned status 404
+2.0.0.230728-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230728-alpha/igrp-core-war-2.0.0.230728-alpha.jar returned status 404
+2.0.0.230728-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230728-beta/igrp-core-war-2.0.0.230728-beta.jar returned status 404
+2.0.0.230728.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230728.1-beta/igrp-core-war-2.0.0.230728.1-beta.jar returned status 404
+2.0.0.230729-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230729-beta/igrp-core-war-2.0.0.230729-beta.jar returned status 404
+2.0.0.230731-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230731-beta/igrp-core-war-2.0.0.230731-beta.jar returned status 404
+2.0.0.230801-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230801-beta/igrp-core-war-2.0.0.230801-beta.jar returned status 404
+2.0.0.230811-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230811-beta/igrp-core-war-2.0.0.230811-beta.jar returned status 404
+2.0.0.230911-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.230911-beta/igrp-core-war-2.0.0.230911-beta.jar returned status 404
+2.0.0.231011-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.231011-beta/igrp-core-war-2.0.0.231011-beta.jar returned status 404
+2.0.0.231123-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.231123-RC1/igrp-core-war-2.0.0.231123-RC1.jar returned status 404
+2.0.0.231201-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.231201-RC1/igrp-core-war-2.0.0.231201-RC1.jar returned status 404
+2.0.0.231203-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.231203-RC1/igrp-core-war-2.0.0.231203-RC1.jar returned status 404
+2.0.0.240103-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.240103-RC1/igrp-core-war-2.0.0.240103-RC1.jar returned status 404
+2.0.0.240202-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.240202-RC1/igrp-core-war-2.0.0.240202-RC1.jar returned status 404
+2.0.0.240307-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.240307-RC2/igrp-core-war-2.0.0.240307-RC2.jar returned status 404
+2.0.0.240603-RCM			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.240603-RCM/igrp-core-war-2.0.0.240603-RCM.jar returned status 404
+2.0.0.240713-RCM			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.240713-RCM/igrp-core-war-2.0.0.240713-RCM.jar returned status 404
+2.0.0.240802-RCM			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.240802-RCM/igrp-core-war-2.0.0.240802-RCM.jar returned status 404
+2.0.0.240902-RCM			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.240902-RCM/igrp-core-war-2.0.0.240902-RCM.jar returned status 404
+2.0.0.240904-RCM			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.240904-RCM/igrp-core-war-2.0.0.240904-RCM.jar returned status 404
+2.0.0.240912-RCM			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.240912-RCM/igrp-core-war-2.0.0.240912-RCM.jar returned status 404
+2.0.0.241004-RCM			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.241004-RCM/igrp-core-war-2.0.0.241004-RCM.jar returned status 404
+2.0.0.241121-RCM			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.241121-RCM/igrp-core-war-2.0.0.241121-RCM.jar returned status 404
+2.0.0.250216-GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.250216-GA/igrp-core-war-2.0.0.250216-GA.jar returned status 404
+2.0.0.250321-GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.250321-GA/igrp-core-war-2.0.0.250321-GA.jar returned status 404
+2.0.0.250518-GA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.250518-GA/igrp-core-war-2.0.0.250518-GA.jar returned status 404
 2.0.0.260217		2026-02-17T11:23:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.0.0.260217/igrp-core-war-2.0.0.260217.jar returned status 404
 2.1.0.260402		2026-04-02T21:23:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.1.0.260402/igrp-core-war-2.1.0.260402.jar returned status 404
 2.1.0.260630		2026-06-30T16:08:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cv/igrp/igrp-core-war/2.1.0.260630/igrp-core-war-2.1.0.260630.jar returned status 404

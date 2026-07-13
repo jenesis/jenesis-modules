@@ -25,3 +25,4 @@
 1.7.4		2026-06-12T07:56:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/poool/access-android/1.7.4/access-android-1.7.4.jar returned status 404
 1.7.5		2026-06-22T09:29:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/poool/access-android/1.7.5/access-android-1.7.5.jar returned status 404
 1.8.0		2026-06-30T14:02:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/poool/access-android/1.8.0/access-android-1.8.0.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/poool/access-android/1.8.1/access-android-1.8.1.jar returned status 404

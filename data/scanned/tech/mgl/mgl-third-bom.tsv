@@ -1,4 +1,11 @@
 2024.10.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2024.10.26/mgl-third-bom-2024.10.26.jar returned status 404
+2024.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2024.4.1/mgl-third-bom-2024.4.1.jar returned status 404
+2024.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2024.4.2/mgl-third-bom-2024.4.2.jar returned status 404
+2024.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2024.4.3/mgl-third-bom-2024.4.3.jar returned status 404
+2024.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2024.5.1/mgl-third-bom-2024.5.1.jar returned status 404
+2024.5.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2024.5.24/mgl-third-bom-2024.5.24.jar returned status 404
+2024.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2024.5.8/mgl-third-bom-2024.5.8.jar returned status 404
+2024.6.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2024.6.21/mgl-third-bom-2024.6.21.jar returned status 404
 2025.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2025.1.0/mgl-third-bom-2025.1.0.jar returned status 404
 2025.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2025.1.1/mgl-third-bom-2025.1.1.jar returned status 404
 2025.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2025.1.2/mgl-third-bom-2025.1.2.jar returned status 404
@@ -10,3 +17,6 @@
 2026.1.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2026.1.5.3/mgl-third-bom-2026.1.5.3.jar returned status 404
 2026.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2026.1.6/mgl-third-bom-2026.1.6.jar returned status 404
 2026.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/2026.1.7/mgl-third-bom-2026.1.7.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/3.2.2/mgl-third-bom-3.2.2.jar returned status 404
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/3.2.3/mgl-third-bom-3.2.3.jar returned status 404
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-third-bom/3.2.4/mgl-third-bom-3.2.4.jar returned status 404

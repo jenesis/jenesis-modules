@@ -1,6 +1,13 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.0/pacebox-sms-parent-1.0.0.jar returned status 404
+1.0.0-jdk17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.0-jdk17/pacebox-sms-parent-1.0.0-jdk17.jar returned status 404
 1.0.0-jdk25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.0-jdk25/pacebox-sms-parent-1.0.0-jdk25.jar returned status 404
+1.0.1-jdk17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.1-jdk17/pacebox-sms-parent-1.0.1-jdk17.jar returned status 404
 1.0.1-jdk25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.1-jdk25/pacebox-sms-parent-1.0.1-jdk25.jar returned status 404
+1.0.2-jdk17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.2-jdk17/pacebox-sms-parent-1.0.2-jdk17.jar returned status 404
 1.0.2-jdk25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.2-jdk25/pacebox-sms-parent-1.0.2-jdk25.jar returned status 404
+1.0.3-jdk17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.3-jdk17/pacebox-sms-parent-1.0.3-jdk17.jar returned status 404
+1.0.5-jdk17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.5-jdk17/pacebox-sms-parent-1.0.5-jdk17.jar returned status 404
+1.0.5-jdk21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.5-jdk21/pacebox-sms-parent-1.0.5-jdk21.jar returned status 404
 1.0.6-jdk24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.6-jdk24/pacebox-sms-parent-1.0.6-jdk24.jar returned status 404
 1.0.7-jdk24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/1.0.7-jdk24/pacebox-sms-parent-1.0.7-jdk24.jar returned status 404
 2.0.0-jdk25		2026-05-18T06:35:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mhuang/pacebox/pacebox-sms-parent/2.0.0-jdk25/pacebox-sms-parent-2.0.0-jdk25.jar returned status 404
