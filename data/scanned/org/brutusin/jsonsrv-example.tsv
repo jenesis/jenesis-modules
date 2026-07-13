@@ -1,2 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/brutusin/jsonsrv-example/1.0.0/jsonsrv-example-1.0.0.jar returned status 404
 1.0.0	exec-war	2015-10-05T13:45:14Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/brutusin/jsonsrv-example/1.0.1/jsonsrv-example-1.0.1.jar returned status 404
 1.0.1	exec-war	2015-10-19T13:31:13Z	

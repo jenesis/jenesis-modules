@@ -1,1 +1,6 @@
+0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dmfs/contentpal/0.10/contentpal-0.10.jar returned status 404
+0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dmfs/contentpal/0.11/contentpal-0.11.jar returned status 404
 0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dmfs/contentpal/0.12.0/contentpal-0.12.0.jar returned status 404
+0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dmfs/contentpal/0.6/contentpal-0.6.jar returned status 404
+0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dmfs/contentpal/0.7/contentpal-0.7.jar returned status 404
+0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dmfs/contentpal/0.9/contentpal-0.9.jar returned status 404
