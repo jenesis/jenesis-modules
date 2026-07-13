@@ -198,3 +198,5 @@ com.aspectran.mybatis
 com.aspectran.logging
 com.aspectran.thymeleaf
 com.aspectran.daemon
+com.nimbusds.infinispan.persistence.dynamodb
+com.nimbusds.infinispan.persistence.sql

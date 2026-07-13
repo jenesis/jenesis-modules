@@ -12,4 +12,21 @@
 1.15.0		2017-04-18T05:52:46Z	
 1.15.1		2017-04-18T16:43:36Z	
 1.15.2		2017-04-27T18:59:03Z	
+1.15.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.15.3/parse-android-1.15.3.jar returned status 404
+1.15.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.15.4/parse-android-1.15.4.jar returned status 404
 1.15.5		2017-04-30T08:18:13Z	
+1.15.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.15.6/parse-android-1.15.6.jar returned status 404
+1.15.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.15.7/parse-android-1.15.7.jar returned status 404
+1.15.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.15.8/parse-android-1.15.8.jar returned status 404
+1.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.16.0/parse-android-1.16.0.jar returned status 404
+1.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.16.1/parse-android-1.16.1.jar returned status 404
+1.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.16.2/parse-android-1.16.2.jar returned status 404
+1.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.16.3/parse-android-1.16.3.jar returned status 404
+1.16.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.16.4/parse-android-1.16.4.jar returned status 404
+1.16.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.16.5/parse-android-1.16.5.jar returned status 404
+1.16.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.16.6/parse-android-1.16.6.jar returned status 404
+1.16.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.16.7/parse-android-1.16.7.jar returned status 404
+1.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.17.0/parse-android-1.17.0.jar returned status 404
+1.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.17.1/parse-android-1.17.1.jar returned status 404
+1.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.17.2/parse-android-1.17.2.jar returned status 404
+1.17.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/parse/parse-android/1.17.3/parse-android-1.17.3.jar returned status 404

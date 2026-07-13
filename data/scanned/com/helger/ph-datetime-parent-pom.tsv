@@ -1,2 +1,15 @@
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/4.2.0/ph-datetime-parent-pom-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/4.2.1/ph-datetime-parent-pom-4.2.1.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/5.0.0/ph-datetime-parent-pom-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/5.0.1/ph-datetime-parent-pom-5.0.1.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/6.0.0/ph-datetime-parent-pom-6.0.0.jar returned status 404
+6.0.0-b1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/6.0.0-b1/ph-datetime-parent-pom-6.0.0-b1.jar returned status 404
+6.0.0-b2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/6.0.0-b2/ph-datetime-parent-pom-6.0.0-b2.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/6.0.1/ph-datetime-parent-pom-6.0.1.jar returned status 404
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/6.0.2/ph-datetime-parent-pom-6.0.2.jar returned status 404
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/6.0.3/ph-datetime-parent-pom-6.0.3.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/6.1.0/ph-datetime-parent-pom-6.1.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/6.2.0/ph-datetime-parent-pom-6.2.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/7.0.0/ph-datetime-parent-pom-7.0.0.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/8.0.0/ph-datetime-parent-pom-8.0.0.jar returned status 404
 8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/ph-datetime-parent-pom/8.1.0/ph-datetime-parent-pom-8.1.0.jar returned status 404

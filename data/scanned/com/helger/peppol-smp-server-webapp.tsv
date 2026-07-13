@@ -1,3 +1,14 @@
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/4.0.0/peppol-smp-server-webapp-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/4.0.1/peppol-smp-server-webapp-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/4.0.2/peppol-smp-server-webapp-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/4.0.3/peppol-smp-server-webapp-4.0.3.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/4.1.0/peppol-smp-server-webapp-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/4.1.1/peppol-smp-server-webapp-4.1.1.jar returned status 404
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/4.1.2/peppol-smp-server-webapp-4.1.2.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/5.0.0/peppol-smp-server-webapp-5.0.0.jar returned status 404
+5.0.0-b1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/5.0.0-b1/peppol-smp-server-webapp-5.0.0-b1.jar returned status 404
+5.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/5.0.0-rc1/peppol-smp-server-webapp-5.0.0-rc1.jar returned status 404
+5.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol-smp-server-webapp/5.0.0-rc2/peppol-smp-server-webapp-5.0.0-rc2.jar returned status 404
 5.0.1		2016-11-27T07:27:26Z	
 5.0.2		2017-04-04T06:21:05Z	
 5.0.3		2017-07-21T18:09:30Z	
