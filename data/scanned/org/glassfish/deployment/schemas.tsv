@@ -1,26 +1,158 @@
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0/schemas-3.0.jar returned status 404
+3.0-Preview			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-Preview/schemas-3.0-Preview.jar returned status 404
 3.0-Preview	resources	2009-05-29T01:16:18Z	
+3.0-Preview-b47a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-Preview-b47a/schemas-3.0-Preview-b47a.jar returned status 404
 3.0-Preview-b47a	resources	2009-05-07T01:31:50Z	
+3.0-Preview-b47b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-Preview-b47b/schemas-3.0-Preview-b47b.jar returned status 404
 3.0-Preview-b47b	resources	2009-05-14T03:09:02Z	
+3.0-Preview-b47c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-Preview-b47c/schemas-3.0-Preview-b47c.jar returned status 404
 3.0-Preview-b47c	resources	2009-05-22T03:01:43Z	
+3.0-b29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b29/schemas-3.0-b29.jar returned status 404
 3.0-b29	resources	2008-12-15T04:37:07Z	
+3.0-b30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b30/schemas-3.0-b30.jar returned status 404
 3.0-b30	resources	2008-12-25T00:59:25Z	
+3.0-b31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b31/schemas-3.0-b31.jar returned status 404
 3.0-b31	resources	2009-01-07T21:51:26Z	
+3.0-b32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b32/schemas-3.0-b32.jar returned status 404
 3.0-b32	resources	2009-01-15T04:19:26Z	
+3.0-b33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b33/schemas-3.0-b33.jar returned status 404
 3.0-b33	resources	2009-01-22T02:16:29Z	
+3.0-b34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b34/schemas-3.0-b34.jar returned status 404
 3.0-b34	resources	2009-01-29T00:24:10Z	
+3.0-b35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b35/schemas-3.0-b35.jar returned status 404
 3.0-b35	resources	2009-02-05T23:42:13Z	
+3.0-b36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b36/schemas-3.0-b36.jar returned status 404
 3.0-b36	resources	2009-02-11T20:37:44Z	
+3.0-b37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b37/schemas-3.0-b37.jar returned status 404
 3.0-b37	resources	2009-02-18T19:36:11Z	
+3.0-b38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b38/schemas-3.0-b38.jar returned status 404
 3.0-b38	resources	2009-02-25T20:23:09Z	
+3.0-b39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b39/schemas-3.0-b39.jar returned status 404
 3.0-b39	resources	2009-03-05T04:22:23Z	
+3.0-b40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b40/schemas-3.0-b40.jar returned status 404
 3.0-b40	resources	2009-03-11T22:26:02Z	
+3.0-b41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b41/schemas-3.0-b41.jar returned status 404
 3.0-b41	resources	2009-03-19T03:46:42Z	
+3.0-b42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b42/schemas-3.0-b42.jar returned status 404
 3.0-b42	resources	2009-03-26T20:27:19Z	
+3.0-b43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b43/schemas-3.0-b43.jar returned status 404
 3.0-b43	resources	2009-04-01T15:47:18Z	
+3.0-b44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b44/schemas-3.0-b44.jar returned status 404
 3.0-b44	resources	2009-04-09T03:30:43Z	
+3.0-b45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b45/schemas-3.0-b45.jar returned status 404
 3.0-b45	resources	2009-04-17T16:37:27Z	
+3.0-b46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b46/schemas-3.0-b46.jar returned status 404
 3.0-b46	resources	2009-04-24T01:29:31Z	
+3.0-b47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b47/schemas-3.0-b47.jar returned status 404
 3.0-b47	resources	2009-04-29T20:49:09Z	
+3.0-b48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b48/schemas-3.0-b48.jar returned status 404
 3.0-b48	resources	2009-05-28T02:48:53Z	
+3.0-b49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b49/schemas-3.0-b49.jar returned status 404
 3.0-b49	resources	2009-06-04T14:54:01Z	
+3.0-b50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b50/schemas-3.0-b50.jar returned status 404
 3.0-b50	resources	2009-06-11T05:02:27Z	
+3.0-b51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b51/schemas-3.0-b51.jar returned status 404
+3.0-b52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b52/schemas-3.0-b52.jar returned status 404
+3.0-b53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b53/schemas-3.0-b53.jar returned status 404
+3.0-b54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b54/schemas-3.0-b54.jar returned status 404
+3.0-b55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b55/schemas-3.0-b55.jar returned status 404
+3.0-b56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b56/schemas-3.0-b56.jar returned status 404
+3.0-b57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b57/schemas-3.0-b57.jar returned status 404
+3.0-b58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b58/schemas-3.0-b58.jar returned status 404
+3.0-b59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b59/schemas-3.0-b59.jar returned status 404
+3.0-b60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b60/schemas-3.0-b60.jar returned status 404
+3.0-b61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b61/schemas-3.0-b61.jar returned status 404
+3.0-b62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b62/schemas-3.0-b62.jar returned status 404
+3.0-b63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b63/schemas-3.0-b63.jar returned status 404
+3.0-b64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b64/schemas-3.0-b64.jar returned status 404
+3.0-b65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b65/schemas-3.0-b65.jar returned status 404
+3.0-b66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b66/schemas-3.0-b66.jar returned status 404
+3.0-b67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b67/schemas-3.0-b67.jar returned status 404
+3.0-b68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b68/schemas-3.0-b68.jar returned status 404
+3.0-b69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b69/schemas-3.0-b69.jar returned status 404
+3.0-b70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b70/schemas-3.0-b70.jar returned status 404
+3.0-b71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b71/schemas-3.0-b71.jar returned status 404
+3.0-b72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b72/schemas-3.0-b72.jar returned status 404
+3.0-b73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b73/schemas-3.0-b73.jar returned status 404
+3.0-b74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b74/schemas-3.0-b74.jar returned status 404
+3.0-b74a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b74a/schemas-3.0-b74a.jar returned status 404
+3.0-b74b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0-b74b/schemas-3.0-b74b.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1/schemas-3.0.1.jar returned status 404
+3.0.1-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b01/schemas-3.0.1-b01.jar returned status 404
+3.0.1-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b02/schemas-3.0.1-b02.jar returned status 404
+3.0.1-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b03/schemas-3.0.1-b03.jar returned status 404
+3.0.1-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b04/schemas-3.0.1-b04.jar returned status 404
+3.0.1-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b05/schemas-3.0.1-b05.jar returned status 404
+3.0.1-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b06/schemas-3.0.1-b06.jar returned status 404
+3.0.1-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b07/schemas-3.0.1-b07.jar returned status 404
+3.0.1-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b08/schemas-3.0.1-b08.jar returned status 404
+3.0.1-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b09/schemas-3.0.1-b09.jar returned status 404
+3.0.1-b10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b10/schemas-3.0.1-b10.jar returned status 404
+3.0.1-b11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b11/schemas-3.0.1-b11.jar returned status 404
+3.0.1-b12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b12/schemas-3.0.1-b12.jar returned status 404
+3.0.1-b14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b14/schemas-3.0.1-b14.jar returned status 404
+3.0.1-b15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b15/schemas-3.0.1-b15.jar returned status 404
+3.0.1-b16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b16/schemas-3.0.1-b16.jar returned status 404
+3.0.1-b17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b17/schemas-3.0.1-b17.jar returned status 404
+3.0.1-b18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b18/schemas-3.0.1-b18.jar returned status 404
+3.0.1-b19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b19/schemas-3.0.1-b19.jar returned status 404
+3.0.1-b20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.0.1-b20/schemas-3.0.1-b20.jar returned status 404
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1/schemas-3.1.jar returned status 404
+3.1-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b01/schemas-3.1-b01.jar returned status 404
+3.1-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b02/schemas-3.1-b02.jar returned status 404
+3.1-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b03/schemas-3.1-b03.jar returned status 404
+3.1-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b04/schemas-3.1-b04.jar returned status 404
+3.1-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b05/schemas-3.1-b05.jar returned status 404
+3.1-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b06/schemas-3.1-b06.jar returned status 404
+3.1-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b07/schemas-3.1-b07.jar returned status 404
+3.1-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b08/schemas-3.1-b08.jar returned status 404
+3.1-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b09/schemas-3.1-b09.jar returned status 404
+3.1-b10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b10/schemas-3.1-b10.jar returned status 404
+3.1-b11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b11/schemas-3.1-b11.jar returned status 404
+3.1-b12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b12/schemas-3.1-b12.jar returned status 404
+3.1-b13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b13/schemas-3.1-b13.jar returned status 404
+3.1-b14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b14/schemas-3.1-b14.jar returned status 404
+3.1-b15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b15/schemas-3.1-b15.jar returned status 404
+3.1-b16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b16/schemas-3.1-b16.jar returned status 404
+3.1-b17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b17/schemas-3.1-b17.jar returned status 404
+3.1-b18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b18/schemas-3.1-b18.jar returned status 404
+3.1-b19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b19/schemas-3.1-b19.jar returned status 404
+3.1-b20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b20/schemas-3.1-b20.jar returned status 404
+3.1-b21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b21/schemas-3.1-b21.jar returned status 404
+3.1-b22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b22/schemas-3.1-b22.jar returned status 404
+3.1-b23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b23/schemas-3.1-b23.jar returned status 404
+3.1-b24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b24/schemas-3.1-b24.jar returned status 404
+3.1-b25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b25/schemas-3.1-b25.jar returned status 404
+3.1-b26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b26/schemas-3.1-b26.jar returned status 404
+3.1-b27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b27/schemas-3.1-b27.jar returned status 404
+3.1-b28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b28/schemas-3.1-b28.jar returned status 404
+3.1-b30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b30/schemas-3.1-b30.jar returned status 404
+3.1-b31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b31/schemas-3.1-b31.jar returned status 404
+3.1-b32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b32/schemas-3.1-b32.jar returned status 404
+3.1-b33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b33/schemas-3.1-b33.jar returned status 404
+3.1-b34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b34/schemas-3.1-b34.jar returned status 404
+3.1-b35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b35/schemas-3.1-b35.jar returned status 404
+3.1-b36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b36/schemas-3.1-b36.jar returned status 404
+3.1-b37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b37/schemas-3.1-b37.jar returned status 404
+3.1-b38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b38/schemas-3.1-b38.jar returned status 404
+3.1-b39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b39/schemas-3.1-b39.jar returned status 404
+3.1-b40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b40/schemas-3.1-b40.jar returned status 404
+3.1-b41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1-b41/schemas-3.1-b41.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1/schemas-3.1.1.jar returned status 404
+3.1.1-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b01/schemas-3.1.1-b01.jar returned status 404
+3.1.1-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b02/schemas-3.1.1-b02.jar returned status 404
+3.1.1-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b03/schemas-3.1.1-b03.jar returned status 404
+3.1.1-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b04/schemas-3.1.1-b04.jar returned status 404
+3.1.1-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b05/schemas-3.1.1-b05.jar returned status 404
+3.1.1-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b06/schemas-3.1.1-b06.jar returned status 404
+3.1.1-b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b07/schemas-3.1.1-b07.jar returned status 404
+3.1.1-b08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b08/schemas-3.1.1-b08.jar returned status 404
+3.1.1-b09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b09/schemas-3.1.1-b09.jar returned status 404
+3.1.1-b10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b10/schemas-3.1.1-b10.jar returned status 404
+3.1.1-b11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.1.1-b11/schemas-3.1.1-b11.jar returned status 404
+3.2-b01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.2-b01/schemas-3.2-b01.jar returned status 404
+3.2-b02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.2-b02/schemas-3.2-b02.jar returned status 404
+3.2-b03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.2-b03/schemas-3.2-b03.jar returned status 404
+3.2-b04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.2-b04/schemas-3.2-b04.jar returned status 404
+3.2-b05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.2-b05/schemas-3.2-b05.jar returned status 404
+3.2-b06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/deployment/schemas/3.2-b06/schemas-3.2-b06.jar returned status 404

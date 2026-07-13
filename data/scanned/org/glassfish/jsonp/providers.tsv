@@ -1,1 +1,3 @@
+2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jsonp/providers/2.0.0-RC1/providers-2.0.0-RC1.jar returned status 404
+2.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jsonp/providers/2.0.0-RC2/providers-2.0.0-RC2.jar returned status 404
 2.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jsonp/providers/2.0.0-RC3/providers-2.0.0-RC3.jar returned status 404

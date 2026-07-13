@@ -1,2 +1,14 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.0/grizzly-npn-1.0.jar returned status 404
+1.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.0-beta1/grizzly-npn-1.0-beta1.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.1/grizzly-npn-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.2/grizzly-npn-1.2.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.3/grizzly-npn-1.3.jar returned status 404
+1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.5/grizzly-npn-1.5.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.6/grizzly-npn-1.6.jar returned status 404
+1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.7/grizzly-npn-1.7.jar returned status 404
+1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.8/grizzly-npn-1.8.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.8.1/grizzly-npn-1.8.1.jar returned status 404
+1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1.9/grizzly-npn-1.9.jar returned status 404
+1_4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/1_4/grizzly-npn-1_4.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/2.0.0/grizzly-npn-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/grizzly/grizzly-npn/2.0.1/grizzly-npn-2.0.1.jar returned status 404
