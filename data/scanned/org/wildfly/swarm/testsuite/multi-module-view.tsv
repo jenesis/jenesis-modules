@@ -1,19 +1,37 @@
+2012.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2012.12.0/multi-module-view-2012.12.0.jar returned status 404
 2012.12.0	swarm	2017-12-12T20:04:40Z	
+2017.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2017.10.0/multi-module-view-2017.10.0.jar returned status 404
 2017.10.0	swarm	2017-10-04T18:05:02Z	
+2017.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2017.10.1/multi-module-view-2017.10.1.jar returned status 404
 2017.10.1	swarm	2017-10-19T17:50:50Z	
+2017.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2017.10.2/multi-module-view-2017.10.2.jar returned status 404
 2017.10.2	swarm	2018-02-06T17:10:47Z	
+2017.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2017.11.0/multi-module-view-2017.11.0.jar returned status 404
 2017.11.0	swarm	2017-11-06T19:29:01Z	
+2017.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2017.12.0/multi-module-view-2017.12.0.jar returned status 404
 2017.12.0	swarm	2017-12-12T22:16:07Z	
+2017.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2017.12.1/multi-module-view-2017.12.1.jar returned status 404
 2017.12.1	swarm	2017-12-13T17:58:20Z	
+2017.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2017.9.4/multi-module-view-2017.9.4.jar returned status 404
 2017.9.4	swarm	2017-09-05T19:49:15Z	
+2017.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2017.9.5/multi-module-view-2017.9.5.jar returned status 404
 2017.9.5	swarm	2017-09-12T21:59:17Z	
+2018.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2018.1.0/multi-module-view-2018.1.0.jar returned status 404
 2018.1.0	swarm	2018-01-15T15:59:53Z	
 2018.2.0	swarm	2018-02-08T16:28:43Z	
+2018.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2018.2.0.Final/multi-module-view-2018.2.0.Final.jar returned status 404
 2018.2.0.Final	swarm	2018-02-08T14:46:42Z	
+2018.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2018.3.0/multi-module-view-2018.3.0.jar returned status 404
 2018.3.0	swarm	2018-03-02T11:06:17Z	
+2018.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2018.3.1/multi-module-view-2018.3.1.jar returned status 404
 2018.3.1	swarm	2018-03-06T22:57:37Z	
+2018.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2018.3.2/multi-module-view-2018.3.2.jar returned status 404
 2018.3.2	swarm	2018-03-07T16:59:06Z	
+2018.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2018.3.3/multi-module-view-2018.3.3.jar returned status 404
 2018.3.3	swarm	2018-03-08T21:36:18Z	
+2018.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2018.4.0/multi-module-view-2018.4.0.jar returned status 404
 2018.4.0	swarm	2018-04-06T10:50:44Z	
+2018.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2018.4.1/multi-module-view-2018.4.1.jar returned status 404
 2018.4.1	swarm	2018-04-06T13:43:34Z	
+2018.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/testsuite/multi-module-view/2018.5.0/multi-module-view-2018.5.0.jar returned status 404
 2018.5.0	swarm	2018-05-02T08:01:33Z	

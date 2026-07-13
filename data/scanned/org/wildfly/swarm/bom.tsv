@@ -1,3 +1,11 @@
+1.0.0.Alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/bom/1.0.0.Alpha6/bom-1.0.0.Alpha6.jar returned status 404
+1.0.0.Alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/bom/1.0.0.Alpha7/bom-1.0.0.Alpha7.jar returned status 404
+1.0.0.Alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/bom/1.0.0.Alpha8/bom-1.0.0.Alpha8.jar returned status 404
+1.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/bom/1.0.0.Beta1/bom-1.0.0.Beta1.jar returned status 404
+1.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/bom/1.0.0.Beta6/bom-1.0.0.Beta6.jar returned status 404
+1.0.0.Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/bom/1.0.0.Beta7/bom-1.0.0.Beta7.jar returned status 404
+1.0.0.Beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/bom/1.0.0.Beta8/bom-1.0.0.Beta8.jar returned status 404
+1.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/swarm/bom/1.0.0.CR1/bom-1.0.0.CR1.jar returned status 404
 1.0.0.CR2		2016-06-20T22:57:20Z	
 1.0.0.Final		2016-06-27T18:13:59Z	
 2012.12.0		2017-12-12T20:03:05Z	
