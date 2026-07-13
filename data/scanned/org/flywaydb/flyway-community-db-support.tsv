@@ -1,7 +1,30 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.0.0/flyway-community-db-support-10.0.0.jar returned status 404
+10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.0.1/flyway-community-db-support-10.0.1.jar returned status 404
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.1.0/flyway-community-db-support-10.1.0.jar returned status 404
+10.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.11.0/flyway-community-db-support-10.11.0.jar returned status 404
+10.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.12.0/flyway-community-db-support-10.12.0.jar returned status 404
+10.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.15.0/flyway-community-db-support-10.15.0.jar returned status 404
+10.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.16.0/flyway-community-db-support-10.16.0.jar returned status 404
+10.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.16.1/flyway-community-db-support-10.16.1.jar returned status 404
+10.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.16.2/flyway-community-db-support-10.16.2.jar returned status 404
+10.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.16.3/flyway-community-db-support-10.16.3.jar returned status 404
+10.16.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.16.4/flyway-community-db-support-10.16.4.jar returned status 404
+10.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.17.0/flyway-community-db-support-10.17.0.jar returned status 404
+10.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.18.0/flyway-community-db-support-10.18.0.jar returned status 404
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.2.0/flyway-community-db-support-10.2.0.jar returned status 404
 10.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.20.0/flyway-community-db-support-10.20.0.jar returned status 404
 10.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.21.0/flyway-community-db-support-10.21.0.jar returned status 404
 10.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.22.0/flyway-community-db-support-10.22.0.jar returned status 404
 10.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.24.0/flyway-community-db-support-10.24.0.jar returned status 404
+10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.3.0/flyway-community-db-support-10.3.0.jar returned status 404
+10.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.4.0/flyway-community-db-support-10.4.0.jar returned status 404
+10.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.4.1/flyway-community-db-support-10.4.1.jar returned status 404
+10.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.5.0/flyway-community-db-support-10.5.0.jar returned status 404
+10.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.6.0/flyway-community-db-support-10.6.0.jar returned status 404
+10.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.7.0/flyway-community-db-support-10.7.0.jar returned status 404
+10.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.7.2/flyway-community-db-support-10.7.2.jar returned status 404
+10.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.8.0/flyway-community-db-support-10.8.0.jar returned status 404
+10.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-community-db-support/10.8.1/flyway-community-db-support-10.8.1.jar returned status 404
 7.10.0		2021-06-10T11:00:44Z	
 7.11.0		2021-07-01T10:17:59Z	
 7.11.1		2021-07-08T12:36:24Z	

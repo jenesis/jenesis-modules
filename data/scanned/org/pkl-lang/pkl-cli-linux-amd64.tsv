@@ -19,3 +19,4 @@
 0.30.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pkl-lang/pkl-cli-linux-amd64/0.30.2/pkl-cli-linux-amd64-0.30.2.jar returned status 404
 0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pkl-lang/pkl-cli-linux-amd64/0.31.0/pkl-cli-linux-amd64-0.31.0.jar returned status 404
 0.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pkl-lang/pkl-cli-linux-amd64/0.31.1/pkl-cli-linux-amd64-0.31.1.jar returned status 404
+0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pkl-lang/pkl-cli-linux-amd64/0.32.0/pkl-cli-linux-amd64-0.32.0.jar returned status 404

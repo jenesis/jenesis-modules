@@ -25,3 +25,5 @@
 0.6.2		2026-06-07T08:28:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sliceworkz/sliceworkz-eventmodeling-parent-pom/0.6.2/sliceworkz-eventmodeling-parent-pom-0.6.2.jar returned status 404
 0.6.3		2026-06-08T12:51:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sliceworkz/sliceworkz-eventmodeling-parent-pom/0.6.3/sliceworkz-eventmodeling-parent-pom-0.6.3.jar returned status 404
 0.6.4		2026-06-16T12:48:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sliceworkz/sliceworkz-eventmodeling-parent-pom/0.6.4/sliceworkz-eventmodeling-parent-pom-0.6.4.jar returned status 404
+0.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sliceworkz/sliceworkz-eventmodeling-parent-pom/0.6.5/sliceworkz-eventmodeling-parent-pom-0.6.5.jar returned status 404
+0.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sliceworkz/sliceworkz-eventmodeling-parent-pom/0.6.6/sliceworkz-eventmodeling-parent-pom-0.6.6.jar returned status 404
