@@ -1,3 +1,8 @@
+0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/tycho/tycho-bundles-target/0.13.0/tycho-bundles-target-0.13.0.jar returned status 404
+0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/tycho/tycho-bundles-target/0.14.0/tycho-bundles-target-0.14.0.jar returned status 404
+0.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/tycho/tycho-bundles-target/0.14.1/tycho-bundles-target-0.14.1.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/tycho/tycho-bundles-target/0.15.0/tycho-bundles-target-0.15.0.jar returned status 404
+0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/tycho/tycho-bundles-target/0.16.0/tycho-bundles-target-0.16.0.jar returned status 404
 0.17.0		2013-03-20T13:46:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/tycho/tycho-bundles-target/0.17.0/tycho-bundles-target-0.17.0.jar returned status 404
 0.18.0		2013-05-27T06:06:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/tycho/tycho-bundles-target/0.18.0/tycho-bundles-target-0.18.0.jar returned status 404
 0.18.1		2013-07-15T12:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/tycho/tycho-bundles-target/0.18.1/tycho-bundles-target-0.18.1.jar returned status 404
