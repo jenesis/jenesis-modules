@@ -208,7 +208,11 @@
 7.11.146		2026-07-02T10:59:46Z	
 7.11.147		2026-07-03T09:28:28Z	
 7.11.148		2026-07-03T10:59:37Z	
+7.11.149			
 7.11.15		2026-03-25T04:27:57Z	
+7.11.150			
+7.11.151			
+7.11.152			
 7.11.16		2026-03-25T11:27:38Z	
 7.11.17		2026-03-25T17:12:00Z	
 7.11.18		2026-03-26T05:40:29Z	
@@ -301,6 +305,9 @@
 7.11.97		2026-05-27T06:11:46Z	
 7.11.98		2026-05-27T08:58:41Z	
 7.11.99		2026-05-27T11:18:50Z	
+7.8.611			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.external.api.client/7.8.611/org.wso2.carbon.identity.external.api.client-7.8.611.jar returned status 404
+7.8.612			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.external.api.client/7.8.612/org.wso2.carbon.identity.external.api.client-7.8.612.jar returned status 404
+7.8.613			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/framework/org.wso2.carbon.identity.external.api.client/7.8.613/org.wso2.carbon.identity.external.api.client-7.8.613.jar returned status 404
 7.8.614		2025-11-16T16:15:25Z	
 7.8.615		2025-11-18T12:20:08Z	
 7.8.616		2025-11-18T19:32:35Z	
