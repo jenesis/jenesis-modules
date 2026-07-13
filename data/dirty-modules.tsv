@@ -3222,3 +3222,6 @@ io.quarkus.launcher
 io.quarkus.bootstrap.runner
 io.quarkus.core
 io.smallrye.common.net
+io.quarkus.qute
+io.quarkus.qute.generator
+io.quarkus.qute.debug

@@ -1,3 +1,5 @@
+0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-mailer-parent/0.16.0/quarkus-mailer-parent-0.16.0.jar returned status 404
+0.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-mailer-parent/0.16.1/quarkus-mailer-parent-0.16.1.jar returned status 404
 1.10.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-mailer-parent/1.10.0.CR1/quarkus-mailer-parent-1.10.0.CR1.jar returned status 404
 3.15.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-mailer-parent/3.15.6/quarkus-mailer-parent-3.15.6.jar returned status 404
 3.15.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-mailer-parent/3.15.6.1/quarkus-mailer-parent-3.15.6.1.jar returned status 404
