@@ -1,14 +1,26 @@
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.3.0/crafter-social-2.3.0.jar returned status 404
 2.3.0	classes	2013-12-11T00:18:15Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.3.1/crafter-social-2.3.1.jar returned status 404
 2.3.1	classes	2014-01-15T05:44:12Z	
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.3.3/crafter-social-2.3.3.jar returned status 404
 2.3.3	classes	2014-02-13T19:54:10Z	
+2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.3.4/crafter-social-2.3.4.jar returned status 404
 2.3.4	classes	2014-02-27T15:31:40Z	
+2.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.3.5/crafter-social-2.3.5.jar returned status 404
 2.3.5	classes	2014-04-14T19:44:54Z	
+2.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.3.6/crafter-social-2.3.6.jar returned status 404
 2.3.6	classes	2014-07-21T21:56:21Z	
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.0/crafter-social-2.5.0.jar returned status 404
 2.5.0	classes	2015-07-20T22:02:18Z	
+2.5.0-Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.0-Beta1/crafter-social-2.5.0-Beta1.jar returned status 404
 2.5.0-Beta1	classes	2014-10-28T19:25:32Z	
+2.5.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.0-RC3/crafter-social-2.5.0-RC3.jar returned status 404
 2.5.0-RC3	classes	2014-10-02T16:10:55Z	
+2.5.0.1.e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.0.1.e/crafter-social-2.5.0.1.e.jar returned status 404
 2.5.0.1.e	classes	2015-11-09T20:08:08Z	
+2.5.0.e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.0.e/crafter-social-2.5.0.e.jar returned status 404
 2.5.0.e	classes	2015-09-29T22:22:38Z	
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.1/crafter-social-2.5.1.jar returned status 404
 2.5.1	classes	2016-08-02T00:56:58Z	
 2.5.10		2021-12-16T22:44:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.10/crafter-social-2.5.10.jar returned status 404
 2.5.10	classes	2017-11-07T20:49:29Z	
@@ -30,10 +42,15 @@
 2.5.18	classes	2018-06-06T20:25:40Z	
 2.5.19		2021-12-16T22:44:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.19/crafter-social-2.5.19.jar returned status 404
 2.5.19	classes	2018-06-14T21:56:31Z	
+2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.2/crafter-social-2.5.2.jar returned status 404
 2.5.2	classes	2016-12-19T22:24:13Z	
+2.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.3/crafter-social-2.5.3.jar returned status 404
 2.5.3	classes	2017-02-03T14:51:41Z	
+2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.4/crafter-social-2.5.4.jar returned status 404
 2.5.4	classes	2017-02-07T01:13:06Z	
+2.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.5/crafter-social-2.5.5.jar returned status 404
 2.5.5	classes	2017-02-17T16:08:50Z	
+2.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.6/crafter-social-2.5.6.jar returned status 404
 2.5.6	classes	2017-03-29T14:10:45Z	
 2.5.7		2021-12-16T22:45:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/2.5.7/crafter-social-2.5.7.jar returned status 404
 2.5.7	classes	2017-10-07T01:10:17Z	
@@ -131,47 +148,83 @@
 3.1.16E	classes	2021-07-12T22:40:16Z	
 3.1.17		2021-12-16T22:44:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.17/crafter-social-3.1.17.jar returned status 404
 3.1.17	classes	2021-08-09T18:34:29Z	
+3.1.17.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.17.4/crafter-social-3.1.17.4.jar returned status 404
 3.1.17.4	classes	2021-12-16T22:55:21Z	
+3.1.17.4E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.17.4E/crafter-social-3.1.17.4E.jar returned status 404
 3.1.17.4E	classes	2021-12-17T00:59:34Z	
+3.1.17.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.17.5/crafter-social-3.1.17.5.jar returned status 404
 3.1.17.5	classes	2021-12-18T16:37:26Z	
+3.1.17.5E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.17.5E/crafter-social-3.1.17.5E.jar returned status 404
 3.1.17.5E	classes	2021-12-18T17:09:47Z	
+3.1.17.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.17.6/crafter-social-3.1.17.6.jar returned status 404
 3.1.17.6	classes	2021-12-19T20:07:44Z	
+3.1.17.6E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.17.6E/crafter-social-3.1.17.6E.jar returned status 404
 3.1.17.6E	classes	2021-12-19T20:45:15Z	
+3.1.17.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.17.7/crafter-social-3.1.17.7.jar returned status 404
 3.1.17.7	classes	2022-01-05T19:43:59Z	
+3.1.17.7E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.17.7E/crafter-social-3.1.17.7E.jar returned status 404
 3.1.17.7E	classes	2022-01-05T20:17:08Z	
 3.1.17E		2021-12-16T22:44:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.17E/crafter-social-3.1.17E.jar returned status 404
 3.1.17E	classes	2021-08-09T19:07:36Z	
+3.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.18/crafter-social-3.1.18.jar returned status 404
 3.1.18	classes	2022-01-19T19:10:14Z	
+3.1.18E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.18E/crafter-social-3.1.18E.jar returned status 404
 3.1.18E	classes	2022-01-19T19:34:58Z	
+3.1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.19/crafter-social-3.1.19.jar returned status 404
 3.1.19	classes	2022-01-31T15:52:25Z	
+3.1.19E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.19E/crafter-social-3.1.19E.jar returned status 404
 3.1.19E	classes	2022-01-31T16:46:46Z	
 3.1.2		2021-12-16T22:44:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.2/crafter-social-3.1.2.jar returned status 404
 3.1.2	classes	2019-09-06T22:40:53Z	
+3.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.20/crafter-social-3.1.20.jar returned status 404
 3.1.20	classes	2022-02-01T22:18:06Z	
+3.1.20E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.20E/crafter-social-3.1.20E.jar returned status 404
 3.1.20E	classes	2022-02-01T22:41:05Z	
+3.1.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.21/crafter-social-3.1.21.jar returned status 404
 3.1.21	classes	2022-02-07T20:29:56Z	
+3.1.21E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.21E/crafter-social-3.1.21E.jar returned status 404
 3.1.21E	classes	2022-02-07T20:45:38Z	
+3.1.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.22/crafter-social-3.1.22.jar returned status 404
 3.1.22	classes	2022-02-23T21:32:59Z	
+3.1.22E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.22E/crafter-social-3.1.22E.jar returned status 404
 3.1.22E	classes	2022-02-23T21:49:13Z	
+3.1.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.23/crafter-social-3.1.23.jar returned status 404
 3.1.23	classes	2022-04-27T20:34:20Z	
+3.1.23E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.23E/crafter-social-3.1.23E.jar returned status 404
 3.1.23E	classes	2022-04-27T20:47:48Z	
+3.1.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.24/crafter-social-3.1.24.jar returned status 404
 3.1.24	classes	2022-07-08T19:21:03Z	
+3.1.24E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.24E/crafter-social-3.1.24E.jar returned status 404
 3.1.24E	classes	2022-07-08T19:31:32Z	
+3.1.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.25/crafter-social-3.1.25.jar returned status 404
 3.1.25	classes	2022-08-29T20:55:18Z	
+3.1.25E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.25E/crafter-social-3.1.25E.jar returned status 404
 3.1.25E	classes	2022-08-29T21:07:35Z	
+3.1.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.26/crafter-social-3.1.26.jar returned status 404
 3.1.26	classes	2022-09-09T19:50:44Z	
+3.1.26E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.26E/crafter-social-3.1.26E.jar returned status 404
 3.1.26E	classes	2022-09-09T20:11:53Z	
+3.1.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.27/crafter-social-3.1.27.jar returned status 404
 3.1.27	classes	2022-10-01T15:52:57Z	
+3.1.27E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.27E/crafter-social-3.1.27E.jar returned status 404
 3.1.27E	classes	2022-10-01T16:04:01Z	
+3.1.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.28/crafter-social-3.1.28.jar returned status 404
 3.1.28	classes	2022-12-21T23:04:40Z	
+3.1.28E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.28E/crafter-social-3.1.28E.jar returned status 404
 3.1.28E	classes	2022-12-21T23:14:37Z	
+3.1.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.29/crafter-social-3.1.29.jar returned status 404
 3.1.29	classes	2023-01-24T23:35:24Z	
+3.1.29E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.29E/crafter-social-3.1.29E.jar returned status 404
 3.1.29E	classes	2023-01-24T23:46:20Z	
 3.1.3		2021-12-16T22:45:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.3/crafter-social-3.1.3.jar returned status 404
 3.1.3	classes	2019-09-09T21:30:10Z	
+3.1.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.30/crafter-social-3.1.30.jar returned status 404
 3.1.30	classes	2023-05-04T17:45:55Z	
+3.1.30E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.30E/crafter-social-3.1.30E.jar returned status 404
 3.1.30E	classes	2023-05-04T17:57:26Z	
+3.1.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.31/crafter-social-3.1.31.jar returned status 404
 3.1.31	classes	2023-09-19T18:39:13Z	
+3.1.31E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.31E/crafter-social-3.1.31E.jar returned status 404
 3.1.31E	classes	2023-09-19T18:59:33Z	
 3.1.4		2021-12-16T22:44:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.4/crafter-social-3.1.4.jar returned status 404
 3.1.4	classes	2019-11-26T19:37:35Z	
@@ -195,27 +248,51 @@
 3.1.9	classes	2020-08-20T18:26:53Z	
 3.1.9E		2021-12-16T22:45:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/3.1.9E/crafter-social-3.1.9E.jar returned status 404
 3.1.9E	classes	2020-08-21T13:36:02Z	
+4.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.0.0-rc1/crafter-social-4.0.0-rc1.jar returned status 404
 4.0.0-rc1	classes	2022-01-07T22:19:48Z	
+4.0.0-rc1E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.0.0-rc1E/crafter-social-4.0.0-rc1E.jar returned status 404
 4.0.0-rc1E	classes	2022-01-07T23:01:13Z	
+4.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.0.0-rc2/crafter-social-4.0.0-rc2.jar returned status 404
 4.0.0-rc2	classes	2022-03-08T21:47:44Z	
+4.0.0-rc2E			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.0.0-rc2E/crafter-social-4.0.0-rc2E.jar returned status 404
 4.0.0-rc2E	classes	2022-03-08T22:04:29Z	
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.0.1/crafter-social-4.0.1.jar returned status 404
 4.0.1	classes	2022-09-16T16:55:33Z	
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.0.2/crafter-social-4.0.2.jar returned status 404
 4.0.2	classes	2022-10-25T13:23:33Z	
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.0.4/crafter-social-4.0.4.jar returned status 404
 4.0.4	classes	2023-06-02T18:29:01Z	
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.0.5/crafter-social-4.0.5.jar returned status 404
 4.0.5	classes	2023-06-07T22:30:30Z	
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.0.6/crafter-social-4.0.6.jar returned status 404
 4.0.6	classes	2023-07-04T11:55:58Z	
+4.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.1.5/crafter-social-4.1.5.jar returned status 404
 4.1.5	classes	2024-05-30T21:05:53Z	
+4.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.1.6/crafter-social-4.1.6.jar returned status 404
 4.1.6	classes	2024-08-19T22:11:05Z	
+4.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.1.7/crafter-social-4.1.7.jar returned status 404
 4.1.7	classes	2024-09-12T22:27:31Z	
+4.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.1.8/crafter-social-4.1.8.jar returned status 404
 4.1.8	classes	2024-09-13T20:55:30Z	
+4.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.1.9/crafter-social-4.1.9.jar returned status 404
 4.1.9	classes	2024-11-27T15:41:03Z	
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.2.1/crafter-social-4.2.1.jar returned status 404
 4.2.1	classes	2025-01-15T20:57:21Z	
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.2.2/crafter-social-4.2.2.jar returned status 404
 4.2.2	classes	2025-01-16T01:13:44Z	
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.3.0/crafter-social-4.3.0.jar returned status 404
 4.3.0	classes	2025-02-21T19:11:12Z	
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/4.3.1/crafter-social-4.3.1.jar returned status 404
 4.3.1	classes	2025-04-02T19:26:38Z	
+v2.5.0-Beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/v2.5.0-Beta4/crafter-social-v2.5.0-Beta4.jar returned status 404
 v2.5.0-Beta4	classes	2015-01-07T03:49:25Z	
+v2.5.0-Beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/v2.5.0-Beta5/crafter-social-v2.5.0-Beta5.jar returned status 404
 v2.5.0-Beta5	classes	2015-01-08T02:09:00Z	
+v2.5.0-Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/v2.5.0-Beta6/crafter-social-v2.5.0-Beta6.jar returned status 404
 v2.5.0-Beta6	classes	2015-02-13T02:51:01Z	
+v2.5.0-Beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/v2.5.0-Beta7/crafter-social-v2.5.0-Beta7.jar returned status 404
 v2.5.0-Beta7	classes	2015-02-13T22:19:49Z	
+v2.5.0-Beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/v2.5.0-Beta8/crafter-social-v2.5.0-Beta8.jar returned status 404
 v2.5.0-Beta8	classes	2015-03-05T21:48:58Z	
+v2.5.0-Beta9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-social/v2.5.0-Beta9/crafter-social-v2.5.0-Beta9.jar returned status 404
 v2.5.0-Beta9	classes	2015-03-06T21:28:53Z	

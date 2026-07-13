@@ -1,47 +1,122 @@
+1.5-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.5-alpha/dspace-jspui-1.5-alpha.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.5.0/dspace-jspui-1.5.0.jar returned status 404
+1.5.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.5.0-beta1/dspace-jspui-1.5.0-beta1.jar returned status 404
+1.5.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.5.0-beta2/dspace-jspui-1.5.0-beta2.jar returned status 404
+1.5.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.5.0-rc1/dspace-jspui-1.5.0-rc1.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.5.1/dspace-jspui-1.5.1.jar returned status 404
+1.5.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.5.1-beta/dspace-jspui-1.5.1-beta.jar returned status 404
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.5.2/dspace-jspui-1.5.2.jar returned status 404
+1.5.2-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.5.2-rc1/dspace-jspui-1.5.2-rc1.jar returned status 404
+1.5.2-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.5.2-rc2/dspace-jspui-1.5.2-rc2.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.6.0/dspace-jspui-1.6.0.jar returned status 404
+1.6.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.6.0-rc1/dspace-jspui-1.6.0-rc1.jar returned status 404
+1.6.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.6.0-rc2/dspace-jspui-1.6.0-rc2.jar returned status 404
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.6.1/dspace-jspui-1.6.1.jar returned status 404
+1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.6.2/dspace-jspui-1.6.2.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.7.0/dspace-jspui-1.7.0.jar returned status 404
+1.7.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.7.0-rc1/dspace-jspui-1.7.0-rc1.jar returned status 404
+1.7.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.7.0-rc2/dspace-jspui-1.7.0-rc2.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.7.1/dspace-jspui-1.7.1.jar returned status 404
+1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.7.2/dspace-jspui-1.7.2.jar returned status 404
+1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.7.3/dspace-jspui-1.7.3.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.8.0/dspace-jspui-1.8.0.jar returned status 404
+1.8.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.8.0-rc1/dspace-jspui-1.8.0-rc1.jar returned status 404
+1.8.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.8.0-rc2/dspace-jspui-1.8.0-rc2.jar returned status 404
+1.8.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.8.0-rc3/dspace-jspui-1.8.0-rc3.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.8.1/dspace-jspui-1.8.1.jar returned status 404
+1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.8.2/dspace-jspui-1.8.2.jar returned status 404
+1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/1.8.3/dspace-jspui-1.8.3.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/3.0/dspace-jspui-3.0.jar returned status 404
 3.0	classes	2012-11-30T17:27:39Z	
+3.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/3.0-rc1/dspace-jspui-3.0-rc1.jar returned status 404
 3.0-rc1	classes	2012-10-09T19:15:34Z	
+3.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/3.0-rc2/dspace-jspui-3.0-rc2.jar returned status 404
 3.0-rc2	classes	2012-10-24T21:38:01Z	
+3.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/3.0-rc3/dspace-jspui-3.0-rc3.jar returned status 404
 3.0-rc3	classes	2012-11-02T15:52:19Z	
+3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/3.1/dspace-jspui-3.1.jar returned status 404
 3.1	classes	2013-01-30T20:14:36Z	
+3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/3.2/dspace-jspui-3.2.jar returned status 404
 3.2	classes	2013-07-24T18:48:54Z	
+3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/3.3/dspace-jspui-3.3.jar returned status 404
 3.3	classes	2014-06-20T18:46:48Z	
+3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/3.4/dspace-jspui-3.4.jar returned status 404
 3.4	classes	2015-02-24T21:07:47Z	
+3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/3.5/dspace-jspui-3.5.jar returned status 404
 3.5	classes	2015-11-09T18:00:45Z	
+3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/3.6/dspace-jspui-3.6.jar returned status 404
 3.6	classes	2016-03-18T21:07:34Z	
+4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.0/dspace-jspui-4.0.jar returned status 404
 4.0	classes	2013-12-16T20:16:06Z	
+4.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.0-rc1/dspace-jspui-4.0-rc1.jar returned status 404
 4.0-rc1	classes	2013-11-01T20:05:28Z	
+4.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.0-rc2/dspace-jspui-4.0-rc2.jar returned status 404
 4.0-rc2	classes	2013-12-03T18:00:22Z	
+4.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.0-rc3/dspace-jspui-4.0-rc3.jar returned status 404
 4.0-rc3	classes	2013-12-07T00:32:22Z	
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.1/dspace-jspui-4.1.jar returned status 404
 4.1	classes	2014-03-03T15:10:43Z	
+4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.2/dspace-jspui-4.2.jar returned status 404
 4.2	classes	2014-07-21T08:58:11Z	
+4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.3/dspace-jspui-4.3.jar returned status 404
 4.3	classes	2015-02-25T16:17:11Z	
+4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.4/dspace-jspui-4.4.jar returned status 404
 4.4	classes	2015-11-09T18:48:55Z	
+4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.5/dspace-jspui-4.5.jar returned status 404
 4.5	classes	2016-03-18T21:27:36Z	
+4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.6/dspace-jspui-4.6.jar returned status 404
 4.6	classes	2016-09-19T11:39:31Z	
+4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.7/dspace-jspui-4.7.jar returned status 404
 4.7	classes	2016-10-13T14:25:41Z	
+4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.8/dspace-jspui-4.8.jar returned status 404
 4.8	classes	2017-07-12T16:45:39Z	
+4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/4.9/dspace-jspui-4.9.jar returned status 404
 4.9	classes	2018-06-25T20:19:07Z	
+5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.0/dspace-jspui-5.0.jar returned status 404
 5.0	classes	2015-01-16T17:33:05Z	
+5.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.0-rc1/dspace-jspui-5.0-rc1.jar returned status 404
 5.0-rc1	classes	2014-11-07T23:42:50Z	
+5.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.0-rc2/dspace-jspui-5.0-rc2.jar returned status 404
 5.0-rc2	classes	2014-11-10T23:10:57Z	
+5.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.0-rc3/dspace-jspui-5.0-rc3.jar returned status 404
 5.0-rc3	classes	2014-12-19T20:35:17Z	
+5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.1/dspace-jspui-5.1.jar returned status 404
 5.1	classes	2015-02-25T18:56:09Z	
+5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.10/dspace-jspui-5.10.jar returned status 404
 5.10	classes	2018-10-04T18:33:25Z	
+5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.11/dspace-jspui-5.11.jar returned status 404
 5.11	classes	2022-07-28T16:30:57Z	
+5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.2/dspace-jspui-5.2.jar returned status 404
 5.2	classes	2015-05-20T17:02:55Z	
+5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.3/dspace-jspui-5.3.jar returned status 404
 5.3	classes	2015-07-29T09:42:02Z	
+5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.4/dspace-jspui-5.4.jar returned status 404
 5.4	classes	2015-11-09T20:59:16Z	
+5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.5/dspace-jspui-5.5.jar returned status 404
 5.5	classes	2016-03-18T20:40:30Z	
+5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.6/dspace-jspui-5.6.jar returned status 404
 5.6	classes	2016-09-29T18:02:08Z	
+5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.7/dspace-jspui-5.7.jar returned status 404
 5.7	classes	2017-07-12T20:07:29Z	
+5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.8/dspace-jspui-5.8.jar returned status 404
 5.8	classes	2017-09-01T16:46:59Z	
+5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/5.9/dspace-jspui-5.9.jar returned status 404
 5.9	classes	2018-06-25T21:26:39Z	
+6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/6.0/dspace-jspui-6.0.jar returned status 404
 6.0	classes	2016-10-24T12:56:18Z	
+6.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/6.0-rc1/dspace-jspui-6.0-rc1.jar returned status 404
 6.0-rc1	classes	2016-04-26T13:56:25Z	
+6.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/6.0-rc2/dspace-jspui-6.0-rc2.jar returned status 404
 6.0-rc2	classes	2016-06-10T20:07:34Z	
+6.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/6.0-rc3/dspace-jspui-6.0-rc3.jar returned status 404
 6.0-rc3	classes	2016-09-06T17:57:16Z	
+6.0-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/6.0-rc4/dspace-jspui-6.0-rc4.jar returned status 404
 6.0-rc4	classes	2016-10-14T17:28:53Z	
+6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/6.1/dspace-jspui-6.1.jar returned status 404
 6.1	classes	2017-07-13T17:50:06Z	
+6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/6.2/dspace-jspui-6.2.jar returned status 404
 6.2	classes	2017-09-07T20:37:16Z	
+6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/6.3/dspace-jspui-6.3.jar returned status 404
 6.3	classes	2018-06-26T17:46:25Z	
+6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-jspui/6.4/dspace-jspui-6.4.jar returned status 404
 6.4	classes	2022-07-28T17:26:13Z	

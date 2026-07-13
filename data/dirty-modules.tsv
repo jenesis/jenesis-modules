@@ -1551,3 +1551,4 @@ org.pushingpixels.radiance.component
 org.pushingpixels.radiance.swing.ktx
 org.pushingpixels.radiance.component.ktx
 org.pushingpixels.radiance.svg.transcoder
+ch.vorburger.mariadb4j

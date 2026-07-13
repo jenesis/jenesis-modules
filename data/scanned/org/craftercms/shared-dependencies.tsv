@@ -1,1 +1,6 @@
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/shared-dependencies/4.2.0/shared-dependencies-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/shared-dependencies/4.2.1/shared-dependencies-4.2.1.jar returned status 404
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/shared-dependencies/4.2.2/shared-dependencies-4.2.2.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/shared-dependencies/4.3.0/shared-dependencies-4.3.0.jar returned status 404
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/shared-dependencies/4.3.1/shared-dependencies-4.3.1.jar returned status 404
 4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/shared-dependencies/4.3.2/shared-dependencies-4.3.2.jar returned status 404

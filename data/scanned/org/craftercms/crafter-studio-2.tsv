@@ -1,11 +1,16 @@
 2.5.0		2021-12-16T22:55:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.0/crafter-studio-2-2.5.0.jar returned status 404
 2.5.0	classes	2015-07-29T17:49:25Z	
+2.5.0.0.1.e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.0.0.1.e/crafter-studio-2-2.5.0.0.1.e.jar returned status 404
 2.5.0.0.1.e	classes	2016-05-04T18:52:48Z	
 2.5.0.1.2		2021-12-16T22:54:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.0.1.2/crafter-studio-2-2.5.0.1.2.jar returned status 404
 2.5.0.1.2	classes	2016-04-27T20:17:28Z	
+2.5.0.1.e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.0.1.e/crafter-studio-2-2.5.0.1.e.jar returned status 404
 2.5.0.1.e	classes	2015-11-09T20:09:15Z	
+2.5.0.e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.0.e/crafter-studio-2-2.5.0.e.jar returned status 404
 2.5.0.e	classes	2015-09-29T22:23:45Z	
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.1/crafter-studio-2-2.5.1.jar returned status 404
 2.5.1	classes	2016-08-01T22:41:42Z	
+2.5.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.1-RC1/crafter-studio-2-2.5.1-RC1.jar returned status 404
 2.5.1-RC1	classes	2015-12-27T04:47:07Z	
 2.5.10		2021-12-16T22:54:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.10/crafter-studio-2-2.5.10.jar returned status 404
 2.5.10	classes	2017-11-07T20:51:53Z	
@@ -27,10 +32,15 @@
 2.5.18	classes	2018-06-06T20:26:19Z	
 2.5.19		2021-12-16T22:54:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.19/crafter-studio-2-2.5.19.jar returned status 404
 2.5.19	classes	2018-06-14T21:58:08Z	
+2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.2/crafter-studio-2-2.5.2.jar returned status 404
 2.5.2	classes	2016-12-19T22:25:16Z	
+2.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.3/crafter-studio-2-2.5.3.jar returned status 404
 2.5.3	classes	2017-02-03T15:17:05Z	
+2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.4/crafter-studio-2-2.5.4.jar returned status 404
 2.5.4	classes	2017-02-07T02:00:08Z	
+2.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.5/crafter-studio-2-2.5.5.jar returned status 404
 2.5.5	classes	2017-02-17T16:10:13Z	
+2.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.6/crafter-studio-2-2.5.6.jar returned status 404
 2.5.6	classes	2017-03-29T14:11:50Z	
 2.5.7		2021-12-16T22:55:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/craftercms/crafter-studio-2/2.5.7/crafter-studio-2-2.5.7.jar returned status 404
 2.5.7	classes	2017-10-07T00:47:39Z	

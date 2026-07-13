@@ -5,3 +5,4 @@
 3.4.0		2023-10-30T19:39:49Z	
 3.4.1		2025-05-19T17:05:15Z	
 3.4.2		2026-06-22T20:39:17Z	
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/xoai/4.2.0/xoai-4.2.0.jar returned status 404

@@ -1,2 +1,17 @@
 0.1		2019-10-03T09:14:31Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0/domino-rest-1.0.0.jar returned status 404
+1.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0-RC1/domino-rest-1.0.0-RC1.jar returned status 404
+1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0-RC2/domino-rest-1.0.0-RC2.jar returned status 404
+1.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0-RC3/domino-rest-1.0.0-RC3.jar returned status 404
+1.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0-RC4/domino-rest-1.0.0-RC4.jar returned status 404
+1.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0-RC5/domino-rest-1.0.0-RC5.jar returned status 404
+1.0.0-RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0-RC6/domino-rest-1.0.0-RC6.jar returned status 404
+1.0.0-RC7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0-RC7/domino-rest-1.0.0-RC7.jar returned status 404
+1.0.0-RC8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0-RC8/domino-rest-1.0.0-RC8.jar returned status 404
+1.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0-beta/domino-rest-1.0.0-beta.jar returned status 404
+1.0.0-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.0-beta-2/domino-rest-1.0.0-beta-2.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.1/domino-rest-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/1.0.2/domino-rest-1.0.2.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/2.0.0/domino-rest-2.0.0.jar returned status 404
+2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/2.0.0-RC1/domino-rest-2.0.0-RC1.jar returned status 404
+2.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/2.0.0-RC2/domino-rest-2.0.0-RC2.jar returned status 404
