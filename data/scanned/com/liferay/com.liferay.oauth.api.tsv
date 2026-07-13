@@ -1,3 +1,22 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.0/com.liferay.oauth.api-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.1/com.liferay.oauth.api-1.0.1.jar returned status 404
+1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.10/com.liferay.oauth.api-1.0.10.jar returned status 404
+1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.11/com.liferay.oauth.api-1.0.11.jar returned status 404
+1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.12/com.liferay.oauth.api-1.0.12.jar returned status 404
+1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.13/com.liferay.oauth.api-1.0.13.jar returned status 404
+1.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.14/com.liferay.oauth.api-1.0.14.jar returned status 404
+1.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.15/com.liferay.oauth.api-1.0.15.jar returned status 404
+1.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.16/com.liferay.oauth.api-1.0.16.jar returned status 404
+1.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.17/com.liferay.oauth.api-1.0.17.jar returned status 404
+1.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.18/com.liferay.oauth.api-1.0.18.jar returned status 404
+1.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.19/com.liferay.oauth.api-1.0.19.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.2/com.liferay.oauth.api-1.0.2.jar returned status 404
+1.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.20/com.liferay.oauth.api-1.0.20.jar returned status 404
+1.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.21/com.liferay.oauth.api-1.0.21.jar returned status 404
+1.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.22/com.liferay.oauth.api-1.0.22.jar returned status 404
+1.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.23/com.liferay.oauth.api-1.0.23.jar returned status 404
+1.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.24/com.liferay.oauth.api-1.0.24.jar returned status 404
+1.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.25/com.liferay.oauth.api-1.0.25.jar returned status 404
 1.0.26		2020-02-11T05:22:29Z	
 1.0.26	sources-commercial	2020-02-11T05:22:33Z	
 1.0.27		2020-06-24T21:50:53Z	
@@ -6,6 +25,7 @@
 1.0.28	sources-commercial	2020-07-20T21:50:01Z	
 1.0.29		2020-08-06T19:09:37Z	
 1.0.29	sources-commercial	2020-08-06T19:09:40Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.3/com.liferay.oauth.api-1.0.3.jar returned status 404
 1.0.30		2021-03-10T02:24:57Z	
 1.0.30	sources-commercial	2021-03-10T02:24:59Z	
 1.0.31		2021-10-29T16:18:37Z	
@@ -16,9 +36,21 @@
 1.0.33	sources-commercial	2021-12-14T03:28:14Z	
 1.0.34		2021-12-14T05:30:15Z	
 1.0.34	sources-commercial	2021-12-14T05:30:16Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.4/com.liferay.oauth.api-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.5/com.liferay.oauth.api-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.6/com.liferay.oauth.api-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.7/com.liferay.oauth.api-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.8/com.liferay.oauth.api-1.0.8.jar returned status 404
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/1.0.9/com.liferay.oauth.api-1.0.9.jar returned status 404
 1.1.0		2023-07-20T09:24:22Z	
 1.1.0	sources-commercial	2023-07-20T09:24:37Z	
 1.1.1		2024-02-27T13:47:07Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.0/com.liferay.oauth.api-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.1/com.liferay.oauth.api-2.0.1.jar returned status 404
+2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.10/com.liferay.oauth.api-2.0.10.jar returned status 404
+2.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.11/com.liferay.oauth.api-2.0.11.jar returned status 404
+2.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.12/com.liferay.oauth.api-2.0.12.jar returned status 404
+2.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.13/com.liferay.oauth.api-2.0.13.jar returned status 404
 2.0.14		2020-02-12T07:50:29Z	
 2.0.14	sources-commercial	2020-02-12T07:50:35Z	
 2.0.15		2020-06-18T18:03:49Z	
@@ -31,13 +63,30 @@
 2.0.18	sources-commercial	2021-03-17T12:57:48Z	
 2.0.19		2021-10-29T18:35:18Z	
 2.0.19	sources-commercial	2021-10-29T18:35:19Z	
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.2/com.liferay.oauth.api-2.0.2.jar returned status 404
 2.0.20		2021-12-01T22:00:41Z	
 2.0.20	sources-commercial	2021-12-01T22:00:44Z	
 2.0.21		2021-12-17T03:49:04Z	
 2.0.21	sources-commercial	2021-12-17T03:49:06Z	
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.3/com.liferay.oauth.api-2.0.3.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.4/com.liferay.oauth.api-2.0.4.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.5/com.liferay.oauth.api-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.6/com.liferay.oauth.api-2.0.6.jar returned status 404
+2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.7/com.liferay.oauth.api-2.0.7.jar returned status 404
+2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.8/com.liferay.oauth.api-2.0.8.jar returned status 404
+2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/2.0.9/com.liferay.oauth.api-2.0.9.jar returned status 404
 2.1.0		2023-07-05T15:06:16Z	
 2.1.0	sources-commercial	2023-07-05T15:06:18Z	
 2.1.1		2023-07-21T16:23:56Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.0.0/com.liferay.oauth.api-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.0.1/com.liferay.oauth.api-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.0.2/com.liferay.oauth.api-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.0.3/com.liferay.oauth.api-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.0.4/com.liferay.oauth.api-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.0.5/com.liferay.oauth.api-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.0.6/com.liferay.oauth.api-3.0.6.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.1.0/com.liferay.oauth.api-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.1.1/com.liferay.oauth.api-3.1.1.jar returned status 404
 3.1.10		2020-10-12T04:47:53Z	
 3.1.10	sources-commercial	2020-10-12T04:47:54Z	
 3.1.11		2021-03-26T19:33:03Z	
@@ -50,6 +99,9 @@
 3.1.14	sources-commercial	2021-12-16T11:34:45Z	
 3.1.15		2022-04-05T14:37:16Z	
 3.1.15	sources-commercial	2022-04-05T14:37:17Z	
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.1.2/com.liferay.oauth.api-3.1.2.jar returned status 404
+3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.1.3/com.liferay.oauth.api-3.1.3.jar returned status 404
+3.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/3.1.4/com.liferay.oauth.api-3.1.4.jar returned status 404
 3.1.5		2020-01-21T08:27:24Z	
 3.1.5	sources-commercial	2020-01-21T08:27:31Z	
 3.1.6		2020-02-11T23:54:40Z	
@@ -63,6 +115,7 @@
 3.2.0		2023-07-05T21:31:01Z	
 3.2.0	sources-commercial	2023-07-05T21:31:06Z	
 3.2.1		2023-07-24T05:45:25Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.oauth.api/4.0.0/com.liferay.oauth.api-4.0.0.jar returned status 404
 4.0.1		2020-01-18T04:30:44Z	
 4.0.1	sources-commercial	2020-01-18T04:30:50Z	
 4.1.0		2020-02-29T22:28:56Z	

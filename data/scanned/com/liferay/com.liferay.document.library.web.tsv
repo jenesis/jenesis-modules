@@ -3,6 +3,7 @@
 1.0.10		2016-06-08T00:12:55Z	
 1.0.2		2016-03-23T04:56:56Z	
 1.0.3		2016-03-25T00:14:46Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.document.library.web/1.0.4/com.liferay.document.library.web-1.0.4.jar returned status 404
 1.0.5		2016-03-31T03:54:44Z	
 1.0.6		2016-06-01T06:28:20Z	
 1.0.7		2016-06-01T22:14:19Z	

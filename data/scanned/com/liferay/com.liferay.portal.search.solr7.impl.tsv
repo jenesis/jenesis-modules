@@ -97,6 +97,7 @@
 2.0.14	sources-commercial	2019-07-31T04:19:20Z	
 2.0.15		2019-08-06T19:07:43Z	
 2.0.15	sources-commercial	2019-08-06T19:07:50Z	
+2.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/liferay/com.liferay.portal.search.solr7.impl/2.0.16/com.liferay.portal.search.solr7.impl-2.0.16.jar returned status 404
 2.0.16	sources-commercial	2019-09-19T09:07:49Z	
 2.0.17		2019-09-22T05:35:49Z	
 2.0.17	sources-commercial	2019-09-22T05:35:57Z	
