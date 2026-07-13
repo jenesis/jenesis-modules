@@ -1,3 +1,12 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/1.0.0/giscat-1.0.0.jar returned status 404
+1.0.0-STABLE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/1.0.0-STABLE/giscat-1.0.0-STABLE.jar returned status 404
+1.0.1-STABLE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/1.0.1-STABLE/giscat-1.0.1-STABLE.jar returned status 404
+1.1.1-STABLE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/1.1.1-STABLE/giscat-1.1.1-STABLE.jar returned status 404
+1.3.0-STABLE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/1.3.0-STABLE/giscat-1.3.0-STABLE.jar returned status 404
+g1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/g1.5.0/giscat-g1.5.0.jar returned status 404
+g1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/g1.6.0/giscat-g1.6.0.jar returned status 404
+g1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/g1.6.1/giscat-g1.6.1.jar returned status 404
+g1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/g1.7.0/giscat-g1.7.0.jar returned status 404
 g1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/g1.7.2/giscat-g1.7.2.jar returned status 404
 g1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/g1.7.3/giscat-g1.7.3.jar returned status 404
 g1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wowtools/giscat/g1.7.4/giscat-g1.7.4.jar returned status 404

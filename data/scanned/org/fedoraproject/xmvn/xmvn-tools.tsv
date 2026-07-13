@@ -1,2 +1,8 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fedoraproject/xmvn/xmvn-tools/3.0.0/xmvn-tools-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fedoraproject/xmvn/xmvn-tools/3.1.0/xmvn-tools-3.1.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fedoraproject/xmvn/xmvn-tools/4.0.0/xmvn-tools-4.0.0.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fedoraproject/xmvn/xmvn-tools/4.1.0/xmvn-tools-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fedoraproject/xmvn/xmvn-tools/4.2.0/xmvn-tools-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fedoraproject/xmvn/xmvn-tools/4.3.0/xmvn-tools-4.3.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fedoraproject/xmvn/xmvn-tools/5.0.0/xmvn-tools-5.0.0.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fedoraproject/xmvn/xmvn-tools/5.1.0/xmvn-tools-5.1.0.jar returned status 404

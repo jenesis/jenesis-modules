@@ -36,6 +36,26 @@
 5.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.14.2/junit-bom-5.14.2.jar returned status 404
 5.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.14.3/junit-bom-5.14.3.jar returned status 404
 5.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.14.4/junit-bom-5.14.4.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.2.0/junit-bom-5.2.0.jar returned status 404
+5.2.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.2.0-M1/junit-bom-5.2.0-M1.jar returned status 404
+5.2.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.2.0-RC1/junit-bom-5.2.0-RC1.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.3.0/junit-bom-5.3.0.jar returned status 404
+5.3.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.3.0-M1/junit-bom-5.3.0-M1.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.3.0-RC1/junit-bom-5.3.0-RC1.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.3.1/junit-bom-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.3.2/junit-bom-5.3.2.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.4.0/junit-bom-5.4.0.jar returned status 404
+5.4.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.4.0-M1/junit-bom-5.4.0-M1.jar returned status 404
+5.4.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.4.0-RC1/junit-bom-5.4.0-RC1.jar returned status 404
+5.4.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.4.0-RC2/junit-bom-5.4.0-RC2.jar returned status 404
+5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.4.1/junit-bom-5.4.1.jar returned status 404
+5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.4.2/junit-bom-5.4.2.jar returned status 404
+5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.5.0/junit-bom-5.5.0.jar returned status 404
+5.5.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.5.0-M1/junit-bom-5.5.0-M1.jar returned status 404
+5.5.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.5.0-RC1/junit-bom-5.5.0-RC1.jar returned status 404
+5.5.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.5.0-RC2/junit-bom-5.5.0-RC2.jar returned status 404
+5.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.5.1/junit-bom-5.5.1.jar returned status 404
+5.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.5.2/junit-bom-5.5.2.jar returned status 404
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.6.0/junit-bom-5.6.0.jar returned status 404
 5.6.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.6.0-M1/junit-bom-5.6.0-M1.jar returned status 404
 5.6.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/5.6.0-RC1/junit-bom-5.6.0-RC1.jar returned status 404
@@ -71,3 +91,4 @@
 6.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/6.1.0-M1/junit-bom-6.1.0-M1.jar returned status 404
 6.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/6.1.0-RC1/junit-bom-6.1.0-RC1.jar returned status 404
 6.1.1		2026-06-28T09:24:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/6.1.1/junit-bom-6.1.1.jar returned status 404
+6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/junit/junit-bom/6.1.2/junit-bom-6.1.2.jar returned status 404

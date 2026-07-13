@@ -1,5 +1,6 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-all/4.0.0/groovy-all-4.0.0.jar returned status 404
 4.0.0	groovydoc	2022-01-25T11:26:36Z	
+4.0.0-alpha-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-all/4.0.0-alpha-1/groovy-all-4.0.0-alpha-1.jar returned status 404
 4.0.0-alpha-1	groovydoc	2020-10-19T13:35:47Z	
 4.0.0-alpha-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/groovy/groovy-all/4.0.0-alpha-2/groovy-all-4.0.0-alpha-2.jar returned status 404
 4.0.0-alpha-2	groovydoc	2020-12-01T14:55:23Z	
