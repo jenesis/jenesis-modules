@@ -1,3 +1,4 @@
+3.10.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.10.0.CR1/quarkus-rest-servlet-parent-3.10.0.CR1.jar returned status 404
 3.15.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.15.6/quarkus-rest-servlet-parent-3.15.6.jar returned status 404
 3.15.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.15.6.1/quarkus-rest-servlet-parent-3.15.6.1.jar returned status 404
 3.15.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.15.6.2/quarkus-rest-servlet-parent-3.15.6.2.jar returned status 404
@@ -106,3 +107,11 @@
 3.37.0		2026-06-17T16:33:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.37.0/quarkus-rest-servlet-parent-3.37.0.jar returned status 404
 3.37.0.CR1		2026-06-10T07:19:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.37.0.CR1/quarkus-rest-servlet-parent-3.37.0.CR1.jar returned status 404
 3.37.1		2026-07-01T11:03:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.37.1/quarkus-rest-servlet-parent-3.37.1.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.9.0/quarkus-rest-servlet-parent-3.9.0.jar returned status 404
+3.9.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.9.0.CR1/quarkus-rest-servlet-parent-3.9.0.CR1.jar returned status 404
+3.9.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.9.0.CR2/quarkus-rest-servlet-parent-3.9.0.CR2.jar returned status 404
+3.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.9.1/quarkus-rest-servlet-parent-3.9.1.jar returned status 404
+3.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.9.2/quarkus-rest-servlet-parent-3.9.2.jar returned status 404
+3.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.9.3/quarkus-rest-servlet-parent-3.9.3.jar returned status 404
+3.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.9.4/quarkus-rest-servlet-parent-3.9.4.jar returned status 404
+3.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-rest-servlet-parent/3.9.5/quarkus-rest-servlet-parent-3.9.5.jar returned status 404

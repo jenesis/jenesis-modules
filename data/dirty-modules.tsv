@@ -3231,3 +3231,4 @@ io.quarkus.jlink.launcher
 io.quarkus.jlink
 io.quarkus.changeagent
 io.quarkus.modular
+io.quarkus.packaging.common
