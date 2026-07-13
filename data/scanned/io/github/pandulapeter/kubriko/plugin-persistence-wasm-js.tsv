@@ -13,3 +13,4 @@
 0.4.2		2026-06-28T06:47:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/plugin-persistence-wasm-js/0.4.2/plugin-persistence-wasm-js-0.4.2.jar returned status 404
 0.4.3		2026-06-28T08:30:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/plugin-persistence-wasm-js/0.4.3/plugin-persistence-wasm-js-0.4.3.jar returned status 404
 0.5.0		2026-07-03T11:05:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/plugin-persistence-wasm-js/0.5.0/plugin-persistence-wasm-js-0.5.0.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/plugin-persistence-wasm-js/0.6.0/plugin-persistence-wasm-js-0.6.0.jar returned status 404

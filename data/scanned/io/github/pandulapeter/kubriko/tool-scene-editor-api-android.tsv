@@ -16,3 +16,4 @@
 0.4.2		2026-06-28T06:47:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-api-android/0.4.2/tool-scene-editor-api-android-0.4.2.jar returned status 404
 0.4.3		2026-06-28T08:30:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-api-android/0.4.3/tool-scene-editor-api-android-0.4.3.jar returned status 404
 0.5.0		2026-07-03T11:05:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-api-android/0.5.0/tool-scene-editor-api-android-0.5.0.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-api-android/0.6.0/tool-scene-editor-api-android-0.6.0.jar returned status 404

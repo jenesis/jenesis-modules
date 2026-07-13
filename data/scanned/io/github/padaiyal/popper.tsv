@@ -1,1 +1,9 @@
 2021.12.18		2021-12-19T03:07:25Z	
+2021.12.18.a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padaiyal/popper/2021.12.18.a/popper-2021.12.18.a.jar returned status 404
+2021.12.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padaiyal/popper/2021.12.19/popper-2021.12.19.jar returned status 404
+2022.02.07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padaiyal/popper/2022.02.07/popper-2022.02.07.jar returned status 404
+2023.01.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padaiyal/popper/2023.01.12/popper-2023.01.12.jar returned status 404
+2023.01.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padaiyal/popper/2023.01.13/popper-2023.01.13.jar returned status 404
+2023.01.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padaiyal/popper/2023.01.18/popper-2023.01.18.jar returned status 404
+2023.01.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padaiyal/popper/2023.01.24/popper-2023.01.24.jar returned status 404
+2023.02.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/padaiyal/popper/2023.02.19/popper-2023.02.19.jar returned status 404

@@ -2,3 +2,7 @@
 2.2.0		2026-07-06T09:50:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/foogaro/kinexis-bom/2.2.0/kinexis-bom-2.2.0.jar returned status 404
 2.2.1		2026-07-06T12:40:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/foogaro/kinexis-bom/2.2.1/kinexis-bom-2.2.1.jar returned status 404
 2.2.2		2026-07-06T16:19:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/foogaro/kinexis-bom/2.2.2/kinexis-bom-2.2.2.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/foogaro/kinexis-bom/2.3.0/kinexis-bom-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/foogaro/kinexis-bom/2.4.0/kinexis-bom-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/foogaro/kinexis-bom/2.5.0/kinexis-bom-2.5.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/foogaro/kinexis-bom/2.6.0/kinexis-bom-2.6.0.jar returned status 404

@@ -58,9 +58,12 @@
 3.0.16		2025-05-16T09:38:29Z	
 3.0.17		2025-05-23T08:29:43Z	
 3.0.18		2025-06-02T12:26:21Z	
+3.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alikelleci/easysourcing/3.0.19/easysourcing-3.0.19.jar returned status 404
 3.0.2		2023-07-06T13:02:48Z	
 3.0.2.1		2025-06-02T12:57:20Z	
 3.0.2.2		2025-06-03T08:40:39Z	
+3.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alikelleci/easysourcing/3.0.20/easysourcing-3.0.20.jar returned status 404
+3.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alikelleci/easysourcing/3.0.21/easysourcing-3.0.21.jar returned status 404
 3.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alikelleci/easysourcing/3.0.22/easysourcing-3.0.22.jar returned status 404
 3.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alikelleci/easysourcing/3.0.23/easysourcing-3.0.23.jar returned status 404
 3.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alikelleci/easysourcing/3.0.24/easysourcing-3.0.24.jar returned status 404

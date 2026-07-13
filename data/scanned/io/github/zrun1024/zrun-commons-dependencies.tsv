@@ -1,3 +1,7 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrun1024/zrun-commons-dependencies/0.0.1/zrun-commons-dependencies-0.0.1.jar returned status 404
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrun1024/zrun-commons-dependencies/0.0.3/zrun-commons-dependencies-0.0.3.jar returned status 404
+0.0.3-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrun1024/zrun-commons-dependencies/0.0.3-RELEASE/zrun-commons-dependencies-0.0.3-RELEASE.jar returned status 404
+0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrun1024/zrun-commons-dependencies/0.0.5/zrun-commons-dependencies-0.0.5.jar returned status 404
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrun1024/zrun-commons-dependencies/0.1.1/zrun-commons-dependencies-0.1.1.jar returned status 404
 1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrun1024/zrun-commons-dependencies/1.1/zrun-commons-dependencies-1.1.jar returned status 404
 1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zrun1024/zrun-commons-dependencies/1.2/zrun-commons-dependencies-1.2.jar returned status 404

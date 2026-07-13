@@ -90,6 +90,8 @@
 1.64.0		2026-06-13T07:31:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-compose/1.64.0/roborazzi-compose-1.64.0.jar returned status 404
 1.65.0		2026-07-04T00:36:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-compose/1.65.0/roborazzi-compose-1.65.0.jar returned status 404
 1.66.0		2026-07-06T03:50:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-compose/1.66.0/roborazzi-compose-1.66.0.jar returned status 404
+1.67.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-compose/1.67.0/roborazzi-compose-1.67.0.jar returned status 404
+1.68.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-compose/1.68.0/roborazzi-compose-1.68.0.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-compose/1.7.0/roborazzi-compose-1.7.0.jar returned status 404
 1.7.0-alpha-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-compose/1.7.0-alpha-1/roborazzi-compose-1.7.0-alpha-1.jar returned status 404
 1.7.0-alpha-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-compose/1.7.0-alpha-2/roborazzi-compose-1.7.0-alpha-2.jar returned status 404

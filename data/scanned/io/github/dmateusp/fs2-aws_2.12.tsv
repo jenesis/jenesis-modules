@@ -70,3 +70,4 @@
 2.28.8		2019-12-09T22:44:24Z	
 2.28.8	tests-javadoc	2019-12-09T22:44:20Z	
 2.28.8	tests-sources	2019-12-09T22:44:23Z	
+2.28.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dmateusp/fs2-aws_2.12/2.28.9/fs2-aws_2.12-2.28.9.jar returned status 404
