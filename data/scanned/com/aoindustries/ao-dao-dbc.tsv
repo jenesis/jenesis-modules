@@ -5,3 +5,4 @@
 1.0.4		2019-06-21T07:53:38Z	
 1.0.6		2020-03-28T23:04:08Z	
 2.0.0		2020-11-30T05:20:04Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aoindustries/ao-dao-dbc/3.0.0/ao-dao-dbc-3.0.0.jar returned status 404

@@ -2,3 +2,4 @@
 1.0.1		2019-06-21T00:27:14Z	
 1.0.2		2020-03-24T03:53:48Z	
 2.0.0		2020-11-17T21:28:34Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aoindustries/ao-tempfiles-book/3.0.0/ao-tempfiles-book-3.0.0.jar returned status 404

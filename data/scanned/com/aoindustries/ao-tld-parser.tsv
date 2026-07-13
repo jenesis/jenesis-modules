@@ -7,3 +7,4 @@
 1.2.0	test-javadoc	2020-11-25T03:08:55Z	
 1.2.1		2021-02-14T15:03:50Z	
 1.2.1	test-javadoc	2021-02-14T15:03:52Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aoindustries/ao-tld-parser/2.0.0/ao-tld-parser-2.0.0.jar returned status 404

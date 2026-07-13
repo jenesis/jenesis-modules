@@ -1,9 +1,16 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/avioconsulting/mule/mule-health-check-api/2.0.0/mule-health-check-api-2.0.0.jar returned status 404
 2.0.0	mule-application	2022-11-15T20:56:02Z	
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/avioconsulting/mule/mule-health-check-api/2.0.1/mule-health-check-api-2.0.1.jar returned status 404
 2.0.1	mule-plugin	2022-11-15T22:33:33Z	
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/avioconsulting/mule/mule-health-check-api/2.0.2/mule-health-check-api-2.0.2.jar returned status 404
 2.0.2	mule-plugin	2022-11-16T14:48:29Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/avioconsulting/mule/mule-health-check-api/3.0.0/mule-health-check-api-3.0.0.jar returned status 404
 3.0.0	mule-plugin	2023-06-13T19:00:48Z	
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/avioconsulting/mule/mule-health-check-api/3.0.1/mule-health-check-api-3.0.1.jar returned status 404
 3.0.1	mule-plugin	2024-03-20T18:56:24Z	
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/avioconsulting/mule/mule-health-check-api/3.1.0/mule-health-check-api-3.1.0.jar returned status 404
 3.1.0	mule-plugin	2024-10-30T13:43:08Z	
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/avioconsulting/mule/mule-health-check-api/3.1.1/mule-health-check-api-3.1.1.jar returned status 404
 3.1.1	mule-plugin	2024-11-14T15:57:22Z	
 3.2.0		2026-01-22T03:13:05Z	
 3.2.0	mule-plugin	2026-01-22T03:13:06Z	

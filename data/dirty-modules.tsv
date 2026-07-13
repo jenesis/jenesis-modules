@@ -145,3 +145,5 @@ com.swirlds.logging
 com.hedera.node.app.service.consensus.impl
 org.hiero.base.utility
 ch.qos.logback.classic
+com.alibaba.fastjson2.extension
+kotlin.stdlib.jdk8
