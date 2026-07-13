@@ -1791,3 +1791,7 @@ org.smarthomej.binding.tcpudp
 org.smarthomej.binding.irobot
 org.smarthomej.binding.deconz
 org.jbpm.workitem.webservice
+org.jbpm.workitem.email
+org.jbpm.workitem.bpmn2
+org.jbpm.workitem.jms
+org.jbpm.installer
