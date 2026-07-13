@@ -6,7 +6,10 @@
 3.0.1	automatic	org.eclipse.persistence	org.eclipse.persistence.asm	2021-04-07T07:28:29Z	
 9.1.0	named	org.eclipse.persistence	org.eclipse.persistence.asm	2021-04-26T11:11:37Z	9.1.0
 2.7.9-RC1	named	org.eclipse.persistence	eclipselink	2021-06-06T17:24:47Z	9.1.0
+3.0.2-RC1	named	org.eclipse.persistence	eclipselink	2021-06-07T11:14:35Z	9.1.0
 2.7.9	named	org.eclipse.persistence	eclipselink	2021-06-10T09:06:24Z	9.1.0
+3.0.2-RC2	named	org.eclipse.persistence	eclipselink	2021-07-12T09:29:05Z	9.1.0
+3.0.2	named	org.eclipse.persistence	eclipselink	2021-07-16T09:39:36Z	9.1.0
 9.1.1	named	org.eclipse.persistence	org.eclipse.persistence.asm	2021-08-06T07:25:08Z	9.1.1
 9.2.0	named	org.eclipse.persistence	org.eclipse.persistence.asm	2021-11-09T08:40:53Z	9.2.0
 2.7.10-RC1	named	org.eclipse.persistence	eclipselink	2021-12-14T07:59:30Z	9.2.0

@@ -1,11 +1,52 @@
+3.1.0-M1	named	org.eclipse.persistence	eclipselink	2021-08-08T09:13:21Z	3.1.0-M1
+4.0.0-M1	named	org.eclipse.persistence	eclipselink	2021-12-17T09:42:06Z	4.0.0-M1
+4.0.0-M2	named	org.eclipse.persistence	eclipselink	2022-03-07T10:27:30Z	4.0.0-M2
+4.0.0-M3	named	org.eclipse.persistence	eclipselink	2022-03-11T12:20:10Z	4.0.0-M3
+4.0.0-RC1	named	org.eclipse.persistence	eclipselink	2022-09-01T08:09:28Z	4.0.0-RC1
+4.0.0-RC2	named	org.eclipse.persistence	eclipselink	2022-09-09T11:29:06Z	4.0.0-RC2
+4.0.0	named	org.eclipse.persistence	eclipselink	2022-10-05T19:38:57Z	4.0.0
+4.0.1-RC1	named	org.eclipse.persistence	eclipselink	2023-02-07T09:05:00Z	4.0.1-RC1
+4.0.1-RC2	named	org.eclipse.persistence	eclipselink	2023-02-22T11:51:00Z	4.0.1-RC2
+4.0.1	named	org.eclipse.persistence	eclipselink	2023-02-24T11:34:16Z	4.0.1
+4.0.2-RC1	named	org.eclipse.persistence	eclipselink	2023-06-12T19:32:10Z	4.0.2-RC1
+4.0.2-RC2	named	org.eclipse.persistence	eclipselink	2023-06-15T07:20:53Z	4.0.2-RC2
+4.0.2	named	org.eclipse.persistence	eclipselink	2023-06-16T12:23:29Z	4.0.2
+3.0.4-RC1	named	org.eclipse.persistence	eclipselink	2023-10-23T12:10:46Z	3.0.4-RC1
+3.0.4	named	org.eclipse.persistence	eclipselink	2023-10-25T07:45:08Z	3.0.4
 2.7.14-RC1	named	org.eclipse.persistence	eclipselink	2023-12-08T14:07:57Z	
 2.7.14	named	org.eclipse.persistence	eclipselink	2023-12-13T11:35:24Z	
+5.0.0-B01	named	org.eclipse.persistence	eclipselink	2024-03-01T13:28:22Z	5.0.0-B01
+5.0.0-B02	named	org.eclipse.persistence	eclipselink	2024-04-11T17:53:38Z	5.0.0-B02
+4.0.3-RC1	named	org.eclipse.persistence	eclipselink	2024-05-03T18:44:51Z	4.0.3-RC1
 2.7.15-RC1	named	org.eclipse.persistence	eclipselink	2024-05-10T11:49:54Z	
 2.7.15-RC2	named	org.eclipse.persistence	eclipselink	2024-05-16T19:11:46Z	
+4.0.3-RC2	named	org.eclipse.persistence	eclipselink	2024-05-17T07:57:01Z	4.0.3-RC2
+4.0.3	named	org.eclipse.persistence	eclipselink	2024-05-22T07:04:21Z	4.0.3
 2.7.15	named	org.eclipse.persistence	eclipselink	2024-05-22T07:26:58Z	
+4.0.4-RC1	named	org.eclipse.persistence	eclipselink	2024-07-15T11:12:04Z	4.0.4-RC1
+4.0.4	named	org.eclipse.persistence	eclipselink	2024-07-19T07:54:23Z	4.0.4
+5.0.0-B03	named	org.eclipse.persistence	eclipselink	2024-09-12T10:30:00Z	5.0.0-B03
+5.0.0-B04	named	org.eclipse.persistence	eclipselink	2024-11-19T18:24:42Z	5.0.0-B04
+5.0.0-B05	named	org.eclipse.persistence	eclipselink	2024-12-16T18:41:49Z	5.0.0-B05
+4.0.5-RC2	named	org.eclipse.persistence	eclipselink	2024-12-20T10:15:33Z	4.0.5-RC2
+4.0.5-RC3	named	org.eclipse.persistence	eclipselink	2024-12-22T17:23:34Z	4.0.5-RC3
+4.0.5	named	org.eclipse.persistence	eclipselink	2024-12-23T11:43:15Z	4.0.5
+5.0.0-B06	named	org.eclipse.persistence	eclipselink	2025-02-01T10:30:36Z	5.0.0-B06
+5.0.0-B07	named	org.eclipse.persistence	eclipselink	2025-03-06T10:45:11Z	5.0.0-B07
+4.0.6-RC1	named	org.eclipse.persistence	eclipselink	2025-04-04T09:24:58Z	4.0.6-RC1
+4.0.6	named	org.eclipse.persistence	eclipselink	2025-04-09T08:15:19Z	4.0.6
+5.0.0-B08	named	org.eclipse.persistence	eclipselink	2025-05-28T09:54:56Z	5.0.0-B08
+4.0.7-RC1	named	org.eclipse.persistence	eclipselink	2025-06-12T12:02:02Z	4.0.7-RC1
 2.7.16-RC1	named	org.eclipse.persistence	eclipselink	2025-06-16T07:44:43Z	
+4.0.7-RC2	named	org.eclipse.persistence	eclipselink	2025-06-18T07:13:51Z	4.0.7-RC2
 2.7.16	named	org.eclipse.persistence	eclipselink	2025-06-19T17:56:04Z	
+4.0.7	named	org.eclipse.persistence	eclipselink	2025-06-24T08:04:56Z	4.0.7
+5.0.0-B09	named	org.eclipse.persistence	eclipselink	2025-07-11T12:00:06Z	5.0.0-B09
+5.0.0-B10	named	org.eclipse.persistence	eclipselink	2025-08-25T10:05:55Z	5.0.0-B10
+4.0.8-RC1	named	org.eclipse.persistence	eclipselink	2025-09-23T22:11:05Z	4.0.8-RC1
+4.0.8	named	org.eclipse.persistence	eclipselink	2025-09-25T10:10:11Z	4.0.8
 5.0.0-B11	named	org.eclipse.persistence	eclipselink	2025-10-06T14:06:06Z	5.0.0-B11
+4.0.5-RC1	named	org.eclipse.persistence	eclipselink	2025-11-04T20:34:10Z	4.0.5-RC1
 5.0.0-B12	named	org.eclipse.persistence	eclipselink	2025-12-10T09:38:55Z	5.0.0-B12
 5.0.0-B13	named	org.eclipse.persistence	eclipselink	2025-12-11T14:55:14Z	5.0.0-B13
 4.0.9-RC1	named	org.eclipse.persistence	eclipselink	2025-12-22T07:46:02Z	4.0.9-RC1

@@ -13,3 +13,4 @@
 2.43.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtext/org.eclipse.xtend.maven.parent/2.43.0.M1/org.eclipse.xtend.maven.parent-2.43.0.M1.jar returned status 404
 2.43.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtext/org.eclipse.xtend.maven.parent/2.43.0.M2/org.eclipse.xtend.maven.parent-2.43.0.M2.jar returned status 404
 2.43.0.M3		2026-05-18T04:44:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtext/org.eclipse.xtend.maven.parent/2.43.0.M3/org.eclipse.xtend.maven.parent-2.43.0.M3.jar returned status 404
+2.44.0.M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtext/org.eclipse.xtend.maven.parent/2.44.0.M1/org.eclipse.xtend.maven.parent-2.44.0.M1.jar returned status 404

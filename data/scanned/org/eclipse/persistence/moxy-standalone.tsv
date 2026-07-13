@@ -1,6 +1,58 @@
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.0/moxy-standalone-3.0.0.jar returned status 404
+3.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.0-M2/moxy-standalone-3.0.0-M2.jar returned status 404
+3.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.0-RC1/moxy-standalone-3.0.0-RC1.jar returned status 404
+3.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.0-RC2/moxy-standalone-3.0.0-RC2.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.1/moxy-standalone-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.2/moxy-standalone-3.0.2.jar returned status 404
+3.0.2-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.2-RC1/moxy-standalone-3.0.2-RC1.jar returned status 404
+3.0.2-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.2-RC2/moxy-standalone-3.0.2-RC2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.3/moxy-standalone-3.0.3.jar returned status 404
+3.0.3-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.3-RC1/moxy-standalone-3.0.3-RC1.jar returned status 404
+3.0.3-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.3-RC2/moxy-standalone-3.0.3-RC2.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.4/moxy-standalone-3.0.4.jar returned status 404
+3.0.4-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.0.4-RC1/moxy-standalone-3.0.4-RC1.jar returned status 404
+3.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/3.1.0-M1/moxy-standalone-3.1.0-M1.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.0/moxy-standalone-4.0.0.jar returned status 404
+4.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.0-M1/moxy-standalone-4.0.0-M1.jar returned status 404
+4.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.0-M2/moxy-standalone-4.0.0-M2.jar returned status 404
+4.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.0-M3/moxy-standalone-4.0.0-M3.jar returned status 404
+4.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.0-RC1/moxy-standalone-4.0.0-RC1.jar returned status 404
+4.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.0-RC2/moxy-standalone-4.0.0-RC2.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.1/moxy-standalone-4.0.1.jar returned status 404
+4.0.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.1-RC1/moxy-standalone-4.0.1-RC1.jar returned status 404
+4.0.1-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.1-RC2/moxy-standalone-4.0.1-RC2.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.2/moxy-standalone-4.0.2.jar returned status 404
+4.0.2-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.2-RC1/moxy-standalone-4.0.2-RC1.jar returned status 404
+4.0.2-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.2-RC2/moxy-standalone-4.0.2-RC2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.3/moxy-standalone-4.0.3.jar returned status 404
+4.0.3-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.3-RC1/moxy-standalone-4.0.3-RC1.jar returned status 404
+4.0.3-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.3-RC2/moxy-standalone-4.0.3-RC2.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.4/moxy-standalone-4.0.4.jar returned status 404
+4.0.4-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.4-RC1/moxy-standalone-4.0.4-RC1.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.5/moxy-standalone-4.0.5.jar returned status 404
+4.0.5-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.5-RC1/moxy-standalone-4.0.5-RC1.jar returned status 404
+4.0.5-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.5-RC2/moxy-standalone-4.0.5-RC2.jar returned status 404
+4.0.5-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.5-RC3/moxy-standalone-4.0.5-RC3.jar returned status 404
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.6/moxy-standalone-4.0.6.jar returned status 404
+4.0.6-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.6-RC1/moxy-standalone-4.0.6-RC1.jar returned status 404
+4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.7/moxy-standalone-4.0.7.jar returned status 404
+4.0.7-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.7-RC1/moxy-standalone-4.0.7-RC1.jar returned status 404
+4.0.7-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.7-RC2/moxy-standalone-4.0.7-RC2.jar returned status 404
+4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.8/moxy-standalone-4.0.8.jar returned status 404
+4.0.8-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.8-RC1/moxy-standalone-4.0.8-RC1.jar returned status 404
 4.0.9		2026-01-02T11:57:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.9/moxy-standalone-4.0.9.jar returned status 404
 4.0.9-RC1		2025-12-22T07:46:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/4.0.9-RC1/moxy-standalone-4.0.9-RC1.jar returned status 404
 5.0.0		2026-03-23T09:32:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0/moxy-standalone-5.0.0.jar returned status 404
+5.0.0-B01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B01/moxy-standalone-5.0.0-B01.jar returned status 404
+5.0.0-B02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B02/moxy-standalone-5.0.0-B02.jar returned status 404
+5.0.0-B03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B03/moxy-standalone-5.0.0-B03.jar returned status 404
+5.0.0-B04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B04/moxy-standalone-5.0.0-B04.jar returned status 404
+5.0.0-B05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B05/moxy-standalone-5.0.0-B05.jar returned status 404
+5.0.0-B06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B06/moxy-standalone-5.0.0-B06.jar returned status 404
+5.0.0-B07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B07/moxy-standalone-5.0.0-B07.jar returned status 404
+5.0.0-B08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B08/moxy-standalone-5.0.0-B08.jar returned status 404
+5.0.0-B09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B09/moxy-standalone-5.0.0-B09.jar returned status 404
+5.0.0-B10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B10/moxy-standalone-5.0.0-B10.jar returned status 404
 5.0.0-B11		2025-10-06T14:06:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B11/moxy-standalone-5.0.0-B11.jar returned status 404
 5.0.0-B12		2025-12-10T09:38:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B12/moxy-standalone-5.0.0-B12.jar returned status 404
 5.0.0-B13		2025-12-11T14:55:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/persistence/moxy-standalone/5.0.0-B13/moxy-standalone-5.0.0-B13.jar returned status 404

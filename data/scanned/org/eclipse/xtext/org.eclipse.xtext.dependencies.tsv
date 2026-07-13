@@ -10,4 +10,8 @@
 2.7.1		2014-09-09T13:30:39Z	
 2.7.2		2014-09-17T10:10:00Z	
 2.7.3		2014-11-20T08:16:57Z	
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtext/org.eclipse.xtext.dependencies/2.8.0/org.eclipse.xtext.dependencies-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtext/org.eclipse.xtext.dependencies/2.8.1/org.eclipse.xtext.dependencies-2.8.1.jar returned status 404
+2.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtext/org.eclipse.xtext.dependencies/2.8.2/org.eclipse.xtext.dependencies-2.8.2.jar returned status 404
+2.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtext/org.eclipse.xtext.dependencies/2.8.3/org.eclipse.xtext.dependencies-2.8.3.jar returned status 404
 2.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/xtext/org.eclipse.xtext.dependencies/2.8.4/org.eclipse.xtext.dependencies-2.8.4.jar returned status 404
