@@ -1298,3 +1298,9 @@ kotlin.reflect
 kotlin.test.junit5
 kotlin.metadata.jvm
 kotlin.test.testng
+kotlin.test.junit
+kotlinx.serialization.protobuf
+kotlin.stdlib
+kotlin.native_utils
+com.fasterxml.aalto
+kotlin.test

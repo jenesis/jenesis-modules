@@ -353,3 +353,4 @@
 2026.6.8		2026-06-28T06:47:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-wrappers-catalog/2026.6.8/kotlin-wrappers-catalog-2026.6.8.jar returned status 404
 2026.6.9		2026-06-28T15:18:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-wrappers-catalog/2026.6.9/kotlin-wrappers-catalog-2026.6.9.jar returned status 404
 2026.7.0		2026-07-01T19:51:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-wrappers-catalog/2026.7.0/kotlin-wrappers-catalog-2026.7.0.jar returned status 404
+2026.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-wrappers-catalog/2026.7.1/kotlin-wrappers-catalog-2026.7.1.jar returned status 404
