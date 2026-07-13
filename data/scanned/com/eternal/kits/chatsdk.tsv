@@ -43,6 +43,7 @@
 0.69.9		2026-06-08T12:45:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/0.69.9/chatsdk-0.69.9.jar returned status 404
 0.70.0		2026-06-09T06:19:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/0.70.0/chatsdk-0.70.0.jar returned status 404
 0.70.1		2026-06-16T14:38:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/0.70.1/chatsdk-0.70.1.jar returned status 404
+0.70.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/0.70.2/chatsdk-0.70.2.jar returned status 404
 3000			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/3000/chatsdk-3000.jar returned status 404
 3001			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/3001/chatsdk-3001.jar returned status 404
 3002			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/3002/chatsdk-3002.jar returned status 404

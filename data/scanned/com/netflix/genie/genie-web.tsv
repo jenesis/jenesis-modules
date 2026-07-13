@@ -1,3 +1,23 @@
+0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/0.20/genie-web-0.20.jar returned status 404
+0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/0.21/genie-web-0.21.jar returned status 404
+0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/0.22/genie-web-0.22.jar returned status 404
+0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/0.23/genie-web-0.23.jar returned status 404
+0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/0.24/genie-web-0.24.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/1.0.0/genie-web-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/1.0.1/genie-web-1.0.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.0.0/genie-web-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.1.0/genie-web-2.1.0.jar returned status 404
+2.1.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.1.0-rc.1/genie-web-2.1.0-rc.1.jar returned status 404
+2.1.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.1.0-rc.2/genie-web-2.1.0-rc.2.jar returned status 404
+2.1.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.1.0-rc.3/genie-web-2.1.0-rc.3.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.1.1/genie-web-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.1.2/genie-web-2.1.2.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.2.0/genie-web-2.2.0.jar returned status 404
+2.2.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.2.0-rc.1/genie-web-2.2.0-rc.1.jar returned status 404
+2.2.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.2.0-rc.2/genie-web-2.2.0-rc.2.jar returned status 404
+2.2.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.2.0-rc.3/genie-web-2.2.0-rc.3.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.2.1/genie-web-2.2.1.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/genie/genie-web/2.2.3/genie-web-2.2.3.jar returned status 404
 3.0.0		2017-01-12T18:46:17Z	
 3.0.0-rc.1		2016-06-09T22:11:43Z	
 3.0.0-rc.10		2016-07-22T18:45:57Z	
@@ -219,3 +239,4 @@
 5.1.0		2025-07-22T04:09:08Z	
 5.1.1		2025-08-06T17:20:09Z	
 5.1.2		2026-06-11T19:17:22Z	
+5.1.3			

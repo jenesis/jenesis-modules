@@ -1,1 +1,6 @@
+0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/admin4j/framework/spring-boot-parent/0.10.0/spring-boot-parent-0.10.0.jar returned status 404
 0.12.0		2026-06-24T14:56:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/admin4j/framework/spring-boot-parent/0.12.0/spring-boot-parent-0.12.0.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/admin4j/framework/spring-boot-parent/0.8.0/spring-boot-parent-0.8.0.jar returned status 404
+0.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/admin4j/framework/spring-boot-parent/0.9.5/spring-boot-parent-0.9.5.jar returned status 404
+0.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/admin4j/framework/spring-boot-parent/0.9.7/spring-boot-parent-0.9.7.jar returned status 404
+0.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/admin4j/framework/spring-boot-parent/0.9.8/spring-boot-parent-0.9.8.jar returned status 404

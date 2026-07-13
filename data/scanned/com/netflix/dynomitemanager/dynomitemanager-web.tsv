@@ -1,3 +1,17 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.0/dynomitemanager-web-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.1/dynomitemanager-web-2.0.1.jar returned status 404
+2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.10/dynomitemanager-web-2.0.10.jar returned status 404
+2.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.11/dynomitemanager-web-2.0.11.jar returned status 404
+2.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.12/dynomitemanager-web-2.0.12.jar returned status 404
+2.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.13/dynomitemanager-web-2.0.13.jar returned status 404
+2.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.14/dynomitemanager-web-2.0.14.jar returned status 404
+2.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.15/dynomitemanager-web-2.0.15.jar returned status 404
+2.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.16/dynomitemanager-web-2.0.16.jar returned status 404
+2.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.17/dynomitemanager-web-2.0.17.jar returned status 404
+2.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.18/dynomitemanager-web-2.0.18.jar returned status 404
+2.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.19/dynomitemanager-web-2.0.19.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.2/dynomitemanager-web-2.0.2.jar returned status 404
+2.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.20/dynomitemanager-web-2.0.20.jar returned status 404
 2.0.21		2021-03-10T06:09:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.21/dynomitemanager-web-2.0.21.jar returned status 404
 2.0.22		2021-03-10T23:11:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.22/dynomitemanager-web-2.0.22.jar returned status 404
 2.0.23		2021-03-11T22:50:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.23/dynomitemanager-web-2.0.23.jar returned status 404
@@ -7,6 +21,7 @@
 2.0.27		2021-11-25T00:01:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.27/dynomitemanager-web-2.0.27.jar returned status 404
 2.0.28		2023-04-03T19:22:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.28/dynomitemanager-web-2.0.28.jar returned status 404
 2.0.29		2023-04-03T23:20:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.29/dynomitemanager-web-2.0.29.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.3/dynomitemanager-web-2.0.3.jar returned status 404
 2.0.30		2023-04-04T21:48:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.30/dynomitemanager-web-2.0.30.jar returned status 404
 2.0.31		2023-04-10T20:57:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.31/dynomitemanager-web-2.0.31.jar returned status 404
 2.0.32		2023-04-11T17:52:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.32/dynomitemanager-web-2.0.32.jar returned status 404
@@ -14,3 +29,9 @@
 2.0.34		2023-05-03T03:50:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.34/dynomitemanager-web-2.0.34.jar returned status 404
 2.0.35		2023-06-20T18:28:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.35/dynomitemanager-web-2.0.35.jar returned status 404
 2.0.36		2024-07-09T05:39:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.36/dynomitemanager-web-2.0.36.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.4/dynomitemanager-web-2.0.4.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.5/dynomitemanager-web-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.6/dynomitemanager-web-2.0.6.jar returned status 404
+2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.7/dynomitemanager-web-2.0.7.jar returned status 404
+2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.8/dynomitemanager-web-2.0.8.jar returned status 404
+2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netflix/dynomitemanager/dynomitemanager-web/2.0.9/dynomitemanager-web-2.0.9.jar returned status 404
