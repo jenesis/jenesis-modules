@@ -1,2 +1,6 @@
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/eova/eova-core/1.1.1/eova-core-1.1.1.jar returned status 404
+1.1.2-011101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/eova/eova-core/1.1.2-011101/eova-core-1.1.2-011101.jar returned status 404
+1.1.2-011103			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/eova/eova-core/1.1.2-011103/eova-core-1.1.2-011103.jar returned status 404
+1.1.2-100801			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/eova/eova-core/1.1.2-100801/eova-core-1.1.2-100801.jar returned status 404
 1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/eova/eova-core/1.1.4/eova-core-1.1.4.jar returned status 404
 1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/eova/eova-core/1.1.5/eova-core-1.1.5.jar returned status 404

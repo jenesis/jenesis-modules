@@ -1,1 +1,12 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/1.0/snow-code-generator-1.0.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/2.0/snow-code-generator-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/2.1/snow-code-generator-2.1.jar returned status 404
+2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/2.2/snow-code-generator-2.2.jar returned status 404
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/2.3/snow-code-generator-2.3.jar returned status 404
+2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/2.4/snow-code-generator-2.4.jar returned status 404
+2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/2.5/snow-code-generator-2.5.jar returned status 404
+2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/2.7/snow-code-generator-2.7.jar returned status 404
+3.5.7.S1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/3.5.7.S1/snow-code-generator-3.5.7.S1.jar returned status 404
+3.5.7.S2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/3.5.7.S2/snow-code-generator-3.5.7.S2.jar returned status 404
 6.0.8		2026-06-23T09:40:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/6.0.8/snow-code-generator-6.0.8.jar returned status 404
+B3.M3.5.10.S1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lonelysnow/snow-code-generator/B3.M3.5.10.S1/snow-code-generator-B3.M3.5.10.S1.jar returned status 404

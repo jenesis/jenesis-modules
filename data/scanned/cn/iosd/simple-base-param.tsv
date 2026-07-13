@@ -6,6 +6,7 @@
 2022.3.5.2		2023-06-13T06:18:18Z	
 2022.4.0.0		2023-07-04T06:26:56Z	
 2022.4.1.0		2023-07-25T01:57:34Z	
+2022.5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/iosd/simple-base-param/2022.5.0.0/simple-base-param-2022.5.0.0.jar returned status 404
 2023.2.1.0		2023-02-22T02:08:51Z	
 2023.2.2.0		2023-03-02T06:51:33Z	
 2023.2.2.1		2023-03-02T09:59:50Z	
@@ -21,3 +22,7 @@
 2023.3.5.2		2023-06-13T06:10:17Z	
 2023.4.0.0		2023-07-04T07:19:30Z	
 2023.4.1.0		2023-07-25T02:20:22Z	
+2023.5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/iosd/simple-base-param/2023.5.0.0/simple-base-param-2023.5.0.0.jar returned status 404
+2023.5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/iosd/simple-base-param/2023.5.1.0/simple-base-param-2023.5.1.0.jar returned status 404
+2023.5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/iosd/simple-base-param/2023.5.2.0/simple-base-param-2023.5.2.0.jar returned status 404
+2024.1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/iosd/simple-base-param/2024.1.0.0/simple-base-param-2024.1.0.0.jar returned status 404

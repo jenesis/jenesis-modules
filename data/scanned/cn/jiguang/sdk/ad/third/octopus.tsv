@@ -1,7 +1,14 @@
+1.5.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/1.5.8.7/octopus-1.5.8.7.jar returned status 404
 1.5.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/1.5.9.13/octopus-1.5.9.13.jar returned status 404
 1.6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/1.6.0.2/octopus-1.6.0.2.jar returned status 404
+1.6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/1.6.1.1/octopus-1.6.1.1.jar returned status 404
+1.6.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/1.6.1.8/octopus-1.6.1.8.jar returned status 404
+1.6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/1.6.2.0/octopus-1.6.2.0.jar returned status 404
 1.6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/1.6.2.2/octopus-1.6.2.2.jar returned status 404
+1.6.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/1.6.3.6/octopus-1.6.3.6.jar returned status 404
+1.6.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/1.6.3.8/octopus-1.6.3.8.jar returned status 404
 2.5.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/2.5.10.5/octopus-2.5.10.5.jar returned status 404
+2.5.11.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/2.5.11.17/octopus-2.5.11.17.jar returned status 404
 2.5.9.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/2.5.9.23/octopus-2.5.9.23.jar returned status 404
 2.6.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/2.6.1.8/octopus-2.6.1.8.jar returned status 404
 2.6.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/octopus/2.6.3.10/octopus-2.6.3.10.jar returned status 404

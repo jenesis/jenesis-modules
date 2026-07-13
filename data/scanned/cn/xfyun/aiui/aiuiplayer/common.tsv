@@ -1,5 +1,6 @@
 1000			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/common/1000/common-1000.jar returned status 404
 1001			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/common/1001/common-1001.jar returned status 404
+1011			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/common/1011/common-1011.jar returned status 404
 1027			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/common/1027/common-1027.jar returned status 404
 1028			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/common/1028/common-1028.jar returned status 404
 1029			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/xfyun/aiui/aiuiplayer/common/1029/common-1029.jar returned status 404

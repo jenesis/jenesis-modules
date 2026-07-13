@@ -1,3 +1,6 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/zhuguoqing/free-log-sdk/0.0.1/free-log-sdk-0.0.1.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/zhuguoqing/free-log-sdk/1.0.0/free-log-sdk-1.0.0.jar returned status 404
+1.0.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/zhuguoqing/free-log-sdk/1.0.0-RELEASE/free-log-sdk-1.0.0-RELEASE.jar returned status 404
 1.0.1-RELEASE		2021-12-27T15:12:40Z	
 1.0.2-RELEASE		2021-12-28T16:37:33Z	
 1.0.3-RELEASE		2021-12-29T14:31:30Z	

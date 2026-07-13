@@ -1,1 +1,4 @@
 1.1.0		2023-02-04T16:15:06Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dynamictp/dynamic-tp-example-adapter/1.1.1/dynamic-tp-example-adapter-1.1.1.jar returned status 404
+1.1.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dynamictp/dynamic-tp-example-adapter/1.1.1-beta/dynamic-tp-example-adapter-1.1.1-beta.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dynamictp/dynamic-tp-example-adapter/1.1.2/dynamic-tp-example-adapter-1.1.2.jar returned status 404

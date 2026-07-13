@@ -26,6 +26,7 @@
 5.0.8		2019-01-28T10:11:59Z	
 5.0.9		2019-01-29T03:15:49Z	
 6.0.0		2019-09-18T06:57:12Z	
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/leancloud/mixpush-android/6.0.2/mixpush-android-6.0.2.jar returned status 404
 6.0.2-androidx		2019-10-10T07:21:21Z	
 6.0.3		2019-10-16T06:52:11Z	
 6.0.4		2019-10-24T05:50:05Z	

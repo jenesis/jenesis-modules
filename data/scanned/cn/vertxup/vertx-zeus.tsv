@@ -1,2 +1,6 @@
 0.4		2017-12-05T03:06:38Z	
 0.4.1		2017-12-05T09:57:13Z	
+0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/vertxup/vertx-zeus/0.4.2/vertx-zeus-0.4.2.jar returned status 404
+0.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/vertxup/vertx-zeus/0.4.3/vertx-zeus-0.4.3.jar returned status 404
+0.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/vertxup/vertx-zeus/0.4.4/vertx-zeus-0.4.4.jar returned status 404
+0.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/vertxup/vertx-zeus/0.4.5/vertx-zeus-0.4.5.jar returned status 404
