@@ -1,2 +1,8 @@
+5.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flowable/flowable-spring-boot-starters/5.22.0/flowable-spring-boot-starters-5.22.0.jar returned status 404
+5.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flowable/flowable-spring-boot-starters/5.23.0/flowable-spring-boot-starters-5.23.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flowable/flowable-spring-boot-starters/6.0.0/flowable-spring-boot-starters-6.0.0.jar returned status 404
+6.0.0.RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flowable/flowable-spring-boot-starters/6.0.0.RC1/flowable-spring-boot-starters-6.0.0.RC1.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flowable/flowable-spring-boot-starters/6.0.1/flowable-spring-boot-starters-6.0.1.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flowable/flowable-spring-boot-starters/6.1.0/flowable-spring-boot-starters-6.1.0.jar returned status 404
 7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flowable/flowable-spring-boot-starters/7.2.0/flowable-spring-boot-starters-7.2.0.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flowable/flowable-spring-boot-starters/8.0.0/flowable-spring-boot-starters-8.0.0.jar returned status 404

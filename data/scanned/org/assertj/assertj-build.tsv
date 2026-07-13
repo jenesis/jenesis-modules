@@ -1,3 +1,6 @@
+3.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/assertj/assertj-build/3.24.0/assertj-build-3.24.0.jar returned status 404
+3.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/assertj/assertj-build/3.24.1/assertj-build-3.24.1.jar returned status 404
+3.24.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/assertj/assertj-build/3.24.2/assertj-build-3.24.2.jar returned status 404
 3.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/assertj/assertj-build/3.25.0/assertj-build-3.25.0.jar returned status 404
 3.25.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/assertj/assertj-build/3.25.1/assertj-build-3.25.1.jar returned status 404
 3.25.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/assertj/assertj-build/3.25.2/assertj-build-3.25.2.jar returned status 404
