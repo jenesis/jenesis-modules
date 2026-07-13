@@ -6,6 +6,7 @@
 4.4.105		2019-05-10T01:27:31Z	
 4.4.106		2019-05-13T17:15:07Z	
 4.4.107		2019-05-27T03:52:31Z	
+4.4.108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/data/org.wso2.carbon.dataservices.capp.deployer/4.4.108/org.wso2.carbon.dataservices.capp.deployer-4.4.108.jar returned status 404
 4.4.84		2019-01-31T12:24:19Z	
 4.4.85		2019-02-18T10:04:04Z	
 4.4.86		2019-02-26T05:22:19Z	
