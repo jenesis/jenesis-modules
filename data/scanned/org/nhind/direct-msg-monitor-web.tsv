@@ -1,1 +1,12 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/1.0/direct-msg-monitor-web-1.0.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/1.1/direct-msg-monitor-web-1.1.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/1.1.1/direct-msg-monitor-web-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/1.1.2/direct-msg-monitor-web-1.1.2.jar returned status 404
+1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/1.1.3/direct-msg-monitor-web-1.1.3.jar returned status 404
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/1.1.4/direct-msg-monitor-web-1.1.4.jar returned status 404
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/1.1.5/direct-msg-monitor-web-1.1.5.jar returned status 404
+1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/1.1.6/direct-msg-monitor-web-1.1.6.jar returned status 404
+1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/1.1.7/direct-msg-monitor-web-1.1.7.jar returned status 404
+6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/6.0/direct-msg-monitor-web-6.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/8.0.0/direct-msg-monitor-web-8.0.0.jar returned status 404
 8.1.0		2025-07-07T18:54:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-msg-monitor-web/8.1.0/direct-msg-monitor-web-8.1.0.jar returned status 404

@@ -1,6 +1,27 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.0.0/xmlunit-parent-2.0.0.jar returned status 404
+2.0.0-alpha-02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.0.0-alpha-02/xmlunit-parent-2.0.0-alpha-02.jar returned status 404
+2.0.0-alpha-03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.0.0-alpha-03/xmlunit-parent-2.0.0-alpha-03.jar returned status 404
+2.0.0-alpha-04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.0.0-alpha-04/xmlunit-parent-2.0.0-alpha-04.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.1.0/xmlunit-parent-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.1.1/xmlunit-parent-2.1.1.jar returned status 404
 2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.10.1/xmlunit-parent-2.10.1.jar returned status 404
 2.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.10.2/xmlunit-parent-2.10.2.jar returned status 404
 2.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.10.3/xmlunit-parent-2.10.3.jar returned status 404
 2.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.10.4/xmlunit-parent-2.10.4.jar returned status 404
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.11.0/xmlunit-parent-2.11.0.jar returned status 404
 2.12.0		2026-05-31T09:35:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.12.0/xmlunit-parent-2.12.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.2.0/xmlunit-parent-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.2.1/xmlunit-parent-2.2.1.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.3.0/xmlunit-parent-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.4.0/xmlunit-parent-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.5.0/xmlunit-parent-2.5.0.jar returned status 404
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.5.1/xmlunit-parent-2.5.1.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.6.0/xmlunit-parent-2.6.0.jar returned status 404
+2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.6.1/xmlunit-parent-2.6.1.jar returned status 404
+2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.6.2/xmlunit-parent-2.6.2.jar returned status 404
+2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.6.3/xmlunit-parent-2.6.3.jar returned status 404
+2.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.6.4/xmlunit-parent-2.6.4.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.7.0/xmlunit-parent-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.8.0/xmlunit-parent-2.8.0.jar returned status 404
+2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.8.1/xmlunit-parent-2.8.1.jar returned status 404
+2.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmlunit/xmlunit-parent/2.8.2/xmlunit-parent-2.8.2.jar returned status 404

@@ -16,6 +16,7 @@
 0.1.2		2021-10-13T05:27:55Z	
 0.1.4		2021-10-20T12:20:42Z	
 0.1.5		2021-11-08T13:03:22Z	
+0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jkube/java-base/0.1.6/java-base-0.1.6.jar returned status 404
 0.1.7		2021-11-11T06:05:08Z	
 0.1.8		2021-11-26T06:37:29Z	
 0.2.0		2021-12-13T13:23:11Z	

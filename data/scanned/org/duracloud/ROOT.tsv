@@ -30,6 +30,7 @@
 4.4.5		2021-12-17T23:12:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/4.4.5/ROOT-4.4.5.jar returned status 404
 4.4.6		2021-12-17T23:12:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/4.4.6/ROOT-4.4.6.jar returned status 404
 5.0.0		2021-12-17T23:12:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/5.0.0/ROOT-5.0.0.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/5.1.0/ROOT-5.1.0.jar returned status 404
 6.0.0		2021-12-17T23:12:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/6.0.0/ROOT-6.0.0.jar returned status 404
 6.0.1		2021-12-17T23:12:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/6.0.1/ROOT-6.0.1.jar returned status 404
 6.1.0		2021-12-17T23:12:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/6.1.0/ROOT-6.1.0.jar returned status 404
@@ -38,3 +39,8 @@
 6.2.1		2021-12-17T23:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/6.2.1/ROOT-6.2.1.jar returned status 404
 7.0.0		2021-12-17T23:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/7.0.0/ROOT-7.0.0.jar returned status 404
 7.1.0		2021-12-17T23:12:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/7.1.0/ROOT-7.1.0.jar returned status 404
+7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/7.1.1/ROOT-7.1.1.jar returned status 404
+7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/7.1.2/ROOT-7.1.2.jar returned status 404
+7.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/7.1.4/ROOT-7.1.4.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/8.0.0/ROOT-8.0.0.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/ROOT/8.1.0/ROOT-8.1.0.jar returned status 404

@@ -1,12 +1,22 @@
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.2.0/durastore-3.2.0.jar returned status 404
 3.2.0	for-integration-test	2014-12-17T18:01:38Z	
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.2.1/durastore-3.2.1.jar returned status 404
 3.2.1	for-integration-test	2015-02-03T00:43:12Z	
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.2.2/durastore-3.2.2.jar returned status 404
 3.2.2	for-integration-test	2015-02-17T23:08:44Z	
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.2.3/durastore-3.2.3.jar returned status 404
 3.2.3	for-integration-test	2015-03-03T20:30:29Z	
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.2.4/durastore-3.2.4.jar returned status 404
 3.2.4	for-integration-test	2015-03-26T19:20:24Z	
+3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.2.5/durastore-3.2.5.jar returned status 404
 3.2.5	for-integration-test	2015-03-28T00:13:12Z	
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.3.0/durastore-3.3.0.jar returned status 404
 3.3.0	for-integration-test	2015-06-15T17:12:42Z	
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.4.0/durastore-3.4.0.jar returned status 404
 3.4.0	for-integration-test	2015-08-16T02:16:00Z	
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.5.0/durastore-3.5.0.jar returned status 404
 3.5.0	for-integration-test	2015-10-16T22:20:37Z	
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.6.0/durastore-3.6.0.jar returned status 404
 3.6.0	for-integration-test	2015-11-25T22:11:23Z	
 3.7.0		2021-12-17T23:11:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/3.7.0/durastore-3.7.0.jar returned status 404
 3.7.0	for-integration-test	2016-01-29T18:47:58Z	
@@ -82,6 +92,7 @@
 4.4.6	for-integration-test	2018-04-04T18:46:34Z	
 5.0.0		2021-12-17T23:11:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/5.0.0/durastore-5.0.0.jar returned status 404
 5.0.0	for-integration-test	2018-08-29T16:16:41Z	
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/5.1.0/durastore-5.1.0.jar returned status 404
 5.1.0	for-integration-test	2018-12-07T20:22:55Z	
 6.0.0		2021-12-17T23:11:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/6.0.0/durastore-6.0.0.jar returned status 404
 6.0.0	for-integration-test	2019-02-18T23:18:49Z	
@@ -99,8 +110,13 @@
 7.0.0	for-integration-test	2021-02-08T22:26:40Z	
 7.1.0		2021-12-17T23:11:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/7.1.0/durastore-7.1.0.jar returned status 404
 7.1.0	for-integration-test	2021-12-14T20:35:53Z	
+7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/7.1.1/durastore-7.1.1.jar returned status 404
 7.1.1	for-integration-test	2022-04-08T16:23:24Z	
+7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/7.1.2/durastore-7.1.2.jar returned status 404
 7.1.2	for-integration-test	2022-12-01T21:37:47Z	
+7.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/7.1.4/durastore-7.1.4.jar returned status 404
 7.1.4	for-integration-test	2023-09-11T20:35:05Z	
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/8.0.0/durastore-8.0.0.jar returned status 404
 8.0.0	for-integration-test	2023-11-15T19:57:34Z	
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/durastore/8.1.0/durastore-8.1.0.jar returned status 404
 8.1.0	for-integration-test	2024-06-10T19:18:06Z	

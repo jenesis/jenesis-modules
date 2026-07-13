@@ -68,6 +68,7 @@
 2.4.1	jdk16-sources	2015-10-19T19:41:16Z	
 2.4.1	jdk17	2015-10-19T19:37:46Z	
 2.4.1	jdk17-sources	2015-10-19T19:37:21Z	
+2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleflatmapper/sfm-querydsl/2.5/sfm-querydsl-2.5.jar returned status 404
 2.5	jdk16	2015-11-21T17:02:21Z	
 2.5	jdk16-sources	2015-11-21T17:02:43Z	
 2.5	jdk17	2015-11-21T16:57:36Z	

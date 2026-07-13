@@ -1,5 +1,10 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/e-hoffman/build/DeploymentConfiguration/1.0.0/DeploymentConfiguration-1.0.0.jar returned status 404
 1.0.0	site	2014-08-21T07:51:26Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/e-hoffman/build/DeploymentConfiguration/1.0.1/DeploymentConfiguration-1.0.1.jar returned status 404
 1.0.1	site	2014-08-21T09:01:37Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/e-hoffman/build/DeploymentConfiguration/1.0.2/DeploymentConfiguration-1.0.2.jar returned status 404
 1.0.2	site	2014-08-21T10:22:57Z	
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/e-hoffman/build/DeploymentConfiguration/1.0.3/DeploymentConfiguration-1.0.3.jar returned status 404
 1.0.3	site	2014-09-30T16:49:11Z	
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/e-hoffman/build/DeploymentConfiguration/1.0.4/DeploymentConfiguration-1.0.4.jar returned status 404
 1.0.4	site	2014-09-30T20:32:30Z	

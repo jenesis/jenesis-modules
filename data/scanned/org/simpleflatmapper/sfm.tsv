@@ -68,6 +68,7 @@
 2.4.1	jdk16-sources	2015-10-19T19:41:35Z	
 2.4.1	jdk17	2015-10-19T19:37:33Z	
 2.4.1	jdk17-sources	2015-10-19T19:37:38Z	
+2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleflatmapper/sfm/2.5/sfm-2.5.jar returned status 404
 2.5	jdk16	2015-11-21T17:02:39Z	
 2.5	jdk16-sources	2015-11-21T17:02:14Z	
 2.5	jdk17	2015-11-21T16:57:22Z	

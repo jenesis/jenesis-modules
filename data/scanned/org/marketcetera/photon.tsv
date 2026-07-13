@@ -1,2 +1,7 @@
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/marketcetera/photon/2.2.0/photon-2.2.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/marketcetera/photon/2.4.0/photon-2.4.0.jar returned status 404
+2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/marketcetera/photon/2.4.1/photon-2.4.1.jar returned status 404
+2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/marketcetera/photon/2.4.2/photon-2.4.2.jar returned status 404
+3.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/marketcetera/photon/3.0.12/photon-3.0.12.jar returned status 404
 4.1.0		2023-05-23T19:32:54Z	
 4.1.1		2023-09-19T21:15:48Z	

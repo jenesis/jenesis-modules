@@ -1,4 +1,27 @@
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/3.3.0/choco-3.3.0.jar returned status 404
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/3.3.1/choco-3.3.1.jar returned status 404
+3.3.1-j7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/3.3.1-j7/choco-3.3.1-j7.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/3.3.2/choco-3.3.2.jar returned status 404
+3.3.2-j7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/3.3.2-j7/choco-3.3.2-j7.jar returned status 404
+3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/3.3.3/choco-3.3.3.jar returned status 404
+3.3.3-j7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/3.3.3-j7/choco-3.3.3-j7.jar returned status 404
+4.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.10/choco-4.10.10.jar returned status 404
+4.10.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.11/choco-4.10.11.jar returned status 404
+4.10.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.12/choco-4.10.12.jar returned status 404
+4.10.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.13/choco-4.10.13.jar returned status 404
+4.10.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.14/choco-4.10.14.jar returned status 404
+4.10.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.15/choco-4.10.15.jar returned status 404
+4.10.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.16/choco-4.10.16.jar returned status 404
+4.10.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.17/choco-4.10.17.jar returned status 404
+4.10.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.18/choco-4.10.18.jar returned status 404
+4.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.4/choco-4.10.4.jar returned status 404
+4.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.5/choco-4.10.5.jar returned status 404
+4.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.6/choco-4.10.6.jar returned status 404
+4.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.7/choco-4.10.7.jar returned status 404
+4.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.8/choco-4.10.8.jar returned status 404
+4.10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/4.10.9/choco-4.10.9.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/5.0.0/choco-5.0.0.jar returned status 404
+5.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/5.0.0-beta.1/choco-5.0.0-beta.1.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/5.0.1/choco-5.0.1.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/6.0.0/choco-6.0.0.jar returned status 404
 6.0.1		2026-05-21T12:18:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/choco-solver/choco/6.0.1/choco-6.0.1.jar returned status 404

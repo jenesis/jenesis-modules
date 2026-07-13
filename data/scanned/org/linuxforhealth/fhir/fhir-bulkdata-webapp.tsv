@@ -1,5 +1,10 @@
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linuxforhealth/fhir/fhir-bulkdata-webapp/5.0.0/fhir-bulkdata-webapp-5.0.0.jar returned status 404
 5.0.0	client	2022-09-15T16:49:58Z	
+5.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linuxforhealth/fhir/fhir-bulkdata-webapp/5.0.0-RC1/fhir-bulkdata-webapp-5.0.0-RC1.jar returned status 404
 5.0.0-RC1	client	2022-08-19T20:39:12Z	
+5.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linuxforhealth/fhir/fhir-bulkdata-webapp/5.0.0-RC2/fhir-bulkdata-webapp-5.0.0-RC2.jar returned status 404
 5.0.0-RC2	client	2022-08-29T18:57:49Z	
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linuxforhealth/fhir/fhir-bulkdata-webapp/5.1.0/fhir-bulkdata-webapp-5.1.0.jar returned status 404
 5.1.0	client	2022-11-11T17:42:29Z	
+5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linuxforhealth/fhir/fhir-bulkdata-webapp/5.1.1/fhir-bulkdata-webapp-5.1.1.jar returned status 404
 5.1.1	client	2022-12-15T19:44:34Z	

@@ -131,6 +131,7 @@
 1.8.1	jdk17	2015-05-20T22:06:55Z	
 1.8.1	jdk17-javadoc	2015-05-20T22:07:24Z	
 1.8.1	jdk17-sources	2015-05-20T22:06:59Z	
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleflatmapper/simpleFlatMapper/1.9.0/simpleFlatMapper-1.9.0.jar returned status 404
 1.9.0	jdk16	2015-06-02T20:43:42Z	
 1.9.0	jdk16-sources	2015-06-02T20:43:47Z	
 1.9.0	jdk17	2015-06-02T20:41:59Z	

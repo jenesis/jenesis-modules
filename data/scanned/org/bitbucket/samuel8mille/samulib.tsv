@@ -1,3 +1,5 @@
 0.0.1		2016-09-23T19:15:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/samuel8mille/samulib/0.0.1/samulib-0.0.1.jar returned status 404
 1.0.0		2016-09-24T01:42:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/samuel8mille/samulib/1.0.0/samulib-1.0.0.jar returned status 404
 1.0.0.		2016-09-24T02:00:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/samuel8mille/samulib/1.0.0./samulib-1.0.0..jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/samuel8mille/samulib/1.0.1/samulib-1.0.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/samuel8mille/samulib/1.1.2/samulib-1.1.2.jar returned status 404

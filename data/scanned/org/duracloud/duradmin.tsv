@@ -1,12 +1,22 @@
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.2.0/duradmin-3.2.0.jar returned status 404
 3.2.0	for-integration-test	2014-12-17T18:18:57Z	
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.2.1/duradmin-3.2.1.jar returned status 404
 3.2.1	for-integration-test	2015-02-03T01:02:44Z	
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.2.2/duradmin-3.2.2.jar returned status 404
 3.2.2	for-integration-test	2015-02-17T23:25:42Z	
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.2.3/duradmin-3.2.3.jar returned status 404
 3.2.3	for-integration-test	2015-03-03T20:51:00Z	
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.2.4/duradmin-3.2.4.jar returned status 404
 3.2.4	for-integration-test	2015-03-26T19:40:28Z	
+3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.2.5/duradmin-3.2.5.jar returned status 404
 3.2.5	for-integration-test	2015-03-28T00:33:47Z	
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.3.0/duradmin-3.3.0.jar returned status 404
 3.3.0	for-integration-test	2015-06-15T17:31:38Z	
+3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.4.0/duradmin-3.4.0.jar returned status 404
 3.4.0	for-integration-test	2015-08-16T02:41:53Z	
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.5.0/duradmin-3.5.0.jar returned status 404
 3.5.0	for-integration-test	2015-10-16T22:35:39Z	
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.6.0/duradmin-3.6.0.jar returned status 404
 3.6.0	for-integration-test	2015-11-25T22:33:59Z	
 3.7.0		2021-12-17T23:09:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/3.7.0/duradmin-3.7.0.jar returned status 404
 3.7.0	for-integration-test	2016-01-29T18:58:21Z	
@@ -82,6 +92,7 @@
 4.4.6	for-integration-test	2018-04-04T18:45:26Z	
 5.0.0		2021-12-17T23:09:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/5.0.0/duradmin-5.0.0.jar returned status 404
 5.0.0	for-integration-test	2018-08-29T16:16:35Z	
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/5.1.0/duradmin-5.1.0.jar returned status 404
 5.1.0	for-integration-test	2018-12-07T20:22:39Z	
 6.0.0		2021-12-17T23:09:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/6.0.0/duradmin-6.0.0.jar returned status 404
 6.0.0	for-integration-test	2019-02-18T23:18:47Z	
@@ -99,8 +110,13 @@
 7.0.0	for-integration-test	2021-02-08T22:27:49Z	
 7.1.0		2021-12-17T23:09:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/7.1.0/duradmin-7.1.0.jar returned status 404
 7.1.0	for-integration-test	2021-12-14T20:38:13Z	
+7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/7.1.1/duradmin-7.1.1.jar returned status 404
 7.1.1	for-integration-test	2022-04-08T16:23:37Z	
+7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/7.1.2/duradmin-7.1.2.jar returned status 404
 7.1.2	for-integration-test	2022-12-01T21:38:04Z	
+7.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/7.1.4/duradmin-7.1.4.jar returned status 404
 7.1.4	for-integration-test	2023-09-11T20:35:12Z	
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/8.0.0/duradmin-8.0.0.jar returned status 404
 8.0.0	for-integration-test	2023-11-15T19:56:51Z	
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/duracloud/duradmin/8.1.0/duradmin-8.1.0.jar returned status 404
 8.1.0	for-integration-test	2024-06-10T19:17:53Z	

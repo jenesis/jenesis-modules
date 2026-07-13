@@ -6,3 +6,22 @@
 2.0.5		2016-11-15T20:24:44Z	
 2.0.6		2016-11-21T16:12:11Z	
 2.0.7		2016-11-21T17:48:27Z	
+3.0.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.0-RC/requirements-3.0.0-RC.jar returned status 404
+3.0.1-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.1-RC/requirements-3.0.1-RC.jar returned status 404
+3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.10/requirements-3.0.10.jar returned status 404
+3.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.11/requirements-3.0.11.jar returned status 404
+3.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.12/requirements-3.0.12.jar returned status 404
+3.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.13/requirements-3.0.13.jar returned status 404
+3.0.2-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.2-RC/requirements-3.0.2-RC.jar returned status 404
+3.0.3-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.3-RC/requirements-3.0.3-RC.jar returned status 404
+3.0.4-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.4-RC/requirements-3.0.4-RC.jar returned status 404
+3.0.5-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.5-RC/requirements-3.0.5-RC.jar returned status 404
+3.0.6-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.6-RC/requirements-3.0.6-RC.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.7/requirements-3.0.7.jar returned status 404
+3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.8/requirements-3.0.8.jar returned status 404
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/3.0.9/requirements-3.0.9.jar returned status 404
+4.0.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/4.0.0-RC/requirements-4.0.0-RC.jar returned status 404
+4.0.1-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/4.0.1-RC/requirements-4.0.1-RC.jar returned status 404
+4.0.2-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/4.0.2-RC/requirements-4.0.2-RC.jar returned status 404
+4.0.3-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/4.0.3-RC/requirements-4.0.3-RC.jar returned status 404
+4.0.4-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/cowwoc/requirements/4.0.4-RC/requirements-4.0.4-RC.jar returned status 404

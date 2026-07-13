@@ -1,1 +1,5 @@
+4.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onetwo4j/onetwo-parent/4.3.6/onetwo-parent-4.3.6.jar returned status 404
+4.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onetwo4j/onetwo-parent/4.3.7/onetwo-parent-4.3.7.jar returned status 404
+4.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onetwo4j/onetwo-parent/4.7.2/onetwo-parent-4.7.2.jar returned status 404
+5.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onetwo4j/onetwo-parent/5.2.7/onetwo-parent-5.2.7.jar returned status 404
 5.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onetwo4j/onetwo-parent/5.2.8/onetwo-parent-5.2.8.jar returned status 404

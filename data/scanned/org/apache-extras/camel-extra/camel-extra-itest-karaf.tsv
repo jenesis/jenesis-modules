@@ -1,1 +1,2 @@
 2.13.4		2015-06-09T17:42:32Z	
+2.13.4-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache-extras/camel-extra/camel-extra-itest-karaf/2.13.4-SNAPSHOT/camel-extra-itest-karaf-2.13.4-SNAPSHOT.jar returned status 404

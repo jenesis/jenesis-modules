@@ -1,1 +1,9 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/xd/1.0/xd-1.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/xd/1.0.1/xd-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/xd/1.0.2/xd-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/xd/1.0.3/xd-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/xd/1.0.4/xd-1.0.4.jar returned status 404
+6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/xd/6.0/xd-6.0.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/xd/6.0.1/xd-6.0.1.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/xd/8.0.0/xd-8.0.0.jar returned status 404
 8.1.0		2025-07-07T19:40:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/xd/8.1.0/xd-8.1.0.jar returned status 404

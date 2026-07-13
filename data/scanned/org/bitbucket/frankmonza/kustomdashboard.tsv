@@ -1,3 +1,11 @@
+0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/0.1/kustomdashboard-0.1.jar returned status 404
+0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/0.2/kustomdashboard-0.2.jar returned status 404
+0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/0.3/kustomdashboard-0.3.jar returned status 404
+0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/0.4/kustomdashboard-0.4.jar returned status 404
+0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/0.5/kustomdashboard-0.5.jar returned status 404
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/0.8/kustomdashboard-0.8.jar returned status 404
+0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/0.9/kustomdashboard-0.9.jar returned status 404
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/1.0/kustomdashboard-1.0.jar returned status 404
 20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/20/kustomdashboard-20.jar returned status 404
 21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/21/kustomdashboard-21.jar returned status 404
 22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bitbucket/frankmonza/kustomdashboard/22/kustomdashboard-22.jar returned status 404

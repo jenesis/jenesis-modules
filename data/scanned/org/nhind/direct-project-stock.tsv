@@ -1,2 +1,29 @@
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/1.0/direct-project-stock-1.0.jar returned status 404
+1.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/1.0-RC/direct-project-stock-1.0-RC.jar returned status 404
+1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/1.1/direct-project-stock-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/1.2/direct-project-stock-1.2.jar returned status 404
+1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/1.3/direct-project-stock-1.3.jar returned status 404
+1.3-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/1.3-M1/direct-project-stock-1.3-M1.jar returned status 404
+1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/1.3.1/direct-project-stock-1.3.1.jar returned status 404
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/1.3.2/direct-project-stock-1.3.2.jar returned status 404
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/1.4/direct-project-stock-1.4.jar returned status 404
+1.4-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/1.4-RC1/direct-project-stock-1.4-RC1.jar returned status 404
+2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/2.0/direct-project-stock-2.0.jar returned status 404
+2.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/2.0-M1/direct-project-stock-2.0-M1.jar returned status 404
+2.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/2.0-M2/direct-project-stock-2.0-M2.jar returned status 404
+2.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/2.0-M3/direct-project-stock-2.0-M3.jar returned status 404
+2.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/2.0-M4/direct-project-stock-2.0-M4.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/2.0.1/direct-project-stock-2.0.1.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/2.1/direct-project-stock-2.1.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/2.1.1/direct-project-stock-2.1.1.jar returned status 404
+3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/3.0/direct-project-stock-3.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/3.0.1/direct-project-stock-3.0.1.jar returned status 404
+4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/4.0/direct-project-stock-4.0.jar returned status 404
+5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/5.0/direct-project-stock-5.0.jar returned status 404
+5.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/5.0-RC1/direct-project-stock-5.0-RC1.jar returned status 404
+5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/5.1/direct-project-stock-5.1.jar returned status 404
+6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/6.0/direct-project-stock-6.0.jar returned status 404
+6.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/6.0-M1/direct-project-stock-6.0-M1.jar returned status 404
+6.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/6.0-RC1/direct-project-stock-6.0-RC1.jar returned status 404
 8.1.0		2025-07-08T11:53:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/8.1.0/direct-project-stock-8.1.0.jar returned status 404
 8.1.1		2025-10-15T10:49:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/direct-project-stock/8.1.1/direct-project-stock-8.1.1.jar returned status 404
