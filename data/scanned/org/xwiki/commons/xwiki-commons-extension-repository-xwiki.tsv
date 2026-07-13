@@ -307,6 +307,7 @@
 17.10.0		2025-11-24T09:52:57Z	
 17.10.0-rc-1		2025-11-17T09:19:00Z	
 17.10.1		2025-12-17T10:35:05Z	
+17.10.10			
 17.10.2		2025-12-30T09:13:03Z	
 17.10.3		2026-02-02T09:42:48Z	
 17.10.4		2026-03-02T13:56:32Z	
@@ -358,6 +359,19 @@
 18.4.2		2026-06-30T09:24:24Z	
 18.5.0		2026-06-29T08:29:11Z	
 18.5.0-rc-1		2026-06-22T12:34:32Z	
+4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.0/xwiki-commons-extension-repository-xwiki-4.0.jar returned status 404
+4.0-milestone-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.0-milestone-1/xwiki-commons-extension-repository-xwiki-4.0-milestone-1.jar returned status 404
+4.0-milestone-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.0-milestone-2/xwiki-commons-extension-repository-xwiki-4.0-milestone-2.jar returned status 404
+4.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.0-rc-1/xwiki-commons-extension-repository-xwiki-4.0-rc-1.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.0.1/xwiki-commons-extension-repository-xwiki-4.0.1.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.1/xwiki-commons-extension-repository-xwiki-4.1.jar returned status 404
+4.1-milestone-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.1-milestone-1/xwiki-commons-extension-repository-xwiki-4.1-milestone-1.jar returned status 404
+4.1-milestone-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.1-milestone-2/xwiki-commons-extension-repository-xwiki-4.1-milestone-2.jar returned status 404
+4.1-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.1-rc-1/xwiki-commons-extension-repository-xwiki-4.1-rc-1.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.1.1/xwiki-commons-extension-repository-xwiki-4.1.1.jar returned status 404
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.1.2/xwiki-commons-extension-repository-xwiki-4.1.2.jar returned status 404
+4.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.1.3/xwiki-commons-extension-repository-xwiki-4.1.3.jar returned status 404
+4.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-extension-repository-xwiki/4.1.4/xwiki-commons-extension-repository-xwiki-4.1.4.jar returned status 404
 4.2		2012-10-03T17:41:04Z	
 4.2-milestone-1		2012-07-31T17:02:16Z	
 4.2-milestone-2		2012-08-07T16:09:59Z	
