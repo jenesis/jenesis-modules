@@ -4947,5 +4947,6 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 1.0.10-6	named	com.aliyun	aliyun-cls-jdbc	2026-07-06T03:18:17Z	2.10.1
 4.1.0-rc1	named	com.snowflake	snowflake-kafka-connector	2026-07-07T06:59:16Z	2.8.9
 0.1.4-beta	named	dev.cjfravel	ariadne-spark35_2.12	2026-07-08T23:53:51Z	2.12.1
+0.5.2-beta	named	org.openjproxy	ojp-jdbc-driver	2026-07-09T02:30:01Z	2.13.2
 1.5.6	named	com.conaxgames	clibraries	2026-07-12T02:15:18Z	2.14.0
 1.5.7	named	com.conaxgames	clibraries	2026-07-13T00:16:05Z	2.14.0

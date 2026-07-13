@@ -27,3 +27,5 @@
 12.1.5		2026-07-02T18:36:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.1.5/parent-12.1.5.jar returned status 404
 12.1.6		2026-07-02T20:05:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.1.6/parent-12.1.6.jar returned status 404
 12.1.7		2026-07-03T09:59:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.1.7/parent-12.1.7.jar returned status 404
+12.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.1.8/parent-12.1.8.jar returned status 404
+12.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.2.0/parent-12.2.0.jar returned status 404

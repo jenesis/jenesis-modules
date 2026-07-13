@@ -874,3 +874,17 @@ org.jberet.se
 org.infinispan.protostream.processor
 org.infinispan.protostream.core
 org.infinispan.protostream.types
+symphony.bdk.app.spring.boot.starter
+symphony.bdk.http.api
+symphony.bdk.test.spring.boot
+symphony.bdk.template.handlebars
+symphony.bdk.core.spring.boot.starter
+symphony.bdk.http.jersey2
+symphony.bdk.template.freemarker
+symphony.bdk.core
+symphony.bdk.test.jupiter
+symphony.bdk.extension.api
+symphony.bdk.template.api
+symphony.bdk.config
+symphony.bdk.http.webclient
+symphony.group.extension

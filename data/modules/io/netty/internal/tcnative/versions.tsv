@@ -778,10 +778,16 @@
 4.49.1	named	com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-13	2026-07-03T08:49:48Z	2.0.78.Final
 4.49.1	named	com.azure.cosmos.spark	azure-cosmos-spark_3-3_2-12	2026-07-03T08:49:49Z	2.0.78.Final
 4.49.1	named	com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-12	2026-07-03T08:49:49Z	2.0.78.Final
+4.132.3	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-07T00:35:02Z	2.0.72.Final
 2.74.0	named	com.google.api	gapic-generator-java	2026-07-08T00:26:50Z	2.0.75.Final
 4.38	named	com.seaweedfs	seaweedfs-hadoop3-client	2026-07-09T00:07:05Z	2.0.74.Final
+4.132.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-09T02:26:08Z	2.0.72.Final
+4.132.4	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-09T02:26:08Z	2.0.72.Final
 5.2.1	named	com.liquibase.ext	liquibase-commercial-bigquery	2026-07-09T02:32:02Z	2.0.75.Final
 0.16.0	named	com.spotify.confidence	openfeature-provider-local	2026-07-09T02:32:25Z	2.0.72.Final
+4.133.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-10T02:19:29Z	2.0.72.Final
+4.132.6	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-10T02:19:32Z	2.0.72.Final
 11.2.42	named	com.datarobot	spooler-kafka	2026-07-11T00:07:55Z	2.0.75.Final
 4.1.10	named	com.instaclustr	esop-gcp	2026-07-11T00:14:41Z	2.0.70.Final
 4.1.10	named	com.instaclustr	esop-azure	2026-07-11T00:14:45Z	2.0.73.Final
+4.132.7	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-11T02:20:12Z	2.0.72.Final

@@ -1,2 +1,13 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/10.0.0/spring-bot-10.0.0.jar returned status 404
+10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/10.0.1/spring-bot-10.0.1.jar returned status 404
+10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/10.0.2/spring-bot-10.0.2.jar returned status 404
+10.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/10.0.3/spring-bot-10.0.3.jar returned status 404
 10.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/10.0.4/spring-bot-10.0.4.jar returned status 404
 11.0.1		2026-06-03T10:31:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/11.0.1/spring-bot-11.0.1.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/9.0.0/spring-bot-9.0.0.jar returned status 404
+9.0.0.BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/9.0.0.BETA/spring-bot-9.0.0.BETA.jar returned status 404
+9.0.0.BETA2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/9.0.0.BETA2/spring-bot-9.0.0.BETA2.jar returned status 404
+9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/9.0.1/spring-bot-9.0.1.jar returned status 404
+9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/9.0.2/spring-bot-9.0.2.jar returned status 404
+9.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/9.0.3/spring-bot-9.0.3.jar returned status 404
+9.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/springbot/spring-bot/9.0.4/spring-bot-9.0.4.jar returned status 404
