@@ -34,6 +34,8 @@
 3.8.3-patch11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openim/core-sdk/3.8.3-patch11/core-sdk-3.8.3-patch11.jar returned status 404
 3.8.3-patch12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openim/core-sdk/3.8.3-patch12/core-sdk-3.8.3-patch12.jar returned status 404
 3.8.3-patch12+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openim/core-sdk/3.8.3-patch12+1/core-sdk-3.8.3-patch12+1.jar returned status 404
+3.8.3-patch14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openim/core-sdk/3.8.3-patch14/core-sdk-3.8.3-patch14.jar returned status 404
+3.8.3-patch14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openim/core-sdk/3.8.3-patch14.1/core-sdk-3.8.3-patch14.1.jar returned status 404
 3.8.3-patch2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openim/core-sdk/3.8.3-patch2/core-sdk-3.8.3-patch2.jar returned status 404
 3.8.3-patch3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openim/core-sdk/3.8.3-patch3/core-sdk-3.8.3-patch3.jar returned status 404
 3.8.3-patch7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openim/core-sdk/3.8.3-patch7/core-sdk-3.8.3-patch7.jar returned status 404

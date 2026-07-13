@@ -1,1 +1,4 @@
+0.64.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sariska/com.facebook.react/0.64.0/com.facebook.react-0.64.0.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sariska/com.facebook.react/1.0.0/com.facebook.react-1.0.0.jar returned status 404
+r0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sariska/com.facebook.react/r0/com.facebook.react-r0.jar returned status 404
+~0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sariska/com.facebook.react/~0.7.0/com.facebook.react-~0.7.0.jar returned status 404

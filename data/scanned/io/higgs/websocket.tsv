@@ -1,5 +1,16 @@
 0.0.1		2013-07-19T00:34:19Z	
+0.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.10/websocket-0.0.10.jar returned status 404
+0.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.11/websocket-0.0.11.jar returned status 404
+0.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.12/websocket-0.0.12.jar returned status 404
+0.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.13/websocket-0.0.13.jar returned status 404
+0.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.14/websocket-0.0.14.jar returned status 404
+0.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.15/websocket-0.0.15.jar returned status 404
+0.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.17/websocket-0.0.17.jar returned status 404
 0.0.2		2013-08-27T11:55:53Z	
+0.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.21/websocket-0.0.21.jar returned status 404
+0.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.22/websocket-0.0.22.jar returned status 404
+0.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.23/websocket-0.0.23.jar returned status 404
+0.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.24/websocket-0.0.24.jar returned status 404
 0.0.3		2013-10-08T16:05:59Z	
 0.0.4		2013-10-16T19:35:54Z	
 0.0.5		2013-10-17T20:31:41Z	
@@ -7,3 +18,4 @@
 0.0.7		2014-02-20T18:01:56Z	
 0.0.8		2014-04-03T15:13:03Z	
 0.0.8-1		2014-06-13T14:34:31Z	
+0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/higgs/websocket/0.0.9/websocket-0.0.9.jar returned status 404

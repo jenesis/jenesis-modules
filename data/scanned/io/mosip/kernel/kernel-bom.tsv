@@ -1,4 +1,6 @@
 1.2.1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mosip/kernel/kernel-bom/1.2.1-rc1/kernel-bom-1.2.1-rc1.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mosip/kernel/kernel-bom/1.3.0/kernel-bom-1.3.0.jar returned status 404
+1.3.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mosip/kernel/kernel-bom/1.3.0-beta.1/kernel-bom-1.3.0-beta.1.jar returned status 404
+1.3.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mosip/kernel/kernel-bom/1.3.0-beta.2/kernel-bom-1.3.0-beta.2.jar returned status 404
 1.3.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mosip/kernel/kernel-bom/1.3.0-beta.3/kernel-bom-1.3.0-beta.3.jar returned status 404
 1.3.1-rc.1		2026-05-30T11:18:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mosip/kernel/kernel-bom/1.3.1-rc.1/kernel-bom-1.3.1-rc.1.jar returned status 404

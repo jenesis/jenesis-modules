@@ -1,3 +1,7 @@
+4.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/truedmp/trueid-sso-sdk/4.10.0/trueid-sso-sdk-4.10.0.jar returned status 404
+4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/truedmp/trueid-sso-sdk/4.11.0/trueid-sso-sdk-4.11.0.jar returned status 404
+4.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/truedmp/trueid-sso-sdk/4.12.0/trueid-sso-sdk-4.12.0.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/truedmp/trueid-sso-sdk/4.9.0/trueid-sso-sdk-4.9.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/truedmp/trueid-sso-sdk/5.0.0/trueid-sso-sdk-5.0.0.jar returned status 404
 5.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/truedmp/trueid-sso-sdk/5.0.0-alpha01/trueid-sso-sdk-5.0.0-alpha01.jar returned status 404
 5.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitbucket/truedmp/trueid-sso-sdk/5.0.0-alpha02/trueid-sso-sdk-5.0.0-alpha02.jar returned status 404
