@@ -1,3 +1,9 @@
+0.2.5-Helium			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-netconf/0.2.5-Helium/features-netconf-0.2.5-Helium.jar returned status 404
+0.2.6-Helium-SR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-netconf/0.2.6-Helium-SR1/features-netconf-0.2.6-Helium-SR1.jar returned status 404
+0.2.6-Helium-SR1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-netconf/0.2.6-Helium-SR1.1/features-netconf-0.2.6-Helium-SR1.1.jar returned status 404
+0.2.7-Helium-SR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-netconf/0.2.7-Helium-SR2/features-netconf-0.2.7-Helium-SR2.jar returned status 404
+0.2.8-Helium-SR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-netconf/0.2.8-Helium-SR3/features-netconf-0.2.8-Helium-SR3.jar returned status 404
+0.2.9-Helium-SR4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-netconf/0.2.9-Helium-SR4/features-netconf-0.2.9-Helium-SR4.jar returned status 404
 0.3.0-Lithium		2015-06-23T08:52:52Z	
 0.3.1-Lithium-SR1		2015-08-18T07:37:43Z	
 0.3.2-Lithium-SR2		2015-10-07T06:10:27Z	

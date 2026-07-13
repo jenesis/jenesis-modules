@@ -1716,3 +1716,5 @@ org.bouncycastle.fips.tls
 org.bouncycastle.fips.util
 org.mortbay.apache.el
 org.mortbay.apache.jasper
+redkale
+org.redkale

@@ -65,6 +65,9 @@
 1.7.31		2021-06-17T21:35:55Z	
 1.7.32		2021-07-20T11:58:01Z	
 1.7.33		2022-01-13T14:37:12Z	
+1.7.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/1.7.34/slf4j-log4j12-1.7.34.jar returned status 404
+1.7.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/1.7.35/slf4j-log4j12-1.7.35.jar returned status 404
+1.7.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/1.7.36/slf4j-log4j12-1.7.36.jar returned status 404
 1.7.4		2013-03-18T14:49:48Z	
 1.7.5		2013-03-25T20:52:51Z	
 1.7.6		2014-02-05T22:38:13Z	
@@ -78,6 +81,7 @@
 1.8.0-beta1		2018-01-30T12:24:34Z	
 1.8.0-beta2		2018-03-21T22:02:19Z	
 1.8.0-beta4		2019-02-19T17:30:36Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.0/slf4j-log4j12-2.0.0.jar returned status 404
 2.0.0-alpha0		2019-06-12T23:19:35Z	
 2.0.0-alpha1		2019-10-01T19:10:24Z	
 2.0.0-alpha2		2021-07-02T14:58:07Z	
@@ -85,4 +89,26 @@
 2.0.0-alpha4		2021-08-12T21:32:42Z	
 2.0.0-alpha5		2021-08-30T16:06:31Z	
 2.0.0-alpha6		2022-01-13T15:41:03Z	
+2.0.0-alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.0-alpha7/slf4j-log4j12-2.0.0-alpha7.jar returned status 404
+2.0.0-beta0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.0-beta0/slf4j-log4j12-2.0.0-beta0.jar returned status 404
+2.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.0-beta1/slf4j-log4j12-2.0.0-beta1.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.1/slf4j-log4j12-2.0.1.jar returned status 404
+2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.10/slf4j-log4j12-2.0.10.jar returned status 404
+2.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.11/slf4j-log4j12-2.0.11.jar returned status 404
+2.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.12/slf4j-log4j12-2.0.12.jar returned status 404
+2.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.13/slf4j-log4j12-2.0.13.jar returned status 404
+2.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.14/slf4j-log4j12-2.0.14.jar returned status 404
+2.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.15/slf4j-log4j12-2.0.15.jar returned status 404
+2.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.16/slf4j-log4j12-2.0.16.jar returned status 404
+2.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.17/slf4j-log4j12-2.0.17.jar returned status 404
 2.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.18/slf4j-log4j12-2.0.18.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.2/slf4j-log4j12-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.3/slf4j-log4j12-2.0.3.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.4/slf4j-log4j12-2.0.4.jar returned status 404
+2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.5/slf4j-log4j12-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.6/slf4j-log4j12-2.0.6.jar returned status 404
+2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.7/slf4j-log4j12-2.0.7.jar returned status 404
+2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.8/slf4j-log4j12-2.0.8.jar returned status 404
+2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.0.9/slf4j-log4j12-2.0.9.jar returned status 404
+2.1.0-alpha0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.1.0-alpha0/slf4j-log4j12-2.1.0-alpha0.jar returned status 404
+2.1.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-log4j12/2.1.0-alpha1/slf4j-log4j12-2.1.0-alpha1.jar returned status 404

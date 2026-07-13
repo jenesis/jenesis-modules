@@ -5,3 +5,5 @@
 2.1.0		2011-03-31T09:04:14Z	
 2.1.0-M1		2009-11-18T13:23:19Z	
 2.1.0-M2		2010-11-13T00:22:03Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appfuse/archetypes/appfuse-basic-struts/3.0.0/appfuse-basic-struts-3.0.0.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/appfuse/archetypes/appfuse-basic-struts/3.5.0/appfuse-basic-struts-3.5.0.jar returned status 404

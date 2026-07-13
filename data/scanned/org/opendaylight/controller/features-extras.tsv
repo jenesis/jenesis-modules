@@ -1,6 +1,46 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.10.0/features-extras-1.10.0.jar returned status 404
+1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.10.1/features-extras-1.10.1.jar returned status 404
+1.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.10.2/features-extras-1.10.2.jar returned status 404
+1.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.10.3/features-extras-1.10.3.jar returned status 404
+1.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.10.4/features-extras-1.10.4.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.11.0/features-extras-1.11.0.jar returned status 404
+1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.11.1/features-extras-1.11.1.jar returned status 404
+1.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.11.2/features-extras-1.11.2.jar returned status 404
+1.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.11.3/features-extras-1.11.3.jar returned status 404
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.12.0/features-extras-1.12.0.jar returned status 404
+1.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.12.1/features-extras-1.12.1.jar returned status 404
+1.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.12.2/features-extras-1.12.2.jar returned status 404
+1.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.12.3/features-extras-1.12.3.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.13.0/features-extras-1.13.0.jar returned status 404
+1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.13.1/features-extras-1.13.1.jar returned status 404
+1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.13.2/features-extras-1.13.2.jar returned status 404
+1.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.13.3/features-extras-1.13.3.jar returned status 404
+1.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.13.4/features-extras-1.13.4.jar returned status 404
+1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.14.0/features-extras-1.14.0.jar returned status 404
+1.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.14.1/features-extras-1.14.1.jar returned status 404
+1.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.14.2/features-extras-1.14.2.jar returned status 404
 1.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.14.3/features-extras-1.14.3.jar returned status 404
 1.5.0-Lithium		2015-06-23T08:52:43Z	
 1.5.1-Lithium-SR1		2015-08-18T07:37:05Z	
 1.5.2-Lithium-SR2		2015-10-07T06:10:20Z	
 1.5.3-Lithium-SR3		2015-11-24T05:53:58Z	
 1.5.4-Lithium-SR4		2016-02-29T07:59:26Z	
+1.6.0-Beryllium			
+1.6.1-Beryllium-SR1			
+1.6.2-Beryllium-SR2			
+1.6.3-Beryllium-SR3			
+1.6.4-Beryllium-SR4			
+1.7.0-Boron			
+1.7.1-Boron-SR1			
+1.7.2-Boron-SR2			
+1.7.3-Boron-SR3			
+1.7.4-Boron-SR4			
+1.8.0-Carbon			
+1.8.1-Carbon			
+1.8.2-Carbon			
+1.8.3-Carbon			
+1.8.4-Carbon			
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.9.0/features-extras-1.9.0.jar returned status 404
+1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.9.1/features-extras-1.9.1.jar returned status 404
+1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.9.2/features-extras-1.9.2.jar returned status 404
+1.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/features-extras/1.9.3/features-extras-1.9.3.jar returned status 404

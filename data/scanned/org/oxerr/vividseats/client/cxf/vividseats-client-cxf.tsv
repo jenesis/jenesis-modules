@@ -1,6 +1,9 @@
 0.0.10		2025-05-08T13:53:04Z	
 0.0.11		2025-05-13T12:30:06Z	
 0.0.12		2025-05-13T15:39:36Z	
+0.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/oxerr/vividseats/client/cxf/vividseats-client-cxf/0.0.13/vividseats-client-cxf-0.0.13.jar returned status 404
+0.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/oxerr/vividseats/client/cxf/vividseats-client-cxf/0.0.14/vividseats-client-cxf-0.0.14.jar returned status 404
+0.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/oxerr/vividseats/client/cxf/vividseats-client-cxf/0.0.15/vividseats-client-cxf-0.0.15.jar returned status 404
 0.0.6		2025-03-23T13:17:12Z	
 0.0.7		2025-03-24T02:59:56Z	
 0.0.8		2025-03-24T03:49:18Z	
