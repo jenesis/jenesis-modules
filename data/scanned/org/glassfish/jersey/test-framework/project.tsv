@@ -1,3 +1,13 @@
+2.0-m01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.0-m01/project-2.0-m01.jar returned status 404
+2.0-m02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.0-m02/project-2.0-m02.jar returned status 404
+2.0-m03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.0-m03/project-2.0-m03.jar returned status 404
+2.0-m04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.0-m04/project-2.0-m04.jar returned status 404
+2.0-m04-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.0-m04-1/project-2.0-m04-1.jar returned status 404
+2.0-m04-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.0-m04-2/project-2.0-m04-2.jar returned status 404
+2.0-m05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.0-m05/project-2.0-m05.jar returned status 404
+2.0-m05-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.0-m05-1/project-2.0-m05-1.jar returned status 404
+2.0-m05-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.0-m05-2/project-2.0-m05-2.jar returned status 404
+2.0-m06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.0-m06/project-2.0-m06.jar returned status 404
 2.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.31/project-2.31.jar returned status 404
 2.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.32/project-2.32.jar returned status 404
 2.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/jersey/test-framework/project/2.33/project-2.33.jar returned status 404

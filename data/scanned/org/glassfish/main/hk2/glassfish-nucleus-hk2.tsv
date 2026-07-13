@@ -18,3 +18,7 @@
 7.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/hk2/glassfish-nucleus-hk2/7.0.0-M2/glassfish-nucleus-hk2-7.0.0-M2.jar returned status 404
 7.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/hk2/glassfish-nucleus-hk2/7.0.0-M3/glassfish-nucleus-hk2-7.0.0-M3.jar returned status 404
 7.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/hk2/glassfish-nucleus-hk2/7.0.0-M4/glassfish-nucleus-hk2-7.0.0-M4.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/hk2/glassfish-nucleus-hk2/7.0.1/glassfish-nucleus-hk2-7.0.1.jar returned status 404
+7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/hk2/glassfish-nucleus-hk2/7.0.2/glassfish-nucleus-hk2-7.0.2.jar returned status 404
+7.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/hk2/glassfish-nucleus-hk2/7.0.3/glassfish-nucleus-hk2-7.0.3.jar returned status 404
+7.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/hk2/glassfish-nucleus-hk2/7.0.4/glassfish-nucleus-hk2-7.0.4.jar returned status 404

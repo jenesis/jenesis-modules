@@ -1,4 +1,13 @@
+4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/4.0/test-utils-4.0.jar returned status 404
+4.0-b90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/4.0-b90/test-utils-4.0-b90.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/4.1/test-utils-4.1.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/4.1.1/test-utils-4.1.1.jar returned status 404
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/4.1.2/test-utils-4.1.2.jar returned status 404
+5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/5.0/test-utils-5.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/5.0.1/test-utils-5.0.1.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/5.1.0/test-utils-5.1.0.jar returned status 404
+5.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/5.1.0-RC1/test-utils-5.1.0-RC1.jar returned status 404
+5.1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/5.1.0-RC2/test-utils-5.1.0-RC2.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/6.0.0/test-utils-6.0.0.jar returned status 404
 6.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/6.0.0-M1/test-utils-6.0.0-M1.jar returned status 404
 6.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/test-utils/6.0.0-RC1/test-utils-6.0.0-RC1.jar returned status 404

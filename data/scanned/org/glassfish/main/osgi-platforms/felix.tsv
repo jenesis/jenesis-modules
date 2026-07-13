@@ -1,4 +1,17 @@
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/3.1.2/felix-3.1.2.jar returned status 404
+3.1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/3.1.2.2/felix-3.1.2.2.jar returned status 404
+4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/4.0/felix-4.0.jar returned status 404
+4.0-b33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/4.0-b33/felix-4.0-b33.jar returned status 404
+4.0-b72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/4.0-b72/felix-4.0-b72.jar returned status 404
+4.0-b90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/4.0-b90/felix-4.0-b90.jar returned status 404
+4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/4.1/felix-4.1.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/4.1.1/felix-4.1.1.jar returned status 404
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/4.1.2/felix-4.1.2.jar returned status 404
+5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/5.0/felix-5.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/5.0.1/felix-5.0.1.jar returned status 404
 5.1.0		2023-01-19T19:28:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/5.1.0/felix-5.1.0.jar returned status 404
+5.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/5.1.0-RC1/felix-5.1.0-RC1.jar returned status 404
+5.1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/5.1.0-RC2/felix-5.1.0-RC2.jar returned status 404
 6.0.0		2023-01-19T19:28:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/6.0.0/felix-6.0.0.jar returned status 404
 6.0.0-M1		2023-01-19T19:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/6.0.0-M1/felix-6.0.0-M1.jar returned status 404
 6.0.0-RC1		2023-01-19T19:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/6.0.0-RC1/felix-6.0.0-RC1.jar returned status 404
@@ -18,15 +31,57 @@
 7.0.0-M2		2023-01-19T19:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.0-M2/felix-7.0.0-M2.jar returned status 404
 7.0.0-M3		2023-01-19T19:28:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.0-M3/felix-7.0.0-M3.jar returned status 404
 7.0.0-M4		2023-01-19T19:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.0-M4/felix-7.0.0-M4.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.1/felix-7.0.1.jar returned status 404
+7.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.10/felix-7.0.10.jar returned status 404
+7.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.11/felix-7.0.11.jar returned status 404
+7.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.12/felix-7.0.12.jar returned status 404
+7.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.13/felix-7.0.13.jar returned status 404
+7.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.14/felix-7.0.14.jar returned status 404
+7.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.15/felix-7.0.15.jar returned status 404
+7.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.16/felix-7.0.16.jar returned status 404
+7.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.17/felix-7.0.17.jar returned status 404
+7.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.18/felix-7.0.18.jar returned status 404
+7.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.19/felix-7.0.19.jar returned status 404
+7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.2/felix-7.0.2.jar returned status 404
+7.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.20/felix-7.0.20.jar returned status 404
+7.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.21/felix-7.0.21.jar returned status 404
+7.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.22/felix-7.0.22.jar returned status 404
+7.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.23/felix-7.0.23.jar returned status 404
+7.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.24/felix-7.0.24.jar returned status 404
+7.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.25/felix-7.0.25.jar returned status 404
 7.0.26		2026-06-27T19:57:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.26/felix-7.0.26.jar returned status 404
+7.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.3/felix-7.0.3.jar returned status 404
+7.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.4/felix-7.0.4.jar returned status 404
+7.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.5/felix-7.0.5.jar returned status 404
+7.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.6/felix-7.0.6.jar returned status 404
+7.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.7/felix-7.0.7.jar returned status 404
+7.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.8/felix-7.0.8.jar returned status 404
+7.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.0.9/felix-7.0.9.jar returned status 404
 7.1.0		2025-12-05T02:01:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.1.0/felix-7.1.0.jar returned status 404
 7.1.0-M1		2025-10-01T09:56:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.1.0-M1/felix-7.1.0-M1.jar returned status 404
 7.1.1		2026-07-01T23:51:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/7.1.1/felix-7.1.1.jar returned status 404
 8.0.0		2026-02-04T18:25:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0/felix-8.0.0.jar returned status 404
 8.0.0-DONTPUBLISH		2025-12-18T11:25:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-DONTPUBLISH/felix-8.0.0-DONTPUBLISH.jar returned status 404
+8.0.0-JDK17-M10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-JDK17-M10/felix-8.0.0-JDK17-M10.jar returned status 404
+8.0.0-JDK17-M12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-JDK17-M12/felix-8.0.0-JDK17-M12.jar returned status 404
+8.0.0-JDK17-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-JDK17-M5/felix-8.0.0-JDK17-M5.jar returned status 404
+8.0.0-JDK17-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-JDK17-M6/felix-8.0.0-JDK17-M6.jar returned status 404
+8.0.0-JDK17-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-JDK17-M7/felix-8.0.0-JDK17-M7.jar returned status 404
+8.0.0-JDK17-M9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-JDK17-M9/felix-8.0.0-JDK17-M9.jar returned status 404
+8.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M1/felix-8.0.0-M1.jar returned status 404
+8.0.0-M10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M10/felix-8.0.0-M10.jar returned status 404
+8.0.0-M11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M11/felix-8.0.0-M11.jar returned status 404
+8.0.0-M12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M12/felix-8.0.0-M12.jar returned status 404
 8.0.0-M13		2025-10-03T11:09:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M13/felix-8.0.0-M13.jar returned status 404
 8.0.0-M14		2025-11-02T23:37:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M14/felix-8.0.0-M14.jar returned status 404
 8.0.0-M15		2025-12-15T11:51:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M15/felix-8.0.0-M15.jar returned status 404
+8.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M2/felix-8.0.0-M2.jar returned status 404
+8.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M3/felix-8.0.0-M3.jar returned status 404
+8.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M5/felix-8.0.0-M5.jar returned status 404
+8.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M6/felix-8.0.0-M6.jar returned status 404
+8.0.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M7/felix-8.0.0-M7.jar returned status 404
+8.0.0-M8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M8/felix-8.0.0-M8.jar returned status 404
+8.0.0-M9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.0-M9/felix-8.0.0-M9.jar returned status 404
 8.0.1		2026-03-25T13:24:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.1/felix-8.0.1.jar returned status 404
 8.0.2		2026-05-05T00:14:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.2/felix-8.0.2.jar returned status 404
 8.0.3		2026-06-07T14:03:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/osgi-platforms/felix/8.0.3/felix-8.0.3.jar returned status 404
