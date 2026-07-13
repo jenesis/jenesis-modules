@@ -5,3 +5,14 @@
 1.3		2016-12-20T14:14:32Z	
 1.3	jar-with-dependencies	2016-12-20T14:14:37Z	
 1.3.1		2017-01-01T11:18:34Z	
+1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.3.2/inmemantlr-1.3.2.jar returned status 404
+1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.3.3/inmemantlr-1.3.3.jar returned status 404
+1.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.3.5/inmemantlr-1.3.5.jar returned status 404
+1.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.3.6/inmemantlr-1.3.6.jar returned status 404
+1.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.3.7/inmemantlr-1.3.7.jar returned status 404
+1.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.3.8/inmemantlr-1.3.8.jar returned status 404
+1.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.3.9/inmemantlr-1.3.9.jar returned status 404
+1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.4/inmemantlr-1.4.jar returned status 404
+1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.6/inmemantlr-1.6.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.7.0/inmemantlr-1.7.0.jar returned status 404
+1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/julianthome/inmemantlr/1.9.2/inmemantlr-1.9.2.jar returned status 404

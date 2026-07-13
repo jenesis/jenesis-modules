@@ -1,3 +1,5 @@
 1.4.4-1		2012-07-25T07:28:38Z	
 1.4.4-2		2012-07-26T07:50:33Z	
 1.4.4-3		2012-07-26T12:35:44Z	
+1.4.4-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/tony19/apktool-lib/1.4.4-4/apktool-lib-1.4.4-4.jar returned status 404
+1.4.4-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/tony19/apktool-lib/1.4.4-5/apktool-lib-1.4.4-5.jar returned status 404
