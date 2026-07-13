@@ -30,6 +30,8 @@
 1.0.2		2018-02-09T10:03:50Z	
 1.0.3		2018-03-19T21:34:03Z	
 1.1.0-M1		2018-03-14T10:55:47Z	
+1.1.0-M10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/get-coursier/coursier_sjs0.6_2.12/1.1.0-M10/coursier_sjs0.6_2.12-1.1.0-M10.jar returned status 404
+1.1.0-M11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/get-coursier/coursier_sjs0.6_2.12/1.1.0-M11/coursier_sjs0.6_2.12-1.1.0-M11.jar returned status 404
 1.1.0-M11-1		2019-02-06T18:57:11Z	
 1.1.0-M11-1	tests-javadoc	2019-02-06T18:57:03Z	
 1.1.0-M11-1	tests-sources	2019-02-06T18:57:10Z	
@@ -78,6 +80,8 @@
 1.1.0-M5		2018-07-10T17:45:08Z	
 1.1.0-M6		2018-07-17T17:52:58Z	
 1.1.0-M7		2018-08-02T21:05:14Z	
+1.1.0-M8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/get-coursier/coursier_sjs0.6_2.12/1.1.0-M8/coursier_sjs0.6_2.12-1.1.0-M8.jar returned status 404
+1.1.0-M9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/get-coursier/coursier_sjs0.6_2.12/1.1.0-M9/coursier_sjs0.6_2.12-1.1.0-M9.jar returned status 404
 2.0.0-RC1		2019-06-07T17:40:08Z	
 2.0.0-RC1	tests-javadoc	2019-06-07T17:40:01Z	
 2.0.0-RC1	tests-sources	2019-06-07T17:40:07Z	

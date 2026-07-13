@@ -48,3 +48,5 @@
 1.1.0-M5		2018-07-10T17:49:53Z	
 1.1.0-M6		2018-07-17T17:57:39Z	
 1.1.0-M7		2018-08-02T21:09:47Z	
+1.1.0-M8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/get-coursier/coursier_sjs0.6_2.11/1.1.0-M8/coursier_sjs0.6_2.11-1.1.0-M8.jar returned status 404
+1.1.0-M9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/get-coursier/coursier_sjs0.6_2.11/1.1.0-M9/coursier_sjs0.6_2.11-1.1.0-M9.jar returned status 404
