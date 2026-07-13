@@ -1847,3 +1847,8 @@ ru.testit.junit5
 ru.testit.junit4
 ru.testit.cucumber6
 ru.testit.cucumber7
+org.hsqldb
+ch.qos.logback.access.tomcat
+ch.qos.logback.access.jetty
+ch.qos.logback.access.common
+ch.qos.logback.core

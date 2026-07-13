@@ -1,5 +1,18 @@
 4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra/4.11/acra-4.11.jar returned status 404
 4.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra/4.11.1/acra-4.11.1.jar returned status 404
+4.2.3			
+4.3.0			
+4.3.1			
+4.4.0			
+4.5.0			
+4.5.0RC			
+4.5.0RC2			
+4.5.0RC3			
+4.6.0			
+4.6.0RC1			
+4.6.0RC2			
+4.6.1			
+4.6.2			
 4.7.0		2021-12-16T19:35:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra/4.7.0/acra-4.7.0.jar returned status 404
 4.7.0-RC.1		2021-12-16T19:35:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra/4.7.0-RC.1/acra-4.7.0-RC.1.jar returned status 404
 4.7.0-RC.2		2021-12-16T19:35:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra/4.7.0-RC.2/acra-4.7.0-RC.2.jar returned status 404

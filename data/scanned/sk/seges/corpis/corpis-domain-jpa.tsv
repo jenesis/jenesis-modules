@@ -1,1 +1,4 @@
 1.2.0		2011-10-08T18:20:12Z	
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/seges/corpis/corpis-domain-jpa/1.2.1/corpis-domain-jpa-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/seges/corpis/corpis-domain-jpa/1.2.2/corpis-domain-jpa-1.2.2.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/seges/corpis/corpis-domain-jpa/2.0.0/corpis-domain-jpa-2.0.0.jar returned status 404
