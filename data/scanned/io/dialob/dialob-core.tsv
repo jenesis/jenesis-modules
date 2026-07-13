@@ -37,3 +37,6 @@
 2.4.1		2026-03-12T12:33:41Z	
 2.4.2		2026-05-06T13:16:02Z	
 2.4.3		2026-07-01T11:37:38Z	
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dialob/dialob-core/3.0.2/dialob-core-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dialob/dialob-core/3.0.3/dialob-core-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dialob/dialob-core/3.0.4/dialob-core-3.0.4.jar returned status 404

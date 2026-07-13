@@ -1,3 +1,10 @@
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-war-minimal/4.0.0/hawtio-war-minimal-4.0.0.jar returned status 404
+4.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-war-minimal/4.0.0-RC2/hawtio-war-minimal-4.0.0-RC2.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-war-minimal/4.1.0/hawtio-war-minimal-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-war-minimal/4.2.0/hawtio-war-minimal-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-war-minimal/4.3.0/hawtio-war-minimal-4.3.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-war-minimal/4.4.0/hawtio-war-minimal-4.4.0.jar returned status 404
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-war-minimal/4.4.1/hawtio-war-minimal-4.4.1.jar returned status 404
 4.5.0		2025-08-13T06:53:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-war-minimal/4.5.0/hawtio-war-minimal-4.5.0.jar returned status 404
 4.6.0		2025-10-30T10:20:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-war-minimal/4.6.0/hawtio-war-minimal-4.6.0.jar returned status 404
 4.6.1		2025-11-04T06:54:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/hawtio-war-minimal/4.6.1/hawtio-war-minimal-4.6.1.jar returned status 404

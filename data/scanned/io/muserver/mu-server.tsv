@@ -141,6 +141,7 @@
 0.47.5		2020-01-07T15:02:42Z	
 0.47.6		2020-01-12T06:24:21Z	
 0.47.7		2020-01-28T10:49:04Z	
+0.48-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/muserver/mu-server/0.48-SNAPSHOT/mu-server-0.48-SNAPSHOT.jar returned status 404
 0.48.0		2020-01-31T14:38:09Z	
 0.48.2		2020-02-22T07:41:32Z	
 0.48.3		2020-02-22T07:50:30Z	
@@ -288,3 +289,5 @@
 2.2.7		2026-04-01T15:17:26Z	
 2.2.8		2026-05-11T02:42:14Z	
 2.3.0		2026-06-19T11:42:10Z	
+2.3.1			
+2.3.2			

@@ -1,3 +1,4 @@
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/objectbox-android-objectbrowser/2.8.0/objectbox-android-objectbrowser-2.8.0.jar returned status 404
 2.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/objectbox-android-objectbrowser/2.9.1/objectbox-android-objectbrowser-2.9.1.jar returned status 404
 2.9.2-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/objectbox-android-objectbrowser/2.9.2-RC/objectbox-android-objectbrowser-2.9.2-RC.jar returned status 404
 2.9.2-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/objectbox-android-objectbrowser/2.9.2-RC2/objectbox-android-objectbrowser-2.9.2-RC2.jar returned status 404
