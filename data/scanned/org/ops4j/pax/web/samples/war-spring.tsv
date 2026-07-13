@@ -6,10 +6,97 @@
 11.1.0		2025-11-19T12:12:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/11.1.0/war-spring-11.1.0.jar returned status 404
 11.1.1		2026-05-07T11:13:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/11.1.1/war-spring-11.1.1.jar returned status 404
 11.1.2		2026-06-11T09:52:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/11.1.2/war-spring-11.1.2.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.0/war-spring-3.0.0.jar returned status 404
+3.0.0.RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.0.RC/war-spring-3.0.0.RC.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.1/war-spring-3.0.1.jar returned status 404
+3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.10/war-spring-3.0.10.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.2/war-spring-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.3/war-spring-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.4/war-spring-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.5/war-spring-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.6/war-spring-3.0.6.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.7/war-spring-3.0.7.jar returned status 404
+3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.8/war-spring-3.0.8.jar returned status 404
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.0.9/war-spring-3.0.9.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.1.0/war-spring-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.1.1/war-spring-3.1.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.1.2/war-spring-3.1.2.jar returned status 404
+3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.1.3/war-spring-3.1.3.jar returned status 404
+3.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.1.4/war-spring-3.1.4.jar returned status 404
+3.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.1.5/war-spring-3.1.5.jar returned status 404
+3.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.1.6/war-spring-3.1.6.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.2.0/war-spring-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.2.1/war-spring-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.2.2/war-spring-3.2.2.jar returned status 404
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.2.3/war-spring-3.2.3.jar returned status 404
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.2.4/war-spring-3.2.4.jar returned status 404
+3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.2.5/war-spring-3.2.5.jar returned status 404
+3.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.2.6/war-spring-3.2.6.jar returned status 404
+3.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.2.7/war-spring-3.2.7.jar returned status 404
+3.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.2.8/war-spring-3.2.8.jar returned status 404
+3.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.2.9/war-spring-3.2.9.jar returned status 404
+3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.3.0/war-spring-3.3.0.jar returned status 404
+3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.3.1/war-spring-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/3.3.2/war-spring-3.3.2.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.0.0/war-spring-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.0.1/war-spring-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.0.2/war-spring-4.0.2.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.1.0/war-spring-4.1.0.jar returned status 404
+4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.1.1/war-spring-4.1.1.jar returned status 404
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.1.2/war-spring-4.1.2.jar returned status 404
+4.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.1.3/war-spring-4.1.3.jar returned status 404
+4.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.1.4/war-spring-4.1.4.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.2.0/war-spring-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.2.1/war-spring-4.2.1.jar returned status 404
+4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.2.2/war-spring-4.2.2.jar returned status 404
+4.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.2.3/war-spring-4.2.3.jar returned status 404
+4.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.2.4/war-spring-4.2.4.jar returned status 404
+4.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.2.5/war-spring-4.2.5.jar returned status 404
+4.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.2.6/war-spring-4.2.6.jar returned status 404
+4.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.2.7/war-spring-4.2.7.jar returned status 404
+4.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.2.8/war-spring-4.2.8.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.3.0/war-spring-4.3.0.jar returned status 404
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.3.1/war-spring-4.3.1.jar returned status 404
+4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.3.2/war-spring-4.3.2.jar returned status 404
+4.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.3.3/war-spring-4.3.3.jar returned status 404
+4.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.3.4/war-spring-4.3.4.jar returned status 404
+4.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.3.5/war-spring-4.3.5.jar returned status 404
+4.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.3.6/war-spring-4.3.6.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.4.0/war-spring-4.4.0.jar returned status 404
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.4.1/war-spring-4.4.1.jar returned status 404
+4.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/4.4.2/war-spring-4.4.2.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.0/war-spring-6.0.0.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.1/war-spring-6.0.1.jar returned status 404
+6.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.10/war-spring-6.0.10.jar returned status 404
+6.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.11/war-spring-6.0.11.jar returned status 404
+6.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.12/war-spring-6.0.12.jar returned status 404
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.2/war-spring-6.0.2.jar returned status 404
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.3/war-spring-6.0.3.jar returned status 404
+6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.4/war-spring-6.0.4.jar returned status 404
+6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.5/war-spring-6.0.5.jar returned status 404
+6.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.6/war-spring-6.0.6.jar returned status 404
+6.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.7/war-spring-6.0.7.jar returned status 404
+6.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.8/war-spring-6.0.8.jar returned status 404
+6.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.0.9/war-spring-6.0.9.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.1.0/war-spring-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.1.1/war-spring-6.1.1.jar returned status 404
+6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/6.1.2/war-spring-6.1.2.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.0.0/war-spring-7.0.0.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.1.0/war-spring-7.1.0.jar returned status 404
+7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.1.1/war-spring-7.1.1.jar returned status 404
+7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.0/war-spring-7.2.0.jar returned status 404
+7.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.1/war-spring-7.2.1.jar returned status 404
+7.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.10/war-spring-7.2.10.jar returned status 404
+7.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.11/war-spring-7.2.11.jar returned status 404
+7.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.12/war-spring-7.2.12.jar returned status 404
+7.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.13/war-spring-7.2.13.jar returned status 404
+7.2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.14/war-spring-7.2.14.jar returned status 404
+7.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.15/war-spring-7.2.15.jar returned status 404
 7.2.16		2024-12-03T19:51:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.16/war-spring-7.2.16.jar returned status 404
 7.2.17		2024-12-03T19:51:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.17/war-spring-7.2.17.jar returned status 404
 7.2.18		2024-12-03T19:51:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.18/war-spring-7.2.18.jar returned status 404
 7.2.19		2024-12-03T19:52:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.19/war-spring-7.2.19.jar returned status 404
+7.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.2/war-spring-7.2.2.jar returned status 404
 7.2.20		2024-12-03T19:51:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.20/war-spring-7.2.20.jar returned status 404
 7.2.21		2024-12-03T19:52:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.21/war-spring-7.2.21.jar returned status 404
 7.2.22		2024-12-03T19:52:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.22/war-spring-7.2.22.jar returned status 404
@@ -20,7 +107,16 @@
 7.2.27		2024-12-03T19:52:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.27/war-spring-7.2.27.jar returned status 404
 7.2.28		2024-12-03T19:52:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.28/war-spring-7.2.28.jar returned status 404
 7.2.29		2024-12-03T19:52:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.29/war-spring-7.2.29.jar returned status 404
+7.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.3/war-spring-7.2.3.jar returned status 404
 7.2.30		2024-12-03T19:52:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.30/war-spring-7.2.30.jar returned status 404
+7.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.4/war-spring-7.2.4.jar returned status 404
+7.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.5/war-spring-7.2.5.jar returned status 404
+7.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.6/war-spring-7.2.6.jar returned status 404
+7.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.7/war-spring-7.2.7.jar returned status 404
+7.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.8/war-spring-7.2.8.jar returned status 404
+7.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.2.9/war-spring-7.2.9.jar returned status 404
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.0/war-spring-7.3.0.jar returned status 404
+7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.1/war-spring-7.3.1.jar returned status 404
 7.3.10		2024-12-03T19:52:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.10/war-spring-7.3.10.jar returned status 404
 7.3.11		2024-12-03T19:52:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.11/war-spring-7.3.11.jar returned status 404
 7.3.12		2024-12-03T19:52:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.12/war-spring-7.3.12.jar returned status 404
@@ -31,6 +127,7 @@
 7.3.17		2024-12-03T19:52:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.17/war-spring-7.3.17.jar returned status 404
 7.3.18		2024-12-03T19:52:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.18/war-spring-7.3.18.jar returned status 404
 7.3.19		2024-12-03T19:52:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.19/war-spring-7.3.19.jar returned status 404
+7.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.2/war-spring-7.3.2.jar returned status 404
 7.3.20		2024-12-03T19:51:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.20/war-spring-7.3.20.jar returned status 404
 7.3.21		2024-12-03T19:52:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.21/war-spring-7.3.21.jar returned status 404
 7.3.22		2024-12-03T19:52:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.22/war-spring-7.3.22.jar returned status 404
@@ -41,6 +138,11 @@
 7.3.27		2024-12-03T19:52:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.27/war-spring-7.3.27.jar returned status 404
 7.3.28		2024-12-03T19:52:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.28/war-spring-7.3.28.jar returned status 404
 7.3.29		2024-12-03T19:51:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.29/war-spring-7.3.29.jar returned status 404
+7.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.3/war-spring-7.3.3.jar returned status 404
+7.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.4/war-spring-7.3.4.jar returned status 404
+7.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.5/war-spring-7.3.5.jar returned status 404
+7.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.6/war-spring-7.3.6.jar returned status 404
+7.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.7/war-spring-7.3.7.jar returned status 404
 7.3.8		2024-12-03T19:51:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.8/war-spring-7.3.8.jar returned status 404
 7.3.9		2024-12-03T19:52:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.3.9/war-spring-7.3.9.jar returned status 404
 7.4.0		2024-12-03T19:51:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/7.4.0/war-spring-7.4.0.jar returned status 404
@@ -74,6 +176,8 @@
 8.0.28		2024-12-03T19:52:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/8.0.28/war-spring-8.0.28.jar returned status 404
 8.0.29		2024-12-03T19:52:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/8.0.29/war-spring-8.0.29.jar returned status 404
 8.0.3		2024-12-03T19:51:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/8.0.3/war-spring-8.0.3.jar returned status 404
+8.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/8.0.30/war-spring-8.0.30.jar returned status 404
+8.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/8.0.31/war-spring-8.0.31.jar returned status 404
 8.0.32		2025-06-04T15:53:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/8.0.32/war-spring-8.0.32.jar returned status 404
 8.0.33		2025-07-29T17:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/8.0.33/war-spring-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/8.0.34/war-spring-8.0.34.jar returned status 404
@@ -96,7 +200,9 @@
 9.0.16		2024-12-03T19:51:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/9.0.16/war-spring-9.0.16.jar returned status 404
 9.0.17		2024-12-03T19:52:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/9.0.17/war-spring-9.0.17.jar returned status 404
 9.0.18		2024-12-03T19:52:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/9.0.18/war-spring-9.0.18.jar returned status 404
+9.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/9.0.19/war-spring-9.0.19.jar returned status 404
 9.0.2		2024-12-03T19:51:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/9.0.2/war-spring-9.0.2.jar returned status 404
+9.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/9.0.20/war-spring-9.0.20.jar returned status 404
 9.0.21		2025-06-05T06:39:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/9.0.21/war-spring-9.0.21.jar returned status 404
 9.0.22		2025-07-30T07:01:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/9.0.22/war-spring-9.0.22.jar returned status 404
 9.0.3		2024-12-03T19:52:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-spring/9.0.3/war-spring-9.0.3.jar returned status 404

@@ -1,3 +1,7 @@
+7.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.2.12/war-jsf-7.2.12.jar returned status 404
+7.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.2.13/war-jsf-7.2.13.jar returned status 404
+7.2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.2.14/war-jsf-7.2.14.jar returned status 404
+7.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.2.15/war-jsf-7.2.15.jar returned status 404
 7.2.16		2024-12-03T19:46:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.2.16/war-jsf-7.2.16.jar returned status 404
 7.2.17		2024-12-03T19:46:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.2.17/war-jsf-7.2.17.jar returned status 404
 7.2.18		2024-12-03T19:46:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.2.18/war-jsf-7.2.18.jar returned status 404
@@ -33,6 +37,9 @@
 7.3.27		2024-12-03T19:47:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.3.27/war-jsf-7.3.27.jar returned status 404
 7.3.28		2024-12-03T19:46:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.3.28/war-jsf-7.3.28.jar returned status 404
 7.3.29		2024-12-03T19:46:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.3.29/war-jsf-7.3.29.jar returned status 404
+7.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.3.5/war-jsf-7.3.5.jar returned status 404
+7.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.3.6/war-jsf-7.3.6.jar returned status 404
+7.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.3.7/war-jsf-7.3.7.jar returned status 404
 7.3.8		2024-12-03T19:46:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.3.8/war-jsf-7.3.8.jar returned status 404
 7.3.9		2024-12-03T19:47:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.3.9/war-jsf-7.3.9.jar returned status 404
 7.4.0		2024-12-03T19:46:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf/7.4.0/war-jsf-7.4.0.jar returned status 404

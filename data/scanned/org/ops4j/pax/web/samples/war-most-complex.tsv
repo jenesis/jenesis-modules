@@ -30,6 +30,8 @@
 8.0.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/8.0.28/war-most-complex-8.0.28.jar returned status 404
 8.0.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/8.0.29/war-most-complex-8.0.29.jar returned status 404
 8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/8.0.3/war-most-complex-8.0.3.jar returned status 404
+8.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/8.0.30/war-most-complex-8.0.30.jar returned status 404
+8.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/8.0.31/war-most-complex-8.0.31.jar returned status 404
 8.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/8.0.32/war-most-complex-8.0.32.jar returned status 404
 8.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/8.0.33/war-most-complex-8.0.33.jar returned status 404
 8.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/8.0.34/war-most-complex-8.0.34.jar returned status 404
@@ -52,7 +54,9 @@
 9.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/9.0.16/war-most-complex-9.0.16.jar returned status 404
 9.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/9.0.17/war-most-complex-9.0.17.jar returned status 404
 9.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/9.0.18/war-most-complex-9.0.18.jar returned status 404
+9.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/9.0.19/war-most-complex-9.0.19.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/9.0.2/war-most-complex-9.0.2.jar returned status 404
+9.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/9.0.20/war-most-complex-9.0.20.jar returned status 404
 9.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/9.0.21/war-most-complex-9.0.21.jar returned status 404
 9.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/9.0.22/war-most-complex-9.0.22.jar returned status 404
 9.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-most-complex/9.0.3/war-most-complex-9.0.3.jar returned status 404

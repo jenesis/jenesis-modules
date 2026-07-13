@@ -25,6 +25,8 @@
 8.0.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/8.0.28/jsf-resourcehandler-8.0.28.jar returned status 404
 8.0.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/8.0.29/jsf-resourcehandler-8.0.29.jar returned status 404
 8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/8.0.3/jsf-resourcehandler-8.0.3.jar returned status 404
+8.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/8.0.30/jsf-resourcehandler-8.0.30.jar returned status 404
+8.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/8.0.31/jsf-resourcehandler-8.0.31.jar returned status 404
 8.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/8.0.32/jsf-resourcehandler-8.0.32.jar returned status 404
 8.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/8.0.33/jsf-resourcehandler-8.0.33.jar returned status 404
 8.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/8.0.34/jsf-resourcehandler-8.0.34.jar returned status 404
@@ -47,7 +49,9 @@
 9.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/9.0.16/jsf-resourcehandler-9.0.16.jar returned status 404
 9.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/9.0.17/jsf-resourcehandler-9.0.17.jar returned status 404
 9.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/9.0.18/jsf-resourcehandler-9.0.18.jar returned status 404
+9.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/9.0.19/jsf-resourcehandler-9.0.19.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/9.0.2/jsf-resourcehandler-9.0.2.jar returned status 404
+9.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/9.0.20/jsf-resourcehandler-9.0.20.jar returned status 404
 9.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/9.0.21/jsf-resourcehandler-9.0.21.jar returned status 404
 9.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/9.0.22/jsf-resourcehandler-9.0.22.jar returned status 404
 9.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/jsf-resourcehandler/9.0.3/jsf-resourcehandler-9.0.3.jar returned status 404

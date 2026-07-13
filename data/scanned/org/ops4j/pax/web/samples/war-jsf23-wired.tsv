@@ -25,6 +25,8 @@
 8.0.28		2024-12-03T20:04:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/8.0.28/war-jsf23-wired-8.0.28.jar returned status 404
 8.0.29		2024-12-03T20:04:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/8.0.29/war-jsf23-wired-8.0.29.jar returned status 404
 8.0.3		2024-12-03T20:04:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/8.0.3/war-jsf23-wired-8.0.3.jar returned status 404
+8.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/8.0.30/war-jsf23-wired-8.0.30.jar returned status 404
+8.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/8.0.31/war-jsf23-wired-8.0.31.jar returned status 404
 8.0.32		2025-06-04T15:53:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/8.0.32/war-jsf23-wired-8.0.32.jar returned status 404
 8.0.33		2025-07-29T17:38:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/8.0.33/war-jsf23-wired-8.0.33.jar returned status 404
 8.0.34		2025-09-18T13:38:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/8.0.34/war-jsf23-wired-8.0.34.jar returned status 404
@@ -47,7 +49,9 @@
 9.0.16		2024-12-03T20:04:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/9.0.16/war-jsf23-wired-9.0.16.jar returned status 404
 9.0.17		2024-12-03T20:04:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/9.0.17/war-jsf23-wired-9.0.17.jar returned status 404
 9.0.18		2024-12-03T20:04:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/9.0.18/war-jsf23-wired-9.0.18.jar returned status 404
+9.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/9.0.19/war-jsf23-wired-9.0.19.jar returned status 404
 9.0.2		2024-12-03T20:04:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/9.0.2/war-jsf23-wired-9.0.2.jar returned status 404
+9.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/9.0.20/war-jsf23-wired-9.0.20.jar returned status 404
 9.0.21		2025-06-05T06:39:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/9.0.21/war-jsf23-wired-9.0.21.jar returned status 404
 9.0.22		2025-07-30T07:01:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/9.0.22/war-jsf23-wired-9.0.22.jar returned status 404
 9.0.3		2024-12-03T20:04:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-jsf23-wired/9.0.3/war-jsf23-wired-9.0.3.jar returned status 404
