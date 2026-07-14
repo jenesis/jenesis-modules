@@ -17,3 +17,4 @@
 1.0.0-rc3		2026-06-06T20:25:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-io-tvosarm64/1.0.0-rc3/serialization-io-tvosarm64-1.0.0-rc3.jar returned status 404
 1.0.0-rc3	metadata	2026-06-06T20:25:05Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-io-tvosarm64/1.0.1/serialization-io-tvosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-07-08T20:38:57Z	

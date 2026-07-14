@@ -191,3 +191,7 @@ io.micronaut.toml.micronaut_toml_serde
 io.micronaut.starter.micronaut_cli
 io.netty.handler.proxy
 io.micronaut.sql.micronaut_mybatis
+com.clickhouse.jdbc
+io.lytecache
+aethergate
+pdk.chart.fx

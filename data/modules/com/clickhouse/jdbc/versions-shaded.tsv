@@ -50,3 +50,4 @@
 0.8.5	automatic	com.clickhouse	jdbc-v2	2025-04-26T01:02:25Z	
 0.8.6	automatic	com.clickhouse	clickhouse-jdbc	2025-05-16T19:02:43Z	
 0.8.6	automatic	com.clickhouse	jdbc-v2	2025-05-16T19:02:44Z	
+0.7.3-2	named	io.github.tridog	liquibase-clickhouse-fork-4.30	2026-07-09T07:55:06Z	0.9.2

@@ -93,4 +93,6 @@
 1.66.0		2026-07-06T03:50:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-ai-gemini-iosx64/1.66.0/roborazzi-ai-gemini-iosx64-1.66.0.jar returned status 404
 1.66.0	metadata	2026-07-06T03:50:07Z	
 1.67.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-ai-gemini-iosx64/1.67.0/roborazzi-ai-gemini-iosx64-1.67.0.jar returned status 404
+1.67.0	metadata	2026-07-06T08:30:11Z	
 1.68.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/takahirom/roborazzi/roborazzi-ai-gemini-iosx64/1.68.0/roborazzi-ai-gemini-iosx64-1.68.0.jar returned status 404
+1.68.0	metadata	2026-07-10T10:26:32Z	

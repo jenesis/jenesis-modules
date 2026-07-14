@@ -1,0 +1,4 @@
+1.0.0		2026-07-08T05:38:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/in666/goonseek-modules/1.0.0/goonseek-modules-1.0.0.jar returned status 404
+1.0.1		2026-07-08T05:58:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/in666/goonseek-modules/1.0.1/goonseek-modules-1.0.1.jar returned status 404
+1.0.2		2026-07-08T07:26:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/in666/goonseek-modules/1.0.2/goonseek-modules-1.0.2.jar returned status 404
+1.0.3		2026-07-08T09:04:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/in666/goonseek-modules/1.0.3/goonseek-modules-1.0.3.jar returned status 404

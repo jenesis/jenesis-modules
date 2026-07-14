@@ -53,3 +53,4 @@
 1.0.0-rc3		2026-06-06T20:25:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialutil-tvosx64/1.0.0-rc3/serialutil-tvosx64-1.0.0-rc3.jar returned status 404
 1.0.0-rc3	metadata	2026-06-06T20:24:58Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialutil-tvosx64/1.0.1/serialutil-tvosx64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-07-08T20:38:59Z	

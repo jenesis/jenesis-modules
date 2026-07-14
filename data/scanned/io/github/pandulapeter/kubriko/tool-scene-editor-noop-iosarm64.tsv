@@ -35,3 +35,4 @@
 0.5.0		2026-07-03T11:05:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-noop-iosarm64/0.5.0/tool-scene-editor-noop-iosarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-07-03T11:05:00Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/tool-scene-editor-noop-iosarm64/0.6.0/tool-scene-editor-noop-iosarm64-0.6.0.jar returned status 404
+0.6.0	metadata	2026-07-08T07:31:01Z	

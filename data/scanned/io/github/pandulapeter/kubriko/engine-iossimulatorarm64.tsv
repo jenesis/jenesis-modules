@@ -37,5 +37,6 @@
 0.5.0		2026-07-03T11:05:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/engine-iossimulatorarm64/0.5.0/engine-iossimulatorarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-07-03T11:05:03Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/engine-iossimulatorarm64/0.6.0/engine-iossimulatorarm64-0.6.0.jar returned status 404
+0.6.0	metadata	2026-07-08T07:31:02Z	
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/engine-iossimulatorarm64/unspecified/engine-iossimulatorarm64-unspecified.jar returned status 404
 unspecified	metadata	2025-02-22T17:44:39Z	

@@ -7,3 +7,4 @@
 3.4.13-alpha		2026-06-29T15:11:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/kflite-iossimulatorarm64/3.4.13-alpha/kflite-iossimulatorarm64-3.4.13-alpha.jar returned status 404
 3.4.13-alpha	metadata	2026-06-29T15:11:15Z	
 3.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/kflite-iossimulatorarm64/3.50.0/kflite-iossimulatorarm64-3.50.0.jar returned status 404
+3.50.0	metadata	2026-07-07T17:46:26Z	
