@@ -97,3 +97,7 @@
 6.3.14	named	org.graylog2	graylog2-server	2026-07-01T12:37:07Z	1.20.1
 7.1.4	named	org.graylog2	graylog2-server	2026-07-01T12:37:14Z	1.22.1
 7.0.9	named	org.graylog2	graylog2-server	2026-07-01T12:37:14Z	1.21.2
+0.226.3	named	org.finos.legend.sdlc	legend-sdlc-server	2026-07-06T11:30:23Z	1.22.2
+0.226.3	named	org.finos.legend.sdlc	legend-sdlc-server-fs	2026-07-06T11:30:23Z	1.22.2
+7.1.5	named	org.graylog2	graylog2-server	2026-07-08T12:34:47Z	1.22.1
+7.0.10	named	org.graylog2	graylog2-server	2026-07-08T12:34:52Z	1.21.2

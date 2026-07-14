@@ -14,3 +14,6 @@
 1.4.1	named	org.apache.polaris	polaris-spark-3.5_2.13	2026-05-01T06:42:34Z	4.2.4.Final
 1.5.0	named	org.apache.polaris	polaris-spark-3.5_2.12	2026-05-14T07:02:14Z	4.2.4.Final
 1.5.0	named	org.apache.polaris	polaris-spark-3.5_2.13	2026-05-14T07:02:18Z	4.2.4.Final
+1.6.0	named	org.apache.polaris	polaris-spark-3.5_2.12	2026-07-04T06:14:27Z	4.2.13.Final
+1.6.0	named	org.apache.polaris	polaris-spark-3.5_2.13	2026-07-04T06:14:38Z	4.2.13.Final
+1.6.0	named	org.apache.polaris	polaris-spark-4.0_2.13	2026-07-04T06:14:47Z	4.2.13.Final

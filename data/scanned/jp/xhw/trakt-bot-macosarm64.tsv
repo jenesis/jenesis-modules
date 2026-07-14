@@ -3,3 +3,4 @@
 5.1.1		2026-05-29T10:20:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/xhw/trakt-bot-macosarm64/5.1.1/trakt-bot-macosarm64-5.1.1.jar returned status 404
 5.1.1	metadata	2026-05-29T10:20:26Z	
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/xhw/trakt-bot-macosarm64/6.0.0/trakt-bot-macosarm64-6.0.0.jar returned status 404
+6.0.0	metadata	2026-07-10T09:50:05Z	

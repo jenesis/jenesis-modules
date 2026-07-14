@@ -515,3 +515,5 @@
 0.37.1	named	com.jcabi	jcabi-xml	2026-06-11T08:16:06Z	2.0.16
 0.5.2	named	ru.loolzaaa.tgbot4j	tgbot4j-parent	2026-06-14T12:21:37Z	2.0.9
 7.1.0	named	org.openidentityplatform.openidm	openidm-workflow-activiti	2026-06-14T19:09:19Z	2.0.17
+2.0.10	named	org.apache.iotdb	external-api	2026-07-03T12:36:14Z	2.0.9
+2.0.10	named	org.apache.iotdb	udf-example	2026-07-03T12:49:45Z	2.0.9

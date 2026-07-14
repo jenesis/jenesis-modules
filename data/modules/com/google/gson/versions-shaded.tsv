@@ -6132,6 +6132,7 @@
 1.1.2	named	com.aliyun	tag20180828	2026-07-08T07:09:22Z	2.11.0
 3.2.9	named	com.aliyun	cas20200407	2026-07-08T07:25:52Z	2.11.0
 1.0.1	named	com.aliyun	agentexplorer20260317	2026-07-08T08:20:43Z	2.11.0
+3.37.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-07-08T09:31:02Z	2.10
 1.1.2	named	com.aliyun	appstream_center20210218	2026-07-08T12:25:06Z	2.11.0
 3.9.0	named	com.aliyun	vs20181212	2026-07-08T16:56:32Z	2.11.0
 9.3.0	named	com.aliyun	cloudfw20171207	2026-07-08T17:21:50Z	2.11.0

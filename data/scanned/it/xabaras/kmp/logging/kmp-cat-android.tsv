@@ -1,0 +1,2 @@
+1.0		2026-07-08T10:34:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/xabaras/kmp/logging/kmp-cat-android/1.0/kmp-cat-android-1.0.jar returned status 404
+1.0.1		2026-07-08T13:07:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/xabaras/kmp/logging/kmp-cat-android/1.0.1/kmp-cat-android-1.0.1.jar returned status 404
