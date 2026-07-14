@@ -80,6 +80,7 @@
 9.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-crypto/9.12.0/jeap-crypto-9.12.0.jar returned status 404
 9.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-crypto/9.13.0/jeap-crypto-9.13.0.jar returned status 404
 9.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-crypto/9.14.0/jeap-crypto-9.14.0.jar returned status 404
+9.15.0		2026-07-13T13:09:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-crypto/9.15.0/jeap-crypto-9.15.0.jar returned status 404
 9.2.0		2026-06-04T06:26:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-crypto/9.2.0/jeap-crypto-9.2.0.jar returned status 404
 9.3.0		2026-06-09T10:28:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-crypto/9.3.0/jeap-crypto-9.3.0.jar returned status 404
 9.4.0		2026-06-11T15:08:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-crypto/9.4.0/jeap-crypto-9.4.0.jar returned status 404

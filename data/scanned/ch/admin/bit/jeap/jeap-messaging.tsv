@@ -73,6 +73,7 @@
 15.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging/15.15.0/jeap-messaging-15.15.0.jar returned status 404
 15.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging/15.16.0/jeap-messaging-15.16.0.jar returned status 404
 15.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging/15.17.0/jeap-messaging-15.17.0.jar returned status 404
+15.18.0		2026-07-13T13:46:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging/15.18.0/jeap-messaging-15.18.0.jar returned status 404
 15.2.0		2026-06-01T15:32:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging/15.2.0/jeap-messaging-15.2.0.jar returned status 404
 15.2.1		2026-06-02T12:55:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging/15.2.1/jeap-messaging-15.2.1.jar returned status 404
 15.3.0		2026-06-04T07:17:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging/15.3.0/jeap-messaging-15.3.0.jar returned status 404
