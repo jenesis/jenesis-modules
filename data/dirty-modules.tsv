@@ -224,3 +224,15 @@ dev.mohterbaord.util.failablef
 dev.mccue.build
 dev.mccue.atproto.rkey
 dev.mccue.atproto.nsid
+dev.tamboui.toolkit
+jakarta.validation
+dev.denwav.hypo.types
+org.jspecify
+de.cuioss.http
+ch.qos.logback.core
+java.xml.bind
+org.apache.felix.framework
+com.nimbusds.jose.jwt
+org.signal.libsignal
+com.nimbusds.oauth2.sdk
+com.nimbusds.infinispan.persistence.redis

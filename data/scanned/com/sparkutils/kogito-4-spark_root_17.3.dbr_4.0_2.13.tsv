@@ -1,0 +1,2 @@
+0.0.1-RC24		2026-07-10T09:37:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sparkutils/kogito-4-spark_root_17.3.dbr_4.0_2.13/0.0.1-RC24/kogito-4-spark_root_17.3.dbr_4.0_2.13-0.0.1-RC24.jar returned status 404
+0.0.1-RC25		2026-07-10T15:38:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sparkutils/kogito-4-spark_root_17.3.dbr_4.0_2.13/0.0.1-RC25/kogito-4-spark_root_17.3.dbr_4.0_2.13-0.0.1-RC25.jar returned status 404

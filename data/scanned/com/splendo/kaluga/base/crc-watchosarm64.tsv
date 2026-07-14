@@ -1,3 +1,4 @@
 2.0.0-1742fc14cb-alpha.1212		2026-06-22T10:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splendo/kaluga/base/crc-watchosarm64/2.0.0-1742fc14cb-alpha.1212/crc-watchosarm64-2.0.0-1742fc14cb-alpha.1212.jar returned status 404
 2.0.0-1742fc14cb-alpha.1212	metadata	2026-06-22T10:59:38Z	
 2.0.0-alpha.1213			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splendo/kaluga/base/crc-watchosarm64/2.0.0-alpha.1213/crc-watchosarm64-2.0.0-alpha.1213.jar returned status 404
+2.0.0-alpha.1213	metadata	2026-07-07T15:04:50Z	

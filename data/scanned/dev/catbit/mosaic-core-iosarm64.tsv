@@ -1,0 +1,4 @@
+1.0.0		2026-07-08T16:33:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/catbit/mosaic-core-iosarm64/1.0.0/mosaic-core-iosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-07-08T16:33:29Z	
+1.0.1		2026-07-08T18:36:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/catbit/mosaic-core-iosarm64/1.0.1/mosaic-core-iosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-07-08T18:36:57Z	
