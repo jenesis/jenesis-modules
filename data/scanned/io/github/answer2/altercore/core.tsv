@@ -1,0 +1,21 @@
+0.0.1		2026-07-11T02:41:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/answer2/altercore/core/0.0.1/core-0.0.1.jar returned status 404
+0.0.1	debug-sources	2026-07-11T02:41:23Z	
+0.0.1	release-sources	2026-07-11T02:41:23Z	
+1.0.0		2026-07-10T18:25:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/answer2/altercore/core/1.0.0/core-1.0.0.jar returned status 404
+1.0.0	debug-sources	2026-07-10T18:25:53Z	
+1.0.0	release-sources	2026-07-10T18:25:53Z	
+1.0.1		2026-07-11T02:54:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/answer2/altercore/core/1.0.1/core-1.0.1.jar returned status 404
+1.0.1	debug-sources	2026-07-11T02:54:01Z	
+1.0.1	release-sources	2026-07-11T02:54:01Z	
+1.0.2		2026-07-11T03:02:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/answer2/altercore/core/1.0.2/core-1.0.2.jar returned status 404
+1.0.2	debug-sources	2026-07-11T03:02:11Z	
+1.0.2	release-sources	2026-07-11T03:02:11Z	
+1.0.3		2026-07-11T04:58:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/answer2/altercore/core/1.0.3/core-1.0.3.jar returned status 404
+1.0.3	debug-sources	2026-07-11T04:58:12Z	
+1.0.3	release-sources	2026-07-11T04:58:12Z	
+1.0.4		2026-07-11T05:51:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/answer2/altercore/core/1.0.4/core-1.0.4.jar returned status 404
+1.0.4	debug-sources	2026-07-11T05:51:17Z	
+1.0.4	release-sources	2026-07-11T05:51:17Z	
+1.0.5		2026-07-11T18:14:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/answer2/altercore/core/1.0.5/core-1.0.5.jar returned status 404
+1.0.5	debug-sources	2026-07-11T18:14:18Z	
+1.0.5	release-sources	2026-07-11T18:14:18Z	

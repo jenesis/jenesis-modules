@@ -1,0 +1,2 @@
+2.0.0		2026-07-10T03:04:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-model/2.0.0/agentscope-extensions-model-2.0.0.jar returned status 404
+2.0.0-RC5		2026-07-07T05:55:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-model/2.0.0-RC5/agentscope-extensions-model-2.0.0-RC5.jar returned status 404

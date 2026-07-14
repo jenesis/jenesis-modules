@@ -1,0 +1,6 @@
+1.0.0		2026-07-11T13:55:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kplatform/kplatform-core-watchosarm64/1.0.0/kplatform-core-watchosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-07-11T13:55:09Z	
+1.0.1		2026-07-11T16:38:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kplatform/kplatform-core-watchosarm64/1.0.1/kplatform-core-watchosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-07-11T16:38:35Z	
+1.1.0		2026-07-11T21:31:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kplatform/kplatform-core-watchosarm64/1.1.0/kplatform-core-watchosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-07-11T21:31:48Z	

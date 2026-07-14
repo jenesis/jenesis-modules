@@ -14,5 +14,6 @@
 1.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/lightning/lightning-kmp-core-linuxx64/1.11.4/lightning-kmp-core-linuxx64-1.11.4.jar returned status 404
 1.11.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/lightning/lightning-kmp-core-linuxx64/1.11.5/lightning-kmp-core-linuxx64-1.11.5.jar returned status 404
 1.12.0		2026-05-19T08:55:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/lightning/lightning-kmp-core-linuxx64/1.12.0/lightning-kmp-core-linuxx64-1.12.0.jar returned status 404
+1.13.0		2026-07-10T16:21:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/lightning/lightning-kmp-core-linuxx64/1.13.0/lightning-kmp-core-linuxx64-1.13.0.jar returned status 404
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/lightning/lightning-kmp-core-linuxx64/1.9.0/lightning-kmp-core-linuxx64-1.9.0.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/lightning/lightning-kmp-core-linuxx64/1.9.1/lightning-kmp-core-linuxx64-1.9.1.jar returned status 404

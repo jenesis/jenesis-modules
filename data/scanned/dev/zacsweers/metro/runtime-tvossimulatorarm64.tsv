@@ -175,3 +175,4 @@
 1.3.0		2026-07-01T05:13:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/runtime-tvossimulatorarm64/1.3.0/runtime-tvossimulatorarm64-1.3.0.jar returned status 404
 1.3.0	metadata	2026-07-01T05:13:08Z	
 1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/runtime-tvossimulatorarm64/1.3.1/runtime-tvossimulatorarm64-1.3.1.jar returned status 404
+1.3.1	metadata	2026-07-11T11:09:38Z	

@@ -43,4 +43,5 @@
 2.2.3		2026-06-04T07:48:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-platform-iosarm64/2.2.3/arrow-platform-iosarm64-2.2.3.jar returned status 404
 2.2.3	metadata	2026-06-04T07:48:41Z	
 2.3.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-platform-iosarm64/2.3.0-alpha.1/arrow-platform-iosarm64-2.3.0-alpha.1.jar returned status 404
+2.3.0-alpha.1	metadata	2026-07-09T20:34:41Z	
 2.3.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-platform-iosarm64/2.3.0-alpha.2/arrow-platform-iosarm64-2.3.0-alpha.2.jar returned status 404

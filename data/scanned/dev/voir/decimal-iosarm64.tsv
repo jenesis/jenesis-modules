@@ -1,3 +1,4 @@
 1.0.1		2026-06-22T20:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/voir/decimal-iosarm64/1.0.1/decimal-iosarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2026-06-22T20:59:42Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/voir/decimal-iosarm64/1.0.2/decimal-iosarm64-1.0.2.jar returned status 404
+1.0.2	metadata	2026-07-07T15:47:49Z	

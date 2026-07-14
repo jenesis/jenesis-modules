@@ -798,3 +798,5 @@
 2.4.20-Beta1	named	org.jetbrains.kotlin	kotlin-reflect	2026-06-24T09:43:20Z	
 2.4.10-RC	named	org.jetbrains.kotlin	kotlin-reflect	2026-06-25T06:10:09Z	
 2.4.10-RC2	named	org.jetbrains.kotlin	kotlin-reflect	2026-07-08T02:18:20Z	
+4.0.6	named	io.github.barqdb.kotlin	plugin-compiler-shaded	2026-07-08T12:33:42Z	
+4.0.7	named	io.github.barqdb.kotlin	plugin-compiler-shaded	2026-07-09T05:45:40Z	
