@@ -19,6 +19,7 @@
 6.1.0		2026-07-01T23:18:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-iosarm64/6.1.0/buffer-crypto-iosarm64-6.1.0.jar returned status 404
 6.1.0	metadata	2026-07-01T23:18:26Z	
 6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-iosarm64/6.10.0/buffer-crypto-iosarm64-6.10.0.jar returned status 404
+6.10.0	metadata	2026-07-12T22:13:59Z	
 6.2.0		2026-07-02T00:41:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-iosarm64/6.2.0/buffer-crypto-iosarm64-6.2.0.jar returned status 404
 6.2.0	metadata	2026-07-02T00:41:38Z	
 6.3.0		2026-07-02T15:23:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-iosarm64/6.3.0/buffer-crypto-iosarm64-6.3.0.jar returned status 404
@@ -54,7 +55,12 @@
 6.8.2		2026-07-07T17:20:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-iosarm64/6.8.2/buffer-crypto-iosarm64-6.8.2.jar returned status 404
 6.8.2	metadata	2026-07-07T17:21:02Z	
 6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-iosarm64/6.9.0/buffer-crypto-iosarm64-6.9.0.jar returned status 404
+6.9.0	metadata	2026-07-08T15:54:39Z	
 6.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-iosarm64/6.9.1/buffer-crypto-iosarm64-6.9.1.jar returned status 404
+6.9.1	metadata	2026-07-08T17:35:24Z	
 6.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-iosarm64/6.9.2/buffer-crypto-iosarm64-6.9.2.jar returned status 404
+6.9.2	metadata	2026-07-11T03:21:13Z	
 6.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-iosarm64/6.9.3/buffer-crypto-iosarm64-6.9.3.jar returned status 404
+6.9.3	metadata	2026-07-11T12:37:19Z	
 6.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-iosarm64/6.9.4/buffer-crypto-iosarm64-6.9.4.jar returned status 404
+6.9.4	metadata	2026-07-11T16:56:12Z	

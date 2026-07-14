@@ -117,6 +117,7 @@
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/materialkolor/material-color-utilities-iosarm64/4.1.1/material-color-utilities-iosarm64-4.1.1.jar returned status 404
 4.1.1	metadata	2026-02-03T23:40:11Z	
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/materialkolor/material-color-utilities-iosarm64/5.0.0/material-color-utilities-iosarm64-5.0.0.jar returned status 404
+5.0.0	metadata	2026-07-11T22:21:18Z	
 5.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/materialkolor/material-color-utilities-iosarm64/5.0.0-alpha01/material-color-utilities-iosarm64-5.0.0-alpha01.jar returned status 404
 5.0.0-alpha01	metadata	2025-10-20T20:51:51Z	
 5.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/materialkolor/material-color-utilities-iosarm64/5.0.0-alpha02/material-color-utilities-iosarm64-5.0.0-alpha02.jar returned status 404
