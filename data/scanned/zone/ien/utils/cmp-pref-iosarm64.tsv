@@ -3,7 +3,9 @@
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iosarm64/2.11.0/cmp-pref-iosarm64-2.11.0.jar returned status 404
 2.11.0	metadata	2026-05-15T12:44:26Z	
 2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iosarm64/2.12.0/cmp-pref-iosarm64-2.12.0.jar returned status 404
+2.12.0	metadata	2026-07-08T15:13:43Z	
 2.12.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iosarm64/2.12.0-alpha05/cmp-pref-iosarm64-2.12.0-alpha05.jar returned status 404
+2.12.0-alpha05	metadata	2026-07-08T11:24:30Z	
 2.2.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iosarm64/2.2.0-alpha10/cmp-pref-iosarm64-2.2.0-alpha10.jar returned status 404
 2.2.0-alpha10	metadata	2026-04-14T16:30:23Z	
 2.2.0-alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iosarm64/2.2.0-alpha11/cmp-pref-iosarm64-2.2.0-alpha11.jar returned status 404

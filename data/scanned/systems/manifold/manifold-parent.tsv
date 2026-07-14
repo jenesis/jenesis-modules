@@ -18,3 +18,4 @@
 2026.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/systems/manifold/manifold-parent/2026.1.4/manifold-parent-2026.1.4.jar returned status 404
 2026.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/systems/manifold/manifold-parent/2026.1.5/manifold-parent-2026.1.5.jar returned status 404
 2026.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/systems/manifold/manifold-parent/2026.1.6/manifold-parent-2026.1.6.jar returned status 404
+2026.1.7		2026-07-06T20:23:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/systems/manifold/manifold-parent/2026.1.7/manifold-parent-2026.1.7.jar returned status 404

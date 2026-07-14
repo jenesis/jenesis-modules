@@ -1,0 +1,2 @@
+9.0.0		2026-07-08T00:19:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/jacoco-aggregator-module/9.0.0/jacoco-aggregator-module-9.0.0.jar returned status 404
+9.0.1		2026-07-08T00:57:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/jacoco-aggregator-module/9.0.1/jacoco-aggregator-module-9.0.1.jar returned status 404

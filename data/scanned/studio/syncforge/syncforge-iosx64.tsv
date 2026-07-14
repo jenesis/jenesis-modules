@@ -3,6 +3,9 @@
 0.9.0-rc.4		2026-07-03T14:41:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/syncforge/syncforge-iosx64/0.9.0-rc.4/syncforge-iosx64-0.9.0-rc.4.jar returned status 404
 0.9.0-rc.4	metadata	2026-07-03T14:41:07Z	
 0.9.0-rc.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/syncforge/syncforge-iosx64/0.9.0-rc.5/syncforge-iosx64-0.9.0-rc.5.jar returned status 404
+0.9.0-rc.5	metadata	2026-07-06T08:45:36Z	
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/syncforge/syncforge-iosx64/1.0.0/syncforge-iosx64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-07-07T07:49:24Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/syncforge/syncforge-iosx64/1.1.0/syncforge-iosx64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-07-07T14:24:38Z	
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/syncforge/syncforge-iosx64/2.0.0/syncforge-iosx64-2.0.0.jar returned status 404
