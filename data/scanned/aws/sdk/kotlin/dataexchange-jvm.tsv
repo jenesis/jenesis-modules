@@ -790,4 +790,8 @@
 1.8.2		2026-07-08T23:50:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/dataexchange-jvm/1.8.2/dataexchange-jvm-1.8.2.jar returned status 404
 1.8.2	optimized	2026-07-08T23:50:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/dataexchange-jvm/1.8.2/dataexchange-jvm-1.8.2-optimized.jar returned status 404
 1.8.3			
+1.8.3	optimized	2026-07-09T18:45:55Z	
 1.8.4			
+1.8.4	optimized	2026-07-10T18:49:03Z	
+1.8.5		2026-07-13T18:47:00Z	
+1.8.5	optimized	2026-07-13T18:47:14Z	

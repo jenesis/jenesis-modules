@@ -1,3 +1,4 @@
 1.0.0		2026-06-01T09:37:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nobodywho/nobodywho-android/1.0.0/nobodywho-android-1.0.0.jar returned status 404
 1.1.0		2026-06-03T07:36:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nobodywho/nobodywho-android/1.1.0/nobodywho-android-1.1.0.jar returned status 404
 2.0.0		2026-06-15T15:15:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nobodywho/nobodywho-android/2.0.0/nobodywho-android-2.0.0.jar returned status 404
+2.1.0		2026-07-13T12:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nobodywho/nobodywho-android/2.1.0/nobodywho-android-2.1.0.jar returned status 404

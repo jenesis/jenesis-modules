@@ -308,3 +308,6 @@ build.spin.module.console
 build.spin.module.configuration
 build.spin.module.clean
 build.spin.module.checkstyle
+at.datenwort.firstClass.runtime
+at.datenwort.firstClass.processor
+com.fasterxml.jackson.dataformat.xml

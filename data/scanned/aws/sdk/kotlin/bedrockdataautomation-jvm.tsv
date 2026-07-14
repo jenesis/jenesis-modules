@@ -459,4 +459,8 @@
 1.8.2		2026-07-08T23:50:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bedrockdataautomation-jvm/1.8.2/bedrockdataautomation-jvm-1.8.2.jar returned status 404
 1.8.2	optimized	2026-07-08T23:50:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bedrockdataautomation-jvm/1.8.2/bedrockdataautomation-jvm-1.8.2-optimized.jar returned status 404
 1.8.3			
+1.8.3	optimized	2026-07-09T18:46:08Z	
 1.8.4			
+1.8.4	optimized	2026-07-10T18:49:48Z	
+1.8.5		2026-07-13T18:47:13Z	
+1.8.5	optimized	2026-07-13T18:47:00Z	

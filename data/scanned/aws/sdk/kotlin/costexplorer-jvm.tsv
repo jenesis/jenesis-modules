@@ -790,4 +790,8 @@
 1.8.2		2026-07-08T23:50:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/costexplorer-jvm/1.8.2/costexplorer-jvm-1.8.2.jar returned status 404
 1.8.2	optimized	2026-07-08T23:50:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/costexplorer-jvm/1.8.2/costexplorer-jvm-1.8.2-optimized.jar returned status 404
 1.8.3			
+1.8.3	optimized	2026-07-09T18:45:54Z	
 1.8.4			
+1.8.4	optimized	2026-07-10T18:49:56Z	
+1.8.5		2026-07-13T18:46:30Z	
+1.8.5	optimized	2026-07-13T18:46:47Z	
