@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-15. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-16. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -125,7 +125,7 @@ kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other g
   R   love.forte.plugin.suspend-transform  2025-04..2026-06 2.4.0-0.14.0         |.................===|
   R   dev.sebastiano.spectre               2026-05..2026-06 0.2.1                |...................=|
   R   dev.robocode.tankroyale              2026-01..2026-05 1.0.2                |..................==|
-  R   io.github.wangbax                    2026-04..2026-04 5.5.1-okio-fork-2    |...................=|
+  R   io.github.wangbax                    2026-04..2026-04 5.5.1-okio-fork-2    |..................==|
     + 23 more: com.squareup.wire, org.ldemetrios, io.github.lumamontes, dev.zacsweers.metro, io.typst, io.availe, dev.oglass, io.github.oewntk, io.github.lexa-diky, com.toasttab.expediter, io.johnsonlee.exec, io.specmatic, (+11 more)
 com.sun.tools.xjc  [explicit rule: owned by `org.glassfish.jaxb`; 4 other group(s) rejected]
   A * org.glassfish.jaxb                   2018-07..2019-01 2.3.2                |...==...............|
@@ -585,7 +585,7 @@ org.jsoup  [fork: keep `org.jsoup`, `com.sonatype.clm` still publishes the name]
   R   com.sonatype.clm                     2026-04..2026-07 3.0.10-01            |...................=|
   R   org.graylog2                         2025-07..2026-07 7.0.10               |.................===|
   R   org.finos.legend.sdlc                2026-04..2026-07 0.226.3              |...................=|
-  R   org.spdx                             2025-10..2026-06 2.0.7                |..................==|
+  R   org.spdx                             2025-10..2026-06 2.0.7                |.................===|
   R   org.scala-sbt                        2024-12..2026-06 2.0.1                |................====|
     + 35 more: io.get-coursier, software.amazon.jdbc, org.jboss.pnc.bacon, org.apache.flink, io.github.padreati, org.kie.j2cl.tools.di.ui, io.github.searchable-io, com.qainsights, org.testingisdocumenting.znai, com.github.tsantalis, org.apache.tika, io.yupiik.maven, (+23 more)
 com.fasterxml.jackson.module.jaxb  [fork: keep `com.fasterxml.jackson.module`, `com.liquibase` still publishes the name]
@@ -770,7 +770,7 @@ com.jtconnors.socket  [fork: keep `com.jtconnors.socket`, `io.github.jtconnors` 
   ?   io.github.jtconnors                  2026-06..2026-06 21.0.0               |...................=|
   A   com.jtconnors                        2019-02..2019-02 11.0.3               |....=...............|
 de.agilecoders.wicket.webjars  [fork: keep `de.agilecoders.wicket.webjars`, `io.github.arieslab` still publishes the name]
-  ? * de.agilecoders.wicket.webjars        2023-10..2025-12 4.0.14               |..............=====.|
+  ? * de.agilecoders.wicket.webjars        2023-10..2025-12 4.0.14               |.............======.|
   ?   io.github.arieslab                   2026-06..2026-06 2.4.2                |...................=|
 com.github.librepdf.openpdf  [fork: keep `com.github.librepdf`, `io.github.icarius4iu` still publishes the name]
   A * com.github.librepdf                  2018-09..2026-05 3.0.5                |...=================|
@@ -848,7 +848,7 @@ org.apache.jena.dboe.transaction  [fork: keep `org.apache.jena`, `com.vaimee` st
   ? * org.apache.jena                      2018-12..2026-05 6.1.0                |....================|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
 org.apache.jena.ext.com.google  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
-  ? * org.apache.jena                      2018-06..2023-04 4.8.0                |...===========......|
+  ? * org.apache.jena                      2018-06..2023-04 4.8.0                |...==========.......|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
 org.apache.jena.fuseki.access  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
   ? * org.apache.jena                      2018-12..2026-05 6.1.0                |....================|
@@ -1923,7 +1923,7 @@ vault.java.driver  [no clear owner; `com.bettercloud` is earliest and most recen
   ? * com.bettercloud                      2019-06..2019-12 5.1.0                |.....==.............|
   ?   io.github.jopenlibs                  2022-10..2026-05 6.2.2                |...........=========|
   ?   io.axual.utilities.config.providers  2020-06..2024-11 1.2.0                |.......==========...|
-  ?   edu.utexas.tacc.tapis                2021-10..2021-10 5.1.2                |.........==.........|
+  ?   edu.utexas.tacc.tapis                2021-10..2021-10 5.1.2                |.........=..........|
 org.apache.commons.cli  [no clear owner; `commons-cli` is earliest and most recent]
   ? * commons-cli                          2023-10..2025-11 1.11.0               |..............=====.|
   ?   org.teavm                            2024-04..2026-05 0.14.1               |...............=====|
@@ -1941,37 +1941,37 @@ java.json  [no clear owner; `javax.json` is earliest and most recent]
   ?   com.atomgraph.etl.json               2022-11..2023-08 1.0.7                |............==......|
     + 11 more: org.openpreservation.jhove, com.artipie, com.onespan.integration, org.odftoolkit, org.finra.herd, com.bitplan.wikifrontend, net.pincette, org.glassfish, com.phenixrts.edgeauth, jakarta.json, de.julielab
 netty.socketio.core  [no clear owner; `io.github.neatguycoding` is earliest and most recent]
-  ? * io.github.neatguycoding              2025-10..2025-11 3.0.1                |..................=.|
+  ? * io.github.neatguycoding              2025-10..2025-11 3.0.1                |.................==.|
   ?   com.socketio4j                       2025-11..2026-05 4.0.1                |..................==|
 netty.socketio.spring  [no clear owner; `io.github.neatguycoding` is earliest and most recent]
-  ? * io.github.neatguycoding              2025-10..2025-11 3.0.1                |..................=.|
+  ? * io.github.neatguycoding              2025-10..2025-11 3.0.1                |.................==.|
   ?   com.socketio4j                       2025-11..2026-05 4.0.1                |..................==|
 io.github.bucket4j.caffeine  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
-  ? * com.github.vladimir-bukhtoyarov      2022-03..2024-04 8.0.1                |..........======....|
+  ? * com.github.vladimir-bukhtoyarov      2022-03..2024-04 8.0.1                |..........=====.....|
   ?   com.bucket4j                         2022-07..2026-05 8.19.0               |...........=========|
 io.github.bucket4j.coherence  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
-  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......==========....|
+  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......=========.....|
   ?   com.bucket4j                         2022-07..2026-05 8.19.0               |...........=========|
 io.github.bucket4j.core  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
-  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......==========....|
+  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......=========.....|
   ?   com.bucket4j                         2022-07..2026-05 8.19.0               |...........=========|
 io.github.bucket4j.hazelcast  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
-  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......==========....|
+  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......=========.....|
   ?   com.bucket4j                         2022-07..2026-05 8.19.0               |...........=========|
 io.github.bucket4j.ignite  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
-  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......==========....|
+  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......=========.....|
   ?   com.bucket4j                         2022-07..2026-05 8.19.0               |...........=========|
 io.github.bucket4j.infinispan  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
-  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......==========....|
+  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......=========.....|
   ?   com.bucket4j                         2022-07..2026-05 8.19.0               |...........=========|
 io.github.bucket4j.jcache  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
-  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......==========....|
+  ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......=========.....|
   ?   com.bucket4j                         2022-07..2026-05 8.19.0               |...........=========|
 io.github.bucket4j.mysql  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
-  ? * com.github.vladimir-bukhtoyarov      2022-03..2024-04 8.0.1                |..........======....|
+  ? * com.github.vladimir-bukhtoyarov      2022-03..2024-04 8.0.1                |..........=====.....|
   ?   com.bucket4j                         2022-07..2026-05 8.19.0               |...........=========|
 io.github.bucket4j.postgresql  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
-  ? * com.github.vladimir-bukhtoyarov      2022-03..2024-04 8.0.1                |..........======....|
+  ? * com.github.vladimir-bukhtoyarov      2022-03..2024-04 8.0.1                |..........=====.....|
   ?   com.bucket4j                         2022-07..2026-05 8.19.0               |...........=========|
 ihub.core  [no clear owner; `pub.ihub.lib` is earliest and most recent]
   ? * pub.ihub.lib                         2021-09..2026-05 1.7.7                |.........===========|
@@ -2008,7 +2008,7 @@ mslinks  [no clear owner; `com.github.vatbub` is earliest and most recent]
   ?   org.jabref                           2026-02..2026-04 1.2                  |..................==|
 graphql.java.tools  [no clear owner; `com.graphql-java-kickstart` is earliest and most recent]
   ? * com.graphql-java-kickstart           2023-08..2025-04 14.0.1               |.............=====..|
-  ?   io.github.graphql-java-kickstart     2026-03..2026-04 14.0.2               |..................==|
+  ?   io.github.graphql-java-kickstart     2026-03..2026-04 14.0.2               |..................=.|
 org.java_websocket  [no clear owner; `org.java-websocket` is earliest and most recent]
   ? * org.java-websocket                   2023-07..2024-12 1.6.0                |.............====...|
   ?   io.github.cb-jarunmadhesh            2026-04..2026-04 1.0.0                |..................=.|
