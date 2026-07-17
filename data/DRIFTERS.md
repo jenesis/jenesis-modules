@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-16. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-17. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -73,7 +73,7 @@ kotlin.reflect  [explicit rule: owned by `org.jetbrains.kotlin`; 66 other group(
   ?   org.octopusden.octopus.infrastructure 2026-07..2026-07 3.0.2                |...................=|
   R   org.apache.pinot                     2025-09..2026-06 1.5.1                |.................===|
   ?   io.github.rodrigotimoteo             2026-06..2026-06 0.1.0                |...................=|
-  R   com.airbnb.viaduct                   2026-01..2026-04 0.29.0               |..................==|
+  R   com.airbnb.viaduct                   2026-01..2026-04 0.29.0               |..................=.|
     + 61 more: io.github.abdullahkhan118, io.github.tobi-laa, io.github.kshulzh.kefir, io.github.xilinjia.krdb, io.github.snow1026, com.browserstack, com.simprints.realm.kotlin, org.pkl-lang, com.statsig, com.infomaniak.realm.kotlin, com.solapi, io.github.honkling.commando, (+49 more)
 kotlin.stdlib.jdk7  [explicit rule: owned by `org.jetbrains.kotlin`; 21 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2026-07 2.4.10-RC2           |....================|
@@ -336,7 +336,7 @@ org.apache.commons.dbcp2  [renamed `org.apache.commons` -> `org.apache.tomee` (l
   ? * org.apache.commons                   2023-08..2025-12 2.14.0               |.............======.|
   ?   org.apache.tomee                     2023-12..2026-06 11.0.0-M1            |..............======|
   ?   org.apache.meecrowave                2025-10..2025-10 2.0.0                |.................=..|
-  ?   net.ontopia                          2025-04..2025-07 5.5.2                |.................=..|
+  ?   net.ontopia                          2025-04..2025-07 5.5.2                |................==..|
   ?   org.apache.openjpa                   2024-09..2025-05 4.1.1                |...............===..|
   ?   org.ikasan                           2024-07..2024-07 1.0.0                |...............=....|
 org.eclipse.osgi  [renamed `org.eclipse.tycho` -> `org.eclipse.platform` (latest 3.24.200)]
@@ -473,7 +473,7 @@ info.picocli  [fork: keep `info.picocli`, `com.instaclustr` still publishes the 
 io.github.classgraph  [fork: keep `io.github.classgraph`, `com.datarobot` still publishes the name]
   A * io.github.classgraph                 2018-08..2025-10 4.8.184              |...===============..|
   R   com.datarobot                        2022-02..2026-07 11.2.42              |..........==========|
-  R   org.finos.legend.engine              2025-10..2026-07 4.132.7              |..................==|
+  R   org.finos.legend.engine              2025-10..2026-07 4.132.7              |.................===|
   ?   dev.sixpack                          2026-07..2026-07 0.6.2                |...................=|
   R   tech.neander                         2024-05..2026-06 0.0.4                |...............=====|
   R   org.finos.legend.sdlc                2021-08..2026-05 0.222.3              |.........===========|
@@ -1165,7 +1165,7 @@ The dominant owner's groupId with its top-level domain dropped is the module-nam
 roaringbitmap  [owned by `org.roaringbitmap` (groupId minus TLD is the module prefix); 3 other group(s) shade the name]
   A * org.roaringbitmap                    2023-09..2026-07 1.6.15               |.............=======|
   ?   com.atomgraph.etl.csv                2026-06..2026-07 2.2.1                |...................=|
-  R   org.apache.celeborn                  2024-06..2026-04 0.6.3                |...............=====|
+  R   org.apache.celeborn                  2024-06..2026-04 0.6.3                |...............====.|
   R   org.bitlap                           2023-10..2023-10 1.0.1.0              |..............=.....|
 osgi.core  [owned by `org.osgi` (groupId minus TLD is the module prefix); 2 other group(s) shade the name]
   ? * org.osgi                             2020-12..2020-12 8.0.0                |........=...........|
