@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-17. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-18. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -391,7 +391,7 @@ org.yaml.snakeyaml  [fork: keep `org.yaml`, `com.sparkutils` still publishes the
 com.google.errorprone.annotations  [fork: keep `com.google.errorprone`, `eu.rssw.sonar.openedge` still publishes the name]
   A * com.google.errorprone                2019-12..2026-06 2.50.0               |......==============|
   R   eu.rssw.sonar.openedge               2024-11..2026-07 3.9.0                |................====|
-  R   com.salesforce.multicloudj           2026-04..2026-07 0.4.1                |...................=|
+  R   com.salesforce.multicloudj           2026-04..2026-07 0.4.1                |..................==|
   R   org.checkerframework                 2024-10..2026-07 4.2.1                |...............=====|
   R   org.apache.seatunnel                 2024-10..2026-06 1.38.0-3.0.0         |................====|
   R   com.facebook.presto                  2025-02..2026-06 0.298.1              |................====|
@@ -812,7 +812,7 @@ com.github.snksoft.crc  [fork: keep `com.github.snksoft`, `org.jurr.java.omniusb
 org.apache.commons.configuration2  [fork: keep `org.apache.commons`, `org.wso2.orbit.org.apache.commons` still publishes the name]
   A * org.apache.commons                   2017-10..2026-05 2.15.1               |.===================|
   ?   org.wso2.orbit.org.apache.commons    2026-06..2026-06 2.15.1.wso2v1        |...................=|
-  R   org.neo4j.procedure                  2024-04..2026-01 4.4.0.40             |...............====.|
+  R   org.neo4j.procedure                  2024-04..2026-01 4.4.0.40             |..............=====.|
   R   com.databricks.labs                  2025-05..2026-01 0.6.17               |.................==.|
   R   software.amazon.s3tables             2024-12..2025-08 0.1.8                |................==..|
   R   com.sonatype.central.testing.amazon  2025-06..2025-06 0.1.7                |.................=..|
@@ -884,7 +884,7 @@ org.apache.jena.text  [fork: keep `org.apache.jena`, `com.vaimee` still publishe
   ? * org.apache.jena                      2018-06..2026-05 6.1.0                |...=================|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
 jakarta.json  [fork: keep `jakarta.json`, `com.vaimee` still publishes the name]
-  A * jakarta.json                         2020-01..2023-10 2.1.3                |......=========.....|
+  A * jakarta.json                         2020-01..2023-10 2.1.3                |......========......|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
   R   org.eclipse.parsson                  2021-06..2026-05 1.1.9                |.........===========|
   R   io.github.qudtlib                    2026-02..2026-02 7.2.0                |..................=.|
@@ -1861,7 +1861,7 @@ okhttp  [no clear owner; `build.buf` is earliest and most recent]
   ?   com.connectrpc                       2023-09..2026-06 0.9.0                |.............=======|
 org.scala.lang.scala3.compiler  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........===========|
-  ?   com.michaelpollmeier                 2022-10..2022-11 3.2.2-RC1-bin-20221101-d84007c-NIGHTLY+1-extensible-repl |............=.......|
+  ?   com.michaelpollmeier                 2022-10..2022-11 3.2.2-RC1-bin-20221101-d84007c-NIGHTLY+1-extensible-repl |...........==.......|
 uk.co.spudsoft.birt.emitters.excel  [no clear owner; `io.github.reporting-solutions` is earliest and most recent]
   ? * io.github.reporting-solutions        2019-05..2026-02 4.23.0               |.....==============.|
   ?   org.eclipse.birt                     2022-05..2026-06 4.24.0               |...........=========|
