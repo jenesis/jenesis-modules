@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-18. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-19. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -14,7 +14,7 @@ Generated 2026-07-18. A module *drifts* when more than one groupId publishes the
 | unclassified | 263 | 7 |
 | **total** | **531** | **3121** |
 
-The table covers all **3652** multi-owner modules (of **37389** modules scanned).
+The table covers all **3652** multi-owner modules (of **37398** modules scanned).
 
 Timeline axis spans 2017-01 .. 2026-07 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
@@ -122,7 +122,7 @@ jul.to.slf4j  [explicit rule: owned by `org.slf4j`; 16 other group(s) rejected]
 kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other group(s) rejected]
   A * org.jetbrains.kotlinx                2021-09..2026-04 1.11.0               |.........==========.|
   ?   lol.simeon                           2026-06..2026-06 1.1.2                |...................=|
-  R   love.forte.plugin.suspend-transform  2025-04..2026-06 2.4.0-0.14.0         |.................===|
+  R   love.forte.plugin.suspend-transform  2025-04..2026-06 2.4.0-0.14.0         |................====|
   R   dev.sebastiano.spectre               2026-05..2026-06 0.2.1                |...................=|
   R   dev.robocode.tankroyale              2026-01..2026-05 1.0.2                |..................==|
   R   io.github.wangbax                    2026-04..2026-04 5.5.1-okio-fork-2    |..................==|
@@ -393,7 +393,7 @@ com.google.errorprone.annotations  [fork: keep `com.google.errorprone`, `eu.rssw
   R   eu.rssw.sonar.openedge               2024-11..2026-07 3.9.0                |................====|
   R   com.salesforce.multicloudj           2026-04..2026-07 0.4.1                |..................==|
   R   org.checkerframework                 2024-10..2026-07 4.2.1                |...............=====|
-  R   org.apache.seatunnel                 2024-10..2026-06 1.38.0-3.0.0         |................====|
+  R   org.apache.seatunnel                 2024-10..2026-06 1.38.0-3.0.0         |...............=====|
   R   com.facebook.presto                  2025-02..2026-06 0.298.1              |................====|
     + 53 more: org.noear, au.com.integradev.samples, org.apache.spark, com.google.appengine, com.google.turbine, io.okdp, com.clickzetta, io.zipkin.zipkin2, com.google.cloud, de.enflexit.awbAssist, com.palantir.hadoop-crypto2, org.foundationdb, (+41 more)
 dev.tamboui.widgets  [fork: keep `dev.tamboui`, `com.github.jlangch` still publishes the name]
@@ -463,7 +463,7 @@ org.apache.commons.compress  [fork: keep `org.apache.commons`, `io.github.tretho
   R   com.mobidevelop.robovm               2024-02..2026-06 2.3.25               |..............======|
     + 34 more: org.apache.flink, com.alibaba.ververica, org.apache.pinot, org.apache.parquet, org.apache.druid.extensions, com.theartos, me.bechberger, com.jlpka.langidentify, io.acryl, com.jlpka, io.codechicken, org.onebusaway, (+22 more)
 info.picocli  [fork: keep `info.picocli`, `com.instaclustr` still publishes the name]
-  A * info.picocli                         2017-10..2025-04 4.7.7                |.=================..|
+  A * info.picocli                         2017-10..2025-04 4.7.7                |.================...|
   R   com.instaclustr                      2020-01..2026-07 4.1.10               |......==============|
   R   org.keycloak                         2024-06..2026-07 26.7.0               |...............=====|
   R   org.primefaces                       2021-09..2026-07 16.0.0-RC1           |.........===========|
@@ -546,7 +546,7 @@ io.netty.tcnative.classes.openssl  [fork: keep `io.netty`, `io.vertx` still publ
 com.clickhouse.jdbc  [fork: keep `com.clickhouse`, `io.github.tridog` still publishes the name]
   A * com.clickhouse                       2021-12..2026-07 0.10.0-rc1           |..........==========|
   ?   io.github.tridog                     2026-07..2026-07 0.7.3-2              |...................=|
-  R   org.apache.seatunnel                 2023-10..2024-10 1.0.2                |.............====...|
+  R   org.apache.seatunnel                 2023-10..2024-10 1.0.2                |.............===....|
   R   io.kestra.plugin                     2022-04..2023-03 0.6.1                |..........===.......|
   R   ru.yandex.clickhouse                 2021-12..2021-12 0.3.2                |..........=.........|
 com.nimbusds.jose.jwt  [fork: keep `com.nimbusds`, `com.vaadin` still publishes the name]
@@ -790,7 +790,7 @@ jakarta.inject  [fork: keep `jakarta.inject`, `org.openidentityplatform.openig` 
   A * jakarta.inject                       2020-04..2021-10 2.0.1                |.......===..........|
   ?   org.openidentityplatform.openig      2026-06..2026-06 6.1.1                |...................=|
   ?   org.kill-bill.billing                2026-06..2026-06 0.42.0               |...................=|
-  R   com.google.gerrit                    2023-10..2026-06 3.13.7               |..............======|
+  R   com.google.gerrit                    2023-10..2026-06 3.13.7               |.............=======|
   R   io.joynr.java.core                   2026-01..2026-06 1.24.8               |..................==|
   R   dev.getelements.elements             2025-04..2026-03 3.6.32               |.................==.|
     + 13 more: io.github.jolt-community.jolt, it.netgrid, network.sloud.hytale, com.uchicom, com.google.tsunami, io.github.avistotelecom, org.apache.opennlp, com.google.template, io.github.openfeign.querydsl, org.reploop, com.guicedee.services, io.github.jbock-java, (+1 more)
@@ -933,7 +933,7 @@ com.github.javaparser.symbolsolver.core  [fork: keep `com.github.javaparser`, `o
   R   org.mvel.javaparser                  2026-02..2026-02 3.25.5-mvel3-1       |..................=.|
   R   io.joern                             2022-06..2022-06 3.24.3-SL3           |...........=........|
 org.apache.commons.collections4  [fork: keep `org.apache.commons`, `com.guicedee.modules.services` still publishes the name]
-  A * org.apache.commons                   2018-07..2025-04 4.5.0                |...===============..|
+  A * org.apache.commons                   2018-07..2025-04 4.5.0                |...==============...|
   R   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
   ?   org.apache.directory.api             2026-05..2026-05 2.1.8                |...................=|
   R   io.github.qudtlib                    2024-12..2025-10 7.1.1                |................==..|
