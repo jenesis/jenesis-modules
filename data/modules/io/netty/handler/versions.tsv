@@ -189,3 +189,4 @@
 2.3.0	named	org.apache.flink	flink-rpc-akka	2026-06-14T14:46:08Z	4.2.6.Final
 4.2.16.Final	named	io.netty	netty-handler	2026-07-07T23:56:01Z	4.2.16.Final
 4.1.136.Final	automatic	io.netty	netty-handler	2026-07-08T23:56:02Z	
+5.1.2	named	org.openidentityplatform.opendj	opendj-embedded-server-examples	2026-07-18T02:18:55Z	4.2.15.Final

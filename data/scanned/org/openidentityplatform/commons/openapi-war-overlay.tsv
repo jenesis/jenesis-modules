@@ -30,3 +30,4 @@
 3.0.4		2026-03-22T17:49:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/openapi-war-overlay/3.0.4/openapi-war-overlay-3.0.4.jar returned status 404
 3.1.0		2026-04-14T09:09:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/openapi-war-overlay/3.1.0/openapi-war-overlay-3.1.0.jar returned status 404
 3.1.1		2026-06-11T10:54:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/openapi-war-overlay/3.1.1/openapi-war-overlay-3.1.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/openapi-war-overlay/3.1.2/openapi-war-overlay-3.1.2.jar returned status 404

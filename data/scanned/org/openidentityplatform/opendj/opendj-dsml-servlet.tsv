@@ -40,3 +40,4 @@
 5.0.4		2026-03-23T20:24:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-dsml-servlet/5.0.4/opendj-dsml-servlet-5.0.4.jar returned status 404
 5.1.0		2026-04-15T08:40:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-dsml-servlet/5.1.0/opendj-dsml-servlet-5.1.0.jar returned status 404
 5.1.1		2026-06-11T19:19:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-dsml-servlet/5.1.1/opendj-dsml-servlet-5.1.1.jar returned status 404
+5.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-dsml-servlet/5.1.2/opendj-dsml-servlet-5.1.2.jar returned status 404

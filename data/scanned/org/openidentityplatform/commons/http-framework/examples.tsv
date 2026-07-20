@@ -30,3 +30,4 @@
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/http-framework/examples/3.0.4/examples-3.0.4.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/http-framework/examples/3.1.0/examples-3.1.0.jar returned status 404
 3.1.1		2026-06-11T10:54:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/http-framework/examples/3.1.1/examples-3.1.1.jar returned status 404
+3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/commons/http-framework/examples/3.1.2/examples-3.1.2.jar returned status 404

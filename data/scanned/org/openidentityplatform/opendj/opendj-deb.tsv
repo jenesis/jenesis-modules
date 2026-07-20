@@ -35,3 +35,4 @@
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-deb/5.0.4/opendj-deb-5.0.4.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-deb/5.1.0/opendj-deb-5.1.0.jar returned status 404
 5.1.1		2026-06-11T19:19:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-deb/5.1.1/opendj-deb-5.1.1.jar returned status 404
+5.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-deb/5.1.2/opendj-deb-5.1.2.jar returned status 404

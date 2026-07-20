@@ -241,3 +241,4 @@
 5.1.1	man-pages	2026-06-11T19:19:21Z	
 5.1.1	server-man-page-sources	2026-06-11T19:19:21Z	
 5.1.1	server-man-pages	2026-06-11T19:19:21Z	
+5.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/opendj/opendj-doc-generated-ref/5.1.2/opendj-doc-generated-ref-5.1.2.jar returned status 404
