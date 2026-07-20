@@ -1,1 +1,4 @@
 1.2.1		2026-07-09T22:04:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xpenatan/jParser/runtime-android-c_arm64_v8a/1.2.1/runtime-android-c_arm64_v8a-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xpenatan/jParser/runtime-android-c_arm64_v8a/1.2.2/runtime-android-c_arm64_v8a-1.2.2.jar returned status 404
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xpenatan/jParser/runtime-android-c_arm64_v8a/1.2.3/runtime-android-c_arm64_v8a-1.2.3.jar returned status 404
+1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/xpenatan/jParser/runtime-android-c_arm64_v8a/1.2.4/runtime-android-c_arm64_v8a-1.2.4.jar returned status 404

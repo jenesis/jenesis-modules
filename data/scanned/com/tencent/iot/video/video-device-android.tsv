@@ -10,3 +10,4 @@
 1.1.1-LP			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/video/video-device-android/1.1.1-LP/video-device-android-1.1.1-LP.jar returned status 404
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/video/video-device-android/1.1.2/video-device-android-1.1.2.jar returned status 404
 1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/video/video-device-android/1.1.3/video-device-android-1.1.3.jar returned status 404
+1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/iot/video/video-device-android/1.1.4/video-device-android-1.1.4.jar returned status 404
