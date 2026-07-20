@@ -5,4 +5,6 @@
 5.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/ontopia-distribution-tomcat/5.5.2/ontopia-distribution-tomcat-5.5.2.jar returned status 404
 5.6.0		2025-08-20T12:06:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/ontopia-distribution-tomcat/5.6.0/ontopia-distribution-tomcat-5.6.0.jar returned status 404
 5.7.0		2026-05-20T14:02:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/ontopia-distribution-tomcat/5.7.0/ontopia-distribution-tomcat-5.7.0.jar returned status 404
+5.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/ontopia-distribution-tomcat/5.7.1/ontopia-distribution-tomcat-5.7.1.jar returned status 404
+5.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/ontopia-distribution-tomcat/5.7.2/ontopia-distribution-tomcat-5.7.2.jar returned status 404
 6.0.0		2026-06-01T06:13:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/ontopia-distribution-tomcat/6.0.0/ontopia-distribution-tomcat-6.0.0.jar returned status 404

@@ -5,3 +5,5 @@
 5.5.2		2025-07-04T15:11:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/webapp-ontopoly-standalone/5.5.2/webapp-ontopoly-standalone-5.5.2.jar returned status 404
 5.6.0		2025-08-20T12:06:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/webapp-ontopoly-standalone/5.6.0/webapp-ontopoly-standalone-5.6.0.jar returned status 404
 5.7.0		2026-05-20T14:02:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/webapp-ontopoly-standalone/5.7.0/webapp-ontopoly-standalone-5.7.0.jar returned status 404
+5.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/webapp-ontopoly-standalone/5.7.1/webapp-ontopoly-standalone-5.7.1.jar returned status 404
+5.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ontopia/webapp-ontopoly-standalone/5.7.2/webapp-ontopoly-standalone-5.7.2.jar returned status 404

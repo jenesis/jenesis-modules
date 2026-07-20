@@ -27,3 +27,4 @@
 4.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/hasor/cobble-parent/4.8.5/cobble-parent-4.8.5.jar returned status 404
 4.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/hasor/cobble-parent/4.8.6/cobble-parent-4.8.6.jar returned status 404
 5.0.0		2026-06-20T04:19:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/hasor/cobble-parent/5.0.0/cobble-parent-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/hasor/cobble-parent/5.0.1/cobble-parent-5.0.1.jar returned status 404

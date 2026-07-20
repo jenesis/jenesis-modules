@@ -4992,6 +4992,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 4.1.3	named	org.apache.spark	spark-connect_2.13	2026-07-16T02:35:09Z	2.11.0
 3.5.9	named	org.apache.spark	spark-connect-client-jvm_2.13	2026-07-17T02:40:11Z	2.10.1
 3.5.9	named	org.apache.spark	spark-connect-client-jvm_2.12	2026-07-17T02:40:12Z	2.10.1
+1.2.5	named	net.obvj	jsonmerge-cli	2026-07-17T23:57:15Z	2.14.0
 8.36.0.45637	named	org.sonarsource.java	java-custom-rules-example	2026-07-18T00:06:34Z	2.14.0
 11.7.0.86025	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-07-18T00:06:45Z	2.13.2
 11.7.0.86025	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-07-18T00:06:49Z	2.13.2
