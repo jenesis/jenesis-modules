@@ -29,3 +29,5 @@
 0.20.0-RC.4		2026-06-24T21:40:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/rust-linuxx64/0.20.0-RC.4/rust-linuxx64-0.20.0-RC.4.jar returned status 404
 0.20.0-RC.5		2026-06-25T07:26:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/rust-linuxx64/0.20.0-RC.5/rust-linuxx64-0.20.0-RC.5.jar returned status 404
 0.20.0-RC.6		2026-07-01T19:15:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/rust-linuxx64/0.20.0-RC.6/rust-linuxx64-0.20.0-RC.6.jar returned status 404
+0.20.0-RC.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/rust-linuxx64/0.20.0-RC.7/rust-linuxx64-0.20.0-RC.7.jar returned status 404
+0.20.0-RC.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/rust-linuxx64/0.20.0-RC.8/rust-linuxx64-0.20.0-RC.8.jar returned status 404

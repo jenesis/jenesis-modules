@@ -5,6 +5,8 @@
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/6.3.0/metaobjects-6.3.0.jar returned status 404
 7.0.0		2026-05-28T02:59:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.0.0/metaobjects-7.0.0.jar returned status 404
 7.1.0		2026-05-29T01:26:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.1.0/metaobjects-7.1.0.jar returned status 404
+7.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.10.0/metaobjects-7.10.0.jar returned status 404
+7.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.11.0/metaobjects-7.11.0.jar returned status 404
 7.2.0		2026-06-02T02:32:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.2.0/metaobjects-7.2.0.jar returned status 404
 7.3.0		2026-06-15T03:47:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.3.0/metaobjects-7.3.0.jar returned status 404
 7.4.0		2026-06-21T19:35:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.4.0/metaobjects-7.4.0.jar returned status 404
@@ -16,6 +18,7 @@
 7.7.0		2026-07-01T09:50:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.7.0/metaobjects-7.7.0.jar returned status 404
 7.7.1		2026-07-02T03:39:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.7.1/metaobjects-7.7.1.jar returned status 404
 7.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.7.10/metaobjects-7.7.10.jar returned status 404
+7.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.7.11/metaobjects-7.7.11.jar returned status 404
 7.7.2		2026-07-02T12:19:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.7.2/metaobjects-7.7.2.jar returned status 404
 7.7.3		2026-07-03T07:51:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.7.3/metaobjects-7.7.3.jar returned status 404
 7.7.4		2026-07-04T12:30:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.7.4/metaobjects-7.7.4.jar returned status 404
@@ -24,3 +27,5 @@
 7.7.7		2026-07-06T23:15:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.7.7/metaobjects-7.7.7.jar returned status 404
 7.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.7.8/metaobjects-7.7.8.jar returned status 404
 7.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.7.9/metaobjects-7.7.9.jar returned status 404
+7.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.8.0/metaobjects-7.8.0.jar returned status 404
+7.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metaobjects/metaobjects/7.9.0/metaobjects-7.9.0.jar returned status 404

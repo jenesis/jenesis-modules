@@ -5,3 +5,5 @@
 8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lalaki/IconPackManager/8.0/IconPackManager-8.0.jar returned status 404
 8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lalaki/IconPackManager/8.1/IconPackManager-8.1.jar returned status 404
 8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lalaki/IconPackManager/8.2/IconPackManager-8.2.jar returned status 404
+8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lalaki/IconPackManager/8.3/IconPackManager-8.3.jar returned status 404
+8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/lalaki/IconPackManager/8.5/IconPackManager-8.5.jar returned status 404

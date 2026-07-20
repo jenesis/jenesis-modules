@@ -1,5 +1,6 @@
 1.0		2007-10-27T01:42:38Z	
 1.1-BETA-1		2007-04-30T21:29:39Z	
+1.1-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/groovy/groovy-all-minimal/1.1-beta-1/groovy-all-minimal-1.1-beta-1.jar returned status 404
 1.1-beta-2		2007-07-05T21:42:12Z	
 1.1-beta-3		2007-09-21T09:44:11Z	
 1.1-rc-1		2007-10-12T21:44:42Z	

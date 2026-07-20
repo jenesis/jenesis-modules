@@ -132,6 +132,8 @@
 5.4.5.100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/sdk/player/5.4.5.100/player-5.4.5.100.jar returned status 404
 5.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/sdk/player/5.4.6/player-5.4.6.jar returned status 404
 5.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/sdk/player/5.40.0/player-5.40.0.jar returned status 404
+5.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/sdk/player/5.42.0/player-5.42.0.jar returned status 404
+5.42.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/sdk/player/5.42.1/player-5.42.1.jar returned status 404
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/sdk/player/5.6.0/player-5.6.0.jar returned status 404
 5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/sdk/player/5.6.1/player-5.6.1.jar returned status 404
 5.6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/rongcloud/sdk/player/5.6.1.1/player-5.6.1.1.jar returned status 404

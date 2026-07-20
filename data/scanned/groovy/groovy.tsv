@@ -3,10 +3,21 @@
 1.0-RC-02		2006-12-23T18:23:38Z	
 1.0-alpha-1		2005-08-01T09:39:56Z	
 1.0-alpha-2		2005-08-01T09:39:56Z	
+1.0-beta-10			
+1.0-beta-2			
+1.0-beta-3			
+1.0-beta-4			
+1.0-beta-4-snapshot			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/groovy/groovy/1.0-beta-4-snapshot/groovy-1.0-beta-4-snapshot.jar returned status 404
+1.0-beta-5			
+1.0-beta-6			
+1.0-beta-7			
+1.0-beta-8			
+1.0-beta-9			
 1.0-jsr-04		2005-12-20T16:19:27Z	
 1.0-jsr-05		2006-02-14T01:31:15Z	
 1.0-jsr-05-1		2006-05-25T21:24:58Z	
 1.0-jsr-06		2006-07-30T10:38:55Z	
+1.0-rc1-snapshot			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/groovy/groovy/1.0-rc1-snapshot/groovy-1.0-rc1-snapshot.jar returned status 404
 1.0.javadoc		2007-01-11T02:34:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/groovy/groovy/1.0.javadoc/groovy-1.0.javadoc.jar returned status 404
 1.1-BETA-1		2007-04-30T21:29:40Z	
 1.1-beta-2		2007-07-05T21:42:12Z	

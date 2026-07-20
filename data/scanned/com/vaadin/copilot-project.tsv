@@ -6,6 +6,7 @@
 24.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.10.4/copilot-project-24.10.4.jar returned status 404
 24.10.5		2026-05-21T05:59:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.10.5/copilot-project-24.10.5.jar returned status 404
 24.10.6		2026-06-09T14:59:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.10.6/copilot-project-24.10.6.jar returned status 404
+24.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.10.7/copilot-project-24.10.7.jar returned status 404
 24.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.3.0/copilot-project-24.3.0.jar returned status 404
 24.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.3.1/copilot-project-24.3.1.jar returned status 404
 24.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.3.10/copilot-project-24.3.10.jar returned status 404
@@ -119,6 +120,7 @@
 24.9.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.9.18/copilot-project-24.9.18.jar returned status 404
 24.9.19		2026-06-09T14:29:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.9.19/copilot-project-24.9.19.jar returned status 404
 24.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.9.2/copilot-project-24.9.2.jar returned status 404
+24.9.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.9.20/copilot-project-24.9.20.jar returned status 404
 24.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.9.3/copilot-project-24.9.3.jar returned status 404
 24.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.9.4/copilot-project-24.9.4.jar returned status 404
 24.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/24.9.5/copilot-project-24.9.5.jar returned status 404
@@ -169,3 +171,4 @@
 25.2.0-rc1		2026-06-17T14:17:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/25.2.0-rc1/copilot-project-25.2.0-rc1.jar returned status 404
 25.2.1		2026-06-26T11:44:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/25.2.1/copilot-project-25.2.1.jar returned status 404
 25.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/25.2.2/copilot-project-25.2.2.jar returned status 404
+25.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/copilot-project/25.2.3/copilot-project-25.2.3.jar returned status 404

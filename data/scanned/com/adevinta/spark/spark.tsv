@@ -90,3 +90,5 @@
 2.7.0		2026-06-12T12:10:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adevinta/spark/spark/2.7.0/spark-2.7.0.jar returned status 404
 2.7.1		2026-07-02T13:45:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adevinta/spark/spark/2.7.1/spark-2.7.1.jar returned status 404
 2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adevinta/spark/spark/2.7.2/spark-2.7.2.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adevinta/spark/spark/3.0.0/spark-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adevinta/spark/spark/3.0.1/spark-3.0.1.jar returned status 404

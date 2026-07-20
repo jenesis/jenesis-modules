@@ -10,3 +10,4 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/diver/ph-diver-parent-pom/4.0.0/ph-diver-parent-pom-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/diver/ph-diver-parent-pom/4.1.0/ph-diver-parent-pom-4.1.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/diver/ph-diver-parent-pom/4.2.0/ph-diver-parent-pom-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/diver/ph-diver-parent-pom/4.2.1/ph-diver-parent-pom-4.2.1.jar returned status 404

@@ -288,6 +288,8 @@
 23.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/23.6.0/vaadin-app-layout-flow-parent-23.6.0.jar returned status 404
 23.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/23.6.1/vaadin-app-layout-flow-parent-23.6.1.jar returned status 404
 23.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/23.6.10/vaadin-app-layout-flow-parent-23.6.10.jar returned status 404
+23.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/23.6.11/vaadin-app-layout-flow-parent-23.6.11.jar returned status 404
+23.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/23.6.12/vaadin-app-layout-flow-parent-23.6.12.jar returned status 404
 23.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/23.6.2/vaadin-app-layout-flow-parent-23.6.2.jar returned status 404
 23.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/23.6.3/vaadin-app-layout-flow-parent-23.6.3.jar returned status 404
 23.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/23.6.4/vaadin-app-layout-flow-parent-23.6.4.jar returned status 404
@@ -339,6 +341,7 @@
 24.10.5		2026-05-20T13:19:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.10.5/vaadin-app-layout-flow-parent-24.10.5.jar returned status 404
 24.10.6		2026-05-21T11:56:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.10.6/vaadin-app-layout-flow-parent-24.10.6.jar returned status 404
 24.10.7		2026-06-09T10:52:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.10.7/vaadin-app-layout-flow-parent-24.10.7.jar returned status 404
+24.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.10.8/vaadin-app-layout-flow-parent-24.10.8.jar returned status 404
 24.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.2.0/vaadin-app-layout-flow-parent-24.2.0.jar returned status 404
 24.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.2.1/vaadin-app-layout-flow-parent-24.2.1.jar returned status 404
 24.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.2.10/vaadin-app-layout-flow-parent-24.2.10.jar returned status 404
@@ -472,6 +475,7 @@
 24.9.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.9.16/vaadin-app-layout-flow-parent-24.9.16.jar returned status 404
 24.9.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.9.17/vaadin-app-layout-flow-parent-24.9.17.jar returned status 404
 24.9.18		2026-06-09T11:13:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.9.18/vaadin-app-layout-flow-parent-24.9.18.jar returned status 404
+24.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.9.19/vaadin-app-layout-flow-parent-24.9.19.jar returned status 404
 24.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.9.2/vaadin-app-layout-flow-parent-24.9.2.jar returned status 404
 24.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.9.3/vaadin-app-layout-flow-parent-24.9.3.jar returned status 404
 24.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/24.9.4/vaadin-app-layout-flow-parent-24.9.4.jar returned status 404
@@ -496,6 +500,7 @@
 25.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.0.10/vaadin-app-layout-flow-parent-25.0.10.jar returned status 404
 25.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.0.11/vaadin-app-layout-flow-parent-25.0.11.jar returned status 404
 25.0.12		2026-06-08T10:04:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.0.12/vaadin-app-layout-flow-parent-25.0.12.jar returned status 404
+25.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.0.13/vaadin-app-layout-flow-parent-25.0.13.jar returned status 404
 25.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.0.2/vaadin-app-layout-flow-parent-25.0.2.jar returned status 404
 25.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.0.3/vaadin-app-layout-flow-parent-25.0.3.jar returned status 404
 25.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.0.4/vaadin-app-layout-flow-parent-25.0.4.jar returned status 404
@@ -526,3 +531,4 @@
 25.2.0-rc1		2026-06-17T12:35:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.2.0-rc1/vaadin-app-layout-flow-parent-25.2.0-rc1.jar returned status 404
 25.2.1		2026-06-26T10:01:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.2.1/vaadin-app-layout-flow-parent-25.2.1.jar returned status 404
 25.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.2.2/vaadin-app-layout-flow-parent-25.2.2.jar returned status 404
+25.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-app-layout-flow-parent/25.2.3/vaadin-app-layout-flow-parent-25.2.3.jar returned status 404
