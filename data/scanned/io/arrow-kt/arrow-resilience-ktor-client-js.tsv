@@ -15,3 +15,4 @@
 2.2.3		2026-06-04T07:48:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-resilience-ktor-client-js/2.2.3/arrow-resilience-ktor-client-js-2.2.3.jar returned status 404
 2.3.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-resilience-ktor-client-js/2.3.0-alpha.1/arrow-resilience-ktor-client-js-2.3.0-alpha.1.jar returned status 404
 2.3.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-resilience-ktor-client-js/2.3.0-alpha.2/arrow-resilience-ktor-client-js-2.3.0-alpha.2.jar returned status 404
+2.3.0-alpha.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-resilience-ktor-client-js/2.3.0-alpha.3/arrow-resilience-ktor-client-js-2.3.0-alpha.3.jar returned status 404

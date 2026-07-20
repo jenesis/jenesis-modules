@@ -11,3 +11,4 @@
 3.1.4		2026-05-29T21:06:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/datatype/jackson-datatype-hibernate-parent/3.1.4/jackson-datatype-hibernate-parent-3.1.4.jar returned status 404
 3.1.5		2026-07-08T01:59:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/datatype/jackson-datatype-hibernate-parent/3.1.5/jackson-datatype-hibernate-parent-3.1.5.jar returned status 404
 3.2.0		2026-06-09T00:29:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/datatype/jackson-datatype-hibernate-parent/3.2.0/jackson-datatype-hibernate-parent-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/datatype/jackson-datatype-hibernate-parent/3.2.1/jackson-datatype-hibernate-parent-3.2.1.jar returned status 404

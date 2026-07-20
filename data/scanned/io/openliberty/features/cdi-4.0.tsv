@@ -38,3 +38,4 @@
 26.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/cdi-4.0/26.0.0.4/cdi-4.0-26.0.0.4.jar returned status 404
 26.0.0.5		2026-05-13T19:46:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/cdi-4.0/26.0.0.5/cdi-4.0-26.0.0.5.jar returned status 404
 26.0.0.6		2026-06-09T11:02:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/cdi-4.0/26.0.0.6/cdi-4.0-26.0.0.6.jar returned status 404
+26.0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/cdi-4.0/26.0.0.7/cdi-4.0-26.0.0.7.jar returned status 404

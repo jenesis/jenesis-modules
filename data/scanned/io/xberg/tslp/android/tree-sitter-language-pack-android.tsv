@@ -6,3 +6,5 @@
 1.12.2		2026-07-02T05:13:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/tslp/android/tree-sitter-language-pack-android/1.12.2/tree-sitter-language-pack-android-1.12.2.jar returned status 404
 1.12.4		2026-07-04T18:58:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/tslp/android/tree-sitter-language-pack-android/1.12.4/tree-sitter-language-pack-android-1.12.4.jar returned status 404
 1.12.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/tslp/android/tree-sitter-language-pack-android/1.12.5/tree-sitter-language-pack-android-1.12.5.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/tslp/android/tree-sitter-language-pack-android/1.13.0/tree-sitter-language-pack-android-1.13.0.jar returned status 404
+1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/tslp/android/tree-sitter-language-pack-android/1.13.1/tree-sitter-language-pack-android-1.13.1.jar returned status 404

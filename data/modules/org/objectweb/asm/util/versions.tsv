@@ -350,3 +350,4 @@
 9.10.1	named	org.ow2.asm	asm-util	2026-05-23T13:17:36Z	9.10.1
 0.14.1	named	org.teavm	teavm-relocated-libs-asm-util	2026-05-25T10:42:32Z	9.8
 0.15.0	named	org.teavm	teavm-relocated-libs-asm-util	2026-06-14T17:42:35Z	9.8
+2.9.0	named	io.jactl	jactl-repl	2026-07-13T23:55:41Z	9.7.1

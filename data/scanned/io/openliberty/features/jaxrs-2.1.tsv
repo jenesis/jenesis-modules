@@ -92,3 +92,4 @@
 26.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jaxrs-2.1/26.0.0.4/jaxrs-2.1-26.0.0.4.jar returned status 404
 26.0.0.5		2026-05-13T20:46:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jaxrs-2.1/26.0.0.5/jaxrs-2.1-26.0.0.5.jar returned status 404
 26.0.0.6		2026-06-09T12:03:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jaxrs-2.1/26.0.0.6/jaxrs-2.1-26.0.0.6.jar returned status 404
+26.0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jaxrs-2.1/26.0.0.7/jaxrs-2.1-26.0.0.7.jar returned status 404

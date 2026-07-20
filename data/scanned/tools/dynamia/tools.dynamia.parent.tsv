@@ -12,6 +12,45 @@
 26.5.3		2026-05-27T14:30:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/26.5.3/tools.dynamia.parent-26.5.3.jar returned status 404
 26.5.4		2026-06-01T14:51:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/26.5.4/tools.dynamia.parent-26.5.4.jar returned status 404
 26.6.0		2026-06-18T22:20:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/26.6.0/tools.dynamia.parent-26.6.0.jar returned status 404
+3.6.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/3.6.0.Final/tools.dynamia.parent-3.6.0.Final.jar returned status 404
+3.6.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/3.6.1.Final/tools.dynamia.parent-3.6.1.Final.jar returned status 404
+4.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.0.0.Final/tools.dynamia.parent-4.0.0.Final.jar returned status 404
+4.0.0.RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.0.0.RC/tools.dynamia.parent-4.0.0.RC.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.0.1/tools.dynamia.parent-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.0.2/tools.dynamia.parent-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.0.3/tools.dynamia.parent-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.0.4/tools.dynamia.parent-4.0.4.jar returned status 404
+4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.0.5/tools.dynamia.parent-4.0.5.jar returned status 404
+4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.0.6/tools.dynamia.parent-4.0.6.jar returned status 404
+4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.0.7/tools.dynamia.parent-4.0.7.jar returned status 404
+4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.0.8/tools.dynamia.parent-4.0.8.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.1.0/tools.dynamia.parent-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/4.2.0/tools.dynamia.parent-4.2.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.0.0/tools.dynamia.parent-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.0.1/tools.dynamia.parent-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.0.2/tools.dynamia.parent-5.0.2.jar returned status 404
+5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.0.3/tools.dynamia.parent-5.0.3.jar returned status 404
+5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.0.4/tools.dynamia.parent-5.0.4.jar returned status 404
+5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.0.5/tools.dynamia.parent-5.0.5.jar returned status 404
+5.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.0.6/tools.dynamia.parent-5.0.6.jar returned status 404
+5.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.0.7/tools.dynamia.parent-5.0.7.jar returned status 404
+5.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.0.8/tools.dynamia.parent-5.0.8.jar returned status 404
+5.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.0.9/tools.dynamia.parent-5.0.9.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.1.0/tools.dynamia.parent-5.1.0.jar returned status 404
+5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.1.1/tools.dynamia.parent-5.1.1.jar returned status 404
+5.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.1.2/tools.dynamia.parent-5.1.2.jar returned status 404
+5.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.1.3/tools.dynamia.parent-5.1.3.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.2.0/tools.dynamia.parent-5.2.0.jar returned status 404
+5.2.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.2.0-beta/tools.dynamia.parent-5.2.0-beta.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.2.1/tools.dynamia.parent-5.2.1.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.3.0/tools.dynamia.parent-5.3.0.jar returned status 404
+5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.3.1/tools.dynamia.parent-5.3.1.jar returned status 404
+5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.3.2/tools.dynamia.parent-5.3.2.jar returned status 404
+5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.3.3/tools.dynamia.parent-5.3.3.jar returned status 404
+5.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.3.4/tools.dynamia.parent-5.3.4.jar returned status 404
+5.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.3.5/tools.dynamia.parent-5.3.5.jar returned status 404
+5.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.3.6/tools.dynamia.parent-5.3.6.jar returned status 404
+5.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.3.7/tools.dynamia.parent-5.3.7.jar returned status 404
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.4.0/tools.dynamia.parent-5.4.0.jar returned status 404
 5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.4.1/tools.dynamia.parent-5.4.1.jar returned status 404
 5.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/dynamia/tools.dynamia.parent/5.4.10/tools.dynamia.parent-5.4.10.jar returned status 404
