@@ -1,3 +1,9 @@
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-linuxx64/3.10.0/socket-testsuite-linuxx64-3.10.0.jar returned status 404
+3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-linuxx64/3.10.1/socket-testsuite-linuxx64-3.10.1.jar returned status 404
+3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-linuxx64/3.11.0/socket-testsuite-linuxx64-3.11.0.jar returned status 404
+3.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-linuxx64/3.11.1/socket-testsuite-linuxx64-3.11.1.jar returned status 404
+3.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-linuxx64/3.12.0/socket-testsuite-linuxx64-3.12.0.jar returned status 404
+3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-linuxx64/3.13.0/socket-testsuite-linuxx64-3.13.0.jar returned status 404
 3.9.0		2026-07-11T05:12:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-linuxx64/3.9.0/socket-testsuite-linuxx64-3.9.0.jar returned status 404
 3.9.1		2026-07-11T16:00:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-linuxx64/3.9.1/socket-testsuite-linuxx64-3.9.1.jar returned status 404
 3.9.2		2026-07-11T17:54:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-linuxx64/3.9.2/socket-testsuite-linuxx64-3.9.2.jar returned status 404

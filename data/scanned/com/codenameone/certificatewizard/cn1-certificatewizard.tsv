@@ -1,2 +1,3 @@
 7.0.258		2026-07-10T07:07:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/certificatewizard/cn1-certificatewizard/7.0.258/cn1-certificatewizard-7.0.258.jar returned status 404
 7.0.259		2026-07-12T04:22:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/certificatewizard/cn1-certificatewizard/7.0.259/cn1-certificatewizard-7.0.259.jar returned status 404
+7.0.260			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codenameone/certificatewizard/cn1-certificatewizard/7.0.260/cn1-certificatewizard-7.0.260.jar returned status 404

@@ -2778,3 +2778,7 @@ com.azure.sdk.template
 com.azure.sdk.template.two
 com.euonia.core
 com.euonia.pipeline
+org.xerial.sqlitejdbc
+com.install4j.runtime
+com.zaxxer.ping
+jakarta.ws.rs
