@@ -5,3 +5,4 @@
 0.5		2026-05-27T15:59:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ngengine/libjglios/org.ngengine.libjglios.gradle.plugin/0.5/org.ngengine.libjglios.gradle.plugin-0.5.jar returned status 404
 0.6		2026-05-29T09:07:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ngengine/libjglios/org.ngengine.libjglios.gradle.plugin/0.6/org.ngengine.libjglios.gradle.plugin-0.6.jar returned status 404
 0.7		2026-05-29T21:56:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ngengine/libjglios/org.ngengine.libjglios.gradle.plugin/0.7/org.ngengine.libjglios.gradle.plugin-0.7.jar returned status 404
+0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ngengine/libjglios/org.ngengine.libjglios.gradle.plugin/0.8/org.ngengine.libjglios.gradle.plugin-0.8.jar returned status 404

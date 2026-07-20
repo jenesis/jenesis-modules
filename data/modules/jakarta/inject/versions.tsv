@@ -297,3 +297,5 @@
 3.13.7	named	com.google.gerrit	gerrit-plugin-api	2026-06-16T14:52:16Z	2.0.1
 0.42.0	named	org.kill-bill.billing	killbill-platform-osgi-bundles-graphite	2026-06-18T21:24:06Z	2.0.1
 0.42.0	named	org.kill-bill.billing	killbill-platform-osgi-bundles-influxdb	2026-06-18T21:24:06Z	2.0.1
+0.42.1	named	org.kill-bill.billing	killbill-platform-osgi-bundles-graphite	2026-07-15T02:09:26Z	2.0.1
+0.42.1	named	org.kill-bill.billing	killbill-platform-osgi-bundles-influxdb	2026-07-15T02:09:27Z	2.0.1

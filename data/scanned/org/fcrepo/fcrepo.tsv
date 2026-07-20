@@ -54,6 +54,7 @@
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo/6.5.0/fcrepo-6.5.0.jar returned status 404
 6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo/6.5.1/fcrepo-6.5.1.jar returned status 404
 6.5.1-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo/6.5.1-RC3/fcrepo-6.5.1-RC3.jar returned status 404
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo/6.5.2/fcrepo-6.5.2.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo/7.0.0/fcrepo-7.0.0.jar returned status 404
 7.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo/7.0.0-RC1/fcrepo-7.0.0-RC1.jar returned status 404
 7.0.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo/7.0.0-alpha2/fcrepo-7.0.0-alpha2.jar returned status 404

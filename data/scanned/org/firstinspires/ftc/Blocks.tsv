@@ -5,6 +5,7 @@
 10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/Blocks/10.3.0/Blocks-10.3.0.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/Blocks/11.0.0/Blocks-11.0.0.jar returned status 404
 11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/Blocks/11.1.0/Blocks-11.1.0.jar returned status 404
+11.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/Blocks/11.2.0/Blocks-11.2.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/Blocks/6.2.0/Blocks-6.2.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/Blocks/6.2.1/Blocks-6.2.1.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/Blocks/7.0.0/Blocks-7.0.0.jar returned status 404

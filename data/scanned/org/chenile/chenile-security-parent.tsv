@@ -21,6 +21,8 @@
 2.1.24		2026-06-09T12:38:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/chenile-security-parent/2.1.24/chenile-security-parent-2.1.24.jar returned status 404
 2.1.25		2026-06-28T12:16:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/chenile-security-parent/2.1.25/chenile-security-parent-2.1.25.jar returned status 404
 2.1.26		2026-07-01T06:29:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/chenile-security-parent/2.1.26/chenile-security-parent-2.1.26.jar returned status 404
+2.1.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/chenile-security-parent/2.1.27/chenile-security-parent-2.1.27.jar returned status 404
+2.1.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/chenile-security-parent/2.1.28/chenile-security-parent-2.1.28.jar returned status 404
 2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/chenile-security-parent/2.1.3/chenile-security-parent-2.1.3.jar returned status 404
 2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/chenile-security-parent/2.1.4/chenile-security-parent-2.1.4.jar returned status 404
 2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/chenile/chenile-security-parent/2.1.5/chenile-security-parent-2.1.5.jar returned status 404

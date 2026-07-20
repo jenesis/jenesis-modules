@@ -137,6 +137,7 @@
 6.5.1-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-webapp/6.5.1-RC3/fcrepo-webapp-6.5.1-RC3.jar returned status 404
 6.5.1-RC3	classes	2024-11-26T17:39:37Z	
 6.5.1-RC3	test-javadoc	2024-11-26T17:39:39Z	
+6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-webapp/6.5.2/fcrepo-webapp-6.5.2.jar returned status 404
 7.0.0		2026-04-16T10:05:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/fcrepo/fcrepo-webapp/7.0.0/fcrepo-webapp-7.0.0.jar returned status 404
 7.0.0	classes	2026-04-16T10:05:58Z	
 7.0.0	test-javadoc	2026-04-16T10:05:58Z	
