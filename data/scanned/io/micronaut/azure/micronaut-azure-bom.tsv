@@ -51,3 +51,4 @@
 6.0.0-M2		2026-04-20T14:11:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/azure/micronaut-azure-bom/6.0.0-M2/micronaut-azure-bom-6.0.0-M2.jar returned status 404
 6.0.0-RC1		2026-05-05T11:58:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/azure/micronaut-azure-bom/6.0.0-RC1/micronaut-azure-bom-6.0.0-RC1.jar returned status 404
 6.0.0-RC2		2026-05-08T07:43:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/azure/micronaut-azure-bom/6.0.0-RC2/micronaut-azure-bom-6.0.0-RC2.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/azure/micronaut-azure-bom/6.1.0/micronaut-azure-bom-6.1.0.jar returned status 404

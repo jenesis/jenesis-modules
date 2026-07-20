@@ -60,3 +60,4 @@
 6.0.0		2026-05-19T07:23:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/views/micronaut-views-bom/6.0.0/micronaut-views-bom-6.0.0.jar returned status 404
 6.0.0-M1		2026-02-17T13:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/views/micronaut-views-bom/6.0.0-M1/micronaut-views-bom-6.0.0-M1.jar returned status 404
 6.0.0-RC1		2026-05-09T14:26:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/views/micronaut-views-bom/6.0.0-RC1/micronaut-views-bom-6.0.0-RC1.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/views/micronaut-views-bom/6.1.0/micronaut-views-bom-6.1.0.jar returned status 404

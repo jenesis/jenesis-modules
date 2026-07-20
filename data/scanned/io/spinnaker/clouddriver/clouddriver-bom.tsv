@@ -1,3 +1,7 @@
+2026.0-19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/2026.0-19/clouddriver-bom-2026.0-19.jar returned status 404
+2026.0-20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/2026.0-20/clouddriver-bom-2026.0-20.jar returned status 404
+2026.1-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/2026.1-5/clouddriver-bom-2026.1-5.jar returned status 404
+2026.1-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/2026.1-6/clouddriver-bom-2026.1-6.jar returned status 404
 5.74.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/5.74.0/clouddriver-bom-5.74.0.jar returned status 404
 5.74.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/5.74.2/clouddriver-bom-5.74.2.jar returned status 404
 5.74.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/5.74.3/clouddriver-bom-5.74.3.jar returned status 404

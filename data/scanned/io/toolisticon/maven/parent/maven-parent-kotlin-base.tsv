@@ -60,3 +60,4 @@
 2026.01.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/maven/parent/maven-parent-kotlin-base/2026.01.2/maven-parent-kotlin-base-2026.01.2.jar returned status 404
 2026.03.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/maven/parent/maven-parent-kotlin-base/2026.03.0/maven-parent-kotlin-base-2026.03.0.jar returned status 404
 2026.03.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/maven/parent/maven-parent-kotlin-base/2026.03.1/maven-parent-kotlin-base-2026.03.1.jar returned status 404
+2026.07.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toolisticon/maven/parent/maven-parent-kotlin-base/2026.07.1/maven-parent-kotlin-base-2026.07.1.jar returned status 404
