@@ -6,6 +6,7 @@
 2.4.0-RC	metadata	2026-05-13T08:38:03Z	
 2.4.0-RC2		2026-05-27T10:22:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-macosx64/2.4.0-RC2/kotlin-power-assert-runtime-macosx64-2.4.0-RC2.jar returned status 404
 2.4.0-RC2	metadata	2026-05-27T10:22:19Z	
+2.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-macosx64/2.4.10/kotlin-power-assert-runtime-macosx64-2.4.10.jar returned status 404
 2.4.10-RC		2026-06-25T06:10:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-macosx64/2.4.10-RC/kotlin-power-assert-runtime-macosx64-2.4.10-RC.jar returned status 404
 2.4.10-RC	metadata	2026-06-25T06:10:09Z	
 2.4.10-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-macosx64/2.4.10-RC2/kotlin-power-assert-runtime-macosx64-2.4.10-RC2.jar returned status 404

@@ -1718,3 +1718,5 @@
 2026.7.0	metadata	2026-07-01T19:51:37Z	
 2026.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iossimulatorarm64/2026.7.1/kotlin-css-iossimulatorarm64-2026.7.1.jar returned status 404
 2026.7.1	metadata	2026-07-07T11:25:14Z	
+2026.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iossimulatorarm64/2026.7.2/kotlin-css-iossimulatorarm64-2026.7.2.jar returned status 404
+2026.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-css-iossimulatorarm64/2026.7.3/kotlin-css-iossimulatorarm64-2026.7.3.jar returned status 404

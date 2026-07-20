@@ -1,3 +1,4 @@
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common-linuxarm64/2.11.0/lifecycle-common-linuxarm64-2.11.0.jar returned status 404
 2.11.0-rc01		2026-06-29T14:33:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common-linuxarm64/2.11.0-rc01/lifecycle-common-linuxarm64-2.11.0-rc01.jar returned status 404
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common-linuxarm64/2.8.0/lifecycle-common-linuxarm64-2.8.0.jar returned status 404
 2.8.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common-linuxarm64/2.8.0-alpha01/lifecycle-common-linuxarm64-2.8.0-alpha01.jar returned status 404

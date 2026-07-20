@@ -676,3 +676,5 @@
 2026.6.9		2026-06-28T15:17:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-web-js/2026.6.9/kotlin-web-js-2026.6.9.jar returned status 404
 2026.7.0		2026-07-01T19:51:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-web-js/2026.7.0/kotlin-web-js-2026.7.0.jar returned status 404
 2026.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-web-js/2026.7.1/kotlin-web-js-2026.7.1.jar returned status 404
+2026.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-web-js/2026.7.2/kotlin-web-js-2026.7.2.jar returned status 404
+2026.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-web-js/2026.7.3/kotlin-web-js-2026.7.3.jar returned status 404
