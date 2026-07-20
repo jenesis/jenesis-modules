@@ -11,3 +11,5 @@
 4.0.59		2026-06-27T21:05:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-quarkus-grpc-parent/4.0.59/atmosphere-quarkus-grpc-parent-4.0.59.jar returned status 404
 4.0.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-quarkus-grpc-parent/4.0.60/atmosphere-quarkus-grpc-parent-4.0.60.jar returned status 404
 4.0.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-quarkus-grpc-parent/4.0.61/atmosphere-quarkus-grpc-parent-4.0.61.jar returned status 404
+4.0.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-quarkus-grpc-parent/4.0.62/atmosphere-quarkus-grpc-parent-4.0.62.jar returned status 404
+4.0.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-quarkus-grpc-parent/4.0.63/atmosphere-quarkus-grpc-parent-4.0.63.jar returned status 404

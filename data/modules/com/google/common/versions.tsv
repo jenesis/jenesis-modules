@@ -997,3 +997,5 @@
 1.6.0.11rc3	named	io.acryl	datahub-protobuf	2026-07-09T23:54:47Z	33.6.0-jre
 1.6.0.13	named	io.acryl	datahub-protobuf	2026-07-09T23:54:55Z	33.6.0-jre
 1.6.0.13rc1	named	io.acryl	datahub-protobuf	2026-07-09T23:54:55Z	33.6.0-jre
+2.4.0	named	org.apache.jackrabbit	oak-shaded-guava	2026-07-15T02:16:06Z	33.5.0-jre
+3.0.0-beta-2	named	org.apache.hbase	hbase-shaded-mapreduce	2026-07-16T02:22:04Z	33.4.8-jre

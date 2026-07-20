@@ -154,3 +154,13 @@
 4.0.61	automatic	org.atmosphere	atmosphere-quarkus-admin-extension-deployment	2026-07-08T00:16:18Z	
 4.0.61	automatic	org.atmosphere	atmosphere-quarkus-extension-deployment	2026-07-08T00:16:18Z	
 4.0.61	automatic	org.atmosphere	atmosphere-skills	2026-07-08T00:16:18Z	
+4.0.62	automatic	org.atmosphere	atmosphere-quarkus-extension-deployment	2026-07-15T02:12:37Z	
+4.0.62	automatic	org.atmosphere	atmosphere-quarkus-grpc-deployment	2026-07-15T02:12:37Z	
+4.0.62	automatic	org.atmosphere	atmosphere-skills	2026-07-15T02:12:37Z	
+4.0.62	automatic	org.atmosphere	atmosphere-quarkus-admin-extension-deployment	2026-07-15T02:12:38Z	
+4.0.62	automatic	org.atmosphere	atmosphere-quarkus-langchain4j-deployment	2026-07-15T02:12:39Z	
+4.0.63	automatic	org.atmosphere	atmosphere-quarkus-extension-deployment	2026-07-18T00:14:32Z	
+4.0.63	automatic	org.atmosphere	atmosphere-quarkus-langchain4j-deployment	2026-07-18T00:14:32Z	
+4.0.63	automatic	org.atmosphere	atmosphere-quarkus-grpc-deployment	2026-07-18T00:14:33Z	
+4.0.63	automatic	org.atmosphere	atmosphere-skills	2026-07-18T00:14:33Z	
+4.0.63	automatic	org.atmosphere	atmosphere-quarkus-admin-extension-deployment	2026-07-18T00:14:35Z	
