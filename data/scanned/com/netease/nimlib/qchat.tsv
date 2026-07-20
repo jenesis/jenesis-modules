@@ -5,6 +5,7 @@
 10.0.603			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/qchat/10.0.603/qchat-10.0.603.jar returned status 404
 10.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/qchat/10.10.0/qchat-10.10.0.jar returned status 404
 10.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/qchat/10.10.1/qchat-10.10.1.jar returned status 404
+10.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/qchat/10.10.10/qchat-10.10.10.jar returned status 404
 10.2.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/qchat/10.2.0-beta/qchat-10.2.0-beta.jar returned status 404
 10.2.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/qchat/10.2.1-beta/qchat-10.2.1-beta.jar returned status 404
 10.2.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/qchat/10.2.2-beta/qchat-10.2.2-beta.jar returned status 404

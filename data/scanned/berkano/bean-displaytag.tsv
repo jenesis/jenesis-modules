@@ -3,12 +3,17 @@
 20050616.001659		2005-06-16T01:58:53Z	
 20050616.003553		2005-06-16T01:58:53Z	
 20050616.015551		2005-06-16T01:58:53Z	
+20050719.173622			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/bean-displaytag/20050719.173622/bean-displaytag-20050719.173622.jar returned status 404
 20050719.173649		2005-08-01T09:53:14Z	
+20050725.114304			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/bean-displaytag/20050725.114304/bean-displaytag-20050725.114304.jar returned status 404
 20050725.114322		2005-08-01T09:53:14Z	
+20050725.182648			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/bean-displaytag/20050725.182648/bean-displaytag-20050725.182648.jar returned status 404
 20050725.182711		2005-08-01T09:53:14Z	
+20050805.043516			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/bean-displaytag/20050805.043516/bean-displaytag-20050805.043516.jar returned status 404
 20050805.043536		2005-09-19T12:04:16Z	
 20050809		2005-08-09T16:02:08Z	
 20050901-2		2005-09-02T00:00:41Z	
+20050901.201153			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/bean-displaytag/20050901.201153/bean-displaytag-20050901.201153.jar returned status 404
 20050901.201237		2005-09-02T00:00:41Z	
 dev-20050722		2005-07-23T00:02:37Z	
 dev-20050723		2005-07-23T04:00:39Z	

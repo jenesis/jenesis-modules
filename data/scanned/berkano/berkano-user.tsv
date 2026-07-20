@@ -4,10 +4,15 @@
 20050616.010512		2005-06-16T01:58:54Z	
 20050616.011820		2005-06-16T01:58:54Z	
 20050616.013653		2005-06-16T01:58:54Z	
+20050725.114629			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/berkano-user/20050725.114629/berkano-user-20050725.114629.jar returned status 404
 20050725.114646		2005-08-01T09:53:14Z	
+20050805.011846			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/berkano-user/20050805.011846/berkano-user-20050805.011846.jar returned status 404
 20050805.011914		2005-09-19T12:04:16Z	
+20050805.013930			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/berkano-user/20050805.013930/berkano-user-20050805.013930.jar returned status 404
 20050805.013949		2005-09-19T12:04:16Z	
+20050805.025556			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/berkano-user/20050805.025556/berkano-user-20050805.025556.jar returned status 404
 20050805.025614		2005-09-19T12:04:16Z	
+20050805.042128			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/berkano-user/20050805.042128/berkano-user-20050805.042128.jar returned status 404
 20050805.042145		2005-09-19T12:04:16Z	
 20050809		2005-08-09T16:02:08Z	
 20050901		2005-09-01T20:00:56Z	

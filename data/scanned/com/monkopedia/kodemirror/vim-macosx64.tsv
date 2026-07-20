@@ -12,3 +12,4 @@
 0.3.3	metadata	2026-06-04T15:50:36Z	
 0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/vim-macosx64/0.3.4/vim-macosx64-0.3.4.jar returned status 404
 0.3.4	metadata	2026-07-09T14:28:04Z	
+0.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/vim-macosx64/0.3.5/vim-macosx64-0.3.5.jar returned status 404

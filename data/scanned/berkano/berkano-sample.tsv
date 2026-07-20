@@ -1,1 +1,6 @@
+20050616.014201			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/berkano-sample/20050616.014201/berkano-sample-20050616.014201.jar returned status 404
+20050725.140845			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/berkano-sample/20050725.140845/berkano-sample-20050725.140845.jar returned status 404
 20050725.140907		2005-08-01T09:53:14Z	
+20050805.042356			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/berkano-sample/20050805.042356/berkano-sample-20050805.042356.jar returned status 404
+20050809.143823			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/berkano-sample/20050809.143823/berkano-sample-20050809.143823.jar returned status 404
+20050901.194056			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/berkano/berkano-sample/20050901.194056/berkano-sample-20050901.194056.jar returned status 404

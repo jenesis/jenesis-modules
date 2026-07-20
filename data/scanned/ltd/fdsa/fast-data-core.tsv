@@ -1,4 +1,44 @@
 1.0.0-RELEASE		2021-12-06T11:15:35Z	
 1.0.1		2021-12-28T10:59:43Z	
+1.0.114			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.114/fast-data-core-1.0.114.jar returned status 404
+1.0.118			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.118/fast-data-core-1.0.118.jar returned status 404
+1.0.120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.120/fast-data-core-1.0.120.jar returned status 404
+1.0.123			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.123/fast-data-core-1.0.123.jar returned status 404
+1.0.125			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.125/fast-data-core-1.0.125.jar returned status 404
+1.0.138			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.138/fast-data-core-1.0.138.jar returned status 404
+1.0.140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.140/fast-data-core-1.0.140.jar returned status 404
+1.0.143			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.143/fast-data-core-1.0.143.jar returned status 404
+1.0.150			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.150/fast-data-core-1.0.150.jar returned status 404
+1.0.154			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.154/fast-data-core-1.0.154.jar returned status 404
+1.0.177			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.177/fast-data-core-1.0.177.jar returned status 404
+1.0.181			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.181/fast-data-core-1.0.181.jar returned status 404
+1.0.186			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.186/fast-data-core-1.0.186.jar returned status 404
+1.0.191			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.191/fast-data-core-1.0.191.jar returned status 404
+1.0.193			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.193/fast-data-core-1.0.193.jar returned status 404
+1.0.197			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.197/fast-data-core-1.0.197.jar returned status 404
 1.0.2		2021-12-29T02:07:42Z	
+1.0.200			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.200/fast-data-core-1.0.200.jar returned status 404
+1.0.201			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.201/fast-data-core-1.0.201.jar returned status 404
+1.0.211			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.211/fast-data-core-1.0.211.jar returned status 404
+1.0.256			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.256/fast-data-core-1.0.256.jar returned status 404
+1.0.271			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.271/fast-data-core-1.0.271.jar returned status 404
+1.0.274			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.274/fast-data-core-1.0.274.jar returned status 404
+1.0.281			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.281/fast-data-core-1.0.281.jar returned status 404
+1.0.286			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.286/fast-data-core-1.0.286.jar returned status 404
 1.0.3		2021-12-29T02:29:16Z	
+1.0.302			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.302/fast-data-core-1.0.302.jar returned status 404
+1.0.304			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.304/fast-data-core-1.0.304.jar returned status 404
+1.0.306			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.306/fast-data-core-1.0.306.jar returned status 404
+1.0.312			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.312/fast-data-core-1.0.312.jar returned status 404
+1.0.321			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.321/fast-data-core-1.0.321.jar returned status 404
+1.0.323			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.323/fast-data-core-1.0.323.jar returned status 404
+1.0.332			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.332/fast-data-core-1.0.332.jar returned status 404
+1.0.350			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.350/fast-data-core-1.0.350.jar returned status 404
+1.0.352			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.352/fast-data-core-1.0.352.jar returned status 404
+1.0.415			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.415/fast-data-core-1.0.415.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.5/fast-data-core-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.6/fast-data-core-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.7/fast-data-core-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.0.8/fast-data-core-1.0.8.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.1.0/fast-data-core-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ltd/fdsa/fast-data-core/1.1.1/fast-data-core-1.1.1.jar returned status 404
