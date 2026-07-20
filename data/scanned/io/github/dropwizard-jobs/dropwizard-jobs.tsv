@@ -13,3 +13,4 @@
 7.0.0-pre1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dropwizard-jobs/dropwizard-jobs/7.0.0-pre1/dropwizard-jobs-7.0.0-pre1.jar returned status 404
 7.0.1		2026-06-05T13:31:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dropwizard-jobs/dropwizard-jobs/7.0.1/dropwizard-jobs-7.0.1.jar returned status 404
 7.0.1-pre1		2026-06-05T13:23:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dropwizard-jobs/dropwizard-jobs/7.0.1-pre1/dropwizard-jobs-7.0.1-pre1.jar returned status 404
+7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dropwizard-jobs/dropwizard-jobs/7.0.2/dropwizard-jobs-7.0.2.jar returned status 404

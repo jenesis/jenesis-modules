@@ -1580,3 +1580,10 @@ pdk.util
 io.github.ralfspoeth.basix
 io.github.ralfspoeth.greyson
 io.fusionauth
+io.github.cfraser.graphguard.validate
+io.github.cfraser.graphguard.script
+io.github.cfraser.graphguard
+io.github.cfraser.graphguard.utils
+io.github.cfraser.graphguard.verify
+io.github.zorin95670
+BayesSolver

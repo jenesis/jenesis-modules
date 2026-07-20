@@ -2,3 +2,4 @@
 3.50.22	metadata	2026-07-08T19:07:37Z	
 3.50.25		2026-07-09T09:28:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/kflite-postprocessing-iossimulatorarm64/3.50.25/kflite-postprocessing-iossimulatorarm64-3.50.25.jar returned status 404
 3.50.25	metadata	2026-07-09T09:28:25Z	
+3.80.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/kflite-postprocessing-iossimulatorarm64/3.80.30/kflite-postprocessing-iossimulatorarm64-3.80.30.jar returned status 404

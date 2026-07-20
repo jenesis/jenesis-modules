@@ -1,3 +1,4 @@
 1.0.0		2026-07-08T07:34:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/patton174/coco-parent/1.0.0/coco-parent-1.0.0.jar returned status 404
 1.0.1		2026-07-08T09:09:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/patton174/coco-parent/1.0.1/coco-parent-1.0.1.jar returned status 404
 1.0.2		2026-07-08T10:33:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/patton174/coco-parent/1.0.2/coco-parent-1.0.2.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/patton174/coco-parent/2.0.1/coco-parent-2.0.1.jar returned status 404

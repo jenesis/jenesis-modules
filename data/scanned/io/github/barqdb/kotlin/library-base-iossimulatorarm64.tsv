@@ -2,3 +2,4 @@
 4.0.6	metadata	2026-07-08T12:33:42Z	
 4.0.7		2026-07-09T05:45:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/barqdb/kotlin/library-base-iossimulatorarm64/4.0.7/library-base-iossimulatorarm64-4.0.7.jar returned status 404
 4.0.7	metadata	2026-07-09T05:45:41Z	
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/barqdb/kotlin/library-base-iossimulatorarm64/4.1.0/library-base-iossimulatorarm64-4.1.0.jar returned status 404

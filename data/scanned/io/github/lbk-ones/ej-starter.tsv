@@ -2,3 +2,5 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lbk-ones/ej-starter/2.0.0/ej-starter-2.0.0.jar returned status 404
 2.1.0		2026-06-11T07:46:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lbk-ones/ej-starter/2.1.0/ej-starter-2.1.0.jar returned status 404
 2.1.1		2026-06-21T08:03:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lbk-ones/ej-starter/2.1.1/ej-starter-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lbk-ones/ej-starter/2.1.2/ej-starter-2.1.2.jar returned status 404
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lbk-ones/ej-starter/2.1.3/ej-starter-2.1.3.jar returned status 404

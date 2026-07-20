@@ -2,3 +2,4 @@
 0.1.1		2026-07-01T22:46:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alihansarigit/snoop-core/0.1.1/snoop-core-0.1.1.jar returned status 404
 0.2.0		2026-07-01T23:22:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alihansarigit/snoop-core/0.2.0/snoop-core-0.2.0.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alihansarigit/snoop-core/0.2.1/snoop-core-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alihansarigit/snoop-core/0.2.2/snoop-core-0.2.2.jar returned status 404
