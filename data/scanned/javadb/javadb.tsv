@@ -1,1 +1,4 @@
+10.10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javadb/javadb/10.10.2.0/javadb-10.10.2.0.jar returned status 404
 10.2.2.1-20070823		2008-02-07T23:02:32Z	
+10.8.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javadb/javadb/10.8.1.2/javadb-10.8.1.2.jar returned status 404
+10.9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/javadb/javadb/10.9.1.0/javadb-10.9.1.0.jar returned status 404
