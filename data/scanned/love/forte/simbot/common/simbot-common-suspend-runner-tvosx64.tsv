@@ -92,3 +92,4 @@
 5.0.0-Preview2	metadata	2026-05-09T08:56:32Z	
 5.0.0-Preview3		2026-06-26T11:02:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/common/simbot-common-suspend-runner-tvosx64/5.0.0-Preview3/simbot-common-suspend-runner-tvosx64-5.0.0-Preview3.jar returned status 404
 5.0.0-Preview3	metadata	2026-06-26T11:03:06Z	
+5.0.0-Preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/common/simbot-common-suspend-runner-tvosx64/5.0.0-Preview4/simbot-common-suspend-runner-tvosx64-5.0.0-Preview4.jar returned status 404

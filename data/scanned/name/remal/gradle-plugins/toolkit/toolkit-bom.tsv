@@ -219,6 +219,8 @@
 0.76.14		2026-06-28T20:16:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/toolkit/toolkit-bom/0.76.14/toolkit-bom-0.76.14.jar returned status 404
 0.76.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/toolkit/toolkit-bom/0.76.15/toolkit-bom-0.76.15.jar returned status 404
 0.76.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/toolkit/toolkit-bom/0.76.16/toolkit-bom-0.76.16.jar returned status 404
+0.76.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/toolkit/toolkit-bom/0.76.17/toolkit-bom-0.76.17.jar returned status 404
+0.76.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/toolkit/toolkit-bom/0.76.18/toolkit-bom-0.76.18.jar returned status 404
 0.76.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/toolkit/toolkit-bom/0.76.2/toolkit-bom-0.76.2.jar returned status 404
 0.76.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/toolkit/toolkit-bom/0.76.3/toolkit-bom-0.76.3.jar returned status 404
 0.76.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/name/remal/gradle-plugins/toolkit/toolkit-bom/0.76.4/toolkit-bom-0.76.4.jar returned status 404

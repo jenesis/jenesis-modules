@@ -111,3 +111,4 @@
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/resource-iosarm64/1.7.0/resource-iosarm64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-07-07T18:31:07Z	
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/resource-iosarm64/1.7.1/resource-iosarm64-1.7.1.jar returned status 404
+1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/resource-iosarm64/1.7.2/resource-iosarm64-1.7.2.jar returned status 404

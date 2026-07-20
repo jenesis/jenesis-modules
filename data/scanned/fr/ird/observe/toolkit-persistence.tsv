@@ -9,8 +9,10 @@
 10.0.4		2025-01-20T17:05:15Z	
 10.0.5		2025-02-18T16:26:02Z	
 10.0.6		2025-03-16T20:47:32Z	
+10.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/ird/observe/toolkit-persistence/10.0.7/toolkit-persistence-10.0.7.jar returned status 404
 10.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/ird/observe/toolkit-persistence/10.0.8/toolkit-persistence-10.0.8.jar returned status 404
 10.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/ird/observe/toolkit-persistence/10.0.9/toolkit-persistence-10.0.9.jar returned status 404
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/ird/observe/toolkit-persistence/10.1.0/toolkit-persistence-10.1.0.jar returned status 404
 5.0.0		2021-01-30T19:12:22Z	
 5.0.1		2021-02-06T06:12:08Z	
 5.0.10		2021-03-14T10:38:46Z	

@@ -12,6 +12,7 @@
 0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quickpose/quickpose-core/0.2/quickpose-core-0.2.jar returned status 404
 0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quickpose/quickpose-core/0.20/quickpose-core-0.20.jar returned status 404
 0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quickpose/quickpose-core/0.21/quickpose-core-0.21.jar returned status 404
+0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quickpose/quickpose-core/0.22/quickpose-core-0.22.jar returned status 404
 0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quickpose/quickpose-core/0.3/quickpose-core-0.3.jar returned status 404
 0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quickpose/quickpose-core/0.4/quickpose-core-0.4.jar returned status 404
 0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quickpose/quickpose-core/0.5/quickpose-core-0.5.jar returned status 404

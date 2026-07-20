@@ -44,3 +44,4 @@
 2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/nova-sdk/2.8.1/nova-sdk-2.8.1.jar returned status 404
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/nova-sdk/2.9.0/nova-sdk-2.9.0.jar returned status 404
 4.0.0		2026-06-05T18:45:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/nova-sdk/4.0.0/nova-sdk-4.0.0.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/themsp/nova-sdk/4.5.0/nova-sdk-4.5.0.jar returned status 404
