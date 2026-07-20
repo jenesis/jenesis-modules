@@ -47,6 +47,9 @@
 11.0.0.Beta1		2026-05-22T19:10:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/wildfly-clustering/11.0.0.Beta1/wildfly-clustering-11.0.0.Beta1.jar returned status 404
 11.0.0.Beta2		2026-06-22T08:24:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/wildfly-clustering/11.0.0.Beta2/wildfly-clustering-11.0.0.Beta2.jar returned status 404
 11.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/wildfly-clustering/11.0.0.Final/wildfly-clustering-11.0.0.Final.jar returned status 404
+11.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/wildfly-clustering/11.0.1.Final/wildfly-clustering-11.0.1.Final.jar returned status 404
+11.0.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/wildfly-clustering/11.0.2.Final/wildfly-clustering-11.0.2.Final.jar returned status 404
+11.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/wildfly-clustering/11.0.3.Final/wildfly-clustering-11.0.3.Final.jar returned status 404
 2.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/wildfly-clustering/2.0.0.Final/wildfly-clustering-2.0.0.Final.jar returned status 404
 3.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/wildfly-clustering/3.0.0.CR1/wildfly-clustering-3.0.0.CR1.jar returned status 404
 3.0.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/wildfly-clustering/3.0.0.CR2/wildfly-clustering-3.0.0.CR2.jar returned status 404

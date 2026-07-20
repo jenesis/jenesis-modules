@@ -116,6 +116,7 @@
 40.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-ejb-client-bom/40.0.0.Final/wildfly-ejb-client-bom-40.0.0.Final.jar returned status 404
 40.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-ejb-client-bom/40.0.1.Final/wildfly-ejb-client-bom-40.0.1.Final.jar returned status 404
 41.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-ejb-client-bom/41.0.0.Beta1/wildfly-ejb-client-bom-41.0.0.Beta1.jar returned status 404
+41.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-ejb-client-bom/41.0.0.Final/wildfly-ejb-client-bom-41.0.0.Final.jar returned status 404
 8.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-ejb-client-bom/8.0.0.Alpha1/wildfly-ejb-client-bom-8.0.0.Alpha1.jar returned status 404
 8.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-ejb-client-bom/8.0.0.Alpha2/wildfly-ejb-client-bom-8.0.0.Alpha2.jar returned status 404
 8.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-ejb-client-bom/8.0.0.Alpha3/wildfly-ejb-client-bom-8.0.0.Alpha3.jar returned status 404

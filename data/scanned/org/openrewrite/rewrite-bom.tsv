@@ -363,6 +363,12 @@
 8.86.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.86.2/rewrite-bom-8.86.2.jar returned status 404
 8.86.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.86.3/rewrite-bom-8.86.3.jar returned status 404
 8.86.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.86.4/rewrite-bom-8.86.4.jar returned status 404
+8.86.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.86.5/rewrite-bom-8.86.5.jar returned status 404
+8.87.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.87.0/rewrite-bom-8.87.0.jar returned status 404
+8.87.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.87.1/rewrite-bom-8.87.1.jar returned status 404
+8.87.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.87.2/rewrite-bom-8.87.2.jar returned status 404
+8.87.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.87.3/rewrite-bom-8.87.3.jar returned status 404
+8.87.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.87.4/rewrite-bom-8.87.4.jar returned status 404
 8.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.9.0/rewrite-bom-8.9.0.jar returned status 404
 8.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.9.1/rewrite-bom-8.9.1.jar returned status 404
 8.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.9.2/rewrite-bom-8.9.2.jar returned status 404

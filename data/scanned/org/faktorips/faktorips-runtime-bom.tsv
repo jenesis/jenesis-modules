@@ -1,4 +1,5 @@
 26.1.1.release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/faktorips-runtime-bom/26.1.1.release/faktorips-runtime-bom-26.1.1.release.jar returned status 404
 26.1.2.release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/faktorips-runtime-bom/26.1.2.release/faktorips-runtime-bom-26.1.2.release.jar returned status 404
+26.1.3.release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/faktorips-runtime-bom/26.1.3.release/faktorips-runtime-bom-26.1.3.release.jar returned status 404
 26.7.0.rc01		2026-06-03T15:00:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/faktorips-runtime-bom/26.7.0.rc01/faktorips-runtime-bom-26.7.0.rc01.jar returned status 404
 26.7.0.release		2026-06-29T06:48:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/faktorips-runtime-bom/26.7.0.release/faktorips-runtime-bom-26.7.0.release.jar returned status 404

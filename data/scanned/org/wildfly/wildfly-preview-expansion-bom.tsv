@@ -45,3 +45,4 @@
 40.0.0.Final		2026-05-21T09:53:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-preview-expansion-bom/40.0.0.Final/wildfly-preview-expansion-bom-40.0.0.Final.jar returned status 404
 40.0.1.Final		2026-06-19T10:13:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-preview-expansion-bom/40.0.1.Final/wildfly-preview-expansion-bom-40.0.1.Final.jar returned status 404
 41.0.0.Beta1		2026-06-25T17:48:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-preview-expansion-bom/41.0.0.Beta1/wildfly-preview-expansion-bom-41.0.0.Beta1.jar returned status 404
+41.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-preview-expansion-bom/41.0.0.Final/wildfly-preview-expansion-bom-41.0.0.Final.jar returned status 404

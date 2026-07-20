@@ -7346,3 +7346,5 @@ v0.0.18	named	com.grafana	grafana-foundation-sdk	2026-06-12T14:46:57Z	2.19.1
 6.1.0	named	org.evomaster	evomaster-client-java-controller	2026-07-09T02:27:57Z	2.14.3
 42.1	named	io.deephaven	deephaven-oidc-authentication-provider	2026-07-09T23:58:16Z	2.14.0
 2.15.4-3.0.0	named	org.apache.seatunnel	seatunnel-shade-jackson	2026-07-11T02:20:00Z	2.15.4
+5.4	named	org.jboss.pnc.maven-manipulator	pom-manipulation-ext	2026-07-16T00:07:00Z	2.22.0
+5.5	named	org.jboss.pnc.maven-manipulator	pom-manipulation-ext	2026-07-18T00:03:43Z	2.22.1

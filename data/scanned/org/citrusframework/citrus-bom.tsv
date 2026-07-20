@@ -7,6 +7,7 @@
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/citrusframework/citrus-bom/4.1.1/citrus-bom-4.1.1.jar returned status 404
 4.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/citrusframework/citrus-bom/4.10.0/citrus-bom-4.10.0.jar returned status 404
 4.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/citrusframework/citrus-bom/4.10.1/citrus-bom-4.10.1.jar returned status 404
+4.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/citrusframework/citrus-bom/4.10.2/citrus-bom-4.10.2.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/citrusframework/citrus-bom/4.2.0/citrus-bom-4.2.0.jar returned status 404
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/citrusframework/citrus-bom/4.2.1/citrus-bom-4.2.1.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/citrusframework/citrus-bom/4.3.0/citrus-bom-4.3.0.jar returned status 404

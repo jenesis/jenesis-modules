@@ -17,3 +17,7 @@
 2.73.11	named	org.bouncycastle	bcprov-debug-lts8on	2026-05-08T04:57:39Z	
 0.2	named	org.brylex	sancus-agent	2026-05-20T19:49:14Z	
 0.2	named	org.brylex	sancus-cli	2026-05-20T19:49:14Z	
+2.73.12.1	named	org.bouncycastle	bcprov-debug-lts8on	2026-07-17T00:05:28Z	
+2.73.12	named	org.bouncycastle	bcprov-debug-lts8on	2026-07-17T00:05:28Z	
+2.73.12.1	named	org.bouncycastle	bcprov-lts8on	2026-07-17T00:05:29Z	
+2.73.12	named	org.bouncycastle	bcprov-lts8on	2026-07-17T00:05:31Z	
