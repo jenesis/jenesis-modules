@@ -4,3 +4,10 @@
 0.30.0		2026-07-11T16:10:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-erm-js/0.30.0/kuml-metamodel-erm-js-0.30.0.jar returned status 404
 0.30.1		2026-07-11T16:57:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-erm-js/0.30.1/kuml-metamodel-erm-js-0.30.1.jar returned status 404
 0.31.0		2026-07-11T21:23:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-erm-js/0.31.0/kuml-metamodel-erm-js-0.31.0.jar returned status 404
+0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-erm-js/0.32.0/kuml-metamodel-erm-js-0.32.0.jar returned status 404
+0.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-erm-js/0.33.0/kuml-metamodel-erm-js-0.33.0.jar returned status 404
+0.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-erm-js/0.34.0/kuml-metamodel-erm-js-0.34.0.jar returned status 404
+0.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-erm-js/0.35.0/kuml-metamodel-erm-js-0.35.0.jar returned status 404
+0.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-erm-js/0.36.0/kuml-metamodel-erm-js-0.36.0.jar returned status 404
+0.36.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-erm-js/0.36.1/kuml-metamodel-erm-js-0.36.1.jar returned status 404
+0.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-erm-js/0.37.0/kuml-metamodel-erm-js-0.37.0.jar returned status 404

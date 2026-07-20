@@ -30,3 +30,4 @@
 2.3.0	metadata	2025-08-19T20:01:48Z	
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-storage-iossimulatorarm64/2.4.0/firebase-storage-iossimulatorarm64-2.4.0.jar returned status 404
 2.4.0	metadata	2025-10-31T16:50:01Z	
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-storage-iossimulatorarm64/2.5.0/firebase-storage-iossimulatorarm64-2.5.0.jar returned status 404

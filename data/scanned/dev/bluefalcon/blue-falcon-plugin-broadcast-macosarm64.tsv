@@ -16,3 +16,4 @@
 3.4.5	metadata	2026-06-15T12:28:07Z	
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-broadcast-macosarm64/3.5.0/blue-falcon-plugin-broadcast-macosarm64-3.5.0.jar returned status 404
 3.5.0	metadata	2026-07-07T16:53:04Z	
+3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-broadcast-macosarm64/3.5.1/blue-falcon-plugin-broadcast-macosarm64-3.5.1.jar returned status 404

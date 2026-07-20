@@ -2,3 +2,4 @@
 1.0.0	metadata	2026-06-11T22:49:42Z	
 2.0.0		2026-06-12T12:47:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/code93/emvdecoder-iossimulatorarm64/2.0.0/emvdecoder-iossimulatorarm64-2.0.0.jar returned status 404
 2.0.0	metadata	2026-06-12T12:47:37Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/code93/emvdecoder-iossimulatorarm64/2.1.0/emvdecoder-iossimulatorarm64-2.1.0.jar returned status 404

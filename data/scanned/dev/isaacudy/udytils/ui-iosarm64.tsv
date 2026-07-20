@@ -10,3 +10,4 @@
 1.2.0	metadata	2026-05-11T14:48:19Z	
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/isaacudy/udytils/ui-iosarm64/1.2.1/ui-iosarm64-1.2.1.jar returned status 404
 1.2.1	metadata	2026-05-11T16:04:57Z	
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/isaacudy/udytils/ui-iosarm64/1.3.0/ui-iosarm64-1.3.0.jar returned status 404
