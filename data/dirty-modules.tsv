@@ -2132,3 +2132,7 @@ io.cloudevents.formats.avro.compact
 io.cloudevents.spring
 io.cloudevents.formats.protobuf
 io.cloudevents.rocketmq
+com.googlecode.lanterna
+io.cucumber.messages
+io.cucumber.gherkin
+io.cucumber.htmlformatter

@@ -92,3 +92,4 @@
 26.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/beanValidation-2.0/26.0.0.4/beanValidation-2.0-26.0.0.4.jar returned status 404
 26.0.0.5		2026-05-13T19:46:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/beanValidation-2.0/26.0.0.5/beanValidation-2.0-26.0.0.5.jar returned status 404
 26.0.0.6		2026-06-09T11:02:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/beanValidation-2.0/26.0.0.6/beanValidation-2.0-26.0.0.6.jar returned status 404
+26.0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/beanValidation-2.0/26.0.0.7/beanValidation-2.0-26.0.0.7.jar returned status 404
