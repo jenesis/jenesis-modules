@@ -9,6 +9,7 @@
 0.14.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/greptime/greptimedb-ingester/0.14.5/greptimedb-ingester-0.14.5.jar returned status 404
 0.14.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/greptime/greptimedb-ingester/0.14.6/greptimedb-ingester-0.14.6.jar returned status 404
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/greptime/greptimedb-ingester/0.15.0/greptimedb-ingester-0.15.0.jar returned status 404
+0.15.1-debug			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/greptime/greptimedb-ingester/0.15.1-debug/greptimedb-ingester-0.15.1-debug.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/greptime/greptimedb-ingester/0.5.0/greptimedb-ingester-0.5.0.jar returned status 404
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/greptime/greptimedb-ingester/0.5.1/greptimedb-ingester-0.5.1.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/greptime/greptimedb-ingester/0.7.0/greptimedb-ingester-0.7.0.jar returned status 404

@@ -196,6 +196,7 @@
 3.33.0-beta.4		2026-05-28T02:35:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.33.0-beta.4/sdk-3.33.0-beta.4.jar returned status 404
 3.33.0-beta.5		2026-05-28T14:46:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.33.0-beta.5/sdk-3.33.0-beta.5.jar returned status 404
 3.34.0		2026-06-02T18:00:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.34.0/sdk-3.34.0.jar returned status 404
+3.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.35.0/sdk-3.35.0.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.4.0/sdk-3.4.0.jar returned status 404
 3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.4.1/sdk-3.4.1.jar returned status 404
 3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.4.2/sdk-3.4.2.jar returned status 404

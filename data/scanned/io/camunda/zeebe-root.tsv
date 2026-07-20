@@ -459,6 +459,7 @@
 8.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-root/8.9.10/zeebe-root-8.9.10.jar returned status 404
 8.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-root/8.9.11/zeebe-root-8.9.11.jar returned status 404
 8.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-root/8.9.12/zeebe-root-8.9.12.jar returned status 404
+8.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-root/8.9.13/zeebe-root-8.9.13.jar returned status 404
 8.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-root/8.9.2/zeebe-root-8.9.2.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-root/8.9.3/zeebe-root-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-root/8.9.4/zeebe-root-8.9.4.jar returned status 404

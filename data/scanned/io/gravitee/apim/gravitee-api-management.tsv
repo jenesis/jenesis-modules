@@ -279,7 +279,9 @@
 4.11.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.11.16/gravitee-api-management-4.11.16.jar returned status 404
 4.11.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.11.17/gravitee-api-management-4.11.17.jar returned status 404
 4.11.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.11.18/gravitee-api-management-4.11.18.jar returned status 404
+4.11.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.11.19/gravitee-api-management-4.11.19.jar returned status 404
 4.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.11.2/gravitee-api-management-4.11.2.jar returned status 404
+4.11.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.11.20/gravitee-api-management-4.11.20.jar returned status 404
 4.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.11.3/gravitee-api-management-4.11.3.jar returned status 404
 4.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.11.4/gravitee-api-management-4.11.4.jar returned status 404
 4.11.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.11.5/gravitee-api-management-4.11.5.jar returned status 404
@@ -300,6 +302,9 @@
 4.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.12.4/gravitee-api-management-4.12.4.jar returned status 404
 4.12.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.12.5/gravitee-api-management-4.12.5.jar returned status 404
 4.12.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.12.6/gravitee-api-management-4.12.6.jar returned status 404
+4.12.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.12.7/gravitee-api-management-4.12.7.jar returned status 404
+4.12.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.12.8/gravitee-api-management-4.12.8.jar returned status 404
+4.12.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.12.9/gravitee-api-management-4.12.9.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.2.0/gravitee-api-management-4.2.0.jar returned status 404
 4.2.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.2.0-alpha.2/gravitee-api-management-4.2.0-alpha.2.jar returned status 404
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/gravitee-api-management/4.2.1/gravitee-api-management-4.2.1.jar returned status 404

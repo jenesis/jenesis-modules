@@ -14,6 +14,7 @@
 6.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/6.0.9/sandwich-6.0.9.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/7.0.0/sandwich-7.0.0.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/7.1.0/sandwich-7.1.0.jar returned status 404
+7.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/7.10.1/sandwich-7.10.1.jar returned status 404
 7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/7.2.0/sandwich-7.2.0.jar returned status 404
 7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/7.3.0/sandwich-7.3.0.jar returned status 404
 7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/7.3.1/sandwich-7.3.1.jar returned status 404
@@ -31,3 +32,4 @@
 7.9.2		2026-06-11T16:55:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/7.9.2/sandwich-7.9.2.jar returned status 404
 7.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/7.9.3/sandwich-7.9.3.jar returned status 404
 7.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/7.9.4/sandwich-7.9.4.jar returned status 404
+7.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qonversion/sandwich/7.9.5/sandwich-7.9.5.jar returned status 404

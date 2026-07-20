@@ -101,6 +101,7 @@
 0.42.0		2026-05-20T12:44:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon/0.42.0/atleon-0.42.0.jar returned status 404
 0.43.0		2026-06-22T18:52:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon/0.43.0/atleon-0.43.0.jar returned status 404
 0.44.0		2026-07-03T17:15:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon/0.44.0/atleon-0.44.0.jar returned status 404
+0.45.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon/0.45.0/atleon-0.45.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon/0.5.0/atleon-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon/0.6.0/atleon-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon/0.7.0/atleon-0.7.0.jar returned status 404

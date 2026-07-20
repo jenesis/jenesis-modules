@@ -6,4 +6,6 @@
 0.0.3-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk-fraud/0.0.3-beta.1/sdk-fraud-0.0.3-beta.1.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk-fraud/1.0.0/sdk-fraud-1.0.0.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk-fraud/1.1.0/sdk-fraud-1.1.0.jar returned status 404
+1.1.1-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk-fraud/1.1.1-beta.1/sdk-fraud-1.1.1-beta.1.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk-fraud/1.2.0/sdk-fraud-1.2.0.jar returned status 404
 initial-setup			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk-fraud/initial-setup/sdk-fraud-initial-setup.jar returned status 404

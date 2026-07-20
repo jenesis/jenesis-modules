@@ -48,6 +48,7 @@
 0.38.0		2026-06-17T15:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/moderne-recipe-bom/0.38.0/moderne-recipe-bom-0.38.0.jar returned status 404
 0.39.0		2026-07-01T13:21:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/moderne-recipe-bom/0.39.0/moderne-recipe-bom-0.39.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/moderne-recipe-bom/0.4.0/moderne-recipe-bom-0.4.0.jar returned status 404
+0.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/moderne-recipe-bom/0.40.0/moderne-recipe-bom-0.40.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/moderne-recipe-bom/0.5.0/moderne-recipe-bom-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/moderne-recipe-bom/0.6.0/moderne-recipe-bom-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/moderne-recipe-bom/0.7.0/moderne-recipe-bom-0.7.0.jar returned status 404

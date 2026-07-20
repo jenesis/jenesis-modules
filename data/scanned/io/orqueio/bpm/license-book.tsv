@@ -16,4 +16,5 @@
 2.0.3		2026-03-02T10:19:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/2.0.3/license-book-2.0.3.jar returned status 404
 2.0.4		2026-06-03T12:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/2.0.4/license-book-2.0.4.jar returned status 404
 2.0.5		2026-06-18T16:45:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/2.0.5/license-book-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/2.0.6/license-book-2.0.6.jar returned status 404
 2.1.0		2026-07-03T08:12:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/license-book/2.1.0/license-book-2.1.0.jar returned status 404
