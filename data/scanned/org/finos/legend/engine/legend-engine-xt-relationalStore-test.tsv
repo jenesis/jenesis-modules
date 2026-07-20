@@ -84,6 +84,8 @@
 4.132.6			
 4.132.7			
 4.133.0			
+4.134.0			
+4.135.0			
 4.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xt-relationalStore-test/4.37.0/legend-engine-xt-relationalStore-test-4.37.0.jar returned status 404
 4.37.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xt-relationalStore-test/4.37.1/legend-engine-xt-relationalStore-test-4.37.1.jar returned status 404
 4.37.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xt-relationalStore-test/4.37.2/legend-engine-xt-relationalStore-test-4.37.2.jar returned status 404

@@ -1,1 +1,2 @@
 0.36.0-RC1		2026-07-03T17:17:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/shared/legend-shared-bom/0.36.0-RC1/legend-shared-bom-0.36.0-RC1.jar returned status 404
+0.36.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/shared/legend-shared-bom/0.36.0-RC2/legend-shared-bom-0.36.0-RC2.jar returned status 404

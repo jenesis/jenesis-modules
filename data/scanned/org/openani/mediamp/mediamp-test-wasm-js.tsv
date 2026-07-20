@@ -1,3 +1,4 @@
 0.1.12		2026-06-20T12:26:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-test-wasm-js/0.1.12/mediamp-test-wasm-js-0.1.12.jar returned status 404
 0.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-test-wasm-js/0.1.14/mediamp-test-wasm-js-0.1.14.jar returned status 404
 0.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-test-wasm-js/0.1.15/mediamp-test-wasm-js-0.1.15.jar returned status 404
+0.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-test-wasm-js/0.1.16/mediamp-test-wasm-js-0.1.16.jar returned status 404
