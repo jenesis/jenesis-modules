@@ -46,3 +46,4 @@
 1.0.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/envoyproxy/controlplane/test/1.0.52/test-1.0.52.jar returned status 404
 1.0.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/envoyproxy/controlplane/test/1.0.53/test-1.0.53.jar returned status 404
 1.0.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/envoyproxy/controlplane/test/1.0.54/test-1.0.54.jar returned status 404
+1.0.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/envoyproxy/controlplane/test/1.0.55/test-1.0.55.jar returned status 404

@@ -4,3 +4,4 @@
 1.0.3		2026-06-29T02:00:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/hongzhenw/gm-sample-ui/1.0.3/gm-sample-ui-1.0.3.jar returned status 404
 1.0.4		2026-07-04T03:39:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/hongzhenw/gm-sample-ui/1.0.4/gm-sample-ui-1.0.4.jar returned status 404
 1.0.5		2026-07-06T08:40:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/hongzhenw/gm-sample-ui/1.0.5/gm-sample-ui-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/hongzhenw/gm-sample-ui/1.0.6/gm-sample-ui-1.0.6.jar returned status 404

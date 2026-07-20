@@ -39,6 +39,7 @@
 1.0.43		2026-06-04T07:52:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openweb3/miniapp-bom/1.0.43/miniapp-bom-1.0.43.jar returned status 404
 1.0.44		2026-07-01T08:07:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openweb3/miniapp-bom/1.0.44/miniapp-bom-1.0.44.jar returned status 404
 1.0.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openweb3/miniapp-bom/1.0.45/miniapp-bom-1.0.45.jar returned status 404
+1.0.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openweb3/miniapp-bom/1.0.46/miniapp-bom-1.0.46.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openweb3/miniapp-bom/1.0.5/miniapp-bom-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openweb3/miniapp-bom/1.0.6/miniapp-bom-1.0.6.jar returned status 404
 1.0.6.test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openweb3/miniapp-bom/1.0.6.test/miniapp-bom-1.0.6.test.jar returned status 404

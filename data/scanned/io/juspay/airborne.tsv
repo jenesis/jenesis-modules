@@ -82,6 +82,8 @@
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/juspay/airborne/0.4.0/airborne-0.4.0.jar returned status 404
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/juspay/airborne/0.4.1/airborne-0.4.1.jar returned status 404
 0.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/juspay/airborne/0.40.0/airborne-0.40.0.jar returned status 404
+0.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/juspay/airborne/0.41.0/airborne-0.41.0.jar returned status 404
+0.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/juspay/airborne/0.42.0/airborne-0.42.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/juspay/airborne/0.5.0/airborne-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/juspay/airborne/0.6.0/airborne-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/juspay/airborne/0.7.0/airborne-0.7.0.jar returned status 404

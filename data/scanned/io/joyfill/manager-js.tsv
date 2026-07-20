@@ -60,6 +60,7 @@
 2.0.0-RC21		2026-06-08T16:50:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-js/2.0.0-RC21/manager-js-2.0.0-RC21.jar returned status 404
 2.0.0-RC22		2026-06-18T09:41:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-js/2.0.0-RC22/manager-js-2.0.0-RC22.jar returned status 404
 2.0.0-RC23		2026-07-02T16:55:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-js/2.0.0-RC23/manager-js-2.0.0-RC23.jar returned status 404
+2.0.0-RC24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-js/2.0.0-RC24/manager-js-2.0.0-RC24.jar returned status 404
 2.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-js/2.0.0-RC3/manager-js-2.0.0-RC3.jar returned status 404
 2.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-js/2.0.0-RC4/manager-js-2.0.0-RC4.jar returned status 404
 2.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-js/2.0.0-RC5/manager-js-2.0.0-RC5.jar returned status 404
