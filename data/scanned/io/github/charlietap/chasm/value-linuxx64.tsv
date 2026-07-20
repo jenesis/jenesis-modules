@@ -23,3 +23,4 @@
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/value-linuxx64/1.4.5/value-linuxx64-1.4.5.jar returned status 404
 1.4.6		2026-05-25T17:30:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/value-linuxx64/1.4.6/value-linuxx64-1.4.6.jar returned status 404
 1.4.7		2026-06-19T17:48:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/value-linuxx64/1.4.7/value-linuxx64-1.4.7.jar returned status 404
+1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/value-linuxx64/1.4.8/value-linuxx64-1.4.8.jar returned status 404

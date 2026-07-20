@@ -43,3 +43,4 @@
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/decoder-linuxx64/1.4.5/decoder-linuxx64-1.4.5.jar returned status 404
 1.4.6		2026-05-25T17:30:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/decoder-linuxx64/1.4.6/decoder-linuxx64-1.4.6.jar returned status 404
 1.4.7		2026-06-19T17:48:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/decoder-linuxx64/1.4.7/decoder-linuxx64-1.4.7.jar returned status 404
+1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/decoder-linuxx64/1.4.8/decoder-linuxx64-1.4.8.jar returned status 404

@@ -6,3 +6,6 @@
 0.7.8		2026-07-03T18:25:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-plugin-json-js/0.7.8/graphyn-plugin-json-js-0.7.8.jar returned status 404
 0.7.9		2026-07-03T19:07:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-plugin-json-js/0.7.9/graphyn-plugin-json-js-0.7.9.jar returned status 404
 0.8.0		2026-07-05T14:43:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-plugin-json-js/0.8.0/graphyn-plugin-json-js-0.8.0.jar returned status 404
+0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-plugin-json-js/0.9.0/graphyn-plugin-json-js-0.9.0.jar returned status 404
+0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-plugin-json-js/0.9.1/graphyn-plugin-json-js-0.9.1.jar returned status 404
+0.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-plugin-json-js/0.9.2/graphyn-plugin-json-js-0.9.2.jar returned status 404

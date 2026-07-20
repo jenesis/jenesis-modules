@@ -5,3 +5,5 @@
 0.7.5		2026-06-27T16:22:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-editor-js/0.7.5/graphyn-editor-js-0.7.5.jar returned status 404
 0.7.6		2026-06-28T11:56:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-editor-js/0.7.6/graphyn-editor-js-0.7.6.jar returned status 404
 0.7.9		2026-07-03T19:12:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-editor-js/0.7.9/graphyn-editor-js-0.7.9.jar returned status 404
+0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-editor-js/0.9.1/graphyn-editor-js-0.9.1.jar returned status 404
+0.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/graphyn-editor-js/0.9.2/graphyn-editor-js-0.9.2.jar returned status 404

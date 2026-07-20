@@ -30,4 +30,6 @@
 1.1.9		2026-05-25T07:43:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thanhcuong1990/snag/1.1.9/snag-1.1.9.jar returned status 404
 1.2.0		2026-05-29T04:05:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thanhcuong1990/snag/1.2.0/snag-1.2.0.jar returned status 404
 1.2.1		2026-05-29T08:43:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thanhcuong1990/snag/1.2.1/snag-1.2.1.jar returned status 404
+1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thanhcuong1990/snag/1.2.2/snag-1.2.2.jar returned status 404
+1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thanhcuong1990/snag/1.2.3/snag-1.2.3.jar returned status 404
 v1.1.8		2026-05-25T07:21:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thanhcuong1990/snag/v1.1.8/snag-v1.1.8.jar returned status 404

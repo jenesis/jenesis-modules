@@ -1566,3 +1566,17 @@ io.github.frikit.krandom
 io.github.frikit.krandom.junit
 io.github.frikit.krandom.kotlin.dsl
 io.github.frikit.krandom.jackson
+com.whitewoodcity.xtrikeresources
+cascara.lang.yaml
+cascara.lang.json
+cascara.ui
+cascara.lang.xml
+cascara.common.io
+cascara.schema
+cascara.common
+mfx.core
+VirtualizedFX
+pdk.util
+io.github.ralfspoeth.basix
+io.github.ralfspoeth.greyson
+io.fusionauth

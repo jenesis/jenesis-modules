@@ -6,3 +6,4 @@
 0.0.8		2026-05-23T10:26:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glaforge/antigravity/antigravity-sdk-parent/0.0.8/antigravity-sdk-parent-0.0.8.jar returned status 404
 0.1.0		2026-05-27T21:08:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glaforge/antigravity/antigravity-sdk-parent/0.1.0/antigravity-sdk-parent-0.1.0.jar returned status 404
 0.1.1		2026-06-15T08:42:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glaforge/antigravity/antigravity-sdk-parent/0.1.1/antigravity-sdk-parent-0.1.1.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glaforge/antigravity/antigravity-sdk-parent/0.2.0/antigravity-sdk-parent-0.2.0.jar returned status 404

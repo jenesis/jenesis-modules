@@ -29,6 +29,7 @@
 1.1.38		2026-07-03T17:24:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openhtmltopdf/openhtmltopdf-parent/1.1.38/openhtmltopdf-parent-1.1.38.jar returned status 404
 1.1.39		2026-07-03T17:34:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openhtmltopdf/openhtmltopdf-parent/1.1.39/openhtmltopdf-parent-1.1.39.jar returned status 404
 1.1.40		2026-07-03T18:17:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openhtmltopdf/openhtmltopdf-parent/1.1.40/openhtmltopdf-parent-1.1.40.jar returned status 404
+1.1.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openhtmltopdf/openhtmltopdf-parent/1.1.41/openhtmltopdf-parent-1.1.41.jar returned status 404
 1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openhtmltopdf/openhtmltopdf-parent/1.1.6/openhtmltopdf-parent-1.1.6.jar returned status 404
 1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openhtmltopdf/openhtmltopdf-parent/1.1.7/openhtmltopdf-parent-1.1.7.jar returned status 404
 1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openhtmltopdf/openhtmltopdf-parent/1.1.8/openhtmltopdf-parent-1.1.8.jar returned status 404

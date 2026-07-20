@@ -2,3 +2,4 @@
 0.2.0		2026-07-09T09:29:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shuzhuoi/synology-dsm-java-sdk-parent/0.2.0/synology-dsm-java-sdk-parent-0.2.0.jar returned status 404
 0.3.0		2026-07-10T03:41:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shuzhuoi/synology-dsm-java-sdk-parent/0.3.0/synology-dsm-java-sdk-parent-0.3.0.jar returned status 404
 0.4.0		2026-07-10T06:18:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shuzhuoi/synology-dsm-java-sdk-parent/0.4.0/synology-dsm-java-sdk-parent-0.4.0.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shuzhuoi/synology-dsm-java-sdk-parent/1.0.0/synology-dsm-java-sdk-parent-1.0.0.jar returned status 404

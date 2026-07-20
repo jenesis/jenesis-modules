@@ -14,3 +14,4 @@
 0.0.7	metadata	2026-05-12T17:12:36Z	
 0.0.8		2026-06-15T07:59:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joyner-perez/toastcompose-iossimulatorarm64/0.0.8/toastcompose-iossimulatorarm64-0.0.8.jar returned status 404
 0.0.8	metadata	2026-06-15T07:59:14Z	
+0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joyner-perez/toastcompose-iossimulatorarm64/0.0.9/toastcompose-iossimulatorarm64-0.0.9.jar returned status 404

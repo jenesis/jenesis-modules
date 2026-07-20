@@ -1,3 +1,4 @@
 0.0.1		2026-07-11T18:05:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/answer2/altercore/xposed/0.0.1/xposed-0.0.1.jar returned status 404
 0.0.1	debug-sources	2026-07-11T18:05:36Z	
 0.0.1	release-sources	2026-07-11T18:05:36Z	
+0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/answer2/altercore/xposed/0.0.2/xposed-0.0.2.jar returned status 404

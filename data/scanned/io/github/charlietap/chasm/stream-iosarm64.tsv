@@ -68,3 +68,4 @@
 1.4.6	metadata	2026-05-25T17:30:19Z	
 1.4.7		2026-06-19T17:48:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/stream-iosarm64/1.4.7/stream-iosarm64-1.4.7.jar returned status 404
 1.4.7	metadata	2026-06-19T17:48:06Z	
+1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/stream-iosarm64/1.4.8/stream-iosarm64-1.4.8.jar returned status 404

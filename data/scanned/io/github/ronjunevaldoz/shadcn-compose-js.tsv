@@ -1,2 +1,5 @@
 0.2.0		2026-07-10T18:37:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/shadcn-compose-js/0.2.0/shadcn-compose-js-0.2.0.jar returned status 404
 0.2.1		2026-07-11T03:36:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/shadcn-compose-js/0.2.1/shadcn-compose-js-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/shadcn-compose-js/0.2.2/shadcn-compose-js-0.2.2.jar returned status 404
+0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/shadcn-compose-js/0.2.3/shadcn-compose-js-0.2.3.jar returned status 404
+0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronjunevaldoz/shadcn-compose-js/0.2.4/shadcn-compose-js-0.2.4.jar returned status 404

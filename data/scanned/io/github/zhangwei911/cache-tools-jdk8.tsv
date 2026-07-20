@@ -13,3 +13,4 @@
 1.0.6		2026-06-20T14:43:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zhangwei911/cache-tools-jdk8/1.0.6/cache-tools-jdk8-1.0.6.jar returned status 404
 1.0.6	jdk8	2026-06-20T14:43:01Z	
 1.0.6	jdk8-sources	2026-06-20T14:43:01Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zhangwei911/cache-tools-jdk8/1.2.0/cache-tools-jdk8-1.2.0.jar returned status 404

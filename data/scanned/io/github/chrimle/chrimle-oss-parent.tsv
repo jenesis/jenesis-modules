@@ -8,6 +8,8 @@
 0.12.0		2026-05-29T18:32:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrimle/chrimle-oss-parent/0.12.0/chrimle-oss-parent-0.12.0.jar returned status 404
 0.13.0		2026-06-10T23:09:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrimle/chrimle-oss-parent/0.13.0/chrimle-oss-parent-0.13.0.jar returned status 404
 0.13.1		2026-06-11T18:11:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrimle/chrimle-oss-parent/0.13.1/chrimle-oss-parent-0.13.1.jar returned status 404
+0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrimle/chrimle-oss-parent/0.14.0/chrimle-oss-parent-0.14.0.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrimle/chrimle-oss-parent/0.15.0/chrimle-oss-parent-0.15.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrimle/chrimle-oss-parent/0.2.0/chrimle-oss-parent-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrimle/chrimle-oss-parent/0.3.0/chrimle-oss-parent-0.3.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrimle/chrimle-oss-parent/0.4.0/chrimle-oss-parent-0.4.0.jar returned status 404

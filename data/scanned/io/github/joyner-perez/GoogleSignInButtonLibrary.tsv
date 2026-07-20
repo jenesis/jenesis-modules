@@ -4,3 +4,4 @@
 3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joyner-perez/GoogleSignInButtonLibrary/3.2.4/GoogleSignInButtonLibrary-3.2.4.jar returned status 404
 3.3.0		2026-05-28T09:55:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joyner-perez/GoogleSignInButtonLibrary/3.3.0/GoogleSignInButtonLibrary-3.3.0.jar returned status 404
 3.3.1		2026-06-15T07:55:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joyner-perez/GoogleSignInButtonLibrary/3.3.1/GoogleSignInButtonLibrary-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joyner-perez/GoogleSignInButtonLibrary/3.3.2/GoogleSignInButtonLibrary-3.3.2.jar returned status 404
