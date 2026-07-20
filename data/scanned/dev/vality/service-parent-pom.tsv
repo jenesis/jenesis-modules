@@ -72,4 +72,5 @@
 3.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/service-parent-pom/3.1.7/service-parent-pom-3.1.7.jar returned status 404
 3.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/service-parent-pom/3.1.8/service-parent-pom-3.1.8.jar returned status 404
 3.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/service-parent-pom/3.1.9/service-parent-pom-3.1.9.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/service-parent-pom/4.0.0/service-parent-pom-4.0.0.jar returned status 404
 4.0.0-BETA-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/service-parent-pom/4.0.0-BETA-1/service-parent-pom-4.0.0-BETA-1.jar returned status 404

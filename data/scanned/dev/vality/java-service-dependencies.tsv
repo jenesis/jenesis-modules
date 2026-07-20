@@ -38,3 +38,4 @@
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/java-service-dependencies/1.0.8/java-service-dependencies-1.0.8.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/java-service-dependencies/1.0.9/java-service-dependencies-1.0.9.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/java-service-dependencies/2.0.0/java-service-dependencies-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/java-service-dependencies/2.1.0/java-service-dependencies-2.1.0.jar returned status 404

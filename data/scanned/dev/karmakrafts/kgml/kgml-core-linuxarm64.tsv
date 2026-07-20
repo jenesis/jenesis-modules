@@ -3,3 +3,5 @@
 1.2.0		2026-06-13T20:28:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kgml/kgml-core-linuxarm64/1.2.0/kgml-core-linuxarm64-1.2.0.jar returned status 404
 1.2.1		2026-06-29T00:25:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kgml/kgml-core-linuxarm64/1.2.1/kgml-core-linuxarm64-1.2.1.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kgml/kgml-core-linuxarm64/1.3.0/kgml-core-linuxarm64-1.3.0.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kgml/kgml-core-linuxarm64/1.4.0/kgml-core-linuxarm64-1.4.0.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/kgml/kgml-core-linuxarm64/1.4.1/kgml-core-linuxarm64-1.4.1.jar returned status 404
