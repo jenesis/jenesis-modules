@@ -2782,3 +2782,5 @@ org.xerial.sqlitejdbc
 com.install4j.runtime
 com.zaxxer.ping
 jakarta.ws.rs
+hibegin.simplewebserver
+hibegin.simplewebserver.ssl

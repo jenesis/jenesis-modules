@@ -1,5 +1,14 @@
 6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.10.0/buffer-kotlinx-io-tvosx64-6.10.0.jar returned status 404
 6.10.0	metadata	2026-07-12T22:14:01Z	
+6.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.10.1/buffer-kotlinx-io-tvosx64-6.10.1.jar returned status 404
+6.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.10.2/buffer-kotlinx-io-tvosx64-6.10.2.jar returned status 404
+6.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.11.0/buffer-kotlinx-io-tvosx64-6.11.0.jar returned status 404
+6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.12.0/buffer-kotlinx-io-tvosx64-6.12.0.jar returned status 404
+6.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.13.0/buffer-kotlinx-io-tvosx64-6.13.0.jar returned status 404
+6.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.13.1/buffer-kotlinx-io-tvosx64-6.13.1.jar returned status 404
+6.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.14.0/buffer-kotlinx-io-tvosx64-6.14.0.jar returned status 404
+6.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.15.0/buffer-kotlinx-io-tvosx64-6.15.0.jar returned status 404
+6.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.16.0/buffer-kotlinx-io-tvosx64-6.16.0.jar returned status 404
 6.6.0		2026-07-06T07:08:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.6.0/buffer-kotlinx-io-tvosx64-6.6.0.jar returned status 404
 6.6.0	metadata	2026-07-06T07:09:02Z	
 6.6.1		2026-07-06T18:27:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-tvosx64/6.6.1/buffer-kotlinx-io-tvosx64-6.6.1.jar returned status 404
