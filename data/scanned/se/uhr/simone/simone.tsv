@@ -17,3 +17,6 @@
 3.3.2		2021-10-13T06:18:27Z	
 3.3.3		2022-01-12T08:24:47Z	
 3.3.4		2022-04-01T08:39:12Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/uhr/simone/simone/4.0.0/simone-4.0.0.jar returned status 404
+4.0.2-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/uhr/simone/simone/4.0.2-rc.1/simone-4.0.2-rc.1.jar returned status 404
+4.0.3-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/uhr/simone/simone/4.0.3-rc.1/simone-4.0.3-rc.1.jar returned status 404

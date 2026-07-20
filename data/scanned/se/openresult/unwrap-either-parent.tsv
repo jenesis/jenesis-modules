@@ -1,1 +1,2 @@
+${revision}			IllegalArgumentException: Illegal character in path at index 36: se/openresult/unwrap-either-parent/${revision}/unwrap-either-parent-${revision}.jar
 0.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/openresult/unwrap-either-parent/0.0.12/unwrap-either-parent-0.0.12.jar returned status 404
