@@ -4,3 +4,5 @@
 1.9.3		2026-07-08T00:55:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/rmz/rmatch-parent/1.9.3/rmatch-parent-1.9.3.jar returned status 404
 1.9.4		2026-07-08T19:15:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/rmz/rmatch-parent/1.9.4/rmatch-parent-1.9.4.jar returned status 404
 1.9.5		2026-07-10T01:05:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/rmz/rmatch-parent/1.9.5/rmatch-parent-1.9.5.jar returned status 404
+1.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/rmz/rmatch-parent/1.9.6/rmatch-parent-1.9.6.jar returned status 404
+2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/rmz/rmatch-parent/2.0.0-RC1/rmatch-parent-2.0.0-RC1.jar returned status 404

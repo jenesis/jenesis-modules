@@ -46,3 +46,6 @@
 4.0.0		2026-06-30T12:46:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-governance-service-instance/4.0.0/jeap-governance-service-instance-4.0.0.jar returned status 404
 4.1.0		2026-07-06T07:55:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-governance-service-instance/4.1.0/jeap-governance-service-instance-4.1.0.jar returned status 404
 4.2.0		2026-07-08T16:01:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-governance-service-instance/4.2.0/jeap-governance-service-instance-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-governance-service-instance/4.3.0/jeap-governance-service-instance-4.3.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-governance-service-instance/4.4.0/jeap-governance-service-instance-4.4.0.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-governance-service-instance/4.5.0/jeap-governance-service-instance-4.5.0.jar returned status 404

@@ -1,6 +1,7 @@
 1.0		2005-11-22T18:15:22Z	
 1.0-beta-1		2005-11-22T18:15:21Z	
 1.0-beta-2		2005-11-22T18:15:22Z	
+1.0-beta-3-snapshot			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hivemind/hivemind/1.0-beta-3-snapshot/hivemind-1.0-beta-3-snapshot.jar returned status 404
 1.0-rc-1		2005-11-22T18:15:22Z	
 1.0-rc-2		2005-11-22T18:15:22Z	
 1.1		2005-11-22T18:15:22Z	

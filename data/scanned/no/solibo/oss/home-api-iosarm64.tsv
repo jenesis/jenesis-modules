@@ -480,5 +480,8 @@
 1.7.8	metadata	2026-06-15T11:21:31Z	
 1.7.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosarm64/1.7.80/home-api-iosarm64-1.7.80.jar returned status 404
 1.7.80	metadata	2026-07-10T22:34:11Z	
+1.7.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosarm64/1.7.81/home-api-iosarm64-1.7.81.jar returned status 404
+1.7.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosarm64/1.7.82/home-api-iosarm64-1.7.82.jar returned status 404
+1.7.83			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosarm64/1.7.83/home-api-iosarm64-1.7.83.jar returned status 404
 1.7.9		2026-06-16T09:38:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosarm64/1.7.9/home-api-iosarm64-1.7.9.jar returned status 404
 1.7.9	metadata	2026-06-16T09:38:50Z	

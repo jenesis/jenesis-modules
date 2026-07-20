@@ -80,3 +80,4 @@
 0.20.1	metadata	2026-06-26T12:52:40Z	
 0.20.2		2026-06-29T09:58:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-pdf-iossimulatorarm64/0.20.2/heidi-pdf-iossimulatorarm64-0.20.2.jar returned status 404
 0.20.2	metadata	2026-06-29T09:58:29Z	
+0.20.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-pdf-iossimulatorarm64/0.20.3/heidi-pdf-iossimulatorarm64-0.20.3.jar returned status 404

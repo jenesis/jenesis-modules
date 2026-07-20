@@ -3,3 +3,4 @@
 2026.06.02		2026-06-25T12:41:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/nordic-bom/2026.06.02/nordic-bom-2026.06.02.jar returned status 404
 2026.07.00		2026-07-03T13:13:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/nordic-bom/2026.07.00/nordic-bom-2026.07.00.jar returned status 404
 2026.07.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/nordic-bom/2026.07.01/nordic-bom-2026.07.01.jar returned status 404
+2026.07.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/nordic-bom/2026.07.02/nordic-bom-2026.07.02.jar returned status 404
