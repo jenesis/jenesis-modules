@@ -1090,3 +1090,5 @@ org.apache.tomee.server.http
 org.apache.tomee.tomee.jaxrs
 org.apache.tomee.util.provisionning
 org.apache.tomee.server.hsql
+io.netty.codec.http2
+com.google.errorprone.annotations
