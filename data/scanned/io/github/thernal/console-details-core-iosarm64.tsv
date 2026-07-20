@@ -16,3 +16,5 @@
 0.2.5	metadata	2026-06-22T19:01:22Z	
 0.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-details-core-iosarm64/0.2.6/console-details-core-iosarm64-0.2.6.jar returned status 404
 0.2.6	metadata	2026-07-09T18:05:23Z	
+0.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-details-core-iosarm64/0.2.7/console-details-core-iosarm64-0.2.7.jar returned status 404
+0.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-details-core-iosarm64/0.2.8/console-details-core-iosarm64-0.2.8.jar returned status 404

@@ -2,6 +2,7 @@
 0.10.0		2026-06-15T17:13:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/theme/0.10.0/theme-0.10.0.jar returned status 404
 0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/theme/0.11.0/theme-0.11.0.jar returned status 404
 0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/theme/0.12.0/theme-0.12.0.jar returned status 404
+0.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/theme/0.12.1/theme-0.12.1.jar returned status 404
 0.2.0		2026-05-21T01:58:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/theme/0.2.0/theme-0.2.0.jar returned status 404
 0.3.0		2026-06-03T01:31:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/theme/0.3.0/theme-0.3.0.jar returned status 404
 0.5.1		2026-06-05T14:54:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/theme/0.5.1/theme-0.5.1.jar returned status 404

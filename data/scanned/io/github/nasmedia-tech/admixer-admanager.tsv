@@ -23,3 +23,4 @@
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-admanager/1.0.9/admixer-admanager-1.0.9.jar returned status 404
 1.0.9-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-admanager/1.0.9-alpha/admixer-admanager-1.0.9-alpha.jar returned status 404
 2.0.0		2026-06-17T02:19:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-admanager/2.0.0/admixer-admanager-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-admanager/2.0.1/admixer-admanager-2.0.1.jar returned status 404

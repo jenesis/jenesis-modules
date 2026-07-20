@@ -1,3 +1,4 @@
 0.1.8		2026-07-06T03:32:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emmansun/lightcrypto-link-parent/0.1.8/lightcrypto-link-parent-0.1.8.jar returned status 404
 1.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emmansun/lightcrypto-link-parent/1.0.0-RC1/lightcrypto-link-parent-1.0.0-RC1.jar returned status 404
 1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emmansun/lightcrypto-link-parent/1.0.0-RC2/lightcrypto-link-parent-1.0.0-RC2.jar returned status 404
+1.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emmansun/lightcrypto-link-parent/1.0.0-RC3/lightcrypto-link-parent-1.0.0-RC3.jar returned status 404

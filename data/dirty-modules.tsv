@@ -1587,3 +1587,10 @@ io.github.cfraser.graphguard.utils
 io.github.cfraser.graphguard.verify
 io.github.zorin95670
 BayesSolver
+org.apache.logging.log4j
+io.github.ralfkonrad.quantlib
+jcef
+io.github.dfa1.zstd
+com.v7878.dex
+trustifyda.api
+io.github.pustike.persist

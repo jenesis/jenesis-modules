@@ -46,3 +46,4 @@
 3.5.2	metadata	2026-06-22T04:46:14Z	
 3.5.3		2026-07-06T15:29:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-iosarm64/3.5.3/cmp-bubble-iosarm64-3.5.3.jar returned status 404
 3.5.3	metadata	2026-07-06T15:29:36Z	
+3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-iosarm64/3.5.4/cmp-bubble-iosarm64-3.5.4.jar returned status 404

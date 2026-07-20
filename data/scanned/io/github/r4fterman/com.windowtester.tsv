@@ -12,3 +12,8 @@
 5.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/r4fterman/com.windowtester/5.13.4/com.windowtester-5.13.4.jar returned status 404
 5.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/r4fterman/com.windowtester/5.14.0/com.windowtester-5.14.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/r4fterman/com.windowtester/6.0.0/com.windowtester-6.0.0.jar returned status 404
+6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/r4fterman/com.windowtester/6.0.1/com.windowtester-6.0.1.jar returned status 404
+6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/r4fterman/com.windowtester/6.0.2/com.windowtester-6.0.2.jar returned status 404
+6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/r4fterman/com.windowtester/6.0.3/com.windowtester-6.0.3.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/r4fterman/com.windowtester/6.1.0/com.windowtester-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/r4fterman/com.windowtester/6.1.1/com.windowtester-6.1.1.jar returned status 404

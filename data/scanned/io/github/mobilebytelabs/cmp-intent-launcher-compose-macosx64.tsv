@@ -16,3 +16,4 @@
 3.5.2	metadata	2026-06-22T04:46:43Z	
 3.5.3		2026-07-06T15:33:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-compose-macosx64/3.5.3/cmp-intent-launcher-compose-macosx64-3.5.3.jar returned status 404
 3.5.3	metadata	2026-07-06T15:33:20Z	
+3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-compose-macosx64/3.5.4/cmp-intent-launcher-compose-macosx64-3.5.4.jar returned status 404

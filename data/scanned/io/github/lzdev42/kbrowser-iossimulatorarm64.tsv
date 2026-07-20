@@ -58,6 +58,10 @@
 0.1.0-alpha38	metadata	2026-06-27T14:45:43Z	
 0.1.0-alpha4		2026-05-27T04:23:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lzdev42/kbrowser-iossimulatorarm64/0.1.0-alpha4/kbrowser-iossimulatorarm64-0.1.0-alpha4.jar returned status 404
 0.1.0-alpha4	metadata	2026-05-27T04:23:36Z	
+0.1.0-alpha40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lzdev42/kbrowser-iossimulatorarm64/0.1.0-alpha40/kbrowser-iossimulatorarm64-0.1.0-alpha40.jar returned status 404
+0.1.0-alpha41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lzdev42/kbrowser-iossimulatorarm64/0.1.0-alpha41/kbrowser-iossimulatorarm64-0.1.0-alpha41.jar returned status 404
+0.1.0-alpha42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lzdev42/kbrowser-iossimulatorarm64/0.1.0-alpha42/kbrowser-iossimulatorarm64-0.1.0-alpha42.jar returned status 404
+0.1.0-alpha44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lzdev42/kbrowser-iossimulatorarm64/0.1.0-alpha44/kbrowser-iossimulatorarm64-0.1.0-alpha44.jar returned status 404
 0.1.0-alpha5		2026-05-28T01:24:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lzdev42/kbrowser-iossimulatorarm64/0.1.0-alpha5/kbrowser-iossimulatorarm64-0.1.0-alpha5.jar returned status 404
 0.1.0-alpha5	metadata	2026-05-28T01:24:30Z	
 0.1.0-alpha6		2026-05-28T02:27:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lzdev42/kbrowser-iossimulatorarm64/0.1.0-alpha6/kbrowser-iossimulatorarm64-0.1.0-alpha6.jar returned status 404

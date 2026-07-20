@@ -14,4 +14,5 @@
 0.2.8		2026-05-31T05:23:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alfikri-rizky/avifkit-android/0.2.8/avifkit-android-0.2.8.jar returned status 404
 0.2.9		2026-05-31T07:47:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alfikri-rizky/avifkit-android/0.2.9/avifkit-android-0.2.9.jar returned status 404
 0.3.1		2026-06-01T12:40:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alfikri-rizky/avifkit-android/0.3.1/avifkit-android-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alfikri-rizky/avifkit-android/0.3.2/avifkit-android-0.3.2.jar returned status 404
 v0.3.0		2026-06-01T08:20:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alfikri-rizky/avifkit-android/v0.3.0/avifkit-android-v0.3.0.jar returned status 404

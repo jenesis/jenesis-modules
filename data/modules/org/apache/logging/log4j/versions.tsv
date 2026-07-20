@@ -2525,3 +2525,4 @@ CANARY-2.3.1	named	org.linqs	psl-neural	2021-09-11T18:25:29Z	2.13.0
 2.26.0.0	named	org.lucee	log4j-api	2026-06-26T08:21:49Z	2.26.0
 2.26.1	named	org.apache.logging.log4j	log4j-api	2026-06-29T07:47:29Z	2.26.1
 2.25.5	named	org.apache.logging.log4j	log4j-api	2026-07-07T02:17:44Z	2.25.5
+0.5.0-jdk21	named	io.github.beehive-lab	gpu-llama3	2026-07-16T00:05:53Z	2.17.1

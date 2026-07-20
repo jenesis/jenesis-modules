@@ -122,3 +122,4 @@
 0.1.8	plain	2025-10-05T13:47:12Z	
 0.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/motolies/hvy-common/0.1.9/hvy-common-0.1.9.jar returned status 404
 0.1.9	plain	2025-10-19T13:28:40Z	
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/motolies/hvy-common/0.2.0/hvy-common-0.2.0.jar returned status 404
