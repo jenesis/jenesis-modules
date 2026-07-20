@@ -15,6 +15,7 @@
 0.19.0		2026-06-21T21:05:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nscuro/versatile-parent/0.19.0/versatile-parent-0.19.0.jar returned status 404
 0.20.0		2026-06-28T12:22:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nscuro/versatile-parent/0.20.0/versatile-parent-0.20.0.jar returned status 404
 0.21.0		2026-06-30T15:20:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nscuro/versatile-parent/0.21.0/versatile-parent-0.21.0.jar returned status 404
+0.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nscuro/versatile-parent/0.21.1/versatile-parent-0.21.1.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nscuro/versatile-parent/0.8.0/versatile-parent-0.8.0.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nscuro/versatile-parent/0.9.0/versatile-parent-0.9.0.jar returned status 404
 0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nscuro/versatile-parent/0.9.1/versatile-parent-0.9.1.jar returned status 404

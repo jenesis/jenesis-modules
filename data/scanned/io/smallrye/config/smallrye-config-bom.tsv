@@ -12,3 +12,4 @@
 3.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/config/smallrye-config-bom/3.17.1/smallrye-config-bom-3.17.1.jar returned status 404
 3.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/config/smallrye-config-bom/3.17.2/smallrye-config-bom-3.17.2.jar returned status 404
 3.18.0		2026-07-04T02:08:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/config/smallrye-config-bom/3.18.0/smallrye-config-bom-3.18.0.jar returned status 404
+3.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/config/smallrye-config-bom/3.18.1/smallrye-config-bom-3.18.1.jar returned status 404

@@ -1,1 +1,5 @@
 1.2.0-STABLE		2026-07-09T11:44:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/1.2.0-STABLE/e1m0admin-parent-1.2.0-STABLE.jar returned status 404
+2.0.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/2.0.0-RELEASE/e1m0admin-parent-2.0.0-RELEASE.jar returned status 404
+v2.0.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/v2.0.0-RELEASE/e1m0admin-parent-v2.0.0-RELEASE.jar returned status 404
+v3.0.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/v3.0.0-RELEASE/e1m0admin-parent-v3.0.0-RELEASE.jar returned status 404
+v3.1.0-RELESE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/v3.1.0-RELESE/e1m0admin-parent-v3.1.0-RELESE.jar returned status 404

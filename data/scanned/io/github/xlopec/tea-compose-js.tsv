@@ -5,3 +5,5 @@
 1.0.0-alpha12-rc1		2026-06-30T20:26:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-compose-js/1.0.0-alpha12-rc1/tea-compose-js-1.0.0-alpha12-rc1.jar returned status 404
 1.0.0-alpha13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-compose-js/1.0.0-alpha13/tea-compose-js-1.0.0-alpha13.jar returned status 404
 1.0.0-alpha13-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-compose-js/1.0.0-alpha13-rc1/tea-compose-js-1.0.0-alpha13-rc1.jar returned status 404
+1.0.0-alpha14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-compose-js/1.0.0-alpha14/tea-compose-js-1.0.0-alpha14.jar returned status 404
+1.0.0-alpha14-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xlopec/tea-compose-js/1.0.0-alpha14-rc1/tea-compose-js-1.0.0-alpha14-rc1.jar returned status 404

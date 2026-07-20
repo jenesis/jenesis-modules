@@ -42,6 +42,7 @@
 1.5.0-beta02	metadata	2026-06-18T08:15:00Z	
 1.5.0-rc01		2026-06-27T14:49:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/zoomimage/zoomimage-compose-sketch4-iossimulatorarm64/1.5.0-rc01/zoomimage-compose-sketch4-iossimulatorarm64-1.5.0-rc01.jar returned status 404
 1.5.0-rc01	metadata	2026-06-27T14:49:50Z	
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/zoomimage/zoomimage-compose-sketch4-iossimulatorarm64/1.6.0/zoomimage-compose-sketch4-iossimulatorarm64-1.6.0.jar returned status 404
 1.6.0-alpha01		2026-07-02T18:29:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/zoomimage/zoomimage-compose-sketch4-iossimulatorarm64/1.6.0-alpha01/zoomimage-compose-sketch4-iossimulatorarm64-1.6.0-alpha01.jar returned status 404
 1.6.0-alpha01	metadata	2026-07-02T18:29:57Z	
 1.6.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/zoomimage/zoomimage-compose-sketch4-iossimulatorarm64/1.6.0-beta01/zoomimage-compose-sketch4-iossimulatorarm64-1.6.0-beta01.jar returned status 404

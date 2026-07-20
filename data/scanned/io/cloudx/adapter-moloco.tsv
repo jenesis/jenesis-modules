@@ -1,5 +1,6 @@
 4.0.0.0		2026-05-31T10:09:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-moloco/4.0.0.0/adapter-moloco-4.0.0.0.jar returned status 404
 4.10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-moloco/4.10.1.0/adapter-moloco-4.10.1.0.jar returned status 404
+4.3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-moloco/4.3.1.0/adapter-moloco-4.3.1.0.jar returned status 404
 4.4.0.0		2026-05-31T10:08:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-moloco/4.4.0.0/adapter-moloco-4.4.0.0.jar returned status 404
 4.8.0.0		2026-05-26T13:20:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-moloco/4.8.0.0/adapter-moloco-4.8.0.0.jar returned status 404
 4.9.0.0		2026-06-19T00:03:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-moloco/4.9.0.0/adapter-moloco-4.9.0.0.jar returned status 404

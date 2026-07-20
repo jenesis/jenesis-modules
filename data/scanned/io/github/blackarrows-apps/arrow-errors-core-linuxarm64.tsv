@@ -2,3 +2,5 @@
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blackarrows-apps/arrow-errors-core-linuxarm64/1.1.0/arrow-errors-core-linuxarm64-1.1.0.jar returned status 404
 1.1.1		2026-05-26T17:42:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blackarrows-apps/arrow-errors-core-linuxarm64/1.1.1/arrow-errors-core-linuxarm64-1.1.1.jar returned status 404
 1.1.2		2026-05-28T10:14:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blackarrows-apps/arrow-errors-core-linuxarm64/1.1.2/arrow-errors-core-linuxarm64-1.1.2.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blackarrows-apps/arrow-errors-core-linuxarm64/1.2.0/arrow-errors-core-linuxarm64-1.2.0.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blackarrows-apps/arrow-errors-core-linuxarm64/1.3.0/arrow-errors-core-linuxarm64-1.3.0.jar returned status 404

@@ -2,3 +2,4 @@
 0.1.0-alpha02		2026-06-10T01:38:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kuiralabs/compact-engine/0.1.0-alpha02/compact-engine-0.1.0-alpha02.jar returned status 404
 0.1.0-alpha03		2026-06-10T22:06:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kuiralabs/compact-engine/0.1.0-alpha03/compact-engine-0.1.0-alpha03.jar returned status 404
 0.1.0-alpha04		2026-06-22T04:59:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kuiralabs/compact-engine/0.1.0-alpha04/compact-engine-0.1.0-alpha04.jar returned status 404
+0.1.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kuiralabs/compact-engine/0.1.0-alpha05/compact-engine-0.1.0-alpha05.jar returned status 404

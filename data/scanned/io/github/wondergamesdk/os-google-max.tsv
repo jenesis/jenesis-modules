@@ -28,3 +28,4 @@
 2.5.2		2026-05-25T07:38:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-max/2.5.2/os-google-max-2.5.2.jar returned status 404
 3.0.0		2026-06-02T10:47:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-max/3.0.0/os-google-max-3.0.0.jar returned status 404
 3.0.1		2026-06-03T04:06:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-max/3.0.1/os-google-max-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-max/3.0.2/os-google-max-3.0.2.jar returned status 404

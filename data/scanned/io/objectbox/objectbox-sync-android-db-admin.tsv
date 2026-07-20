@@ -1,3 +1,4 @@
 5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/objectbox-sync-android-db-admin/5.4.2/objectbox-sync-android-db-admin-5.4.2.jar returned status 404
 5.4.2-preview1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/objectbox-sync-android-db-admin/5.4.2-preview1/objectbox-sync-android-db-admin-5.4.2-preview1.jar returned status 404
+6.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/objectbox-sync-android-db-admin/6.0.0-beta/objectbox-sync-android-db-admin-6.0.0-beta.jar returned status 404
 6.0.0-preview1		2026-06-06T06:22:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/objectbox-sync-android-db-admin/6.0.0-preview1/objectbox-sync-android-db-admin-6.0.0-preview1.jar returned status 404

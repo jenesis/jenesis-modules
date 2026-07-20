@@ -41,3 +41,5 @@
 6.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seon/androidsdk/androidsdk/6.8.4/androidsdk-6.8.4.jar returned status 404
 6.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seon/androidsdk/androidsdk/6.8.5/androidsdk-6.8.5.jar returned status 404
 6.8.6		2026-05-27T14:06:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seon/androidsdk/androidsdk/6.8.6/androidsdk-6.8.6.jar returned status 404
+6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seon/androidsdk/androidsdk/6.9.0/androidsdk-6.9.0.jar returned status 404
+6.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/seon/androidsdk/androidsdk/6.9.1/androidsdk-6.9.1.jar returned status 404

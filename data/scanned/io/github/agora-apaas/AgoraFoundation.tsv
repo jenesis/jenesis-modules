@@ -28,6 +28,7 @@
 3.11.0-rc.7		2026-07-01T12:04:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraFoundation/3.11.0-rc.7/AgoraFoundation-3.11.0-rc.7.jar returned status 404
 3.11.0-rc.7-test		2026-06-29T06:57:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraFoundation/3.11.0-rc.7-test/AgoraFoundation-3.11.0-rc.7-test.jar returned status 404
 3.11.0-rc.7.1		2026-07-01T14:21:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraFoundation/3.11.0-rc.7.1/AgoraFoundation-3.11.0-rc.7.1.jar returned status 404
+3.11.0-rc.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraFoundation/3.11.0-rc.9/AgoraFoundation-3.11.0-rc.9.jar returned status 404
 3.11.1-rc.1		2026-06-13T06:37:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraFoundation/3.11.1-rc.1/AgoraFoundation-3.11.1-rc.1.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraFoundation/3.3.0/AgoraFoundation-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraFoundation/3.3.1/AgoraFoundation-3.3.1.jar returned status 404

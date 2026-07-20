@@ -146,3 +146,5 @@
 4.1.135.Final	automatic	io.netty	netty-transport	2026-06-02T19:15:31Z	
 4.2.16.Final	named	io.netty	netty-transport	2026-07-07T23:55:52Z	4.2.16.Final
 4.1.136.Final	automatic	io.netty	netty-transport	2026-07-08T23:56:14Z	
+0.2.0	named	io.github.lukaszsamson	spark-rabbitmq-streams-connector-spark35	2026-07-14T02:27:00Z	4.2.12.Final
+0.2.0	named	io.github.lukaszsamson	spark-rabbitmq-streams-connector-spark35_2.12	2026-07-14T02:27:00Z	4.2.12.Final

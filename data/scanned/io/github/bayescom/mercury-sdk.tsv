@@ -62,3 +62,4 @@
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bayescom/mercury-sdk/4.7.0/mercury-sdk-4.7.0.jar returned status 404
 4.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bayescom/mercury-sdk/4.7.1/mercury-sdk-4.7.1.jar returned status 404
 4.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bayescom/mercury-sdk/4.7.2/mercury-sdk-4.7.2.jar returned status 404
+4.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bayescom/mercury-sdk/4.7.3/mercury-sdk-4.7.3.jar returned status 404

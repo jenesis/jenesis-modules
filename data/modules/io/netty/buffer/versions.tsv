@@ -234,3 +234,4 @@
 2.0.10	named	net.neoforged.jst	jst-cli-bundle	2026-07-03T15:00:49Z	4.2.0.RC2
 4.2.16.Final	named	io.netty	netty-buffer	2026-07-07T23:55:13Z	4.2.16.Final
 4.1.136.Final	automatic	io.netty	netty-buffer	2026-07-08T23:55:29Z	
+0.2.0	named	io.github.lukaszsamson	spark-rabbitmq-streams-connector-spark41	2026-07-14T02:27:00Z	4.2.7.Final

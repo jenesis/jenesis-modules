@@ -4,3 +4,4 @@
 5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/sync/io.objectbox.sync.gradle.plugin/5.4.1/io.objectbox.sync.gradle.plugin-5.4.1.jar returned status 404
 5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/sync/io.objectbox.sync.gradle.plugin/5.4.2/io.objectbox.sync.gradle.plugin-5.4.2.jar returned status 404
 5.4.2-preview1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/sync/io.objectbox.sync.gradle.plugin/5.4.2-preview1/io.objectbox.sync.gradle.plugin-5.4.2-preview1.jar returned status 404
+6.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/objectbox/sync/io.objectbox.sync.gradle.plugin/6.0.0-beta/io.objectbox.sync.gradle.plugin-6.0.0-beta.jar returned status 404
