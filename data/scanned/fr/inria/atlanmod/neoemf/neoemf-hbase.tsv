@@ -1,1 +1,2 @@
 1.0.0		2016-12-06T15:42:41Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/atlanmod/neoemf/neoemf-hbase/1.0.1/neoemf-hbase-1.0.1.jar returned status 404

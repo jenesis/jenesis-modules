@@ -114,3 +114,4 @@
 1.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/tryterra/terra-android/1.6.3/terra-android-1.6.3.jar returned status 404
 1.7.0		2026-06-16T09:37:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/tryterra/terra-android/1.7.0/terra-android-1.7.0.jar returned status 404
 1.7.1		2026-06-23T22:29:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/tryterra/terra-android/1.7.1/terra-android-1.7.1.jar returned status 404
+1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/tryterra/terra-android/1.7.2/terra-android-1.7.2.jar returned status 404

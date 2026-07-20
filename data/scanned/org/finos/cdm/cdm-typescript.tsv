@@ -213,12 +213,14 @@
 6.20.6		2026-05-21T16:43:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/6.20.6/cdm-typescript-6.20.6.jar returned status 404
 6.21.0		2026-06-01T15:24:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/6.21.0/cdm-typescript-6.21.0.jar returned status 404
 6.22.0		2026-06-22T09:56:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/6.22.0/cdm-typescript-6.22.0.jar returned status 404
+6.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/6.24.0/cdm-typescript-6.24.0.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/6.3.0/cdm-typescript-6.3.0.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/6.4.0/cdm-typescript-6.4.0.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/6.5.0/cdm-typescript-6.5.0.jar returned status 404
 6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/6.7.0/cdm-typescript-6.7.0.jar returned status 404
 6.8.1		2025-08-04T19:20:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/6.8.1/cdm-typescript-6.8.1.jar returned status 404
 6.9.0		2025-09-01T09:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/6.9.0/cdm-typescript-6.9.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0/cdm-typescript-7.0.0.jar returned status 404
 7.0.0-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.1/cdm-typescript-7.0.0-dev.1.jar returned status 404
 7.0.0-dev.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.10/cdm-typescript-7.0.0-dev.10.jar returned status 404
 7.0.0-dev.100		2026-04-20T12:57:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.100/cdm-typescript-7.0.0-dev.100.jar returned status 404
@@ -255,6 +257,7 @@
 7.0.0-dev.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.13/cdm-typescript-7.0.0-dev.13.jar returned status 404
 7.0.0-dev.130		2026-07-01T10:35:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.130/cdm-typescript-7.0.0-dev.130.jar returned status 404
 7.0.0-dev.131		2026-07-02T15:37:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.131/cdm-typescript-7.0.0-dev.131.jar returned status 404
+7.0.0-dev.132			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.132/cdm-typescript-7.0.0-dev.132.jar returned status 404
 7.0.0-dev.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.14/cdm-typescript-7.0.0-dev.14.jar returned status 404
 7.0.0-dev.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.16/cdm-typescript-7.0.0-dev.16.jar returned status 404
 7.0.0-dev.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-typescript/7.0.0-dev.17/cdm-typescript-7.0.0-dev.17.jar returned status 404

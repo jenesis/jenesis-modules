@@ -1,1 +1,6 @@
+1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/jrds/jrds/1.0-RC1/jrds-1.0-RC1.jar returned status 404
+2020.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/jrds/jrds/2020.1/jrds-2020.1.jar returned status 404
+2021.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/jrds/jrds/2021.1/jrds-2021.1.jar returned status 404
+2023.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/jrds/jrds/2023.1/jrds-2023.1.jar returned status 404
+2024.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/jrds/jrds/2024.1/jrds-2024.1.jar returned status 404
 2024.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/jrds/jrds/2024.1.1/jrds-2024.1.1.jar returned status 404

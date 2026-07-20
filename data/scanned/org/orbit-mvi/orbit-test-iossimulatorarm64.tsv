@@ -2,6 +2,7 @@
 10.0.0	metadata	2025-05-23T10:18:42Z	
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/orbit-mvi/orbit-test-iossimulatorarm64/11.0.0/orbit-test-iossimulatorarm64-11.0.0.jar returned status 404
 11.0.0	metadata	2025-11-08T10:31:26Z	
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/orbit-mvi/orbit-test-iossimulatorarm64/12.0.0/orbit-test-iossimulatorarm64-12.0.0.jar returned status 404
 4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/orbit-mvi/orbit-test-iossimulatorarm64/4.3.1/orbit-test-iossimulatorarm64-4.3.1.jar returned status 404
 4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/orbit-mvi/orbit-test-iossimulatorarm64/4.3.2/orbit-test-iossimulatorarm64-4.3.2.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/orbit-mvi/orbit-test-iossimulatorarm64/4.4.0/orbit-test-iossimulatorarm64-4.4.0.jar returned status 404

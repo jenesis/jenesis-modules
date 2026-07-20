@@ -12,6 +12,7 @@
 0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hortonmachine/hortonmachine/0.11.0/hortonmachine-0.11.0.jar returned status 404
 0.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hortonmachine/hortonmachine/0.11.1/hortonmachine-0.11.1.jar returned status 404
 0.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hortonmachine/hortonmachine/0.11.2/hortonmachine-0.11.2.jar returned status 404
+0.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hortonmachine/hortonmachine/0.11.3/hortonmachine-0.11.3.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hortonmachine/hortonmachine/0.9.0/hortonmachine-0.9.0.jar returned status 404
 0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hortonmachine/hortonmachine/0.9.1/hortonmachine-0.9.1.jar returned status 404
 0.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hortonmachine/hortonmachine/0.9.10/hortonmachine-0.9.10.jar returned status 404

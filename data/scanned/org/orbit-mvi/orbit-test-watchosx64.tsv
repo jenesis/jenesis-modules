@@ -2,3 +2,4 @@
 10.0.0	metadata	2025-05-23T10:21:01Z	
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/orbit-mvi/orbit-test-watchosx64/11.0.0/orbit-test-watchosx64-11.0.0.jar returned status 404
 11.0.0	metadata	2025-11-08T10:31:23Z	
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/orbit-mvi/orbit-test-watchosx64/12.0.0/orbit-test-watchosx64-12.0.0.jar returned status 404

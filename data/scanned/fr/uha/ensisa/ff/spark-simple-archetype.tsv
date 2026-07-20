@@ -3,5 +3,6 @@
 0.0.3		2019-03-01T09:39:32Z	
 0.0.4		2019-03-01T11:10:29Z	
 0.0.5		2020-06-26T21:02:51Z	
+0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/uha/ensisa/ff/spark-simple-archetype/0.0.6/spark-simple-archetype-0.0.6.jar returned status 404
 0.0.7		2021-12-07T08:37:08Z	
 0.0.8		2022-12-05T10:53:48Z	
