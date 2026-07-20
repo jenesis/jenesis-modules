@@ -5,3 +5,4 @@
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datagrail/consent/1.4.0/consent-1.4.0.jar returned status 404
 1.5.0		2026-05-26T14:55:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datagrail/consent/1.5.0/consent-1.5.0.jar returned status 404
 1.6.0		2026-06-26T19:22:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datagrail/consent/1.6.0/consent-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datagrail/consent/1.7.0/consent-1.7.0.jar returned status 404

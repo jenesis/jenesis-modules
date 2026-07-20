@@ -1,3 +1,4 @@
 0.1.0		2026-07-10T15:37:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/usmandev0/comparekit-android/0.1.0/comparekit-android-0.1.0.jar returned status 404
 0.1.0-alpha01		2026-07-11T12:48:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/usmandev0/comparekit-android/0.1.0-alpha01/comparekit-android-0.1.0-alpha01.jar returned status 404
 0.1.1		2026-07-11T15:40:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/usmandev0/comparekit-android/0.1.1/comparekit-android-0.1.1.jar returned status 404
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/usmandev0/comparekit-android/0.1.2/comparekit-android-0.1.2.jar returned status 404

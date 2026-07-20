@@ -43,6 +43,7 @@
 0.22.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-timber/0.22.9/capture-timber-0.22.9.jar returned status 404
 0.23.0		2026-05-20T14:15:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-timber/0.23.0/capture-timber-0.23.0.jar returned status 404
 0.23.1		2026-05-29T09:02:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-timber/0.23.1/capture-timber-0.23.1.jar returned status 404
+0.23.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-timber/0.23.10/capture-timber-0.23.10.jar returned status 404
 0.23.2		2026-06-01T17:01:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-timber/0.23.2/capture-timber-0.23.2.jar returned status 404
 0.23.3		2026-06-03T20:02:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-timber/0.23.3/capture-timber-0.23.3.jar returned status 404
 0.23.4		2026-06-04T19:48:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture-timber/0.23.4/capture-timber-0.23.4.jar returned status 404

@@ -2,3 +2,4 @@
 0.1.1	metadata	2026-07-06T09:55:37Z	
 0.1.2		2026-07-07T07:30:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/base14/scout-core-iossimulatorarm64/0.1.2/scout-core-iossimulatorarm64-0.1.2.jar returned status 404
 0.1.2	metadata	2026-07-07T07:30:14Z	
+0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/base14/scout-core-iossimulatorarm64/0.1.3/scout-core-iossimulatorarm64-0.1.3.jar returned status 404

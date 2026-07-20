@@ -55,3 +55,4 @@
 4.15.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/primefaces/quarkus-primefaces-parent/4.15.15/quarkus-primefaces-parent-4.15.15.jar returned status 404
 4.15.16		2026-06-10T20:36:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/primefaces/quarkus-primefaces-parent/4.15.16/quarkus-primefaces-parent-4.15.16.jar returned status 404
 4.15.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/primefaces/quarkus-primefaces-parent/4.15.17/quarkus-primefaces-parent-4.15.17.jar returned status 404
+4.16.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/primefaces/quarkus-primefaces-parent/4.16.0-RC1/quarkus-primefaces-parent-4.16.0-RC1.jar returned status 404
