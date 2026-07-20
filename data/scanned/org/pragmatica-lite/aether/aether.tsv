@@ -14,3 +14,4 @@
 0.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/aether/aether/0.7.5/aether-0.7.5.jar returned status 404
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/aether/aether/0.8.1/aether-0.8.1.jar returned status 404
 1.0.0-rc1		2026-06-13T21:38:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/aether/aether/1.0.0-rc1/aether-1.0.0-rc1.jar returned status 404
+1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/aether/aether/1.0.0-rc2/aether-1.0.0-rc2.jar returned status 404

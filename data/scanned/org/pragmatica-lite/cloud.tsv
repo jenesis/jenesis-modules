@@ -9,3 +9,4 @@
 0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/cloud/0.24.0/cloud-0.24.0.jar returned status 404
 0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/cloud/0.25.0/cloud-0.25.0.jar returned status 404
 1.0.0-rc1		2026-06-13T21:38:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/cloud/1.0.0-rc1/cloud-1.0.0-rc1.jar returned status 404
+1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/cloud/1.0.0-rc2/cloud-1.0.0-rc2.jar returned status 404

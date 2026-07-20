@@ -32,3 +32,4 @@
 0.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/db/0.9.8/db-0.9.8.jar returned status 404
 0.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/db/0.9.9/db-0.9.9.jar returned status 404
 1.0.0-rc1		2026-06-13T21:38:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/db/1.0.0-rc1/db-1.0.0-rc1.jar returned status 404
+1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pragmatica-lite/db/1.0.0-rc2/db-1.0.0-rc2.jar returned status 404
