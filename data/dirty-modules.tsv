@@ -2813,3 +2813,6 @@ media.barney.contract.spring.boot.starter
 org.apache.commons.io
 eu.hansolo.jdktools
 eu.mihosoft.vmf.vmftext
+plus.application.app.common
+dev.argon.esexpr.generator
+dev.argon.esexpr

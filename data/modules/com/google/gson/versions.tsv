@@ -4978,6 +4978,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.2.2	named	io.github.cobble-project	cobble	2026-07-14T00:07:22Z	2.10.1
 2.7.1	named	org.apache.shenyu	shenyu-admin-listener-apollo	2026-07-14T02:27:27Z	2.9.0
 2.7.1	named	org.apache.shenyu	shenyu-spring-boot-starter-sync-data-apollo	2026-07-14T02:27:28Z	2.9.0
+0.2.3	named	win.dailypickle.report	dailypickle	2026-07-14T23:52:10Z	2.14.0
 2.4.10	named	org.jetbrains.kotlin	kotlin-gradle-plugin	2026-07-15T02:20:05Z	2.11.0
 1.5.8	named	com.conaxgames	clibraries	2026-07-15T02:21:02Z	2.14.0
 1.5.2.17	named	com.linkedin.iceberg	iceberg-gcp-bundle	2026-07-15T02:21:45Z	2.10.1
