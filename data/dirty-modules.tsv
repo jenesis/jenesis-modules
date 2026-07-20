@@ -2798,3 +2798,5 @@ com.auth0.mvc.commons
 com.nimbusds.infinispan.persistence.redis
 com.fasterxml.jackson.datatype.jsr310
 com.jyuzawa.onnxruntime
+com.intechcore.scomponents.fx.menutreebuilder
+com.xenoamess.cyan_potion.sdl_game_controller_db_util

@@ -106,6 +106,7 @@
 0.211.0		2026-07-02T19:03:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-js/0.211.0/doordeck-sdk-js-0.211.0.jar returned status 404
 0.212.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-js/0.212.0/doordeck-sdk-js-0.212.0.jar returned status 404
 0.213.0		2026-07-13T09:45:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-js/0.213.0/doordeck-sdk-js-0.213.0.jar returned status 404
+0.214.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-js/0.214.0/doordeck-sdk-js-0.214.0.jar returned status 404
 0.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-js/0.38.0/doordeck-sdk-js-0.38.0.jar returned status 404
 0.38.0-dev.18+d9d9475			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-js/0.38.0-dev.18+d9d9475/doordeck-sdk-js-0.38.0-dev.18+d9d9475.jar returned status 404
 0.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-js/0.39.0/doordeck-sdk-js-0.39.0.jar returned status 404

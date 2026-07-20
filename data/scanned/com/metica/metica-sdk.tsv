@@ -37,3 +37,4 @@
 2.4.2		2026-06-17T09:51:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metica/metica-sdk/2.4.2/metica-sdk-2.4.2.jar returned status 404
 2.4.3		2026-06-18T19:20:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metica/metica-sdk/2.4.3/metica-sdk-2.4.3.jar returned status 404
 2.5.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metica/metica-sdk/2.5.0-beta1/metica-sdk-2.5.0-beta1.jar returned status 404
+2.5.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/metica/metica-sdk/2.5.0-beta2/metica-sdk-2.5.0-beta2.jar returned status 404

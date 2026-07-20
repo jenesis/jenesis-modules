@@ -5,6 +5,7 @@
 0.12.0		2026-06-14T21:13:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nxoim/evolpagink/compose-js/0.12.0/compose-js-0.12.0.jar returned status 404
 0.13.0		2026-06-24T00:27:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nxoim/evolpagink/compose-js/0.13.0/compose-js-0.13.0.jar returned status 404
 0.14.0		2026-06-24T18:05:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nxoim/evolpagink/compose-js/0.14.0/compose-js-0.14.0.jar returned status 404
+0.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nxoim/evolpagink/compose-js/0.14.1/compose-js-0.14.1.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nxoim/evolpagink/compose-js/0.2.0/compose-js-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nxoim/evolpagink/compose-js/0.3.0/compose-js-0.3.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nxoim/evolpagink/compose-js/0.4.0/compose-js-0.4.0.jar returned status 404

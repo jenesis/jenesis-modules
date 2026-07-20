@@ -189,6 +189,7 @@
 32.55.0		2026-06-22T14:15:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-core/32.55.0/div-core-32.55.0.jar returned status 404
 32.56.0		2026-06-29T16:19:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-core/32.56.0/div-core-32.56.0.jar returned status 404
 32.57.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-core/32.57.0/div-core-32.57.0.jar returned status 404
+32.58.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-core/32.58.0/div-core-32.58.0.jar returned status 404
 32.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-core/32.6.0/div-core-32.6.0.jar returned status 404
 32.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-core/32.7.1/div-core-32.7.1.jar returned status 404
 32.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/div-core/32.8.0/div-core-32.8.0.jar returned status 404

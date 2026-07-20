@@ -6486,3 +6486,4 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 4.2.3	named	org.apache.pulsar	pulsar-functions-runtime-all	2026-07-07T02:21:53Z	2.18.8
 2.18.9	named	com.fasterxml.jackson.core	jackson-annotations	2026-07-07T23:44:02Z	2.18.9
 5.5	named	org.jboss.pnc.maven-manipulator	pom-manipulation-cli	2026-07-18T00:03:42Z	2.22
+0.9.0	named	com.databricks.labs	databricks-morph-plugin	2026-07-18T02:18:34Z	2.21

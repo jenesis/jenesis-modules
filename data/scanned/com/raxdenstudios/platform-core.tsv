@@ -1,4 +1,5 @@
 1.0.1		2026-06-16T12:35:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-core/1.0.1/platform-core-1.0.1.jar returned status 404
+1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-core/1.0.10/platform-core-1.0.10.jar returned status 404
 1.0.2		2026-06-16T17:22:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-core/1.0.2/platform-core-1.0.2.jar returned status 404
 1.0.3		2026-06-17T12:13:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-core/1.0.3/platform-core-1.0.3.jar returned status 404
 1.0.4		2026-06-17T16:25:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/platform-core/1.0.4/platform-core-1.0.4.jar returned status 404
