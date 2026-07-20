@@ -3438,4 +3438,13 @@
 3.6.0-snapshot.20260709.14749.0.v2489973e	named	com.daml	codegen-js	2026-07-12T00:01:35Z	1.5.3
 3.6.0-snapshot.20260709.14749.0.v2489973e	named	com.daml	codegen-jvm-main	2026-07-12T00:01:46Z	1.5.3
 8.0.15.37	named	com.limemojito.oss.aws	aws-cleaner	2026-07-13T02:22:44Z	1.5.34
+3.6.0-snapshot.20260713.14752.0.vd1465400	named	com.daml	codegen-java	2026-07-15T00:04:16Z	1.5.3
+3.6.0-snapshot.20260713.14752.0.vd1465400	named	com.daml	codegen-js	2026-07-15T00:04:27Z	1.5.3
+3.6.0-snapshot.20260713.14752.0.vd1465400	named	com.daml	codegen-jvm-main	2026-07-15T00:04:42Z	1.5.3
+3.6.0-snapshot.20260714.14755.0.v629c1f68	named	com.daml	codegen-java	2026-07-16T00:03:08Z	1.5.3
+3.6.0-snapshot.20260714.14755.0.v629c1f68	named	com.daml	codegen-js	2026-07-16T00:03:11Z	1.5.3
+3.6.0-snapshot.20260714.14755.0.v629c1f68	named	com.daml	codegen-jvm-main	2026-07-16T00:03:20Z	1.5.3
 5.4	named	org.jboss.pnc.maven-manipulator	pom-manipulation-cli	2026-07-16T00:07:00Z	1.5.35
+3.6.0-snapshot.20260716.14756.0.vcab596e1	named	com.daml	codegen-java	2026-07-18T00:00:32Z	1.5.3
+3.6.0-snapshot.20260716.14756.0.vcab596e1	named	com.daml	codegen-js	2026-07-18T00:00:33Z	1.5.3
+3.6.0-snapshot.20260716.14756.0.vcab596e1	named	com.daml	codegen-jvm-main	2026-07-18T00:00:50Z	1.5.3

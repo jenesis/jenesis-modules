@@ -2784,3 +2784,17 @@ com.zaxxer.ping
 jakarta.ws.rs
 hibegin.simplewebserver
 hibegin.simplewebserver.ssl
+com.digitalpetri.opcua.uanodeset.core
+com.digitalpetri.opcua.uanodeset.namespace
+com.renomad.minum
+com.sqlapp.graphviz
+com.sqlapp.gradle.plugin
+com.sqlapp.command
+com.sqlapp.core
+com.pyranid
+com.pyranid.otel
+com.auth0.java
+com.auth0.mvc.commons
+com.nimbusds.infinispan.persistence.redis
+com.fasterxml.jackson.datatype.jsr310
+com.jyuzawa.onnxruntime

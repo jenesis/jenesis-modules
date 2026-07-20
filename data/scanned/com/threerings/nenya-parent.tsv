@@ -5,4 +5,5 @@
 1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/threerings/nenya-parent/1.7/nenya-parent-1.7.jar returned status 404
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/threerings/nenya-parent/1.7.1/nenya-parent-1.7.1.jar returned status 404
 1.7.2		2026-06-03T18:30:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/threerings/nenya-parent/1.7.2/nenya-parent-1.7.2.jar returned status 404
+1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/threerings/nenya-parent/1.7.3/nenya-parent-1.7.3.jar returned status 404
 nenya-1.7.2		2026-06-03T17:46:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/threerings/nenya-parent/nenya-1.7.2/nenya-parent-nenya-1.7.2.jar returned status 404

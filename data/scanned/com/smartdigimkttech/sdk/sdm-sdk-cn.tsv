@@ -29,3 +29,5 @@
 6.5.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/smartdigimkttech/sdk/sdm-sdk-cn/6.5.72/sdm-sdk-cn-6.5.72.jar returned status 404
 6.5.75		2026-06-26T11:41:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/smartdigimkttech/sdk/sdm-sdk-cn/6.5.75/sdm-sdk-cn-6.5.75.jar returned status 404
 6.5.76-cn			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/smartdigimkttech/sdk/sdm-sdk-cn/6.5.76-cn/sdm-sdk-cn-6.5.76-cn.jar returned status 404
+6.5.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/smartdigimkttech/sdk/sdm-sdk-cn/6.5.77/sdm-sdk-cn-6.5.77.jar returned status 404
+6.5.77-cn			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/smartdigimkttech/sdk/sdm-sdk-cn/6.5.77-cn/sdm-sdk-cn-6.5.77-cn.jar returned status 404

@@ -1,2 +1,4 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/buffers-watchosarm32/2.1.0/buffers-watchosarm32-2.1.0.jar returned status 404
 2.1.0	metadata	2026-04-23T01:47:54Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/buffers-watchosarm32/2.2.0/buffers-watchosarm32-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/buffers-watchosarm32/2.2.1/buffers-watchosarm32-2.2.1.jar returned status 404

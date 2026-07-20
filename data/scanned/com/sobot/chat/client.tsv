@@ -12,3 +12,4 @@
 4.6.4		2026-06-02T08:22:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sobot/chat/client/4.6.4/client-4.6.4.jar returned status 404
 4.6.5		2026-07-02T11:44:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sobot/chat/client/4.6.5/client-4.6.5.jar returned status 404
 4.6.6		2026-07-03T03:18:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sobot/chat/client/4.6.6/client-4.6.6.jar returned status 404
+4.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sobot/chat/client/4.6.7/client-4.6.7.jar returned status 404

@@ -1061,6 +1061,9 @@
 6.11.89			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/dependency-bom/6.11.89/dependency-bom-6.11.89.jar returned status 404
 6.11.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/dependency-bom/6.11.9/dependency-bom-6.11.9.jar returned status 404
 6.11.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/dependency-bom/6.11.90/dependency-bom-6.11.90.jar returned status 404
+6.11.91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/dependency-bom/6.11.91/dependency-bom-6.11.91.jar returned status 404
+6.11.92			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/dependency-bom/6.11.92/dependency-bom-6.11.92.jar returned status 404
+6.11.93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/dependency-bom/6.11.93/dependency-bom-6.11.93.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/dependency-bom/6.2.0/dependency-bom-6.2.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/dependency-bom/6.2.1/dependency-bom-6.2.1.jar returned status 404
 6.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/dependency-bom/6.2.10/dependency-bom-6.2.10.jar returned status 404
