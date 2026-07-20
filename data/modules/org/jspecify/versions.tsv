@@ -208,6 +208,8 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 3.15.0	named	com.power4j.fist3	fist-jasypt-cli	2026-07-06T10:01:57Z	
 5.0.5-beta.1	named	com.google.appengine	runtime-impl-jetty121	2026-07-07T09:27:40Z	
 5.0.5-beta.1	named	com.google.appengine	runtime-impl-jetty12	2026-07-07T09:27:41Z	
+2.15.3	named	com.fastasyncworldedit	FastAsyncWorldEdit-Libs-Ap	2026-07-15T02:15:33Z	
+2.15.3	named	com.fastasyncworldedit	FastAsyncWorldEdit-Libs-Core	2026-07-15T02:15:34Z	
 3.0.0	named	org.finos.fluxnova.bpm.qa	fluxnova-qa-performance-tests-engine	2026-07-18T00:13:16Z	
 3.0.0	named	org.finos.fluxnova.bpm	fluxnova-engine	2026-07-18T00:13:36Z	
 1.3.0	named	org.eximeebpms.bpm	eximeebpms-engine	2026-07-18T00:14:55Z	

@@ -18,3 +18,5 @@
 1.0.0	metadata	2026-01-30T15:58:27Z	
 1.1.0-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apadmi/mockzilla-mobile-ui-iossimulatorarm64/1.1.0-dev/mockzilla-mobile-ui-iossimulatorarm64-1.1.0-dev.jar returned status 404
 1.1.0-dev	metadata	2026-07-09T04:58:50Z	
+1.1.0-dev2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apadmi/mockzilla-mobile-ui-iossimulatorarm64/1.1.0-dev2/mockzilla-mobile-ui-iossimulatorarm64-1.1.0-dev2.jar returned status 404
+1.1.0-dev3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apadmi/mockzilla-mobile-ui-iossimulatorarm64/1.1.0-dev3/mockzilla-mobile-ui-iossimulatorarm64-1.1.0-dev3.jar returned status 404

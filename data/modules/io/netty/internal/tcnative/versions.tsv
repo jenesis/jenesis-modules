@@ -800,6 +800,7 @@
 4.1.10	named	com.instaclustr	esop-azure	2026-07-11T00:14:45Z	2.0.73.Final
 4.132.7	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-11T02:20:12Z	2.0.72.Final
 1.37.0	named	io.temporal	temporal-shaded	2026-07-13T23:56:14Z	2.0.72.Final
+1.1.36	named	com.opendatadsl	odsl-sdk	2026-07-16T00:07:08Z	2.0.74.Final
 4.134.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-16T00:22:48Z	2.0.72.Final
 2.2.0	named	org.apache.ozone	ozone-filesystem-shaded	2026-07-16T02:30:32Z	2.0.77.Final
 4.135.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-18T00:18:18Z	2.0.72.Final

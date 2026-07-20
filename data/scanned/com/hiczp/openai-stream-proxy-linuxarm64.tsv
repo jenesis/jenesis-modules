@@ -4,3 +4,4 @@
 0.0.4		2026-05-27T13:05:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hiczp/openai-stream-proxy-linuxarm64/0.0.4/openai-stream-proxy-linuxarm64-0.0.4.jar returned status 404
 0.0.6		2026-06-09T09:34:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hiczp/openai-stream-proxy-linuxarm64/0.0.6/openai-stream-proxy-linuxarm64-0.0.6.jar returned status 404
 0.0.7		2026-07-06T16:22:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hiczp/openai-stream-proxy-linuxarm64/0.0.7/openai-stream-proxy-linuxarm64-0.0.7.jar returned status 404
+0.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/hiczp/openai-stream-proxy-linuxarm64/0.0.8/openai-stream-proxy-linuxarm64-0.0.8.jar returned status 404
