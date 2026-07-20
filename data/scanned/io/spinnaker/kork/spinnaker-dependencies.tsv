@@ -1,3 +1,5 @@
+2026.0-19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/2026.0-19/spinnaker-dependencies-2026.0-19.jar returned status 404
+2026.0-20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/2026.0-20/spinnaker-dependencies-2026.0-20.jar returned status 404
 7.105.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/7.105.0/spinnaker-dependencies-7.105.0.jar returned status 404
 7.107.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/7.107.0/spinnaker-dependencies-7.107.0.jar returned status 404
 7.108.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/7.108.0/spinnaker-dependencies-7.108.0.jar returned status 404
