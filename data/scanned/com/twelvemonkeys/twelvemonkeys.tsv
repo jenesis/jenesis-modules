@@ -13,6 +13,7 @@
 3.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/twelvemonkeys/twelvemonkeys/3.12.0/twelvemonkeys-3.12.0.jar returned status 404
 3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/twelvemonkeys/twelvemonkeys/3.13.0/twelvemonkeys-3.13.0.jar returned status 404
 3.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/twelvemonkeys/twelvemonkeys/3.13.1/twelvemonkeys-3.13.1.jar returned status 404
+3.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/twelvemonkeys/twelvemonkeys/3.14.0/twelvemonkeys-3.14.0.jar returned status 404
 3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/twelvemonkeys/twelvemonkeys/3.2/twelvemonkeys-3.2.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/twelvemonkeys/twelvemonkeys/3.2.1/twelvemonkeys-3.2.1.jar returned status 404
 3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/twelvemonkeys/twelvemonkeys/3.3/twelvemonkeys-3.3.jar returned status 404

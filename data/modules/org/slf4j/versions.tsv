@@ -3183,6 +3183,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 0.15.1	named	net.unit8.enkan	kotowari-graalvm-example	2026-07-10T23:56:30Z	2.0.17
 0.3.43	named	io.continual	continualMetricsDropWiz	2026-07-13T23:59:16Z	2.0.17
 0.3.43	named	io.continual	continualIamAuth0	2026-07-13T23:59:19Z	2.0.17
+4.1.4	named	com.scylladb	spark-scylladb-connector-assembly_2.13	2026-07-15T02:14:36Z	2.0.18
 3.1.2	named	org.openidentityplatform.commons.json-schema	cli	2026-07-17T02:28:18Z	2.0.17
 3.1.2	named	org.openidentityplatform.commons.json-crypto	cli	2026-07-17T02:28:22Z	2.0.17
 5.1.2	named	org.openidentityplatform.opendj	opendj-ldap-sdk-examples	2026-07-18T02:18:58Z	2.0.17

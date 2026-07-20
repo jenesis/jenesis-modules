@@ -8,3 +8,4 @@
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/stripeterminal-ktx/5.5.0/stripeterminal-ktx-5.5.0.jar returned status 404
 5.5.1		2026-05-22T15:29:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/stripeterminal-ktx/5.5.1/stripeterminal-ktx-5.5.1.jar returned status 404
 5.6.0		2026-06-05T15:28:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/stripeterminal-ktx/5.6.0/stripeterminal-ktx-5.6.0.jar returned status 404
+5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/stripeterminal-ktx/5.7.0/stripeterminal-ktx-5.7.0.jar returned status 404

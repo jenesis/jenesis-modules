@@ -79,6 +79,7 @@
 2.5.0-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/2.5.0-BETA/nacos-all-2.5.0-BETA.jar returned status 404
 2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/2.5.1/nacos-all-2.5.1.jar returned status 404
 2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/2.5.2/nacos-all-2.5.2.jar returned status 404
+2.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/2.5.3/nacos-all-2.5.3.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/3.0.0/nacos-all-3.0.0.jar returned status 404
 3.0.0-ALPHA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/3.0.0-ALPHA/nacos-all-3.0.0-ALPHA.jar returned status 404
 3.0.0-ALPHA.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/3.0.0-ALPHA.2/nacos-all-3.0.0-ALPHA.2.jar returned status 404
@@ -96,3 +97,4 @@
 3.2.1-2026.03.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/3.2.1-2026.03.30/nacos-all-3.2.1-2026.03.30.jar returned status 404
 3.2.1-2026.04.03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/3.2.1-2026.04.03/nacos-all-3.2.1-2026.04.03.jar returned status 404
 3.2.2		2026-05-29T07:52:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/3.2.2/nacos-all-3.2.2.jar returned status 404
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/nacos/nacos-all/3.2.3/nacos-all-3.2.3.jar returned status 404

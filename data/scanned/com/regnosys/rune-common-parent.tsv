@@ -47,6 +47,10 @@
 11.122.1		2026-07-05T18:21:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rune-common-parent/11.122.1/rune-common-parent-11.122.1.jar returned status 404
 11.122.2		2026-07-06T13:40:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rune-common-parent/11.122.2/rune-common-parent-11.122.2.jar returned status 404
 11.123.0		2026-07-07T17:30:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rune-common-parent/11.123.0/rune-common-parent-11.123.0.jar returned status 404
+11.124.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rune-common-parent/11.124.0/rune-common-parent-11.124.0.jar returned status 404
+11.124.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rune-common-parent/11.124.1/rune-common-parent-11.124.1.jar returned status 404
+11.124.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rune-common-parent/11.124.2/rune-common-parent-11.124.2.jar returned status 404
+11.124.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rune-common-parent/11.124.3/rune-common-parent-11.124.3.jar returned status 404
 11.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rune-common-parent/11.32.0/rune-common-parent-11.32.0.jar returned status 404
 11.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rune-common-parent/11.33.0/rune-common-parent-11.33.0.jar returned status 404
 11.33.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rune-common-parent/11.33.1/rune-common-parent-11.33.1.jar returned status 404

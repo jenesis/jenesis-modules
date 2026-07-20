@@ -252,3 +252,4 @@
 15.0.2	metadata	2026-06-25T15:03:40Z	
 15.0.3		2026-06-29T11:40:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/aboutlibraries-core-watchosarm32/15.0.3/aboutlibraries-core-watchosarm32-15.0.3.jar returned status 404
 15.0.3	metadata	2026-06-29T11:40:12Z	
+15.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mikepenz/aboutlibraries-core-watchosarm32/15.0.4/aboutlibraries-core-watchosarm32-15.0.4.jar returned status 404

@@ -21,6 +21,7 @@
 28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-osgi-bom/28/adeptj-osgi-bom-28.jar returned status 404
 29		2026-06-30T03:33:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-osgi-bom/29/adeptj-osgi-bom-29.jar returned status 404
 3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-osgi-bom/3/adeptj-osgi-bom-3.jar returned status 404
+30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-osgi-bom/30/adeptj-osgi-bom-30.jar returned status 404
 4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-osgi-bom/4/adeptj-osgi-bom-4.jar returned status 404
 5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-osgi-bom/5/adeptj-osgi-bom-5.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adeptj/adeptj-osgi-bom/6/adeptj-osgi-bom-6.jar returned status 404

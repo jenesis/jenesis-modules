@@ -179,3 +179,4 @@
 2026.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stimulsoft/reports/2026.2.2/reports-2026.2.2.jar returned status 404
 2026.2.3		2026-05-21T07:58:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stimulsoft/reports/2026.2.3/reports-2026.2.3.jar returned status 404
 2026.2.4		2026-06-10T08:49:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stimulsoft/reports/2026.2.4/reports-2026.2.4.jar returned status 404
+2026.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stimulsoft/reports/2026.3.1/reports-2026.3.1.jar returned status 404

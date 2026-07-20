@@ -62,6 +62,10 @@
 11.122.1		2026-07-06T09:08:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/11.122.1/parent-11.122.1.jar returned status 404
 11.122.2		2026-07-06T14:37:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/11.122.2/parent-11.122.2.jar returned status 404
 11.123.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/11.123.0/parent-11.123.0.jar returned status 404
+11.124.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/11.124.0/parent-11.124.0.jar returned status 404
+11.124.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/11.124.1/parent-11.124.1.jar returned status 404
+11.124.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/11.124.2/parent-11.124.2.jar returned status 404
+11.124.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/11.124.3/parent-11.124.3.jar returned status 404
 11.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/11.13.0/parent-11.13.0.jar returned status 404
 11.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/11.14.0/parent-11.14.0.jar returned status 404
 11.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/11.14.1/parent-11.14.1.jar returned status 404
@@ -286,3 +290,9 @@
 12.1.7		2026-07-03T13:43:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/12.1.7/parent-12.1.7.jar returned status 404
 12.1.8		2026-07-06T18:37:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/12.1.8/parent-12.1.8.jar returned status 404
 12.2.0		2026-07-07T16:54:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/12.2.0/parent-12.2.0.jar returned status 404
+12.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/12.3.0/parent-12.3.0.jar returned status 404
+12.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/12.3.1/parent-12.3.1.jar returned status 404
+12.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/12.3.2/parent-12.3.2.jar returned status 404
+12.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/12.3.3/parent-12.3.3.jar returned status 404
+12.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/12.4.0/parent-12.4.0.jar returned status 404
+12.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/regnosys/rosetta/code-generators/parent/12.4.1/parent-12.4.1.jar returned status 404
