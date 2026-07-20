@@ -4,7 +4,7 @@
 > _A modern Java build tool: Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-07-14 04:06:30 UTC_  
-_Current chunk started: 2026-07-14 12:40:04 UTC_  
+_Current chunk started: 2026-07-20 05:52:19 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 933_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 17 909 327 |
-| Non-module artifacts | 15 946 049 |
+| Total artifacts scanned | 17 963 290 |
+| Non-module artifacts | 15 994 498 |
 | Modular artifacts | 1 622 693 |
 | Total automatic modules | 1 274 121 |
 | Total named modules | 348 572 |
 | Total named modules with module-info version | 265 039 |
-| Distinct Maven artifacts | 670 457 |
-| Distinct module names | 40 591 |
+| Distinct Maven artifacts | 670 467 |
+| Distinct module names | 40 613 |
 | Distinct automatic modules | 21 467 |
 | Distinct named modules | 17 661 |
 | Distinct named modules with module-info version | 12 903 |
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 621 | 342 | 279 |
-| New version rows | 771 | 388 | 383 |
-| Non-modular artifacts | 1 394 | - | - |
+| Modules with a publication | 132 | 76 | 56 |
+| New version rows | 168 | 106 | 62 |
+| Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-04 | `█`&nbsp;3 387 (4.4%) | `▓▓`&nbsp;5 836 (7.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;67 391 (88.0%) |
 | 2026-05 | `█`&nbsp;3 441 (4.4%) | `▓▓`&nbsp;5 624 (7.2%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;68 913 (88.4%) |
 | 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 111 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 959 (88.4%) |
-| 2026-07 | `█`&nbsp;1 940 (6.2%) | `▓`&nbsp;2 729 (8.8%) | `░░░░░░░░░`&nbsp;26 502 (85.0%) |
+| 2026-07 | `█`&nbsp;1 940 (6.6%) | `▓`&nbsp;2 729 (9.3%) | `░░░░░░░░`&nbsp;24 750 (84.1%) |
 
 ## Naming patterns
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 3 606 811 |
-| Incorrectly indexed (mis-stamped 404s) | 3 604 546 |
-| Genuine artifact errors | 2 265 |
+| Total failed coordinates | 3 635 545 |
+| Incorrectly indexed (mis-stamped 404s) | 3 633 274 |
+| Genuine artifact errors | 2 271 |
 
 ### Top 25 genuine error messages
 
@@ -212,12 +212,12 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 | Error message | Count |
 |---|---:|
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
-| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 488 |
-| `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 329 |
+| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 490 |
+| `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
 | `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 92 |
-| `InvalidModuleDescriptorException: CONSTANT_Package at entry <ENTRY> has illegal character: '.'` | 80 |
+| `InvalidModuleDescriptorException: CONSTANT_Package at entry <ENTRY> has illegal character: '.'` | 83 |
 | `IllegalArgumentException: Expected central file header signature at offset <OFFSET>` | 76 |
 | `InvalidModuleDescriptorException: <CLASS>: Invalid service type name: '<NAME>' is not a Java identifier` | 45 |
 | `InvalidModuleDescriptorException: Index into constant pool out of range` | 34 |
@@ -311,8 +311,8 @@ Module names that have been published under the most different groupIds across h
 | `com.fasterxml.jackson.annotation [-jar-with-dependencies]` | 227 |
 | `com.fasterxml.jackson.annotation` | 186 |
 | `org.apache.logging.log4j` | 181 |
-| `org.slf4j` | 178 |
-| `kotlin.stdlib` | 144 |
+| `org.slf4j` | 179 |
+| `kotlin.stdlib` | 145 |
 | `kotlin.stdlib.jdk8` | 137 |
 | `com.google.gson [-jar-with-dependencies]` | 129 |
 | `com.fasterxml.jackson.databind [-jar-with-dependencies]` | 110 |
@@ -324,12 +324,12 @@ Module names that have been published under the most different groupIds across h
 | `kotlin.stdlib.jdk8 [-all]` | 78 |
 | `com.fasterxml.jackson.core [-jar-with-dependencies]` | 75 |
 | `info.picocli` | 73 |
+| `org.apache.commons.lang3` | 72 |
 | `com.google.gson [-all]` | 71 |
-| `org.apache.commons.lang3` | 71 |
 | `com.fasterxml.jackson.module.jaxb` | 67 |
 | `org.objectweb.asm` | 65 |
+| `org.yaml.snakeyaml` | 65 |
 | `org.apache.commons.codec` | 64 |
-| `org.apache.commons.io` | 64 |
 
 ## Top 25 modules updated in the last 7 days
 
