@@ -4,6 +4,7 @@
 0.148.1		2026-05-18T09:51:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-wasm-js/0.148.1/skiko-wasm-js-0.148.1.jar returned status 404
 0.148.2		2026-06-08T14:53:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-wasm-js/0.148.2/skiko-wasm-js-0.148.2.jar returned status 404
 0.150.0		2026-06-19T10:14:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-wasm-js/0.150.0/skiko-wasm-js-0.150.0.jar returned status 404
+0.150.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-wasm-js/0.150.1/skiko-wasm-js-0.150.1.jar returned status 404
 0.7.89.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-wasm-js/0.7.89.1/skiko-wasm-js-0.7.89.1.jar returned status 404
 0.7.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-wasm-js/0.7.90/skiko-wasm-js-0.7.90.jar returned status 404
 0.7.93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-wasm-js/0.7.93/skiko-wasm-js-0.7.93.jar returned status 404

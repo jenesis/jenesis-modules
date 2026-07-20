@@ -1,3 +1,4 @@
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate-iossimulatorarm64/2.11.0/lifecycle-viewmodel-savedstate-iossimulatorarm64-2.11.0.jar returned status 404
 2.11.0-rc01		2026-06-29T14:33:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate-iossimulatorarm64/2.11.0-rc01/lifecycle-viewmodel-savedstate-iossimulatorarm64-2.11.0-rc01.jar returned status 404
 2.11.0-rc01	metadata	2026-06-29T14:33:24Z	
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate-iossimulatorarm64/2.8.0/lifecycle-viewmodel-savedstate-iossimulatorarm64-2.8.0.jar returned status 404
