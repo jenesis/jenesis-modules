@@ -4,7 +4,9 @@
 11.5.0-beta.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netki/netkisdk/11.5.0-beta.10/netkisdk-11.5.0-beta.10.jar returned status 404
 11.5.0-beta.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netki/netkisdk/11.5.0-beta.9/netkisdk-11.5.0-beta.9.jar returned status 404
 11.5.1		2026-06-12T19:46:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netki/netkisdk/11.5.1/netkisdk-11.5.1.jar returned status 404
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netki/netkisdk/12.0.0/netkisdk-12.0.0.jar returned status 404
 12.0.0-beta.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netki/netkisdk/12.0.0-beta.14/netkisdk-12.0.0-beta.14.jar returned status 404
 12.0.0-beta.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netki/netkisdk/12.0.0-beta.15/netkisdk-12.0.0-beta.15.jar returned status 404
+12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netki/netkisdk/12.0.1/netkisdk-12.0.1.jar returned status 404
 8.60.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netki/netkisdk/8.60.1/netkisdk-8.60.1.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netki/netkisdk/9.0.0/netkisdk-9.0.0.jar returned status 404

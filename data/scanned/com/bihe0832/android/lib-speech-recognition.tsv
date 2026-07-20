@@ -74,3 +74,6 @@
 8.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-speech-recognition/8.5.1/lib-speech-recognition-8.5.1.jar returned status 404
 8.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-speech-recognition/8.5.3/lib-speech-recognition-8.5.3.jar returned status 404
 8.5.4		2026-05-22T11:41:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-speech-recognition/8.5.4/lib-speech-recognition-8.5.4.jar returned status 404
+8.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-speech-recognition/8.6.1/lib-speech-recognition-8.6.1.jar returned status 404
+8.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-speech-recognition/8.6.6/lib-speech-recognition-8.6.6.jar returned status 404
+8.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-speech-recognition/8.6.8/lib-speech-recognition-8.6.8.jar returned status 404

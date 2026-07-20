@@ -92,3 +92,5 @@
 8.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-okhttp-wrapper/8.4.2/lib-okhttp-wrapper-8.4.2.jar returned status 404
 8.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-okhttp-wrapper/8.5.3/lib-okhttp-wrapper-8.5.3.jar returned status 404
 8.6.0		2026-06-29T13:36:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-okhttp-wrapper/8.6.0/lib-okhttp-wrapper-8.6.0.jar returned status 404
+8.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-okhttp-wrapper/8.6.2/lib-okhttp-wrapper-8.6.2.jar returned status 404
+8.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bihe0832/android/lib-okhttp-wrapper/8.6.6/lib-okhttp-wrapper-8.6.6.jar returned status 404

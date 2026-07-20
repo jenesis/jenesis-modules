@@ -147,6 +147,8 @@
 1.71.5		2026-05-27T02:14:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filament-utils-android/1.71.5/filament-utils-android-1.71.5.jar returned status 404
 1.71.6		2026-06-10T20:42:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filament-utils-android/1.71.6/filament-utils-android-1.71.6.jar returned status 404
 1.72.0		2026-06-17T19:52:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filament-utils-android/1.72.0/filament-utils-android-1.72.0.jar returned status 404
+1.72.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filament-utils-android/1.72.1/filament-utils-android-1.72.1.jar returned status 404
+1.73.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filament-utils-android/1.73.0/filament-utils-android-1.73.0.jar returned status 404
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filament-utils-android/1.8.0/filament-utils-android-1.8.0.jar returned status 404
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filament-utils-android/1.8.1/filament-utils-android-1.8.1.jar returned status 404
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/android/filament/filament-utils-android/1.9.0/filament-utils-android-1.9.0.jar returned status 404

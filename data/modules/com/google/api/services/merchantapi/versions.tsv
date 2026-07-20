@@ -396,3 +396,13 @@ reports_v1beta-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-m
 inventories_v1-rev20260624-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-06-27T08:10:58Z	
 issueresolution_v1beta-rev20260707-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-10T02:22:32Z	
 issueresolution_v1-rev20260707-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-10T02:22:34Z	
+notifications_v1beta-rev20260713-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-16T02:39:53Z	
+quota_v1beta-rev20260713-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-16T02:39:54Z	
+issueresolution_v1-rev20260713-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-16T02:39:56Z	
+issueresolution_v1beta-rev20260713-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-16T02:39:56Z	
+inventories_v1-rev20260713-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-16T02:39:56Z	
+quota_v1-rev20260713-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-16T02:39:57Z	
+notifications_v1-rev20260713-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-16T02:39:57Z	
+reports_v1-rev20260715-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-17T02:43:38Z	
+reports_v1beta-rev20260715-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-17T02:43:38Z	
+products_v1-rev20260715-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-17T02:43:38Z	
