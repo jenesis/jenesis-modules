@@ -140,6 +140,7 @@
 1.41	all	2017-12-22T11:00:37Z	
 1.42		2017-12-22T11:37:16Z	
 1.42	all	2017-12-22T11:37:18Z	
+1.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/bjurr/violations/violations-lib/1.43/violations-lib-1.43.jar returned status 404
 1.43	all	2017-12-22T17:23:01Z	
 1.44		2017-12-22T18:29:47Z	
 1.45		2017-12-24T11:55:19Z	

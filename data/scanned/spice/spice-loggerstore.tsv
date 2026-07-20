@@ -1,3 +1,5 @@
 1.0		2005-11-22T18:25:19Z	
 1.0	b3	2005-04-27T04:47:16Z	
+1.0-b3			
 1.1		2005-11-22T18:25:19Z	
+1.1-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/spice/spice-loggerstore/1.1-dev/spice-loggerstore-1.1-dev.jar returned status 404

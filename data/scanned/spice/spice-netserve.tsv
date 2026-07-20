@@ -5,4 +5,6 @@
 1.1	b3	2005-04-27T04:47:17Z	
 1.1-b1		2005-11-22T18:25:20Z	
 1.1-b2		2005-11-22T18:25:20Z	
+1.1-b3			
+1.1-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/spice/spice-netserve/1.1-dev/spice-netserve-1.1-dev.jar returned status 404
 20031201.225111		2005-08-01T09:47:58Z	

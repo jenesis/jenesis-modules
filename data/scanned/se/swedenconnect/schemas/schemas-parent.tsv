@@ -1,2 +1,9 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/swedenconnect/schemas/schemas-parent/1.0.0/schemas-parent-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/swedenconnect/schemas/schemas-parent/1.0.1/schemas-parent-1.0.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/swedenconnect/schemas/schemas-parent/2.0.0/schemas-parent-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/swedenconnect/schemas/schemas-parent/2.0.1/schemas-parent-2.0.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/swedenconnect/schemas/schemas-parent/3.0.0/schemas-parent-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/swedenconnect/schemas/schemas-parent/3.0.1/schemas-parent-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/swedenconnect/schemas/schemas-parent/3.0.2/schemas-parent-3.0.2.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/swedenconnect/schemas/schemas-parent/3.0.3/schemas-parent-3.0.3.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/swedenconnect/schemas/schemas-parent/3.1.0/schemas-parent-3.1.0.jar returned status 404

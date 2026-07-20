@@ -84,7 +84,10 @@
 0.0.175		2026-06-29T14:32:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/bullhorn/sdk/0.0.175/sdk-0.0.175.jar returned status 404
 0.0.176		2026-07-01T16:18:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/bullhorn/sdk/0.0.176/sdk-0.0.176.jar returned status 404
 0.0.177		2026-07-01T17:37:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/bullhorn/sdk/0.0.177/sdk-0.0.177.jar returned status 404
+0.0.178			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/bullhorn/sdk/0.0.178/sdk-0.0.178.jar returned status 404
+0.0.179			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/bullhorn/sdk/0.0.179/sdk-0.0.179.jar returned status 404
 0.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/bullhorn/sdk/0.0.18/sdk-0.0.18.jar returned status 404
+0.0.180			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/bullhorn/sdk/0.0.180/sdk-0.0.180.jar returned status 404
 0.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/bullhorn/sdk/0.0.19/sdk-0.0.19.jar returned status 404
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/bullhorn/sdk/0.0.2/sdk-0.0.2.jar returned status 404
 0.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fm/bullhorn/sdk/0.0.20/sdk-0.0.20.jar returned status 404

@@ -56,6 +56,7 @@
 1.47	all	2017-12-22T11:40:05Z	
 1.48		2017-12-22T12:31:23Z	
 1.48	all	2017-12-22T12:31:34Z	
+1.49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/bjurr/violations/violation-comments-lib/1.49/violation-comments-lib-1.49.jar returned status 404
 1.5		2016-03-07T16:42:15Z	
 1.50		2017-12-22T18:34:44Z	
 1.51		2017-12-22T18:50:54Z	
