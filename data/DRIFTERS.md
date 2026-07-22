@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-21. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-22. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -354,7 +354,7 @@ org.eclipse.osgi  [renamed `org.eclipse.tycho` -> `org.eclipse.platform` (latest
   ?   io.joynr.tools.generator             2025-01..2026-06 1.26.6               |................====|
   ?   org.alfasoftware                     2021-05..2026-04 2.7.0                |.........===========|
   ?   net.kieker-monitoring                2026-04..2026-04 2.0.3                |...................=|
-  ?   org.bonitasoft.bpm                   2023-10..2026-04 9.0.9                |.............=======|
+  ?   org.bonitasoft.bpm                   2023-10..2026-04 9.0.9                |.............======.|
     + 22 more: de.funfried.libraries, io.github.alien-tools, org.tango-controls, org.tango-controls.pogo, ch.reportingsoft.birt, com.liferay, net.revelc.code.formatter, org.kie.j2cl.tools.external, io.github.dogla, com.vertispan.j2cl.external, fr.inria.gforge.spirals, org.geneweaver, (+10 more)
 zertjsse  [renamed `com.ibm.zertjsse` -> `com.ibm.semeru-zjavasecurity` (latest 11.0.31.0)]
   ? * com.ibm.zertjsse                     2026-05..2026-05 11.0.31.0            |...................=|
@@ -1501,7 +1501,7 @@ java.xml.bind  [no clear owner; `javax.xml.bind` is earliest and most recent]
   ?   org.apache.flink                     2020-02..2026-06 2.3.0                |......==============|
     + 184 more: org.apache.pinot, org.apache.paimon, io.mosip.mock.sdk, org.apache.tika, de.fraunhofer.iosb.ilt, org.metricshub, io.mosip.esignet, org.wso2.msf4j.perftest.echo, org.wso2.msf4j, org.wso2.msf4j.samples, org.wso2.msf4j.sample, org.apache.fluss, (+172 more)
 jdk.internal.vm.compiler  [no clear owner; `org.graalvm.compiler` is earliest and most recent]
-  ? * org.graalvm.compiler                 2018-10..2026-04 23.0.12              |...=================|
+  ? * org.graalvm.compiler                 2018-10..2026-04 23.0.12              |...================.|
   ?   io.vertx                             2022-11..2026-07 4.5.29               |............========|
   ?   org.linuxforhealth.fhir              2022-08..2022-12 5.1.1                |...........==.......|
 jakarta.security.auth.message  [no clear owner; `jakarta.authentication` is earliest and most recent]
@@ -1522,11 +1522,11 @@ java.security.auth.message  [no clear owner; `jakarta.security.auth.message` is 
   ?   org.jboss.spec.javax.security.auth.message 2019-08..2019-09 2.0.1.Final          |.....=..............|
 java.el  [no clear owner; `org.apache.tomcat` is earliest and most recent]
   ? * org.apache.tomcat                    2020-11..2026-07 9.0.120              |........============|
-  ?   com.heroku                           2024-10..2024-10 9.0.96.0             |................=...|
+  ?   com.heroku                           2024-10..2024-10 9.0.96.0             |...............=....|
 java.annotation  [no clear owner; `javax.annotation` is earliest and most recent]
   ? * javax.annotation                     2017-09..2018-02 1.3.2                |.==.................|
   ?   org.apache.tomcat                    2020-09..2026-07 9.0.120              |.......=============|
-  ?   com.heroku                           2024-10..2026-04 9.0.117.0            |................====|
+  ?   com.heroku                           2024-10..2026-04 9.0.117.0            |...............=====|
   ?   one.gfw                              2023-03..2023-03 1.3.5                |............=.......|
   ?   org.rationalityfrontline.workaround  2021-02..2021-02 1.3.2-3.0.2          |........=...........|
   ?   com.guicedee.services                2019-11..2020-11 1.1.0.1-jre15        |......===...........|
@@ -1929,7 +1929,7 @@ vault.java.driver  [no clear owner; `com.bettercloud` is earliest and most recen
   ?   io.axual.utilities.config.providers  2020-06..2024-11 1.2.0                |.......==========...|
   ?   edu.utexas.tacc.tapis                2021-10..2021-10 5.1.2                |.........=..........|
 org.apache.commons.cli  [no clear owner; `commons-cli` is earliest and most recent]
-  ? * commons-cli                          2023-10..2025-11 1.11.0               |..............=====.|
+  ? * commons-cli                          2023-10..2025-11 1.11.0               |.............======.|
   ?   org.teavm                            2024-04..2026-05 0.14.1               |...............=====|
   ?   io.github.vdaburon                   2024-01..2026-05 5.1                  |..............======|
   ?   com.nanolaba                         2025-07..2026-04 1.2                  |.................===|
