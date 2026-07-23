@@ -19,6 +19,7 @@
 0.0.19		2026-06-08T13:30:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/matsumo/fankt/fantia-iosx64/0.0.19/fantia-iosx64-0.0.19.jar returned status 404
 0.0.19	metadata	2026-06-08T13:30:55Z	
 0.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/matsumo/fankt/fantia-iosx64/0.0.20/fantia-iosx64-0.0.20.jar returned status 404
+0.0.20	metadata	2026-07-13T14:28:08Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/matsumo/fankt/fantia-iosx64/0.0.3/fantia-iosx64-0.0.3.jar returned status 404
 0.0.3	metadata	2025-01-07T02:29:40Z	
 0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/matsumo/fankt/fantia-iosx64/0.0.4/fantia-iosx64-0.0.4.jar returned status 404

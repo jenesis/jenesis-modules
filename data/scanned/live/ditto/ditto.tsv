@@ -364,6 +364,7 @@
 4.12.6-preview.X		2026-06-24T20:44:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-preview.X/ditto-4.12.6-preview.X.jar returned status 404
 4.12.6-preview.X	html-docs	2026-06-24T20:44:26Z	
 4.12.6-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-rc.1/ditto-4.12.6-rc.1.jar returned status 404
+4.12.6-rc.1	html-docs	2026-07-16T14:23:16Z	
 4.12.6-tokio-bump.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-tokio-bump.1/ditto-4.12.6-tokio-bump.1.jar returned status 404
 4.12.6-tokio-bump.1	html-docs	2026-04-22T23:31:10Z	
 4.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.13.0/ditto-4.13.0.jar returned status 404

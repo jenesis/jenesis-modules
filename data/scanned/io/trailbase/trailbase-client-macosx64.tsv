@@ -7,4 +7,6 @@
 0.6.0		2026-06-23T20:41:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trailbase/trailbase-client-macosx64/0.6.0/trailbase-client-macosx64-0.6.0.jar returned status 404
 0.6.0	metadata	2026-06-23T20:41:32Z	
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trailbase/trailbase-client-macosx64/0.7.0/trailbase-client-macosx64-0.7.0.jar returned status 404
+0.7.0	metadata	2026-07-17T12:52:43Z	
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trailbase/trailbase-client-macosx64/0.7.1/trailbase-client-macosx64-0.7.1.jar returned status 404
+0.7.1	metadata	2026-07-17T18:23:10Z	

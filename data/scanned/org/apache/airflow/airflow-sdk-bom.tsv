@@ -1,0 +1,1 @@
+1.0.0-beta1		2026-07-09T06:19:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/airflow/airflow-sdk-bom/1.0.0-beta1/airflow-sdk-bom-1.0.0-beta1.jar returned status 404

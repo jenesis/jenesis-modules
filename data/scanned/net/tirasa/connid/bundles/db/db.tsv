@@ -14,3 +14,4 @@
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tirasa/connid/bundles/db/db/2.4.0/db-2.4.0.jar returned status 404
 2.4.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tirasa/connid/bundles/db/db/2.4.0-RC1/db-2.4.0-RC1.jar returned status 404
 2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tirasa/connid/bundles/db/db/2.4.1/db-2.4.1.jar returned status 404
+2.4.2		2026-07-15T12:54:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tirasa/connid/bundles/db/db/2.4.2/db-2.4.2.jar returned status 404

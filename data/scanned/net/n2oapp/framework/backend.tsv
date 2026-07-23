@@ -356,6 +356,7 @@
 7.29.21		2026-06-23T11:13:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/backend/7.29.21/backend-7.29.21.jar returned status 404
 7.29.22		2026-07-03T10:51:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/backend/7.29.22/backend-7.29.22.jar returned status 404
 7.29.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/backend/7.29.23/backend-7.29.23.jar returned status 404
+7.29.24		2026-07-17T09:58:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/backend/7.29.24/backend-7.29.24.jar returned status 404
 7.29.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/backend/7.29.3/backend-7.29.3.jar returned status 404
 7.29.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/backend/7.29.4/backend-7.29.4.jar returned status 404
 7.29.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/backend/7.29.5/backend-7.29.5.jar returned status 404

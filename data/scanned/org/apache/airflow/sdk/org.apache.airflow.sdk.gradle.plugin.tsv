@@ -1,0 +1,1 @@
+1.0.0-beta1		2026-07-09T06:20:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/airflow/sdk/org.apache.airflow.sdk.gradle.plugin/1.0.0-beta1/org.apache.airflow.sdk.gradle.plugin-1.0.0-beta1.jar returned status 404

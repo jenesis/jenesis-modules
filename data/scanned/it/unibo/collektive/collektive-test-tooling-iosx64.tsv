@@ -667,6 +667,7 @@
 28.3.0		2026-06-27T16:34:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.0/collektive-test-tooling-iosx64-28.3.0.jar returned status 404
 28.3.0	metadata	2026-06-27T16:34:40Z	
 28.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1/collektive-test-tooling-iosx64-28.3.1.jar returned status 404
+28.3.1	metadata	2026-07-18T19:47:42Z	
 28.3.1-dev01+a307b40e		2026-06-27T17:35:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev01+a307b40e/collektive-test-tooling-iosx64-28.3.1-dev01+a307b40e.jar returned status 404
 28.3.1-dev01+a307b40e	metadata	2026-06-27T17:35:59Z	
 28.3.1-dev03+48579376		2026-06-27T20:51:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev03+48579376/collektive-test-tooling-iosx64-28.3.1-dev03+48579376.jar returned status 404
@@ -682,19 +683,36 @@
 28.3.1-dev0c+f6b1bb6b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0c+f6b1bb6b/collektive-test-tooling-iosx64-28.3.1-dev0c+f6b1bb6b.jar returned status 404
 28.3.1-dev0c+f6b1bb6b	metadata	2026-07-08T07:32:35Z	
 28.3.1-dev0i+43ae7822			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0i+43ae7822/collektive-test-tooling-iosx64-28.3.1-dev0i+43ae7822.jar returned status 404
+28.3.1-dev0i+43ae7822	metadata	2026-07-18T06:26:16Z	
 28.3.1-dev0i+54826115			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0i+54826115/collektive-test-tooling-iosx64-28.3.1-dev0i+54826115.jar returned status 404
+28.3.1-dev0i+54826115	metadata	2026-07-18T05:06:59Z	
 28.3.1-dev0i+717bfe0b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0i+717bfe0b/collektive-test-tooling-iosx64-28.3.1-dev0i+717bfe0b.jar returned status 404
+28.3.1-dev0i+717bfe0b	metadata	2026-07-18T05:26:08Z	
 28.3.1-dev0i+b19ac337			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0i+b19ac337/collektive-test-tooling-iosx64-28.3.1-dev0i+b19ac337.jar returned status 404
+28.3.1-dev0i+b19ac337	metadata	2026-07-18T06:31:24Z	
 28.3.1-dev0i+d26acf66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0i+d26acf66/collektive-test-tooling-iosx64-28.3.1-dev0i+d26acf66.jar returned status 404
+28.3.1-dev0i+d26acf66	metadata	2026-07-18T05:15:18Z	
 28.3.1-dev0j+062d8676			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0j+062d8676/collektive-test-tooling-iosx64-28.3.1-dev0j+062d8676.jar returned status 404
+28.3.1-dev0j+062d8676	metadata	2026-07-18T07:54:53Z	
 28.3.1-dev0j+7deb9d59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0j+7deb9d59/collektive-test-tooling-iosx64-28.3.1-dev0j+7deb9d59.jar returned status 404
+28.3.1-dev0j+7deb9d59	metadata	2026-07-18T07:51:25Z	
 28.3.1-dev0k+31a86e86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0k+31a86e86/collektive-test-tooling-iosx64-28.3.1-dev0k+31a86e86.jar returned status 404
+28.3.1-dev0k+31a86e86	metadata	2026-07-18T09:11:03Z	
 28.3.1-dev0l+1f255153			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0l+1f255153/collektive-test-tooling-iosx64-28.3.1-dev0l+1f255153.jar returned status 404
+28.3.1-dev0l+1f255153	metadata	2026-07-18T10:40:05Z	
 28.3.1-dev0l+38783331			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0l+38783331/collektive-test-tooling-iosx64-28.3.1-dev0l+38783331.jar returned status 404
+28.3.1-dev0l+38783331	metadata	2026-07-18T10:36:39Z	
 28.3.1-dev0m+66b96a83			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0m+66b96a83/collektive-test-tooling-iosx64-28.3.1-dev0m+66b96a83.jar returned status 404
+28.3.1-dev0m+66b96a83	metadata	2026-07-18T12:07:36Z	
 28.3.1-dev0m+f7252561			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0m+f7252561/collektive-test-tooling-iosx64-28.3.1-dev0m+f7252561.jar returned status 404
+28.3.1-dev0m+f7252561	metadata	2026-07-18T12:21:45Z	
 28.3.1-dev0n+4099e6ae			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0n+4099e6ae/collektive-test-tooling-iosx64-28.3.1-dev0n+4099e6ae.jar returned status 404
+28.3.1-dev0n+4099e6ae	metadata	2026-07-18T13:42:05Z	
 28.3.1-dev0n+d2e7ddef			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0n+d2e7ddef/collektive-test-tooling-iosx64-28.3.1-dev0n+d2e7ddef.jar returned status 404
+28.3.1-dev0n+d2e7ddef	metadata	2026-07-18T13:36:18Z	
 28.3.1-dev0o+70c0a5c5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0o+70c0a5c5/collektive-test-tooling-iosx64-28.3.1-dev0o+70c0a5c5.jar returned status 404
+28.3.1-dev0o+70c0a5c5	metadata	2026-07-18T14:48:53Z	
 28.3.1-dev0o+9a0de632			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0o+9a0de632/collektive-test-tooling-iosx64-28.3.1-dev0o+9a0de632.jar returned status 404
+28.3.1-dev0o+9a0de632	metadata	2026-07-18T15:12:27Z	
 28.3.1-dev0q+902c28e8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-iosx64/28.3.1-dev0q+902c28e8/collektive-test-tooling-iosx64-28.3.1-dev0q+902c28e8.jar returned status 404
+28.3.1-dev0q+902c28e8	metadata	2026-07-18T17:49:16Z	

@@ -6173,3 +6173,5 @@
 2.31.1	named	com.aliyun	websitebuild20250429	2026-07-13T17:31:50Z	2.11.0
 5.2.1	named	com.aliyun	btripopen20220520	2026-07-13T17:33:12Z	2.11.0
 4.5.0	named	com.aliyun	alidns20150109	2026-07-13T17:33:26Z	2.11.0
+3.37.3	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-07-15T08:19:14Z	2.10
+3.38.0.CR1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-07-15T08:43:18Z	2.10
