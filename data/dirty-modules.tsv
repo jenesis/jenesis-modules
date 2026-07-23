@@ -1148,3 +1148,7 @@ com.nimbusds.oauth2.sdk
 com.nimbusds.jose.jwt
 com.netflix.spectator.spark
 com.netflix.spectator.agent
+com.microsoft.aad.msal4j
+com.maxmind.minfraud
+com.mailvoidr.springboot
+org.objectweb.asm.commons

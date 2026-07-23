@@ -15,3 +15,4 @@
 0.4.1		2026-06-04T14:04:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/hauler-iossimulatorarm64/0.4.1/hauler-iossimulatorarm64-0.4.1.jar returned status 404
 0.4.1	metadata	2026-06-04T14:04:00Z	
 0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/hauler-iossimulatorarm64/0.4.2/hauler-iossimulatorarm64-0.4.2.jar returned status 404
+0.4.2	metadata	2026-07-15T15:24:51Z	

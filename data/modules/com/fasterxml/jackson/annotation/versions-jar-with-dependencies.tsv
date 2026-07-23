@@ -5231,4 +5231,5 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 7.0.0-RC5	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-17T04:23:21Z	2.21
 0.2.0	named	io.github.tibyaan-org	tibyan-cli	2026-07-17T07:34:04Z	2.18.2
 11.5.1-beta-1	named	fr.inria.gforge.spoon	spoon-core	2026-07-19T03:40:41Z	2.22
+6.3.1	named	com.messagebird	messagebird-api	2026-07-20T14:24:57Z	2.13.2
 8.727.33	named	com.yahoo.vespa	config-application-package	2026-07-21T03:48:10Z	2.22

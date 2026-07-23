@@ -56,3 +56,5 @@
 24.0.0		2026-06-26T21:05:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/xml/24.0.0/xml-24.0.0.jar returned status 404
 24.0.1		2026-06-26T21:42:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/xml/24.0.1/xml-24.0.1.jar returned status 404
 24.1.0		2026-07-07T20:37:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/xml/24.1.0/xml-24.1.0.jar returned status 404
+24.2.0		2026-07-20T20:33:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/xml/24.2.0/xml-24.2.0.jar returned status 404
+24.3.0		2026-07-21T20:05:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/xml/24.3.0/xml-24.3.0.jar returned status 404

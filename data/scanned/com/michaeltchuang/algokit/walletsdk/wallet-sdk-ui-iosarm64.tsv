@@ -56,3 +56,7 @@
 3.202602.8	metadata	2026-06-26T21:09:43Z	
 3.202603.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/michaeltchuang/algokit/walletsdk/wallet-sdk-ui-iosarm64/3.202603.0/wallet-sdk-ui-iosarm64-3.202603.0.jar returned status 404
 3.202603.0	metadata	2026-07-07T21:29:34Z	
+3.202603.1		2026-07-12T07:12:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/michaeltchuang/algokit/walletsdk/wallet-sdk-ui-iosarm64/3.202603.1/wallet-sdk-ui-iosarm64-3.202603.1.jar returned status 404
+3.202603.1	metadata	2026-07-12T07:12:36Z	
+3.202603.2		2026-07-21T04:03:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/michaeltchuang/algokit/walletsdk/wallet-sdk-ui-iosarm64/3.202603.2/wallet-sdk-ui-iosarm64-3.202603.2.jar returned status 404
+3.202603.2	metadata	2026-07-21T04:03:10Z	

@@ -6,3 +6,4 @@
 7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/engage-android/7.0.2/engage-android-7.0.2.jar returned status 404
 7.1.0		2026-06-12T09:36:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/engage-android/7.1.0/engage-android-7.1.0.jar returned status 404
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/engage-android/7.1.1/engage-android-7.1.1.jar returned status 404
+7.1.2-beta01		2026-07-21T13:15:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/engage-android/7.1.2-beta01/engage-android-7.1.2-beta01.jar returned status 404
