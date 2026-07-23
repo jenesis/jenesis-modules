@@ -21,14 +21,31 @@
 6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.10.0/buffer-crypto-watchosx64-6.10.0.jar returned status 404
 6.10.0	metadata	2026-07-12T22:14:00Z	
 6.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.10.1/buffer-crypto-watchosx64-6.10.1.jar returned status 404
+6.10.1	metadata	2026-07-14T16:16:42Z	
 6.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.10.2/buffer-crypto-watchosx64-6.10.2.jar returned status 404
+6.10.2	metadata	2026-07-14T18:55:43Z	
 6.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.11.0/buffer-crypto-watchosx64-6.11.0.jar returned status 404
+6.11.0	metadata	2026-07-14T20:20:30Z	
 6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.12.0/buffer-crypto-watchosx64-6.12.0.jar returned status 404
+6.12.0	metadata	2026-07-15T17:01:35Z	
 6.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.13.0/buffer-crypto-watchosx64-6.13.0.jar returned status 404
+6.13.0	metadata	2026-07-15T19:38:37Z	
 6.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.13.1/buffer-crypto-watchosx64-6.13.1.jar returned status 404
+6.13.1	metadata	2026-07-15T21:20:09Z	
 6.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.14.0/buffer-crypto-watchosx64-6.14.0.jar returned status 404
+6.14.0	metadata	2026-07-18T21:10:17Z	
 6.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.15.0/buffer-crypto-watchosx64-6.15.0.jar returned status 404
+6.15.0	metadata	2026-07-19T17:44:20Z	
 6.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.16.0/buffer-crypto-watchosx64-6.16.0.jar returned status 404
+6.16.0	metadata	2026-07-19T19:01:56Z	
+6.16.1		2026-07-20T22:48:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.16.1/buffer-crypto-watchosx64-6.16.1.jar returned status 404
+6.16.1	metadata	2026-07-20T22:48:36Z	
+6.17.0		2026-07-21T00:32:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.17.0/buffer-crypto-watchosx64-6.17.0.jar returned status 404
+6.17.0	metadata	2026-07-21T00:32:45Z	
+6.17.1		2026-07-21T02:40:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.17.1/buffer-crypto-watchosx64-6.17.1.jar returned status 404
+6.17.1	metadata	2026-07-21T02:39:55Z	
+6.17.2		2026-07-21T22:16:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.17.2/buffer-crypto-watchosx64-6.17.2.jar returned status 404
+6.17.2	metadata	2026-07-21T22:16:51Z	
 6.2.0		2026-07-02T00:41:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.2.0/buffer-crypto-watchosx64-6.2.0.jar returned status 404
 6.2.0	metadata	2026-07-02T00:41:39Z	
 6.3.0		2026-07-02T15:23:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-crypto-watchosx64/6.3.0/buffer-crypto-watchosx64-6.3.0.jar returned status 404

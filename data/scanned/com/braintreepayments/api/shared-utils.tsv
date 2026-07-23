@@ -97,6 +97,7 @@
 5.28.1		2026-06-01T19:34:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/shared-utils/5.28.1/shared-utils-5.28.1.jar returned status 404
 5.29.0		2026-06-30T19:32:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/shared-utils/5.29.0/shared-utils-5.29.0.jar returned status 404
 5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/shared-utils/5.3.0/shared-utils-5.3.0.jar returned status 404
+5.30.0		2026-07-21T20:27:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/shared-utils/5.30.0/shared-utils-5.30.0.jar returned status 404
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/shared-utils/5.4.0/shared-utils-5.4.0.jar returned status 404
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/shared-utils/5.5.0/shared-utils-5.5.0.jar returned status 404
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/braintreepayments/api/shared-utils/5.6.0/shared-utils-5.6.0.jar returned status 404

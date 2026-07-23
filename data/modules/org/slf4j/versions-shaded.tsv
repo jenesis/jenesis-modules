@@ -384,3 +384,8 @@
 26.7.2	named	com.arcadedb	arcadedb-tracing	2026-07-09T03:05:30Z	2.0.18
 26.7.2	named	com.arcadedb	arcadedb-postgresw	2026-07-09T03:05:31Z	2.0.18
 26.7.2	named	com.arcadedb	arcadedb-bolt	2026-07-09T03:05:32Z	2.0.18
+26.7.3	named	com.arcadedb	arcadedb-metrics	2026-07-17T17:20:33Z	2.0.18
+26.7.3	named	com.arcadedb	arcadedb-redisw	2026-07-17T17:20:33Z	2.0.18
+26.7.3	named	com.arcadedb	arcadedb-bolt	2026-07-17T17:20:35Z	2.0.18
+26.7.3	named	com.arcadedb	arcadedb-postgresw	2026-07-17T17:20:35Z	2.0.18
+26.7.3	named	com.arcadedb	arcadedb-tracing	2026-07-17T17:20:35Z	2.0.18

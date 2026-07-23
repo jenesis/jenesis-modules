@@ -63,6 +63,7 @@
 12.40.0		2026-07-08T10:00:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blue-id/access/12.40.0/access-12.40.0.jar returned status 404
 12.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blue-id/access/12.41.0/access-12.41.0.jar returned status 404
 12.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blue-id/access/12.42.0/access-12.42.0.jar returned status 404
+12.43.0		2026-07-22T15:44:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blue-id/access/12.43.0/access-12.43.0.jar returned status 404
 12.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blue-id/access/12.5.0/access-12.5.0.jar returned status 404
 12.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blue-id/access/12.6.0/access-12.6.0.jar returned status 404
 12.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blue-id/access/12.9.0/access-12.9.0.jar returned status 404

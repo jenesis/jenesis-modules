@@ -3,7 +3,9 @@
 0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blu3berry/kraft/kraft-annotations-iosarm64/0.10.1/kraft-annotations-iosarm64-0.10.1.jar returned status 404
 0.10.1	metadata	2026-07-10T10:05:44Z	
 0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blu3berry/kraft/kraft-annotations-iosarm64/0.11.0/kraft-annotations-iosarm64-0.11.0.jar returned status 404
+0.11.0	metadata	2026-07-16T09:07:45Z	
 0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blu3berry/kraft/kraft-annotations-iosarm64/0.12.0/kraft-annotations-iosarm64-0.12.0.jar returned status 404
+0.12.0	metadata	2026-07-18T15:15:42Z	
 0.4.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blu3berry/kraft/kraft-annotations-iosarm64/0.4.0-RC1/kraft-annotations-iosarm64-0.4.0-RC1.jar returned status 404
 0.4.0-RC1	metadata	2026-03-29T13:28:21Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/blu3berry/kraft/kraft-annotations-iosarm64/0.5.0/kraft-annotations-iosarm64-0.5.0.jar returned status 404
