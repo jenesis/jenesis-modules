@@ -21,3 +21,6 @@
 3.5.3		2026-07-06T15:26:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-iosx64/3.5.3/cmp-app-intents-iosx64-3.5.3.jar returned status 404
 3.5.3	metadata	2026-07-06T15:26:54Z	
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-iosx64/3.5.4/cmp-app-intents-iosx64-3.5.4.jar returned status 404
+3.5.4	metadata	2026-07-15T17:39:07Z	
+3.5.5		2026-07-20T03:27:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-iosx64/3.5.5/cmp-app-intents-iosx64-3.5.5.jar returned status 404
+3.5.5	metadata	2026-07-20T03:27:24Z	

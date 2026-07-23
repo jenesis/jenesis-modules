@@ -23,3 +23,4 @@
 3.5.2		2026-06-22T04:46:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-linuxx64/3.5.2/cmp-bubble-linuxx64-3.5.2.jar returned status 404
 3.5.3		2026-07-06T15:29:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-linuxx64/3.5.3/cmp-bubble-linuxx64-3.5.3.jar returned status 404
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-linuxx64/3.5.4/cmp-bubble-linuxx64-3.5.4.jar returned status 404
+3.5.5		2026-07-20T03:38:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-linuxx64/3.5.5/cmp-bubble-linuxx64-3.5.5.jar returned status 404

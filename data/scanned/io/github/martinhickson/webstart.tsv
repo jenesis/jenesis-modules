@@ -1,0 +1,2 @@
+1.2.1-bravura		2026-07-17T20:53:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/martinhickson/webstart/1.2.1-bravura/webstart-1.2.1-bravura.jar returned status 404
+1.2.4-bravura		2026-07-17T21:46:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/martinhickson/webstart/1.2.4-bravura/webstart-1.2.4-bravura.jar returned status 404

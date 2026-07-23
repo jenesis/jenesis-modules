@@ -47,3 +47,6 @@
 3.5.3		2026-07-06T15:18:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-iossimulatorarm64/3.5.3/cmp-open-url-iossimulatorarm64-3.5.3.jar returned status 404
 3.5.3	metadata	2026-07-06T15:18:06Z	
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-iossimulatorarm64/3.5.4/cmp-open-url-iossimulatorarm64-3.5.4.jar returned status 404
+3.5.4	metadata	2026-07-15T17:48:38Z	
+3.5.5		2026-07-20T03:44:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-iossimulatorarm64/3.5.5/cmp-open-url-iossimulatorarm64-3.5.5.jar returned status 404
+3.5.5	metadata	2026-07-20T03:44:41Z	
