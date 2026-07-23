@@ -15,3 +15,4 @@
 5.1.0-alpha09		2026-06-11T23:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mobilenativefoundation/store/core5-iosx64/5.1.0-alpha09/core5-iosx64-5.1.0-alpha09.jar returned status 404
 5.1.0-alpha09	metadata	2026-06-11T23:27:11Z	
 5.1.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mobilenativefoundation/store/core5-iosx64/5.1.0-alpha10/core5-iosx64-5.1.0-alpha10.jar returned status 404
+5.1.0-alpha10	metadata	2026-07-13T12:10:38Z	

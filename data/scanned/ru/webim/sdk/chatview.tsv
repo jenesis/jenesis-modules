@@ -15,3 +15,6 @@
 2.0.0		2026-06-25T01:55:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/webim/sdk/chatview/2.0.0/chatview-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/webim/sdk/chatview/2.0.1/chatview-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/webim/sdk/chatview/2.0.2/chatview-2.0.2.jar returned status 404
+2.0.3		2026-07-14T15:19:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/webim/sdk/chatview/2.0.3/chatview-2.0.3.jar returned status 404
+2.0.4		2026-07-16T13:23:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/webim/sdk/chatview/2.0.4/chatview-2.0.4.jar returned status 404
+2.0.5		2026-07-17T16:10:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/webim/sdk/chatview/2.0.5/chatview-2.0.5.jar returned status 404

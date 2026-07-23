@@ -1,0 +1,4 @@
+0.0.1		2026-07-10T22:48:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pw/binom/dns/core-tvossimulatorarm64/0.0.1/core-tvossimulatorarm64-0.0.1.jar returned status 404
+0.0.1	metadata	2026-07-10T22:48:45Z	
+0.0.2		2026-07-11T15:05:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pw/binom/dns/core-tvossimulatorarm64/0.0.2/core-tvossimulatorarm64-0.0.2.jar returned status 404
+0.0.2	metadata	2026-07-11T15:05:23Z	

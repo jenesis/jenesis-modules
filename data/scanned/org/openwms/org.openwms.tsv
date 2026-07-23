@@ -1,0 +1,2 @@
+3.1.0		2026-07-11T12:12:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openwms/org.openwms/3.1.0/org.openwms-3.1.0.jar returned status 404
+4.0.0		2026-07-13T06:36:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openwms/org.openwms/4.0.0/org.openwms-4.0.0.jar returned status 404

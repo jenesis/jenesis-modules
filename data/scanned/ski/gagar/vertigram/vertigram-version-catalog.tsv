@@ -1,0 +1,2 @@
+1.0.0-beta1		2026-07-11T22:18:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ski/gagar/vertigram/vertigram-version-catalog/1.0.0-beta1/vertigram-version-catalog-1.0.0-beta1.jar returned status 404
+1.0.0-beta3		2026-07-12T14:10:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ski/gagar/vertigram/vertigram-version-catalog/1.0.0-beta3/vertigram-version-catalog-1.0.0-beta3.jar returned status 404

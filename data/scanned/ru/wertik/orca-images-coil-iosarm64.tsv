@@ -14,3 +14,5 @@
 0.14.0	metadata	2026-07-03T16:08:54Z	
 0.15.0		2026-07-03T17:35:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-images-coil-iosarm64/0.15.0/orca-images-coil-iosarm64-0.15.0.jar returned status 404
 0.15.0	metadata	2026-07-03T17:35:41Z	
+0.20.0		2026-07-13T13:52:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-images-coil-iosarm64/0.20.0/orca-images-coil-iosarm64-0.20.0.jar returned status 404
+0.20.0	metadata	2026-07-13T13:52:02Z	

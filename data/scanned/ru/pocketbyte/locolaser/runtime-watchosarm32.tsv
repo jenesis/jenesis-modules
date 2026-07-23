@@ -10,3 +10,5 @@
 2.5.0	metadata	2024-10-27T14:01:47Z	
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/pocketbyte/locolaser/runtime-watchosarm32/2.6.0/runtime-watchosarm32-2.6.0.jar returned status 404
 2.6.0	metadata	2026-03-12T21:26:47Z	
+2.7.0		2026-07-18T08:17:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/pocketbyte/locolaser/runtime-watchosarm32/2.7.0/runtime-watchosarm32-2.7.0.jar returned status 404
+2.7.0	metadata	2026-07-18T08:17:51Z	
