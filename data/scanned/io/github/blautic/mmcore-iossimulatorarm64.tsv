@@ -109,8 +109,11 @@
 2.0.11		2026-05-29T09:03:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-iossimulatorarm64/2.0.11/mmcore-iossimulatorarm64-2.0.11.jar returned status 404
 2.0.11	metadata	2026-05-29T09:03:34Z	
 2.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-iossimulatorarm64/2.0.12/mmcore-iossimulatorarm64-2.0.12.jar returned status 404
+2.0.12	metadata	2026-07-17T09:35:56Z	
 2.0.12b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-iossimulatorarm64/2.0.12b/mmcore-iossimulatorarm64-2.0.12b.jar returned status 404
+2.0.12b	metadata	2026-07-17T10:22:14Z	
 2.0.12c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-iossimulatorarm64/2.0.12c/mmcore-iossimulatorarm64-2.0.12c.jar returned status 404
+2.0.12c	metadata	2026-07-17T10:42:48Z	
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-iossimulatorarm64/2.0.2/mmcore-iossimulatorarm64-2.0.2.jar returned status 404
 2.0.2	metadata	2026-03-26T09:23:39Z	
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blautic/mmcore-iossimulatorarm64/2.0.3/mmcore-iossimulatorarm64-2.0.3.jar returned status 404

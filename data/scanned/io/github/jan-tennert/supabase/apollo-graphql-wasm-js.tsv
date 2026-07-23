@@ -39,4 +39,5 @@
 3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/apollo-graphql-wasm-js/3.4.1/apollo-graphql-wasm-js-3.4.1.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/apollo-graphql-wasm-js/3.5.0/apollo-graphql-wasm-js-3.5.0.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/apollo-graphql-wasm-js/3.6.0/apollo-graphql-wasm-js-3.6.0.jar returned status 404
+3.7.0		2026-07-20T18:27:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/apollo-graphql-wasm-js/3.7.0/apollo-graphql-wasm-js-3.7.0.jar returned status 404
 3.7.0-beta-1		2026-07-03T16:29:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/apollo-graphql-wasm-js/3.7.0-beta-1/apollo-graphql-wasm-js-3.7.0-beta-1.jar returned status 404

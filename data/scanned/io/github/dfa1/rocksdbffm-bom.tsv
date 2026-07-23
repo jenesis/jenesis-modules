@@ -1,1 +1,2 @@
 0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/rocksdbffm-bom/0.5/rocksdbffm-bom-0.5.jar returned status 404
+0.6		2026-07-20T17:44:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/rocksdbffm-bom/0.6/rocksdbffm-bom-0.6.jar returned status 404

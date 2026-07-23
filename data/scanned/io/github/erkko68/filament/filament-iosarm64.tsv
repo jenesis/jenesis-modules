@@ -29,7 +29,10 @@
 0.1.3-beta02		2026-06-25T19:22:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/filament-iosarm64/0.1.3-beta02/filament-iosarm64-0.1.3-beta02.jar returned status 404
 0.1.3-beta02	metadata	2026-06-25T19:22:21Z	
 0.1.3-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/filament-iosarm64/0.1.3-beta03/filament-iosarm64-0.1.3-beta03.jar returned status 404
+0.1.3-beta03	metadata	2026-07-11T22:03:02Z	
 0.1.3-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/filament-iosarm64/0.1.3-beta04/filament-iosarm64-0.1.3-beta04.jar returned status 404
+0.1.3-beta04	metadata	2026-07-13T14:11:22Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/filament-iosarm64/0.2.0/filament-iosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-07-17T19:11:10Z	
 v0.1.0-alpha01		2026-05-18T20:39:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/filament-iosarm64/v0.1.0-alpha01/filament-iosarm64-v0.1.0-alpha01.jar returned status 404
 v0.1.0-alpha01	metadata	2026-05-18T20:39:44Z	

@@ -1,0 +1,4 @@
+0.10.0		2026-07-18T18:53:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darkryh/context-zero/core-wasm-js/0.10.0/core-wasm-js-0.10.0.jar returned status 404
+0.10.1		2026-07-18T21:25:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darkryh/context-zero/core-wasm-js/0.10.1/core-wasm-js-0.10.1.jar returned status 404
+0.11.0		2026-07-19T23:40:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darkryh/context-zero/core-wasm-js/0.11.0/core-wasm-js-0.11.0.jar returned status 404
+0.9.2		2026-07-18T14:53:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darkryh/context-zero/core-wasm-js/0.9.2/core-wasm-js-0.9.2.jar returned status 404

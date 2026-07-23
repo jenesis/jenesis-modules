@@ -1,4 +1,8 @@
 1.0.0		2026-06-20T14:20:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cheerwizard/print-lib-iossimulatorarm64/1.0.0/print-lib-iossimulatorarm64-1.0.0.jar returned status 404
 1.0.0	metadata	2026-06-20T14:20:39Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cheerwizard/print-lib-iossimulatorarm64/1.0.1/print-lib-iossimulatorarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-07-16T22:29:43Z	
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cheerwizard/print-lib-iossimulatorarm64/1.0.3/print-lib-iossimulatorarm64-1.0.3.jar returned status 404
+1.0.3	metadata	2026-07-17T21:00:39Z	
+1.0.4		2026-07-20T09:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cheerwizard/print-lib-iossimulatorarm64/1.0.4/print-lib-iossimulatorarm64-1.0.4.jar returned status 404
+1.0.4	metadata	2026-07-20T09:28:47Z	
