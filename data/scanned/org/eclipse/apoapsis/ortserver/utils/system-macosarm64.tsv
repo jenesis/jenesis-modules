@@ -115,3 +115,4 @@
 0.80.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-macosarm64/0.80.0/system-macosarm64-0.80.0.jar returned status 404
 0.80.0	metadata	2026-07-10T13:02:06Z	
 0.80.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/utils/system-macosarm64/0.80.1/system-macosarm64-0.80.1.jar returned status 404
+0.80.1	metadata	2026-07-15T07:28:59Z	

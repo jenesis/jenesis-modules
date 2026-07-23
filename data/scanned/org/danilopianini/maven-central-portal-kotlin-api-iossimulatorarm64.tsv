@@ -399,6 +399,7 @@
 4.3.0		2026-06-25T15:02:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.0/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.0.jar returned status 404
 4.3.0	metadata	2026-06-25T15:02:53Z	
 4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.1/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.1.jar returned status 404
+4.3.1	metadata	2026-07-14T17:59:01Z	
 4.3.1-dev01+5d30506		2026-06-25T19:32:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.1-dev01+5d30506/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.1-dev01+5d30506.jar returned status 404
 4.3.1-dev01+5d30506	metadata	2026-06-25T19:32:42Z	
 4.3.1-dev03+0127258		2026-06-26T16:27:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.1-dev03+0127258/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.1-dev03+0127258.jar returned status 404
@@ -414,9 +415,16 @@
 4.3.1-dev08+7f179b6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.1-dev08+7f179b6/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.1-dev08+7f179b6.jar returned status 404
 4.3.1-dev08+7f179b6	metadata	2026-07-07T22:38:11Z	
 4.3.1-dev0b+64661bf			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.1-dev0b+64661bf/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.1-dev0b+64661bf.jar returned status 404
+4.3.1-dev0b+64661bf	metadata	2026-07-14T14:23:06Z	
 4.3.1-dev0b+6acec95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.1-dev0b+6acec95/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.1-dev0b+6acec95.jar returned status 404
+4.3.1-dev0b+6acec95	metadata	2026-07-14T14:28:41Z	
 4.3.1-dev0b+8fc6dae			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.1-dev0b+8fc6dae/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.1-dev0b+8fc6dae.jar returned status 404
+4.3.1-dev0b+8fc6dae	metadata	2026-07-14T14:24:24Z	
 4.3.1-dev0c+5d47d9f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.1-dev0c+5d47d9f/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.1-dev0c+5d47d9f.jar returned status 404
+4.3.1-dev0c+5d47d9f	metadata	2026-07-14T15:20:23Z	
 4.3.1-dev0d+b442477			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.1-dev0d+b442477/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.1-dev0d+b442477.jar returned status 404
+4.3.1-dev0d+b442477	metadata	2026-07-14T16:11:44Z	
 4.3.2-dev01+d46670a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.2-dev01+d46670a/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.2-dev01+d46670a.jar returned status 404
+4.3.2-dev01+d46670a	metadata	2026-07-14T21:50:03Z	
 4.3.2-dev02+6c030fa			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iossimulatorarm64/4.3.2-dev02+6c030fa/maven-central-portal-kotlin-api-iossimulatorarm64-4.3.2-dev02+6c030fa.jar returned status 404
+4.3.2-dev02+6c030fa	metadata	2026-07-17T01:36:39Z	

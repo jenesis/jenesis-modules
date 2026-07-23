@@ -11,3 +11,4 @@
 2.0.3		2026-06-18T17:24:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/example/fluxnova-example-invoice/2.0.3/fluxnova-example-invoice-2.0.3.jar returned status 404
 2.0.3	classes	2026-06-18T17:24:15Z	
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/example/fluxnova-example-invoice/3.0.0/fluxnova-example-invoice-3.0.0.jar returned status 404
+3.0.0	classes	2026-07-17T21:59:28Z	

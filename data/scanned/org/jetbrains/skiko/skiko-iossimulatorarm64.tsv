@@ -11,6 +11,7 @@
 0.150.0		2026-06-19T10:14:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-iossimulatorarm64/0.150.0/skiko-iossimulatorarm64-0.150.0.jar returned status 404
 0.150.0	metadata	2026-06-19T10:14:25Z	
 0.150.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-iossimulatorarm64/0.150.1/skiko-iossimulatorarm64-0.150.1.jar returned status 404
+0.150.1	metadata	2026-07-02T14:17:08Z	
 0.7.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-iossimulatorarm64/0.7.32/skiko-iossimulatorarm64-0.7.32.jar returned status 404
 0.7.32	metadata	2022-09-08T09:32:03Z	
 0.7.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/skiko/skiko-iossimulatorarm64/0.7.34/skiko-iossimulatorarm64-0.7.34.jar returned status 404

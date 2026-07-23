@@ -1,0 +1,2 @@
+2.3.0		2026-07-10T19:57:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/statistics/dkpro-statistics/2.3.0/dkpro-statistics-2.3.0.jar returned status 404
+2.3.1		2026-07-11T17:02:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/statistics/dkpro-statistics/2.3.1/dkpro-statistics-2.3.1.jar returned status 404

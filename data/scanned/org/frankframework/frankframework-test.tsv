@@ -15,6 +15,13 @@
 10.0.1	scenarios	2026-04-17T16:08:13Z	
 10.0.1	secrets	2026-04-17T16:08:14Z	
 10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-test/10.0.2/frankframework-test-10.0.2.jar returned status 404
+10.0.2	classes	2026-07-14T15:16:17Z	
+10.0.2	configurations	2026-07-14T15:16:17Z	
+10.0.2	context	2026-07-14T15:16:18Z	
+10.0.2	full-configuration	2026-07-14T15:16:17Z	
+10.0.2	resources	2026-07-14T15:16:16Z	
+10.0.2	scenarios	2026-07-14T15:16:16Z	
+10.0.2	secrets	2026-07-14T15:16:16Z	
 10.1.0		2026-04-23T14:13:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-test/10.1.0/frankframework-test-10.1.0.jar returned status 404
 10.1.0	classes	2026-04-23T14:13:47Z	
 10.1.0	configurations	2026-04-23T14:13:49Z	
@@ -24,7 +31,21 @@
 10.1.0	scenarios	2026-04-23T14:13:48Z	
 10.1.0	secrets	2026-04-23T14:13:47Z	
 10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-test/10.1.1/frankframework-test-10.1.1.jar returned status 404
+10.1.1	classes	2026-07-15T10:06:03Z	
+10.1.1	configurations	2026-07-15T10:06:02Z	
+10.1.1	context	2026-07-15T10:06:02Z	
+10.1.1	full-configuration	2026-07-15T10:06:01Z	
+10.1.1	resources	2026-07-15T10:06:03Z	
+10.1.1	scenarios	2026-07-15T10:06:03Z	
+10.1.1	secrets	2026-07-15T10:06:01Z	
 10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-test/10.2.0/frankframework-test-10.2.0.jar returned status 404
+10.2.0	classes	2026-07-17T10:55:21Z	
+10.2.0	configurations	2026-07-17T10:55:21Z	
+10.2.0	context	2026-07-17T10:55:21Z	
+10.2.0	full-configuration	2026-07-17T10:55:22Z	
+10.2.0	resources	2026-07-17T10:55:23Z	
+10.2.0	scenarios	2026-07-17T10:55:22Z	
+10.2.0	secrets	2026-07-17T10:55:23Z	
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-test/8.0.0/frankframework-test-8.0.0.jar returned status 404
 8.0.0	classes	2023-12-22T17:10:37Z	
 8.0.0	configurations	2023-12-22T17:11:29Z	
@@ -306,3 +327,10 @@
 9.4.2	scenarios	2026-04-17T13:25:48Z	
 9.4.2	secrets	2026-04-17T13:25:47Z	
 9.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-test/9.4.3/frankframework-test-9.4.3.jar returned status 404
+9.4.3	classes	2026-07-13T09:56:34Z	
+9.4.3	configurations	2026-07-13T09:56:35Z	
+9.4.3	context	2026-07-13T09:56:34Z	
+9.4.3	full-configuration	2026-07-13T09:56:33Z	
+9.4.3	resources	2026-07-13T09:56:35Z	
+9.4.3	scenarios	2026-07-13T09:56:35Z	
+9.4.3	secrets	2026-07-13T09:56:35Z	
