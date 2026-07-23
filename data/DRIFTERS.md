@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-22. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-23. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -116,7 +116,7 @@ kotlinx.coroutines.core  [explicit rule: owned by `org.jetbrains`; 21 other grou
   ?   org.openprojectx.java.dns            2026-06..2026-07 0.1.4                |...................=|
   R   com.airbnb.viaduct                   2026-05..2026-05 1.1.0                |...................=|
   R   ca.acendas                           2025-11..2026-05 1.9.1                |..................==|
-  R   com.krillforge                       2026-04..2026-04 0.0.2                |...................=|
+  R   com.krillforge                       2026-04..2026-04 0.0.2                |..................=.|
   R   org.openprojectx.hadoop.win          2026-04..2026-04 0.1.4-3.1.1.7.1.9.14-2 |..................=.|
     + 18 more: org.jetbrains.dokka, com.eygraber, org.jetbrains.intellij.deps.kotlinx, io.github.danbeldev, io.johnsonlee.kx, io.github.zimoyin, io.johnsonlee.exec, io.github.saumya-bhatt, io.realm.kotlin, com.rickbusarow.doks, io.sirix, com.squareup.wire, (+6 more)
 jul.to.slf4j  [explicit rule: owned by `org.slf4j`; 16 other group(s) rejected]
@@ -638,7 +638,7 @@ net.bytebuddy.agent  [fork: keep `net.bytebuddy`, `com.google.gerrit` still publ
 io.netty.transport  [fork: keep `io.netty`, `io.github.lukaszsamson` still publishes the name]
   A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
   R   io.github.lukaszsamson               2026-04..2026-07 0.2.0                |..................==|
-  R   com.arcadedb                         2025-04..2026-07 26.7.2               |.................===|
+  R   com.arcadedb                         2025-04..2026-07 26.7.2               |................====|
   ?   io.github.qbsstg                     2026-06..2026-06 0.17.0               |...................=|
   R   com.sportradar.unifiedodds.sdk       2026-02..2026-03 5.0.0-rc4            |..................=.|
   R   io.karatelabs                        2025-10..2025-11 1.5.2                |..................=.|
@@ -783,7 +783,7 @@ io.opentelemetry.instrumentation_annotations  [fork: keep `io.opentelemetry.inst
   ? * io.opentelemetry.instrumentation     2023-10..2026-06 2.29.0               |.............=======|
   ?   io.vidocq.humboldt                   2026-06..2026-07 0.2.0                |...................=|
 org.eclipse.microprofile.config  [fork: keep `org.eclipse.microprofile.config`, `io.vidocq.ravel` still publishes the name]
-  ? * org.eclipse.microprofile.config      2026-01..2026-04 3.1.1                |..................==|
+  ? * org.eclipse.microprofile.config      2026-01..2026-04 3.1.1                |..................=.|
   ?   io.vidocq.ravel                      2026-05..2026-07 0.2.0                |...................=|
 com.azure.storage.common  [fork: keep `com.azure`, `org.gaul` still publishes the name]
   A * com.azure                            2019-09..2026-06 12.34.0              |.....===============|
@@ -869,7 +869,7 @@ org.apache.jena.dboe.index  [fork: keep `org.apache.jena`, `com.vaimee` still pu
   ? * org.apache.jena                      2018-12..2026-05 6.1.0                |....================|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
 org.apache.jena.jdbc.driver.remote  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
-  ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....==========.....|
+  ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....=========......|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
 org.apache.jena.shex  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
   ? * org.apache.jena                      2021-09..2026-05 6.1.0                |.........===========|
@@ -902,10 +902,10 @@ org.apache.jena.fuseki.core  [fork: keep `org.apache.jena`, `com.vaimee` still p
   ? * org.apache.jena                      2018-12..2026-05 6.1.0                |....================|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
 org.apache.jena.jdbc.core  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
-  ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....==========.....|
+  ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....=========......|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
 org.apache.jena.jdbc.driver.tdb  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
-  ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....==========.....|
+  ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....=========......|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
 org.apache.jena.permissions  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
   ? * org.apache.jena                      2018-06..2025-10 5.6.0                |...===============..|
@@ -955,7 +955,7 @@ org.apache.jena.iri  [fork: keep `org.apache.jena`, `com.vaimee` still publishes
   ? * org.apache.jena                      2018-06..2025-10 5.6.0                |...===============..|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
 org.apache.jena.jdbc.driver.mem  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
-  ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....==========.....|
+  ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....=========......|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
 com.aayushatharva.brotli4j  [fork: keep `com.aayushatharva.brotli4j`, `net.sourceforge.plantuml` still publishes the name]
   A * com.aayushatharva.brotli4j           2022-12..2026-04 1.23.0               |............========|
@@ -1123,7 +1123,7 @@ com.fasterxml.jackson.module.paramnames  [owned by `com.fasterxml.jackson.module
 org.eclipse.jetty.client  [owned by `org.eclipse.jetty`; 2 other group(s) shade the name]
   A * org.eclipse.jetty                    2018-11..2026-07 12.0.37              |....================|
   ?   ch.exense.step                       2026-06..2026-07 3.30.1               |...................=|
-  R   org.exploit                          2024-10..2026-04 1.0.9                |................===.|
+  R   org.exploit                          2024-10..2026-04 1.0.9                |...............====.|
 net.bytebuddy  [owned by `net.bytebuddy`; 131 other group(s) shade the name]
   A * net.bytebuddy                        2017-05..2026-07 1.18.11              |.===================|
   ?   com.mysticalrzc                      2026-06..2026-07 0.0.3                |...................=|
@@ -1543,7 +1543,7 @@ org.freedesktop.dbus  [no clear owner; `com.github.hypfvieh` is earliest and mos
   ? * com.github.hypfvieh                  2021-03..2025-12 5.2.0                |........===========.|
   ?   org.endlesssource.mediainterface     2026-02..2026-07 3.0.0                |..................==|
 lombok  [no clear owner; `org.projectlombok` is earliest and most recent]
-  ? * org.projectlombok                    2018-05..2026-04 1.18.46              |...=================|
+  ? * org.projectlombok                    2018-05..2026-04 1.18.46              |...================.|
   ?   net.polyv                            2020-09..2026-07 2.2.8.1              |.......=============|
   ?   com.scanoss                          2023-06..2026-07 0.13.1               |.............=======|
   ?   io.mosip.esignet.plugin.sunbirdrc    2025-02..2026-05 1.4.0                |................====|
@@ -2006,10 +2006,10 @@ org.apache.commons.dbutils  [no clear owner; `commons-dbutils` is earliest and m
 json.path  [no clear owner; `com.jayway.jsonpath` is earliest and most recent]
   ? * com.jayway.jsonpath                  2024-01..2026-02 3.0.0                |..............=====.|
   ?   org.gov4j.thirdparty.com.jayway.jsonpath 2024-12..2026-04 3.0.0-gov4j-1        |................====|
-  ?   com.github.sonus21                   2025-04..2025-04 2.10.0               |.................=..|
+  ?   com.github.sonus21                   2025-04..2025-04 2.10.0               |................=...|
 mslinks  [no clear owner; `com.github.vatbub` is earliest and most recent]
   ? * com.github.vatbub                    2020-09..2021-07 1.0.6.2              |.......===..........|
-  ?   org.jabref                           2026-02..2026-04 1.2                  |..................==|
+  ?   org.jabref                           2026-02..2026-04 1.2                  |..................=.|
 graphql.java.tools  [no clear owner; `com.graphql-java-kickstart` is earliest and most recent]
   ? * com.graphql-java-kickstart           2023-08..2025-04 14.0.1               |.............=====..|
   ?   io.github.graphql-java-kickstart     2026-03..2026-04 14.0.2               |..................=.|
@@ -2087,7 +2087,7 @@ jetty.servlet.api  [no clear owner; `org.eclipse.jetty.toolchain` is earliest an
 java.xml.soap  [no clear owner; `javax.xml.soap` is earliest and most recent]
   ? * javax.xml.soap                       2017-06..2017-06 1.4.0                |.=..................|
   ?   mx.com.sw                            2026-01..2026-01 0.0.19.1             |..................=.|
-  ?   org.hpccsystems                      2022-02..2025-10 9.8.126-1            |..........=========.|
+  ?   org.hpccsystems                      2022-02..2025-10 9.8.126-1            |..........========..|
   ?   org.apache.servicemix.specs          2019-12..2020-03 1.4_2                |......=.............|
   ?   jakarta.xml.soap                     2018-12..2020-01 1.4.2                |....===.............|
   ?   org.jboss.spec.javax.xml.soap        2019-09..2020-01 1.0.2.Final          |.....==.............|
@@ -2110,7 +2110,7 @@ me.linusdev.data  [no clear owner; `io.github.lni-dev` is earliest and most rece
   ? * io.github.lni-dev                    2022-03..2023-04 2.0.20               |..........====......|
   ?   de.linusdev                          2023-04..2025-09 2.3.1                |.............=====..|
 com.aspose.words  [no clear owner; `com.luhuiguo` is earliest and most recent]
-  ? * com.luhuiguo                         2022-04..2023-01 23.1                 |...........==.......|
+  ? * com.luhuiguo                         2022-04..2023-01 23.1                 |..........===.......|
   ?   cn.miniants                          2025-09..2025-09 21.4.0               |.................=..|
   ?   com.tengits                          2024-06..2024-06 1.5                  |...............=....|
   ?   cn.wisewe                            2022-06..2022-08 1.1.0-SHANSHOT       |...........=........|
