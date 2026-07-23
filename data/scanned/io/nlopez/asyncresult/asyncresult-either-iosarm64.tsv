@@ -11,6 +11,7 @@
 0.1.15		2026-06-15T09:20:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/nlopez/asyncresult/asyncresult-either-iosarm64/0.1.15/asyncresult-either-iosarm64-0.1.15.jar returned status 404
 0.1.15	metadata	2026-06-15T09:20:12Z	
 0.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/nlopez/asyncresult/asyncresult-either-iosarm64/0.1.16/asyncresult-either-iosarm64-0.1.16.jar returned status 404
+0.1.16	metadata	2026-07-14T18:13:43Z	
 0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/nlopez/asyncresult/asyncresult-either-iosarm64/0.1.4/asyncresult-either-iosarm64-0.1.4.jar returned status 404
 0.1.4	metadata	2026-01-30T15:42:40Z	
 0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/nlopez/asyncresult/asyncresult-either-iosarm64/0.1.5/asyncresult-either-iosarm64-0.1.5.jar returned status 404

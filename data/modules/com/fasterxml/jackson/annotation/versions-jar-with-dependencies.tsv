@@ -5222,4 +5222,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.721.11	named	com.yahoo.vespa	config-application-package	2026-07-09T03:52:19Z	2.22
 0.24.10	named	top.bella	openai-service	2026-07-09T08:59:58Z	2.14.2
 8.722.24	named	com.yahoo.vespa	config-application-package	2026-07-09T15:38:16Z	2.22
+0.20.1	named	io.kroxylicious	kroxylicious-app	2026-07-13T15:46:50Z	2.21
+2.0.6	named	io.orqueio.bpm	orqueio-engine-rest	2026-07-14T14:30:41Z	2.15.2
 7.0.0-RC5	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-17T04:23:21Z	2.21
+0.2.0	named	io.github.tibyaan-org	tibyan-cli	2026-07-17T07:34:04Z	2.18.2

@@ -1,0 +1,2 @@
+1.0.0		2026-07-18T10:38:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/youngyajun/webssh/1.0.0/webssh-1.0.0.jar returned status 404
+1.0.1		2026-07-18T18:29:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/youngyajun/webssh/1.0.1/webssh-1.0.1.jar returned status 404
