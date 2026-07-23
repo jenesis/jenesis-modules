@@ -32,3 +32,7 @@
 0.2.6-beta01	metadata	2025-05-16T16:23:36Z	
 0.2.7-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/lexilabs/basic/basic-images-iossimulatorarm64/0.2.7-beta01/basic-images-iossimulatorarm64-0.2.7-beta01.jar returned status 404
 0.2.7-beta01	metadata	2025-08-10T02:20:53Z	
+0.3.0		2026-07-15T22:45:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/lexilabs/basic/basic-images-iossimulatorarm64/0.3.0/basic-images-iossimulatorarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-07-15T22:45:32Z	
+0.3.1-beta01		2026-07-15T23:16:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/lexilabs/basic/basic-images-iossimulatorarm64/0.3.1-beta01/basic-images-iossimulatorarm64-0.3.1-beta01.jar returned status 404
+0.3.1-beta01	metadata	2026-07-15T23:16:25Z	

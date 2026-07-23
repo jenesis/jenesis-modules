@@ -14,3 +14,5 @@
 0.4.0	metadata	2026-06-11T09:29:24Z	
 0.5.0		2026-06-30T10:32:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/awesn1/oids-watchosarm32/0.5.0/oids-watchosarm32-0.5.0.jar returned status 404
 0.5.0	metadata	2026-06-30T10:32:29Z	
+0.6.0		2026-07-22T13:55:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/awesn1/oids-watchosarm32/0.6.0/oids-watchosarm32-0.6.0.jar returned status 404
+0.6.0	metadata	2026-07-22T13:55:22Z	

@@ -5,6 +5,7 @@
 0.13.0		2026-06-08T04:27:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-androidnativearm32/0.13.0/commons-androidnativearm32-0.13.0.jar returned status 404
 0.14.0		2026-06-09T17:37:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-androidnativearm32/0.14.0/commons-androidnativearm32-0.14.0.jar returned status 404
 0.15.0		2026-06-10T20:41:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-androidnativearm32/0.15.0/commons-androidnativearm32-0.15.0.jar returned status 404
+0.16.0		2026-07-20T05:31:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-androidnativearm32/0.16.0/commons-androidnativearm32-0.16.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-androidnativearm32/0.2.0/commons-androidnativearm32-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-androidnativearm32/0.3.0/commons-androidnativearm32-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-androidnativearm32/0.3.1/commons-androidnativearm32-0.3.1.jar returned status 404

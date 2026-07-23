@@ -78,6 +78,8 @@
 0.30.0			
 0.31.0			
 0.32.0			
+0.34.0		2026-07-22T23:04:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/askamerica/askamerica-engine/0.34.0/askamerica-engine-0.34.0.jar returned status 404
+0.35.0		2026-07-23T00:33:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/askamerica/askamerica-engine/0.35.0/askamerica-engine-0.35.0.jar returned status 404
 0.4.0		2026-05-22T19:25:27Z	
 0.4.1		2026-05-22T22:21:29Z	
 0.4.10		2026-05-24T12:54:39Z	

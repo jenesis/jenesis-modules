@@ -36,3 +36,4 @@
 1.0.0-preview3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/embeddings-base-js/1.0.0-preview3/embeddings-base-js-1.0.0-preview3.jar returned status 404
 1.0.0-preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/embeddings-base-js/1.0.0-preview4/embeddings-base-js-1.0.0-preview4.jar returned status 404
 1.0.0-preview7		2026-05-21T09:23:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/embeddings-base-js/1.0.0-preview7/embeddings-base-js-1.0.0-preview7.jar returned status 404
+1.1.1		2026-07-20T12:13:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/embeddings-base-js/1.1.1/embeddings-base-js-1.1.1.jar returned status 404

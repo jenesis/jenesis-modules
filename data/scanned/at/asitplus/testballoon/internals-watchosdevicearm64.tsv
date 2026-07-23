@@ -10,6 +10,8 @@
 0.14.0	metadata	2026-06-09T17:27:05Z	
 0.15.0		2026-06-10T20:31:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-watchosdevicearm64/0.15.0/internals-watchosdevicearm64-0.15.0.jar returned status 404
 0.15.0	metadata	2026-06-10T20:31:24Z	
+0.16.0		2026-07-20T05:23:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-watchosdevicearm64/0.16.0/internals-watchosdevicearm64-0.16.0.jar returned status 404
+0.16.0	metadata	2026-07-20T05:23:44Z	
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-watchosdevicearm64/0.7.0/internals-watchosdevicearm64-0.7.0.jar returned status 404
 0.7.0	metadata	2026-01-28T11:29:46Z	
 0.7.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/internals-watchosdevicearm64/0.7.0-RC/internals-watchosdevicearm64-0.7.0-RC.jar returned status 404

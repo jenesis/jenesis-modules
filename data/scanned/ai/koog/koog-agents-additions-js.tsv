@@ -4,3 +4,4 @@
 1.0.0-beta-preview3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/koog-agents-additions-js/1.0.0-beta-preview3/koog-agents-additions-js-1.0.0-beta-preview3.jar returned status 404
 1.0.0-beta-preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/koog-agents-additions-js/1.0.0-beta-preview4/koog-agents-additions-js-1.0.0-beta-preview4.jar returned status 404
 1.0.0-beta-preview7		2026-05-21T09:23:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/koog-agents-additions-js/1.0.0-beta-preview7/koog-agents-additions-js-1.0.0-beta-preview7.jar returned status 404
+1.1.1-beta		2026-07-20T12:13:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/koog-agents-additions-js/1.1.1-beta/koog-agents-additions-js-1.1.1-beta.jar returned status 404

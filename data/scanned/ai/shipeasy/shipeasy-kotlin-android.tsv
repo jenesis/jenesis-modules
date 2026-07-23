@@ -2,3 +2,4 @@
 0.16.0		2026-07-08T22:19:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/shipeasy/shipeasy-kotlin-android/0.16.0/shipeasy-kotlin-android-0.16.0.jar returned status 404
 0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/shipeasy/shipeasy-kotlin-android/0.18.0/shipeasy-kotlin-android-0.18.0.jar returned status 404
 0.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/shipeasy/shipeasy-kotlin-android/0.18.1/shipeasy-kotlin-android-0.18.1.jar returned status 404
+0.19.0		2026-07-20T03:49:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/shipeasy/shipeasy-kotlin-android/0.19.0/shipeasy-kotlin-android-0.19.0.jar returned status 404

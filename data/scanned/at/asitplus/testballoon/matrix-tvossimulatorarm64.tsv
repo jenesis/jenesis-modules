@@ -10,3 +10,5 @@
 0.14.0	metadata	2026-06-09T17:52:39Z	
 0.15.0		2026-06-10T20:56:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/matrix-tvossimulatorarm64/0.15.0/matrix-tvossimulatorarm64-0.15.0.jar returned status 404
 0.15.0	metadata	2026-06-10T20:56:38Z	
+0.16.0		2026-07-20T05:42:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/matrix-tvossimulatorarm64/0.16.0/matrix-tvossimulatorarm64-0.16.0.jar returned status 404
+0.16.0	metadata	2026-07-20T05:42:27Z	

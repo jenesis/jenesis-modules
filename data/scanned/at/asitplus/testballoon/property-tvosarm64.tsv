@@ -16,6 +16,8 @@
 0.14.0	metadata	2026-06-09T19:45:17Z	
 0.15.0		2026-06-11T04:06:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-tvosarm64/0.15.0/property-tvosarm64-0.15.0.jar returned status 404
 0.15.0	metadata	2026-06-11T04:06:04Z	
+0.16.0		2026-07-20T05:57:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-tvosarm64/0.16.0/property-tvosarm64-0.16.0.jar returned status 404
+0.16.0	metadata	2026-07-20T05:57:06Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-tvosarm64/0.2.0/property-tvosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2025-11-09T22:43:40Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-tvosarm64/0.3.0/property-tvosarm64-0.3.0.jar returned status 404

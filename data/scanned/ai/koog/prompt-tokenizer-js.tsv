@@ -34,3 +34,4 @@
 1.0.0-preview3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-tokenizer-js/1.0.0-preview3/prompt-tokenizer-js-1.0.0-preview3.jar returned status 404
 1.0.0-preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-tokenizer-js/1.0.0-preview4/prompt-tokenizer-js-1.0.0-preview4.jar returned status 404
 1.0.0-preview7		2026-05-21T09:24:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-tokenizer-js/1.0.0-preview7/prompt-tokenizer-js-1.0.0-preview7.jar returned status 404
+1.1.1		2026-07-20T12:13:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-tokenizer-js/1.1.1/prompt-tokenizer-js-1.1.1.jar returned status 404

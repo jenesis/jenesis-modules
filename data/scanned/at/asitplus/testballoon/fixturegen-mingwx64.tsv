@@ -6,6 +6,7 @@
 0.12.0		2026-06-05T17:47:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/fixturegen-mingwx64/0.12.0/fixturegen-mingwx64-0.12.0.jar returned status 404
 0.14.0		2026-06-09T20:07:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/fixturegen-mingwx64/0.14.0/fixturegen-mingwx64-0.14.0.jar returned status 404
 0.15.0		2026-06-11T04:25:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/fixturegen-mingwx64/0.15.0/fixturegen-mingwx64-0.15.0.jar returned status 404
+0.16.0		2026-07-20T06:12:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/fixturegen-mingwx64/0.16.0/fixturegen-mingwx64-0.16.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/fixturegen-mingwx64/0.2.0/fixturegen-mingwx64-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/fixturegen-mingwx64/0.3.0/fixturegen-mingwx64-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/fixturegen-mingwx64/0.3.1/fixturegen-mingwx64-0.3.1.jar returned status 404

@@ -62,3 +62,5 @@
 1.0.0-preview4	metadata	2026-05-20T21:16:47Z	
 1.0.0-preview7		2026-05-21T09:23:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/koog-agents-iossimulatorarm64/1.0.0-preview7/koog-agents-iossimulatorarm64-1.0.0-preview7.jar returned status 404
 1.0.0-preview7	metadata	2026-05-21T09:23:41Z	
+1.1.1		2026-07-20T12:13:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/koog-agents-iossimulatorarm64/1.1.1/koog-agents-iossimulatorarm64-1.1.1.jar returned status 404
+1.1.1	metadata	2026-07-20T12:13:02Z	

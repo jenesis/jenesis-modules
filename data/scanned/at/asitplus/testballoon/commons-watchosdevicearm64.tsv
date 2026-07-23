@@ -12,6 +12,8 @@
 0.14.0	metadata	2026-06-09T17:37:22Z	
 0.15.0		2026-06-10T20:41:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-watchosdevicearm64/0.15.0/commons-watchosdevicearm64-0.15.0.jar returned status 404
 0.15.0	metadata	2026-06-10T20:41:45Z	
+0.16.0		2026-07-20T05:30:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-watchosdevicearm64/0.16.0/commons-watchosdevicearm64-0.16.0.jar returned status 404
+0.16.0	metadata	2026-07-20T05:30:59Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-watchosdevicearm64/0.2.0/commons-watchosdevicearm64-0.2.0.jar returned status 404
 0.2.0	metadata	2025-11-09T22:43:46Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-watchosdevicearm64/0.3.0/commons-watchosdevicearm64-0.3.0.jar returned status 404

@@ -36,3 +36,4 @@
 1.0.0-beta-preview3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-cache-redis-js/1.0.0-beta-preview3/prompt-cache-redis-js-1.0.0-beta-preview3.jar returned status 404
 1.0.0-beta-preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-cache-redis-js/1.0.0-beta-preview4/prompt-cache-redis-js-1.0.0-beta-preview4.jar returned status 404
 1.0.0-beta-preview7		2026-05-21T09:24:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-cache-redis-js/1.0.0-beta-preview7/prompt-cache-redis-js-1.0.0-beta-preview7.jar returned status 404
+1.1.1-beta		2026-07-20T12:13:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-cache-redis-js/1.1.1-beta/prompt-cache-redis-js-1.1.1-beta.jar returned status 404

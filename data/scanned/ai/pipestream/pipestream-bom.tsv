@@ -37,6 +37,7 @@
 0.7.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom/0.7.39/pipestream-bom-0.7.39.jar returned status 404
 0.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom/0.7.4/pipestream-bom-0.7.4.jar returned status 404
 0.7.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom/0.7.40/pipestream-bom-0.7.40.jar returned status 404
+0.7.41		2026-07-20T15:52:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom/0.7.41/pipestream-bom-0.7.41.jar returned status 404
 0.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom/0.7.5/pipestream-bom-0.7.5.jar returned status 404
 0.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom/0.7.6/pipestream-bom-0.7.6.jar returned status 404
 0.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/pipestream/pipestream-bom/0.7.7/pipestream-bom-0.7.7.jar returned status 404

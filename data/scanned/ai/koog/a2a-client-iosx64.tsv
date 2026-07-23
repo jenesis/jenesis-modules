@@ -52,3 +52,5 @@
 1.0.0-beta-preview4	metadata	2026-05-20T21:16:44Z	
 1.0.0-beta-preview7		2026-05-21T09:23:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/a2a-client-iosx64/1.0.0-beta-preview7/a2a-client-iosx64-1.0.0-beta-preview7.jar returned status 404
 1.0.0-beta-preview7	metadata	2026-05-21T09:24:05Z	
+1.1.1-beta		2026-07-20T12:13:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/a2a-client-iosx64/1.1.1-beta/a2a-client-iosx64-1.1.1-beta.jar returned status 404
+1.1.1-beta	metadata	2026-07-20T12:13:15Z	
