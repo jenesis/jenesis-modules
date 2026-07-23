@@ -127,3 +127,4 @@
 1.59.3		2026-06-24T16:30:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-kos-lifecycle-iosarm64/1.59.3/kitchenos-client-sdk-kos-lifecycle-iosarm64-1.59.3.jar returned status 404
 1.59.3	metadata	2026-06-24T16:30:29Z	
 1.59.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-kos-lifecycle-iosarm64/1.59.4/kitchenos-client-sdk-kos-lifecycle-iosarm64-1.59.4.jar returned status 404
+1.59.4	metadata	2026-07-17T09:47:28Z	

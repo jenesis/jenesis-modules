@@ -27,3 +27,4 @@
 0.3.3		2026-05-29T01:31:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/effacy/jui/parent/0.3.3/parent-0.3.3.jar returned status 404
 0.3.4		2026-05-30T11:59:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/effacy/jui/parent/0.3.4/parent-0.3.4.jar returned status 404
 0.3.5		2026-05-30T23:10:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/effacy/jui/parent/0.3.5/parent-0.3.5.jar returned status 404
+0.3.6		2026-07-22T05:53:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/effacy/jui/parent/0.3.6/parent-0.3.6.jar returned status 404

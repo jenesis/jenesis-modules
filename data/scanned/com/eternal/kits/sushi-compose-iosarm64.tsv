@@ -28,3 +28,5 @@
 0.4.1.1	metadata	2026-06-17T08:44:29Z	
 0.4.1.5		2026-06-24T11:48:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/sushi-compose-iosarm64/0.4.1.5/sushi-compose-iosarm64-0.4.1.5.jar returned status 404
 0.4.1.5	metadata	2026-06-24T11:48:46Z	
+0.4.1.6		2026-07-20T11:12:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/sushi-compose-iosarm64/0.4.1.6/sushi-compose-iosarm64-0.4.1.6.jar returned status 404
+0.4.1.6	metadata	2026-07-20T11:12:18Z	

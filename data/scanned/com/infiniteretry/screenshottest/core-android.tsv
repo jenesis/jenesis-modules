@@ -23,3 +23,4 @@
 1.4.1		2026-06-18T19:43:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/infiniteretry/screenshottest/core-android/1.4.1/core-android-1.4.1.jar returned status 404
 1.4.2		2026-07-08T00:23:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/infiniteretry/screenshottest/core-android/1.4.2/core-android-1.4.2.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/infiniteretry/screenshottest/core-android/1.4.3/core-android-1.4.3.jar returned status 404
+1.4.4		2026-07-20T14:45:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/infiniteretry/screenshottest/core-android/1.4.4/core-android-1.4.4.jar returned status 404

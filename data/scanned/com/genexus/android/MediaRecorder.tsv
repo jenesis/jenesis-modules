@@ -57,4 +57,5 @@
 2.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/MediaRecorder/2.8.5/MediaRecorder-2.8.5.jar returned status 404
 2.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/MediaRecorder/2.8.7/MediaRecorder-2.8.7.jar returned status 404
 2.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/MediaRecorder/2.8.8/MediaRecorder-2.8.8.jar returned status 404
+2.8.9		2026-07-20T20:44:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/MediaRecorder/2.8.9/MediaRecorder-2.8.9.jar returned status 404
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/MediaRecorder/2.9.0/MediaRecorder-2.9.0.jar returned status 404

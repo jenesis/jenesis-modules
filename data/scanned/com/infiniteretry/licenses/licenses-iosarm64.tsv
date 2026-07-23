@@ -78,3 +78,5 @@
 1.4.2	metadata	2026-07-08T00:23:32Z	
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/infiniteretry/licenses/licenses-iosarm64/1.4.3/licenses-iosarm64-1.4.3.jar returned status 404
 1.4.3	metadata	2026-07-09T12:01:09Z	
+1.4.4		2026-07-20T14:45:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/infiniteretry/licenses/licenses-iosarm64/1.4.4/licenses-iosarm64-1.4.4.jar returned status 404
+1.4.4	metadata	2026-07-20T14:45:02Z	

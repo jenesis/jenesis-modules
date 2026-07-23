@@ -193,3 +193,4 @@
 26.7.1	named	com.arcadedb	arcadedb-grpcw	2026-07-01T21:08:25Z	2.0.74.Final
 0.134.0	named	com.google.cloud	google-cloud-nio	2026-07-07T23:45:17Z	2.0.75.Final
 26.7.2	named	com.arcadedb	arcadedb-grpcw	2026-07-09T03:05:30Z	2.0.74.Final
+2.19.1	named	com.google.cloud.bigtable	bigtable-beam-import	2026-07-21T14:45:52Z	2.0.72.Final
