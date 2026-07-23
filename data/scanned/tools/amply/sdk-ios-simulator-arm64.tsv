@@ -29,4 +29,5 @@
 0.5.7		2026-07-08T15:52:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-simulator-arm64/0.5.7/sdk-ios-simulator-arm64-0.5.7.jar returned status 404
 0.5.7	metadata	2026-07-08T15:52:43Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-simulator-arm64/0.6.0/sdk-ios-simulator-arm64-0.6.0.jar returned status 404
+0.6.0	metadata	2026-07-17T13:59:08Z	
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-simulator-arm64/0.6.1/sdk-ios-simulator-arm64-0.6.1.jar returned status 404

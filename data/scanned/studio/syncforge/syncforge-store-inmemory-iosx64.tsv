@@ -1,3 +1,4 @@
 1.1.0		2026-07-07T14:26:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/syncforge/syncforge-store-inmemory-iosx64/1.1.0/syncforge-store-inmemory-iosx64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-07-07T14:26:16Z	
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/syncforge/syncforge-store-inmemory-iosx64/2.0.0/syncforge-store-inmemory-iosx64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-07-09T09:48:37Z	

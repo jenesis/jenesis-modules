@@ -1,0 +1,6 @@
+1.0.0		2026-07-15T05:33:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/forgenav/forgenv-syncforge-iossimulatorarm64/1.0.0/forgenv-syncforge-iossimulatorarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-07-15T05:33:24Z	
+1.1.0		2026-07-15T08:59:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/forgenav/forgenv-syncforge-iossimulatorarm64/1.1.0/forgenv-syncforge-iossimulatorarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-07-15T08:59:05Z	
+1.2.0		2026-07-15T11:32:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/forgenav/forgenv-syncforge-iossimulatorarm64/1.2.0/forgenv-syncforge-iossimulatorarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-07-15T11:32:05Z	

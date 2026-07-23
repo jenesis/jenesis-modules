@@ -19,3 +19,4 @@
 2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/coley/cafedude/2.6.3/cafedude-2.6.3.jar returned status 404
 2.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/coley/cafedude/2.6.4/cafedude-2.6.4.jar returned status 404
 2.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/coley/cafedude/2.6.5/cafedude-2.6.5.jar returned status 404
+2.6.6		2026-07-13T02:35:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/coley/cafedude/2.6.6/cafedude-2.6.6.jar returned status 404

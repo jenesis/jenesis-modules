@@ -6,3 +6,4 @@
 1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/plusminus/plusminus-parent/1.4/plusminus-parent-1.4.jar returned status 404
 1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/plusminus/plusminus-parent/1.5/plusminus-parent-1.5.jar returned status 404
 1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/plusminus/plusminus-parent/1.6/plusminus-parent-1.6.jar returned status 404
+1.7		2026-07-13T17:10:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/plusminus/plusminus-parent/1.7/plusminus-parent-1.7.jar returned status 404
