@@ -175,3 +175,8 @@
 0.213.0		2026-07-13T09:45:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-watchossimulatorarm64/0.213.0/doordeck-sdk-watchossimulatorarm64-0.213.0.jar returned status 404
 0.213.0	metadata	2026-07-13T09:45:10Z	
 0.214.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-watchossimulatorarm64/0.214.0/doordeck-sdk-watchossimulatorarm64-0.214.0.jar returned status 404
+0.214.0	metadata	2026-07-16T06:31:15Z	
+0.215.0		2026-07-20T13:56:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-watchossimulatorarm64/0.215.0/doordeck-sdk-watchossimulatorarm64-0.215.0.jar returned status 404
+0.215.0	metadata	2026-07-20T13:56:55Z	
+0.216.0		2026-07-20T16:27:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-watchossimulatorarm64/0.216.0/doordeck-sdk-watchossimulatorarm64-0.216.0.jar returned status 404
+0.216.0	metadata	2026-07-20T16:27:16Z	

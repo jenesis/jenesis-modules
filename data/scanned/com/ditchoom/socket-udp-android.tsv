@@ -1,0 +1,12 @@
+3.11.0		2026-07-15T15:12:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.11.0/socket-udp-android-3.11.0.jar returned status 404
+3.11.1		2026-07-16T03:50:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.11.1/socket-udp-android-3.11.1.jar returned status 404
+3.12.0		2026-07-19T18:07:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.12.0/socket-udp-android-3.12.0.jar returned status 404
+3.13.0		2026-07-19T22:08:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.13.0/socket-udp-android-3.13.0.jar returned status 404
+3.13.1		2026-07-20T01:38:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.13.1/socket-udp-android-3.13.1.jar returned status 404
+3.14.0		2026-07-20T03:42:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.14.0/socket-udp-android-3.14.0.jar returned status 404
+3.14.1		2026-07-20T12:58:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.14.1/socket-udp-android-3.14.1.jar returned status 404
+3.14.2		2026-07-20T18:21:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.14.2/socket-udp-android-3.14.2.jar returned status 404
+3.14.3		2026-07-20T22:21:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.14.3/socket-udp-android-3.14.3.jar returned status 404
+3.14.4		2026-07-21T00:32:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.14.4/socket-udp-android-3.14.4.jar returned status 404
+3.14.5		2026-07-21T02:21:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.14.5/socket-udp-android-3.14.5.jar returned status 404
+3.14.6		2026-07-21T22:25:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-android/3.14.6/socket-udp-android-3.14.6.jar returned status 404
