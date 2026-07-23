@@ -8,6 +8,8 @@
 2.5.1	plain	2025-12-15T21:00:11Z	
 2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/wondrify/karman-grails/2.5.2/karman-grails-2.5.2.jar returned status 404
 2.5.2	plain	2026-01-23T20:07:31Z	
+2.6.0		2026-07-15T12:16:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/wondrify/karman-grails/2.6.0/karman-grails-2.6.0.jar returned status 404
+2.6.0	plain	2026-07-15T12:16:42Z	
 3.0.3		2026-02-25T16:54:35Z	
 3.0.5		2026-04-30T14:23:18Z	
 3.0.6		2026-05-20T18:51:01Z	

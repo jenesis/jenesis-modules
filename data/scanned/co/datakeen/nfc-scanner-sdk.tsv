@@ -1,0 +1,2 @@
+1.0.0		2026-07-20T12:54:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/datakeen/nfc-scanner-sdk/1.0.0/nfc-scanner-sdk-1.0.0.jar returned status 404
+1.0.0-alpha31		2026-07-20T09:00:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/datakeen/nfc-scanner-sdk/1.0.0-alpha31/nfc-scanner-sdk-1.0.0-alpha31.jar returned status 404

@@ -75,4 +75,5 @@
 6.1.2		2026-06-09T08:50:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jpush/6.1.2/jpush-6.1.2.jar returned status 404
 6.1.4		2026-06-30T03:53:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jpush/6.1.4/jpush-6.1.4.jar returned status 404
 6.1.5		2026-07-03T03:31:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jpush/6.1.5/jpush-6.1.5.jar returned status 404
+6.2.0		2026-07-22T10:14:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jpush/6.2.0/jpush-6.2.0.jar returned status 404
 tttt-test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/jpush/tttt-test/jpush-tttt-test.jar returned status 404

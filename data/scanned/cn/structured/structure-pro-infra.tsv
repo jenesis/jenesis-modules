@@ -1,2 +1,4 @@
 1.0.1		2026-06-29T17:35:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-pro-infra/1.0.1/structure-pro-infra-1.0.1.jar returned status 404
 1.1.0		2026-07-08T04:25:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-pro-infra/1.1.0/structure-pro-infra-1.1.0.jar returned status 404
+1.2.0		2026-07-21T08:33:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-pro-infra/1.2.0/structure-pro-infra-1.2.0.jar returned status 404
+1.3.0		2026-07-22T04:08:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-pro-infra/1.3.0/structure-pro-infra-1.3.0.jar returned status 404

@@ -68,4 +68,5 @@
 6.1.4		2026-06-30T03:56:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/oppo/6.1.4/oppo-6.1.4.jar returned status 404
 6.1.5		2026-07-03T03:34:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/oppo/6.1.5/oppo-6.1.5.jar returned status 404
 6.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/oppo/6.1.6/oppo-6.1.6.jar returned status 404
+6.2.0		2026-07-22T10:17:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/oppo/6.2.0/oppo-6.2.0.jar returned status 404
 t.1.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/oppo/t.1.0.0.3/oppo-t.1.0.0.3.jar returned status 404

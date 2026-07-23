@@ -60105,3 +60105,8 @@ v0.3.6	named	org.alindner.cish	interpreter	2021-02-20T14:45:00Z
 1.5.1	named	org.apache.pinot	pinot-tools	2026-06-05T00:08:34Z	
 2.7.3	named	de.fraunhofer.iosb.ilt.FROST-Server	FROST-Server.MQTT	2026-07-03T09:20:03Z	
 2.6.4	named	de.fraunhofer.iosb.ilt.FROST-Server	FROST-Server.MQTT	2026-07-03T09:28:13Z	
+1.1.17	named	com.alibaba.dts.client	client	2026-07-14T10:32:29Z	
+1.1.17	named	com.alibaba.dts.client	client-test	2026-07-14T10:32:29Z	
+1.1.18	named	com.alibaba.dts.client	client	2026-07-17T05:17:58Z	
+1.1.18	named	com.alibaba.dts.client	client-test	2026-07-17T05:17:58Z	
+1.1.18	named	com.alibaba.dts.client	dts-client	2026-07-17T05:17:58Z	

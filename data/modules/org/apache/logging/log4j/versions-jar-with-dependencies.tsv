@@ -1293,3 +1293,10 @@ v2.2	named	net.sf.automatic-report-generator	xls-generator	2022-06-13T19:56:49Z	
 4.3.2	named	com.vaimee	sepa-jena-vaimee-sjenar-fuseki	2026-06-08T16:51:12Z	2.17.2
 4.0.13	named	com.nqadmin.swingset.demo	swingset-demo	2026-06-12T20:28:36Z	2.26.0
 0.22.0	named	io.kroxylicious	kroxylicious-app	2026-07-03T02:58:38Z	2.26.0
+1.1.17	named	com.alibaba.dts.client	drc-client	2026-07-14T10:32:29Z	2.17.1
+1.1.17	named	com.alibaba.dts.client	dts-uniform-subscribe-sdk-common	2026-07-14T10:32:29Z	2.17.1
+1.1.17	named	com.alibaba.dts.client	dts-uniform-subscribe-sdk-filter	2026-07-14T10:32:29Z	2.17.1
+1.1.17	named	com.alibaba.dts.client	dts-uniform-subscribe-sdk-message	2026-07-14T10:32:29Z	2.17.1
+1.1.17	named	com.alibaba.dts.client	dts-uniform-subscribe-sdk-network	2026-07-14T10:32:29Z	2.17.1
+1.1.17	named	com.alibaba.dts.client	dts-uniform-subscribe-sdk-store	2026-07-14T10:32:29Z	2.17.1
+1.1.17	named	com.alibaba.dts.client	dts-uniform-subscribe-sdk-api	2026-07-14T10:32:30Z	2.17.1

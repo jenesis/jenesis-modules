@@ -138,6 +138,10 @@
 6.0.0-RC18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service-reconnect/6.0.0-RC18/core-service-reconnect-6.0.0-RC18.jar returned status 404
 6.0.0-RC19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service-reconnect/6.0.0-RC19/core-service-reconnect-6.0.0-RC19.jar returned status 404
 6.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service-reconnect/6.0.0-RC2/core-service-reconnect-6.0.0-RC2.jar returned status 404
+6.0.0-RC20		2026-07-20T18:01:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service-reconnect/6.0.0-RC20/core-service-reconnect-6.0.0-RC20.jar returned status 404
+6.0.0-RC21		2026-07-20T20:31:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service-reconnect/6.0.0-RC21/core-service-reconnect-6.0.0-RC21.jar returned status 404
+6.0.0-RC22		2026-07-20T21:38:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service-reconnect/6.0.0-RC22/core-service-reconnect-6.0.0-RC22.jar returned status 404
+6.0.0-RC23		2026-07-22T09:25:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service-reconnect/6.0.0-RC23/core-service-reconnect-6.0.0-RC23.jar returned status 404
 6.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service-reconnect/6.0.0-RC3/core-service-reconnect-6.0.0-RC3.jar returned status 404
 6.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service-reconnect/6.0.0-RC4/core-service-reconnect-6.0.0-RC4.jar returned status 404
 6.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/core-service-reconnect/6.0.0-RC5/core-service-reconnect-6.0.0-RC5.jar returned status 404

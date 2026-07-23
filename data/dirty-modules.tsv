@@ -1363,3 +1363,12 @@ io.netty.codec.http2
 com.apollographql.java.rx3
 com.apollographql.java.rx2
 com.apollographql.java.client
+io.netty.codec.http
+org.apache.logging.log4j
+ch.sbb.polarion.extension.pdf_exporter
+ch.epfl.lara.scala3.presentation.compiler
+ch.epfl.lara.scala3.library_sjs1
+ch.epfl.lara.scala3.library
+ch.epfl.lara.scala3.language.server
+ch.epfl.lara.scala3.interfaces
+scala.library

@@ -27,3 +27,6 @@
 1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/nexad/analytics/core/1.1.9/core-1.1.9.jar returned status 404
 1.2.0		2026-07-01T09:17:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/nexad/analytics/core/1.2.0/core-1.2.0.jar returned status 404
 1.2.1		2026-07-02T07:07:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/nexad/analytics/core/1.2.1/core-1.2.1.jar returned status 404
+1.2.2		2026-07-18T12:33:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/nexad/analytics/core/1.2.2/core-1.2.2.jar returned status 404
+1.2.3		2026-07-20T11:49:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/nexad/analytics/core/1.2.3/core-1.2.3.jar returned status 404
+1.2.4		2026-07-20T12:07:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/nexad/analytics/core/1.2.4/core-1.2.4.jar returned status 404

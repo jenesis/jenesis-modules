@@ -80,6 +80,7 @@
 2.2.13		2026-06-16T08:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/alibabacloud-android-rum-sdk/2.2.13/alibabacloud-android-rum-sdk-2.2.13.jar returned status 404
 2.2.14		2026-06-17T08:35:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/alibabacloud-android-rum-sdk/2.2.14/alibabacloud-android-rum-sdk-2.2.14.jar returned status 404
 2.2.15		2026-07-06T08:38:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/alibabacloud-android-rum-sdk/2.2.15/alibabacloud-android-rum-sdk-2.2.15.jar returned status 404
+2.2.16		2026-07-20T03:59:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/alibabacloud-android-rum-sdk/2.2.16/alibabacloud-android-rum-sdk-2.2.16.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/alibabacloud-android-rum-sdk/2.2.2/alibabacloud-android-rum-sdk-2.2.2.jar returned status 404
 2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/alibabacloud-android-rum-sdk/2.2.3/alibabacloud-android-rum-sdk-2.2.3.jar returned status 404
 2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/alibabacloud-android-rum-sdk/2.2.4/alibabacloud-android-rum-sdk-2.2.4.jar returned status 404

@@ -120,3 +120,9 @@
 2.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/renlm/plugins/MyPlugin-parent/2.8.9/MyPlugin-parent-2.8.9.jar returned status 404
 3.0.1		2026-07-12T14:00:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/renlm/plugins/MyPlugin-parent/3.0.1/MyPlugin-parent-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/renlm/plugins/MyPlugin-parent/3.0.2/MyPlugin-parent-3.0.2.jar returned status 404
+3.0.3		2026-07-20T04:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/renlm/plugins/MyPlugin-parent/3.0.3/MyPlugin-parent-3.0.3.jar returned status 404
+3.0.4		2026-07-20T05:43:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/renlm/plugins/MyPlugin-parent/3.0.4/MyPlugin-parent-3.0.4.jar returned status 404
+3.0.5		2026-07-20T06:20:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/renlm/plugins/MyPlugin-parent/3.0.5/MyPlugin-parent-3.0.5.jar returned status 404
+3.0.6		2026-07-20T09:13:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/renlm/plugins/MyPlugin-parent/3.0.6/MyPlugin-parent-3.0.6.jar returned status 404
+3.0.7		2026-07-20T09:48:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/renlm/plugins/MyPlugin-parent/3.0.7/MyPlugin-parent-3.0.7.jar returned status 404
+3.0.8		2026-07-20T10:13:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/renlm/plugins/MyPlugin-parent/3.0.8/MyPlugin-parent-3.0.8.jar returned status 404

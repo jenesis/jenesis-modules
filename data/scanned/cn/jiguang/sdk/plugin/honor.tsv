@@ -44,4 +44,5 @@
 6.1.4		2026-06-30T03:57:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/honor/6.1.4/honor-6.1.4.jar returned status 404
 6.1.5		2026-07-03T03:35:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/honor/6.1.5/honor-6.1.5.jar returned status 404
 6.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/honor/6.1.6/honor-6.1.6.jar returned status 404
+6.2.0		2026-07-22T10:18:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/honor/6.2.0/honor-6.2.0.jar returned status 404
 t.1.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/honor/t.1.0.0.3/honor-t.1.0.0.3.jar returned status 404
