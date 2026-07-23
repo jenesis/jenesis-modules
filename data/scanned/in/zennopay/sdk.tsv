@@ -1,0 +1,4 @@
+0.2.1		2026-07-17T20:48:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/zennopay/sdk/0.2.1/sdk-0.2.1.jar returned status 404
+0.3.0		2026-07-17T23:23:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/zennopay/sdk/0.3.0/sdk-0.3.0.jar returned status 404
+0.5.0		2026-07-18T06:51:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/zennopay/sdk/0.5.0/sdk-0.5.0.jar returned status 404
+0.6.0		2026-07-18T07:26:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/zennopay/sdk/0.6.0/sdk-0.6.0.jar returned status 404

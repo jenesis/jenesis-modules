@@ -1,3 +1,5 @@
 4.5.5		2026-06-12T22:13:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ixtf/bom/4.5.5/bom-4.5.5.jar returned status 404
 4.5.6		2026-06-12T23:01:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ixtf/bom/4.5.6/bom-4.5.6.jar returned status 404
 4.6.0		2026-06-13T15:46:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ixtf/bom/4.6.0/bom-4.6.0.jar returned status 404
+4.6.1		2026-07-20T03:33:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ixtf/bom/4.6.1/bom-4.6.1.jar returned status 404
+4.6.2		2026-07-20T10:00:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/ixtf/bom/4.6.2/bom-4.6.2.jar returned status 404

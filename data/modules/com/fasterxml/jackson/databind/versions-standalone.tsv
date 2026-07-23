@@ -34,3 +34,8 @@
 4.0.13	named	com.konghq	unirest-objectmapper-jackson	2023-10-10T18:46:15Z	2.15.2
 3.0.0	named	cloud.filibuster	instrumentation	2023-11-12T09:12:26Z	2.13.1
 0.12.0	named	org.apache.plc4x	plc4j-plc4x-server	2024-02-16T16:40:51Z	2.16.1
+1.0.0	named	io.fluxzero.tools	fluxzero-dev-server	2026-07-19T12:50:02Z	2.22.1
+1.0.1	named	io.fluxzero.tools	fluxzero-dev-server	2026-07-19T13:13:40Z	2.22.1
+1.0.2	named	io.fluxzero.tools	fluxzero-dev-server	2026-07-19T13:31:24Z	2.22.1
+1.0.3	named	io.fluxzero.tools	fluxzero-dev-server	2026-07-19T13:56:17Z	2.22.1
+1.0.4	named	io.fluxzero.tools	fluxzero-dev-server	2026-07-19T16:00:14Z	2.22.1

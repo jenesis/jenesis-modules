@@ -31,5 +31,6 @@
 0.3.1		2026-06-01T12:40:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alfikri-rizky/avifkit-iosx64/0.3.1/avifkit-iosx64-0.3.1.jar returned status 404
 0.3.1	metadata	2026-06-01T12:40:23Z	
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alfikri-rizky/avifkit-iosx64/0.3.2/avifkit-iosx64-0.3.2.jar returned status 404
+0.3.2	metadata	2026-07-13T13:05:51Z	
 v0.3.0		2026-06-01T08:20:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/alfikri-rizky/avifkit-iosx64/v0.3.0/avifkit-iosx64-v0.3.0.jar returned status 404
 v0.3.0	metadata	2026-06-01T08:20:58Z	

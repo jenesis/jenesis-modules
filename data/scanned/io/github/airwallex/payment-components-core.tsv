@@ -42,6 +42,7 @@
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-components-core/6.1.0/payment-components-core-6.1.0.jar returned status 404
 6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-components-core/6.1.1/payment-components-core-6.1.1.jar returned status 404
 6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-components-core/6.1.2/payment-components-core-6.1.2.jar returned status 404
+6.10.0		2026-07-20T05:41:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-components-core/6.10.0/payment-components-core-6.10.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-components-core/6.2.0/payment-components-core-6.2.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-components-core/6.2.1/payment-components-core-6.2.1.jar returned status 404
 6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/airwallex/payment-components-core/6.2.2/payment-components-core-6.2.2.jar returned status 404
