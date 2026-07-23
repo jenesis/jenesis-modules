@@ -2460,6 +2460,7 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 2.0.1	named	io.github.cuneytcakir	jmeter-sse-sampler	2026-07-06T10:42:25Z	
 2.4.10-RC2	named	org.jetbrains.kotlin	kotlin-osgi-bundle	2026-07-08T02:18:10Z	
 2.4.10-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2026-07-08T02:18:46Z	
+1.0.29	named	de.darkatra.injector	kotlin-dll-injector-application	2026-07-14T11:26:44Z	
 0.4.8	named	com.databend	databend-jdbc	2026-07-15T02:12:03Z	
 2.4.10	named	org.jetbrains.kotlin	kotlin-osgi-bundle	2026-07-15T02:20:16Z	
 2.4.10	named	org.jetbrains.kotlin	kotlin-stdlib	2026-07-15T02:20:38Z	

@@ -1,3 +1,4 @@
+0.10.0		2026-07-18T09:29:46Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/drick/compose/edge-to-edge-test/0.5.0/edge-to-edge-test-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/drick/compose/edge-to-edge-test/0.6.0/edge-to-edge-test-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/drick/compose/edge-to-edge-test/0.7.0/edge-to-edge-test-0.7.0.jar returned status 404

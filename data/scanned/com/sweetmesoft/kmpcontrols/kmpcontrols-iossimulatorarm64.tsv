@@ -91,4 +91,6 @@
 2.1.9		2026-06-30T02:21:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sweetmesoft/kmpcontrols/kmpcontrols-iossimulatorarm64/2.1.9/kmpcontrols-iossimulatorarm64-2.1.9.jar returned status 404
 2.1.9	metadata	2026-06-30T02:21:21Z	
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sweetmesoft/kmpcontrols/kmpcontrols-iossimulatorarm64/2.2.0/kmpcontrols-iossimulatorarm64-2.2.0.jar returned status 404
+2.2.0	metadata	2026-07-19T01:42:21Z	
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sweetmesoft/kmpcontrols/kmpcontrols-iossimulatorarm64/2.2.1/kmpcontrols-iossimulatorarm64-2.2.1.jar returned status 404
+2.2.1	metadata	2026-07-19T14:06:37Z	

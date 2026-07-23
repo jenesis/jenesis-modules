@@ -91,11 +91,13 @@
 10.1.0-pre1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/core-crypto-android/10.1.0-pre1/core-crypto-android-10.1.0-pre1.jar returned status 404
 10.1.0-pre1	html-docs	2026-07-09T10:04:53Z	
 10.1.0-pre10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/core-crypto-android/10.1.0-pre10/core-crypto-android-10.1.0-pre10.jar returned status 404
+10.1.0-pre10	html-docs	2026-07-14T09:32:45Z	
 10.1.0-pre2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/core-crypto-android/10.1.0-pre2/core-crypto-android-10.1.0-pre2.jar returned status 404
 10.1.0-pre2	html-docs	2026-07-09T11:41:22Z	
 10.1.0-pre5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/core-crypto-android/10.1.0-pre5/core-crypto-android-10.1.0-pre5.jar returned status 404
 10.1.0-pre5	html-docs	2026-07-10T14:49:25Z	
 10.1.0-pre9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/core-crypto-android/10.1.0-pre9/core-crypto-android-10.1.0-pre9.jar returned status 404
+10.1.0-pre9	html-docs	2026-07-13T10:41:14Z	
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/core-crypto-android/2.0.0/core-crypto-android-2.0.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/core-crypto-android/3.0.0/core-crypto-android-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/core-crypto-android/3.0.1/core-crypto-android-3.0.1.jar returned status 404

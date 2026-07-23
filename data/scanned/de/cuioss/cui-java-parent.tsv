@@ -119,3 +119,6 @@
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/cui-java-parent/1.4.5/cui-java-parent-1.4.5.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/cui-java-parent/1.5.0/cui-java-parent-1.5.0.jar returned status 404
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/cui-java-parent/1.5.1/cui-java-parent-1.5.1.jar returned status 404
+1.5.2		2026-07-18T21:40:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/cui-java-parent/1.5.2/cui-java-parent-1.5.2.jar returned status 404
+1.5.3		2026-07-19T17:35:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/cui-java-parent/1.5.3/cui-java-parent-1.5.3.jar returned status 404
+1.5.4		2026-07-21T07:09:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/cui-java-parent/1.5.4/cui-java-parent-1.5.4.jar returned status 404

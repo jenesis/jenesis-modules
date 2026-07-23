@@ -161,3 +161,4 @@
 7.0.0-alpha04		2026-06-29T15:00:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-iosx64/7.0.0-alpha04/wire-grpc-client-iosx64-7.0.0-alpha04.jar returned status 404
 7.0.0-alpha04	metadata	2026-06-29T15:00:52Z	
 7.0.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-grpc-client-iosx64/7.0.0-alpha05/wire-grpc-client-iosx64-7.0.0-alpha05.jar returned status 404
+7.0.0-alpha05	metadata	2026-07-15T10:48:53Z	

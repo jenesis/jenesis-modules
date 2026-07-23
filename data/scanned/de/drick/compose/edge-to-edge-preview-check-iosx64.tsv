@@ -1,3 +1,5 @@
+0.10.0		2026-07-18T09:29:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/drick/compose/edge-to-edge-preview-check-iosx64/0.10.0/edge-to-edge-preview-check-iosx64-0.10.0.jar returned status 404
+0.10.0	metadata	2026-07-18T09:29:46Z	
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/drick/compose/edge-to-edge-preview-check-iosx64/0.8.0/edge-to-edge-preview-check-iosx64-0.8.0.jar returned status 404
 0.8.0	metadata	2026-03-11T09:15:48Z	
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/drick/compose/edge-to-edge-preview-check-iosx64/0.9.0/edge-to-edge-preview-check-iosx64-0.9.0.jar returned status 404

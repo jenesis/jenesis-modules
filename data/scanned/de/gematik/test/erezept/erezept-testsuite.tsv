@@ -1,2 +1,3 @@
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/test/erezept/erezept-testsuite/1.1.0/erezept-testsuite-1.1.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/test/erezept/erezept-testsuite/1.2.1/erezept-testsuite-1.2.1.jar returned status 404
+1.6.0		2026-07-15T14:58:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/test/erezept/erezept-testsuite/1.6.0/erezept-testsuite-1.6.0.jar returned status 404

@@ -89,9 +89,15 @@
 0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-core-iossimulatorarm64/0.31.0/lemonade-core-iossimulatorarm64-0.31.0.jar returned status 404
 0.31.0	metadata	2026-07-09T17:42:39Z	
 0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-core-iossimulatorarm64/0.32.0/lemonade-core-iossimulatorarm64-0.32.0.jar returned status 404
+0.32.0	metadata	2026-07-13T11:40:32Z	
 0.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-core-iossimulatorarm64/0.32.1/lemonade-core-iossimulatorarm64-0.32.1.jar returned status 404
+0.32.1	metadata	2026-07-14T10:14:44Z	
 0.32.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-core-iossimulatorarm64/0.32.2/lemonade-core-iossimulatorarm64-0.32.2.jar returned status 404
+0.32.2	metadata	2026-07-16T09:16:40Z	
 0.32.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-core-iossimulatorarm64/0.32.3/lemonade-core-iossimulatorarm64-0.32.3.jar returned status 404
+0.32.3	metadata	2026-07-17T13:13:48Z	
+0.32.4		2026-07-21T09:23:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-core-iossimulatorarm64/0.32.4/lemonade-core-iossimulatorarm64-0.32.4.jar returned status 404
+0.32.4	metadata	2026-07-21T09:23:21Z	
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-core-iossimulatorarm64/0.4.0/lemonade-core-iossimulatorarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2026-02-05T14:48:24Z	
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-core-iossimulatorarm64/0.4.1/lemonade-core-iossimulatorarm64-0.4.1.jar returned status 404
