@@ -8,3 +8,4 @@
 1.6.2-1.8.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/adriel/lyricist/lyricist-core-android/1.6.2-1.8.20/lyricist-core-android-1.6.2-1.8.20.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/adriel/lyricist/lyricist-core-android/1.7.0/lyricist-core-android-1.7.0.jar returned status 404
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/adriel/lyricist/lyricist-core-android/1.8.0/lyricist-core-android-1.8.0.jar returned status 404
+1.9.0		2026-07-21T11:17:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/adriel/lyricist/lyricist-core-android/1.9.0/lyricist-core-android-1.9.0.jar returned status 404

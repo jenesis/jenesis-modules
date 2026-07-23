@@ -1,8 +1,8 @@
 # Crawl status
 
-- Updated: 2026-07-23T12:51:41.142928363Z
+- Updated: 2026-07-23T12:52:05.197401678Z
 - Sync mode: INCREMENTAL
-- This run: processed=38913, named=1218, automatic=3189, failed=2
+- This run: processed=40961, named=1328, automatic=3189, failed=2
 - Throughput: 86 coordinates/sec
 - Current chunk started: 2026-07-23T12:44:08.874398871Z
 - Last applied index chunk: 933
