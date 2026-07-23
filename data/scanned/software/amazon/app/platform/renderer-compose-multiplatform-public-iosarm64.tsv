@@ -14,6 +14,8 @@
 0.0.15	metadata	2026-06-16T00:26:56Z	
 0.0.16		2026-07-02T15:34:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/renderer-compose-multiplatform-public-iosarm64/0.0.16/renderer-compose-multiplatform-public-iosarm64-0.0.16.jar returned status 404
 0.0.16	metadata	2026-07-02T15:34:07Z	
+0.0.17		2026-07-15T15:49:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/renderer-compose-multiplatform-public-iosarm64/0.0.17/renderer-compose-multiplatform-public-iosarm64-0.0.17.jar returned status 404
+0.0.17	metadata	2026-07-15T15:49:38Z	
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/renderer-compose-multiplatform-public-iosarm64/0.0.2/renderer-compose-multiplatform-public-iosarm64-0.0.2.jar returned status 404
 0.0.2	metadata	2025-05-03T03:40:29Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/renderer-compose-multiplatform-public-iosarm64/0.0.3/renderer-compose-multiplatform-public-iosarm64-0.0.3.jar returned status 404

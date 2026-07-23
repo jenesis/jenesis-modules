@@ -6,6 +6,7 @@
 0.0.14		2026-05-21T05:10:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-public-linuxx64/0.0.14/robot-public-linuxx64-0.0.14.jar returned status 404
 0.0.15		2026-06-16T00:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-public-linuxx64/0.0.15/robot-public-linuxx64-0.0.15.jar returned status 404
 0.0.16		2026-07-02T15:34:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-public-linuxx64/0.0.16/robot-public-linuxx64-0.0.16.jar returned status 404
+0.0.17		2026-07-15T15:49:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-public-linuxx64/0.0.17/robot-public-linuxx64-0.0.17.jar returned status 404
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-public-linuxx64/0.0.2/robot-public-linuxx64-0.0.2.jar returned status 404
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-public-linuxx64/0.0.3/robot-public-linuxx64-0.0.3.jar returned status 404
 0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/app/platform/robot-public-linuxx64/0.0.4/robot-public-linuxx64-0.0.4.jar returned status 404
