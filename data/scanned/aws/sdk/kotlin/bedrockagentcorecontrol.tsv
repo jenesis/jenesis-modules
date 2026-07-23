@@ -235,6 +235,9 @@
 1.6.99		2026-06-18T18:46:34Z	
 1.8.0		2026-07-07T18:50:26Z	
 1.8.1		2026-07-08T18:50:15Z	
+1.8.10		2026-07-20T18:43:52Z	
+1.8.11		2026-07-21T18:44:27Z	
+1.8.12		2026-07-22T18:42:40Z	
 1.8.2		2026-07-08T23:50:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bedrockagentcorecontrol/1.8.2/bedrockagentcorecontrol-1.8.2.jar returned status 404
 1.8.3			
 1.8.4			

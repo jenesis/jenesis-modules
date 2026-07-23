@@ -787,6 +787,12 @@
 1.8.0	optimized	2026-07-07T18:49:42Z	
 1.8.1		2026-07-08T18:50:43Z	
 1.8.1	optimized	2026-07-08T18:49:57Z	
+1.8.10		2026-07-20T18:43:02Z	
+1.8.10	optimized	2026-07-20T18:43:21Z	
+1.8.11		2026-07-21T18:45:15Z	
+1.8.11	optimized	2026-07-21T18:44:38Z	
+1.8.12		2026-07-22T18:43:14Z	
+1.8.12	optimized	2026-07-22T18:42:54Z	
 1.8.2		2026-07-08T23:49:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/appmesh-jvm/1.8.2/appmesh-jvm-1.8.2.jar returned status 404
 1.8.2	optimized	2026-07-08T23:50:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/appmesh-jvm/1.8.2/appmesh-jvm-1.8.2-optimized.jar returned status 404
 1.8.3			
@@ -796,6 +802,10 @@
 1.8.5		2026-07-13T18:47:04Z	
 1.8.5	optimized	2026-07-13T18:46:22Z	
 1.8.6			
+1.8.6	optimized	2026-07-14T18:45:24Z	
 1.8.7			
+1.8.7	optimized	2026-07-15T18:45:59Z	
 1.8.8			
+1.8.8	optimized	2026-07-16T18:46:21Z	
 1.8.9			
+1.8.9	optimized	2026-07-17T18:49:19Z	

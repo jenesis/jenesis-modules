@@ -787,6 +787,12 @@
 1.8.0	optimized	2026-07-07T18:50:26Z	
 1.8.1		2026-07-08T18:49:57Z	
 1.8.1	optimized	2026-07-08T18:50:01Z	
+1.8.10		2026-07-20T18:43:03Z	
+1.8.10	optimized	2026-07-20T18:43:26Z	
+1.8.11		2026-07-21T18:44:43Z	
+1.8.11	optimized	2026-07-21T18:44:58Z	
+1.8.12		2026-07-22T18:43:17Z	
+1.8.12	optimized	2026-07-22T18:42:45Z	
 1.8.2		2026-07-08T23:50:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/appsync-jvm/1.8.2/appsync-jvm-1.8.2.jar returned status 404
 1.8.2	optimized	2026-07-08T23:50:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/appsync-jvm/1.8.2/appsync-jvm-1.8.2-optimized.jar returned status 404
 1.8.3			
@@ -796,6 +802,10 @@
 1.8.5		2026-07-13T18:46:20Z	
 1.8.5	optimized	2026-07-13T18:46:53Z	
 1.8.6			
+1.8.6	optimized	2026-07-14T18:46:01Z	
 1.8.7			
+1.8.7	optimized	2026-07-15T18:45:59Z	
 1.8.8			
+1.8.8	optimized	2026-07-16T18:45:47Z	
 1.8.9			
+1.8.9	optimized	2026-07-17T18:48:40Z	

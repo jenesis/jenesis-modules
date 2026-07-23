@@ -727,6 +727,12 @@
 1.8.0	optimized	2026-07-07T18:50:31Z	
 1.8.1		2026-07-08T18:50:33Z	
 1.8.1	optimized	2026-07-08T18:50:15Z	
+1.8.10		2026-07-20T18:43:38Z	
+1.8.10	optimized	2026-07-20T18:43:54Z	
+1.8.11		2026-07-21T18:45:13Z	
+1.8.11	optimized	2026-07-21T18:45:05Z	
+1.8.12		2026-07-22T18:43:15Z	
+1.8.12	optimized	2026-07-22T18:42:31Z	
 1.8.2		2026-07-08T23:50:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bedrock-jvm/1.8.2/bedrock-jvm-1.8.2.jar returned status 404
 1.8.2	optimized	2026-07-08T23:50:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/bedrock-jvm/1.8.2/bedrock-jvm-1.8.2-optimized.jar returned status 404
 1.8.3			
@@ -736,6 +742,10 @@
 1.8.5		2026-07-13T18:47:09Z	
 1.8.5	optimized	2026-07-13T18:46:23Z	
 1.8.6			
+1.8.6	optimized	2026-07-14T18:45:49Z	
 1.8.7			
+1.8.7	optimized	2026-07-15T18:46:12Z	
 1.8.8			
+1.8.8	optimized	2026-07-16T18:46:23Z	
 1.8.9			
+1.8.9	optimized	2026-07-17T18:49:30Z	
