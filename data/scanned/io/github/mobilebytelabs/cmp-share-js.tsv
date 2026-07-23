@@ -10,3 +10,4 @@
 3.5.2		2026-06-22T04:59:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-js/3.5.2/cmp-share-js-3.5.2.jar returned status 404
 3.5.3		2026-07-06T15:21:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-js/3.5.3/cmp-share-js-3.5.3.jar returned status 404
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-js/3.5.4/cmp-share-js-3.5.4.jar returned status 404
+3.5.5		2026-07-20T03:40:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-js/3.5.5/cmp-share-js-3.5.5.jar returned status 404

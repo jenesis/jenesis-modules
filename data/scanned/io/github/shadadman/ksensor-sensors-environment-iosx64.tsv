@@ -11,3 +11,6 @@
 4.90.3		2026-07-02T09:55:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-environment-iosx64/4.90.3/ksensor-sensors-environment-iosx64-4.90.3.jar returned status 404
 4.90.3	metadata	2026-07-02T09:55:08Z	
 4.98.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-environment-iosx64/4.98.20/ksensor-sensors-environment-iosx64-4.98.20.jar returned status 404
+4.98.20	metadata	2026-07-17T07:10:44Z	
+5.10.30		2026-07-20T17:54:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-environment-iosx64/5.10.30/ksensor-sensors-environment-iosx64-5.10.30.jar returned status 404
+5.10.30	metadata	2026-07-20T17:54:41Z	

@@ -19,6 +19,7 @@
 4.5.0-rc01		2026-06-27T10:03:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-video-iosarm64/4.5.0-rc01/sketch-video-iosarm64-4.5.0-rc01.jar returned status 404
 4.5.0-rc01	metadata	2026-06-27T10:03:31Z	
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-video-iosarm64/4.6.0/sketch-video-iosarm64-4.6.0.jar returned status 404
+4.6.0	metadata	2026-07-12T16:35:23Z	
 4.6.0-alpha01		2026-07-02T16:30:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-video-iosarm64/4.6.0-alpha01/sketch-video-iosarm64-4.6.0-alpha01.jar returned status 404
 4.6.0-alpha01	metadata	2026-07-02T16:30:09Z	
 4.6.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/panpf/sketch4/sketch-video-iosarm64/4.6.0-beta01/sketch-video-iosarm64-4.6.0-beta01.jar returned status 404

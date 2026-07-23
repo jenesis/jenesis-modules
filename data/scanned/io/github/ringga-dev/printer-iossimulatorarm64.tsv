@@ -1,0 +1,8 @@
+2.3.1		2026-07-11T19:33:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ringga-dev/printer-iossimulatorarm64/2.3.1/printer-iossimulatorarm64-2.3.1.jar returned status 404
+2.3.1	metadata	2026-07-11T19:33:03Z	
+2.3.2		2026-07-11T20:30:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ringga-dev/printer-iossimulatorarm64/2.3.2/printer-iossimulatorarm64-2.3.2.jar returned status 404
+2.3.2	metadata	2026-07-11T20:30:18Z	
+2.3.3		2026-07-12T08:50:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ringga-dev/printer-iossimulatorarm64/2.3.3/printer-iossimulatorarm64-2.3.3.jar returned status 404
+2.3.3	metadata	2026-07-12T08:50:33Z	
+2.3.5		2026-07-13T02:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ringga-dev/printer-iossimulatorarm64/2.3.5/printer-iossimulatorarm64-2.3.5.jar returned status 404
+2.3.5	metadata	2026-07-13T02:54:37Z	

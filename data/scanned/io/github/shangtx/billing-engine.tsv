@@ -6,3 +6,4 @@
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shangtx/billing-engine/2.1.2/billing-engine-2.1.2.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shangtx/billing-engine/3.0.0/billing-engine-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shangtx/billing-engine/3.0.1/billing-engine-3.0.1.jar returned status 404
+3.0.2		2026-07-20T08:55:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shangtx/billing-engine/3.0.2/billing-engine-3.0.2.jar returned status 404
