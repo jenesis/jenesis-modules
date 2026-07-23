@@ -15,3 +15,4 @@
 1.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/wahllokalsystem/wls-common/parent/1.6.4/parent-1.6.4.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/wahllokalsystem/wls-common/parent/1.7.0/parent-1.7.0.jar returned status 404
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/wahllokalsystem/wls-common/parent/1.7.1/parent-1.7.1.jar returned status 404
+1.8.0		2026-07-16T10:15:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/muenchen/oss/wahllokalsystem/wls-common/parent/1.8.0/parent-1.8.0.jar returned status 404

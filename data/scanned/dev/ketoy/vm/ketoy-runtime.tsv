@@ -12,3 +12,4 @@
 0.4.13-alpha		2026-07-03T08:35:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-runtime/0.4.13-alpha/ketoy-runtime-0.4.13-alpha.jar returned status 404
 0.4.16-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-runtime/0.4.16-alpha/ketoy-runtime-0.4.16-alpha.jar returned status 404
 0.4.2-alpha		2026-06-18T08:49:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-runtime/0.4.2-alpha/ketoy-runtime-0.4.2-alpha.jar returned status 404
+0.4.20-alpha		2026-07-20T04:52:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-runtime/0.4.20-alpha/ketoy-runtime-0.4.20-alpha.jar returned status 404

@@ -11,3 +11,5 @@
 0.4.13-alpha		2026-07-03T08:35:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-catalog/0.4.13-alpha/ketoy-catalog-0.4.13-alpha.jar returned status 404
 0.4.16-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-catalog/0.4.16-alpha/ketoy-catalog-0.4.16-alpha.jar returned status 404
 0.4.2-alpha		2026-06-18T08:49:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-catalog/0.4.2-alpha/ketoy-catalog-0.4.2-alpha.jar returned status 404
+0.4.20-alpha		2026-07-20T04:52:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-catalog/0.4.20-alpha/ketoy-catalog-0.4.20-alpha.jar returned status 404
+0.4.21-alpha		2026-07-20T17:19:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ketoy/vm/ketoy-catalog/0.4.21-alpha/ketoy-catalog-0.4.21-alpha.jar returned status 404

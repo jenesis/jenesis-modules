@@ -4975,6 +4975,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 10.29.0.143774	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-07-11T00:09:55Z	2.14.0
 1.5.6	named	com.conaxgames	clibraries	2026-07-12T02:15:18Z	2.14.0
 1.5.7	named	com.conaxgames	clibraries	2026-07-13T00:16:05Z	2.14.0
+0.0.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-07-13T13:38:20Z	2.11.0
 0.1.5-beta	named	dev.cjfravel	ariadne-spark41_2.13	2026-07-13T23:53:25Z	2.14.0
 0.1.5-beta	named	dev.cjfravel	ariadne-spark35_2.12	2026-07-13T23:53:26Z	2.14.0
 0.2.2	named	io.github.cobble-project	cobble	2026-07-14T00:07:22Z	2.10.1

@@ -11,6 +11,7 @@
 3.7.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/sdk-bom/3.7.26/sdk-bom-3.7.26.jar returned status 404
 3.7.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/sdk-bom/3.7.27/sdk-bom-3.7.27.jar returned status 404
 3.7.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/sdk-bom/3.7.28/sdk-bom-3.7.28.jar returned status 404
+3.8.10		2026-07-20T17:15:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/sdk-bom/3.8.10/sdk-bom-3.8.10.jar returned status 404
 3.8.3		2026-05-23T16:52:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/sdk-bom/3.8.3/sdk-bom-3.8.3.jar returned status 404
 3.8.4		2026-05-26T14:34:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/sdk-bom/3.8.4/sdk-bom-3.8.4.jar returned status 404
 3.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/getelements/elements/sdk-bom/3.8.8/sdk-bom-3.8.8.jar returned status 404
