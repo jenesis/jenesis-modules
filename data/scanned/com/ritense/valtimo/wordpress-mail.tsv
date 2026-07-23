@@ -175,6 +175,7 @@
 12.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/wordpress-mail/12.4.1.RELEASE/wordpress-mail-12.4.1.RELEASE.jar returned status 404
 12.4.1.RELEASE	plain	2024-11-19T10:49:17Z	
 12.40.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/wordpress-mail/12.40.0.RELEASE/wordpress-mail-12.40.0.RELEASE.jar returned status 404
+12.40.0.RELEASE	plain	2026-07-15T11:17:00Z	
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/wordpress-mail/12.5.0.RELEASE/wordpress-mail-12.5.0.RELEASE.jar returned status 404
 12.5.0.RELEASE	plain	2024-11-22T16:04:50Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/wordpress-mail/12.5.1.RELEASE/wordpress-mail-12.5.1.RELEASE.jar returned status 404
@@ -282,6 +283,7 @@
 13.36.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/wordpress-mail/13.36.1.RELEASE/wordpress-mail-13.36.1.RELEASE.jar returned status 404
 13.36.1.RELEASE	plain	2026-07-10T09:25:04Z	
 13.37.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/wordpress-mail/13.37.0.RELEASE/wordpress-mail-13.37.0.RELEASE.jar returned status 404
+13.37.0.RELEASE	plain	2026-07-15T11:51:17Z	
 13.4.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/wordpress-mail/13.4.0.RELEASE/wordpress-mail-13.4.0.RELEASE.jar returned status 404
 13.4.0.RELEASE	plain	2025-10-20T15:47:30Z	
 13.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/wordpress-mail/13.4.1.RELEASE/wordpress-mail-13.4.1.RELEASE.jar returned status 404

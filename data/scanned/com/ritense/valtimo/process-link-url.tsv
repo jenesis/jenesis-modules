@@ -91,6 +91,7 @@
 12.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/process-link-url/12.4.1.RELEASE/process-link-url-12.4.1.RELEASE.jar returned status 404
 12.4.1.RELEASE	plain	2024-11-19T10:45:49Z	
 12.40.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/process-link-url/12.40.0.RELEASE/process-link-url-12.40.0.RELEASE.jar returned status 404
+12.40.0.RELEASE	plain	2026-07-15T11:17:03Z	
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/process-link-url/12.5.0.RELEASE/process-link-url-12.5.0.RELEASE.jar returned status 404
 12.5.0.RELEASE	plain	2024-11-22T16:01:34Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/process-link-url/12.5.1.RELEASE/process-link-url-12.5.1.RELEASE.jar returned status 404
@@ -198,6 +199,7 @@
 13.36.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/process-link-url/13.36.1.RELEASE/process-link-url-13.36.1.RELEASE.jar returned status 404
 13.36.1.RELEASE	plain	2026-07-10T09:25:01Z	
 13.37.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/process-link-url/13.37.0.RELEASE/process-link-url-13.37.0.RELEASE.jar returned status 404
+13.37.0.RELEASE	plain	2026-07-15T11:51:18Z	
 13.4.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/process-link-url/13.4.0.RELEASE/process-link-url-13.4.0.RELEASE.jar returned status 404
 13.4.0.RELEASE	plain	2025-10-20T15:47:30Z	
 13.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/process-link-url/13.4.1.RELEASE/process-link-url-13.4.1.RELEASE.jar returned status 404

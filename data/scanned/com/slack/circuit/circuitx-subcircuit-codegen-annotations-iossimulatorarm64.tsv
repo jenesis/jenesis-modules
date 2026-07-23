@@ -1,4 +1,6 @@
 0.34.0		2026-06-09T23:09:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/slack/circuit/circuitx-subcircuit-codegen-annotations-iossimulatorarm64/0.34.0/circuitx-subcircuit-codegen-annotations-iossimulatorarm64-0.34.0.jar returned status 404
 0.34.0	metadata	2026-06-09T23:09:43Z	
 0.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/slack/circuit/circuitx-subcircuit-codegen-annotations-iossimulatorarm64/0.35.0/circuitx-subcircuit-codegen-annotations-iossimulatorarm64-0.35.0.jar returned status 404
+0.35.0	metadata	2026-07-16T03:26:15Z	
 0.35.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/slack/circuit/circuitx-subcircuit-codegen-annotations-iossimulatorarm64/0.35.1/circuitx-subcircuit-codegen-annotations-iossimulatorarm64-0.35.1.jar returned status 404
+0.35.1	metadata	2026-07-16T03:35:33Z	

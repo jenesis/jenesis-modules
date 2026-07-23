@@ -17,6 +17,7 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phocassoftware/graphql-builder-parent/2.0.0/graphql-builder-parent-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phocassoftware/graphql-builder-parent/2.0.1/graphql-builder-parent-2.0.1.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phocassoftware/graphql-builder-parent/2.1.0/graphql-builder-parent-2.1.0.jar returned status 404
+2.10.0		2026-07-20T03:17:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phocassoftware/graphql-builder-parent/2.10.0/graphql-builder-parent-2.10.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phocassoftware/graphql-builder-parent/2.2.0/graphql-builder-parent-2.2.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phocassoftware/graphql-builder-parent/2.3.0/graphql-builder-parent-2.3.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phocassoftware/graphql-builder-parent/2.4.0/graphql-builder-parent-2.4.0.jar returned status 404

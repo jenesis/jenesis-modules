@@ -119,6 +119,7 @@
 3.2.52		2026-05-14T08:28:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/orientechnologies/orientdb-tp3/3.2.52/orientdb-tp3-3.2.52.jar returned status 404
 3.2.53		2026-06-01T03:09:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/orientechnologies/orientdb-tp3/3.2.53/orientdb-tp3-3.2.53.jar returned status 404
 3.2.54		2026-07-06T04:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/orientechnologies/orientdb-tp3/3.2.54/orientdb-tp3-3.2.54.jar returned status 404
+3.2.55		2026-07-20T13:50:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/orientechnologies/orientdb-tp3/3.2.55/orientdb-tp3-3.2.55.jar returned status 404
 3.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/orientechnologies/orientdb-tp3/3.2.6/orientdb-tp3-3.2.6.jar returned status 404
 3.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/orientechnologies/orientdb-tp3/3.2.7/orientdb-tp3-3.2.7.jar returned status 404
 3.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/orientechnologies/orientdb-tp3/3.2.8/orientdb-tp3-3.2.8.jar returned status 404

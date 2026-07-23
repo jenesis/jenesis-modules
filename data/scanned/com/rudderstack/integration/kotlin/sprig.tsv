@@ -1,2 +1,3 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rudderstack/integration/kotlin/sprig/1.0.0/sprig-1.0.0.jar returned status 404
 1.0.1		2026-06-04T13:33:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rudderstack/integration/kotlin/sprig/1.0.1/sprig-1.0.1.jar returned status 404
+1.0.2		2026-07-20T07:36:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rudderstack/integration/kotlin/sprig/1.0.2/sprig-1.0.2.jar returned status 404

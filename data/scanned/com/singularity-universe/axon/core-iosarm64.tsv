@@ -1,0 +1,10 @@
+1.0.0-alpha1		2026-07-12T17:32:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/singularity-universe/axon/core-iosarm64/1.0.0-alpha1/core-iosarm64-1.0.0-alpha1.jar returned status 404
+1.0.0-alpha1	metadata	2026-07-12T17:32:31Z	
+1.0.0-alpha2		2026-07-13T00:11:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/singularity-universe/axon/core-iosarm64/1.0.0-alpha2/core-iosarm64-1.0.0-alpha2.jar returned status 404
+1.0.0-alpha2	metadata	2026-07-13T00:11:59Z	
+1.0.0-alpha3		2026-07-13T02:03:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/singularity-universe/axon/core-iosarm64/1.0.0-alpha3/core-iosarm64-1.0.0-alpha3.jar returned status 404
+1.0.0-alpha3	metadata	2026-07-13T02:03:48Z	
+1.0.0-alpha4		2026-07-13T05:09:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/singularity-universe/axon/core-iosarm64/1.0.0-alpha4/core-iosarm64-1.0.0-alpha4.jar returned status 404
+1.0.0-alpha4	metadata	2026-07-13T05:09:04Z	
+1.0.0-alpha5		2026-07-13T06:02:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/singularity-universe/axon/core-iosarm64/1.0.0-alpha5/core-iosarm64-1.0.0-alpha5.jar returned status 404
+1.0.0-alpha5	metadata	2026-07-13T06:02:08Z	

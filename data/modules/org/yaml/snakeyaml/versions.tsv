@@ -1174,4 +1174,7 @@
 0.2.0-perftest2	named	com.sparkutils	quality_testshade_18.3.dbr_4.1_2.13	2026-07-18T02:20:57Z	2.0
 0.2.0-perftest2	named	com.sparkutils	quality_testshade_17.3.dbr_4.0_2.13	2026-07-18T02:20:58Z	2.0
 0.2.0-perftest2	named	com.sparkutils	quality_testshade_4.1.0.oss_4.1_2.13	2026-07-18T02:20:58Z	2.0
+0.2.0-perftest2	named	com.sparkutils	quality_testshade_4.2.0.oss_4.2_2.13	2026-07-18T07:57:17Z	2.0
+0.2.0-perftest2	named	com.sparkutils	quality_connect_testshade_4.2.0.oss_4.2_2.13	2026-07-18T07:57:28Z	2.0
 1.4.0	named	io.github.spah1879	hwp-doclet	2026-07-19T02:16:43Z	2.6
+26.06.0	named	com.nvidia	rapids-4-spark-tools_2.12	2026-07-20T23:23:54Z	2.0

@@ -25,3 +25,4 @@
 0.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubnub/pubnub-3p-diff-match-patch-js/0.9.3/pubnub-3p-diff-match-patch-js-0.9.3.jar returned status 404
 0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubnub/pubnub-3p-diff-match-patch-js/0.9.4/pubnub-3p-diff-match-patch-js-0.9.4.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubnub/pubnub-3p-diff-match-patch-js/1.0.0/pubnub-3p-diff-match-patch-js-1.0.0.jar returned status 404
+1.0.1		2026-07-21T10:04:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubnub/pubnub-3p-diff-match-patch-js/1.0.1/pubnub-3p-diff-match-patch-js-1.0.1.jar returned status 404

@@ -171,6 +171,7 @@
 12.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/data-provider/12.4.1.RELEASE/data-provider-12.4.1.RELEASE.jar returned status 404
 12.4.1.RELEASE	plain	2024-11-19T10:39:33Z	
 12.40.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/data-provider/12.40.0.RELEASE/data-provider-12.40.0.RELEASE.jar returned status 404
+12.40.0.RELEASE	plain	2026-07-15T11:17:01Z	
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/data-provider/12.5.0.RELEASE/data-provider-12.5.0.RELEASE.jar returned status 404
 12.5.0.RELEASE	plain	2024-11-22T15:56:02Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/data-provider/12.5.1.RELEASE/data-provider-12.5.1.RELEASE.jar returned status 404
@@ -278,6 +279,7 @@
 13.36.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/data-provider/13.36.1.RELEASE/data-provider-13.36.1.RELEASE.jar returned status 404
 13.36.1.RELEASE	plain	2026-07-10T09:25:03Z	
 13.37.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/data-provider/13.37.0.RELEASE/data-provider-13.37.0.RELEASE.jar returned status 404
+13.37.0.RELEASE	plain	2026-07-15T11:51:16Z	
 13.4.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/data-provider/13.4.0.RELEASE/data-provider-13.4.0.RELEASE.jar returned status 404
 13.4.0.RELEASE	plain	2025-10-20T15:47:32Z	
 13.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/data-provider/13.4.1.RELEASE/data-provider-13.4.1.RELEASE.jar returned status 404
