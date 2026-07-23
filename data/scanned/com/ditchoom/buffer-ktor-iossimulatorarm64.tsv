@@ -1,14 +1,31 @@
 6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.10.0/buffer-ktor-iossimulatorarm64-6.10.0.jar returned status 404
 6.10.0	metadata	2026-07-12T22:14:02Z	
 6.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.10.1/buffer-ktor-iossimulatorarm64-6.10.1.jar returned status 404
+6.10.1	metadata	2026-07-14T16:16:44Z	
 6.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.10.2/buffer-ktor-iossimulatorarm64-6.10.2.jar returned status 404
+6.10.2	metadata	2026-07-14T18:55:37Z	
 6.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.11.0/buffer-ktor-iossimulatorarm64-6.11.0.jar returned status 404
+6.11.0	metadata	2026-07-14T20:20:34Z	
 6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.12.0/buffer-ktor-iossimulatorarm64-6.12.0.jar returned status 404
+6.12.0	metadata	2026-07-15T17:01:33Z	
 6.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.13.0/buffer-ktor-iossimulatorarm64-6.13.0.jar returned status 404
+6.13.0	metadata	2026-07-15T19:38:36Z	
 6.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.13.1/buffer-ktor-iossimulatorarm64-6.13.1.jar returned status 404
+6.13.1	metadata	2026-07-15T21:20:11Z	
 6.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.14.0/buffer-ktor-iossimulatorarm64-6.14.0.jar returned status 404
+6.14.0	metadata	2026-07-18T21:10:21Z	
 6.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.15.0/buffer-ktor-iossimulatorarm64-6.15.0.jar returned status 404
+6.15.0	metadata	2026-07-19T17:44:15Z	
 6.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.16.0/buffer-ktor-iossimulatorarm64-6.16.0.jar returned status 404
+6.16.0	metadata	2026-07-19T19:01:58Z	
+6.16.1		2026-07-20T22:48:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.16.1/buffer-ktor-iossimulatorarm64-6.16.1.jar returned status 404
+6.16.1	metadata	2026-07-20T22:48:33Z	
+6.17.0		2026-07-21T00:32:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.17.0/buffer-ktor-iossimulatorarm64-6.17.0.jar returned status 404
+6.17.0	metadata	2026-07-21T00:32:47Z	
+6.17.1		2026-07-21T02:39:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.17.1/buffer-ktor-iossimulatorarm64-6.17.1.jar returned status 404
+6.17.1	metadata	2026-07-21T02:39:55Z	
+6.17.2		2026-07-21T22:16:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.17.2/buffer-ktor-iossimulatorarm64-6.17.2.jar returned status 404
+6.17.2	metadata	2026-07-21T22:16:52Z	
 6.6.0		2026-07-06T07:08:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.6.0/buffer-ktor-iossimulatorarm64-6.6.0.jar returned status 404
 6.6.0	metadata	2026-07-06T07:08:58Z	
 6.6.1		2026-07-06T18:28:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-iossimulatorarm64/6.6.1/buffer-ktor-iossimulatorarm64-6.6.1.jar returned status 404

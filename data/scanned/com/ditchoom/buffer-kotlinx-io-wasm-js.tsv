@@ -8,6 +8,10 @@
 6.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-wasm-js/6.14.0/buffer-kotlinx-io-wasm-js-6.14.0.jar returned status 404
 6.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-wasm-js/6.15.0/buffer-kotlinx-io-wasm-js-6.15.0.jar returned status 404
 6.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-wasm-js/6.16.0/buffer-kotlinx-io-wasm-js-6.16.0.jar returned status 404
+6.16.1		2026-07-20T22:48:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-wasm-js/6.16.1/buffer-kotlinx-io-wasm-js-6.16.1.jar returned status 404
+6.17.0		2026-07-21T00:32:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-wasm-js/6.17.0/buffer-kotlinx-io-wasm-js-6.17.0.jar returned status 404
+6.17.1		2026-07-21T02:39:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-wasm-js/6.17.1/buffer-kotlinx-io-wasm-js-6.17.1.jar returned status 404
+6.17.2		2026-07-21T22:16:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-wasm-js/6.17.2/buffer-kotlinx-io-wasm-js-6.17.2.jar returned status 404
 6.6.0		2026-07-06T07:08:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-wasm-js/6.6.0/buffer-kotlinx-io-wasm-js-6.6.0.jar returned status 404
 6.6.1		2026-07-06T18:27:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-wasm-js/6.6.1/buffer-kotlinx-io-wasm-js-6.6.1.jar returned status 404
 6.7.0		2026-07-06T17:41:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-wasm-js/6.7.0/buffer-kotlinx-io-wasm-js-6.7.0.jar returned status 404
