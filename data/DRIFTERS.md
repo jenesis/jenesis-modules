@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-25. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-26. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -276,7 +276,7 @@ org.apache.commons.csv  [republished by `io.github.pustike` (still active); belo
   ?   org.sonarsource.scanner.engine       2026-05..2026-07 13.4.1.4007          |...................=|
   ?   be.ugent.idlab.knows                 2025-09..2026-07 2.0.3                |.................===|
   ?   org.apache.pinot                     2024-08..2026-06 1.5.1                |...............=====|
-  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
+  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |..................==|
     + 10 more: org.testingisdocumenting.znai, io.kestra.plugin, org.apache.commons, xyz.ottr.lutra, org.jetbrains.kotlinx, com.wizzdi, io.telicent.jena.graphql, io.telicent.jena, org.apache.jena, com.guicedee.services
 com.sun.xml.bind  [republished by `org.glassfish.jaxb` (still active); belongs to `com.sun.xml.bind`]
   R * org.glassfish.jaxb                   2018-07..2019-01 2.3.2                |...==...............|
@@ -455,7 +455,7 @@ org.openapitools.jackson.nullable  [fork: keep `org.openapitools`, `io.airlift` 
   ?   io.github.giis-uniovi                2026-07..2026-07 2.2.1                |...................=|
 org.yaml.snakeyaml  [fork: keep `org.yaml`, `com.nvidia` still publishes the name]
   A * org.yaml                             2019-02..2026-02 2.6                  |....===============.|
-  R   com.nvidia                           2023-04..2026-07 26.06.0              |.............=======|
+  R   com.nvidia                           2023-04..2026-07 26.06.0              |............========|
   R   io.github.spah1879                   2024-10..2026-07 1.4.0                |...............=====|
   R   com.sparkutils                       2024-12..2026-07 0.2.0-perftest2      |................====|
   R   org.conductoross                     2026-03..2026-07 3.32.0-rc.13         |..................==|
@@ -605,7 +605,7 @@ io.netty.transport  [fork: keep `io.netty`, `com.arcadedb` still publishes the n
   R   io.github.lukaszsamson               2026-04..2026-07 0.2.0                |..................==|
   ?   io.github.qbsstg                     2026-06..2026-06 0.17.0               |...................=|
   R   com.sportradar.unifiedodds.sdk       2026-02..2026-03 5.0.0-rc4            |..................=.|
-  R   io.karatelabs                        2025-10..2025-11 1.5.2                |..................=.|
+  R   io.karatelabs                        2025-10..2025-11 1.5.2                |.................==.|
 org.assertj.core  [fork: keep `org.assertj`, `com.install4j` still publishes the name]
   A * org.assertj                          2018-05..2026-01 3.27.7               |...================.|
   ?   com.install4j                        2026-07..2026-07 13.0.1               |...................=|
@@ -905,7 +905,7 @@ de.agilecoders.wicket.webjars  [fork: keep `de.agilecoders.wicket.webjars`, `io.
 com.github.librepdf.openpdf  [fork: keep `com.github.librepdf`, `io.github.icarius4iu` still publishes the name]
   A * com.github.librepdf                  2018-09..2026-05 3.0.5                |...=================|
   ?   io.github.icarius4iu                 2026-06..2026-06 0.1.0                |...................=|
-  R   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
+  R   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |..................==|
   R   net.ioze                             2026-01..2026-01 1.0.9                |..................=.|
   R   org.computate                        2023-11..2024-02 2.0.2                |..............=.....|
   R   io.github.darkxanter                 2023-10..2023-10 1.3.31               |.............=......|
@@ -1050,7 +1050,7 @@ com.github.javaparser.symbolsolver.core  [fork: keep `com.github.javaparser`, `o
   R   io.joern                             2022-06..2022-06 3.24.3-SL3           |...........=........|
 org.apache.commons.collections4  [fork: keep `org.apache.commons`, `com.guicedee.modules.services` still publishes the name]
   A * org.apache.commons                   2018-07..2025-04 4.5.0                |...==============...|
-  R   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
+  R   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |..................==|
   ?   org.apache.directory.api             2026-05..2026-05 2.1.8                |...................=|
   R   io.github.qudtlib                    2024-12..2025-10 7.1.1                |................==..|
   R   de.jball                             2025-07..2025-07 0.9.0                |.................=..|
@@ -1490,7 +1490,7 @@ org.apache.commons.io  [no clear owner; `commons-io` is earliest and most recent
   ?   no.entur                             2024-03..2026-07 1.126.0              |..............======|
   ?   eu.rekawek.coffeegb                  2025-08..2026-07 1.7.4                |.................===|
   ?   org.sonarsource.python               2024-10..2026-07 5.25.0.34794         |...............=====|
-  ?   com.datarobot                        2024-10..2026-07 11.2.42              |................====|
+  ?   com.datarobot                        2024-10..2026-07 11.2.42              |...............=====|
     + 94 more: io.streamnative, io.boxlang, org.sonarsource.flex, io.prophecy, com.jfrog, io.github.liquid-java, org.apache.flink, org.apache.distributedlog, org.apache.dolphinscheduler, org.teavm, org.apache.hudi, org.apache.tika, (+82 more)
 org.dnsjava  [no clear owner; `dnsjava` is earliest and most recent]
   ? * dnsjava                              2019-05..2026-05 3.6.5                |.....===============|
@@ -1535,7 +1535,7 @@ org.apache.commons.beanutils  [no clear owner; `com.guicedee.services` is earlie
   ?   org.wildfly                          2025-06..2026-07 41.0.0.Final         |.................===|
   ?   io.github.stoyank7                   2026-06..2026-06 1.0.2                |...................=|
   ?   org.jvnet.jaxb                       2025-09..2026-06 2.0.16               |.................===|
-  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
+  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |..................==|
   ?   com.github.bld-commons               2026-01..2026-05 3.0.19               |..................==|
     + 4 more: kg.apc, com.github.bordertech.wcomponents, commons-beanutils, org.onebusaway
 com.kingbase8.jdbc  [no clear owner; `org.jeecgframework` is earliest and most recent]
@@ -1594,7 +1594,7 @@ java.servlet.jsp  [no clear owner; `org.apache.tomcat` is earliest and most rece
 java.servlet  [no clear owner; `jakarta.servlet` is earliest and most recent]
   ? * jakarta.servlet                      2019-08..2020-07 5.0.0-M2             |.....===............|
   ?   org.apache.tomcat                    2020-11..2026-07 9.0.120              |........============|
-  ?   org.apache.felix                     2022-02..2022-10 2.1.0                |..........===.......|
+  ?   org.apache.felix                     2022-02..2022-10 2.1.0                |..........==........|
   ?   com.guicedee.services                2020-05..2022-02 1.2.2.1-jre17        |.......====.........|
   ?   org.jboss.spec.javax.servlet         2019-08..2019-09 2.0.0.Final          |.....=..............|
 java.security.auth.message  [no clear owner; `jakarta.security.auth.message` is earliest and most recent]
@@ -1928,7 +1928,7 @@ localhost3000  [no clear owner; `io.github.zahran444` is earliest and most recen
   ?   io.sdks                              2026-06..2026-06 0.0.4                |...................=|
 cache.annotations.ri.common  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most recent]
   ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |.....=..............|
-  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
+  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |..................==|
   ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
 cache.api  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most recent]
   ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |.....=..............|
@@ -1936,7 +1936,7 @@ cache.api  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most 
   ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
 cache.annotations.ri.guice  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most recent]
   ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |.....=..............|
-  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
+  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |..................==|
   ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
 net.sf.uadetector.core  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
   ? * com.jwebmp.jre11                     2018-11..2018-12 0.63.0.19            |....=...............|
@@ -1946,13 +1946,13 @@ net.sf.uadetector.core  [no clear owner; `com.jwebmp.jre11` is earliest and most
   ?   com.jwebmp                           2019-01..2019-04 0.66.0.1             |....=...............|
 net.sf.uadetector.resources  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
   ? * com.jwebmp.jre11                     2018-11..2018-12 0.63.0.19            |....=...............|
-  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
+  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |..................==|
   ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
   ?   com.jwebmp.thirdparty                2019-04..2019-08 0.68.0.1             |....==..............|
   ?   com.jwebmp                           2019-01..2019-04 0.66.0.1             |....=...............|
 org.apache.commons.fileupload  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
   ? * com.jwebmp.jre11                     2018-12..2018-12 0.63.0.19            |....=...............|
-  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
+  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |..................==|
   ?   org.wiremock                         2025-06..2026-04 4.0.0-beta.32        |.................==.|
   ?   org.openidentityplatform.openam.agents 2025-11..2026-03 5.0.3                |..................=.|
   ?   commons-fileupload                   2025-06..2025-06 1.6.0                |.................=..|
@@ -1960,7 +1960,7 @@ org.apache.commons.fileupload  [no clear owner; `com.jwebmp.jre11` is earliest a
     + 2 more: com.jwebmp.jpms.commons, com.jwebmp
 aopalliance  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
   ? * com.jwebmp.jre11                     2018-12..2018-12 0.63.0.19            |....=...............|
-  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |...................=|
+  ?   com.guicedee.modules.services        2026-04..2026-06 2.1.0                |..................==|
   ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
   ?   com.jwebmp.thirdparty                2019-04..2019-08 0.68.0.1             |....==..............|
   ?   com.jwebmp                           2019-01..2019-04 0.66.0.1             |....=...............|
@@ -2146,7 +2146,7 @@ hla.rti1516e  [no clear owner; `io.github.tno-mst` is earliest and most recent]
   ?   nl.tno                               2025-07..2025-10 1.0.0                |.................=..|
 me.linusdev.data  [no clear owner; `io.github.lni-dev` is earliest and most recent]
   ? * io.github.lni-dev                    2022-03..2023-04 2.0.20               |..........===.......|
-  ?   de.linusdev                          2023-04..2025-09 2.3.1                |.............=====..|
+  ?   de.linusdev                          2023-04..2025-09 2.3.1                |............======..|
 com.aspose.words  [no clear owner; `com.luhuiguo` is earliest and most recent]
   ? * com.luhuiguo                         2022-04..2023-01 23.1                 |..........===.......|
   ?   cn.miniants                          2025-09..2025-09 21.4.0               |.................=..|
@@ -2156,7 +2156,7 @@ com.luciad.imageio.webp  [no clear owner; `org.sejda.imageio` is earliest and mo
   ? * org.sejda.imageio                    2020-05..2020-05 0.1.6                |.......=............|
   ?   net.scenariopla.imageio              2025-08..2025-08 0.1.8                |.................=..|
   ?   com.gitee.jmash                      2024-06..2024-06 0.2.2                |...............=....|
-  ?   io.github.darkxanter                 2022-10..2023-11 0.3.3                |............===.....|
+  ?   io.github.darkxanter                 2022-10..2023-11 0.3.3                |...........====.....|
   ?   org.lucee                            2022-08..2022-08 0.1.6                |...........=........|
   ?   com.github.gotson                    2021-02..2021-08 0.2.2                |........==..........|
 org.eclipse.datatools.connectivity.oda.consumer  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
@@ -2201,7 +2201,7 @@ org.eclipse.datatools.modelbase.sql  [no clear owner; `ch.reportingsoft.birt` is
 jssc  [no clear owner; `net.jockx` is earliest and most recent]
   ? * net.jockx                            2021-08..2021-08 2.9.3                |.........=..........|
   ?   io.github.java-native                2021-08..2025-06 2.10.2               |.........=========..|
-  ?   com.zsmartsystems.zigbee             2022-10..2024-12 1.4.16.1             |............=====...|
+  ?   com.zsmartsystems.zigbee             2022-10..2024-12 1.4.16.1             |...........======...|
 common  [no clear owner; `io.github.matwoess` is earliest and most recent]
   ? * io.github.matwoess                   2024-12..2025-01 0.11.3               |................=...|
   ?   pro.shuangxi.framework.openfx        2025-05..2025-05 1.0.0                |.................=..|
