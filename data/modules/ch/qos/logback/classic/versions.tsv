@@ -3463,3 +3463,4 @@
 3.6.0-adhoc.20260722.14765.0.vae653751	named	com.daml	codegen-java	2026-07-22T14:17:17Z	1.5.3
 3.6.0-adhoc.20260722.14765.0.vae653751	named	com.daml	codegen-js	2026-07-22T14:17:18Z	1.5.3
 3.6.0-adhoc.20260722.14765.0.vae653751	named	com.daml	codegen-jvm-main	2026-07-22T14:17:18Z	1.5.3
+1.6.0	named	ch.qos.logback	logback-classic	2026-07-23T23:55:57Z	1.6.0

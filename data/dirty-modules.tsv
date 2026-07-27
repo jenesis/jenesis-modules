@@ -1745,3 +1745,9 @@ run.ratchet.store.mongodb
 run.ratchet.ri
 run.ratchet.micrometer
 run.ratchet.coordinator.jms
+ch.qos.logback.access.jetty
+ch.qos.logback.access.common
+ch.qos.logback.access.tomcat
+ch.qos.logback.core
+ch.qos.logback.classic
+org.joda.time

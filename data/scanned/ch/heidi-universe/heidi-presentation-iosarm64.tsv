@@ -82,3 +82,4 @@
 0.20.2	metadata	2026-06-29T09:58:30Z	
 0.20.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-presentation-iosarm64/0.20.3/heidi-presentation-iosarm64-0.20.3.jar returned status 404
 0.20.3	metadata	2026-07-17T17:34:54Z	
+0.20.3-newzkp2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/heidi-universe/heidi-presentation-iosarm64/0.20.3-newzkp2/heidi-presentation-iosarm64-0.20.3-newzkp2.jar returned status 404
