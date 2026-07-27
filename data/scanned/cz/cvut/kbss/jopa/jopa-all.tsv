@@ -92,6 +92,7 @@
 2.10.0		2026-05-29T14:19:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/cvut/kbss/jopa/jopa-all/2.10.0/jopa-all-2.10.0.jar returned status 404
 2.10.1		2026-06-30T10:50:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/cvut/kbss/jopa/jopa-all/2.10.1/jopa-all-2.10.1.jar returned status 404
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/cvut/kbss/jopa/jopa-all/2.11.0/jopa-all-2.11.0.jar returned status 404
+2.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/cvut/kbss/jopa/jopa-all/2.11.1/jopa-all-2.11.1.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/cvut/kbss/jopa/jopa-all/2.2.0/jopa-all-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/cvut/kbss/jopa/jopa-all/2.2.1/jopa-all-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cz/cvut/kbss/jopa/jopa-all/2.2.2/jopa-all-2.2.2.jar returned status 404

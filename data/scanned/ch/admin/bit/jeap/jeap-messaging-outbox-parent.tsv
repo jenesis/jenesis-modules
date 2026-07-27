@@ -35,6 +35,7 @@
 13.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/13.1.0/jeap-messaging-outbox-parent-13.1.0.jar returned status 404
 13.10.0		2026-06-11T15:54:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/13.10.0/jeap-messaging-outbox-parent-13.10.0.jar returned status 404
 13.11.0		2026-06-15T10:22:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/13.11.0/jeap-messaging-outbox-parent-13.11.0.jar returned status 404
+13.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/13.12.0/jeap-messaging-outbox-parent-13.12.0.jar returned status 404
 13.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/13.2.0/jeap-messaging-outbox-parent-13.2.0.jar returned status 404
 13.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/13.2.1/jeap-messaging-outbox-parent-13.2.1.jar returned status 404
 13.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/13.3.0/jeap-messaging-outbox-parent-13.3.0.jar returned status 404
@@ -87,6 +88,10 @@
 16.0.1		2026-07-21T07:14:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/16.0.1/jeap-messaging-outbox-parent-16.0.1.jar returned status 404
 16.1.0		2026-07-21T13:29:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/16.1.0/jeap-messaging-outbox-parent-16.1.0.jar returned status 404
 16.2.0		2026-07-22T08:59:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/16.2.0/jeap-messaging-outbox-parent-16.2.0.jar returned status 404
+16.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/16.3.0/jeap-messaging-outbox-parent-16.3.0.jar returned status 404
+17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/17.0.0/jeap-messaging-outbox-parent-17.0.0.jar returned status 404
+17.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/17.1.0/jeap-messaging-outbox-parent-17.1.0.jar returned status 404
+17.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/17.2.0/jeap-messaging-outbox-parent-17.2.0.jar returned status 404
 8.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/8.42.0/jeap-messaging-outbox-parent-8.42.0.jar returned status 404
 8.43.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/8.43.0/jeap-messaging-outbox-parent-8.43.0.jar returned status 404
 8.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-messaging-outbox-parent/8.44.0/jeap-messaging-outbox-parent-8.44.0.jar returned status 404

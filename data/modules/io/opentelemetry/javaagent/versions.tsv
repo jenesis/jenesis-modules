@@ -108,3 +108,5 @@
 4.0.1	automatic	com.vaadin	observability-kit-agent	2026-05-22T12:39:51Z	
 2.29.0-alpha	automatic	io.opentelemetry.javaagent	opentelemetry-agent-for-testing	2026-06-19T02:37:55Z	
 2.29.0	automatic	io.opentelemetry.javaagent	opentelemetry-javaagent	2026-06-19T02:38:00Z	
+2.30.0-alpha	automatic	io.opentelemetry.javaagent	opentelemetry-agent-for-testing	2026-07-23T00:07:33Z	
+2.30.0	automatic	io.opentelemetry.javaagent	opentelemetry-javaagent	2026-07-23T00:25:06Z	

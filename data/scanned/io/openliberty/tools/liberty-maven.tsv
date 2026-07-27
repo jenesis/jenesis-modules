@@ -13,6 +13,7 @@
 3.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/tools/liberty-maven/3.11.4/liberty-maven-3.11.4.jar returned status 404
 3.11.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/tools/liberty-maven/3.11.5/liberty-maven-3.11.5.jar returned status 404
 3.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/tools/liberty-maven/3.12.0/liberty-maven-3.12.0.jar returned status 404
+3.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/tools/liberty-maven/3.12.1/liberty-maven-3.12.1.jar returned status 404
 3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/tools/liberty-maven/3.2/liberty-maven-3.2.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/tools/liberty-maven/3.2.1/liberty-maven-3.2.1.jar returned status 404
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/tools/liberty-maven/3.2.2/liberty-maven-3.2.2.jar returned status 404

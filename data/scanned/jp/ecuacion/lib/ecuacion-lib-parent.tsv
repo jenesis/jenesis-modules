@@ -12,3 +12,4 @@
 16.0.0-rc.5		2026-06-14T08:00:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/ecuacion/lib/ecuacion-lib-parent/16.0.0-rc.5/ecuacion-lib-parent-16.0.0-rc.5.jar returned status 404
 16.0.0-rc.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/ecuacion/lib/ecuacion-lib-parent/16.0.0-rc.6/ecuacion-lib-parent-16.0.0-rc.6.jar returned status 404
 16.0.0-rc.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/ecuacion/lib/ecuacion-lib-parent/16.0.0-rc.7/ecuacion-lib-parent-16.0.0-rc.7.jar returned status 404
+16.0.0-rc.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/ecuacion/lib/ecuacion-lib-parent/16.0.0-rc.8/ecuacion-lib-parent-16.0.0-rc.8.jar returned status 404

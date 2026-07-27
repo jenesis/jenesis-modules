@@ -6,6 +6,8 @@
 0.13.0		2026-07-03T21:08:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/idp/client-parent/0.13.0/client-parent-0.13.0.jar returned status 404
 0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/idp/client-parent/0.14.0/client-parent-0.14.0.jar returned status 404
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/idp/client-parent/0.15.0/client-parent-0.15.0.jar returned status 404
+0.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/idp/client-parent/0.19.1/client-parent-0.19.1.jar returned status 404
+0.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/idp/client-parent/0.19.2/client-parent-0.19.2.jar returned status 404
 0.2.0		2026-06-25T14:57:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/idp/client-parent/0.2.0/client-parent-0.2.0.jar returned status 404
 0.3.0		2026-06-25T15:54:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/idp/client-parent/0.3.0/client-parent-0.3.0.jar returned status 404
 0.4.0		2026-06-25T16:26:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/idp/client-parent/0.4.0/client-parent-0.4.0.jar returned status 404
