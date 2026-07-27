@@ -94,6 +94,7 @@
 4.5.10		2026-06-14T05:05:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline/4.5.10/pipeline-4.5.10.jar returned status 404
 4.5.11		2026-07-07T04:34:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline/4.5.11/pipeline-4.5.11.jar returned status 404
 4.5.12		2026-07-07T16:53:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline/4.5.12/pipeline-4.5.12.jar returned status 404
+4.5.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline/4.5.13/pipeline-4.5.13.jar returned status 404
 4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline/4.5.2/pipeline-4.5.2.jar returned status 404
 4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline/4.5.3/pipeline-4.5.3.jar returned status 404
 4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline/4.5.4/pipeline-4.5.4.jar returned status 404

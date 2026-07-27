@@ -7,6 +7,7 @@
 1.0.14		2026-06-22T08:18:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/opensandbox/sandbox-bom/1.0.14/sandbox-bom-1.0.14.jar returned status 404
 1.0.15		2026-06-25T07:09:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/opensandbox/sandbox-bom/1.0.15/sandbox-bom-1.0.15.jar returned status 404
 1.0.16		2026-07-13T07:06:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/opensandbox/sandbox-bom/1.0.16/sandbox-bom-1.0.16.jar returned status 404
+1.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/opensandbox/sandbox-bom/1.0.17/sandbox-bom-1.0.17.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/opensandbox/sandbox-bom/1.0.2/sandbox-bom-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/opensandbox/sandbox-bom/1.0.3/sandbox-bom-1.0.3.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/opensandbox/sandbox-bom/1.0.4/sandbox-bom-1.0.4.jar returned status 404

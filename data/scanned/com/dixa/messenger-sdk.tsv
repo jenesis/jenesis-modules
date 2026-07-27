@@ -39,3 +39,4 @@
 2.2.1		2026-07-06T21:35:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dixa/messenger-sdk/2.2.1/messenger-sdk-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dixa/messenger-sdk/2.2.2/messenger-sdk-2.2.2.jar returned status 404
 2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dixa/messenger-sdk/2.2.3/messenger-sdk-2.2.3.jar returned status 404
+2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dixa/messenger-sdk/2.2.4/messenger-sdk-2.2.4.jar returned status 404

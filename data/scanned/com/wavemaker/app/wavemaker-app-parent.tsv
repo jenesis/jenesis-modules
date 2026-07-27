@@ -62,6 +62,7 @@
 11.15.4.ee			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wavemaker/app/wavemaker-app-parent/11.15.4.ee/wavemaker-app-parent-11.15.4.ee.jar returned status 404
 11.15.5		2026-06-19T18:37:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wavemaker/app/wavemaker-app-parent/11.15.5/wavemaker-app-parent-11.15.5.jar returned status 404
 11.15.5.ee		2026-06-21T12:45:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wavemaker/app/wavemaker-app-parent/11.15.5.ee/wavemaker-app-parent-11.15.5.ee.jar returned status 404
+11.15.6.ee			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wavemaker/app/wavemaker-app-parent/11.15.6.ee/wavemaker-app-parent-11.15.6.ee.jar returned status 404
 11.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wavemaker/app/wavemaker-app-parent/11.2.0/wavemaker-app-parent-11.2.0.jar returned status 404
 11.2.0.ee			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wavemaker/app/wavemaker-app-parent/11.2.0.ee/wavemaker-app-parent-11.2.0.ee.jar returned status 404
 11.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wavemaker/app/wavemaker-app-parent/11.2.1/wavemaker-app-parent-11.2.1.jar returned status 404

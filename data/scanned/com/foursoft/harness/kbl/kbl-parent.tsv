@@ -20,3 +20,4 @@
 5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/foursoft/harness/kbl/kbl-parent/5.4.1/kbl-parent-5.4.1.jar returned status 404
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/foursoft/harness/kbl/kbl-parent/5.5.0/kbl-parent-5.5.0.jar returned status 404
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/foursoft/harness/kbl/kbl-parent/5.6.0/kbl-parent-5.6.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/foursoft/harness/kbl/kbl-parent/6.0.0/kbl-parent-6.0.0.jar returned status 404

@@ -3463,4 +3463,13 @@
 3.6.0-adhoc.20260722.14765.0.vae653751	named	com.daml	codegen-java	2026-07-22T14:17:17Z	1.5.3
 3.6.0-adhoc.20260722.14765.0.vae653751	named	com.daml	codegen-js	2026-07-22T14:17:18Z	1.5.3
 3.6.0-adhoc.20260722.14765.0.vae653751	named	com.daml	codegen-jvm-main	2026-07-22T14:17:18Z	1.5.3
+3.6.0-adhoc.20260722.14766.0.ve47c8aa5	named	com.daml	codegen-jvm-main	2026-07-23T00:12:07Z	1.5.3
+3.6.0-adhoc.20260722.14766.0.ve47c8aa5	named	com.daml	codegen-js	2026-07-23T00:14:00Z	1.5.3
+3.6.0-adhoc.20260722.14766.0.ve47c8aa5	named	com.daml	codegen-java	2026-07-23T00:14:09Z	1.5.3
 1.6.0	named	ch.qos.logback	logback-classic	2026-07-23T23:55:57Z	1.6.0
+3.6.0-snapshot.20260722.14760.0.va64d3706	named	com.daml	codegen-js	2026-07-24T00:01:22Z	1.5.3
+3.6.0-snapshot.20260722.14760.0.va64d3706	named	com.daml	codegen-jvm-main	2026-07-24T00:01:26Z	1.5.3
+3.6.0-snapshot.20260722.14760.0.va64d3706	named	com.daml	codegen-java	2026-07-24T00:01:28Z	1.5.3
+3.6.0-snapshot.20260724.14761.0.v72f14b08	named	com.daml	codegen-java	2026-07-26T00:01:17Z	1.5.3
+3.6.0-snapshot.20260724.14761.0.v72f14b08	named	com.daml	codegen-js	2026-07-26T00:01:18Z	1.5.3
+3.6.0-snapshot.20260724.14761.0.v72f14b08	named	com.daml	codegen-jvm-main	2026-07-26T00:01:26Z	1.5.3
