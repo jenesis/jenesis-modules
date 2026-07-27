@@ -1,3 +1,4 @@
+13.0.0	automatic	org.flywaydb	flyway-locations-s3
 12.11.0	automatic	org.flywaydb	flyway-command-mcp
 12.10.0	automatic	org.flywaydb	flyway-command-mcp
 12.9.0	automatic	org.flywaydb	flyway-command-test-connection
