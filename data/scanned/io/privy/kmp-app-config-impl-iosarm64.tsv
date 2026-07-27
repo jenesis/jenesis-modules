@@ -14,6 +14,8 @@
 0.12.0-beta.1	metadata	2026-05-13T23:28:49Z	
 0.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-app-config-impl-iosarm64/0.12.1/kmp-app-config-impl-iosarm64-0.12.1.jar returned status 404
 0.12.1	metadata	2026-07-14T21:03:23Z	
+0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-app-config-impl-iosarm64/0.13.0/kmp-app-config-impl-iosarm64-0.13.0.jar returned status 404
+0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-app-config-impl-iosarm64/0.13.1/kmp-app-config-impl-iosarm64-0.13.1.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-app-config-impl-iosarm64/0.2.0/kmp-app-config-impl-iosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2025-07-24T18:46:38Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-app-config-impl-iosarm64/0.3.0/kmp-app-config-impl-iosarm64-0.3.0.jar returned status 404

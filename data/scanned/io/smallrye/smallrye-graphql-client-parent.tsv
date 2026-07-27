@@ -105,6 +105,7 @@
 2.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-client-parent/2.18.1/smallrye-graphql-client-parent-2.18.1.jar returned status 404
 2.18.2		2026-06-12T11:15:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-client-parent/2.18.2/smallrye-graphql-client-parent-2.18.2.jar returned status 404
 2.18.3		2026-07-02T09:59:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-client-parent/2.18.3/smallrye-graphql-client-parent-2.18.3.jar returned status 404
+2.18.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-client-parent/2.18.4/smallrye-graphql-client-parent-2.18.4.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-client-parent/2.2.0/smallrye-graphql-client-parent-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-client-parent/2.2.1/smallrye-graphql-client-parent-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-graphql-client-parent/2.2.2/smallrye-graphql-client-parent-2.2.2.jar returned status 404

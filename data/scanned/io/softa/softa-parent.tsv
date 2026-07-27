@@ -37,3 +37,6 @@
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/softa-parent/2.1.2/softa-parent-2.1.2.jar returned status 404
 2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/softa-parent/2.1.3/softa-parent-2.1.3.jar returned status 404
 2.1.4		2026-07-20T05:52:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/softa-parent/2.1.4/softa-parent-2.1.4.jar returned status 404
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/softa-parent/2.1.5/softa-parent-2.1.5.jar returned status 404
+2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/softa-parent/2.1.6/softa-parent-2.1.6.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/softa-parent/2.2.0/softa-parent-2.2.0.jar returned status 404

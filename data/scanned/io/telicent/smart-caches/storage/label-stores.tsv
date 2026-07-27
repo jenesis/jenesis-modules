@@ -9,3 +9,4 @@
 0.11.5		2026-06-18T10:30:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/storage/label-stores/0.11.5/label-stores-0.11.5.jar returned status 404
 0.12.0		2026-06-19T11:28:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/storage/label-stores/0.12.0/label-stores-0.12.0.jar returned status 404
 0.13.0		2026-06-29T10:20:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/storage/label-stores/0.13.0/label-stores-0.13.0.jar returned status 404
+0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/telicent/smart-caches/storage/label-stores/0.13.1/label-stores-0.13.1.jar returned status 404

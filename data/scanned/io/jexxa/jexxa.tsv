@@ -123,6 +123,7 @@
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jexxa/9.0.0/jexxa-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jexxa/9.0.1/jexxa-9.0.1.jar returned status 404
 9.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jexxa/9.0.10/jexxa-9.0.10.jar returned status 404
+9.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jexxa/9.0.11/jexxa-9.0.11.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jexxa/9.0.2/jexxa-9.0.2.jar returned status 404
 9.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jexxa/9.0.3/jexxa-9.0.3.jar returned status 404
 9.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jexxa/9.0.4/jexxa-9.0.4.jar returned status 404

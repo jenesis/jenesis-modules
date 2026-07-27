@@ -41,3 +41,4 @@
 6.2.0		2026-06-15T21:37:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-kotlinx-datetime-wasm-js/6.2.0/kotest-assertions-kotlinx-datetime-wasm-js-6.2.0.jar returned status 404
 6.2.1		2026-06-18T13:59:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-kotlinx-datetime-wasm-js/6.2.1/kotest-assertions-kotlinx-datetime-wasm-js-6.2.1.jar returned status 404
 6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-kotlinx-datetime-wasm-js/6.2.2/kotest-assertions-kotlinx-datetime-wasm-js-6.2.2.jar returned status 404
+6.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-kotlinx-datetime-wasm-js/6.2.3/kotest-assertions-kotlinx-datetime-wasm-js-6.2.3.jar returned status 404

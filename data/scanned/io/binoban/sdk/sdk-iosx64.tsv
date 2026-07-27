@@ -4,3 +4,5 @@
 0.1.0	metadata	2026-05-05T06:31:53Z	
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/binoban/sdk/sdk-iosx64/0.1.1/sdk-iosx64-0.1.1.jar returned status 404
 0.1.1	metadata	2026-05-10T05:40:16Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/binoban/sdk/sdk-iosx64/1.0.0/sdk-iosx64-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/binoban/sdk/sdk-iosx64/1.0.1/sdk-iosx64-1.0.1.jar returned status 404

@@ -24,6 +24,7 @@
 0.0.0-dev.20260609155812		2026-06-09T15:59:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cubos/android-runtime/0.0.0-dev.20260609155812/android-runtime-0.0.0-dev.20260609155812.jar returned status 404
 0.0.0-dev.20260609163101		2026-06-09T16:32:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cubos/android-runtime/0.0.0-dev.20260609163101/android-runtime-0.0.0-dev.20260609163101.jar returned status 404
 0.0.0-dev.20260609165021		2026-06-09T16:51:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cubos/android-runtime/0.0.0-dev.20260609165021/android-runtime-0.0.0-dev.20260609165021.jar returned status 404
+0.0.0-dev.20260724001448			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cubos/android-runtime/0.0.0-dev.20260724001448/android-runtime-0.0.0-dev.20260724001448.jar returned status 404
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cubos/android-runtime/0.0.2/android-runtime-0.0.2.jar returned status 404
 2.4.0		2026-06-09T16:23:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cubos/android-runtime/2.4.0/android-runtime-2.4.0.jar returned status 404
 2.5.0		2026-06-09T16:56:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cubos/android-runtime/2.5.0/android-runtime-2.5.0.jar returned status 404

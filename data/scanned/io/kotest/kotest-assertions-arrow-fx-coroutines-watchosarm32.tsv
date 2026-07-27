@@ -84,3 +84,4 @@
 6.2.1	metadata	2026-06-18T14:11:39Z	
 6.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-arrow-fx-coroutines-watchosarm32/6.2.2/kotest-assertions-arrow-fx-coroutines-watchosarm32-6.2.2.jar returned status 404
 6.2.2	metadata	2026-07-08T01:56:43Z	
+6.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-assertions-arrow-fx-coroutines-watchosarm32/6.2.3/kotest-assertions-arrow-fx-coroutines-watchosarm32-6.2.3.jar returned status 404

@@ -1,3 +1,4 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/jist/0.1.0/jist-0.1.0.jar returned status 404
 0.1.0-alpha01		2026-06-23T09:35:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/jist/0.1.0-alpha01/jist-0.1.0-alpha01.jar returned status 404
 0.1.0-alpha02		2026-06-26T11:22:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/jist/0.1.0-alpha02/jist-0.1.0-alpha02.jar returned status 404
 0.1.0-alpha03		2026-06-26T13:46:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/jist/0.1.0-alpha03/jist-0.1.0-alpha03.jar returned status 404
