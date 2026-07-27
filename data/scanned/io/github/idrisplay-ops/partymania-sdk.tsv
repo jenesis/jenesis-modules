@@ -10,3 +10,4 @@
 9.0.27		2026-05-28T08:30:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idrisplay-ops/partymania-sdk/9.0.27/partymania-sdk-9.0.27.jar returned status 404
 9.0.28		2026-06-04T06:31:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idrisplay-ops/partymania-sdk/9.0.28/partymania-sdk-9.0.28.jar returned status 404
 9.0.29		2026-07-01T09:53:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idrisplay-ops/partymania-sdk/9.0.29/partymania-sdk-9.0.29.jar returned status 404
+9.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/idrisplay-ops/partymania-sdk/9.0.30/partymania-sdk-9.0.30.jar returned status 404

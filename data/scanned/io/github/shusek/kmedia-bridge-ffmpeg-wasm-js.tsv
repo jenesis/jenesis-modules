@@ -1,2 +1,4 @@
 0.4.1		2026-07-17T16:06:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-ffmpeg-wasm-js/0.4.1/kmedia-bridge-ffmpeg-wasm-js-0.4.1.jar returned status 404
 0.4.2		2026-07-17T19:30:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-ffmpeg-wasm-js/0.4.2/kmedia-bridge-ffmpeg-wasm-js-0.4.2.jar returned status 404
+0.5.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-ffmpeg-wasm-js/0.5.0-rc.1/kmedia-bridge-ffmpeg-wasm-js-0.5.0-rc.1.jar returned status 404
+0.5.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-ffmpeg-wasm-js/0.5.0-rc.2/kmedia-bridge-ffmpeg-wasm-js-0.5.0-rc.2.jar returned status 404

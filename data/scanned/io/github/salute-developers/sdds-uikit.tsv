@@ -36,6 +36,7 @@
 0.43.0		2026-06-10T14:26:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit/0.43.0/sdds-uikit-0.43.0.jar returned status 404
 0.44.0		2026-06-24T13:49:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit/0.44.0/sdds-uikit-0.44.0.jar returned status 404
 0.45.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit/0.45.0/sdds-uikit-0.45.0.jar returned status 404
+0.46.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit/0.46.0/sdds-uikit-0.46.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit/0.5.0/sdds-uikit-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit/0.6.0/sdds-uikit-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit/0.7.0/sdds-uikit-0.7.0.jar returned status 404

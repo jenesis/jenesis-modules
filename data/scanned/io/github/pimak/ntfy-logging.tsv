@@ -1,1 +1,6 @@
 1.0.0		2026-07-19T12:48:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-logging/1.0.0/ntfy-logging-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-logging/1.0.1/ntfy-logging-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-logging/1.0.2/ntfy-logging-1.0.2.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-logging/1.1.0/ntfy-logging-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-logging/1.1.1/ntfy-logging-1.1.1.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-logging/1.2.0/ntfy-logging-1.2.0.jar returned status 404

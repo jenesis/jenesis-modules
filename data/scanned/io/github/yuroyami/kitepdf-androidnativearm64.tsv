@@ -6,3 +6,5 @@
 0.0.8		2026-06-17T13:36:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-androidnativearm64/0.0.8/kitepdf-androidnativearm64-0.0.8.jar returned status 404
 0.1.0		2026-06-17T14:54:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-androidnativearm64/0.1.0/kitepdf-androidnativearm64-0.1.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-androidnativearm64/0.2.0/kitepdf-androidnativearm64-0.2.0.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-androidnativearm64/0.3.0/kitepdf-androidnativearm64-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-androidnativearm64/0.3.1/kitepdf-androidnativearm64-0.3.1.jar returned status 404

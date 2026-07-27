@@ -8,3 +8,4 @@
 3.0.1		2026-05-31T20:53:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-datetime-wasm-js/3.0.1/format-datetime-wasm-js-3.0.1.jar returned status 404
 3.0.2		2026-06-28T19:36:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-datetime-wasm-js/3.0.2/format-datetime-wasm-js-3.0.2.jar returned status 404
 3.0.3		2026-06-28T22:13:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-datetime-wasm-js/3.0.3/format-datetime-wasm-js-3.0.3.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-datetime-wasm-js/3.1.0/format-datetime-wasm-js-3.1.0.jar returned status 404

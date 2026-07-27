@@ -4,3 +4,4 @@
 3.0.0-alpha06	metadata	2026-07-03T14:46:31Z	
 3.0.0-alpha07		2026-07-04T17:18:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jeluchu/jchucomponents-network-iossimulatorarm64/3.0.0-alpha07/jchucomponents-network-iossimulatorarm64-3.0.0-alpha07.jar returned status 404
 3.0.0-alpha07	metadata	2026-07-04T17:18:43Z	
+3.0.0-alpha08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jeluchu/jchucomponents-network-iossimulatorarm64/3.0.0-alpha08/jchucomponents-network-iossimulatorarm64-3.0.0-alpha08.jar returned status 404

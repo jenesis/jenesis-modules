@@ -27,3 +27,5 @@
 10.3.20260716			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/shaft-bom/10.3.20260716/shaft-bom-10.3.20260716.jar returned status 404
 10.3.20260717			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/shaft-bom/10.3.20260717/shaft-bom-10.3.20260717.jar returned status 404
 10.3.20260719			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/shaft-bom/10.3.20260719/shaft-bom-10.3.20260719.jar returned status 404
+10.3.20260721			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/shaft-bom/10.3.20260721/shaft-bom-10.3.20260721.jar returned status 404
+10.3.20260722			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/shaft-bom/10.3.20260722/shaft-bom-10.3.20260722.jar returned status 404
