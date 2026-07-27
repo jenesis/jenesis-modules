@@ -12,3 +12,4 @@
 0.0.0-alpha6	metadata	2026-05-29T20:03:56Z	
 0.0.0-alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/financial/atomic/muppet-legacy-iosSimulatorArm64/0.0.0-alpha7/muppet-legacy-iosSimulatorArm64-0.0.0-alpha7.jar returned status 404
 0.0.0-alpha7	metadata	2026-07-09T15:35:52Z	
+0.0.0-alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/financial/atomic/muppet-legacy-iosSimulatorArm64/0.0.0-alpha8/muppet-legacy-iosSimulatorArm64-0.0.0-alpha8.jar returned status 404

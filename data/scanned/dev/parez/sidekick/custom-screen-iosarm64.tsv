@@ -2,3 +2,4 @@
 0.2.1	metadata	2026-05-18T07:00:26Z	
 0.2.2		2026-05-26T13:41:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/parez/sidekick/custom-screen-iosarm64/0.2.2/custom-screen-iosarm64-0.2.2.jar returned status 404
 0.2.2	metadata	2026-05-26T13:41:57Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/parez/sidekick/custom-screen-iosarm64/0.3.0/custom-screen-iosarm64-0.3.0.jar returned status 404

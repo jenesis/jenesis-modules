@@ -1,5 +1,6 @@
 0.10.0		2026-06-09T22:23:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/goquick/sqlitenow/core-wasm-js/0.10.0/core-wasm-js-0.10.0.jar returned status 404
 0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/goquick/sqlitenow/core-wasm-js/0.11.0/core-wasm-js-0.11.0.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/goquick/sqlitenow/core-wasm-js/0.15.0/core-wasm-js-0.15.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/goquick/sqlitenow/core-wasm-js/0.5.0/core-wasm-js-0.5.0.jar returned status 404
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/goquick/sqlitenow/core-wasm-js/0.5.1/core-wasm-js-0.5.1.jar returned status 404
 0.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/goquick/sqlitenow/core-wasm-js/0.5.4/core-wasm-js-0.5.4.jar returned status 404

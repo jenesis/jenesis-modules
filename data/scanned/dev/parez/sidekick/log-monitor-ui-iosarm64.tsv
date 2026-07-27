@@ -2,3 +2,4 @@
 0.3.1	metadata	2026-05-18T07:00:26Z	
 0.3.6		2026-05-26T13:41:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/parez/sidekick/log-monitor-ui-iosarm64/0.3.6/log-monitor-ui-iosarm64-0.3.6.jar returned status 404
 0.3.6	metadata	2026-05-26T13:42:02Z	
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/parez/sidekick/log-monitor-ui-iosarm64/0.4.0/log-monitor-ui-iosarm64-0.4.0.jar returned status 404

@@ -1,11 +1,11 @@
 # Crawl status
 
-- Updated: 2026-07-23T12:53:20.365455168Z
-- Sync mode: INCREMENTAL
-- This run: processed=47035, named=1339, automatic=3326, failed=2
-- Throughput: 85 coordinates/sec
-- Current chunk started: 2026-07-23T12:44:08.874398871Z
-- Last applied index chunk: 933
+- Updated: 2026-07-27T06:01:17.701807885Z
+- Sync mode: SKIPPED
+- This run: processed=2001, named=13, automatic=1, failed=0
+- Throughput: 25 coordinates/sec
+- Current chunk started: 2026-07-27T05:59:56.576520791Z
+- Last applied index chunk: 934
 - Index chain id: `1318453614498`
 
 This file is rewritten at every crawler checkpoint.
