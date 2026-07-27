@@ -48,6 +48,7 @@
 0.108.0		2026-06-12T08:16:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-bom/0.108.0/nessie-bom-0.108.0.jar returned status 404
 0.108.1		2026-06-24T18:59:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-bom/0.108.1/nessie-bom-0.108.1.jar returned status 404
 0.108.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-bom/0.108.2/nessie-bom-0.108.2.jar returned status 404
+0.108.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-bom/0.108.3/nessie-bom-0.108.3.jar returned status 404
 0.51.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-bom/0.51.1/nessie-bom-0.51.1.jar returned status 404
 0.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-bom/0.52.0/nessie-bom-0.52.0.jar returned status 404
 0.52.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-bom/0.52.1/nessie-bom-0.52.1.jar returned status 404

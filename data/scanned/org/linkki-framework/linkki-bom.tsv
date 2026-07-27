@@ -1,4 +1,5 @@
 2.10.0		2026-06-30T12:42:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.10.0/linkki-bom-2.10.0.jar returned status 404
+2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.10.1/linkki-bom-2.10.1.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.6.0/linkki-bom-2.6.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.6.1/linkki-bom-2.6.1.jar returned status 404
 2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/linkki-framework/linkki-bom/2.6.2/linkki-bom-2.6.2.jar returned status 404

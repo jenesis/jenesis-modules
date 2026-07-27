@@ -300,4 +300,7 @@
 2026.28.1	named	com.amazonaws	athena-oracle	2026-07-18T00:01:19Z	4.2.16.Final
 2026.28.1	named	com.amazonaws	athena-jdbc	2026-07-18T00:05:24Z	4.2.16.Final
 10.3.20260721	named	io.github.shafthq	shaft-cli	2026-07-22T02:26:36Z	4.2.16.Final
+3.3.2	named	org.apache.tika	tika-pipes-iterator-s3	2026-07-22T02:27:12Z	4.2.16.Final
+3.3.2	named	org.apache.tika	tika-emitter-s3	2026-07-22T02:27:16Z	4.2.16.Final
+3.3.2	named	org.apache.tika	tika-fetcher-s3	2026-07-22T02:27:43Z	4.2.16.Final
 10.3.20260722	named	io.github.shafthq	shaft-cli	2026-07-23T00:35:05Z	4.2.16.Final

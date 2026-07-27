@@ -28,6 +28,7 @@
 1.1.3	classes	2026-05-22T08:12:50Z	
 1.1.4		2026-06-19T08:18:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/qa/engine-variable-test/1.1.4/engine-variable-test-1.1.4.jar returned status 404
 1.1.4	classes	2026-06-19T08:18:34Z	
+1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/qa/engine-variable-test/1.1.5/engine-variable-test-1.1.5.jar returned status 404
 2.0.0		2026-03-20T10:33:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/qa/engine-variable-test/2.0.0/engine-variable-test-2.0.0.jar returned status 404
 2.0.0	classes	2026-03-20T10:33:41Z	
 2.0.0-M1		2026-01-23T06:25:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/qa/engine-variable-test/2.0.0-M1/engine-variable-test-2.0.0-M1.jar returned status 404
@@ -40,5 +41,7 @@
 2.1.1	classes	2026-05-22T08:51:18Z	
 2.1.2		2026-06-19T08:18:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/qa/engine-variable-test/2.1.2/engine-variable-test-2.1.2.jar returned status 404
 2.1.2	classes	2026-06-19T08:18:04Z	
+2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/qa/engine-variable-test/2.1.3/engine-variable-test-2.1.3.jar returned status 404
 2.2.0-M1		2026-06-19T08:14:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/qa/engine-variable-test/2.2.0-M1/engine-variable-test-2.2.0-M1.jar returned status 404
 2.2.0-M1	classes	2026-06-19T08:14:48Z	
+2.2.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/operaton/bpm/qa/engine-variable-test/2.2.0-M2/engine-variable-test-2.2.0-M2.jar returned status 404

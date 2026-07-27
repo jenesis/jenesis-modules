@@ -3,3 +3,4 @@
 5.1.2		2026-06-24T07:55:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/extensions/kotlin/axon-kotlin-extension/5.1.2/axon-kotlin-extension-5.1.2.jar returned status 404
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/extensions/kotlin/axon-kotlin-extension/5.2.0/axon-kotlin-extension-5.2.0.jar returned status 404
 5.2.0-RC1		2026-07-01T10:36:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/extensions/kotlin/axon-kotlin-extension/5.2.0-RC1/axon-kotlin-extension-5.2.0-RC1.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/extensions/kotlin/axon-kotlin-extension/5.2.1/axon-kotlin-extension-5.2.1.jar returned status 404

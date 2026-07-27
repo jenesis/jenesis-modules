@@ -10,3 +10,4 @@
 14.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cordova/framework/14.0.0/framework-14.0.0.jar returned status 404
 14.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cordova/framework/14.0.1/framework-14.0.1.jar returned status 404
 15.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cordova/framework/15.0.0/framework-15.0.0.jar returned status 404
+15.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cordova/framework/15.1.0/framework-15.1.0.jar returned status 404

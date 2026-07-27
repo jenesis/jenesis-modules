@@ -41,3 +41,5 @@
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/cel/cel-parent/0.6.0/cel-parent-0.6.0.jar returned status 404
 0.6.1		2026-06-12T07:46:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/cel/cel-parent/0.6.1/cel-parent-0.6.1.jar returned status 404
 0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/cel/cel-parent/0.6.2/cel-parent-0.6.2.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/cel/cel-parent/0.7.0/cel-parent-0.7.0.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/cel/cel-parent/0.8.0/cel-parent-0.8.0.jar returned status 404

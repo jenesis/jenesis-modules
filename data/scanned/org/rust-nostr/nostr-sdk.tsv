@@ -123,3 +123,5 @@
 0.44.2	debug-sources	2026-01-29T10:57:22Z	
 0.44.2	release-javadoc	2026-01-29T10:57:21Z	
 0.44.2	release-sources	2026-01-29T10:57:21Z	
+0.44.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rust-nostr/nostr-sdk/0.44.5/nostr-sdk-0.44.5.jar returned status 404
+0.44.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rust-nostr/nostr-sdk/0.44.6/nostr-sdk-0.44.6.jar returned status 404
