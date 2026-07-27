@@ -1,1 +1,2 @@
+3.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-aesh-websocket-parent/3.38.0/quarkus-aesh-websocket-parent-3.38.0.jar returned status 404
 3.38.0.CR1		2026-07-15T08:43:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-aesh-websocket-parent/3.38.0.CR1/quarkus-aesh-websocket-parent-3.38.0.CR1.jar returned status 404

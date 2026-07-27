@@ -859,3 +859,11 @@ io.servicetalk.buffer.netty
 io.servicetalk.opentelemetry.asynccontext
 io.servicetalk.data.jackson
 io.servicetalk.encoding.api
+io.quarkus.commons.classloading
+io.quarkus.qute.generator
+io.quarkus.qute.debug
+io.quarkus.qute
+io.quarkus.packaging.common
+io.quarkus.modular
+io.quarkus.launcher
+io.quarkus.dev.spi
