@@ -1944,3 +1944,6 @@ org.graalvm.llvm.nfi
 org.graalvm.llvm.managed
 datalevin
 org.snmp4j.transport.unix
+duckdb.jdbc
+org.eclipse.jetty.security
+org.omnifaces

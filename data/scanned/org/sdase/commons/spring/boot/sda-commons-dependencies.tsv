@@ -530,6 +530,7 @@
 7.0.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-dependencies/7.0.39/sda-commons-dependencies-7.0.39.jar returned status 404
 7.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-dependencies/7.0.4/sda-commons-dependencies-7.0.4.jar returned status 404
 7.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-dependencies/7.0.40/sda-commons-dependencies-7.0.40.jar returned status 404
+7.0.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-dependencies/7.0.41/sda-commons-dependencies-7.0.41.jar returned status 404
 7.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-dependencies/7.0.5/sda-commons-dependencies-7.0.5.jar returned status 404
 7.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-dependencies/7.0.6/sda-commons-dependencies-7.0.6.jar returned status 404
 7.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-dependencies/7.0.7/sda-commons-dependencies-7.0.7.jar returned status 404

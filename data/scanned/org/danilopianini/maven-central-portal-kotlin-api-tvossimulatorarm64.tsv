@@ -428,3 +428,4 @@
 4.3.2-dev01+d46670a	metadata	2026-07-14T21:50:03Z	
 4.3.2-dev02+6c030fa			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-tvossimulatorarm64/4.3.2-dev02+6c030fa/maven-central-portal-kotlin-api-tvossimulatorarm64-4.3.2-dev02+6c030fa.jar returned status 404
 4.3.2-dev02+6c030fa	metadata	2026-07-17T01:36:40Z	
+4.4.1-dev01+46417cc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-tvossimulatorarm64/4.4.1-dev01+46417cc/maven-central-portal-kotlin-api-tvossimulatorarm64-4.4.1-dev01+46417cc.jar returned status 404
