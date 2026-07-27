@@ -1,1 +1,4 @@
+3.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/plugins/iridium/siriusone/3.0.14/siriusone-3.0.14.jar returned status 404
+3.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/plugins/iridium/siriusone/3.0.15/siriusone-3.0.15.jar returned status 404
+3.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/plugins/iridium/siriusone/3.0.17/siriusone-3.0.17.jar returned status 404
 3.1.0		2025-07-17T09:29:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/plugins/iridium/siriusone/3.1.0/siriusone-3.1.0.jar returned status 404

@@ -122,6 +122,11 @@
 25.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/25.5/optionfactory-spring-25.5.jar returned status 404
 25.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/25.6/optionfactory-spring-25.6.jar returned status 404
 25.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/25.7/optionfactory-spring-25.7.jar returned status 404
+26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/26.0/optionfactory-spring-26.0.jar returned status 404
+26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/26.1/optionfactory-spring-26.1.jar returned status 404
+26.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/26.2/optionfactory-spring-26.2.jar returned status 404
+26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/26.3/optionfactory-spring-26.3.jar returned status 404
+27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/27.0/optionfactory-spring-27.0.jar returned status 404
 3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/3.0/optionfactory-spring-3.0.jar returned status 404
 4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/4.0/optionfactory-spring-4.0.jar returned status 404
 4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/4.1/optionfactory-spring-4.1.jar returned status 404

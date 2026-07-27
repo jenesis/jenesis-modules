@@ -4,3 +4,4 @@
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/zeta/attestation-service-mingwx64/1.0.1/attestation-service-mingwx64-1.0.1.jar returned status 404
 1.2.0		2026-06-16T12:13:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/zeta/attestation-service-mingwx64/1.2.0/attestation-service-mingwx64-1.2.0.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/zeta/attestation-service-mingwx64/1.2.2/attestation-service-mingwx64-1.2.2.jar returned status 404
+1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/gematik/zeta/attestation-service-mingwx64/1.2.5/attestation-service-mingwx64-1.2.5.jar returned status 404

@@ -1,1 +1,2 @@
 2.2.21		2026-06-22T08:33:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/akehurst/language/editor/agl-editor-browser-ace-wasm-js/2.2.21/agl-editor-browser-ace-wasm-js-2.2.21.jar returned status 404
+2.3.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/akehurst/language/editor/agl-editor-browser-ace-wasm-js/2.3.21/agl-editor-browser-ace-wasm-js-2.3.21.jar returned status 404

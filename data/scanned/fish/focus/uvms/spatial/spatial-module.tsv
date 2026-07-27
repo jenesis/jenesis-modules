@@ -1,4 +1,6 @@
+2.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/spatial/spatial-module/2.2.11/spatial-module-2.2.11.jar returned status 404
 2.2.11	classes	2022-02-22T12:57:30Z	
+2.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/spatial/spatial-module/2.2.12/spatial-module-2.2.12.jar returned status 404
 2.2.12	classes	2022-03-04T08:06:37Z	
 2.3.0		2025-07-17T11:23:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/spatial/spatial-module/2.3.0/spatial-module-2.3.0.jar returned status 404
 2.3.0	classes	2025-07-17T11:23:11Z	

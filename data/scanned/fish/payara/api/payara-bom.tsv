@@ -1,3 +1,5 @@
+5.194			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/api/payara-bom/5.194/payara-bom-5.194.jar returned status 404
+5.201			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/api/payara-bom/5.201/payara-bom-5.201.jar returned status 404
 5.2020.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/api/payara-bom/5.2020.2/payara-bom-5.2020.2.jar returned status 404
 5.2020.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/api/payara-bom/5.2020.3/payara-bom-5.2020.3.jar returned status 404
 5.2020.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/api/payara-bom/5.2020.4/payara-bom-5.2020.4.jar returned status 404
@@ -76,3 +78,4 @@
 7.2026.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/api/payara-bom/7.2026.4/payara-bom-7.2026.4.jar returned status 404
 7.2026.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/api/payara-bom/7.2026.5/payara-bom-7.2026.5.jar returned status 404
 7.2026.6		2026-06-23T11:20:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/api/payara-bom/7.2026.6/payara-bom-7.2026.6.jar returned status 404
+7.2026.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/payara/api/payara-bom/7.2026.7/payara-bom-7.2026.7.jar returned status 404

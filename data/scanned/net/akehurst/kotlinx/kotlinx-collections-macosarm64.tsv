@@ -4,3 +4,4 @@
 2.2.20	metadata	2025-11-07T09:00:00Z	
 2.2.21		2026-06-18T12:57:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/akehurst/kotlinx/kotlinx-collections-macosarm64/2.2.21/kotlinx-collections-macosarm64-2.2.21.jar returned status 404
 2.2.21	metadata	2026-06-18T12:57:32Z	
+2.3.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/akehurst/kotlinx/kotlinx-collections-macosarm64/2.3.21/kotlinx-collections-macosarm64-2.3.21.jar returned status 404

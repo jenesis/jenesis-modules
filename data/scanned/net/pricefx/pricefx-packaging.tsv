@@ -43,3 +43,4 @@
 3.44.1		2026-05-25T11:42:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.44.1/pricefx-packaging-3.44.1.jar returned status 404
 3.45.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.45.0/pricefx-packaging-3.45.0.jar returned status 404
 3.46.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.46.0/pricefx-packaging-3.46.0.jar returned status 404
+3.47.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pricefx/pricefx-packaging/3.47.0/pricefx-packaging-3.47.0.jar returned status 404
