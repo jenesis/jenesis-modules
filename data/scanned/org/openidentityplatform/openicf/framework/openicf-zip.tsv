@@ -9,3 +9,4 @@
 2.0.1		2025-11-12T08:17:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openicf/framework/openicf-zip/2.0.1/openicf-zip-2.0.1.jar returned status 404
 2.0.2		2026-02-04T18:45:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openicf/framework/openicf-zip/2.0.2/openicf-zip-2.0.2.jar returned status 404
 2.0.3		2026-06-14T17:20:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openicf/framework/openicf-zip/2.0.3/openicf-zip-2.0.3.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openicf/framework/openicf-zip/2.0.4/openicf-zip-2.0.4.jar returned status 404

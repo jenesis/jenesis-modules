@@ -14,6 +14,7 @@
 1.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jkube/gradle-plugin/1.18.1/gradle-plugin-1.18.1.jar returned status 404
 1.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jkube/gradle-plugin/1.18.2/gradle-plugin-1.18.2.jar returned status 404
 1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jkube/gradle-plugin/1.19.0/gradle-plugin-1.19.0.jar returned status 404
+1.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jkube/gradle-plugin/1.20.0/gradle-plugin-1.20.0.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jkube/gradle-plugin/1.5.0/gradle-plugin-1.5.0.jar returned status 404
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jkube/gradle-plugin/1.5.1/gradle-plugin-1.5.1.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jkube/gradle-plugin/1.6.0/gradle-plugin-1.6.0.jar returned status 404

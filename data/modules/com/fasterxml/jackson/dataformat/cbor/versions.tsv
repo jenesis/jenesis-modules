@@ -1047,3 +1047,5 @@
 2.22.1	named	com.fasterxml.jackson.dataformat	jackson-dataformat-cbor	2026-07-07T22:01:36Z	2.22.1
 2.18.9	named	com.fasterxml.jackson.dataformat	jackson-dataformat-cbor	2026-07-08T00:31:07Z	2.18.9
 1.2.1	named	org.eclipse.ditto	wot-to-openapi-generator	2026-07-17T00:10:17Z	2.22.0
+1.1.1	named	org.eclipse.ditto	wot-to-openapi-generator	2026-07-24T00:07:48Z	2.19.2
+1.2.2	named	org.eclipse.ditto	wot-to-openapi-generator	2026-07-24T00:11:57Z	2.22.0

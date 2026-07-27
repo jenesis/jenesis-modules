@@ -3,3 +3,4 @@
 2.16.0.6009			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/coverage-report/2.16.0.6009/coverage-report-2.16.0.6009.jar returned status 404
 2.17.0.6043			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/coverage-report/2.17.0.6043/coverage-report-2.17.0.6043.jar returned status 404
 2.17.0.6211		2026-06-26T14:30:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/coverage-report/2.17.0.6211/coverage-report-2.17.0.6211.jar returned status 404
+2.18.0.6281			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/flex/coverage-report/2.18.0.6281/coverage-report-2.18.0.6281.jar returned status 404

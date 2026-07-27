@@ -5004,6 +5004,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.2.3-1-flink-2.0	named	io.github.cobble-project	cobble-flink-dist	2026-07-20T16:39:45Z	2.10.1
 0.2.3-1-flink-1.19	named	io.github.cobble-project	cobble-flink-dist	2026-07-20T16:39:45Z	2.10.1
 1.5.9	named	com.conaxgames	clibraries	2026-07-20T23:04:09Z	2.14.0
+5.6.0.78576	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-07-21T02:15:26Z	2.14.0
 0.2.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-07-21T23:57:14Z	2.11.0
 0.1.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-07-21T23:57:15Z	2.11.0
 0.4.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-07-22T23:56:27Z	2.11.0
@@ -5011,6 +5012,8 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 3.37.4	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-07-23T00:25:07Z	2.10
 0.1.6-beta	named	dev.cjfravel	ariadne-spark35_2.12	2026-07-23T23:54:15Z	2.14.0
 0.1.6-beta	named	dev.cjfravel	ariadne-spark41_2.13	2026-07-23T23:54:18Z	2.14.0
+10.30.0.144632	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-07-24T00:16:04Z	2.14.0
+10.30.0.144632	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-07-24T00:16:06Z	2.14.0
 1.0.0-beta.19	named	dev.blitical	JigsawDB	2026-07-24T23:53:49Z	2.13.2
 0.5.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-07-25T23:55:11Z	2.11.0
 0.10.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-07-26T23:56:22Z	2.11.0

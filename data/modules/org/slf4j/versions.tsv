@@ -3187,6 +3187,9 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 3.1.2	named	org.openidentityplatform.commons.json-schema	cli	2026-07-17T02:28:18Z	2.0.17
 3.1.2	named	org.openidentityplatform.commons.json-crypto	cli	2026-07-17T02:28:22Z	2.0.17
 5.1.2	named	org.openidentityplatform.opendj	opendj-ldap-sdk-examples	2026-07-18T02:18:58Z	2.0.17
+16.1.2	named	org.openidentityplatform.openam	openam-installtools	2026-07-21T02:21:04Z	2.0.17
 1.1.1	named	com.github.toolarium	toolarium-changelog-parser	2026-07-21T05:20:00Z	2.0.17
 0.16.1	named	io.testomat	java-reporter-core	2026-07-21T23:58:28Z	2.0.9
 6.0	named	io.github.zhouzhoucoder	zys-wrench-starter-design-framework	2026-07-22T02:26:53Z	2.0.16
+1.94.0	named	org.talend.sdk.component.sample.feature	checkpointruntime	2026-07-23T00:04:25Z	2.0.7
+0.19.0-958	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-07-24T02:17:35Z	2.0.17

@@ -14,3 +14,5 @@
 7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openidm/openidm-project/7.0.1/openidm-project-7.0.1.jar returned status 404
 7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openidm/openidm-project/7.0.2/openidm-project-7.0.2.jar returned status 404
 7.1.0		2026-06-14T19:09:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openidm/openidm-project/7.1.0/openidm-project-7.1.0.jar returned status 404
+7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openidm/openidm-project/7.1.1/openidm-project-7.1.1.jar returned status 404
+7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openidm/openidm-project/7.1.2/openidm-project-7.1.2.jar returned status 404

@@ -2464,3 +2464,5 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 0.4.8	named	com.databend	databend-jdbc	2026-07-15T02:12:03Z	
 2.4.10	named	org.jetbrains.kotlin	kotlin-osgi-bundle	2026-07-15T02:20:16Z	
 2.4.10	named	org.jetbrains.kotlin	kotlin-stdlib	2026-07-15T02:20:38Z	
+2.4.20-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib	2026-07-23T00:31:57Z	
+0.19.0-958	named	org.jetbrains.kotlinx	kotlin-jupyter-ide-classpath-shadowed	2026-07-24T02:17:11Z	

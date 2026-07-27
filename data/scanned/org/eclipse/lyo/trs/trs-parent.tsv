@@ -28,3 +28,4 @@
 7.0.0.Alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/trs/trs-parent/7.0.0.Alpha7/trs-parent-7.0.0.Alpha7.jar returned status 404
 7.0.0.Alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/trs/trs-parent/7.0.0.Alpha8/trs-parent-7.0.0.Alpha8.jar returned status 404
 7.0.0.Alpha9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/trs/trs-parent/7.0.0.Alpha9/trs-parent-7.0.0.Alpha9.jar returned status 404
+7.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/trs/trs-parent/7.0.0.Beta1/trs-parent-7.0.0.Beta1.jar returned status 404

@@ -76,3 +76,4 @@
 1.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-xgboost/1.9.6/jpmml-xgboost-1.9.6.jar returned status 404
 1.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-xgboost/1.9.7/jpmml-xgboost-1.9.7.jar returned status 404
 1.9.8		2026-05-25T18:58:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-xgboost/1.9.8/jpmml-xgboost-1.9.8.jar returned status 404
+1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-xgboost/1.9.9/jpmml-xgboost-1.9.9.jar returned status 404

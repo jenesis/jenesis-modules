@@ -171,3 +171,4 @@
 1.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/extensions/1.91.0/extensions-1.91.0.jar returned status 404
 1.92.0		2026-05-29T08:39:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/extensions/1.92.0/extensions-1.92.0.jar returned status 404
 1.93.0		2026-06-18T10:35:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/extensions/1.93.0/extensions-1.93.0.jar returned status 404
+1.94.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/extensions/1.94.0/extensions-1.94.0.jar returned status 404

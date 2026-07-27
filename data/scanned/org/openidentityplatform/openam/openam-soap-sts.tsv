@@ -39,3 +39,4 @@
 16.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/openam-soap-sts/16.0.6/openam-soap-sts-16.0.6.jar returned status 404
 16.1.0		2026-06-17T19:01:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/openam-soap-sts/16.1.0/openam-soap-sts-16.1.0.jar returned status 404
 16.1.1		2026-06-17T20:59:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/openam-soap-sts/16.1.1/openam-soap-sts-16.1.1.jar returned status 404
+16.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openam/openam-soap-sts/16.1.2/openam-soap-sts-16.1.2.jar returned status 404

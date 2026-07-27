@@ -1,2 +1,12 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/2.0.0/maven-build-2.0.0.jar returned status 404
+2.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/2.0.0-M3/maven-build-2.0.0-M3.jar returned status 404
+2.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/2.0.0-M4/maven-build-2.0.0-M4.jar returned status 404
+2.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/2.0.0-M5/maven-build-2.0.0-M5.jar returned status 404
+2.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/2.0.0-M6/maven-build-2.0.0-M6.jar returned status 404
+2.0.0-M7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/2.0.0-M7/maven-build-2.0.0-M7.jar returned status 404
+2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/2.0.0-RC1/maven-build-2.0.0-RC1.jar returned status 404
 2.1.0		2026-07-12T23:43:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/2.1.0/maven-build-2.1.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/3.0.0/maven-build-3.0.0.jar returned status 404
+3.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/3.0.0-M1/maven-build-3.0.0-M1.jar returned status 404
 3.0.0-RC1		2026-07-18T06:34:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/3.0.0-RC1/maven-build-3.0.0-RC1.jar returned status 404
+4.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codeprimate/build/maven-build/4.0.0-M1/maven-build-4.0.0-M1.jar returned status 404
