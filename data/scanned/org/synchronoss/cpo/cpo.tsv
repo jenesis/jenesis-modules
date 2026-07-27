@@ -7,3 +7,6 @@
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/synchronoss/cpo/cpo/5.2.0/cpo-5.2.0.jar returned status 404
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/synchronoss/cpo/cpo/5.2.1/cpo-5.2.1.jar returned status 404
 5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/synchronoss/cpo/cpo/5.2.2/cpo-5.2.2.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/synchronoss/cpo/cpo/6.0.0/cpo-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/synchronoss/cpo/cpo/6.1.0/cpo-6.1.0.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/synchronoss/cpo/cpo/6.2.0/cpo-6.2.0.jar returned status 404

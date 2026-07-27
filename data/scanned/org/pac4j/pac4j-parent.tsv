@@ -64,3 +64,4 @@
 6.5.2		2026-05-22T11:33:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pac4j/pac4j-parent/6.5.2/pac4j-parent-6.5.2.jar returned status 404
 6.5.3		2026-06-01T15:08:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pac4j/pac4j-parent/6.5.3/pac4j-parent-6.5.3.jar returned status 404
 6.5.4		2026-06-26T06:40:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pac4j/pac4j-parent/6.5.4/pac4j-parent-6.5.4.jar returned status 404
+6.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pac4j/pac4j-parent/6.5.5/pac4j-parent-6.5.5.jar returned status 404
