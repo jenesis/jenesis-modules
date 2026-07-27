@@ -180,3 +180,7 @@
 7.92.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/7.92.5/spinnaker-dependencies-7.92.5.jar returned status 404
 7.92.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/7.92.6/spinnaker-dependencies-7.92.6.jar returned status 404
 7.92.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/7.92.7/spinnaker-dependencies-7.92.7.jar returned status 404
+main-272			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/main-272/spinnaker-dependencies-main-272.jar returned status 404
+main-273			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/main-273/spinnaker-dependencies-main-273.jar returned status 404
+main-274			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/main-274/spinnaker-dependencies-main-274.jar returned status 404
+main-275			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/spinnaker-dependencies/main-275/spinnaker-dependencies-main-275.jar returned status 404

@@ -60,4 +60,8 @@
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/igor/igor-bom/4.9.0/igor-bom-4.9.0.jar returned status 404
 main-239		2026-06-16T20:24:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/igor/igor-bom/main-239/igor-bom-main-239.jar returned status 404
 main-241		2026-06-17T03:17:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/igor/igor-bom/main-241/igor-bom-main-241.jar returned status 404
+main-272			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/igor/igor-bom/main-272/igor-bom-main-272.jar returned status 404
+main-273			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/igor/igor-bom/main-273/igor-bom-main-273.jar returned status 404
+main-274			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/igor/igor-bom/main-274/igor-bom-main-274.jar returned status 404
+main-275			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/igor/igor-bom/main-275/igor-bom-main-275.jar returned status 404
 version-1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/igor/igor-bom/version-1.18.0/igor-bom-version-1.18.0.jar returned status 404

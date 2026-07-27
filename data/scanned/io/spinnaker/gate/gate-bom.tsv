@@ -5,6 +5,8 @@
 2026.2-0		2026-06-30T17:35:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-0/gate-bom-2026.2-0.jar returned status 404
 2026.2-1		2026-07-03T19:23:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-1/gate-bom-2026.2-1.jar returned status 404
 2026.2-10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-10/gate-bom-2026.2-10.jar returned status 404
+2026.2-11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-11/gate-bom-2026.2-11.jar returned status 404
+2026.2-12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-12/gate-bom-2026.2-12.jar returned status 404
 2026.2-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-2/gate-bom-2026.2-2.jar returned status 404
 2026.2-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-3/gate-bom-2026.2-3.jar returned status 404
 2026.2-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-4/gate-bom-2026.2-4.jar returned status 404
@@ -92,3 +94,14 @@ main-261			IOException: Tail request on https://maven-central.storage-download.g
 main-262			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-262/gate-bom-main-262.jar returned status 404
 main-263			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-263/gate-bom-main-263.jar returned status 404
 main-264			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-264/gate-bom-main-264.jar returned status 404
+main-265			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-265/gate-bom-main-265.jar returned status 404
+main-266			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-266/gate-bom-main-266.jar returned status 404
+main-267			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-267/gate-bom-main-267.jar returned status 404
+main-268			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-268/gate-bom-main-268.jar returned status 404
+main-269			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-269/gate-bom-main-269.jar returned status 404
+main-270			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-270/gate-bom-main-270.jar returned status 404
+main-271			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-271/gate-bom-main-271.jar returned status 404
+main-272			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-272/gate-bom-main-272.jar returned status 404
+main-273			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-273/gate-bom-main-273.jar returned status 404
+main-274			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-274/gate-bom-main-274.jar returned status 404
+main-275			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-275/gate-bom-main-275.jar returned status 404

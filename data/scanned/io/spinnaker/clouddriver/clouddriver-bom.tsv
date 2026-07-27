@@ -91,3 +91,8 @@
 5.95.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/5.95.0/clouddriver-bom-5.95.0.jar returned status 404
 main-239		2026-06-16T20:41:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/main-239/clouddriver-bom-main-239.jar returned status 404
 main-241		2026-06-17T03:33:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/main-241/clouddriver-bom-main-241.jar returned status 404
+main-272			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/main-272/clouddriver-bom-main-272.jar returned status 404
+main-273			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/main-273/clouddriver-bom-main-273.jar returned status 404
+main-274			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/main-274/clouddriver-bom-main-274.jar returned status 404
+main-275			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/main-275/clouddriver-bom-main-275.jar returned status 404
+main-276			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/clouddriver/clouddriver-bom/main-276/clouddriver-bom-main-276.jar returned status 404

@@ -180,3 +180,7 @@
 7.92.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/7.92.5/kork-bom-7.92.5.jar returned status 404
 7.92.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/7.92.6/kork-bom-7.92.6.jar returned status 404
 7.92.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/7.92.7/kork-bom-7.92.7.jar returned status 404
+main-272			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/main-272/kork-bom-main-272.jar returned status 404
+main-273			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/main-273/kork-bom-main-273.jar returned status 404
+main-274			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/main-274/kork-bom-main-274.jar returned status 404
+main-275			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/main-275/kork-bom-main-275.jar returned status 404
