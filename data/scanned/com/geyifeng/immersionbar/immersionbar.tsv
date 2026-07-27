@@ -5,3 +5,4 @@
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/geyifeng/immersionbar/immersionbar/3.2.2/immersionbar-3.2.2.jar returned status 404
 3.3.0		2026-07-05T14:50:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/geyifeng/immersionbar/immersionbar/3.3.0/immersionbar-3.3.0.jar returned status 404
 3.3.1		2026-07-05T16:24:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/geyifeng/immersionbar/immersionbar/3.3.1/immersionbar-3.3.1.jar returned status 404
+3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/geyifeng/immersionbar/immersionbar/3.3.2/immersionbar-3.3.2.jar returned status 404

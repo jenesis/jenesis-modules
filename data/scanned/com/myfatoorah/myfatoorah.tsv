@@ -67,3 +67,5 @@
 4.2.7		2026-06-14T15:50:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myfatoorah/myfatoorah/4.2.7/myfatoorah-4.2.7.jar returned status 404
 4.3.0		2026-06-15T17:20:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myfatoorah/myfatoorah/4.3.0/myfatoorah-4.3.0.jar returned status 404
 4.3.1		2026-06-17T12:59:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myfatoorah/myfatoorah/4.3.1/myfatoorah-4.3.1.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myfatoorah/myfatoorah/4.4.0/myfatoorah-4.4.0.jar returned status 404
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/myfatoorah/myfatoorah/4.4.1/myfatoorah-4.4.1.jar returned status 404

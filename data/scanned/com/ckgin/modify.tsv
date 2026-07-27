@@ -5,3 +5,4 @@
 1.0.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ckgin/modify/1.0.0-alpha04/modify-1.0.0-alpha04.jar returned status 404
 1.0.0-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ckgin/modify/1.0.0-rc/modify-1.0.0-rc.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ckgin/modify/1.1.0/modify-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ckgin/modify/1.2.0/modify-1.2.0.jar returned status 404

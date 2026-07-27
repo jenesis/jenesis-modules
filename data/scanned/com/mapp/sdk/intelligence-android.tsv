@@ -16,6 +16,7 @@
 5.1.12-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/intelligence-android/5.1.12-alpha01/intelligence-android-5.1.12-alpha01.jar returned status 404
 5.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/intelligence-android/5.1.13/intelligence-android-5.1.13.jar returned status 404
 5.1.13-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/intelligence-android/5.1.13-beta01/intelligence-android-5.1.13-beta01.jar returned status 404
+5.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/intelligence-android/5.1.14/intelligence-android-5.1.14.jar returned status 404
 5.1.14-beta01		2026-07-21T12:38:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/intelligence-android/5.1.14-beta01/intelligence-android-5.1.14-beta01.jar returned status 404
 5.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/intelligence-android/5.1.2/intelligence-android-5.1.2.jar returned status 404
 5.1.2-rc02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapp/sdk/intelligence-android/5.1.2-rc02/intelligence-android-5.1.2-rc02.jar returned status 404

@@ -815,6 +815,7 @@
 3.3.2	named	org.apache.tika	tika-fetcher-gcs	2026-07-22T02:27:20Z	2.0.75.Final
 4.135.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-23T00:27:01Z	2.0.72.Final
 1.83.0	named	io.grpc	grpc-netty-shaded	2026-07-23T00:28:35Z	2.0.75.Final
+44.0.0	named	com.google.api-ads	google-ads-shadowjar	2026-07-23T00:33:49Z	2.0.75.Final
 4.135.6	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-24T00:18:49Z	2.0.72.Final
 4.135.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-24T00:18:50Z	2.0.72.Final
 4.136.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-25T00:44:24Z	2.0.72.Final
