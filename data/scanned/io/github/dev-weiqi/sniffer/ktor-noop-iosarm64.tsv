@@ -24,3 +24,5 @@
 0.4.0	metadata	2026-07-19T09:28:54Z	
 0.4.1		2026-07-20T06:27:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/ktor-noop-iosarm64/0.4.1/ktor-noop-iosarm64-0.4.1.jar returned status 404
 0.4.1	metadata	2026-07-20T06:27:03Z	
+0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/ktor-noop-iosarm64/0.4.2/ktor-noop-iosarm64-0.4.2.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/ktor-noop-iosarm64/0.5.0/ktor-noop-iosarm64-0.5.0.jar returned status 404

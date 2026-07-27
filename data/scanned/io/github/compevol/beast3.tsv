@@ -4,3 +4,4 @@
 2.8.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/compevol/beast3/2.8.0-beta4/beast3-2.8.0-beta4.jar returned status 404
 2.8.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/compevol/beast3/2.8.0-beta5/beast3-2.8.0-beta5.jar returned status 404
 2.8.0-beta6		2026-06-29T01:38:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/compevol/beast3/2.8.0-beta6/beast3-2.8.0-beta6.jar returned status 404
+2.8.0-beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/compevol/beast3/2.8.0-beta7/beast3-2.8.0-beta7.jar returned status 404

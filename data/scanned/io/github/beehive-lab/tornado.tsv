@@ -11,3 +11,7 @@
 4.0.1-jdk25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/4.0.1-jdk25/tornado-4.0.1-jdk25.jar returned status 404
 5.0.0-jdk21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/5.0.0-jdk21/tornado-5.0.0-jdk21.jar returned status 404
 5.0.0-jdk25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/5.0.0-jdk25/tornado-5.0.0-jdk25.jar returned status 404
+5.1.0-jdk21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/5.1.0-jdk21/tornado-5.1.0-jdk21.jar returned status 404
+5.1.0-jdk25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/5.1.0-jdk25/tornado-5.1.0-jdk25.jar returned status 404
+5.2.0-jdk21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/5.2.0-jdk21/tornado-5.2.0-jdk21.jar returned status 404
+5.2.0-jdk25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/5.2.0-jdk25/tornado-5.2.0-jdk25.jar returned status 404

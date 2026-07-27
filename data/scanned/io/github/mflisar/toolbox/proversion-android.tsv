@@ -29,4 +29,7 @@
 4.0.0-alpha14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/proversion-android/4.0.0-alpha14/proversion-android-4.0.0-alpha14.jar returned status 404
 4.0.0-alpha16		2026-06-06T08:24:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/proversion-android/4.0.0-alpha16/proversion-android-4.0.0-alpha16.jar returned status 404
 4.0.0-alpha17		2026-06-06T18:53:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/proversion-android/4.0.0-alpha17/proversion-android-4.0.0-alpha17.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/proversion-android/4.0.1/proversion-android-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/proversion-android/4.0.2/proversion-android-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/proversion-android/4.0.3/proversion-android-4.0.3.jar returned status 404
 4.0.4-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/proversion-android/4.0.4-alpha04/proversion-android-4.0.4-alpha04.jar returned status 404

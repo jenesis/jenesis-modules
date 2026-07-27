@@ -22,6 +22,7 @@
 1.17.12		2026-06-02T02:13:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/1.17.12/os-google-mediation-1.17.12.jar returned status 404
 1.17.13		2026-06-16T09:24:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/1.17.13/os-google-mediation-1.17.13.jar returned status 404
 1.17.14		2026-06-22T11:37:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/1.17.14/os-google-mediation-1.17.14.jar returned status 404
+1.17.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/1.17.15/os-google-mediation-1.17.15.jar returned status 404
 1.17.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/1.17.3/os-google-mediation-1.17.3.jar returned status 404
 1.17.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/1.17.4/os-google-mediation-1.17.4.jar returned status 404
 1.17.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/1.17.5/os-google-mediation-1.17.5.jar returned status 404
@@ -81,3 +82,7 @@
 2.0.8-dev2		2026-07-20T01:08:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/2.0.8-dev2/os-google-mediation-2.0.8-dev2.jar returned status 404
 2.0.8-dev3		2026-07-20T02:50:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/2.0.8-dev3/os-google-mediation-2.0.8-dev3.jar returned status 404
 3.0.0-dev1		2026-07-20T06:55:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/3.0.0-dev1/os-google-mediation-3.0.0-dev1.jar returned status 404
+3.0.0-dev2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/3.0.0-dev2/os-google-mediation-3.0.0-dev2.jar returned status 404
+3.0.0-dev3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/3.0.0-dev3/os-google-mediation-3.0.0-dev3.jar returned status 404
+3.0.0-dev4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/3.0.0-dev4/os-google-mediation-3.0.0-dev4.jar returned status 404
+3.0.0-dev5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wondergamesdk/os-google-mediation/3.0.0-dev5/os-google-mediation-3.0.0-dev5.jar returned status 404

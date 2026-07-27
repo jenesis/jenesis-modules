@@ -40,3 +40,5 @@
 2.0.0		2026-06-17T02:19:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-ssp/2.0.0/admixer-ssp-2.0.0.jar returned status 404
 2.0.1		2026-07-02T10:03:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-ssp/2.0.1/admixer-ssp-2.0.1.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-ssp/2.1.0/admixer-ssp-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-ssp/2.1.1/admixer-ssp-2.1.1.jar returned status 404
+2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-ssp/2.1.2/admixer-ssp-2.1.2.jar returned status 404

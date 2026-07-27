@@ -104,5 +104,8 @@
 4.0.0-alpha16	metadata	2026-06-06T08:24:45Z	
 4.0.0-alpha17		2026-06-06T18:53:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/core-iosarm64/4.0.0-alpha17/core-iosarm64-4.0.0-alpha17.jar returned status 404
 4.0.0-alpha17	metadata	2026-06-06T18:53:02Z	
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/core-iosarm64/4.0.1/core-iosarm64-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/core-iosarm64/4.0.2/core-iosarm64-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/core-iosarm64/4.0.3/core-iosarm64-4.0.3.jar returned status 404
 4.0.4-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/core-iosarm64/4.0.4-alpha04/core-iosarm64-4.0.4-alpha04.jar returned status 404
 4.0.4-alpha04	metadata	2026-04-03T05:36:29Z	

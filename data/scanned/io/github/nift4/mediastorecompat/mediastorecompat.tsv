@@ -19,3 +19,4 @@
 1.0.0-alpha30		2026-05-26T12:23:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nift4/mediastorecompat/mediastorecompat/1.0.0-alpha30/mediastorecompat-1.0.0-alpha30.jar returned status 404
 1.0.0-alpha31		2026-06-07T20:57:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nift4/mediastorecompat/mediastorecompat/1.0.0-alpha31/mediastorecompat-1.0.0-alpha31.jar returned status 404
 1.0.0-alpha32		2026-06-20T16:23:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nift4/mediastorecompat/mediastorecompat/1.0.0-alpha32/mediastorecompat-1.0.0-alpha32.jar returned status 404
+1.0.0-alpha33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nift4/mediastorecompat/mediastorecompat/1.0.0-alpha33/mediastorecompat-1.0.0-alpha33.jar returned status 404

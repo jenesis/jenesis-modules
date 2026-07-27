@@ -2,3 +2,4 @@
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jchejarla/spring-batch-db-cluster-partitioning/1.0.1/spring-batch-db-cluster-partitioning-1.0.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jchejarla/spring-batch-db-cluster-partitioning/2.0.0/spring-batch-db-cluster-partitioning-2.0.0.jar returned status 404
 2.0.1		2026-06-13T15:15:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jchejarla/spring-batch-db-cluster-partitioning/2.0.1/spring-batch-db-cluster-partitioning-2.0.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jchejarla/spring-batch-db-cluster-partitioning/3.0.0/spring-batch-db-cluster-partitioning-3.0.0.jar returned status 404

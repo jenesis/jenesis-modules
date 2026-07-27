@@ -3,3 +3,4 @@
 2.1.0		2026-06-13T11:40:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-classic-js/2.1.0/log4k-classic-js-2.1.0.jar returned status 404
 2.1.1		2026-06-13T23:20:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-classic-js/2.1.1/log4k-classic-js-2.1.1.jar returned status 404
 2.2.0		2026-06-29T15:24:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-classic-js/2.2.0/log4k-classic-js-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-classic-js/2.3.0/log4k-classic-js-2.3.0.jar returned status 404

@@ -8,3 +8,4 @@
 1.0.0-alpha05	metadata	2026-07-18T21:20:51Z	
 1.0.0-alpha06		2026-07-20T19:43:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jjrodcast/textkit-iosarm64/1.0.0-alpha06/textkit-iosarm64-1.0.0-alpha06.jar returned status 404
 1.0.0-alpha06	metadata	2026-07-20T19:43:59Z	
+1.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jjrodcast/textkit-iosarm64/1.0.0-beta01/textkit-iosarm64-1.0.0-beta01.jar returned status 404

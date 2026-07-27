@@ -1,2 +1,3 @@
 1.0.0		2026-07-09T03:32:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/winduskofficial/ecosystem-basics/1.0.0/ecosystem-basics-1.0.0.jar returned status 404
 1.0.1		2026-07-10T06:59:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/winduskofficial/ecosystem-basics/1.0.1/ecosystem-basics-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/winduskofficial/ecosystem-basics/1.0.2/ecosystem-basics-1.0.2.jar returned status 404

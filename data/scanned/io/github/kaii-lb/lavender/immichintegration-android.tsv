@@ -14,3 +14,4 @@
 2.2.3		2026-06-26T16:44:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kaii-lb/lavender/immichintegration-android/2.2.3/immichintegration-android-2.2.3.jar returned status 404
 3.0.0		2026-07-03T15:29:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kaii-lb/lavender/immichintegration-android/3.0.0/immichintegration-android-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kaii-lb/lavender/immichintegration-android/3.0.1/immichintegration-android-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kaii-lb/lavender/immichintegration-android/3.0.2/immichintegration-android-3.0.2.jar returned status 404

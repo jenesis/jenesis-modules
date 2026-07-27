@@ -4,6 +4,7 @@
 0.0.11	metadata	2025-10-10T14:56:10Z	
 0.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/domgew/kedis-macosarm64/0.0.12/kedis-macosarm64-0.0.12.jar returned status 404
 0.0.12	metadata	2026-01-23T16:33:53Z	
+0.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/domgew/kedis-macosarm64/0.0.13/kedis-macosarm64-0.0.13.jar returned status 404
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/domgew/kedis-macosarm64/0.0.2/kedis-macosarm64-0.0.2.jar returned status 404
 0.0.2	metadata	2024-02-04T10:31:14Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/domgew/kedis-macosarm64/0.0.3/kedis-macosarm64-0.0.3.jar returned status 404

@@ -10,3 +10,4 @@
 4.1.20		2026-05-28T08:31:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tango-mediation/tango/4.1.20/tango-4.1.20.jar returned status 404
 4.1.21		2026-06-04T06:32:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tango-mediation/tango/4.1.21/tango-4.1.21.jar returned status 404
 4.1.22		2026-07-01T09:51:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tango-mediation/tango/4.1.22/tango-4.1.22.jar returned status 404
+4.1.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tango-mediation/tango/4.1.23/tango-4.1.23.jar returned status 404
