@@ -6,3 +6,4 @@
 1.0.0-alpha.6		2026-05-27T08:22:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/ai/gliner4j/gravitee-gliner4j/1.0.0-alpha.6/gravitee-gliner4j-1.0.0-alpha.6.jar returned status 404
 1.0.0-alpha.7		2026-06-02T14:42:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/ai/gliner4j/gravitee-gliner4j/1.0.0-alpha.7/gravitee-gliner4j-1.0.0-alpha.7.jar returned status 404
 1.0.0-alpha.8		2026-06-02T18:12:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/ai/gliner4j/gravitee-gliner4j/1.0.0-alpha.8/gravitee-gliner4j-1.0.0-alpha.8.jar returned status 404
+1.0.0-alpha.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/ai/gliner4j/gravitee-gliner4j/1.0.0-alpha.9/gravitee-gliner4j-1.0.0-alpha.9.jar returned status 404

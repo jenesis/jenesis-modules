@@ -5,4 +5,5 @@
 1.0.0-rc4		2026-06-23T00:28:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/android-thin-client/1.0.0-rc4/android-thin-client-1.0.0-rc4.jar returned status 404
 1.0.0-rc5		2026-06-25T19:29:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/android-thin-client/1.0.0-rc5/android-thin-client-1.0.0-rc5.jar returned status 404
 1.0.0-rc6		2026-06-26T14:16:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/android-thin-client/1.0.0-rc6/android-thin-client-1.0.0-rc6.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/android-thin-client/1.0.1/android-thin-client-1.0.1.jar returned status 404
 1.0.1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/android-thin-client/1.0.1-rc1/android-thin-client-1.0.1-rc1.jar returned status 404

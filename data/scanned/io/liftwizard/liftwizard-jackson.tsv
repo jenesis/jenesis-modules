@@ -82,6 +82,7 @@
 2.1.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/liftwizard/liftwizard-jackson/2.1.45/liftwizard-jackson-2.1.45.jar returned status 404
 2.1.46		2026-06-02T00:53:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/liftwizard/liftwizard-jackson/2.1.46/liftwizard-jackson-2.1.46.jar returned status 404
 2.1.47		2026-06-16T19:30:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/liftwizard/liftwizard-jackson/2.1.47/liftwizard-jackson-2.1.47.jar returned status 404
+2.1.48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/liftwizard/liftwizard-jackson/2.1.48/liftwizard-jackson-2.1.48.jar returned status 404
 2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/liftwizard/liftwizard-jackson/2.1.5/liftwizard-jackson-2.1.5.jar returned status 404
 2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/liftwizard/liftwizard-jackson/2.1.6/liftwizard-jackson-2.1.6.jar returned status 404
 2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/liftwizard/liftwizard-jackson/2.1.7/liftwizard-jackson-2.1.7.jar returned status 404
