@@ -128,3 +128,4 @@
 18.0.0-rc.1699		2026-06-29T14:11:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shakebugs/shake-staging/18.0.0-rc.1699/shake-staging-18.0.0-rc.1699.jar returned status 404
 18.0.0-rc.1700		2026-06-29T15:49:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shakebugs/shake-staging/18.0.0-rc.1700/shake-staging-18.0.0-rc.1700.jar returned status 404
 18.0.0-rc.1701		2026-07-01T14:34:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shakebugs/shake-staging/18.0.0-rc.1701/shake-staging-18.0.0-rc.1701.jar returned status 404
+18.0.0-rc.1704			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shakebugs/shake-staging/18.0.0-rc.1704/shake-staging-18.0.0-rc.1704.jar returned status 404

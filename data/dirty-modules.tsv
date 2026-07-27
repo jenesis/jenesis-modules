@@ -2874,3 +2874,7 @@ com.blazebit.persistence.examples.showcase.fragments.spring.data
 com.blazebit.persistence.examples.spring.data.spqr
 com.blazebit.persistence.integration.spring.data.webflux
 com.blazebit.persistence.integration.spring.data.testsuite.webmvc.runner
+com.digitalpetri.opcua.uanodeset.namespace
+com.digitalpetri.opcua.uanodeset.core
+com.google.errorprone.annotations
+org.fife.RSyntaxTextArea

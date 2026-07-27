@@ -6,6 +6,7 @@
 2.13	metadata	2026-01-25T16:46:23Z	
 2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kson/essential-kson-tvossimulatorarm64/2.14/essential-kson-tvossimulatorarm64-2.14.jar returned status 404
 2.14	metadata	2026-03-10T06:36:41Z	
+2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kson/essential-kson-tvossimulatorarm64/2.15/essential-kson-tvossimulatorarm64-2.15.jar returned status 404
 2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kson/essential-kson-tvossimulatorarm64/2.6/essential-kson-tvossimulatorarm64-2.6.jar returned status 404
 2.6	metadata	2024-12-29T11:51:52Z	
 2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kson/essential-kson-tvossimulatorarm64/2.7/essential-kson-tvossimulatorarm64-2.7.jar returned status 404
