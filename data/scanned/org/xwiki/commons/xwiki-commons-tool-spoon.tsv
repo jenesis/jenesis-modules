@@ -359,6 +359,7 @@
 18.4.2		2026-06-30T09:24:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.4.2/xwiki-commons-tool-spoon-18.4.2.jar returned status 404
 18.5.0		2026-06-29T08:29:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.5.0/xwiki-commons-tool-spoon-18.5.0.jar returned status 404
 18.5.0-rc-1		2026-06-22T12:34:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.5.0-rc-1/xwiki-commons-tool-spoon-18.5.0-rc-1.jar returned status 404
+18.6.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xwiki/commons/xwiki-commons-tool-spoon/18.6.0-rc-1/xwiki-commons-tool-spoon-18.6.0-rc-1.jar returned status 404
 9.10		2017-11-20T15:33:43Z	
 9.10-rc-1		2017-11-13T14:54:10Z	
 9.10.1		2017-11-29T17:49:12Z	

@@ -1,1 +1,2 @@
 2.7.25		2026-06-10T10:49:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/protobufs-wasm-wasi/2.7.25/protobufs-wasm-wasi-2.7.25.jar returned status 404
+2.7.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/protobufs-wasm-wasi/2.7.26/protobufs-wasm-wasi-2.7.26.jar returned status 404

@@ -112,6 +112,7 @@
 17.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/17.0.2/javafx-17.0.2.jar returned status 404
 17.0.2-ea+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/17.0.2-ea+1/javafx-17.0.2-ea+1.jar returned status 404
 17.0.2-ea+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/17.0.2-ea+2/javafx-17.0.2-ea+2.jar returned status 404
+17.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/17.0.20/javafx-17.0.20.jar returned status 404
 17.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/17.0.6/javafx-17.0.6.jar returned status 404
 17.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/17.0.7/javafx-17.0.7.jar returned status 404
 17.0.7-ea+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/17.0.7-ea+1/javafx-17.0.7-ea+1.jar returned status 404
@@ -176,6 +177,7 @@
 21.0.11-ea+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/21.0.11-ea+2/javafx-21.0.11-ea+2.jar returned status 404
 21.0.11-ea+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/21.0.11-ea+3/javafx-21.0.11-ea+3.jar returned status 404
 21.0.11-ea+4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/21.0.11-ea+4/javafx-21.0.11-ea+4.jar returned status 404
+21.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/21.0.12/javafx-21.0.12.jar returned status 404
 21.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/21.0.2/javafx-21.0.2.jar returned status 404
 21.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/21.0.3/javafx-21.0.3.jar returned status 404
 21.0.3-ea+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/21.0.3-ea+1/javafx-21.0.3-ea+1.jar returned status 404
@@ -247,6 +249,7 @@
 25.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/25.0.3/javafx-25.0.3.jar returned status 404
 25.0.3-ea+2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/25.0.3-ea+2/javafx-25.0.3-ea+2.jar returned status 404
 25.0.3-ea+3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/25.0.3-ea+3/javafx-25.0.3-ea+3.jar returned status 404
+25.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/25.0.4/javafx-25.0.4.jar returned status 404
 26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/26/javafx-26.jar returned status 404
 26-ea+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/26-ea+1/javafx-26-ea+1.jar returned status 404
 26-ea+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/26-ea+10/javafx-26-ea+10.jar returned status 404
@@ -272,6 +275,7 @@
 26-ea+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/26-ea+7/javafx-26-ea+7.jar returned status 404
 26-ea+9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/26-ea+9/javafx-26-ea+9.jar returned status 404
 26.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/26.0.1/javafx-26.0.1.jar returned status 404
+26.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/26.0.2/javafx-26.0.2.jar returned status 404
 27-ea+1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/27-ea+1/javafx-27-ea+1.jar returned status 404
 27-ea+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/27-ea+10/javafx-27-ea+10.jar returned status 404
 27-ea+11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openjfx/javafx/27-ea+11/javafx-27-ea+11.jar returned status 404

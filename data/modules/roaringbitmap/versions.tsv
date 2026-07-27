@@ -102,3 +102,6 @@
 0.6.3	named	org.apache.celeborn	celeborn-client-flink-1.20-shaded_2.12	2026-04-16T07:11:44Z	1.0.6
 0.6.3	named	org.apache.celeborn	celeborn-client-flink-2.0-shaded_2.12	2026-04-16T07:12:30Z	1.0.6
 1.6.15	named	org.roaringbitmap	RoaringBitmap	2026-07-10T00:04:59Z	1.6.15
+1.6.16	named	org.roaringbitmap	RoaringBitmap	2026-07-24T00:04:09Z	1.6.16
+1.6.18	named	org.roaringbitmap	RoaringBitmap	2026-07-26T00:03:57Z	1.6.18
+1.6.17	named	org.roaringbitmap	RoaringBitmap	2026-07-26T00:04:01Z	1.6.17

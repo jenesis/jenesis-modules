@@ -351,3 +351,5 @@
 2.4.0-RC1	named	za.co.absa.spline.agent.spark	spark-3.3-spline-agent-bundle_2.12	2026-07-15T16:53:35Z	0.9.0
 2.4.0-RC1	named	za.co.absa.spline.agent.spark	spark-3.5-spline-agent-bundle_2.12	2026-07-15T16:53:35Z	0.9.0
 2.4.0-RC1	named	za.co.absa.spline.agent.spark	spark-3.4-spline-agent-bundle_2.12	2026-07-15T16:53:36Z	0.9.0
+10.1.1.0	named	org.jruby	jruby-complete	2026-07-23T00:28:44Z	2.0.1
+10.1.1.0	named	org.jruby	jruby-core	2026-07-23T00:28:48Z	2.0.1

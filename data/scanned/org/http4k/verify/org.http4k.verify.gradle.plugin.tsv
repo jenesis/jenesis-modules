@@ -19,3 +19,4 @@
 6.53.0.0		2026-06-07T14:16:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/http4k/verify/org.http4k.verify.gradle.plugin/6.53.0.0/org.http4k.verify.gradle.plugin-6.53.0.0.jar returned status 404
 6.54.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/http4k/verify/org.http4k.verify.gradle.plugin/6.54.0.0/org.http4k.verify.gradle.plugin-6.54.0.0.jar returned status 404
 6.55.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/http4k/verify/org.http4k.verify.gradle.plugin/6.55.0.0/org.http4k.verify.gradle.plugin-6.55.0.0.jar returned status 404
+6.56.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/http4k/verify/org.http4k.verify.gradle.plugin/6.56.0.0/org.http4k.verify.gradle.plugin-6.56.0.0.jar returned status 404
