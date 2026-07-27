@@ -1,5 +1,7 @@
 1.0.0-beta.10		2026-07-20T11:41:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/root/1.0.0-beta.10/root-1.0.0-beta.10.jar returned status 404
 1.0.0-beta.11		2026-07-20T18:48:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/root/1.0.0-beta.11/root-1.0.0-beta.11.jar returned status 404
+1.0.0-beta.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/root/1.0.0-beta.12/root-1.0.0-beta.12.jar returned status 404
+1.0.0-beta.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/root/1.0.0-beta.13/root-1.0.0-beta.13.jar returned status 404
 1.0.0-beta.4		2026-07-05T22:48:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/root/1.0.0-beta.4/root-1.0.0-beta.4.jar returned status 404
 1.0.0-beta.5		2026-07-06T20:13:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/root/1.0.0-beta.5/root-1.0.0-beta.5.jar returned status 404
 1.0.0-beta.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/root/1.0.0-beta.6/root-1.0.0-beta.6.jar returned status 404

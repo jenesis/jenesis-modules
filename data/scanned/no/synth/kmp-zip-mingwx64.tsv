@@ -7,3 +7,4 @@
 0.12.0		2026-06-01T09:28:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-mingwx64/0.12.0/kmp-zip-mingwx64-0.12.0.jar returned status 404
 0.12.1		2026-06-03T08:25:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-mingwx64/0.12.1/kmp-zip-mingwx64-0.12.1.jar returned status 404
 0.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-mingwx64/0.12.2/kmp-zip-mingwx64-0.12.2.jar returned status 404
+0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-mingwx64/0.13.0/kmp-zip-mingwx64-0.13.0.jar returned status 404

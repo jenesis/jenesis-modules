@@ -80,3 +80,4 @@
 2.2.4	metadata	2026-06-22T15:33:51Z	
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-core-iosx64/2.3.0/kotzilla-core-iosx64-2.3.0.jar returned status 404
 2.3.0	metadata	2026-07-07T14:10:30Z	
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-core-iosx64/2.3.1/kotzilla-core-iosx64-2.3.1.jar returned status 404

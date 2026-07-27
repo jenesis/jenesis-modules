@@ -84,6 +84,8 @@
 3.0.17		2026-05-23T18:50:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/oldalbum/karaf/3.0.17/karaf-3.0.17.jar returned status 404
 3.0.18		2026-06-19T18:14:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/oldalbum/karaf/3.0.18/karaf-3.0.18.jar returned status 404
 3.0.19		2026-07-01T23:08:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/oldalbum/karaf/3.0.19/karaf-3.0.19.jar returned status 404
+3.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/oldalbum/karaf/3.0.20/karaf-3.0.20.jar returned status 404
+3.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/oldalbum/karaf/3.0.21/karaf-3.0.21.jar returned status 404
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/oldalbum/karaf/3.0.4/karaf-3.0.4.jar returned status 404
 3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/oldalbum/karaf/3.0.5/karaf-3.0.5.jar returned status 404
 3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/oldalbum/karaf/3.0.6/karaf-3.0.6.jar returned status 404

@@ -881,6 +881,7 @@
 4.2.1.5		2026-06-26T04:37:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar/4.2.1.5/pulsar-4.2.1.5.jar returned status 404
 4.2.1.6		2026-07-06T04:35:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar/4.2.1.6/pulsar-4.2.1.6.jar returned status 404
 4.2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar/4.2.1.7/pulsar-4.2.1.7.jar returned status 404
+4.2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar/4.2.1.8/pulsar-4.2.1.8.jar returned status 404
 master-rc-daily			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar/master-rc-daily/pulsar-master-rc-daily.jar returned status 404
 v2.8.0-rc-202106091140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar/v2.8.0-rc-202106091140/pulsar-v2.8.0-rc-202106091140.jar returned status 404
 v2.8.0-rc-202106121853			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar/v2.8.0-rc-202106121853/pulsar-v2.8.0-rc-202106121853.jar returned status 404

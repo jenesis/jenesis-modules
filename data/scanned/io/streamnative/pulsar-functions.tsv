@@ -878,6 +878,7 @@
 4.2.1.5		2026-06-26T04:37:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-functions/4.2.1.5/pulsar-functions-4.2.1.5.jar returned status 404
 4.2.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-functions/4.2.1.6/pulsar-functions-4.2.1.6.jar returned status 404
 4.2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-functions/4.2.1.7/pulsar-functions-4.2.1.7.jar returned status 404
+4.2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-functions/4.2.1.8/pulsar-functions-4.2.1.8.jar returned status 404
 master-rc-daily			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-functions/master-rc-daily/pulsar-functions-master-rc-daily.jar returned status 404
 v2.8.0-rc-202106091140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-functions/v2.8.0-rc-202106091140/pulsar-functions-v2.8.0-rc-202106091140.jar returned status 404
 v2.8.0-rc-202106121853			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-functions/v2.8.0-rc-202106121853/pulsar-functions-v2.8.0-rc-202106121853.jar returned status 404

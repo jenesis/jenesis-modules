@@ -176,6 +176,8 @@
 8.48.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-compose-android/8.48.0/sentry-compose-android-8.48.0.jar returned status 404
 8.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-compose-android/8.49.0/sentry-compose-android-8.49.0.jar returned status 404
 8.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-compose-android/8.5.0/sentry-compose-android-8.5.0.jar returned status 404
+8.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-compose-android/8.50.0/sentry-compose-android-8.50.0.jar returned status 404
+8.50.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-compose-android/8.50.1/sentry-compose-android-8.50.1.jar returned status 404
 8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-compose-android/8.6.0/sentry-compose-android-8.6.0.jar returned status 404
 8.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-compose-android/8.7.0/sentry-compose-android-8.7.0.jar returned status 404
 8.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-compose-android/8.8.0/sentry-compose-android-8.8.0.jar returned status 404
