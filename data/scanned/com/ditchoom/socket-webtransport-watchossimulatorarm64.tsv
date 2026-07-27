@@ -26,6 +26,11 @@
 3.14.5	metadata	2026-07-21T02:21:30Z	
 3.14.6		2026-07-21T22:25:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-webtransport-watchossimulatorarm64/3.14.6/socket-webtransport-watchossimulatorarm64-3.14.6.jar returned status 404
 3.14.6	metadata	2026-07-21T22:25:20Z	
+3.14.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-webtransport-watchossimulatorarm64/3.14.7/socket-webtransport-watchossimulatorarm64-3.14.7.jar returned status 404
+3.14.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-webtransport-watchossimulatorarm64/3.14.8/socket-webtransport-watchossimulatorarm64-3.14.8.jar returned status 404
+3.14.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-webtransport-watchossimulatorarm64/3.14.9/socket-webtransport-watchossimulatorarm64-3.14.9.jar returned status 404
+3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-webtransport-watchossimulatorarm64/3.15.0/socket-webtransport-watchossimulatorarm64-3.15.0.jar returned status 404
+3.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-webtransport-watchossimulatorarm64/3.15.1/socket-webtransport-watchossimulatorarm64-3.15.1.jar returned status 404
 3.6.10		2026-06-30T17:09:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-webtransport-watchossimulatorarm64/3.6.10/socket-webtransport-watchossimulatorarm64-3.6.10.jar returned status 404
 3.6.10	metadata	2026-06-30T17:09:10Z	
 3.6.5		2026-06-29T18:45:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-webtransport-watchossimulatorarm64/3.6.5/socket-webtransport-watchossimulatorarm64-3.6.5.jar returned status 404

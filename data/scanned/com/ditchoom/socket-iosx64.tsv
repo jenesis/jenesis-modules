@@ -94,6 +94,11 @@
 3.14.5	metadata	2026-07-21T02:21:34Z	
 3.14.6		2026-07-21T22:25:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-iosx64/3.14.6/socket-iosx64-3.14.6.jar returned status 404
 3.14.6	metadata	2026-07-21T22:25:25Z	
+3.14.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-iosx64/3.14.7/socket-iosx64-3.14.7.jar returned status 404
+3.14.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-iosx64/3.14.8/socket-iosx64-3.14.8.jar returned status 404
+3.14.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-iosx64/3.14.9/socket-iosx64-3.14.9.jar returned status 404
+3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-iosx64/3.15.0/socket-iosx64-3.15.0.jar returned status 404
+3.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-iosx64/3.15.1/socket-iosx64-3.15.1.jar returned status 404
 3.2.0		2026-05-31T15:26:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-iosx64/3.2.0/socket-iosx64-3.2.0.jar returned status 404
 3.2.0	metadata	2026-05-31T15:26:27Z	
 3.2.1		2026-05-31T16:08:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-iosx64/3.2.1/socket-iosx64-3.2.1.jar returned status 404

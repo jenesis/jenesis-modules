@@ -10,3 +10,8 @@
 3.14.4		2026-07-21T00:32:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-linuxx64/3.14.4/socket-udp-linuxx64-3.14.4.jar returned status 404
 3.14.5		2026-07-21T02:21:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-linuxx64/3.14.5/socket-udp-linuxx64-3.14.5.jar returned status 404
 3.14.6		2026-07-21T22:25:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-linuxx64/3.14.6/socket-udp-linuxx64-3.14.6.jar returned status 404
+3.14.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-linuxx64/3.14.7/socket-udp-linuxx64-3.14.7.jar returned status 404
+3.14.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-linuxx64/3.14.8/socket-udp-linuxx64-3.14.8.jar returned status 404
+3.14.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-linuxx64/3.14.9/socket-udp-linuxx64-3.14.9.jar returned status 404
+3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-linuxx64/3.15.0/socket-udp-linuxx64-3.15.0.jar returned status 404
+3.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-udp-linuxx64/3.15.1/socket-udp-linuxx64-3.15.1.jar returned status 404
