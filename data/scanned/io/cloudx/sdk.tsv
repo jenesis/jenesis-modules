@@ -43,3 +43,4 @@
 4.1.6		2026-06-25T09:56:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/sdk/4.1.6/sdk-4.1.6.jar returned status 404
 4.1.7		2026-06-25T14:28:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/sdk/4.1.7/sdk-4.1.7.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/sdk/4.2.0/sdk-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/sdk/4.3.0/sdk-4.3.0.jar returned status 404

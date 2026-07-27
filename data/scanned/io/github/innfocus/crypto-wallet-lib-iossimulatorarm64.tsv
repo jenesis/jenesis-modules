@@ -58,6 +58,8 @@
 1.2.1	metadata	2026-03-13T18:56:36Z	
 1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/innfocus/crypto-wallet-lib-iossimulatorarm64/1.2.10/crypto-wallet-lib-iossimulatorarm64-1.2.10.jar returned status 404
 1.2.10	metadata	2026-04-10T12:55:24Z	
+1.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/innfocus/crypto-wallet-lib-iossimulatorarm64/1.2.12/crypto-wallet-lib-iossimulatorarm64-1.2.12.jar returned status 404
+1.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/innfocus/crypto-wallet-lib-iossimulatorarm64/1.2.13/crypto-wallet-lib-iossimulatorarm64-1.2.13.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/innfocus/crypto-wallet-lib-iossimulatorarm64/1.2.2/crypto-wallet-lib-iossimulatorarm64-1.2.2.jar returned status 404
 1.2.2	metadata	2026-03-14T00:38:39Z	
 1.2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/innfocus/crypto-wallet-lib-iossimulatorarm64/1.2.2.1/crypto-wallet-lib-iossimulatorarm64-1.2.2.1.jar returned status 404

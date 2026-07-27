@@ -16,6 +16,7 @@
 0.11.1	metadata	2026-05-01T03:05:30Z	
 0.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/koalaplot/koalaplot-core-iosarm64/0.11.2/koalaplot-core-iosarm64-0.11.2.jar returned status 404
 0.11.2	metadata	2026-05-03T14:47:12Z	
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/koalaplot/koalaplot-core-iosarm64/0.12.0/koalaplot-core-iosarm64-0.12.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/koalaplot/koalaplot-core-iosarm64/0.4.0/koalaplot-core-iosarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2023-10-01T03:42:44Z	
 0.4.0-dev1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/koalaplot/koalaplot-core-iosarm64/0.4.0-dev1/koalaplot-core-iosarm64-0.4.0-dev1.jar returned status 404

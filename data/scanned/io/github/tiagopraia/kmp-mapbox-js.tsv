@@ -3,6 +3,7 @@
 0.2.1		2026-05-31T16:57:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.2.1/kmp-mapbox-js-0.2.1.jar returned status 404
 0.3.0		2026-06-07T14:24:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.3.0/kmp-mapbox-js-0.3.0.jar returned status 404
 0.3.1		2026-06-07T16:30:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.3.1/kmp-mapbox-js-0.3.1.jar returned status 404
+0.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.3.10/kmp-mapbox-js-0.3.10.jar returned status 404
 0.3.2		2026-06-09T02:38:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.3.2/kmp-mapbox-js-0.3.2.jar returned status 404
 0.3.3		2026-06-09T03:22:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.3.3/kmp-mapbox-js-0.3.3.jar returned status 404
 0.3.4		2026-06-30T21:03:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.3.4/kmp-mapbox-js-0.3.4.jar returned status 404
@@ -10,3 +11,4 @@
 0.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.3.6/kmp-mapbox-js-0.3.6.jar returned status 404
 0.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.3.7/kmp-mapbox-js-0.3.7.jar returned status 404
 0.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.3.8/kmp-mapbox-js-0.3.8.jar returned status 404
+0.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tiagopraia/kmp-mapbox-js/0.3.9/kmp-mapbox-js-0.3.9.jar returned status 404

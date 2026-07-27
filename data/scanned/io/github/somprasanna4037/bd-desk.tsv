@@ -43,3 +43,4 @@
 1.4.5		2026-06-26T03:16:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/somprasanna4037/bd-desk/1.4.5/bd-desk-1.4.5.jar returned status 404
 1.4.6		2026-06-26T09:41:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/somprasanna4037/bd-desk/1.4.6/bd-desk-1.4.6.jar returned status 404
 1.4.7		2026-07-02T14:11:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/somprasanna4037/bd-desk/1.4.7/bd-desk-1.4.7.jar returned status 404
+1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/somprasanna4037/bd-desk/1.4.8/bd-desk-1.4.8.jar returned status 404

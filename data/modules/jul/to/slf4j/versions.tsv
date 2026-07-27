@@ -102,3 +102,6 @@
 2.0.18	named	org.slf4j	jul-to-slf4j	2026-05-12T18:34:09Z	2.0.18
 1.0.0	named	xyz.hldev.libra-common	common-all	2026-06-24T04:11:23Z	2.0.13
 1.0.1	named	xyz.hldev.libra-common	common-all	2026-06-24T07:45:40Z	2.0.13
+6.0	named	io.github.zhouzhoucoder	zys-wrench-starter-task-job	2026-07-22T02:26:36Z	2.0.16
+6.0	named	io.github.zhouzhoucoder	zys-wrench-starter-rate-limiter	2026-07-22T02:26:38Z	2.0.16
+6.0	named	io.github.zhouzhoucoder	zys-wrench-starter-dynamic-config-center	2026-07-22T02:26:40Z	2.0.16

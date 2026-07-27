@@ -1,2 +1,4 @@
 0.0.25		2026-06-30T07:09:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/core-image-quality/0.0.25/core-image-quality-0.0.25.jar returned status 404
 0.0.30		2026-07-01T02:04:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/core-image-quality/0.0.30/core-image-quality-0.0.30.jar returned status 404
+0.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/core-image-quality/0.0.31/core-image-quality-0.0.31.jar returned status 404
+0.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/core-image-quality/0.0.32/core-image-quality-0.0.32.jar returned status 404

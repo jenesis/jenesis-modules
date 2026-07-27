@@ -966,6 +966,7 @@
 0.36.0	named	io.simpleishard	trino-sharepoint	2026-07-24T00:00:06Z	2.21.3
 0.35.0	named	io.simpleishard	trino-splunk	2026-07-24T00:00:07Z	2.21.3
 0.35.0	named	io.simpleishard	trino-sharepoint	2026-07-24T00:00:08Z	2.21.3
+27.6.0	named	io.fabrikt	fabrikt	2026-07-24T00:00:29Z	2.20.1
 0.39.0	named	io.simpleishard	trino-calcite	2026-07-25T00:10:03Z	2.21.3
 0.38.0	named	io.simpleishard	trino-calcite	2026-07-25T00:10:03Z	2.21.3
 0.39.0	named	io.simpleishard	trino-cloudops	2026-07-25T00:10:03Z	2.21.3
@@ -988,6 +989,7 @@
 0.39.0	named	io.simpleishard	trino-calcite-base	2026-07-25T00:10:06Z	2.21.3
 0.37.0	named	io.simpleishard	trino-calcite-base	2026-07-25T00:10:06Z	2.21.3
 0.41.0	named	io.simpleishard	trino-cloudops	2026-07-25T00:10:06Z	2.21.3
+27.6.1	named	io.fabrikt	fabrikt	2026-07-25T00:10:07Z	2.20.1
 0.42.0	named	io.simpleishard	trino-sharepoint	2026-07-25T00:10:07Z	2.21.3
 0.39.0	named	io.simpleishard	trino-sharepoint	2026-07-25T00:10:07Z	2.21.3
 0.41.0	named	io.simpleishard	trino-calcite-base	2026-07-25T00:10:10Z	2.21.3

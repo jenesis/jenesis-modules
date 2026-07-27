@@ -71,6 +71,9 @@
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.1.0/mangooio-10.1.0.jar returned status 404
 10.1.0-Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.1.0-Beta1/mangooio-10.1.0-Beta1.jar returned status 404
 10.1.0-Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.1.0-Beta2/mangooio-10.1.0-Beta2.jar returned status 404
+10.10.0-Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.10.0-Beta1/mangooio-10.10.0-Beta1.jar returned status 404
+10.10.0-Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.10.0-Beta2/mangooio-10.10.0-Beta2.jar returned status 404
+10.10.0-Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.10.0-Beta3/mangooio-10.10.0-Beta3.jar returned status 404
 10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.2.0/mangooio-10.2.0.jar returned status 404
 10.2.0-Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.2.0-Beta1/mangooio-10.2.0-Beta1.jar returned status 404
 10.2.0-Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mangoo/mangooio/10.2.0-Beta2/mangooio-10.2.0-Beta2.jar returned status 404

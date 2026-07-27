@@ -805,5 +805,7 @@
 2.2.0	named	org.apache.ozone	ozone-filesystem-shaded	2026-07-16T02:30:32Z	2.0.77.Final
 4.135.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-18T00:18:18Z	2.0.72.Final
 1.1.0	named	org.apache.ratis	ratis-thirdparty-misc	2026-07-18T02:24:44Z	2.0.78.Final
+2.0.81.Final	named	io.netty	netty-tcnative-boringssl-static	2026-07-21T00:02:03Z	2.0.81.Final
+2.0.81.Final	named	io.netty	netty-tcnative	2026-07-21T00:02:11Z	2.0.81.Final
 2.2.0	named	com.scalekit	scalekit-sdk-java	2026-07-21T09:23:49Z	2.0.72.Final
 1.83.0	named	io.grpc	grpc-netty-shaded	2026-07-23T00:28:35Z	2.0.75.Final

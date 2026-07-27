@@ -26,3 +26,4 @@
 0.8.3	metadata	2026-06-27T11:13:54Z	
 0.8.4		2026-06-27T23:18:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thomaskioko/gradle/plugins/codegen-annotations-iosarm64/0.8.4/codegen-annotations-iosarm64-0.8.4.jar returned status 404
 0.8.4	metadata	2026-06-27T23:18:53Z	
+0.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thomaskioko/gradle/plugins/codegen-annotations-iosarm64/0.8.5/codegen-annotations-iosarm64-0.8.5.jar returned status 404

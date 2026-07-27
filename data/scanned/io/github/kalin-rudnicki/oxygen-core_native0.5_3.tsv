@@ -137,10 +137,13 @@
 0.5.8		2026-06-16T15:11:45Z	
 0.6.0		2026-06-25T21:50:31Z	
 0.6.1		2026-06-26T01:16:03Z	
+0.6.10			
 0.6.2		2026-06-28T00:05:44Z	
 0.6.3		2026-06-29T11:04:50Z	
 0.6.4		2026-06-29T19:13:51Z	
 0.6.5		2026-07-03T22:28:15Z	
 0.6.6		2026-07-06T13:49:23Z	
 0.6.7			
+0.6.8			
+0.6.9			
 23fed45f473f7277e7bf2d3d5acd27dd26240b88			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalin-rudnicki/oxygen-core_native0.5_3/23fed45f473f7277e7bf2d3d5acd27dd26240b88/oxygen-core_native0.5_3-23fed45f473f7277e7bf2d3d5acd27dd26240b88.jar returned status 404

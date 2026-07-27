@@ -30,3 +30,5 @@
 2.1.1	metadata	2026-07-14T13:58:43Z	
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-iossimulatorarm64/2.1.2/cmp-paycraft-iossimulatorarm64-2.1.2.jar returned status 404
 2.1.2	metadata	2026-07-15T17:31:03Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-iossimulatorarm64/2.2.0/cmp-paycraft-iossimulatorarm64-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-iossimulatorarm64/2.3.0/cmp-paycraft-iossimulatorarm64-2.3.0.jar returned status 404

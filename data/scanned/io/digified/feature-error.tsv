@@ -18,5 +18,7 @@
 0.0.28		2026-05-24T19:13:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/feature-error/0.0.28/feature-error-0.0.28.jar returned status 404
 0.0.29		2026-06-30T07:09:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/feature-error/0.0.29/feature-error-0.0.29.jar returned status 404
 0.0.30		2026-07-01T02:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/feature-error/0.0.30/feature-error-0.0.30.jar returned status 404
+0.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/feature-error/0.0.31/feature-error-0.0.31.jar returned status 404
+0.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/feature-error/0.0.32/feature-error-0.0.32.jar returned status 404
 0.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/feature-error/0.0.8/feature-error-0.0.8.jar returned status 404
 0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/feature-error/0.0.9/feature-error-0.0.9.jar returned status 404
