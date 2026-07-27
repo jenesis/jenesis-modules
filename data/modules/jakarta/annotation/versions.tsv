@@ -358,3 +358,6 @@
 11.0.24	named	org.apache.tomcat	tomcat-annotations-api	2026-07-09T02:36:40Z	3.0
 3.38.0.CR1	named	io.quarkus	quarkus-grpc-cli	2026-07-16T00:05:18Z	3.0.0
 3.37.3	named	io.quarkus	quarkus-grpc-cli	2026-07-16T00:05:21Z	3.0.0
+3.37.4	named	io.quarkus	quarkus-grpc-cli	2026-07-23T00:25:03Z	3.0.0
+3.38.0	named	io.quarkus	quarkus-grpc-cli	2026-07-23T00:25:04Z	3.0.0
+3.33.3	named	io.quarkus	quarkus-grpc-cli	2026-07-24T00:03:14Z	3.0.0

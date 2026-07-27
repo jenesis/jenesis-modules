@@ -867,3 +867,14 @@ io.quarkus.packaging.common
 io.quarkus.modular
 io.quarkus.launcher
 io.quarkus.dev.spi
+io.quarkus.bootstrap.runner
+io.quarkus.jlink.launcher
+io.quarkus.jlink
+quarkus.klass.change.agent
+io.quarkus.changeagent
+io.quarkus.core
+jakarta.annotation
+io.smallrye.common.ref
+org.wildfly.common
+io.smallrye.common.net
+io.quarkus.arc

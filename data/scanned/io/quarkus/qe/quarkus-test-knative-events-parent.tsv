@@ -129,6 +129,7 @@
 1.7.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-knative-events-parent/1.7.0.Beta1/quarkus-test-knative-events-parent-1.7.0.Beta1.jar returned status 404
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-knative-events-parent/1.7.1/quarkus-test-knative-events-parent-1.7.1.jar returned status 404
 1.7.10		2026-05-29T11:44:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-knative-events-parent/1.7.10/quarkus-test-knative-events-parent-1.7.10.jar returned status 404
+1.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-knative-events-parent/1.7.11/quarkus-test-knative-events-parent-1.7.11.jar returned status 404
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-knative-events-parent/1.7.2/quarkus-test-knative-events-parent-1.7.2.jar returned status 404
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-knative-events-parent/1.7.3/quarkus-test-knative-events-parent-1.7.3.jar returned status 404
 1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-knative-events-parent/1.7.4/quarkus-test-knative-events-parent-1.7.4.jar returned status 404

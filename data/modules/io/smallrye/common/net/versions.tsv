@@ -88,3 +88,5 @@
 3.38.0.CR1	named	io.quarkus	quarkus-tls-registry-cli	2026-07-16T02:16:38Z	2.19.0
 3.37.3	named	io.quarkus	quarkus-tls-registry-cli	2026-07-16T02:16:40Z	2.18.1
 2.20.0	named	io.smallrye.common	smallrye-common-net	2026-07-17T23:59:48Z	2.20.0
+3.38.0	named	io.quarkus	quarkus-tls-registry-cli	2026-07-23T00:22:26Z	2.19.0
+3.37.4	named	io.quarkus	quarkus-tls-registry-cli	2026-07-23T00:22:27Z	2.18.1
