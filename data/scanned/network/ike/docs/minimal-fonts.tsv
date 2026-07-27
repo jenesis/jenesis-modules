@@ -44,3 +44,10 @@
 87		2026-06-30T15:32:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/docs/minimal-fonts/87/minimal-fonts-87.jar returned status 404
 88		2026-06-30T17:29:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/docs/minimal-fonts/88/minimal-fonts-88.jar returned status 404
 89		2026-07-04T16:39:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/docs/minimal-fonts/89/minimal-fonts-89.jar returned status 404
+90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/docs/minimal-fonts/90/minimal-fonts-90.jar returned status 404
+91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/docs/minimal-fonts/91/minimal-fonts-91.jar returned status 404
+92			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/docs/minimal-fonts/92/minimal-fonts-92.jar returned status 404
+93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/docs/minimal-fonts/93/minimal-fonts-93.jar returned status 404
+94			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/docs/minimal-fonts/94/minimal-fonts-94.jar returned status 404
+95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/docs/minimal-fonts/95/minimal-fonts-95.jar returned status 404
+96			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/docs/minimal-fonts/96/minimal-fonts-96.jar returned status 404

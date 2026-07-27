@@ -18,6 +18,7 @@
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/2.7.0/cmp-pref-android-2.7.0.jar returned status 404
 2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/2.7.2/cmp-pref-android-2.7.2.jar returned status 404
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/2.9.0/cmp-pref-android-2.9.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.0.0/cmp-pref-android-3.0.0.jar returned status 404
 3.0.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.0.0-alpha09/cmp-pref-android-3.0.0-alpha09.jar returned status 404
 3.0.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.0.0-alpha10/cmp-pref-android-3.0.0-alpha10.jar returned status 404
 3.0.0-alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.0.0-alpha11/cmp-pref-android-3.0.0-alpha11.jar returned status 404
@@ -38,3 +39,4 @@
 3.0.0-alpha27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.0.0-alpha27/cmp-pref-android-3.0.0-alpha27.jar returned status 404
 3.0.0-alpha28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.0.0-alpha28/cmp-pref-android-3.0.0-alpha28.jar returned status 404
 3.0.0-alpha29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.0.0-alpha29/cmp-pref-android-3.0.0-alpha29.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.0.1/cmp-pref-android-3.0.1.jar returned status 404

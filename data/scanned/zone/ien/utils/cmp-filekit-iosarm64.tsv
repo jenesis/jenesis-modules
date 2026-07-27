@@ -38,6 +38,7 @@
 2.7.2	metadata	2026-05-11T08:13:51Z	
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-filekit-iosarm64/2.9.0/cmp-filekit-iosarm64-2.9.0.jar returned status 404
 2.9.0	metadata	2026-05-14T16:35:19Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-filekit-iosarm64/3.0.0/cmp-filekit-iosarm64-3.0.0.jar returned status 404
 3.0.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-filekit-iosarm64/3.0.0-alpha09/cmp-filekit-iosarm64-3.0.0-alpha09.jar returned status 404
 3.0.0-alpha09	metadata	2026-07-14T23:02:47Z	
 3.0.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-filekit-iosarm64/3.0.0-alpha10/cmp-filekit-iosarm64-3.0.0-alpha10.jar returned status 404
@@ -70,3 +71,4 @@
 3.0.0-alpha27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-filekit-iosarm64/3.0.0-alpha27/cmp-filekit-iosarm64-3.0.0-alpha27.jar returned status 404
 3.0.0-alpha28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-filekit-iosarm64/3.0.0-alpha28/cmp-filekit-iosarm64-3.0.0-alpha28.jar returned status 404
 3.0.0-alpha29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-filekit-iosarm64/3.0.0-alpha29/cmp-filekit-iosarm64-3.0.0-alpha29.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-filekit-iosarm64/3.0.1/cmp-filekit-iosarm64-3.0.1.jar returned status 404

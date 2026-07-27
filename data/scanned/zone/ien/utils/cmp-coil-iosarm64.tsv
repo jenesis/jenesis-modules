@@ -4,6 +4,7 @@
 2.12.0	metadata	2026-07-08T15:13:44Z	
 2.12.0-alpha05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-coil-iosarm64/2.12.0-alpha05/cmp-coil-iosarm64-2.12.0-alpha05.jar returned status 404
 2.12.0-alpha05	metadata	2026-07-08T11:24:31Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-coil-iosarm64/3.0.0/cmp-coil-iosarm64-3.0.0.jar returned status 404
 3.0.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-coil-iosarm64/3.0.0-alpha09/cmp-coil-iosarm64-3.0.0-alpha09.jar returned status 404
 3.0.0-alpha09	metadata	2026-07-14T23:02:47Z	
 3.0.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-coil-iosarm64/3.0.0-alpha10/cmp-coil-iosarm64-3.0.0-alpha10.jar returned status 404
@@ -36,3 +37,4 @@
 3.0.0-alpha27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-coil-iosarm64/3.0.0-alpha27/cmp-coil-iosarm64-3.0.0-alpha27.jar returned status 404
 3.0.0-alpha28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-coil-iosarm64/3.0.0-alpha28/cmp-coil-iosarm64-3.0.0-alpha28.jar returned status 404
 3.0.0-alpha29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-coil-iosarm64/3.0.0-alpha29/cmp-coil-iosarm64-3.0.0-alpha29.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-coil-iosarm64/3.0.1/cmp-coil-iosarm64-3.0.1.jar returned status 404

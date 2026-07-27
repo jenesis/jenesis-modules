@@ -17,3 +17,5 @@
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/meetingsdk/zoomsdk/7.0.0/zoomsdk-7.0.0.jar returned status 404
 7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/meetingsdk/zoomsdk/7.0.2/zoomsdk-7.0.2.jar returned status 404
 7.0.5		2026-05-20T18:27:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/meetingsdk/zoomsdk/7.0.5/zoomsdk-7.0.5.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/meetingsdk/zoomsdk/7.1.0/zoomsdk-7.1.0.jar returned status 404
+7.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/zoom/meetingsdk/zoomsdk/7.1.6/zoomsdk-7.1.6.jar returned status 404
