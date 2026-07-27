@@ -12,6 +12,7 @@
 3.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-assetfilesystem/3.16.3/okio-assetfilesystem-3.16.3.jar returned status 404
 3.16.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-assetfilesystem/3.16.4/okio-assetfilesystem-3.16.4.jar returned status 404
 3.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-assetfilesystem/3.17.0/okio-assetfilesystem-3.17.0.jar returned status 404
+3.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-assetfilesystem/3.18.0/okio-assetfilesystem-3.18.0.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-assetfilesystem/3.4.0/okio-assetfilesystem-3.4.0.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-assetfilesystem/3.5.0/okio-assetfilesystem-3.5.0.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-assetfilesystem/3.6.0/okio-assetfilesystem-3.6.0.jar returned status 404

@@ -42,3 +42,5 @@
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/archbase/archbase-app-framework/3.0.2/archbase-app-framework-3.0.2.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/archbase/archbase-app-framework/3.0.3/archbase-app-framework-3.0.3.jar returned status 404
 3.0.4		2026-07-21T12:44:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/archbase/archbase-app-framework/3.0.4/archbase-app-framework-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/archbase/archbase-app-framework/3.0.5/archbase-app-framework-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/archbase/archbase-app-framework/3.0.6/archbase-app-framework-3.0.6.jar returned status 404

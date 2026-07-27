@@ -2,3 +2,4 @@
 0.1.0	metadata	2026-07-10T06:37:24Z	
 0.1.1		2026-07-21T06:23:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/azula/iroh/iroh-kmp-iosarm64/0.1.1/iroh-kmp-iosarm64-0.1.1.jar returned status 404
 0.1.1	metadata	2026-07-21T06:23:22Z	
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/azula/iroh/iroh-kmp-iosarm64/0.1.2/iroh-kmp-iosarm64-0.1.2.jar returned status 404

@@ -12,3 +12,4 @@
 0.1.4		2026-06-24T01:00:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/screencast/0.1.4/screencast-0.1.4.jar returned status 404
 0.1.5		2026-06-29T09:23:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/screencast/0.1.5/screencast-0.1.5.jar returned status 404
 0.1.6		2026-06-30T06:34:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/screencast/0.1.6/screencast-0.1.6.jar returned status 404
+0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/screencast/0.1.7/screencast-0.1.7.jar returned status 404

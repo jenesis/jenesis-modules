@@ -41,3 +41,4 @@
 3.0.5.1.11261			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/jgads/3.0.5.1.11261/jgads-3.0.5.1.11261.jar returned status 404
 3.0.5.2.02061			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/jgads/3.0.5.2.02061/jgads-3.0.5.2.02061.jar returned status 404
 3.1.1.1.06111		2026-06-16T09:22:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/jgads/3.1.1.1.06111/jgads-3.1.1.1.06111.jar returned status 404
+3.1.1.2.06112			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/jgads/3.1.1.2.06112/jgads-3.1.1.2.06112.jar returned status 404

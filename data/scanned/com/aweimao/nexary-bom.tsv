@@ -17,6 +17,7 @@
 0.24.0		2026-07-01T19:18:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aweimao/nexary-bom/0.24.0/nexary-bom-0.24.0.jar returned status 404
 0.24.1		2026-07-01T19:50:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aweimao/nexary-bom/0.24.1/nexary-bom-0.24.1.jar returned status 404
 0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aweimao/nexary-bom/0.25.0/nexary-bom-0.25.0.jar returned status 404
+0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aweimao/nexary-bom/0.26.0/nexary-bom-0.26.0.jar returned status 404
 0.3.1		2026-06-21T18:37:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aweimao/nexary-bom/0.3.1/nexary-bom-0.3.1.jar returned status 404
 0.4.0		2026-06-21T19:58:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aweimao/nexary-bom/0.4.0/nexary-bom-0.4.0.jar returned status 404
 0.5.0		2026-06-23T01:27:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aweimao/nexary-bom/0.5.0/nexary-bom-0.5.0.jar returned status 404

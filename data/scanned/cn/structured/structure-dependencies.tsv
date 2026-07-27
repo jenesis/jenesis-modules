@@ -42,3 +42,4 @@
 1.4.1		2026-06-21T12:49:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-dependencies/1.4.1/structure-dependencies-1.4.1.jar returned status 404
 1.4.2		2026-06-23T10:37:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-dependencies/1.4.2/structure-dependencies-1.4.2.jar returned status 404
 1.4.3		2026-06-28T21:09:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-dependencies/1.4.3/structure-dependencies-1.4.3.jar returned status 404
+1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-dependencies/1.4.4/structure-dependencies-1.4.4.jar returned status 404

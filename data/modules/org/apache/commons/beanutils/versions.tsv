@@ -278,3 +278,4 @@
 40.0.1.Final	named	org.wildfly	wildfly-client-all	2026-06-19T10:13:52Z	1.11.0
 41.0.0.Beta1	named	org.wildfly	wildfly-client-all	2026-06-25T17:48:04Z	1.11.0
 41.0.0.Final	named	org.wildfly	wildfly-client-all	2026-07-17T00:07:36Z	1.11.0
+2.2.0	named	com.guicedee.modules.services	commons-beanutils	2026-07-27T00:14:53Z	2.2.0

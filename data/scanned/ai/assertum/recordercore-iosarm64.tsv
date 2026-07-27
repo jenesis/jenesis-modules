@@ -6,3 +6,4 @@
 0.0.7	metadata	2026-06-07T08:25:21Z	
 0.0.8		2026-06-11T21:41:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/assertum/recordercore-iosarm64/0.0.8/recordercore-iosarm64-0.0.8.jar returned status 404
 0.0.8	metadata	2026-06-11T21:41:26Z	
+0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/assertum/recordercore-iosarm64/0.0.9/recordercore-iosarm64-0.0.9.jar returned status 404

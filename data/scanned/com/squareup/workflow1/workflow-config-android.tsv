@@ -49,6 +49,7 @@
 1.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-config-android/1.27.0/workflow-config-android-1.27.0.jar returned status 404
 1.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-config-android/1.27.1/workflow-config-android-1.27.1.jar returned status 404
 1.28.0		2026-05-19T21:12:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-config-android/1.28.0/workflow-config-android-1.28.0.jar returned status 404
+1.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-config-android/1.29.0/workflow-config-android-1.29.0.jar returned status 404
 1.8.0-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-config-android/1.8.0-beta04/workflow-config-android-1.8.0-beta04.jar returned status 404
 1.8.0-beta05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-config-android/1.8.0-beta05/workflow-config-android-1.8.0-beta05.jar returned status 404
 1.8.0-beta06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-config-android/1.8.0-beta06/workflow-config-android-1.8.0-beta06.jar returned status 404

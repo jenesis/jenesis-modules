@@ -100,6 +100,7 @@
 1.27.1	metadata	2026-05-05T20:10:02Z	
 1.28.0		2026-05-19T21:12:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-runtime-iosx64/1.28.0/workflow-runtime-iosx64-1.28.0.jar returned status 404
 1.28.0	metadata	2026-05-19T21:12:25Z	
+1.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-runtime-iosx64/1.29.0/workflow-runtime-iosx64-1.29.0.jar returned status 404
 1.8.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-runtime-iosx64/1.8.0-beta02/workflow-runtime-iosx64-1.8.0-beta02.jar returned status 404
 1.8.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-runtime-iosx64/1.8.0-beta03/workflow-runtime-iosx64-1.8.0-beta03.jar returned status 404
 1.8.0-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/workflow1/workflow-runtime-iosx64/1.8.0-beta04/workflow-runtime-iosx64-1.8.0-beta04.jar returned status 404
