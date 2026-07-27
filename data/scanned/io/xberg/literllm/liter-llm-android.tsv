@@ -1,4 +1,7 @@
 1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/literllm/liter-llm-android/1.10.0/liter-llm-android-1.10.0.jar returned status 404
+1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/literllm/liter-llm-android/1.10.1/liter-llm-android-1.10.1.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/literllm/liter-llm-android/1.11.0/liter-llm-android-1.11.0.jar returned status 404
+1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/literllm/liter-llm-android/1.11.1/liter-llm-android-1.11.1.jar returned status 404
 1.9.0		2026-06-27T10:43:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/literllm/liter-llm-android/1.9.0/liter-llm-android-1.9.0.jar returned status 404
 1.9.0-rc.2		2026-06-27T08:00:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/literllm/liter-llm-android/1.9.0-rc.2/liter-llm-android-1.9.0-rc.2.jar returned status 404
 1.9.3		2026-07-04T10:26:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/literllm/liter-llm-android/1.9.3/liter-llm-android-1.9.3.jar returned status 404

@@ -83,3 +83,4 @@
 4.6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-sdk/4.6.1.1/full-sdk-4.6.1.1.jar returned status 404
 4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-sdk/4.6.2/full-sdk-4.6.2.jar returned status 404
 4.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-sdk/4.6.3/full-sdk-4.6.3.jar returned status 404
+4.6.3.138.devurum			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-sdk/4.6.3.138.devurum/full-sdk-4.6.3.138.devurum.jar returned status 404

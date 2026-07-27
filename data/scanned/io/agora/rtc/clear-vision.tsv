@@ -29,6 +29,9 @@
 4.5.2.195.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.5.2.195.3/clear-vision-4.5.2.195.3.jar returned status 404
 4.5.2.195.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.5.2.195.4/clear-vision-4.5.2.195.4.jar returned status 404
 4.5.2.195.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.5.2.195.5/clear-vision-4.5.2.195.5.jar returned status 404
+4.5.2.216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.5.2.216/clear-vision-4.5.2.216.jar returned status 404
+4.5.2.216.helloTalk			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.5.2.216.helloTalk/clear-vision-4.5.2.216.helloTalk.jar returned status 404
+4.5.2.216.ht			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.5.2.216.ht/clear-vision-4.5.2.216.ht.jar returned status 404
 4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.5.3/clear-vision-4.5.3.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.6.0/clear-vision-4.6.0.jar returned status 404
 4.6.0.TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.6.0.TEST/clear-vision-4.6.0.TEST.jar returned status 404
@@ -36,3 +39,4 @@
 4.6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.6.1.1/clear-vision-4.6.1.1.jar returned status 404
 4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.6.2/clear-vision-4.6.2.jar returned status 404
 4.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.6.3/clear-vision-4.6.3.jar returned status 404
+4.6.3.138.devurum			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/clear-vision/4.6.3.138.devurum/clear-vision-4.6.3.138.devurum.jar returned status 404

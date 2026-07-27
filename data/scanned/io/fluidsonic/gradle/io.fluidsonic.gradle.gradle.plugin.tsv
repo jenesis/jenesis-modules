@@ -12,3 +12,4 @@
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluidsonic/gradle/io.fluidsonic.gradle.gradle.plugin/2.0.1/io.fluidsonic.gradle.gradle.plugin-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluidsonic/gradle/io.fluidsonic.gradle.gradle.plugin/2.0.2/io.fluidsonic.gradle.gradle.plugin-2.0.2.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluidsonic/gradle/io.fluidsonic.gradle.gradle.plugin/3.0.0/io.fluidsonic.gradle.gradle.plugin-3.0.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluidsonic/gradle/io.fluidsonic.gradle.gradle.plugin/4.0.0/io.fluidsonic.gradle.gradle.plugin-4.0.0.jar returned status 404

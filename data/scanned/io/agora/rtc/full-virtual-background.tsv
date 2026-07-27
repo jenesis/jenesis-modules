@@ -42,6 +42,9 @@
 4.5.2.195.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.5.2.195.3/full-virtual-background-4.5.2.195.3.jar returned status 404
 4.5.2.195.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.5.2.195.4/full-virtual-background-4.5.2.195.4.jar returned status 404
 4.5.2.195.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.5.2.195.5/full-virtual-background-4.5.2.195.5.jar returned status 404
+4.5.2.216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.5.2.216/full-virtual-background-4.5.2.216.jar returned status 404
+4.5.2.216.helloTalk			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.5.2.216.helloTalk/full-virtual-background-4.5.2.216.helloTalk.jar returned status 404
+4.5.2.216.ht			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.5.2.216.ht/full-virtual-background-4.5.2.216.ht.jar returned status 404
 4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.5.3/full-virtual-background-4.5.3.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.6.0/full-virtual-background-4.6.0.jar returned status 404
 4.6.0.TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.6.0.TEST/full-virtual-background-4.6.0.TEST.jar returned status 404
@@ -49,3 +52,4 @@
 4.6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.6.1.1/full-virtual-background-4.6.1.1.jar returned status 404
 4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.6.2/full-virtual-background-4.6.2.jar returned status 404
 4.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.6.3/full-virtual-background-4.6.3.jar returned status 404
+4.6.3.138.devurum			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-virtual-background/4.6.3.138.devurum/full-virtual-background-4.6.3.138.devurum.jar returned status 404
