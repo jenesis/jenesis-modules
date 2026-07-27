@@ -26,6 +26,11 @@
 3.14.5	metadata	2026-07-21T02:21:32Z	
 3.14.6		2026-07-21T22:25:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-macosarm64/3.14.6/socket-testsuite-macosarm64-3.14.6.jar returned status 404
 3.14.6	metadata	2026-07-21T22:25:25Z	
+3.14.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-macosarm64/3.14.7/socket-testsuite-macosarm64-3.14.7.jar returned status 404
+3.14.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-macosarm64/3.14.8/socket-testsuite-macosarm64-3.14.8.jar returned status 404
+3.14.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-macosarm64/3.14.9/socket-testsuite-macosarm64-3.14.9.jar returned status 404
+3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-macosarm64/3.15.0/socket-testsuite-macosarm64-3.15.0.jar returned status 404
+3.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-macosarm64/3.15.1/socket-testsuite-macosarm64-3.15.1.jar returned status 404
 3.9.0		2026-07-11T05:12:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-macosarm64/3.9.0/socket-testsuite-macosarm64-3.9.0.jar returned status 404
 3.9.0	metadata	2026-07-11T05:12:53Z	
 3.9.1		2026-07-11T16:00:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-macosarm64/3.9.1/socket-testsuite-macosarm64-3.9.1.jar returned status 404
