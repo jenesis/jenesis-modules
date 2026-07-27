@@ -76,3 +76,4 @@
 0.80.0	metadata	2026-07-10T13:02:05Z	
 0.80.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/pluginmanager/plugin-manager-api-model-macosarm64/0.80.1/plugin-manager-api-model-macosarm64-0.80.1.jar returned status 404
 0.80.1	metadata	2026-07-15T07:28:55Z	
+0.81.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/pluginmanager/plugin-manager-api-model-macosarm64/0.81.0/plugin-manager-api-model-macosarm64-0.81.0.jar returned status 404

@@ -99,4 +99,5 @@
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/storage/0.8.0/storage-0.8.0.jar returned status 404
 0.80.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/storage/0.80.0/storage-0.80.0.jar returned status 404
 0.80.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/storage/0.80.1/storage-0.80.1.jar returned status 404
+0.81.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/storage/0.81.0/storage-0.81.0.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/storage/0.9.0/storage-0.9.0.jar returned status 404
