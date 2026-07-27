@@ -14,3 +14,4 @@
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appswithlove/updraft/updraft-sdk/1.1.0/updraft-sdk-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appswithlove/updraft/updraft-sdk/1.1.1/updraft-sdk-1.1.1.jar returned status 404
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appswithlove/updraft/updraft-sdk/1.1.2/updraft-sdk-1.1.2.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appswithlove/updraft/updraft-sdk/2.0.0/updraft-sdk-2.0.0.jar returned status 404

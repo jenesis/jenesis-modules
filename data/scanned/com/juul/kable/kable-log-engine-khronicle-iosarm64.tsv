@@ -50,3 +50,4 @@
 0.44.1	metadata	2026-07-15T17:36:37Z	
 0.44.2		2026-07-21T20:00:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/kable/kable-log-engine-khronicle-iosarm64/0.44.2/kable-log-engine-khronicle-iosarm64-0.44.2.jar returned status 404
 0.44.2	metadata	2026-07-21T20:00:29Z	
+0.44.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/juul/kable/kable-log-engine-khronicle-iosarm64/0.44.3/kable-log-engine-khronicle-iosarm64-0.44.3.jar returned status 404

@@ -12,6 +12,12 @@
 6.17.0		2026-07-21T00:32:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.17.0/buffer-ktor-android-6.17.0.jar returned status 404
 6.17.1		2026-07-21T02:39:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.17.1/buffer-ktor-android-6.17.1.jar returned status 404
 6.17.2		2026-07-21T22:16:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.17.2/buffer-ktor-android-6.17.2.jar returned status 404
+6.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.18.0/buffer-ktor-android-6.18.0.jar returned status 404
+6.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.18.1/buffer-ktor-android-6.18.1.jar returned status 404
+6.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.19.0/buffer-ktor-android-6.19.0.jar returned status 404
+6.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.20.0/buffer-ktor-android-6.20.0.jar returned status 404
+6.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.21.0/buffer-ktor-android-6.21.0.jar returned status 404
+6.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.22.0/buffer-ktor-android-6.22.0.jar returned status 404
 6.6.0		2026-07-06T07:08:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.6.0/buffer-ktor-android-6.6.0.jar returned status 404
 6.6.1		2026-07-06T18:28:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.6.1/buffer-ktor-android-6.6.1.jar returned status 404
 6.7.0		2026-07-06T17:41:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-ktor-android/6.7.0/buffer-ktor-android-6.7.0.jar returned status 404

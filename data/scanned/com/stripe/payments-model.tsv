@@ -198,6 +198,7 @@
 23.11.1		2026-06-30T18:19:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/payments-model/23.11.1/payments-model-23.11.1.jar returned status 404
 23.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/payments-model/23.12.0/payments-model-23.12.0.jar returned status 404
 23.13.0		2026-07-20T18:33:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/payments-model/23.13.0/payments-model-23.13.0.jar returned status 404
+23.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/payments-model/23.13.1/payments-model-23.13.1.jar returned status 404
 23.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/payments-model/23.2.0/payments-model-23.2.0.jar returned status 404
 23.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/payments-model/23.3.0/payments-model-23.3.0.jar returned status 404
 23.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/payments-model/23.4.0/payments-model-23.4.0.jar returned status 404

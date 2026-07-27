@@ -1,2 +1,3 @@
 0.1.4		2026-07-11T06:01:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfedo/sdk-core-android/0.1.4/sdk-core-android-0.1.4.jar returned status 404
 0.1.5		2026-07-11T12:54:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfedo/sdk-core-android/0.1.5/sdk-core-android-0.1.5.jar returned status 404
+0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfedo/sdk-core-android/0.2.1/sdk-core-android-0.2.1.jar returned status 404
