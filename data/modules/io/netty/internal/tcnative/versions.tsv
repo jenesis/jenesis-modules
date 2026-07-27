@@ -807,5 +807,10 @@
 1.1.0	named	org.apache.ratis	ratis-thirdparty-misc	2026-07-18T02:24:44Z	2.0.78.Final
 2.0.81.Final	named	io.netty	netty-tcnative-boringssl-static	2026-07-21T00:02:03Z	2.0.81.Final
 2.0.81.Final	named	io.netty	netty-tcnative	2026-07-21T00:02:11Z	2.0.81.Final
+4.135.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-21T02:19:16Z	2.0.72.Final
 2.2.0	named	com.scalekit	scalekit-sdk-java	2026-07-21T09:23:49Z	2.0.72.Final
+4.135.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-23T00:27:01Z	2.0.72.Final
 1.83.0	named	io.grpc	grpc-netty-shaded	2026-07-23T00:28:35Z	2.0.75.Final
+4.135.6	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-24T00:18:49Z	2.0.72.Final
+4.135.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-24T00:18:50Z	2.0.72.Final
+4.136.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-25T00:44:24Z	2.0.72.Final
