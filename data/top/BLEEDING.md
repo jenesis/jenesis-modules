@@ -58,7 +58,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 25 | com.fasterxml.jackson.core:jackson-annotations | com.fasterxml.jackson.annotation ✳️ | 2026-07-07 | 14,4 | 8,9 | 2.18.9 | 2.18.9 | 182 | 94 | 11 | 11 |
 | 26 | org.checkerframework:checker-qual | org.checkerframework.checker.qual 🏷️ | 2026-07-01 | 12,3 | 7,9 | 4.2.1 | 4.2.1 | 155 | 100 | 14 | 14 |
 | 27 | org.ow2.asm:asm | org.objectweb.asm ✳️ | 2026-05-23 | 14,6 | 9,0 | 9.10.1 | 9.10.1 | 45 | 33 | 4 | 4 |
-| 28 | org.jetbrains.kotlin:kotlin-stdlib | kotlin.stdlib 🏷️ | 2026-07-14 | 13,1 | 6,0 | 2.4.10 | 2.4.10 | 296 | 155 | 36 | 36 |
+| 28 | org.jetbrains.kotlin:kotlin-stdlib | kotlin.stdlib 🏷️ | 2026-07-14 | 13,1 | 6,0 | 2.4.10 | 2.4.10 | 296 | 156 | 36 | 37 |
 | 29 | org.apache:apache |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 30 | commons-codec:commons-codec | org.apache.commons.codec ✳️ | 2026-04-19 | 20,8 | 8,8 | 1.22.0 | 1.22.0 | 26 | 15 | 3 | 3 |
 | ~~31~~ | ~~org.sonatype.spice:spice-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
@@ -79,10 +79,10 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 46 | com.google.code.gson:gson | com.google.gson ✳️ | 2026-04-23 | 17,9 | 6,8 | 2.14.0 | 2.14.0 | 44 | 16 | 3 | 3 |
 | 47 | org.apache.httpcomponents:httpclient 🚩 | org.apache.httpcomponents.httpclient ⚙️ | 2022-11-30 | 19,0 | 8,0 | 4.5.14 | 4.5.14 | 55 | 9 | 0 | 0 |
 | ~~48~~ | ~~org.apache.maven:maven-artifact~~ | ~~-~~ | ~~2026-05-13~~ | ~~20,2~~ | ~~-~~ | ~~3.9.16~~ | ~~-~~ | ~~101~~ | ~~1~~ | ~~6~~ | ~~1~~ |
-| 49 | org.jetbrains.kotlin:kotlin-stdlib-jdk7 | kotlin.stdlib.jdk7 🏷️ | 2026-06-25 | 8,7 | 6,0 | 2.4.10-RC | 2.4.10-RC | 184 | 155 | 34 | 36 |
+| 49 | org.jetbrains.kotlin:kotlin-stdlib-jdk7 | kotlin.stdlib.jdk7 🏷️ | 2026-06-25 | 8,7 | 6,0 | 2.4.10-RC | 2.4.10-RC | 184 | 156 | 34 | 37 |
 | ~~50~~ | ~~org.apache.maven:maven-model~~ | ~~-~~ | ~~2026-05-13~~ | ~~20,2~~ | ~~-~~ | ~~3.9.16~~ | ~~-~~ | ~~102~~ | ~~1~~ | ~~6~~ | ~~1~~ |
 | ~~51~~ | ~~org.apache.maven:maven-plugin-api~~ | ~~-~~ | ~~2026-05-13~~ | ~~20,2~~ | ~~-~~ | ~~3.9.16~~ | ~~-~~ | ~~101~~ | ~~1~~ | ~~6~~ | ~~1~~ |
-| 52 | org.jetbrains.kotlin:kotlin-stdlib-jdk8 | kotlin.stdlib.jdk8 🏷️ | 2026-06-25 | 8,7 | 6,0 | 2.4.10-RC | 2.4.10-RC | 184 | 155 | 34 | 36 |
+| 52 | org.jetbrains.kotlin:kotlin-stdlib-jdk8 | kotlin.stdlib.jdk8 🏷️ | 2026-06-25 | 8,7 | 6,0 | 2.4.10-RC | 2.4.10-RC | 184 | 156 | 34 | 37 |
 | ~~53~~ | ~~org.springframework.boot:spring-boot-dependencies 🚩~~ | ~~-~~ | ~~2016-02-26~~ | ~~10,7~~ | ~~-~~ | ~~1.3.3.RELEASE~~ | ~~-~~ | ~~4~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 54 | org.apache.httpcomponents:httpcomponents-client |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | ~~55~~ | ~~org.apache.logging.log4j:log4j-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
@@ -121,12 +121,12 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 88 | org.junit.jupiter:junit-jupiter-api | org.junit.jupiter.api ✳️ | 2026-06-28 | 10,0 | 9,1 | 6.1.1 | 6.1.1 | 111 | 108 | 17 | 18 |
 | ~~89~~ | ~~org.glassfish.jaxb:jaxb-bom~~ | ~~-~~ | ~~2026-05-28~~ | ~~0,2~~ | ~~-~~ | ~~4.0.9~~ | ~~-~~ | ~~1~~ | ~~0~~ | ~~1~~ | ~~0~~ |
 | 90 | com.sun.activation:all |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
-| 91 | org.jetbrains.kotlin:kotlin-reflect | kotlin.reflect 🏷️ | 2026-06-25 | 11,3 | 6,0 | 2.4.10-RC | 2.4.10-RC | 242 | 155 | 34 | 36 |
+| 91 | org.jetbrains.kotlin:kotlin-reflect | kotlin.reflect 🏷️ | 2026-06-25 | 11,3 | 6,0 | 2.4.10-RC | 2.4.10-RC | 242 | 156 | 34 | 37 |
 | ~~92~~ | ~~com.google.protobuf:protobuf-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~93~~ | ~~org.springframework.data:spring-data-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 94 | org.ow2.asm:asm-commons | org.objectweb.asm.commons ✳️ | 2026-05-23 | 14,6 | 9,0 | 9.10.1 | 9.10.1 | 45 | 33 | 4 | 4 |
 | 95 | com.fasterxml.jackson.module:jackson-module-parameter-names | com.fasterxml.jackson.module.paramnames ✳️ | 2026-07-08 | 12,1 | 8,8 | 2.18.9 | 2.18.9 | 154 | 95 | 19 | 19 |
-| 96 | com.squareup.okio:okio-jvm | okio ⚙️ | 2026-03-11 | 4,9 | 4,9 | 3.17.0 | 3.17.0 | 27 | 27 | 6 | 6 |
+| 96 | com.squareup.okio:okio-jvm | okio ⚙️ | 2026-03-11 | 4,9 | 4,9 | 3.17.0 | 3.17.0 | 27 | 28 | 6 | 7 |
 | ~~97~~ | ~~org.apache.maven.shared:maven-common-artifact-filters ⚠️~~ | ~~-~~ | ~~2024-06-05~~ | ~~19,6~~ | ~~-~~ | ~~3.4.0~~ | ~~-~~ | ~~15~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~98~~ | ~~com.google.guava:listenablefuture 🚩~~ | ~~-~~ | ~~2018-09-11~~ | ~~7,9~~ | ~~-~~ | ~~9999.0-empty-to-avoid-conflict-with-guava~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~99~~ | ~~org.glassfish.jersey:jersey-bom~~ | ~~-~~ | ~~2026-06-11~~ | ~~0,1~~ | ~~-~~ | ~~3.1.12~~ | ~~-~~ | ~~1~~ | ~~0~~ | ~~1~~ | ~~0~~ |
@@ -272,7 +272,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 239 | classworlds:classworlds 🚩 |  | 2006-01-12 | 21,0 |  | 1.1 |  | 13 | 0 | 0 | 0 |
 | 240 | io.projectreactor:reactor-core | reactor.core ⚙️ | 2026-06-08 | 11,4 | 6,8 | 3.8.6 | 3.8.6 | 202 | 145 | 21 | 21 |
 | 241 | jakarta.annotation:jakarta.annotation-api ⚠️ | jakarta.annotation ✳️ | 2024-02-15 | 7,7 | 7,7 | 3.0.0 | 3.0.0 | 10 | 10 | 0 | 0 |
-| 242 | io.netty:netty-tcnative-boringssl-static | io.netty.internal.tcnative ✳️ | 2026-06-29 | 10,4 | 7,4 | 2.0.80.Final | 2.0.80.Final | 102 | 59 | 8 | 8 |
+| 242 | io.netty:netty-tcnative-boringssl-static | io.netty.internal.tcnative ✳️ | 2026-06-29 | 10,4 | 7,4 | 2.0.80.Final | 2.0.80.Final | 102 | 60 | 8 | 9 |
 | 243 | org.glassfish.jaxb:txw2 | com.sun.xml.txw2 ✳️ | 2026-05-28 | 12,4 | 8,0 | 4.0.9 | 4.0.9 | 45 | 38 | 4 | 4 |
 | ~~244~~ | ~~org.sonatype.sisu:sisu-guice 🚩~~ | ~~com.google.guice ⚙️~~ | ~~2018-04-03~~ | ~~15,9~~ | ~~8,3~~ | ~~4.2.0~~ | ~~4.2.0~~ | ~~31~~ | ~~1~~ | ~~0~~ | ~~0~~ |
 | 245 | net.minidev:json-smart |  | 2025-08-02 | 15,1 |  | 2.6.0 |  | 35 | 0 | 1 | 0 |
@@ -286,14 +286,14 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 253 | org.springframework.boot:spring-boot-starter-web | spring.boot.starter.web ⚙️ | 2026-06-25 | 12,3 | 8,4 | 3.5.16 | 3.5.16 | 290 | 225 | 38 | 38 |
 | ~~254~~ | ~~org.jetbrains.kotlinx:kotlinx-serialization-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 255 | com.sun.istack:istack-commons-runtime 🚩 | com.sun.istack.runtime ✳️ | 2023-04-14 | 16,2 | 7,9 | 4.2.0 | 4.2.0 | 48 | 16 | 0 | 0 |
-| 256 | org.jetbrains.kotlin:kotlin-native-utils | kotlin.native_utils ⚙️ | 2026-06-25 | 7,9 | 1,6 | 2.4.10-RC | 2.4.10-RC | 171 | 53 | 34 | 36 |
+| 256 | org.jetbrains.kotlin:kotlin-native-utils | kotlin.native_utils ⚙️ | 2026-06-25 | 7,9 | 1,6 | 2.4.10-RC | 2.4.10-RC | 171 | 54 | 34 | 37 |
 | 257 | org.hamcrest:hamcrest ⚠️ | org.hamcrest ⚙️ | 2024-08-01 | 7,7 | 7,7 | 3.0 | 3.0 | 9 | 9 | 0 | 0 |
 | ~~258~~ | ~~org.sonatype.plexus:plexus-sec-dispatcher 🚩~~ | ~~-~~ | ~~2009-12-16~~ | ~~17,5~~ | ~~-~~ | ~~1.4~~ | ~~-~~ | ~~9~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 259 | org.apache.commons:commons-collections4 ⚠️ | org.apache.commons.collections4 ✳️ | 2025-04-19 | 12,7 | 8,0 | 4.5.0 | 4.5.0 | 9 | 7 | 0 | 0 |
 | 260 | com.github.ben-manes.caffeine:caffeine | com.github.benmanes.caffeine ✳️ | 2026-05-03 | 11,3 | 8,6 | 3.2.4 | 3.2.4 | 73 | 37 | 2 | 2 |
 | 261 | org.apache.httpcomponents.core5:httpcore5 | org.apache.httpcomponents.core5.httpcore5 ⚙️ | 2026-06-21 | 10,6 | 5,9 | 5.5-beta2 | 5.5-beta2 | 57 | 40 | 10 | 10 |
 | 262 | software.amazon.awssdk:core |  | 2026-07-17 | 9,1 |  | 2.48.3 |  | 45 | 0 | 36 | 0 |
-| 263 | org.jetbrains.kotlin:kotlin-gradle-plugin | com.google.gson ✳️ | 2026-07-14 | 13,1 | 5,7 | 2.4.10 | 2.11.0 | 295 | 152 | 36 | 36 |
+| 263 | org.jetbrains.kotlin:kotlin-gradle-plugin | com.google.gson ✳️ | 2026-07-14 | 13,1 | 5,7 | 2.4.10 | 2.11.0 | 295 | 153 | 36 | 37 |
 | 264 | org.jetbrains.kotlin:kotlin-util-klib |  | 2026-06-25 | 6,9 |  | 2.4.10-RC |  | 159 | 0 | 34 | 0 |
 | ~~265~~ | ~~org.apache.maven.plugins:maven-jar-plugin~~ | ~~-~~ | ~~2025-11-11~~ | ~~20,2~~ | ~~-~~ | ~~3.5.0~~ | ~~-~~ | ~~26~~ | ~~0~~ | ~~1~~ | ~~0~~ |
 | 266 | org.jetbrains.kotlin:kotlin-daemon-client |  | 2026-06-25 | 9,4 |  | 2.4.10-RC |  | 202 | 0 | 34 | 0 |
@@ -306,7 +306,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 273 | com.jayway.jsonpath:json-path | json.path ⚙️ | 2026-02-22 | 15,5 | 2,5 | 3.0.0 | 3.0.0 | 25 | 3 | 2 | 2 |
 | 274 | net.minidev:accessors-smart |  | 2025-08-02 | 11,0 |  | 2.6.0 |  | 14 | 0 | 1 | 0 |
 | 275 | org.jdom:jdom2 🚩 | org.jdom2 ⚙️ | 2021-12-06 | 14,4 | 4,6 | 2.0.6.1 | 2.0.6.1 | 10 | 1 | 0 | 0 |
-| 276 | io.grpc:grpc-api | io.grpc ⚙️ | 2026-06-23 | 7,2 | 2,9 | 1.82.1 | 1.82.1 | 141 | 46 | 14 | 16 |
+| 276 | io.grpc:grpc-api | io.grpc ⚙️ | 2026-06-23 | 7,2 | 2,9 | 1.82.1 | 1.82.1 | 141 | 47 | 14 | 17 |
 | 277 | org.jetbrains.kotlinx:kotlinx-serialization-core-jvm | kotlinx.serialization.core 🏷️ | 2026-04-09 | 5,5 | 4,9 | 1.11.0 | 1.11.0 | 37 | 28 | 3 | 3 |
 | 278 | javax.annotation:javax.annotation-api 🚩 | java.annotation ⚙️ | 2018-02-21 | 13,5 | 8,9 | 1.3.2 | 1.3.2 | 8 | 2 | 0 | 0 |
 | 279 | org.apache.httpcomponents.client5:httpclient5 | org.apache.httpcomponents.client5.httpclient5 ⚙️ | 2026-06-26 | 10,5 | 5,8 | 5.6.2 | 5.6.2 | 46 | 34 | 6 | 6 |
@@ -328,19 +328,19 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | ~~295~~ | ~~org.apache.maven.doxia:doxia-modules~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~296~~ | ~~org.sonatype.plexus:plexus-cipher 🚩~~ | ~~-~~ | ~~2011-07-26~~ | ~~17,6~~ | ~~-~~ | ~~1.7~~ | ~~-~~ | ~~8~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~297~~ | ~~com.google.http-client:google-http-client-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
-| 298 | io.grpc:grpc-stub | io.grpc.stub ⚙️ | 2026-06-23 | 11,2 | 2,9 | 1.82.1 | 1.82.1 | 191 | 46 | 14 | 16 |
+| 298 | io.grpc:grpc-stub | io.grpc.stub ⚙️ | 2026-06-23 | 11,2 | 2,9 | 1.82.1 | 1.82.1 | 191 | 47 | 14 | 17 |
 | ~~299~~ | ~~org.apache.maven:maven-plugin-descriptor 🚩~~ | ~~-~~ | ~~2010-02-12~~ | ~~20,2~~ | ~~-~~ | ~~2.0.11~~ | ~~-~~ | ~~21~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~300~~ | ~~org.apache.maven:maven-error-diagnostics 🚩~~ | ~~-~~ | ~~2010-02-12~~ | ~~20,2~~ | ~~-~~ | ~~2.0.11~~ | ~~-~~ | ~~16~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~301~~ | ~~org.springframework.security:spring-security-bom~~ | ~~-~~ | ~~2026-06-09~~ | ~~12,6~~ | ~~-~~ | ~~7.1.0~~ | ~~-~~ | ~~122~~ | ~~0~~ | ~~3~~ | ~~0~~ |
 | ~~302~~ | ~~org.eclipse.aether:aether-api 🚩~~ | ~~-~~ | ~~2016-02-03~~ | ~~13,8~~ | ~~-~~ | ~~1.1.0~~ | ~~-~~ | ~~10~~ | ~~0~~ | ~~0~~ | ~~0~~ |
-| 303 | io.grpc:grpc-core | io.grpc.internal ⚙️ | 2026-06-23 | 11,2 | 2,9 | 1.82.1 | 1.82.1 | 191 | 46 | 14 | 16 |
+| 303 | io.grpc:grpc-core | io.grpc.internal ⚙️ | 2026-06-23 | 11,2 | 2,9 | 1.82.1 | 1.82.1 | 191 | 47 | 14 | 17 |
 | 304 | com.google.api.grpc:proto-google-common-protos |  | 2026-07-08 | 9,2 |  | 2.73.0 |  | 164 | 0 | 23 | 0 |
 | ~~305~~ | ~~org.apache.maven:maven-plugin-parameter-documenter 🚩~~ | ~~-~~ | ~~2010-02-12~~ | ~~20,2~~ | ~~-~~ | ~~2.0.11~~ | ~~-~~ | ~~17~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~306~~ | ~~org.apache.maven:maven-monitor 🚩~~ | ~~-~~ | ~~2010-02-12~~ | ~~20,2~~ | ~~-~~ | ~~2.0.11~~ | ~~-~~ | ~~22~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~307~~ | ~~org.sonatype.sisu:sisu-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | ~~308~~ | ~~org.sonatype.sisu:sisu-inject~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 309 | com.google.protobuf:protobuf-java-util | com.google.protobuf.util ⚙️ | 2026-06-11 | 10,9 | 6,9 | 4.35.1 | 4.35.1 | 203 | 149 | 24 | 25 |
-| 310 | io.grpc:grpc-protobuf-lite | io.grpc.protobuf.lite ⚙️ | 2026-06-23 | 10,2 | 2,9 | 1.82.1 | 1.82.1 | 181 | 46 | 14 | 16 |
+| 310 | io.grpc:grpc-protobuf-lite | io.grpc.protobuf.lite ⚙️ | 2026-06-23 | 10,2 | 2,9 | 1.82.1 | 1.82.1 | 181 | 47 | 14 | 17 |
 | 311 | org.springframework.boot:spring-boot-test | spring.boot.test ⚙️ | 2026-06-25 | 10,0 | 8,4 | 3.5.16 | 3.5.16 | 256 | 225 | 38 | 38 |
 | ~~312~~ | ~~com.datastax.oss:java-driver-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 313 | javax.xml.bind:jaxb-api 🚩 | java.xml.bind 🏷️ | 2018-09-12 | 20,0 | 9,0 | 2.3.1 | 2.3.1 | 34 | 4 | 0 | 0 |
@@ -352,7 +352,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | ~~319~~ | ~~io.fabric8:kubernetes-client-bom~~ | ~~-~~ | ~~2026-06-29~~ | ~~0,1~~ | ~~-~~ | ~~7.8.0~~ | ~~-~~ | ~~1~~ | ~~0~~ | ~~1~~ | ~~0~~ |
 | 320 | commons-digester:commons-digester 🚩 |  | 2010-09-24 | 20,7 |  | 2.1 |  | 10 | 0 | 0 | 0 |
 | 321 | io.netty:netty-transport-classes-epoll | io.netty.transport.classes.epoll ⚙️ | 2026-06-02 | 4,7 | 4,7 | 4.1.135.Final | 4.1.135.Final | 92 | 94 | 24 | 26 |
-| 322 | io.grpc:grpc-protobuf | io.grpc.protobuf ⚙️ | 2026-06-23 | 11,2 | 2,9 | 1.82.1 | 1.82.1 | 191 | 46 | 14 | 16 |
+| 322 | io.grpc:grpc-protobuf | io.grpc.protobuf ⚙️ | 2026-06-23 | 11,2 | 2,9 | 1.82.1 | 1.82.1 | 191 | 47 | 14 | 17 |
 | 323 | org.assertj:assertj-core | org.assertj.core ✳️ | 2026-01-24 | 13,3 | 8,2 | 3.27.7 | 3.27.7 | 82 | 44 | 4 | 4 |
 | ~~324~~ | ~~org.apache.maven.resolver:maven-resolver-util~~ | ~~org.apache.maven.resolver.util ✳️~~ | ~~2026-06-30~~ | ~~9,5~~ | ~~9,1~~ | ~~2.0.20~~ | ~~2.0.20~~ | ~~74~~ | ~~73~~ | ~~11~~ | ~~11~~ |
 | 325 | org.springframework.boot:spring-boot-starter-test | spring.boot.starter.test ⚙️ | 2026-06-25 | 12,3 | 8,4 | 3.5.16 | 3.5.16 | 290 | 225 | 38 | 38 |
@@ -474,7 +474,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 441 | org.apache.ant:ant-launcher |  | 2026-04-06 | 19,6 |  | 1.10.17 |  | 42 | 0 | 2 | 0 |
 | ~~442~~ | ~~org.awaitility:awaitility-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 443 | software.amazon.awssdk:http-clients |  | 2026-07-17 | 0,2 |  | 2.48.3 |  | 36 | 0 | 36 | 0 |
-| 444 | io.grpc:grpc-netty | io.grpc.netty ⚙️ | 2026-06-23 | 11,2 | 2,9 | 1.82.1 | 1.82.1 | 191 | 46 | 14 | 16 |
+| 444 | io.grpc:grpc-netty | io.grpc.netty ⚙️ | 2026-06-23 | 11,2 | 2,9 | 1.82.1 | 1.82.1 | 191 | 47 | 14 | 17 |
 | 445 | com.google.android:annotations 🚩 |  | 2012-08-31 | 13,9 |  | 4.1.1.4 |  | 1 | 0 | 0 | 0 |
 | 446 | javax.enterprise:cdi-api 🚩 |  | 2018-07-19 | 16,8 |  | 2.0.SP1 |  | 38 | 0 | 0 | 0 |
 | 447 | org.apache.commons:commons-math3 🚩 |  | 2016-03-17 | 14,4 |  | 3.6.1 |  | 10 | 0 | 0 | 0 |
@@ -694,7 +694,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | ~~661~~ | ~~org.sonatype.buildsupport:buildsupport~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
 | 662 | com.sun.jersey:jersey-project |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 663 | com.github.spotbugs:spotbugs-annotations | com.github.spotbugs.annotations ⚙️ | 2026-06-09 | 9,4 | 8,8 | 4.10.2 | 4.10.2 | 74 | 70 | 7 | 8 |
-| 664 | io.netty:netty-tcnative-classes | io.netty.tcnative.classes.openssl ✳️ | 2026-06-29 | 4,7 | 4,7 | 2.0.80.Final | 2.0.80.Final | 35 | 35 | 8 | 8 |
+| 664 | io.netty:netty-tcnative-classes | io.netty.tcnative.classes.openssl ✳️ | 2026-06-29 | 4,7 | 4,7 | 2.0.80.Final | 2.0.80.Final | 35 | 36 | 8 | 9 |
 | ~~665~~ | ~~org.springframework.cloud:spring-cloud-task-dependencies~~ | ~~-~~ | ~~2026-06-11~~ | ~~0,1~~ | ~~-~~ | ~~5.0.2~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~2~~ | ~~0~~ |
 | 666 | org.scala-lang.modules:scala-xml_2.12 ⚠️ | scala.xml ⚙️ | 2025-05-27 | 9,7 | 5,2 | 2.4.0 | 2.4.0 | 20 | 7 | 0 | 0 |
 | 667 | com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider | com.fasterxml.jackson.jaxrs.json ✳️ | 2026-07-08 | 14,4 | 8,8 | 2.18.9 | 2.18.9 | 183 | 95 | 19 | 19 |
@@ -735,7 +735,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 702 | org.springframework.data:spring-data-releasetrain |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 703 | software.amazon.awssdk:http-auth | software.amazon.awssdk.http.auth ⚙️ | 2026-07-17 | 2,8 | 2,8 | 2.48.3 | 2.48.3 | 665 | 671 | 232 | 238 |
 | ~~704~~ | ~~com.google.api:gax-bom 🚩~~ | ~~-~~ | ~~2022-12-09~~ | ~~7,8~~ | ~~-~~ | ~~2.19.6~~ | ~~-~~ | ~~88~~ | ~~0~~ | ~~0~~ | ~~0~~ |
-| 705 | io.grpc:grpc-util | io.grpc.util ⚙️ | 2026-06-23 | 2,9 | 2,9 | 1.82.1 | 1.82.1 | 44 | 46 | 14 | 16 |
+| 705 | io.grpc:grpc-util | io.grpc.util ⚙️ | 2026-06-23 | 2,9 | 2,9 | 1.82.1 | 1.82.1 | 44 | 47 | 14 | 17 |
 | 706 | backport-util-concurrent:backport-util-concurrent 🚩 |  | 2007-11-11 | 21,0 |  | 3.1 |  | 7 | 0 | 0 | 0 |
 | 707 | io.projectreactor.netty:reactor-netty-core | reactor.netty.core ⚙️ | 2026-06-08 | 5,7 | 5,7 | 1.3.6 | 1.3.6 | 115 | 115 | 20 | 20 |
 | ~~708~~ | ~~org.jboss:jboss-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
@@ -789,7 +789,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 756 | net.sf.kxml:kxml2 🚩 |  | 2009-04-21 | 21,0 |  | 2.3.0 |  | 4 | 0 | 0 | 0 |
 | 757 | org.xmlresolver:xmlresolver | org.xmlresolver.xmlresolver ⚙️ | 2026-05-04 | 11,4 | 4,4 | 6.0.23 | 6.0.23 | 90 | 48 | 3 | 3 |
 | 758 | org.fusesource.jansi:jansi | org.fusesource.jansi ✳️ | 2026-03-27 | 16,4 | 7,3 | 2.4.3 | 2.4.3 | 32 | 15 | 1 | 1 |
-| 759 | io.grpc:grpc-netty-shaded | io.netty.internal.tcnative ✳️ | 2026-06-23 | 8,5 | 2,9 | 1.82.1 | 2.0.75.Final | 160 | 46 | 14 | 16 |
+| 759 | io.grpc:grpc-netty-shaded | io.netty.internal.tcnative ✳️ | 2026-06-23 | 8,5 | 2,9 | 1.82.1 | 2.0.75.Final | 160 | 47 | 14 | 17 |
 | 760 | org.freemarker:freemarker ⚠️ | freemarker ⚙️ | 2024-12-08 | 19,4 | 5,4 | 2.3.34 | 2.3.34 | 26 | 4 | 0 | 0 |
 | 761 | org.mozilla:rhino | org.mozilla.rhino 🏷️ | 2026-02-15 | 15,0 | 4,7 | 1.9.1 | 1.9.1 | 25 | 9 | 5 | 5 |
 | 762 | org.apache.logging.log4j:log4j-slf4j-impl | org.apache.logging.log4j.slf4j.impl ✳️ | 2026-06-29 | 13,3 | 8,7 | 2.26.1 | 2.26.1 | 70 | 37 | 5 | 6 |
@@ -852,13 +852,13 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 819 | org.glassfish:json |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 820 | io.opentelemetry:opentelemetry-exporter-logging | io.opentelemetry.exporter.logging ⚙️ | 2026-06-05 | 5,7 | 5,7 | 1.63.0 | 1.63.0 | 89 | 90 | 13 | 14 |
 | ~~821~~ | ~~org.apache.maven.shared:maven-invoker ⚠️~~ | ~~-~~ | ~~2024-05-07~~ | ~~19,6~~ | ~~-~~ | ~~3.3.0~~ | ~~-~~ | ~~15~~ | ~~0~~ | ~~0~~ | ~~0~~ |
-| 822 | org.jetbrains.kotlin:kotlin-test | kotlin.test 🏷️ | 2026-07-14 | 10,6 | 6,0 | 2.4.10 | 2.4.10 | 219 | 155 | 36 | 36 |
+| 822 | org.jetbrains.kotlin:kotlin-test | kotlin.test 🏷️ | 2026-07-14 | 10,6 | 6,0 | 2.4.10 | 2.4.10 | 219 | 156 | 36 | 37 |
 | 823 | org.eclipse.jetty:jetty-util-ajax | org.eclipse.jetty.util.ajax ✳️ | 2026-07-02 | 13,8 | 7,7 | 12.1.11 | 12.1.11 | 323 | 177 | 29 | 30 |
 | 824 | com.mysql:mysql-connector-j |  | 2026-04-22 | 3,8 |  | 9.7.0 |  | 15 | 0 | 4 | 0 |
 | ~~825~~ | ~~org.mapstruct:mapstruct-parent~~ | ~~-~~ | ~~2026-06-27~~ | ~~0,1~~ | ~~-~~ | ~~1.7.0.Beta2~~ | ~~-~~ | ~~1~~ | ~~0~~ | ~~1~~ | ~~0~~ |
 | 826 | software.amazon.awssdk:aws-xml-protocol | software.amazon.awssdk.protocols.xml ⚙️ | 2026-07-17 | 7,7 | 6,5 | 2.48.3 | 2.48.3 | 1786 | 1565 | 232 | 238 |
 | 827 | software.amazon.awssdk:s3 | software.amazon.awssdk.services.s3 ⚙️ | 2026-07-17 | 9,1 | 7,7 | 2.48.3 | 2.48.3 | 1797 | 1791 | 232 | 238 |
-| 828 | io.grpc:grpc-inprocess | io.grpc.inprocess ⚙️ | 2026-06-23 | 2,9 | 2,9 | 1.82.1 | 1.82.1 | 44 | 46 | 14 | 16 |
+| 828 | io.grpc:grpc-inprocess | io.grpc.inprocess ⚙️ | 2026-06-23 | 2,9 | 2,9 | 1.82.1 | 1.82.1 | 44 | 47 | 14 | 17 |
 | 829 | com.zaxxer:SparseBitSet ⚠️ | com.zaxxer.sparsebitset ⚙️ | 2023-09-06 | 12,2 | 2,9 | 1.3 | 1.3 | 4 | 1 | 0 | 0 |
 | 830 | org.springframework.security:spring-security-oauth2-jose | spring.security.oauth2.jose ⚙️ | 2026-06-09 | 8,7 | 8,7 | 7.1.0 | 7.1.0 | 213 | 213 | 31 | 31 |
 | 831 | org.hamcrest:hamcrest-library ⚠️ | org.hamcrest.library.deprecated ⚙️ | 2024-08-01 | 19,2 | 7,6 | 3.0 | 3.0 | 13 | 7 | 0 | 0 |
@@ -875,7 +875,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 842 | org.rnorth.duct-tape:duct-tape 🚩 |  | 2019-04-28 | 10,9 |  | 1.0.8 |  | 5 | 0 | 0 | 0 |
 | 843 | com.microsoft.sqlserver:mssql-jdbc | com.microsoft.sqlserver.jdbc ⚙️ | 2026-05-14 | 9,7 | 8,0 | 13.5.0.jre11-preview | 13.5.0.jre11-preview | 269 | 131 | 30 | 15 |
 | ~~844~~ | ~~org.codehaus.janino:janino-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ |
-| 845 | io.grpc:grpc-services | io.grpc.services ⚙️ | 2026-06-23 | 10,0 | 2,9 | 1.82.1 | 1.82.1 | 179 | 46 | 14 | 16 |
+| 845 | io.grpc:grpc-services | io.grpc.services ⚙️ | 2026-06-23 | 10,0 | 2,9 | 1.82.1 | 1.82.1 | 179 | 47 | 14 | 17 |
 | 846 | io.jsonwebtoken:jjwt-root |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | 847 | org.codehaus.mojo:build-helper-maven-plugin ⚠️ |  | 2025-06-04 | 20,4 |  | 3.6.1 |  | 22 | 0 | 0 | 0 |
 | 848 | org.codehaus.jettison:jettison |  | 2026-06-17 | 19,7 |  | 1.5.6 |  | 26 | 0 | 2 | 0 |
@@ -904,7 +904,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 871 | org.conscrypt:conscrypt-openjdk-uber | org.conscrypt ⚙️ | 2026-06-29 | 9,4 | 7,7 | 2.6-alpha5 | 2.6-alpha5 | 39 | 17 | 5 | 7 |
 | 872 | com.google.devtools.ksp:symbol-processing-gradle-plugin |  | 2026-05-26 | 4,9 |  | 2.3.9 |  | 157 | 0 | 23 | 0 |
 | 873 | software.amazon.awssdk:http-auth-aws-eventstream | software.amazon.awssdk.http.auth.aws.eventstream ⚙️ | 2026-07-17 | 2,8 | 2,8 | 2.48.3 | 2.48.3 | 665 | 671 | 232 | 238 |
-| 874 | io.grpc:grpc-auth | io.grpc.auth ⚙️ | 2026-06-23 | 11,2 | 2,9 | 1.82.1 | 1.82.1 | 191 | 46 | 14 | 16 |
+| 874 | io.grpc:grpc-auth | io.grpc.auth ⚙️ | 2026-06-23 | 11,2 | 2,9 | 1.82.1 | 1.82.1 | 191 | 47 | 14 | 17 |
 | 875 | com.google.api:gax-httpjson |  | 2026-07-08 | 8,7 |  | 2.82.0 |  | 202 | 0 | 23 | 0 |
 | 876 | io.mockk:mockk-dsl-jvm |  | 2026-05-29 | 8,7 |  | 1.14.11 |  | 104 | 0 | 4 | 0 |
 | 877 | org.junit.vintage:junit-vintage-engine | org.junit.vintage.engine ✳️ | 2026-06-28 | 10,0 | 9,1 | 6.1.1 | 6.1.1 | 111 | 108 | 17 | 18 |
@@ -925,7 +925,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 892 | com.sun.jersey.contribs:jersey-contribs |  |  |  |  |  |  | 0 | 0 | 0 | 0 |
 | ~~893~~ | ~~io.quarkus:quarkus-parent~~ | ~~-~~ | ~~2026-07-01~~ | ~~0,2~~ | ~~-~~ | ~~3.37.1~~ | ~~-~~ | ~~13~~ | ~~0~~ | ~~13~~ | ~~0~~ |
 | 894 | software.amazon.awssdk:sts | software.amazon.awssdk.services.sts ⚙️ | 2026-07-17 | 9,1 | 7,7 | 2.48.3 | 2.48.3 | 1797 | 1791 | 232 | 238 |
-| 895 | io.grpc:grpc-grpclb | io.grpc.grpclb ⚙️ | 2026-06-23 | 10,5 | 2,9 | 1.82.1 | 1.82.1 | 185 | 46 | 14 | 16 |
+| 895 | io.grpc:grpc-grpclb | io.grpc.grpclb ⚙️ | 2026-06-23 | 10,5 | 2,9 | 1.82.1 | 1.82.1 | 185 | 47 | 14 | 17 |
 | 896 | org.seleniumhq.selenium:selenium-api | org.seleniumhq.selenium.api 🏷️ | 2026-06-16 | 15,4 | 8,0 | 4.45.0 | 4.45.0 | 184 | 87 | 11 | 12 |
 | 897 | com.nimbusds:lang-tag 🚩 |  | 2022-07-06 | 13,3 |  | 1.7 |  | 11 | 0 | 0 | 0 |
 | 898 | org.springframework.boot:spring-boot-starter-cache | spring.boot.starter.cache ⚙️ | 2026-06-25 | 10,7 | 8,4 | 3.5.16 | 3.5.16 | 265 | 225 | 38 | 38 |
@@ -938,7 +938,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 905 | io.micrometer:micrometer-registry-prometheus | micrometer.registry.prometheus ⚙️ | 2026-06-08 | 8,9 | 6,2 | 1.17.0 | 1.17.0 | 249 | 181 | 30 | 30 |
 | 906 | org.seleniumhq.selenium:selenium-remote-driver | org.seleniumhq.selenium.remote_driver 🏷️ | 2026-06-16 | 15,4 | 8,0 | 4.45.0 | 4.45.0 | 184 | 87 | 11 | 12 |
 | 907 | io.delta:delta-storage |  | 2026-06-18 | 4,3 |  | 4.3.0 |  | 26 | 0 | 5 | 0 |
-| 908 | io.grpc:grpc-alts | io.grpc.alts ⚙️ | 2026-06-23 | 8,3 | 2,9 | 1.82.1 | 1.82.1 | 156 | 46 | 14 | 16 |
+| 908 | io.grpc:grpc-alts | io.grpc.alts ⚙️ | 2026-06-23 | 8,3 | 2,9 | 1.82.1 | 1.82.1 | 156 | 47 | 14 | 17 |
 | 909 | org.glassfish.jersey.inject:jersey-hk2 |  | 2026-06-11 | 9,2 |  | 3.1.12 |  | 82 | 6 | 10 | 6 |
 | 910 | org.springdoc:springdoc-openapi-starter-webmvc-api | org.springdoc.openapi.webmvc.core ⚙️ | 2026-04-11 | 4,5 | 4,5 | 2.8.17 | 2.8.17 | 46 | 46 | 14 | 14 |
 | 911 | software.amazon.awssdk:crt-core | software.amazon.awssdk.crtcore ⚙️ | 2026-07-17 | 3,3 | 3,3 | 2.48.3 | 2.48.3 | 800 | 806 | 232 | 238 |
