@@ -9,6 +9,7 @@
 3.11.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/struts/beangle-struts-parent/3.11.6/beangle-struts-parent-3.11.6.jar returned status 404
 3.11.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/struts/beangle-struts-parent/3.11.7/beangle-struts-parent-3.11.7.jar returned status 404
 3.11.8		2026-06-30T04:23:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/struts/beangle-struts-parent/3.11.8/beangle-struts-parent-3.11.8.jar returned status 404
+3.11.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/struts/beangle-struts-parent/3.11.9/beangle-struts-parent-3.11.9.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/struts/beangle-struts-parent/3.6.0/beangle-struts-parent-3.6.0.jar returned status 404
 3.6.0.M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/struts/beangle-struts-parent/3.6.0.M2/beangle-struts-parent-3.6.0.M2.jar returned status 404
 3.6.0.M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/struts/beangle-struts-parent/3.6.0.M3/beangle-struts-parent-3.6.0.M3.jar returned status 404

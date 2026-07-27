@@ -139,3 +139,5 @@
 5.89.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-core/5.89.1/legend-pure-core-5.89.1.jar returned status 404
 5.89.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-core/5.89.2/legend-pure-core-5.89.2.jar returned status 404
 5.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-core/5.9.0/legend-pure-core-5.9.0.jar returned status 404
+5.90.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-core/5.90.0/legend-pure-core-5.90.0.jar returned status 404
+5.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-core/5.91.0/legend-pure-core-5.91.0.jar returned status 404

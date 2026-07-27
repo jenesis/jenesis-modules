@@ -34,3 +34,4 @@
 2.47.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudfoundry/multiapps/multiapps-coverage/2.47.0/multiapps-coverage-2.47.0.jar returned status 404
 2.48.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudfoundry/multiapps/multiapps-coverage/2.48.0/multiapps-coverage-2.48.0.jar returned status 404
 2.49.0		2026-06-09T07:34:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudfoundry/multiapps/multiapps-coverage/2.49.0/multiapps-coverage-2.49.0.jar returned status 404
+2.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudfoundry/multiapps/multiapps-coverage/2.50.0/multiapps-coverage-2.50.0.jar returned status 404

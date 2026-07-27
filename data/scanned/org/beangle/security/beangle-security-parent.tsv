@@ -13,6 +13,7 @@
 3.11.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/security/beangle-security-parent/3.11.6/beangle-security-parent-3.11.6.jar returned status 404
 3.11.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/security/beangle-security-parent/3.11.7/beangle-security-parent-3.11.7.jar returned status 404
 3.11.8		2026-06-30T04:23:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/security/beangle-security-parent/3.11.8/beangle-security-parent-3.11.8.jar returned status 404
+3.11.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/security/beangle-security-parent/3.11.9/beangle-security-parent-3.11.9.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/security/beangle-security-parent/3.2.0/beangle-security-parent-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/security/beangle-security-parent/3.3.0/beangle-security-parent-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/beangle/security/beangle-security-parent/3.3.1/beangle-security-parent-3.3.1.jar returned status 404

@@ -176,3 +176,4 @@
 2.49.0		2026-06-23T07:42:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudfoundry/multiapps/multiapps-controller-parent/2.49.0/multiapps-controller-parent-2.49.0.jar returned status 404
 2.49.1		2026-06-25T08:30:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudfoundry/multiapps/multiapps-controller-parent/2.49.1/multiapps-controller-parent-2.49.1.jar returned status 404
 2.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudfoundry/multiapps/multiapps-controller-parent/2.50.0/multiapps-controller-parent-2.50.0.jar returned status 404
+2.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudfoundry/multiapps/multiapps-controller-parent/2.51.0/multiapps-controller-parent-2.51.0.jar returned status 404

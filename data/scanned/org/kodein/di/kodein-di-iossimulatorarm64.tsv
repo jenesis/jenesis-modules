@@ -64,4 +64,5 @@
 7.31.0	metadata	2026-02-08T13:52:16Z	
 7.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/di/kodein-di-iossimulatorarm64/7.32.0/kodein-di-iossimulatorarm64-7.32.0.jar returned status 404
 7.32.0	metadata	2026-04-29T22:41:30Z	
+7.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/di/kodein-di-iossimulatorarm64/7.33.0/kodein-di-iossimulatorarm64-7.33.0.jar returned status 404
 7.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/di/kodein-di-iossimulatorarm64/7.9.0/kodein-di-iossimulatorarm64-7.9.0.jar returned status 404

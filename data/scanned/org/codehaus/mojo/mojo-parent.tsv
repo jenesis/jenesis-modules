@@ -86,3 +86,4 @@
 95	config	2026-01-01T20:40:32Z	
 96			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/96/mojo-parent-96.jar returned status 404
 96	config	2026-03-14T13:55:05Z	
+97			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/mojo/mojo-parent/97/mojo-parent-97.jar returned status 404
