@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-27. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-28. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -43,7 +43,7 @@ com.google.common  [explicit rule: owned by `com.google.guava`; 74 other group(s
   A * com.google.guava                     2017-07..2026-04 33.6.0-jre           |.==================.|
   R   org.foundationdb                     2026-01..2026-07 4.12.14.0            |..................==|
   ?   io.axoniq.framework                  2026-07..2026-07 5.2.0                |...................=|
-  R   io.acryl                             2026-04..2026-07 1.6.0.16rc7          |...................=|
+  R   io.acryl                             2026-04..2026-07 1.6.0.16rc7          |..................==|
   ?   org.sonarsource.python               2026-07..2026-07 5.26.0.35296         |...................=|
   R   org.talend.sdk.component.sample.feature 2025-08..2026-07 1.94.0               |.................===|
     + 69 more: org.conductoross, org.apache.spark, org.apache.hbase, org.apache.jackrabbit, io.orkes.conductor, io.github.katsuhisamaruyama, io.digiexpress, org.weakref, org.apache.phoenix, io.trino.tempto, lv.ailab.morphology, org.opendaylight.aaa, (+57 more)
@@ -104,7 +104,7 @@ kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other g
   ?   lol.simeon                           2026-06..2026-06 1.1.2                |...................=|
   R   love.forte.plugin.suspend-transform  2025-04..2026-06 2.4.0-0.14.0         |................====|
   R   dev.robocode.tankroyale              2026-01..2026-05 1.0.2                |..................==|
-  R   io.github.wangbax                    2026-04..2026-04 5.5.1-okio-fork-2    |..................==|
+  R   io.github.wangbax                    2026-04..2026-04 5.5.1-okio-fork-2    |..................=.|
     + 23 more: com.squareup.wire, org.ldemetrios, io.github.lumamontes, dev.zacsweers.metro, io.typst, io.availe, dev.oglass, io.github.oewntk, io.github.lexa-diky, com.toasttab.expediter, io.johnsonlee.exec, io.specmatic, (+11 more)
 org.objectweb.asm  [explicit rule: owned by `org.ow2.asm`; 166 other group(s) rejected]
   A * org.ow2.asm                          2017-07..2026-05 9.10.1               |.===================|
@@ -210,7 +210,7 @@ spring.oxm  [explicit rule: owned by `org.springframework`; 3 other group(s) rej
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |................=...|
 spring.r2dbc  [explicit rule: owned by `org.springframework`; 2 other group(s) rejected]
-  A * org.springframework                  2020-10..2026-06 7.0.8                |........============|
+  A * org.springframework                  2020-10..2026-06 7.0.8                |.......=============|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
 spring.test  [explicit rule: owned by `org.springframework`; 5 other group(s) rejected]
@@ -531,7 +531,7 @@ org.slf4j  [fork: keep `org.slf4j`, `org.jetbrains.kotlinx` still publishes the 
 io.netty.codec.http2  [fork: keep `io.netty`, `com.applitools` still publishes the name]
   A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
   R   com.applitools                       2026-05..2026-07 5.88.0               |...................=|
-  R   org.apache.spark                     2025-10..2026-07 4.1.3                |..................==|
+  R   org.apache.spark                     2025-10..2026-07 4.1.3                |.................===|
   ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
   ?   org.apache.gravitino                 2026-06..2026-06 1.3.0                |...................=|
   R   org.apache.iceberg                   2026-05..2026-05 1.11.0               |...................=|
@@ -1067,7 +1067,7 @@ com.aayushatharva.brotli4j  [fork: keep `com.aayushatharva.brotli4j`, `net.sourc
   R   org.apache.orc                       2024-11..2026-01 2.1.4                |................===.|
 org.osgi.framework  [fork: keep `org.osgi`, `org.apache.karaf` still publishes the name]
   ? * org.osgi                             2020-12..2020-12 1.10.0               |........=...........|
-  ?   org.apache.karaf                     2025-08..2026-04 4.4.11               |.................===|
+  ?   org.apache.karaf                     2025-08..2026-04 4.4.11               |.................==.|
 org.apache.commons.fileupload2.jakarta.servlet6  [fork: keep `org.apache.commons`, `io.github.dhruvrawatdev` still publishes the name]
   ? * org.apache.commons                   2023-12..2026-02 2.0.0-M5             |..............=====.|
   R   io.github.dhruvrawatdev              2026-04..2026-04 1.0.1                |..................=.|

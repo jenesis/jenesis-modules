@@ -22,21 +22,21 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 |---|---:|
 | Total artifacts scanned | 18 042 677 |
 | Non-module artifacts | 16 064 920 |
-| Modular artifacts | 1 632 039 |
-| Total automatic modules | 1 281 162 |
-| Total named modules | 350 877 |
-| Total named modules with module-info version | 266 483 |
+| Modular artifacts | 1 635 729 |
+| Total automatic modules | 1 283 245 |
+| Total named modules | 352 484 |
+| Total named modules with module-info version | 267 744 |
 | Distinct Maven artifacts | 673 938 |
 | Distinct module names | 40 767 |
-| Distinct automatic modules | 21 555 |
-| Distinct named modules | 17 726 |
-| Distinct named modules with module-info version | 12 945 |
-| Distinct groupIds publishing modules | 5 228 |
-| Most recent tracked publication | 2026-07-22 14:32:37 UTC |
+| Distinct automatic modules | 21 575 |
+| Distinct named modules | 17 724 |
+| Distinct named modules with module-info version | 12 947 |
+| Distinct groupIds publishing modules | 5 233 |
+| Most recent tracked publication | 2026-07-27 02:23:57 UTC |
 
 ## Resolved catalogue size
 
-Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **338 354** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
+Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **339 959** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
 
 Of those, **244** rows (53 distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.
 
@@ -50,8 +50,8 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
-| Named | 17 726 | 350 877 |
-| Automatic | 21 555 | 1 281 162 |
+| Named | 17 724 | 352 484 |
+| Automatic | 21 575 | 1 283 245 |
 
 ## Classifiers
 
@@ -92,27 +92,27 @@ Counts canonical **named publications** (one count per published JAR, not per di
 
 | Publication category | Publications |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 260 881 |
-| `module-info` version is non-empty but differs from the Maven coordinate version | 5 602 |
-| `module-info` declared no version (Maven coordinate version is the only reference) | 55 147 |
+| `module-info` version matches the Maven coordinate version | 262 136 |
+| `module-info` version is non-empty but differs from the Maven coordinate version | 5 608 |
+| `module-info` declared no version (Maven coordinate version is the only reference) | 55 493 |
 
 Same breakdown but counted once per **canonical module**, against the latest named row in its no-classifier resolved view (the row a consumer fetching the "latest" of a module would land on). Modules whose latest row is automatic are excluded.
 
 | Module category (by latest canonical named row) | Modules |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 11 503 |
-| `module-info` version is non-empty but differs from the Maven coordinate version | 209 |
-| `module-info` declared no version (Maven coordinate version is the only reference) | 4 274 |
+| `module-info` version matches the Maven coordinate version | 11 497 |
+| `module-info` version is non-empty but differs from the Maven coordinate version | 211 |
+| `module-info` declared no version (Maven coordinate version is the only reference) | 4 276 |
 
 Each row describes what the **version-mismatch filter** (drop every named row whose `module-info` version semantically contradicts its Maven coordinate version) leaves behind in the module's `modules.tsv`, counted once per **canonical module** (no-classifier view). Modules with no canonical named row are out of scope. The first row is the in-scope total; rows two through four are mutually exclusive and sum to it; the fifth row overlaps with rows three and four (it's the subset whose head-of-`modules.tsv` is the one the filter removes).
 
 | Module version filtering impact | Module names |
 |---|---:|
-| Canonical modules with at least one named row (in scope) | 16 125 |
-| Filter keeps every named row: `modules.tsv` is unchanged | 15 510 |
-| Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 507 |
+| Canonical modules with at least one named row (in scope) | 16 127 |
+| Filter keeps every named row: `modules.tsv` is unchanged | 15 511 |
+| Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 508 |
 | Filter drops every named row: `modules.tsv` is removed entirely | 108 |
-| Filter drops the module's current top row: "latest" shifts to an older Maven version (or vanishes if fully lost) | 209 |
+| Filter drops the module's current top row: "latest" shifts to an older Maven version (or vanishes if fully lost) | 211 |
 
 ## Mismatching module-info version patterns
 
@@ -128,8 +128,8 @@ Breaks down the publications whose `module-info` version differs from the Maven 
 | Module = Maven + `+<metadata>` (build metadata in module-info) | 0 | 0.0% |
 | Maven = Module + `+<metadata>` (build metadata in coordinate) | 0 | 0.0% |
 | Unresolved `${...}` placeholder in either version | 19 | 0.3% |
-| Different major segment (likely shaded/bundled artifact) | 478 | 8.5% |
-| Substantively different (same major, different version) | 1 692 | 30.2% |
+| Different major segment (likely shaded/bundled artifact) | 479 | 8.5% |
+| Substantively different (same major, different version) | 1 697 | 30.3% |
 
 ## Type transitions
 
@@ -137,8 +137,8 @@ Modules that have switched between named and automatic over their history. A mod
 
 | Direction | Modules |
 |---|---:|
-| Automatic → Named | 1 554 |
-| Named → Automatic | 140 |
+| Automatic → Named | 1 550 |
+| Named → Automatic | 144 |
 
 ## Recent activity (last 7 days)
 
@@ -146,8 +146,8 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 621 | 247 | 374 |
-| New version rows | 845 | 251 | 594 |
+| Modules with a publication | 3 156 | 1 311 | 1 845 |
+| New version rows | 4 534 | 1 858 | 2 676 |
 | Non-modular artifacts | 3 156 | - | - |
 
 ## Monthly publications by type (last 12 months)
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-04 | `█`&nbsp;3 387 (4.4%) | `▓▓`&nbsp;5 836 (7.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;67 391 (88.0%) |
 | 2026-05 | `█`&nbsp;3 441 (4.4%) | `▓▓`&nbsp;5 624 (7.2%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;68 937 (88.4%) |
 | 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 111 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 964 (88.4%) |
-| 2026-07 | `█`&nbsp;2 544 (6.5%) | `▓`&nbsp;4 085 (10.5%) | `░░░░░░░░░░░`&nbsp;32 316 (83.0%) |
+| 2026-07 | `█`&nbsp;3 261 (8.0%) | `▓▓`&nbsp;5 077 (12.5%) | `░░░░░░░░░░░`&nbsp;32 316 (79.5%) |
 
 ## Naming patterns
 
@@ -183,10 +183,10 @@ For each canonical (no-classifier) module that resolved to an owner (implicit or
 
 | Shared leading dot-segments | Canonical modules |
 |---:|---:|
-| 0 | 8 530 |
+| 0 | 8 532 |
 | 1 | 1 092 |
-| 2 | 11 813 |
-| 3 | 12 484 |
+| 2 | 11 816 |
+| 3 | 12 497 |
 | 4 | 2 376 |
 | 5 | 344 |
 | 6 | 18 |
@@ -242,28 +242,28 @@ Modules with the longest release history. Counts come from the main (no-classifi
 | Module | Versions |
 |---|---:|
 | `software.amazon.awssdk.* (506 modules)` | [1, 1 792] |
-| `org.scala.lang.scala3.* (9 modules)` | [3, 1 237] |
+| `org.scala.lang.scala3.* (9 modules)` | [4, 1 238] |
 | `org.scala.lang.* (excl. scala3) (4 modules)` | [354, 1 213] |
-| `com.graphqljava` | 1 168 |
-| `net.minestom.server` | 747 |
+| `com.graphqljava` | 1 169 |
+| `net.minestom.server` | 748 |
 | `com.google.api.services.* (342 modules)` | [1, 562] |
 | `com.azure.sdk.template` | 474 |
-| `com.hazelcast.all` | 453 |
-| `javassist` | 453 |
-| `org.apache.commons.math3` | 453 |
-| `org.apache.cxf` | 453 |
-| `org.apache.poi.ooxml` | 453 |
+| `com.hazelcast.all` | 454 |
+| `javassist` | 454 |
+| `org.apache.commons.math3` | 454 |
+| `org.apache.cxf` | 454 |
+| `org.apache.poi.ooxml` | 454 |
 | `io.undertow.parser.generator` | 446 |
 | `undertow.* (3 modules)` | [415, 446] |
 | `com.guicedee.* (69 modules)` | [1, 445] |
-| `jandex` | 439 |
+| `jandex` | 440 |
+| `io.fluxzero.common` | 438 |
+| `io.fluxzero.proxy` | 438 |
+| `io.fluxzero.testserver` | 438 |
 | `dom4j` | 437 |
 | `jakarta.enterprise.* (2 modules)` | 437 |
+| `io.fluxzero.sdk` | 435 |
 | `jaxen` | 433 |
-| `io.fluxzero.common` | 430 |
-| `io.fluxzero.proxy` | 430 |
-| `io.fluxzero.testserver` | 430 |
-| `io.fluxzero.sdk` | 427 |
 | `primefaces` | 415 |
 | `com.tigerbeetle` | 409 |
 
@@ -337,31 +337,31 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 
 | Module | Last publication |
 |---|---|
-| `ch.sbb.polarion.extension.pdf_exporter` | 2026-07-22 14:32:37 UTC |
-| `com.auth0.java` | 2026-07-22 13:24:38 UTC |
-| `com.boxofc.liquimeili` | 2026-07-22 12:40:13 UTC |
-| `com.azure.resourcemanager.cosmos` | 2026-07-22 10:21:09 UTC |
-| `flipkart.krystal.common` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.krystex` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.krystex.testFixtures [-test-fixtures]` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.lattice.codegen` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.lattice.ext.cdi` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.lattice.ext.cdi.codegen` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.lattice.ext.guice.codegen` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.vajram.ext.fory` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.vajram.ext.fory.codegen` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.vajram.ext.json.codegen` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.vajram.ext.protobuf` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.vajram.ext.protobuf2024e` | 2026-07-22 09:37:08 UTC |
-| `krystal.lattice.ext.mcp` | 2026-07-22 09:37:08 UTC |
-| `krystal.vajram.codegen` | 2026-07-22 09:37:08 UTC |
-| `krystal.vajram.ext.sql` | 2026-07-22 09:37:08 UTC |
-| `krystal.vajram.extensions.graphql` | 2026-07-22 09:37:08 UTC |
-| `flipkart.krystal.codegen.common` | 2026-07-22 09:37:07 UTC |
-| `flipkart.krystal.lattice.core` | 2026-07-22 09:37:07 UTC |
-| `flipkart.krystal.lattice.ext.guice` | 2026-07-22 09:37:07 UTC |
-| `flipkart.krystal.lattice.ext.guice.servlet` | 2026-07-22 09:37:07 UTC |
-| `flipkart.krystal.vajram` | 2026-07-22 09:37:07 UTC |
+| `org.apache.wicket.velocity` | 2026-07-27 02:23:57 UTC |
+| `org.apache.wicket.spring` | 2026-07-27 02:23:56 UTC |
+| `org.apache.wicket.util` | 2026-07-27 02:23:56 UTC |
+| `org.apache.wicket.request` | 2026-07-27 02:23:53 UTC |
+| `org.apache.wicket.tester` | 2026-07-27 02:23:52 UTC |
+| `org.apache.wicket.extensions` | 2026-07-27 02:23:46 UTC |
+| `org.apache.wicket.jmx` | 2026-07-27 02:23:46 UTC |
+| `org.apache.wicket.websocket.javax` | 2026-07-27 02:23:46 UTC |
+| `org.apache.wicket.auth.roles` | 2026-07-27 02:23:44 UTC |
+| `org.apache.wicket.devutils` | 2026-07-27 02:23:44 UTC |
+| `org.apache.wicket.guice` | 2026-07-27 02:23:43 UTC |
+| `org.apache.wicket.tester.extensions` | 2026-07-27 02:23:43 UTC |
+| `org.apache.wicket.websocket.core` | 2026-07-27 02:23:43 UTC |
+| `org.apache.wicket.websocket.tester` | 2026-07-27 02:23:43 UTC |
+| `org.apache.wicket.bean.validation` | 2026-07-27 02:23:42 UTC |
+| `org.apache.wicket.cdi` | 2026-07-27 02:23:42 UTC |
+| `org.apache.wicket.core` | 2026-07-27 02:23:42 UTC |
+| `org.apache.wicket.ioc` | 2026-07-27 02:23:42 UTC |
+| `org.apache.wicket.metrics` | 2026-07-27 02:23:42 UTC |
+| `org.apache.wicket.objectsizeof.agent` | 2026-07-27 02:23:42 UTC |
+| `configvalidation` | 2026-07-27 02:23:32 UTC |
+| `com.aspectran.undertow` | 2026-07-27 02:23:19 UTC |
+| `io.ekbatan.graalvm` | 2026-07-27 02:23:11 UTC |
+| `com.aspectran.utils` | 2026-07-27 02:23:10 UTC |
+| `io.github.willena.sqlitejdbc` | 2026-07-27 02:22:01 UTC |
 
 ## Top 25 groupIds by average versions per module
 
@@ -370,9 +370,9 @@ Restricted to groupIds publishing at least 3 modules so the average isn't domina
 | groupId | Modules | Total versions | Avg versions / module |
 |---|---:|---:|---:|
 | `software.amazon.awssdk` | 509 | 615 055 | 1208.4 |
-| `org.scala-lang` | 19 | 12 644 | 665.5 |
-| `com.graphql-java` | 3 | 1 334 | 444.7 |
-| `io.fluxzero` | 5 | 1 720 | 344.0 |
+| `org.scala-lang` | 19 | 12 650 | 665.8 |
+| `com.graphql-java` | 3 | 1 335 | 445.0 |
+| `io.fluxzero` | 5 | 1 752 | 350.4 |
 | `com.guicedee.servlets` | 11 | 3 517 | 319.7 |
 | `com.jwebmp.plugins.angular` | 17 | 5 151 | 303.0 |
 | `com.jwebmp.plugins.effects` | 3 | 909 | 303.0 |
@@ -381,7 +381,7 @@ Restricted to groupIds publishing at least 3 modules so the average isn't domina
 | `com.jwebmp.plugins.bootstrap` | 8 | 2 409 | 301.1 |
 | `com.guicedee.services` | 45 | 12 368 | 274.8 |
 | `com.guicedee.persistence` | 9 | 2 377 | 264.1 |
-| `net.minestom` | 3 | 785 | 261.7 |
+| `net.minestom` | 3 | 787 | 262.3 |
 | `com.jwebmp.plugins.jquery` | 17 | 4 350 | 255.9 |
 | `com.jwebmp.plugins.graphing` | 5 | 1 247 | 249.4 |
 | `com.jwebmp.plugins.forms` | 10 | 2 436 | 243.6 |
@@ -391,8 +391,8 @@ Restricted to groupIds publishing at least 3 modules so the average isn't domina
 | `net.serenity-bdd` | 27 | 5 265 | 195.0 |
 | `org.springframework` | 23 | 4 288 | 186.4 |
 | `org.hibernate.orm` | 26 | 4 518 | 173.8 |
+| `com.netflix.spectator` | 27 | 4 685 | 173.5 |
 | `org.apache.tomcat.embed` | 5 | 866 | 173.2 |
-| `com.netflix.spectator` | 27 | 4 635 | 171.7 |
 | `org.springframework.data` | 24 | 4 012 | 167.2 |
 
 _This file is regenerated on every `ModuleSummary` run; previous content is discarded._
