@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-28. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-29. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -36,7 +36,7 @@ com.google.gson  [explicit rule: owned by `com.google.code.gson`; 537 other grou
   ?   dev.frontseat.maven.extensions       2026-07..2026-07 0.8.3                |...................=|
   ?   com.conaxgames                       2026-06..2026-07 1.6.0                |...................=|
   R   org.operaton.bpm                     2025-12..2026-07 1.1.5                |..................==|
-  R   dev.blitical                         2026-04..2026-07 1.0.0-beta.19        |...................=|
+  R   dev.blitical                         2026-04..2026-07 1.0.0-beta.19        |..................==|
   R   com.muscula                          2025-09..2026-07 1.3.1                |.................===|
     + 532 more: org.sonarsource.dotnet, dev.cjfravel, io.quarkus, com.aliyun, org.sonarsource.sonarlint.ls, io.github.cobble-project, com.uber.nullaway, ch.turic, org.sonarsource.sonarlint.core, org.sonarsource.java, net.obvj, org.apache.spark, (+520 more)
 com.google.common  [explicit rule: owned by `com.google.guava`; 74 other group(s) rejected]
@@ -287,7 +287,7 @@ com.sun.xml.bind  [republished by `org.glassfish.jaxb` (still active); belongs t
   R   com.helger.schematron                2021-09..2026-07 10.0.0               |.........===========|
   ?   com.checkmarx                        2026-06..2026-06 2026.2.32            |...................=|
   A   com.sun.xml.bind                     2018-07..2026-05 4.0.9                |...=================|
-  R   com.exasol                           2024-10..2025-10 5.4.3                |...............====.|
+  R   com.exasol                           2024-10..2025-10 5.4.3                |...............===..|
     + 32 more: gov.nasa.pds, com.intuit.quickbooks-online, com.google.tsunami, io.github.azagniotov, com.liferay, org.opengis.cite, org.duracloud, edu.iris.dmc, br.com.swconsultoria, one.gfw, org.xtce, com.github.cafapi, (+20 more)
 org.apache.commons.mail  [republished by `com.github.ppodgorsek.email` (still active); belongs to `org.apache.commons`]
   ? * com.github.ppodgorsek.email          2023-06..2023-06 2.0.0                |.............=......|
@@ -364,8 +364,8 @@ org.eclipse.osgi  [renamed `org.eclipse.tycho` -> `org.eclipse.platform` (latest
   ? * org.eclipse.tycho                    2018-05..2018-05 3.13.0.v20180226-1711 |...=................|
   ?   org.eclipse.platform                 2018-06..2026-06 3.24.200             |...=================|
   ?   io.joynr.tools.generator             2025-01..2026-06 1.26.6               |................====|
-  ?   org.alfasoftware                     2021-05..2026-04 2.7.0                |.........===========|
-  ?   net.kieker-monitoring                2026-04..2026-04 2.0.3                |...................=|
+  ?   org.alfasoftware                     2021-05..2026-04 2.7.0                |.........==========.|
+  ?   net.kieker-monitoring                2026-04..2026-04 2.0.3                |..................=.|
   ?   org.bonitasoft.bpm                   2023-10..2026-04 9.0.9                |.............======.|
     + 22 more: de.funfried.libraries, io.github.alien-tools, org.tango-controls, org.tango-controls.pogo, ch.reportingsoft.birt, com.liferay, net.revelc.code.formatter, org.kie.j2cl.tools.external, io.github.dogla, com.vertispan.j2cl.external, fr.inria.gforge.spirals, org.geneweaver, (+10 more)
 zertjsse  [renamed `com.ibm.zertjsse` -> `com.ibm.semeru-zjavasecurity` (latest 11.0.31.0)]
@@ -764,7 +764,7 @@ org.checkerframework.checker.qual  [fork: keep `org.checkerframework`, `com.face
   R   io.boxlang                           2026-01..2026-07 1.15.0               |..................==|
   R   com.google.cloud                     2024-06..2026-07 3.44.0               |...............=====|
   ?   com.silanis.esl                      2026-07..2026-07 11.69.0              |...................=|
-  R   com.webforj                          2026-04..2026-06 26.01                |...................=|
+  R   com.webforj                          2026-04..2026-06 26.01                |..................==|
     + 29 more: io.joynr.java.core, io.github.imonja, com.daml, io.github.eisop, org.eclipse.hawkbit, org.jetbrains.kotlinx, com.jcabi, org.opencastproject, org.orbisgis.geoclimate, io.github.mscheong01, io.vitess, org.apache.pekko, (+17 more)
 io.netty.transport  [fork: keep `io.netty`, `com.arcadedb` still publishes the name]
   A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
@@ -2161,7 +2161,7 @@ com.sun.activation.registries  [no clear owner; `org.eclipse.angus` is earliest 
   ? * org.eclipse.angus                    2021-08..2022-12 1.1.0                |.........====.......|
   ?   fish.payara.extras                   2022-07..2025-11 6.2025.11            |...........========.|
 simpletimeapi  [no clear owner; `io.github.fontysvenlo` is earliest and most recent]
-  ? * io.github.fontysvenlo                2023-08..2025-10 1.0.0                |.............======.|
+  ? * io.github.fontysvenlo                2023-08..2025-10 1.0.0                |.............=====..|
   ?   io.github.fontysvenlo.alda           2023-09..2023-09 2.5                  |.............=......|
 aerogel  [no clear owner; `io.github.derklaro` is earliest and most recent]
   ? * io.github.derklaro                   2021-10..2021-10 1.4.0                |.........=..........|
