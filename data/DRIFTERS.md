@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-29. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-30. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -818,7 +818,7 @@ org.apache.logging.log4j  [fork: keep `org.apache.logging.log4j`, `io.github.bee
   R   com.ibm.galasa                       2026-02..2026-06 1.1.9                |..................==|
     + 327 more: com.nqadmin.swingset.demo, com.vaimee, org.apache.hudi, com.alibaba.ververica, io.github.zhouzhoucoder, org.beilstein, io.github.uwegeercken, org.hpccsystems, org.into-cps.maestro, com.adobe.campaign.tests.bridge.service, io.camunda, com.robotaccomplice, (+315 more)
 jakarta.inject  [fork: keep `jakarta.inject`, `org.kill-bill.billing` still publishes the name]
-  A * jakarta.inject                       2020-04..2021-10 2.0.1                |.......===..........|
+  A * jakarta.inject                       2020-04..2021-10 2.0.1                |......====..........|
   ?   org.kill-bill.billing                2026-06..2026-07 0.42.1               |...................=|
   R   com.google.gerrit                    2023-10..2026-07 3.13.8               |.............=======|
   ?   org.openidentityplatform.openig      2026-06..2026-06 6.1.1                |...................=|
@@ -846,7 +846,7 @@ net.bytebuddy.agent  [fork: keep `net.bytebuddy`, `com.google.gerrit` still publ
   R   com.google.gerrit                    2020-02..2026-07 3.13.8               |......==============|
   ?   co.hyperprobe                        2026-07..2026-07 1.2.19               |...................=|
   R   co.elastic.apm                       2019-02..2026-06 1.56.0               |....================|
-  R   com.macstab.chaos.jvm                2026-04..2026-04 1.0.0                |...................=|
+  R   com.macstab.chaos.jvm                2026-04..2026-04 1.0.0                |..................=.|
   R   cn.easii                             2026-04..2026-04 1.0.6                |..................=.|
     + 15 more: me.bechberger, cn.langpy, com.leanxcale, com.zto.fire, software.amazon.disco, com.nerdvision, com.idea-aedi, org.openstreetmap.atlas, com.netsensia.rivalchess, com.github.liuzhengyang, com.securenative.java, com.amazonaws, (+3 more)
 dev.tamboui.toolkit  [fork: keep `dev.tamboui`, `dev.jbang` still publishes the name]
@@ -896,7 +896,7 @@ org.apache.commons.pool2  [fork: keep `org.apache.commons`, `com.liquibase.ext` 
   R   org.openjproxy                       2026-03..2026-07 0.5.2-beta           |..................==|
   R   org.apache.directory.api             2023-10..2026-05 2.1.8                |.............=======|
   R   io.github.caobahuong                 2026-05..2026-05 0.1.1                |...................=|
-  R   org.apache.druid.extensions.contrib  2024-06..2026-04 37.0.0               |...............=====|
+  R   org.apache.druid.extensions.contrib  2024-06..2026-04 37.0.0               |...............====.|
     + 5 more: com.redis, org.noear, io.github.hexsook, org.apache.storm, com.vlkan.log4j2
 org.apache.commons.beanutils2  [fork: keep `org.apache.commons`, `org.onebusaway` still publishes the name]
   ? * org.apache.commons                   2024-12..2025-05 2.0.0-M2             |................==..|
@@ -923,7 +923,7 @@ io.netty.internal.tcnative.openssl.linux.x86_64  [fork: keep `io.netty`, `org.ap
 com.azure.json  [fork: keep `com.azure`, `io.indextables` still publishes the name]
   A * com.azure                            2022-09..2026-01 1.5.1                |...........========.|
   ?   io.indextables                       2026-07..2026-07 0.6.0-rc2_spark_4.0.3 |...................=|
-  R   com.microsoft.azure.kusto            2026-04..2026-05 7.0.8                |...................=|
+  R   com.microsoft.azure.kusto            2026-04..2026-05 7.0.8                |..................==|
 org.apache.commons.exec  [fork: keep `org.apache.commons`, `cn.net.pap.md5.jmh` still publishes the name]
   ? * org.apache.commons                   2024-01..2025-11 1.6.0                |..............=====.|
   ?   cn.net.pap.md5.jmh                   2026-07..2026-07 0.0.4                |...................=|
@@ -1650,7 +1650,7 @@ flying.saucer.pdf  [no clear owner; `org.xhtmlrenderer` is earliest and most rec
   ?   io.github.openpdfsaucer              2025-03..2025-05 2.0.9                |................==..|
 com.kingbase8.jdbc  [no clear owner; `org.jeecgframework` is earliest and most recent]
   ? * org.jeecgframework                   2024-06..2024-06 9.0.0                |...............=....|
-  ?   cn.com.kingbase                      2025-04..2026-07 9.0.1.jre6           |.................===|
+  ?   cn.com.kingbase                      2025-04..2026-07 9.0.1.jre6           |................====|
   ?   io.github.iscasdmo                   2026-05..2026-05 8.6.0                |...................=|
 tech.fortis.sandbox.api  [no clear owner; `io.github.zahran444` is earliest and most recent]
   ? * io.github.zahran444                  2026-04..2026-04 1.0.0                |..................=.|
@@ -2074,7 +2074,7 @@ jam.common  [no clear owner; `sk.annotation.library.jam` is earliest and most re
   ?   sk.annotation.projects.signito       2022-12..2022-12 0.9.53               |............=.......|
 org.apache.commons.dbutils  [no clear owner; `commons-dbutils` is earliest and most recent]
   ? * commons-dbutils                      2023-08..2023-09 1.8.1                |.............=......|
-  ?   dev.aulait.jeg                       2024-07..2026-04 0.12                 |...............=====|
+  ?   dev.aulait.jeg                       2024-07..2026-04 0.12                 |...............====.|
 json.path  [no clear owner; `com.jayway.jsonpath` is earliest and most recent]
   ? * com.jayway.jsonpath                  2024-01..2026-02 3.0.0                |..............=====.|
   ?   org.gov4j.thirdparty.com.jayway.jsonpath 2024-12..2026-04 3.0.0-gov4j-1        |................===.|
