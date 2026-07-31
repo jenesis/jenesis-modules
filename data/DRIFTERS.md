@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-30. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-07-31. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -571,7 +571,7 @@ tools.jackson.core  [fork: keep `tools.jackson.core`, `ru.tinkoff.piapi` still p
 io.netty.handler  [fork: keep `io.netty`, `org.apache.storm` still publishes the name]
   A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
   R   org.apache.storm                     2025-05..2026-07 2.8.9                |.................===|
-  R   org.apache.tika                      2025-04..2026-07 3.3.2                |.................===|
+  R   org.apache.tika                      2025-04..2026-07 3.3.2                |................====|
   ?   org.openidentityplatform.opendj      2026-06..2026-07 5.1.2                |...................=|
   R   eu.michael-simons.neo4j              2025-07..2026-06 4.1.2                |.................===|
   ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
@@ -644,7 +644,7 @@ com.fasterxml.jackson.jakarta.rs.json  [fork: keep `com.fasterxml.jackson.jakart
     + 13 more: org.eclipse.tractusx.edc, org.ow2.petals.samples.rest.edm, dev.getelements.elements, org.eclipse.edc.huawei, org.eclipse.edc.aws, org.eclipse.edc, io.nflow, com.brightsparklabs, io.trino.gateway, com.snehasishroy, com.smoketurner.dropwizard, org.kiwiproject, (+1 more)
 io.netty.buffer  [fork: keep `io.netty`, `org.apache.tika` still publishes the name]
   A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
-  R   org.apache.tika                      2025-04..2026-07 3.3.2                |.................===|
+  R   org.apache.tika                      2025-04..2026-07 3.3.2                |................====|
   ?   ai.covia                             2026-07..2026-07 0.6.0                |...................=|
   R   io.github.lukaszsamson               2026-04..2026-07 0.2.0                |..................==|
   R   com.urbanairship                     2026-01..2026-07 11.3.0               |..................==|
@@ -797,7 +797,7 @@ com.nimbusds.jose.jwt  [fork: keep `com.nimbusds`, `com.vaadin` still publishes 
   A * com.nimbusds                         2020-08..2026-07 4.0                  |.......=============|
   R   com.vaadin                           2025-07..2026-07 3.0.3                |.................===|
   ?   org.ligoj.plugin                     2026-07..2026-07 2.0.0                |...................=|
-  R   fish.payara.security.connectors      2024-05..2026-04 2.9.0                |...............=====|
+  R   fish.payara.security.connectors      2024-05..2026-04 2.9.0                |...............====.|
   R   org.bonitasoft.connectors            2026-04..2026-04 1.0.0-beta.1         |..................=.|
   R   org.apache.hadoop                    2026-03..2026-03 3.5.0                |..................=.|
     + 6 more: com.waveinformatica.skysso, io.github.swiyu-admin-ch, io.okdp, org.project-kessel, com.liferay, com.thetransactioncompany
@@ -839,7 +839,7 @@ com.headius.invokebinder  [fork: keep `com.headius`, `org.sahli.asciidoc.conflue
   R   org.springframework.cloud            2024-11..2026-06 4.3.4                |................====|
   R   com.lealceldeiro                     2025-02..2026-03 2.3.1                |................===.|
   R   ch.ifocusit.livingdoc                2025-05..2025-05 2.16                 |.................=..|
-  R   de.jcup.asp                          2021-09..2022-04 1.4.1                |.........===........|
+  R   de.jcup.asp                          2021-09..2022-04 1.4.1                |.........==.........|
     + 2 more: org.asciidoctor, org.jruby
 net.bytebuddy.agent  [fork: keep `net.bytebuddy`, `com.google.gerrit` still publishes the name]
   A * net.bytebuddy                        2017-05..2026-07 1.18.11              |.===================|
@@ -1170,7 +1170,7 @@ org.bouncycastle.pkix  [owned by `org.bouncycastle`; 63 other group(s) shade the
   A * org.bouncycastle                     2018-07..2026-07 1.85                 |...=================|
   ?   com.datarobot                        2026-07..2026-07 11.2.42              |...................=|
   R   com.exasol                           2024-03..2026-06 26.2.8               |..............======|
-  R   com.github.melin                     2026-04..2026-06 1.0.3                |...................=|
+  R   com.github.melin                     2026-04..2026-06 1.0.3                |..................==|
   R   de.tk.opensource                     2020-10..2026-06 1.2.3                |.......=============|
   R   com.alibaba.ververica                2022-10..2026-06 1.20-vvr-11.5.1-jdk11 |...........=========|
     + 58 more: org.apache.pinot, com.github.toolarium, io.streamnative.connectors, org.hyperledger.fabric, org.finos.legend.engine, org.apache.inlong, io.kestra.plugin, org.jetbrains, org.lucee, com.nhn.gameanvil, io.sermant, com.linecorp.armeria, (+46 more)
@@ -1677,7 +1677,7 @@ jakarta.security.auth.message  [no clear owner; `jakarta.authentication` is earl
   ?   org.apache.tomcat                    2020-11..2026-07 11.0.24              |........============|
 java.servlet.jsp  [no clear owner; `org.apache.tomcat` is earliest and most recent]
   ? * org.apache.tomcat                    2020-11..2026-07 9.0.120              |........============|
-  ?   com.heroku                           2024-05..2026-04 9.0.117.0            |...............=====|
+  ?   com.heroku                           2024-05..2026-04 9.0.117.0            |...............====.|
 java.servlet  [no clear owner; `jakarta.servlet` is earliest and most recent]
   ? * jakarta.servlet                      2019-08..2020-07 5.0.0-M2             |.....===............|
   ?   org.apache.tomcat                    2020-11..2026-07 9.0.120              |........============|
@@ -1694,7 +1694,7 @@ java.el  [no clear owner; `org.apache.tomcat` is earliest and most recent]
 java.annotation  [no clear owner; `javax.annotation` is earliest and most recent]
   ? * javax.annotation                     2017-09..2018-02 1.3.2                |.==.................|
   ?   org.apache.tomcat                    2020-09..2026-07 9.0.120              |.......=============|
-  ?   com.heroku                           2024-10..2026-04 9.0.117.0            |...............=====|
+  ?   com.heroku                           2024-10..2026-04 9.0.117.0            |...............====.|
   ?   one.gfw                              2023-03..2023-03 1.3.5                |............=.......|
   ?   org.rationalityfrontline.workaround  2021-02..2021-02 1.3.2-3.0.2          |........=...........|
   ?   com.guicedee.services                2019-11..2020-11 1.1.0.1-jre15        |......===...........|
