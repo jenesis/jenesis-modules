@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-07-31. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-01. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -16,7 +16,7 @@ Generated 2026-07-31. A module *drifts* when more than one groupId publishes the
 
 The table covers all **3658** multi-owner modules (of **37552** modules scanned).
 
-Timeline axis spans 2017-01 .. 2026-07 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
+Timeline axis spans 2017-01 .. 2026-08 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
 ## explicit-rules (37)
 
@@ -110,7 +110,7 @@ org.objectweb.asm  [explicit rule: owned by `org.ow2.asm`; 166 other group(s) re
   A * org.ow2.asm                          2017-07..2026-05 9.10.1               |.===================|
   ?   io.spicelabs                         2026-06..2026-07 0.16.2               |...................=|
   R   be.ugent.idlab.knows                 2025-09..2026-07 0.7.1                |.................===|
-  R   com.github.jnr                       2019-10..2026-07 0.39.2               |......==============|
+  R   com.github.jnr                       2019-10..2026-07 0.39.2               |.....===============|
   R   org.apache.iotdb                     2023-12..2026-07 2.0.10               |..............======|
   ?   org.virtuslab                        2026-07..2026-07 0.1.0-M1             |...................=|
     + 161 more: org.tiatesting, org.virtuslab.scala-cli, org.glassfish.main.extras, com.my-oli, org.teavm, io.github.mitsumi-solutions-develop, org.apache.geaflow, org.noear, net.corda, com.microsoft.azure.kusto, com.pinterest.psc, com.datadoghq, (+149 more)
@@ -754,7 +754,7 @@ org.apache.commons.compress  [fork: keep `org.apache.commons`, `io.github.tretho
   A * org.apache.commons                   2017-10..2025-07 1.28.0               |.=================..|
   R   io.github.trethore                   2026-02..2026-07 146.0.10-jcefgithub.7 |..................==|
   ?   ink.icoding.codex                    2026-07..2026-07 1.0.0                |...................=|
-  R   org.apache.grails                    2026-04..2026-07 7.1.4                |...................=|
+  R   org.apache.grails                    2026-04..2026-07 7.1.4                |..................==|
   R   org.apache.beam                      2024-06..2026-07 2.75.0               |...............=====|
   R   org.eclipse.tahu                     2024-06..2026-07 1.0.20               |...............=====|
     + 35 more: com.mobidevelop.robovm, org.apache.flink, com.alibaba.ververica, org.apache.pinot, org.apache.parquet, org.apache.druid.extensions, com.theartos, me.bechberger, com.jlpka.langidentify, io.acryl, com.jlpka, io.codechicken, (+23 more)
@@ -1615,7 +1615,7 @@ org.apache.commons.cli  [no clear owner; `commons-cli` is earliest and most rece
   ?   org.apktool                          2023-12..2026-07 3.0.3                |..............======|
   ?   org.teavm                            2024-04..2026-05 0.14.1               |...............=====|
   ?   io.github.vdaburon                   2024-01..2026-05 5.1                  |..............======|
-  ?   com.nanolaba                         2025-07..2026-04 1.2                  |.................===|
+  ?   com.nanolaba                         2025-07..2026-04 1.2                  |.................==.|
   ?   com.ericsson.bss.cassandra.ecaudit   2024-08..2026-03 3.1.5                |...............====.|
     + 25 more: org.imixs.bpmn, io.github.gvergine, com.amazonaws, io.github.706412584, com.legsem.legstar, dev.walgo, org.apache.phoenix.thirdparty, org.apache.meecrowave, org.apache.james, net.thisptr, us.poliscore, com.github.oboehm, (+13 more)
 com.google.api.client  [no clear owner; `com.google.http-client` is earliest and most recent]
@@ -2083,7 +2083,7 @@ mslinks  [no clear owner; `com.github.vatbub` is earliest and most recent]
   ? * com.github.vatbub                    2020-09..2021-07 1.0.6.2              |.......===..........|
   ?   org.jabref                           2026-02..2026-04 1.2                  |..................=.|
 graphql.java.tools  [no clear owner; `com.graphql-java-kickstart` is earliest and most recent]
-  ? * com.graphql-java-kickstart           2023-08..2025-04 14.0.1               |.............=====..|
+  ? * com.graphql-java-kickstart           2023-08..2025-04 14.0.1               |.............====...|
   ?   io.github.graphql-java-kickstart     2026-03..2026-04 14.0.2               |..................=.|
 org.java_websocket  [no clear owner; `org.java-websocket` is earliest and most recent]
   ? * org.java-websocket                   2023-07..2024-12 1.6.0                |.............====...|
