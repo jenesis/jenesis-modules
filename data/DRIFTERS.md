@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-01. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-02. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -807,7 +807,7 @@ net.bytebuddy  [fork: keep `net.bytebuddy`, `de.gematik.test` still publishes th
   ?   com.mysticalrzc                      2026-06..2026-07 0.0.3                |...................=|
   ?   io.github.praveenkpandu              2026-06..2026-06 0.1.0-alpha          |...................=|
   ?   com.logitags                         2026-06..2026-06 2.3                  |...................=|
-  R   com.jcabi                            2025-11..2026-05 1.9.0                |..................==|
+  R   com.jcabi                            2025-11..2026-05 1.9.0                |..................=.|
     + 126 more: org.lucee, io.github.lucientong, dev.jorel, io.github.rocketbunny727, io.github.smallfast, net.aivory, ai.superstream, io.github.mlanett, com.appland, io.github.jlapugot.chronoguard, io.github.quiethappiness, com.graphql-java, (+114 more)
 org.apache.logging.log4j  [fork: keep `org.apache.logging.log4j`, `io.github.beehive-lab` still publishes the name]
   A * org.apache.logging.log4j             2017-11..2026-07 2.25.5               |..==================|
@@ -1244,7 +1244,7 @@ roaringbitmap  [owned by `org.roaringbitmap` (groupId minus TLD is the module pr
   A * org.roaringbitmap                    2023-09..2026-07 1.6.17               |.............=======|
   ?   com.atomgraph.etl.csv                2026-06..2026-07 2.2.1                |...................=|
   R   org.apache.celeborn                  2024-06..2026-04 0.6.3                |...............====.|
-  R   org.bitlap                           2023-10..2023-10 1.0.1.0              |..............=.....|
+  R   org.bitlap                           2023-10..2023-10 1.0.1.0              |.............=......|
 osgi.core  [owned by `org.osgi` (groupId minus TLD is the module prefix); 2 other group(s) shade the name]
   ? * org.osgi                             2020-12..2020-12 8.0.0                |........=...........|
   A   org.apache.karaf                     2022-04..2025-01 4.4.7                |..........=======...|
@@ -1613,7 +1613,7 @@ java.xml.bind  [no clear owner; `javax.xml.bind` is earliest and most recent]
 org.apache.commons.cli  [no clear owner; `commons-cli` is earliest and most recent]
   ? * commons-cli                          2023-10..2025-11 1.11.0               |.............======.|
   ?   org.apktool                          2023-12..2026-07 3.0.3                |..............======|
-  ?   org.teavm                            2024-04..2026-05 0.14.1               |...............=====|
+  ?   org.teavm                            2024-04..2026-05 0.14.1               |..............======|
   ?   io.github.vdaburon                   2024-01..2026-05 5.1                  |..............======|
   ?   com.nanolaba                         2025-07..2026-04 1.2                  |.................==.|
   ?   com.ericsson.bss.cassandra.ecaudit   2024-08..2026-03 3.1.5                |...............====.|
@@ -2070,7 +2070,7 @@ java.json.bind  [no clear owner; `javax.json.bind` is earliest and most recent]
   ?   jakarta.json.bind                    2019-01..2019-08 1.0.2                |....==..............|
     + 5 more: io.zeleo.application, org.keycloak, com.github.robozonky.distribution, com.github.robozonky, net.redpipe
 jam.common  [no clear owner; `sk.annotation.library.jam` is earliest and most recent]
-  ? * sk.annotation.library.jam            2022-01..2026-05 0.9.21               |..........==========|
+  ? * sk.annotation.library.jam            2022-01..2026-05 0.9.21               |..........=========.|
   ?   sk.annotation.projects.signito       2022-12..2022-12 0.9.53               |............=.......|
 org.apache.commons.dbutils  [no clear owner; `commons-dbutils` is earliest and most recent]
   ? * commons-dbutils                      2023-08..2023-09 1.8.1                |.............=......|
