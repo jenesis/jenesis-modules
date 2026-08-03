@@ -34,3 +34,4 @@
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/redis/root/3.0.1/root-3.0.1.jar returned status 404
 8.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/redis/root/8.9.0/root-8.9.0.jar returned status 404
 8.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/redis/root/8.9.1/root-8.9.1.jar returned status 404
+8.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zeebe/redis/root/8.9.2/root-8.9.2.jar returned status 404

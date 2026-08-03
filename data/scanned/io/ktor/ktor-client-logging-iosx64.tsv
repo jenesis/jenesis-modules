@@ -245,3 +245,4 @@
 3.5.0	metadata	2026-05-14T14:35:39Z	
 3.5.1		2026-06-25T11:29:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-iosx64/3.5.1/ktor-client-logging-iosx64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-25T11:29:38Z	
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-logging-iosx64/3.5.2/ktor-client-logging-iosx64-3.5.2.jar returned status 404

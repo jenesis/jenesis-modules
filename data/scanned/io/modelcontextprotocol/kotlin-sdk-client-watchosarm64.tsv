@@ -10,6 +10,7 @@
 0.13.0	metadata	2026-06-02T12:10:25Z	
 0.14.0		2026-06-30T21:43:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/modelcontextprotocol/kotlin-sdk-client-watchosarm64/0.14.0/kotlin-sdk-client-watchosarm64-0.14.0.jar returned status 404
 0.14.0	metadata	2026-06-30T21:43:28Z	
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/modelcontextprotocol/kotlin-sdk-client-watchosarm64/0.15.0/kotlin-sdk-client-watchosarm64-0.15.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/modelcontextprotocol/kotlin-sdk-client-watchosarm64/0.7.0/kotlin-sdk-client-watchosarm64-0.7.0.jar returned status 404
 0.7.0	metadata	2025-09-11T19:15:59Z	
 0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/modelcontextprotocol/kotlin-sdk-client-watchosarm64/0.7.2/kotlin-sdk-client-watchosarm64-0.7.2.jar returned status 404

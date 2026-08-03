@@ -62,3 +62,4 @@
 3.5.0	metadata	2026-05-14T14:35:19Z	
 3.5.1		2026-06-25T11:30:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-csrf-iosarm64/3.5.1/ktor-server-csrf-iosarm64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-25T11:30:01Z	
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-csrf-iosarm64/3.5.2/ktor-server-csrf-iosarm64-3.5.2.jar returned status 404

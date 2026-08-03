@@ -36,6 +36,7 @@
 0.12.1	metadata	2026-07-14T21:03:24Z	
 0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-analytics-public-iosx64/0.13.0/kmp-analytics-public-iosx64-0.13.0.jar returned status 404
 0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-analytics-public-iosx64/0.13.1/kmp-analytics-public-iosx64-0.13.1.jar returned status 404
+0.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-analytics-public-iosx64/0.13.2/kmp-analytics-public-iosx64-0.13.2.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-analytics-public-iosx64/0.2.0/kmp-analytics-public-iosx64-0.2.0.jar returned status 404
 0.2.0	metadata	2025-07-24T18:46:35Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-analytics-public-iosx64/0.3.0/kmp-analytics-public-iosx64-0.3.0.jar returned status 404

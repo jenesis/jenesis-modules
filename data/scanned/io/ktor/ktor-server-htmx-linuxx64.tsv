@@ -14,3 +14,4 @@
 3.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-htmx-linuxx64/3.4.3/ktor-server-htmx-linuxx64-3.4.3.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-htmx-linuxx64/3.5.0/ktor-server-htmx-linuxx64-3.5.0.jar returned status 404
 3.5.1		2026-06-25T10:55:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-htmx-linuxx64/3.5.1/ktor-server-htmx-linuxx64-3.5.1.jar returned status 404
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-htmx-linuxx64/3.5.2/ktor-server-htmx-linuxx64-3.5.2.jar returned status 404

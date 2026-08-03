@@ -65,3 +65,4 @@
 3.5.0	metadata	2026-05-14T14:34:56Z	
 3.5.1		2026-06-25T11:29:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-call-id-watchossimulatorarm64/3.5.1/ktor-call-id-watchossimulatorarm64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-25T11:29:55Z	
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-call-id-watchossimulatorarm64/3.5.2/ktor-call-id-watchossimulatorarm64-3.5.2.jar returned status 404

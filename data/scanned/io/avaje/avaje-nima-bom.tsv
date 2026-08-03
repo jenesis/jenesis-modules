@@ -1,6 +1,7 @@
 1.10		2026-06-23T02:15:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-bom/1.10/avaje-nima-bom-1.10.jar returned status 404
 1.11		2026-07-06T11:27:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-bom/1.11/avaje-nima-bom-1.11.jar returned status 404
 1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-bom/1.12/avaje-nima-bom-1.12.jar returned status 404
+1.13-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-bom/1.13-RC1/avaje-nima-bom-1.13-RC1.jar returned status 404
 1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-bom/1.5/avaje-nima-bom-1.5.jar returned status 404
 1.5-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-bom/1.5-RC1/avaje-nima-bom-1.5-RC1.jar returned status 404
 1.5-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-nima-bom/1.5-RC2/avaje-nima-bom-1.5-RC2.jar returned status 404
