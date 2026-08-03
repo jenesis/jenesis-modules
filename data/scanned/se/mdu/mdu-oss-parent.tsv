@@ -2,3 +2,6 @@
 64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/mdu/mdu-oss-parent/64/mdu-oss-parent-64.jar returned status 404
 65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/mdu/mdu-oss-parent/65/mdu-oss-parent-65.jar returned status 404
 66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/mdu/mdu-oss-parent/66/mdu-oss-parent-66.jar returned status 404
+67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/mdu/mdu-oss-parent/67/mdu-oss-parent-67.jar returned status 404
+68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/mdu/mdu-oss-parent/68/mdu-oss-parent-68.jar returned status 404
+70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/mdu/mdu-oss-parent/70/mdu-oss-parent-70.jar returned status 404

@@ -56,8 +56,13 @@
 0.19.5	metadata	2026-06-18T20:52:39Z	
 0.19.6		2026-06-22T10:03:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.19.6/openapi-macosarm64-0.19.6.jar returned status 404
 0.19.6	metadata	2026-06-22T10:03:37Z	
+0.19.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.19.7/openapi-macosarm64-0.19.7.jar returned status 404
 0.20.0-RC.1		2026-06-18T22:02:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.20.0-RC.1/openapi-macosarm64-0.20.0-RC.1.jar returned status 404
 0.20.0-RC.1	metadata	2026-06-18T22:02:44Z	
+0.20.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.20.0-RC.10/openapi-macosarm64-0.20.0-RC.10.jar returned status 404
+0.20.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.20.0-RC.11/openapi-macosarm64-0.20.0-RC.11.jar returned status 404
+0.20.0-RC.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.20.0-RC.12/openapi-macosarm64-0.20.0-RC.12.jar returned status 404
+0.20.0-RC.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.20.0-RC.13/openapi-macosarm64-0.20.0-RC.13.jar returned status 404
 0.20.0-RC.2		2026-06-23T18:50:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.20.0-RC.2/openapi-macosarm64-0.20.0-RC.2.jar returned status 404
 0.20.0-RC.2	metadata	2026-06-23T18:50:27Z	
 0.20.0-RC.3		2026-06-24T21:03:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.20.0-RC.3/openapi-macosarm64-0.20.0-RC.3.jar returned status 404
@@ -72,3 +77,4 @@
 0.20.0-RC.7	metadata	2026-07-16T20:51:21Z	
 0.20.0-RC.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.20.0-RC.8/openapi-macosarm64-0.20.0-RC.8.jar returned status 404
 0.20.0-RC.8	metadata	2026-07-17T08:41:22Z	
+0.20.0-RC.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-macosarm64/0.20.0-RC.9/openapi-macosarm64-0.20.0-RC.9.jar returned status 404

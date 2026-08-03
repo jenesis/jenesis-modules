@@ -155,3 +155,5 @@
 1.7.0		2026-07-06T17:53:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/version-catalog/1.7.0/version-catalog-1.7.0.jar returned status 404
 1.7.1		2026-07-07T18:58:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/version-catalog/1.7.1/version-catalog-1.7.1.jar returned status 404
 1.7.2		2026-07-08T19:14:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/version-catalog/1.7.2/version-catalog-1.7.2.jar returned status 404
+1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/version-catalog/1.7.3/version-catalog-1.7.3.jar returned status 404
+1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/version-catalog/1.7.4/version-catalog-1.7.4.jar returned status 404

@@ -33,3 +33,5 @@
 1.7.0		2026-07-06T17:53:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-linuxx64/1.7.0/http-linuxx64-1.7.0.jar returned status 404
 1.7.1		2026-07-07T18:58:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-linuxx64/1.7.1/http-linuxx64-1.7.1.jar returned status 404
 1.7.2		2026-07-08T19:14:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-linuxx64/1.7.2/http-linuxx64-1.7.2.jar returned status 404
+1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-linuxx64/1.7.3/http-linuxx64-1.7.3.jar returned status 404
+1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-linuxx64/1.7.4/http-linuxx64-1.7.4.jar returned status 404

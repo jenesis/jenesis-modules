@@ -68,3 +68,5 @@
 1.7.1	metadata	2026-07-07T18:58:21Z	
 1.7.2		2026-07-08T19:14:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-auth-iossimulatorarm64/1.7.2/http-auth-iossimulatorarm64-1.7.2.jar returned status 404
 1.7.2	metadata	2026-07-08T19:14:47Z	
+1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-auth-iossimulatorarm64/1.7.3/http-auth-iossimulatorarm64-1.7.3.jar returned status 404
+1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-auth-iossimulatorarm64/1.7.4/http-auth-iossimulatorarm64-1.7.4.jar returned status 404

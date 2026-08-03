@@ -13,3 +13,4 @@
 0.2.1	LinuxX86_64	2026-06-23T21:24:15Z	
 0.2.1	MacosArm64	2026-06-23T21:24:15Z	
 0.2.1	MacosX86_64	2026-06-23T21:24:15Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/microfilm/microfilm-cwebp/0.3.0/microfilm-cwebp-0.3.0.jar returned status 404

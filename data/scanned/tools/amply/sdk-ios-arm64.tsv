@@ -6,6 +6,8 @@
 0.1.5	metadata	2025-11-05T12:32:44Z	
 0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.1.7/sdk-ios-arm64-0.1.7.jar returned status 404
 0.1.7	metadata	2025-11-12T23:58:31Z	
+0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.10.0/sdk-ios-arm64-0.10.0.jar returned status 404
+0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.10.1/sdk-ios-arm64-0.10.1.jar returned status 404
 0.2.6		2026-05-17T11:33:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.2.6/sdk-ios-arm64-0.2.6.jar returned status 404
 0.2.6	metadata	2026-05-17T11:33:57Z	
 0.3.0		2026-05-20T13:48:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.3.0/sdk-ios-arm64-0.3.0.jar returned status 404
@@ -31,3 +33,7 @@
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.6.0/sdk-ios-arm64-0.6.0.jar returned status 404
 0.6.0	metadata	2026-07-17T13:59:08Z	
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.6.1/sdk-ios-arm64-0.6.1.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.7.0/sdk-ios-arm64-0.7.0.jar returned status 404
+0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.8.0/sdk-ios-arm64-0.8.0.jar returned status 404
+0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.9.0/sdk-ios-arm64-0.9.0.jar returned status 404
+0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/amply/sdk-ios-arm64/0.9.1/sdk-ios-arm64-0.9.1.jar returned status 404
