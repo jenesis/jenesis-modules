@@ -326,6 +326,8 @@
 0.3.13-dev02+0552812	metadata	2026-07-14T23:50:15Z	
 0.3.13-dev03+2cf919b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.13-dev03+2cf919b/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.13-dev03+2cf919b.jar returned status 404
 0.3.13-dev03+2cf919b	metadata	2026-07-17T01:17:10Z	
+0.3.13-dev06+3d2912b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.13-dev06+3d2912b/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.13-dev06+3d2912b.jar returned status 404
+0.3.13-dev07+526f216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.13-dev07+526f216/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.13-dev07+526f216.jar returned status 404
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.2/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.2.jar returned status 404
 0.3.2	metadata	2025-08-14T13:18:40Z	
 0.3.2-dev01+b3b533f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.2-dev01+b3b533f/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.2-dev01+b3b533f.jar returned status 404

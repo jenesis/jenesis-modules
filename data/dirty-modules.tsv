@@ -838,3 +838,13 @@ org.snmp4j
 org.snmp4j.agent
 org.apache.commons.beanutils2
 org.jspecify
+org.bitbucket.seqly
+elfeatures
+easylauncher.modlocator.neoforge
+easylauncher.modlocator.forge
+org.omnifaces
+org.jobrunr.micronaut.annotations
+org.jobrunr.core
+org.jobrunr.micronaut
+org.jobrunr.quarkus
+org.jobrunr.quarkus.deployment

@@ -429,3 +429,5 @@
 4.3.2-dev02+6c030fa			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-watchosarm32/4.3.2-dev02+6c030fa/maven-central-portal-kotlin-api-watchosarm32-4.3.2-dev02+6c030fa.jar returned status 404
 4.3.2-dev02+6c030fa	metadata	2026-07-17T01:36:39Z	
 4.4.1-dev01+46417cc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-watchosarm32/4.4.1-dev01+46417cc/maven-central-portal-kotlin-api-watchosarm32-4.4.1-dev01+46417cc.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-watchosarm32/4.5.0/maven-central-portal-kotlin-api-watchosarm32-4.5.0.jar returned status 404
+4.5.1-dev01+60ab337			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-watchosarm32/4.5.1-dev01+60ab337/maven-central-portal-kotlin-api-watchosarm32-4.5.1-dev01+60ab337.jar returned status 404

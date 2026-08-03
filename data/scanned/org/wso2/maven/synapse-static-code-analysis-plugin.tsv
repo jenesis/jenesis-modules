@@ -8,6 +8,7 @@
 5.4.16		2026-04-22T17:37:02Z	
 5.4.17		2026-07-03T10:27:28Z	
 5.4.18			
+5.4.19			
 5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/synapse-static-code-analysis-plugin/5.4.2/synapse-static-code-analysis-plugin-5.4.2.jar returned status 404
 5.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/synapse-static-code-analysis-plugin/5.4.3/synapse-static-code-analysis-plugin-5.4.3.jar returned status 404
 5.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/synapse-static-code-analysis-plugin/5.4.4/synapse-static-code-analysis-plugin-5.4.4.jar returned status 404
