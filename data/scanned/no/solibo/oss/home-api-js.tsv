@@ -246,6 +246,8 @@
 1.7.9		2026-06-16T09:38:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.7.9/home-api-js-1.7.9.jar returned status 404
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.0/home-api-js-1.8.0.jar returned status 404
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.1/home-api-js-1.8.1.jar returned status 404
+1.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.10/home-api-js-1.8.10.jar returned status 404
+1.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.11/home-api-js-1.8.11.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.2/home-api-js-1.8.2.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.3/home-api-js-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.4/home-api-js-1.8.4.jar returned status 404
@@ -253,3 +255,4 @@
 1.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.6/home-api-js-1.8.6.jar returned status 404
 1.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.7/home-api-js-1.8.7.jar returned status 404
 1.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.8/home-api-js-1.8.8.jar returned status 404
+1.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.9/home-api-js-1.8.9.jar returned status 404

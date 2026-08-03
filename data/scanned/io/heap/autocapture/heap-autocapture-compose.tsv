@@ -21,3 +21,4 @@
 0.9.1		2026-05-28T17:13:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/autocapture/heap-autocapture-compose/0.9.1/heap-autocapture-compose-0.9.1.jar returned status 404
 0.9.2		2026-06-08T20:00:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/autocapture/heap-autocapture-compose/0.9.2/heap-autocapture-compose-0.9.2.jar returned status 404
 0.9.3		2026-07-02T21:08:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/autocapture/heap-autocapture-compose/0.9.3/heap-autocapture-compose-0.9.3.jar returned status 404
+0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/autocapture/heap-autocapture-compose/0.9.4/heap-autocapture-compose-0.9.4.jar returned status 404

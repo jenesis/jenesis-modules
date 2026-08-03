@@ -493,6 +493,8 @@
 1.7.9	metadata	2026-06-16T09:38:50Z	
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.0/sdk-iosarm64-1.8.0.jar returned status 404
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.1/sdk-iosarm64-1.8.1.jar returned status 404
+1.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.10/sdk-iosarm64-1.8.10.jar returned status 404
+1.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.11/sdk-iosarm64-1.8.11.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.2/sdk-iosarm64-1.8.2.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.3/sdk-iosarm64-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.4/sdk-iosarm64-1.8.4.jar returned status 404
@@ -500,5 +502,6 @@
 1.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.6/sdk-iosarm64-1.8.6.jar returned status 404
 1.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.7/sdk-iosarm64-1.8.7.jar returned status 404
 1.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.8/sdk-iosarm64-1.8.8.jar returned status 404
+1.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/1.8.9/sdk-iosarm64-1.8.9.jar returned status 404
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-iosarm64/unspecified/sdk-iosarm64-unspecified.jar returned status 404
 unspecified	metadata	2026-01-17T01:23:19Z	

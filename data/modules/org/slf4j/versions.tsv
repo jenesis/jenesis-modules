@@ -3215,3 +3215,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 3.0.0	named	org.apache.storm	storm-loadgen	2026-07-23T02:22:53Z	2.0.18
 3.0.0	named	org.apache.storm	storm-perf	2026-07-23T02:22:53Z	2.0.18
 0.19.0-958	named	org.jetbrains.kotlinx	kotlin-jupyter-script-classpath-shadowed	2026-07-24T02:17:35Z	2.0.17
+0.17.0-rc1	named	io.testomat	java-reporter-core	2026-07-29T23:56:37Z	2.0.9
+0.17.0-rc2	named	io.testomat	java-reporter-core	2026-07-31T23:56:27Z	2.0.9
+0.17.0-rc4	named	io.testomat	java-reporter-core	2026-07-31T23:56:29Z	2.0.9
+0.17.0-rc3	named	io.testomat	java-reporter-core	2026-07-31T23:56:31Z	2.0.9

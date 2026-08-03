@@ -40,3 +40,4 @@
 2.5.2	metadata	2026-05-02T15:03:49Z	
 2.5.3		2026-05-29T13:07:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/prepared/runner-test-initiative-tvossimulatorarm64/2.5.3/runner-test-initiative-tvossimulatorarm64-2.5.3.jar returned status 404
 2.5.3	metadata	2026-05-29T13:07:29Z	
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/prepared/runner-test-initiative-tvossimulatorarm64/2.6.0/runner-test-initiative-tvossimulatorarm64-2.6.0.jar returned status 404

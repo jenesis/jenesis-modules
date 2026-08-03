@@ -16,3 +16,4 @@
 2.2.4		2026-06-22T15:33:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-client-native-wasm-js/2.2.4/kotzilla-client-native-wasm-js-2.2.4.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-client-native-wasm-js/2.3.0/kotzilla-client-native-wasm-js-2.3.0.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-client-native-wasm-js/2.3.1/kotzilla-client-native-wasm-js-2.3.1.jar returned status 404
+2.3.2-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-client-native-wasm-js/2.3.2-RC1/kotzilla-client-native-wasm-js-2.3.2-RC1.jar returned status 404

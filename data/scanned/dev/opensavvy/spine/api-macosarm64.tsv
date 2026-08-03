@@ -6,6 +6,7 @@
 0.11.0	metadata	2026-06-09T20:07:46Z	
 0.12.0		2026-07-01T19:11:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/api-macosarm64/0.12.0/api-macosarm64-0.12.0.jar returned status 404
 0.12.0	metadata	2026-07-01T19:11:28Z	
+0.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/api-macosarm64/0.12.1/api-macosarm64-0.12.1.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/api-macosarm64/0.9.0/api-macosarm64-0.9.0.jar returned status 404
 0.9.0	metadata	2025-12-17T18:36:02Z	
 0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/spine/api-macosarm64/0.9.1/api-macosarm64-0.9.1.jar returned status 404

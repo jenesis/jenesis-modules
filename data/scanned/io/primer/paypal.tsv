@@ -39,3 +39,4 @@
 3.0.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/paypal/3.0.0-beta.2/paypal-3.0.0-beta.2.jar returned status 404
 3.0.0-beta.3		2026-06-25T13:13:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/paypal/3.0.0-beta.3/paypal-3.0.0-beta.3.jar returned status 404
 3.0.0-beta.4		2026-07-03T10:23:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/paypal/3.0.0-beta.4/paypal-3.0.0-beta.4.jar returned status 404
+3.0.0-beta.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/paypal/3.0.0-beta.5/paypal-3.0.0-beta.5.jar returned status 404

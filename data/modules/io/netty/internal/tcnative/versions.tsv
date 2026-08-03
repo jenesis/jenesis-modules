@@ -820,3 +820,5 @@
 4.135.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-24T00:18:50Z	2.0.72.Final
 4.136.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-25T00:44:24Z	2.0.72.Final
 2.3.0	named	com.scalekit	scalekit-sdk-java	2026-07-27T00:13:16Z	2.0.72.Final
+1.83.1	named	io.grpc	grpc-netty-shaded	2026-07-31T00:06:04Z	2.0.75.Final
+1.82.3	named	io.grpc	grpc-netty-shaded	2026-07-31T00:06:06Z	2.0.75.Final

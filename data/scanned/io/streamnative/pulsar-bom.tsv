@@ -38,6 +38,9 @@
 4.0.10.6		2026-06-25T11:14:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.0.10.6/pulsar-bom-4.0.10.6.jar returned status 404
 4.0.10.7		2026-07-06T02:31:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.0.10.7/pulsar-bom-4.0.10.7.jar returned status 404
 4.0.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.0.10.8/pulsar-bom-4.0.10.8.jar returned status 404
+4.0.10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.0.10.9/pulsar-bom-4.0.10.9.jar returned status 404
+4.0.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.0.11.1/pulsar-bom-4.0.11.1.jar returned status 404
+4.0.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.0.12.1/pulsar-bom-4.0.12.1.jar returned status 404
 4.0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.0.3.1/pulsar-bom-4.0.3.1.jar returned status 404
 4.0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.0.3.2/pulsar-bom-4.0.3.2.jar returned status 404
 4.0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.0.4.1/pulsar-bom-4.0.4.1.jar returned status 404
@@ -113,3 +116,4 @@
 4.2.1.6		2026-07-06T04:35:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.2.1.6/pulsar-bom-4.2.1.6.jar returned status 404
 4.2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.2.1.7/pulsar-bom-4.2.1.7.jar returned status 404
 4.2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.2.1.8/pulsar-bom-4.2.1.8.jar returned status 404
+4.2.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/pulsar-bom/4.2.1.9/pulsar-bom-4.2.1.9.jar returned status 404

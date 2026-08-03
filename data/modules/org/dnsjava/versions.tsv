@@ -254,3 +254,15 @@
 3.0.0-beta-2	named	org.apache.hbase	hbase-shaded-client	2026-07-16T02:22:03Z	3.6.1
 3.0.0-beta-2	named	org.apache.hbase	hbase-shaded-testing-util	2026-07-16T02:22:06Z	3.6.1
 1.1.0	named	ai.platon.gora	gora-core-shaded	2026-07-19T23:57:02Z	3.6.1
+0.57.0	named	io.simpleishard	trino-file	2026-07-29T00:04:03Z	3.6.1
+0.58.0	named	io.simpleishard	trino-file	2026-07-29T00:04:05Z	3.6.1
+0.60.0	named	io.simpleishard	trino-file	2026-07-29T00:04:08Z	3.6.1
+0.59.0	named	io.simpleishard	trino-file	2026-07-29T00:04:23Z	3.6.1
+0.62.0	named	io.simpleishard	trino-file	2026-07-30T00:03:44Z	3.6.1
+0.63.0	named	io.simpleishard	trino-file	2026-07-30T00:03:45Z	3.6.1
+0.61.0	named	io.simpleishard	trino-file	2026-07-30T00:03:45Z	3.6.1
+0.66.0	named	io.simpleishard	trino-file	2026-07-31T00:01:34Z	3.6.1
+0.64.0	named	io.simpleishard	trino-file	2026-07-31T00:01:35Z	3.6.1
+0.65.0	named	io.simpleishard	trino-file	2026-07-31T00:01:37Z	3.6.1
+0.66.1	named	io.simpleishard	trino-file	2026-08-01T00:00:21Z	3.6.1
+0.67.0	named	io.simpleishard	trino-file	2026-08-02T00:02:41Z	3.6.1
