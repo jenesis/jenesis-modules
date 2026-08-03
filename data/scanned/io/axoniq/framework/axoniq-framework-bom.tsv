@@ -5,3 +5,5 @@
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/axoniq/framework/axoniq-framework-bom/5.2.0/axoniq-framework-bom-5.2.0.jar returned status 404
 5.2.0-RC1		2026-07-01T12:39:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/axoniq/framework/axoniq-framework-bom/5.2.0-RC1/axoniq-framework-bom-5.2.0-RC1.jar returned status 404
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/axoniq/framework/axoniq-framework-bom/5.2.1/axoniq-framework-bom-5.2.1.jar returned status 404
+5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/axoniq/framework/axoniq-framework-bom/5.2.2/axoniq-framework-bom-5.2.2.jar returned status 404
+5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/axoniq/framework/axoniq-framework-bom/5.3.0-RC1/axoniq-framework-bom-5.3.0-RC1.jar returned status 404
