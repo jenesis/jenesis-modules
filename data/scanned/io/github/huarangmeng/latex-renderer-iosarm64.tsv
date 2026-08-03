@@ -102,3 +102,11 @@
 1.4.7	metadata	2026-06-01T07:34:53Z	
 1.4.7-kt2.1.0		2026-06-01T07:34:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.4.7-kt2.1.0/latex-renderer-iosarm64-1.4.7-kt2.1.0.jar returned status 404
 1.4.7-kt2.1.0	metadata	2026-06-01T07:34:24Z	
+1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.4.8/latex-renderer-iosarm64-1.4.8.jar returned status 404
+1.4.8-kt2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.4.8-kt2.1.0/latex-renderer-iosarm64-1.4.8-kt2.1.0.jar returned status 404
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.0/latex-renderer-iosarm64-1.5.0.jar returned status 404
+1.5.0-kt2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.0-kt2.1.0/latex-renderer-iosarm64-1.5.0-kt2.1.0.jar returned status 404
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.1/latex-renderer-iosarm64-1.5.1.jar returned status 404
+1.5.1-kt2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.1-kt2.1.0/latex-renderer-iosarm64-1.5.1-kt2.1.0.jar returned status 404
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.2/latex-renderer-iosarm64-1.5.2.jar returned status 404
+1.5.2-kt2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.2-kt2.1.0/latex-renderer-iosarm64-1.5.2-kt2.1.0.jar returned status 404

@@ -1,1 +1,2 @@
 0.1.0		2026-07-07T10:53:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ksssssw/decoy-okhttp/0.1.0/decoy-okhttp-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ksssssw/decoy-okhttp/0.2.0/decoy-okhttp-0.2.0.jar returned status 404

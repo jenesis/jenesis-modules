@@ -4,3 +4,4 @@
 103		2026-06-21T13:59:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zozoitdd/ZzModuleAd/103/ZzModuleAd-103.jar returned status 404
 104		2026-06-25T04:12:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zozoitdd/ZzModuleAd/104/ZzModuleAd-104.jar returned status 404
 105		2026-06-25T07:08:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zozoitdd/ZzModuleAd/105/ZzModuleAd-105.jar returned status 404
+110			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zozoitdd/ZzModuleAd/110/ZzModuleAd-110.jar returned status 404

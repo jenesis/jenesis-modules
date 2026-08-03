@@ -237,3 +237,4 @@
 3.5.0	metadata	2026-05-14T14:35:47Z	
 3.5.1		2026-06-25T11:30:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-serialization-iosx64/3.5.1/ktor-client-serialization-iosx64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-25T11:30:00Z	
+3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-client-serialization-iosx64/3.5.2/ktor-client-serialization-iosx64-3.5.2.jar returned status 404

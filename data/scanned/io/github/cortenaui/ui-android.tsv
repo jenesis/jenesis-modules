@@ -1,3 +1,4 @@
 0.1.0-alpha		2026-05-22T15:56:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cortenaui/ui-android/0.1.0-alpha/ui-android-0.1.0-alpha.jar returned status 404
 0.2.0-alpha		2026-05-26T05:22:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cortenaui/ui-android/0.2.0-alpha/ui-android-0.2.0-alpha.jar returned status 404
 0.3.0-alpha		2026-06-23T18:32:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cortenaui/ui-android/0.3.0-alpha/ui-android-0.3.0-alpha.jar returned status 404
+0.3.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cortenaui/ui-android/0.3.1-alpha/ui-android-0.3.1-alpha.jar returned status 404

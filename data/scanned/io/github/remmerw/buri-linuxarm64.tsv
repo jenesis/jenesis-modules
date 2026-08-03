@@ -4,3 +4,5 @@
 0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/remmerw/buri-linuxarm64/0.0.7/buri-linuxarm64-0.0.7.jar returned status 404
 0.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/remmerw/buri-linuxarm64/0.0.8/buri-linuxarm64-0.0.8.jar returned status 404
 0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/remmerw/buri-linuxarm64/0.1.0/buri-linuxarm64-0.1.0.jar returned status 404
+0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/remmerw/buri-linuxarm64/0.1.1/buri-linuxarm64-0.1.1.jar returned status 404
+0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/remmerw/buri-linuxarm64/0.1.2/buri-linuxarm64-0.1.2.jar returned status 404

@@ -1,3 +1,6 @@
+0.0.1-snapshot01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/0.0.1-snapshot01/FcrUIScene-0.0.1-snapshot01.jar returned status 404
+0.0.1-snapshot02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/0.0.1-snapshot02/FcrUIScene-0.0.1-snapshot02.jar returned status 404
+0.0.1-snapshot03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/0.0.1-snapshot03/FcrUIScene-0.0.1-snapshot03.jar returned status 404
 3.0.0-test-03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/3.0.0-test-03/FcrUIScene-3.0.0-test-03.jar returned status 404
 3.0.0-test-04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/3.0.0-test-04/FcrUIScene-3.0.0-test-04.jar returned status 404
 3.0.0-test-05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/3.0.0-test-05/FcrUIScene-3.0.0-test-05.jar returned status 404
@@ -27,6 +30,7 @@
 3.11.0-rc.7-test		2026-06-29T09:37:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/3.11.0-rc.7-test/FcrUIScene-3.11.0-rc.7-test.jar returned status 404
 3.11.0-rc.7.1		2026-07-01T15:13:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/3.11.0-rc.7.1/FcrUIScene-3.11.0-rc.7.1.jar returned status 404
 3.11.0-rc.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/3.11.0-rc.9/FcrUIScene-3.11.0-rc.9.jar returned status 404
+3.11.0-rc.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/3.11.0-rc.9.1/FcrUIScene-3.11.0-rc.9.1.jar returned status 404
 3.11.1-rc.1		2026-06-13T07:11:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/3.11.1-rc.1/FcrUIScene-3.11.1-rc.1.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/3.2.0/FcrUIScene-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/FcrUIScene/3.3.0/FcrUIScene-3.3.0.jar returned status 404

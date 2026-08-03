@@ -36,6 +36,7 @@
 7c1ff5c	metadata	2026-07-10T14:23:39Z	
 81f3721		2026-06-25T19:16:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iossimulatorarm64/81f3721/haversine-iossimulatorarm64-81f3721.jar returned status 404
 81f3721	metadata	2026-06-25T19:16:40Z	
+83e94ee			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iossimulatorarm64/83e94ee/haversine-iossimulatorarm64-83e94ee.jar returned status 404
 849ac9d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iossimulatorarm64/849ac9d/haversine-iossimulatorarm64-849ac9d.jar returned status 404
 849ac9d	metadata	2026-04-13T13:21:21Z	
 850a058		2026-06-03T22:59:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iossimulatorarm64/850a058/haversine-iossimulatorarm64-850a058.jar returned status 404
@@ -75,5 +76,6 @@ f15bb00		2026-07-06T14:34:32Z	IOException: Tail request on https://maven-central
 f15bb00	metadata	2026-07-06T14:34:32Z	
 f785b37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iossimulatorarm64/f785b37/haversine-iossimulatorarm64-f785b37.jar returned status 404
 f785b37	metadata	2026-04-13T11:34:52Z	
+f801265			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iossimulatorarm64/f801265/haversine-iossimulatorarm64-f801265.jar returned status 404
 f8d8bd7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iossimulatorarm64/f8d8bd7/haversine-iossimulatorarm64-f8d8bd7.jar returned status 404
 fcbc26a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/coredevices/haversine/haversine-iossimulatorarm64/fcbc26a/haversine-iossimulatorarm64-fcbc26a.jar returned status 404
