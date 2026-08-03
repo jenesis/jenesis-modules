@@ -30,3 +30,4 @@
 7.0.0.Alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/oslc4j/core/oslc4j-core-build/7.0.0.Alpha8/oslc4j-core-build-7.0.0.Alpha8.jar returned status 404
 7.0.0.Alpha9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/oslc4j/core/oslc4j-core-build/7.0.0.Alpha9/oslc4j-core-build-7.0.0.Alpha9.jar returned status 404
 7.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/oslc4j/core/oslc4j-core-build/7.0.0.Beta1/oslc4j-core-build-7.0.0.Beta1.jar returned status 404
+7.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/oslc4j/core/oslc4j-core-build/7.0.0.Beta2/oslc4j-core-build-7.0.0.Beta2.jar returned status 404

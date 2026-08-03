@@ -289,6 +289,7 @@
 2026.7.4-3.17.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-tanstack-virtual-core-js/2026.7.4-3.17.4/kotlin-tanstack-virtual-core-js-2026.7.4-3.17.4.jar returned status 404
 2026.7.5-3.17.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-tanstack-virtual-core-js/2026.7.5-3.17.4/kotlin-tanstack-virtual-core-js-2026.7.5-3.17.4.jar returned status 404
 2026.7.6-3.17.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-tanstack-virtual-core-js/2026.7.6-3.17.6/kotlin-tanstack-virtual-core-js-2026.7.6-3.17.6.jar returned status 404
+2026.7.7-3.17.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-tanstack-virtual-core-js/2026.7.7-3.17.6/kotlin-tanstack-virtual-core-js-2026.7.7-3.17.6.jar returned status 404
 3.0.0-beta.43-pre.493		2023-02-08T07:16:17Z	
 3.0.0-beta.43-pre.493-compat			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-tanstack-virtual-core-js/3.0.0-beta.43-pre.493-compat/kotlin-tanstack-virtual-core-js-3.0.0-beta.43-pre.493-compat.jar returned status 404
 3.0.0-beta.43-pre.494		2023-02-08T18:11:59Z	

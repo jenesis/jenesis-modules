@@ -1213,3 +1213,15 @@ v0.24.1	named	io.kestra	kestra-api-client	2025-10-03T07:53:57Z	2.17.1
 0.51.0	named	io.simpleishard	trino-file	2026-07-27T00:00:52Z	2.21.3
 0.54.0	named	io.simpleishard	trino-file	2026-07-28T00:02:06Z	2.21.3
 0.55.0	named	io.simpleishard	trino-file	2026-07-29T00:04:02Z	2.21.3
+0.7.1	named	org.lance	lance-spark-bundle-3.4_2.12	2026-07-31T00:04:33Z	2.17.1
+0.7.1	named	org.lance	lance-spark-bundle-3.4_2.13	2026-07-31T00:04:33Z	2.17.1
+0.7.0	named	org.lance	lance-spark-bundle-3.5_2.13	2026-07-31T00:04:34Z	2.17.1
+0.7.0	named	org.lance	lance-spark-bundle-4.0_2.13	2026-07-31T00:04:34Z	2.17.1
+0.7.1	named	org.lance	lance-spark-bundle-3.5_2.13	2026-07-31T00:04:35Z	2.17.1
+0.7.1	named	org.lance	lance-spark-bundle-4.0_2.13	2026-07-31T00:04:35Z	2.17.1
+0.7.0	named	org.lance	lance-spark-bundle-4.1_2.13	2026-07-31T00:04:35Z	2.17.1
+0.7.0	named	org.lance	lance-spark-bundle-3.4_2.13	2026-07-31T00:04:36Z	2.17.1
+0.7.1	named	org.lance	lance-spark-bundle-3.5_2.12	2026-07-31T00:04:36Z	2.17.1
+0.7.0	named	org.lance	lance-spark-bundle-3.5_2.12	2026-07-31T00:04:37Z	2.17.1
+0.7.1	named	org.lance	lance-spark-bundle-4.1_2.13	2026-07-31T00:04:37Z	2.17.1
+0.7.0	named	org.lance	lance-spark-bundle-3.4_2.12	2026-07-31T00:04:38Z	2.17.1

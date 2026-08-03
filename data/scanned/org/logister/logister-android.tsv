@@ -3,3 +3,4 @@
 0.1.2		2026-06-20T22:44:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/logister/logister-android/0.1.2/logister-android-0.1.2.jar returned status 404
 0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/logister/logister-android/0.1.3/logister-android-0.1.3.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/logister/logister-android/0.2.0/logister-android-0.2.0.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/logister/logister-android/0.3.0/logister-android-0.3.0.jar returned status 404

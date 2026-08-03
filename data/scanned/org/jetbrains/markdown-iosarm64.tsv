@@ -33,3 +33,4 @@
 0.7.6	metadata	2026-07-07T15:17:07Z	
 0.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/markdown-iosarm64/0.7.7/markdown-iosarm64-0.7.7.jar returned status 404
 0.7.7	metadata	2026-07-10T08:49:06Z	
+0.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/markdown-iosarm64/0.7.8/markdown-iosarm64-0.7.8.jar returned status 404

@@ -176,3 +176,5 @@
 91.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/reporters/91.0.0/reporters-91.0.0.jar returned status 404
 91.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/reporters/91.0.1/reporters-91.0.1.jar returned status 404
 91.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/reporters/91.1.0/reporters-91.1.0.jar returned status 404
+91.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/reporters/91.2.0/reporters-91.2.0.jar returned status 404
+92.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/reporters/92.0.0/reporters-92.0.0.jar returned status 404
