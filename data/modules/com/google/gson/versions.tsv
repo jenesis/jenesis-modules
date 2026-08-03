@@ -5010,6 +5010,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.4.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-07-22T23:56:27Z	2.11.0
 3.38.0	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-07-23T00:25:04Z	2.10
 3.37.4	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-07-23T00:25:07Z	2.10
+4.1.0	named	com.snowflake	snowflake-kafka-connector	2026-07-23T00:25:48Z	2.8.9
 0.1.6-beta	named	dev.cjfravel	ariadne-spark35_2.12	2026-07-23T23:54:15Z	2.14.0
 0.1.6-beta	named	dev.cjfravel	ariadne-spark41_2.13	2026-07-23T23:54:18Z	2.14.0
 10.30.0.144632	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-07-24T00:16:04Z	2.14.0

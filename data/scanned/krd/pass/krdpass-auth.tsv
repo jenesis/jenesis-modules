@@ -1,3 +1,4 @@
 1.0.0		2026-07-06T06:30:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/krd/pass/krdpass-auth/1.0.0/krdpass-auth-1.0.0.jar returned status 404
 1.0.1		2026-07-09T11:39:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/krd/pass/krdpass-auth/1.0.1/krdpass-auth-1.0.1.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/krd/pass/krdpass-auth/1.1.0/krdpass-auth-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/krd/pass/krdpass-auth/1.1.1/krdpass-auth-1.1.1.jar returned status 404
