@@ -6,6 +6,7 @@
 3.11.3		2026-05-21T22:39:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-client-bom/3.11.3/couchbase-client-bom-3.11.3.jar returned status 404
 3.12.0		2026-06-01T19:12:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-client-bom/3.12.0/couchbase-client-bom-3.12.0.jar returned status 404
 3.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-client-bom/3.12.1/couchbase-client-bom-3.12.1.jar returned status 404
+3.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-client-bom/3.12.2/couchbase-client-bom-3.12.2.jar returned status 404
 3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-client-bom/3.9.0/couchbase-client-bom-3.9.0.jar returned status 404
 3.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-client-bom/3.9.1/couchbase-client-bom-3.9.1.jar returned status 404
 3.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/couchbase/client/couchbase-client-bom/3.9.2/couchbase-client-bom-3.9.2.jar returned status 404

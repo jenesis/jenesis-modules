@@ -1981,4 +1981,6 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 2.48.3	named	software.amazon.awssdk	bundle	2026-07-17T21:07:38Z	1.17.1
 2.48.3	named	software.amazon.awssdk	bundle-sdk	2026-07-17T21:07:43Z	1.17.1
 3.3.2	named	org.apache.tika	tika-parser-scientific-package	2026-07-22T02:27:13Z	1.22.0
+1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	ververica-connector-jdbc-common	2026-07-30T00:02:29Z	1.16.1
+1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	ververica-connector-jdbc	2026-07-30T00:02:31Z	1.16.1
 1.22.1	named	commons-codec	commons-codec	2026-07-30T23:55:33Z	1.22.1

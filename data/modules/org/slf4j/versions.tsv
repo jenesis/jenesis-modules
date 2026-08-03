@@ -3220,6 +3220,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 5.19.9	named	org.apache.activemq	activemq-all	2026-07-27T23:57:05Z	2.0.17
 1.12.14	named	org.open-metadata	elasticsearch-deps	2026-07-29T00:13:45Z	2.0.4
 0.17.0-rc1	named	io.testomat	java-reporter-core	2026-07-29T23:56:37Z	2.0.9
+1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	ververica-connector-mq5	2026-07-30T00:02:48Z	2.0.3
 1.13.2	named	org.open-metadata	elasticsearch-deps	2026-07-30T00:13:30Z	2.0.4
 2.0.0-rc1	named	org.open-metadata	elasticsearch-deps	2026-07-31T00:07:14Z	2.0.4
 0.17.0-rc2	named	io.testomat	java-reporter-core	2026-07-31T23:56:27Z	2.0.9

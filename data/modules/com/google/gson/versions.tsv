@@ -5032,6 +5032,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.11.1	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-07-27T23:55:20Z	2.11.0
 0.11.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-07-27T23:55:22Z	2.11.0
 0.12.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-07-28T23:56:31Z	2.11.0
+1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	ververica-connector-sls	2026-07-30T00:02:29Z	2.11.0
 3.11.10	named	io.jooby	jooby-graphql	2026-07-30T00:04:29Z	2.14.0
 10.31.0.145097	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-07-30T00:19:43Z	2.14.0
 10.31.0.145097	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-07-30T00:19:46Z	2.14.0

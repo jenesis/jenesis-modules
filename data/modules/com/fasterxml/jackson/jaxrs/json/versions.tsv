@@ -1216,6 +1216,8 @@ v0.24.1	named	io.kestra	kestra-api-client	2025-10-03T07:53:57Z	2.17.1
 0.55.0	named	ai.askamerica	askamerica-engine	2026-07-28T23:52:11Z	2.18.4
 0.56.0	named	ai.askamerica	askamerica-engine	2026-07-28T23:52:12Z	2.18.4
 0.55.0	named	io.simpleishard	trino-file	2026-07-29T00:04:02Z	2.21.3
+1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	flink-connector-mongodb	2026-07-30T00:02:29Z	2.14.3
+1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	ververica-connector-mongodb	2026-07-30T00:02:44Z	2.14.3
 0.7.1	named	org.lance	lance-spark-bundle-3.4_2.12	2026-07-31T00:04:33Z	2.17.1
 0.7.1	named	org.lance	lance-spark-bundle-3.4_2.13	2026-07-31T00:04:33Z	2.17.1
 0.7.0	named	org.lance	lance-spark-bundle-3.5_2.13	2026-07-31T00:04:34Z	2.17.1

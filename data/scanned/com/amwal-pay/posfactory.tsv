@@ -22,6 +22,8 @@
 0.0.121		2026-07-05T07:10:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/posfactory/0.0.121/posfactory-0.0.121.jar returned status 404
 0.0.122			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/posfactory/0.0.122/posfactory-0.0.122.jar returned status 404
 0.0.123			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/posfactory/0.0.123/posfactory-0.0.123.jar returned status 404
+0.0.124			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/posfactory/0.0.124/posfactory-0.0.124.jar returned status 404
+0.0.125			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/posfactory/0.0.125/posfactory-0.0.125.jar returned status 404
 0.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/posfactory/0.0.13/posfactory-0.0.13.jar returned status 404
 0.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/posfactory/0.0.14/posfactory-0.0.14.jar returned status 404
 0.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amwal-pay/posfactory/0.0.15/posfactory-0.0.15.jar returned status 404

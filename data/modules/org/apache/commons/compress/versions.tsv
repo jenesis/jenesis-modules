@@ -1366,3 +1366,4 @@
 1.0.0	named	ink.icoding.codex	cli	2026-07-16T07:45:58Z	1.28.0
 1.0.21	named	org.eclipse.tahu	tahu-host-compat	2026-07-28T00:27:21Z	1.28.0
 1.0.21	named	org.eclipse.tahu	tahu-edge-compat	2026-07-28T00:27:23Z	1.28.0
+1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	java-ci-tools	2026-07-30T00:02:29Z	1.26.1

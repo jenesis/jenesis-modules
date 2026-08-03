@@ -2528,3 +2528,5 @@ CANARY-2.3.1	named	org.linqs	psl-neural	2021-09-11T18:25:29Z	2.13.0
 0.5.0-jdk21	named	io.github.beehive-lab	gpu-llama3	2026-07-16T00:05:53Z	2.17.1
 1.0.0-jdk21	named	io.github.beehive-lab	gpu-llama3	2026-07-29T00:06:39Z	2.17.1
 1.0.0-jdk25	named	io.github.beehive-lab	gpu-llama3	2026-07-29T00:06:43Z	2.17.1
+1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	flink-connector-elasticsearch8	2026-07-30T00:02:27Z	2.17.0
+1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	ververica-connector-elasticsearch	2026-07-30T00:02:29Z	2.17.0

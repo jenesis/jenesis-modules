@@ -129,6 +129,12 @@
 2.0.61.android5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.61.android5/fastjson2-parent-2.0.61.android5.jar returned status 404
 2.0.61.android8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.61.android8/fastjson2-parent-2.0.61.android8.jar returned status 404
 2.0.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.62/fastjson2-parent-2.0.62.jar returned status 404
+2.0.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.63/fastjson2-parent-2.0.63.jar returned status 404
+2.0.63.android5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.63.android5/fastjson2-parent-2.0.63.android5.jar returned status 404
+2.0.63.android8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.63.android8/fastjson2-parent-2.0.63.android8.jar returned status 404
+2.0.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.64/fastjson2-parent-2.0.64.jar returned status 404
+2.0.64.android5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.64.android5/fastjson2-parent-2.0.64.android5.jar returned status 404
+2.0.64.android8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.64.android8/fastjson2-parent-2.0.64.android8.jar returned status 404
 2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.7/fastjson2-parent-2.0.7.jar returned status 404
 2.0.7.android			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.7.android/fastjson2-parent-2.0.7.android.jar returned status 404
 2.0.7.graal			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/alibaba/fastjson2/fastjson2-parent/2.0.7.graal/fastjson2-parent-2.0.7.graal.jar returned status 404
