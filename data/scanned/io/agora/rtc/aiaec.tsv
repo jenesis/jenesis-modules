@@ -23,6 +23,7 @@
 4.5.2.195.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/aiaec/4.5.2.195.4/aiaec-4.5.2.195.4.jar returned status 404
 4.5.2.195.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/aiaec/4.5.2.195.5/aiaec-4.5.2.195.5.jar returned status 404
 4.5.2.216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/aiaec/4.5.2.216/aiaec-4.5.2.216.jar returned status 404
+4.5.2.216.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/aiaec/4.5.2.216.1/aiaec-4.5.2.216.1.jar returned status 404
 4.5.2.216.helloTalk			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/aiaec/4.5.2.216.helloTalk/aiaec-4.5.2.216.helloTalk.jar returned status 404
 4.5.2.216.ht			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/aiaec/4.5.2.216.ht/aiaec-4.5.2.216.ht.jar returned status 404
 4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/aiaec/4.5.3/aiaec-4.5.3.jar returned status 404

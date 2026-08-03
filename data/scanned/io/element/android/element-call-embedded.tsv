@@ -39,6 +39,7 @@
 0.21.0-rc.1		2026-06-29T13:23:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/element-call-embedded/0.21.0-rc.1/element-call-embedded-0.21.0-rc.1.jar returned status 404
 0.22.0		2026-07-20T14:48:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/element-call-embedded/0.22.0/element-call-embedded-0.22.0.jar returned status 404
 0.22.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/element-call-embedded/0.22.0-rc.2/element-call-embedded-0.22.0-rc.2.jar returned status 404
+0.23.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/element-call-embedded/0.23.0-rc.1/element-call-embedded-0.23.0-rc.1.jar returned status 404
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/element-call-embedded/0.9.0/element-call-embedded-0.9.0.jar returned status 404
 0.9.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/element-call-embedded/0.9.0-rc.1/element-call-embedded-0.9.0-rc.1.jar returned status 404
 0.9.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/element/android/element-call-embedded/0.9.0-rc.2/element-call-embedded-0.9.0-rc.2.jar returned status 404

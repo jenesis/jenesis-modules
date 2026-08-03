@@ -1,2 +1,4 @@
 0.13.0		2026-07-18T01:13:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/flow/quarkus-flow-oidc-parent/0.13.0/quarkus-flow-oidc-parent-0.13.0.jar returned status 404
 0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/flow/quarkus-flow-oidc-parent/0.14.0/quarkus-flow-oidc-parent-0.14.0.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/flow/quarkus-flow-oidc-parent/0.15.0/quarkus-flow-oidc-parent-0.15.0.jar returned status 404
+0.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/flow/quarkus-flow-oidc-parent/0.15.1/quarkus-flow-oidc-parent-0.15.1.jar returned status 404

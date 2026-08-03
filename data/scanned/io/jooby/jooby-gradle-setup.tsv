@@ -42,6 +42,7 @@
 3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/3.10.0/jooby-gradle-setup-3.10.0.jar returned status 404
 3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/3.11.0/jooby-gradle-setup-3.11.0.jar returned status 404
 3.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/3.11.1/jooby-gradle-setup-3.11.1.jar returned status 404
+3.11.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/3.11.10/jooby-gradle-setup-3.11.10.jar returned status 404
 3.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/3.11.2/jooby-gradle-setup-3.11.2.jar returned status 404
 3.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/3.11.3/jooby-gradle-setup-3.11.3.jar returned status 404
 3.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/3.11.4/jooby-gradle-setup-3.11.4.jar returned status 404
@@ -105,3 +106,4 @@
 4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/4.5.1/jooby-gradle-setup-4.5.1.jar returned status 404
 4.5.2		2026-06-03T22:01:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/4.5.2/jooby-gradle-setup-4.5.2.jar returned status 404
 4.5.3		2026-07-01T13:54:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/4.5.3/jooby-gradle-setup-4.5.3.jar returned status 404
+4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-gradle-setup/4.5.4/jooby-gradle-setup-4.5.4.jar returned status 404

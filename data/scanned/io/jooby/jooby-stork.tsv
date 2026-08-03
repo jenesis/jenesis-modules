@@ -53,6 +53,7 @@
 3.10.0		2025-07-02T10:05:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/3.10.0/jooby-stork-3.10.0.jar returned status 404
 3.11.0		2025-07-21T09:59:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/3.11.0/jooby-stork-3.11.0.jar returned status 404
 3.11.1		2025-07-29T18:47:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/3.11.1/jooby-stork-3.11.1.jar returned status 404
+3.11.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/3.11.10/jooby-stork-3.11.10.jar returned status 404
 3.11.2		2025-08-07T18:17:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/3.11.2/jooby-stork-3.11.2.jar returned status 404
 3.11.3		2025-10-14T16:16:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/3.11.3/jooby-stork-3.11.3.jar returned status 404
 3.11.4		2025-10-20T13:07:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/3.11.4/jooby-stork-3.11.4.jar returned status 404
@@ -116,3 +117,4 @@
 4.5.1		2026-05-12T22:39:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/4.5.1/jooby-stork-4.5.1.jar returned status 404
 4.5.2		2026-06-03T22:01:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/4.5.2/jooby-stork-4.5.2.jar returned status 404
 4.5.3		2026-07-01T13:54:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/4.5.3/jooby-stork-4.5.3.jar returned status 404
+4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jooby/jooby-stork/4.5.4/jooby-stork-4.5.4.jar returned status 404

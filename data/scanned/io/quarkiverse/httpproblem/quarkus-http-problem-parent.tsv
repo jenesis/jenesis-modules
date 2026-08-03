@@ -2,3 +2,5 @@
 3.33.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/httpproblem/quarkus-http-problem-parent/3.33.0.CR1/quarkus-http-problem-parent-3.33.0.CR1.jar returned status 404
 3.33.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/httpproblem/quarkus-http-problem-parent/3.33.1/quarkus-http-problem-parent-3.33.1.jar returned status 404
 3.33.2		2026-07-03T10:13:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/httpproblem/quarkus-http-problem-parent/3.33.2/quarkus-http-problem-parent-3.33.2.jar returned status 404
+3.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/httpproblem/quarkus-http-problem-parent/3.38.0/quarkus-http-problem-parent-3.38.0.jar returned status 404
+3.38.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/httpproblem/quarkus-http-problem-parent/3.38.1/quarkus-http-problem-parent-3.38.1.jar returned status 404
