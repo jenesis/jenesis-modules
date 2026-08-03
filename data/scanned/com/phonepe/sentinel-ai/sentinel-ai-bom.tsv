@@ -15,3 +15,4 @@
 1.1.1-alpha8		2026-06-11T06:37:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phonepe/sentinel-ai/sentinel-ai-bom/1.1.1-alpha8/sentinel-ai-bom-1.1.1-alpha8.jar returned status 404
 1.1.2-SOLARIS-rc0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phonepe/sentinel-ai/sentinel-ai-bom/1.1.2-SOLARIS-rc0/sentinel-ai-bom-1.1.2-SOLARIS-rc0.jar returned status 404
 1.2.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phonepe/sentinel-ai/sentinel-ai-bom/1.2.0-alpha2/sentinel-ai-bom-1.2.0-alpha2.jar returned status 404
+1.2.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/phonepe/sentinel-ai/sentinel-ai-bom/1.2.0-alpha3/sentinel-ai-bom-1.2.0-alpha3.jar returned status 404

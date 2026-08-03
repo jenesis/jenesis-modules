@@ -174,8 +174,10 @@
 12.4.0.RELEASE	plain	2024-10-09T19:35:39Z	
 12.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/12.4.1.RELEASE/zgw-12.4.1.RELEASE.jar returned status 404
 12.4.1.RELEASE	plain	2024-11-19T10:47:22Z	
+12.4.3.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/12.4.3.RELEASE/zgw-12.4.3.RELEASE.jar returned status 404
 12.40.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/12.40.0.RELEASE/zgw-12.40.0.RELEASE.jar returned status 404
 12.40.0.RELEASE	plain	2026-07-15T11:17:01Z	
+12.41.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/12.41.0.RELEASE/zgw-12.41.0.RELEASE.jar returned status 404
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/12.5.0.RELEASE/zgw-12.5.0.RELEASE.jar returned status 404
 12.5.0.RELEASE	plain	2024-11-22T16:02:54Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/12.5.1.RELEASE/zgw-12.5.1.RELEASE.jar returned status 404
@@ -285,10 +287,12 @@
 13.37.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/13.37.0.RELEASE/zgw-13.37.0.RELEASE.jar returned status 404
 13.37.0.RELEASE	plain	2026-07-15T11:51:17Z	
 13.38.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/13.38.0.RELEASE/zgw-13.38.0.RELEASE.jar returned status 404
+13.39.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/13.39.0.RELEASE/zgw-13.39.0.RELEASE.jar returned status 404
 13.4.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/13.4.0.RELEASE/zgw-13.4.0.RELEASE.jar returned status 404
 13.4.0.RELEASE	plain	2025-10-20T15:47:32Z	
 13.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/13.4.1.RELEASE/zgw-13.4.1.RELEASE.jar returned status 404
 13.4.1.RELEASE	plain	2025-10-21T20:03:35Z	
+13.4.2.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/13.4.2.RELEASE/zgw-13.4.2.RELEASE.jar returned status 404
 13.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/13.5.0.RELEASE/zgw-13.5.0.RELEASE.jar returned status 404
 13.5.0.RELEASE	plain	2025-11-05T10:13:59Z	
 13.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zgw/13.5.1.RELEASE/zgw-13.5.1.RELEASE.jar returned status 404

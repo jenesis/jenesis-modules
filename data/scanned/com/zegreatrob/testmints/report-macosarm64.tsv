@@ -50,6 +50,9 @@
 12.6.35	metadata	2026-07-12T16:22:37Z	
 12.6.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/report-macosarm64/12.6.36/report-macosarm64-12.6.36.jar returned status 404
 12.6.36	metadata	2026-07-15T17:04:11Z	
+12.6.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/report-macosarm64/12.6.37/report-macosarm64-12.6.37.jar returned status 404
+12.6.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/report-macosarm64/12.6.38/report-macosarm64-12.6.38.jar returned status 404
+12.6.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/report-macosarm64/12.6.39/report-macosarm64-12.6.39.jar returned status 404
 12.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/report-macosarm64/12.6.6/report-macosarm64-12.6.6.jar returned status 404
 12.6.6	metadata	2026-03-24T12:19:10Z	
 12.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/report-macosarm64/12.6.7/report-macosarm64-12.6.7.jar returned status 404

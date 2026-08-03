@@ -1196,6 +1196,10 @@
 6.11.95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minreact-js/6.11.95/minreact-js-6.11.95.jar returned status 404
 6.11.96			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minreact-js/6.11.96/minreact-js-6.11.96.jar returned status 404
 6.11.97			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minreact-js/6.11.97/minreact-js-6.11.97.jar returned status 404
+6.11.99			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minreact-js/6.11.99/minreact-js-6.11.99.jar returned status 404
+6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minreact-js/6.12.0/minreact-js-6.12.0.jar returned status 404
+6.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minreact-js/6.12.1/minreact-js-6.12.1.jar returned status 404
+6.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minreact-js/6.12.2/minreact-js-6.12.2.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minreact-js/6.2.0/minreact-js-6.2.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minreact-js/6.2.1/minreact-js-6.2.1.jar returned status 404
 6.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minreact-js/6.2.10/minreact-js-6.2.10.jar returned status 404

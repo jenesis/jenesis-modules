@@ -83,3 +83,4 @@
 8.9.7545		2026-05-21T06:51:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/imsdk-plus/8.9.7545/imsdk-plus-8.9.7545.jar returned status 404
 9.0.7652		2026-05-29T07:52:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/imsdk-plus/9.0.7652/imsdk-plus-9.0.7652.jar returned status 404
 9.0.7654		2026-06-05T02:42:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/imsdk-plus/9.0.7654/imsdk-plus-9.0.7654.jar returned status 404
+9.0.7662			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/imsdk-plus/9.0.7662/imsdk-plus-9.0.7662.jar returned status 404

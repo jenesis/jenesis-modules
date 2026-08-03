@@ -6506,3 +6506,4 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 20.0.0	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_2.13	2026-07-31T02:13:12Z	2.22
 20.0.1	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_3	2026-07-31T02:13:12Z	2.22
 20.0.0	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_3	2026-07-31T02:13:12Z	2.22
+0.0.73	named	com.free-now.sauron.plugins	dependency-checker	2026-08-01T00:13:40Z	2.15.0
