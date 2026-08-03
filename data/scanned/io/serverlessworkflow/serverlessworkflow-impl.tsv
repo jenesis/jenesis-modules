@@ -40,6 +40,7 @@
 7.25.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/serverlessworkflow/serverlessworkflow-impl/7.25.1.Final/serverlessworkflow-impl-7.25.1.Final.jar returned status 404
 7.26.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/serverlessworkflow/serverlessworkflow-impl/7.26.0.Final/serverlessworkflow-impl-7.26.0.Final.jar returned status 404
 7.26.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/serverlessworkflow/serverlessworkflow-impl/7.26.1.Final/serverlessworkflow-impl-7.26.1.Final.jar returned status 404
+7.27.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/serverlessworkflow/serverlessworkflow-impl/7.27.0.Final/serverlessworkflow-impl-7.27.0.Final.jar returned status 404
 7.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/serverlessworkflow/serverlessworkflow-impl/7.3.0.Final/serverlessworkflow-impl-7.3.0.Final.jar returned status 404
 7.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/serverlessworkflow/serverlessworkflow-impl/7.4.0.Final/serverlessworkflow-impl-7.4.0.Final.jar returned status 404
 7.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/serverlessworkflow/serverlessworkflow-impl/7.5.0.Final/serverlessworkflow-impl-7.5.0.Final.jar returned status 404

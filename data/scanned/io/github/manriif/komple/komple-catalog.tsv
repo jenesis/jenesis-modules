@@ -1,4 +1,5 @@
 0.0.1		2026-07-15T21:43:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manriif/komple/komple-catalog/0.0.1/komple-catalog-0.0.1.jar returned status 404
+0.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manriif/komple/komple-catalog/0.0.10/komple-catalog-0.0.10.jar returned status 404
 0.0.2		2026-07-20T15:47:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manriif/komple/komple-catalog/0.0.2/komple-catalog-0.0.2.jar returned status 404
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manriif/komple/komple-catalog/0.0.3/komple-catalog-0.0.3.jar returned status 404
 0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manriif/komple/komple-catalog/0.0.4/komple-catalog-0.0.4.jar returned status 404

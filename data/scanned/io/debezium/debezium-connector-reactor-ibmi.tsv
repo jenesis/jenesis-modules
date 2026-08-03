@@ -74,3 +74,4 @@
 3.6.0.Beta2		2026-06-12T09:24:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-connector-reactor-ibmi/3.6.0.Beta2/debezium-connector-reactor-ibmi-3.6.0.Beta2.jar returned status 404
 3.6.0.CR1		2026-06-23T12:29:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-connector-reactor-ibmi/3.6.0.CR1/debezium-connector-reactor-ibmi-3.6.0.CR1.jar returned status 404
 3.6.0.Final		2026-07-01T09:42:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-connector-reactor-ibmi/3.6.0.Final/debezium-connector-reactor-ibmi-3.6.0.Final.jar returned status 404
+3.7.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-connector-reactor-ibmi/3.7.0.Alpha1/debezium-connector-reactor-ibmi-3.7.0.Alpha1.jar returned status 404

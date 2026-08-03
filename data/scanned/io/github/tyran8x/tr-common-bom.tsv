@@ -145,3 +145,4 @@
 4.1.0.20260720.1		2026-07-20T01:53:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tyran8x/tr-common-bom/4.1.0.20260720.1/tr-common-bom-4.1.0.20260720.1.jar returned status 404
 4.1.0.20260723.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tyran8x/tr-common-bom/4.1.0.20260723.1/tr-common-bom-4.1.0.20260723.1.jar returned status 404
 4.1.0.20260723.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tyran8x/tr-common-bom/4.1.0.20260723.2/tr-common-bom-4.1.0.20260723.2.jar returned status 404
+4.1.0.20260729.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tyran8x/tr-common-bom/4.1.0.20260729.1/tr-common-bom-4.1.0.20260729.1.jar returned status 404

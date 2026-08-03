@@ -22,6 +22,8 @@
 0.0.30		2026-07-01T02:04:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/digified-ekyc/0.0.30/digified-ekyc-0.0.30.jar returned status 404
 0.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/digified-ekyc/0.0.31/digified-ekyc-0.0.31.jar returned status 404
 0.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/digified-ekyc/0.0.32/digified-ekyc-0.0.32.jar returned status 404
+0.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/digified-ekyc/0.0.33/digified-ekyc-0.0.33.jar returned status 404
+0.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/digified-ekyc/0.0.34/digified-ekyc-0.0.34.jar returned status 404
 0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/digified-ekyc/0.0.4/digified-ekyc-0.0.4.jar returned status 404
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/digified-ekyc/0.0.5/digified-ekyc-0.0.5.jar returned status 404
 0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/digified-ekyc/0.0.6/digified-ekyc-0.0.6.jar returned status 404

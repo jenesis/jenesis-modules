@@ -4,3 +4,4 @@
 8.4.5.0		2026-05-26T21:14:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-digitalturbine/8.4.5.0/adapter-digitalturbine-8.4.5.0.jar returned status 404
 8.4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-digitalturbine/8.4.5.1/adapter-digitalturbine-8.4.5.1.jar returned status 404
 8.4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-digitalturbine/8.4.6.0/adapter-digitalturbine-8.4.6.0.jar returned status 404
+8.4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-digitalturbine/8.4.7.0/adapter-digitalturbine-8.4.7.0.jar returned status 404

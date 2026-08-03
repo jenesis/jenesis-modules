@@ -4,3 +4,5 @@
 0.0.30		2026-07-01T02:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/core-app-level-security/0.0.30/core-app-level-security-0.0.30.jar returned status 404
 0.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/core-app-level-security/0.0.31/core-app-level-security-0.0.31.jar returned status 404
 0.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/core-app-level-security/0.0.32/core-app-level-security-0.0.32.jar returned status 404
+0.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/core-app-level-security/0.0.33/core-app-level-security-0.0.33.jar returned status 404
+0.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digified/core-app-level-security/0.0.34/core-app-level-security-0.0.34.jar returned status 404

@@ -166,3 +166,4 @@
 2.9.0-beta01	metadata	2026-04-01T04:46:20Z	
 2.9.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/moriafly/salt-ui-iosarm64/2.9.0-beta02/salt-ui-iosarm64-2.9.0-beta02.jar returned status 404
 2.9.0-beta02	metadata	2026-04-26T06:04:42Z	
+3.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/moriafly/salt-ui-iosarm64/3.0.0-alpha01/salt-ui-iosarm64-3.0.0-alpha01.jar returned status 404

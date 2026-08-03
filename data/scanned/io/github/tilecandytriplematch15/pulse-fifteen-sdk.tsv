@@ -1,2 +1,4 @@
 15.0.0		2026-07-09T11:05:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tilecandytriplematch15/pulse-fifteen-sdk/15.0.0/pulse-fifteen-sdk-15.0.0.jar returned status 404
 15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tilecandytriplematch15/pulse-fifteen-sdk/15.0.1/pulse-fifteen-sdk-15.0.1.jar returned status 404
+15.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tilecandytriplematch15/pulse-fifteen-sdk/15.0.2/pulse-fifteen-sdk-15.0.2.jar returned status 404
+15.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tilecandytriplematch15/pulse-fifteen-sdk/15.0.3/pulse-fifteen-sdk-15.0.3.jar returned status 404

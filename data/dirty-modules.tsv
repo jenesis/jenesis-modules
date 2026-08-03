@@ -165,3 +165,8 @@ io.axoniq.framework.messagetransformation
 io.axoniq.framework.messaging
 io.axoniq.framework.eventstreaming
 io.paymos.sdk
+io.github.compress4j
+com.fasterxml.jackson.databind
+com.ethlo.time
+io.github.orangewest.trans
+com.github.sttk.errs
