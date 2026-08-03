@@ -793,8 +793,17 @@
 1.8.11	optimized	2026-07-21T18:45:02Z	
 1.8.12		2026-07-22T18:43:01Z	
 1.8.12	optimized	2026-07-22T18:43:07Z	
+1.8.13			
+1.8.14			
+1.8.15			
+1.8.16			
+1.8.17			
+1.8.18			
+1.8.19			
 1.8.2		2026-07-08T23:50:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/appflow-jvm/1.8.2/appflow-jvm-1.8.2.jar returned status 404
 1.8.2	optimized	2026-07-08T23:50:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/appflow-jvm/1.8.2/appflow-jvm-1.8.2-optimized.jar returned status 404
+1.8.20			
+1.8.21			
 1.8.3			
 1.8.3	optimized	2026-07-09T18:46:29Z	
 1.8.4			
