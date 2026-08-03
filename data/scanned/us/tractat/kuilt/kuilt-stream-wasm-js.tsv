@@ -2,3 +2,4 @@
 0.5.0		2026-06-15T03:19:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-stream-wasm-js/0.5.0/kuilt-stream-wasm-js-0.5.0.jar returned status 404
 0.6.0		2026-06-19T03:26:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-stream-wasm-js/0.6.0/kuilt-stream-wasm-js-0.6.0.jar returned status 404
 0.7.0		2026-07-03T12:40:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-stream-wasm-js/0.7.0/kuilt-stream-wasm-js-0.7.0.jar returned status 404
+0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-stream-wasm-js/0.7.2/kuilt-stream-wasm-js-0.7.2.jar returned status 404

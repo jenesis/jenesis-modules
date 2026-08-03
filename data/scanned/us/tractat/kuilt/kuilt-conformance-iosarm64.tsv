@@ -6,3 +6,4 @@
 0.6.0	metadata	2026-06-19T03:26:54Z	
 0.7.0		2026-07-03T12:40:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-conformance-iosarm64/0.7.0/kuilt-conformance-iosarm64-0.7.0.jar returned status 404
 0.7.0	metadata	2026-07-03T12:40:28Z	
+0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-conformance-iosarm64/0.7.2/kuilt-conformance-iosarm64-0.7.2.jar returned status 404

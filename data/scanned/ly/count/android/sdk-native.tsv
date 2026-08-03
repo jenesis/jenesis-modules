@@ -102,3 +102,4 @@
 26.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/count/android/sdk-native/26.1.2/sdk-native-26.1.2.jar returned status 404
 26.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/count/android/sdk-native/26.1.3/sdk-native-26.1.3.jar returned status 404
 26.1.4		2026-07-01T09:48:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/count/android/sdk-native/26.1.4/sdk-native-26.1.4.jar returned status 404
+26.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ly/count/android/sdk-native/26.1.5/sdk-native-26.1.5.jar returned status 404

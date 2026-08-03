@@ -160,6 +160,9 @@
 17.2.0	plain	2026-07-10T08:54:28Z	
 17.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-digital-prison-reporting-lib/17.3.0/hmpps-digital-prison-reporting-lib-17.3.0.jar returned status 404
 17.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-digital-prison-reporting-lib/17.4.0/hmpps-digital-prison-reporting-lib-17.4.0.jar returned status 404
+17.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-digital-prison-reporting-lib/17.4.1/hmpps-digital-prison-reporting-lib-17.4.1.jar returned status 404
+17.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-digital-prison-reporting-lib/17.5.0/hmpps-digital-prison-reporting-lib-17.5.0.jar returned status 404
+17.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-digital-prison-reporting-lib/17.5.1/hmpps-digital-prison-reporting-lib-17.5.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-digital-prison-reporting-lib/2.0.0/hmpps-digital-prison-reporting-lib-2.0.0.jar returned status 404
 2.0.0	plain	2024-01-09T17:40:22Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-digital-prison-reporting-lib/2.0.1/hmpps-digital-prison-reporting-lib-2.0.1.jar returned status 404

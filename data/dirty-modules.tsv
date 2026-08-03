@@ -612,3 +612,4 @@ ch.qos.logback.core
 kotlinx.serialization.json
 org.apache.commons.validator
 ee.bitweb.core
+uk.co.parnmatt.vector

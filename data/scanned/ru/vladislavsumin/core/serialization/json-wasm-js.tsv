@@ -1,3 +1,4 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/json-wasm-js/1.10.0/json-wasm-js-1.10.0.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/json-wasm-js/1.4.3/json-wasm-js-1.4.3.jar returned status 404
 1.4.3-jvm17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/json-wasm-js/1.4.3-jvm17/json-wasm-js-1.4.3-jvm17.jar returned status 404
 1.5.2		2026-05-30T13:35:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/vladislavsumin/core/serialization/json-wasm-js/1.5.2/json-wasm-js-1.5.2.jar returned status 404
