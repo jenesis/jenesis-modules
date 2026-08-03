@@ -1,6 +1,9 @@
 1.0.0		2026-06-27T11:53:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.0/crawlberg-android-1.0.0.jar returned status 404
 1.0.0-rc.2		2026-06-27T08:02:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.0-rc.2/crawlberg-android-1.0.0-rc.2.jar returned status 404
 1.0.1		2026-06-29T06:17:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.1/crawlberg-android-1.0.1.jar returned status 404
+1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.10/crawlberg-android-1.0.10.jar returned status 404
+1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.11/crawlberg-android-1.0.11.jar returned status 404
+1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.12/crawlberg-android-1.0.12.jar returned status 404
 1.0.2		2026-07-02T13:29:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.2/crawlberg-android-1.0.2.jar returned status 404
 1.0.3		2026-07-04T10:11:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.3/crawlberg-android-1.0.3.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.4/crawlberg-android-1.0.4.jar returned status 404
@@ -8,3 +11,7 @@
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.6/crawlberg-android-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.7/crawlberg-android-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.8/crawlberg-android-1.0.8.jar returned status 404
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.0.9/crawlberg-android-1.0.9.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.1.0/crawlberg-android-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.1.1/crawlberg-android-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xberg/crawlberg/android/crawlberg-android/1.1.2/crawlberg-android-1.1.2.jar returned status 404
