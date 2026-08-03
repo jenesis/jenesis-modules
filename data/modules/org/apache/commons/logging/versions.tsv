@@ -683,4 +683,8 @@
 3.3.2	named	org.apache.tika	tika-fetcher-http	2026-07-22T02:27:10Z	1.4.0
 3.3.2	named	org.apache.tika	tika-parser-advancedmedia-package	2026-07-22T02:27:13Z	1.4.0
 3.3.2	named	org.apache.tika	tika-pipes-reporter-opensearch	2026-07-22T02:27:13Z	1.4.0
+1.12.14	named	org.open-metadata	opensearch-deps	2026-07-29T00:13:44Z	1.3.5
+1.13.2	named	org.open-metadata	opensearch-deps	2026-07-30T00:13:44Z	1.3.5
+2.0.0-rc1	named	org.open-metadata	opensearch-deps	2026-07-31T00:07:27Z	1.3.5
 0.0.0-main-26f8f63	named	io.github.peterdowdy	lite-bfx-spark-scala_2.13	2026-07-31T02:22:42Z	1.3.0
+1.13.3	named	org.open-metadata	opensearch-deps	2026-08-01T00:05:57Z	1.3.5

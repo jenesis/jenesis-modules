@@ -6,6 +6,7 @@
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/RobotCore/11.0.0/RobotCore-11.0.0.jar returned status 404
 11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/RobotCore/11.1.0/RobotCore-11.1.0.jar returned status 404
 11.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/RobotCore/11.2.0/RobotCore-11.2.0.jar returned status 404
+11.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/RobotCore/11.2.1/RobotCore-11.2.1.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/RobotCore/6.2.0/RobotCore-6.2.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/RobotCore/6.2.1/RobotCore-6.2.1.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/firstinspires/ftc/RobotCore/7.0.0/RobotCore-7.0.0.jar returned status 404

@@ -243,6 +243,8 @@
 16.2.0.Dev01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-hibernate-parent/16.2.0.Dev01/infinispan-hibernate-parent-16.2.0.Dev01.jar returned status 404
 16.2.0.Dev02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-hibernate-parent/16.2.0.Dev02/infinispan-hibernate-parent-16.2.0.Dev02.jar returned status 404
 16.2.1		2026-06-04T13:17:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-hibernate-parent/16.2.1/infinispan-hibernate-parent-16.2.1.jar returned status 404
+16.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-hibernate-parent/16.2.2/infinispan-hibernate-parent-16.2.2.jar returned status 404
+16.3.0.Dev01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-hibernate-parent/16.3.0.Dev01/infinispan-hibernate-parent-16.3.0.Dev01.jar returned status 404
 9.2.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-hibernate-parent/9.2.0.CR1/infinispan-hibernate-parent-9.2.0.CR1.jar returned status 404
 9.2.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-hibernate-parent/9.2.0.CR2/infinispan-hibernate-parent-9.2.0.CR2.jar returned status 404
 9.2.0.CR3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-hibernate-parent/9.2.0.CR3/infinispan-hibernate-parent-9.2.0.CR3.jar returned status 404

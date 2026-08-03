@@ -176,3 +176,5 @@
 16.2.0.Dev01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-server-integration/16.2.0.Dev01/infinispan-server-integration-16.2.0.Dev01.jar returned status 404
 16.2.0.Dev02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-server-integration/16.2.0.Dev02/infinispan-server-integration-16.2.0.Dev02.jar returned status 404
 16.2.1		2026-06-04T13:17:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-server-integration/16.2.1/infinispan-server-integration-16.2.1.jar returned status 404
+16.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infinispan/infinispan-server-integration/16.2.2/infinispan-server-integration-16.2.2.jar returned status 404
+16.3.0.Dev01			

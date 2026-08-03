@@ -32,3 +32,5 @@
 5.4.2_for_spark_3		2026-04-16T14:45:05Z	
 5.4.3_for_spark_3		2026-05-26T16:24:36Z	
 5.5.0_for_spark_3			
+6.0.0_for_spark_3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-connector-apache-spark_2.13/6.0.0_for_spark_3/neo4j-connector-apache-spark_2.13-6.0.0_for_spark_3.jar returned status 404
+6.0.0_for_spark_4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-connector-apache-spark_2.13/6.0.0_for_spark_4/neo4j-connector-apache-spark_2.13-6.0.0_for_spark_4.jar returned status 404

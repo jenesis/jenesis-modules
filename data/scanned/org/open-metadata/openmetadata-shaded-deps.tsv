@@ -35,6 +35,7 @@
 1.12.11		2026-06-12T10:47:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.12.11/openmetadata-shaded-deps-1.12.11.jar returned status 404
 1.12.12		2026-06-24T09:29:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.12.12/openmetadata-shaded-deps-1.12.12.jar returned status 404
 1.12.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.12.13/openmetadata-shaded-deps-1.12.13.jar returned status 404
+1.12.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.12.14/openmetadata-shaded-deps-1.12.14.jar returned status 404
 1.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.12.2/openmetadata-shaded-deps-1.12.2.jar returned status 404
 1.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.12.3/openmetadata-shaded-deps-1.12.3.jar returned status 404
 1.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.12.4/openmetadata-shaded-deps-1.12.4.jar returned status 404
@@ -47,6 +48,8 @@
 1.13.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.13.0-rc1/openmetadata-shaded-deps-1.13.0-rc1.jar returned status 404
 1.13.0-snapshot			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.13.0-snapshot/openmetadata-shaded-deps-1.13.0-snapshot.jar returned status 404
 1.13.1		2026-06-27T04:49:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.13.1/openmetadata-shaded-deps-1.13.1.jar returned status 404
+1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.13.2/openmetadata-shaded-deps-1.13.2.jar returned status 404
+1.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.13.3/openmetadata-shaded-deps-1.13.3.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.2.0/openmetadata-shaded-deps-1.2.0.jar returned status 404
 1.2.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.2.0-beta1/openmetadata-shaded-deps-1.2.0-beta1.jar returned status 404
 1.2.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.2.0-beta2/openmetadata-shaded-deps-1.2.0-beta2.jar returned status 404
@@ -159,3 +162,4 @@
 1.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.9.7/openmetadata-shaded-deps-1.9.7.jar returned status 404
 1.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.9.8/openmetadata-shaded-deps-1.9.8.jar returned status 404
 1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/1.9.9/openmetadata-shaded-deps-1.9.9.jar returned status 404
+2.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/2.0.0-rc1/openmetadata-shaded-deps-2.0.0-rc1.jar returned status 404

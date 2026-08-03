@@ -1021,6 +1021,12 @@
 1.6.0.16rc7	named	io.acryl	datahub-protobuf	2026-07-24T23:54:08Z	33.6.0-jre
 5.2.0	named	io.axoniq.framework	axoniq-data-protection	2026-07-25T00:03:50Z	33.6.0-jre
 4.12.14.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-07-25T00:42:03Z	33.4.8-jre
+1.12.0	named	org.apache.kyuubi	kyuubi-spark-connector-tpcds_2.12	2026-07-28T00:21:18Z	33.4.8-jre
+1.12.0	named	org.apache.kyuubi	kyuubi-spark-connector-tpcds_2.13	2026-07-28T00:21:18Z	33.4.8-jre
+1.12.0	named	org.apache.kyuubi	kyuubi-spark-connector-hive_2.12	2026-07-28T00:21:19Z	33.4.8-jre
+1.12.0	named	org.apache.kyuubi	kyuubi-spark-connector-hive_2.13	2026-07-28T00:21:19Z	33.4.8-jre
+1.12.0	named	org.apache.kyuubi	kyuubi-spark-connector-tpch_2.12	2026-07-28T00:21:20Z	33.4.8-jre
+1.12.0	named	org.apache.kyuubi	kyuubi-spark-connector-tpch_2.13	2026-07-28T00:21:21Z	33.4.8-jre
 4.12.16.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-07-28T00:22:38Z	33.4.8-jre
 4.12.15.0	named	org.foundationdb	fdb-record-layer-core-shaded	2026-07-28T00:22:38Z	33.4.8-jre
 5.27.0.35548	named	org.sonarsource.python	sonar-python-plugin	2026-07-31T02:08:09Z	33.6.0-jre

@@ -82,3 +82,4 @@
 9.4.2	frankdoc	2026-04-17T13:25:47Z	
 9.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-parent/9.4.3/frankframework-parent-9.4.3.jar returned status 404
 9.4.3	frankdoc	2026-07-13T09:56:35Z	
+9.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/frankframework/frankframework-parent/9.4.4/frankframework-parent-9.4.4.jar returned status 404

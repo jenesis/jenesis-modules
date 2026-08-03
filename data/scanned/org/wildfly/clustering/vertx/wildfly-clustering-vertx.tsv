@@ -5,3 +5,4 @@
 3.5.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/vertx/wildfly-clustering-vertx/3.5.0.Final/wildfly-clustering-vertx-3.5.0.Final.jar returned status 404
 4.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/vertx/wildfly-clustering-vertx/4.0.0.Final/wildfly-clustering-vertx-4.0.0.Final.jar returned status 404
 5.0.0.Final		2026-05-20T13:30:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/vertx/wildfly-clustering-vertx/5.0.0.Final/wildfly-clustering-vertx-5.0.0.Final.jar returned status 404
+6.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/clustering/vertx/wildfly-clustering-vertx/6.0.0.Final/wildfly-clustering-vertx-6.0.0.Final.jar returned status 404

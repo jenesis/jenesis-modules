@@ -176,3 +176,4 @@
 8.1.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/galleon-plugins/wildfly-provisioning-parent/8.1.5.Final/wildfly-provisioning-parent-8.1.5.Final.jar returned status 404
 8.1.6.Final		2026-05-28T10:31:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/galleon-plugins/wildfly-provisioning-parent/8.1.6.Final/wildfly-provisioning-parent-8.1.6.Final.jar returned status 404
 8.1.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/galleon-plugins/wildfly-provisioning-parent/8.1.7.Final/wildfly-provisioning-parent-8.1.7.Final.jar returned status 404
+8.2.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/galleon-plugins/wildfly-provisioning-parent/8.2.0.Beta1/wildfly-provisioning-parent-8.2.0.Beta1.jar returned status 404
