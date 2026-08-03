@@ -1034,3 +1034,4 @@
 5.27.0.35548	named	org.sonarsource.python	sonar-python-plugin	2026-07-31T02:08:09Z	33.6.0-jre
 1.6.0.17rc1	named	io.acryl	datahub-protobuf	2026-07-31T23:54:59Z	33.6.0-jre
 1.6.0.17	named	io.acryl	datahub-protobuf	2026-07-31T23:55:01Z	33.6.0-jre
+1.2.0	named	com.google.cloud.flink	flink-1.17-connector-bigquery-integration-test	2026-08-01T02:22:09Z	33.4.8-jre

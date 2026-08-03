@@ -164,3 +164,6 @@ directory_v1-rev20260421-2.0.0	automatic	com.google.apis	google-api-services-adm
 reports_v1-rev20260504-2.0.0	automatic	com.google.apis	google-api-services-admin-reports	2026-05-19T07:32:37Z	
 directory_v1-rev20260522-2.0.0	automatic	com.google.apis	google-api-services-admin-directory	2026-05-27T07:31:59Z	
 directory_v1-rev20260531-2.0.0	automatic	com.google.apis	google-api-services-admin-directory	2026-06-04T07:32:43Z	
+reports_v1-rev20260724-2.0.0	automatic	com.google.apis	google-api-services-admin-reports	2026-07-30T02:24:20Z	
+directory_v1-rev20260729-2.0.0	automatic	com.google.apis	google-api-services-admin-directory	2026-08-03T02:20:52Z	
+reports_v1-rev20260729-2.0.0	automatic	com.google.apis	google-api-services-admin-reports	2026-08-03T02:21:08Z	

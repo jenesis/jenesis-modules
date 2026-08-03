@@ -23,6 +23,7 @@
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-datacatalog-parent/1.1.1/google-cloud-datacatalog-parent-1.1.1.jar returned status 404
 1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-datacatalog-parent/1.10.0/google-cloud-datacatalog-parent-1.10.0.jar returned status 404
 1.100.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-datacatalog-parent/1.100.0/google-cloud-datacatalog-parent-1.100.0.jar returned status 404
+1.101.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-datacatalog-parent/1.101.0/google-cloud-datacatalog-parent-1.101.0.jar returned status 404
 1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-datacatalog-parent/1.11.0/google-cloud-datacatalog-parent-1.11.0.jar returned status 404
 1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-datacatalog-parent/1.12.0/google-cloud-datacatalog-parent-1.12.0.jar returned status 404
 1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-datacatalog-parent/1.13.0/google-cloud-datacatalog-parent-1.13.0.jar returned status 404
