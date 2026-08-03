@@ -36,6 +36,7 @@
 14.0.0		2026-06-15T10:10:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-gtfs-modules/14.0.0/onebusaway-gtfs-modules-14.0.0.jar returned status 404
 14.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-gtfs-modules/14.1.0/onebusaway-gtfs-modules-14.1.0.jar returned status 404
 14.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-gtfs-modules/14.2.0/onebusaway-gtfs-modules-14.2.0.jar returned status 404
+14.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-gtfs-modules/14.2.1/onebusaway-gtfs-modules-14.2.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-gtfs-modules/2.0.0/onebusaway-gtfs-modules-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-gtfs-modules/2.0.1/onebusaway-gtfs-modules-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-gtfs-modules/2.0.2/onebusaway-gtfs-modules-2.0.2.jar returned status 404

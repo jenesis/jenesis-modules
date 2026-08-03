@@ -54,6 +54,7 @@
 0.22.2		2026-03-30T00:52:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/karaf/0.22.2/karaf-0.22.2.jar returned status 404
 0.23.0		2026-01-22T00:28:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/karaf/0.23.0/karaf-0.23.0.jar returned status 404
 0.23.1		2026-04-18T00:30:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/karaf/0.23.1/karaf-0.23.1.jar returned status 404
+0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/karaf/0.24.0/karaf-0.24.0.jar returned status 404
 0.6.0-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/karaf/0.6.0-Carbon/karaf-0.6.0-Carbon.jar returned status 404
 0.6.1-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/karaf/0.6.1-Carbon/karaf-0.6.1-Carbon.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/integration/karaf/0.7.0/karaf-0.7.0.jar returned status 404

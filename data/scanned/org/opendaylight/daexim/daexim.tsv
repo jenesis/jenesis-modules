@@ -31,6 +31,7 @@
 1.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/daexim/daexim/1.17.2/daexim-1.17.2.jar returned status 404
 1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/daexim/daexim/1.18.0/daexim-1.18.0.jar returned status 404
 1.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/daexim/daexim/1.18.1/daexim-1.18.1.jar returned status 404
+1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/daexim/daexim/1.19.0/daexim-1.19.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/daexim/daexim/1.2.0/daexim-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/daexim/daexim/1.2.1/daexim-1.2.1.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/daexim/daexim/1.2.2/daexim-1.2.2.jar returned status 404

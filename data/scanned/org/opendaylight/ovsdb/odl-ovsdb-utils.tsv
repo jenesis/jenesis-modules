@@ -45,6 +45,7 @@
 1.20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ovsdb/odl-ovsdb-utils/1.20.2/odl-ovsdb-utils-1.20.2.jar returned status 404
 1.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ovsdb/odl-ovsdb-utils/1.21.0/odl-ovsdb-utils-1.21.0.jar returned status 404
 1.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ovsdb/odl-ovsdb-utils/1.21.1/odl-ovsdb-utils-1.21.1.jar returned status 404
+1.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ovsdb/odl-ovsdb-utils/1.22.0/odl-ovsdb-utils-1.22.0.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ovsdb/odl-ovsdb-utils/1.6.0/odl-ovsdb-utils-1.6.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ovsdb/odl-ovsdb-utils/1.6.1/odl-ovsdb-utils-1.6.1.jar returned status 404
 1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ovsdb/odl-ovsdb-utils/1.6.2/odl-ovsdb-utils-1.6.2.jar returned status 404

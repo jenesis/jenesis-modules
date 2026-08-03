@@ -36,6 +36,7 @@
 1.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/bus/examples/1.18.2/examples-1.18.2.jar returned status 404
 1.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/bus/examples/1.19.0/examples-1.19.0.jar returned status 404
 1.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/bus/examples/1.19.1/examples-1.19.1.jar returned status 404
+1.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/bus/examples/1.20.0/examples-1.20.0.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/bus/examples/1.6.0/examples-1.6.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/bus/examples/1.6.1/examples-1.6.1.jar returned status 404
 1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/jsonrpc/bus/examples/1.6.2/examples-1.6.2.jar returned status 404
