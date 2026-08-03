@@ -1799,3 +1799,4 @@ com.netflix.spectator.aws
 com.netflix.spectator.ipc
 com.netflix.spectator.micrometer
 com.visorcraft.mongreldb
+com.fasterxml.jackson.datatype.jdk8

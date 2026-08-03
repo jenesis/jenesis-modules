@@ -37,6 +37,7 @@
 2.7.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lsnju/tp-base-dep/2.7.41/tp-base-dep-2.7.41.jar returned status 404
 2.7.42		2026-06-05T12:29:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lsnju/tp-base-dep/2.7.42/tp-base-dep-2.7.42.jar returned status 404
 2.7.43		2026-07-02T12:08:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lsnju/tp-base-dep/2.7.43/tp-base-dep-2.7.43.jar returned status 404
+2.7.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lsnju/tp-base-dep/2.7.44/tp-base-dep-2.7.44.jar returned status 404
 2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lsnju/tp-base-dep/2.7.5/tp-base-dep-2.7.5.jar returned status 404
 2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lsnju/tp-base-dep/2.7.6/tp-base-dep-2.7.6.jar returned status 404
 2.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lsnju/tp-base-dep/2.7.7/tp-base-dep-2.7.7.jar returned status 404

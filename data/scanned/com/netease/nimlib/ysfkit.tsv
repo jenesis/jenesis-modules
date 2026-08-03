@@ -8,6 +8,8 @@
 10.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/10.10.0/ysfkit-10.10.0.jar returned status 404
 10.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/10.10.1/ysfkit-10.10.1.jar returned status 404
 10.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/10.10.10/ysfkit-10.10.10.jar returned status 404
+10.10.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/10.10.11/ysfkit-10.10.11.jar returned status 404
+10.10.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/10.10.12/ysfkit-10.10.12.jar returned status 404
 10.2.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/10.2.0-beta/ysfkit-10.2.0-beta.jar returned status 404
 10.2.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/10.2.1-beta/ysfkit-10.2.1-beta.jar returned status 404
 10.2.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/10.2.2-beta/ysfkit-10.2.2-beta.jar returned status 404
@@ -199,6 +201,7 @@
 8.9.132			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/8.9.132/ysfkit-8.9.132.jar returned status 404
 8.9.133			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/8.9.133/ysfkit-8.9.133.jar returned status 404
 8.9.134			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/8.9.134/ysfkit-8.9.134.jar returned status 404
+8.9.135			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/8.9.135/ysfkit-8.9.135.jar returned status 404
 8.9.200			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/8.9.200/ysfkit-8.9.200.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/9.0.0/ysfkit-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/9.0.1/ysfkit-9.0.1.jar returned status 404
@@ -282,6 +285,7 @@
 9.21.14		2026-05-26T09:36:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/9.21.14/ysfkit-9.21.14.jar returned status 404
 9.21.15		2026-06-12T11:38:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/9.21.15/ysfkit-9.21.15.jar returned status 404
 9.21.16		2026-06-18T03:00:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/9.21.16/ysfkit-9.21.16.jar returned status 404
+9.21.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/9.21.17/ysfkit-9.21.17.jar returned status 404
 9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/9.3.0/ysfkit-9.3.0.jar returned status 404
 9.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/9.4.0/ysfkit-9.4.0.jar returned status 404
 9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/ysfkit/9.5.0/ysfkit-9.5.0.jar returned status 404

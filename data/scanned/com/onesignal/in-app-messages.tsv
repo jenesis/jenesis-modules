@@ -85,3 +85,4 @@
 5.9.5		2026-06-23T22:46:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onesignal/in-app-messages/5.9.5/in-app-messages-5.9.5.jar returned status 404
 5.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onesignal/in-app-messages/5.9.6/in-app-messages-5.9.6.jar returned status 404
 5.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onesignal/in-app-messages/5.9.7/in-app-messages-5.9.7.jar returned status 404
+5.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/onesignal/in-app-messages/5.9.8/in-app-messages-5.9.8.jar returned status 404
