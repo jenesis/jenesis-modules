@@ -25,6 +25,8 @@
 3.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/weavr/components/secure-components/3.10.4/secure-components-3.10.4.jar returned status 404
 3.11.0		2026-06-10T12:54:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/weavr/components/secure-components/3.11.0/secure-components-3.11.0.jar returned status 404
 3.12.0		2026-06-24T11:06:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/weavr/components/secure-components/3.12.0/secure-components-3.12.0.jar returned status 404
+3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/weavr/components/secure-components/3.13.0/secure-components-3.13.0.jar returned status 404
+3.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/weavr/components/secure-components/3.13.1/secure-components-3.13.1.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/weavr/components/secure-components/3.2.0/secure-components-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/weavr/components/secure-components/3.3.0/secure-components-3.3.0.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/weavr/components/secure-components/3.4.0/secure-components-3.4.0.jar returned status 404

@@ -3,3 +3,4 @@
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/kotlin/sdk-api-android/0.3.0/sdk-api-android-0.3.0.jar returned status 404
 0.4.0		2026-05-20T19:59:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/kotlin/sdk-api-android/0.4.0/sdk-api-android-0.4.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/kotlin/sdk-api-android/0.5.0/sdk-api-android-0.5.0.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/kotlin/sdk-api-android/0.6.0/sdk-api-android-0.6.0.jar returned status 404

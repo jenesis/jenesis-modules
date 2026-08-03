@@ -6,3 +6,5 @@
 0.38.0		2026-04-12T22:50:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/komune/f2/f2-gradle-catalog/0.38.0/f2-gradle-catalog-0.38.0.jar returned status 404
 0.39.0		2026-04-15T19:35:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/komune/f2/f2-gradle-catalog/0.39.0/f2-gradle-catalog-0.39.0.jar returned status 404
 0.40.0		2026-06-28T23:08:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/komune/f2/f2-gradle-catalog/0.40.0/f2-gradle-catalog-0.40.0.jar returned status 404
+0.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/komune/f2/f2-gradle-catalog/0.41.0/f2-gradle-catalog-0.41.0.jar returned status 404
+0.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/komune/f2/f2-gradle-catalog/0.42.0/f2-gradle-catalog-0.42.0.jar returned status 404

@@ -130,6 +130,7 @@
 3.27.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.27.3.1/quarkus-cxf-parent-3.27.3.1.jar returned status 404
 3.27.4		2026-05-26T14:38:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.27.4/quarkus-cxf-parent-3.27.4.jar returned status 404
 3.27.4.1		2026-06-17T18:14:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.27.4.1/quarkus-cxf-parent-3.27.4.1.jar returned status 404
+3.27.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.27.5/quarkus-cxf-parent-3.27.5.jar returned status 404
 3.28.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.28.0.CR1/quarkus-cxf-parent-3.28.0.CR1.jar returned status 404
 3.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.28.1/quarkus-cxf-parent-3.28.1.jar returned status 404
 3.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.28.2/quarkus-cxf-parent-3.28.2.jar returned status 404
@@ -171,6 +172,7 @@
 3.33.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.33.1.1/quarkus-cxf-parent-3.33.1.1.jar returned status 404
 3.33.2		2026-05-26T14:38:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.33.2/quarkus-cxf-parent-3.33.2.jar returned status 404
 3.33.2.1		2026-06-17T18:13:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.33.2.1/quarkus-cxf-parent-3.33.2.1.jar returned status 404
+3.33.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.33.3/quarkus-cxf-parent-3.33.3.jar returned status 404
 3.34.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.34.0.CR1/quarkus-cxf-parent-3.34.0.CR1.jar returned status 404
 3.34.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.34.1/quarkus-cxf-parent-3.34.1.jar returned status 404
 3.34.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.34.2/quarkus-cxf-parent-3.34.2.jar returned status 404
@@ -194,6 +196,7 @@
 3.37.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.37.2/quarkus-cxf-parent-3.37.2.jar returned status 404
 3.37.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.37.3/quarkus-cxf-parent-3.37.3.jar returned status 404
 3.37.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.37.4/quarkus-cxf-parent-3.37.4.jar returned status 404
+3.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.38.0/quarkus-cxf-parent-3.38.0.jar returned status 404
 3.38.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.38.0.CR1/quarkus-cxf-parent-3.38.0.CR1.jar returned status 404
 3.4.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.4.0.CR1/quarkus-cxf-parent-3.4.0.CR1.jar returned status 404
 3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cxf-parent/3.4.1/quarkus-cxf-parent-3.4.1.jar returned status 404
