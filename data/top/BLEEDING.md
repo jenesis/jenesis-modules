@@ -880,7 +880,7 @@ Every figure is as of 2026-07-23, and each artifact is judged by its latest vers
 | 847 | org.codehaus.mojo:build-helper-maven-plugin ⚠️ |  | 2025-06-04 | 20,4 |  | 3.6.1 |  | 22 | 0 | 0 | 0 |
 | 848 | org.codehaus.jettison:jettison |  | 2026-06-17 | 19,7 |  | 1.5.6 |  | 26 | 0 | 2 | 0 |
 | ~~849~~ | ~~org.apache.maven.plugins:maven-failsafe-plugin~~ | ~~-~~ | ~~2026-06-02~~ | ~~16,5~~ | ~~-~~ | ~~3.6.0-M1~~ | ~~-~~ | ~~58~~ | ~~0~~ | ~~4~~ | ~~0~~ |
-| 850 | it.unimi.dsi:fastutil | it.unimi.dsi.fastutil ⚙️ | 2025-10-05 | 15,4 | 8,2 | 8.5.18 | 8.5.18 | 79 | 28 | 2 | 2 |
+| 850 | it.unimi.dsi:fastutil | it.unimi.dsi.fastutil ⚙️ | 2025-10-05 | 15,4 | 8,2 | 8.5.18 | 8.5.18 | 79 | 29 | 2 | 3 |
 | 851 | com.opencsv:opencsv | com.opencsv ⚙️ | 2025-07-27 | 11,7 | 5,0 | 5.12.0 | 5.12.0 | 37 | 13 | 1 | 1 |
 | 852 | com.google.api.grpc:proto-google-iam-v1 |  | 2026-07-08 | 9,2 |  | 1.68.0 |  | 194 | 0 | 23 | 0 |
 | 853 | org.apache.yetus:audience-annotations ⚠️ |  | 2025-02-16 | 10,0 |  | 0.15.1 |  | 16 | 0 | 0 | 0 |
