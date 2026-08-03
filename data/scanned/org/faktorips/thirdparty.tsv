@@ -96,6 +96,7 @@
 25.7.1.release		2025-07-16T13:05:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/25.7.1.release/thirdparty-25.7.1.release.jar returned status 404
 25.7.2.release		2025-09-23T10:18:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/25.7.2.release/thirdparty-25.7.2.release.jar returned status 404
 25.7.3.release		2025-10-15T10:01:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/25.7.3.release/thirdparty-25.7.3.release.jar returned status 404
+25.7.4.release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/25.7.4.release/thirdparty-25.7.4.release.jar returned status 404
 26.1.0.a20250801-01		2025-08-01T11:04:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/26.1.0.a20250801-01/thirdparty-26.1.0.a20250801-01.jar returned status 404
 26.1.0.a20250829-01		2025-08-29T05:33:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/26.1.0.a20250829-01/thirdparty-26.1.0.a20250829-01.jar returned status 404
 26.1.0.a20250924-01		2025-09-24T08:13:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/26.1.0.a20250924-01/thirdparty-26.1.0.a20250924-01.jar returned status 404
@@ -110,3 +111,5 @@
 26.1.3.release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/26.1.3.release/thirdparty-26.1.3.release.jar returned status 404
 26.7.0.rc01		2026-06-03T15:00:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/26.7.0.rc01/thirdparty-26.7.0.rc01.jar returned status 404
 26.7.0.release		2026-06-29T06:48:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/26.7.0.release/thirdparty-26.7.0.release.jar returned status 404
+26.7.1.release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/26.7.1.release/thirdparty-26.7.1.release.jar returned status 404
+27.1.0.m01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/faktorips/thirdparty/27.1.0.m01/thirdparty-27.1.0.m01.jar returned status 404

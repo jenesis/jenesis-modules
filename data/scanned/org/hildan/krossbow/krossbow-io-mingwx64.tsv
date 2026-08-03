@@ -1,3 +1,4 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-io-mingwx64/10.0.0/krossbow-io-mingwx64-10.0.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-io-mingwx64/6.0.0/krossbow-io-mingwx64-6.0.0.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-io-mingwx64/7.0.0/krossbow-io-mingwx64-7.0.0.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-io-mingwx64/7.1.0/krossbow-io-mingwx64-7.1.0.jar returned status 404

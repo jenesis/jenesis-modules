@@ -2,6 +2,7 @@
 1.3.0		2021-04-20T14:38:04Z	
 1.3.1		2021-04-21T16:05:34Z	
 1.4.0		2021-05-11T09:13:52Z	
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-websocket-ktor-js/10.0.0/krossbow-websocket-ktor-js-10.0.0.jar returned status 404
 2.0.0		2021-05-28T17:10:07Z	
 2.1.0		2021-06-16T18:32:34Z	
 2.2.0		2021-07-27T16:21:18Z	

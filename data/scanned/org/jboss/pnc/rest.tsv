@@ -198,3 +198,4 @@
 3.5.6	classes	2026-07-08T15:39:11Z	
 3.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/rest/3.5.7/rest-3.5.7.jar returned status 404
 3.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/rest/3.5.8/rest-3.5.8.jar returned status 404
+3.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/rest/3.5.9/rest-3.5.9.jar returned status 404

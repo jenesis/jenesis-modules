@@ -15,3 +15,4 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/2.0.0/domino-rest-2.0.0.jar returned status 404
 2.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/2.0.0-RC1/domino-rest-2.0.0-RC1.jar returned status 404
 2.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/2.0.0-RC2/domino-rest-2.0.0-RC2.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dominokit/domino-rest/2.0.1/domino-rest-2.0.1.jar returned status 404

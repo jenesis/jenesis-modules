@@ -969,4 +969,5 @@ edge	named	com.purbon.kafka.topology	julie-ops-cli	2022-07-29T14:46:42Z	4.8.21
 11.2.42	named	com.datarobot	spooler-sqs	2026-07-11T00:07:53Z	
 11.2.42	named	com.datarobot	spooler-pubsub	2026-07-11T00:07:55Z	
 4.8.185	named	io.github.classgraph	classgraph	2026-07-28T00:11:43Z	
+1.0.3	named	org.dominokit	domino-auto-processor	2026-07-28T00:16:21Z	
 4.8.186	named	io.github.classgraph	classgraph	2026-07-29T00:11:32Z	

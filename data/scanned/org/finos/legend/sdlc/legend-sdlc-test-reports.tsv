@@ -72,3 +72,5 @@
 0.228.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc-test-reports/0.228.0/legend-sdlc-test-reports-0.228.0.jar returned status 404
 0.229.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc-test-reports/0.229.0/legend-sdlc-test-reports-0.229.0.jar returned status 404
 0.229.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc-test-reports/0.229.1/legend-sdlc-test-reports-0.229.1.jar returned status 404
+0.229.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc-test-reports/0.229.2/legend-sdlc-test-reports-0.229.2.jar returned status 404
+0.230.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc-test-reports/0.230.0/legend-sdlc-test-reports-0.230.0.jar returned status 404

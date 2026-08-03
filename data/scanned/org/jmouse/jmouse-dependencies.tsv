@@ -4,3 +4,5 @@
 1.0.0-Stable1		2026-06-24T20:21:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmouse/jmouse-dependencies/1.0.0-Stable1/jmouse-dependencies-1.0.0-Stable1.jar returned status 404
 1.0.0-StableB			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmouse/jmouse-dependencies/1.0.0-StableB/jmouse-dependencies-1.0.0-StableB.jar returned status 404
 1.0.0-StableC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmouse/jmouse-dependencies/1.0.0-StableC/jmouse-dependencies-1.0.0-StableC.jar returned status 404
+1.0.0-Stable_20260728			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmouse/jmouse-dependencies/1.0.0-Stable_20260728/jmouse-dependencies-1.0.0-Stable_20260728.jar returned status 404
+1.0.0-Stable_20260801			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jmouse/jmouse-dependencies/1.0.0-Stable_20260801/jmouse-dependencies-1.0.0-Stable_20260801.jar returned status 404
