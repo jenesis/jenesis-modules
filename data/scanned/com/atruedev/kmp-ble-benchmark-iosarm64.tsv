@@ -8,5 +8,7 @@
 0.10.3	metadata	2026-07-16T12:13:59Z	
 0.11.0		2026-07-22T10:06:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-benchmark-iosarm64/0.11.0/kmp-ble-benchmark-iosarm64-0.11.0.jar returned status 404
 0.11.0	metadata	2026-07-22T10:06:26Z	
+0.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-benchmark-iosarm64/0.11.1/kmp-ble-benchmark-iosarm64-0.11.1.jar returned status 404
+0.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-benchmark-iosarm64/0.11.2/kmp-ble-benchmark-iosarm64-0.11.2.jar returned status 404
 0.9.0		2026-06-23T22:18:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-benchmark-iosarm64/0.9.0/kmp-ble-benchmark-iosarm64-0.9.0.jar returned status 404
 0.9.0	metadata	2026-06-23T22:18:49Z	

@@ -823,3 +823,5 @@
 4.137.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-07-30T00:26:36Z	2.0.72.Final
 1.83.1	named	io.grpc	grpc-netty-shaded	2026-07-31T00:06:04Z	2.0.75.Final
 1.82.3	named	io.grpc	grpc-netty-shaded	2026-07-31T00:06:06Z	2.0.75.Final
+4.1.11	named	com.instaclustr	esop-azure	2026-07-31T02:15:28Z	2.0.73.Final
+4.1.11	named	com.instaclustr	esop-gcp	2026-07-31T02:15:28Z	2.0.70.Final

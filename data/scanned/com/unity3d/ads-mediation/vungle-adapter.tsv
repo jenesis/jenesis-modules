@@ -11,6 +11,7 @@
 5.10.0		2026-06-14T11:11:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/vungle-adapter/5.10.0/vungle-adapter-5.10.0.jar returned status 404
 5.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/vungle-adapter/5.11.0/vungle-adapter-5.11.0.jar returned status 404
 5.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/vungle-adapter/5.12.0/vungle-adapter-5.12.0.jar returned status 404
+5.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/vungle-adapter/5.13.0/vungle-adapter-5.13.0.jar returned status 404
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/vungle-adapter/5.2.0/vungle-adapter-5.2.0.jar returned status 404
 5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/vungle-adapter/5.3.0/vungle-adapter-5.3.0.jar returned status 404
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/vungle-adapter/5.4.0/vungle-adapter-5.4.0.jar returned status 404

@@ -19,6 +19,11 @@
 11.0.0-M2		2026-06-27T12:58:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/11.0.0-M2/meja-bom-11.0.0-M2.jar returned status 404
 11.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/11.0.0-M3/meja-bom-11.0.0-M3.jar returned status 404
 11.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/11.0.1/meja-bom-11.0.1.jar returned status 404
+11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/11.1.0/meja-bom-11.1.0.jar returned status 404
+11.1.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/11.1.0-beta/meja-bom-11.1.0-beta.jar returned status 404
+11.1.0-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/11.1.0-rc/meja-bom-11.1.0-rc.jar returned status 404
+11.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/11.1.1/meja-bom-11.1.1.jar returned status 404
+11.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/11.1.2/meja-bom-11.1.2.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/9.0.0/meja-bom-9.0.0.jar returned status 404
 9.0.0-beta10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/9.0.0-beta10/meja-bom-9.0.0-beta10.jar returned status 404
 9.0.0-beta11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dua3/meja/meja-bom/9.0.0-beta11/meja-bom-9.0.0-beta11.jar returned status 404

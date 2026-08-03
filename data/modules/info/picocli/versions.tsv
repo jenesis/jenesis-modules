@@ -1055,3 +1055,5 @@
 10.3.20260717	named	io.github.shafthq	shaft-cli	2026-07-18T02:35:19Z	4.7.7
 10.3.20260719	named	io.github.shafthq	shaft-cli	2026-07-19T15:53:27Z	4.7.7
 3.3.2	named	org.apache.tika	tika-parser-nlp-package	2026-07-22T02:27:10Z	4.7.7
+4.1.11	named	com.instaclustr	esop-core	2026-07-31T02:15:27Z	4.7.2
+4.1.11	named	com.instaclustr	esop-s3	2026-07-31T02:15:28Z	4.7.2
