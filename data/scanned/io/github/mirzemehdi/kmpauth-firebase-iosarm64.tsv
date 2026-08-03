@@ -42,6 +42,7 @@
 2.4.0-alpha05	metadata	2025-08-30T16:52:51Z	
 2.5.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-firebase-iosarm64/2.5.0-alpha01/kmpauth-firebase-iosarm64-2.5.0-alpha01.jar returned status 404
 2.5.0-alpha01	metadata	2026-01-01T21:36:31Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-firebase-iosarm64/3.0.0/kmpauth-firebase-iosarm64-3.0.0.jar returned status 404
 3.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-firebase-iosarm64/3.0.0-alpha01/kmpauth-firebase-iosarm64-3.0.0-alpha01.jar returned status 404
 3.0.0-alpha01	metadata	2026-07-08T21:49:53Z	
 3.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-firebase-iosarm64/3.0.0-alpha02/kmpauth-firebase-iosarm64-3.0.0-alpha02.jar returned status 404
@@ -50,3 +51,7 @@
 3.0.0-alpha03	metadata	2026-07-19T14:16:38Z	
 3.0.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-firebase-iosarm64/3.0.0-alpha04/kmpauth-firebase-iosarm64-3.0.0-alpha04.jar returned status 404
 3.0.0-alpha04	metadata	2026-07-19T16:53:09Z	
+3.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-firebase-iosarm64/3.0.0-beta01/kmpauth-firebase-iosarm64-3.0.0-beta01.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-firebase-iosarm64/3.0.1/kmpauth-firebase-iosarm64-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-firebase-iosarm64/3.0.2/kmpauth-firebase-iosarm64-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-firebase-iosarm64/3.0.3/kmpauth-firebase-iosarm64-3.0.3.jar returned status 404

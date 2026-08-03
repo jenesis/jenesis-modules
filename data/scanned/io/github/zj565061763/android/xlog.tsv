@@ -9,3 +9,4 @@
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zj565061763/android/xlog/1.9.0/xlog-1.9.0.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zj565061763/android/xlog/1.9.1/xlog-1.9.1.jar returned status 404
 1.9.2		2026-07-01T03:16:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zj565061763/android/xlog/1.9.2/xlog-1.9.2.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zj565061763/android/xlog/2.0.0/xlog-2.0.0.jar returned status 404

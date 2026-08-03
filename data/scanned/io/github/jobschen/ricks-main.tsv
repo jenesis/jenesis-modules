@@ -1,3 +1,4 @@
 1.0.0		2026-07-13T09:26:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jobschen/ricks-main/1.0.0/ricks-main-1.0.0.jar returned status 404
 1.0.1		2026-07-15T10:14:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jobschen/ricks-main/1.0.1/ricks-main-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jobschen/ricks-main/1.0.2/ricks-main-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jobschen/ricks-main/1.0.3/ricks-main-1.0.3.jar returned status 404

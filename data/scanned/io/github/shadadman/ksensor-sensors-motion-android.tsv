@@ -1,3 +1,4 @@
+3.10.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-android/3.10.40/ksensor-sensors-motion-android-3.10.40.jar returned status 404
 3.4.10-alpha		2026-06-23T10:29:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-android/3.4.10-alpha/ksensor-sensors-motion-android-3.4.10-alpha.jar returned status 404
 4.50.2		2026-06-24T07:41:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-android/4.50.2/ksensor-sensors-motion-android-4.50.2.jar returned status 404
 4.90.20		2026-07-04T09:44:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-android/4.90.20/ksensor-sensors-motion-android-4.90.20.jar returned status 404
@@ -6,3 +7,5 @@
 4.90.3		2026-07-02T09:55:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-android/4.90.3/ksensor-sensors-motion-android-4.90.3.jar returned status 404
 4.98.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-android/4.98.20/ksensor-sensors-motion-android-4.98.20.jar returned status 404
 5.10.30		2026-07-20T17:54:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-android/5.10.30/ksensor-sensors-motion-android-5.10.30.jar returned status 404
+5.10.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-android/5.10.40/ksensor-sensors-motion-android-5.10.40.jar returned status 404
+5.90.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-android/5.90.20/ksensor-sensors-motion-android-5.90.20.jar returned status 404

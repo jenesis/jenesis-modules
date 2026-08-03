@@ -34,3 +34,5 @@
 5.0.0		2026-07-06T16:26:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluggableai/fanmeter/5.0.0/fanmeter-5.0.0.jar returned status 404
 5.0.0-beta.1		2026-06-01T14:10:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluggableai/fanmeter/5.0.0-beta.1/fanmeter-5.0.0-beta.1.jar returned status 404
 5.0.0-beta.2		2026-06-02T14:36:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluggableai/fanmeter/5.0.0-beta.2/fanmeter-5.0.0-beta.2.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluggableai/fanmeter/5.0.1/fanmeter-5.0.1.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluggableai/fanmeter/5.0.2/fanmeter-5.0.2.jar returned status 404

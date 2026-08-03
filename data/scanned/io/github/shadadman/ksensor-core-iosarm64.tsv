@@ -1,3 +1,4 @@
+3.10.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-core-iosarm64/3.10.40/ksensor-core-iosarm64-3.10.40.jar returned status 404
 3.4.10-alpha		2026-06-23T10:29:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-core-iosarm64/3.4.10-alpha/ksensor-core-iosarm64-3.4.10-alpha.jar returned status 404
 3.4.10-alpha	metadata	2026-06-23T10:29:22Z	
 4.50.2		2026-06-24T07:41:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-core-iosarm64/4.50.2/ksensor-core-iosarm64-4.50.2.jar returned status 404
@@ -14,3 +15,5 @@
 4.98.20	metadata	2026-07-17T07:10:44Z	
 5.10.30		2026-07-20T17:54:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-core-iosarm64/5.10.30/ksensor-core-iosarm64-5.10.30.jar returned status 404
 5.10.30	metadata	2026-07-20T17:54:43Z	
+5.10.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-core-iosarm64/5.10.40/ksensor-core-iosarm64-5.10.40.jar returned status 404
+5.90.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-core-iosarm64/5.90.20/ksensor-core-iosarm64-5.90.20.jar returned status 404

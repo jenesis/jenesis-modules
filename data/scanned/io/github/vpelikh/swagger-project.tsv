@@ -15,3 +15,4 @@
 4.0.0-M1		2026-06-22T07:39:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-project/4.0.0-M1/swagger-project-4.0.0-M1.jar returned status 404
 4.0.0-RC1		2026-07-06T10:53:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-project/4.0.0-RC1/swagger-project-4.0.0-RC1.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-project/4.0.1/swagger-project-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vpelikh/swagger-project/4.0.2/swagger-project-4.0.2.jar returned status 404

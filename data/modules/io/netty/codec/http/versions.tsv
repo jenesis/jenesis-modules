@@ -304,3 +304,6 @@
 3.3.2	named	org.apache.tika	tika-emitter-s3	2026-07-22T02:27:16Z	4.2.16.Final
 3.3.2	named	org.apache.tika	tika-fetcher-s3	2026-07-22T02:27:43Z	4.2.16.Final
 10.3.20260722	named	io.github.shafthq	shaft-cli	2026-07-23T00:35:05Z	4.2.16.Final
+10.3.20260727	named	io.github.shafthq	shaft-cli	2026-07-28T02:23:04Z	4.2.16.Final
+10.3.20260728	named	io.github.shafthq	shaft-cli	2026-07-29T00:32:27Z	4.2.16.Final
+10.3.20260801	named	io.github.shafthq	shaft-cli	2026-08-03T02:22:48Z	4.2.16.Final
