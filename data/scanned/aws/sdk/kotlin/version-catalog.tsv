@@ -655,7 +655,16 @@
 1.8.10		2026-07-20T18:43:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.10/version-catalog-1.8.10.jar returned status 404
 1.8.11		2026-07-21T18:45:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.11/version-catalog-1.8.11.jar returned status 404
 1.8.12		2026-07-22T18:42:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.12/version-catalog-1.8.12.jar returned status 404
+1.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.13/version-catalog-1.8.13.jar returned status 404
+1.8.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.14/version-catalog-1.8.14.jar returned status 404
+1.8.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.15/version-catalog-1.8.15.jar returned status 404
+1.8.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.16/version-catalog-1.8.16.jar returned status 404
+1.8.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.17/version-catalog-1.8.17.jar returned status 404
+1.8.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.18/version-catalog-1.8.18.jar returned status 404
+1.8.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.19/version-catalog-1.8.19.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.2/version-catalog-1.8.2.jar returned status 404
+1.8.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.20/version-catalog-1.8.20.jar returned status 404
+1.8.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.21/version-catalog-1.8.21.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.3/version-catalog-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.4/version-catalog-1.8.4.jar returned status 404
 1.8.5		2026-07-13T18:46:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/sdk/kotlin/version-catalog/1.8.5/version-catalog-1.8.5.jar returned status 404
