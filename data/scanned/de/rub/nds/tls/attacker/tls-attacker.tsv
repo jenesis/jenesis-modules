@@ -9,6 +9,7 @@
 6.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/6.1.7/tls-attacker-6.1.7.jar returned status 404
 6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/6.3.2/tls-attacker-6.3.2.jar returned status 404
 6.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/6.3.4/tls-attacker-6.3.4.jar returned status 404
+7.0.0-rtc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/7.0.0-rtc/tls-attacker-7.0.0-rtc.jar returned status 404
 7.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/7.0.4/tls-attacker-7.0.4.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/7.1.0/tls-attacker-7.1.0.jar returned status 404
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/7.1.1/tls-attacker-7.1.1.jar returned status 404
@@ -22,3 +23,4 @@
 7.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/7.5.3/tls-attacker-7.5.3.jar returned status 404
 7.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/7.6.0/tls-attacker-7.6.0.jar returned status 404
 7.7.0		2026-05-28T09:09:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/7.7.0/tls-attacker-7.7.0.jar returned status 404
+7.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/rub/nds/tls/attacker/tls-attacker/7.8.0/tls-attacker-7.8.0.jar returned status 404

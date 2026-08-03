@@ -16,6 +16,9 @@
 0.15.0	metadata	2026-07-03T17:35:40Z	
 0.20.0		2026-07-13T13:52:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-core-iossimulatorarm64/0.20.0/orca-core-iossimulatorarm64-0.20.0.jar returned status 404
 0.20.0	metadata	2026-07-13T13:52:03Z	
+0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-core-iossimulatorarm64/0.30.0/orca-core-iossimulatorarm64-0.30.0.jar returned status 404
+0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-core-iossimulatorarm64/0.31.0/orca-core-iossimulatorarm64-0.31.0.jar returned status 404
+0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-core-iossimulatorarm64/0.32.0/orca-core-iossimulatorarm64-0.32.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-core-iossimulatorarm64/0.6.0/orca-core-iossimulatorarm64-0.6.0.jar returned status 404
 0.6.0	metadata	2026-02-16T16:28:58Z	
 0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-core-iossimulatorarm64/0.6.3/orca-core-iossimulatorarm64-0.6.3.jar returned status 404

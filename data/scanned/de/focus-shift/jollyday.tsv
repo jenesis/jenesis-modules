@@ -69,6 +69,7 @@
 2.16.0		2026-07-16T14:52:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/focus-shift/jollyday/2.16.0/jollyday-2.16.0.jar returned status 404
 2.17.0		2026-07-21T07:21:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/focus-shift/jollyday/2.17.0/jollyday-2.17.0.jar returned status 404
 2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/focus-shift/jollyday/2.18.0/jollyday-2.18.0.jar returned status 404
+2.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/focus-shift/jollyday/2.19.0/jollyday-2.19.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/focus-shift/jollyday/2.2.0/jollyday-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/focus-shift/jollyday/2.2.1/jollyday-2.2.1.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/focus-shift/jollyday/2.3.0/jollyday-2.3.0.jar returned status 404

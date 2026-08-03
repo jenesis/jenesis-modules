@@ -39,6 +39,10 @@
 138			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/platform/ike-platform/138/ike-platform-138.jar returned status 404
 139			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/platform/ike-platform/139/ike-platform-139.jar returned status 404
 140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/platform/ike-platform/140/ike-platform-140.jar returned status 404
+141			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/platform/ike-platform/141/ike-platform-141.jar returned status 404
+142			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/platform/ike-platform/142/ike-platform-142.jar returned status 404
+143			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/platform/ike-platform/143/ike-platform-143.jar returned status 404
+144			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/platform/ike-platform/144/ike-platform-144.jar returned status 404
 72		2026-05-19T14:31:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/platform/ike-platform/72/ike-platform-72.jar returned status 404
 73		2026-05-19T22:11:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/platform/ike-platform/73/ike-platform-73.jar returned status 404
 74		2026-05-19T23:38:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/ike/platform/ike-platform/74/ike-platform-74.jar returned status 404

@@ -46,3 +46,6 @@
 1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cibmall/onesdk/oneSDKTest/1.5.2/oneSDKTest-1.5.2.jar returned status 404
 1.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cibmall/onesdk/oneSDKTest/1.5.3/oneSDKTest-1.5.3.jar returned status 404
 1.5.4		2026-05-28T14:11:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cibmall/onesdk/oneSDKTest/1.5.4/oneSDKTest-1.5.4.jar returned status 404
+1.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cibmall/onesdk/oneSDKTest/1.5.5/oneSDKTest-1.5.5.jar returned status 404
+1.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cibmall/onesdk/oneSDKTest/1.5.6/oneSDKTest-1.5.6.jar returned status 404
+1.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/cibmall/onesdk/oneSDKTest/1.5.7/oneSDKTest-1.5.7.jar returned status 404

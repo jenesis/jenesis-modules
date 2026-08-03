@@ -279,6 +279,7 @@
 4.12.5-tokio-rollback-experimental.2	html-docs	2026-04-22T15:32:59Z	
 4.12.5-tokio-rollback-experimental.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.5-tokio-rollback-experimental.3/ditto-4.12.5-tokio-rollback-experimental.3.jar returned status 404
 4.12.5-tokio-rollback-experimental.3	html-docs	2026-04-22T18:23:20Z	
+4.12.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6/ditto-4.12.6.jar returned status 404
 4.12.6-experimental-QE-741			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-experimental-QE-741/ditto-4.12.6-experimental-QE-741.jar returned status 404
 4.12.6-experimental-QE-741	html-docs	2026-04-22T18:19:13Z	
 4.12.6-experimental-QE-756.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-experimental-QE-756.10/ditto-4.12.6-experimental-QE-756.10.jar returned status 404

@@ -57,3 +57,4 @@
 2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.Tools/2.7.1/FROST-Server.Tools-2.7.1.jar returned status 404
 2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.Tools/2.7.2/FROST-Server.Tools-2.7.2.jar returned status 404
 2.7.3		2026-07-03T09:20:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.Tools/2.7.3/FROST-Server.Tools-2.7.3.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/fraunhofer/iosb/ilt/FROST-Server/FROST-Server.Tools/2.8.0/FROST-Server.Tools-2.8.0.jar returned status 404

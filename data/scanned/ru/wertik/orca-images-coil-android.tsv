@@ -7,3 +7,6 @@
 0.14.0		2026-07-03T16:08:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-images-coil-android/0.14.0/orca-images-coil-android-0.14.0.jar returned status 404
 0.15.0		2026-07-03T17:35:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-images-coil-android/0.15.0/orca-images-coil-android-0.15.0.jar returned status 404
 0.20.0		2026-07-13T13:52:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-images-coil-android/0.20.0/orca-images-coil-android-0.20.0.jar returned status 404
+0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-images-coil-android/0.30.0/orca-images-coil-android-0.30.0.jar returned status 404
+0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-images-coil-android/0.31.0/orca-images-coil-android-0.31.0.jar returned status 404
+0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-images-coil-android/0.32.0/orca-images-coil-android-0.32.0.jar returned status 404

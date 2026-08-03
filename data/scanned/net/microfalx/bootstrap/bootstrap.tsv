@@ -1,3 +1,4 @@
 1.0.0		2026-05-18T01:58:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bootstrap/bootstrap/1.0.0/bootstrap-1.0.0.jar returned status 404
 1.0.1		2026-06-14T18:10:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bootstrap/bootstrap/1.0.1/bootstrap-1.0.1.jar returned status 404
 1.0.2		2026-06-27T19:18:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bootstrap/bootstrap/1.0.2/bootstrap-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bootstrap/bootstrap/1.0.3/bootstrap-1.0.3.jar returned status 404

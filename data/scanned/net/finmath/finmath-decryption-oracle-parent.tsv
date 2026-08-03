@@ -24,3 +24,4 @@
 2.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/finmath/finmath-decryption-oracle-parent/2.5.5/finmath-decryption-oracle-parent-2.5.5.jar returned status 404
 2.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/finmath/finmath-decryption-oracle-parent/2.5.6/finmath-decryption-oracle-parent-2.5.6.jar returned status 404
 2.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/finmath/finmath-decryption-oracle-parent/2.5.7/finmath-decryption-oracle-parent-2.5.7.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/finmath/finmath-decryption-oracle-parent/3.0.0/finmath-decryption-oracle-parent-3.0.0.jar returned status 404

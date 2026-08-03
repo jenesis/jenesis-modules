@@ -16,6 +16,7 @@
 1.3.13		2026-07-03T01:51:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-m/1.3.13/daro-m-1.3.13.jar returned status 404
 1.3.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-m/1.3.14/daro-m-1.3.14.jar returned status 404
 1.3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-m/1.3.15/daro-m-1.3.15.jar returned status 404
+1.3.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-m/1.3.16/daro-m-1.3.16.jar returned status 404
 1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-m/1.3.2/daro-m-1.3.2.jar returned status 404
 1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-m/1.3.3/daro-m-1.3.3.jar returned status 404
 1.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-m/1.3.4/daro-m-1.3.4.jar returned status 404

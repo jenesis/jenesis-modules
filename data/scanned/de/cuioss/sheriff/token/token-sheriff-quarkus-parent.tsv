@@ -1,3 +1,4 @@
 0.9.0		2026-06-29T07:55:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/sheriff/token/token-sheriff-quarkus-parent/0.9.0/token-sheriff-quarkus-parent-0.9.0.jar returned status 404
 0.9.1		2026-07-14T08:50:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/sheriff/token/token-sheriff-quarkus-parent/0.9.1/token-sheriff-quarkus-parent-0.9.1.jar returned status 404
 0.9.2		2026-07-16T07:31:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/sheriff/token/token-sheriff-quarkus-parent/0.9.2/token-sheriff-quarkus-parent-0.9.2.jar returned status 404
+0.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/sheriff/token/token-sheriff-quarkus-parent/0.9.3/token-sheriff-quarkus-parent-0.9.3.jar returned status 404
