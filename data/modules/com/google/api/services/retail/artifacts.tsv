@@ -1,3 +1,4 @@
+v2-rev20260723-2.0.0	automatic	com.google.apis	google-api-services-retail
 v2-rev20260709-2.0.0	automatic	com.google.apis	google-api-services-retail
 v2-rev20260507-2.0.0	automatic	com.google.apis	google-api-services-retail
 v2-rev20260423-2.0.0	automatic	com.google.apis	google-api-services-retail
@@ -131,6 +132,7 @@ v2-rev20210226-1.31.0	automatic	com.google.apis	google-api-services-retail
 v2-rev20210212-1.31.0	automatic	com.google.apis	google-api-services-retail
 v2-rev20210205-1.31.0	automatic	com.google.apis	google-api-services-retail
 v2-rev20210129-1.31.0	automatic	com.google.apis	google-api-services-retail
+v2beta-rev20260723-2.0.0	automatic	com.google.apis	google-api-services-retail
 v2beta-rev20260709-2.0.0	automatic	com.google.apis	google-api-services-retail
 v2beta-rev20260507-2.0.0	automatic	com.google.apis	google-api-services-retail
 v2beta-rev20260423-2.0.0	automatic	com.google.apis	google-api-services-retail
@@ -271,6 +273,7 @@ v2beta-rev20210226-1.31.0	automatic	com.google.apis	google-api-services-retail
 v2beta-rev20210212-1.31.0	automatic	com.google.apis	google-api-services-retail
 v2beta-rev20210205-1.31.0	automatic	com.google.apis	google-api-services-retail
 v2beta-rev20210129-1.31.0	automatic	com.google.apis	google-api-services-retail
+v2alpha-rev20260723-2.0.0	automatic	com.google.apis	google-api-services-retail
 v2alpha-rev20260709-2.0.0	automatic	com.google.apis	google-api-services-retail
 v2alpha-rev20260507-2.0.0	automatic	com.google.apis	google-api-services-retail
 v2alpha-rev20260423-2.0.0	automatic	com.google.apis	google-api-services-retail

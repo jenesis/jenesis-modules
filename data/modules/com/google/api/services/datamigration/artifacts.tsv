@@ -1,3 +1,4 @@
+v1-rev20260718-2.0.0	automatic	com.google.apis	google-api-services-datamigration
 v1-rev20260620-2.0.0	automatic	com.google.apis	google-api-services-datamigration
 v1-rev20260511-2.0.0	automatic	com.google.apis	google-api-services-datamigration
 v1-rev20260406-2.0.0	automatic	com.google.apis	google-api-services-datamigration
@@ -95,6 +96,7 @@ v1-rev20210506-1.31.0	automatic	com.google.apis	google-api-services-datamigratio
 v1-rev20210413-1.31.0	automatic	com.google.apis	google-api-services-datamigration
 v1-rev20210317-1.31.0	automatic	com.google.apis	google-api-services-datamigration
 v1-rev20210307-1.31.0	automatic	com.google.apis	google-api-services-datamigration
+v1beta1-rev20260718-2.0.0	automatic	com.google.apis	google-api-services-datamigration
 v1beta1-rev20260511-2.0.0	automatic	com.google.apis	google-api-services-datamigration
 v1beta1-rev20260406-2.0.0	automatic	com.google.apis	google-api-services-datamigration
 v1beta1-rev20260320-2.0.0	automatic	com.google.apis	google-api-services-datamigration

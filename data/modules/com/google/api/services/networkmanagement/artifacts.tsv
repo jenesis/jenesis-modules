@@ -1,3 +1,5 @@
+v1-rev20260724-2.0.0	automatic	com.google.apis	google-api-services-networkmanagement
+v1-rev20260715-2.0.0	automatic	com.google.apis	google-api-services-networkmanagement
 v1-rev20260617-2.0.0	automatic	com.google.apis	google-api-services-networkmanagement
 v1-rev20260603-2.0.0	automatic	com.google.apis	google-api-services-networkmanagement
 v1-rev20260527-2.0.0	automatic	com.google.apis	google-api-services-networkmanagement
@@ -98,6 +100,8 @@ v1-rev20200820-1.30.10	automatic	com.google.apis	google-api-services-networkmana
 v1-rev20200615-1.30.10	automatic	com.google.apis	google-api-services-networkmanagement
 v1-rev20200505-1.30.10	automatic	com.google.apis	google-api-services-networkmanagement
 v1-rev20200505-1.30.9	automatic	com.google.apis	google-api-services-networkmanagement
+v1beta1-rev20260724-2.0.0	automatic	com.google.apis	google-api-services-networkmanagement
+v1beta1-rev20260715-2.0.0	automatic	com.google.apis	google-api-services-networkmanagement
 v1beta1-rev20260617-2.0.0	automatic	com.google.apis	google-api-services-networkmanagement
 v1beta1-rev20260520-2.0.0	automatic	com.google.apis	google-api-services-networkmanagement
 v1beta1-rev20260513-2.0.0	automatic	com.google.apis	google-api-services-networkmanagement
