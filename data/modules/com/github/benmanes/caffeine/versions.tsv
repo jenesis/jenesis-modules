@@ -117,3 +117,8 @@
 0.42.1	named	org.kill-bill.billing	killbill-platform-osgi-bundles-metrics	2026-07-15T02:09:37Z	3.2.4
 0.42.1	named	org.kill-bill.billing	killbill-platform-osgi-bundles-test-beatrix	2026-07-15T02:09:39Z	3.2.4
 0.42.1	named	org.kill-bill.billing	killbill-platform-osgi-bundles-logger	2026-07-15T02:09:41Z	3.2.4
+0.42.2	named	org.kill-bill.billing	killbill-platform-osgi-bundles-kpm	2026-07-30T00:22:56Z	3.2.4
+0.42.2	named	org.kill-bill.billing	killbill-platform-osgi-bundles-logger	2026-07-30T00:22:59Z	3.2.4
+0.42.2	named	org.kill-bill.billing	killbill-platform-osgi-bundles-test-beatrix	2026-07-30T00:22:59Z	3.2.4
+0.42.2	named	org.kill-bill.billing	killbill-platform-osgi-bundles-metrics	2026-07-30T00:23:09Z	3.2.4
+0.42.2	named	org.kill-bill.billing	killbill-platform-osgi-bundles-eureka	2026-07-30T00:23:12Z	3.2.4

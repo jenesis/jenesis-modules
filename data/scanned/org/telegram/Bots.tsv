@@ -1,6 +1,7 @@
 10.0.0		2026-05-31T10:17:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/telegram/Bots/10.0.0/Bots-10.0.0.jar returned status 404
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/telegram/Bots/10.1.0/Bots-10.1.0.jar returned status 404
 10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/telegram/Bots/10.1.1/Bots-10.1.1.jar returned status 404
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/telegram/Bots/10.2.0/Bots-10.2.0.jar returned status 404
 4.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/telegram/Bots/4.4.0.1/Bots-4.4.0.1.jar returned status 404
 4.4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/telegram/Bots/4.4.0.2/Bots-4.4.0.2.jar returned status 404
 4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/telegram/Bots/4.5/Bots-4.5.jar returned status 404

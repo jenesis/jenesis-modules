@@ -303,4 +303,6 @@
 3.13.8	named	com.google.gerrit	gerrit-plugin-api	2026-07-14T02:28:06Z	2.0.1
 0.42.1	named	org.kill-bill.billing	killbill-platform-osgi-bundles-graphite	2026-07-15T02:09:26Z	2.0.1
 0.42.1	named	org.kill-bill.billing	killbill-platform-osgi-bundles-influxdb	2026-07-15T02:09:27Z	2.0.1
+0.42.2	named	org.kill-bill.billing	killbill-platform-osgi-bundles-graphite	2026-07-30T00:23:00Z	2.0.1
+0.42.2	named	org.kill-bill.billing	killbill-platform-osgi-bundles-influxdb	2026-07-30T00:23:00Z	2.0.1
 1.3.0	named	io.github.jolt-community.jolt	jolt-community-cli	2026-08-02T02:24:30Z	2.0.1.MR

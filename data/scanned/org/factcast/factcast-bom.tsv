@@ -32,6 +32,7 @@
 0.11.0		2026-06-01T12:47:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/factcast/factcast-bom/0.11.0/factcast-bom-0.11.0.jar returned status 404
 0.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/factcast/factcast-bom/0.11.1/factcast-bom-0.11.1.jar returned status 404
 0.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/factcast/factcast-bom/0.11.2/factcast-bom-0.11.2.jar returned status 404
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/factcast/factcast-bom/0.12.0/factcast-bom-0.12.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/factcast/factcast-bom/0.2.0/factcast-bom-0.2.0.jar returned status 404
 0.2.0-M10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/factcast/factcast-bom/0.2.0-M10/factcast-bom-0.2.0-M10.jar returned status 404
 0.2.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/factcast/factcast-bom/0.2.0-M6/factcast-bom-0.2.0-M6.jar returned status 404

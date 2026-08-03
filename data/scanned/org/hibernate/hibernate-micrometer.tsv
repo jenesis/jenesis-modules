@@ -192,6 +192,7 @@
 6.6.52.Final		2026-05-31T00:18:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.52.Final/hibernate-micrometer-6.6.52.Final.jar returned status 404
 6.6.53.Final		2026-06-09T07:17:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.53.Final/hibernate-micrometer-6.6.53.Final.jar returned status 404
 6.6.54.Final		2026-06-28T00:18:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.54.Final/hibernate-micrometer-6.6.54.Final.jar returned status 404
+6.6.55.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.55.Final/hibernate-micrometer-6.6.55.Final.jar returned status 404
 6.6.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.6.Final/hibernate-micrometer-6.6.6.Final.jar returned status 404
 6.6.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.7.Final/hibernate-micrometer-6.6.7.Final.jar returned status 404
 6.6.8.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/6.6.8.Final/hibernate-micrometer-6.6.8.Final.jar returned status 404
@@ -248,6 +249,7 @@
 7.1.32.Final		2026-06-28T00:20:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.32.Final/hibernate-micrometer-7.1.32.Final.jar returned status 404
 7.1.33.Final		2026-07-05T00:19:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.33.Final/hibernate-micrometer-7.1.33.Final.jar returned status 404
 7.1.34.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.34.Final/hibernate-micrometer-7.1.34.Final.jar returned status 404
+7.1.35.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.35.Final/hibernate-micrometer-7.1.35.Final.jar returned status 404
 7.1.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.4.Final/hibernate-micrometer-7.1.4.Final.jar returned status 404
 7.1.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.5.Final/hibernate-micrometer-7.1.5.Final.jar returned status 404
 7.1.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.1.6.Final/hibernate-micrometer-7.1.6.Final.jar returned status 404
@@ -275,6 +277,7 @@
 7.2.21.Final		2026-06-28T00:47:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.21.Final/hibernate-micrometer-7.2.21.Final.jar returned status 404
 7.2.22.Final		2026-07-05T00:18:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.22.Final/hibernate-micrometer-7.2.22.Final.jar returned status 404
 7.2.23.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.23.Final/hibernate-micrometer-7.2.23.Final.jar returned status 404
+7.2.24.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.24.Final/hibernate-micrometer-7.2.24.Final.jar returned status 404
 7.2.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.3.Final/hibernate-micrometer-7.2.3.Final.jar returned status 404
 7.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.4.Final/hibernate-micrometer-7.2.4.Final.jar returned status 404
 7.2.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.2.5.Final/hibernate-micrometer-7.2.5.Final.jar returned status 404
@@ -289,6 +292,7 @@
 7.3.10.Final		2026-06-28T00:20:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.10.Final/hibernate-micrometer-7.3.10.Final.jar returned status 404
 7.3.11.Final		2026-07-05T00:20:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.11.Final/hibernate-micrometer-7.3.11.Final.jar returned status 404
 7.3.12.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.12.Final/hibernate-micrometer-7.3.12.Final.jar returned status 404
+7.3.13.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.13.Final/hibernate-micrometer-7.3.13.Final.jar returned status 404
 7.3.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.2.Final/hibernate-micrometer-7.3.2.Final.jar returned status 404
 7.3.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.3.Final/hibernate-micrometer-7.3.3.Final.jar returned status 404
 7.3.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-micrometer/7.3.4.Final/hibernate-micrometer-7.3.4.Final.jar returned status 404

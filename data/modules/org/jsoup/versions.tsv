@@ -301,3 +301,4 @@
 0.3.1	named	org.apache.flink	flink-agents-dist-flink-2.1	2026-07-25T00:28:42Z	1.21.2
 0.3.1	named	org.apache.flink	flink-agents-dist-flink-1.20	2026-07-25T00:28:43Z	1.21.2
 2.0.4	named	org.scala-sbt	librarymanagement-coursier_3	2026-07-27T00:04:54Z	1.22.2
+1.23.1	named	org.jsoup	jsoup	2026-07-31T02:18:03Z	1.23.1

@@ -33,4 +33,5 @@
 4.0.1		2026-06-15T12:32:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-java17-parent/4.0.1/solon-java17-parent-4.0.1.jar returned status 404
 4.0.2		2026-06-15T16:06:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-java17-parent/4.0.2/solon-java17-parent-4.0.2.jar returned status 404
 4.0.3		2026-07-01T15:51:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-java17-parent/4.0.3/solon-java17-parent-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-java17-parent/4.0.4/solon-java17-parent-4.0.4.jar returned status 404
 4.0.4-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/solon-java17-parent/4.0.4-M2/solon-java17-parent-4.0.4-M2.jar returned status 404

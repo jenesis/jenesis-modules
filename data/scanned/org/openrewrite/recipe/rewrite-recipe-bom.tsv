@@ -128,6 +128,7 @@
 3.33.0		2026-06-17T15:17:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/recipe/rewrite-recipe-bom/3.33.0/rewrite-recipe-bom-3.33.0.jar returned status 404
 3.34.0		2026-07-01T07:45:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/recipe/rewrite-recipe-bom/3.34.0/rewrite-recipe-bom-3.34.0.jar returned status 404
 3.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/recipe/rewrite-recipe-bom/3.35.0/rewrite-recipe-bom-3.35.0.jar returned status 404
+3.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/recipe/rewrite-recipe-bom/3.36.0/rewrite-recipe-bom-3.36.0.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/recipe/rewrite-recipe-bom/3.4.0/rewrite-recipe-bom-3.4.0.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/recipe/rewrite-recipe-bom/3.5.0/rewrite-recipe-bom-3.5.0.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/recipe/rewrite-recipe-bom/3.6.0/rewrite-recipe-bom-3.6.0.jar returned status 404
