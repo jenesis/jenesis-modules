@@ -35,6 +35,8 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moviebase/tmdb-api-js/1.0.0/tmdb-api-js-1.0.0.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moviebase/tmdb-api-js/1.1.0/tmdb-api-js-1.1.0.jar returned status 404
 1.10.0		2026-05-31T09:03:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moviebase/tmdb-api-js/1.10.0/tmdb-api-js-1.10.0.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moviebase/tmdb-api-js/1.11.0/tmdb-api-js-1.11.0.jar returned status 404
+1.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moviebase/tmdb-api-js/1.12.0/tmdb-api-js-1.12.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moviebase/tmdb-api-js/1.2.0/tmdb-api-js-1.2.0.jar returned status 404
 1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moviebase/tmdb-api-js/1.3.2/tmdb-api-js-1.3.2.jar returned status 404
 1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/moviebase/tmdb-api-js/1.3.3/tmdb-api-js-1.3.3.jar returned status 404

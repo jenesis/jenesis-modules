@@ -22,3 +22,4 @@
 0.36.0	metadata	2026-07-12T09:02:01Z	
 0.36.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-runtime-gemma-iree-macosarm64/0.36.1/skainet-transformers-runtime-gemma-iree-macosarm64-0.36.1.jar returned status 404
 0.36.1	metadata	2026-07-17T15:19:09Z	
+0.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-runtime-gemma-iree-macosarm64/0.38.0/skainet-transformers-runtime-gemma-iree-macosarm64-0.38.0.jar returned status 404

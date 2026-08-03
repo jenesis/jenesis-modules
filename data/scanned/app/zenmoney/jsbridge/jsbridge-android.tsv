@@ -18,6 +18,7 @@
 2.0.0-rc18		2026-07-08T14:40:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-android/2.0.0-rc18/jsbridge-android-2.0.0-rc18.jar returned status 404
 2.0.0-rc19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-android/2.0.0-rc19/jsbridge-android-2.0.0-rc19.jar returned status 404
 2.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-android/2.0.0-rc2/jsbridge-android-2.0.0-rc2.jar returned status 404
+2.0.0-rc20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-android/2.0.0-rc20/jsbridge-android-2.0.0-rc20.jar returned status 404
 2.0.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-android/2.0.0-rc3/jsbridge-android-2.0.0-rc3.jar returned status 404
 2.0.0-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-android/2.0.0-rc4/jsbridge-android-2.0.0-rc4.jar returned status 404
 2.0.0-rc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-android/2.0.0-rc5/jsbridge-android-2.0.0-rc5.jar returned status 404

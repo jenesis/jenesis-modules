@@ -38,6 +38,7 @@
 2.0.0-rc19	metadata	2026-07-09T13:28:09Z	
 2.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-iosarm64/2.0.0-rc2/jsbridge-iosarm64-2.0.0-rc2.jar returned status 404
 2.0.0-rc2	metadata	2025-10-28T11:34:30Z	
+2.0.0-rc20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-iosarm64/2.0.0-rc20/jsbridge-iosarm64-2.0.0-rc20.jar returned status 404
 2.0.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-iosarm64/2.0.0-rc3/jsbridge-iosarm64-2.0.0-rc3.jar returned status 404
 2.0.0-rc3	metadata	2025-11-05T09:06:12Z	
 2.0.0-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/zenmoney/jsbridge/jsbridge-iosarm64/2.0.0-rc4/jsbridge-iosarm64-2.0.0-rc4.jar returned status 404

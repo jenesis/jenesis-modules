@@ -207,3 +207,4 @@
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/hamm/airpower/6.5.0/airpower-6.5.0.jar returned status 404
 6.6.0		2026-07-20T13:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/hamm/airpower/6.6.0/airpower-6.6.0.jar returned status 404
 6.6.1		2026-07-21T09:16:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/hamm/airpower/6.6.1/airpower-6.6.1.jar returned status 404
+6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/hamm/airpower/6.7.0/airpower-6.7.0.jar returned status 404

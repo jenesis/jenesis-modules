@@ -52,6 +52,7 @@
 3.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-iosarm64/3.17.0/okio-iosarm64-3.17.0.jar returned status 404
 3.17.0	metadata	2026-03-11T21:50:26Z	
 3.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-iosarm64/3.18.0/okio-iosarm64-3.18.0.jar returned status 404
+3.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-iosarm64/3.18.1/okio-iosarm64-3.18.1.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-iosarm64/3.2.0/okio-iosarm64-3.2.0.jar returned status 404
 3.2.0	metadata	2022-06-27T03:18:43Z	
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/okio/okio-iosarm64/3.3.0/okio-iosarm64-3.3.0.jar returned status 404

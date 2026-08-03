@@ -124,3 +124,4 @@
 3.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-all/3.8.7/polaris-all-3.8.7.jar returned status 404
 3.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-all/3.8.8/polaris-all-3.8.8.jar returned status 404
 3.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-all/3.8.9/polaris-all-3.8.9.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-all/3.9.0/polaris-all-3.9.0.jar returned status 404

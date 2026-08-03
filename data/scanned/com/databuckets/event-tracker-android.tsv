@@ -1,2 +1,5 @@
 1.0.0		2026-07-09T07:34:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databuckets/event-tracker-android/1.0.0/event-tracker-android-1.0.0.jar returned status 404
 1.0.1		2026-07-21T09:42:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databuckets/event-tracker-android/1.0.1/event-tracker-android-1.0.1.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databuckets/event-tracker-android/1.1.0/event-tracker-android-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databuckets/event-tracker-android/1.1.1/event-tracker-android-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databuckets/event-tracker-android/1.1.2/event-tracker-android-1.1.2.jar returned status 404
