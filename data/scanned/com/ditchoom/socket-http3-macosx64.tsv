@@ -31,6 +31,9 @@
 3.14.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-macosx64/3.14.9/socket-http3-macosx64-3.14.9.jar returned status 404
 3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-macosx64/3.15.0/socket-http3-macosx64-3.15.0.jar returned status 404
 3.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-macosx64/3.15.1/socket-http3-macosx64-3.15.1.jar returned status 404
+3.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-macosx64/3.16.0/socket-http3-macosx64-3.16.0.jar returned status 404
+3.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-macosx64/3.16.1/socket-http3-macosx64-3.16.1.jar returned status 404
+3.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-macosx64/3.17.0/socket-http3-macosx64-3.17.0.jar returned status 404
 3.4.5		2026-06-05T14:57:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-macosx64/3.4.5/socket-http3-macosx64-3.4.5.jar returned status 404
 3.4.5	metadata	2026-06-05T14:57:56Z	
 3.4.6		2026-06-05T17:22:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-macosx64/3.4.6/socket-http3-macosx64-3.4.6.jar returned status 404
@@ -115,3 +118,4 @@
 3.9.4	metadata	2026-07-12T13:13:34Z	
 3.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-macosx64/3.9.5/socket-http3-macosx64-3.9.5.jar returned status 404
 3.9.5	metadata	2026-07-12T22:21:21Z	
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-macosx64/4.0.0/socket-http3-macosx64-4.0.0.jar returned status 404
