@@ -7,3 +7,4 @@
 1.2.5		2026-06-23T04:38:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/query-analyzer/query-analyzer-parent/1.2.5/query-analyzer-parent-1.2.5.jar returned status 404
 1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/query-analyzer/query-analyzer-parent/1.2.6/query-analyzer-parent-1.2.6.jar returned status 404
 1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/query-analyzer/query-analyzer-parent/1.2.7/query-analyzer-parent-1.2.7.jar returned status 404
+1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/query-analyzer/query-analyzer-parent/1.2.8/query-analyzer-parent-1.2.8.jar returned status 404

@@ -34,3 +34,4 @@
 2.0.6	plain	2026-04-24T21:55:40Z	
 2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/7mza/spring-gateway-geolite/2.0.7/spring-gateway-geolite-2.0.7.jar returned status 404
 2.0.7	plain	2026-05-14T11:37:51Z	
+2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/7mza/spring-gateway-geolite/2.0.8/spring-gateway-geolite-2.0.8.jar returned status 404

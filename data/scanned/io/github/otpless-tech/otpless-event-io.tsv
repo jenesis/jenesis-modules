@@ -1,3 +1,4 @@
 1.0.0		2026-06-09T07:23:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otpless-tech/otpless-event-io/1.0.0/otpless-event-io-1.0.0.jar returned status 404
 1.0.0-beta01		2026-06-04T10:43:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otpless-tech/otpless-event-io/1.0.0-beta01/otpless-event-io-1.0.0-beta01.jar returned status 404
 1.0.1		2026-06-09T14:06:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otpless-tech/otpless-event-io/1.0.1/otpless-event-io-1.0.1.jar returned status 404
+1.0.1-cs-35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otpless-tech/otpless-event-io/1.0.1-cs-35/otpless-event-io-1.0.1-cs-35.jar returned status 404
