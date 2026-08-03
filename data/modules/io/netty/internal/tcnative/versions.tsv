@@ -829,3 +829,4 @@
 1.82.3	named	io.grpc	grpc-netty-shaded	2026-07-31T00:06:06Z	2.0.75.Final
 4.1.11	named	com.instaclustr	esop-azure	2026-07-31T02:15:28Z	2.0.73.Final
 4.1.11	named	com.instaclustr	esop-gcp	2026-07-31T02:15:28Z	2.0.70.Final
+9.0.3	named	com.datastax.oss	pulsar-jms-all	2026-08-01T00:09:27Z	2.0.77.Final

@@ -1,1 +1,2 @@
 0.1.0		2026-07-20T11:44:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomise/atomise-pii-logging/0.1.0/atomise-pii-logging-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atomise/atomise-pii-logging/0.2.0/atomise-pii-logging-0.2.0.jar returned status 404

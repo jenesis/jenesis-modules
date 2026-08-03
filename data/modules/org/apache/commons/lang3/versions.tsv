@@ -1374,5 +1374,6 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 4.0.10.9	named	io.streamnative	buildtools	2026-07-28T00:10:15Z	3.19.0
 4.0.11.1	named	io.streamnative	buildtools	2026-07-30T00:05:26Z	3.19.0
 4.2.1.9	named	io.streamnative	buildtools	2026-08-01T00:01:05Z	3.19.0
+9.0.3	named	com.datastax.oss	pulsar-jms-activemq-filters	2026-08-01T00:09:28Z	3.18.0
 8.37.0.45887	named	org.sonarsource.java	sonar-java-plugin	2026-08-01T00:11:28Z	3.20.0
 4.0.12.1	named	io.streamnative	buildtools	2026-08-03T00:02:29Z	3.19.0

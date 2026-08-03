@@ -47,3 +47,5 @@
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushly/android/pushsdk/1.7.2/pushsdk-1.7.2.jar returned status 404
 1.7.3		2026-06-23T22:10:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushly/android/pushsdk/1.7.3/pushsdk-1.7.3.jar returned status 404
 1.7.4		2026-06-29T15:30:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushly/android/pushsdk/1.7.4/pushsdk-1.7.4.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushly/android/pushsdk/1.8.0/pushsdk-1.8.0.jar returned status 404
+1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pushly/android/pushsdk/1.8.1/pushsdk-1.8.1.jar returned status 404

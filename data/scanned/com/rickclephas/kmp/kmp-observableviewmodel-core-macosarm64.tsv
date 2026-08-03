@@ -134,3 +134,4 @@
 1.0.5-kotlin-2.4.10-RC	metadata	2026-06-30T19:22:49Z	
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rickclephas/kmp/kmp-observableviewmodel-core-macosarm64/1.0.6/kmp-observableviewmodel-core-macosarm64-1.0.6.jar returned status 404
 1.0.6	metadata	2026-07-15T19:15:21Z	
+1.0.6-kotlin-2.4.20-Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rickclephas/kmp/kmp-observableviewmodel-core-macosarm64/1.0.6-kotlin-2.4.20-Beta2/kmp-observableviewmodel-core-macosarm64-1.0.6-kotlin-2.4.20-Beta2.jar returned status 404
