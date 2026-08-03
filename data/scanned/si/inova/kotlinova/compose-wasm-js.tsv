@@ -4,3 +4,4 @@
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/compose-wasm-js/4.0.3/compose-wasm-js-4.0.3.jar returned status 404
 4.1.0		2026-05-29T06:22:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/compose-wasm-js/4.1.0/compose-wasm-js-4.1.0.jar returned status 404
 4.1.1		2026-06-12T08:08:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/compose-wasm-js/4.1.1/compose-wasm-js-4.1.1.jar returned status 404
+4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/compose-wasm-js/4.1.2/compose-wasm-js-4.1.2.jar returned status 404

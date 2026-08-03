@@ -35,3 +35,5 @@
 3.2.0		2026-07-22T12:08:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-opensearch-index-writer-service/3.2.0/jeap-opensearch-index-writer-service-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-opensearch-index-writer-service/3.3.0/jeap-opensearch-index-writer-service-3.3.0.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-opensearch-index-writer-service/3.4.0/jeap-opensearch-index-writer-service-3.4.0.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-opensearch-index-writer-service/3.5.0/jeap-opensearch-index-writer-service-3.5.0.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-opensearch-index-writer-service/3.6.0/jeap-opensearch-index-writer-service-3.6.0.jar returned status 404

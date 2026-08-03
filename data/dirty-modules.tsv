@@ -601,3 +601,14 @@ run.ratchet.store.mysql
 ch.sbb.polarion.extension.docx_exporter
 ch.sbb.polarion.extension.diff_tool
 ch.sbb.polarion.extension.pdf_exporter
+scala.library
+ch.epfl.lara.scala3.library_sjs1
+ch.epfl.lara.scala3.language.server
+ch.epfl.lara.scala3.library
+ch.epfl.lara.scala3.interfaces
+ch.epfl.lara.scala3.presentation.compiler
+ch.qos.logback.classic
+ch.qos.logback.core
+kotlinx.serialization.json
+org.apache.commons.validator
+ee.bitweb.core

@@ -4,3 +4,4 @@
 2.8.1		2026-06-09T10:39:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/swiyu/didresolver/didresolver-android/2.8.1/didresolver-android-2.8.1.jar returned status 404
 2.8.2		2026-06-11T11:45:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/swiyu/didresolver/didresolver-android/2.8.2/didresolver-android-2.8.2.jar returned status 404
 2.8.3		2026-07-03T08:12:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/swiyu/didresolver/didresolver-android/2.8.3/didresolver-android-2.8.3.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/swiyu/didresolver/didresolver-android/2.9.0/didresolver-android-2.9.0.jar returned status 404
