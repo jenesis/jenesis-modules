@@ -1211,7 +1211,10 @@ v0.24.1	named	io.kestra	kestra-api-client	2025-10-03T07:53:57Z	2.17.1
 0.52.0	named	io.simpleishard	trino-file	2026-07-27T00:00:45Z	2.21.3
 0.53.0	named	io.simpleishard	trino-file	2026-07-27T00:00:48Z	2.21.3
 0.51.0	named	io.simpleishard	trino-file	2026-07-27T00:00:52Z	2.21.3
+0.54.0	named	ai.askamerica	askamerica-engine	2026-07-27T23:52:12Z	2.18.4
 0.54.0	named	io.simpleishard	trino-file	2026-07-28T00:02:06Z	2.21.3
+0.55.0	named	ai.askamerica	askamerica-engine	2026-07-28T23:52:11Z	2.18.4
+0.56.0	named	ai.askamerica	askamerica-engine	2026-07-28T23:52:12Z	2.18.4
 0.55.0	named	io.simpleishard	trino-file	2026-07-29T00:04:02Z	2.21.3
 0.7.1	named	org.lance	lance-spark-bundle-3.4_2.12	2026-07-31T00:04:33Z	2.17.1
 0.7.1	named	org.lance	lance-spark-bundle-3.4_2.13	2026-07-31T00:04:33Z	2.17.1

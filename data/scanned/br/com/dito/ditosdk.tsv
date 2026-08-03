@@ -7,4 +7,7 @@
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/dito/ditosdk/3.4.0/ditosdk-3.4.0.jar returned status 404
 3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/dito/ditosdk/3.4.1/ditosdk-3.4.1.jar returned status 404
 3.5.0		2026-05-21T15:34:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/dito/ditosdk/3.5.0/ditosdk-3.5.0.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/dito/ditosdk/3.6.0/ditosdk-3.6.0.jar returned status 404
+3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/dito/ditosdk/3.6.1/ditosdk-3.6.1.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/dito/ditosdk/3.7.0/ditosdk-3.7.0.jar returned status 404
 main			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/dito/ditosdk/main/ditosdk-main.jar returned status 404

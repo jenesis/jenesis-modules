@@ -91,6 +91,7 @@
 3.33.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/quarkus/camel-quarkus-test-list/3.33.2/camel-quarkus-test-list-3.33.2.jar returned status 404
 3.35.0		2026-04-24T09:55:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/quarkus/camel-quarkus-test-list/3.35.0/camel-quarkus-test-list-3.35.0.jar returned status 404
 3.36.0		2026-05-21T12:02:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/quarkus/camel-quarkus-test-list/3.36.0/camel-quarkus-test-list-3.36.0.jar returned status 404
+3.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/quarkus/camel-quarkus-test-list/3.38.0/camel-quarkus-test-list-3.38.0.jar returned status 404
 3.4.0		2023-09-15T07:35:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/quarkus/camel-quarkus-test-list/3.4.0/camel-quarkus-test-list-3.4.0.jar returned status 404
 3.5.0		2023-10-20T06:38:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/quarkus/camel-quarkus-test-list/3.5.0/camel-quarkus-test-list-3.5.0.jar returned status 404
 3.6.0		2023-11-24T08:09:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/camel/quarkus/camel-quarkus-test-list/3.6.0/camel-quarkus-test-list-3.6.0.jar returned status 404

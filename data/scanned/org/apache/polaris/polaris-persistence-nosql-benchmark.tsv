@@ -8,3 +8,4 @@
 1.5.0	all	2026-05-14T07:00:11Z	
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/polaris/polaris-persistence-nosql-benchmark/1.6.0/polaris-persistence-nosql-benchmark-1.6.0.jar returned status 404
 1.6.0	all	2026-07-04T06:12:27Z	
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/polaris/polaris-persistence-nosql-benchmark/1.7.0/polaris-persistence-nosql-benchmark-1.7.0.jar returned status 404

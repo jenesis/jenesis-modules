@@ -39,3 +39,4 @@
 0.18.77		2026-06-29T14:55:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/codion/codion-framework-bom/0.18.77/codion-framework-bom-0.18.77.jar returned status 404
 0.18.78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/codion/codion-framework-bom/0.18.78/codion-framework-bom-0.18.78.jar returned status 404
 0.18.80		2026-07-13T10:47:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/codion/codion-framework-bom/0.18.80/codion-framework-bom-0.18.80.jar returned status 404
+0.18.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/codion/codion-framework-bom/0.18.81/codion-framework-bom-0.18.81.jar returned status 404

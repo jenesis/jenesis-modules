@@ -987,5 +987,6 @@
 3.3.2	named	org.apache.tika	tika-pipes-iterator-csv	2026-07-22T02:27:21Z	2.22.0
 1.127.0	named	no.entur	schema2proto-lib	2026-07-24T23:55:28Z	2.22.0
 1.0.6	named	org.dominokit	domino-jackson-processor	2026-07-28T00:16:29Z	2.15.0
+4.17.4	named	org.apache.distributedlog	distributedlog-core-shaded	2026-07-29T00:15:39Z	2.19.0
 1.16.0	named	io.boxlang	boxlang-noop	2026-07-30T23:57:25Z	2.22.0
 1.128.0	named	no.entur	schema2proto-lib	2026-07-31T23:52:35Z	2.22.0
