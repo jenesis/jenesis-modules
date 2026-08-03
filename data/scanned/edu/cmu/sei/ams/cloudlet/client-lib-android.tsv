@@ -4,3 +4,5 @@
 2.1.0		2015-11-11T15:15:36Z	
 2.2.0		2015-11-12T15:54:03Z	
 2.3.0		2015-11-19T20:26:10Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/cmu/sei/ams/cloudlet/client-lib-android/3.0.0/client-lib-android-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/cmu/sei/ams/cloudlet/client-lib-android/3.0.1/client-lib-android-3.0.1.jar returned status 404

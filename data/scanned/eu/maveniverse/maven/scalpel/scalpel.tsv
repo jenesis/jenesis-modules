@@ -8,3 +8,5 @@
 0.3.5		2026-06-22T21:18:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/scalpel/scalpel/0.3.5/scalpel-0.3.5.jar returned status 404
 0.3.6		2026-06-25T22:22:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/scalpel/scalpel/0.3.6/scalpel-0.3.6.jar returned status 404
 0.3.7		2026-06-26T11:46:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/scalpel/scalpel/0.3.7/scalpel-0.3.7.jar returned status 404
+0.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/scalpel/scalpel/0.3.8/scalpel-0.3.8.jar returned status 404
+0.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/scalpel/scalpel/0.3.9/scalpel-0.3.9.jar returned status 404

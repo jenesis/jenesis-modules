@@ -49,6 +49,7 @@
 54		2026-05-21T09:35:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/parent/parent/54/parent-54.jar returned status 404
 55		2026-05-28T10:24:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/parent/parent/55/parent-55.jar returned status 404
 56		2026-06-24T16:10:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/parent/parent/56/parent-56.jar returned status 404
+57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/parent/parent/57/parent-57.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/parent/parent/6/parent-6.jar returned status 404
 7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/parent/parent/7/parent-7.jar returned status 404
 8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/parent/parent/8/parent-8.jar returned status 404

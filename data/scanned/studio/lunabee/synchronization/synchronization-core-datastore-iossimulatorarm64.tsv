@@ -2,3 +2,5 @@
 2.0.0-beta03	metadata	2026-07-16T10:28:45Z	
 2.0.0-beta04		2026-07-17T11:20:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/synchronization/synchronization-core-datastore-iossimulatorarm64/2.0.0-beta04/synchronization-core-datastore-iossimulatorarm64-2.0.0-beta04.jar returned status 404
 2.0.0-beta04	metadata	2026-07-17T11:20:59Z	
+2.0.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/synchronization/synchronization-core-datastore-iossimulatorarm64/2.0.0-rc01/synchronization-core-datastore-iossimulatorarm64-2.0.0-rc01.jar returned status 404
+2.0.0-rc02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/synchronization/synchronization-core-datastore-iossimulatorarm64/2.0.0-rc02/synchronization-core-datastore-iossimulatorarm64-2.0.0-rc02.jar returned status 404

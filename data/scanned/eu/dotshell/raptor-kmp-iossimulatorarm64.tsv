@@ -4,3 +4,5 @@
 2.0.0	metadata	2026-07-16T21:58:49Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/dotshell/raptor-kmp-iossimulatorarm64/2.0.1/raptor-kmp-iossimulatorarm64-2.0.1.jar returned status 404
 2.0.1	metadata	2026-07-19T13:35:04Z	
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/dotshell/raptor-kmp-iossimulatorarm64/2.1.0/raptor-kmp-iossimulatorarm64-2.1.0.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/dotshell/raptor-kmp-iossimulatorarm64/2.2.0/raptor-kmp-iossimulatorarm64-2.2.0.jar returned status 404

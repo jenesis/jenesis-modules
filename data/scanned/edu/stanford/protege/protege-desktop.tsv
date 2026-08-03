@@ -1,5 +1,13 @@
 5.0.0		2016-05-24T21:26:43Z	
+5.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/stanford/protege/protege-desktop/5.0.0-RC1/protege-desktop-5.0.0-RC1.jar returned status 404
 5.0.0-RC2		2016-05-19T01:36:30Z	
+5.0.0-beta-18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/stanford/protege/protege-desktop/5.0.0-beta-18/protege-desktop-5.0.0-beta-18.jar returned status 404
+5.0.0-beta-19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/stanford/protege/protege-desktop/5.0.0-beta-19/protege-desktop-5.0.0-beta-19.jar returned status 404
+5.0.0-beta-20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/stanford/protege/protege-desktop/5.0.0-beta-20/protege-desktop-5.0.0-beta-20.jar returned status 404
+5.0.0-beta-21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/stanford/protege/protege-desktop/5.0.0-beta-21/protege-desktop-5.0.0-beta-21.jar returned status 404
+5.0.0-beta-22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/stanford/protege/protege-desktop/5.0.0-beta-22/protege-desktop-5.0.0-beta-22.jar returned status 404
+5.0.0-beta-23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/stanford/protege/protege-desktop/5.0.0-beta-23/protege-desktop-5.0.0-beta-23.jar returned status 404
+5.0.0-beta-24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/stanford/protege/protege-desktop/5.0.0-beta-24/protege-desktop-5.0.0-beta-24.jar returned status 404
 5.1.0		2016-10-11T19:35:20Z	
 5.2.0		2017-03-15T00:31:33Z	
 5.5.0		2019-03-14T22:10:59Z	

@@ -1,2 +1,4 @@
 3.1.0		2026-07-02T11:23:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/intesys/spring-content-bom/3.1.0/spring-content-bom-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/intesys/spring-content-bom/3.1.1/spring-content-bom-3.1.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/intesys/spring-content-bom/4.0.0/spring-content-bom-4.0.0.jar returned status 404
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/intesys/spring-content-bom/4.0.1/spring-content-bom-4.0.1.jar returned status 404
