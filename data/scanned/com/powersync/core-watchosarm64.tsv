@@ -18,6 +18,7 @@
 1.12.0	metadata	2026-05-06T15:38:17Z	
 1.13.0		2026-06-08T12:00:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powersync/core-watchosarm64/1.13.0/core-watchosarm64-1.13.0.jar returned status 404
 1.13.0	metadata	2026-06-08T12:00:39Z	
+1.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powersync/core-watchosarm64/1.14.1/core-watchosarm64-1.14.1.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powersync/core-watchosarm64/1.2.1/core-watchosarm64-1.2.1.jar returned status 404
 1.2.1	metadata	2025-07-01T16:05:11Z	
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/powersync/core-watchosarm64/1.2.2/core-watchosarm64-1.2.2.jar returned status 404

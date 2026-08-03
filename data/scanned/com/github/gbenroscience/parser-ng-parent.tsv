@@ -6,3 +6,6 @@
 2.0.5		2026-06-25T08:23:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/gbenroscience/parser-ng-parent/2.0.5/parser-ng-parent-2.0.5.jar returned status 404
 2.0.6		2026-06-29T16:52:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/gbenroscience/parser-ng-parent/2.0.6/parser-ng-parent-2.0.6.jar returned status 404
 2.0.7		2026-07-07T12:24:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/gbenroscience/parser-ng-parent/2.0.7/parser-ng-parent-2.0.7.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/gbenroscience/parser-ng-parent/3.0.0/parser-ng-parent-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/gbenroscience/parser-ng-parent/3.0.1/parser-ng-parent-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/gbenroscience/parser-ng-parent/3.0.2/parser-ng-parent-3.0.2.jar returned status 404

@@ -214,3 +214,11 @@
 5.2.0	named	com.github.stephengold	jolt-jni-Linux64	2026-07-07T03:58:39Z	
 5.2.0	named	com.github.stephengold	jolt-jni-MacOSX64	2026-07-07T04:10:30Z	
 5.2.0	named	com.github.stephengold	jolt-jni-MacOSX_ARM64	2026-07-07T05:45:01Z	
+6.0.0	named	com.github.stephengold	jolt-jni-Linux_ARM64	2026-07-30T02:20:07Z	
+6.0.0	named	com.github.stephengold	jolt-jni-MacOSX_ARM64	2026-07-30T02:20:07Z	
+6.0.0	named	com.github.stephengold	jolt-jni-Linux64_fma	2026-07-30T02:20:08Z	
+6.0.0	named	com.github.stephengold	jolt-jni-MacOSX64	2026-07-30T02:20:08Z	
+6.0.0	named	com.github.stephengold	jolt-jni-Linux64	2026-07-30T02:20:09Z	
+6.0.0	named	com.github.stephengold	jolt-jni-Linux_ARM32hf	2026-07-30T02:20:09Z	
+6.0.0	named	com.github.stephengold	jolt-jni-Windows64	2026-07-30T02:20:09Z	
+6.0.0	named	com.github.stephengold	jolt-jni-Windows64_avx2	2026-07-30T02:20:13Z	

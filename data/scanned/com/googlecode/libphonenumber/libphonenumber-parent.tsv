@@ -285,6 +285,7 @@
 9.0.33		2026-06-19T07:31:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/libphonenumber/libphonenumber-parent/9.0.33/libphonenumber-parent-9.0.33.jar returned status 404
 9.0.34		2026-07-02T10:18:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/libphonenumber/libphonenumber-parent/9.0.34/libphonenumber-parent-9.0.34.jar returned status 404
 9.0.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/libphonenumber/libphonenumber-parent/9.0.35/libphonenumber-parent-9.0.35.jar returned status 404
+9.0.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/libphonenumber/libphonenumber-parent/9.0.36/libphonenumber-parent-9.0.36.jar returned status 404
 9.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/libphonenumber/libphonenumber-parent/9.0.4/libphonenumber-parent-9.0.4.jar returned status 404
 9.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/libphonenumber/libphonenumber-parent/9.0.5/libphonenumber-parent-9.0.5.jar returned status 404
 9.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/libphonenumber/libphonenumber-parent/9.0.6/libphonenumber-parent-9.0.6.jar returned status 404

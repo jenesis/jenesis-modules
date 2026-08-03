@@ -6,3 +6,4 @@
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/sandwich-ktorfit-wasm-js/2.2.1/sandwich-ktorfit-wasm-js-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/sandwich-ktorfit-wasm-js/2.2.2/sandwich-ktorfit-wasm-js-2.2.2.jar returned status 404
 2.3.0		2026-07-03T07:20:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/sandwich-ktorfit-wasm-js/2.3.0/sandwich-ktorfit-wasm-js-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/sandwich-ktorfit-wasm-js/2.4.0/sandwich-ktorfit-wasm-js-2.4.0.jar returned status 404

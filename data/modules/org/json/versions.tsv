@@ -677,3 +677,11 @@
 20260719	named	org.json	json	2026-07-20T00:18:44Z	20260719
 3.10.2	named	io.firebolt	firebolt-jdbc	2026-07-25T00:09:40Z	20251224
 2.2.0	named	com.guicedee.modules.services	json	2026-07-27T00:14:56Z	2.2.0
+1.4.2	named	com.github.karsaig	approvalcrest-junit-jupiter-kotlin	2026-07-29T00:17:05Z	20240303
+1.4.2	named	com.github.karsaig	approvalcrest-testng	2026-07-29T00:17:07Z	20240303
+1.4.2	named	com.github.karsaig	approvalcrest	2026-07-29T00:17:08Z	20240303
+1.4.2	named	com.github.karsaig	approvalcrest-junit-jupiter	2026-07-29T00:21:14Z	20240303
+1.5.0	named	com.github.karsaig	approvalcrest-junit-jupiter	2026-07-30T02:13:25Z	20240303
+1.5.0	named	com.github.karsaig	approvalcrest	2026-07-30T02:13:28Z	20240303
+1.5.0	named	com.github.karsaig	approvalcrest-junit-jupiter-kotlin	2026-07-30T02:13:28Z	20240303
+1.5.0	named	com.github.karsaig	approvalcrest-testng	2026-07-30T02:13:29Z	20240303
