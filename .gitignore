@@ -3,6 +3,10 @@
 # legitimate groupId segment.
 /target/
 *.hprof
+# The tool's runtime caches inside the jenesis home dir (.jenesis/ also holds the committed
+# .jenesis.skip marker and the upstream submodule, which stay tracked).
+.jenesis/artifacts/
+.jenesis/cache/
 
 ### IntelliJ IDEA ###
 .idea/*
