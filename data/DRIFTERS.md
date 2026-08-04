@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-03. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-04. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -633,7 +633,7 @@ io.netty.internal.tcnative.openssl.linux.x86_64  [fork: keep `io.netty`, `com.az
 io.netty.handler.proxy  [fork: keep `io.netty`, `io.kestra` still publishes the name]
   A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
   R   io.kestra                            2025-08..2026-07 1.3.30               |.................===|
-  R   org.apache.grails                    2026-05..2026-07 8.0.0-M3             |...................=|
+  R   org.apache.grails                    2026-05..2026-07 8.0.0-M3             |..................==|
   R   io.micronaut.starter                 2025-06..2026-07 4.10.17              |.................===|
   ?   org.apache.gravitino                 2026-06..2026-06 1.3.0                |...................=|
   ?   io.neonbee                           2026-06..2026-06 0.37.30              |...................=|
@@ -1656,7 +1656,7 @@ org.apache.commons.cli  [no clear owner; `commons-cli` is earliest and most rece
   ? * commons-cli                          2023-10..2025-11 1.11.0               |.............======.|
   ?   org.apktool                          2023-12..2026-07 3.0.3                |..............======|
   ?   org.teavm                            2024-04..2026-05 0.14.1               |..............======|
-  ?   io.github.vdaburon                   2024-01..2026-05 5.1                  |..............======|
+  ?   io.github.vdaburon                   2024-01..2026-05 5.1                  |..............=====.|
   ?   com.nanolaba                         2025-07..2026-04 1.2                  |.................==.|
   ?   com.ericsson.bss.cassandra.ecaudit   2024-08..2026-03 3.1.5                |...............====.|
     + 25 more: org.imixs.bpmn, io.github.gvergine, com.amazonaws, io.github.706412584, com.legsem.legstar, dev.walgo, org.apache.phoenix.thirdparty, org.apache.meecrowave, org.apache.james, net.thisptr, us.poliscore, com.github.oboehm, (+13 more)
@@ -1695,7 +1695,7 @@ com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most rec
   ?   com.backpackcloud                    2025-03..2026-01 2.1.0                |................===.|
     + 17 more: com.liferay.portal, de.fraunhofer.iosb.ilt.FROST-Server, com.ibm.jsonata4java, se.signatureservice.support, com.liferay, net.pincette, org.opengis.cite, org.immregistries, com.testdroid, org.sonarsource.slang, com.checkmarx, com.github.spoonlabs, (+5 more)
 jakarta.security.auth.message  [no clear owner; `jakarta.authentication` is earliest and most recent]
-  ? * jakarta.authentication               2020-11..2024-05 3.1.0                |........========....|
+  ? * jakarta.authentication               2020-11..2024-05 3.1.0                |........=======.....|
   ?   org.apache.tomcat                    2020-11..2026-07 11.0.24              |........============|
 java.servlet.jsp  [no clear owner; `org.apache.tomcat` is earliest and most recent]
   ? * org.apache.tomcat                    2020-11..2026-07 9.0.120              |........============|
