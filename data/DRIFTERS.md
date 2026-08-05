@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-04. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-05. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -14,7 +14,7 @@ Generated 2026-08-04. A module *drifts* when more than one groupId publishes the
 | unclassified | 262 | 6 |
 | **total** | **546** | **3113** |
 
-The table covers all **3659** multi-owner modules (of **37617** modules scanned).
+The table covers all **3659** multi-owner modules (of **37618** modules scanned).
 
 Timeline axis spans 2017-01 .. 2026-08 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
@@ -84,7 +84,7 @@ kotlinx.coroutines.core  [explicit rule: owned by `org.jetbrains`; 21 other grou
   R   com.eygraber                         2026-01..2026-07 0.1.6                |..................==|
   ?   org.openprojectx.java.dns            2026-06..2026-07 0.1.4                |...................=|
   R   com.airbnb.viaduct                   2026-05..2026-05 1.1.0                |...................=|
-  R   ca.acendas                           2025-11..2026-05 1.9.1                |..................==|
+  R   ca.acendas                           2025-11..2026-05 1.9.1                |..................=.|
   R   com.krillforge                       2026-04..2026-04 0.0.2                |..................=.|
     + 18 more: org.openprojectx.hadoop.win, org.jetbrains.dokka, org.jetbrains.intellij.deps.kotlinx, io.github.danbeldev, io.johnsonlee.kx, io.github.zimoyin, io.johnsonlee.exec, io.github.saumya-bhatt, io.realm.kotlin, com.rickbusarow.doks, io.sirix, com.squareup.wire, (+6 more)
 kotlin.stdlib.jdk7  [explicit rule: owned by `org.jetbrains.kotlin`; 22 other group(s) rejected]
@@ -424,7 +424,7 @@ org.apache.commons.lang3  [fork: keep `org.apache.commons`, `io.streamnative` st
   R   io.streamnative                      2025-05..2026-08 4.0.12.1             |.................===|
   R   org.sonarsource.java                 2024-11..2026-08 8.37.0.45887         |................====|
   R   com.datastax.oss                     2026-02..2026-08 9.0.3                |..................==|
-  R   com.ubs-hainer                       2025-11..2026-07 3.26.29              |..................==|
+  R   com.ubs-hainer                       2025-11..2026-07 3.26.29              |.................===|
   ?   org.openclover                       2026-07..2026-07 5.1.0                |...................=|
     + 103 more: com.sngular, io.openlineage, org.apache.tomee, org.frankframework, org.apache.shenyu, com.equinor.neqsim, com.liquibase.ext, org.apache.pulsar, org.apache.gravitino, de.grobmeier.json, io.swagger.parser.v3, ai.platon.gora, (+91 more)
 org.checkerframework.checker.qual  [fork: keep `org.checkerframework`, `io.valkyrja` still publishes the name]
@@ -1215,7 +1215,7 @@ com.fasterxml.jackson.datatype.joda  [owned by `com.fasterxml.jackson.datatype`;
   A * com.fasterxml.jackson.datatype       2017-10..2026-07 2.18.9               |.===================|
   R   io.kestra.plugin                     2024-06..2024-08 0.18.1               |...............=....|
   R   org.apache.beam                      2022-05..2023-05 2.48.0               |...........===......|
-  ?   io.siddhi                            2022-11..2023-02 5.1.28               |............=.......|
+  ?   io.siddhi                            2022-11..2023-02 5.1.28               |...........==.......|
   R   com.seeq                             2021-12..2022-08 55.4.9-v202208021422 |..........==........|
 com.fasterxml.jackson.module.paramnames  [owned by `com.fasterxml.jackson.module`; 11 other group(s) shade the name]
   A * com.fasterxml.jackson.module         2017-10..2026-07 2.18.9               |.===================|
@@ -1671,7 +1671,7 @@ org.apache.commons.net  [no clear owner; `commons-net` is earliest and most rece
   ?   org.apache.pinot                     2024-03..2024-03 1.1.0                |..............=.....|
   ?   com.jkoolcloud.tnt4j.streams         2023-11..2023-11 2.0.0                |..............=.....|
 jcef  [no clear owner; `me.friwi` is earliest and most recent]
-  ? * me.friwi                             2021-12..2026-05 jcef-d3de827+cef-146.0.10+g8219561+chromium-146.0.7680.179 |..........==========|
+  ? * me.friwi                             2021-12..2026-05 jcef-d3de827+cef-146.0.10+g8219561+chromium-146.0.7680.179 |..........=========.|
   ?   io.github.trethore                   2026-02..2026-07 jcef-5855f3c+cef-146.0.10+g8219561+chromium-146.0.7680.179 |..................==|
 atlantafx.base  [no clear owner; `io.github.mkpaz` is earliest and most recent]
   ? * io.github.mkpaz                      2022-09..2025-07 2.1.0                |...........=======..|
@@ -2019,7 +2019,7 @@ org.scala.lang.scala3.compiler  [no clear owner; `org.scala-lang` is earliest an
   ?   com.michaelpollmeier                 2022-10..2022-11 3.2.2-RC1-bin-20221101-d84007c-NIGHTLY+1-extensible-repl |...........==.......|
 uk.co.spudsoft.birt.emitters.excel  [no clear owner; `io.github.reporting-solutions` is earliest and most recent]
   ? * io.github.reporting-solutions        2019-05..2026-02 4.23.0               |.....==============.|
-  ?   org.eclipse.birt                     2022-05..2026-06 4.24.0               |...........=========|
+  ?   org.eclipse.birt                     2022-05..2026-06 4.24.0               |..........==========|
 org.jfree.chart  [no clear owner; `de.enflexit` is earliest and most recent]
   ? * de.enflexit                          2025-02..2025-02 1.5.6                |................=...|
   ?   io.github.jiaweim                    2026-05..2026-06 2.7.0                |...................=|

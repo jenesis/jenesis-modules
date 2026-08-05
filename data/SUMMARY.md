@@ -20,23 +20,23 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 18 101 760 |
+| Total artifacts scanned | 18 101 765 |
 | Non-module artifacts | 16 119 923 |
-| Modular artifacts | 1 638 794 |
+| Modular artifacts | 1 638 799 |
 | Total automatic modules | 1 284 835 |
-| Total named modules | 353 959 |
-| Total named modules with module-info version | 269 063 |
-| Distinct Maven artifacts | 673 944 |
-| Distinct module names | 40 832 |
+| Total named modules | 353 964 |
+| Total named modules with module-info version | 269 068 |
+| Distinct Maven artifacts | 673 945 |
+| Distinct module names | 40 833 |
 | Distinct automatic modules | 21 633 |
-| Distinct named modules | 17 731 |
-| Distinct named modules with module-info version | 12 964 |
+| Distinct named modules | 17 732 |
+| Distinct named modules with module-info version | 12 965 |
 | Distinct groupIds publishing modules | 5 246 |
-| Most recent tracked publication | 2026-08-03 02:25:55 UTC |
+| Most recent tracked publication | 2026-08-05 01:52:48 UTC |
 
 ## Resolved catalogue size
 
-Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **341 427** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
+Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **341 432** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
 
 Of those, **244** rows (53 distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.
 
@@ -50,7 +50,7 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
-| Named | 17 731 | 353 959 |
+| Named | 17 732 | 353 964 |
 | Automatic | 21 633 | 1 284 835 |
 
 ## Classifiers
@@ -92,7 +92,7 @@ Counts canonical **named publications** (one count per published JAR, not per di
 
 | Publication category | Publications |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 263 448 |
+| `module-info` version matches the Maven coordinate version | 263 453 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 5 615 |
 | `module-info` declared no version (Maven coordinate version is the only reference) | 55 649 |
 
@@ -100,7 +100,7 @@ Same breakdown but counted once per **canonical module**, against the latest nam
 
 | Module category (by latest canonical named row) | Modules |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 11 519 |
+| `module-info` version matches the Maven coordinate version | 11 520 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 212 |
 | `module-info` declared no version (Maven coordinate version is the only reference) | 4 260 |
 
@@ -108,8 +108,8 @@ Each row describes what the **version-mismatch filter** (drop every named row wh
 
 | Module version filtering impact | Module names |
 |---|---:|
-| Canonical modules with at least one named row (in scope) | 16 140 |
-| Filter keeps every named row: `modules.tsv` is unchanged | 15 523 |
+| Canonical modules with at least one named row (in scope) | 16 141 |
+| Filter keeps every named row: `modules.tsv` is unchanged | 15 524 |
 | Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 509 |
 | Filter drops every named row: `modules.tsv` is removed entirely | 108 |
 | Filter drops the module's current top row: "latest" shifts to an older Maven version (or vanishes if fully lost) | 212 |
@@ -146,8 +146,8 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 1 877 | 936 | 941 |
-| New version rows | 3 016 | 1 444 | 1 572 |
+| Modules with a publication | 1 276 | 553 | 723 |
+| New version rows | 1 958 | 662 | 1 296 |
 | Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
@@ -185,7 +185,7 @@ For each canonical (no-classifier) module that resolved to an owner (implicit or
 |---:|---:|
 | 0 | 8 532 |
 | 1 | 1 095 |
-| 2 | 11 821 |
+| 2 | 11 822 |
 | 3 | 12 534 |
 | 4 | 2 396 |
 | 5 | 344 |
@@ -337,6 +337,11 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 
 | Module | Last publication |
 |---|---|
+| `build.jenesis.repository.ui` | 2026-08-05 01:52:48 UTC |
+| `build.jenesis.repository.format.oci` | 2026-08-05 01:52:17 UTC |
+| `build.jenesis.repository.server.spi` | 2026-08-05 01:52:17 UTC |
+| `build.jenesis.repository.format.raw` | 2026-08-05 01:52:15 UTC |
+| `build.jenesis.repository.store.azure` | 2026-08-05 01:52:13 UTC |
 | `com.google.api.services.sqladmin` | 2026-08-03 02:25:55 UTC |
 | `com.google.api.services.sts` | 2026-08-03 02:25:52 UTC |
 | `com.google.api.services.servicedirectory` | 2026-08-03 02:25:33 UTC |
@@ -357,11 +362,6 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 | `com.google.api.services.alloydb` | 2026-08-03 02:21:23 UTC |
 | `com.google.api.services.aiplatform` | 2026-08-03 02:21:17 UTC |
 | `com.google.api.services.androidenterprise` | 2026-08-03 02:21:14 UTC |
-| `com.google.api.services.admin` | 2026-08-03 02:21:08 UTC |
-| `io.axiam.sdk` | 2026-08-03 02:17:33 UTC |
-| `org.snmp4j` | 2026-08-03 02:15:49 UTC |
-| `org.snmp4j.transport.unix` | 2026-08-03 02:15:49 UTC |
-| `org.snmp4j.agent` | 2026-08-03 02:15:48 UTC |
 
 ## Top 25 groupIds by average versions per module
 
