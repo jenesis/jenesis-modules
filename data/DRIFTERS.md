@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-05. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-06. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -14,7 +14,7 @@ Generated 2026-08-05. A module *drifts* when more than one groupId publishes the
 | unclassified | 262 | 6 |
 | **total** | **546** | **3113** |
 
-The table covers all **3659** multi-owner modules (of **37618** modules scanned).
+The table covers all **3659** multi-owner modules (of **37619** modules scanned).
 
 Timeline axis spans 2017-01 .. 2026-08 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
@@ -203,7 +203,7 @@ spring.messaging  [explicit rule: owned by `org.springframework`; 2 other group(
 spring.orm  [explicit rule: owned by `org.springframework`; 3 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   com.liferay                          2022-03..2025-05 5.3.39.LIFERAY-PATCHED-1.JAKARTA-LIFERAY-PATCHED-1 |..........========..|
+  R   com.liferay                          2022-03..2025-05 5.3.39.LIFERAY-PATCHED-1.JAKARTA-LIFERAY-PATCHED-1 |..........=======...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
 spring.oxm  [explicit rule: owned by `org.springframework`; 3 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
@@ -232,7 +232,7 @@ spring.web  [explicit rule: owned by `org.springframework`; 7 other group(s) rej
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
   R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
-  R   com.liferay                          2025-05..2025-05 5.3.39.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
+  R   com.liferay                          2025-05..2025-05 5.3.39.JAKARTA-LIFERAY-PATCHED-1 |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |................=...|
     + 2 more: io.github.redteamobile, io.github.tfedyanin.springframework
@@ -722,7 +722,7 @@ com.fasterxml.jackson.jakarta.rs.json  [fork: keep `com.fasterxml.jackson.jakart
   R   ch.exense.step                       2022-10..2026-07 3.30.1               |...........=========|
   ?   com.inteligr8.activiti               2026-06..2026-06 1.4.1-aps-v25.3      |...................=|
   R   com.phonepe.sentinel-ai              2026-05..2026-05 1.1.2-SOLARIS-rc0    |...................=|
-  R   ch.exense.step.library               2023-08..2026-05 1.0.31               |.............=======|
+  R   ch.exense.step.library               2023-08..2026-05 1.0.31               |.............======.|
     + 13 more: org.eclipse.tractusx.edc, org.ow2.petals.samples.rest.edm, dev.getelements.elements, org.eclipse.edc.huawei, org.eclipse.edc.aws, org.eclipse.edc, io.nflow, com.brightsparklabs, io.trino.gateway, com.snehasishroy, com.smoketurner.dropwizard, org.kiwiproject, (+1 more)
 com.google.errorprone.annotations  [fork: keep `com.google.errorprone`, `com.salesforce.multicloudj` still publishes the name]
   A * com.google.errorprone                2019-12..2026-06 2.50.0               |......==============|
@@ -774,7 +774,7 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `dk.dma.a
   R   org.lucee                            2022-03..2026-06 2.26.0.0             |..........==========|
   ?   nl.tno.org.portico                   2026-05..2026-05 2.1.3                |...................=|
   R   app.freerouting                      2026-05..2026-05 2.2.4                |...................=|
-  R   org.beilstein                        2026-05..2026-05 1.1.2                |...................=|
+  R   org.beilstein                        2026-05..2026-05 1.1.2                |..................==|
     + 20 more: me.bechberger, io.openems, com.kount, com.github.aquality-automation, com.ghgande, com.github.bilderherunterlader, com.gemecosystem.gemjar, io.github.alien-tools, com.webforj, io.github.egonw, com.liferay, de.fraunhofer.iem, (+8 more)
 io.netty.transport  [fork: keep `io.netty`, `com.arcadedb` still publishes the name]
   A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
@@ -847,7 +847,7 @@ dev.tamboui.toolkit  [fork: keep `dev.tamboui`, `dev.jbang` still publishes the 
   ? * dev.tamboui                          2026-02..2026-06 0.4.0                |..................==|
   ?   dev.jbang                            2026-07..2026-07 0.141.0              |...................=|
 org.hsqldb  [fork: keep `org.hsqldb`, `io.synclite` still publishes the name]
-  A * org.hsqldb                           2021-04..2024-11 2.7.4                |........=========...|
+  A * org.hsqldb                           2021-04..2024-11 2.7.4                |........========....|
   ?   io.synclite                          2026-07..2026-07 1.0.0                |...................=|
   R   com.github.massamany                 2025-08..2025-09 1.2.3                |.................=..|
   ?   ch.zizka.csvcruncher                 2021-11..2023-09 2.7.0                |..........====......|
@@ -2151,7 +2151,7 @@ com.utool  [no clear owner; `io.gitee.shallwecode` is earliest and most recent]
   ?   io.github.shallwecodex               2025-05..2025-05 1.0.2                |.................=..|
 org.freedesktop.harfbuzz  [no clear owner; `io.github.jwharm.javagi` is earliest and most recent]
   ? * io.github.jwharm.javagi              2023-09..2025-05 0.12.2               |.............=====..|
-  ?   org.java-gi                          2025-11..2026-02 0.14.1               |..................=.|
+  ?   org.java-gi                          2025-11..2026-02 0.14.1               |.................==.|
 jcifs  [no clear owner; `org.codelibs` is earliest and most recent]
   ? * org.codelibs                         2022-04..2026-02 3.0.2                |..........=========.|
   ?   io.gitee.pickled_vegetables          2023-05..2023-05 2.2.0                |.............=......|
