@@ -21,22 +21,22 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 | Metric | Value |
 |---|---:|
 | Total artifacts scanned | 18 101 792 |
-| Non-module artifacts | 16 119 923 |
-| Modular artifacts | 1 638 826 |
+| Non-module artifacts | 16 119 922 |
+| Modular artifacts | 1 638 827 |
 | Total automatic modules | 1 284 835 |
-| Total named modules | 353 991 |
-| Total named modules with module-info version | 269 095 |
+| Total named modules | 353 992 |
+| Total named modules with module-info version | 269 096 |
 | Distinct Maven artifacts | 673 946 |
-| Distinct module names | 40 834 |
+| Distinct module names | 40 835 |
 | Distinct automatic modules | 21 633 |
-| Distinct named modules | 17 733 |
-| Distinct named modules with module-info version | 12 966 |
+| Distinct named modules | 17 734 |
+| Distinct named modules with module-info version | 12 967 |
 | Distinct groupIds publishing modules | 5 246 |
-| Most recent tracked publication | 2026-08-05 01:52:54 UTC |
+| Most recent tracked publication | 2026-08-06 13:46:52 UTC |
 
 ## Resolved catalogue size
 
-Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **341 459** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
+Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **341 460** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
 
 Of those, **244** rows (53 distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.
 
@@ -50,7 +50,7 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
-| Named | 17 733 | 353 991 |
+| Named | 17 734 | 353 992 |
 | Automatic | 21 633 | 1 284 835 |
 
 ## Classifiers
@@ -92,7 +92,7 @@ Counts canonical **named publications** (one count per published JAR, not per di
 
 | Publication category | Publications |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 263 480 |
+| `module-info` version matches the Maven coordinate version | 263 481 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 5 615 |
 | `module-info` declared no version (Maven coordinate version is the only reference) | 55 649 |
 
@@ -100,7 +100,7 @@ Same breakdown but counted once per **canonical module**, against the latest nam
 
 | Module category (by latest canonical named row) | Modules |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 11 521 |
+| `module-info` version matches the Maven coordinate version | 11 522 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 212 |
 | `module-info` declared no version (Maven coordinate version is the only reference) | 4 260 |
 
@@ -108,8 +108,8 @@ Each row describes what the **version-mismatch filter** (drop every named row wh
 
 | Module version filtering impact | Module names |
 |---|---:|
-| Canonical modules with at least one named row (in scope) | 16 142 |
-| Filter keeps every named row: `modules.tsv` is unchanged | 15 525 |
+| Canonical modules with at least one named row (in scope) | 16 143 |
+| Filter keeps every named row: `modules.tsv` is unchanged | 15 526 |
 | Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 509 |
 | Filter drops every named row: `modules.tsv` is removed entirely | 108 |
 | Filter drops the module's current top row: "latest" shifts to an older Maven version (or vanishes if fully lost) | 212 |
@@ -146,8 +146,8 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 1 303 | 580 | 723 |
-| New version rows | 1 985 | 689 | 1 296 |
+| Modules with a publication | 1 097 | 474 | 623 |
+| New version rows | 1 651 | 520 | 1 131 |
 | Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
@@ -185,7 +185,7 @@ For each canonical (no-classifier) module that resolved to an owner (implicit or
 |---:|---:|
 | 0 | 8 532 |
 | 1 | 1 095 |
-| 2 | 11 823 |
+| 2 | 11 824 |
 | 3 | 12 534 |
 | 4 | 2 396 |
 | 5 | 344 |
@@ -337,6 +337,7 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 
 | Module | Last publication |
 |---|---|
+| `build.jenesis.repository.contract.testkit` | 2026-08-06 13:46:52 UTC |
 | `build.jenesis.repository.store.testkit` | 2026-08-05 01:52:54 UTC |
 | `build.jenesis.repository.store.s3` | 2026-08-05 01:52:48 UTC |
 | `build.jenesis.repository.ui` | 2026-08-05 01:52:48 UTC |
@@ -361,7 +362,6 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 | `build.jenesis.repository.gc` | 2026-08-05 01:52:15 UTC |
 | `build.jenesis.repository.observation` | 2026-08-05 01:52:15 UTC |
 | `build.jenesis.repository.posture` | 2026-08-05 01:52:15 UTC |
-| `build.jenesis.repository.format` | 2026-08-05 01:52:14 UTC |
 
 ## Top 25 groupIds by average versions per module
 
