@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-07. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-08. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -80,7 +80,7 @@ scala.library  [explicit rule: owned by `org.scala-lang`; 2 other group(s) rejec
   ?   ch.epfl.lara                         2026-06..2026-07 3.10.0-RC1-bin-20260730-0cb7a4c-NIGHTLY |...................=|
   R   com.github.xuwei-k                   2021-01..2021-01 2.13.3-bin-1ca7d14   |........=...........|
 kotlinx.coroutines.core  [explicit rule: owned by `org.jetbrains`; 21 other group(s) rejected]
-  A * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0               |............========|
+  A * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0               |............=======.|
   R   com.eygraber                         2026-01..2026-07 0.1.6                |..................==|
   ?   org.openprojectx.java.dns            2026-06..2026-07 0.1.4                |...................=|
   R   com.airbnb.viaduct                   2026-05..2026-05 1.1.0                |...................=|
@@ -286,7 +286,7 @@ jakarta.mail  [republished by `com.sun.mail` (still active); belongs to `jakarta
 org.apache.commons.csv  [republished by `io.github.pustike` (still active); belongs to `org.apache.commons`]
   ? * io.github.pustike                    2019-01..2019-07 1.7.0                |....==..............|
   ?   com.guicedee.modules.services        2026-04..2026-07 2.2.0                |..................==|
-  ?   org.sonarsource.scanner.engine       2026-05..2026-07 13.5.0.4089          |...................=|
+  ?   org.sonarsource.scanner.engine       2026-05..2026-07 13.5.0.4089          |..................==|
   ?   com.orientechnologies                2026-03..2026-07 3.2.55               |..................==|
   ?   be.ugent.idlab.knows                 2025-09..2026-07 2.0.3                |.................===|
   ?   org.apache.pinot                     2024-08..2026-06 1.5.1                |...............=====|
@@ -774,7 +774,7 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `dk.dma.a
   R   org.lucee                            2022-03..2026-06 2.26.0.0             |..........==========|
   ?   nl.tno.org.portico                   2026-05..2026-05 2.1.3                |...................=|
   R   app.freerouting                      2026-05..2026-05 2.2.4                |...................=|
-  R   org.beilstein                        2026-05..2026-05 1.1.2                |..................==|
+  R   org.beilstein                        2026-05..2026-05 1.1.2                |..................=.|
     + 20 more: me.bechberger, io.openems, com.kount, com.github.aquality-automation, com.ghgande, com.github.bilderherunterlader, com.gemecosystem.gemjar, io.github.alien-tools, com.webforj, io.github.egonw, com.liferay, de.fraunhofer.iem, (+8 more)
 io.netty.transport  [fork: keep `io.netty`, `com.arcadedb` still publishes the name]
   A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
@@ -800,7 +800,7 @@ jakarta.ws.rs  [fork: keep `jakarta.ws.rs`, `com.exasol` still publishes the nam
   ?   com.exasol                           2026-06..2026-07 5.7.4                |...................=|
   R   io.github.tblsoft.solr               2025-07..2026-06 4.7                  |.................===|
   R   nl.mirila.cli                        2025-11..2026-06 3.15.0               |..................==|
-  R   org.jboss.narayana.lra               2024-12..2026-05 1.2.0.Final          |................====|
+  R   org.jboss.narayana.lra               2024-12..2026-05 1.2.0.Final          |................===.|
   R   com.inteligr8.activiti               2024-10..2026-03 1.3.0-aps-v26.1      |...............====.|
     + 14 more: com.affinidi.tdk, com.bluecirclesoft.open, me.chrissw-r1, com.biit-solutions, com.github.xeroapi, com.liferay, no.telenor.sdk, org.opengis.cite, com.documents4j, com.github.estuaryoss, com.jcabi, com.datadoghq, (+2 more)
 com.nimbusds.jose.jwt  [fork: keep `com.nimbusds`, `com.vaadin` still publishes the name]
@@ -1984,7 +1984,7 @@ org.newsclub.net.unix  [no clear owner; `com.kohlschutter.junixsocket` is earlie
   ?   net.blahajcloud                      2026-06..2026-06 1.0                  |...................=|
   ?   org.jam4s                            2025-10..2026-06 0.7.2-M1             |.................===|
   ?   com.sbbsystems.flink                 2026-01..2026-05 3.4.3                |..................==|
-  ?   net.corda                            2025-09..2026-05 4.14.2               |.................===|
+  ?   net.corda                            2025-09..2026-05 4.14.2               |.................==.|
   ?   io.nosqlbench                        2020-02..2020-03 3.12.47              |......=.............|
     + 1 more: io.engineblock
 com.jn.langx.java8  [no clear owner; `io.github.bes2008.solution.langx` is earliest and most recent]
