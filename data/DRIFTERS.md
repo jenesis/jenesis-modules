@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-08. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-09. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -83,7 +83,7 @@ kotlinx.coroutines.core  [explicit rule: owned by `org.jetbrains`; 21 other grou
   A * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0               |............=======.|
   R   com.eygraber                         2026-01..2026-07 0.1.6                |..................==|
   ?   org.openprojectx.java.dns            2026-06..2026-07 0.1.4                |...................=|
-  R   com.airbnb.viaduct                   2026-05..2026-05 1.1.0                |...................=|
+  R   com.airbnb.viaduct                   2026-05..2026-05 1.1.0                |..................==|
   R   ca.acendas                           2025-11..2026-05 1.9.1                |..................=.|
   R   com.krillforge                       2026-04..2026-04 0.0.2                |..................=.|
     + 18 more: org.openprojectx.hadoop.win, org.jetbrains.dokka, org.jetbrains.intellij.deps.kotlinx, io.github.danbeldev, io.johnsonlee.kx, io.github.zimoyin, io.johnsonlee.exec, io.github.saumya-bhatt, io.realm.kotlin, com.rickbusarow.doks, io.sirix, com.squareup.wire, (+6 more)
@@ -218,7 +218,7 @@ spring.test  [explicit rule: owned by `org.springframework`; 5 other group(s) re
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
   R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
-  R   com.liferay                          2025-05..2025-05 5.3.39.JAKARTA-LIFERAY-PATCHED-1 |.................=..|
+  R   com.liferay                          2025-05..2025-05 5.3.39.JAKARTA-LIFERAY-PATCHED-1 |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |................=...|
 spring.tx  [explicit rule: owned by `org.springframework`; 5 other group(s) rejected]
@@ -353,10 +353,10 @@ bento.fx  [renamed `software.coley` -> `software.coley.bento-fx` (latest 0.16.0)
   ? * software.coley                       2025-04..2026-01 0.15.1               |................===.|
   ?   software.coley.bento-fx              2026-07..2026-07 0.16.0               |...................=|
 simbot.logger.slf4j2impl  [renamed `love.forte.simbot.logger` -> `love.forte.simbot` (latest 5.0.0-Preview4)]
-  ? * love.forte.simbot.logger             2024-01..2026-05 5.0.0-Preview2       |..............======|
+  ? * love.forte.simbot.logger             2024-01..2026-05 5.0.0-Preview2       |..............=====.|
   ?   love.forte.simbot                    2026-06..2026-07 5.0.0-Preview4       |...................=|
 simbot.logger  [renamed `love.forte.simbot.logger` -> `love.forte.simbot` (latest 5.0.0-Preview4)]
-  ? * love.forte.simbot.logger             2024-01..2026-05 5.0.0-Preview2       |..............======|
+  ? * love.forte.simbot.logger             2024-01..2026-05 5.0.0-Preview2       |..............=====.|
   ?   love.forte.simbot                    2026-06..2026-07 5.0.0-Preview4       |...................=|
 io.github.humbleui.skija.macos.arm64  [renamed `io.github.humbleui.skija` -> `io.github.humbleui` (latest 0.119.6)]
   A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |..........=.........|
@@ -773,7 +773,7 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `dk.dma.a
   ?   dk.dma.ais.lib                       2026-07..2026-07 2.8.7                |...................=|
   R   org.lucee                            2022-03..2026-06 2.26.0.0             |..........==========|
   ?   nl.tno.org.portico                   2026-05..2026-05 2.1.3                |...................=|
-  R   app.freerouting                      2026-05..2026-05 2.2.4                |...................=|
+  R   app.freerouting                      2026-05..2026-05 2.2.4                |..................==|
   R   org.beilstein                        2026-05..2026-05 1.1.2                |..................=.|
     + 20 more: me.bechberger, io.openems, com.kount, com.github.aquality-automation, com.ghgande, com.github.bilderherunterlader, com.gemecosystem.gemjar, io.github.alien-tools, com.webforj, io.github.egonw, com.liferay, de.fraunhofer.iem, (+8 more)
 io.netty.transport  [fork: keep `io.netty`, `com.arcadedb` still publishes the name]
@@ -875,7 +875,7 @@ org.apache.arrow.vector  [fork: keep `org.apache.arrow`, `io.mishmash.stacks.pat
   ?   io.mishmash.stacks.patches           2026-03..2026-07 19.0.0-mmio.1.1      |..................==|
   ?   io.indextables                       2026-07..2026-07 0.6.0-rc2_spark_4.1.2 |...................=|
   A   org.apache.pinot                     2025-09..2025-09 1.4.0                |.................=..|
-  R   com.salesforce.datacloud             2025-05..2025-08 0.34.0               |.................=..|
+  R   com.salesforce.datacloud             2025-05..2025-08 0.34.0               |................==..|
 org.apache.commons.pool2  [fork: keep `org.apache.commons`, `com.liquibase.ext` still publishes the name]
   A * org.apache.commons                   2020-07..2025-12 2.13.1               |.......============.|
   ?   com.liquibase.ext                    2026-06..2026-07 5.2.1                |...................=|
@@ -2039,7 +2039,7 @@ java.json  [no clear owner; `javax.json` is earliest and most recent]
   ?   org.choco-solver                     2019-07..2026-05 6.0.1                |.....===============|
   ?   com.amihaiemil.web                   2021-02..2024-08 8.0.6                |........========....|
   ?   com.scalar-labs                      2019-02..2024-03 2.2.0                |....===========.....|
-  ?   org.apache.sling                     2022-10..2023-11 1.1.8                |...........====.....|
+  ?   org.apache.sling                     2022-10..2023-11 1.1.8                |...........===......|
   ?   com.atomgraph.etl.json               2022-11..2023-08 1.0.7                |............==......|
     + 11 more: org.openpreservation.jhove, com.artipie, com.onespan.integration, org.odftoolkit, org.finra.herd, com.bitplan.wikifrontend, net.pincette, org.glassfish, com.phenixrts.edgeauth, jakarta.json, de.julielab
 netty.socketio.core  [no clear owner; `io.github.neatguycoding` is earliest and most recent]
@@ -2085,7 +2085,7 @@ jakarta.messaging  [no clear owner; `jakarta.jms` is earliest and most recent]
   ?   be.vlaanderen.informatievlaanderen.ldes.ldio 2024-12..2024-12 2.12.0               |................=...|
 java.json.bind  [no clear owner; `javax.json.bind` is earliest and most recent]
   ? * javax.json.bind                      2017-04..2017-06 1.0                  |==..................|
-  ?   org.open-metadata                    2023-08..2026-05 1.13.0-rc1           |.............=======|
+  ?   org.open-metadata                    2023-08..2026-05 1.13.0-rc1           |.............======.|
   ?   org.jboss.pnc.build-agent            2024-06..2026-03 1.1.9                |...............====.|
   ?   be.valuya.cestzam                    2021-09..2023-01 2023.1.1             |.........====.......|
   ?   com.manywho.sdk                      2020-02..2020-05 2.0.1                |......=.............|
@@ -2150,7 +2150,7 @@ com.utool  [no clear owner; `io.gitee.shallwecode` is earliest and most recent]
   ? * io.gitee.shallwecode                 2025-05..2026-03 1.5.0                |.................==.|
   ?   io.github.shallwecodex               2025-05..2025-05 1.0.2                |.................=..|
 org.freedesktop.harfbuzz  [no clear owner; `io.github.jwharm.javagi` is earliest and most recent]
-  ? * io.github.jwharm.javagi              2023-09..2025-05 0.12.2               |.............=====..|
+  ? * io.github.jwharm.javagi              2023-09..2025-05 0.12.2               |.............====...|
   ?   org.java-gi                          2025-11..2026-02 0.14.1               |.................==.|
 jcifs  [no clear owner; `org.codelibs` is earliest and most recent]
   ? * org.codelibs                         2022-04..2026-02 3.0.2                |..........=========.|
