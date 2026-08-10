@@ -4,7 +4,7 @@
 > _A modern Java build tool: Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-07-23 05:59:21 UTC_  
-_Current chunk started: 2026-08-03 05:54:37 UTC_  
+_Current chunk started: 2026-08-10 05:11:08 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 934_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 18 101 792 |
-| Non-module artifacts | 16 119 922 |
+| Total artifacts scanned | 18 119 882 |
+| Non-module artifacts | 16 135 801 |
 | Modular artifacts | 1 638 827 |
 | Total automatic modules | 1 284 835 |
 | Total named modules | 353 992 |
 | Total named modules with module-info version | 269 096 |
-| Distinct Maven artifacts | 673 946 |
-| Distinct module names | 40 835 |
+| Distinct Maven artifacts | 673 950 |
+| Distinct module names | 40 842 |
 | Distinct automatic modules | 21 633 |
 | Distinct named modules | 17 734 |
 | Distinct named modules with module-info version | 12 967 |
@@ -146,8 +146,8 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 1 097 | 474 | 623 |
-| New version rows | 1 651 | 520 | 1 131 |
+| Modules with a publication | 45 | 33 | 12 |
+| New version rows | 51 | 33 | 18 |
 | Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
@@ -201,8 +201,8 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 3 688 229 |
-| Incorrectly indexed (mis-stamped 404s) | 3 685 955 |
+| Total failed coordinates | 3 696 698 |
+| Incorrectly indexed (mis-stamped 404s) | 3 694 424 |
 | Genuine artifact errors | 2 274 |
 
 ### Top 25 genuine error messages

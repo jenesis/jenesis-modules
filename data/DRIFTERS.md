@@ -1,20 +1,20 @@
 # Module ownership drifters
 
-Generated 2026-08-09. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-10. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
 | explicit-rules | 37 | 666 |
 | republisher | 4 | 14 |
-| migration | 13 | 777 |
-| fork | 100 | 320 |
-| shaded | 61 | 1260 |
+| migration | 13 | 778 |
+| fork | 94 | 311 |
+| shaded | 67 | 1268 |
 | tld-dropped | 2 | 70 |
 | two-segments | 67 | 0 |
 | unclassified | 262 | 6 |
 | **total** | **546** | **3113** |
 
-The table covers all **3659** multi-owner modules (of **37620** modules scanned).
+The table covers all **3659** multi-owner modules (of **37627** modules scanned).
 
 Timeline axis spans 2017-01 .. 2026-08 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
@@ -31,6 +31,38 @@ Hand-curated overrides: a module matching an explicit rule is assigned to a fixe
 | 1 | `org.jetbrains.kotlinx` | `org.jetbrains.kotlinx, org.jetbrains.dokka, org.jetbrains.intellij.deps.kotlinx` |
 
 ```
+com.google.gson  [explicit rule: owned by `com.google.code.gson`; 537 other group(s) rejected]
+  A * com.google.code.gson                 2019-10..2026-04 2.14.0               |.....==============.|
+  ?   io.github.cobble-project             2026-06..2026-08 0.4.0                |...................=|
+  ?   dev.frontseat.maven.extensions       2026-07..2026-08 0.16.0               |...................=|
+  R   io.jooby                             2022-04..2026-08 3.12.0               |..........==========|
+  R   dev.cjfravel                         2025-12..2026-08 0.1.8-beta           |..................==|
+  R   io.quarkus                           2024-07..2026-08 3.38.1               |...............=====|
+    + 532 more: org.sonarsource.sonarlint.core, org.sonarsource.java, org.openjproxy, org.biojava, org.sonarsource.dotnet, com.alibaba.ververica, com.tencent.polaris, com.conaxgames, org.operaton.bpm, dev.blitical, com.muscula, com.snowflake, (+520 more)
+com.google.common  [explicit rule: owned by `com.google.guava`; 74 other group(s) rejected]
+  A * com.google.guava                     2017-07..2026-04 33.6.0-jre           |.==================.|
+  ?   io.axoniq.framework                  2026-07..2026-08 5.3.0                |...................=|
+  R   io.digiexpress                       2025-10..2026-08 6.0.31               |.................===|
+  R   io.acryl                             2026-04..2026-08 1.7.0.2rc1           |..................==|
+  R   io.restx                             2025-09..2026-08 1.3.0-rc2            |.................===|
+  R   com.google.cloud.flink               2026-02..2026-08 1.2.0                |..................==|
+    + 69 more: org.sonarsource.python, com.alibaba.ververica, org.foundationdb, org.apache.kyuubi, org.talend.sdk.component.sample.feature, org.conductoross, org.apache.spark, org.apache.hbase, org.apache.jackrabbit, io.orkes.conductor, io.github.katsuhisamaruyama, org.weakref, (+57 more)
+kotlin.stdlib.jdk7  [explicit rule: owned by `org.jetbrains.kotlin`; 22 other group(s) rejected]
+  A * org.jetbrains.kotlin                 2019-01..2026-07 2.4.20-Beta2         |....================|
+  R   io.pyroscope                         2025-04..2026-08 2.9.0                |................====|
+  ?   io.github.zawarka03                  2026-07..2026-07 0.1.1                |...................=|
+  ?   me.bechberger                        2026-06..2026-06 0.0.8                |...................=|
+  R   com.kroegerama.openapi-kgen          2023-12..2026-06 0.18.2               |..............======|
+  ?   org.octopusden.octopus.jira          2026-06..2026-06 2.0.3                |...................=|
+    + 17 more: io.github.team-sneakymouse, com.seanshubin.code.structure, me.xcue, org.partiql, io.github.wadoon.key, org.btmonier, com.slothiesmooth, com.slothiesmooth.links-detektor, hu.bme.mit.theta, com.github.shynixn.mccoroutine, dev.nelmin.spigot, com.facebook, (+5 more)
+kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other group(s) rejected]
+  A * org.jetbrains.kotlinx                2021-09..2026-04 1.11.0               |.........==========.|
+  R   dev.sebastiano.spectre               2026-05..2026-08 0.4.1                |...................=|
+  ?   lol.simeon                           2026-06..2026-06 1.1.2                |...................=|
+  R   love.forte.plugin.suspend-transform  2025-04..2026-06 2.4.0-0.14.0         |................====|
+  R   dev.robocode.tankroyale              2026-01..2026-05 1.0.2                |..................==|
+  R   io.github.wangbax                    2026-04..2026-04 5.5.1-okio-fork-2    |..................=.|
+    + 23 more: com.squareup.wire, org.ldemetrios, io.github.lumamontes, dev.zacsweers.metro, io.typst, io.availe, dev.oglass, io.github.oewntk, io.github.lexa-diky, com.toasttab.expediter, io.johnsonlee.exec, io.specmatic, (+11 more)
 jul.to.slf4j  [explicit rule: owned by `org.slf4j`; 17 other group(s) rejected]
   A * org.slf4j                            2019-02..2026-05 2.0.18               |....================|
   R   net.finmath                          2025-11..2026-08 3.0.0                |..................==|
@@ -43,22 +75,6 @@ kotlinx.collections.immutable  [explicit rule: owned by `org.jetbrains`; 1 other
   ? * org.jetbrains.kotlinx                2026-07..2026-07 0.5.1                |...................=|
   ?   com.salesforce.revoman               2026-08..2026-08 0.90.0               |...................=|
   ?   org.jetbrains.kotlin                 2026-07..2026-07 2.4.20-Beta2         |...................=|
-com.google.common  [explicit rule: owned by `com.google.guava`; 74 other group(s) rejected]
-  A * com.google.guava                     2017-07..2026-04 33.6.0-jre           |.==================.|
-  R   com.google.cloud.flink               2026-02..2026-08 1.2.0                |..................==|
-  R   io.acryl                             2026-04..2026-07 1.6.0.17             |..................==|
-  ?   org.sonarsource.python               2026-07..2026-07 5.27.0.35548         |...................=|
-  R   com.alibaba.ververica                2026-01..2026-07 1.20-vvr-11.8.0-1-jdk11 |..................==|
-  R   org.foundationdb                     2026-01..2026-07 4.12.15.0            |..................==|
-    + 69 more: org.apache.kyuubi, io.axoniq.framework, org.talend.sdk.component.sample.feature, org.conductoross, org.apache.spark, org.apache.hbase, org.apache.jackrabbit, io.orkes.conductor, io.github.katsuhisamaruyama, io.digiexpress, org.weakref, org.apache.phoenix, (+57 more)
-com.google.gson  [explicit rule: owned by `com.google.code.gson`; 537 other group(s) rejected]
-  A * com.google.code.gson                 2019-10..2026-04 2.14.0               |.....==============.|
-  R   org.sonarsource.sonarlint.core       2022-04..2026-08 11.8.0.86067         |..........==========|
-  R   org.sonarsource.java                 2024-11..2026-08 8.37.0.45887         |................====|
-  R   org.openjproxy                       2025-09..2026-07 0.5.3-beta           |.................===|
-  ?   io.github.cobble-project             2026-06..2026-07 0.3.0-1-flink-2.1    |...................=|
-  R   org.biojava                          2021-10..2026-07 7.2.6                |.........===========|
-    + 532 more: org.sonarsource.dotnet, io.jooby, com.alibaba.ververica, dev.frontseat.maven.extensions, com.tencent.polaris, com.conaxgames, org.operaton.bpm, dev.blitical, com.muscula, dev.cjfravel, com.snowflake, io.quarkus, (+520 more)
 kotlin.stdlib.jdk8  [explicit rule: owned by `org.jetbrains.kotlin`; 245 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2026-07 2.4.20-Beta2         |....================|
   R   com.aliyun.odps                      2026-03..2026-08 3.10.12              |..................==|
@@ -87,22 +103,6 @@ kotlinx.coroutines.core  [explicit rule: owned by `org.jetbrains`; 21 other grou
   R   ca.acendas                           2025-11..2026-05 1.9.1                |..................=.|
   R   com.krillforge                       2026-04..2026-04 0.0.2                |..................=.|
     + 18 more: org.openprojectx.hadoop.win, org.jetbrains.dokka, org.jetbrains.intellij.deps.kotlinx, io.github.danbeldev, io.johnsonlee.kx, io.github.zimoyin, io.johnsonlee.exec, io.github.saumya-bhatt, io.realm.kotlin, com.rickbusarow.doks, io.sirix, com.squareup.wire, (+6 more)
-kotlin.stdlib.jdk7  [explicit rule: owned by `org.jetbrains.kotlin`; 22 other group(s) rejected]
-  A * org.jetbrains.kotlin                 2019-01..2026-07 2.4.20-Beta2         |....================|
-  ?   io.github.zawarka03                  2026-07..2026-07 0.1.1                |...................=|
-  R   io.pyroscope                         2025-04..2026-07 2.7.0                |................====|
-  ?   me.bechberger                        2026-06..2026-06 0.0.8                |...................=|
-  R   com.kroegerama.openapi-kgen          2023-12..2026-06 0.18.2               |..............======|
-  ?   org.octopusden.octopus.jira          2026-06..2026-06 2.0.3                |...................=|
-    + 17 more: io.github.team-sneakymouse, com.seanshubin.code.structure, me.xcue, org.partiql, io.github.wadoon.key, org.btmonier, com.slothiesmooth, com.slothiesmooth.links-detektor, hu.bme.mit.theta, com.github.shynixn.mccoroutine, dev.nelmin.spigot, com.facebook, (+5 more)
-kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other group(s) rejected]
-  A * org.jetbrains.kotlinx                2021-09..2026-04 1.11.0               |.........==========.|
-  R   dev.sebastiano.spectre               2026-05..2026-07 0.4.0                |...................=|
-  ?   lol.simeon                           2026-06..2026-06 1.1.2                |...................=|
-  R   love.forte.plugin.suspend-transform  2025-04..2026-06 2.4.0-0.14.0         |................====|
-  R   dev.robocode.tankroyale              2026-01..2026-05 1.0.2                |..................==|
-  R   io.github.wangbax                    2026-04..2026-04 5.5.1-okio-fork-2    |..................=.|
-    + 23 more: com.squareup.wire, org.ldemetrios, io.github.lumamontes, dev.zacsweers.metro, io.typst, io.availe, dev.oglass, io.github.oewntk, io.github.lexa-diky, com.toasttab.expediter, io.johnsonlee.exec, io.specmatic, (+11 more)
 kotlin.reflect  [explicit rule: owned by `org.jetbrains.kotlin`; 66 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2026-07 2.4.20-Beta2         |....================|
   ?   org.octopusden.octopus.infrastructure 2026-07..2026-07 3.0.7                |...................=|
@@ -386,7 +386,7 @@ com.peruncs.odbjca.api  [renamed `com.peruncs.odbjca` -> `com.peruncs` (latest 0
   ?   com.peruncs                          2018-11..2018-11 0.0.2                |....=...............|
 ```
 
-## fork (100)
+## fork (94)
 
 A cross-org coordinate publishes the same name while the original owner is still active.
 
@@ -396,40 +396,24 @@ A cross-org coordinate publishes the same name while the original owner is still
 
 ```
 io.netty.codec.http  [fork: keep `io.netty`, `io.github.shafthq` still publishes the name]
-  A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
-  ?   io.github.shafthq                    2026-07..2026-08 10.3.20260801        |...................=|
+  A * io.netty                             2017-12..2026-08 4.1.137.Final        |..==================|
+  ?   io.github.shafthq                    2026-07..2026-08 10.3.20260806        |...................=|
   R   com.amazonaws                        2026-02..2026-07 2026.30.1            |..................==|
   R   org.apache.tika                      2026-03..2026-07 3.3.2                |..................==|
   ?   com.liquibase.ext                    2026-07..2026-07 5.2.1                |...................=|
   R   dev.zio                              2025-05..2026-06 3.11.3               |.................===|
     + 6 more: io.camunda.connector, org.apache.flink, com.xuxueli, org.eclipse.ditto, io.sapl, de.fraunhofer.iosb.ilt.faaast.service
-com.fasterxml.jackson.databind  [fork: keep `com.fasterxml.jackson.core`, `com.sparkutils` still publishes the name]
-  A * com.fasterxml.jackson.core           2017-09..2026-07 2.18.9               |.===================|
-  R   com.sparkutils                       2025-04..2026-08 0.0.1-RC26           |................====|
-  R   io.github.kathukyabrian              2025-02..2026-07 1.0.4                |................====|
-  ?   io.github.gabrielbbaldez             2026-07..2026-07 1.1.0                |...................=|
-  R   org.jboss.galleon                    2024-08..2026-07 7.0.10.Final         |...............=====|
-  ?   com.debugbundle                      2026-07..2026-07 1.3.0                |...................=|
-    + 453 more: org.apache.tinkerpop, org.octopusden.octopus.sonar, org.apache.tika, io.github.a-n-o-d-e-r, io.fluxzero.tools, com.langstitch, org.openidentityplatform.opendj, org.octopusden.octopus.components.registry.automation, com.expediagroup.apiary, org.apache.spark, com.amazonaws, com.icegreen, (+441 more)
-com.fasterxml.jackson.core  [fork: keep `com.fasterxml.jackson.core`, `org.incenp` still publishes the name]
-  A * com.fasterxml.jackson.core           2017-09..2026-07 2.18.9               |.===================|
-  R   org.incenp                           2024-12..2026-08 1.12.1               |................====|
-  R   com.linkedin.iceberg                 2022-10..2026-08 1.2.0.20             |...........=========|
-  R   org.cadenzaflow.spin                 2025-10..2026-07 1.2.1                |.................===|
-  R   com.alibaba.ververica                2022-11..2026-07 1.20-vvr-11.8.0-1-jdk11 |............========|
-  R   org.finos.fluxnova.spin              2025-11..2026-07 2.0.4                |..................==|
-    + 406 more: io.deephaven, com.google.cloud.functions.invoker, org.operaton.spin, io.openlineage, fr.inrae.toulouse.metexplore, org.openidentityplatform.openam, org.eximeebpms.spin, org.jboss.pnc.maven-manipulator, com.alibaba.hologres, com.scylladb, com.testingbot, com.force.api, (+394 more)
 org.apache.commons.lang3  [fork: keep `org.apache.commons`, `io.streamnative` still publishes the name]
   A * org.apache.commons                   2017-06..2025-11 3.20.0               |.==================.|
-  R   io.streamnative                      2025-05..2026-08 4.0.12.1             |.................===|
+  R   io.streamnative                      2025-05..2026-08 4.0.12.2             |................====|
+  R   io.swagger.parser.v3                 2024-01..2026-08 2.1.46               |..............======|
   R   org.sonarsource.java                 2024-11..2026-08 8.37.0.45887         |................====|
   R   com.datastax.oss                     2026-02..2026-08 9.0.3                |..................==|
   R   com.ubs-hainer                       2025-11..2026-07 3.26.29              |.................===|
-  ?   org.openclover                       2026-07..2026-07 5.1.0                |...................=|
-    + 103 more: com.sngular, io.openlineage, org.apache.tomee, org.frankframework, org.apache.shenyu, com.equinor.neqsim, com.liquibase.ext, org.apache.pulsar, org.apache.gravitino, de.grobmeier.json, io.swagger.parser.v3, ai.platon.gora, (+91 more)
+    + 103 more: org.openclover, com.sngular, io.openlineage, org.apache.tomee, org.frankframework, org.apache.shenyu, com.equinor.neqsim, com.liquibase.ext, org.apache.pulsar, org.apache.gravitino, de.grobmeier.json, ai.platon.gora, (+91 more)
 org.checkerframework.checker.qual  [fork: keep `org.checkerframework`, `io.valkyrja` still publishes the name]
   A * org.checkerframework                 2018-08..2026-07 4.2.1                |...=================|
-  ?   io.valkyrja                          2026-07..2026-08 26.4.6               |...................=|
+  ?   io.valkyrja                          2026-07..2026-08 26.4.12              |...................=|
   R   io.boxlang                           2026-01..2026-07 1.16.0               |..................==|
   R   com.facebook.business.sdk            2025-02..2026-07 25.0.4               |................====|
   R   com.google.cloud                     2024-06..2026-07 3.44.0               |...............=====|
@@ -437,15 +421,102 @@ org.checkerframework.checker.qual  [fork: keep `org.checkerframework`, `io.valky
     + 30 more: com.webforj, io.joynr.java.core, io.github.imonja, com.daml, io.github.eisop, org.eclipse.hawkbit, org.jetbrains.kotlinx, com.jcabi, org.opencastproject, org.orbisgis.geoclimate, io.github.mscheong01, io.vitess, (+18 more)
 org.jetbrains.annotations  [fork: keep `org.jetbrains`, `systems.manifold` still publishes the name]
   A * org.jetbrains                        2018-09..2026-02 26.1.0               |...================.|
-  R   systems.manifold                     2023-08..2026-08 2026.1.9             |.............=======|
+  R   systems.manifold                     2023-08..2026-08 2026.1.12            |.............=======|
+  R   io.deephaven                         2025-09..2026-08 42.4                 |.................===|
   R   com.microsoft.azure.kusto            2025-10..2026-07 7.1.2                |.................===|
-  R   io.deephaven                         2025-09..2026-07 42.3                 |.................===|
   ?   io.split                             2026-06..2026-07 1.0.0-beta2          |...................=|
   ?   io.github.4rg0n                      2026-07..2026-07 0.2.1                |...................=|
     + 76 more: de.tubyoub, com.kinetica, beer.devs, com.qcloud.cos, io.github.alepandocr, io.github.nbauma109, io.github.happybavarian07, org.jam4s, io.streamthoughts, org.tallison.tika, me.bechberger, me.bechberger.jfr, (+64 more)
-io.vertx.circuitbreaker  [fork: keep `io.vertx`, `io.github.the-infinite` still publishes the name]
-  ? * io.vertx                             2020-05..2026-07 4.5.31               |.......=============|
-  ?   io.github.the-infinite               2026-07..2026-08 1.0.29               |...................=|
+org.snakeyaml.engine.v2  [fork: keep `org.snakeyaml`, `io.github.ethanz0x0` still publishes the name]
+  A * org.snakeyaml                        2019-10..2025-07 2.10                 |.....=============..|
+  R   io.github.ethanz0x0                  2025-08..2026-08 2.0.3                |.................===|
+  R   org.frankframework                   2025-01..2026-07 10.0.2               |................====|
+  ?   io.btrace                            2026-07..2026-07 0.26.2               |...................=|
+  ?   com.walmartlabs.concord.k8s          2026-06..2026-07 2.42.1               |...................=|
+  R   com.datadoghq                        2025-06..2026-06 1.63.2               |.................===|
+    + 28 more: org.wildfly.glow, org.apache.zeppelin, io.acryl, io.fabric8, io.strimzi, io.github.phompang, eu.koboo, io.dscope.camel, org.workflomics, org.sonarsource.iac, ch.framedev, com.atlan, (+16 more)
+com.googlecode.javaewah  [fork: keep `com.googlecode.javaewah`, `io.github.baokhang83.blastradius` still publishes the name]
+  A * com.googlecode.javaewah              2023-03..2023-03 1.2.3                |............=.......|
+  ?   io.github.baokhang83.blastradius     2026-07..2026-08 0.3.3                |...................=|
+  R   org.meyvn                            2023-07..2026-05 1.9.4                |.............=======|
+  R   org.liquibase.ext                    2024-02..2025-01 0.4.0                |..............===...|
+  R   io.kestra.plugin                     2023-07..2024-08 0.17.2               |.............===....|
+com.fasterxml.jackson.dataformat.yaml  [fork: keep `com.fasterxml.jackson.dataformat`, `io.simpleishard` still publishes the name]
+  A * com.fasterxml.jackson.dataformat     2017-10..2026-07 2.18.9               |.===================|
+  ?   io.simpleishard                      2026-07..2026-08 0.72.1               |...................=|
+  R   org.apiaddicts.apitools.dosonarapi   2025-01..2026-07 1.5.0                |................====|
+  R   org.apache.flink                     2022-04..2026-07 0.3.1                |..........==========|
+  R   io.fabrikt                           2026-03..2026-07 27.6.1               |..................==|
+  R   dev.skyramp                          2025-02..2026-07 1.3.36               |................====|
+    + 63 more: com.helpchoice, io.fabric8, io.telicent.jena, io.github.gw-kit, org.apache.dolphinscheduler, com.sagframe, net.corda, org.testcontainers, com.cjbooms, io.github.pavan2504, io.github.rohitect, org.apache.plc4x, (+51 more)
+com.fasterxml.jackson.core  [fork: keep `com.fasterxml.jackson.core`, `io.deephaven` still publishes the name]
+  A * com.fasterxml.jackson.core           2017-09..2026-07 2.18.9               |.===================|
+  R   io.deephaven                         2026-01..2026-08 42.4                 |..................==|
+  R   org.incenp                           2024-12..2026-08 1.12.1               |................====|
+  R   com.linkedin.iceberg                 2022-10..2026-08 1.2.0.20             |...........=========|
+  R   org.cadenzaflow.spin                 2025-10..2026-07 1.2.1                |.................===|
+  R   com.alibaba.ververica                2022-11..2026-07 1.20-vvr-11.8.0-1-jdk11 |............========|
+    + 406 more: org.finos.fluxnova.spin, com.google.cloud.functions.invoker, org.operaton.spin, io.openlineage, fr.inrae.toulouse.metexplore, org.openidentityplatform.openam, org.eximeebpms.spin, org.jboss.pnc.maven-manipulator, com.alibaba.hologres, com.scylladb, com.testingbot, com.force.api, (+394 more)
+org.yaml.snakeyaml  [fork: keep `org.yaml`, `io.vertx` still publishes the name]
+  A * org.yaml                             2019-02..2026-02 2.6                  |....===============.|
+  R   io.vertx                             2023-11..2026-08 4.5.32               |..............======|
+  R   com.nvidia                           2023-04..2026-08 26.06.1              |............========|
+  R   org.conductoross                     2026-03..2026-07 3.32.0-rc.22         |..................==|
+  R   com.huaweicloud.sdk                  2024-01..2026-07 3.1.209              |..............======|
+  R   io.github.spah1879                   2024-10..2026-07 1.4.0                |...............=====|
+    + 79 more: com.sparkutils, com.deftdevs, io.vertigo, com.arcmutate, org.apache.phoenix, org.apache.flink, io.github.wangscu, com.liquibase, dev.feit, com.google.cloud, dev.domkss, com.scivicslab, (+67 more)
+org.slf4j  [fork: keep `org.slf4j`, `io.testomat` still publishes the name]
+  A * org.slf4j                            2017-04..2026-05 2.0.18               |====================|
+  R   io.testomat                          2025-10..2026-08 0.18.0               |.................===|
+  R   dev.detekt                           2025-09..2026-08 2.0.0-alpha.6        |.................===|
+  R   org.open-metadata                    2026-02..2026-08 1.13.3               |..................==|
+  R   com.alibaba.ververica                2025-02..2026-07 1.20-vvr-11.8.0-1-jdk11 |................====|
+  R   org.apache.activemq                  2023-03..2026-07 5.19.9               |............========|
+    + 320 more: org.jetbrains.kotlinx, org.apache.storm, org.talend.sdk.component.sample.feature, org.apache.tika, io.github.zhouzhoucoder, com.github.toolarium, org.openidentityplatform.openam, io.atlasarc, com.databricks, org.openidentityplatform.opendj, com.arcadedb, org.openidentityplatform.commons.json-crypto, (+308 more)
+com.fasterxml.jackson.databind  [fork: keep `com.fasterxml.jackson.core`, `us.abstracta.jmeter` still publishes the name]
+  A * com.fasterxml.jackson.core           2017-09..2026-07 2.18.9               |.===================|
+  R   us.abstracta.jmeter                  2022-09..2026-08 2.2.1                |...........=========|
+  ?   io.github.gabrielbbaldez             2026-07..2026-08 1.2.0                |...................=|
+  R   com.sparkutils                       2025-04..2026-08 0.0.1-RC26           |................====|
+  R   io.github.kathukyabrian              2025-02..2026-07 1.0.4                |................====|
+  R   org.jboss.galleon                    2024-08..2026-07 7.0.10.Final         |...............=====|
+    + 453 more: com.debugbundle, org.apache.tinkerpop, org.octopusden.octopus.sonar, org.apache.tika, io.github.a-n-o-d-e-r, io.fluxzero.tools, com.langstitch, org.openidentityplatform.opendj, org.octopusden.octopus.components.registry.automation, com.expediagroup.apiary, org.apache.spark, com.amazonaws, (+441 more)
+org.signal.libsignal  [fork: keep `org.signal`, `io.github.wanggenlin` still publishes the name]
+  A * org.signal                           2023-09..2025-11 0.86.5               |.............======.|
+  R   io.github.wanggenlin                 2026-02..2026-08 0.87.6               |..................==|
+  ?   com.securegroupchat                  2026-07..2026-07 0.96.3               |...................=|
+io.netty.internal.tcnative  [fork: keep `io.netty`, `io.github.ktestify` still publishes the name]
+  A * io.netty                             2021-10..2026-07 2.0.81.Final         |.........===========|
+  ?   io.github.ktestify                   2026-06..2026-08 1.1.0                |...................=|
+  R   com.google.cloud.datalineage         2025-10..2026-08 1.1.1                |.................===|
+  R   com.datastax.oss                     2024-12..2026-08 9.0.3                |................====|
+  R   com.google.api                       2025-06..2026-07 2.75.0               |.................===|
+  R   com.instaclustr                      2025-10..2026-07 4.1.11               |.................===|
+    + 75 more: io.grpc, com.microsoft.azure.kusto, org.finos.legend.engine, com.azure.cosmos.spark, com.scalekit, com.google.api-ads, org.apache.tika, com.google.cloud.bigtable, org.apache.ratis, com.arcadedb, org.apache.ozone, com.opendatadsl, (+63 more)
+org.bouncycastle.provider  [fork: keep `org.bouncycastle`, `io.gitee.maluole` still publishes the name]
+  A * org.bouncycastle                     2018-07..2026-07 1.85.1               |...=================|
+  ?   io.gitee.maluole                     2026-06..2026-08 1.3.0.RELEASE        |...................=|
+  R   org.wso2.charon                      2019-04..2026-06 5.1.5                |....================|
+  R   org.dcache                           2025-12..2026-06 3.4.3                |..................==|
+  R   org.apache.pinot                     2025-02..2026-06 1.5.1                |................====|
+  R   org.openeuler                        2021-11..2026-06 2.0.4                |..........==========|
+    + 83 more: org.apache.dolphinscheduler, org.terracotta, org.exploit, de.moritzpetersen, org.apache.seatunnel, de.splatgames.aether.pack, net.maritimeconnectivity.pki, io.github.swiyu-admin-ch, org.hyperledger.fabric, io.kestra.storage, io.aiven, io.kestra.plugin, (+71 more)
+tools.jackson.core  [fork: keep `tools.jackson.core`, `ru.tinkoff.piapi` still publishes the name]
+  A * tools.jackson.core                   2025-03..2026-07 3.2.1                |................====|
+  R   ru.tinkoff.piapi                     2026-01..2026-08 1.49.4               |..................==|
+  ?   org.pragmatica-lite.aether           2026-06..2026-07 1.0.0-rc2            |...................=|
+  R   software.xdev.mockserver             2026-03..2026-07 2.51.1               |..................==|
+  ?   com.phonepe.sentinel-ai              2026-06..2026-07 1.2.0-alpha2         |...................=|
+  ?   com.ibm.jsonata4java                 2026-07..2026-07 2.6.4                |...................=|
+    + 22 more: fish.payara.tools, com.playtika.reactivefeign, org.apache.cayenne, io.github.ignf, media.barney, org.sonarsource.sonarlint.ls, io.github.tansuasici, com.limemojito.oss.standards, com.limemojito.oss.standards.development-test, io.sapl, com.io7m.montarre, io.github.shangtx, (+10 more)
+com.fasterxml.jackson.jaxrs.json  [fork: keep `com.fasterxml.jackson.jaxrs`, `ru.moysklad.api` still publishes the name]
+  A * com.fasterxml.jackson.jaxrs          2017-10..2026-07 2.18.9               |.===================|
+  ?   ru.moysklad.api                      2026-08..2026-08 0.18.0               |...................=|
+  R   org.lance                            2025-12..2026-07 0.7.0                |..................==|
+  R   com.alibaba.ververica                2022-10..2026-07 1.20-vvr-11.8.0-1-jdk11 |...........=========|
+  ?   io.simpleishard                      2026-07..2026-07 0.55.0               |...................=|
+  R   ai.askamerica                        2026-05..2026-07 0.56.0               |...................=|
+    + 55 more: org.apache.pulsar, org.apache.phoenix, com.ascentstream.pulsar, org.apache.hbase.thirdparty, org.apache.pinot, org.apache.hudi, dev.henneberger, io.github.giis-uniovi, org.apache.flink, org.devlive.connector, org.apache.seatunnel, org.onebusaway, (+43 more)
 jakarta.inject  [fork: keep `jakarta.inject`, `io.github.jolt-community.jolt` still publishes the name]
   A * jakarta.inject                       2020-04..2021-10 2.0.1                |......====..........|
   R   io.github.jolt-community.jolt        2025-09..2026-08 1.3.0                |.................===|
@@ -454,12 +525,6 @@ jakarta.inject  [fork: keep `jakarta.inject`, `io.github.jolt-community.jolt` st
   ?   org.openidentityplatform.openig      2026-06..2026-06 6.1.1                |...................=|
   R   io.joynr.java.core                   2026-01..2026-06 1.24.8               |..................==|
     + 13 more: dev.getelements.elements, it.netgrid, network.sloud.hytale, com.uchicom, com.google.tsunami, io.github.avistotelecom, org.apache.opennlp, com.google.template, io.github.openfeign.querydsl, org.reploop, com.guicedee.services, io.github.jbock-java, (+1 more)
-com.googlecode.javaewah  [fork: keep `com.googlecode.javaewah`, `io.github.baokhang83.blastradius` still publishes the name]
-  A * com.googlecode.javaewah              2023-03..2023-03 1.2.3                |............=.......|
-  ?   io.github.baokhang83.blastradius     2026-07..2026-08 0.3.2                |...................=|
-  R   org.meyvn                            2023-07..2026-05 1.9.4                |.............=======|
-  R   org.liquibase.ext                    2024-02..2025-01 0.4.0                |..............===...|
-  R   io.kestra.plugin                     2023-07..2024-08 0.17.2               |.............===....|
 ch.qos.logback.classic  [fork: keep `ch.qos.logback`, `com.daml` still publishes the name]
   A * ch.qos.logback                       2018-01..2026-07 1.6.1                |..==================|
   R   com.daml                             2022-10..2026-08 3.6.0-snapshot.20260731.14769.0.v222c24df |...........=========|
@@ -468,14 +533,6 @@ ch.qos.logback.classic  [fork: keep `ch.qos.logback`, `com.daml` still publishes
   R   com.limemojito.oss.aws               2025-10..2026-07 8.0.15.37            |.................===|
   R   top.yqingyu                          2023-06..2026-06 2.0.0                |.............=======|
     + 90 more: org.alfasoftware, org.apache.sling, com.salesforce.cantor, org.eclipse.ecsp, org.javastro.ivoa, ch.exense.step, io.mosip.biosdk, io.mosip.demosdk, de.fraunhofer.iosb.ilt, dk.alexandra.fresco, org.jboss.pnc.gradle-manipulator, com.deltaproto, (+78 more)
-com.fasterxml.jackson.dataformat.yaml  [fork: keep `com.fasterxml.jackson.dataformat`, `io.simpleishard` still publishes the name]
-  A * com.fasterxml.jackson.dataformat     2017-10..2026-07 2.18.9               |.===================|
-  ?   io.simpleishard                      2026-07..2026-08 0.67.0               |...................=|
-  R   org.apiaddicts.apitools.dosonarapi   2025-01..2026-07 1.5.0                |................====|
-  R   org.apache.flink                     2022-04..2026-07 0.3.1                |..........==========|
-  R   io.fabrikt                           2026-03..2026-07 27.6.1               |..................==|
-  R   dev.skyramp                          2025-02..2026-07 1.3.36               |................====|
-    + 63 more: com.helpchoice, io.fabric8, io.telicent.jena, io.github.gw-kit, org.apache.dolphinscheduler, com.sagframe, net.corda, org.testcontainers, com.cjbooms, io.github.pavan2504, io.github.rohitect, org.apache.plc4x, (+51 more)
 org.jsoup  [fork: keep `org.jsoup`, `com.qainsights` still publishes the name]
   A * org.jsoup                            2018-04..2026-07 1.23.1               |..==================|
   R   com.qainsights                       2026-05..2026-08 3.1.0                |...................=|
@@ -492,14 +549,6 @@ org.apache.commons.compress  [fork: keep `org.apache.commons`, `com.google.cloud
   R   io.github.trethore                   2026-02..2026-07 146.0.10-jcefgithub.7 |..................==|
   ?   ink.icoding.codex                    2026-07..2026-07 1.0.0                |...................=|
     + 36 more: org.apache.grails, org.apache.beam, com.mobidevelop.robovm, org.apache.flink, org.apache.pinot, org.apache.parquet, org.apache.druid.extensions, com.theartos, me.bechberger, com.jlpka.langidentify, io.acryl, com.jlpka, (+24 more)
-io.netty.internal.tcnative  [fork: keep `io.netty`, `com.google.cloud.datalineage` still publishes the name]
-  A * io.netty                             2021-10..2026-07 2.0.81.Final         |.........===========|
-  R   com.google.cloud.datalineage         2025-10..2026-08 1.1.1                |.................===|
-  R   com.datastax.oss                     2024-12..2026-08 9.0.3                |................====|
-  R   com.google.api                       2025-06..2026-07 2.75.0               |.................===|
-  R   com.instaclustr                      2025-10..2026-07 4.1.11               |.................===|
-  R   io.grpc                              2025-03..2026-07 1.82.3               |................====|
-    + 75 more: com.microsoft.azure.kusto, org.finos.legend.engine, com.azure.cosmos.spark, com.scalekit, com.google.api-ads, org.apache.tika, com.google.cloud.bigtable, org.apache.ratis, com.arcadedb, org.apache.ozone, com.opendatadsl, io.temporal, (+63 more)
 com.fasterxml.jackson.datatype.jsr310  [fork: keep `com.fasterxml.jackson.datatype`, `com.linkedin.iceberg` still publishes the name]
   A * com.fasterxml.jackson.datatype       2017-10..2026-07 2.18.9               |.===================|
   R   com.linkedin.iceberg                 2025-09..2026-08 1.2.0.20             |.................===|
@@ -524,30 +573,6 @@ org.apache.logging.log4j  [fork: keep `org.apache.logging.log4j`, `com.ibm.galas
   R   com.alibaba.dts.client               2023-04..2026-07 1.1.17               |............========|
   ?   io.kroxylicious                      2026-07..2026-07 0.22.0               |...................=|
     + 327 more: org.lucee, com.nqadmin.swingset.demo, com.vaimee, org.apache.hudi, io.github.zhouzhoucoder, org.beilstein, io.github.uwegeercken, org.hpccsystems, org.into-cps.maestro, com.adobe.campaign.tests.bridge.service, io.camunda, com.robotaccomplice, (+315 more)
-org.yaml.snakeyaml  [fork: keep `org.yaml`, `com.nvidia` still publishes the name]
-  A * org.yaml                             2019-02..2026-02 2.6                  |....===============.|
-  R   com.nvidia                           2023-04..2026-08 26.06.1              |............========|
-  R   org.conductoross                     2026-03..2026-07 3.32.0-rc.22         |..................==|
-  R   com.huaweicloud.sdk                  2024-01..2026-07 3.1.209              |..............======|
-  R   io.vertx                             2023-11..2026-07 4.5.31               |..............======|
-  R   io.github.spah1879                   2024-10..2026-07 1.4.0                |...............=====|
-    + 79 more: com.sparkutils, com.deftdevs, io.vertigo, com.arcmutate, org.apache.phoenix, org.apache.flink, io.github.wangscu, com.liquibase, dev.feit, com.google.cloud, dev.domkss, com.scivicslab, (+67 more)
-org.slf4j  [fork: keep `org.slf4j`, `org.open-metadata` still publishes the name]
-  A * org.slf4j                            2017-04..2026-05 2.0.18               |====================|
-  R   org.open-metadata                    2026-02..2026-08 1.13.3               |..................==|
-  R   io.testomat                          2025-10..2026-07 0.17.0-rc3           |.................===|
-  R   com.alibaba.ververica                2025-02..2026-07 1.20-vvr-11.8.0-1-jdk11 |................====|
-  R   org.apache.activemq                  2023-03..2026-07 5.19.9               |............========|
-  R   org.jetbrains.kotlinx                2024-08..2026-07 0.19.0-958           |...............=====|
-    + 320 more: org.apache.storm, org.talend.sdk.component.sample.feature, org.apache.tika, io.github.zhouzhoucoder, com.github.toolarium, org.openidentityplatform.openam, io.atlasarc, com.databricks, org.openidentityplatform.opendj, com.arcadedb, org.openidentityplatform.commons.json-crypto, org.openidentityplatform.commons.json-schema, (+308 more)
-io.netty.codec.http2  [fork: keep `io.netty`, `com.applitools` still publishes the name]
-  A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
-  R   com.applitools                       2026-05..2026-07 5.88.2               |...................=|
-  R   org.apache.spark                     2025-10..2026-07 4.1.3                |.................===|
-  ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
-  ?   org.apache.gravitino                 2026-06..2026-06 1.3.0                |...................=|
-  R   org.apache.iceberg                   2026-05..2026-05 1.11.0               |...................=|
-    + 11 more: org.eclipse.ditto, io.github.jdbc-armour, io.github.cstopyak, it.neckar.open, net.xdob.ratly, io.micronaut.testresources, com.exactpro.th2, io.etcd, io.kestra.storage, org.wiremock, io.github.sunny-chung
 info.picocli  [fork: keep `info.picocli`, `com.instaclustr` still publishes the name]
   A * info.picocli                         2017-10..2025-04 4.7.7                |.================...|
   R   com.instaclustr                      2020-01..2026-07 4.1.11               |......==============|
@@ -568,14 +593,6 @@ com.fasterxml.jackson.datatype.jdk8  [fork: keep `com.fasterxml.jackson.datatype
   R   org.ic4j                             2026-03..2026-05 0.8.2                |..................==|
   R   org.apache.grails                    2025-06..2026-04 7.1.0                |.................==.|
     + 31 more: io.github.tansuasici, ai.onehouse, com.atlan, io.github.demiourgoi, io.kestra.plugin, com.tencent.cloud, hu.webarticum.miniconnect, io.openlineage, de.m3y.parquet, io.edurt.datacap, org.apache.parquet, io.opentelemetry.javaagent, (+19 more)
-com.fasterxml.jackson.jaxrs.json  [fork: keep `com.fasterxml.jackson.jaxrs`, `org.lance` still publishes the name]
-  A * com.fasterxml.jackson.jaxrs          2017-10..2026-07 2.18.9               |.===================|
-  R   org.lance                            2025-12..2026-07 0.7.0                |..................==|
-  R   com.alibaba.ververica                2022-10..2026-07 1.20-vvr-11.8.0-1-jdk11 |...........=========|
-  ?   io.simpleishard                      2026-07..2026-07 0.55.0               |...................=|
-  R   ai.askamerica                        2026-05..2026-07 0.56.0               |...................=|
-  R   org.apache.pulsar                    2024-09..2026-07 4.2.3                |...............=====|
-    + 54 more: org.apache.phoenix, com.ascentstream.pulsar, org.apache.hbase.thirdparty, org.apache.pinot, org.apache.hudi, dev.henneberger, io.github.giis-uniovi, org.apache.flink, org.devlive.connector, org.apache.seatunnel, org.onebusaway, tech.leovan.hive, (+42 more)
 com.ethlo.time  [fork: keep `com.ethlo.time`, `io.github.adorsys-gis` still publishes the name]
   ? * com.ethlo.time                       2023-06..2025-02 1.14.0               |.............====...|
   ?   io.github.adorsys-gis                2026-07..2026-07 1.3.4                |...................=|
@@ -587,14 +604,6 @@ com.github.benmanes.caffeine  [fork: keep `com.github.ben-manes.caffeine`, `org.
   R   com.google.errorprone                2022-04..2026-06 2.50.0               |..........==========|
   R   io.pebbletemplates                   2025-12..2026-05 4.1.2                |..................==|
     + 16 more: net.wirelabs, org.apache.tinkerpop, nl.basjes.parse.useragent, org.openprovenance.prov, org.odftoolkit, io.tileverse.pmtiles, org.opengis.cite, nl.goodbytes.xmpp.xep, org.igniterealtime.whack, be.vlaanderen.informatievlaanderen.ldes.ldio, com.aerospike, com.gitlab.cdc-java.office, (+4 more)
-io.netty.buffer  [fork: keep `io.netty`, `org.opendaylight.jsonrpc` still publishes the name]
-  A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
-  R   org.opendaylight.jsonrpc             2025-08..2026-07 1.20.0               |.................===|
-  R   org.apache.kyuubi                    2025-12..2026-07 1.12.0               |..................==|
-  R   org.apache.tika                      2025-04..2026-07 3.3.2                |................====|
-  ?   ai.covia                             2026-07..2026-07 0.6.0                |...................=|
-  R   io.github.lukaszsamson               2026-04..2026-07 0.2.0                |..................==|
-    + 16 more: com.urbanairship, org.apache.polaris, net.neoforged.jst, org.apache.flink, org.opendaylight.controller, org.opendaylight.bgpcep, org.apache.iceberg, org.atsign, org.lance, io.github.linagora.linid.im, org.opendaylight.netconf, org.apache.arrow, (+4 more)
 org.tukaani.xz  [fork: keep `org.tukaani`, `org.sonarsource.javascript` still publishes the name]
   A * org.tukaani                          2018-01..2026-03 1.12                 |..=================.|
   R   org.sonarsource.javascript           2023-09..2026-07 13.4.0.43982         |.............=======|
@@ -623,21 +632,13 @@ com.github.snksoft.crc  [fork: keep `com.github.snksoft`, `org.jurr.java.omniusb
   ? * com.github.snksoft                   2022-11..2022-11 1.1.0                |............=.......|
   ?   org.jurr.java.omniusb                2026-06..2026-07 1.0.2                |...................=|
 io.netty.internal.tcnative.openssl.linux.x86_64  [fork: keep `io.netty`, `com.azure.cosmos.spark` still publishes the name]
-  A * io.netty                             2022-05..2026-06 2.0.80.Final         |...........=========|
+  A * io.netty                             2022-05..2026-06 2.0.80.Final         |..........==========|
   R   com.azure.cosmos.spark               2026-02..2026-07 4.49.2               |..................==|
   R   org.apache.iotdb                     2026-04..2026-07 2.0.10               |..................==|
   ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
   R   io.smallrye                          2026-04..2026-04 0.1.4                |..................=.|
   R   io.zipkin.dependencies               2026-03..2026-03 3.2.2                |..................=.|
     + 5 more: com.danielflower.apprunner, io.karatelabs, io.opentelemetry.javaagent, com.github.emc-mongoose, io.servicetalk
-io.netty.handler.proxy  [fork: keep `io.netty`, `io.kestra` still publishes the name]
-  A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
-  R   io.kestra                            2025-08..2026-07 1.3.30               |.................===|
-  R   org.apache.grails                    2026-05..2026-07 8.0.0-M3             |..................==|
-  R   io.micronaut.starter                 2025-06..2026-07 4.10.17              |.................===|
-  ?   org.apache.gravitino                 2026-06..2026-06 1.3.0                |...................=|
-  ?   io.neonbee                           2026-06..2026-06 0.37.30              |...................=|
-    + 6 more: com.facebook.presto, io.sirix, org.apache.iceberg, io.kestra.plugin, com.frog-development.consul-populate, io.kestra.storage
 ch.randelshofer.fastdoubleparser  [fork: keep `ch.randelshofer`, `za.co.absa.spline.agent.spark` still publishes the name]
   A * ch.randelshofer                      2022-11..2024-11 2.0.1                |............=====...|
   R   za.co.absa.spline.agent.spark        2023-06..2026-07 2.4.0-RC2            |.............=======|
@@ -674,28 +675,6 @@ org.openapitools.jackson.nullable  [fork: keep `org.openapitools`, `io.airlift` 
 fr.lirmm.integraal.rule_analysis  [fork: keep `fr.lirmm.graphik`, `fr.inria.rules` still publishes the name]
   ? * fr.lirmm.graphik                     2023-11..2025-06 2.0.7                |..............====..|
   ?   fr.inria.rules                       2026-06..2026-07 3.2.2                |...................=|
-tools.jackson.core  [fork: keep `tools.jackson.core`, `ru.tinkoff.piapi` still publishes the name]
-  A * tools.jackson.core                   2025-03..2026-07 3.2.1                |................====|
-  R   ru.tinkoff.piapi                     2026-01..2026-07 1.49.3               |..................==|
-  ?   org.pragmatica-lite.aether           2026-06..2026-07 1.0.0-rc2            |...................=|
-  R   software.xdev.mockserver             2026-03..2026-07 2.51.1               |..................==|
-  ?   com.phonepe.sentinel-ai              2026-06..2026-07 1.2.0-alpha2         |...................=|
-  ?   com.ibm.jsonata4java                 2026-07..2026-07 2.6.4                |...................=|
-    + 22 more: fish.payara.tools, com.playtika.reactivefeign, org.apache.cayenne, io.github.ignf, media.barney, org.sonarsource.sonarlint.ls, io.github.tansuasici, com.limemojito.oss.standards, com.limemojito.oss.standards.development-test, io.sapl, com.io7m.montarre, io.github.shangtx, (+10 more)
-io.netty.handler  [fork: keep `io.netty`, `org.apache.storm` still publishes the name]
-  A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
-  R   org.apache.storm                     2025-05..2026-07 2.8.9                |.................===|
-  R   org.apache.tika                      2025-04..2026-07 3.3.2                |................====|
-  ?   org.openidentityplatform.opendj      2026-06..2026-07 5.1.2                |...................=|
-  R   eu.michael-simons.neo4j              2025-07..2026-06 4.1.2                |.................===|
-  ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
-    + 5 more: org.apache.flink, io.github.ousatov-ua, io.kestra.plugin, org.lucee, com.luhuiguo.netty
-io.netty.transport.epoll.linux.x86_64  [fork: keep `io.netty`, `org.apache.storm` still publishes the name]
-  A * io.netty                             2022-05..2026-07 4.1.136.Final        |...........=========|
-  R   org.apache.storm                     2025-05..2026-07 2.8.9                |.................===|
-  ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
-  R   com.atscale.opensource               2026-01..2026-01 1.14                 |..................=.|
-  R   org.readutf.orchestrator             2025-02..2025-02 2.0.0                |................=...|
 com.fasterxml.aalto  [fork: keep `com.fasterxml`, `org.jetbrains.kotlin` still publishes the name]
   A * com.fasterxml                        2018-04..2026-05 1.4.0                |..==================|
   ?   org.jetbrains.kotlin                 2023-12..2026-07 2.4.20-Beta2         |..............======|
@@ -745,7 +724,7 @@ com.github.javaparser.core.serialization  [fork: keep `com.github.javaparser`, `
 com.github.javaparser.core  [fork: keep `com.github.javaparser`, `org.key-project.proofjava` still publishes the name]
   A * com.github.javaparser                2017-12..2026-05 3.28.2               |..==================|
   ?   org.key-project.proofjava            2026-06..2026-07 3.28.0-K13.6         |...................=|
-  R   org.checkerframework                 2023-09..2026-05 3.28.1               |.............=======|
+  R   org.checkerframework                 2023-09..2026-05 3.28.1               |.............======.|
   R   org.mvel.javaparser                  2026-02..2026-02 3.25.5-mvel3-1       |..................=.|
   R   io.joern                             2022-06..2022-06 3.24.3-SL3           |...........=........|
 jakarta.validation  [fork: keep `jakarta.validation`, `dev.getelements.elements` still publishes the name]
@@ -776,13 +755,6 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `dk.dma.a
   R   app.freerouting                      2026-05..2026-05 2.2.4                |..................==|
   R   org.beilstein                        2026-05..2026-05 1.1.2                |..................=.|
     + 20 more: me.bechberger, io.openems, com.kount, com.github.aquality-automation, com.ghgande, com.github.bilderherunterlader, com.gemecosystem.gemjar, io.github.alien-tools, com.webforj, io.github.egonw, com.liferay, de.fraunhofer.iem, (+8 more)
-io.netty.transport  [fork: keep `io.netty`, `com.arcadedb` still publishes the name]
-  A * io.netty                             2017-12..2026-07 4.1.136.Final        |..==================|
-  R   com.arcadedb                         2025-04..2026-07 26.7.3               |................====|
-  R   io.github.lukaszsamson               2026-04..2026-07 0.2.0                |..................==|
-  ?   io.github.qbsstg                     2026-06..2026-06 0.17.0               |...................=|
-  R   com.sportradar.unifiedodds.sdk       2026-02..2026-03 5.0.0-rc4            |..................=.|
-  R   io.karatelabs                        2025-10..2025-11 1.5.2                |.................==.|
 org.assertj.core  [fork: keep `org.assertj`, `com.install4j` still publishes the name]
   A * org.assertj                          2018-05..2026-01 3.27.7               |...================.|
   ?   com.install4j                        2026-07..2026-07 13.0.1               |...................=|
@@ -791,10 +763,6 @@ org.assertj.core  [fork: keep `org.assertj`, `com.install4j` still publishes the
   R   br.com.leverinfo                     2023-05..2023-12 0.2.0                |.............==.....|
   R   org.kie                              2022-10..2023-04 8.37.0.Final         |...........==.......|
     + 8 more: com.accenture.testing.bdd, org.projectnessie, com.github.aro-tech, com.github.mizosoft.methanol, com.salesforce.dockerfile-image-update, org.robotframework, io.prestosql, io.prestosql.tempto
-org.signal.libsignal  [fork: keep `org.signal`, `io.github.wanggenlin` still publishes the name]
-  A * org.signal                           2023-09..2025-11 0.86.5               |.............======.|
-  R   io.github.wanggenlin                 2026-02..2026-07 0.86.14              |..................==|
-  ?   com.securegroupchat                  2026-07..2026-07 0.96.3               |...................=|
 jakarta.ws.rs  [fork: keep `jakarta.ws.rs`, `com.exasol` still publishes the name]
   A * jakarta.ws.rs                        2020-02..2024-04 4.0.0                |......=========.....|
   ?   com.exasol                           2026-06..2026-07 5.7.4                |...................=|
@@ -819,14 +787,6 @@ net.bytebuddy  [fork: keep `net.bytebuddy`, `de.gematik.test` still publishes th
   ?   com.logitags                         2026-06..2026-06 2.3                  |...................=|
   R   com.jcabi                            2025-11..2026-05 1.9.0                |..................=.|
     + 126 more: org.lucee, io.github.lucientong, dev.jorel, io.github.rocketbunny727, io.github.smallfast, net.aivory, ai.superstream, io.github.mlanett, com.appland, io.github.jlapugot.chronoguard, io.github.quiethappiness, com.graphql-java, (+114 more)
-org.snakeyaml.engine.v2  [fork: keep `org.snakeyaml`, `org.frankframework` still publishes the name]
-  A * org.snakeyaml                        2019-10..2025-07 2.10                 |.....=============..|
-  R   org.frankframework                   2025-01..2026-07 10.0.2               |................====|
-  ?   io.btrace                            2026-07..2026-07 0.26.2               |...................=|
-  ?   com.walmartlabs.concord.k8s          2026-06..2026-07 2.42.1               |...................=|
-  R   com.datadoghq                        2025-06..2026-06 1.63.2               |.................===|
-  ?   org.wildfly.glow                     2024-03..2026-06 2.2.0.Final          |..............======|
-    + 28 more: org.apache.zeppelin, io.acryl, io.fabric8, io.strimzi, io.github.phompang, eu.koboo, io.dscope.camel, org.workflomics, io.github.ethanz0x0, org.sonarsource.iac, ch.framedev, com.atlan, (+16 more)
 com.headius.invokebinder  [fork: keep `com.headius`, `org.sahli.asciidoc.confluence.publisher` still publishes the name]
   A * com.headius                          2017-10..2026-07 1.16                 |.===================|
   R   org.sahli.asciidoc.confluence.publisher 2026-03..2026-07 0.35.0               |..................==|
@@ -988,7 +948,7 @@ cafe.cryptography.curve25519_elisabeth  [fork: keep `cafe.cryptography`, `com.we
   ?   com.weavechain                       2023-06..2023-08 0.1.5                |.............=......|
 ```
 
-## shaded (61)
+## shaded (67)
 
 The natural-namespace owner is the earliest and most-recent publisher; every other group merely shades or bundles the name. Resolution is unchanged; this just records the decision so the module drops off the report.
 
@@ -1003,6 +963,79 @@ The natural-namespace owner is the earliest and most-recent publisher; every oth
 | 1 | `org.neo4j.bolt` | `org.neo4j.bolt, org.neo4j.connectors` |
 
 ```
+io.github.pdvrieze.testutil  [owned by `io.github.pdvrieze.xmlutil`; 0 other group(s) shade the name]
+  ? * io.github.pdvrieze.xmlutil           2025-07..2026-08 1.0.2                |.................===|
+  ?   io.github.pdvrieze                   2026-06..2026-06 1.0.0-rc3            |...................=|
+io.github.classgraph  [owned by `io.github.classgraph`; 72 other group(s) shade the name]
+  A * io.github.classgraph                 2018-08..2026-08 4.8.189              |...=================|
+  R   org.dominokit                        2024-01..2026-07 1.0.3                |..............======|
+  R   org.finos.legend.engine              2025-10..2026-07 4.135.0              |.................===|
+  R   com.datarobot                        2022-02..2026-07 11.2.42              |..........==========|
+  ?   dev.sixpack                          2026-07..2026-07 0.6.2                |...................=|
+  R   tech.neander                         2024-05..2026-06 0.0.4                |...............=====|
+    + 77 more: org.finos.legend.sdlc, org.paramixel, org.javastro.vodsl, software.amazon.glue, dev.getelements.elements.crossfire, com.netgrif, org.plumelib, com.google.tsunami, org.finos.legend.depot, io.github.api-ghost-agent, org.geneweaver, cn.ashersu.omni.model, (+65 more)
+io.opentelemetry.api  [owned by `io.opentelemetry`; 1 other group(s) shade the name]
+  ? * io.opentelemetry                     2020-03..2026-08 1.65.0               |......==============|
+  ?   io.vidocq.humboldt                   2026-06..2026-07 0.2.0                |...................=|
+io.opentelemetry.context  [owned by `io.opentelemetry`; 1 other group(s) shade the name]
+  ? * io.opentelemetry                     2020-11..2026-08 1.65.0               |........============|
+  ?   io.vidocq.humboldt                   2026-06..2026-07 0.2.0                |...................=|
+io.vertx.circuitbreaker  [owned by `io.vertx`; 1 other group(s) shade the name]
+  ? * io.vertx                             2020-05..2026-08 4.5.32               |.......=============|
+  ?   io.github.the-infinite               2026-07..2026-08 1.0.30               |...................=|
+io.vertx.core  [owned by `io.vertx`; 3 other group(s) shade the name]
+  A * io.vertx                             2020-05..2026-08 4.5.32               |.......=============|
+  ?   io.sirix                             2026-06..2026-07 1.0.0-beta7          |...................=|
+  R   io.github.crac.io.vertx              2023-08..2024-09 4.4.6.CRAC.0         |.............===....|
+  R   one.gfw                              2023-03..2023-03 4.4.0                |............=.......|
+io.vertx.auth.common  [owned by `io.vertx`; 1 other group(s) shade the name]
+  ? * io.vertx                             2020-05..2026-08 4.5.32               |.......=============|
+  ?   ai.tock                              2026-07..2026-07 26.3.3               |...................=|
+io.netty.buffer  [owned by `io.netty`; 21 other group(s) shade the name]
+  A * io.netty                             2017-12..2026-08 4.1.137.Final        |..==================|
+  R   org.opendaylight.jsonrpc             2025-08..2026-07 1.20.0               |.................===|
+  R   org.apache.kyuubi                    2025-12..2026-07 1.12.0               |..................==|
+  R   org.apache.tika                      2025-04..2026-07 3.3.2                |................====|
+  ?   ai.covia                             2026-07..2026-07 0.6.0                |...................=|
+  R   io.github.lukaszsamson               2026-04..2026-07 0.2.0                |..................==|
+    + 16 more: com.urbanairship, org.apache.polaris, net.neoforged.jst, org.apache.flink, org.opendaylight.controller, org.opendaylight.bgpcep, org.apache.iceberg, org.atsign, org.lance, io.github.linagora.linid.im, org.opendaylight.netconf, org.apache.arrow, (+4 more)
+io.netty.codec.http2  [owned by `io.netty`; 16 other group(s) shade the name]
+  A * io.netty                             2017-12..2026-08 4.1.137.Final        |..==================|
+  R   com.applitools                       2026-05..2026-07 5.88.2               |...................=|
+  R   org.apache.spark                     2025-10..2026-07 4.1.3                |.................===|
+  ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
+  ?   org.apache.gravitino                 2026-06..2026-06 1.3.0                |...................=|
+  R   org.apache.iceberg                   2026-05..2026-05 1.11.0               |...................=|
+    + 11 more: org.eclipse.ditto, io.github.jdbc-armour, io.github.cstopyak, it.neckar.open, net.xdob.ratly, io.micronaut.testresources, com.exactpro.th2, io.etcd, io.kestra.storage, org.wiremock, io.github.sunny-chung
+io.netty.handler.proxy  [owned by `io.netty`; 11 other group(s) shade the name]
+  A * io.netty                             2017-12..2026-08 4.1.137.Final        |..==================|
+  R   io.kestra                            2025-08..2026-08 1.0.54               |.................===|
+  R   org.apache.grails                    2026-05..2026-07 8.0.0-M3             |..................==|
+  R   io.micronaut.starter                 2025-06..2026-07 4.10.17              |.................===|
+  ?   org.apache.gravitino                 2026-06..2026-06 1.3.0                |...................=|
+  ?   io.neonbee                           2026-06..2026-06 0.37.30              |...................=|
+    + 6 more: com.facebook.presto, io.sirix, org.apache.iceberg, io.kestra.plugin, com.frog-development.consul-populate, io.kestra.storage
+io.netty.handler  [owned by `io.netty`; 10 other group(s) shade the name]
+  A * io.netty                             2017-12..2026-08 4.1.137.Final        |..==================|
+  R   org.apache.storm                     2025-05..2026-07 2.8.9                |.................===|
+  R   org.apache.tika                      2025-04..2026-07 3.3.2                |................====|
+  ?   org.openidentityplatform.opendj      2026-06..2026-07 5.1.2                |...................=|
+  R   eu.michael-simons.neo4j              2025-07..2026-06 4.1.2                |.................===|
+  ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
+    + 5 more: org.apache.flink, io.github.ousatov-ua, io.kestra.plugin, org.lucee, com.luhuiguo.netty
+io.netty.transport.epoll.linux.x86_64  [owned by `io.netty`; 4 other group(s) shade the name]
+  A * io.netty                             2022-05..2026-08 4.1.137.Final        |...........=========|
+  R   org.apache.storm                     2025-05..2026-07 2.8.9                |.................===|
+  ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
+  R   com.atscale.opensource               2026-01..2026-01 1.14                 |..................=.|
+  R   org.readutf.orchestrator             2025-02..2025-02 2.0.0                |................=...|
+io.netty.transport  [owned by `io.netty`; 5 other group(s) shade the name]
+  A * io.netty                             2017-12..2026-08 4.1.137.Final        |..==================|
+  R   com.arcadedb                         2025-04..2026-07 26.7.3               |................====|
+  R   io.github.lukaszsamson               2026-04..2026-07 0.2.0                |..................==|
+  ?   io.github.qbsstg                     2026-06..2026-06 0.17.0               |...................=|
+  R   com.sportradar.unifiedodds.sdk       2026-02..2026-03 5.0.0-rc4            |..................=.|
+  R   io.karatelabs                        2025-10..2025-11 1.5.2                |.................==.|
 org.springdoc.openapi.ui  [owned by `org.springdoc`; 2 other group(s) shade the name]
   A * org.springdoc                        2020-12..2026-08 3.1.0                |........============|
   ?   io.github.vpelikh                    2026-06..2026-07 5.0.3                |...................=|
@@ -1123,14 +1156,6 @@ com.azure.storage.common  [owned by `com.azure`; 2 other group(s) shade the name
   A * com.azure                            2019-09..2026-07 12.35.0-beta.1       |.....===============|
   R   org.gaul                             2025-11..2026-07 3.3.0                |..................==|
   ?   org.tomitribe.s3proxy                2026-06..2026-06 3.0.1                |...................=|
-io.github.classgraph  [owned by `io.github.classgraph`; 72 other group(s) shade the name]
-  A * io.github.classgraph                 2018-08..2026-07 4.8.186              |...=================|
-  R   org.dominokit                        2024-01..2026-07 1.0.3                |..............======|
-  R   org.finos.legend.engine              2025-10..2026-07 4.135.0              |.................===|
-  R   com.datarobot                        2022-02..2026-07 11.2.42              |..........==========|
-  ?   dev.sixpack                          2026-07..2026-07 0.6.2                |...................=|
-  R   tech.neander                         2024-05..2026-06 0.0.4                |...............=====|
-    + 77 more: org.finos.legend.sdlc, org.paramixel, org.javastro.vodsl, software.amazon.glue, dev.getelements.elements.crossfire, com.netgrif, org.plumelib, com.google.tsunami, org.finos.legend.depot, io.github.api-ghost-agent, org.geneweaver, cn.ashersu.omni.model, (+65 more)
 org.graalvm.truffle  [owned by `org.graalvm.truffle`; 32 other group(s) shade the name]
   A * org.graalvm.truffle                  2018-10..2026-07 25.2.4               |...=================|
   R   com.arcadedb                         2025-12..2026-07 26.7.3               |..................==|
@@ -1156,7 +1181,7 @@ com.github.luben.zstd_jni  [owned by `com.github.luben`; 18 other group(s) shade
   R   org.apache.iotdb                     2024-11..2026-07 2.0.10               |................====|
   ?   com.timecho.timechodb                2026-06..2026-06 2.0.10.1             |...................=|
   R   com.snowflake                        2024-12..2026-06 3.5.4                |................====|
-  R   org.apache.tsfile                    2024-11..2026-05 2.3.1                |................====|
+  R   org.apache.tsfile                    2024-11..2026-05 2.3.1                |...............=====|
     + 13 more: ai.h2o, com.timecho.iotdb, org.chipsalliance, org.apache.celeborn, io.moderne, io.spicelabs, io.nosqlbench, io.github.willena, io.github.fernandolopes, org.apache.amoro, io.kroxylicious, io.github.azagniotov, (+1 more)
 org.eclipse.jgit.pgm  [owned by `org.eclipse.jgit`; 1 other group(s) shade the name]
   ? * org.eclipse.jgit                     2017-12..2026-07 7.7.1.202607240634-r |..==================|
@@ -1170,14 +1195,6 @@ com.clickhouse.jdbc  [owned by `com.clickhouse`; 4 other group(s) shade the name
 io.opentelemetry.instrumentation_annotations  [owned by `io.opentelemetry.instrumentation`; 1 other group(s) shade the name]
   ? * io.opentelemetry.instrumentation     2023-10..2026-07 2.30.0               |.............=======|
   ?   io.vidocq.humboldt                   2026-06..2026-07 0.2.0                |...................=|
-io.vertx.core  [owned by `io.vertx`; 3 other group(s) shade the name]
-  A * io.vertx                             2020-05..2026-07 4.5.31               |.......=============|
-  ?   io.sirix                             2026-06..2026-07 1.0.0-beta7          |...................=|
-  R   io.github.crac.io.vertx              2023-08..2024-09 4.4.6.CRAC.0         |.............===....|
-  R   one.gfw                              2023-03..2023-03 4.4.0                |............=.......|
-io.vertx.auth.common  [owned by `io.vertx`; 1 other group(s) shade the name]
-  ? * io.vertx                             2020-05..2026-07 4.5.31               |.......=============|
-  ?   ai.tock                              2026-07..2026-07 26.3.3               |...................=|
 io.netty.tcnative.classes.openssl  [owned by `io.netty`; 5 other group(s) shade the name]
   A * io.netty                             2022-03..2026-07 2.0.81.Final         |..........==========|
   ?   io.vertx                             2026-06..2026-07 4.5.30               |...................=|
@@ -1185,14 +1202,6 @@ io.netty.tcnative.classes.openssl  [owned by `io.netty`; 5 other group(s) shade 
   R   org.neo4j.driver                     2024-11..2026-06 4.4.26               |................====|
   R   io.kestra.plugin                     2024-10..2025-06 0.23.0               |...............===..|
   R   eu.michael-simons.neo4j              2024-10..2025-06 2.17.4               |...............===..|
-org.bouncycastle.provider  [owned by `org.bouncycastle`; 88 other group(s) shade the name]
-  A * org.bouncycastle                     2018-07..2026-07 1.85.1               |...=================|
-  R   org.wso2.charon                      2019-04..2026-06 5.1.5                |....================|
-  ?   io.gitee.maluole                     2026-06..2026-06 1.2.7.RELEASE        |...................=|
-  R   org.dcache                           2025-12..2026-06 3.4.3                |..................==|
-  R   org.apache.pinot                     2025-02..2026-06 1.5.1                |................====|
-  R   org.openeuler                        2021-11..2026-06 2.0.4                |..........==========|
-    + 83 more: org.apache.dolphinscheduler, org.terracotta, org.exploit, de.moritzpetersen, org.apache.seatunnel, de.splatgames.aether.pack, net.maritimeconnectivity.pki, io.github.swiyu-admin-ch, org.hyperledger.fabric, io.kestra.storage, io.aiven, io.kestra.plugin, (+71 more)
 org.htmlunit.cssparser  [owned by `org.htmlunit`; 1 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-07 5.3.0                |...................=|
   ?   org.seleniumhq.selenium              2026-07..2026-07 4.46.0               |...................=|
@@ -1202,15 +1211,6 @@ org.htmlunit.websocket.client  [owned by `org.htmlunit`; 1 other group(s) shade 
 org.seleniumhq.selenium.grid  [owned by `org.seleniumhq.selenium`; 1 other group(s) shade the name]
   ? * org.seleniumhq.selenium              2019-09..2026-07 4.46.0               |.....===============|
   ?   com.infotel.seleniumRobot            2022-09..2022-09 5.0.4                |...........=........|
-io.opentelemetry.context  [owned by `io.opentelemetry`; 1 other group(s) shade the name]
-  ? * io.opentelemetry                     2020-11..2026-07 1.64.0               |........============|
-  ?   io.vidocq.humboldt                   2026-06..2026-07 0.2.0                |...................=|
-io.opentelemetry.api  [owned by `io.opentelemetry`; 1 other group(s) shade the name]
-  ? * io.opentelemetry                     2020-03..2026-07 1.64.0               |......==============|
-  ?   io.vidocq.humboldt                   2026-06..2026-07 0.2.0                |...................=|
-io.github.pdvrieze.testutil  [owned by `io.github.pdvrieze.xmlutil`; 0 other group(s) shade the name]
-  ? * io.github.pdvrieze.xmlutil           2025-07..2026-07 1.0.1                |.................===|
-  ?   io.github.pdvrieze                   2026-06..2026-06 1.0.0-rc3            |...................=|
 com.fasterxml.jackson.datatype.joda  [owned by `com.fasterxml.jackson.datatype`; 4 other group(s) shade the name]
   A * com.fasterxml.jackson.datatype       2017-10..2026-07 2.18.9               |.===================|
   R   io.kestra.plugin                     2024-06..2024-08 0.18.1               |...............=....|
@@ -1521,14 +1521,29 @@ Multiple publishers with no natural-namespace owner present: a genuine collision
 _Showing the 200 most recently active of 262. For the full list, emit the SetOwners file: `-Djenesis.crawler.drift.emit=unclassified`._
 
 ```
+VirtualizedFX  [no clear owner; `io.github.palexdev` is earliest and most recent]
+  ? * io.github.palexdev                   2022-03..2026-08 25.3.3               |..........==========|
+  ?   org.glavo.materialfx                 2022-04..2022-04 11.2.6               |..........=.........|
 org.dnsjava  [no clear owner; `dnsjava` is earliest and most recent]
   ? * dnsjava                              2019-05..2026-05 3.6.5                |.....===============|
-  ?   io.simpleishard                      2026-07..2026-08 0.67.0               |...................=|
+  ?   io.simpleishard                      2026-07..2026-08 0.72.1               |...................=|
   ?   ai.askamerica                        2026-07..2026-08 0.67.0               |...................=|
   ?   ai.platon.gora                       2026-06..2026-07 1.1.0                |...................=|
   ?   org.apache.hbase                     2025-02..2026-07 3.0.0-beta-2         |................====|
   ?   org.apache.beam                      2025-01..2026-07 2.75.0               |................====|
     + 19 more: org.apache.phoenix, io.github.littleproxy, com.alibaba.polardbx, io.jikkou, org.apache.pinot, org.apache.paimon, de.m3y.hadoop.hdfs.hfsa, com.hazelcast.jet, com.helger.peppol.mcp, org.apache.atlas, com.clickzetta, com.foilen, (+7 more)
+com.jn.langx.java8  [no clear owner; `io.github.bes2008.solution.langx` is earliest and most recent]
+  ? * io.github.bes2008.solution.langx     2024-01..2026-08 5.4.6.3              |..............======|
+  ?   io.github.qhsword.langx              2025-11..2025-11 5.5.10               |..................=.|
+com.jn.langx.security.gm.jca.bouncycastle  [no clear owner; `io.github.bes2008.solution.langx.security` is earliest and most recent]
+  ? * io.github.bes2008.solution.langx.security 2024-01..2026-08 5.4.6.3              |..............======|
+  ?   io.github.qhsword.langx.security     2025-11..2025-12 5.8.0                |..................=.|
+net.jbock.compiler  [no clear owner; `com.github.h908714124` is earliest and most recent]
+  ? * com.github.h908714124                2018-11..2021-05 4.4.000              |....======..........|
+  ?   io.github.jbock-java                 2021-06..2026-08 5.21                 |.........===========|
+net.jbock  [no clear owner; `com.github.h908714124` is earliest and most recent]
+  ? * com.github.h908714124                2017-10..2021-05 4.4                  |.=========..........|
+  ?   io.github.jbock-java                 2021-06..2026-08 5.21                 |.........===========|
 java.xml.bind  [no clear owner; `javax.xml.bind` is earliest and most recent]
   ? * javax.xml.bind                       2017-07..2018-09 2.3.1                |.===................|
   ?   io.github.cobble-project             2026-07..2026-08 0.3.0-1-flink-1.17   |...................=|
@@ -1665,7 +1680,7 @@ com.google.api.client  [no clear owner; `com.google.http-client` is earliest and
   ?   com.google.cloud.bigtable            2020-07..2020-11 1.17.0               |.......==...........|
 org.apache.commons.net  [no clear owner; `commons-net` is earliest and most recent]
   ? * commons-net                          2020-08..2026-03 3.13.0               |.......============.|
-  ?   int.esa.ccsds.mo                     2025-05..2026-07 14.1                 |.................===|
+  ?   int.esa.ccsds.mo                     2025-05..2026-07 14.1                 |................====|
   ?   com.nordstrom.ui-tools               2024-08..2024-08 4.23.0               |...............=....|
   ?   io.kestra.plugin                     2024-02..2024-03 0.15.1               |..............=.....|
   ?   org.apache.pinot                     2024-03..2024-03 1.1.0                |..............=.....|
@@ -1676,9 +1691,6 @@ jcef  [no clear owner; `me.friwi` is earliest and most recent]
 atlantafx.base  [no clear owner; `io.github.mkpaz` is earliest and most recent]
   ? * io.github.mkpaz                      2022-09..2025-07 2.1.0                |...........=======..|
   ?   io.xpipe                             2026-07..2026-07 2.1.0                |...................=|
-VirtualizedFX  [no clear owner; `io.github.palexdev` is earliest and most recent]
-  ? * io.github.palexdev                   2022-03..2026-07 25.3.0               |..........==========|
-  ?   org.glavo.materialfx                 2022-04..2022-04 11.2.6               |..........=.........|
 flying.saucer.pdf  [no clear owner; `org.xhtmlrenderer` is earliest and most recent]
   ? * org.xhtmlrenderer                    2024-09..2026-07 10.4.0               |...............=====|
   ?   io.github.openpdfsaucer              2025-03..2025-05 2.0.9                |................==..|
@@ -1689,7 +1701,7 @@ tech.fortis.sandbox.api  [no clear owner; `io.github.zahran444` is earliest and 
 com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most recent]
   ? * com.fasterxml.woodstox               2018-03..2026-06 7.2.1                |..==================|
   ?   org.uma.jmetal                       2025-12..2026-07 7.5                  |..................==|
-  ?   org.bidib.jbidib                     2021-12..2026-05 2.0.44               |..........==========|
+  ?   org.bidib.jbidib                     2021-12..2026-05 2.0.44               |..........=========.|
   ?   gov.nih.ncats                        2022-01..2026-03 1.0.26               |..........=========.|
   ?   org.hpccsystems                      2022-02..2026-03 9.12.94-1            |..........=========.|
   ?   com.backpackcloud                    2025-03..2026-01 2.1.0                |................===.|
@@ -1699,7 +1711,7 @@ jakarta.security.auth.message  [no clear owner; `jakarta.authentication` is earl
   ?   org.apache.tomcat                    2020-11..2026-07 11.0.24              |........============|
 java.servlet.jsp  [no clear owner; `org.apache.tomcat` is earliest and most recent]
   ? * org.apache.tomcat                    2020-11..2026-07 9.0.120              |........============|
-  ?   com.heroku                           2024-05..2026-04 9.0.117.0            |...............====.|
+  ?   com.heroku                           2024-05..2026-04 9.0.117.0            |..............=====.|
 java.servlet  [no clear owner; `jakarta.servlet` is earliest and most recent]
   ? * jakarta.servlet                      2019-08..2020-07 5.0.0-M2             |.....===............|
   ?   org.apache.tomcat                    2020-11..2026-07 9.0.120              |........============|
@@ -1987,12 +1999,6 @@ org.newsclub.net.unix  [no clear owner; `com.kohlschutter.junixsocket` is earlie
   ?   net.corda                            2025-09..2026-05 4.14.2               |.................==.|
   ?   io.nosqlbench                        2020-02..2020-03 3.12.47              |......=.............|
     + 1 more: io.engineblock
-com.jn.langx.java8  [no clear owner; `io.github.bes2008.solution.langx` is earliest and most recent]
-  ? * io.github.bes2008.solution.langx     2024-01..2026-06 5.4.6.2              |..............======|
-  ?   io.github.qhsword.langx              2025-11..2025-11 5.5.10               |..................=.|
-com.jn.langx.security.gm.jca.bouncycastle  [no clear owner; `io.github.bes2008.solution.langx.security` is earliest and most recent]
-  ? * io.github.bes2008.solution.langx.security 2024-01..2026-06 5.4.6.2              |..............======|
-  ?   io.github.qhsword.langx.security     2025-11..2025-12 5.8.0                |..................=.|
 java.ws.rs  [no clear owner; `javax.ws.rs` is earliest and most recent]
   ? * javax.ws.rs                          2017-06..2018-08 2.1.1                |.===................|
   ?   org.apache.opennlp                   2020-07..2026-06 1.9.5                |.......=============|
@@ -2144,7 +2150,7 @@ druid.spring.boot4.starter  [no clear owner; `com.shr25` is earliest and most re
   ? * com.shr25                            2026-02..2026-02 1.2.27               |..................=.|
   ?   com.alibaba                          2026-03..2026-03 1.2.28               |..................=.|
 core  [no clear owner; `pro.shuangxi.framework.openfx` is earliest and most recent]
-  ? * pro.shuangxi.framework.openfx        2025-05..2025-05 1.0.0                |.................=..|
+  ? * pro.shuangxi.framework.openfx        2025-05..2025-05 1.0.0                |................=...|
   ?   org.apereo.cas                       2025-07..2026-03 7.2.7.1              |.................==.|
 com.utool  [no clear owner; `io.gitee.shallwecode` is earliest and most recent]
   ? * io.gitee.shallwecode                 2025-05..2026-03 1.5.0                |.................==.|
@@ -2246,7 +2252,7 @@ jssc  [no clear owner; `net.jockx` is earliest and most recent]
   ?   com.zsmartsystems.zigbee             2022-10..2024-12 1.4.16.1             |...........======...|
 common  [no clear owner; `io.github.matwoess` is earliest and most recent]
   ? * io.github.matwoess                   2024-12..2025-01 0.11.3               |................=...|
-  ?   pro.shuangxi.framework.openfx        2025-05..2025-05 1.0.0                |.................=..|
+  ?   pro.shuangxi.framework.openfx        2025-05..2025-05 1.0.0                |................=...|
 jpms_dss_validation_policy  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-04 6.0.1.d4j.1          |......===========...|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2025-03 6.0.1                |...........======...|
@@ -2254,12 +2260,6 @@ com.amazon.corretto.crypto.provider  [no clear owner; `software.amazon.cryptools
   ? * software.amazon.cryptools            2019-07..2025-03 2.5.0                |.....============...|
   ?   io.github.luneo7                     2022-09..2022-09 1.6.1                |...........=........|
   ?   org.jfrog.buildinfo                  2022-01..2022-01 2.33.2               |..........=.........|
-MaterialFX  [no clear owner; `io.github.palexdev` is earliest and most recent]
-  ? * io.github.palexdev                   2021-06..2025-02 21.18.0-alpha        |.........========...|
-  ?   org.glavo.materialfx                 2022-04..2022-04 11.13.4              |..........=.........|
-java.money  [no clear owner; `javax.money` is earliest and most recent]
-  ? * javax.money                          2018-04..2020-05 1.1                  |..======............|
-  ?   dev.zabricraft                       2025-01..2025-01 0.3.2                |................=...|
 ```
 
 ## Reassigned and widened ownership
