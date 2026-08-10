@@ -44,3 +44,4 @@
 0.2.0	metadata	2026-06-30T16:35:31Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/ktkit-ktor-httpclient-macosarm64/0.2.1/ktkit-ktor-httpclient-macosarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2026-07-11T09:35:54Z	
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/ktkit-ktor-httpclient-macosarm64/0.3.0/ktkit-ktor-httpclient-macosarm64-0.3.0.jar returned status 404

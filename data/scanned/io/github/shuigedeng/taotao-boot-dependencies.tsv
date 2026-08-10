@@ -20,3 +20,4 @@
 2026.05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shuigedeng/taotao-boot-dependencies/2026.05/taotao-boot-dependencies-2026.05.jar returned status 404
 2026.06		2026-05-30T07:28:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shuigedeng/taotao-boot-dependencies/2026.06/taotao-boot-dependencies-2026.06.jar returned status 404
 2026.07		2026-06-27T14:40:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shuigedeng/taotao-boot-dependencies/2026.07/taotao-boot-dependencies-2026.07.jar returned status 404
+2026.08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shuigedeng/taotao-boot-dependencies/2026.08/taotao-boot-dependencies-2026.08.jar returned status 404

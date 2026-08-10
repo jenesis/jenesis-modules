@@ -49,3 +49,6 @@
 2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google-horizon/2.5.1/openiap-google-horizon-2.5.1.jar returned status 404
 2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google-horizon/2.5.2/openiap-google-horizon-2.5.2.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google-horizon/3.0.0/openiap-google-horizon-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google-horizon/3.0.1/openiap-google-horizon-3.0.1.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google-horizon/3.1.0/openiap-google-horizon-3.1.0.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hyochan/openiap/openiap-google-horizon/3.2.0/openiap-google-horizon-3.2.0.jar returned status 404

@@ -12,3 +12,4 @@
 1.4.2	metadata	2025-04-04T14:31:30Z	
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/985892345/provider-manager-iosarm64/1.5.0/provider-manager-iosarm64-1.5.0.jar returned status 404
 1.5.0	metadata	2025-09-30T14:14:52Z	
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/985892345/provider-manager-iosarm64/1.6.0/provider-manager-iosarm64-1.6.0.jar returned status 404

@@ -38,3 +38,4 @@
 137.0.2026061800		2026-06-24T11:30:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SettingsLibDataStore/137.0.2026061800/SettingsLibDataStore-137.0.2026061800.jar returned status 404
 137.0.2026062400		2026-06-24T18:54:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SettingsLibDataStore/137.0.2026062400/SettingsLibDataStore-137.0.2026062400.jar returned status 404
 137.0.2026062500		2026-06-25T21:09:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SettingsLibDataStore/137.0.2026062500/SettingsLibDataStore-137.0.2026062500.jar returned status 404
+137.0.2026080700			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dot166/SettingsLibDataStore/137.0.2026080700/SettingsLibDataStore-137.0.2026080700.jar returned status 404

@@ -6,3 +6,4 @@
 0.4.2		2026-05-27T13:54:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bluetape4k/graph/bluetape4k-graph-bom/0.4.2/bluetape4k-graph-bom-0.4.2.jar returned status 404
 0.5.0		2026-06-01T03:56:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bluetape4k/graph/bluetape4k-graph-bom/0.5.0/bluetape4k-graph-bom-0.5.0.jar returned status 404
 0.5.1		2026-06-27T16:28:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bluetape4k/graph/bluetape4k-graph-bom/0.5.1/bluetape4k-graph-bom-0.5.1.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bluetape4k/graph/bluetape4k-graph-bom/0.6.0/bluetape4k-graph-bom-0.6.0.jar returned status 404

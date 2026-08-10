@@ -28,6 +28,7 @@
 0.4.9-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/0.4.9-rongwei/sdk-lan-0.4.9-rongwei.jar returned status 404
 0.5.1-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/0.5.1-rongwei/sdk-lan-0.5.1-rongwei.jar returned status 404
 0.5.2-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/0.5.2-rongwei/sdk-lan-0.5.2-rongwei.jar returned status 404
+0.5.3-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/0.5.3-rongwei/sdk-lan-0.5.3-rongwei.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/1.0.1/sdk-lan-1.0.1.jar returned status 404
 1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/1.0.10/sdk-lan-1.0.10.jar returned status 404
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/1.0.12/sdk-lan-1.0.12.jar returned status 404
@@ -185,6 +186,7 @@
 1.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/1.4.7/sdk-lan-1.4.7.jar returned status 404
 1.4.7-bololo			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/1.4.7-bololo/sdk-lan-1.4.7-bololo.jar returned status 404
 1.4.7-light			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/1.4.7-light/sdk-lan-1.4.7-light.jar returned status 404
+1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/1.4.8/sdk-lan-1.4.8.jar returned status 404
 1.4.8-bololo			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/1.4.8-bololo/sdk-lan-1.4.8-bololo.jar returned status 404
 1.4.8-light			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/1.4.8-light/sdk-lan-1.4.8-light.jar returned status 404
 1.4.9-bololo			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-lan/1.4.9-bololo/sdk-lan-1.4.9-bololo.jar returned status 404

@@ -7,3 +7,6 @@ v4.0.0-RELESE			IOException: Tail request on https://maven-central.storage-downl
 v4.0.1-DEV			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/v4.0.1-DEV/e1m0admin-parent-v4.0.1-DEV.jar returned status 404
 v4.1.0-DEV			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/v4.1.0-DEV/e1m0admin-parent-v4.1.0-DEV.jar returned status 404
 v4.2.0-DEV			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/v4.2.0-DEV/e1m0admin-parent-v4.2.0-DEV.jar returned status 404
+v4.3.0-DEV			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/v4.3.0-DEV/e1m0admin-parent-v4.3.0-DEV.jar returned status 404
+v4.4.0-DEV			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/v4.4.0-DEV/e1m0admin-parent-v4.4.0-DEV.jar returned status 404
+v4.5.0-DEV			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/e1m0dev/e1m0admin-parent/v4.5.0-DEV/e1m0admin-parent-v4.5.0-DEV.jar returned status 404

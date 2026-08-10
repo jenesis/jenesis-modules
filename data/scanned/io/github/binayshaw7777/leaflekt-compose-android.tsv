@@ -6,3 +6,4 @@
 1.0.5		2026-06-11T14:12:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/binayshaw7777/leaflekt-compose-android/1.0.5/leaflekt-compose-android-1.0.5.jar returned status 404
 1.0.6		2026-06-18T21:54:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/binayshaw7777/leaflekt-compose-android/1.0.6/leaflekt-compose-android-1.0.6.jar returned status 404
 1.1.0		2026-06-19T21:00:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/binayshaw7777/leaflekt-compose-android/1.1.0/leaflekt-compose-android-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/binayshaw7777/leaflekt-compose-android/1.1.1/leaflekt-compose-android-1.1.1.jar returned status 404

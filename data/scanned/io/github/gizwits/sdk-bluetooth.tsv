@@ -31,6 +31,7 @@
 0.5.0-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/0.5.0-rongwei/sdk-bluetooth-0.5.0-rongwei.jar returned status 404
 0.5.1-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/0.5.1-rongwei/sdk-bluetooth-0.5.1-rongwei.jar returned status 404
 0.5.2-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/0.5.2-rongwei/sdk-bluetooth-0.5.2-rongwei.jar returned status 404
+0.5.3-rongwei			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/0.5.3-rongwei/sdk-bluetooth-0.5.3-rongwei.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/1.0.1/sdk-bluetooth-1.0.1.jar returned status 404
 1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/1.0.10/sdk-bluetooth-1.0.10.jar returned status 404
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/1.0.12/sdk-bluetooth-1.0.12.jar returned status 404
@@ -189,6 +190,7 @@
 1.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/1.4.7/sdk-bluetooth-1.4.7.jar returned status 404
 1.4.7-bololo			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/1.4.7-bololo/sdk-bluetooth-1.4.7-bololo.jar returned status 404
 1.4.7-light			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/1.4.7-light/sdk-bluetooth-1.4.7-light.jar returned status 404
+1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/1.4.8/sdk-bluetooth-1.4.8.jar returned status 404
 1.4.8-bololo			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/1.4.8-bololo/sdk-bluetooth-1.4.8-bololo.jar returned status 404
 1.4.8-light			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/1.4.8-light/sdk-bluetooth-1.4.8-light.jar returned status 404
 1.4.9-bololo			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-bluetooth/1.4.9-bololo/sdk-bluetooth-1.4.9-bololo.jar returned status 404
