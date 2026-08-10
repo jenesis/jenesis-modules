@@ -249,6 +249,9 @@
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-android/1.8.1/sdk-android-1.8.1.jar returned status 404
 1.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-android/1.8.10/sdk-android-1.8.10.jar returned status 404
 1.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-android/1.8.11/sdk-android-1.8.11.jar returned status 404
+1.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-android/1.8.12/sdk-android-1.8.12.jar returned status 404
+1.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-android/1.8.13/sdk-android-1.8.13.jar returned status 404
+1.8.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-android/1.8.14/sdk-android-1.8.14.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-android/1.8.2/sdk-android-1.8.2.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-android/1.8.3/sdk-android-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-android/1.8.4/sdk-android-1.8.4.jar returned status 404

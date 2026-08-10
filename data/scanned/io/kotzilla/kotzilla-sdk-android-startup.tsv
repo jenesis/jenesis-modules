@@ -1,3 +1,5 @@
 2.3.0		2026-07-07T14:10:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-android-startup/2.3.0/kotzilla-sdk-android-startup-2.3.0.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-android-startup/2.3.1/kotzilla-sdk-android-startup-2.3.1.jar returned status 404
+2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-android-startup/2.3.2/kotzilla-sdk-android-startup-2.3.2.jar returned status 404
 2.3.2-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-android-startup/2.3.2-RC1/kotzilla-sdk-android-startup-2.3.2-RC1.jar returned status 404
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-android-startup/2.3.3/kotzilla-sdk-android-startup-2.3.3.jar returned status 404

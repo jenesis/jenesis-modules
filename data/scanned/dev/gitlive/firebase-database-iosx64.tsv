@@ -46,3 +46,5 @@
 2.4.0	metadata	2025-10-31T14:29:41Z	
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-database-iosx64/2.5.0/firebase-database-iosx64-2.5.0.jar returned status 404
 2.5.0	metadata	2026-07-16T04:31:24Z	
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-database-iosx64/2.6.0/firebase-database-iosx64-2.6.0.jar returned status 404
+3.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-database-iosx64/3.0.0-alpha01/firebase-database-iosx64-3.0.0-alpha01.jar returned status 404

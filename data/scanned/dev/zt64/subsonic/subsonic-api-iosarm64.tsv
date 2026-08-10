@@ -22,3 +22,4 @@
 1.0.0-beta05	metadata	2026-05-29T03:46:48Z	
 1.0.0-beta06		2026-06-17T14:04:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zt64/subsonic/subsonic-api-iosarm64/1.0.0-beta06/subsonic-api-iosarm64-1.0.0-beta06.jar returned status 404
 1.0.0-beta06	metadata	2026-06-17T14:04:54Z	
+1.0.0-beta07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zt64/subsonic/subsonic-api-iosarm64/1.0.0-beta07/subsonic-api-iosarm64-1.0.0-beta07.jar returned status 404

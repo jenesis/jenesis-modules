@@ -2,3 +2,5 @@
 2.4.0	metadata	2025-10-31T16:32:24Z	
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-functions-tvossimulatorarm64/2.5.0/firebase-functions-tvossimulatorarm64-2.5.0.jar returned status 404
 2.5.0	metadata	2026-07-16T06:04:37Z	
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-functions-tvossimulatorarm64/2.6.0/firebase-functions-tvossimulatorarm64-2.6.0.jar returned status 404
+3.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-functions-tvossimulatorarm64/3.0.0-alpha01/firebase-functions-tvossimulatorarm64-3.0.0-alpha01.jar returned status 404

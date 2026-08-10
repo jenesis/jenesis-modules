@@ -2,3 +2,5 @@
 2.4.0	metadata	2025-10-31T13:58:22Z	
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-analytics-tvosx64/2.5.0/firebase-analytics-tvosx64-2.5.0.jar returned status 404
 2.5.0	metadata	2026-07-15T14:47:20Z	
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-analytics-tvosx64/2.6.0/firebase-analytics-tvosx64-2.6.0.jar returned status 404
+3.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-analytics-tvosx64/3.0.0-alpha01/firebase-analytics-tvosx64-3.0.0-alpha01.jar returned status 404
