@@ -5,3 +5,4 @@
 5.0		2026-07-06T03:18:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mohterbaord/java-library-parent/5.0/java-library-parent-5.0.jar returned status 404
 6.0		2026-07-06T06:41:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mohterbaord/java-library-parent/6.0/java-library-parent-6.0.jar returned status 404
 7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mohterbaord/java-library-parent/7.0/java-library-parent-7.0.jar returned status 404
+8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mohterbaord/java-library-parent/8.0/java-library-parent-8.0.jar returned status 404

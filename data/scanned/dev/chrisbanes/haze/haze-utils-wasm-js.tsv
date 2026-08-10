@@ -1,3 +1,4 @@
 2.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-utils-wasm-js/2.0.0-alpha01/haze-utils-wasm-js-2.0.0-alpha01.jar returned status 404
 2.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-utils-wasm-js/2.0.0-alpha02/haze-utils-wasm-js-2.0.0-alpha02.jar returned status 404
 2.0.0-alpha03		2026-06-09T05:24:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-utils-wasm-js/2.0.0-alpha03/haze-utils-wasm-js-2.0.0-alpha03.jar returned status 404
+2.0.0-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-utils-wasm-js/2.0.0-alpha04/haze-utils-wasm-js-2.0.0-alpha04.jar returned status 404

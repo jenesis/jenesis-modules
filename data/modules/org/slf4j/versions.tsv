@@ -3227,3 +3227,4 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 0.17.0-rc4	named	io.testomat	java-reporter-core	2026-07-31T23:56:29Z	2.0.9
 0.17.0-rc3	named	io.testomat	java-reporter-core	2026-07-31T23:56:31Z	2.0.9
 1.13.3	named	org.open-metadata	elasticsearch-deps	2026-08-01T00:05:46Z	2.0.4
+2.0.0-alpha.6	named	dev.detekt	detekt-rules-ktlint-wrapper	2026-08-06T01:55:23Z	2.0.18
