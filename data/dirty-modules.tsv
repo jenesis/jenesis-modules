@@ -1175,3 +1175,12 @@ io.jooby.thymeleaf
 io.jooby.run
 io.jooby.hikari
 io.jooby.jackson
+io.nats.jnats
+io.brachu.pig
+io.quarkus.commons.classloading
+io.quarkus.qute.generator
+io.quarkus.qute.debug
+io.quarkus.qute
+io.quarkus.packaging.common
+io.quarkus.modular
+io.quarkus.launcher

@@ -11,3 +11,4 @@
 3.37.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-signals-parent/3.37.4/quarkus-signals-parent-3.37.4.jar returned status 404
 3.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-signals-parent/3.38.0/quarkus-signals-parent-3.38.0.jar returned status 404
 3.38.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-signals-parent/3.38.0.CR1/quarkus-signals-parent-3.38.0.CR1.jar returned status 404
+3.38.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-signals-parent/3.38.1/quarkus-signals-parent-3.38.1.jar returned status 404

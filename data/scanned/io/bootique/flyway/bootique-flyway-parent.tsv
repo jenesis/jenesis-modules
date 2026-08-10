@@ -25,3 +25,4 @@
 4.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bootique/flyway/bootique-flyway-parent/4.0-M2/bootique-flyway-parent-4.0-M2.jar returned status 404
 4.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bootique/flyway/bootique-flyway-parent/4.0-M3/bootique-flyway-parent-4.0-M3.jar returned status 404
 4.0-M4		2026-06-29T14:28:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bootique/flyway/bootique-flyway-parent/4.0-M4/bootique-flyway-parent-4.0-M4.jar returned status 404
+4.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bootique/flyway/bootique-flyway-parent/4.0-M5/bootique-flyway-parent-4.0-M5.jar returned status 404
