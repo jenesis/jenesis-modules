@@ -32,3 +32,4 @@
 8.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-launchdarkly-android/8.50.0/sentry-launchdarkly-android-8.50.0.jar returned status 404
 8.50.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-launchdarkly-android/8.50.1/sentry-launchdarkly-android-8.50.1.jar returned status 404
 8.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-launchdarkly-android/8.51.0/sentry-launchdarkly-android-8.51.0.jar returned status 404
+8.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-launchdarkly-android/8.52.0/sentry-launchdarkly-android-8.52.0.jar returned status 404

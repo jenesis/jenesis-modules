@@ -32,3 +32,4 @@
 7.0.0-m004		2026-06-18T14:11:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atlassian/fugue/fugue-parent/7.0.0-m004/fugue-parent-7.0.0-m004.jar returned status 404
 7.0.0-m005			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atlassian/fugue/fugue-parent/7.0.0-m005/fugue-parent-7.0.0-m005.jar returned status 404
 7.0.0-m005-41296ba66a1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atlassian/fugue/fugue-parent/7.0.0-m005-41296ba66a1/fugue-parent-7.0.0-m005-41296ba66a1.jar returned status 404
+7.0.0-m006			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atlassian/fugue/fugue-parent/7.0.0-m006/fugue-parent-7.0.0-m006.jar returned status 404

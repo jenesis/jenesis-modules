@@ -1,4 +1,5 @@
 1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airstyle-root/1/airstyle-root-1.jar returned status 404
+10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airstyle-root/10/airstyle-root-10.jar returned status 404
 2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airstyle-root/2/airstyle-root-2.jar returned status 404
 3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airstyle-root/3/airstyle-root-3.jar returned status 404
 4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airstyle-root/4/airstyle-root-4.jar returned status 404

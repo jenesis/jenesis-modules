@@ -11,6 +11,7 @@
 4.2.14.Final		2026-05-20T21:19:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-testsuite-jpms/4.2.14.Final/netty-testsuite-jpms-4.2.14.Final.jar returned status 404
 4.2.15.Final		2026-06-02T05:22:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-testsuite-jpms/4.2.15.Final/netty-testsuite-jpms-4.2.15.Final.jar returned status 404
 4.2.16.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-testsuite-jpms/4.2.16.Final/netty-testsuite-jpms-4.2.16.Final.jar returned status 404
+4.2.17.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-testsuite-jpms/4.2.17.Final/netty-testsuite-jpms-4.2.17.Final.jar returned status 404
 4.2.2.Final		2025-06-05T06:31:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-testsuite-jpms/4.2.2.Final/netty-testsuite-jpms-4.2.2.Final.jar returned status 404
 4.2.3.Final		2025-07-14T18:52:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-testsuite-jpms/4.2.3.Final/netty-testsuite-jpms-4.2.3.Final.jar returned status 404
 4.2.4.Final		2025-08-13T12:45:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/netty/netty-testsuite-jpms/4.2.4.Final/netty-testsuite-jpms-4.2.4.Final.jar returned status 404

@@ -205,6 +205,7 @@
 1.5.3-1-f46439ce			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kalix/kalix-maven-java/1.5.3-1-f46439ce/kalix-maven-java-1.5.3-1-f46439ce.jar returned status 404
 1.5.3-4-4275b479			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kalix/kalix-maven-java/1.5.3-4-4275b479/kalix-maven-java-1.5.3-4-4275b479.jar returned status 404
 1.5.3-5-866561a0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kalix/kalix-maven-java/1.5.3-5-866561a0/kalix-maven-java-1.5.3-5-866561a0.jar returned status 404
+1.5.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kalix/kalix-maven-java/1.5.30/kalix-maven-java-1.5.30.jar returned status 404
 1.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kalix/kalix-maven-java/1.5.4/kalix-maven-java-1.5.4.jar returned status 404
 1.5.4-1-ccbb581a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kalix/kalix-maven-java/1.5.4-1-ccbb581a/kalix-maven-java-1.5.4-1-ccbb581a.jar returned status 404
 1.5.4-2-90c610dc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kalix/kalix-maven-java/1.5.4-2-90c610dc/kalix-maven-java-1.5.4-2-90c610dc.jar returned status 404

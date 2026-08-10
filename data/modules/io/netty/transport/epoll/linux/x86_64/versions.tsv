@@ -80,3 +80,4 @@
 3.0.0	named	org.apache.storm	blobstore-migrator	2026-07-23T02:22:42Z	4.2.15.Final
 3.0.0	named	org.apache.storm	storm-shaded-deps	2026-07-23T02:22:52Z	4.2.15.Final
 2.8.9	named	org.apache.storm	storm-shaded-deps	2026-07-23T02:22:53Z	4.2.15.Final
+4.1.137.Final	automatic	io.netty	netty-transport-native-epoll	2026-08-07T02:08:07Z	

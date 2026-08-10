@@ -7373,3 +7373,4 @@ v0.0.18	named	com.grafana	grafana-foundation-sdk	2026-06-12T14:46:57Z	2.19.1
 1.2.1	named	org.cadenzaflow.spin	cadenzaflow-spin-dataformat-all	2026-07-31T00:08:00Z	2.21.3
 1.2.0.20	named	com.linkedin.iceberg	iceberg-flink-runtime-1.16	2026-08-01T02:18:54Z	2.14.3
 1.12.1	named	org.incenp	sssom-cli	2026-08-03T02:16:01Z	2.16.1
+42.4	named	io.deephaven	deephaven-oidc-authentication-provider	2026-08-09T01:58:36Z	2.14.0

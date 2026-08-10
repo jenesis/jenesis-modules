@@ -133,6 +133,8 @@
 4.0.25-cp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.25-cp/android-4.0.25-cp.jar returned status 404
 4.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.26/android-4.0.26.jar returned status 404
 4.0.26-cp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.26-cp/android-4.0.26-cp.jar returned status 404
+4.0.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.27/android-4.0.27.jar returned status 404
+4.0.27-cp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.27-cp/android-4.0.27-cp.jar returned status 404
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.3/android-4.0.3.jar returned status 404
 4.0.3-cp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.3-cp/android-4.0.3-cp.jar returned status 404
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.4/android-4.0.4.jar returned status 404
@@ -153,6 +155,7 @@
 4.0.9-cp			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4.0.9-cp/android-4.0.9-cp.jar returned status 404
 4055e54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4055e54/android-4055e54.jar returned status 404
 42a8239			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/42a8239/android-42a8239.jar returned status 404
+43568c6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/43568c6/android-43568c6.jar returned status 404
 46602ec			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/46602ec/android-46602ec.jar returned status 404
 47f6726			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/47f6726/android-47f6726.jar returned status 404
 4ced53b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/android/4ced53b/android-4ced53b.jar returned status 404
