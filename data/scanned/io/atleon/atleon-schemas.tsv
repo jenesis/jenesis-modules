@@ -70,3 +70,4 @@
 0.43.0		2026-06-22T18:52:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-schemas/0.43.0/atleon-schemas-0.43.0.jar returned status 404
 0.44.0		2026-07-03T17:15:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-schemas/0.44.0/atleon-schemas-0.44.0.jar returned status 404
 0.45.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-schemas/0.45.0/atleon-schemas-0.45.0.jar returned status 404
+0.46.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/atleon/atleon-schemas/0.46.0/atleon-schemas-0.46.0.jar returned status 404

@@ -2,3 +2,4 @@
 1.0.0-alpha4		2026-06-15T09:52:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ikanos/ikanos-parent/1.0.0-alpha4/ikanos-parent-1.0.0-alpha4.jar returned status 404
 1.0.0-beta1		2026-06-29T14:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ikanos/ikanos-parent/1.0.0-beta1/ikanos-parent-1.0.0-beta1.jar returned status 404
 1.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ikanos/ikanos-parent/1.0.0-beta2/ikanos-parent-1.0.0-beta2.jar returned status 404
+1.0.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ikanos/ikanos-parent/1.0.0-beta3/ikanos-parent-1.0.0-beta3.jar returned status 404

@@ -4,6 +4,8 @@
 2.5.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.5.13/milvus-sdk-java-parent-2.5.13.jar returned status 404
 2.5.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.5.14/milvus-sdk-java-parent-2.5.14.jar returned status 404
 2.5.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.5.15/milvus-sdk-java-parent-2.5.15.jar returned status 404
+2.5.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.5.16/milvus-sdk-java-parent-2.5.16.jar returned status 404
+2.5.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.5.17/milvus-sdk-java-parent-2.5.17.jar returned status 404
 2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.5.2/milvus-sdk-java-parent-2.5.2.jar returned status 404
 2.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.5.3/milvus-sdk-java-parent-2.5.3.jar returned status 404
 2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.5.4/milvus-sdk-java-parent-2.5.4.jar returned status 404
@@ -28,6 +30,7 @@
 2.6.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.6.20/milvus-sdk-java-parent-2.6.20.jar returned status 404
 2.6.21		2026-06-17T10:52:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.6.21/milvus-sdk-java-parent-2.6.21.jar returned status 404
 2.6.22		2026-06-29T03:36:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.6.22/milvus-sdk-java-parent-2.6.22.jar returned status 404
+2.6.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.6.23/milvus-sdk-java-parent-2.6.23.jar returned status 404
 2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.6.3/milvus-sdk-java-parent-2.6.3.jar returned status 404
 2.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.6.4/milvus-sdk-java-parent-2.6.4.jar returned status 404
 2.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/2.6.5/milvus-sdk-java-parent-2.6.5.jar returned status 404
@@ -41,3 +44,4 @@
 3.0.3		2026-06-29T03:03:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/3.0.3/milvus-sdk-java-parent-3.0.3.jar returned status 404
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/3.0.4/milvus-sdk-java-parent-3.0.4.jar returned status 404
 3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/3.0.5/milvus-sdk-java-parent-3.0.5.jar returned status 404
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milvus/milvus-sdk-java-parent/3.0.6/milvus-sdk-java-parent-3.0.6.jar returned status 404

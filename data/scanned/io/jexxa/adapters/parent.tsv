@@ -4,3 +4,4 @@
 4.1.2		2026-06-11T14:17:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/adapters/parent/4.1.2/parent-4.1.2.jar returned status 404
 4.1.3		2026-07-01T16:28:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/adapters/parent/4.1.3/parent-4.1.3.jar returned status 404
 4.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/adapters/parent/4.1.4/parent-4.1.4.jar returned status 404
+4.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/adapters/parent/4.1.5/parent-4.1.5.jar returned status 404

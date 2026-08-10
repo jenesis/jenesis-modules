@@ -14,6 +14,7 @@
 1.0.1c		2026-05-25T15:49:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/xnaut97/cosmos/1.0.1c/cosmos-1.0.1c.jar returned status 404
 1.0.1d		2026-05-25T18:15:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/xnaut97/cosmos/1.0.1d/cosmos-1.0.1d.jar returned status 404
 1.0.2		2026-05-26T05:15:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/xnaut97/cosmos/1.0.2/cosmos-1.0.2.jar returned status 404
+1.0.20			
 1.0.3		2026-05-26T07:25:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/xnaut97/cosmos/1.0.3/cosmos-1.0.3.jar returned status 404
 1.0.4		2026-05-26T09:37:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/xnaut97/cosmos/1.0.4/cosmos-1.0.4.jar returned status 404
 1.0.5		2026-05-26T09:45:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitlab/xnaut97/cosmos/1.0.5/cosmos-1.0.5.jar returned status 404

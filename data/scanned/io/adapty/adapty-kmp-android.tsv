@@ -10,3 +10,4 @@
 3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/adapty-kmp-android/3.6.1/adapty-kmp-android-3.6.1.jar returned status 404
 3.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/adapty-kmp-android/3.6.2/adapty-kmp-android-3.6.2.jar returned status 404
 4.0.0-beta.1		2026-07-20T07:25:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/adapty-kmp-android/4.0.0-beta.1/adapty-kmp-android-4.0.0-beta.1.jar returned status 404
+4.0.1-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adapty/adapty-kmp-android/4.0.1-beta.1/adapty-kmp-android-4.0.1-beta.1.jar returned status 404
