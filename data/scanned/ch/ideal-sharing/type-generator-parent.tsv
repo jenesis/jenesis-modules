@@ -8,3 +8,4 @@
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ideal-sharing/type-generator-parent/1.2.0/type-generator-parent-1.2.0.jar returned status 404
 1.4.1		2026-05-31T08:33:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ideal-sharing/type-generator-parent/1.4.1/type-generator-parent-1.4.1.jar returned status 404
 1.4.2		2026-06-01T00:46:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ideal-sharing/type-generator-parent/1.4.2/type-generator-parent-1.4.2.jar returned status 404
+1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ideal-sharing/type-generator-parent/1.4.3/type-generator-parent-1.4.3.jar returned status 404

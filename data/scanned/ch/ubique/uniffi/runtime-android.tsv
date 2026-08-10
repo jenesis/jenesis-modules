@@ -21,3 +21,6 @@
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-android/1.0.7/runtime-android-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-android/1.0.8/runtime-android-1.0.8.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-android/1.0.9/runtime-android-1.0.9.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-android/1.1.0/runtime-android-1.1.0.jar returned status 404
+1.1.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-android/1.1.0-rc1/runtime-android-1.1.0-rc1.jar returned status 404
+1.1.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-android/1.1.0-rc2/runtime-android-1.1.0-rc2.jar returned status 404

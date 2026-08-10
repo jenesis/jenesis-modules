@@ -1,3 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/kmp/sentry-iosx64/1.0.0/sentry-iosx64-1.0.0.jar returned status 404
 1.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/kmp/sentry-iosx64/1.0.0-beta01/sentry-iosx64-1.0.0-beta01.jar returned status 404
 1.0.0-beta01	metadata	2026-04-14T15:12:24Z	
 1.0.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/kmp/sentry-iosx64/1.0.0-rc01/sentry-iosx64-1.0.0-rc01.jar returned status 404

@@ -23,3 +23,5 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-gpay/4.0.0/payu-gpay-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-gpay/4.0.1/payu-gpay-4.0.1.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-gpay/4.0.2/payu-gpay-4.0.2.jar returned status 404
+4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-gpay/4.0.3/payu-gpay-4.0.3.jar returned status 404
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-gpay/4.0.4/payu-gpay-4.0.4.jar returned status 404

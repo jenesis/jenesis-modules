@@ -19,4 +19,5 @@
 1.1.0_alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/tridentity-sdk/1.1.0_alpha5/tridentity-sdk-1.1.0_alpha5.jar returned status 404
 1.1.0_alpha6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/tridentity-sdk/1.1.0_alpha6/tridentity-sdk-1.1.0_alpha6.jar returned status 404
 1.1.0_alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/tridentity-sdk/1.1.0_alpha7/tridentity-sdk-1.1.0_alpha7.jar returned status 404
+1.1.0_alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/tridentity-sdk/1.1.0_alpha8/tridentity-sdk-1.1.0_alpha8.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/tridentity-sdk/1.1.1/tridentity-sdk-1.1.1.jar returned status 404

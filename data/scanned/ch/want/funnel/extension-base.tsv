@@ -68,3 +68,5 @@
 3.0.81		2026-07-22T07:52:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/want/funnel/extension-base/3.0.81/extension-base-3.0.81.jar returned status 404
 3.0.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/want/funnel/extension-base/3.0.82/extension-base-3.0.82.jar returned status 404
 3.0.85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/want/funnel/extension-base/3.0.85/extension-base-3.0.85.jar returned status 404
+3.0.86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/want/funnel/extension-base/3.0.86/extension-base-3.0.86.jar returned status 404
+3.0.87			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/want/funnel/extension-base/3.0.87/extension-base-3.0.87.jar returned status 404

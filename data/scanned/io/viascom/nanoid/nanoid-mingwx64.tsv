@@ -1,1 +1,2 @@
 2.0.0		2026-07-18T11:46:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/viascom/nanoid/nanoid-mingwx64/2.0.0/nanoid-mingwx64-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/viascom/nanoid/nanoid-mingwx64/2.0.1/nanoid-mingwx64-2.0.1.jar returned status 404

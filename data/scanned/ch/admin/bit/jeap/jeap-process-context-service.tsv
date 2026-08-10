@@ -77,6 +77,7 @@
 18.13.1		2026-06-16T11:37:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/18.13.1/jeap-process-context-service-18.13.1.jar returned status 404
 18.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/18.13.2/jeap-process-context-service-18.13.2.jar returned status 404
 18.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/18.13.3/jeap-process-context-service-18.13.3.jar returned status 404
+18.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/18.13.4/jeap-process-context-service-18.13.4.jar returned status 404
 18.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/18.2.0/jeap-process-context-service-18.2.0.jar returned status 404
 18.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/18.2.1/jeap-process-context-service-18.2.1.jar returned status 404
 18.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/18.3.0/jeap-process-context-service-18.3.0.jar returned status 404
@@ -115,3 +116,5 @@
 24.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/24.0.0/jeap-process-context-service-24.0.0.jar returned status 404
 24.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/24.1.0/jeap-process-context-service-24.1.0.jar returned status 404
 24.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/24.1.1/jeap-process-context-service-24.1.1.jar returned status 404
+24.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/24.1.2/jeap-process-context-service-24.1.2.jar returned status 404
+25.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-process-context-service/25.0.0/jeap-process-context-service-25.0.0.jar returned status 404
