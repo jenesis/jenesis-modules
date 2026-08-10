@@ -144,3 +144,15 @@ net.devrieze.xmlutil.xmlserializable
 net.jbock.compiler
 net.jbock
 io.netty.internal.tcnative
+io.apimatic.examples
+signals3
+com.github.jinahya.kftc.financial.institution.info
+xtream.codec.server.reactive
+xtream.codec.base
+xtream.codec.core
+org.signal.libsignal
+io.github.classgraph
+chaos.tree
+io.github.aaabramov.glogging.gson
+io.github.aaabramov.glogging.jackson
+io.github.aaabramov.glogging.core

@@ -30,3 +30,4 @@
 2.1.0	metadata	2026-04-15T11:54:34Z	
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/giovanniandreuzza/nimbus-iossimulatorarm64/2.1.1/nimbus-iossimulatorarm64-2.1.1.jar returned status 404
 2.1.1	metadata	2026-04-16T13:08:24Z	
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/giovanniandreuzza/nimbus-iossimulatorarm64/2.2.0/nimbus-iossimulatorarm64-2.2.0.jar returned status 404

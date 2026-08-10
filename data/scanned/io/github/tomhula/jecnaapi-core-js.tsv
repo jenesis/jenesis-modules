@@ -5,3 +5,4 @@
 10.3.4		2026-06-21T09:04:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tomhula/jecnaapi-core-js/10.3.4/jecnaapi-core-js-10.3.4.jar returned status 404
 10.3.5		2026-06-21T09:20:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tomhula/jecnaapi-core-js/10.3.5/jecnaapi-core-js-10.3.5.jar returned status 404
 10.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tomhula/jecnaapi-core-js/10.3.6/jecnaapi-core-js-10.3.6.jar returned status 404
+10.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tomhula/jecnaapi-core-js/10.3.7/jecnaapi-core-js-10.3.7.jar returned status 404

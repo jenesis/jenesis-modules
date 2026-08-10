@@ -34,6 +34,7 @@
 0.3.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-java-parent/0.3.14/microsphere-java-parent-0.3.14.jar returned status 404
 0.3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-java-parent/0.3.15/microsphere-java-parent-0.3.15.jar returned status 404
 0.3.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-java-parent/0.3.16/microsphere-java-parent-0.3.16.jar returned status 404
+0.3.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-java-parent/0.3.17/microsphere-java-parent-0.3.17.jar returned status 404
 0.3.2		2026-05-21T03:21:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-java-parent/0.3.2/microsphere-java-parent-0.3.2.jar returned status 404
 0.3.3		2026-05-25T06:11:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-java-parent/0.3.3/microsphere-java-parent-0.3.3.jar returned status 404
 0.3.4		2026-05-26T02:30:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-java-parent/0.3.4/microsphere-java-parent-0.3.4.jar returned status 404

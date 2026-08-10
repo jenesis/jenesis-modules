@@ -76,3 +76,4 @@
 1.4.7	metadata	2026-06-19T17:48:07Z	
 1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/sse2-iosx64/1.4.8/sse2-iosx64-1.4.8.jar returned status 404
 1.4.8	metadata	2026-07-16T18:15:02Z	
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/sse2-iosx64/1.5.0/sse2-iosx64-1.5.0.jar returned status 404

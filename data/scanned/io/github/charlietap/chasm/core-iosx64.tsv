@@ -50,3 +50,4 @@
 1.4.7	metadata	2026-06-19T17:48:07Z	
 1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-iosx64/1.4.8/core-iosx64-1.4.8.jar returned status 404
 1.4.8	metadata	2026-07-16T18:14:57Z	
+1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-iosx64/1.5.0/core-iosx64-1.5.0.jar returned status 404

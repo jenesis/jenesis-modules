@@ -5,6 +5,12 @@
 2.11.1		2026-06-11T13:22:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.11.1/mil-sym-android-2.11.1.jar returned status 404
 2.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.11.2/mil-sym-android-2.11.2.jar returned status 404
 2.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.11.3/mil-sym-android-2.11.3.jar returned status 404
+2.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.11.4/mil-sym-android-2.11.4.jar returned status 404
+2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.12.0/mil-sym-android-2.12.0.jar returned status 404
+2.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.12.1/mil-sym-android-2.12.1.jar returned status 404
+2.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.12.2/mil-sym-android-2.12.2.jar returned status 404
+2.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.12.3/mil-sym-android-2.12.3.jar returned status 404
+2.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.12.4/mil-sym-android-2.12.4.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.2.0/mil-sym-android-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.2.1/mil-sym-android-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/missioncommand/mil-sym-android/2.2.2/mil-sym-android-2.2.2.jar returned status 404

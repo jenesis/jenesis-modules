@@ -16,3 +16,5 @@
 2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/showingdata/starter/framework/sql-circuit-breaker-parent/2.1.8/sql-circuit-breaker-parent-2.1.8.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/showingdata/starter/framework/sql-circuit-breaker-parent/2.2.0/sql-circuit-breaker-parent-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/showingdata/starter/framework/sql-circuit-breaker-parent/2.2.1/sql-circuit-breaker-parent-2.2.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/showingdata/starter/framework/sql-circuit-breaker-parent/3.0.0/sql-circuit-breaker-parent-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/showingdata/starter/framework/sql-circuit-breaker-parent/3.0.1/sql-circuit-breaker-parent-3.0.1.jar returned status 404
