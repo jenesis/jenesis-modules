@@ -101,6 +101,7 @@
 1.2.16		2026-06-09T12:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/kora/kora-parent/1.2.16/kora-parent-1.2.16.jar returned status 404
 1.2.17		2026-06-30T16:27:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/kora/kora-parent/1.2.17/kora-parent-1.2.17.jar returned status 404
 1.2.18		2026-07-02T23:47:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/kora/kora-parent/1.2.18/kora-parent-1.2.18.jar returned status 404
+1.2.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/kora/kora-parent/1.2.19/kora-parent-1.2.19.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/kora/kora-parent/1.2.2/kora-parent-1.2.2.jar returned status 404
 1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/kora/kora-parent/1.2.3/kora-parent-1.2.3.jar returned status 404
 1.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/kora/kora-parent/1.2.4/kora-parent-1.2.4.jar returned status 404

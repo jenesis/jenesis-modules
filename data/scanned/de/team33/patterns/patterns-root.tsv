@@ -42,3 +42,5 @@
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-root/2.6.0/patterns-root-2.6.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-root/2.6.1/patterns-root-2.6.1.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-root/2.7.0/patterns-root-2.7.0.jar returned status 404
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-root/2.7.1/patterns-root-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-root/2.7.2/patterns-root-2.7.2.jar returned status 404

@@ -12,3 +12,7 @@
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/a/so.daro.a.gradle.plugin/1.0.7/so.daro.a.gradle.plugin-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/a/so.daro.a.gradle.plugin/1.0.8/so.daro.a.gradle.plugin-1.0.8.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/a/so.daro.a.gradle.plugin/1.0.9/so.daro.a.gradle.plugin-1.0.9.jar returned status 404
+1.1.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/a/so.daro.a.gradle.plugin/1.1.0-beta01/so.daro.a.gradle.plugin-1.1.0-beta01.jar returned status 404
+1.1.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/a/so.daro.a.gradle.plugin/1.1.0-beta02/so.daro.a.gradle.plugin-1.1.0-beta02.jar returned status 404
+1.1.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/a/so.daro.a.gradle.plugin/1.1.0-beta03/so.daro.a.gradle.plugin-1.1.0-beta03.jar returned status 404
+1.1.0-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/a/so.daro.a.gradle.plugin/1.1.0-beta04/so.daro.a.gradle.plugin-1.1.0-beta04.jar returned status 404

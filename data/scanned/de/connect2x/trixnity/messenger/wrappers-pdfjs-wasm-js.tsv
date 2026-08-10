@@ -10,3 +10,4 @@
 4.8.0		2026-06-25T13:44:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/trixnity/messenger/wrappers-pdfjs-wasm-js/4.8.0/wrappers-pdfjs-wasm-js-4.8.0.jar returned status 404
 4.8.1		2026-06-26T17:33:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/trixnity/messenger/wrappers-pdfjs-wasm-js/4.8.1/wrappers-pdfjs-wasm-js-4.8.1.jar returned status 404
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/trixnity/messenger/wrappers-pdfjs-wasm-js/4.9.0/wrappers-pdfjs-wasm-js-4.9.0.jar returned status 404
+4.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/trixnity/messenger/wrappers-pdfjs-wasm-js/4.9.1/wrappers-pdfjs-wasm-js-4.9.1.jar returned status 404

@@ -488,6 +488,7 @@
 4.14.6-dev-experimental-publishing.1	html-docs	2026-07-03T12:18:54Z	
 4.14.7-experimental.preview.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.14.7-experimental.preview.1/ditto-4.14.7-experimental.preview.1.jar returned status 404
 4.14.7-experimental.preview.1	html-docs	2026-07-08T20:15:37Z	
+4.14.7-experimental.vp.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.14.7-experimental.vp.1/ditto-4.14.7-experimental.vp.1.jar returned status 404
 4.15.0-experimental-b6835ba.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.15.0-experimental-b6835ba.0/ditto-4.15.0-experimental-b6835ba.0.jar returned status 404
 4.15.0-experimental-b6835ba.0	html-docs	2025-11-27T11:45:18Z	
 4.15.0-experimental-kotlin17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.15.0-experimental-kotlin17.1/ditto-4.15.0-experimental-kotlin17.1.jar returned status 404

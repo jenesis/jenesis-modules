@@ -89,5 +89,6 @@
 2.9.82			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/virtual-background/2.9.82/virtual-background-2.9.82.jar returned status 404
 2.9.83			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/virtual-background/2.9.83/virtual-background-2.9.83.jar returned status 404
 2.9.84		2026-06-19T07:33:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/virtual-background/2.9.84/virtual-background-2.9.84.jar returned status 404
+2.9.85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/virtual-background/2.9.85/virtual-background-2.9.85.jar returned status 404
 release-v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/virtual-background/release-v2/virtual-background-release-v2.jar returned status 404
 v2.9.84		2026-06-19T05:51:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/100ms/virtual-background/v2.9.84/virtual-background-v2.9.84.jar returned status 404

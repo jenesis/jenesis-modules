@@ -122,3 +122,4 @@
 2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/abstracta/jmeter/jmeter-java-dsl-parent/2.0/jmeter-java-dsl-parent-2.0.jar returned status 404
 2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/abstracta/jmeter/jmeter-java-dsl-parent/2.1/jmeter-java-dsl-parent-2.1.jar returned status 404
 2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/abstracta/jmeter/jmeter-java-dsl-parent/2.2/jmeter-java-dsl-parent-2.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/abstracta/jmeter/jmeter-java-dsl-parent/2.2.1/jmeter-java-dsl-parent-2.2.1.jar returned status 404

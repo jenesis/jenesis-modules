@@ -4364,3 +4364,5 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 0.0.1-RC27	named	com.sparkutils	kogito-4-spark_testshade_4.1.0.oss_4.1_2.13	2026-08-03T02:17:46Z	2.19.2
 0.0.1-RC26	named	com.sparkutils	kogito-4-spark_testshade_3.5.0.oss_3.5_2.12	2026-08-03T02:17:47Z	2.19.2
 1.2.0	named	io.github.gabrielbbaldez	stacktale-mcp	2026-08-04T02:15:03Z	2.22.1
+2.2.1	named	us.abstracta.jmeter	jmeter-java-dsl-elasticsearch-listener	2026-08-08T01:54:16Z	2.13.0-rc1
+2.2.1	named	us.abstracta.jmeter	jmeter-java-dsl-cli	2026-08-08T01:54:17Z	2.13.0-rc1
