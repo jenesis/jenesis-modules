@@ -6,3 +6,4 @@
 1.0	metadata	2026-06-19T12:23:31Z	
 1.1		2026-06-30T09:06:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/analyzer_plugin-iossimulatorarm64/1.1/analyzer_plugin-iossimulatorarm64-1.1.jar returned status 404
 1.1	metadata	2026-06-30T09:06:26Z	
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/analyzer_plugin-iossimulatorarm64/1.2/analyzer_plugin-iossimulatorarm64-1.2.jar returned status 404

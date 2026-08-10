@@ -27,3 +27,4 @@
 0.20.0-composelive-0.8	metadata	2026-03-30T17:47:27Z	
 0.20.0-composelive-0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/redwood-composeui-iossimulatorarm64/0.20.0-composelive-0.9/redwood-composeui-iossimulatorarm64-0.20.0-composelive-0.9.jar returned status 404
 0.20.0-composelive-0.9	metadata	2026-04-01T23:10:46Z	
+0.20.0-composelive-hermes-0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/redwood-composeui-iossimulatorarm64/0.20.0-composelive-hermes-0.1/redwood-composeui-iossimulatorarm64-0.20.0-composelive-hermes-0.1.jar returned status 404

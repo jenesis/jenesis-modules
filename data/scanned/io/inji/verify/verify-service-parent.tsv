@@ -7,3 +7,4 @@
 0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inji/verify/verify-service-parent/0.18.0/verify-service-parent-0.18.0.jar returned status 404
 0.18.1		2026-06-05T14:39:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inji/verify/verify-service-parent/0.18.1/verify-service-parent-0.18.1.jar returned status 404
 0.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inji/verify/verify-service-parent/0.18.2/verify-service-parent-0.18.2.jar returned status 404
+1.0.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inji/verify/verify-service-parent/1.0.0-alpha.1/verify-service-parent-1.0.0-alpha.1.jar returned status 404

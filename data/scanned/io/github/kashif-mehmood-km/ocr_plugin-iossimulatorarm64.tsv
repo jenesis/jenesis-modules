@@ -16,3 +16,4 @@
 1.0	metadata	2026-06-19T12:23:32Z	
 1.1		2026-06-30T09:06:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/ocr_plugin-iossimulatorarm64/1.1/ocr_plugin-iossimulatorarm64-1.1.jar returned status 404
 1.1	metadata	2026-06-30T09:06:27Z	
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/ocr_plugin-iossimulatorarm64/1.2/ocr_plugin-iossimulatorarm64-1.2.jar returned status 404

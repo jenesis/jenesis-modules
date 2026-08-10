@@ -8,3 +8,4 @@
 2.0.1	metadata	2026-06-29T22:18:49Z	
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-iosarm64/2.0.2/fastcollect-kotlin-iosarm64-2.0.2.jar returned status 404
 2.0.2	metadata	2026-07-06T22:08:45Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-iosarm64/3.0.0/fastcollect-kotlin-iosarm64-3.0.0.jar returned status 404

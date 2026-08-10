@@ -15,3 +15,4 @@
 0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/camerak-android/0.4/camerak-android-0.4.jar returned status 404
 1.0		2026-06-19T12:23:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/camerak-android/1.0/camerak-android-1.0.jar returned status 404
 1.1		2026-06-30T09:06:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/camerak-android/1.1/camerak-android-1.1.jar returned status 404
+1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kashif-mehmood-km/camerak-android/1.2/camerak-android-1.2.jar returned status 404

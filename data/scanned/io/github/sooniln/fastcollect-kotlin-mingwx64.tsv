@@ -3,3 +3,4 @@
 2.0.0		2026-06-24T21:11:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-mingwx64/2.0.0/fastcollect-kotlin-mingwx64-2.0.0.jar returned status 404
 2.0.1		2026-06-29T22:18:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-mingwx64/2.0.1/fastcollect-kotlin-mingwx64-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-mingwx64/2.0.2/fastcollect-kotlin-mingwx64-2.0.2.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-mingwx64/3.0.0/fastcollect-kotlin-mingwx64-3.0.0.jar returned status 404

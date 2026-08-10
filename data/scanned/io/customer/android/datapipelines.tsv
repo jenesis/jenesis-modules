@@ -22,6 +22,7 @@
 4.19.0		2026-07-01T14:50:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/datapipelines/4.19.0/datapipelines-4.19.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/datapipelines/4.2.0/datapipelines-4.2.0.jar returned status 404
 4.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/datapipelines/4.20.0/datapipelines-4.20.0.jar returned status 404
+4.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/datapipelines/4.20.1/datapipelines-4.20.1.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/datapipelines/4.3.0/datapipelines-4.3.0.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/datapipelines/4.4.0/datapipelines-4.4.0.jar returned status 404
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/datapipelines/4.4.1/datapipelines-4.4.1.jar returned status 404

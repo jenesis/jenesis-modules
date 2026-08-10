@@ -4,3 +4,4 @@
 1.0.1	metadata	2026-05-04T21:46:23Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/artificialpb/bignum-macosarm64/1.0.2/bignum-macosarm64-1.0.2.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/artificialpb/bignum-macosarm64/1.0.4/bignum-macosarm64-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/artificialpb/bignum-macosarm64/1.0.5/bignum-macosarm64-1.0.5.jar returned status 404

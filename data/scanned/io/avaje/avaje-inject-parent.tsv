@@ -107,6 +107,7 @@
 12.6-RC4		2026-05-28T03:28:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-inject-parent/12.6-RC4/avaje-inject-parent-12.6-RC4.jar returned status 404
 12.6-javax		2026-06-05T04:07:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-inject-parent/12.6-javax/avaje-inject-parent-12.6-javax.jar returned status 404
 12.7-RC1		2026-07-02T23:02:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-inject-parent/12.7-RC1/avaje-inject-parent-12.7-RC1.jar returned status 404
+12.7-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-inject-parent/12.7-RC2/avaje-inject-parent-12.7-RC2.jar returned status 404
 2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-inject-parent/2.0/avaje-inject-parent-2.0.jar returned status 404
 3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-inject-parent/3.0/avaje-inject-parent-3.0.jar returned status 404
 3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-inject-parent/3.1/avaje-inject-parent-3.1.jar returned status 404
