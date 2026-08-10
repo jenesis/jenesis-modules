@@ -8,3 +8,4 @@
 1.0.3		2026-06-13T09:23:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blueprint-platform/openapi-generics-platform-bom/1.0.3/openapi-generics-platform-bom-1.0.3.jar returned status 404
 1.1.0		2026-06-21T15:50:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blueprint-platform/openapi-generics-platform-bom/1.1.0/openapi-generics-platform-bom-1.1.0.jar returned status 404
 1.2.0		2026-06-27T14:21:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blueprint-platform/openapi-generics-platform-bom/1.2.0/openapi-generics-platform-bom-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blueprint-platform/openapi-generics-platform-bom/1.2.1/openapi-generics-platform-bom-1.2.1.jar returned status 404

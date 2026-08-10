@@ -7,6 +7,7 @@
 0.90.2-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/0.90.2-beta1/core-wasm-js-0.90.2-beta1.jar returned status 404
 0.90.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/0.90.3/core-wasm-js-0.90.3.jar returned status 404
 0.90.4		2026-06-30T19:40:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/0.90.4/core-wasm-js-0.90.4.jar returned status 404
+0.90.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/0.90.5/core-wasm-js-0.90.5.jar returned status 404
 0.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/0.91.0/core-wasm-js-0.91.0.jar returned status 404
 0.91.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/0.91.0-RC1/core-wasm-js-0.91.0-RC1.jar returned status 404
 0.91.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/0.91.1/core-wasm-js-0.91.1.jar returned status 404
@@ -17,3 +18,4 @@
 1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/1.0.0-rc2/core-wasm-js-1.0.0-rc2.jar returned status 404
 1.0.0-rc3		2026-06-06T20:25:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/1.0.0-rc3/core-wasm-js-1.0.0-rc3.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/1.0.1/core-wasm-js-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-wasm-js/1.0.2/core-wasm-js-1.0.2.jar returned status 404

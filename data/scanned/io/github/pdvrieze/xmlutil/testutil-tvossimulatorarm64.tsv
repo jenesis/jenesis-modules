@@ -24,6 +24,7 @@
 0.90.3	metadata	2024-11-04T17:44:01Z	
 0.90.4		2026-06-30T19:40:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvossimulatorarm64/0.90.4/testutil-tvossimulatorarm64-0.90.4.jar returned status 404
 0.90.4	metadata	2026-06-30T19:40:16Z	
+0.90.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvossimulatorarm64/0.90.5/testutil-tvossimulatorarm64-0.90.5.jar returned status 404
 0.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvossimulatorarm64/0.91.0/testutil-tvossimulatorarm64-0.91.0.jar returned status 404
 0.91.0	metadata	2025-04-01T10:13:33Z	
 0.91.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvossimulatorarm64/0.91.0-RC1/testutil-tvossimulatorarm64-0.91.0-RC1.jar returned status 404
@@ -42,3 +43,4 @@
 1.0.0-rc2	metadata	2026-01-18T20:47:27Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvossimulatorarm64/1.0.1/testutil-tvossimulatorarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2026-07-08T20:38:57Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-tvossimulatorarm64/1.0.2/testutil-tvossimulatorarm64-1.0.2.jar returned status 404

@@ -4,3 +4,4 @@
 0.90.3	metadata	2024-11-04T17:28:21Z	
 0.90.4		2026-06-30T19:40:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/coreCompat-watchosdevicearm64/0.90.4/coreCompat-watchosdevicearm64-0.90.4.jar returned status 404
 0.90.4	metadata	2026-06-30T19:40:17Z	
+0.90.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/coreCompat-watchosdevicearm64/0.90.5/coreCompat-watchosdevicearm64-0.90.5.jar returned status 404

@@ -833,3 +833,4 @@
 2.75.0	named	com.google.api	gapic-generator-java	2026-07-31T02:16:53Z	2.0.75.Final
 9.0.3	named	com.datastax.oss	pulsar-jms-all	2026-08-01T00:09:27Z	2.0.77.Final
 1.1.1	named	com.google.cloud.datalineage	producerclient	2026-08-01T02:22:05Z	2.0.70.Final
+1.1.0	named	io.github.ktestify	ktestify-cucumber	2026-08-07T02:49:41Z	2.0.78.Final

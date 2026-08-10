@@ -8,3 +8,4 @@
 1.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-io-linuxarm64/1.0.0-rc2/core-io-linuxarm64-1.0.0-rc2.jar returned status 404
 1.0.0-rc3		2026-06-06T20:25:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-io-linuxarm64/1.0.0-rc3/core-io-linuxarm64-1.0.0-rc3.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-io-linuxarm64/1.0.1/core-io-linuxarm64-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/core-io-linuxarm64/1.0.2/core-io-linuxarm64-1.0.2.jar returned status 404

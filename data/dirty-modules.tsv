@@ -132,3 +132,15 @@ io.netty.codec.smtp
 io.netty.codec.quic
 io.netty.codec.http3
 io.netty.common
+io.pact.plugin.driver.core
+net.devrieze.xmlutil.serialization
+net.devrieze.xmlutil.core
+net.devrieze.xmlutil.core.kxio
+net.devrieze.xmlutil.serialization.kxio
+net.devrieze.serialutil
+net.devrieze.xmlutil.core.jdk
+io.github.pdvrieze.testutil
+net.devrieze.xmlutil.xmlserializable
+net.jbock.compiler
+net.jbock
+io.netty.internal.tcnative

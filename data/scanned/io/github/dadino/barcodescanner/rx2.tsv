@@ -13,6 +13,7 @@
 0.14.2-compose		2026-05-29T13:09:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/rx2/0.14.2-compose/rx2-0.14.2-compose.jar returned status 404
 0.14.3-compose		2026-06-19T08:10:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/rx2/0.14.3-compose/rx2-0.14.3-compose.jar returned status 404
 0.14.4-compose			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/rx2/0.14.4-compose/rx2-0.14.4-compose.jar returned status 404
+0.14.5-compose			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/rx2/0.14.5-compose/rx2-0.14.5-compose.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/rx2/0.2.0/rx2-0.2.0.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/rx2/0.2.1/rx2-0.2.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/rx2/0.3.0/rx2-0.3.0.jar returned status 404

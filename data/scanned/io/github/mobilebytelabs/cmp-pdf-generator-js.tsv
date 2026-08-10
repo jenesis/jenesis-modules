@@ -10,6 +10,7 @@
 3.4.4		2026-06-01T02:37:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.4.4/cmp-pdf-generator-js-3.4.4.jar returned status 404
 3.5.0		2026-06-01T13:54:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.5.0/cmp-pdf-generator-js-3.5.0.jar returned status 404
 3.5.1		2026-06-08T04:18:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.5.1/cmp-pdf-generator-js-3.5.1.jar returned status 404
+3.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.5.10/cmp-pdf-generator-js-3.5.10.jar returned status 404
 3.5.2		2026-06-22T05:03:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.5.2/cmp-pdf-generator-js-3.5.2.jar returned status 404
 3.5.3		2026-07-06T15:17:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.5.3/cmp-pdf-generator-js-3.5.3.jar returned status 404
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.5.4/cmp-pdf-generator-js-3.5.4.jar returned status 404
@@ -17,3 +18,4 @@
 3.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.5.6/cmp-pdf-generator-js-3.5.6.jar returned status 404
 3.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.5.7/cmp-pdf-generator-js-3.5.7.jar returned status 404
 3.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.5.8/cmp-pdf-generator-js-3.5.8.jar returned status 404
+3.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-js/3.5.9/cmp-pdf-generator-js-3.5.9.jar returned status 404

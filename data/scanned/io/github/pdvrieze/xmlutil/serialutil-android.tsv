@@ -20,5 +20,7 @@
 0.90.2-beta1		2024-07-21T16:29:40Z	
 0.90.3		2024-11-04T17:38:04Z	
 0.90.4		2026-06-30T19:40:16Z	
+0.90.5			
 1.0.0		2026-06-28T20:46:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialutil-android/1.0.0/serialutil-android-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialutil-android/1.0.1/serialutil-android-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialutil-android/1.0.2/serialutil-android-1.0.2.jar returned status 404

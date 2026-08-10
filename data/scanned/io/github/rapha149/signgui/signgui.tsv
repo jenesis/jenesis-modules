@@ -3,3 +3,5 @@
 2.2		2023-08-05T15:05:21Z	
 2.2.1		2023-10-02T10:48:24Z	
 2.2.2		2023-12-13T14:00:48Z	
+2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rapha149/signgui/signgui/2.3/signgui-2.3.jar returned status 404
+2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rapha149/signgui/signgui/2.3.3/signgui-2.3.3.jar returned status 404

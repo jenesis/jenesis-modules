@@ -16,6 +16,7 @@
 3.5.0	metadata	2026-06-01T13:49:01Z	
 3.5.1		2026-06-08T04:28:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-iossimulatorarm64/3.5.1/cmp-share-iossimulatorarm64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-08T04:28:59Z	
+3.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-iossimulatorarm64/3.5.10/cmp-share-iossimulatorarm64-3.5.10.jar returned status 404
 3.5.2		2026-06-22T04:59:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-iossimulatorarm64/3.5.2/cmp-share-iossimulatorarm64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T04:59:17Z	
 3.5.3		2026-07-06T15:21:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-iossimulatorarm64/3.5.3/cmp-share-iossimulatorarm64-3.5.3.jar returned status 404
@@ -27,3 +28,4 @@
 3.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-iossimulatorarm64/3.5.6/cmp-share-iossimulatorarm64-3.5.6.jar returned status 404
 3.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-iossimulatorarm64/3.5.7/cmp-share-iossimulatorarm64-3.5.7.jar returned status 404
 3.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-iossimulatorarm64/3.5.8/cmp-share-iossimulatorarm64-3.5.8.jar returned status 404
+3.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-iossimulatorarm64/3.5.9/cmp-share-iossimulatorarm64-3.5.9.jar returned status 404
