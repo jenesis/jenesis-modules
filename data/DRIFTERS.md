@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-10. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-11. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -661,7 +661,7 @@ org.apache.commons.collections4  [fork: keep `org.apache.commons`, `com.guicedee
   ?   org.apache.directory.api             2026-05..2026-05 2.1.8                |...................=|
   R   io.github.qudtlib                    2024-12..2025-10 7.1.1                |................==..|
   R   de.jball                             2025-07..2025-07 0.9.0                |.................=..|
-  R   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
+  R   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
     + 1 more: com.jwebmp.jpms.commons
 org.eclipse.jetty.security  [fork: keep `org.eclipse.jetty`, `org.sonatype.nexus.common.components` still publishes the name]
   A * org.eclipse.jetty                    2018-11..2026-07 12.0.37              |....================|
@@ -767,7 +767,7 @@ jakarta.ws.rs  [fork: keep `jakarta.ws.rs`, `com.exasol` still publishes the nam
   A * jakarta.ws.rs                        2020-02..2024-04 4.0.0                |......=========.....|
   ?   com.exasol                           2026-06..2026-07 5.7.4                |...................=|
   R   io.github.tblsoft.solr               2025-07..2026-06 4.7                  |.................===|
-  R   nl.mirila.cli                        2025-11..2026-06 3.15.0               |..................==|
+  R   nl.mirila.cli                        2025-11..2026-06 3.15.0               |.................===|
   R   org.jboss.narayana.lra               2024-12..2026-05 1.2.0.Final          |................===.|
   R   com.inteligr8.activiti               2024-10..2026-03 1.3.0-aps-v26.1      |...............====.|
     + 14 more: com.affinidi.tdk, com.bluecirclesoft.open, me.chrissw-r1, com.biit-solutions, com.github.xeroapi, com.liferay, no.telenor.sdk, org.opengis.cite, com.documents4j, com.github.estuaryoss, com.jcabi, com.datadoghq, (+2 more)
@@ -1628,36 +1628,36 @@ org.apache.commons.fileupload  [no clear owner; `com.jwebmp.jre11` is earliest a
   ?   org.wiremock                         2025-06..2026-04 4.0.0-beta.32        |.................==.|
   ?   org.openidentityplatform.openam.agents 2025-11..2026-03 5.0.3                |..................=.|
   ?   commons-fileupload                   2025-06..2025-06 1.6.0                |.................=..|
-  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
+  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
     + 2 more: com.jwebmp.jpms.commons, com.jwebmp
 cache.annotations.ri.common  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most recent]
   ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |.....=..............|
   ?   com.guicedee.modules.services        2026-04..2026-07 2.2.0                |..................==|
-  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
+  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
 cache.annotations.ri.guice  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most recent]
   ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |.....=..............|
   ?   com.guicedee.modules.services        2026-04..2026-07 2.2.0                |..................==|
-  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
+  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
 cache.api  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most recent]
   ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |.....=..............|
   ?   com.guicedee.modules.services        2026-04..2026-07 2.2.0                |..................==|
-  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
+  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
 net.sf.uadetector.core  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
   ? * com.jwebmp.jre11                     2018-11..2018-12 0.63.0.19            |....=...............|
   ?   com.guicedee.modules.services        2026-04..2026-07 2.2.0                |..................==|
-  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
+  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
   ?   com.jwebmp.thirdparty                2019-04..2019-08 0.68.0.1             |....==..............|
   ?   com.jwebmp                           2019-01..2019-04 0.66.0.1             |....=...............|
 net.sf.uadetector.resources  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
   ? * com.jwebmp.jre11                     2018-11..2018-12 0.63.0.19            |....=...............|
   ?   com.guicedee.modules.services        2026-04..2026-07 2.2.0                |..................==|
-  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
+  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
   ?   com.jwebmp.thirdparty                2019-04..2019-08 0.68.0.1             |....==..............|
   ?   com.jwebmp                           2019-01..2019-04 0.66.0.1             |....=...............|
 aopalliance  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
   ? * com.jwebmp.jre11                     2018-12..2018-12 0.63.0.19            |....=...............|
   ?   com.guicedee.modules.services        2026-04..2026-07 2.2.0                |..................==|
-  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |......=====.........|
+  ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
   ?   com.jwebmp.thirdparty                2019-04..2019-08 0.68.0.1             |....==..............|
   ?   com.jwebmp                           2019-01..2019-04 0.66.0.1             |....=...............|
 com.drew.metadata  [no clear owner; `com.github.dalet-oss` is earliest and most recent]
@@ -1668,7 +1668,7 @@ jdk.internal.vm.compiler  [no clear owner; `org.graalvm.compiler` is earliest an
   ?   io.vertx                             2022-11..2026-07 4.5.30               |............========|
   ?   org.linuxforhealth.fhir              2022-08..2022-12 5.1.1                |...........==.......|
 org.apache.commons.cli  [no clear owner; `commons-cli` is earliest and most recent]
-  ? * commons-cli                          2023-10..2025-11 1.11.0               |.............======.|
+  ? * commons-cli                          2023-10..2025-11 1.11.0               |.............=====..|
   ?   org.apktool                          2023-12..2026-07 3.0.3                |..............======|
   ?   org.teavm                            2024-04..2026-05 0.14.1               |..............======|
   ?   io.github.vdaburon                   2024-01..2026-05 5.1                  |..............=====.|
@@ -1693,7 +1693,7 @@ atlantafx.base  [no clear owner; `io.github.mkpaz` is earliest and most recent]
   ?   io.xpipe                             2026-07..2026-07 2.1.0                |...................=|
 flying.saucer.pdf  [no clear owner; `org.xhtmlrenderer` is earliest and most recent]
   ? * org.xhtmlrenderer                    2024-09..2026-07 10.4.0               |...............=====|
-  ?   io.github.openpdfsaucer              2025-03..2025-05 2.0.9                |................==..|
+  ?   io.github.openpdfsaucer              2025-03..2025-05 2.0.9                |................=...|
 tech.fortis.sandbox.api  [no clear owner; `io.github.zahran444` is earliest and most recent]
   ? * io.github.zahran444                  2026-04..2026-04 1.0.0                |..................=.|
   ?   tech.fortis.example                  2026-07..2026-07 1.0.16               |...................=|
@@ -1731,7 +1731,7 @@ java.annotation  [no clear owner; `javax.annotation` is earliest and most recent
   ?   com.heroku                           2024-10..2026-04 9.0.117.0            |...............====.|
   ?   one.gfw                              2023-03..2023-03 1.3.5                |............=.......|
   ?   org.rationalityfrontline.workaround  2021-02..2021-02 1.3.2-3.0.2          |........=...........|
-  ?   com.guicedee.services                2019-11..2020-11 1.1.0.1-jre15        |......===...........|
+  ?   com.guicedee.services                2019-11..2020-11 1.1.0.1-jre15        |.....====...........|
     + 3 more: no.ssb.jpms, org.jboss.spec.javax.annotation, jakarta.annotation
 org.freedesktop.dbus  [no clear owner; `com.github.hypfvieh` is earliest and most recent]
   ? * com.github.hypfvieh                  2021-03..2025-12 5.2.0                |........===========.|
@@ -2217,13 +2217,13 @@ org.eclipse.datatools.connectivity.oda.profile  [no clear owner; `ch.reportingso
   ? * ch.reportingsoft.birt                2025-04..2025-04 3.5.0                |................=...|
   ?   org.eclipse.birt.dependencies        2025-06..2025-06 3.5.0                |.................=..|
 org.eclipse.datatools.modelbase.sql.query  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
-  ? * ch.reportingsoft.birt                2025-04..2025-05 1.4.0.2024           |................==..|
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.4.0.2024           |................=...|
   ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.4.0                |.................=..|
 org.eclipse.datatools.connectivity  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
   ? * ch.reportingsoft.birt                2025-04..2025-04 1.15.0               |................=...|
   ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.15.0               |.................=..|
 org.eclipse.datatools.connectivity.apache.derby  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
-  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024           |................==..|
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024           |................=...|
   ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.3.0                |.................=..|
 org.eclipse.datatools.connectivity.oda  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
   ? * ch.reportingsoft.birt                2025-04..2025-04 3.7.0                |................=...|
@@ -2232,19 +2232,19 @@ org.eclipse.datatools.connectivity.oda.flatfile  [no clear owner; `ch.reportings
   ? * ch.reportingsoft.birt                2025-04..2025-04 3.4.0                |................=...|
   ?   org.eclipse.birt.dependencies        2025-06..2025-06 3.4.0                |.................=..|
 org.eclipse.datatools.modelbase.dbdefinition  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
-  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024           |................==..|
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024           |................=...|
   ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.3.0                |.................=..|
 org.eclipse.datatools.connectivity.sqm.core  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
-  ? * ch.reportingsoft.birt                2025-04..2025-05 1.6.0.2024           |................==..|
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.6.0.2024           |................=...|
   ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.6.0                |.................=..|
 org.eclipse.datatools.enablement.oda.xml  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
   ? * ch.reportingsoft.birt                2025-04..2025-04 1.6.0                |................=...|
   ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.6.0                |.................=..|
 org.eclipse.datatools.modelbase.derby  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
-  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024           |................==..|
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024           |................=...|
   ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.3.0                |.................=..|
 org.eclipse.datatools.modelbase.sql  [no clear owner; `ch.reportingsoft.birt` is earliest and most recent]
-  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024           |................==..|
+  ? * ch.reportingsoft.birt                2025-04..2025-05 1.3.0.2024           |................=...|
   ?   org.eclipse.birt.dependencies        2025-06..2025-06 1.3.0                |.................=..|
 jssc  [no clear owner; `net.jockx` is earliest and most recent]
   ? * net.jockx                            2021-08..2021-08 2.9.3                |.........=..........|
