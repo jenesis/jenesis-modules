@@ -1,3 +1,4 @@
 [submodule ".jenesis/upstream"]
 	path = .jenesis/upstream
 	url = https://github.com/raphw/jenesis.git
+	shallow = true
