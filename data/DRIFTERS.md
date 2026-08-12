@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-11. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-12. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -359,15 +359,15 @@ simbot.logger  [renamed `love.forte.simbot.logger` -> `love.forte.simbot` (lates
   ? * love.forte.simbot.logger             2024-01..2026-05 5.0.0-Preview2       |..............=====.|
   ?   love.forte.simbot                    2026-06..2026-07 5.0.0-Preview4       |...................=|
 io.github.humbleui.skija.macos.arm64  [renamed `io.github.humbleui.skija` -> `io.github.humbleui` (latest 0.119.6)]
-  A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |..........=.........|
+  A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |.........=..........|
   A   io.github.humbleui                   2021-12..2026-06 0.119.6              |..........==========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
 io.github.humbleui.skija.macos.x64  [renamed `io.github.humbleui.skija` -> `io.github.humbleui` (latest 0.119.6)]
-  A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |..........=.........|
+  A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |.........=..........|
   A   io.github.humbleui                   2021-12..2026-06 0.119.6              |..........==========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
 io.github.humbleui.skija.shared  [renamed `io.github.humbleui.skija` -> `io.github.humbleui` (latest 0.119.6)]
-  A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |..........=.........|
+  A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |.........=..........|
   A   io.github.humbleui                   2021-12..2026-06 0.119.6              |..........==========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
 org.eclipse.osgi  [renamed `org.eclipse.tycho` -> `org.eclipse.platform` (latest 3.24.200)]
@@ -810,7 +810,7 @@ org.hsqldb  [fork: keep `org.hsqldb`, `io.synclite` still publishes the name]
   A * org.hsqldb                           2021-04..2024-11 2.7.4                |........========....|
   ?   io.synclite                          2026-07..2026-07 1.0.0                |...................=|
   R   com.github.massamany                 2025-08..2025-09 1.2.3                |.................=..|
-  ?   ch.zizka.csvcruncher                 2021-11..2023-09 2.7.0                |..........====......|
+  ?   ch.zizka.csvcruncher                 2021-11..2023-09 2.7.0                |.........=====......|
   R   org.lucee                            2023-06..2023-06 2.7.2.jdk11          |.............=......|
 org.apache.commons.jexl3  [fork: keep `org.apache.commons`, `org.hotrodorm.hotrod` still publishes the name]
   ? * org.apache.commons                   2024-06..2026-06 3.7.0                |...............=====|
@@ -1024,7 +1024,7 @@ io.netty.handler  [owned by `io.netty`; 10 other group(s) shade the name]
   ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
     + 5 more: org.apache.flink, io.github.ousatov-ua, io.kestra.plugin, org.lucee, com.luhuiguo.netty
 io.netty.transport.epoll.linux.x86_64  [owned by `io.netty`; 4 other group(s) shade the name]
-  A * io.netty                             2022-05..2026-08 4.1.137.Final        |...........=========|
+  A * io.netty                             2022-05..2026-08 4.1.137.Final        |..........==========|
   R   org.apache.storm                     2025-05..2026-07 2.8.9                |.................===|
   ?   io.camunda.connector                 2026-06..2026-06 8.7.22               |...................=|
   R   com.atscale.opensource               2026-01..2026-01 1.14                 |..................=.|
@@ -2087,7 +2087,7 @@ liqp  [no clear owner; `nl.big-o` is earliest and most recent]
   ?   com.kohlschutter                     2023-12..2023-12 0.8.5.4              |..............=.....|
 jakarta.messaging  [no clear owner; `jakarta.jms` is earliest and most recent]
   ? * jakarta.jms                          2022-03..2022-03 3.1.0                |..........=.........|
-  ?   org.apache.storm                     2025-05..2026-05 2.8.8                |.................===|
+  ?   org.apache.storm                     2025-05..2026-05 2.8.8                |.................==.|
   ?   be.vlaanderen.informatievlaanderen.ldes.ldio 2024-12..2024-12 2.12.0               |................=...|
 java.json.bind  [no clear owner; `javax.json.bind` is earliest and most recent]
   ? * javax.json.bind                      2017-04..2017-06 1.0                  |==..................|
