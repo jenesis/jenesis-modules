@@ -19,3 +19,4 @@
 4.1.1		2026-06-12T08:08:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/navigation-navigation3-iosarm64/4.1.1/navigation-navigation3-iosarm64-4.1.1.jar returned status 404
 4.1.1	metadata	2026-06-12T08:08:29Z	
 4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/si/inova/kotlinova/navigation-navigation3-iosarm64/4.1.2/navigation-navigation3-iosarm64-4.1.2.jar returned status 404
+4.1.2	metadata	2026-07-31T06:55:29Z	

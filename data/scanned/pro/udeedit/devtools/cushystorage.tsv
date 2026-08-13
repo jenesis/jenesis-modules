@@ -1,0 +1,4 @@
+1.0.0		2026-07-18T18:53:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/udeedit/devtools/cushystorage/1.0.0/cushystorage-1.0.0.jar returned status 404
+1.0.1		2026-07-18T18:53:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/udeedit/devtools/cushystorage/1.0.1/cushystorage-1.0.1.jar returned status 404
+1.0.2		2026-07-20T10:47:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/udeedit/devtools/cushystorage/1.0.2/cushystorage-1.0.2.jar returned status 404
+1.0.3		2026-07-22T09:31:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/udeedit/devtools/cushystorage/1.0.3/cushystorage-1.0.3.jar returned status 404

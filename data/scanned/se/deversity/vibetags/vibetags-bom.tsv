@@ -7,7 +7,9 @@
 0.9.7		2026-05-20T20:01:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/0.9.7/vibetags-bom-0.9.7.jar returned status 404
 0.9.8		2026-05-25T20:48:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/0.9.8/vibetags-bom-0.9.8.jar returned status 404
 0.9.9		2026-05-31T09:30:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/0.9.9/vibetags-bom-0.9.9.jar returned status 404
+1.0.0		2026-08-04T08:58:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.0/vibetags-bom-1.0.0.jar returned status 404
 1.0.0-RC1		2026-06-13T22:01:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.0-RC1/vibetags-bom-1.0.0-RC1.jar returned status 404
+1.0.0-RC10		2026-08-03T18:00:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.0-RC10/vibetags-bom-1.0.0-RC10.jar returned status 404
 1.0.0-RC2		2026-06-28T07:59:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.0-RC2/vibetags-bom-1.0.0-RC2.jar returned status 404
 1.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.0-RC3/vibetags-bom-1.0.0-RC3.jar returned status 404
 1.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.0-RC4/vibetags-bom-1.0.0-RC4.jar returned status 404
@@ -16,3 +18,6 @@
 1.0.0-RC7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.0-RC7/vibetags-bom-1.0.0-RC7.jar returned status 404
 1.0.0-RC8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.0-RC8/vibetags-bom-1.0.0-RC8.jar returned status 404
 1.0.0-RC9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.0-RC9/vibetags-bom-1.0.0-RC9.jar returned status 404
+1.0.1		2026-08-06T09:29:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.1/vibetags-bom-1.0.1.jar returned status 404
+1.0.2		2026-08-07T06:38:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.2/vibetags-bom-1.0.2.jar returned status 404
+1.0.3		2026-08-07T17:17:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/vibetags/vibetags-bom/1.0.3/vibetags-bom-1.0.3.jar returned status 404

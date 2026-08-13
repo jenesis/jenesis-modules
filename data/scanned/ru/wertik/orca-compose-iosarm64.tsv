@@ -17,8 +17,11 @@
 0.20.0		2026-07-13T13:52:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iosarm64/0.20.0/orca-compose-iosarm64-0.20.0.jar returned status 404
 0.20.0	metadata	2026-07-13T13:52:02Z	
 0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iosarm64/0.30.0/orca-compose-iosarm64-0.30.0.jar returned status 404
+0.30.0	metadata	2026-07-27T00:04:03Z	
 0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iosarm64/0.31.0/orca-compose-iosarm64-0.31.0.jar returned status 404
+0.31.0	metadata	2026-07-27T11:44:09Z	
 0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iosarm64/0.32.0/orca-compose-iosarm64-0.32.0.jar returned status 404
+0.32.0	metadata	2026-07-27T12:43:31Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iosarm64/0.6.0/orca-compose-iosarm64-0.6.0.jar returned status 404
 0.6.0	metadata	2026-02-16T16:28:59Z	
 0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/wertik/orca-compose-iosarm64/0.6.3/orca-compose-iosarm64-0.6.3.jar returned status 404
