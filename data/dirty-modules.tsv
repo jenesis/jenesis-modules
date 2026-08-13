@@ -2524,3 +2524,17 @@ org.locationtech.proj4j
 io.github.compress4j.xz
 mutable.alignment
 ccd
+com.whitewoodcity.xtrikeresources
+io.github.cfraser.graphguard
+bluetape4k.leader.spring.boot
+javers.spring.boot4.autoconfigure
+bluetape4k.images.barcode.zxing
+bluetape4k.images.barcode.api
+bluetape4k.exposed.druid
+bluetape4k.opentelemetry
+bluetape4k.elasticsearch
+bluetape4k.cache.core
+substmodel
+nested.sampling
+model.selection
+bmodeltest

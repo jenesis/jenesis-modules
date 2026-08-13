@@ -102,3 +102,4 @@
 5.1.5		2026-06-17T10:40:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ascopes/protobuf-maven-plugin-parent/5.1.5/protobuf-maven-plugin-parent-5.1.5.jar returned status 404
 5.1.6		2026-06-22T11:05:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ascopes/protobuf-maven-plugin-parent/5.1.6/protobuf-maven-plugin-parent-5.1.6.jar returned status 404
 5.1.7		2026-06-29T12:27:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ascopes/protobuf-maven-plugin-parent/5.1.7/protobuf-maven-plugin-parent-5.1.7.jar returned status 404
+5.1.8		2026-08-10T10:54:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ascopes/protobuf-maven-plugin-parent/5.1.8/protobuf-maven-plugin-parent-5.1.8.jar returned status 404

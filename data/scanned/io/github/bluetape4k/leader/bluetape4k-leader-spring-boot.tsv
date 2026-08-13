@@ -13,3 +13,4 @@
 0.4.0		2026-06-27T18:09:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bluetape4k/leader/bluetape4k-leader-spring-boot/0.4.0/bluetape4k-leader-spring-boot-0.4.0.jar returned status 404
 0.4.0	plain	2026-06-27T18:09:25Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bluetape4k/leader/bluetape4k-leader-spring-boot/0.5.0/bluetape4k-leader-spring-boot-0.5.0.jar returned status 404
+0.5.0	plain	2026-08-06T04:55:08Z	

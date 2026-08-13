@@ -241,4 +241,6 @@
 0.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/validation-macosarm64/0.4.9/validation-macosarm64-0.4.9.jar returned status 404
 0.4.9	metadata	2026-04-21T21:11:32Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/validation-macosarm64/0.5.0/validation-macosarm64-0.5.0.jar returned status 404
+0.5.0	metadata	2026-07-30T17:59:48Z	
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/validation-macosarm64/0.5.1/validation-macosarm64-0.5.1.jar returned status 404
+0.5.1	metadata	2026-08-04T02:29:19Z	

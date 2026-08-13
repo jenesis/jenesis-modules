@@ -59,7 +59,14 @@
 1.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-macosarm64/1.5.5/lms-macosarm64-1.5.5.jar returned status 404
 1.5.5	metadata	2026-07-15T16:07:46Z	
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-macosarm64/1.6.0/lms-macosarm64-1.6.0.jar returned status 404
+1.6.0	metadata	2026-07-24T10:09:34Z	
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-macosarm64/1.6.1/lms-macosarm64-1.6.1.jar returned status 404
+1.6.1	metadata	2026-07-25T06:40:25Z	
 1.6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-macosarm64/1.6.3.1/lms-macosarm64-1.6.3.1.jar returned status 404
+1.6.3.1	metadata	2026-07-30T12:27:12Z	
 1.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-macosarm64/1.6.4/lms-macosarm64-1.6.4.jar returned status 404
+1.6.4	metadata	2026-08-04T08:37:33Z	
 1.6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-macosarm64/1.6.5.1/lms-macosarm64-1.6.5.1.jar returned status 404
+1.6.5.1	metadata	2026-08-06T11:26:27Z	
+1.6.5.2		2026-08-10T08:56:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-macosarm64/1.6.5.2/lms-macosarm64-1.6.5.2.jar returned status 404
+1.6.5.2	metadata	2026-08-10T08:56:35Z	

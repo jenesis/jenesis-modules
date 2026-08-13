@@ -1,0 +1,4 @@
+0.1.0		2026-07-21T05:08:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/benjaminor-dev/spring-fluent-query/0.1.0/spring-fluent-query-0.1.0.jar returned status 404
+0.1.1		2026-07-21T06:00:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/benjaminor-dev/spring-fluent-query/0.1.1/spring-fluent-query-0.1.1.jar returned status 404
+0.2.0		2026-07-24T20:59:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/benjaminor-dev/spring-fluent-query/0.2.0/spring-fluent-query-0.2.0.jar returned status 404
+0.2.1		2026-07-30T19:19:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/benjaminor-dev/spring-fluent-query/0.2.1/spring-fluent-query-0.2.1.jar returned status 404
