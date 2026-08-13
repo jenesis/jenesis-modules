@@ -9,6 +9,7 @@
 2.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/FlexGridLib/2.10.3/FlexGridLib-2.10.3.jar returned status 404
 2.10.4		2026-06-16T13:06:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/FlexGridLib/2.10.4/FlexGridLib-2.10.4.jar returned status 404
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/FlexGridLib/2.11.0/FlexGridLib-2.11.0.jar returned status 404
+2.12.0		2026-08-06T15:32:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/FlexGridLib/2.12.0/FlexGridLib-2.12.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/FlexGridLib/2.2.0/FlexGridLib-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/FlexGridLib/2.2.1/FlexGridLib-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/genexus/android/FlexGridLib/2.2.2/FlexGridLib-2.2.2.jar returned status 404

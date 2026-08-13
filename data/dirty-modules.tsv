@@ -3226,3 +3226,7 @@ com.github.oshi.common
 com.github.mpe85.grampa
 com.github.mcollovati.springbinder
 com.meterware.httpunit
+com.github.copilot.java
+org.bbottema.genericobjectpool
+org.bbottema.clusteredobjectpool
+org.seleniumhq.selenium.firefox_driver

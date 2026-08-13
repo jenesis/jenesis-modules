@@ -5266,6 +5266,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 10.1.1	named	org.telegram	telegrambots-springboot-webhook-starter	2026-07-25T09:09:54Z	2.17.2
 10.1.1	named	org.telegram	telegrambots-webhook	2026-07-25T09:09:54Z	2.17.2
 11.5.1-beta-2	named	fr.inria.gforge.spoon	spoon-core	2026-07-26T03:46:01Z	2.22
+1.5.3	named	com.github.egonw	jqudt	2026-07-26T14:16:06Z	2.22
 8.730.36	named	com.yahoo.vespa	config-application-package	2026-07-28T04:28:51Z	2.22
 8.731.17	named	com.yahoo.vespa	config-application-package	2026-07-29T17:16:56Z	2.22
 7.5.0	named	org.mock-server	mockserver-k8s-webhook	2026-07-29T17:47:14Z	2.22

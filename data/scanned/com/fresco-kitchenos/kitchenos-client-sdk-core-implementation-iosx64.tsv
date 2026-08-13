@@ -134,3 +134,7 @@
 1.59.3	metadata	2026-06-24T16:33:25Z	
 1.59.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-core-implementation-iosx64/1.59.4/kitchenos-client-sdk-core-implementation-iosx64-1.59.4.jar returned status 404
 1.59.4	metadata	2026-07-17T09:50:07Z	
+1.60.0		2026-08-03T09:53:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-core-implementation-iosx64/1.60.0/kitchenos-client-sdk-core-implementation-iosx64-1.60.0.jar returned status 404
+1.60.0	metadata	2026-08-03T09:53:58Z	
+1.61.0		2026-08-05T12:53:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fresco-kitchenos/kitchenos-client-sdk-core-implementation-iosx64/1.61.0/kitchenos-client-sdk-core-implementation-iosx64-1.61.0.jar returned status 404
+1.61.0	metadata	2026-08-05T12:53:22Z	
