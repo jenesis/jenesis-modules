@@ -1,0 +1,2 @@
+0.1.0		2026-08-10T14:21:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-observability-dependencies/0.1.0/microsphere-observability-dependencies-0.1.0.jar returned status 404
+0.2.0		2026-08-10T14:26:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-observability-dependencies/0.2.0/microsphere-observability-dependencies-0.2.0.jar returned status 404

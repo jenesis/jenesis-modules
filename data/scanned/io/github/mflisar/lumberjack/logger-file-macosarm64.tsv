@@ -11,7 +11,9 @@
 10.0.0-alpha05		2026-06-07T13:05:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/lumberjack/logger-file-macosarm64/10.0.0-alpha05/logger-file-macosarm64-10.0.0-alpha05.jar returned status 404
 10.0.0-alpha05	metadata	2026-06-07T13:05:37Z	
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/lumberjack/logger-file-macosarm64/11.0.0/logger-file-macosarm64-11.0.0.jar returned status 404
+11.0.0	metadata	2026-07-23T16:17:33Z	
 12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/lumberjack/logger-file-macosarm64/12.0.0/logger-file-macosarm64-12.0.0.jar returned status 404
+12.0.0	metadata	2026-07-23T16:47:52Z	
 7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/lumberjack/logger-file-macosarm64/7.2.0/logger-file-macosarm64-7.2.0.jar returned status 404
 7.2.0	metadata	2025-06-16T19:24:14Z	
 7.2.0-alpha21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/lumberjack/logger-file-macosarm64/7.2.0-alpha21/logger-file-macosarm64-7.2.0-alpha21.jar returned status 404

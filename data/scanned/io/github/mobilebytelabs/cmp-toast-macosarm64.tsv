@@ -43,6 +43,7 @@
 3.5.1		2026-06-08T04:24:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-toast-macosarm64/3.5.1/cmp-toast-macosarm64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-08T04:24:12Z	
 3.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-toast-macosarm64/3.5.10/cmp-toast-macosarm64-3.5.10.jar returned status 404
+3.5.10	metadata	2026-08-05T07:07:07Z	
 3.5.2		2026-06-22T04:55:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-toast-macosarm64/3.5.2/cmp-toast-macosarm64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T04:55:58Z	
 3.5.3		2026-07-06T15:18:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-toast-macosarm64/3.5.3/cmp-toast-macosarm64-3.5.3.jar returned status 404
@@ -52,6 +53,10 @@
 3.5.5		2026-07-20T03:34:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-toast-macosarm64/3.5.5/cmp-toast-macosarm64-3.5.5.jar returned status 404
 3.5.5	metadata	2026-07-20T03:34:51Z	
 3.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-toast-macosarm64/3.5.6/cmp-toast-macosarm64-3.5.6.jar returned status 404
+3.5.6	metadata	2026-07-27T03:35:00Z	
 3.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-toast-macosarm64/3.5.7/cmp-toast-macosarm64-3.5.7.jar returned status 404
+3.5.7	metadata	2026-08-01T01:45:24Z	
 3.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-toast-macosarm64/3.5.8/cmp-toast-macosarm64-3.5.8.jar returned status 404
+3.5.8	metadata	2026-08-02T18:11:30Z	
 3.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-toast-macosarm64/3.5.9/cmp-toast-macosarm64-3.5.9.jar returned status 404
+3.5.9	metadata	2026-08-03T11:17:49Z	

@@ -43,6 +43,7 @@
 3.5.1		2026-06-08T04:19:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-macosx64/3.5.1/cmp-library-macosx64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-08T04:19:10Z	
 3.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-macosx64/3.5.10/cmp-library-macosx64-3.5.10.jar returned status 404
+3.5.10	metadata	2026-08-05T07:02:51Z	
 3.5.2		2026-06-22T05:03:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-macosx64/3.5.2/cmp-library-macosx64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T05:03:51Z	
 3.5.3		2026-07-06T15:17:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-macosx64/3.5.3/cmp-library-macosx64-3.5.3.jar returned status 404
@@ -52,6 +53,10 @@
 3.5.5		2026-07-20T03:27:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-macosx64/3.5.5/cmp-library-macosx64-3.5.5.jar returned status 404
 3.5.5	metadata	2026-07-20T03:27:21Z	
 3.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-macosx64/3.5.6/cmp-library-macosx64-3.5.6.jar returned status 404
+3.5.6	metadata	2026-07-27T03:35:50Z	
 3.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-macosx64/3.5.7/cmp-library-macosx64-3.5.7.jar returned status 404
+3.5.7	metadata	2026-08-01T01:37:07Z	
 3.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-macosx64/3.5.8/cmp-library-macosx64-3.5.8.jar returned status 404
+3.5.8	metadata	2026-08-02T18:09:49Z	
 3.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-library-macosx64/3.5.9/cmp-library-macosx64-3.5.9.jar returned status 404
+3.5.9	metadata	2026-08-03T11:03:02Z	

@@ -18,3 +18,7 @@
 12.6-9.5-1.5.11-ihmc-2	named	us.ihmc	cuda	2025-01-16T19:53:11Z	
 12.9-9.10-1.5.12	named	org.bytedeco	cuda	2025-06-30T12:04:10Z	
 13.1-9.19-1.5.13	named	org.bytedeco	cuda	2026-02-19T15:41:45Z	
+13.3-9.24-1.5.14-beta-05	named	io.github.mullerhai	cuda	2026-07-29T02:21:55Z	
+13.3-9.24-1.5.14-beta-06	named	io.github.mullerhai	cuda	2026-07-30T07:23:48Z	
+13.3-9.24-1.5.14-beta-07	named	io.github.mullerhai	cuda	2026-08-03T04:22:19Z	
+13.3-9.24-1.5.14-beta-08	named	io.github.mullerhai	cuda	2026-08-03T13:17:50Z	

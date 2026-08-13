@@ -5,6 +5,7 @@
 0.0.12		2026-06-14T20:44:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/meypod/adhan_kotlin-watchosarm64/0.0.12/adhan_kotlin-watchosarm64-0.0.12.jar returned status 404
 0.0.12	metadata	2026-06-14T20:44:11Z	
 0.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/meypod/adhan_kotlin-watchosarm64/0.0.13/adhan_kotlin-watchosarm64-0.0.13.jar returned status 404
+0.0.13	metadata	2026-08-04T15:32:51Z	
 0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/meypod/adhan_kotlin-watchosarm64/0.0.6/adhan_kotlin-watchosarm64-0.0.6.jar returned status 404
 0.0.6	metadata	2025-12-13T09:05:48Z	
 0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/meypod/adhan_kotlin-watchosarm64/0.0.7/adhan_kotlin-watchosarm64-0.0.7.jar returned status 404

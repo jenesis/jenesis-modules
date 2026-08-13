@@ -8,3 +8,6 @@
 12.6-9.5-1.5.11	named	org.bytedeco	cuda-platform-redist	2024-11-16T03:58:16Z	
 12.9-9.10-1.5.12	named	org.bytedeco	cuda-platform-redist	2025-10-12T00:44:03Z	
 13.1-9.19-1.5.13	named	org.bytedeco	cuda-platform-redist	2026-02-19T15:44:14Z	
+13.3-9.24-1.5.14-beta-06	named	io.github.mullerhai	cuda-platform-redist	2026-07-31T08:55:58Z	
+13.3-9.24-1.5.14-beta-07	named	io.github.mullerhai	cuda-platform-redist	2026-08-03T04:47:58Z	
+13.3-9.24-1.5.14-beta-08	named	io.github.mullerhai	cuda-platform-redist	2026-08-03T13:31:43Z	

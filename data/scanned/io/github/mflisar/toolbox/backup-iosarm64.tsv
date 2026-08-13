@@ -101,10 +101,16 @@
 4.0.0-alpha17		2026-06-06T18:53:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/backup-iosarm64/4.0.0-alpha17/backup-iosarm64-4.0.0-alpha17.jar returned status 404
 4.0.0-alpha17	metadata	2026-06-06T18:53:06Z	
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/backup-iosarm64/4.0.1/backup-iosarm64-4.0.1.jar returned status 404
+4.0.1	metadata	2026-07-21T08:54:52Z	
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/backup-iosarm64/4.0.2/backup-iosarm64-4.0.2.jar returned status 404
+4.0.2	metadata	2026-07-22T14:31:50Z	
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/backup-iosarm64/4.0.3/backup-iosarm64-4.0.3.jar returned status 404
+4.0.3	metadata	2026-07-24T06:54:17Z	
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/backup-iosarm64/4.0.4/backup-iosarm64-4.0.4.jar returned status 404
+4.0.4	metadata	2026-07-27T11:28:35Z	
 4.0.4-alpha04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/backup-iosarm64/4.0.4-alpha04/backup-iosarm64-4.0.4-alpha04.jar returned status 404
 4.0.4-alpha04	metadata	2026-04-03T05:36:30Z	
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/backup-iosarm64/4.0.5/backup-iosarm64-4.0.5.jar returned status 404
+4.0.5	metadata	2026-07-28T07:32:53Z	
 4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/backup-iosarm64/4.0.6/backup-iosarm64-4.0.6.jar returned status 404
+4.0.6	metadata	2026-08-03T09:30:11Z	
