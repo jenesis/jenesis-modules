@@ -51,6 +51,8 @@
 14.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-parent/14.0.2/freelib-parent-14.0.2.jar returned status 404
 14.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-parent/14.0.3/freelib-parent-14.0.3.jar returned status 404
 14.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-parent/14.0.4/freelib-parent-14.0.4.jar returned status 404
+14.0.5		2026-08-02T04:42:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-parent/14.0.5/freelib-parent-14.0.5.jar returned status 404
+14.0.6		2026-08-02T23:05:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-parent/14.0.6/freelib-parent-14.0.6.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-parent/3.5.0/freelib-parent-3.5.0.jar returned status 404
 3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-parent/3.5.2/freelib-parent-3.5.2.jar returned status 404
 3.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/info/freelibrary/freelib-parent/3.5.3/freelib-parent-3.5.3.jar returned status 404

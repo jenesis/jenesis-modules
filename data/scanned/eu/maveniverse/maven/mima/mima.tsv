@@ -60,6 +60,7 @@
 2.4.45		2026-05-28T12:16:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/mima/2.4.45/mima-2.4.45.jar returned status 404
 2.4.46		2026-06-10T12:02:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/mima/2.4.46/mima-2.4.46.jar returned status 404
 2.4.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/mima/2.4.47/mima-2.4.47.jar returned status 404
+2.4.48		2026-08-07T17:41:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/mima/2.4.48/mima-2.4.48.jar returned status 404
 2.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/mima/2.4.5/mima-2.4.5.jar returned status 404
 2.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/mima/2.4.6/mima-2.4.6.jar returned status 404
 2.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/mima/2.4.7/mima-2.4.7.jar returned status 404

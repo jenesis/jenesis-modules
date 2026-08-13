@@ -5264,7 +5264,9 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 10.1.1	named	org.telegram	telegrambots-springboot-longpolling-starter	2026-07-25T09:09:54Z	2.17.2
 10.1.1	named	org.telegram	telegrambots-springboot-webhook-starter	2026-07-25T09:09:54Z	2.17.2
 10.1.1	named	org.telegram	telegrambots-webhook	2026-07-25T09:09:54Z	2.17.2
+11.5.1-beta-2	named	fr.inria.gforge.spoon	spoon-core	2026-07-26T03:46:01Z	2.22
 7.5.0	named	org.mock-server	mockserver-k8s-webhook	2026-07-29T17:47:14Z	2.22
+11.5.1-beta-3	named	fr.inria.gforge.spoon	spoon-core	2026-08-02T03:41:42Z	2.22
 10.2.0	named	org.telegram	telegrambots-abilities	2026-08-02T22:47:00Z	2.17.2
 10.2.0	named	org.telegram	telegrambots-client	2026-08-02T22:47:00Z	2.17.2
 10.2.0	named	org.telegram	telegrambots-client-jetty-adapter	2026-08-02T22:47:00Z	2.17.2
@@ -5275,5 +5277,6 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 10.2.0	named	org.telegram	telegrambots-springboot-webhook-starter	2026-08-02T22:47:00Z	2.17.2
 10.2.0	named	org.telegram	telegrambots-webhook	2026-08-02T22:47:00Z	2.17.2
 7.0.1	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-08-04T03:06:18Z	2.21
+3.6.1.Final	named	io.debezium	debezium-connector-cassandra-5	2026-08-04T12:27:07Z	2.21
 1.8	named	io.github.vdaburon	junit-reporter-kpi-from-jmeter-report-csv	2026-08-05T07:43:14Z	2.22
 4.0.21	named	io.github.techelliiptica	merv-client-api	2026-08-05T10:44:54Z	2.15.2

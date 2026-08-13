@@ -13,3 +13,4 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/evolver/evolver-base/4.0.0/evolver-base-4.0.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/evolver/evolver-base/5.0.0/evolver-base-5.0.0.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/evolver/evolver-base/5.0.1/evolver-base-5.0.1.jar returned status 404
+6.0.0		2026-07-28T07:24:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/evolver/evolver-base/6.0.0/evolver-base-6.0.0.jar returned status 404

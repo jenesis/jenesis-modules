@@ -1,0 +1,2 @@
+1.0.0		2026-08-08T19:31:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ciechanowiec/airness-parent/1.0.0/airness-parent-1.0.0.jar returned status 404
+1.0.2		2026-08-10T12:44:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ciechanowiec/airness-parent/1.0.2/airness-parent-1.0.2.jar returned status 404

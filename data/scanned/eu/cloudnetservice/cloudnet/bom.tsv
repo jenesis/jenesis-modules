@@ -8,6 +8,7 @@
 4.0.0-RC14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/cloudnetservice/cloudnet/bom/4.0.0-RC14/bom-4.0.0-RC14.jar returned status 404
 4.0.0-RC15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/cloudnetservice/cloudnet/bom/4.0.0-RC15/bom-4.0.0-RC15.jar returned status 404
 4.0.0-RC16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/cloudnetservice/cloudnet/bom/4.0.0-RC16/bom-4.0.0-RC16.jar returned status 404
+4.0.0-RC17		2026-08-09T07:20:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/cloudnetservice/cloudnet/bom/4.0.0-RC17/bom-4.0.0-RC17.jar returned status 404
 4.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/cloudnetservice/cloudnet/bom/4.0.0-RC2/bom-4.0.0-RC2.jar returned status 404
 4.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/cloudnetservice/cloudnet/bom/4.0.0-RC3/bom-4.0.0-RC3.jar returned status 404
 4.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/cloudnetservice/cloudnet/bom/4.0.0-RC4/bom-4.0.0-RC4.jar returned status 404

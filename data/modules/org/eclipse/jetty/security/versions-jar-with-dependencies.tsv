@@ -2,3 +2,7 @@
 3.30.0	named	ch.exense.step	step-functions-plugins-composite-handler	2026-06-03T13:32:13Z	12.1.7
 3.30.1	named	ch.exense.step	step-automation-packages-sample-junit	2026-07-07T19:14:34Z	12.1.7
 3.30.1	named	ch.exense.step	step-functions-plugins-composite-handler	2026-07-07T19:14:36Z	12.1.7
+3.7.0.Alpha1	named	io.debezium	debezium-connector-dse	2026-07-30T10:47:10Z	12.1.11
+3.7.0.Alpha1	named	io.debezium	debezium-connector-cassandra-3	2026-07-30T10:47:11Z	12.1.11
+3.7.0.Alpha1	named	io.debezium	debezium-connector-cassandra-4	2026-07-30T10:47:11Z	12.1.11
+3.7.0.Alpha1	named	io.debezium	debezium-connector-cassandra-5	2026-07-30T10:47:11Z	12.1.11
