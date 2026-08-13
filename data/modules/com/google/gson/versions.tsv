@@ -5048,11 +5048,13 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 8.37.0.45887	named	org.sonarsource.java	java-custom-rules-example	2026-08-01T00:11:31Z	2.14.0
 11.8.0.86067	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-08-01T00:11:52Z	2.13.2
 11.8.0.86067	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-08-01T00:11:54Z	2.13.2
+5.7.0.78609	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-08-03T13:54:38Z	2.14.0
 3.38.1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-08-05T02:45:08Z	2.10
 0.1.7-beta	named	dev.cjfravel	ariadne-spark35_2.12	2026-08-07T01:55:56Z	2.14.0
 0.13.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-08-07T01:57:16Z	2.11.0
 0.14.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-08-07T01:57:18Z	2.11.0
 0.1.7-beta	named	dev.cjfravel	ariadne-spark41_2.13	2026-08-07T02:00:10Z	2.14.0
+8.38.0.46176	named	org.sonarsource.java	java-custom-rules-example	2026-08-07T14:21:19Z	2.14.0
 0.1.8-beta	named	dev.cjfravel	ariadne-spark35_2.12	2026-08-08T01:54:46Z	2.14.0
 0.1.8-beta	named	dev.cjfravel	ariadne-spark41_2.13	2026-08-08T01:54:49Z	2.14.0
 3.12.0	named	io.jooby	jooby-graphql	2026-08-08T02:05:58Z	2.14.0

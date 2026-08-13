@@ -54,3 +54,4 @@
 13.2.0.43154			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/sonar-plugin/13.2.0.43154/sonar-plugin-13.2.0.43154.jar returned status 404
 13.3.0.43633			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/sonar-plugin/13.3.0.43633/sonar-plugin-13.3.0.43633.jar returned status 404
 13.4.0.43982			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/sonar-plugin/13.4.0.43982/sonar-plugin-13.4.0.43982.jar returned status 404
+13.5.0.44127		2026-08-07T14:44:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/sonar-plugin/13.5.0.44127/sonar-plugin-13.5.0.44127.jar returned status 404

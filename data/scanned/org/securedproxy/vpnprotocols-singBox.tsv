@@ -11,3 +11,4 @@
 6.0.4		2026-06-27T15:38:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-singBox/6.0.4/vpnprotocols-singBox-6.0.4.jar returned status 404
 6.0.5		2026-06-28T13:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-singBox/6.0.5/vpnprotocols-singBox-6.0.5.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-singBox/6.1.0/vpnprotocols-singBox-6.1.0.jar returned status 404
+7.0.0		2026-08-08T07:57:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/securedproxy/vpnprotocols-singBox/7.0.0/vpnprotocols-singBox-7.0.0.jar returned status 404

@@ -7,3 +7,4 @@
 4.5.0		2026-06-05T11:18:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/redisson/redisson-quarkus-33-cache-parent/4.5.0/redisson-quarkus-33-cache-parent-4.5.0.jar returned status 404
 4.6.0		2026-06-15T08:11:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/redisson/redisson-quarkus-33-cache-parent/4.6.0/redisson-quarkus-33-cache-parent-4.6.0.jar returned status 404
 4.6.1		2026-06-18T07:37:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/redisson/redisson-quarkus-33-cache-parent/4.6.1/redisson-quarkus-33-cache-parent-4.6.1.jar returned status 404
+4.7.0		2026-08-04T08:10:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/redisson/redisson-quarkus-33-cache-parent/4.7.0/redisson-quarkus-33-cache-parent-4.7.0.jar returned status 404

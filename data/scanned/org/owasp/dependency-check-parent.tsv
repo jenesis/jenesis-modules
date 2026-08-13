@@ -61,6 +61,7 @@
 12.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/dependency-check-parent/12.2.0/dependency-check-parent-12.2.0.jar returned status 404
 12.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/dependency-check-parent/12.2.1/dependency-check-parent-12.2.1.jar returned status 404
 12.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/dependency-check-parent/12.2.2/dependency-check-parent-12.2.2.jar returned status 404
+13.0.0		2026-08-03T10:30:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/dependency-check-parent/13.0.0/dependency-check-parent-13.0.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/dependency-check-parent/2.0.0/dependency-check-parent-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/dependency-check-parent/2.0.1/dependency-check-parent-2.0.1.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/owasp/dependency-check-parent/2.1.0/dependency-check-parent-2.1.0.jar returned status 404

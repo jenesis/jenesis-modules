@@ -42,3 +42,12 @@
 9.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.0.3/karaf-module-9.0.3.jar returned status 404
 9.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.0.4/karaf-module-9.0.4.jar returned status 404
 9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.1.0/karaf-module-9.1.0.jar returned status 404
+9.1.1		2026-08-04T06:39:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.1.1/karaf-module-9.1.1.jar returned status 404
+9.1.2		2026-08-04T08:41:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.1.2/karaf-module-9.1.2.jar returned status 404
+9.1.3		2026-08-04T11:50:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.1.3/karaf-module-9.1.3.jar returned status 404
+9.1.4		2026-08-05T09:10:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.1.4/karaf-module-9.1.4.jar returned status 404
+9.1.5		2026-08-05T10:00:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.1.5/karaf-module-9.1.5.jar returned status 404
+9.1.6		2026-08-06T09:38:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.1.6/karaf-module-9.1.6.jar returned status 404
+9.1.7		2026-08-06T11:39:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.1.7/karaf-module-9.1.7.jar returned status 404
+9.1.8		2026-08-08T06:21:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.1.8/karaf-module-9.1.8.jar returned status 404
+9.2.0		2026-08-08T07:20:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simplejavamail/karaf-module/9.2.0/karaf-module-9.2.0.jar returned status 404
