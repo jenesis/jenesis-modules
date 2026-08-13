@@ -15,8 +15,13 @@
 1.1.17		2026-06-16T01:10:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iosx64/1.1.17/transform-iosx64-1.1.17.jar returned status 404
 1.1.17	metadata	2026-06-16T01:10:31Z	
 1.1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iosx64/1.1.18/transform-iosx64-1.1.18.jar returned status 404
+1.1.18	metadata	2026-07-31T15:10:47Z	
+1.1.19		2026-08-04T01:08:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iosx64/1.1.19/transform-iosx64-1.1.19.jar returned status 404
+1.1.19	metadata	2026-08-04T01:08:03Z	
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iosx64/1.1.2/transform-iosx64-1.1.2.jar returned status 404
 1.1.2	metadata	2024-10-21T00:31:04Z	
+1.1.20		2026-08-07T02:00:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iosx64/1.1.20/transform-iosx64-1.1.20.jar returned status 404
+1.1.20	metadata	2026-08-07T02:00:38Z	
 1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iosx64/1.1.3/transform-iosx64-1.1.3.jar returned status 404
 1.1.3	metadata	2024-10-21T04:19:46Z	
 1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/prosemirror/transform-iosx64/1.1.4/transform-iosx64-1.1.4.jar returned status 404

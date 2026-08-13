@@ -14,3 +14,5 @@
 1.2.1	metadata	2025-08-06T18:19:25Z	
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appstractive/ktor-server-auth-jwt-watchosx64/1.3.0/ktor-server-auth-jwt-watchosx64-1.3.0.jar returned status 404
 1.3.0	metadata	2026-07-11T12:05:49Z	
+1.3.1		2026-08-10T17:00:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appstractive/ktor-server-auth-jwt-watchosx64/1.3.1/ktor-server-auth-jwt-watchosx64-1.3.1.jar returned status 404
+1.3.1	metadata	2026-08-10T17:00:49Z	

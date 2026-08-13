@@ -33,6 +33,7 @@
 4.1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/moloco-adapter/4.1.1.0/moloco-adapter-4.1.1.0.jar returned status 404
 4.10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/moloco-adapter/4.10.1.0/moloco-adapter-4.10.1.0.jar returned status 404
 4.11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/moloco-adapter/4.11.0.0/moloco-adapter-4.11.0.0.jar returned status 404
+4.11.1.0		2026-08-10T22:06:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/moloco-adapter/4.11.1.0/moloco-adapter-4.11.1.0.jar returned status 404
 4.2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/moloco-adapter/4.2.0.0/moloco-adapter-4.2.0.0.jar returned status 404
 4.2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/moloco-adapter/4.2.1.0/moloco-adapter-4.2.1.0.jar returned status 404
 4.3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/mediation/moloco-adapter/4.3.0.0/moloco-adapter-4.3.0.0.jar returned status 404

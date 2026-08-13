@@ -75,6 +75,7 @@
 13.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/applovin-sdk/13.6.1/applovin-sdk-13.6.1.jar returned status 404
 13.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/applovin-sdk/13.6.2/applovin-sdk-13.6.2.jar returned status 404
 13.6.3		2026-06-03T19:12:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/applovin-sdk/13.6.3/applovin-sdk-13.6.3.jar returned status 404
+13.6.4		2026-08-08T04:35:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/applovin-sdk/13.6.4/applovin-sdk-13.6.4.jar returned status 404
 9.14.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/applovin-sdk/9.14.12/applovin-sdk-9.14.12.jar returned status 404
 9.14.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/applovin-sdk/9.14.13/applovin-sdk-9.14.13.jar returned status 404
 9.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/applovin/applovin-sdk/9.15.0/applovin-sdk-9.15.0.jar returned status 404

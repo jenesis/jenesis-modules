@@ -177,3 +177,5 @@
 2.0.5	named	it.rotaliano.salesforce	salesforce-jdbc	2026-07-13T17:16:44Z	2.0.17
 2.0.6	named	it.rotaliano.salesforce	salesforce-jdbc	2026-07-15T09:12:06Z	2.0.17
 2026.6	named	net.openhft	chronicle-queue	2026-07-24T01:31:01Z	2.0.17
+0.8.0-pre5-dev1	named	com.bloxbean.cardano	cardano-client-load-tools	2026-07-30T11:08:52Z	2.0.17
+0.8.0-pre5	named	com.bloxbean.cardano	cardano-client-load-tools	2026-08-03T14:51:16Z	2.0.17

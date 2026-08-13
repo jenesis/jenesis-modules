@@ -22,3 +22,4 @@
 5.7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bigossp/max-mediation-new/5.7.1.0/max-mediation-new-5.7.1.0.jar returned status 404
 5.8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bigossp/max-mediation-new/5.8.0.0/max-mediation-new-5.8.0.0.jar returned status 404
 5.9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bigossp/max-mediation-new/5.9.0.0/max-mediation-new-5.9.0.0.jar returned status 404
+6.0.0.0		2026-08-12T12:03:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bigossp/max-mediation-new/6.0.0.0/max-mediation-new-6.0.0.0.jar returned status 404

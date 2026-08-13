@@ -51,3 +51,4 @@
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aqanetics/aqa-tasks/1.4.1/aqa-tasks-1.4.1.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aqanetics/aqa-tasks/1.4.2/aqa-tasks-1.4.2.jar returned status 404
 1.4.3		2026-06-23T15:01:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aqanetics/aqa-tasks/1.4.3/aqa-tasks-1.4.3.jar returned status 404
+1.4.4		2026-08-10T12:12:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aqanetics/aqa-tasks/1.4.4/aqa-tasks-1.4.4.jar returned status 404

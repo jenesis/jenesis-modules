@@ -1,0 +1,2 @@
+1.0		2026-07-29T07:22:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/BNGlide4/1.0/BNGlide4-1.0.jar returned status 404
+1.0.1		2026-07-29T11:17:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/BNGlide4/1.0.1/BNGlide4-1.0.1.jar returned status 404

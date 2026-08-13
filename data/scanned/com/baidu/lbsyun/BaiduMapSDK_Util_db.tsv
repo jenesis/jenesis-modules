@@ -1,3 +1,4 @@
 7.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/BaiduMapSDK_Util_db/7.6.7/BaiduMapSDK_Util_db-7.6.7.jar returned status 404
 7.6.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/BaiduMapSDK_Util_db/7.6.7.1/BaiduMapSDK_Util_db-7.6.7.1.jar returned status 404
 7.6.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/BaiduMapSDK_Util_db/7.6.7.2/BaiduMapSDK_Util_db-7.6.7.2.jar returned status 404
+7.6.7.3		2026-08-03T06:20:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/BaiduMapSDK_Util_db/7.6.7.3/BaiduMapSDK_Util_db-7.6.7.3.jar returned status 404

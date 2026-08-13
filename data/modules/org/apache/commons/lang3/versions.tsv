@@ -1388,6 +1388,7 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 2.0.0	named	org.apache.paimon	paimon-obs-impl	2026-08-04T03:53:09Z	3.18.0
 2.0.0	named	org.apache.paimon	paimon-format	2026-08-04T03:54:23Z	3.18.0
 3.26.29-XHLP-4994	named	com.ubs-hainer	filebridge-jdbc-driver	2026-08-04T13:14:04Z	3.19.0
+3.1.0	named	com.blazemeter.jmeter	jmeter-bzm-http2	2026-08-06T07:43:06Z	3.18.0
 8.38.0.46176	named	org.sonarsource.java	sonar-java-plugin	2026-08-07T14:21:19Z	3.20.0
 3.17.0-Java8	named	com.equinor.neqsim	neqsim	2026-08-07T16:25:45Z	3.20.0
 3.17.0	named	com.equinor.neqsim	neqsim	2026-08-07T16:27:46Z	3.20.0
