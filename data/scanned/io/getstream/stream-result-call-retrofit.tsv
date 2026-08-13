@@ -7,4 +7,8 @@
 1.3.3	debug-sources	2025-05-15T07:41:00Z	
 1.3.3	release-sources	2025-05-15T07:41:00Z	
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-result-call-retrofit/1.4.0/stream-result-call-retrofit-1.4.0.jar returned status 404
+1.4.0	debug-sources	2026-08-06T12:13:20Z	
+1.4.0	release-sources	2026-08-06T12:13:20Z	
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-result-call-retrofit/1.4.1/stream-result-call-retrofit-1.4.1.jar returned status 404
+1.4.1	debug-sources	2026-08-07T09:31:42Z	
+1.4.1	release-sources	2026-08-07T09:31:42Z	

@@ -1,0 +1,3 @@
+1.0.3		2026-07-28T18:02:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ali0092/sketchy-wasm-js/1.0.3/sketchy-wasm-js-1.0.3.jar returned status 404
+1.0.4		2026-07-28T18:11:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ali0092/sketchy-wasm-js/1.0.4/sketchy-wasm-js-1.0.4.jar returned status 404
+1.0.5		2026-07-29T09:16:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ali0092/sketchy-wasm-js/1.0.5/sketchy-wasm-js-1.0.5.jar returned status 404

@@ -94,6 +94,7 @@
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/dekorate-spring-bom/4.0.2/dekorate-spring-bom-4.0.2.jar returned status 404
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/dekorate-spring-bom/4.0.3/dekorate-spring-bom-4.0.3.jar returned status 404
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/dekorate-spring-bom/4.1.1/dekorate-spring-bom-4.1.1.jar returned status 404
+4.1.11		2026-08-10T13:34:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/dekorate-spring-bom/4.1.11/dekorate-spring-bom-4.1.11.jar returned status 404
 4.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/dekorate-spring-bom/4.1.6/dekorate-spring-bom-4.1.6.jar returned status 404
 4.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/dekorate-spring-bom/4.1.7/dekorate-spring-bom-4.1.7.jar returned status 404
 4.1.8		2026-06-23T07:55:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/dekorate/dekorate-spring-bom/4.1.8/dekorate-spring-bom-4.1.8.jar returned status 404

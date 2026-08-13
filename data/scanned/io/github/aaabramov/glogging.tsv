@@ -1,0 +1,4 @@
+0.1.1		2026-08-03T18:45:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aaabramov/glogging/0.1.1/glogging-0.1.1.jar returned status 404
+0.1.2		2026-08-03T20:41:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aaabramov/glogging/0.1.2/glogging-0.1.2.jar returned status 404
+0.2.0		2026-08-03T22:12:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aaabramov/glogging/0.2.0/glogging-0.2.0.jar returned status 404
+0.3.0		2026-08-04T09:21:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aaabramov/glogging/0.3.0/glogging-0.3.0.jar returned status 404
