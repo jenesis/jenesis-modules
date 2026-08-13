@@ -1,0 +1,2 @@
+10.0.0		2026-07-20T12:39:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/neckar/open/payment-js/10.0.0/payment-js-10.0.0.jar returned status 404
+10.0.1		2026-07-27T14:13:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/neckar/open/payment-js/10.0.1/payment-js-10.0.1.jar returned status 404

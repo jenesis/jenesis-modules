@@ -39,3 +39,4 @@
 1.3.0-beta06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/tapsell/mediation/adapter/unityads/1.3.0-beta06/unityads-1.3.0-beta06.jar returned status 404
 1.4.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/tapsell/mediation/adapter/unityads/1.4.0-alpha01/unityads-1.4.0-alpha01.jar returned status 404
 1.4.0-alpha02		2026-06-09T12:44:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/tapsell/mediation/adapter/unityads/1.4.0-alpha02/unityads-1.4.0-alpha02.jar returned status 404
+1.4.0-alpha03		2026-08-08T16:32:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/tapsell/mediation/adapter/unityads/1.4.0-alpha03/unityads-1.4.0-alpha03.jar returned status 404

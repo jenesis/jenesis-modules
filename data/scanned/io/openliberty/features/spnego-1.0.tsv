@@ -83,3 +83,4 @@
 26.0.0.5		2026-05-13T20:48:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/spnego-1.0/26.0.0.5/spnego-1.0-26.0.0.5.jar returned status 404
 26.0.0.6		2026-06-09T12:06:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/spnego-1.0/26.0.0.6/spnego-1.0-26.0.0.6.jar returned status 404
 26.0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/spnego-1.0/26.0.0.7/spnego-1.0-26.0.0.7.jar returned status 404
+26.0.0.8		2026-08-05T11:09:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/spnego-1.0/26.0.0.8/spnego-1.0-26.0.0.8.jar returned status 404

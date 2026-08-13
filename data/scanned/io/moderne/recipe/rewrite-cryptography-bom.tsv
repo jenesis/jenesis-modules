@@ -22,6 +22,7 @@
 0.14.0		2026-06-03T13:32:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/rewrite-cryptography-bom/0.14.0/rewrite-cryptography-bom-0.14.0.jar returned status 404
 0.14.1		2026-06-03T19:40:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/rewrite-cryptography-bom/0.14.1/rewrite-cryptography-bom-0.14.1.jar returned status 404
 0.14.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/rewrite-cryptography-bom/0.14.10/rewrite-cryptography-bom-0.14.10.jar returned status 404
+0.14.11		2026-08-10T11:57:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/rewrite-cryptography-bom/0.14.11/rewrite-cryptography-bom-0.14.11.jar returned status 404
 0.14.2		2026-06-17T14:00:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/rewrite-cryptography-bom/0.14.2/rewrite-cryptography-bom-0.14.2.jar returned status 404
 0.14.3		2026-06-17T15:18:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/rewrite-cryptography-bom/0.14.3/rewrite-cryptography-bom-0.14.3.jar returned status 404
 0.14.4		2026-07-01T07:04:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moderne/recipe/rewrite-cryptography-bom/0.14.4/rewrite-cryptography-bom-0.14.4.jar returned status 404

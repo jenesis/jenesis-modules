@@ -28,3 +28,6 @@
 2.0.78.Final	named	io.netty	netty-tcnative-boringssl-static	2026-06-04T05:01:32Z	2.0.78.Final
 2.0.79.Final	named	io.netty	netty-tcnative-boringssl-static	2026-06-12T07:05:30Z	2.0.79.Final
 2.0.80.Final	named	io.netty	netty-tcnative-boringssl-static	2026-06-29T13:46:29Z	2.0.80.Final
+2.0.81.Final	named	io.netty	netty-tcnative-boringssl-static	2026-07-20T17:13:55Z	2.0.81.Final
+0.2.0	named	io.smallrye	smallrye-openssl	2026-08-06T10:20:29Z	2.0.76.Final
+0.2.3	named	io.smallrye	smallrye-openssl	2026-08-06T13:50:58Z	2.0.81.Final

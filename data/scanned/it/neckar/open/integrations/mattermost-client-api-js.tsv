@@ -1,0 +1,2 @@
+10.0.0		2026-07-20T12:39:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/neckar/open/integrations/mattermost-client-api-js/10.0.0/mattermost-client-api-js-10.0.0.jar returned status 404
+10.0.1		2026-07-27T14:13:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/neckar/open/integrations/mattermost-client-api-js/10.0.1/mattermost-client-api-js-10.0.1.jar returned status 404

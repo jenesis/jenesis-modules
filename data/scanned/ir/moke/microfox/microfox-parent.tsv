@@ -11,3 +11,5 @@
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/moke/microfox/microfox-parent/0.8.0/microfox-parent-0.8.0.jar returned status 404
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/moke/microfox/microfox-parent/0.8.1/microfox-parent-0.8.1.jar returned status 404
 0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/moke/microfox/microfox-parent/0.8.2/microfox-parent-0.8.2.jar returned status 404
+0.9.1		2026-08-05T16:03:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/moke/microfox/microfox-parent/0.9.1/microfox-parent-0.9.1.jar returned status 404
+0.9.2		2026-08-06T09:09:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/moke/microfox/microfox-parent/0.9.2/microfox-parent-0.9.2.jar returned status 404
