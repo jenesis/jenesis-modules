@@ -413,3 +413,4 @@ accounts_v1-rev20260722-2.0.0	automatic	com.google.apis	google-api-services-merc
 accounts_v1beta-rev20260722-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-30T02:28:18Z	
 datasources_v1-rev20260719-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-30T02:28:20Z	
 products_v1-rev20260729-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-07-31T02:27:22Z	
+loyaltycustomers_v1-rev20260805-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-08-07T08:02:31Z	

@@ -1,0 +1,4 @@
+1.0.1		2026-07-23T14:14:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/nahal/nahal-core-macosarm64/1.0.1/nahal-core-macosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-07-23T14:14:39Z	
+2.0.0		2026-08-08T18:07:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/nahal/nahal-core-macosarm64/2.0.0/nahal-core-macosarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-08-08T18:07:03Z	

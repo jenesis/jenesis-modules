@@ -2,3 +2,6 @@
 5.0.0-rc01		2026-06-16T14:53:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/maps/android/android-maps-utils-ui/5.0.0-rc01/android-maps-utils-ui-5.0.0-rc01.jar returned status 404
 5.0.0-rc02		2026-06-22T17:29:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/maps/android/android-maps-utils-ui/5.0.0-rc02/android-maps-utils-ui-5.0.0-rc02.jar returned status 404
 5.0.0-rc03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/maps/android/android-maps-utils-ui/5.0.0-rc03/android-maps-utils-ui-5.0.0-rc03.jar returned status 404
+5.1.0		2026-08-07T09:21:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/maps/android/android-maps-utils-ui/5.1.0/android-maps-utils-ui-5.1.0.jar returned status 404
+5.1.1		2026-08-11T18:29:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/maps/android/android-maps-utils-ui/5.1.1/android-maps-utils-ui-5.1.1.jar returned status 404
+6.0.0-rc01		2026-08-07T21:41:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/maps/android/android-maps-utils-ui/6.0.0-rc01/android-maps-utils-ui-6.0.0-rc01.jar returned status 404

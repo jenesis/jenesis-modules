@@ -35,6 +35,7 @@
 11.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/web/ph-web-parent-pom/11.4.0/ph-web-parent-pom-11.4.0.jar returned status 404
 11.4.1		2026-05-22T13:52:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/web/ph-web-parent-pom/11.4.1/ph-web-parent-pom-11.4.1.jar returned status 404
 11.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/web/ph-web-parent-pom/11.4.2/ph-web-parent-pom-11.4.2.jar returned status 404
+11.4.3		2026-08-03T15:23:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/web/ph-web-parent-pom/11.4.3/ph-web-parent-pom-11.4.3.jar returned status 404
 9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/web/ph-web-parent-pom/9.3.0/ph-web-parent-pom-9.3.0.jar returned status 404
 9.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/web/ph-web-parent-pom/9.3.1/ph-web-parent-pom-9.3.1.jar returned status 404
 9.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/web/ph-web-parent-pom/9.3.2/ph-web-parent-pom-9.3.2.jar returned status 404

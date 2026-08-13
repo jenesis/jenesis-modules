@@ -1,1 +1,3 @@
 3.14.1		2026-06-28T05:48:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/wix-maven/wix-toolset-parent/3.14.1/wix-toolset-parent-3.14.1.jar returned status 404
+4.0.6		2026-08-09T12:33:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/wix-maven/wix-toolset-parent/4.0.6/wix-toolset-parent-4.0.6.jar returned status 404
+5.0.2		2026-08-10T05:41:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/wix-maven/wix-toolset-parent/5.0.2/wix-toolset-parent-5.0.2.jar returned status 404

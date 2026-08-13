@@ -1,0 +1,2 @@
+1.0.1		2026-07-23T14:14:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/nahal/haldish-linuxx64/1.0.1/haldish-linuxx64-1.0.1.jar returned status 404
+2.0.0		2026-08-08T18:01:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helpchoice/nahal/haldish-linuxx64/2.0.0/haldish-linuxx64-2.0.0.jar returned status 404

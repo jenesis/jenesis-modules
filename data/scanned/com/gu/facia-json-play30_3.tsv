@@ -126,6 +126,11 @@
 35.0.0-PREVIEW.introduce-ab-test-model.2026-07-28T0818.68e860ad			
 35.0.0-PREVIEW.introduce-ab-test-model.2026-07-29T1454.6787c72d			
 35.0.0-PREVIEW.update-aws-sdk-to-fix-NoClassDefFoundError-on-EndpointResolver.2026-07-29T1423.072fee04			
+36.0.0		2026-08-06T15:33:37Z	
+36.0.0-PREVIEW.introduce-ab-test-model.2026-08-04T1332.1903f97e		2026-08-04T13:37:14Z	
+36.0.0-PREVIEW.rt-update-capi-client.2026-08-05T1215.83c3bc2f		2026-08-05T12:19:23Z	
+37.0.0		2026-08-10T10:41:07Z	
+37.0.0-PREVIEW.add-carabiner-to-gitignore.2026-08-10T1011.a4c9633d		2026-08-10T10:15:26Z	
 8.0.1		2024-07-24T18:28:10Z	
 8.0.1-PREVIEW.drop-scala-212-and-play-27.2024-07-24T1515.3aa8aa15		2024-07-24T15:24:17Z	
 8.0.2-PREVIEW.fairgroundadd-new-boost-level.2024-08-01T1655.a545ec42		2024-08-01T17:00:48Z	
