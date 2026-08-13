@@ -2103,3 +2103,7 @@ media.barney.contract.spring.boot.starter
 media.barney.contract.core
 me.zolotov.oniguruma.jni
 me.zolotov.oniguruma.ffm
+me.bechberger.util.femtocli
+org.jetbrains.annotations
+lv.id.jc.dicechess.runtime
+jakarta.ai.agent

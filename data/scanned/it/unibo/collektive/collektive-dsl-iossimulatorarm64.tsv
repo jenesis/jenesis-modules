@@ -717,4 +717,12 @@
 28.3.1-dev0q+902c28e8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.3.1-dev0q+902c28e8/collektive-dsl-iossimulatorarm64-28.3.1-dev0q+902c28e8.jar returned status 404
 28.3.1-dev0q+902c28e8	metadata	2026-07-18T17:49:10Z	
 28.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.3.2/collektive-dsl-iossimulatorarm64-28.3.2.jar returned status 404
+28.3.2	metadata	2026-07-24T15:17:48Z	
 28.3.3-dev04+66215c4a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.3.3-dev04+66215c4a/collektive-dsl-iossimulatorarm64-28.3.3-dev04+66215c4a.jar returned status 404
+28.3.3-dev04+66215c4a	metadata	2026-08-01T02:30:53Z	
+28.3.3-dev06+1a131d91		2026-08-02T23:53:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.3.3-dev06+1a131d91/collektive-dsl-iossimulatorarm64-28.3.3-dev06+1a131d91.jar returned status 404
+28.3.3-dev06+1a131d91	metadata	2026-08-02T23:53:54Z	
+28.3.3-dev0c+f774749f		2026-08-08T03:19:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.3.3-dev0c+f774749f/collektive-dsl-iossimulatorarm64-28.3.3-dev0c+f774749f.jar returned status 404
+28.3.3-dev0c+f774749f	metadata	2026-08-08T03:19:11Z	
+28.3.3-dev0d+4eb85788		2026-08-08T04:58:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-iossimulatorarm64/28.3.3-dev0d+4eb85788/collektive-dsl-iossimulatorarm64-28.3.3-dev0d+4eb85788.jar returned status 404
+28.3.3-dev0d+4eb85788	metadata	2026-08-08T04:58:32Z	

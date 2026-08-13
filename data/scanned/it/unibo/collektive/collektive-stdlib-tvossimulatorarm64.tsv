@@ -709,4 +709,12 @@
 28.3.1-dev0q+902c28e8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-tvossimulatorarm64/28.3.1-dev0q+902c28e8/collektive-stdlib-tvossimulatorarm64-28.3.1-dev0q+902c28e8.jar returned status 404
 28.3.1-dev0q+902c28e8	metadata	2026-07-18T17:49:37Z	
 28.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-tvossimulatorarm64/28.3.2/collektive-stdlib-tvossimulatorarm64-28.3.2.jar returned status 404
+28.3.2	metadata	2026-07-24T15:26:40Z	
 28.3.3-dev04+66215c4a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-tvossimulatorarm64/28.3.3-dev04+66215c4a/collektive-stdlib-tvossimulatorarm64-28.3.3-dev04+66215c4a.jar returned status 404
+28.3.3-dev04+66215c4a	metadata	2026-08-01T02:31:07Z	
+28.3.3-dev06+1a131d91		2026-08-02T23:54:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-tvossimulatorarm64/28.3.3-dev06+1a131d91/collektive-stdlib-tvossimulatorarm64-28.3.3-dev06+1a131d91.jar returned status 404
+28.3.3-dev06+1a131d91	metadata	2026-08-02T23:54:03Z	
+28.3.3-dev0c+f774749f		2026-08-08T03:19:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-tvossimulatorarm64/28.3.3-dev0c+f774749f/collektive-stdlib-tvossimulatorarm64-28.3.3-dev0c+f774749f.jar returned status 404
+28.3.3-dev0c+f774749f	metadata	2026-08-08T03:19:25Z	
+28.3.3-dev0d+4eb85788		2026-08-08T04:58:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-stdlib-tvossimulatorarm64/28.3.3-dev0d+4eb85788/collektive-stdlib-tvossimulatorarm64-28.3.3-dev0d+4eb85788.jar returned status 404
+28.3.3-dev0d+4eb85788	metadata	2026-08-08T04:58:40Z	

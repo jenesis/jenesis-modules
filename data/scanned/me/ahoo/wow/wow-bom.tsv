@@ -614,6 +614,12 @@
 8.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.1.6/wow-bom-8.1.6.jar returned status 404
 8.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.1.8/wow-bom-8.1.8.jar returned status 404
 8.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.1.9/wow-bom-8.1.9.jar returned status 404
+8.10.0		2026-08-03T17:08:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.10.0/wow-bom-8.10.0.jar returned status 404
+8.10.1		2026-08-04T04:53:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.10.1/wow-bom-8.10.1.jar returned status 404
+8.10.2		2026-08-04T14:39:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.10.2/wow-bom-8.10.2.jar returned status 404
+8.10.3		2026-08-04T15:51:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.10.3/wow-bom-8.10.3.jar returned status 404
+8.10.4		2026-08-05T04:57:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.10.4/wow-bom-8.10.4.jar returned status 404
+8.10.5		2026-08-06T00:53:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.10.5/wow-bom-8.10.5.jar returned status 404
 8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.2.0/wow-bom-8.2.0.jar returned status 404
 8.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.2.1/wow-bom-8.2.1.jar returned status 404
 8.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.2.2/wow-bom-8.2.2.jar returned status 404
@@ -633,3 +639,11 @@
 8.6.0		2026-06-17T11:12:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.6.0/wow-bom-8.6.0.jar returned status 404
 8.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.8.0/wow-bom-8.8.0.jar returned status 404
 8.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.8.1/wow-bom-8.8.1.jar returned status 404
+8.9.0		2026-07-22T04:36:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.0/wow-bom-8.9.0.jar returned status 404
+8.9.1		2026-07-27T23:53:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.1/wow-bom-8.9.1.jar returned status 404
+8.9.2		2026-07-30T13:20:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.2/wow-bom-8.9.2.jar returned status 404
+8.9.3		2026-07-30T15:45:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.3/wow-bom-8.9.3.jar returned status 404
+8.9.5		2026-08-01T08:03:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.5/wow-bom-8.9.5.jar returned status 404
+8.9.6		2026-08-02T08:58:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.6/wow-bom-8.9.6.jar returned status 404
+8.9.8		2026-08-03T12:29:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.8/wow-bom-8.9.8.jar returned status 404
+8.9.9		2026-08-03T15:23:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.9/wow-bom-8.9.9.jar returned status 404
