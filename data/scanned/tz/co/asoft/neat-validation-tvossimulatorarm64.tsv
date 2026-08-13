@@ -50,6 +50,14 @@
 3.2.5	metadata	2025-09-29T23:32:13Z	
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/neat-validation-tvossimulatorarm64/3.3.0/neat-validation-tvossimulatorarm64-3.3.0.jar returned status 404
 3.3.0	metadata	2025-12-27T13:07:29Z	
+3.3.10		2026-07-19T01:24:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/neat-validation-tvossimulatorarm64/3.3.10/neat-validation-tvossimulatorarm64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:24:25Z	
+3.3.11		2026-07-19T01:53:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/neat-validation-tvossimulatorarm64/3.3.11/neat-validation-tvossimulatorarm64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:53:58Z	
+3.3.12		2026-07-19T02:11:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/neat-validation-tvossimulatorarm64/3.3.12/neat-validation-tvossimulatorarm64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:11:17Z	
+3.3.13		2026-08-06T00:28:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/neat-validation-tvossimulatorarm64/3.3.13/neat-validation-tvossimulatorarm64-3.3.13.jar returned status 404
+3.3.13	metadata	2026-08-06T00:28:35Z	
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/neat-validation-tvossimulatorarm64/3.3.2/neat-validation-tvossimulatorarm64-3.3.2.jar returned status 404
 3.3.2	metadata	2025-12-27T21:42:49Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/neat-validation-tvossimulatorarm64/3.3.3/neat-validation-tvossimulatorarm64-3.3.3.jar returned status 404
@@ -64,3 +72,5 @@
 3.3.7	metadata	2026-02-27T10:38:37Z	
 3.3.8		2026-05-22T12:50:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/neat-validation-tvossimulatorarm64/3.3.8/neat-validation-tvossimulatorarm64-3.3.8.jar returned status 404
 3.3.8	metadata	2026-05-22T12:50:56Z	
+3.3.9		2026-07-19T00:57:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/neat-validation-tvossimulatorarm64/3.3.9/neat-validation-tvossimulatorarm64-3.3.9.jar returned status 404
+3.3.9	metadata	2026-07-19T00:57:52Z	

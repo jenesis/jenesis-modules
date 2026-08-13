@@ -34,6 +34,12 @@
 3.2.5	metadata	2025-09-30T00:38:42Z	
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-core-macosx64/3.3.0/raven-core-macosx64-3.3.0.jar returned status 404
 3.3.0	metadata	2025-12-27T12:52:25Z	
+3.3.10		2026-07-19T01:30:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-core-macosx64/3.3.10/raven-core-macosx64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:30:24Z	
+3.3.11		2026-07-19T01:59:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-core-macosx64/3.3.11/raven-core-macosx64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:59:26Z	
+3.3.12		2026-07-19T02:15:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-core-macosx64/3.3.12/raven-core-macosx64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:15:44Z	
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-core-macosx64/3.3.2/raven-core-macosx64-3.3.2.jar returned status 404
 3.3.2	metadata	2025-12-27T22:03:51Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-core-macosx64/3.3.3/raven-core-macosx64-3.3.3.jar returned status 404

@@ -34,6 +34,14 @@
 3.3.0	metadata	2025-12-27T13:04:32Z	
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/nation-flags-compose-iosarm64/3.3.1/nation-flags-compose-iosarm64-3.3.1.jar returned status 404
 3.3.1	metadata	2025-12-27T21:31:47Z	
+3.3.10		2026-07-19T01:25:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/nation-flags-compose-iosarm64/3.3.10/nation-flags-compose-iosarm64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:25:35Z	
+3.3.11		2026-07-19T01:55:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/nation-flags-compose-iosarm64/3.3.11/nation-flags-compose-iosarm64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:55:56Z	
+3.3.12		2026-07-19T02:11:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/nation-flags-compose-iosarm64/3.3.12/nation-flags-compose-iosarm64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:11:22Z	
+3.3.13		2026-08-06T00:28:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/nation-flags-compose-iosarm64/3.3.13/nation-flags-compose-iosarm64-3.3.13.jar returned status 404
+3.3.13	metadata	2026-08-06T00:28:29Z	
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/nation-flags-compose-iosarm64/3.3.2/nation-flags-compose-iosarm64-3.3.2.jar returned status 404
 3.3.2	metadata	2025-12-27T21:46:55Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/nation-flags-compose-iosarm64/3.3.3/nation-flags-compose-iosarm64-3.3.3.jar returned status 404
@@ -48,3 +56,5 @@
 3.3.7	metadata	2026-02-27T10:56:24Z	
 3.3.8		2026-05-22T12:51:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/nation-flags-compose-iosarm64/3.3.8/nation-flags-compose-iosarm64-3.3.8.jar returned status 404
 3.3.8	metadata	2026-05-22T12:51:56Z	
+3.3.9		2026-07-19T00:56:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/nation-flags-compose-iosarm64/3.3.9/nation-flags-compose-iosarm64-3.3.9.jar returned status 404
+3.3.9	metadata	2026-07-19T00:56:33Z	

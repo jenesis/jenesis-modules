@@ -34,6 +34,14 @@
 3.3.0	metadata	2025-12-27T12:37:28Z	
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/lexi-formatters-macosarm64/3.3.1/lexi-formatters-macosarm64-3.3.1.jar returned status 404
 3.3.1	metadata	2025-12-27T21:24:38Z	
+3.3.10		2026-07-19T01:25:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/lexi-formatters-macosarm64/3.3.10/lexi-formatters-macosarm64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:25:42Z	
+3.3.11		2026-07-19T01:54:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/lexi-formatters-macosarm64/3.3.11/lexi-formatters-macosarm64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:54:47Z	
+3.3.12		2026-07-19T02:12:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/lexi-formatters-macosarm64/3.3.12/lexi-formatters-macosarm64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:12:45Z	
+3.3.13		2026-08-06T00:28:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/lexi-formatters-macosarm64/3.3.13/lexi-formatters-macosarm64-3.3.13.jar returned status 404
+3.3.13	metadata	2026-08-06T00:28:59Z	
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/lexi-formatters-macosarm64/3.3.2/lexi-formatters-macosarm64-3.3.2.jar returned status 404
 3.3.2	metadata	2025-12-27T21:47:41Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/lexi-formatters-macosarm64/3.3.3/lexi-formatters-macosarm64-3.3.3.jar returned status 404
@@ -48,3 +56,5 @@
 3.3.7	metadata	2026-02-27T10:40:17Z	
 3.3.8		2026-05-22T12:52:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/lexi-formatters-macosarm64/3.3.8/lexi-formatters-macosarm64-3.3.8.jar returned status 404
 3.3.8	metadata	2026-05-22T12:52:35Z	
+3.3.9		2026-07-19T00:57:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/lexi-formatters-macosarm64/3.3.9/lexi-formatters-macosarm64-3.3.9.jar returned status 404
+3.3.9	metadata	2026-07-19T00:57:34Z	
