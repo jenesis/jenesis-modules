@@ -1,0 +1,2 @@
+1.0.0		2026-08-08T13:59:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/webview/webview-kmp-mingwx64/1.0.0/webview-kmp-mingwx64-1.0.0.jar returned status 404
+1.0.1		2026-08-08T14:32:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/webview/webview-kmp-mingwx64/1.0.1/webview-kmp-mingwx64-1.0.1.jar returned status 404

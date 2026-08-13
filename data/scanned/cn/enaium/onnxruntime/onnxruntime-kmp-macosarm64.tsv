@@ -1,0 +1,8 @@
+1.0.0		2026-08-10T00:11:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/onnxruntime/onnxruntime-kmp-macosarm64/1.0.0/onnxruntime-kmp-macosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-08-10T00:11:55Z	
+1.0.1		2026-08-10T13:00:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/onnxruntime/onnxruntime-kmp-macosarm64/1.0.1/onnxruntime-kmp-macosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-08-10T13:00:20Z	
+1.0.2		2026-08-11T07:47:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/onnxruntime/onnxruntime-kmp-macosarm64/1.0.2/onnxruntime-kmp-macosarm64-1.0.2.jar returned status 404
+1.0.2	metadata	2026-08-11T07:47:36Z	
+1.28.0.1		2026-08-11T07:35:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/onnxruntime/onnxruntime-kmp-macosarm64/1.28.0.1/onnxruntime-kmp-macosarm64-1.28.0.1.jar returned status 404
+1.28.0.1	metadata	2026-08-11T07:35:03Z	

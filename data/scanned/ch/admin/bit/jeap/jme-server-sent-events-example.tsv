@@ -1,0 +1,5 @@
+1.0.0		2026-08-04T11:05:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-server-sent-events-example/1.0.0/jme-server-sent-events-example-1.0.0.jar returned status 404
+1.0.1		2026-08-05T05:58:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-server-sent-events-example/1.0.1/jme-server-sent-events-example-1.0.1.jar returned status 404
+1.0.2		2026-08-05T08:13:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-server-sent-events-example/1.0.2/jme-server-sent-events-example-1.0.2.jar returned status 404
+2.0.0		2026-08-07T05:56:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-server-sent-events-example/2.0.0/jme-server-sent-events-example-2.0.0.jar returned status 404
+2.0.1		2026-08-07T23:33:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-server-sent-events-example/2.0.1/jme-server-sent-events-example-2.0.1.jar returned status 404

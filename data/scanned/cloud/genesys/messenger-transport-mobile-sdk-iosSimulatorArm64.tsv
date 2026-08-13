@@ -69,6 +69,7 @@
 2.15.0-rc1		2026-07-01T12:19:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/messenger-transport-mobile-sdk-iosSimulatorArm64/2.15.0-rc1/messenger-transport-mobile-sdk-iosSimulatorArm64-2.15.0-rc1.jar returned status 404
 2.15.0-rc1	metadata	2026-07-01T12:19:15Z	
 2.16.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/messenger-transport-mobile-sdk-iosSimulatorArm64/2.16.0-rc1/messenger-transport-mobile-sdk-iosSimulatorArm64-2.16.0-rc1.jar returned status 404
+2.16.0-rc1	metadata	2026-07-29T13:30:05Z	
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/messenger-transport-mobile-sdk-iosSimulatorArm64/2.2.0/messenger-transport-mobile-sdk-iosSimulatorArm64-2.2.0.jar returned status 404
 2.2.0	metadata	2023-01-23T14:19:04Z	
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/genesys/messenger-transport-mobile-sdk-iosSimulatorArm64/2.3.0/messenger-transport-mobile-sdk-iosSimulatorArm64-2.3.0.jar returned status 404

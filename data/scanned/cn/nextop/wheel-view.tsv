@@ -1,0 +1,2 @@
+1.0.0		2026-07-31T10:59:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/nextop/wheel-view/1.0.0/wheel-view-1.0.0.jar returned status 404
+1.0.1		2026-08-04T03:31:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/nextop/wheel-view/1.0.1/wheel-view-1.0.1.jar returned status 404

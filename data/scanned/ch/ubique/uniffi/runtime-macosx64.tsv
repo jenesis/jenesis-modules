@@ -27,6 +27,7 @@
 1.0.14		2026-06-16T17:27:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-macosx64/1.0.14/runtime-macosx64-1.0.14.jar returned status 404
 1.0.14	metadata	2026-06-16T17:27:27Z	
 1.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-macosx64/1.0.16/runtime-macosx64-1.0.16.jar returned status 404
+1.0.16	metadata	2026-07-27T12:19:08Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-macosx64/1.0.2/runtime-macosx64-1.0.2.jar returned status 404
 1.0.2	metadata	2026-04-21T06:47:27Z	
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-macosx64/1.0.3/runtime-macosx64-1.0.3.jar returned status 404
@@ -44,3 +45,4 @@
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-macosx64/1.0.9/runtime-macosx64-1.0.9.jar returned status 404
 1.0.9	metadata	2026-05-06T12:05:42Z	
 1.1.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-macosx64/1.1.0-rc1/runtime-macosx64-1.1.0-rc1.jar returned status 404
+1.1.0-rc1	metadata	2026-08-07T12:48:31Z	

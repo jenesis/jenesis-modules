@@ -1,0 +1,4 @@
+1.0.0		2026-08-10T00:11:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/onnxruntime/onnxruntime-kmp-mingwx64/1.0.0/onnxruntime-kmp-mingwx64-1.0.0.jar returned status 404
+1.0.1		2026-08-10T13:00:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/onnxruntime/onnxruntime-kmp-mingwx64/1.0.1/onnxruntime-kmp-mingwx64-1.0.1.jar returned status 404
+1.0.2		2026-08-11T07:47:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/onnxruntime/onnxruntime-kmp-mingwx64/1.0.2/onnxruntime-kmp-mingwx64-1.0.2.jar returned status 404
+1.28.0.1		2026-08-11T07:34:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/onnxruntime/onnxruntime-kmp-mingwx64/1.28.0.1/onnxruntime-kmp-mingwx64-1.28.0.1.jar returned status 404

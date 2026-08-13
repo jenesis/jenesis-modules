@@ -107,6 +107,9 @@
 23.9.0		2026-06-23T06:42:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/23.9.0/jeap-spring-boot-starters-23.9.0.jar returned status 404
 24.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.0.0/jeap-spring-boot-starters-24.0.0.jar returned status 404
 24.1.0		2026-07-22T07:51:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.1.0/jeap-spring-boot-starters-24.1.0.jar returned status 404
+24.10.0		2026-08-10T13:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.10.0/jeap-spring-boot-starters-24.10.0.jar returned status 404
+24.11.0		2026-08-11T16:27:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.11.0/jeap-spring-boot-starters-24.11.0.jar returned status 404
+24.12.0		2026-08-12T12:39:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.12.0/jeap-spring-boot-starters-24.12.0.jar returned status 404
 24.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.2.0/jeap-spring-boot-starters-24.2.0.jar returned status 404
 24.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.3.0/jeap-spring-boot-starters-24.3.0.jar returned status 404
 24.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.4.0/jeap-spring-boot-starters-24.4.0.jar returned status 404
@@ -115,3 +118,4 @@
 24.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.6.1/jeap-spring-boot-starters-24.6.1.jar returned status 404
 24.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.7.0/jeap-spring-boot-starters-24.7.0.jar returned status 404
 24.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.8.0/jeap-spring-boot-starters-24.8.0.jar returned status 404
+24.9.0		2026-08-10T08:02:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-starters/24.9.0/jeap-spring-boot-starters-24.9.0.jar returned status 404

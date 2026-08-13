@@ -2,3 +2,4 @@
 1.6.3.6.05131			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/octopus-without/1.6.3.6.05131/octopus-without-1.6.3.6.05131.jar returned status 404
 1.6.3.8.06192			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/octopus-without/1.6.3.8.06192/octopus-without-1.6.3.8.06192.jar returned status 404
 2.5.10.5.10141			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/octopus-without/2.5.10.5.10141/octopus-without-2.5.10.5.10141.jar returned status 404
+2.6.5.10.06021		2026-08-10T08:47:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/octopus-without/2.6.5.10.06021/octopus-without-2.6.5.10.06021.jar returned status 404
