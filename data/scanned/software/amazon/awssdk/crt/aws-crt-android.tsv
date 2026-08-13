@@ -215,4 +215,7 @@
 0.47.2		2026-06-25T01:45:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/crt/aws-crt-android/0.47.2/aws-crt-android-0.47.2.jar returned status 404
 0.47.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/crt/aws-crt-android/0.47.3/aws-crt-android-0.47.3.jar returned status 404
 0.48.0		2026-07-16T19:47:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/crt/aws-crt-android/0.48.0/aws-crt-android-0.48.0.jar returned status 404
+0.48.1		2026-07-21T23:33:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/crt/aws-crt-android/0.48.1/aws-crt-android-0.48.1.jar returned status 404
+0.48.2		2026-07-28T01:26:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/crt/aws-crt-android/0.48.2/aws-crt-android-0.48.2.jar returned status 404
+0.48.3		2026-07-31T18:08:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/crt/aws-crt-android/0.48.3/aws-crt-android-0.48.3.jar returned status 404
 null.null.null			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/crt/aws-crt-android/null.null.null/aws-crt-android-null.null.null.jar returned status 404
