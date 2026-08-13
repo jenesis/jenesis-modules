@@ -834,6 +834,7 @@
 9.0.3	named	com.datastax.oss	pulsar-jms-all	2026-08-01T00:09:27Z	2.0.77.Final
 1.1.1	named	com.google.cloud.datalineage	producerclient	2026-08-01T02:22:05Z	2.0.70.Final
 4.138.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-03T17:33:45Z	2.0.72.Final
+0.16.1	named	com.spotify.confidence	openfeature-provider-local	2026-08-03T17:45:18Z	2.0.72.Final
 4.138.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-04T14:00:54Z	2.0.72.Final
 4.138.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-05T11:37:30Z	2.0.72.Final
 1.0.0	named	io.github.austinmreppert	fabric-hadoop-abfs-auth-provider	2026-08-06T19:17:14Z	2.0.78.Final
