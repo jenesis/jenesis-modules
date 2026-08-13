@@ -1,3 +1,4 @@
+v1-rev20260727-2.0.0	automatic	com.google.apis	google-api-services-servicenetworking
 v1-rev20260406-2.0.0	automatic	com.google.apis	google-api-services-servicenetworking
 v1-rev20260223-2.0.0	automatic	com.google.apis	google-api-services-servicenetworking
 v1-rev20251113-2.0.0	automatic	com.google.apis	google-api-services-servicenetworking
@@ -154,6 +155,7 @@ v1-rev20190708-1.29.2	automatic	com.google.apis	google-api-services-servicenetwo
 v1-rev20190708-1.28.0	automatic	com.google.apis	google-api-services-servicenetworking
 v1-rev20190607-1.30.1	automatic	com.google.apis	google-api-services-servicenetworking
 v1-rev20190607-1.29.2	automatic	com.google.apis	google-api-services-servicenetworking
+v1beta-rev20260727-2.0.0	automatic	com.google.apis	google-api-services-servicenetworking
 v1beta-rev20260406-2.0.0	automatic	com.google.apis	google-api-services-servicenetworking
 v1beta-rev20260223-2.0.0	automatic	com.google.apis	google-api-services-servicenetworking
 v1beta-rev20251027-2.0.0	automatic	com.google.apis	google-api-services-servicenetworking

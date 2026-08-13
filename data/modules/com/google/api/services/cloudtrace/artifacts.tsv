@@ -1,3 +1,4 @@
+v2-rev20260724-2.0.0	automatic	com.google.apis	google-api-services-cloudtrace
 v2-rev20260612-2.0.0	automatic	com.google.apis	google-api-services-cloudtrace
 v2-rev20260520-2.0.0	automatic	com.google.apis	google-api-services-cloudtrace
 v2-rev20260508-2.0.0	automatic	com.google.apis	google-api-services-cloudtrace
@@ -56,6 +57,7 @@ v2beta1-rev20200309-1.30.9	automatic	com.google.apis	google-api-services-cloudtr
 v2beta1-rev20200225-1.30.9	automatic	com.google.apis	google-api-services-cloudtrace
 v2beta1-rev20200218-1.30.8	automatic	com.google.apis	google-api-services-cloudtrace
 v2beta1-rev20200212-1.30.8	automatic	com.google.apis	google-api-services-cloudtrace
+v1-rev20260724-2.0.0	automatic	com.google.apis	google-api-services-cloudtrace
 v1-rev20260612-2.0.0	automatic	com.google.apis	google-api-services-cloudtrace
 v1-rev20260529-2.0.0	automatic	com.google.apis	google-api-services-cloudtrace
 v1-rev20260508-2.0.0	automatic	com.google.apis	google-api-services-cloudtrace
