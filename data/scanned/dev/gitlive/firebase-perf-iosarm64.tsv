@@ -40,4 +40,6 @@
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-perf-iosarm64/2.5.0/firebase-perf-iosarm64-2.5.0.jar returned status 404
 2.5.0	metadata	2026-07-16T06:32:36Z	
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-perf-iosarm64/2.6.0/firebase-perf-iosarm64-2.6.0.jar returned status 404
+2.6.0	metadata	2026-08-05T15:14:23Z	
 3.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-perf-iosarm64/3.0.0-alpha01/firebase-perf-iosarm64-3.0.0-alpha01.jar returned status 404
+3.0.0-alpha01	metadata	2026-08-06T00:56:46Z	

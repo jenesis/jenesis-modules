@@ -1,0 +1,4 @@
+1.0.0		2026-08-03T10:13:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/yarucompose/yaru-iosarm64/1.0.0/yaru-iosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-08-03T10:13:26Z	
+1.0.1		2026-08-03T10:37:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/yarucompose/yaru-iosarm64/1.0.1/yaru-iosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-08-03T10:37:40Z	

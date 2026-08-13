@@ -1,3 +1,4 @@
 1.0.0-beta04		2026-07-09T16:51:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ohs/fhir/fhir-path-r5-iossimulatorarm64/1.0.0-beta04/fhir-path-r5-iossimulatorarm64-1.0.0-beta04.jar returned status 404
 1.0.0-beta04	metadata	2026-07-09T16:51:27Z	
 1.0.0-beta05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ohs/fhir/fhir-path-r5-iossimulatorarm64/1.0.0-beta05/fhir-path-r5-iossimulatorarm64-1.0.0-beta05.jar returned status 404
+1.0.0-beta05	metadata	2026-08-04T18:35:33Z	

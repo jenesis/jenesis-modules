@@ -49,3 +49,4 @@
 2.5.3		2026-05-29T13:07:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/prepared/runner-kotest-watchosarm64/2.5.3/runner-kotest-watchosarm64-2.5.3.jar returned status 404
 2.5.3	metadata	2026-05-29T13:07:26Z	
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/opensavvy/prepared/runner-kotest-watchosarm64/2.6.0/runner-kotest-watchosarm64-2.6.0.jar returned status 404
+2.6.0	metadata	2026-07-31T11:20:34Z	

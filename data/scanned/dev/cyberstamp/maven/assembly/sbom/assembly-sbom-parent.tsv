@@ -1,0 +1,2 @@
+0.0.1		2026-08-02T14:48:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/cyberstamp/maven/assembly/sbom/assembly-sbom-parent/0.0.1/assembly-sbom-parent-0.0.1.jar returned status 404
+0.1.0		2026-08-04T07:37:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/cyberstamp/maven/assembly/sbom/assembly-sbom-parent/0.1.0/assembly-sbom-parent-0.1.0.jar returned status 404

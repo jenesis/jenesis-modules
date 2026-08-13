@@ -1,0 +1,4 @@
+2.0.0		2026-07-30T10:00:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/flyfish/unilog-bom/2.0.0/unilog-bom-2.0.0.jar returned status 404
+2.1.0		2026-07-31T02:24:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/flyfish/unilog-bom/2.1.0/unilog-bom-2.1.0.jar returned status 404
+2.2.0		2026-07-31T03:39:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/flyfish/unilog-bom/2.2.0/unilog-bom-2.2.0.jar returned status 404
+2.2.1		2026-08-05T15:53:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/flyfish/unilog-bom/2.2.1/unilog-bom-2.2.1.jar returned status 404

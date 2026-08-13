@@ -1,0 +1,6 @@
+0.0.1		2026-08-06T23:14:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hsbrysk/aho-corasick-macosarm64/0.0.1/aho-corasick-macosarm64-0.0.1.jar returned status 404
+0.0.1	metadata	2026-08-06T23:14:00Z	
+0.1.0		2026-08-07T02:28:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hsbrysk/aho-corasick-macosarm64/0.1.0/aho-corasick-macosarm64-0.1.0.jar returned status 404
+0.1.0	metadata	2026-08-07T02:28:31Z	
+0.2.0		2026-08-07T08:18:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hsbrysk/aho-corasick-macosarm64/0.2.0/aho-corasick-macosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-08-07T08:18:53Z	

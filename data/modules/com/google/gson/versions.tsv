@@ -5073,3 +5073,4 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.4.0-1-flink-1.19	named	io.github.cobble-project	cobble-flink-dist	2026-08-10T04:26:39Z	2.10.1
 0.4.0-1-flink-2.0	named	io.github.cobble-project	cobble-flink-dist	2026-08-10T04:29:16Z	2.10.1
 0.4.0-1-flink-2.1	named	io.github.cobble-project	cobble-flink-dist	2026-08-10T04:31:59Z	2.10.1
+0.17.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-08-10T23:54:51Z	2.11.0

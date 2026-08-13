@@ -146,3 +146,4 @@
 8.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/monosoul/jooq-docker/dev.monosoul.jooq-docker.gradle.plugin/8.0.7/dev.monosoul.jooq-docker.gradle.plugin-8.0.7.jar returned status 404
 8.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/monosoul/jooq-docker/dev.monosoul.jooq-docker.gradle.plugin/8.0.8/dev.monosoul.jooq-docker.gradle.plugin-8.0.8.jar returned status 404
 8.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/monosoul/jooq-docker/dev.monosoul.jooq-docker.gradle.plugin/8.0.9/dev.monosoul.jooq-docker.gradle.plugin-8.0.9.jar returned status 404
+9.0.0		2026-08-10T17:42:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/monosoul/jooq-docker/dev.monosoul.jooq-docker.gradle.plugin/9.0.0/dev.monosoul.jooq-docker.gradle.plugin-9.0.0.jar returned status 404

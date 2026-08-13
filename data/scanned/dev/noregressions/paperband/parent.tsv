@@ -1,0 +1,3 @@
+0.0.1		2026-08-09T12:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/noregressions/paperband/parent/0.0.1/parent-0.0.1.jar returned status 404
+0.0.2		2026-08-09T17:38:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/noregressions/paperband/parent/0.0.2/parent-0.0.2.jar returned status 404
+0.0.3		2026-08-09T18:29:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/noregressions/paperband/parent/0.0.3/parent-0.0.3.jar returned status 404

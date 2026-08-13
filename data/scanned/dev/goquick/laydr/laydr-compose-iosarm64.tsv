@@ -2,3 +2,5 @@
 0.1.0	metadata	2026-06-28T21:46:50Z	
 0.2.0		2026-06-29T21:11:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/goquick/laydr/laydr-compose-iosarm64/0.2.0/laydr-compose-iosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2026-06-29T21:11:42Z	
+0.3.0		2026-08-09T22:40:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/goquick/laydr/laydr-compose-iosarm64/0.3.0/laydr-compose-iosarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-08-09T22:40:05Z	
