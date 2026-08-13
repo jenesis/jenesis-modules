@@ -15,3 +15,4 @@
 1.5.0		2026-06-23T18:46:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/openapi-kmp-gen/companion-mingwx64/1.5.0/companion-mingwx64-1.5.0.jar returned status 404
 1.6.0-RC01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/openapi-kmp-gen/companion-mingwx64/1.6.0-RC01/companion-mingwx64-1.6.0-RC01.jar returned status 404
 1.6.0-RC02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/openapi-kmp-gen/companion-mingwx64/1.6.0-RC02/companion-mingwx64-1.6.0-RC02.jar returned status 404
+1.6.0-RC03		2026-08-04T11:51:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/openapi-kmp-gen/companion-mingwx64/1.6.0-RC03/companion-mingwx64-1.6.0-RC03.jar returned status 404

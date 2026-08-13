@@ -40,3 +40,4 @@
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linecorp/planetkit/planetkit/6.1.0/planetkit-6.1.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linecorp/planetkit/planetkit/6.2.0/planetkit-6.2.0.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linecorp/planetkit/planetkit/7.0.0/planetkit-7.0.0.jar returned status 404
+7.1.0		2026-08-04T01:21:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linecorp/planetkit/planetkit/7.1.0/planetkit-7.1.0.jar returned status 404

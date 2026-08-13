@@ -2,6 +2,7 @@
 0.1.0-b2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.1.0-b2/jmicro-aggregator-0.1.0-b2.jar returned status 404
 0.1.0-b3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.1.0-b3/jmicro-aggregator-0.1.0-b3.jar returned status 404
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.1.1/jmicro-aggregator-0.1.1.jar returned status 404
+0.1.10		2026-08-03T05:45:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.1.10/jmicro-aggregator-0.1.10.jar returned status 404
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.1.2/jmicro-aggregator-0.1.2.jar returned status 404
 0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.1.3/jmicro-aggregator-0.1.3.jar returned status 404
 0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.1.4/jmicro-aggregator-0.1.4.jar returned status 404
@@ -11,6 +12,7 @@
 0.1.9		2026-06-04T06:12:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.1.9/jmicro-aggregator-0.1.9.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.2.0/jmicro-aggregator-0.2.0.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.2.1/jmicro-aggregator-0.2.1.jar returned status 404
+0.2.10		2026-08-03T05:24:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.2.10/jmicro-aggregator-0.2.10.jar returned status 404
 0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.2.2/jmicro-aggregator-0.2.2.jar returned status 404
 0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.2.3/jmicro-aggregator-0.2.3.jar returned status 404
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/jiangtj/micro/jmicro-aggregator/0.2.4/jmicro-aggregator-0.2.4.jar returned status 404

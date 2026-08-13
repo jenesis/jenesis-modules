@@ -3,4 +3,8 @@
 1.0.1		2026-07-20T16:52:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/livewire-kt/livewire/plugin-network-core-iossimulatorarm64/1.0.1/plugin-network-core-iossimulatorarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2026-07-20T16:52:23Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/livewire-kt/livewire/plugin-network-core-iossimulatorarm64/1.0.2/plugin-network-core-iossimulatorarm64-1.0.2.jar returned status 404
+1.0.2	metadata	2026-07-23T00:45:46Z	
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/livewire-kt/livewire/plugin-network-core-iossimulatorarm64/1.0.3/plugin-network-core-iossimulatorarm64-1.0.3.jar returned status 404
+1.0.3	metadata	2026-07-27T15:36:33Z	
+1.0.4		2026-08-07T16:21:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/livewire-kt/livewire/plugin-network-core-iossimulatorarm64/1.0.4/plugin-network-core-iossimulatorarm64-1.0.4.jar returned status 404
+1.0.4	metadata	2026-08-07T16:21:38Z	

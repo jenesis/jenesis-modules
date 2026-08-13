@@ -5269,6 +5269,8 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.730.36	named	com.yahoo.vespa	config-application-package	2026-07-28T04:28:51Z	2.22
 8.731.17	named	com.yahoo.vespa	config-application-package	2026-07-29T17:16:56Z	2.22
 7.5.0	named	org.mock-server	mockserver-k8s-webhook	2026-07-29T17:47:14Z	2.22
+7.2.3.21	named	com.kinetica	kinetica-jdbc	2026-07-29T19:59:11Z	2.18.8
+7.2.3.22	named	com.kinetica	kinetica-jdbc	2026-07-31T05:10:38Z	2.22
 11.5.1-beta-3	named	fr.inria.gforge.spoon	spoon-core	2026-08-02T03:41:42Z	2.22
 10.2.0	named	org.telegram	telegrambots-abilities	2026-08-02T22:47:00Z	2.17.2
 10.2.0	named	org.telegram	telegrambots-client	2026-08-02T22:47:00Z	2.17.2
@@ -5285,5 +5287,8 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 1.8	named	io.github.vdaburon	junit-reporter-kpi-from-jmeter-report-csv	2026-08-05T07:43:14Z	2.22
 8.733.3	named	com.yahoo.vespa	config-application-package	2026-08-05T08:39:44Z	2.22
 4.0.21	named	io.github.techelliiptica	merv-client-api	2026-08-05T10:44:54Z	2.15.2
+1.0.16	named	com.janeluo	luban-rds-bin	2026-08-06T01:28:04Z	2.13.5
+1.0.17	named	com.janeluo	luban-rds-bin	2026-08-06T02:56:47Z	2.13.5
+1.0.18	named	com.janeluo	luban-rds-bin	2026-08-07T07:48:24Z	2.13.5
 8.736.12	named	com.yahoo.vespa	config-application-package	2026-08-10T02:06:27Z	2.22
 0.65	named	com.testfabrik.webmate.sdk	java-sdk	2026-08-10T13:51:41Z	2.15.0

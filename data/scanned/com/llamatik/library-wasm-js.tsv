@@ -7,6 +7,7 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/llamatik/library-wasm-js/1.0.0/library-wasm-js-1.0.0.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/llamatik/library-wasm-js/1.1.0/library-wasm-js-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/llamatik/library-wasm-js/1.1.1/library-wasm-js-1.1.1.jar returned status 404
+1.10.0		2026-08-11T12:31:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/llamatik/library-wasm-js/1.10.0/library-wasm-js-1.10.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/llamatik/library-wasm-js/1.2.0/library-wasm-js-1.2.0.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/llamatik/library-wasm-js/1.3.0/library-wasm-js-1.3.0.jar returned status 404
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/llamatik/library-wasm-js/1.4.0/library-wasm-js-1.4.0.jar returned status 404
