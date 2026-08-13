@@ -59,6 +59,7 @@
 2.7.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.7.21/superwall-compose-2.7.21.jar returned status 404
 2.7.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.7.22/superwall-compose-2.7.22.jar returned status 404
 2.7.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.7.23/superwall-compose-2.7.23.jar returned status 404
+2.7.24		2026-08-11T13:50:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.7.24/superwall-compose-2.7.24.jar returned status 404
 2.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.7.3/superwall-compose-2.7.3.jar returned status 404
 2.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.7.4/superwall-compose-2.7.4.jar returned status 404
 2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.7.5/superwall-compose-2.7.5.jar returned status 404
@@ -67,3 +68,4 @@
 2.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.7.8/superwall-compose-2.7.8.jar returned status 404
 2.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.7.9/superwall-compose-2.7.9.jar returned status 404
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.8.0/superwall-compose-2.8.0.jar returned status 404
+2.8.1		2026-08-11T15:37:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.8.1/superwall-compose-2.8.1.jar returned status 404

@@ -24,6 +24,7 @@
 1.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/suprsend/native/1.2.3/native-1.2.3.jar returned status 404
 1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/suprsend/native/1.2.7/native-1.2.7.jar returned status 404
 1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/suprsend/native/1.2.8/native-1.2.8.jar returned status 404
+1.2.9		2026-08-03T15:36:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/suprsend/native/1.2.9/native-1.2.9.jar returned status 404
 2.0.0		2026-06-02T15:09:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/suprsend/native/2.0.0/native-2.0.0.jar returned status 404
 2.0.1		2026-06-03T15:31:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/suprsend/native/2.0.1/native-2.0.1.jar returned status 404
 2.0.2		2026-06-11T13:56:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/suprsend/native/2.0.2/native-2.0.2.jar returned status 404

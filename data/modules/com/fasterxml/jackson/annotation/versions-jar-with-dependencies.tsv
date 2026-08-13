@@ -5285,3 +5285,4 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.733.3	named	com.yahoo.vespa	config-application-package	2026-08-05T08:39:44Z	2.22
 4.0.21	named	io.github.techelliiptica	merv-client-api	2026-08-05T10:44:54Z	2.15.2
 8.736.12	named	com.yahoo.vespa	config-application-package	2026-08-10T02:06:27Z	2.22
+0.65	named	com.testfabrik.webmate.sdk	java-sdk	2026-08-10T13:51:41Z	2.15.0

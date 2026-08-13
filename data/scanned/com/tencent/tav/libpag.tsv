@@ -540,6 +540,9 @@
 4.4.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.4.59/libpag-4.4.59.jar returned status 404
 4.4.59-harfbuzz			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.4.59-harfbuzz/libpag-4.4.59-harfbuzz.jar returned status 404
 4.4.59-noffavc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.4.59-noffavc/libpag-4.4.59-noffavc.jar returned status 404
+4.4.60		2026-08-03T07:14:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.4.60/libpag-4.4.60.jar returned status 404
+4.4.60-harfbuzz		2026-08-03T07:04:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.4.60-harfbuzz/libpag-4.4.60-harfbuzz.jar returned status 404
+4.4.60-noffavc		2026-08-03T06:53:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.4.60-noffavc/libpag-4.4.60-noffavc.jar returned status 404
 4.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.4.8/libpag-4.4.8.jar returned status 404
 4.4.8-harfbuzz			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.4.8-harfbuzz/libpag-4.4.8-harfbuzz.jar returned status 404
 4.4.8-noffavc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.4.8-noffavc/libpag-4.4.8-noffavc.jar returned status 404
@@ -612,3 +615,6 @@
 4.5.84			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.5.84/libpag-4.5.84.jar returned status 404
 4.5.84-harfbuzz			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.5.84-harfbuzz/libpag-4.5.84-harfbuzz.jar returned status 404
 4.5.84-noffavc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.5.84-noffavc/libpag-4.5.84-noffavc.jar returned status 404
+4.5.85		2026-08-03T07:14:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.5.85/libpag-4.5.85.jar returned status 404
+4.5.85-harfbuzz		2026-08-03T07:05:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.5.85-harfbuzz/libpag-4.5.85-harfbuzz.jar returned status 404
+4.5.85-noffavc		2026-08-03T06:56:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag/4.5.85-noffavc/libpag-4.5.85-noffavc.jar returned status 404
