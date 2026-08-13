@@ -56,6 +56,14 @@
 3.3.0	metadata	2025-12-27T12:19:00Z	
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kotlinx-interoperable-exports-tvossimulatorarm64/3.3.1/kotlinx-interoperable-exports-tvossimulatorarm64-3.3.1.jar returned status 404
 3.3.1	metadata	2025-12-27T21:09:07Z	
+3.3.10		2026-07-19T01:24:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kotlinx-interoperable-exports-tvossimulatorarm64/3.3.10/kotlinx-interoperable-exports-tvossimulatorarm64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:24:08Z	
+3.3.11		2026-07-19T01:53:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kotlinx-interoperable-exports-tvossimulatorarm64/3.3.11/kotlinx-interoperable-exports-tvossimulatorarm64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:53:36Z	
+3.3.12		2026-07-19T02:10:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kotlinx-interoperable-exports-tvossimulatorarm64/3.3.12/kotlinx-interoperable-exports-tvossimulatorarm64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:10:22Z	
+3.3.13		2026-08-06T00:27:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kotlinx-interoperable-exports-tvossimulatorarm64/3.3.13/kotlinx-interoperable-exports-tvossimulatorarm64-3.3.13.jar returned status 404
+3.3.13	metadata	2026-08-06T00:27:06Z	
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kotlinx-interoperable-exports-tvossimulatorarm64/3.3.2/kotlinx-interoperable-exports-tvossimulatorarm64-3.3.2.jar returned status 404
 3.3.2	metadata	2025-12-27T21:42:21Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kotlinx-interoperable-exports-tvossimulatorarm64/3.3.3/kotlinx-interoperable-exports-tvossimulatorarm64-3.3.3.jar returned status 404
@@ -70,3 +78,5 @@
 3.3.7	metadata	2026-02-27T10:37:33Z	
 3.3.8		2026-05-22T12:56:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kotlinx-interoperable-exports-tvossimulatorarm64/3.3.8/kotlinx-interoperable-exports-tvossimulatorarm64-3.3.8.jar returned status 404
 3.3.8	metadata	2026-05-22T12:56:09Z	
+3.3.9		2026-07-19T00:55:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kotlinx-interoperable-exports-tvossimulatorarm64/3.3.9/kotlinx-interoperable-exports-tvossimulatorarm64-3.3.9.jar returned status 404
+3.3.9	metadata	2026-07-19T00:55:18Z	

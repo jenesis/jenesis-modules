@@ -48,6 +48,12 @@
 3.2.4	metadata	2025-09-29T14:21:05Z	
 3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-sse-macosx64/3.2.5/kiota-sse-macosx64-3.2.5.jar returned status 404
 3.2.5	metadata	2025-09-29T23:58:32Z	
+3.3.10		2026-07-19T01:29:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-sse-macosx64/3.3.10/kiota-sse-macosx64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:29:09Z	
+3.3.11		2026-07-19T01:57:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-sse-macosx64/3.3.11/kiota-sse-macosx64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:57:59Z	
+3.3.12		2026-07-19T02:16:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-sse-macosx64/3.3.12/kiota-sse-macosx64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:16:04Z	
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-sse-macosx64/3.3.2/kiota-sse-macosx64-3.3.2.jar returned status 404
 3.3.2	metadata	2025-12-27T22:01:16Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-sse-macosx64/3.3.3/kiota-sse-macosx64-3.3.3.jar returned status 404

@@ -16,6 +16,14 @@
 3.2.4	metadata	2025-09-29T14:20:59Z	
 3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-file-picker-virtual-macosarm64/3.2.5/kiota-file-picker-virtual-macosarm64-3.2.5.jar returned status 404
 3.2.5	metadata	2025-09-29T23:58:25Z	
+3.3.10		2026-07-19T01:29:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-file-picker-virtual-macosarm64/3.3.10/kiota-file-picker-virtual-macosarm64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:29:21Z	
+3.3.11		2026-07-19T01:57:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-file-picker-virtual-macosarm64/3.3.11/kiota-file-picker-virtual-macosarm64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:57:57Z	
+3.3.12		2026-07-19T02:16:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-file-picker-virtual-macosarm64/3.3.12/kiota-file-picker-virtual-macosarm64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:15:52Z	
+3.3.13		2026-08-06T00:32:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-file-picker-virtual-macosarm64/3.3.13/kiota-file-picker-virtual-macosarm64-3.3.13.jar returned status 404
+3.3.13	metadata	2026-08-06T00:32:10Z	
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-file-picker-virtual-macosarm64/3.3.2/kiota-file-picker-virtual-macosarm64-3.3.2.jar returned status 404
 3.3.2	metadata	2025-12-27T22:01:10Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kiota-file-picker-virtual-macosarm64/3.3.3/kiota-file-picker-virtual-macosarm64-3.3.3.jar returned status 404
