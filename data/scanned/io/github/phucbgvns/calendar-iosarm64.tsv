@@ -31,4 +31,6 @@
 26.26.01		2026-06-24T05:35:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/phucbgvns/calendar-iosarm64/26.26.01/calendar-iosarm64-26.26.01.jar returned status 404
 26.26.01	metadata	2026-06-24T05:35:25Z	
 26.31.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/phucbgvns/calendar-iosarm64/26.31.01/calendar-iosarm64-26.31.01.jar returned status 404
+26.31.01	metadata	2026-07-27T06:40:00Z	
 26.31.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/phucbgvns/calendar-iosarm64/26.31.02/calendar-iosarm64-26.31.02.jar returned status 404
+26.31.02	metadata	2026-07-30T15:49:41Z	

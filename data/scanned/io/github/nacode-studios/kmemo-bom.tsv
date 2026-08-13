@@ -1,0 +1,7 @@
+0.5.0		2026-07-21T22:59:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nacode-studios/kmemo-bom/0.5.0/kmemo-bom-0.5.0.jar returned status 404
+1.0.0		2026-07-22T09:43:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nacode-studios/kmemo-bom/1.0.0/kmemo-bom-1.0.0.jar returned status 404
+1.1.0		2026-07-31T08:24:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nacode-studios/kmemo-bom/1.1.0/kmemo-bom-1.1.0.jar returned status 404
+2.0.0		2026-07-31T16:21:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nacode-studios/kmemo-bom/2.0.0/kmemo-bom-2.0.0.jar returned status 404
+2.1.0		2026-08-02T01:31:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nacode-studios/kmemo-bom/2.1.0/kmemo-bom-2.1.0.jar returned status 404
+2.2.0		2026-08-07T12:27:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nacode-studios/kmemo-bom/2.2.0/kmemo-bom-2.2.0.jar returned status 404
+2.3.0		2026-08-07T17:16:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nacode-studios/kmemo-bom/2.3.0/kmemo-bom-2.3.0.jar returned status 404

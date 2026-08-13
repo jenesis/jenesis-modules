@@ -6,3 +6,7 @@
 2.5.1-1.5.11	named	org.bytedeco	pytorch-platform-gpu	2024-11-16T15:54:14Z	
 2.7.1-1.5.12	named	org.bytedeco	pytorch-platform-gpu	2025-06-30T19:15:19Z	
 2.10.0-1.5.13	named	org.bytedeco	pytorch-platform-gpu	2026-02-20T15:44:52Z	
+2.13.0-1.5.14-beta-07	named	io.github.mullerhai	pytorch-platform-gpu	2026-08-03T04:34:17Z	
+2.13.0-1.5.14-beta-08	named	io.github.mullerhai	pytorch-platform-gpu	2026-08-03T13:22:06Z	
+2.13.0-1.5.14-beta-08.01	named	io.github.mullerhai	pytorch-platform-gpu	2026-08-07T08:15:33Z	
+2.13.0-1.5.14-beta-08.02	named	io.github.mullerhai	pytorch-platform-gpu	2026-08-07T08:50:03Z	

@@ -7,6 +7,7 @@
 0.15.0		2026-06-16T06:34:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qbsstg/protocol-runtime/0.15.0/protocol-runtime-0.15.0.jar returned status 404
 0.16.0		2026-06-16T10:50:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qbsstg/protocol-runtime/0.16.0/protocol-runtime-0.16.0.jar returned status 404
 0.17.0		2026-06-17T07:41:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qbsstg/protocol-runtime/0.17.0/protocol-runtime-0.17.0.jar returned status 404
+0.18.0		2026-06-23T04:23:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qbsstg/protocol-runtime/0.18.0/protocol-runtime-0.18.0.jar returned status 404
 0.2.0		2026-06-02T04:18:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qbsstg/protocol-runtime/0.2.0/protocol-runtime-0.2.0.jar returned status 404
 0.3.0		2026-06-02T10:07:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qbsstg/protocol-runtime/0.3.0/protocol-runtime-0.3.0.jar returned status 404
 0.4.0		2026-06-03T03:35:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qbsstg/protocol-runtime/0.4.0/protocol-runtime-0.4.0.jar returned status 404

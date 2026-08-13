@@ -1,0 +1,3 @@
+0.1.0-alpha.1		2026-08-02T15:20:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/novohit/pm-spring-pf4j/0.1.0-alpha.1/pm-spring-pf4j-0.1.0-alpha.1.jar returned status 404
+0.1.0-alpha.2		2026-08-02T09:29:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/novohit/pm-spring-pf4j/0.1.0-alpha.2/pm-spring-pf4j-0.1.0-alpha.2.jar returned status 404
+0.1.0-alpha.3		2026-08-10T16:08:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/novohit/pm-spring-pf4j/0.1.0-alpha.3/pm-spring-pf4j-0.1.0-alpha.3.jar returned status 404

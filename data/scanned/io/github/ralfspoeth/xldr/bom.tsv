@@ -1,0 +1,16 @@
+0.10		2026-07-28T13:35:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.10/bom-0.10.jar returned status 404
+0.11		2026-07-28T21:40:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.11/bom-0.11.jar returned status 404
+0.12		2026-07-29T10:46:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.12/bom-0.12.jar returned status 404
+0.13		2026-07-29T12:35:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.13/bom-0.13.jar returned status 404
+0.14		2026-07-29T18:02:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.14/bom-0.14.jar returned status 404
+0.15		2026-07-30T10:58:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.15/bom-0.15.jar returned status 404
+0.16		2026-08-04T18:21:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.16/bom-0.16.jar returned status 404
+0.17		2026-08-06T22:09:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.17/bom-0.17.jar returned status 404
+0.18		2026-08-08T15:23:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.18/bom-0.18.jar returned status 404
+0.19		2026-08-08T19:19:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.19/bom-0.19.jar returned status 404
+0.20		2026-08-08T23:12:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.20/bom-0.20.jar returned status 404
+0.21		2026-08-09T13:38:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.21/bom-0.21.jar returned status 404
+0.6		2026-07-26T11:54:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.6/bom-0.6.jar returned status 404
+0.7		2026-07-26T12:20:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.7/bom-0.7.jar returned status 404
+0.8		2026-07-27T05:47:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.8/bom-0.8.jar returned status 404
+0.9		2026-07-27T09:39:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ralfspoeth/xldr/bom/0.9/bom-0.9.jar returned status 404

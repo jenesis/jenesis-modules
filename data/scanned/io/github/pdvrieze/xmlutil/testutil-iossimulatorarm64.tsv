@@ -25,6 +25,7 @@
 0.90.4		2026-06-30T19:40:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-iossimulatorarm64/0.90.4/testutil-iossimulatorarm64-0.90.4.jar returned status 404
 0.90.4	metadata	2026-06-30T19:40:19Z	
 0.90.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-iossimulatorarm64/0.90.5/testutil-iossimulatorarm64-0.90.5.jar returned status 404
+0.90.5	metadata	2026-08-08T15:24:07Z	
 0.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-iossimulatorarm64/0.91.0/testutil-iossimulatorarm64-0.91.0.jar returned status 404
 0.91.0	metadata	2025-04-01T10:12:01Z	
 0.91.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-iossimulatorarm64/0.91.0-RC1/testutil-iossimulatorarm64-0.91.0-RC1.jar returned status 404
@@ -44,3 +45,4 @@
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-iossimulatorarm64/1.0.1/testutil-iossimulatorarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2026-07-08T20:38:56Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/testutil-iossimulatorarm64/1.0.2/testutil-iossimulatorarm64-1.0.2.jar returned status 404
+1.0.2	metadata	2026-08-08T15:00:33Z	
