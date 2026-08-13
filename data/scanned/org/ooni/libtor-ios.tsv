@@ -1,0 +1,5 @@
+0.0.0-217cf636		2026-07-23T08:58:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libtor-ios/0.0.0-217cf636/libtor-ios-0.0.0-217cf636.jar returned status 404
+0.0.0-51fd60f6		2026-07-23T08:58:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libtor-ios/0.0.0-51fd60f6/libtor-ios-0.0.0-51fd60f6.jar returned status 404
+3.30.0		2026-07-27T15:53:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libtor-ios/3.30.0/libtor-ios-3.30.0.jar returned status 404
+3.30.0-alpha		2026-07-24T15:28:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libtor-ios/3.30.0-alpha/libtor-ios-3.30.0-alpha.jar returned status 404
+3.30.0-beta		2026-07-26T20:28:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libtor-ios/3.30.0-beta/libtor-ios-3.30.0-beta.jar returned status 404

@@ -20,3 +20,4 @@
 3.5.0.0		2026-02-10T23:28:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-system-templates/3.5.0.0/opensearch-system-templates-3.5.0.0.jar returned status 404
 3.6.0.0		2026-04-07T23:12:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-system-templates/3.6.0.0/opensearch-system-templates-3.6.0.0.jar returned status 404
 3.7.0.0		2026-06-09T22:47:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-system-templates/3.7.0.0/opensearch-system-templates-3.7.0.0.jar returned status 404
+3.8.0.0		2026-08-05T00:20:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-system-templates/3.8.0.0/opensearch-system-templates-3.8.0.0.jar returned status 404

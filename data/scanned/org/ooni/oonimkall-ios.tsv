@@ -1,0 +1,6 @@
+0.0.0-217cf636		2026-07-23T08:58:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/0.0.0-217cf636/oonimkall-ios-0.0.0-217cf636.jar returned status 404
+0.0.0-51fd60f6		2026-07-23T08:58:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/0.0.0-51fd60f6/oonimkall-ios-0.0.0-51fd60f6.jar returned status 404
+3.30.0		2026-07-27T15:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/3.30.0/oonimkall-ios-3.30.0.jar returned status 404
+3.30.0-alpha		2026-07-24T15:28:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/3.30.0-alpha/oonimkall-ios-3.30.0-alpha.jar returned status 404
+3.30.0-beta		2026-07-26T20:28:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/3.30.0-beta/oonimkall-ios-3.30.0-beta.jar returned status 404
+b1687ec8		2026-07-19T12:34:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/b1687ec8/oonimkall-ios-b1687ec8.jar returned status 404

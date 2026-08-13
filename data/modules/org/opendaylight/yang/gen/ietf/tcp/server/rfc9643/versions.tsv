@@ -25,3 +25,6 @@
 2.0.2	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-server	2026-03-25T11:37:10Z	
 1.0.5	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-server	2026-06-09T15:16:22Z	
 2.0.3	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-server	2026-06-10T03:10:04Z	
+1.0.6	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-server	2026-08-04T11:15:50Z	
+14.0.22	automatic	org.opendaylight.mdsal.binding.model.ietf	rfc9643-ietf-tcp-server	2026-08-04T11:30:11Z	
+2.0.4	automatic	org.opendaylight.ietf.model	rfc9643-ietf-tcp-server	2026-08-04T15:27:52Z	

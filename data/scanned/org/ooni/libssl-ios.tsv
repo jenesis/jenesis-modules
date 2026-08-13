@@ -1,0 +1,4 @@
+0.0.0-51fd60f6		2026-07-23T08:58:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libssl-ios/0.0.0-51fd60f6/libssl-ios-0.0.0-51fd60f6.jar returned status 404
+3.30.0		2026-07-27T15:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libssl-ios/3.30.0/libssl-ios-3.30.0.jar returned status 404
+3.30.0-alpha		2026-07-24T15:28:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libssl-ios/3.30.0-alpha/libssl-ios-3.30.0-alpha.jar returned status 404
+3.30.0-beta		2026-07-26T20:28:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libssl-ios/3.30.0-beta/libssl-ios-3.30.0-beta.jar returned status 404

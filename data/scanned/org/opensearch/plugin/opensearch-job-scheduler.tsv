@@ -39,3 +39,4 @@
 3.5.0.0		2026-02-10T23:28:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-job-scheduler/3.5.0.0/opensearch-job-scheduler-3.5.0.0.jar returned status 404
 3.6.0.0		2026-04-07T23:12:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-job-scheduler/3.6.0.0/opensearch-job-scheduler-3.6.0.0.jar returned status 404
 3.7.0.0		2026-06-09T22:47:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-job-scheduler/3.7.0.0/opensearch-job-scheduler-3.7.0.0.jar returned status 404
+3.8.0.0		2026-08-05T00:20:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/plugin/opensearch-job-scheduler/3.8.0.0/opensearch-job-scheduler-3.8.0.0.jar returned status 404

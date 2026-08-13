@@ -409,3 +409,4 @@
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle4/4.0.4/solon-base-bundle4-4.0.4.jar returned status 404
 4.0.4-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle4/4.0.4-M1/solon-base-bundle4-4.0.4-M1.jar returned status 404
 4.0.4-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle4/4.0.4-M2/solon-base-bundle4-4.0.4-M2.jar returned status 404
+4.0.5-M1		2026-08-05T14:45:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/bundle/solon-base-bundle4/4.0.5-M1/solon-base-bundle4-4.0.5-M1.jar returned status 404

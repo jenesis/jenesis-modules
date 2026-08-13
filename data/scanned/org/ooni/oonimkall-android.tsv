@@ -1,0 +1,6 @@
+217cf636		2026-07-23T09:01:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-android/217cf636/oonimkall-android-217cf636.jar returned status 404
+3.30.0		2026-07-27T15:48:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-android/3.30.0/oonimkall-android-3.30.0.jar returned status 404
+3.30.0-alpha		2026-07-24T15:34:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-android/3.30.0-alpha/oonimkall-android-3.30.0-alpha.jar returned status 404
+3.30.0-beta		2026-07-26T20:33:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-android/3.30.0-beta/oonimkall-android-3.30.0-beta.jar returned status 404
+51fd60f6		2026-07-23T08:59:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-android/51fd60f6/oonimkall-android-51fd60f6.jar returned status 404
+b1687ec8		2026-07-19T12:36:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-android/b1687ec8/oonimkall-android-b1687ec8.jar returned status 404

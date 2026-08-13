@@ -30,3 +30,4 @@
 0.20.5		2026-06-29T05:47:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/occurrent-bom/0.20.5/occurrent-bom-0.20.5.jar returned status 404
 0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/occurrent-bom/0.30.0/occurrent-bom-0.30.0.jar returned status 404
 0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/occurrent-bom/0.31.0/occurrent-bom-0.31.0.jar returned status 404
+0.32.0		2026-08-08T06:28:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/occurrent/occurrent-bom/0.32.0/occurrent-bom-0.32.0.jar returned status 404

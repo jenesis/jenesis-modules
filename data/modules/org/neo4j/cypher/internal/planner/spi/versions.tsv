@@ -204,3 +204,8 @@
 5.26.28	automatic	org.neo4j	neo4j-cypher-planner-spi	2026-07-01T14:10:24Z	
 2026.06.0	automatic	org.neo4j	neo4j-cypher-planner-spi	2026-07-09T00:02:30Z	
 2026.06.0	automatic	org.neo4j	neo4j-cypher-planner-spi-test-util	2026-07-09T00:02:34Z	
+5.26.29	automatic	org.neo4j	neo4j-cypher-planner-spi	2026-08-04T09:41:31Z	
+2026.07.0	automatic	org.neo4j	neo4j-cypher-planner-spi	2026-08-05T09:50:11Z	
+2026.07.0	automatic	org.neo4j	neo4j-cypher-planner-spi-test-util	2026-08-05T09:50:11Z	
+2026.07.1	automatic	org.neo4j	neo4j-cypher-planner-spi	2026-08-07T14:47:44Z	
+2026.07.1	automatic	org.neo4j	neo4j-cypher-planner-spi-test-util	2026-08-07T14:47:44Z	
