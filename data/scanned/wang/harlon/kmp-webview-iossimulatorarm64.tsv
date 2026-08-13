@@ -2,6 +2,8 @@
 0.1.0	metadata	2026-06-04T09:51:05Z	
 0.1.1		2026-06-04T12:21:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wang/harlon/kmp-webview-iossimulatorarm64/0.1.1/kmp-webview-iossimulatorarm64-0.1.1.jar returned status 404
 0.1.1	metadata	2026-06-04T12:21:19Z	
+0.1.10		2026-08-07T09:41:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wang/harlon/kmp-webview-iossimulatorarm64/0.1.10/kmp-webview-iossimulatorarm64-0.1.10.jar returned status 404
+0.1.10	metadata	2026-08-07T09:41:49Z	
 0.1.2		2026-06-08T09:02:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wang/harlon/kmp-webview-iossimulatorarm64/0.1.2/kmp-webview-iossimulatorarm64-0.1.2.jar returned status 404
 0.1.2	metadata	2026-06-08T09:02:00Z	
 0.1.3		2026-06-17T09:58:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wang/harlon/kmp-webview-iossimulatorarm64/0.1.3/kmp-webview-iossimulatorarm64-0.1.3.jar returned status 404
@@ -14,3 +16,7 @@
 0.1.6	metadata	2026-07-01T03:33:15Z	
 0.1.7		2026-07-03T04:24:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wang/harlon/kmp-webview-iossimulatorarm64/0.1.7/kmp-webview-iossimulatorarm64-0.1.7.jar returned status 404
 0.1.7	metadata	2026-07-03T04:24:42Z	
+0.1.8		2026-08-06T10:45:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wang/harlon/kmp-webview-iossimulatorarm64/0.1.8/kmp-webview-iossimulatorarm64-0.1.8.jar returned status 404
+0.1.8	metadata	2026-08-06T10:45:13Z	
+0.1.9		2026-08-06T11:47:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wang/harlon/kmp-webview-iossimulatorarm64/0.1.9/kmp-webview-iossimulatorarm64-0.1.9.jar returned status 404
+0.1.9	metadata	2026-08-06T11:47:16Z	

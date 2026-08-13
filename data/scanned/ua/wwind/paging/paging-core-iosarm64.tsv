@@ -24,3 +24,7 @@
 2.2.6	metadata	2026-01-20T22:20:52Z	
 2.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-iosarm64/2.2.7/paging-core-iosarm64-2.2.7.jar returned status 404
 2.2.7	metadata	2026-03-05T02:45:11Z	
+2.3.0		2026-08-01T23:44:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-iosarm64/2.3.0/paging-core-iosarm64-2.3.0.jar returned status 404
+2.3.0	metadata	2026-08-01T23:44:36Z	
+2.3.1		2026-08-02T21:10:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-iosarm64/2.3.1/paging-core-iosarm64-2.3.1.jar returned status 404
+2.3.1	metadata	2026-08-02T21:10:08Z	

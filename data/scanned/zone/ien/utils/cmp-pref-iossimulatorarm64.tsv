@@ -39,6 +39,7 @@
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/2.9.0/cmp-pref-iossimulatorarm64-2.9.0.jar returned status 404
 2.9.0	metadata	2026-05-14T16:35:20Z	
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0/cmp-pref-iossimulatorarm64-3.0.0.jar returned status 404
+3.0.0	metadata	2026-07-24T20:46:41Z	
 3.0.0-alpha09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha09/cmp-pref-iossimulatorarm64-3.0.0-alpha09.jar returned status 404
 3.0.0-alpha09	metadata	2026-07-14T23:02:47Z	
 3.0.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha10/cmp-pref-iossimulatorarm64-3.0.0-alpha10.jar returned status 404
@@ -64,13 +65,24 @@
 3.0.0-alpha20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha20/cmp-pref-iossimulatorarm64-3.0.0-alpha20.jar returned status 404
 3.0.0-alpha20	metadata	2026-07-18T02:29:57Z	
 3.0.0-alpha21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha21/cmp-pref-iossimulatorarm64-3.0.0-alpha21.jar returned status 404
+3.0.0-alpha21	metadata	2026-07-18T09:44:24Z	
 3.0.0-alpha23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha23/cmp-pref-iossimulatorarm64-3.0.0-alpha23.jar returned status 404
+3.0.0-alpha23	metadata	2026-07-18T10:40:41Z	
 3.0.0-alpha24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha24/cmp-pref-iossimulatorarm64-3.0.0-alpha24.jar returned status 404
+3.0.0-alpha24	metadata	2026-07-18T14:36:09Z	
 3.0.0-alpha25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha25/cmp-pref-iossimulatorarm64-3.0.0-alpha25.jar returned status 404
+3.0.0-alpha25	metadata	2026-07-18T15:28:48Z	
 3.0.0-alpha26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha26/cmp-pref-iossimulatorarm64-3.0.0-alpha26.jar returned status 404
+3.0.0-alpha26	metadata	2026-07-18T16:47:47Z	
 3.0.0-alpha27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha27/cmp-pref-iossimulatorarm64-3.0.0-alpha27.jar returned status 404
+3.0.0-alpha27	metadata	2026-07-18T18:01:53Z	
 3.0.0-alpha28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha28/cmp-pref-iossimulatorarm64-3.0.0-alpha28.jar returned status 404
+3.0.0-alpha28	metadata	2026-07-19T02:38:09Z	
 3.0.0-alpha29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.0-alpha29/cmp-pref-iossimulatorarm64-3.0.0-alpha29.jar returned status 404
+3.0.0-alpha29	metadata	2026-07-19T03:18:54Z	
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.0.1/cmp-pref-iossimulatorarm64-3.0.1.jar returned status 404
+3.0.1	metadata	2026-07-26T02:51:56Z	
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.1.0/cmp-pref-iossimulatorarm64-3.1.0.jar returned status 404
+3.1.0	metadata	2026-07-27T05:55:04Z	
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-iossimulatorarm64/3.2.0/cmp-pref-iossimulatorarm64-3.2.0.jar returned status 404
+3.2.0	metadata	2026-07-28T14:21:24Z	

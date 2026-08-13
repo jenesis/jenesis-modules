@@ -11,3 +11,5 @@
 2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-android/2.2.5/paging-core-android-2.2.5.jar returned status 404
 2.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-android/2.2.6/paging-core-android-2.2.6.jar returned status 404
 2.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-android/2.2.7/paging-core-android-2.2.7.jar returned status 404
+2.3.0		2026-08-01T23:44:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-android/2.3.0/paging-core-android-2.3.0.jar returned status 404
+2.3.1		2026-08-02T21:10:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-android/2.3.1/paging-core-android-2.3.1.jar returned status 404

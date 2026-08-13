@@ -32,3 +32,4 @@
 2026.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/storage-units/storage-units.java/2026.5.6/storage-units.java-2026.5.6.jar returned status 404
 2026.6.10		2026-06-10T07:54:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/storage-units/storage-units.java/2026.6.10/storage-units.java-2026.6.10.jar returned status 404
 2026.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/storage-units/storage-units.java/2026.7.8/storage-units.java-2026.7.8.jar returned status 404
+2026.8.5		2026-08-05T06:11:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/storage-units/storage-units.java/2026.8.5/storage-units.java-2026.8.5.jar returned status 404

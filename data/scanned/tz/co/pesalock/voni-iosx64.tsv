@@ -2,3 +2,7 @@
 1.0.0	metadata	2025-11-21T10:17:41Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/pesalock/voni-iosx64/1.0.1/voni-iosx64-1.0.1.jar returned status 404
 1.0.1	metadata	2025-11-21T10:44:20Z	
+1.0.2		2026-07-29T12:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/pesalock/voni-iosx64/1.0.2/voni-iosx64-1.0.2.jar returned status 404
+1.0.2	metadata	2026-07-29T12:30:40Z	
+1.0.3		2026-08-01T08:49:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/pesalock/voni-iosx64/1.0.3/voni-iosx64-1.0.3.jar returned status 404
+1.0.3	metadata	2026-08-01T08:49:23Z	

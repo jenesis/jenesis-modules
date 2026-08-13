@@ -1,3 +1,4 @@
 0.0.1		2026-06-29T09:38:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/kandrac/cellar-iosarm64/0.0.1/cellar-iosarm64-0.0.1.jar returned status 404
 0.0.1	metadata	2026-06-29T09:38:47Z	
 0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/kandrac/cellar-iosarm64/0.1.0/cellar-iosarm64-0.1.0.jar returned status 404
+0.1.0	metadata	2026-07-26T19:45:51Z	

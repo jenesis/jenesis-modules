@@ -7,3 +7,4 @@
 0.7.0		2026-07-03T12:40:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-multipeer-macosarm64/0.7.0/kuilt-multipeer-macosarm64-0.7.0.jar returned status 404
 0.7.0	metadata	2026-07-03T12:40:36Z	
 0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-multipeer-macosarm64/0.7.2/kuilt-multipeer-macosarm64-0.7.2.jar returned status 404
+0.7.2	metadata	2026-07-28T08:47:32Z	
