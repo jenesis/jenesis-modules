@@ -52,8 +52,13 @@
 8.6.9		2026-05-20T02:08:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.6.9/bus-parent-8.6.9.jar returned status 404
 8.8.0		2026-06-21T14:46:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.0/bus-parent-8.8.0.jar returned status 404
 8.8.1		2026-06-23T10:07:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.1/bus-parent-8.8.1.jar returned status 404
+8.8.10		2026-08-05T16:40:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.10/bus-parent-8.8.10.jar returned status 404
+8.8.11		2026-08-08T07:26:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.11/bus-parent-8.8.11.jar returned status 404
+8.8.12		2026-08-08T15:50:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.12/bus-parent-8.8.12.jar returned status 404
+8.8.13		2026-08-09T10:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.13/bus-parent-8.8.13.jar returned status 404
 8.8.2		2026-07-02T05:14:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.2/bus-parent-8.8.2.jar returned status 404
 8.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.3/bus-parent-8.8.3.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.5/bus-parent-8.8.5.jar returned status 404
 8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.6/bus-parent-8.8.6.jar returned status 404
 8.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.8/bus-parent-8.8.8.jar returned status 404
+8.8.9		2026-08-04T06:29:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-parent/8.8.9/bus-parent-8.8.9.jar returned status 404

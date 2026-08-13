@@ -489,6 +489,8 @@
 0.24.19	classes	2026-07-09T03:50:10Z	
 0.24.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.24.2/killbill-profiles-killbill-0.24.2.jar returned status 404
 0.24.2	classes	2023-05-02T07:33:39Z	
+0.24.20		2026-08-07T05:49:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.24.20/killbill-profiles-killbill-0.24.20.jar returned status 404
+0.24.20	classes	2026-08-07T05:49:13Z	
 0.24.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.24.3/killbill-profiles-killbill-0.24.3.jar returned status 404
 0.24.3	classes	2023-05-25T21:31:34Z	
 0.24.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.24.4/killbill-profiles-killbill-0.24.4.jar returned status 404
@@ -506,5 +508,10 @@
 0.25.0		2026-06-24T00:08:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.25.0/killbill-profiles-killbill-0.25.0.jar returned status 404
 0.25.0	classes	2026-06-24T00:08:56Z	
 0.25.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.25.1/killbill-profiles-killbill-0.25.1.jar returned status 404
+0.25.1	classes	2026-07-21T23:07:57Z	
 0.25.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.25.2/killbill-profiles-killbill-0.25.2.jar returned status 404
+0.25.2	classes	2026-07-29T15:55:47Z	
 0.25.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.25.3/killbill-profiles-killbill-0.25.3.jar returned status 404
+0.25.3	classes	2026-07-30T01:27:09Z	
+0.25.4		2026-08-05T23:21:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killbill/0.25.4/killbill-profiles-killbill-0.25.4.jar returned status 404
+0.25.4	classes	2026-08-05T23:21:33Z	

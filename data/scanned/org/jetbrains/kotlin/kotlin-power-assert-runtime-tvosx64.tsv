@@ -15,3 +15,4 @@
 2.4.20-Beta1		2026-06-24T09:43:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-tvosx64/2.4.20-Beta1/kotlin-power-assert-runtime-tvosx64-2.4.20-Beta1.jar returned status 404
 2.4.20-Beta1	metadata	2026-06-24T09:43:19Z	
 2.4.20-Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-tvosx64/2.4.20-Beta2/kotlin-power-assert-runtime-tvosx64-2.4.20-Beta2.jar returned status 404
+2.4.20-Beta2	metadata	2026-07-22T07:11:11Z	

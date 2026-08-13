@@ -242,3 +242,4 @@
 2026.7.5-3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-jszip-wasm-js/2026.7.5-3.10.1/kotlin-jszip-wasm-js-2026.7.5-3.10.1.jar returned status 404
 2026.7.6-3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-jszip-wasm-js/2026.7.6-3.10.1/kotlin-jszip-wasm-js-2026.7.6-3.10.1.jar returned status 404
 2026.7.7-3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-jszip-wasm-js/2026.7.7-3.10.1/kotlin-jszip-wasm-js-2026.7.7-3.10.1.jar returned status 404
+2026.8.0-3.10.1		2026-08-05T05:06:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-jszip-wasm-js/2026.8.0-3.10.1/kotlin-jszip-wasm-js-2026.8.0-3.10.1.jar returned status 404

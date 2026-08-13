@@ -290,6 +290,7 @@
 2026.7.5-5.90.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-tanstack-query-core-js/2026.7.5-5.90.20/kotlin-tanstack-query-core-js-2026.7.5-5.90.20.jar returned status 404
 2026.7.6-5.90.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-tanstack-query-core-js/2026.7.6-5.90.20/kotlin-tanstack-query-core-js-2026.7.6-5.90.20.jar returned status 404
 2026.7.7-5.90.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-tanstack-query-core-js/2026.7.7-5.90.20/kotlin-tanstack-query-core-js-2026.7.7-5.90.20.jar returned status 404
+2026.8.0-5.90.20		2026-08-05T05:06:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-tanstack-query-core-js/2026.8.0-5.90.20/kotlin-tanstack-query-core-js-2026.8.0-5.90.20.jar returned status 404
 4.24.10-pre.502		2023-02-22T15:15:18Z	
 4.24.10-pre.503		2023-02-24T07:08:33Z	
 4.24.10-pre.504		2023-02-25T07:40:35Z	

@@ -290,6 +290,7 @@
 2026.7.5-3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-csstype-js/2026.7.5-3.2.3/kotlin-csstype-js-2026.7.5-3.2.3.jar returned status 404
 2026.7.6-3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-csstype-js/2026.7.6-3.2.3/kotlin-csstype-js-2026.7.6-3.2.3.jar returned status 404
 2026.7.7-3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-csstype-js/2026.7.7-3.2.3/kotlin-csstype-js-2026.7.7-3.2.3.jar returned status 404
+2026.8.0-3.2.3		2026-08-05T05:06:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-csstype-js/2026.8.0-3.2.3/kotlin-csstype-js-2026.8.0-3.2.3.jar returned status 404
 3.1.1-pre.493		2023-02-08T07:13:48Z	
 3.1.1-pre.493-compat			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-csstype-js/3.1.1-pre.493-compat/kotlin-csstype-js-3.1.1-pre.493-compat.jar returned status 404
 3.1.1-pre.494		2023-02-08T18:09:21Z	

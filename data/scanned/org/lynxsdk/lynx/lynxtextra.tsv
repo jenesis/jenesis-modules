@@ -6,3 +6,4 @@
 0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynxtextra/0.1.4/lynxtextra-0.1.4.jar returned status 404
 0.1.5		2026-06-03T08:33:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynxtextra/0.1.5/lynxtextra-0.1.5.jar returned status 404
 0.1.6		2026-06-17T17:36:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynxtextra/0.1.6/lynxtextra-0.1.6.jar returned status 404
+0.2.0		2026-08-07T03:31:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynxtextra/0.2.0/lynxtextra-0.2.0.jar returned status 404

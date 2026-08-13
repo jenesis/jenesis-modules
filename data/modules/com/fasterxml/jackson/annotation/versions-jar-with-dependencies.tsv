@@ -5264,6 +5264,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 10.1.1	named	org.telegram	telegrambots-springboot-longpolling-starter	2026-07-25T09:09:54Z	2.17.2
 10.1.1	named	org.telegram	telegrambots-springboot-webhook-starter	2026-07-25T09:09:54Z	2.17.2
 10.1.1	named	org.telegram	telegrambots-webhook	2026-07-25T09:09:54Z	2.17.2
+7.5.0	named	org.mock-server	mockserver-k8s-webhook	2026-07-29T17:47:14Z	2.22
 10.2.0	named	org.telegram	telegrambots-abilities	2026-08-02T22:47:00Z	2.17.2
 10.2.0	named	org.telegram	telegrambots-client	2026-08-02T22:47:00Z	2.17.2
 10.2.0	named	org.telegram	telegrambots-client-jetty-adapter	2026-08-02T22:47:00Z	2.17.2

@@ -1,3 +1,4 @@
 2.7.25		2026-06-10T10:49:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/protobufs-macosarm64/2.7.25/protobufs-macosarm64-2.7.25.jar returned status 404
 2.7.25	metadata	2026-06-10T10:49:33Z	
 2.7.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/protobufs-macosarm64/2.7.26/protobufs-macosarm64-2.7.26.jar returned status 404
+2.7.26	metadata	2026-07-21T14:01:21Z	

@@ -1,0 +1,3 @@
+0.0.1-beta1		2026-08-03T07:50:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/koaks/koaks-model-anthropic-windowsx64/0.0.1-beta1/koaks-model-anthropic-windowsx64-0.0.1-beta1.jar returned status 404
+0.0.1-beta2		2026-08-03T13:13:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/koaks/koaks-model-anthropic-windowsx64/0.0.1-beta2/koaks-model-anthropic-windowsx64-0.0.1-beta2.jar returned status 404
+0.0.1-beta3		2026-08-03T14:49:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/koaks/koaks-model-anthropic-windowsx64/0.0.1-beta3/koaks-model-anthropic-windowsx64-0.0.1-beta3.jar returned status 404

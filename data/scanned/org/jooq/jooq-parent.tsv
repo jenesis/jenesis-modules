@@ -208,6 +208,7 @@
 3.19.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.19.34/jooq-parent-3.19.34.jar returned status 404
 3.19.35		2026-06-04T09:00:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.19.35/jooq-parent-3.19.35.jar returned status 404
 3.19.36		2026-06-15T12:37:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.19.36/jooq-parent-3.19.36.jar returned status 404
+3.19.37		2026-08-04T10:36:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.19.37/jooq-parent-3.19.37.jar returned status 404
 3.19.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.19.4/jooq-parent-3.19.4.jar returned status 404
 3.19.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.19.5/jooq-parent-3.19.5.jar returned status 404
 3.19.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.19.6/jooq-parent-3.19.6.jar returned status 404
@@ -232,6 +233,7 @@
 3.20.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.20.15/jooq-parent-3.20.15.jar returned status 404
 3.20.16		2026-06-04T08:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.20.16/jooq-parent-3.20.16.jar returned status 404
 3.20.17		2026-06-15T12:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.20.17/jooq-parent-3.20.17.jar returned status 404
+3.20.18		2026-08-04T10:44:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.20.18/jooq-parent-3.20.18.jar returned status 404
 3.20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.20.2/jooq-parent-3.20.2.jar returned status 404
 3.20.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.20.3/jooq-parent-3.20.3.jar returned status 404
 3.20.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.20.4/jooq-parent-3.20.4.jar returned status 404
@@ -247,6 +249,7 @@
 3.21.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.21.4/jooq-parent-3.21.4.jar returned status 404
 3.21.5		2026-06-04T08:23:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.21.5/jooq-parent-3.21.5.jar returned status 404
 3.21.6		2026-06-15T12:02:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.21.6/jooq-parent-3.21.6.jar returned status 404
+3.21.7		2026-08-04T10:57:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.21.7/jooq-parent-3.21.7.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.3.0/jooq-parent-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.3.1/jooq-parent-3.3.1.jar returned status 404
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jooq/jooq-parent/3.3.2/jooq-parent-3.3.2.jar returned status 404

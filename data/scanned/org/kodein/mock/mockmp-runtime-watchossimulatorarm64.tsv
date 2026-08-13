@@ -49,6 +49,10 @@
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-runtime-watchossimulatorarm64/2.0.2/mockmp-runtime-watchossimulatorarm64-2.0.2.jar returned status 404
 2.0.2	metadata	2025-03-11T19:53:00Z	
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-runtime-watchossimulatorarm64/2.1.0/mockmp-runtime-watchossimulatorarm64-2.1.0.jar returned status 404
+2.1.0	metadata	2026-07-30T09:56:57Z	
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-runtime-watchossimulatorarm64/3.0.0/mockmp-runtime-watchossimulatorarm64-3.0.0.jar returned status 404
+3.0.0	metadata	2026-07-30T15:42:31Z	
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-runtime-watchossimulatorarm64/3.0.1/mockmp-runtime-watchossimulatorarm64-3.0.1.jar returned status 404
+3.0.1	metadata	2026-07-31T10:17:51Z	
 3.0.1-kt2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-runtime-watchossimulatorarm64/3.0.1-kt2.3/mockmp-runtime-watchossimulatorarm64-3.0.1-kt2.3.jar returned status 404
+3.0.1-kt2.3	metadata	2026-07-31T11:54:49Z	
