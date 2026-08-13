@@ -23,6 +23,10 @@
 3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-actions-wasm-js/3.2.3/symphony-actions-wasm-js-3.2.3.jar returned status 404
 3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-actions-wasm-js/3.2.4/symphony-actions-wasm-js-3.2.4.jar returned status 404
 3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-actions-wasm-js/3.2.5/symphony-actions-wasm-js-3.2.5.jar returned status 404
+3.3.10		2026-07-19T01:31:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-actions-wasm-js/3.3.10/symphony-actions-wasm-js-3.3.10.jar returned status 404
+3.3.11		2026-07-19T02:00:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-actions-wasm-js/3.3.11/symphony-actions-wasm-js-3.3.11.jar returned status 404
+3.3.12		2026-07-19T02:17:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-actions-wasm-js/3.3.12/symphony-actions-wasm-js-3.3.12.jar returned status 404
+3.3.13		2026-08-06T00:33:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-actions-wasm-js/3.3.13/symphony-actions-wasm-js-3.3.13.jar returned status 404
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-actions-wasm-js/3.3.3/symphony-actions-wasm-js-3.3.3.jar returned status 404
 3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-actions-wasm-js/3.3.4/symphony-actions-wasm-js-3.3.4.jar returned status 404
 3.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-actions-wasm-js/3.3.5/symphony-actions-wasm-js-3.3.5.jar returned status 404

@@ -34,6 +34,14 @@
 3.2.5	metadata	2025-09-30T00:38:43Z	
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-outbox-client-tvossimulatorarm64/3.3.0/raven-outbox-client-tvossimulatorarm64-3.3.0.jar returned status 404
 3.3.0	metadata	2025-12-27T12:52:14Z	
+3.3.10		2026-07-19T01:30:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-outbox-client-tvossimulatorarm64/3.3.10/raven-outbox-client-tvossimulatorarm64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:30:20Z	
+3.3.11		2026-07-19T01:59:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-outbox-client-tvossimulatorarm64/3.3.11/raven-outbox-client-tvossimulatorarm64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:59:23Z	
+3.3.12		2026-07-19T02:15:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-outbox-client-tvossimulatorarm64/3.3.12/raven-outbox-client-tvossimulatorarm64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:15:42Z	
+3.3.13		2026-08-06T00:33:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-outbox-client-tvossimulatorarm64/3.3.13/raven-outbox-client-tvossimulatorarm64-3.3.13.jar returned status 404
+3.3.13	metadata	2026-08-06T00:33:39Z	
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-outbox-client-tvossimulatorarm64/3.3.2/raven-outbox-client-tvossimulatorarm64-3.3.2.jar returned status 404
 3.3.2	metadata	2025-12-27T22:03:44Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/raven-outbox-client-tvossimulatorarm64/3.3.3/raven-outbox-client-tvossimulatorarm64-3.3.3.jar returned status 404

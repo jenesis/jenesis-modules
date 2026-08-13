@@ -28,6 +28,12 @@
 3.2.4	metadata	2025-09-29T14:26:13Z	
 3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-input-phone-macosx64/3.2.5/symphony-input-phone-macosx64-3.2.5.jar returned status 404
 3.2.5	metadata	2025-09-30T00:16:00Z	
+3.3.10		2026-07-19T01:31:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-input-phone-macosx64/3.3.10/symphony-input-phone-macosx64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:31:12Z	
+3.3.11		2026-07-19T01:59:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-input-phone-macosx64/3.3.11/symphony-input-phone-macosx64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:59:59Z	
+3.3.12		2026-07-19T02:17:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-input-phone-macosx64/3.3.12/symphony-input-phone-macosx64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:17:22Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-input-phone-macosx64/3.3.3/symphony-input-phone-macosx64-3.3.3.jar returned status 404
 3.3.3	metadata	2025-12-27T22:20:08Z	
 3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/symphony-input-phone-macosx64/3.3.4/symphony-input-phone-macosx64-3.3.4.jar returned status 404
