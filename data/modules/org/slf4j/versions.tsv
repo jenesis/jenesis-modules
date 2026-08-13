@@ -3223,6 +3223,9 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	ververica-connector-mq5	2026-07-30T00:02:48Z	2.0.3
 1.13.2	named	org.open-metadata	elasticsearch-deps	2026-07-30T00:13:30Z	2.0.4
 2.0.0-rc1	named	org.open-metadata	elasticsearch-deps	2026-07-31T00:07:14Z	2.0.4
+12.0.38	named	org.eclipse.jetty.ee9	jetty-ee9-runner	2026-07-31T06:14:08Z	2.0.17
+12.0.38	named	org.eclipse.jetty.ee10	jetty-ee10-runner	2026-07-31T06:14:09Z	2.0.17
+12.0.38	named	org.eclipse.jetty.ee8	jetty-ee8-runner	2026-07-31T06:14:11Z	2.0.17
 0.17.0-rc2	named	io.testomat	java-reporter-core	2026-07-31T23:56:27Z	2.0.9
 0.17.0-rc4	named	io.testomat	java-reporter-core	2026-07-31T23:56:29Z	2.0.9
 0.17.0-rc3	named	io.testomat	java-reporter-core	2026-07-31T23:56:31Z	2.0.9

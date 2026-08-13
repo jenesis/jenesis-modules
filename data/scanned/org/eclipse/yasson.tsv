@@ -25,3 +25,4 @@
 3.0.2		2022-09-05T12:50:01Z	
 3.0.3		2023-04-03T07:44:14Z	
 3.0.4		2024-07-15T07:58:26Z	
+3.0.5		2026-08-03T16:06:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/yasson/3.0.5/yasson-3.0.5.jar returned status 404

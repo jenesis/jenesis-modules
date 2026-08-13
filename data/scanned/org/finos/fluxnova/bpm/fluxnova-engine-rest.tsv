@@ -11,5 +11,6 @@
 2.0.3		2026-06-18T17:24:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/fluxnova-engine-rest/2.0.3/fluxnova-engine-rest-2.0.3.jar returned status 404
 2.0.3	classes	2026-06-18T17:24:16Z	
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/fluxnova-engine-rest/2.0.4/fluxnova-engine-rest-2.0.4.jar returned status 404
+2.0.4	classes	2026-07-27T19:37:43Z	
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/fluxnova-engine-rest/3.0.0/fluxnova-engine-rest-3.0.0.jar returned status 404
 3.0.0	classes	2026-07-17T21:59:26Z	

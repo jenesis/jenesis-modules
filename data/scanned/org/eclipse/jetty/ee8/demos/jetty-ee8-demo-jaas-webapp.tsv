@@ -80,6 +80,8 @@
 12.0.36	config	2026-05-31T22:58:36Z	
 12.0.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-jaas-webapp/12.0.37/jetty-ee8-demo-jaas-webapp-12.0.37.jar returned status 404
 12.0.37	config	2026-07-02T19:34:40Z	
+12.0.38		2026-07-31T06:14:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-jaas-webapp/12.0.38/jetty-ee8-demo-jaas-webapp-12.0.38.jar returned status 404
+12.0.38	config	2026-07-31T06:14:08Z	
 12.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-jaas-webapp/12.0.4/jetty-ee8-demo-jaas-webapp-12.0.4.jar returned status 404
 12.0.4	config	2023-11-30T19:23:04Z	
 12.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/jetty/ee8/demos/jetty-ee8-demo-jaas-webapp/12.0.5/jetty-ee8-demo-jaas-webapp-12.0.5.jar returned status 404

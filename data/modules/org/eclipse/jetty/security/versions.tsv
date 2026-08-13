@@ -199,4 +199,6 @@
 12.0.37	named	org.eclipse.jetty	jetty-security	2026-07-08T02:15:04Z	12.0.37
 3.94.0-12	named	org.sonatype.nexus.common.components	jetty-security	2026-07-14T00:11:39Z	3.94.0-12
 3.94.1-06	named	org.sonatype.nexus.common.components	jetty-security	2026-07-25T00:24:25Z	3.94.1-06
+12.0.38	named	org.eclipse.jetty	jetty-security	2026-07-31T06:14:09Z	12.0.38
+12.1.12	named	org.eclipse.jetty	jetty-security	2026-08-03T22:50:53Z	12.1.12
 3.95.0-07	named	org.sonatype.nexus.common.components	jetty-security	2026-08-06T22:15:20Z	3.95.0-07

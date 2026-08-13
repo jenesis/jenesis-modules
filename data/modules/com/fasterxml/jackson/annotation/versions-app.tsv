@@ -31,3 +31,7 @@
 1.6.12	named	org.eclipse.kapua	kapua-es-migrator	2024-09-30T13:51:24Z	2.15.2
 1.6.13	named	org.eclipse.kapua	kapua-liquibase-tool	2026-04-29T11:20:45Z	2.15.2
 1.6.13	named	org.eclipse.kapua	kapua-es-migrator	2026-04-29T11:20:47Z	2.15.2
+1.6.14	named	org.eclipse.kapua	kapua-es-migrator	2026-08-03T14:57:43Z	2.15.2
+1.6.14	named	org.eclipse.kapua	kapua-liquibase-tool	2026-08-03T14:57:45Z	2.15.2
+1.6.15	named	org.eclipse.kapua	kapua-liquibase-tool	2026-08-05T14:20:28Z	2.15.2
+1.6.15	named	org.eclipse.kapua	kapua-es-migrator	2026-08-05T14:20:29Z	2.15.2

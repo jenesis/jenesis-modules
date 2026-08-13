@@ -344,3 +344,4 @@
 9.4.2		2026-05-29T17:33:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/elasticsearch/distribution/integ-test-zip/elasticsearch/9.4.2/elasticsearch-9.4.2.jar returned status 404
 9.4.3		2026-07-01T08:03:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/elasticsearch/distribution/integ-test-zip/elasticsearch/9.4.3/elasticsearch-9.4.3.jar returned status 404
 9.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/elasticsearch/distribution/integ-test-zip/elasticsearch/9.4.4/elasticsearch-9.4.4.jar returned status 404
+9.5.0		2026-08-04T23:04:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/elasticsearch/distribution/integ-test-zip/elasticsearch/9.5.0/elasticsearch-9.5.0.jar returned status 404

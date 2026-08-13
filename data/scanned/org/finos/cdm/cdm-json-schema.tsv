@@ -266,3 +266,4 @@
 7.0.0-dev.99		2026-04-08T14:18:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/7.0.0-dev.99/cdm-json-schema-7.0.0-dev.99.jar returned status 404
 8.0.0-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/8.0.0-dev.1/cdm-json-schema-8.0.0-dev.1.jar returned status 404
 8.0.0-dev.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/8.0.0-dev.2/cdm-json-schema-8.0.0-dev.2.jar returned status 404
+8.0.0-dev.3		2026-08-07T11:53:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-json-schema/8.0.0-dev.3/cdm-json-schema-8.0.0-dev.3.jar returned status 404

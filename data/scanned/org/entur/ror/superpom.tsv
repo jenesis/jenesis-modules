@@ -67,8 +67,10 @@
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/ror/superpom/5.4.0/superpom-5.4.0.jar returned status 404
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/ror/superpom/5.5.0/superpom-5.5.0.jar returned status 404
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/ror/superpom/5.6.0/superpom-5.6.0.jar returned status 404
+5.7.0		2026-08-03T17:50:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/ror/superpom/5.7.0/superpom-5.7.0.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/ror/superpom/6.1.0/superpom-6.1.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/ror/superpom/6.2.0/superpom-6.2.0.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/ror/superpom/6.3.0/superpom-6.3.0.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/ror/superpom/6.4.0/superpom-6.4.0.jar returned status 404
 6.5.0		2026-06-25T12:28:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/ror/superpom/6.5.0/superpom-6.5.0.jar returned status 404
+7.0.0		2026-08-03T11:07:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/entur/ror/superpom/7.0.0/superpom-7.0.0.jar returned status 404
