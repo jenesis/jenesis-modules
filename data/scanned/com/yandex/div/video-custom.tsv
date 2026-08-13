@@ -193,6 +193,7 @@
 32.59.0		2026-07-20T16:07:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/video-custom/32.59.0/video-custom-32.59.0.jar returned status 404
 32.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/video-custom/32.6.0/video-custom-32.6.0.jar returned status 404
 32.60.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/video-custom/32.60.0/video-custom-32.60.0.jar returned status 404
+32.61.0		2026-08-04T14:22:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/video-custom/32.61.0/video-custom-32.61.0.jar returned status 404
 32.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/video-custom/32.7.1/video-custom-32.7.1.jar returned status 404
 32.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/video-custom/32.8.0/video-custom-32.8.0.jar returned status 404
 32.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/video-custom/32.9.0/video-custom-32.9.0.jar returned status 404

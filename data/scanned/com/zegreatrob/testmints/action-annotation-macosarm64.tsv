@@ -51,8 +51,21 @@
 12.6.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.36/action-annotation-macosarm64-12.6.36.jar returned status 404
 12.6.36	metadata	2026-07-15T17:04:12Z	
 12.6.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.37/action-annotation-macosarm64-12.6.37.jar returned status 404
+12.6.37	metadata	2026-07-29T17:02:12Z	
 12.6.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.38/action-annotation-macosarm64-12.6.38.jar returned status 404
+12.6.38	metadata	2026-07-31T14:58:21Z	
 12.6.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.39/action-annotation-macosarm64-12.6.39.jar returned status 404
+12.6.39	metadata	2026-07-31T20:25:32Z	
+12.6.40		2026-08-05T01:46:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.40/action-annotation-macosarm64-12.6.40.jar returned status 404
+12.6.40	metadata	2026-08-05T01:46:21Z	
+12.6.41		2026-08-07T15:27:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.41/action-annotation-macosarm64-12.6.41.jar returned status 404
+12.6.41	metadata	2026-08-07T15:27:43Z	
+12.6.42		2026-08-07T19:44:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.42/action-annotation-macosarm64-12.6.42.jar returned status 404
+12.6.42	metadata	2026-08-07T19:44:49Z	
+12.6.43		2026-08-08T15:54:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.43/action-annotation-macosarm64-12.6.43.jar returned status 404
+12.6.43	metadata	2026-08-08T15:54:45Z	
+12.6.44		2026-08-10T16:28:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.44/action-annotation-macosarm64-12.6.44.jar returned status 404
+12.6.44	metadata	2026-08-10T16:28:26Z	
 12.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.6/action-annotation-macosarm64-12.6.6.jar returned status 404
 12.6.6	metadata	2026-03-24T12:19:10Z	
 12.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-macosarm64/12.6.7/action-annotation-macosarm64-12.6.7.jar returned status 404

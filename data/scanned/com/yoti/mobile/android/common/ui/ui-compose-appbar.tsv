@@ -61,6 +61,8 @@
 6.12.3		2026-07-02T11:57:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/android/common/ui/ui-compose-appbar/6.12.3/ui-compose-appbar-6.12.3.jar returned status 404
 6.13.0		2026-07-06T10:57:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/android/common/ui/ui-compose-appbar/6.13.0/ui-compose-appbar-6.13.0.jar returned status 404
 6.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/android/common/ui/ui-compose-appbar/6.13.1/ui-compose-appbar-6.13.1.jar returned status 404
+6.13.2		2026-08-10T13:37:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/android/common/ui/ui-compose-appbar/6.13.2/ui-compose-appbar-6.13.2.jar returned status 404
+6.14.0		2026-08-10T13:47:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/android/common/ui/ui-compose-appbar/6.14.0/ui-compose-appbar-6.14.0.jar returned status 404
 6.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/android/common/ui/ui-compose-appbar/6.6.1/ui-compose-appbar-6.6.1.jar returned status 404
 6.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/android/common/ui/ui-compose-appbar/6.6.2/ui-compose-appbar-6.6.2.jar returned status 404
 6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/android/common/ui/ui-compose-appbar/6.7.0/ui-compose-appbar-6.7.0.jar returned status 404
