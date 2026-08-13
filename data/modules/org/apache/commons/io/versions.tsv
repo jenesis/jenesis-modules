@@ -992,3 +992,4 @@
 2.3.5	named	com.networknt	codegen-cli	2026-07-31T00:06:20Z	2.18.0
 4.17.1.0.0.7	named	com.datastax.oss	distributedlog-core-shaded	2026-07-31T00:11:56Z	2.19.0
 1.128.0	named	no.entur	schema2proto-lib	2026-07-31T23:52:35Z	2.22.0
+1.129.0	named	no.entur	schema2proto-lib	2026-08-10T03:36:12Z	2.22.0

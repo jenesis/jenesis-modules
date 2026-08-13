@@ -6,6 +6,7 @@
 1.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/1.12.2/Human-Readable-js-1.12.2.jar returned status 404
 1.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/1.12.3/Human-Readable-js-1.12.3.jar returned status 404
 1.13.0		2026-06-22T19:12:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/1.13.0/Human-Readable-js-1.13.0.jar returned status 404
+1.13.1		2026-07-22T18:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/1.13.1/Human-Readable-js-1.13.1.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/1.3.0/Human-Readable-js-1.3.0.jar returned status 404
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/1.4.0/Human-Readable-js-1.4.0.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/1.5.0/Human-Readable-js-1.5.0.jar returned status 404
@@ -15,3 +16,4 @@
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/1.8.1/Human-Readable-js-1.8.1.jar returned status 404
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/1.9.0/Human-Readable-js-1.9.0.jar returned status 404
 2.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/2.0.0-alpha01/Human-Readable-js-2.0.0-alpha01.jar returned status 404
+2.0.0-alpha02		2026-07-22T18:54:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-js/2.0.0-alpha02/Human-Readable-js-2.0.0-alpha02.jar returned status 404

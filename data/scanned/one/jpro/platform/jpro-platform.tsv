@@ -9,3 +9,4 @@
 0.7.0		2026-06-13T20:33:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/jpro/platform/jpro-platform/0.7.0/jpro-platform-0.7.0.jar returned status 404
 0.7.1		2026-06-14T12:58:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/jpro/platform/jpro-platform/0.7.1/jpro-platform-0.7.1.jar returned status 404
 0.7.2		2026-06-29T19:39:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/jpro/platform/jpro-platform/0.7.2/jpro-platform-0.7.2.jar returned status 404
+0.7.3		2026-08-07T15:21:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/jpro/platform/jpro-platform/0.7.3/jpro-platform-0.7.3.jar returned status 404

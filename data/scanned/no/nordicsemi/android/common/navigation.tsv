@@ -79,6 +79,7 @@
 2.11.0		2026-07-03T11:49:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/common/navigation/2.11.0/navigation-2.11.0.jar returned status 404
 2.11.0	html-docs	2026-07-03T11:49:59Z	
 2.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/common/navigation/2.11.1/navigation-2.11.1.jar returned status 404
+2.11.1	html-docs	2026-07-22T11:47:57Z	
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/common/navigation/2.2.0/navigation-2.2.0.jar returned status 404
 2.2.0	html-docs	2024-12-05T10:48:32Z	
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/android/common/navigation/2.3.0/navigation-2.3.0.jar returned status 404

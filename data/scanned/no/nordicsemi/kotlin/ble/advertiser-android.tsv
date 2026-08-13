@@ -43,4 +43,6 @@
 2.0.0-beta03		2026-07-02T15:32:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/ble/advertiser-android/2.0.0-beta03/advertiser-android-2.0.0-beta03.jar returned status 404
 2.0.0-beta03	html-docs	2026-07-02T15:32:47Z	
 2.0.0-beta04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/ble/advertiser-android/2.0.0-beta04/advertiser-android-2.0.0-beta04.jar returned status 404
+2.0.0-beta04	html-docs	2026-07-22T10:06:00Z	
 2.0.0-beta05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/kotlin/ble/advertiser-android/2.0.0-beta05/advertiser-android-2.0.0-beta05.jar returned status 404
+2.0.0-beta05	html-docs	2026-08-07T15:05:57Z	

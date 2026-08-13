@@ -14,6 +14,8 @@
 1.12.3	metadata	2025-12-24T10:15:21Z	
 1.13.0		2026-06-22T19:12:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-iosarm64/1.13.0/Human-Readable-iosarm64-1.13.0.jar returned status 404
 1.13.0	metadata	2026-06-22T19:12:49Z	
+1.13.1		2026-07-22T18:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-iosarm64/1.13.1/Human-Readable-iosarm64-1.13.1.jar returned status 404
+1.13.1	metadata	2026-07-22T18:41:43Z	
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-iosarm64/1.3.0/Human-Readable-iosarm64-1.3.0.jar returned status 404
 1.3.0	metadata	2024-01-11T13:48:36Z	
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-iosarm64/1.4.0/Human-Readable-iosarm64-1.4.0.jar returned status 404
@@ -32,3 +34,5 @@
 1.9.0	metadata	2024-08-20T11:15:29Z	
 2.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-iosarm64/2.0.0-alpha01/Human-Readable-iosarm64-2.0.0-alpha01.jar returned status 404
 2.0.0-alpha01	metadata	2026-07-09T14:11:46Z	
+2.0.0-alpha02		2026-07-22T18:54:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/Human-Readable-iosarm64/2.0.0-alpha02/Human-Readable-iosarm64-2.0.0-alpha02.jar returned status 404
+2.0.0-alpha02	metadata	2026-07-22T18:54:23Z	

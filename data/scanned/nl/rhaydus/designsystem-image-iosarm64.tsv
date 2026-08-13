@@ -2,3 +2,5 @@
 0.2.0	metadata	2026-06-16T19:32:07Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/rhaydus/designsystem-image-iosarm64/0.3.0/designsystem-image-iosarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2026-07-12T08:51:44Z	
+0.3.1		2026-07-23T15:34:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/rhaydus/designsystem-image-iosarm64/0.3.1/designsystem-image-iosarm64-0.3.1.jar returned status 404
+0.3.1	metadata	2026-07-23T15:34:46Z	
