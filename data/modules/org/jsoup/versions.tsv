@@ -289,6 +289,7 @@
 3.0.1	named	com.qainsights	jmeter-agent	2026-07-17T00:01:45Z	1.21.2
 2.0.3	named	org.scala-sbt	librarymanagement-coursier_3	2026-07-17T00:07:23Z	1.22.2
 3.0.3	named	com.qainsights	jmeter-agent	2026-07-17T23:59:47Z	1.21.2
+0.3.1	named	org.apache.flink	flink-agents-dist-flink-2.3	2026-07-20T03:39:01Z	1.21.2
 3.3.2	named	org.apache.tika	tika-app	2026-07-22T02:27:02Z	1.22.2
 3.3.2	named	org.apache.tika	tika-eval-core	2026-07-22T02:27:10Z	1.22.2
 3.3.2	named	org.apache.tika	tika-eval-app	2026-07-22T02:27:11Z	1.22.2
