@@ -1,4 +1,6 @@
 3.5.1		2026-07-20T10:47:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-peripheral-macosarm64/3.5.1/blue-falcon-peripheral-macosarm64-3.5.1.jar returned status 404
 3.5.1	metadata	2026-07-20T10:47:59Z	
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-peripheral-macosarm64/3.6.0/blue-falcon-peripheral-macosarm64-3.6.0.jar returned status 404
+3.6.0	metadata	2026-07-21T11:03:56Z	
 3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-peripheral-macosarm64/3.7.0/blue-falcon-peripheral-macosarm64-3.7.0.jar returned status 404
+3.7.0	metadata	2026-08-06T13:07:31Z	

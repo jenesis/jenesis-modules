@@ -11,3 +11,4 @@
 2.7.0		2026-06-19T18:47:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/sysnotify/sysnotify-core-macosarm64/2.7.0/sysnotify-core-macosarm64-2.7.0.jar returned status 404
 2.7.0	metadata	2026-06-19T18:47:29Z	
 2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/sysnotify/sysnotify-core-macosarm64/2.7.1/sysnotify-core-macosarm64-2.7.1.jar returned status 404
+2.7.1	metadata	2026-07-27T08:16:10Z	

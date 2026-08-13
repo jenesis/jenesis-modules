@@ -23,4 +23,6 @@
 3.6.0		2026-07-20T10:48:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-clone-iossimulatorarm64/3.6.0/blue-falcon-plugin-clone-iossimulatorarm64-3.6.0.jar returned status 404
 3.6.0	metadata	2026-07-20T10:47:57Z	
 3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-clone-iossimulatorarm64/3.6.1/blue-falcon-plugin-clone-iossimulatorarm64-3.6.1.jar returned status 404
+3.6.1	metadata	2026-07-21T11:03:53Z	
 3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-clone-iossimulatorarm64/3.7.0/blue-falcon-plugin-clone-iossimulatorarm64-3.7.0.jar returned status 404
+3.7.0	metadata	2026-08-06T13:07:27Z	

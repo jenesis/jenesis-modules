@@ -61,12 +61,19 @@
 0.19.6		2026-06-22T10:03:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.19.6/arguments-macosx64-0.19.6.jar returned status 404
 0.19.6	metadata	2026-06-22T10:03:42Z	
 0.19.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.19.7/arguments-macosx64-0.19.7.jar returned status 404
+0.19.7	metadata	2026-07-23T20:54:09Z	
 0.20.0-RC.1		2026-06-18T22:02:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.20.0-RC.1/arguments-macosx64-0.20.0-RC.1.jar returned status 404
 0.20.0-RC.1	metadata	2026-06-18T22:02:42Z	
 0.20.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.20.0-RC.10/arguments-macosx64-0.20.0-RC.10.jar returned status 404
+0.20.0-RC.10	metadata	2026-07-23T16:27:20Z	
 0.20.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.20.0-RC.11/arguments-macosx64-0.20.0-RC.11.jar returned status 404
+0.20.0-RC.11	metadata	2026-07-24T20:26:58Z	
 0.20.0-RC.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.20.0-RC.12/arguments-macosx64-0.20.0-RC.12.jar returned status 404
+0.20.0-RC.12	metadata	2026-07-28T14:02:21Z	
 0.20.0-RC.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.20.0-RC.13/arguments-macosx64-0.20.0-RC.13.jar returned status 404
+0.20.0-RC.13	metadata	2026-07-29T16:15:05Z	
+0.20.0-RC.14		2026-08-10T08:54:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.20.0-RC.14/arguments-macosx64-0.20.0-RC.14.jar returned status 404
+0.20.0-RC.14	metadata	2026-08-10T08:54:34Z	
 0.20.0-RC.2		2026-06-23T18:50:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.20.0-RC.2/arguments-macosx64-0.20.0-RC.2.jar returned status 404
 0.20.0-RC.2	metadata	2026-06-23T18:50:21Z	
 0.20.0-RC.3		2026-06-24T21:03:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.20.0-RC.3/arguments-macosx64-0.20.0-RC.3.jar returned status 404
@@ -82,3 +89,4 @@
 0.20.0-RC.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.20.0-RC.8/arguments-macosx64-0.20.0-RC.8.jar returned status 404
 0.20.0-RC.8	metadata	2026-07-17T08:41:26Z	
 0.20.0-RC.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-macosx64/0.20.0-RC.9/arguments-macosx64-0.20.0-RC.9.jar returned status 404
+0.20.0-RC.9	metadata	2026-07-23T11:50:39Z	

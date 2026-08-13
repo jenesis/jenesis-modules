@@ -2692,3 +2692,12 @@ dev.flyfish.validation.boot2.autoconfigure
 dev.flyfish.validation.javax
 dev.flyfish.validation.jakarta
 dev.flyfish.validation.core
+dev.cardigan
+com.gizmodata.quack.jdbc
+dev.airouter.contract
+de.sayayi.lib.message.spring
+de.sayayi.lib.message.annotations
+de.sayayi.lib.message
+org.apache.commons.text
+de.cuioss.sheriff.token.validation
+de.cuioss.sheriff.gateway

@@ -4,3 +4,4 @@
 0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/kim-linuxarm64/0.30.0/kim-linuxarm64-0.30.0.jar returned status 404
 0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/kim-linuxarm64/0.31.0/kim-linuxarm64-0.31.0.jar returned status 404
 0.32.0		2026-06-30T10:22:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/kim-linuxarm64/0.32.0/kim-linuxarm64-0.32.0.jar returned status 404
+0.33.0		2026-08-09T19:04:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/kim-linuxarm64/0.33.0/kim-linuxarm64-0.33.0.jar returned status 404
