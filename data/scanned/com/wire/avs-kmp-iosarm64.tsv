@@ -83,11 +83,23 @@
 10.4.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.20/avs-kmp-iosarm64-10.4.20.jar returned status 404
 10.4.20	metadata	2026-07-16T16:39:18Z	
 10.4.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.26/avs-kmp-iosarm64-10.4.26.jar returned status 404
+10.4.26	metadata	2026-07-23T17:34:18Z	
 10.4.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.27/avs-kmp-iosarm64-10.4.27.jar returned status 404
+10.4.27	metadata	2026-07-24T06:44:18Z	
 10.4.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.28/avs-kmp-iosarm64-10.4.28.jar returned status 404
+10.4.28	metadata	2026-07-24T07:29:04Z	
 10.4.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.29/avs-kmp-iosarm64-10.4.29.jar returned status 404
+10.4.29	metadata	2026-07-24T11:39:13Z	
 10.4.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.30/avs-kmp-iosarm64-10.4.30.jar returned status 404
+10.4.30	metadata	2026-07-24T13:44:03Z	
 10.4.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.31/avs-kmp-iosarm64-10.4.31.jar returned status 404
+10.4.31	metadata	2026-07-28T10:39:16Z	
+10.4.32		2026-08-04T08:19:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.32/avs-kmp-iosarm64-10.4.32.jar returned status 404
+10.4.32	metadata	2026-08-04T08:19:29Z	
+10.4.34		2026-08-05T15:39:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.34/avs-kmp-iosarm64-10.4.34.jar returned status 404
+10.4.34	metadata	2026-08-05T15:39:01Z	
+10.4.38		2026-08-06T14:59:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.38/avs-kmp-iosarm64-10.4.38.jar returned status 404
+10.4.38	metadata	2026-08-06T14:59:32Z	
 10.4.4		2026-06-03T09:46:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.4/avs-kmp-iosarm64-10.4.4.jar returned status 404
 10.4.4	metadata	2026-06-03T09:46:37Z	
 10.4.5		2026-06-03T10:12:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.4.5/avs-kmp-iosarm64-10.4.5.jar returned status 404
@@ -101,3 +113,6 @@
 10.5.2		2026-07-03T09:37:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.5.2/avs-kmp-iosarm64-10.5.2.jar returned status 404
 10.5.2	metadata	2026-07-03T09:37:48Z	
 10.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.5.3/avs-kmp-iosarm64-10.5.3.jar returned status 404
+10.5.3	metadata	2026-07-21T11:25:24Z	
+10.5.7		2026-08-11T11:38:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-iosarm64/10.5.7/avs-kmp-iosarm64-10.5.7.jar returned status 404
+10.5.7	metadata	2026-08-11T11:38:06Z	

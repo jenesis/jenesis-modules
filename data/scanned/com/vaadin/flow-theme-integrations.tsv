@@ -95,6 +95,7 @@
 2.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-theme-integrations/2.13.4/flow-theme-integrations-2.13.4.jar returned status 404
 2.13.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-theme-integrations/2.13.5/flow-theme-integrations-2.13.5.jar returned status 404
 2.13.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-theme-integrations/2.13.6/flow-theme-integrations-2.13.6.jar returned status 404
+2.13.7		2026-08-06T13:43:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-theme-integrations/2.13.7/flow-theme-integrations-2.13.7.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-theme-integrations/2.2.0/flow-theme-integrations-2.2.0.jar returned status 404
 2.2.0.alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-theme-integrations/2.2.0.alpha11/flow-theme-integrations-2.2.0.alpha11.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-theme-integrations/2.2.1/flow-theme-integrations-2.2.1.jar returned status 404

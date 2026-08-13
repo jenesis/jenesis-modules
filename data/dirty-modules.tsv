@@ -2758,3 +2758,15 @@ com.xkball.xklib.mc
 com.xkball.xklib.ap
 com.xkball.xklib
 com.xenoamess.cyan_potion.sdl_game_controller_db_util
+kotlin.stdlib
+com.onlinepayments
+com.vaadin.hilla.runtime.transfertypes
+com.vaadin.hilla.parser.utils
+com.vaadin.hilla.parser.testutils
+com.vaadin.hilla.parser.plugins.transfertypes
+com.vaadin.hilla.parser.plugins.subtypes
+com.vaadin.hilla.parser.plugins.nonnull
+com.vaadin.hilla.parser.plugins.model
+com.vaadin.hilla.parser.plugins.backbone
+com.vaadin.hilla.parser.core
+com.nimbusds.jose.jwt
