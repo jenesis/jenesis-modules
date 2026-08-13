@@ -23,3 +23,5 @@
 34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/dkpro-parent-pom/34/dkpro-parent-pom-34.jar returned status 404
 35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/dkpro-parent-pom/35/dkpro-parent-pom-35.jar returned status 404
 36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/dkpro-parent-pom/36/dkpro-parent-pom-36.jar returned status 404
+37		2026-08-08T13:46:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/dkpro-parent-pom/37/dkpro-parent-pom-37.jar returned status 404
+38		2026-08-08T20:24:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dkpro/dkpro-parent-pom/38/dkpro-parent-pom-38.jar returned status 404

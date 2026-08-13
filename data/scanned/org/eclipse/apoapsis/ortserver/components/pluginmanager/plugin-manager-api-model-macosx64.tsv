@@ -77,5 +77,14 @@
 0.80.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/pluginmanager/plugin-manager-api-model-macosx64/0.80.1/plugin-manager-api-model-macosx64-0.80.1.jar returned status 404
 0.80.1	metadata	2026-07-15T07:28:56Z	
 0.81.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/pluginmanager/plugin-manager-api-model-macosx64/0.81.0/plugin-manager-api-model-macosx64-0.81.0.jar returned status 404
+0.81.0	metadata	2026-07-22T08:07:44Z	
 0.82.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/pluginmanager/plugin-manager-api-model-macosx64/0.82.0/plugin-manager-api-model-macosx64-0.82.0.jar returned status 404
+0.82.0	metadata	2026-07-28T13:28:56Z	
 0.82.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/pluginmanager/plugin-manager-api-model-macosx64/0.82.1/plugin-manager-api-model-macosx64-0.82.1.jar returned status 404
+0.82.1	metadata	2026-07-29T08:56:11Z	
+0.83.0		2026-08-04T12:42:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/pluginmanager/plugin-manager-api-model-macosx64/0.83.0/plugin-manager-api-model-macosx64-0.83.0.jar returned status 404
+0.83.0	metadata	2026-08-04T12:42:04Z	
+0.84.0		2026-08-05T10:59:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/pluginmanager/plugin-manager-api-model-macosx64/0.84.0/plugin-manager-api-model-macosx64-0.84.0.jar returned status 404
+0.84.0	metadata	2026-08-05T10:59:05Z	
+0.85.0		2026-08-07T07:59:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/pluginmanager/plugin-manager-api-model-macosx64/0.85.0/plugin-manager-api-model-macosx64-0.85.0.jar returned status 404
+0.85.0	metadata	2026-08-07T07:59:42Z	
