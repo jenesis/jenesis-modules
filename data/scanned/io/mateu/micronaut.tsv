@@ -145,5 +145,7 @@
 3.0-alpha.283			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/micronaut/3.0-alpha.283/micronaut-3.0-alpha.283.jar returned status 404
 3.0-alpha.284			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/micronaut/3.0-alpha.284/micronaut-3.0-alpha.284.jar returned status 404
 3.0-alpha.285			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/micronaut/3.0-alpha.285/micronaut-3.0-alpha.285.jar returned status 404
+3.0-alpha.286		2026-08-09T22:17:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/micronaut/3.0-alpha.286/micronaut-3.0-alpha.286.jar returned status 404
+3.0-alpha.287		2026-08-10T08:50:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/micronaut/3.0-alpha.287/micronaut-3.0-alpha.287.jar returned status 404
 3.0-alpha.98			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/micronaut/3.0-alpha.98/micronaut-3.0-alpha.98.jar returned status 404
 3.0-alpha.99			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/micronaut/3.0-alpha.99/micronaut-3.0-alpha.99.jar returned status 404

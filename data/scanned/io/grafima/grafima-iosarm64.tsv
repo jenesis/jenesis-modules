@@ -1,0 +1,6 @@
+1.0.0		2026-07-31T13:46:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grafima/grafima-iosarm64/1.0.0/grafima-iosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-07-31T13:46:56Z	
+1.1.0		2026-08-08T06:00:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grafima/grafima-iosarm64/1.1.0/grafima-iosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-08-08T06:00:43Z	
+1.1.1		2026-08-10T15:48:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grafima/grafima-iosarm64/1.1.1/grafima-iosarm64-1.1.1.jar returned status 404
+1.1.1	metadata	2026-08-10T15:48:53Z	

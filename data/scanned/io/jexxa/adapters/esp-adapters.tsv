@@ -2,3 +2,4 @@
 2.0.1		2026-05-23T08:26:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/adapters/esp-adapters/2.0.1/esp-adapters-2.0.1.jar returned status 404
 2.0.2		2026-06-12T15:10:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/adapters/esp-adapters/2.0.2/esp-adapters-2.0.2.jar returned status 404
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/adapters/esp-adapters/2.0.3/esp-adapters-2.0.3.jar returned status 404
+2.0.4		2026-08-10T05:19:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/adapters/esp-adapters/2.0.4/esp-adapters-2.0.4.jar returned status 404

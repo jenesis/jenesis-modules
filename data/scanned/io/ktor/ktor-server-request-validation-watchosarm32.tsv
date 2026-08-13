@@ -135,3 +135,4 @@
 3.5.1		2026-06-25T11:30:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-request-validation-watchosarm32/3.5.1/ktor-server-request-validation-watchosarm32-3.5.1.jar returned status 404
 3.5.1	metadata	2026-06-25T11:30:06Z	
 3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/ktor/ktor-server-request-validation-watchosarm32/3.5.2/ktor-server-request-validation-watchosarm32-3.5.2.jar returned status 404
+3.5.2	metadata	2026-07-31T12:34:01Z	
