@@ -496,3 +496,6 @@
 2.0.1	named	com.clickzetta	clickzetta-jdbc	2026-07-15T02:15:41Z	2.26.1
 4.0.4	named	org.apache.spark	spark-connect_2.13	2026-07-16T02:35:09Z	2.36.0
 0.4.3	named	com.salesforce.multicloudj	multicloudj-examples	2026-07-22T00:16:35Z	2.31.0
+4.2.2	named	org.checkerframework	dataflow-errorprone	2026-08-06T18:35:49Z	2.50.0
+4.2.2	named	org.checkerframework	dataflow-shaded	2026-08-06T18:35:49Z	2.50.0
+4.2.2	named	org.checkerframework	dataflow-nullaway	2026-08-06T18:35:50Z	2.50.0

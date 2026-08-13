@@ -196,4 +196,6 @@
 5.2.0-RC1		2026-07-01T10:36:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.2.0-RC1/axon-5.2.0-RC1.jar returned status 404
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.2.1/axon-5.2.1.jar returned status 404
 5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.2.2/axon-5.2.2.jar returned status 404
+5.2.3		2026-08-04T13:06:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.2.3/axon-5.2.3.jar returned status 404
+5.3.0		2026-08-05T12:56:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.3.0/axon-5.3.0.jar returned status 404
 5.3.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/axonframework/axon/5.3.0-RC1/axon-5.3.0-RC1.jar returned status 404

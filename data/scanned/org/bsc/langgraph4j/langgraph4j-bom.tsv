@@ -50,6 +50,9 @@
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.2/langgraph4j-bom-1.8.2.jar returned status 404
 1.8.20		2026-06-27T18:36:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.20/langgraph4j-bom-1.8.20.jar returned status 404
 1.8.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.21/langgraph4j-bom-1.8.21.jar returned status 404
+1.8.22		2026-08-03T18:47:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.22/langgraph4j-bom-1.8.22.jar returned status 404
+1.8.23		2026-08-06T08:35:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.23/langgraph4j-bom-1.8.23.jar returned status 404
+1.8.24		2026-08-09T18:47:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.24/langgraph4j-bom-1.8.24.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.3/langgraph4j-bom-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.4/langgraph4j-bom-1.8.4.jar returned status 404
 1.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.5/langgraph4j-bom-1.8.5.jar returned status 404
@@ -58,3 +61,4 @@
 1.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.8/langgraph4j-bom-1.8.8.jar returned status 404
 1.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.8.9/langgraph4j-bom-1.8.9.jar returned status 404
 1.9.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.9.0-beta1/langgraph4j-bom-1.9.0-beta1.jar returned status 404
+1.9.0-beta2		2026-08-06T17:28:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bsc/langgraph4j/langgraph4j-bom/1.9.0-beta2/langgraph4j-bom-1.9.0-beta2.jar returned status 404

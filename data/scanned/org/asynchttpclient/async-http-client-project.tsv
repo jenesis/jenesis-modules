@@ -165,6 +165,7 @@
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-project/3.0.1/async-http-client-project-3.0.1.jar returned status 404
 3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-project/3.0.10/async-http-client-project-3.0.10.jar returned status 404
 3.0.11		2026-06-14T22:18:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-project/3.0.11/async-http-client-project-3.0.11.jar returned status 404
+3.0.12		2026-08-09T10:17:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-project/3.0.12/async-http-client-project-3.0.12.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-project/3.0.2/async-http-client-project-3.0.2.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-project/3.0.3/async-http-client-project-3.0.3.jar returned status 404
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-project/3.0.4/async-http-client-project-3.0.4.jar returned status 404

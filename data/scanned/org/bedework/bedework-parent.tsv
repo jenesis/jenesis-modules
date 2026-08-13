@@ -86,6 +86,8 @@
 258			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework-parent/258/bedework-parent-258.jar returned status 404
 259			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework-parent/259/bedework-parent-259.jar returned status 404
 26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework-parent/26/bedework-parent-26.jar returned status 404
+260		2026-08-09T03:29:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework-parent/260/bedework-parent-260.jar returned status 404
+261		2026-08-09T05:33:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework-parent/261/bedework-parent-261.jar returned status 404
 27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework-parent/27/bedework-parent-27.jar returned status 404
 28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework-parent/28/bedework-parent-28.jar returned status 404
 29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bedework-parent/29/bedework-parent-29.jar returned status 404

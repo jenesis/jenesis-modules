@@ -4,3 +4,4 @@
 1.83			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bouncycastle/bc-jdk18on-bom/1.83/bc-jdk18on-bom-1.83.jar returned status 404
 1.84			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bouncycastle/bc-jdk18on-bom/1.84/bc-jdk18on-bom-1.84.jar returned status 404
 1.85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bouncycastle/bc-jdk18on-bom/1.85/bc-jdk18on-bom-1.85.jar returned status 404
+1.85.2		2026-08-07T03:37:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bouncycastle/bc-jdk18on-bom/1.85.2/bc-jdk18on-bom-1.85.2.jar returned status 404

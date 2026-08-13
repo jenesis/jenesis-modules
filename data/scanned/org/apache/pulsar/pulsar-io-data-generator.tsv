@@ -86,6 +86,7 @@
 4.0.10		2026-04-23T11:22:40Z	
 4.0.11		2026-06-05T17:31:12Z	
 4.0.12			
+4.0.13		2026-07-26T20:59:21Z	
 4.0.2		2025-01-17T19:52:00Z	
 4.0.3		2025-02-25T13:03:24Z	
 4.0.4		2025-03-31T14:32:56Z	
@@ -102,4 +103,5 @@
 4.2.1		2026-04-23T10:44:26Z	
 4.2.2		2026-06-05T17:20:09Z	
 4.2.3			
+4.2.4		2026-07-26T20:48:58Z	
 5.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-data-generator/5.0.0-M1/pulsar-io-data-generator-5.0.0-M1.jar returned status 404

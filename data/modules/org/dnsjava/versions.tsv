@@ -253,6 +253,8 @@
 2.75.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2026-07-08T23:58:09Z	3.6.1
 3.0.0-beta-2	named	org.apache.hbase	hbase-shaded-client	2026-07-16T02:22:03Z	3.6.1
 3.0.0-beta-2	named	org.apache.hbase	hbase-shaded-testing-util	2026-07-16T02:22:06Z	3.6.1
+3.0.0	named	org.apache.hbase	hbase-shaded-client	2026-07-17T16:42:44Z	3.6.1
+3.0.0	named	org.apache.hbase	hbase-shaded-testing-util	2026-07-17T16:47:54Z	3.6.1
 1.1.0	named	ai.platon.gora	gora-core-shaded	2026-07-19T23:57:02Z	3.6.1
 0.59.0	named	ai.askamerica	askamerica-engine	2026-07-28T23:52:11Z	3.6.1
 0.60.0	named	ai.askamerica	askamerica-engine	2026-07-28T23:52:14Z	3.6.1
@@ -280,6 +282,10 @@
 0.67.0	named	io.simpleishard	trino-file	2026-08-02T00:02:41Z	3.6.1
 0.68.0	named	io.simpleishard	trino-file	2026-08-03T08:20:33Z	3.6.1
 0.69.0	named	io.simpleishard	trino-file	2026-08-04T02:01:03Z	3.6.1
+2.0.0	named	org.apache.paimon	paimon-azure	2026-08-04T03:45:43Z	3.6.1
+2.0.0	named	org.apache.paimon	paimon-azure-impl	2026-08-04T03:47:57Z	3.6.1
+2.0.0	named	org.apache.paimon	paimon-s3	2026-08-04T03:49:35Z	3.6.1
+2.0.0	named	org.apache.paimon	paimon-s3-impl	2026-08-04T03:50:11Z	3.6.1
 0.71.0	named	io.simpleishard	trino-file	2026-08-05T02:03:47Z	3.6.1
 0.70.0	named	io.simpleishard	trino-file	2026-08-05T02:03:47Z	3.6.1
 0.72.0	named	io.simpleishard	trino-file	2026-08-08T02:06:42Z	3.6.1

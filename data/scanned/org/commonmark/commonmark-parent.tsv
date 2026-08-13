@@ -17,3 +17,4 @@
 0.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/commonmark/commonmark-parent/0.27.1/commonmark-parent-0.27.1.jar returned status 404
 0.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/commonmark/commonmark-parent/0.28.0/commonmark-parent-0.28.0.jar returned status 404
 0.29.0		2026-06-20T07:20:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/commonmark/commonmark-parent/0.29.0/commonmark-parent-0.29.0.jar returned status 404
+0.30.0		2026-08-06T01:38:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/commonmark/commonmark-parent/0.30.0/commonmark-parent-0.30.0.jar returned status 404

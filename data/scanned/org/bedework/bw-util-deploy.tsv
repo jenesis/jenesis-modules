@@ -16,3 +16,4 @@
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-util-deploy/5.1.0/bw-util-deploy-5.1.0.jar returned status 404
 5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-util-deploy/5.1.1/bw-util-deploy-5.1.1.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-util-deploy/6.0.0/bw-util-deploy-6.0.0.jar returned status 404
+6.0.1		2026-08-09T03:37:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bedework/bw-util-deploy/6.0.1/bw-util-deploy-6.0.1.jar returned status 404
