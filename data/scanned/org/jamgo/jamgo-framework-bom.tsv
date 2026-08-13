@@ -18,3 +18,4 @@
 8.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jamgo/jamgo-framework-bom/8.5.0/jamgo-framework-bom-8.5.0.jar returned status 404
 8.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jamgo/jamgo-framework-bom/8.5.2/jamgo-framework-bom-8.5.2.jar returned status 404
 8.8.0		2026-06-01T08:37:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jamgo/jamgo-framework-bom/8.8.0/jamgo-framework-bom-8.8.0.jar returned status 404
+8.8.1		2026-08-05T05:11:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jamgo/jamgo-framework-bom/8.8.1/jamgo-framework-bom-8.8.1.jar returned status 404

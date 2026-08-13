@@ -50,6 +50,7 @@
 50.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridsuite/gridsuite-dependencies/50.0.0/gridsuite-dependencies-50.0.0.jar returned status 404
 50.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridsuite/gridsuite-dependencies/50.1.0/gridsuite-dependencies-50.1.0.jar returned status 404
 51.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridsuite/gridsuite-dependencies/51.0.0/gridsuite-dependencies-51.0.0.jar returned status 404
+51.1.0		2026-08-05T14:52:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridsuite/gridsuite-dependencies/51.1.0/gridsuite-dependencies-51.1.0.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridsuite/gridsuite-dependencies/6/gridsuite-dependencies-6.jar returned status 404
 7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridsuite/gridsuite-dependencies/7/gridsuite-dependencies-7.jar returned status 404
 8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gridsuite/gridsuite-dependencies/8/gridsuite-dependencies-8.jar returned status 404

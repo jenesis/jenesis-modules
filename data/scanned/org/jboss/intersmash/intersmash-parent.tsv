@@ -2,3 +2,5 @@
 0.0.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/intersmash/intersmash-parent/0.0.4.Final/intersmash-parent-0.0.4.Final.jar returned status 404
 0.0.5.Beta1		2026-06-25T16:03:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/intersmash/intersmash-parent/0.0.5.Beta1/intersmash-parent-0.0.5.Beta1.jar returned status 404
 0.0.5.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/intersmash/intersmash-parent/0.0.5.Beta2/intersmash-parent-0.0.5.Beta2.jar returned status 404
+0.0.5.Beta3		2026-08-05T09:28:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/intersmash/intersmash-parent/0.0.5.Beta3/intersmash-parent-0.0.5.Beta3.jar returned status 404
+0.0.5.Beta4		2026-08-06T14:03:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/intersmash/intersmash-parent/0.0.5.Beta4/intersmash-parent-0.0.5.Beta4.jar returned status 404

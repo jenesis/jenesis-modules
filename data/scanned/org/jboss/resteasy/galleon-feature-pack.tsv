@@ -33,6 +33,7 @@
 6.2.14.Final		2025-09-28T16:56:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/galleon-feature-pack/6.2.14.Final/galleon-feature-pack-6.2.14.Final.jar returned status 404
 6.2.15.Final		2025-12-10T19:17:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/galleon-feature-pack/6.2.15.Final/galleon-feature-pack-6.2.15.Final.jar returned status 404
 6.2.16.Final		2026-04-15T17:19:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/galleon-feature-pack/6.2.16.Final/galleon-feature-pack-6.2.16.Final.jar returned status 404
+6.2.17.Final		2026-08-04T00:42:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/galleon-feature-pack/6.2.17.Final/galleon-feature-pack-6.2.17.Final.jar returned status 404
 6.2.2.Final			
 6.2.3.Final			
 6.2.4.Final			
@@ -50,3 +51,4 @@
 7.0.0.Final		2025-09-27T17:48:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/galleon-feature-pack/7.0.0.Final/galleon-feature-pack-7.0.0.Final.jar returned status 404
 7.0.1.Final		2025-12-10T17:56:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/galleon-feature-pack/7.0.1.Final/galleon-feature-pack-7.0.1.Final.jar returned status 404
 7.0.2.Final		2026-04-15T17:56:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/galleon-feature-pack/7.0.2.Final/galleon-feature-pack-7.0.2.Final.jar returned status 404
+7.0.3.Final		2026-08-04T01:04:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/galleon-feature-pack/7.0.3.Final/galleon-feature-pack-7.0.3.Final.jar returned status 404

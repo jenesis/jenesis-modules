@@ -1,4 +1,5 @@
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-websocket-builtin-watchosx64/10.0.0/krossbow-websocket-builtin-watchosx64-10.0.0.jar returned status 404
+10.0.0	metadata	2026-07-30T00:20:57Z	
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-websocket-builtin-watchosx64/4.2.0/krossbow-websocket-builtin-watchosx64-4.2.0.jar returned status 404
 4.2.0	metadata	2022-10-18T23:36:44Z	
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hildan/krossbow/krossbow-websocket-builtin-watchosx64/4.3.0/krossbow-websocket-builtin-watchosx64-4.3.0.jar returned status 404
