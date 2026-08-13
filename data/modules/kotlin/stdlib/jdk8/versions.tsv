@@ -1875,4 +1875,6 @@
 1.64.0	named	com.google.genai	google-genai	2026-07-31T02:22:43Z	
 3.10.12	named	com.aliyun.odps	odps-jdbc	2026-08-01T00:01:05Z	
 2.0.0	named	eu.rekawek.coffeegb	coffee-gb-cli	2026-08-03T01:20:29Z	
+7.8.0	named	com.newrelic.agent.android	agent-gradle-plugin-static	2026-08-06T13:35:37Z	
+7.8.0	named	com.newrelic.agent.android	agent-gradle-plugin	2026-08-06T13:35:49Z	
 2.0.1	named	eu.rekawek.coffeegb	coffee-gb-cli	2026-08-10T22:11:09Z	

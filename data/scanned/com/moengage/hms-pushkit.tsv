@@ -29,3 +29,4 @@
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/hms-pushkit/6.4.0/hms-pushkit-6.4.0.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/hms-pushkit/6.5.0/hms-pushkit-6.5.0.jar returned status 404
 7.0.0		2026-07-07T08:45:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/hms-pushkit/7.0.0/hms-pushkit-7.0.0.jar returned status 404
+7.1.0		2026-08-03T08:23:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/hms-pushkit/7.1.0/hms-pushkit-7.1.0.jar returned status 404

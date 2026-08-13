@@ -305,8 +305,11 @@
 1.10.2			
 1.10.2	shadow	2026-07-13T19:55:31Z	
 1.10.3			
+1.10.3	shadow	2026-07-22T19:23:37Z	
 1.10.4			
+1.10.4	shadow	2026-07-23T15:46:19Z	
 1.10.5			
+1.10.5	shadow	2026-07-31T17:16:09Z	
 1.2.0		2022-03-22T14:21:30Z	
 1.2.0	shadow		InvalidModuleDescriptorException: com.netflix.spectator.spark-shaded.json.core.ObjectCodec: Invalid service type name: 'spark-shaded' is not a Java identifier
 1.2.1		2022-03-29T15:27:10Z	

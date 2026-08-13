@@ -10,6 +10,7 @@
 1.10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilefuse/sdk/mobilefuse-adapter-admob/1.10.0.0/mobilefuse-adapter-admob-1.10.0.0.jar returned status 404
 1.11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilefuse/sdk/mobilefuse-adapter-admob/1.11.0.0/mobilefuse-adapter-admob-1.11.0.0.jar returned status 404
 1.11.0.1		2026-05-29T22:13:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilefuse/sdk/mobilefuse-adapter-admob/1.11.0.1/mobilefuse-adapter-admob-1.11.0.1.jar returned status 404
+1.12.0.0		2026-08-10T17:32:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilefuse/sdk/mobilefuse-adapter-admob/1.12.0.0/mobilefuse-adapter-admob-1.12.0.0.jar returned status 404
 1.2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilefuse/sdk/mobilefuse-adapter-admob/1.2.0.0/mobilefuse-adapter-admob-1.2.0.0.jar returned status 404
 1.2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilefuse/sdk/mobilefuse-adapter-admob/1.2.1.0/mobilefuse-adapter-admob-1.2.1.0.jar returned status 404
 1.2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mobilefuse/sdk/mobilefuse-adapter-admob/1.2.2.0/mobilefuse-adapter-admob-1.2.2.0.jar returned status 404

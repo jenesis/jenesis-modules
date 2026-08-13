@@ -1,5 +1,7 @@
 1.0.0		2026-07-20T17:39:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mohamedrejeb/richeditor/richeditor-compose-coil3-iossimulatorarm64/1.0.0/richeditor-compose-coil3-iossimulatorarm64-1.0.0.jar returned status 404
 1.0.0	metadata	2026-07-20T17:39:02Z	
+1.0.0-cmp-1.12.0-beta03		2026-08-10T08:02:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mohamedrejeb/richeditor/richeditor-compose-coil3-iossimulatorarm64/1.0.0-cmp-1.12.0-beta03/richeditor-compose-coil3-iossimulatorarm64-1.0.0-cmp-1.12.0-beta03.jar returned status 404
+1.0.0-cmp-1.12.0-beta03	metadata	2026-08-10T08:02:04Z	
 1.0.0-rc06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mohamedrejeb/richeditor/richeditor-compose-coil3-iossimulatorarm64/1.0.0-rc06/richeditor-compose-coil3-iossimulatorarm64-1.0.0-rc06.jar returned status 404
 1.0.0-rc06	metadata	2024-08-20T22:32:46Z	
 1.0.0-rc07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mohamedrejeb/richeditor/richeditor-compose-coil3-iossimulatorarm64/1.0.0-rc07/richeditor-compose-coil3-iossimulatorarm64-1.0.0-rc07.jar returned status 404

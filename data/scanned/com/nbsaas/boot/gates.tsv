@@ -10,6 +10,7 @@
 1.0.6-2023			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/gates/1.0.6-2023/gates-1.0.6-2023.jar returned status 404
 1.0.7-2023			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/gates/1.0.7-2023/gates-1.0.7-2023.jar returned status 404
 1.0.8-2023			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/gates/1.0.8-2023/gates-1.0.8-2023.jar returned status 404
+1.01		2026-08-10T03:01:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/gates/1.01/gates-1.01.jar returned status 404
 1.1.1-2024			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/gates/1.1.1-2024/gates-1.1.1-2024.jar returned status 404
 1.1.10-2024			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/gates/1.1.10-2024/gates-1.1.10-2024.jar returned status 404
 1.1.11-2024			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/gates/1.1.11-2024/gates-1.1.11-2024.jar returned status 404
