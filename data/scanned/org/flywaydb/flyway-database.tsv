@@ -50,3 +50,4 @@
 12.9.0		2026-06-18T09:44:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-database/12.9.0/flyway-database-12.9.0.jar returned status 404
 13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-database/13.0.0/flyway-database-13.0.0.jar returned status 404
 13.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-database/13.1.0/flyway-database-13.1.0.jar returned status 404
+13.2.0		2026-08-06T12:27:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/flywaydb/flyway-database/13.2.0/flyway-database-13.2.0.jar returned status 404

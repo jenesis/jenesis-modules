@@ -1393,3 +1393,10 @@ org.apache.cxf.rs.security.jose
 org.apache.cxf.core
 kala.encdet
 org.glassfish.main.jul
+org.glassfish.main.bootstrap
+org.glassfish.main.api.simple
+org.glassfish.main.jdke
+org.snakeyaml.engine.v2
+org.flywaydb.core
+io.github.classgraph
+io.netty.internal.tcnative

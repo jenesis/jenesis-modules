@@ -233,3 +233,15 @@ cf08dc5.dirty	named	dev.vortex	vortex-jni	2025-04-17T14:41:39Z	33.4.8-jre
 6.0.0.rc1	named	org.conductoross	conductor-client	2026-07-14T21:44:16Z	33.6.0-jre
 6.0.0.rc1	named	io.orkes.conductor	orkes-conductor-client	2026-07-14T21:46:18Z	33.6.0-jre
 6.0.0.rc2	named	org.conductoross	conductor-client	2026-07-16T15:36:25Z	33.6.0-jre
+4.12.13.0	named	org.foundationdb	fdb-record-layer-core	2026-07-22T11:29:32Z	33.4.8-jre
+4.12.13.0	named	org.foundationdb	fdb-relational-cli	2026-07-22T11:29:33Z	33.4.8-jre
+4.12.13.0	named	org.foundationdb	fdb-relational-server	2026-07-22T11:29:33Z	33.4.8-jre
+4.12.14.0	named	org.foundationdb	fdb-record-layer-core	2026-07-24T21:08:58Z	33.4.8-jre
+4.12.14.0	named	org.foundationdb	fdb-relational-cli	2026-07-24T21:08:59Z	33.4.8-jre
+4.12.14.0	named	org.foundationdb	fdb-relational-server	2026-07-24T21:08:59Z	33.4.8-jre
+4.12.15.0	named	org.foundationdb	fdb-record-layer-core	2026-07-27T16:48:32Z	33.4.8-jre
+4.12.15.0	named	org.foundationdb	fdb-relational-cli	2026-07-27T16:48:32Z	33.4.8-jre
+4.12.15.0	named	org.foundationdb	fdb-relational-server	2026-07-27T16:48:32Z	33.4.8-jre
+4.12.16.0	named	org.foundationdb	fdb-record-layer-core	2026-07-27T22:19:44Z	33.4.8-jre
+4.12.16.0	named	org.foundationdb	fdb-relational-cli	2026-07-27T22:19:44Z	33.4.8-jre
+4.12.16.0	named	org.foundationdb	fdb-relational-server	2026-07-27T22:19:44Z	33.4.8-jre
