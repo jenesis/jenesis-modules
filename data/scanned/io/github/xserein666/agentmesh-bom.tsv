@@ -1,0 +1,2 @@
+1.0.0		2026-08-05T14:18:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xserein666/agentmesh-bom/1.0.0/agentmesh-bom-1.0.0.jar returned status 404
+1.1.1		2026-08-07T11:09:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xserein666/agentmesh-bom/1.1.1/agentmesh-bom-1.1.1.jar returned status 404

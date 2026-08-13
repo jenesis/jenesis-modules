@@ -21,6 +21,7 @@
 0.14.2		2026-06-13T12:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vinceglb/filekit-core-macosarm64/0.14.2/filekit-core-macosarm64-0.14.2.jar returned status 404
 0.14.2	metadata	2026-06-13T12:58:46Z	
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vinceglb/filekit-core-macosarm64/0.15.0/filekit-core-macosarm64-0.15.0.jar returned status 404
+0.15.0	metadata	2026-08-08T21:40:53Z	
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vinceglb/filekit-core-macosarm64/0.4.0/filekit-core-macosarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2024-05-29T00:03:48Z	
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vinceglb/filekit-core-macosarm64/0.4.1/filekit-core-macosarm64-0.4.1.jar returned status 404

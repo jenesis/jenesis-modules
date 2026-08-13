@@ -1,0 +1,2 @@
+0.0.1		2026-08-07T10:53:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vnixx/thorvg/0.0.1/thorvg-0.0.1.jar returned status 404
+1.1.0		2026-08-10T08:10:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vnixx/thorvg/1.1.0/thorvg-1.1.0.jar returned status 404

@@ -1,0 +1,2 @@
+1.0.0		2026-08-02T16:02:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xfoundries/jfoundry-infrastructure/1.0.0/jfoundry-infrastructure-1.0.0.jar returned status 404
+1.0.1		2026-08-06T15:01:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xfoundries/jfoundry-infrastructure/1.0.1/jfoundry-infrastructure-1.0.1.jar returned status 404

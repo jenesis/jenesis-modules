@@ -27,7 +27,9 @@
 1.28.0-composelive-0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-profiler-tvosarm64/1.28.0-composelive-0.10/zipline-profiler-tvosarm64-1.28.0-composelive-0.10.jar returned status 404
 1.28.0-composelive-0.10	metadata	2026-07-17T17:53:42Z	
 1.28.0-composelive-0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-profiler-tvosarm64/1.28.0-composelive-0.11/zipline-profiler-tvosarm64-1.28.0-composelive-0.11.jar returned status 404
+1.28.0-composelive-0.11	metadata	2026-07-27T11:08:59Z	
 1.28.0-composelive-0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-profiler-tvosarm64/1.28.0-composelive-0.12/zipline-profiler-tvosarm64-1.28.0-composelive-0.12.jar returned status 404
+1.28.0-composelive-0.12	metadata	2026-07-29T12:16:05Z	
 1.28.0-composelive-0.2		2026-06-11T16:34:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-profiler-tvosarm64/1.28.0-composelive-0.2/zipline-profiler-tvosarm64-1.28.0-composelive-0.2.jar returned status 404
 1.28.0-composelive-0.2	metadata	2026-06-11T16:34:56Z	
 1.28.0-composelive-0.3		2026-06-29T13:59:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-profiler-tvosarm64/1.28.0-composelive-0.3/zipline-profiler-tvosarm64-1.28.0-composelive-0.3.jar returned status 404
