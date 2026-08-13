@@ -3025,3 +3025,16 @@ com.jsunsoft.http
 com.joyzl.webserver
 com.joyzl.odbs
 com.joyzl.network
+jakarta.annotation
+com.fasterxml.jackson.jakarta.rs.json
+com.infomaximum.platform
+com.infomaximum.network
+com.plccom.modbus
+com.igormaznitsa.nanollvm
+com.iamsoft.jsch.customsubsystem
+com.iamsoft.util
+com.iamsoft.locationfacade
+com.iamsoft.util.ui.examples
+com.iamsoft.util.ui
+com.iamsoft.fixparser
+com.iamsoft.fixbuddy

@@ -1,1 +1,2 @@
+0.0.2		2026-08-11T19:13:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/infinum/arkive/com.infinum.arkive.gradle.plugin/0.0.2/com.infinum.arkive.gradle.plugin-0.0.2.jar returned status 404
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/infinum/arkive/com.infinum.arkive.gradle.plugin/unspecified/com.infinum.arkive.gradle.plugin-unspecified.jar returned status 404

@@ -1205,6 +1205,7 @@
 26.06.2	named	com.nvidia	rapids-4-spark-tools_2.12	2026-08-04T08:23:07Z	2.0
 3.32.0-rc.23	named	org.conductoross	conductor-os-persistence-v2	2026-08-04T22:01:47Z	2.2
 3.32.0-rc.23	named	org.conductoross	conductor-os-persistence-v3	2026-08-04T22:02:22Z	2.2
+3.1.210	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-08-06T09:26:45Z	2.3
 3.4.0	named	org.conductoross	conductor-os-persistence-v2	2026-08-07T19:28:18Z	2.2
 3.4.0	named	org.conductoross	conductor-os-persistence-v3	2026-08-07T19:28:45Z	2.2
 4.5.32	named	io.vertx	vertx-web-api-contract	2026-08-08T02:05:01Z	2.0

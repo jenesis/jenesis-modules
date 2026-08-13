@@ -15,6 +15,7 @@
 0.21.0		2026-06-05T07:02:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/watsonx/watsonx-ai-parent/0.21.0/watsonx-ai-parent-0.21.0.jar returned status 404
 0.22.0		2026-07-04T13:39:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/watsonx/watsonx-ai-parent/0.22.0/watsonx-ai-parent-0.22.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/watsonx/watsonx-ai-parent/0.3.0/watsonx-ai-parent-0.3.0.jar returned status 404
+0.30.0		2026-08-06T14:28:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/watsonx/watsonx-ai-parent/0.30.0/watsonx-ai-parent-0.30.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/watsonx/watsonx-ai-parent/0.4.0/watsonx-ai-parent-0.4.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/watsonx/watsonx-ai-parent/0.5.0/watsonx-ai-parent-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ibm/watsonx/watsonx-ai-parent/0.6.0/watsonx-ai-parent-0.6.0.jar returned status 404
