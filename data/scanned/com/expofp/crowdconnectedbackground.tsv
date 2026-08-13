@@ -24,3 +24,4 @@
 5.5.0		2026-06-23T14:47:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/expofp/crowdconnectedbackground/5.5.0/crowdconnectedbackground-5.5.0.jar returned status 404
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/expofp/crowdconnectedbackground/5.6.0/crowdconnectedbackground-5.6.0.jar returned status 404
 5.6.1		2026-07-20T12:31:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/expofp/crowdconnectedbackground/5.6.1/crowdconnectedbackground-5.6.1.jar returned status 404
+5.7.0		2026-08-05T14:48:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/expofp/crowdconnectedbackground/5.7.0/crowdconnectedbackground-5.7.0.jar returned status 404

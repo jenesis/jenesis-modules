@@ -8,3 +8,4 @@
 1.68.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/nghttp2-libnghttp2-linuxx64/1.68.1/nghttp2-libnghttp2-linuxx64-1.68.1.jar returned status 404
 1.69.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/nghttp2-libnghttp2-linuxx64/1.69.0/nghttp2-libnghttp2-linuxx64-1.69.0.jar returned status 404
 1.69.0_1		2026-07-06T09:41:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/nghttp2-libnghttp2-linuxx64/1.69.0_1/nghttp2-libnghttp2-linuxx64-1.69.0_1.jar returned status 404
+1.70.0		2026-08-06T07:57:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/nghttp2-libnghttp2-linuxx64/1.70.0/nghttp2-libnghttp2-linuxx64-1.70.0.jar returned status 404

@@ -1,0 +1,2 @@
+2.1.0		2026-08-05T19:18:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dizyx/nockerl/design-tokens/2.1.0/design-tokens-2.1.0.jar returned status 404
+2.2.0		2026-08-06T02:28:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dizyx/nockerl/design-tokens/2.2.0/design-tokens-2.2.0.jar returned status 404

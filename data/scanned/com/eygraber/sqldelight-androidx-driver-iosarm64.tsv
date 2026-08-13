@@ -38,8 +38,12 @@
 0.2.0	metadata	2026-05-04T08:03:07Z	
 0.2.1		2026-07-01T23:05:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eygraber/sqldelight-androidx-driver-iosarm64/0.2.1/sqldelight-androidx-driver-iosarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2026-07-01T23:05:57Z	
+0.2.2		2026-08-05T07:13:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eygraber/sqldelight-androidx-driver-iosarm64/0.2.2/sqldelight-androidx-driver-iosarm64-0.2.2.jar returned status 404
+0.2.2	metadata	2026-08-05T07:13:12Z	
 0.5.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eygraber/sqldelight-androidx-driver-iosarm64/0.5.0-alpha.1/sqldelight-androidx-driver-iosarm64-0.5.0-alpha.1.jar returned status 404
 0.5.0-alpha.1	metadata	2026-04-27T07:30:20Z	
+0.5.0-alpha.10		2026-08-05T07:43:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eygraber/sqldelight-androidx-driver-iosarm64/0.5.0-alpha.10/sqldelight-androidx-driver-iosarm64-0.5.0-alpha.10.jar returned status 404
+0.5.0-alpha.10	metadata	2026-08-05T07:43:18Z	
 0.5.0-alpha.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eygraber/sqldelight-androidx-driver-iosarm64/0.5.0-alpha.6/sqldelight-androidx-driver-iosarm64-0.5.0-alpha.6.jar returned status 404
 0.5.0-alpha.6	metadata	2026-05-04T02:53:39Z	
 0.5.0-alpha.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eygraber/sqldelight-androidx-driver-iosarm64/0.5.0-alpha.7/sqldelight-androidx-driver-iosarm64-0.5.0-alpha.7.jar returned status 404

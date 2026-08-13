@@ -103,3 +103,6 @@
 260318099.0.0	debugOptimized-sources	2026-07-10T10:24:05Z	
 260318099.0.0	release-sources	2026-07-10T10:24:05Z	
 260318099.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/hermes/hermes-android/260318099.0.1/hermes-android-260318099.0.1.jar returned status 404
+260318099.0.1	debug-sources	2026-07-23T11:59:06Z	
+260318099.0.1	debugOptimized-sources	2026-07-23T11:59:06Z	
+260318099.0.1	release-sources	2026-07-23T11:59:06Z	

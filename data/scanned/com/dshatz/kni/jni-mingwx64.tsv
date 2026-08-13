@@ -7,3 +7,4 @@
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/jni-mingwx64/2.2.0/jni-mingwx64-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/jni-mingwx64/2.2.1/jni-mingwx64-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/jni-mingwx64/2.2.2/jni-mingwx64-2.2.2.jar returned status 404
+2.3.0-beta01		2026-08-09T23:21:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/jni-mingwx64/2.3.0-beta01/jni-mingwx64-2.3.0-beta01.jar returned status 404

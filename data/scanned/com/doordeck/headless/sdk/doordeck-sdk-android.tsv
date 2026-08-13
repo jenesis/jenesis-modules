@@ -113,6 +113,9 @@
 0.218.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-android/0.218.0/doordeck-sdk-android-0.218.0.jar returned status 404
 0.219.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-android/0.219.0/doordeck-sdk-android-0.219.0.jar returned status 404
 0.220.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-android/0.220.0/doordeck-sdk-android-0.220.0.jar returned status 404
+0.221.0		2026-08-10T10:53:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-android/0.221.0/doordeck-sdk-android-0.221.0.jar returned status 404
+0.222.0		2026-08-10T14:58:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-android/0.222.0/doordeck-sdk-android-0.222.0.jar returned status 404
+0.223.0		2026-08-11T17:38:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-android/0.223.0/doordeck-sdk-android-0.223.0.jar returned status 404
 0.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-android/0.38.0/doordeck-sdk-android-0.38.0.jar returned status 404
 0.38.0-dev.18+d9d9475			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-android/0.38.0-dev.18+d9d9475/doordeck-sdk-android-0.38.0-dev.18+d9d9475.jar returned status 404
 0.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-android/0.39.0/doordeck-sdk-android-0.39.0.jar returned status 404

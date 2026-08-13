@@ -744,7 +744,17 @@
 0.86.0-rc.3	debugOptimized-sources	2026-06-02T15:54:16Z	
 0.86.0-rc.3	release-sources	2026-06-02T15:54:16Z	
 0.86.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/react/react-android/0.86.1/react-android-0.86.1.jar returned status 404
+0.86.1	debug-sources	2026-07-24T17:30:59Z	
+0.86.1	debugOptimized-sources	2026-07-24T17:30:59Z	
+0.86.1	release-sources	2026-07-24T17:30:59Z	
 0.86.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/react/react-android/0.86.2/react-android-0.86.2.jar returned status 404
+0.86.2	debug-sources	2026-07-27T16:31:13Z	
+0.86.2	debugOptimized-sources	2026-07-27T16:31:13Z	
+0.86.2	release-sources	2026-07-27T16:31:13Z	
+0.87.0		2026-08-11T15:27:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/react/react-android/0.87.0/react-android-0.87.0.jar returned status 404
+0.87.0	debug-sources	2026-08-11T15:27:15Z	
+0.87.0	debugOptimized-sources	2026-08-11T15:27:15Z	
+0.87.0	release-sources	2026-08-11T15:27:15Z	
 0.87.0-rc.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/react/react-android/0.87.0-rc.0/react-android-0.87.0-rc.0.jar returned status 404
 0.87.0-rc.0	debug-sources	2026-07-08T11:16:52Z	
 0.87.0-rc.0	debugOptimized-sources	2026-07-08T11:16:52Z	
@@ -758,3 +768,10 @@
 0.87.0-rc.2	debugOptimized-sources	2026-07-21T15:13:03Z	
 0.87.0-rc.2	release-sources	2026-07-21T15:13:03Z	
 0.87.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/react/react-android/0.87.0-rc.3/react-android-0.87.0-rc.3.jar returned status 404
+0.87.0-rc.3	debug-sources	2026-07-27T17:52:37Z	
+0.87.0-rc.3	debugOptimized-sources	2026-07-27T17:52:37Z	
+0.87.0-rc.3	release-sources	2026-07-27T17:52:37Z	
+0.87.0-rc.4		2026-08-04T23:48:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/react/react-android/0.87.0-rc.4/react-android-0.87.0-rc.4.jar returned status 404
+0.87.0-rc.4	debug-sources	2026-08-04T23:48:43Z	
+0.87.0-rc.4	debugOptimized-sources	2026-08-04T23:48:43Z	
+0.87.0-rc.4	release-sources	2026-08-04T23:48:43Z	
