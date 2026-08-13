@@ -1606,3 +1606,11 @@ org.eclipse.jetty.ee10.fcgi.proxy
 org.eclipse.jetty.ee10.cdi
 org.eclipse.jetty.ee10.apache.jsp
 org.eclipse.jetty.ee10.annotations
+org.eclipse.jetty.ee.webapp
+org.eclipse.jetty.ee.test.resources
+org.eclipse.jetty.compression.zstandard
+org.eclipse.jetty.compression.server
+org.eclipse.jetty.compression.gzip
+org.eclipse.jetty.compression
+org.eclipse.jetty.compression.client
+org.eclipse.jetty.compression.brotli
