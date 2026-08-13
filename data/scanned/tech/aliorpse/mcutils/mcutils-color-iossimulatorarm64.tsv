@@ -32,3 +32,5 @@
 3.7.0	metadata	2026-02-11T10:24:12Z	
 3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/aliorpse/mcutils/mcutils-color-iossimulatorarm64/3.7.1/mcutils-color-iossimulatorarm64-3.7.1.jar returned status 404
 3.7.1	metadata	2026-04-02T08:09:40Z	
+3.9.1		2026-08-05T02:28:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/aliorpse/mcutils/mcutils-color-iossimulatorarm64/3.9.1/mcutils-color-iossimulatorarm64-3.9.1.jar returned status 404
+3.9.1	metadata	2026-08-05T02:28:46Z	

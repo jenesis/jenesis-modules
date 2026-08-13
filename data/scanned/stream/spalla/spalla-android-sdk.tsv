@@ -20,6 +20,7 @@
 1.13.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/stream/spalla/spalla-android-sdk/1.13.6/spalla-android-sdk-1.13.6.jar returned status 404
 1.13.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/stream/spalla/spalla-android-sdk/1.13.7/spalla-android-sdk-1.13.7.jar returned status 404
 1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/stream/spalla/spalla-android-sdk/1.14.0/spalla-android-sdk-1.14.0.jar returned status 404
+1.14.1		2026-08-04T16:45:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/stream/spalla/spalla-android-sdk/1.14.1/spalla-android-sdk-1.14.1.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/stream/spalla/spalla-android-sdk/1.2.0/spalla-android-sdk-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/stream/spalla/spalla-android-sdk/1.2.1/spalla-android-sdk-1.2.1.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/stream/spalla/spalla-android-sdk/1.2.2/spalla-android-sdk-1.2.2.jar returned status 404
