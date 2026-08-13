@@ -59,6 +59,7 @@
 0.2.10		2026-06-15T13:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-watchossimulatorarm64/0.2.10/ktor-server-runtime-watchossimulatorarm64-0.2.10.jar returned status 404
 0.2.10	metadata	2026-06-15T13:54:15Z	
 0.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-watchossimulatorarm64/0.2.11/ktor-server-runtime-watchossimulatorarm64-0.2.11.jar returned status 404
+0.2.11	metadata	2026-07-21T11:23:53Z	
 0.2.2		2026-01-25T18:02:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-watchossimulatorarm64/0.2.2/ktor-server-runtime-watchossimulatorarm64-0.2.2.jar returned status 404
 0.2.2	metadata	2026-01-25T18:02:24Z	
 0.2.3		2026-01-26T08:27:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/ktor-server-runtime-watchossimulatorarm64/0.2.3/ktor-server-runtime-watchossimulatorarm64-0.2.3.jar returned status 404

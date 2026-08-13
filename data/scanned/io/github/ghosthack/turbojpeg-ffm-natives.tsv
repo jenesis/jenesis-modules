@@ -1,0 +1,11 @@
+3.2.0-0.1.0		2026-07-22T19:35:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ghosthack/turbojpeg-ffm-natives/3.2.0-0.1.0/turbojpeg-ffm-natives-3.2.0-0.1.0.jar returned status 404
+3.2.0-0.1.0	macos-arm64	2026-07-22T19:35:14Z	
+3.2.0-0.1.0	windows-x64	2026-07-22T19:35:14Z	
+3.2.0-0.2.0		2026-07-24T15:04:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ghosthack/turbojpeg-ffm-natives/3.2.0-0.2.0/turbojpeg-ffm-natives-3.2.0-0.2.0.jar returned status 404
+3.2.0-0.2.0	linux-x64	2026-07-24T15:04:14Z	
+3.2.0-0.2.0	macos-arm64	2026-07-24T15:04:14Z	
+3.2.0-0.2.0	windows-x64	2026-07-24T15:04:14Z	
+3.2.0-0.2.1		2026-07-27T22:39:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ghosthack/turbojpeg-ffm-natives/3.2.0-0.2.1/turbojpeg-ffm-natives-3.2.0-0.2.1.jar returned status 404
+3.2.0-0.2.1	linux-x64	2026-07-27T22:39:22Z	
+3.2.0-0.2.1	macos-arm64	2026-07-27T22:39:22Z	
+3.2.0-0.2.1	windows-x64	2026-07-27T22:39:22Z	

@@ -1,0 +1,2 @@
+v1.0.0		2026-07-23T17:24:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joke/percolate/bom/v1.0.0/bom-v1.0.0.jar returned status 404
+v1.0.1		2026-07-24T14:45:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joke/percolate/bom/v1.0.1/bom-v1.0.1.jar returned status 404

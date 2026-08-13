@@ -1,0 +1,6 @@
+1.0.10		2026-08-03T18:57:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hieu98/sdk-compose/1.0.10/sdk-compose-1.0.10.jar returned status 404
+1.0.11		2026-08-04T20:14:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hieu98/sdk-compose/1.0.11/sdk-compose-1.0.11.jar returned status 404
+1.0.12		2026-08-04T20:33:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hieu98/sdk-compose/1.0.12/sdk-compose-1.0.12.jar returned status 404
+1.0.13		2026-08-07T19:33:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hieu98/sdk-compose/1.0.13/sdk-compose-1.0.13.jar returned status 404
+1.0.8		2026-07-26T21:07:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hieu98/sdk-compose/1.0.8/sdk-compose-1.0.8.jar returned status 404
+1.0.9		2026-07-27T19:20:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hieu98/sdk-compose/1.0.9/sdk-compose-1.0.9.jar returned status 404

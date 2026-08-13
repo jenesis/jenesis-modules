@@ -103,10 +103,18 @@
 1.4.7-kt2.1.0		2026-06-01T07:34:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.4.7-kt2.1.0/latex-renderer-iosarm64-1.4.7-kt2.1.0.jar returned status 404
 1.4.7-kt2.1.0	metadata	2026-06-01T07:34:24Z	
 1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.4.8/latex-renderer-iosarm64-1.4.8.jar returned status 404
+1.4.8	metadata	2026-07-27T03:48:08Z	
 1.4.8-kt2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.4.8-kt2.1.0/latex-renderer-iosarm64-1.4.8-kt2.1.0.jar returned status 404
+1.4.8-kt2.1.0	metadata	2026-07-27T03:45:39Z	
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.0/latex-renderer-iosarm64-1.5.0.jar returned status 404
+1.5.0	metadata	2026-07-28T11:50:07Z	
 1.5.0-kt2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.0-kt2.1.0/latex-renderer-iosarm64-1.5.0-kt2.1.0.jar returned status 404
+1.5.0-kt2.1.0	metadata	2026-07-28T11:48:57Z	
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.1/latex-renderer-iosarm64-1.5.1.jar returned status 404
+1.5.1	metadata	2026-07-28T13:09:19Z	
 1.5.1-kt2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.1-kt2.1.0/latex-renderer-iosarm64-1.5.1-kt2.1.0.jar returned status 404
+1.5.1-kt2.1.0	metadata	2026-07-28T13:08:47Z	
 1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.2/latex-renderer-iosarm64-1.5.2.jar returned status 404
+1.5.2	metadata	2026-07-30T09:02:38Z	
 1.5.2-kt2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-renderer-iosarm64/1.5.2-kt2.1.0/latex-renderer-iosarm64-1.5.2-kt2.1.0.jar returned status 404
+1.5.2-kt2.1.0	metadata	2026-07-30T09:04:06Z	

@@ -1,0 +1,11 @@
+0.22.2-0.1.0		2026-07-23T04:40:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ghosthack/libraw-ffm-natives/0.22.2-0.1.0/libraw-ffm-natives-0.22.2-0.1.0.jar returned status 404
+0.22.2-0.1.0	macos-arm64	2026-07-23T04:40:36Z	
+0.22.2-0.1.0	windows-x64	2026-07-23T04:40:36Z	
+0.22.2-0.2.0		2026-07-24T21:36:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ghosthack/libraw-ffm-natives/0.22.2-0.2.0/libraw-ffm-natives-0.22.2-0.2.0.jar returned status 404
+0.22.2-0.2.0	linux-x64	2026-07-24T21:36:34Z	
+0.22.2-0.2.0	macos-arm64	2026-07-24T21:36:34Z	
+0.22.2-0.2.0	windows-x64	2026-07-24T21:36:34Z	
+0.22.2-0.2.1		2026-07-27T22:40:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ghosthack/libraw-ffm-natives/0.22.2-0.2.1/libraw-ffm-natives-0.22.2-0.2.1.jar returned status 404
+0.22.2-0.2.1	linux-x64	2026-07-27T22:40:21Z	
+0.22.2-0.2.1	macos-arm64	2026-07-27T22:40:21Z	
+0.22.2-0.2.1	windows-x64	2026-07-27T22:40:21Z	

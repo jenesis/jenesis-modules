@@ -4341,6 +4341,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 3.3.2	named	org.apache.tika	tika-pipes-reporter-fs-status	2026-07-22T02:27:11Z	2.22.1
 3.3.2	named	org.apache.tika	tika-detector-siegfried	2026-07-22T02:27:12Z	2.22.1
 3.3.2	named	org.apache.tika	tika-detector-magika	2026-07-22T02:27:19Z	2.22.1
+1.0.0	named	io.github.jpostman	restage-ai-engine	2026-07-22T04:12:34Z	2.17.2
 2.0.13	named	org.octopusden.octopus.sonar	sonar-automation	2026-07-23T00:24:28Z	2.20.1
 6.3.0	named	org.apache.activemq.tooling	activemq-jakarta-messaging-tck	2026-07-24T11:33:00Z	2.22.1
 4.0.0-beta.3	named	org.apache.tinkerpop	gremlin-shaded	2026-07-28T02:23:03Z	2.15.2
@@ -4366,5 +4367,6 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 0.0.1-RC26	named	com.sparkutils	kogito-4-spark_testshade_3.5.0.oss_3.5_2.12	2026-08-03T02:17:47Z	2.19.2
 1.2.0	named	io.github.gabrielbbaldez	stacktale-mcp	2026-08-04T02:15:03Z	2.22.1
 2.0.14	named	org.octopusden.octopus.sonar	sonar-automation	2026-08-04T13:06:28Z	2.20.1
+0.1.0	named	io.github.kd656	coveragex-agent	2026-08-07T15:13:05Z	2.18.2
 2.2.1	named	us.abstracta.jmeter	jmeter-java-dsl-elasticsearch-listener	2026-08-08T01:54:16Z	2.13.0-rc1
 2.2.1	named	us.abstracta.jmeter	jmeter-java-dsl-cli	2026-08-08T01:54:17Z	2.13.0-rc1

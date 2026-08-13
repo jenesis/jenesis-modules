@@ -31,6 +31,14 @@
 1.4.1		2026-06-25T13:07:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-runtime-iosarm64/1.4.1/markdown-runtime-iosarm64-1.4.1.jar returned status 404
 1.4.1	metadata	2026-06-25T13:07:02Z	
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-runtime-iosarm64/1.4.2/markdown-runtime-iosarm64-1.4.2.jar returned status 404
+1.4.2	metadata	2026-07-27T06:27:21Z	
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-runtime-iosarm64/1.4.3/markdown-runtime-iosarm64-1.4.3.jar returned status 404
+1.4.3	metadata	2026-07-27T07:07:01Z	
 1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-runtime-iosarm64/1.4.4/markdown-runtime-iosarm64-1.4.4.jar returned status 404
+1.4.4	metadata	2026-07-30T09:33:07Z	
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-runtime-iosarm64/1.4.5/markdown-runtime-iosarm64-1.4.5.jar returned status 404
+1.4.5	metadata	2026-08-05T08:33:49Z	
+1.4.6		2026-08-10T06:19:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-runtime-iosarm64/1.4.6/markdown-runtime-iosarm64-1.4.6.jar returned status 404
+1.4.6	metadata	2026-08-10T06:19:34Z	
+1.5.0		2026-08-10T09:19:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-runtime-iosarm64/1.5.0/markdown-runtime-iosarm64-1.5.0.jar returned status 404
+1.5.0	metadata	2026-08-10T09:19:20Z	

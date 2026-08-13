@@ -1,0 +1,4 @@
+0.1.0		2026-07-31T14:59:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ghosthack/media-inspection-bom/0.1.0/media-inspection-bom-0.1.0.jar returned status 404
+0.2.0		2026-08-01T01:59:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ghosthack/media-inspection-bom/0.2.0/media-inspection-bom-0.2.0.jar returned status 404
+0.3.0		2026-08-07T02:06:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ghosthack/media-inspection-bom/0.3.0/media-inspection-bom-0.3.0.jar returned status 404
+0.4.0		2026-08-09T18:04:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ghosthack/media-inspection-bom/0.4.0/media-inspection-bom-0.4.0.jar returned status 404
