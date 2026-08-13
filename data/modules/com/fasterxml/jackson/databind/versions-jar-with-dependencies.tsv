@@ -1371,3 +1371,4 @@ jenkins-CxSDLC-Cx-Client-Common-eitanas1-new-jenkinsfile-119	named	com.checkmarx
 6.17.0	named	com.perimeterx	perimeterx-sdk-jakarta	2026-05-26T08:58:51Z	2.11.4
 6.17.1	named	com.perimeterx	perimeterx-sdk	2026-06-29T11:52:51Z	2.11.4
 6.17.1	named	com.perimeterx	perimeterx-sdk-jakarta	2026-06-29T11:52:51Z	2.11.4
+1.2.17.15	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-07-22T05:29:29Z	2.12.7.1

@@ -5241,5 +5241,9 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 6.5.5	named	com.intuit.quickbooks-online	payments-api	2026-07-17T14:06:32Z	2.18.3
 11.5.1-beta-1	named	fr.inria.gforge.spoon	spoon-core	2026-07-19T03:40:41Z	2.22
 6.3.1	named	com.messagebird	messagebird-api	2026-07-20T14:24:57Z	2.13.2
+7.0.0-RC6	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-21T03:36:08Z	2.21
 8.727.33	named	com.yahoo.vespa	config-application-package	2026-07-21T03:48:10Z	2.22
+1.2.38	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-07-21T07:14:37Z	2.17.0
 10.3.2-BETA-2	named	com.chartiq.finsemble	finsemble	2026-07-22T12:45:37Z	2.13.5
+7.0.0	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-24T20:52:49Z	2.21
+7.0.1	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-08-04T03:06:18Z	2.21

@@ -220,7 +220,10 @@
 4.11.0-nightly.20260728.757ad30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.11.0-nightly.20260728.757ad30/android-4.11.0-nightly.20260728.757ad30.jar returned status 404
 4.11.0-nightly.20260729.ddeab1f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.11.0-nightly.20260729.ddeab1f/android-4.11.0-nightly.20260729.ddeab1f.jar returned status 404
 4.11.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.11.0-rc1/android-4.11.0-rc1.jar returned status 404
+4.12.0-dev.4742763		2026-08-05T20:46:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.12.0-dev.4742763/android-4.12.0-dev.4742763.jar returned status 404
 4.12.0-nightly.20260731.66944e2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.12.0-nightly.20260731.66944e2/android-4.12.0-nightly.20260731.66944e2.jar returned status 404
+4.12.0-nightly.20260804.0f01ea1		2026-08-04T06:57:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.12.0-nightly.20260804.0f01ea1/android-4.12.0-nightly.20260804.0f01ea1.jar returned status 404
+4.12.0-nightly.20260805.d14feba		2026-08-05T06:58:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.12.0-nightly.20260805.d14feba/android-4.12.0-nightly.20260805.d14feba.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.2.0/android-4.2.0.jar returned status 404
 4.2.0-dev.131016e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.2.0-dev.131016e/android-4.2.0-dev.131016e.jar returned status 404
 4.2.0-dev.4662352			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.2.0-dev.4662352/android-4.2.0-dev.4662352.jar returned status 404

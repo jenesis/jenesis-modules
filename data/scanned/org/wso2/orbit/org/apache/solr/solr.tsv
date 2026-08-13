@@ -31,7 +31,9 @@
 8.11.4.wso2v2		2026-02-25T09:21:12Z	
 8.11.4.wso2v3		2026-04-07T18:24:11Z	
 8.11.4.wso2v4		2026-05-19T09:37:28Z	
+8.11.4.wso2v5		2026-08-06T03:28:19Z	
 9.10.1.wso2v1		2026-03-23T06:38:17Z	
+9.10.1.wso2v2		2026-08-06T09:03:51Z	
 9.5.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/solr/solr/9.5.0.wso2v1/solr-9.5.0.wso2v1.jar returned status 404
 9.5.0.wso2v10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/solr/solr/9.5.0.wso2v10/solr-9.5.0.wso2v10.jar returned status 404
 9.5.0.wso2v11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/solr/solr/9.5.0.wso2v11/solr-9.5.0.wso2v11.jar returned status 404
@@ -52,3 +54,4 @@
 9.9.0.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/solr/solr/9.9.0.wso2v1/solr-9.9.0.wso2v1.jar returned status 404
 9.9.0.wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/solr/solr/9.9.0.wso2v2/solr-9.9.0.wso2v2.jar returned status 404
 9.9.0.wso2v3		2026-03-11T16:49:34Z	
+9.9.0.wso2v4		2026-08-06T03:31:29Z	
