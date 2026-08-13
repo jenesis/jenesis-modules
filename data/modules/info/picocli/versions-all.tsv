@@ -449,3 +449,6 @@ ev1.15.5	named	com.eventoframework	evento-cli	2026-05-12T11:50:32Z	4.7.0
 2.1.2	named	org.rundeck.rd	rd-cli-tool	2026-07-01T21:29:06Z	4.7.7
 0.0.2	named	org.substrate4j	gen	2026-07-05T16:05:52Z	4.7.7
 2.1.3	named	org.rundeck.rd	rd-cli-tool	2026-07-15T23:02:44Z	4.7.7
+2.0.38-legacy	named	io.github.ruixuqi	neoform-runtime	2026-08-01T11:06:18Z	4.7.6
+2.0.39-legacy	named	io.github.ruixuqi	neoform-runtime	2026-08-02T12:54:03Z	4.7.6
+2.0.40-legacy	named	io.github.ruixuqi	neoform-runtime	2026-08-02T18:31:38Z	4.7.6

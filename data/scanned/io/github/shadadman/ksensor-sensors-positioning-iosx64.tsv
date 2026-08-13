@@ -1,4 +1,5 @@
 3.10.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-positioning-iosx64/3.10.40/ksensor-sensors-positioning-iosx64-3.10.40.jar returned status 404
+3.10.40	metadata	2026-07-28T10:14:21Z	
 3.4.10-alpha		2026-06-23T10:29:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-positioning-iosx64/3.4.10-alpha/ksensor-sensors-positioning-iosx64-3.4.10-alpha.jar returned status 404
 3.4.10-alpha	metadata	2026-06-23T10:29:22Z	
 4.50.2		2026-06-24T07:41:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-positioning-iosx64/4.50.2/ksensor-sensors-positioning-iosx64-4.50.2.jar returned status 404
@@ -16,4 +17,6 @@
 5.10.30		2026-07-20T17:54:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-positioning-iosx64/5.10.30/ksensor-sensors-positioning-iosx64-5.10.30.jar returned status 404
 5.10.30	metadata	2026-07-20T17:54:40Z	
 5.10.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-positioning-iosx64/5.10.40/ksensor-sensors-positioning-iosx64-5.10.40.jar returned status 404
+5.10.40	metadata	2026-07-28T10:17:29Z	
 5.90.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-positioning-iosx64/5.90.20/ksensor-sensors-positioning-iosx64-5.90.20.jar returned status 404
+5.90.20	metadata	2026-08-01T10:16:10Z	

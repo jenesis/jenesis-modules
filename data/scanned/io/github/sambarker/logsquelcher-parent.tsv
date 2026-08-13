@@ -1,0 +1,2 @@
+0.1.0		2026-08-06T02:06:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sambarker/logsquelcher-parent/0.1.0/logsquelcher-parent-0.1.0.jar returned status 404
+0.2.0		2026-08-07T01:00:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sambarker/logsquelcher-parent/0.2.0/logsquelcher-parent-0.2.0.jar returned status 404

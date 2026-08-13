@@ -4,3 +4,4 @@
 2.0.1		2026-06-29T22:18:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-linuxx64/2.0.1/fastcollect-kotlin-linuxx64-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-linuxx64/2.0.2/fastcollect-kotlin-linuxx64-2.0.2.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-linuxx64/3.0.0/fastcollect-kotlin-linuxx64-3.0.0.jar returned status 404
+3.0.1		2026-08-09T19:55:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sooniln/fastcollect-kotlin-linuxx64/3.0.1/fastcollect-kotlin-linuxx64-3.0.1.jar returned status 404
