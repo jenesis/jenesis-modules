@@ -152,3 +152,9 @@
 5.26.28	automatic	org.neo4j	cypher-shell-integration-test-expect	2026-07-01T14:10:28Z	
 2026.06.0	automatic	org.neo4j	cypher-shell-integration-test-expect	2026-07-08T23:59:53Z	
 2026.06.0	automatic	org.neo4j	cypher-shell-integration-test	2026-07-09T00:00:04Z	
+5.26.29	automatic	org.neo4j	cypher-shell-integration-test	2026-08-04T09:41:30Z	
+5.26.29	automatic	org.neo4j	cypher-shell-integration-test-expect	2026-08-04T09:41:30Z	
+2026.07.0	automatic	org.neo4j	cypher-shell-integration-test	2026-08-05T09:50:10Z	
+2026.07.0	automatic	org.neo4j	cypher-shell-integration-test-expect	2026-08-05T09:50:14Z	
+2026.07.1	automatic	org.neo4j	cypher-shell-integration-test	2026-08-07T14:47:43Z	
+2026.07.1	automatic	org.neo4j	cypher-shell-integration-test-expect	2026-08-07T14:47:45Z	

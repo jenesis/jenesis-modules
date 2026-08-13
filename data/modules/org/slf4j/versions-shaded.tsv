@@ -389,3 +389,5 @@
 26.7.3	named	com.arcadedb	arcadedb-bolt	2026-07-17T17:20:35Z	2.0.18
 26.7.3	named	com.arcadedb	arcadedb-postgresw	2026-07-17T17:20:35Z	2.0.18
 26.7.3	named	com.arcadedb	arcadedb-tracing	2026-07-17T17:20:35Z	2.0.18
+2.25.0	named	org.mustangproject	library	2026-08-05T05:48:48Z	2.0.18
+2.25.0	named	org.mustangproject	validator	2026-08-05T05:48:48Z	2.0.18
