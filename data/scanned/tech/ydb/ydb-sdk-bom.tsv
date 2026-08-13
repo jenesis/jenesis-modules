@@ -68,3 +68,4 @@
 2.4.5		2026-06-15T20:48:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/ydb-sdk-bom/2.4.5/ydb-sdk-bom-2.4.5.jar returned status 404
 2.4.6		2026-06-16T09:28:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/ydb-sdk-bom/2.4.6/ydb-sdk-bom-2.4.6.jar returned status 404
 2.4.7		2026-07-03T15:11:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/ydb-sdk-bom/2.4.7/ydb-sdk-bom-2.4.7.jar returned status 404
+2.4.8		2026-07-20T11:19:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/ydb-sdk-bom/2.4.8/ydb-sdk-bom-2.4.8.jar returned status 404

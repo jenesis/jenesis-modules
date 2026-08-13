@@ -5,3 +5,4 @@
 3.0.0		2026-06-03T08:56:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezapp/ezapp/3.0.0/ezapp-3.0.0.jar returned status 404
 3.0.1		2026-06-09T07:45:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezapp/ezapp/3.0.1/ezapp-3.0.1.jar returned status 404
 3.0.2		2026-06-22T07:56:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezapp/ezapp/3.0.2/ezapp-3.0.2.jar returned status 404
+4.0.0		2026-07-31T09:07:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tw/teddysoft/ezapp/ezapp/4.0.0/ezapp-4.0.0.jar returned status 404

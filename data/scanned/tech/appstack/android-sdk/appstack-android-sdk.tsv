@@ -32,3 +32,5 @@
 1.5.0-rc1		2026-07-13T20:32:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/appstack/android-sdk/appstack-android-sdk/1.5.0-rc1/appstack-android-sdk-1.5.0-rc1.jar returned status 404
 1.5.0-rc2		2026-07-15T18:32:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/appstack/android-sdk/appstack-android-sdk/1.5.0-rc2/appstack-android-sdk-1.5.0-rc2.jar returned status 404
 1.5.0-rc3		2026-07-17T05:11:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/appstack/android-sdk/appstack-android-sdk/1.5.0-rc3/appstack-android-sdk-1.5.0-rc3.jar returned status 404
+1.5.1-rc0		2026-07-22T17:59:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/appstack/android-sdk/appstack-android-sdk/1.5.1-rc0/appstack-android-sdk-1.5.1-rc0.jar returned status 404
+1.6.0		2026-08-03T17:35:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/appstack/android-sdk/appstack-android-sdk/1.6.0/appstack-android-sdk-1.6.0.jar returned status 404

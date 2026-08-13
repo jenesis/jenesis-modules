@@ -6,3 +6,4 @@
 3.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/aliorpse/mcutils/mcutils-rcon-wasm-js/3.6.7/mcutils-rcon-wasm-js-3.6.7.jar returned status 404
 3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/aliorpse/mcutils/mcutils-rcon-wasm-js/3.7.0/mcutils-rcon-wasm-js-3.7.0.jar returned status 404
 3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/aliorpse/mcutils/mcutils-rcon-wasm-js/3.7.1/mcutils-rcon-wasm-js-3.7.1.jar returned status 404
+3.9.1		2026-08-05T02:28:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/aliorpse/mcutils/mcutils-rcon-wasm-js/3.9.1/mcutils-rcon-wasm-js-3.9.1.jar returned status 404

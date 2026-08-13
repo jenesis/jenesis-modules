@@ -4,3 +4,5 @@
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/spark/ydb-spark-parent/2.1.1/ydb-spark-parent-2.1.1.jar returned status 404
 2.2.0		2026-06-18T17:01:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/spark/ydb-spark-parent/2.2.0/ydb-spark-parent-2.2.0.jar returned status 404
 2.2.1		2026-07-17T11:03:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/spark/ydb-spark-parent/2.2.1/ydb-spark-parent-2.2.1.jar returned status 404
+2.2.2		2026-08-03T16:59:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/spark/ydb-spark-parent/2.2.2/ydb-spark-parent-2.2.2.jar returned status 404
+2.2.3		2026-08-07T07:29:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/spark/ydb-spark-parent/2.2.3/ydb-spark-parent-2.2.3.jar returned status 404

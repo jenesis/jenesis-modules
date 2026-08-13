@@ -4,3 +4,6 @@
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/molecules/prism/0.4.1/prism-0.4.1.jar returned status 404
 0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/molecules/prism/0.4.2/prism-0.4.2.jar returned status 404
 0.4.5		2026-07-14T09:30:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/molecules/prism/0.4.5/prism-0.4.5.jar returned status 404
+0.5.3		2026-07-27T11:50:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/molecules/prism/0.5.3/prism-0.5.3.jar returned status 404
+0.6.1		2026-08-02T19:41:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/molecules/prism/0.6.1/prism-0.6.1.jar returned status 404
+0.6.2		2026-08-06T07:01:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/molecules/prism/0.6.2/prism-0.6.2.jar returned status 404

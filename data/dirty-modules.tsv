@@ -20,3 +20,7 @@ uk.shusek.krwa.log
 uk.shusek.krwa.codegen
 uk.shusek.krwa.annotations
 com.fasterxml.jackson.databind
+io.netty.buffer
+top.focess.keystead.core
+tools.refinery.ibex.solver.darwin.x86_64
+tech.ydb.spark.spark

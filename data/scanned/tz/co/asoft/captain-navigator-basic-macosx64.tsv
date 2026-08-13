@@ -46,6 +46,12 @@
 3.2.4	metadata	2025-09-29T14:44:25Z	
 3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/captain-navigator-basic-macosx64/3.2.5/captain-navigator-basic-macosx64-3.2.5.jar returned status 404
 3.2.5	metadata	2025-09-29T23:53:31Z	
+3.3.10		2026-07-19T01:28:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/captain-navigator-basic-macosx64/3.3.10/captain-navigator-basic-macosx64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:28:07Z	
+3.3.11		2026-07-19T01:58:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/captain-navigator-basic-macosx64/3.3.11/captain-navigator-basic-macosx64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:58:25Z	
+3.3.12		2026-07-19T02:14:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/captain-navigator-basic-macosx64/3.3.12/captain-navigator-basic-macosx64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:14:43Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/captain-navigator-basic-macosx64/3.3.3/captain-navigator-basic-macosx64-3.3.3.jar returned status 404
 3.3.3	metadata	2025-12-27T22:13:29Z	
 3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/captain-navigator-basic-macosx64/3.3.4/captain-navigator-basic-macosx64-3.3.4.jar returned status 404

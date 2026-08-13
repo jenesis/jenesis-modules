@@ -43,3 +43,4 @@
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/binfast/binfast/1.4.1/binfast-1.4.1.jar returned status 404
 1.4.2		2026-06-22T03:04:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/binfast/binfast/1.4.2/binfast-1.4.2.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/binfast/binfast/2.0.0/binfast-2.0.0.jar returned status 404
+2.0.1		2026-08-05T02:28:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/binfast/binfast/2.0.1/binfast-2.0.1.jar returned status 404
