@@ -5,6 +5,7 @@
 0.1.12-1		2026-07-03T04:16:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darriousliu/ratex-iossimulatorarm64/0.1.12-1/ratex-iossimulatorarm64-0.1.12-1.jar returned status 404
 0.1.12-1	metadata	2026-07-03T04:16:53Z	
 0.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darriousliu/ratex-iossimulatorarm64/0.1.14/ratex-iossimulatorarm64-0.1.14.jar returned status 404
+0.1.14	metadata	2026-07-28T09:46:47Z	
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darriousliu/ratex-iossimulatorarm64/0.1.2/ratex-iossimulatorarm64-0.1.2.jar returned status 404
 0.1.2	metadata	2026-04-19T18:47:13Z	
 0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/darriousliu/ratex-iossimulatorarm64/0.1.4/ratex-iossimulatorarm64-0.1.4.jar returned status 404

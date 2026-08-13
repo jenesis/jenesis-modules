@@ -1,0 +1,6 @@
+1.0.0		2026-08-09T06:08:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cooldev116/dev-adkit/1.0.0/dev-adkit-1.0.0.jar returned status 404
+1.0.1		2026-08-09T07:41:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cooldev116/dev-adkit/1.0.1/dev-adkit-1.0.1.jar returned status 404
+1.0.2		2026-08-09T07:51:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cooldev116/dev-adkit/1.0.2/dev-adkit-1.0.2.jar returned status 404
+1.0.3		2026-08-09T08:28:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cooldev116/dev-adkit/1.0.3/dev-adkit-1.0.3.jar returned status 404
+1.0.4		2026-08-09T08:46:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cooldev116/dev-adkit/1.0.4/dev-adkit-1.0.4.jar returned status 404
+1.0.5		2026-08-09T11:15:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cooldev116/dev-adkit/1.0.5/dev-adkit-1.0.5.jar returned status 404

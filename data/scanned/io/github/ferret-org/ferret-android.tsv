@@ -1,0 +1,2 @@
+1.0.0		2026-07-26T07:10:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ferret-org/ferret-android/1.0.0/ferret-android-1.0.0.jar returned status 404
+1.1.0		2026-07-26T20:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ferret-org/ferret-android/1.1.0/ferret-android-1.1.0.jar returned status 404

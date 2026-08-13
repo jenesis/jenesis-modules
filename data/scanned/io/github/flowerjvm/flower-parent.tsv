@@ -1,3 +1,4 @@
 0.1.0		2026-07-14T22:49:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/flowerjvm/flower-parent/0.1.0/flower-parent-0.1.0.jar returned status 404
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/flowerjvm/flower-parent/0.1.1/flower-parent-0.1.1.jar returned status 404
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/flowerjvm/flower-parent/0.1.2/flower-parent-0.1.2.jar returned status 404
+0.1.3		2026-08-10T16:36:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/flowerjvm/flower-parent/0.1.3/flower-parent-0.1.3.jar returned status 404

@@ -1056,6 +1056,12 @@
 10.3.20260719	named	io.github.shafthq	shaft-cli	2026-07-19T15:53:27Z	4.7.7
 3.3.2	named	org.apache.tika	tika-parser-nlp-package	2026-07-22T02:27:10Z	4.7.7
 0.28.4	named	org.dcache.nfs4j	basic-server	2026-07-30T10:22:07Z	4.7.4
+0.1.0	named	io.github.daniloagostinho	semmet-springboot-cli	2026-07-30T22:18:36Z	4.7.7
+0.1.1	named	io.github.daniloagostinho	semmet-springboot-cli	2026-07-31T01:17:15Z	4.7.7
+0.1.2	named	io.github.daniloagostinho	semmet-springboot-cli	2026-07-31T02:14:02Z	4.7.7
 4.1.11	named	com.instaclustr	esop-core	2026-07-31T02:15:27Z	4.7.2
 4.1.11	named	com.instaclustr	esop-s3	2026-07-31T02:15:28Z	4.7.2
 26.7.1	named	org.keycloak	keycloak-admin-cli	2026-08-05T15:43:21Z	4.7.7
+0.2.0	named	io.github.daniloagostinho	semmet-springboot-cli	2026-08-09T01:06:35Z	4.7.7
+0.2.1	named	io.github.daniloagostinho	semmet-springboot-cli	2026-08-09T23:52:59Z	4.7.7
+0.2.2	named	io.github.daniloagostinho	semmet-springboot-cli	2026-08-10T00:16:02Z	4.7.7

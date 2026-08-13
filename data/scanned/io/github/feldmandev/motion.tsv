@@ -1,0 +1,10 @@
+beta1		2026-08-07T11:04:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/feldmandev/motion/beta1/motion-beta1.jar returned status 404
+beta10		2026-08-10T20:59:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/feldmandev/motion/beta10/motion-beta10.jar returned status 404
+beta2		2026-08-07T13:57:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/feldmandev/motion/beta2/motion-beta2.jar returned status 404
+beta3		2026-08-07T21:00:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/feldmandev/motion/beta3/motion-beta3.jar returned status 404
+beta4		2026-08-08T18:52:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/feldmandev/motion/beta4/motion-beta4.jar returned status 404
+beta5		2026-08-09T09:49:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/feldmandev/motion/beta5/motion-beta5.jar returned status 404
+beta6		2026-08-10T11:43:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/feldmandev/motion/beta6/motion-beta6.jar returned status 404
+beta7		2026-08-10T12:23:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/feldmandev/motion/beta7/motion-beta7.jar returned status 404
+beta8		2026-08-10T18:15:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/feldmandev/motion/beta8/motion-beta8.jar returned status 404
+beta9		2026-08-10T19:14:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/feldmandev/motion/beta9/motion-beta9.jar returned status 404

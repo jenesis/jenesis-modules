@@ -1,0 +1,2 @@
+0.9.1		2026-08-04T05:51:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cpsbiz/ssac3/0.9.1/ssac3-0.9.1.jar returned status 404
+0.9.2		2026-08-04T07:29:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cpsbiz/ssac3/0.9.2/ssac3-0.9.2.jar returned status 404

@@ -1523,3 +1523,4 @@
 2.0.0	named	org.apache.paimon	paimon-oss	2026-08-04T03:48:01Z	
 2.0.0	named	org.apache.paimon	paimon-cosn-impl	2026-08-04T03:50:46Z	
 2.0.0	named	org.apache.paimon	paimon-cosn	2026-08-04T03:52:06Z	
+0.4.0-1-flink-1.17	named	io.github.cobble-project	cobble-flink-monitor	2026-08-10T04:35:07Z	

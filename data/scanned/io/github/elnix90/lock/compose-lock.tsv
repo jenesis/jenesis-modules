@@ -1,0 +1,3 @@
+1.1.0		2026-07-28T08:46:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/elnix90/lock/compose-lock/1.1.0/compose-lock-1.1.0.jar returned status 404
+1.2.0		2026-08-08T13:45:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/elnix90/lock/compose-lock/1.2.0/compose-lock-1.2.0.jar returned status 404
+1.2.1		2026-08-08T14:18:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/elnix90/lock/compose-lock/1.2.1/compose-lock-1.2.1.jar returned status 404

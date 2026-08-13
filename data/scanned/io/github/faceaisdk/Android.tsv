@@ -457,5 +457,10 @@
 2026.07.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.07.31/Android-2026.07.31.jar returned status 404
 2026.07.31.jrsj			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.07.31.jrsj/Android-2026.07.31.jrsj.jar returned status 404
 2026.08.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.08.01/Android-2026.08.01.jar returned status 404
+2026.08.01.Boss		2026-08-10T03:09:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.08.01.Boss/Android-2026.08.01.Boss.jar returned status 404
+2026.08.01.UNICE350B2		2026-08-10T03:07:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.08.01.UNICE350B2/Android-2026.08.01.UNICE350B2.jar returned status 404
 2026.08.01.beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.08.01.beta1/Android-2026.08.01.beta1.jar returned status 404
 2026.08.01.beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.08.01.beta2/Android-2026.08.01.beta2.jar returned status 404
+2026.08.01.faceunlock		2026-08-10T09:11:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.08.01.faceunlock/Android-2026.08.01.faceunlock.jar returned status 404
+2026.08.01.wan_faceunlock		2026-08-10T09:42:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.08.01.wan_faceunlock/Android-2026.08.01.wan_faceunlock.jar returned status 404
+2026.08.01.whizzl		2026-08-10T02:11:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.08.01.whizzl/Android-2026.08.01.whizzl.jar returned status 404
