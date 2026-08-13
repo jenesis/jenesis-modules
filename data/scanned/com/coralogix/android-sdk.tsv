@@ -34,8 +34,13 @@
 2.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.19.0/android-sdk-2.19.0.jar returned status 404
 2.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.19.1/android-sdk-2.19.1.jar returned status 404
 2.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.19.2/android-sdk-2.19.2.jar returned status 404
+2.19.3		2026-08-03T10:14:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.19.3/android-sdk-2.19.3.jar returned status 404
+2.19.4		2026-08-05T08:06:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.19.4/android-sdk-2.19.4.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.2.0/android-sdk-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.2.1/android-sdk-2.2.1.jar returned status 404
+2.20.0		2026-08-10T06:59:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.20.0/android-sdk-2.20.0.jar returned status 404
+2.21.0		2026-08-10T08:17:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.21.0/android-sdk-2.21.0.jar returned status 404
+2.21.1		2026-08-10T11:02:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.21.1/android-sdk-2.21.1.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.4.0/android-sdk-2.4.0.jar returned status 404
 2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.4.1/android-sdk-2.4.1.jar returned status 404
 2.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/coralogix/android-sdk/2.4.2/android-sdk-2.4.2.jar returned status 404

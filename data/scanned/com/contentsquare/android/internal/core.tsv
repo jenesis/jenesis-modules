@@ -42,3 +42,4 @@
 4.51.1		2026-06-25T12:44:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/internal/core/4.51.1/core-4.51.1.jar returned status 404
 4.51.2		2026-07-02T10:17:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/internal/core/4.51.2/core-4.51.2.jar returned status 404
 4.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/internal/core/4.52.0/core-4.52.0.jar returned status 404
+4.52.1		2026-08-04T16:27:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/internal/core/4.52.1/core-4.52.1.jar returned status 404

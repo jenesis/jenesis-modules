@@ -1,3 +1,8 @@
+3.24.0		2026-08-05T18:49:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentmunch/contentmunch-bom/3.24.0/contentmunch-bom-3.24.0.jar returned status 404
+3.25.0		2026-08-05T23:45:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentmunch/contentmunch-bom/3.25.0/contentmunch-bom-3.25.0.jar returned status 404
+3.26.0		2026-08-06T02:04:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentmunch/contentmunch-bom/3.26.0/contentmunch-bom-3.26.0.jar returned status 404
+3.27.0		2026-08-06T02:06:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentmunch/contentmunch-bom/3.27.0/contentmunch-bom-3.27.0.jar returned status 404
+3.28.0		2026-08-08T16:34:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentmunch/contentmunch-bom/3.28.0/contentmunch-bom-3.28.0.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentmunch/contentmunch-bom/7.1.0/contentmunch-bom-7.1.0.jar returned status 404
 7.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentmunch/contentmunch-bom/7.10.0/contentmunch-bom-7.10.0.jar returned status 404
 7.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentmunch/contentmunch-bom/7.11.0/contentmunch-bom-7.11.0.jar returned status 404

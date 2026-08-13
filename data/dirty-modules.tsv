@@ -3318,3 +3318,11 @@ com.digitalpetri.modbus.serial
 com.digitalpetri.modbus
 com.devinsterling.localize.fx
 com.devinsterling.localize
+com.clickhouse.client.http
+com.clickhouse.r2dbc
+com.clickhouse.jdbc
+com.chaosguide.boosterquery
+com.cedarsoftware.io
+com.cedarsoftware.util
+com.caoccao.javet.swc4j
+com.brielmayer.teda

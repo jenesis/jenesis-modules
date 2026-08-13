@@ -10,3 +10,4 @@
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/corbado/connect-core/0.2.0/connect-core-0.2.0.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/corbado/connect-core/0.2.1/connect-core-0.2.1.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/corbado/connect-core/1.3.0/connect-core-1.3.0.jar returned status 404
+1.4.0		2026-08-05T12:54:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/corbado/connect-core/1.4.0/connect-core-1.4.0.jar returned status 404

@@ -41,3 +41,4 @@
 2.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/compdf/compdfkit-tools/2.6.7/compdfkit-tools-2.6.7.jar returned status 404
 2.6.8		2026-05-29T01:59:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/compdf/compdfkit-tools/2.6.8/compdfkit-tools-2.6.8.jar returned status 404
 2.6.9		2026-07-03T02:40:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/compdf/compdfkit-tools/2.6.9/compdfkit-tools-2.6.9.jar returned status 404
+3.0.0		2026-08-07T01:21:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/compdf/compdfkit-tools/3.0.0/compdfkit-tools-3.0.0.jar returned status 404

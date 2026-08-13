@@ -1,1 +1,2 @@
+4.11.0.0		2026-08-04T13:28:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cleveradssolutions/moloco/4.11.0.0/moloco-4.11.0.0.jar returned status 404
 4.9.0.0		2026-06-12T13:56:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cleveradssolutions/moloco/4.9.0.0/moloco-4.9.0.0.jar returned status 404

@@ -1228,6 +1228,12 @@
 4.2.2	named	org.checkerframework	checker	2026-08-06T18:35:49Z	
 4.2.2	named	org.checkerframework	checker-qual	2026-08-06T18:35:49Z	
 4.2.2	named	org.checkerframework	checker-qual-android	2026-08-06T18:35:49Z	
+2.10.6	named	com.daml	ledger-api-test-tool-1.dev	2026-08-07T10:44:24Z	
+2.10.6	named	com.daml	codegen-java	2026-08-07T10:44:25Z	
+2.10.6	named	com.daml	ledger-api-test-tool	2026-08-07T10:44:25Z	
+2.10.6	named	com.daml	ledger-api-test-tool-1.14	2026-08-07T10:44:25Z	
+2.10.6	named	com.daml	codegen-scala-main	2026-08-07T10:44:27Z	
+2.10.6	named	com.daml	ledger-api-test-tool-1.15	2026-08-07T10:44:27Z	
 26.4.10	named	io.valkyrja	sindri	2026-08-08T02:02:32Z	
 26.4.11	named	io.valkyrja	sindri	2026-08-09T01:57:52Z	
 26.4.12	named	io.valkyrja	sindri	2026-08-10T01:57:39Z	

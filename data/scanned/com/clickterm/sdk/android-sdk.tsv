@@ -6,3 +6,4 @@
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickterm/sdk/android-sdk/2.1.1/android-sdk-2.1.1.jar returned status 404
 2.2.0		2026-06-17T01:50:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickterm/sdk/android-sdk/2.2.0/android-sdk-2.2.0.jar returned status 404
 2.3.0		2026-07-13T09:33:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickterm/sdk/android-sdk/2.3.0/android-sdk-2.3.0.jar returned status 404
+2.4.0		2026-08-03T13:02:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickterm/sdk/android-sdk/2.4.0/android-sdk-2.4.0.jar returned status 404

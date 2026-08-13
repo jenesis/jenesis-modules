@@ -5254,6 +5254,8 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 10.1.0	named	org.telegram	telegrambots-meta	2026-07-21T06:36:57Z	2.17.2
 1.2.38	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-07-21T07:14:37Z	2.17.0
 10.3.2-BETA-2	named	com.chartiq.finsemble	finsemble	2026-07-22T12:45:37Z	2.13.5
+9.10.29-BETA-1	named	com.chartiq.finsemble	finsemble	2026-07-22T17:23:41Z	2.13.5
+9.10.29	named	com.chartiq.finsemble	finsemble	2026-07-22T17:57:13Z	2.13.5
 8.728.1	named	com.yahoo.vespa	config-application-package	2026-07-23T07:49:13Z	2.22
 7.0.0	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-07-24T20:52:49Z	2.21
 10.1.1	named	org.telegram	telegrambots-abilities	2026-07-25T09:09:54Z	2.17.2
@@ -5268,6 +5270,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 11.5.1-beta-2	named	fr.inria.gforge.spoon	spoon-core	2026-07-26T03:46:01Z	2.22
 1.5.3	named	com.github.egonw	jqudt	2026-07-26T14:16:06Z	2.22
 8.730.36	named	com.yahoo.vespa	config-application-package	2026-07-28T04:28:51Z	2.22
+9.10.30	named	com.chartiq.finsemble	finsemble	2026-07-28T14:45:00Z	2.13.5
 8.731.17	named	com.yahoo.vespa	config-application-package	2026-07-29T17:16:56Z	2.22
 7.5.0	named	org.mock-server	mockserver-k8s-webhook	2026-07-29T17:47:14Z	2.22
 7.2.3.21	named	com.kinetica	kinetica-jdbc	2026-07-29T19:59:11Z	2.18.8
@@ -5284,8 +5287,11 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 10.2.0	named	org.telegram	telegrambots-webhook	2026-08-02T22:47:00Z	2.17.2
 6.4.0	named	com.messagebird	messagebird-api	2026-08-03T15:30:14Z	2.13.2
 7.0.1	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-08-04T03:06:18Z	2.21
+10.3.2	named	com.chartiq.finsemble	finsemble	2026-08-04T03:29:46Z	2.13.5
 3.6.1.Final	named	io.debezium	debezium-connector-cassandra-5	2026-08-04T12:27:07Z	2.21
 3.00.6.0	named	com.dolphindb	dolphindb-javaapi	2026-08-05T02:48:24Z	2.15.2
+9.10.31-BETA-1	named	com.chartiq.finsemble	finsemble	2026-08-05T03:09:32Z	2.13.5
+9.10.31	named	com.chartiq.finsemble	finsemble	2026-08-05T04:07:44Z	2.13.5
 1.8	named	io.github.vdaburon	junit-reporter-kpi-from-jmeter-report-csv	2026-08-05T07:43:14Z	2.22
 8.733.3	named	com.yahoo.vespa	config-application-package	2026-08-05T08:39:44Z	2.22
 4.0.21	named	io.github.techelliiptica	merv-client-api	2026-08-05T10:44:54Z	2.15.2
