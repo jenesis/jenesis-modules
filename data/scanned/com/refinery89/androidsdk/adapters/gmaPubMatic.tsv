@@ -1,0 +1,3 @@
+1.0.0-alpha.5		2026-07-27T05:10:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/refinery89/androidsdk/adapters/gmaPubMatic/1.0.0-alpha.5/gmaPubMatic-1.0.0-alpha.5.jar returned status 404
+1.0.0-alpha.6		2026-07-27T05:27:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/refinery89/androidsdk/adapters/gmaPubMatic/1.0.0-alpha.6/gmaPubMatic-1.0.0-alpha.6.jar returned status 404
+1.0.0-alpha.7		2026-07-27T05:42:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/refinery89/androidsdk/adapters/gmaPubMatic/1.0.0-alpha.7/gmaPubMatic-1.0.0-alpha.7.jar returned status 404

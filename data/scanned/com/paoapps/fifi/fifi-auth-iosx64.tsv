@@ -60,3 +60,5 @@
 0.0.42	metadata	2026-06-02T00:56:10Z	
 0.0.43		2026-06-02T15:15:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paoapps/fifi/fifi-auth-iosx64/0.0.43/fifi-auth-iosx64-0.0.43.jar returned status 404
 0.0.43	metadata	2026-06-02T15:15:31Z	
+0.0.44		2026-08-09T16:49:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paoapps/fifi/fifi-auth-iosx64/0.0.44/fifi-auth-iosx64-0.0.44.jar returned status 404
+0.0.44	metadata	2026-08-09T16:49:39Z	

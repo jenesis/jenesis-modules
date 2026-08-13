@@ -39,3 +39,4 @@
 17.40.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ocadotechnology/OcavaParent/17.40.46/OcavaParent-17.40.46.jar returned status 404
 17.40.89			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ocadotechnology/OcavaParent/17.40.89/OcavaParent-17.40.89.jar returned status 404
 17.45.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ocadotechnology/OcavaParent/17.45.5/OcavaParent-17.45.5.jar returned status 404
+17.46.41		2026-08-03T14:54:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ocadotechnology/OcavaParent/17.46.41/OcavaParent-17.46.41.jar returned status 404

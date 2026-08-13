@@ -202,3 +202,11 @@
 23.26.3.0.0	automatic	com.oracle.database.jdbc	ojdbc17	2026-07-29T00:08:55Z	
 23.26.3.0.0	automatic	com.oracle.database.jdbc	ojdbc11	2026-07-29T00:09:02Z	
 23.26.3.0.0	automatic	com.oracle.database.jdbc	ojdbc8	2026-07-29T00:09:26Z	
+21.22.0.0	automatic	com.oracle.database.jdbc	ojdbc11	2026-08-03T22:00:11Z	
+21.22.0.0	automatic	com.oracle.database.jdbc	ojdbc8	2026-08-03T22:00:11Z	
+21.22.0.0	automatic	com.oracle.database.jdbc.debug	ojdbc8_g	2026-08-03T22:00:11Z	
+21.22.0.0	automatic	com.oracle.database.jdbc.debug	ojdbc8dms_g	2026-08-03T22:00:11Z	
+21.22.0.0	automatic	com.oracle.database.observability	ojdbc11dms	2026-08-03T22:00:11Z	
+21.22.0.0	automatic	com.oracle.database.observability	ojdbc8dms	2026-08-03T22:00:11Z	
+21.22.0.0	automatic	com.oracle.database.jdbc.debug	ojdbc11_g	2026-08-03T22:00:12Z	
+21.22.0.0	automatic	com.oracle.database.jdbc.debug	ojdbc11dms_g	2026-08-03T22:00:12Z	

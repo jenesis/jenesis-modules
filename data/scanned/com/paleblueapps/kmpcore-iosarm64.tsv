@@ -12,3 +12,5 @@
 2.0.0	metadata	2026-04-07T05:05:32Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paleblueapps/kmpcore-iosarm64/2.0.1/kmpcore-iosarm64-2.0.1.jar returned status 404
 2.0.1	metadata	2026-04-08T06:01:09Z	
+2.0.2		2026-08-04T07:24:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/paleblueapps/kmpcore-iosarm64/2.0.2/kmpcore-iosarm64-2.0.2.jar returned status 404
+2.0.2	metadata	2026-08-04T07:24:17Z	

@@ -1,0 +1,4 @@
+1.0.0-alpha.3		2026-07-24T08:09:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/refinery89/androidsdk/adapters/gmaIronSource/1.0.0-alpha.3/gmaIronSource-1.0.0-alpha.3.jar returned status 404
+1.0.0-alpha.5		2026-07-27T04:56:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/refinery89/androidsdk/adapters/gmaIronSource/1.0.0-alpha.5/gmaIronSource-1.0.0-alpha.5.jar returned status 404
+1.0.0-alpha.6		2026-07-27T05:27:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/refinery89/androidsdk/adapters/gmaIronSource/1.0.0-alpha.6/gmaIronSource-1.0.0-alpha.6.jar returned status 404
+1.0.0-alpha.7		2026-07-27T05:42:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/refinery89/androidsdk/adapters/gmaIronSource/1.0.0-alpha.7/gmaIronSource-1.0.0-alpha.7.jar returned status 404
