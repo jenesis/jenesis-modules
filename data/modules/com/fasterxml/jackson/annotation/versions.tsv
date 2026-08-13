@@ -6511,3 +6511,4 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 0.0.73	named	com.free-now.sauron.plugins	dependency-checker	2026-08-01T00:13:40Z	2.15.0
 0.0.74	named	com.free-now.sauron.plugins	dependency-checker	2026-08-04T12:04:48Z	2.15.0
 4.1.11	named	io.dekorate	issue-442-build-config-name	2026-08-10T13:34:37Z	2.14.1
+0.10.0	named	com.databricks.labs	databricks-morph-plugin	2026-08-10T20:36:28Z	2.21

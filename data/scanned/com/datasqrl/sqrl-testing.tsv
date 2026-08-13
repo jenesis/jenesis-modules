@@ -8,6 +8,7 @@
 0.10.7		2026-06-30T19:06:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-testing/0.10.7/sqrl-testing-0.10.7.jar returned status 404
 0.10.8		2026-07-02T16:24:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-testing/0.10.8/sqrl-testing-0.10.8.jar returned status 404
 0.10.9		2026-07-21T15:07:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-testing/0.10.9/sqrl-testing-0.10.9.jar returned status 404
+0.11.0		2026-08-10T17:30:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-testing/0.11.0/sqrl-testing-0.11.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-testing/0.6.0/sqrl-testing-0.6.0.jar returned status 404
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-testing/0.6.1/sqrl-testing-0.6.1.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datasqrl/sqrl-testing/0.7.0/sqrl-testing-0.7.0.jar returned status 404

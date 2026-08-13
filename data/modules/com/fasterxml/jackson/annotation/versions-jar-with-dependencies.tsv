@@ -5292,5 +5292,6 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 1.0.16	named	com.janeluo	luban-rds-bin	2026-08-06T01:28:04Z	2.13.5
 1.0.17	named	com.janeluo	luban-rds-bin	2026-08-06T02:56:47Z	2.13.5
 1.0.18	named	com.janeluo	luban-rds-bin	2026-08-07T07:48:24Z	2.13.5
+1.0.3	named	com.deployagram	deployagram-kafka-interceptors	2026-08-07T17:30:24Z	2.14.2
 8.736.12	named	com.yahoo.vespa	config-application-package	2026-08-10T02:06:27Z	2.22
 0.65	named	com.testfabrik.webmate.sdk	java-sdk	2026-08-10T13:51:41Z	2.15.0

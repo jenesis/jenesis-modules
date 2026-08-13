@@ -43,7 +43,14 @@
 0.136.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.136.0/databricks-sdk-parent-0.136.0.jar returned status 404
 0.137.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.137.0/databricks-sdk-parent-0.137.0.jar returned status 404
 0.138.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.138.0/databricks-sdk-parent-0.138.0.jar returned status 404
+0.139.0		2026-08-03T09:39:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.139.0/databricks-sdk-parent-0.139.0.jar returned status 404
 0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.14.0/databricks-sdk-parent-0.14.0.jar returned status 404
+0.140.0		2026-08-04T09:05:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.140.0/databricks-sdk-parent-0.140.0.jar returned status 404
+0.141.0		2026-08-04T12:11:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.141.0/databricks-sdk-parent-0.141.0.jar returned status 404
+0.142.0		2026-08-05T09:05:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.142.0/databricks-sdk-parent-0.142.0.jar returned status 404
+0.143.0		2026-08-06T09:03:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.143.0/databricks-sdk-parent-0.143.0.jar returned status 404
+0.144.0		2026-08-11T08:27:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.144.0/databricks-sdk-parent-0.144.0.jar returned status 404
+0.145.0		2026-08-12T08:37:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.145.0/databricks-sdk-parent-0.145.0.jar returned status 404
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.15.0/databricks-sdk-parent-0.15.0.jar returned status 404
 0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.16.0/databricks-sdk-parent-0.16.0.jar returned status 404
 0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.17.0/databricks-sdk-parent-0.17.0.jar returned status 404

@@ -20,3 +20,5 @@
 1.6.0	metadata	2026-04-22T09:53:40Z	
 1.7.0		2026-06-10T07:21:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datadoghq/dd-sdk-kotlin-multiplatform-rum-tvossimulatorarm64/1.7.0/dd-sdk-kotlin-multiplatform-rum-tvossimulatorarm64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-06-10T07:21:34Z	
+1.8.0		2026-08-10T12:19:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/datadoghq/dd-sdk-kotlin-multiplatform-rum-tvossimulatorarm64/1.8.0/dd-sdk-kotlin-multiplatform-rum-tvossimulatorarm64-1.8.0.jar returned status 404
+1.8.0	metadata	2026-08-10T12:19:57Z	

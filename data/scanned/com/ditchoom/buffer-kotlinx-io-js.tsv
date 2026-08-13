@@ -19,6 +19,14 @@
 6.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.21.0/buffer-kotlinx-io-js-6.21.0.jar returned status 404
 6.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.22.0/buffer-kotlinx-io-js-6.22.0.jar returned status 404
 6.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.23.0/buffer-kotlinx-io-js-6.23.0.jar returned status 404
+6.24.0		2026-08-04T20:44:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.24.0/buffer-kotlinx-io-js-6.24.0.jar returned status 404
+6.25.0		2026-08-05T01:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.25.0/buffer-kotlinx-io-js-6.25.0.jar returned status 404
+6.25.1		2026-08-07T04:47:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.25.1/buffer-kotlinx-io-js-6.25.1.jar returned status 404
+6.26.0		2026-08-07T13:46:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.26.0/buffer-kotlinx-io-js-6.26.0.jar returned status 404
+6.27.0		2026-08-10T20:10:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.27.0/buffer-kotlinx-io-js-6.27.0.jar returned status 404
+6.27.1		2026-08-11T00:40:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.27.1/buffer-kotlinx-io-js-6.27.1.jar returned status 404
+6.28.0		2026-08-10T23:42:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.28.0/buffer-kotlinx-io-js-6.28.0.jar returned status 404
+6.28.1		2026-08-11T06:39:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.28.1/buffer-kotlinx-io-js-6.28.1.jar returned status 404
 6.6.0		2026-07-06T07:08:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.6.0/buffer-kotlinx-io-js-6.6.0.jar returned status 404
 6.6.1		2026-07-06T18:27:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.6.1/buffer-kotlinx-io-js-6.6.1.jar returned status 404
 6.7.0		2026-07-06T17:41:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-kotlinx-io-js/6.7.0/buffer-kotlinx-io-js-6.7.0.jar returned status 404

@@ -11,3 +11,4 @@
 2.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.1.3/modbus-parent-2.1.3.jar returned status 404
 2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.1.4/modbus-parent-2.1.4.jar returned status 404
 2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.1.5/modbus-parent-2.1.5.jar returned status 404
+2.1.6		2026-08-08T13:53:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/digitalpetri/modbus/modbus-parent/2.1.6/modbus-parent-2.1.6.jar returned status 404
