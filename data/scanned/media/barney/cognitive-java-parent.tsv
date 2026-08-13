@@ -3,3 +3,4 @@
 0.5.0		2026-05-24T14:26:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/cognitive-java-parent/0.5.0/cognitive-java-parent-0.5.0.jar returned status 404
 0.5.1		2026-05-24T18:15:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/cognitive-java-parent/0.5.1/cognitive-java-parent-0.5.1.jar returned status 404
 0.6.0		2026-05-31T23:29:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/cognitive-java-parent/0.6.0/cognitive-java-parent-0.6.0.jar returned status 404
+0.7.0		2026-08-09T10:53:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/cognitive-java-parent/0.7.0/cognitive-java-parent-0.7.0.jar returned status 404

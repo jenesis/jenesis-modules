@@ -114,3 +114,5 @@
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/configuration/36.6.0/configuration-36.6.0.jar returned status 404
 36.6.1		2026-06-18T16:31:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/configuration/36.6.1/configuration-36.6.1.jar returned status 404
 36.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/configuration/36.6.2/configuration-36.6.2.jar returned status 404
+36.6.3		2026-07-24T16:18:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/configuration/36.6.3/configuration-36.6.3.jar returned status 404
+36.7.0		2026-07-30T11:55:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/configuration/36.7.0/configuration-36.7.0.jar returned status 404

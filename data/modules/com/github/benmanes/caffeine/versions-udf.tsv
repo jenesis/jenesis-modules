@@ -187,3 +187,6 @@
 8.1.0	named	nl.basjes.parse.useragent	yauaa-logparser	2026-02-16T09:07:23Z	3.2.3
 8.1.1	named	nl.basjes.parse.useragent	yauaa-hive	2026-03-20T08:11:02Z	3.2.3
 8.1.1	named	nl.basjes.parse.useragent	yauaa-logparser	2026-03-20T08:11:02Z	3.2.3
+8.2.0	named	nl.basjes.parse.useragent	yauaa-hive	2026-07-24T13:33:50Z	3.2.4
+8.2.0	named	nl.basjes.parse.useragent	yauaa-logparser	2026-07-24T13:33:50Z	3.2.4
+8.2.0	named	nl.basjes.parse.useragent	yauaa-snowflake	2026-07-24T13:33:51Z	3.2.4

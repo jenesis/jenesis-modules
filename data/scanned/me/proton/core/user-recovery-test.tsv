@@ -84,3 +84,5 @@
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/user-recovery-test/36.6.0/user-recovery-test-36.6.0.jar returned status 404
 36.6.1		2026-06-18T16:31:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/user-recovery-test/36.6.1/user-recovery-test-36.6.1.jar returned status 404
 36.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/user-recovery-test/36.6.2/user-recovery-test-36.6.2.jar returned status 404
+36.6.3		2026-07-24T16:18:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/user-recovery-test/36.6.3/user-recovery-test-36.6.3.jar returned status 404
+36.7.0		2026-07-30T11:55:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/user-recovery-test/36.7.0/user-recovery-test-36.7.0.jar returned status 404

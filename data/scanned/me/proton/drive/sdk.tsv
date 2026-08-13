@@ -29,6 +29,16 @@
 0.18.1		2026-06-25T07:27:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.18.1/sdk-0.18.1.jar returned status 404
 0.19.0		2026-07-01T04:56:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.19.0/sdk-0.19.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.2.0/sdk-0.2.0.jar returned status 404
+0.20.1		2026-07-20T12:36:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.20.1/sdk-0.20.1.jar returned status 404
+0.20.1-rust		2026-07-20T13:32:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.20.1-rust/sdk-0.20.1-rust.jar returned status 404
+0.20.2		2026-07-21T07:48:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.20.2/sdk-0.20.2.jar returned status 404
+0.20.2-rust		2026-07-21T07:48:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.20.2-rust/sdk-0.20.2-rust.jar returned status 404
+0.21.0		2026-07-23T09:08:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.21.0/sdk-0.21.0.jar returned status 404
+0.21.0-rust		2026-07-23T09:10:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.21.0-rust/sdk-0.21.0-rust.jar returned status 404
+0.22.0		2026-07-28T15:08:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.22.0/sdk-0.22.0.jar returned status 404
+0.22.0-rust		2026-07-28T15:08:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.22.0-rust/sdk-0.22.0-rust.jar returned status 404
+0.23.0		2026-07-31T12:46:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.23.0/sdk-0.23.0.jar returned status 404
+0.23.0-rust		2026-07-31T12:46:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.23.0-rust/sdk-0.23.0-rust.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.3.0/sdk-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.3.1/sdk-0.3.1.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/drive/sdk/0.4.0/sdk-0.4.0.jar returned status 404

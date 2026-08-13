@@ -134,6 +134,8 @@
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-quark/36.6.0/test-quark-36.6.0.jar returned status 404
 36.6.1		2026-06-18T16:31:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-quark/36.6.1/test-quark-36.6.1.jar returned status 404
 36.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-quark/36.6.2/test-quark-36.6.2.jar returned status 404
+36.6.3		2026-07-24T16:18:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-quark/36.6.3/test-quark-36.6.3.jar returned status 404
+36.7.0		2026-07-30T11:55:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/test-quark/36.7.0/test-quark-36.7.0.jar returned status 404
 9.10.0		2023-02-16T16:53:48Z	
 9.10.1		2023-02-17T14:14:28Z	
 9.11.0		2023-02-21T18:00:28Z	

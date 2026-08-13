@@ -6,3 +6,4 @@
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/crap-java-parent/0.5.0/crap-java-parent-0.5.0.jar returned status 404
 0.6.0		2026-05-24T18:06:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/crap-java-parent/0.6.0/crap-java-parent-0.6.0.jar returned status 404
 0.6.1		2026-05-31T23:49:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/crap-java-parent/0.6.1/crap-java-parent-0.6.1.jar returned status 404
+0.6.2		2026-08-09T10:05:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/crap-java-parent/0.6.2/crap-java-parent-0.6.2.jar returned status 404

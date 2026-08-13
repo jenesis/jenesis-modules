@@ -2,3 +2,11 @@
 0.6.0	metadata	2026-06-29T15:07:13Z	
 0.7.0		2026-07-01T12:01:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/kpavlov/kt/schema/kt-schema-json-tvossimulatorarm64/0.7.0/kt-schema-json-tvossimulatorarm64-0.7.0.jar returned status 404
 0.7.0	metadata	2026-07-01T12:01:38Z	
+0.8.0		2026-08-01T21:40:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/kpavlov/kt/schema/kt-schema-json-tvossimulatorarm64/0.8.0/kt-schema-json-tvossimulatorarm64-0.8.0.jar returned status 404
+0.8.0	metadata	2026-08-01T21:40:08Z	
+0.8.1		2026-08-02T18:46:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/kpavlov/kt/schema/kt-schema-json-tvossimulatorarm64/0.8.1/kt-schema-json-tvossimulatorarm64-0.8.1.jar returned status 404
+0.8.1	metadata	2026-08-02T18:46:39Z	
+0.8.2		2026-08-03T10:37:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/kpavlov/kt/schema/kt-schema-json-tvossimulatorarm64/0.8.2/kt-schema-json-tvossimulatorarm64-0.8.2.jar returned status 404
+0.8.2	metadata	2026-08-03T10:37:13Z	
+0.8.3		2026-08-03T19:04:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/kpavlov/kt/schema/kt-schema-json-tvossimulatorarm64/0.8.3/kt-schema-json-tvossimulatorarm64-0.8.3.jar returned status 404
+0.8.3	metadata	2026-08-03T19:04:33Z	

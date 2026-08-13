@@ -107,3 +107,4 @@
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/basjes/parse/useragent/yauaa-udf-parent/8.0.0/yauaa-udf-parent-8.0.0.jar returned status 404
 8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/basjes/parse/useragent/yauaa-udf-parent/8.1.0/yauaa-udf-parent-8.1.0.jar returned status 404
 8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/basjes/parse/useragent/yauaa-udf-parent/8.1.1/yauaa-udf-parent-8.1.1.jar returned status 404
+8.2.0		2026-07-24T13:33:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/basjes/parse/useragent/yauaa-udf-parent/8.2.0/yauaa-udf-parent-8.2.0.jar returned status 404

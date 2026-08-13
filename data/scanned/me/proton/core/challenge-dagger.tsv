@@ -134,6 +134,8 @@
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/challenge-dagger/36.6.0/challenge-dagger-36.6.0.jar returned status 404
 36.6.1		2026-06-18T16:31:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/challenge-dagger/36.6.1/challenge-dagger-36.6.1.jar returned status 404
 36.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/challenge-dagger/36.6.2/challenge-dagger-36.6.2.jar returned status 404
+36.6.3		2026-07-24T16:18:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/challenge-dagger/36.6.3/challenge-dagger-36.6.3.jar returned status 404
+36.7.0		2026-07-30T11:55:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/challenge-dagger/36.7.0/challenge-dagger-36.7.0.jar returned status 404
 7.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/challenge-dagger/7.1.10/challenge-dagger-7.1.10.jar returned status 404
 7.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/challenge-dagger/7.1.11/challenge-dagger-7.1.11.jar returned status 404
 7.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/challenge-dagger/7.1.6/challenge-dagger-7.1.6.jar returned status 404

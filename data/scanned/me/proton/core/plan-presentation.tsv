@@ -154,6 +154,8 @@
 36.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/plan-presentation/36.6.0/plan-presentation-36.6.0.jar returned status 404
 36.6.1		2026-06-18T16:31:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/plan-presentation/36.6.1/plan-presentation-36.6.1.jar returned status 404
 36.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/plan-presentation/36.6.2/plan-presentation-36.6.2.jar returned status 404
+36.6.3		2026-07-24T16:18:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/plan-presentation/36.6.3/plan-presentation-36.6.3.jar returned status 404
+36.7.0		2026-07-30T11:55:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/plan-presentation/36.7.0/plan-presentation-36.7.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/plan-presentation/4.0.0/plan-presentation-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/plan-presentation/4.1.0/plan-presentation-4.1.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/plan-presentation/5.0.0/plan-presentation-5.0.0.jar returned status 404
