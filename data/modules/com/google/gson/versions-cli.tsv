@@ -12,3 +12,4 @@
 1.1.1	named	de.julielab	julielab-bioportal-ontology-tools	2022-12-03T19:16:26Z	2.10
 5.1.1	named	org.linuxforhealth.fhir	fhir-persistence-cassandra-app	2022-12-15T19:44:30Z	2.10
 5.1.1	named	org.linuxforhealth.fhir	fhir-persistence-blob-app	2022-12-15T19:44:45Z	2.10
+3.0.0	named	io.github.loong95	p3c-pmd-jdk21	2026-08-09T16:20:10Z	2.14.0

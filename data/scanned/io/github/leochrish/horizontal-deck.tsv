@@ -1,0 +1,5 @@
+1.0.0		2026-07-24T12:46:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leochrish/horizontal-deck/1.0.0/horizontal-deck-1.0.0.jar returned status 404
+1.0.1		2026-07-24T17:42:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leochrish/horizontal-deck/1.0.1/horizontal-deck-1.0.1.jar returned status 404
+1.0.2		2026-07-24T17:50:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leochrish/horizontal-deck/1.0.2/horizontal-deck-1.0.2.jar returned status 404
+1.0.3		2026-07-24T18:19:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leochrish/horizontal-deck/1.0.3/horizontal-deck-1.0.3.jar returned status 404
+1.0.4		2026-08-01T08:20:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leochrish/horizontal-deck/1.0.4/horizontal-deck-1.0.4.jar returned status 404

@@ -1,0 +1,2 @@
+10.19.0-agp9.1		2026-07-23T01:08:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leminity/realm/realm-android-kotlin-extensions/10.19.0-agp9.1/realm-android-kotlin-extensions-10.19.0-agp9.1.jar returned status 404
+10.19.0-agp9.3		2026-07-24T05:14:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leminity/realm/realm-android-kotlin-extensions/10.19.0-agp9.3/realm-android-kotlin-extensions-10.19.0-agp9.3.jar returned status 404

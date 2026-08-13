@@ -31,6 +31,7 @@
 1.11.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/core-macosarm64/1.11.6/core-macosarm64-1.11.6.jar returned status 404
 1.11.6	metadata	2026-07-10T09:50:07Z	
 1.11.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/core-macosarm64/1.11.7/core-macosarm64-1.11.7.jar returned status 404
+1.11.7	metadata	2026-07-31T14:11:27Z	
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/core-macosarm64/1.8.0/core-macosarm64-1.8.0.jar returned status 404
 1.8.0	metadata	2025-02-03T09:43:54Z	
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/core-macosarm64/1.8.1/core-macosarm64-1.8.1.jar returned status 404

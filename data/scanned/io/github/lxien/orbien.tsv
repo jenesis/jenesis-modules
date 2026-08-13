@@ -1,0 +1,11 @@
+0.20.1		2026-07-22T03:22:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.20.1/orbien-0.20.1.jar returned status 404
+0.21.0		2026-07-22T07:43:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.21.0/orbien-0.21.0.jar returned status 404
+0.22.0		2026-07-25T15:39:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.22.0/orbien-0.22.0.jar returned status 404
+0.23.0		2026-07-27T13:09:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.23.0/orbien-0.23.0.jar returned status 404
+0.25.0		2026-07-29T16:17:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.25.0/orbien-0.25.0.jar returned status 404
+0.26.0		2026-07-31T13:26:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.26.0/orbien-0.26.0.jar returned status 404
+0.26.1		2026-08-01T14:48:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.26.1/orbien-0.26.1.jar returned status 404
+0.27.0		2026-08-02T13:48:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.27.0/orbien-0.27.0.jar returned status 404
+0.28.0		2026-08-06T08:43:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.28.0/orbien-0.28.0.jar returned status 404
+0.28.1		2026-08-09T01:04:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.28.1/orbien-0.28.1.jar returned status 404
+2.0.0		2026-08-10T15:00:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/2.0.0/orbien-2.0.0.jar returned status 404
