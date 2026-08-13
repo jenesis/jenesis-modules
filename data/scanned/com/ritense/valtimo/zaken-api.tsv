@@ -171,9 +171,11 @@
 12.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/12.4.1.RELEASE/zaken-api-12.4.1.RELEASE.jar returned status 404
 12.4.1.RELEASE	plain	2024-11-19T10:53:40Z	
 12.4.3.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/12.4.3.RELEASE/zaken-api-12.4.3.RELEASE.jar returned status 404
+12.4.3.RELEASE	plain	2026-07-30T13:42:21Z	
 12.40.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/12.40.0.RELEASE/zaken-api-12.40.0.RELEASE.jar returned status 404
 12.40.0.RELEASE	plain	2026-07-15T11:17:01Z	
 12.41.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/12.41.0.RELEASE/zaken-api-12.41.0.RELEASE.jar returned status 404
+12.41.0.RELEASE	plain	2026-07-29T11:28:38Z	
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/12.5.0.RELEASE/zaken-api-12.5.0.RELEASE.jar returned status 404
 12.5.0.RELEASE	plain	2024-11-22T16:09:11Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/12.5.1.RELEASE/zaken-api-12.5.1.RELEASE.jar returned status 404
@@ -283,12 +285,17 @@
 13.37.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/13.37.0.RELEASE/zaken-api-13.37.0.RELEASE.jar returned status 404
 13.37.0.RELEASE	plain	2026-07-15T11:51:16Z	
 13.38.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/13.38.0.RELEASE/zaken-api-13.38.0.RELEASE.jar returned status 404
+13.38.0.RELEASE	plain	2026-07-22T08:45:07Z	
 13.39.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/13.39.0.RELEASE/zaken-api-13.39.0.RELEASE.jar returned status 404
+13.39.0.RELEASE	plain	2026-07-29T11:40:54Z	
 13.4.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/13.4.0.RELEASE/zaken-api-13.4.0.RELEASE.jar returned status 404
 13.4.0.RELEASE	plain	2025-10-20T15:47:33Z	
 13.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/13.4.1.RELEASE/zaken-api-13.4.1.RELEASE.jar returned status 404
 13.4.1.RELEASE	plain	2025-10-21T20:03:36Z	
 13.4.2.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/13.4.2.RELEASE/zaken-api-13.4.2.RELEASE.jar returned status 404
+13.4.2.RELEASE	plain	2026-07-29T14:15:41Z	
+13.40.0.RELEASE		2026-08-05T09:15:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/13.40.0.RELEASE/zaken-api-13.40.0.RELEASE.jar returned status 404
+13.40.0.RELEASE	plain	2026-08-05T09:15:20Z	
 13.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/13.5.0.RELEASE/zaken-api-13.5.0.RELEASE.jar returned status 404
 13.5.0.RELEASE	plain	2025-11-05T10:13:57Z	
 13.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/zaken-api/13.5.1.RELEASE/zaken-api-13.5.1.RELEASE.jar returned status 404

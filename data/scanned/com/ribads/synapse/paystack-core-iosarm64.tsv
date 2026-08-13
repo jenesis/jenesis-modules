@@ -23,3 +23,6 @@
 0.1.2-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/paystack-core-iosarm64/0.1.2-alpha1/paystack-core-iosarm64-0.1.2-alpha1.jar returned status 404
 0.1.2-alpha1	metadata	2026-07-18T22:05:12Z	
 0.2.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/paystack-core-iosarm64/0.2.0-alpha1/paystack-core-iosarm64-0.2.0-alpha1.jar returned status 404
+0.2.0-alpha1	metadata	2026-08-02T09:02:58Z	
+0.2.0-alpha2		2026-08-06T07:10:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/paystack-core-iosarm64/0.2.0-alpha2/paystack-core-iosarm64-0.2.0-alpha2.jar returned status 404
+0.2.0-alpha2	metadata	2026-08-06T07:10:49Z	

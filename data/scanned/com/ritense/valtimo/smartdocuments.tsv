@@ -175,9 +175,11 @@
 12.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/12.4.1.RELEASE/smartdocuments-12.4.1.RELEASE.jar returned status 404
 12.4.1.RELEASE	plain	2024-11-19T10:48:10Z	
 12.4.3.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/12.4.3.RELEASE/smartdocuments-12.4.3.RELEASE.jar returned status 404
+12.4.3.RELEASE	plain	2026-07-30T13:42:18Z	
 12.40.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/12.40.0.RELEASE/smartdocuments-12.40.0.RELEASE.jar returned status 404
 12.40.0.RELEASE	plain	2026-07-15T11:17:00Z	
 12.41.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/12.41.0.RELEASE/smartdocuments-12.41.0.RELEASE.jar returned status 404
+12.41.0.RELEASE	plain	2026-07-29T11:28:37Z	
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/12.5.0.RELEASE/smartdocuments-12.5.0.RELEASE.jar returned status 404
 12.5.0.RELEASE	plain	2024-11-22T16:03:49Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/12.5.1.RELEASE/smartdocuments-12.5.1.RELEASE.jar returned status 404
@@ -287,12 +289,17 @@
 13.37.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/13.37.0.RELEASE/smartdocuments-13.37.0.RELEASE.jar returned status 404
 13.37.0.RELEASE	plain	2026-07-15T11:51:14Z	
 13.38.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/13.38.0.RELEASE/smartdocuments-13.38.0.RELEASE.jar returned status 404
+13.38.0.RELEASE	plain	2026-07-22T08:45:07Z	
 13.39.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/13.39.0.RELEASE/smartdocuments-13.39.0.RELEASE.jar returned status 404
+13.39.0.RELEASE	plain	2026-07-29T11:40:57Z	
 13.4.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/13.4.0.RELEASE/smartdocuments-13.4.0.RELEASE.jar returned status 404
 13.4.0.RELEASE	plain	2025-10-20T15:47:30Z	
 13.4.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/13.4.1.RELEASE/smartdocuments-13.4.1.RELEASE.jar returned status 404
 13.4.1.RELEASE	plain	2025-10-21T20:03:33Z	
 13.4.2.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/13.4.2.RELEASE/smartdocuments-13.4.2.RELEASE.jar returned status 404
+13.4.2.RELEASE	plain	2026-07-29T14:15:43Z	
+13.40.0.RELEASE		2026-08-05T09:15:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/13.40.0.RELEASE/smartdocuments-13.40.0.RELEASE.jar returned status 404
+13.40.0.RELEASE	plain	2026-08-05T09:15:21Z	
 13.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/13.5.0.RELEASE/smartdocuments-13.5.0.RELEASE.jar returned status 404
 13.5.0.RELEASE	plain	2025-11-05T10:13:57Z	
 13.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/smartdocuments/13.5.1.RELEASE/smartdocuments-13.5.1.RELEASE.jar returned status 404

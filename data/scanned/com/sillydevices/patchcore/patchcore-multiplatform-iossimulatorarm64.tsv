@@ -36,3 +36,5 @@
 0.3.0	metadata	2026-05-20T20:54:33Z	
 0.3.1		2026-05-24T00:24:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sillydevices/patchcore/patchcore-multiplatform-iossimulatorarm64/0.3.1/patchcore-multiplatform-iossimulatorarm64-0.3.1.jar returned status 404
 0.3.1	metadata	2026-05-24T00:24:20Z	
+0.3.2		2026-06-01T20:04:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sillydevices/patchcore/patchcore-multiplatform-iossimulatorarm64/0.3.2/patchcore-multiplatform-iossimulatorarm64-0.3.2.jar returned status 404
+0.3.2	metadata	2026-06-01T20:04:14Z	
