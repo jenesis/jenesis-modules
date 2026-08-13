@@ -17,6 +17,10 @@
 3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.2.5/habitat-core-androidnativearm32-3.2.5.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.0/habitat-core-androidnativearm32-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.1/habitat-core-androidnativearm32-3.3.1.jar returned status 404
+3.3.10		2026-07-19T01:24:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.10/habitat-core-androidnativearm32-3.3.10.jar returned status 404
+3.3.11		2026-07-19T01:54:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.11/habitat-core-androidnativearm32-3.3.11.jar returned status 404
+3.3.12		2026-07-19T02:11:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.12/habitat-core-androidnativearm32-3.3.12.jar returned status 404
+3.3.13		2026-08-06T00:27:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.13/habitat-core-androidnativearm32-3.3.13.jar returned status 404
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.2/habitat-core-androidnativearm32-3.3.2.jar returned status 404
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.3/habitat-core-androidnativearm32-3.3.3.jar returned status 404
 3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.4/habitat-core-androidnativearm32-3.3.4.jar returned status 404
@@ -24,3 +28,4 @@
 3.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.6/habitat-core-androidnativearm32-3.3.6.jar returned status 404
 3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.7/habitat-core-androidnativearm32-3.3.7.jar returned status 404
 3.3.8		2026-05-22T12:51:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.8/habitat-core-androidnativearm32-3.3.8.jar returned status 404
+3.3.9		2026-07-19T00:56:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/habitat-core-androidnativearm32/3.3.9/habitat-core-androidnativearm32-3.3.9.jar returned status 404

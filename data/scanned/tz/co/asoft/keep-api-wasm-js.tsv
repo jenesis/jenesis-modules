@@ -22,6 +22,10 @@
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.2.2/keep-api-wasm-js-3.2.2.jar returned status 404
 3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.2.5/keep-api-wasm-js-3.2.5.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.0/keep-api-wasm-js-3.3.0.jar returned status 404
+3.3.10		2026-07-19T01:24:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.10/keep-api-wasm-js-3.3.10.jar returned status 404
+3.3.11		2026-07-19T01:54:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.11/keep-api-wasm-js-3.3.11.jar returned status 404
+3.3.12		2026-07-19T02:11:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.12/keep-api-wasm-js-3.3.12.jar returned status 404
+3.3.13		2026-08-06T00:28:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.13/keep-api-wasm-js-3.3.13.jar returned status 404
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.2/keep-api-wasm-js-3.3.2.jar returned status 404
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.3/keep-api-wasm-js-3.3.3.jar returned status 404
 3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.4/keep-api-wasm-js-3.3.4.jar returned status 404
@@ -29,3 +33,4 @@
 3.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.6/keep-api-wasm-js-3.3.6.jar returned status 404
 3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.7/keep-api-wasm-js-3.3.7.jar returned status 404
 3.3.8		2026-05-22T12:51:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.8/keep-api-wasm-js-3.3.8.jar returned status 404
+3.3.9		2026-07-19T00:56:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-api-wasm-js/3.3.9/keep-api-wasm-js-3.3.9.jar returned status 404

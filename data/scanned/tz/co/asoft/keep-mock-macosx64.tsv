@@ -52,6 +52,12 @@
 3.2.5	metadata	2025-09-29T23:11:46Z	
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-mock-macosx64/3.3.0/keep-mock-macosx64-3.3.0.jar returned status 404
 3.3.0	metadata	2025-12-27T12:50:38Z	
+3.3.10		2026-07-19T01:24:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-mock-macosx64/3.3.10/keep-mock-macosx64-3.3.10.jar returned status 404
+3.3.10	metadata	2026-07-19T01:24:58Z	
+3.3.11		2026-07-19T01:54:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-mock-macosx64/3.3.11/keep-mock-macosx64-3.3.11.jar returned status 404
+3.3.11	metadata	2026-07-19T01:54:49Z	
+3.3.12		2026-07-19T02:11:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-mock-macosx64/3.3.12/keep-mock-macosx64-3.3.12.jar returned status 404
+3.3.12	metadata	2026-07-19T02:11:02Z	
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-mock-macosx64/3.3.2/keep-mock-macosx64-3.3.2.jar returned status 404
 3.3.2	metadata	2025-12-27T21:43:35Z	
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-mock-macosx64/3.3.3/keep-mock-macosx64-3.3.3.jar returned status 404
@@ -66,3 +72,5 @@
 3.3.7	metadata	2026-02-27T10:38:36Z	
 3.3.8		2026-05-22T12:51:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-mock-macosx64/3.3.8/keep-mock-macosx64-3.3.8.jar returned status 404
 3.3.8	metadata	2026-05-22T12:51:39Z	
+3.3.9		2026-07-19T00:56:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/keep-mock-macosx64/3.3.9/keep-mock-macosx64-3.3.9.jar returned status 404
+3.3.9	metadata	2026-07-19T00:56:31Z	

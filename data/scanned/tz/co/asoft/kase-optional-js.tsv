@@ -26,6 +26,10 @@
 3.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.2.5/kase-optional-js-3.2.5.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.0/kase-optional-js-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.1/kase-optional-js-3.3.1.jar returned status 404
+3.3.10		2026-07-19T01:24:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.10/kase-optional-js-3.3.10.jar returned status 404
+3.3.11		2026-07-19T01:55:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.11/kase-optional-js-3.3.11.jar returned status 404
+3.3.12		2026-07-19T02:11:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.12/kase-optional-js-3.3.12.jar returned status 404
+3.3.13		2026-08-06T00:28:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.13/kase-optional-js-3.3.13.jar returned status 404
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.2/kase-optional-js-3.3.2.jar returned status 404
 3.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.3/kase-optional-js-3.3.3.jar returned status 404
 3.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.4/kase-optional-js-3.3.4.jar returned status 404
@@ -33,3 +37,4 @@
 3.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.6/kase-optional-js-3.3.6.jar returned status 404
 3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.7/kase-optional-js-3.3.7.jar returned status 404
 3.3.8		2026-05-22T12:52:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.8/kase-optional-js-3.3.8.jar returned status 404
+3.3.9		2026-07-19T00:56:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tz/co/asoft/kase-optional-js/3.3.9/kase-optional-js-3.3.9.jar returned status 404
