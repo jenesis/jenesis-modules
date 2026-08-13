@@ -1,0 +1,4 @@
+0.1.6		2026-08-04T07:21:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/thuat/hotreload-runtime/0.1.6/hotreload-runtime-0.1.6.jar returned status 404
+0.1.7		2026-08-04T15:18:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/thuat/hotreload-runtime/0.1.7/hotreload-runtime-0.1.7.jar returned status 404
+0.1.8		2026-08-05T06:05:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/thuat/hotreload-runtime/0.1.8/hotreload-runtime-0.1.8.jar returned status 404
+0.1.9		2026-08-08T11:55:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/thuat/hotreload-runtime/0.1.9/hotreload-runtime-0.1.9.jar returned status 404

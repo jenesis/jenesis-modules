@@ -1,6 +1,9 @@
 0.0.1-rc1		2026-07-05T14:06:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/warsha/remoteble/client-sdk-iosarm64/0.0.1-rc1/client-sdk-iosarm64-0.0.1-rc1.jar returned status 404
 0.0.1-rc1	metadata	2026-07-05T14:06:18Z	
 0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/warsha/remoteble/client-sdk-iosarm64/0.10.0/client-sdk-iosarm64-0.10.0.jar returned status 404
+0.10.0	metadata	2026-08-04T19:26:46Z	
+0.11.0		2026-08-10T10:07:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/warsha/remoteble/client-sdk-iosarm64/0.11.0/client-sdk-iosarm64-0.11.0.jar returned status 404
+0.11.0	metadata	2026-08-10T10:07:00Z	
 0.7.0		2026-07-05T17:33:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/warsha/remoteble/client-sdk-iosarm64/0.7.0/client-sdk-iosarm64-0.7.0.jar returned status 404
 0.7.0	metadata	2026-07-05T17:33:49Z	
 0.8.0		2026-07-05T23:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/warsha/remoteble/client-sdk-iosarm64/0.8.0/client-sdk-iosarm64-0.8.0.jar returned status 404

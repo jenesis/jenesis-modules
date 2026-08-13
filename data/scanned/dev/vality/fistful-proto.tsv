@@ -113,5 +113,7 @@
 1.190-f67259f			
 1.190-f67259f	v190	2026-07-14T16:50:53Z	
 1.191-94b75ce			
+1.191-94b75ce	v191	2026-07-23T07:35:19Z	
 1.192-441d9bc			
+1.192-441d9bc	v192	2026-08-05T11:07:35Z	
 SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/fistful-proto/SNAPSHOT/fistful-proto-SNAPSHOT.jar returned status 404

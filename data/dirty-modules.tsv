@@ -2619,3 +2619,11 @@ eu.maveniverse.maven.mima.extensions.mhc4
 eu.maveniverse.maven.mima.context
 eu.cloudnetservice.wrapper
 eu.cloudnetservice.node
+edu.sc.seis.seisFile
+edu.hm.hafner.coverage
+edu.hm.hafner.codingstyle
+edu.hm.hafner.analysis.model
+dev.zio.zio.blocks.sql
+dev.zio.zio.blocks.sql.zio
+dev.zio.zio.blocks.next.sql
+dev.zio.zio.blocks.next.sql.zio
