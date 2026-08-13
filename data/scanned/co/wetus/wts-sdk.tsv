@@ -2,3 +2,4 @@
 0.2.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/wetus/wts-sdk/0.2.0-alpha.1/wts-sdk-0.2.0-alpha.1.jar returned status 404
 0.4.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/wetus/wts-sdk/0.4.0-alpha.1/wts-sdk-0.4.0-alpha.1.jar returned status 404
 0.5.0-alpha.1		2026-07-21T10:34:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/wetus/wts-sdk/0.5.0-alpha.1/wts-sdk-0.5.0-alpha.1.jar returned status 404
+0.5.0-alpha.2		2026-07-25T10:00:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/wetus/wts-sdk/0.5.0-alpha.2/wts-sdk-0.5.0-alpha.2.jar returned status 404

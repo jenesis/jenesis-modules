@@ -1,2 +1,4 @@
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/ke/dataharbor/fdis/fdis-sdk/1.0.4/fdis-sdk-1.0.4.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/ke/dataharbor/fdis/fdis-sdk/1.0.5/fdis-sdk-1.0.5.jar returned status 404
+2.0.1		2026-08-09T20:13:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/ke/dataharbor/fdis/fdis-sdk/2.0.1/fdis-sdk-2.0.1.jar returned status 404
+2.0.2		2026-08-09T22:25:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/ke/dataharbor/fdis/fdis-sdk/2.0.2/fdis-sdk-2.0.2.jar returned status 404

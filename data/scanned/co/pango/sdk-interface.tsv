@@ -126,6 +126,7 @@
 5.9.1-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/5.9.1-RC2/sdk-interface-5.9.1-RC2.jar returned status 404
 5.9.2		2026-06-16T10:06:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/5.9.2/sdk-interface-5.9.2.jar returned status 404
 5.9.2-RC1		2026-06-09T16:54:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/5.9.2-RC1/sdk-interface-5.9.2-RC1.jar returned status 404
+6.0.0		2026-07-29T14:50:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0/sdk-interface-6.0.0.jar returned status 404
 6.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC1/sdk-interface-6.0.0-RC1.jar returned status 404
 6.0.0-RC10		2026-06-02T13:20:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC10/sdk-interface-6.0.0-RC10.jar returned status 404
 6.0.0-RC11		2026-06-18T21:11:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC11/sdk-interface-6.0.0-RC11.jar returned status 404
@@ -142,6 +143,7 @@
 6.0.0-RC21		2026-07-20T20:31:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC21/sdk-interface-6.0.0-RC21.jar returned status 404
 6.0.0-RC22		2026-07-20T21:38:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC22/sdk-interface-6.0.0-RC22.jar returned status 404
 6.0.0-RC23		2026-07-22T09:25:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC23/sdk-interface-6.0.0-RC23.jar returned status 404
+6.0.0-RC24		2026-07-23T09:49:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC24/sdk-interface-6.0.0-RC24.jar returned status 404
 6.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC3/sdk-interface-6.0.0-RC3.jar returned status 404
 6.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC4/sdk-interface-6.0.0-RC4.jar returned status 404
 6.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC5/sdk-interface-6.0.0-RC5.jar returned status 404
@@ -149,3 +151,8 @@
 6.0.0-RC7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC7/sdk-interface-6.0.0-RC7.jar returned status 404
 6.0.0-RC8		2026-05-25T10:45:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC8/sdk-interface-6.0.0-RC8.jar returned status 404
 6.0.0-RC9		2026-06-02T10:06:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.0-RC9/sdk-interface-6.0.0-RC9.jar returned status 404
+6.0.1		2026-07-31T08:59:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.1/sdk-interface-6.0.1.jar returned status 404
+6.0.1-RC1		2026-07-30T10:10:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.0.1-RC1/sdk-interface-6.0.1-RC1.jar returned status 404
+6.1.0-RC1		2026-08-05T09:59:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.1.0-RC1/sdk-interface-6.1.0-RC1.jar returned status 404
+6.1.0-RC2		2026-08-05T13:47:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.1.0-RC2/sdk-interface-6.1.0-RC2.jar returned status 404
+6.1.0-RC3		2026-08-12T10:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-interface/6.1.0-RC3/sdk-interface-6.1.0-RC3.jar returned status 404

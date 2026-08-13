@@ -1878,4 +1878,6 @@
 1.65.0	named	com.google.genai	google-genai	2026-08-06T04:57:59Z	
 7.8.0	named	com.newrelic.agent.android	agent-gradle-plugin-static	2026-08-06T13:35:37Z	
 7.8.0	named	com.newrelic.agent.android	agent-gradle-plugin	2026-08-06T13:35:49Z	
+2.0.0	named	com.airbnb.viaduct	buildtime	2026-08-10T18:21:46Z	
+2.0.0	named	com.airbnb.viaduct	javaapi-buildtime	2026-08-10T18:21:46Z	
 2.0.1	named	eu.rekawek.coffeegb	coffee-gb-cli	2026-08-10T22:11:09Z	

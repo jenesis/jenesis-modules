@@ -2,3 +2,4 @@
 0.1.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/getstark/accessibility-instrumentation/0.1.0-rc.1/accessibility-instrumentation-0.1.0-rc.1.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/getstark/accessibility-instrumentation/1.0.0/accessibility-instrumentation-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/getstark/accessibility-instrumentation/1.0.1/accessibility-instrumentation-1.0.1.jar returned status 404
+2.0.0		2026-08-10T17:45:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/getstark/accessibility-instrumentation/2.0.0/accessibility-instrumentation-2.0.0.jar returned status 404

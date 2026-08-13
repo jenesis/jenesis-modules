@@ -1,2 +1,4 @@
 1.0		2026-05-29T07:00:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aigoox/library/hvtd9803-logcat/1.0/hvtd9803-logcat-1.0.jar returned status 404
 1.1		2026-06-11T06:38:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aigoox/library/hvtd9803-logcat/1.1/hvtd9803-logcat-1.1.jar returned status 404
+2.0		2026-08-04T04:31:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aigoox/library/hvtd9803-logcat/2.0/hvtd9803-logcat-2.0.jar returned status 404
+2.1		2026-08-05T04:18:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aigoox/library/hvtd9803-logcat/2.1/hvtd9803-logcat-2.1.jar returned status 404

@@ -10,3 +10,9 @@
 1.0.3		2026-06-29T17:47:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/silverpush/vidgyor-player-media3/1.0.3/vidgyor-player-media3-1.0.3.jar returned status 404
 1.0.3	mobileRelease-javadoc	2026-06-29T17:47:01Z	
 1.0.3	tvRelease-javadoc	2026-06-29T17:47:01Z	
+1.0.4		2026-07-29T11:27:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/silverpush/vidgyor-player-media3/1.0.4/vidgyor-player-media3-1.0.4.jar returned status 404
+1.0.4	mobileRelease-javadoc	2026-07-29T11:27:31Z	
+1.0.4	tvRelease-javadoc	2026-07-29T11:27:32Z	
+1.0.5		2026-07-31T11:52:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/silverpush/vidgyor-player-media3/1.0.5/vidgyor-player-media3-1.0.5.jar returned status 404
+1.0.5	mobileRelease-javadoc	2026-07-31T11:52:58Z	
+1.0.5	tvRelease-javadoc	2026-07-31T11:52:58Z	

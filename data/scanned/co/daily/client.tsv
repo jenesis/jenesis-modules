@@ -38,6 +38,8 @@
 0.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/daily/client/0.37.0/client-0.37.0.jar returned status 404
 0.38.0		2026-06-19T13:56:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/daily/client/0.38.0/client-0.38.0.jar returned status 404
 0.38.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/daily/client/0.38.1/client-0.38.1.jar returned status 404
+0.39.0		2026-07-24T14:57:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/daily/client/0.39.0/client-0.39.0.jar returned status 404
+0.39.1		2026-07-29T13:48:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/daily/client/0.39.1/client-0.39.1.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/daily/client/0.4.0/client-0.4.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/daily/client/0.5.0/client-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/daily/client/0.6.0/client-0.6.0.jar returned status 404
