@@ -14,3 +14,15 @@
 1.7.0	metadata	2026-07-09T13:57:14Z	
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/epos/features-stores-models-iossimulatorarm64/1.8.0/features-stores-models-iossimulatorarm64-1.8.0.jar returned status 404
 1.8.0	metadata	2026-07-13T14:22:31Z	
+1.9.0		2026-08-04T15:01:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/epos/features-stores-models-iossimulatorarm64/1.9.0/features-stores-models-iossimulatorarm64-1.9.0.jar returned status 404
+1.9.0	metadata	2026-08-04T15:01:45Z	
+1.9.1-alpha02		2026-08-06T14:34:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/epos/features-stores-models-iossimulatorarm64/1.9.1-alpha02/features-stores-models-iossimulatorarm64-1.9.1-alpha02.jar returned status 404
+1.9.1-alpha02	metadata	2026-08-06T14:34:12Z	
+1.9.1-alpha03		2026-08-06T14:36:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/epos/features-stores-models-iossimulatorarm64/1.9.1-alpha03/features-stores-models-iossimulatorarm64-1.9.1-alpha03.jar returned status 404
+1.9.1-alpha03	metadata	2026-08-06T14:36:10Z	
+1.9.1-alpha04		2026-08-07T08:12:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/epos/features-stores-models-iossimulatorarm64/1.9.1-alpha04/features-stores-models-iossimulatorarm64-1.9.1-alpha04.jar returned status 404
+1.9.1-alpha04	metadata	2026-08-07T08:12:51Z	
+1.9.1-alpha05		2026-08-07T08:55:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/epos/features-stores-models-iossimulatorarm64/1.9.1-alpha05/features-stores-models-iossimulatorarm64-1.9.1-alpha05.jar returned status 404
+1.9.1-alpha05	metadata	2026-08-07T08:55:34Z	
+1.9.1-alpha06		2026-08-07T12:12:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/epos/features-stores-models-iossimulatorarm64/1.9.1-alpha06/features-stores-models-iossimulatorarm64-1.9.1-alpha06.jar returned status 404
+1.9.1-alpha06	metadata	2026-08-07T12:12:34Z	

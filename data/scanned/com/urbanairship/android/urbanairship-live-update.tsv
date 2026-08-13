@@ -60,6 +60,7 @@
 19.13.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/19.13.6/urbanairship-live-update-19.13.6.jar returned status 404
 19.13.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/19.13.7/urbanairship-live-update-19.13.7.jar returned status 404
 19.13.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/19.13.8/urbanairship-live-update-19.13.8.jar returned status 404
+19.13.9		2026-08-05T00:01:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/19.13.9/urbanairship-live-update-19.13.9.jar returned status 404
 19.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/19.2.0/urbanairship-live-update-19.2.0.jar returned status 404
 19.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/19.3.0/urbanairship-live-update-19.3.0.jar returned status 404
 19.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/19.4.0/urbanairship-live-update-19.4.0.jar returned status 404
@@ -84,6 +85,7 @@
 20.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/20.1.0/urbanairship-live-update-20.1.0.jar returned status 404
 20.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/20.1.1/urbanairship-live-update-20.1.1.jar returned status 404
 20.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/20.10.0/urbanairship-live-update-20.10.0.jar returned status 404
+20.10.1		2026-08-03T22:24:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/20.10.1/urbanairship-live-update-20.10.1.jar returned status 404
 20.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/20.2.0/urbanairship-live-update-20.2.0.jar returned status 404
 20.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/20.2.1/urbanairship-live-update-20.2.1.jar returned status 404
 20.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/urbanairship/android/urbanairship-live-update/20.2.2/urbanairship-live-update-20.2.2.jar returned status 404

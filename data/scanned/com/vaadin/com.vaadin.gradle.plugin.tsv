@@ -151,6 +151,7 @@
 23.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/23.6.10/com.vaadin.gradle.plugin-23.6.10.jar returned status 404
 23.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/23.6.11/com.vaadin.gradle.plugin-23.6.11.jar returned status 404
 23.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/23.6.12/com.vaadin.gradle.plugin-23.6.12.jar returned status 404
+23.6.13		2026-08-11T09:34:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/23.6.13/com.vaadin.gradle.plugin-23.6.13.jar returned status 404
 23.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/23.6.2/com.vaadin.gradle.plugin-23.6.2.jar returned status 404
 23.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/23.6.3/com.vaadin.gradle.plugin-23.6.3.jar returned status 404
 23.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/23.6.4/com.vaadin.gradle.plugin-23.6.4.jar returned status 404
@@ -204,6 +205,7 @@
 24.10.6		2026-05-21T12:28:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.10.6/com.vaadin.gradle.plugin-24.10.6.jar returned status 404
 24.10.7		2026-06-10T07:15:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.10.7/com.vaadin.gradle.plugin-24.10.7.jar returned status 404
 24.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.10.8/com.vaadin.gradle.plugin-24.10.8.jar returned status 404
+24.10.9		2026-08-11T07:29:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.10.9/com.vaadin.gradle.plugin-24.10.9.jar returned status 404
 24.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.2.0/com.vaadin.gradle.plugin-24.2.0.jar returned status 404
 24.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.2.1/com.vaadin.gradle.plugin-24.2.1.jar returned status 404
 24.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.2.10/com.vaadin.gradle.plugin-24.2.10.jar returned status 404
@@ -345,6 +347,7 @@
 24.9.18		2026-06-10T06:26:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.9.18/com.vaadin.gradle.plugin-24.9.18.jar returned status 404
 24.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.9.19/com.vaadin.gradle.plugin-24.9.19.jar returned status 404
 24.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.9.2/com.vaadin.gradle.plugin-24.9.2.jar returned status 404
+24.9.20		2026-08-11T07:30:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.9.20/com.vaadin.gradle.plugin-24.9.20.jar returned status 404
 24.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.9.3/com.vaadin.gradle.plugin-24.9.3.jar returned status 404
 24.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.9.4/com.vaadin.gradle.plugin-24.9.4.jar returned status 404
 24.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/24.9.5/com.vaadin.gradle.plugin-24.9.5.jar returned status 404
@@ -383,6 +386,7 @@
 25.1.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.1.0-rc2/com.vaadin.gradle.plugin-25.1.0-rc2.jar returned status 404
 25.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.1.1/com.vaadin.gradle.plugin-25.1.1.jar returned status 404
 25.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.1.10/com.vaadin.gradle.plugin-25.1.10.jar returned status 404
+25.1.11		2026-08-10T11:23:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.1.11/com.vaadin.gradle.plugin-25.1.11.jar returned status 404
 25.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.1.2/com.vaadin.gradle.plugin-25.1.2.jar returned status 404
 25.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.1.3/com.vaadin.gradle.plugin-25.1.3.jar returned status 404
 25.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.1.4/com.vaadin.gradle.plugin-25.1.4.jar returned status 404
@@ -400,3 +404,5 @@
 25.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.2.2/com.vaadin.gradle.plugin-25.2.2.jar returned status 404
 25.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.2.3/com.vaadin.gradle.plugin-25.2.3.jar returned status 404
 25.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.2.4/com.vaadin.gradle.plugin-25.2.4.jar returned status 404
+25.2.5		2026-08-03T09:17:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.2.5/com.vaadin.gradle.plugin-25.2.5.jar returned status 404
+25.2.6		2026-08-10T09:12:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/com.vaadin.gradle.plugin/25.2.6/com.vaadin.gradle.plugin-25.2.6.jar returned status 404

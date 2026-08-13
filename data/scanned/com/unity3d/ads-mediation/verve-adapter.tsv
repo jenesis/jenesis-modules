@@ -15,3 +15,4 @@
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/verve-adapter/5.4.0/verve-adapter-5.4.0.jar returned status 404
 5.5.0		2026-06-02T07:03:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/verve-adapter/5.5.0/verve-adapter-5.5.0.jar returned status 404
 5.6.0		2026-06-30T08:53:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/verve-adapter/5.6.0/verve-adapter-5.6.0.jar returned status 404
+5.7.0		2026-08-06T12:07:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads-mediation/verve-adapter/5.7.0/verve-adapter-5.7.0.jar returned status 404

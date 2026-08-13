@@ -1385,7 +1385,9 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 2.0.0	named	org.apache.paimon	paimon-hadoop-uber	2026-08-04T03:51:38Z	3.18.0
 2.0.0	named	org.apache.paimon	paimon-obs-impl	2026-08-04T03:53:09Z	3.18.0
 2.0.0	named	org.apache.paimon	paimon-format	2026-08-04T03:54:23Z	3.18.0
+3.26.29-XHLP-4994	named	com.ubs-hainer	filebridge-jdbc-driver	2026-08-04T13:14:04Z	3.19.0
 8.38.0.46176	named	org.sonarsource.java	sonar-java-plugin	2026-08-07T14:21:19Z	3.20.0
 4.2.1.10	named	io.streamnative	buildtools	2026-08-08T02:07:15Z	3.19.0
 4.0.11.2	named	io.streamnative	buildtools	2026-08-08T02:07:17Z	3.19.0
 4.0.12.2	named	io.streamnative	buildtools	2026-08-10T02:01:41Z	3.19.0
+3.26.31	named	com.ubs-hainer	filebridge-jdbc-driver	2026-08-10T08:24:15Z	3.19.0
