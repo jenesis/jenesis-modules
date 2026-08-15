@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-14. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-15. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -111,7 +111,7 @@ org.objectweb.asm.tree  [explicit rule: owned by `org.ow2.asm`; 19 other group(s
 org.objectweb.asm  [explicit rule: owned by `org.ow2.asm`; 166 other group(s) rejected]
   A * org.ow2.asm                          2017-07..2026-05 9.10.1               |.===================|
   R   org.tiatesting                       2024-04..2026-08 0.1.19               |..............======|
-  R   org.virtuslab.scala-cli              2023-05..2026-08 1.16.0               |.............=======|
+  R   org.virtuslab.scala-cli              2023-05..2026-08 1.16.0               |............========|
   ?   io.spicelabs                         2026-06..2026-08 0.17.0               |...................=|
   R   com.datadoghq                        2020-02..2026-07 0.52.1               |......==============|
   R   edu.berkeley.cs.jqf                  2019-09..2026-07 3.0                  |.....===============|
@@ -549,7 +549,7 @@ io.netty.codec.http2  [fork: keep `io.netty`, `com.applitools` still publishes t
   ?   io.camunda.connector                 2026-06..2026-08 8.7.23               |...................=|
   R   org.apache.spark                     2025-10..2026-07 4.1.3                |.................===|
   ?   org.apache.gravitino                 2026-06..2026-06 1.3.0                |...................=|
-  R   org.apache.iceberg                   2026-05..2026-05 1.11.0               |...................=|
+  R   org.apache.iceberg                   2026-05..2026-05 1.11.0               |..................=.|
     + 11 more: org.eclipse.ditto, io.github.jdbc-armour, io.github.cstopyak, it.neckar.open, net.xdob.ratly, io.micronaut.testresources, com.exactpro.th2, io.etcd, io.kestra.storage, org.wiremock, io.github.sunny-chung
 org.slf4j  [fork: keep `org.slf4j`, `io.atlasarc` still publishes the name]
   A * org.slf4j                            2017-04..2026-05 2.0.18               |===================.|
@@ -825,8 +825,8 @@ org.graalvm.truffle  [fork: keep `org.graalvm.truffle`, `com.arcadedb` still pub
   R   com.arcadedb                         2025-12..2026-08 26.8.1               |..................==|
   R   com.liquibase.ext                    2025-09..2026-07 5.2.1                |.................===|
   ?   ai.looktech                          2026-06..2026-07 2.6.1-looktech.2     |...................=|
-  R   com.walmartlabs.concord.runtime.v1   2026-05..2026-07 2.42.1               |...................=|
-  R   com.walmartlabs.concord              2026-05..2026-07 2.42.1               |...................=|
+  R   com.walmartlabs.concord.runtime.v1   2026-05..2026-07 2.42.1               |..................==|
+  R   com.walmartlabs.concord              2026-05..2026-07 2.42.1               |..................==|
     + 27 more: com.walmartlabs.concord.runtime.v2, io.knish, com.walmartlabs.concord.k8s, io.hyperfoil.tools, org.opensearch.migrations.trafficcapture, sh.oso, org.mitre.synthea, com.molo17.gluesync.alpha, tools.dscode, ch.zizka.jbake, com.dbvis, io.camunda.connectors.community, (+15 more)
 org.bytedeco.cuda.platform.redist.nvcomp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-02 13.1-9.19-1.5.13     |.................==.|
@@ -1212,7 +1212,7 @@ net.kyori.adventure.text.serializer.bungeecord  [fork: keep `net.kyori`, `studio
   ?   studio.mevera.adventure              2026-08..2026-08 1.0.2                |...................=|
   R   io.github.toxicity188                2026-05..2026-06 5.2.0                |..................==|
 ch.randelshofer.fastdoubleparser  [fork: keep `ch.randelshofer`, `za.co.absa.spline.agent.spark` still publishes the name]
-  A * ch.randelshofer                      2022-11..2024-11 2.0.1                |............=====...|
+  A * ch.randelshofer                      2022-11..2024-11 2.0.1                |............====....|
   R   za.co.absa.spline.agent.spark        2023-06..2026-08 2.4.0-RC3            |.............=======|
   ?   org.jruby                            2026-07..2026-07 10.1.1.0             |...................=|
   R   com.clickzetta                       2024-08..2026-07 2.0.1                |...............=====|
@@ -1273,7 +1273,7 @@ org.apache.commons.text  [fork: keep `org.apache.commons`, `de.fraunhofer.iosb.i
   A * org.apache.commons                   2018-03..2025-12 1.15.0               |..=================.|
   ?   de.fraunhofer.iosb.ilt.FROST-Server  2026-07..2026-07 2.8.0                |...................=|
   R   org.bonitasoft.engine.data           2026-01..2026-06 11.1.0               |..................==|
-  R   com.telamin.fluxtion                 2026-05..2026-06 1.0.9                |...................=|
+  R   com.telamin.fluxtion                 2026-05..2026-06 1.0.9                |..................==|
   ?   net.officefloor.tutorial             2026-06..2026-06 4.0.0                |...................=|
   R   com.vmlens                           2026-01..2026-04 1.2.28               |..................=.|
     + 18 more: ru.biosoft.diagrams, io.github.venkateshamurthy, dev.jbang, io.github.davidwhitlock.joy, io.github.pro4d, org.bidib.com.github.markusbernhardt, fr.lirmm.graphik, io.github.noeltoy, io.github.mderevyankoaqa, com.salesforce.functions, org.opendaylight.aaa, org.zowe.client.java.sdk, (+6 more)
