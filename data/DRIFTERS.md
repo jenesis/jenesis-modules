@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-15. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-16. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -97,7 +97,7 @@ com.sun.xml.txw2  [explicit rule: owned by `org.glassfish.jaxb`; 9 other group(s
   ?   ch.exense.step                       2026-08..2026-08 3.30.2               |...................=|
   R   org.uma.jmetal                       2025-12..2026-07 7.5                  |..................==|
   R   io.github.jeff-tian                  2026-02..2026-02 2.4.1                |..................=.|
-  R   ai.starlake                          2022-04..2025-05 1.3.5                |..........========..|
+  R   ai.starlake                          2022-04..2025-05 1.3.5                |..........=======...|
   R   com.jordansamhi                      2024-08..2024-08 1.1.8                |...............=....|
     + 4 more: org.soot-oss, com.yotpo, cn.lzgabel.jaxb, org.apache.servicemix.bundles
 org.objectweb.asm.tree  [explicit rule: owned by `org.ow2.asm`; 19 other group(s) rejected]
@@ -438,8 +438,8 @@ io.github.humbleui.skija.shared  [renamed `io.github.humbleui.skija` -> `io.gith
   A   io.github.humbleui                   2021-12..2026-06 0.119.6              |..........==========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
 zertjsse  [renamed `com.ibm.zertjsse` -> `com.ibm.semeru-zjavasecurity` (latest 11.0.31.0)]
-  ? * com.ibm.zertjsse                     2026-05..2026-05 11.0.31.0            |...................=|
-  ?   com.ibm.semeru-zjavasecurity         2026-05..2026-05 11.0.31.0            |...................=|
+  ? * com.ibm.zertjsse                     2026-05..2026-05 11.0.31.0            |..................==|
+  ?   com.ibm.semeru-zjavasecurity         2026-05..2026-05 11.0.31.0            |..................==|
 com.peruncs.odbjca.api  [renamed `com.peruncs.odbjca` -> `com.peruncs` (latest 0.0.2)]
   ? * com.peruncs.odbjca                   2018-11..2018-11 0.0.1                |....=...............|
   ?   com.peruncs                          2018-11..2018-11 0.0.2                |....=...............|
@@ -473,11 +473,11 @@ ch.qos.logback.classic  [fork: keep `ch.qos.logback`, `com.daml` still publishes
   ?   org.jboss.pnc.maven-manipulator      2026-07..2026-07 5.4                  |...................=|
     + 92 more: com.limemojito.oss.aws, top.yqingyu, org.alfasoftware, org.apache.sling, com.salesforce.cantor, org.eclipse.ecsp, org.javastro.ivoa, ch.exense.step, io.mosip.biosdk, io.mosip.demosdk, de.fraunhofer.iosb.ilt, dk.alexandra.fresco, (+80 more)
 org.apache.commons.lang3  [fork: keep `org.apache.commons`, `com.sngular` still publishes the name]
-  A * org.apache.commons                   2017-06..2025-11 3.20.0               |.==================.|
+  A * org.apache.commons                   2017-06..2025-11 3.20.0               |.=================..|
   R   com.sngular                          2024-11..2026-08 6.6.9                |...............=====|
   R   com.ubs-hainer                       2025-11..2026-08 3.26.31              |.................===|
   R   io.streamnative                      2025-05..2026-08 4.0.12.2             |................====|
-  R   com.equinor.neqsim                   2025-11..2026-08 3.17.0               |..................==|
+  R   com.equinor.neqsim                   2025-11..2026-08 3.17.0               |.................===|
   R   org.sonarsource.java                 2024-11..2026-08 8.38.0.46176         |................====|
     + 104 more: com.blazemeter.jmeter, org.apache.paimon, io.swagger.parser.v3, com.datastax.oss, org.frankframework, org.openclover, org.apache.pulsar, io.openlineage, org.apache.tomee, org.apache.shenyu, com.liquibase.ext, org.apache.gravitino, (+92 more)
 codes.rafael.asmjdkbridge  [fork: keep `codes.rafael.asmjdkbridge`, `co.hyperprobe` still publishes the name]
@@ -1318,7 +1318,7 @@ org.openapitools.jackson.nullable  [fork: keep `org.openapitools`, `io.airlift` 
   R   io.airlift                           2026-04..2026-07 444                  |..................==|
   ?   io.github.giis-uniovi                2026-07..2026-07 2.2.1                |...................=|
 fr.lirmm.integraal.rule_analysis  [fork: keep `fr.lirmm.graphik`, `fr.inria.rules` still publishes the name]
-  ? * fr.lirmm.graphik                     2023-11..2025-06 2.0.7                |..............====..|
+  ? * fr.lirmm.graphik                     2023-11..2025-06 2.0.7                |.............=====..|
   ?   fr.inria.rules                       2026-06..2026-07 3.2.2                |...................=|
 com.fasterxml.aalto  [fork: keep `com.fasterxml`, `org.jetbrains.kotlin` still publishes the name]
   A * com.fasterxml                        2018-04..2026-05 1.4.0                |..==================|
@@ -1423,7 +1423,7 @@ The natural-namespace owner is the earliest and most-recent publisher; every oth
 ch.qos.logback.core  [owned by `ch.qos.logback`; 35 other group(s) shade the name]
   A * ch.qos.logback                       2018-01..2026-08 1.6.2                |..==================|
   ?   ch.exense.step                       2026-07..2026-08 3.30.2               |...................=|
-  R   com.yetanalytics                     2025-05..2026-07 0.0.7                |.................===|
+  R   com.yetanalytics                     2025-05..2026-07 0.0.7                |................====|
   R   com.effacy.jui                       2024-12..2026-07 0.3.6                |................====|
   R   de.gematik.test                      2025-11..2026-07 4.4.0                |..................==|
   ?   net.ladenthin                        2026-07..2026-07 1.1.1                |...................=|
