@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-16. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-17. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -494,7 +494,7 @@ com.fasterxml.jackson.core  [fork: keep `com.fasterxml.jackson.core`, `com.aliyu
 org.mockbukkit.mockbukkit  [fork: keep `org.mockbukkit.mockbukkit`, `com.620cloud.server` still publishes the name]
   A * org.mockbukkit.mockbukkit            2024-11..2026-08 4.115.0              |...............=====|
   ?   com.620cloud.server                  2026-08..2026-08 26.2-48              |...................=|
-  R   com.mineplex.studio                  2024-11..2026-02 1.21.11-R0.1-43      |................===.|
+  R   com.mineplex.studio                  2024-11..2026-02 1.21.11-R0.1-43      |...............====.|
 io.netty.internal.tcnative  [fork: keep `io.netty`, `com.scalekit` still publishes the name]
   A * io.netty                             2021-10..2026-07 2.0.81.Final         |.........===========|
   R   com.scalekit                         2025-10..2026-08 2.3.1                |.................===|
@@ -517,7 +517,7 @@ com.fasterxml.jackson.jakarta.rs.json  [fork: keep `com.fasterxml.jackson.jakart
   R   ch.exense.step                       2022-10..2026-08 3.30.2               |...........=========|
   ?   com.inteligr8.activiti               2026-06..2026-08 1.4.1-aps-v26.2      |...................=|
   R   org.apache.tika                      2023-12..2026-07 3.3.2                |..............======|
-  R   com.phonepe.sentinel-ai              2026-05..2026-05 1.1.2-SOLARIS-rc0    |...................=|
+  R   com.phonepe.sentinel-ai              2026-05..2026-05 1.1.2-SOLARIS-rc0    |..................=.|
     + 13 more: org.eclipse.tractusx.edc, org.ow2.petals.samples.rest.edm, dev.getelements.elements, org.eclipse.edc.huawei, org.eclipse.edc.aws, org.eclipse.edc, io.nflow, com.brightsparklabs, io.trino.gateway, com.snehasishroy, com.smoketurner.dropwizard, org.kiwiproject, (+1 more)
 com.formdev.flatlaf  [fork: keep `com.formdev`, `eu.rekawek.coffeegb` still publishes the name]
   A * com.formdev                          2019-10..2026-07 3.7.2                |.....===============|
@@ -1707,7 +1707,7 @@ koog.spring.ai.v2.starter.vector.store.jvm  [owned by `ai.koog` (groupId minus T
   ? * ai.koog                              2026-07..2026-07 1.1.1-beta           |...................=|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 koog.agents.additions.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * ai.koog                              2026-05..2026-07 1.1.1-beta           |...................=|
+  ? * ai.koog                              2026-05..2026-07 1.1.1-beta           |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 koog.ktor.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2025-08..2026-07 1.1.1-beta           |.................===|
@@ -2135,7 +2135,7 @@ agents.features.acp.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-12..2026-07 1.1.1-beta           |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 agents.features.longterm.memory.aws.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2026-05..2026-07 1.1.1-beta           |...................=|
+  ? * ai.koog                              2026-05..2026-07 1.1.1-beta           |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 agents.features.opentelemetry.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-07..2026-07 1.1.1                |.................===|
@@ -2177,7 +2177,7 @@ prompt.executor.google.client.jvm  [no clear owner; `ai.koog` is earliest and mo
   ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |.................===|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 prompt.executor.litert.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2026-05..2026-07 1.1.1-beta           |...................=|
+  ? * ai.koog                              2026-05..2026-07 1.1.1-beta           |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 prompt.executor.llms.all.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |.................===|
