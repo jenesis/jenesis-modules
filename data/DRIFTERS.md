@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-17. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-18. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -370,7 +370,7 @@ The publishing groupId handed off over time (a rename or a relocation), so both 
 
 ```
 io.ekbatan.graalvm  [renamed `io.github.zyraz-io` -> `io.github.ekbatan-io` (latest 1.0.1)]
-  ? * io.github.zyraz-io                   2026-05..2026-08 1.0.0                |...................=|
+  ? * io.github.zyraz-io                   2026-05..2026-08 1.0.0                |..................==|
   ?   io.github.ekbatan-io                 2026-08..2026-08 1.0.1                |...................=|
 dev.mohterbaord.fp4j.apf  [renamed `dev.mohterbaord` -> `dev.mohterbaord.fp4j` (latest 0.6.0)]
   ? * dev.mohterbaord                      2026-05..2026-05 0.5.0                |...................=|
@@ -414,7 +414,7 @@ org.apache.commons.dbcp2  [renamed `org.apache.commons` -> `org.apache.tomee` (l
   ?   org.apache.tomee                     2023-12..2026-07 10.2.0               |..............======|
   ?   org.apache.meecrowave                2025-10..2025-10 2.0.0                |.................=..|
   ?   net.ontopia                          2025-04..2025-07 5.5.2                |................==..|
-  ?   org.apache.openjpa                   2024-09..2025-05 4.1.1                |...............===..|
+  ?   org.apache.openjpa                   2024-09..2025-05 4.1.1                |...............==...|
   ?   org.ikasan                           2024-07..2024-07 1.0.0                |...............=....|
 bento.fx  [renamed `software.coley` -> `software.coley.bento-fx` (latest 0.16.0)]
   ? * software.coley                       2025-04..2026-01 0.15.1               |................===.|
@@ -1437,7 +1437,7 @@ io.github.classgraph  [owned by `io.github.classgraph`; 72 other group(s) shade 
   R   org.dominokit                        2024-01..2026-07 1.0.3                |..............======|
   R   com.datarobot                        2022-02..2026-07 11.2.42              |..........==========|
   ?   dev.sixpack                          2026-07..2026-07 0.6.2                |...................=|
-  R   tech.neander                         2024-05..2026-06 0.0.4                |...............=====|
+  R   tech.neander                         2024-05..2026-06 0.0.4                |..............======|
     + 77 more: org.finos.legend.sdlc, org.paramixel, org.javastro.vodsl, software.amazon.glue, dev.getelements.elements.crossfire, com.netgrif, org.plumelib, com.google.tsunami, org.finos.legend.depot, io.github.api-ghost-agent, org.geneweaver, cn.ashersu.omni.model, (+65 more)
 com.github.luben.zstd_jni  [owned by `com.github.luben`; 18 other group(s) shade the name]
   A * com.github.luben                     2018-06..2026-08 1.5.7-13             |...=================|
@@ -2230,7 +2230,7 @@ org.newsclub.net.unix  [no clear owner; `com.kohlschutter.junixsocket` is earlie
   ? * com.kohlschutter.junixsocket         2018-12..2026-08 2.11.0               |....================|
   ?   net.blahajcloud                      2026-06..2026-06 1.0                  |...................=|
   ?   org.jam4s                            2025-10..2026-06 0.7.2-M1             |.................===|
-  ?   com.sbbsystems.flink                 2026-01..2026-05 3.4.3                |..................==|
+  ?   com.sbbsystems.flink                 2026-01..2026-05 3.4.3                |..................=.|
   ?   net.corda                            2025-09..2026-05 4.14.2               |.................==.|
   ?   io.nosqlbench                        2020-02..2020-03 3.12.47              |......=.............|
     + 1 more: io.engineblock
@@ -2255,7 +2255,7 @@ java.xml.bind  [no clear owner; `javax.xml.bind` is earliest and most recent]
   ?   io.github.cobble-project             2026-07..2026-08 0.4.0-1-flink-1.17   |...................=|
   ?   com.yahoo.vespa                      2020-05..2026-08 8.736.12             |.......=============|
   ?   org.apache.paimon                    2023-05..2026-08 2.0.0                |.............=======|
-  ?   com.aliyun.openservices.aiservice    2024-05..2026-07 1.3.0                |...............=====|
+  ?   com.aliyun.openservices.aiservice    2024-05..2026-07 1.3.0                |..............======|
   ?   io.inji.certify                      2026-03..2026-07 1.0.0-alpha.1        |..................==|
     + 185 more: de.fraunhofer.iosb.ilt.FROST-Server, com.alibaba.dts.client, org.apache.tika, org.kendar.protocol, org.verapdf.apps, org.apache.flink, org.apache.pinot, io.mosip.mock.sdk, de.fraunhofer.iosb.ilt, org.metricshub, io.mosip.esignet, org.wso2.msf4j.perftest.echo, (+173 more)
 org.apache.commons.io  [no clear owner; `commons-io` is earliest and most recent]
@@ -2462,7 +2462,7 @@ tech.fortis.sandbox.api  [no clear owner; `io.github.zahran444` is earliest and 
   ?   tech.fortis.example                  2026-07..2026-07 1.0.16               |...................=|
   ?   io.sdks                              2026-04..2026-04 1.0.5                |..................=.|
 jakarta.security.auth.message  [no clear owner; `jakarta.authentication` is earliest and most recent]
-  ? * jakarta.authentication               2020-11..2024-05 3.1.0                |........=======.....|
+  ? * jakarta.authentication               2020-11..2024-05 3.1.0                |.......========.....|
   ?   org.apache.tomcat                    2020-11..2026-07 11.0.24              |........============|
 java.security.auth.message  [no clear owner; `jakarta.security.auth.message` is earliest and most recent]
   ? * jakarta.security.auth.message        2018-12..2020-02 2.0.0-RC1            |....===.............|
