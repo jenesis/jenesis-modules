@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-18. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-19. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -129,7 +129,7 @@ kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other g
   R   dev.sebastiano.spectre               2026-05..2026-08 0.4.1                |...................=|
   ?   lol.simeon                           2026-06..2026-06 1.1.2                |...................=|
   R   love.forte.plugin.suspend-transform  2025-04..2026-06 2.4.0-0.14.0         |................====|
-  R   dev.robocode.tankroyale              2026-01..2026-05 1.0.2                |..................==|
+  R   dev.robocode.tankroyale              2026-01..2026-05 1.0.2                |..................=.|
   R   io.github.wangbax                    2026-04..2026-04 5.5.1-okio-fork-2    |..................=.|
     + 23 more: com.squareup.wire, org.ldemetrios, io.github.lumamontes, dev.zacsweers.metro, io.typst, io.availe, dev.oglass, io.github.oewntk, io.github.lexa-diky, com.toasttab.expediter, io.johnsonlee.exec, io.specmatic, (+11 more)
 jul.to.slf4j  [explicit rule: owned by `org.slf4j`; 17 other group(s) rejected]
@@ -524,7 +524,7 @@ com.formdev.flatlaf  [fork: keep `com.formdev`, `eu.rekawek.coffeegb` still publ
   ?   eu.rekawek.coffeegb                  2026-08..2026-08 2.0.1                |...................=|
   ?   org.graphper                         2026-08..2026-08 1.5.3                |...................=|
   R   ca.corbett                           2025-05..2026-06 3.0.0                |.................===|
-  R   dev.robocode.tankroyale              2026-05..2026-05 1.0.2                |..................==|
+  R   dev.robocode.tankroyale              2026-05..2026-05 1.0.2                |..................=.|
   R   de.florianreuth                      2026-02..2026-02 2.2.0                |..................=.|
     + 4 more: de.florianmichael, com.suckatcoding, io.github.harvardpl, com.github.sundev79.MineBootFramework
 com.fasterxml.jackson.annotation  [fork: keep `com.fasterxml.jackson.core`, `com.databricks.labs` still publishes the name]
