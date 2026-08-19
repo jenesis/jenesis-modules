@@ -435,8 +435,8 @@ public final class ModuleSummary {
     private static String render(Stats stats, int topN) {
         StringBuilder builder = new StringBuilder();
         builder.append("# Module summary\n\n");
-        builder.append("> ### Powered by [Jenesis](https://github.com/raphw/jenesis)\n");
-        builder.append("> _A modern Java build tool: Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._\n\n");
+        builder.append("> ### [Jenesis](https://jenesis.build) - a modern Java build tool\n");
+        builder.append("> _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._\n\n");
         State state = stats.state();
         if (state.indexTimestamp() > 0L) {
             builder.append("_Index timestamp: ").append(HUMAN_UTC_TIMESTAMP.format(Instant.ofEpochMilli(state.indexTimestamp()))).append("_  \n");
