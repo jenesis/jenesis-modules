@@ -1,5 +1,6 @@
 # Jenesis Modules
 
+[![release](https://img.shields.io/github/v/release/raphw/jenesis-modules?label=release)](https://github.com/raphw/jenesis-modules/releases/latest)
 ![build](https://github.com/raphw/jenesis-modules/actions/workflows/build.yml/badge.svg)
 ![crawl](https://github.com/raphw/jenesis-modules/actions/workflows/crawl.yml/badge.svg)
 ![last crawl](https://img.shields.io/github/last-commit/raphw/jenesis-modules?path=data%2FSTATUS.md&display_timestamp=committer&label=last%20crawl)
