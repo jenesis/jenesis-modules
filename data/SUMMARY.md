@@ -1,7 +1,7 @@
 # Module summary
 
-> ### Powered by [Jenesis](https://github.com/raphw/jenesis)
-> _A modern Java build tool: Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
+> ### [Jenesis](https://jenesis.build) - a modern Java build tool
+> _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-08-13 03:08:42 UTC_  
 _Current chunk started: 2026-08-17 04:56:57 UTC_  

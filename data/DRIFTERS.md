@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-19. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-20. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -545,7 +545,7 @@ org.apache.commons.compress  [fork: keep `org.apache.commons`, `com.mobidevelop.
     + 37 more: org.eclipse.tahu, com.codenameone, io.github.trethore, ink.icoding.codex, org.apache.beam, org.apache.flink, org.apache.pinot, org.apache.parquet, org.apache.druid.extensions, com.theartos, me.bechberger, com.jlpka.langidentify, (+25 more)
 io.netty.codec.http2  [fork: keep `io.netty`, `com.applitools` still publishes the name]
   A * io.netty                             2017-12..2026-08 4.1.137.Final        |..==================|
-  R   com.applitools                       2026-05..2026-08 5.89.1               |...................=|
+  R   com.applitools                       2026-05..2026-08 5.89.1               |..................==|
   ?   io.camunda.connector                 2026-06..2026-08 8.7.23               |...................=|
   R   org.apache.spark                     2025-10..2026-07 4.1.3                |.................===|
   ?   org.apache.gravitino                 2026-06..2026-06 1.3.0                |...................=|
@@ -634,7 +634,7 @@ org.snakeyaml.engine.v2  [fork: keep `org.snakeyaml`, `io.github.ethanz0x0` stil
 com.googlecode.javaewah  [fork: keep `com.googlecode.javaewah`, `io.github.baokhang83.blastradius` still publishes the name]
   A * com.googlecode.javaewah              2023-03..2023-03 1.2.3                |............=.......|
   ?   io.github.baokhang83.blastradius     2026-07..2026-08 0.3.3                |...................=|
-  R   org.meyvn                            2023-07..2026-05 1.9.4                |.............=======|
+  R   org.meyvn                            2023-07..2026-05 1.9.4                |.............======.|
   R   org.liquibase.ext                    2024-02..2025-01 0.4.0                |..............===...|
   R   io.kestra.plugin                     2023-07..2024-08 0.17.2               |.............===....|
 com.fasterxml.jackson.dataformat.yaml  [fork: keep `com.fasterxml.jackson.dataformat`, `io.simpleishard` still publishes the name]
@@ -1321,7 +1321,7 @@ fr.lirmm.integraal.rule_analysis  [fork: keep `fr.lirmm.graphik`, `fr.inria.rule
   ? * fr.lirmm.graphik                     2023-11..2025-06 2.0.7                |.............=====..|
   ?   fr.inria.rules                       2026-06..2026-07 3.2.2                |...................=|
 com.fasterxml.aalto  [fork: keep `com.fasterxml`, `org.jetbrains.kotlin` still publishes the name]
-  A * com.fasterxml                        2018-04..2026-05 1.4.0                |..==================|
+  A * com.fasterxml                        2018-04..2026-05 1.4.0                |..=================.|
   ?   org.jetbrains.kotlin                 2023-12..2026-07 2.4.20-Beta2         |..............======|
   R   org.jetbrains.dokka                  2022-06..2023-03 1.8.10               |...........==.......|
 org.apache.logging.log4j.slf4j2.impl  [fork: keep `org.apache.logging.log4j`, `org.beilstein` still publishes the name]
@@ -1451,7 +1451,7 @@ io.opentelemetry.api  [owned by `io.opentelemetry`; 1 other group(s) shade the n
   ? * io.opentelemetry                     2020-03..2026-08 1.65.0               |......==============|
   ?   io.vidocq.humboldt                   2026-06..2026-07 0.2.0                |...................=|
 io.opentelemetry.context  [owned by `io.opentelemetry`; 1 other group(s) shade the name]
-  ? * io.opentelemetry                     2020-11..2026-08 1.65.0               |........============|
+  ? * io.opentelemetry                     2020-11..2026-08 1.65.0               |.......=============|
   ?   io.vidocq.humboldt                   2026-06..2026-07 0.2.0                |...................=|
 io.vertx.circuitbreaker  [owned by `io.vertx`; 1 other group(s) shade the name]
   ? * io.vertx                             2020-05..2026-08 4.5.32               |.......=============|
@@ -2358,7 +2358,7 @@ org.apache.commons.validator  [no clear owner; `commons-validator` is earliest a
 com.kingbase8.jdbc  [no clear owner; `org.jeecgframework` is earliest and most recent]
   ? * org.jeecgframework                   2024-06..2024-06 9.0.0                |...............=....|
   ?   cn.com.kingbase                      2025-04..2026-07 9.0.3                |................====|
-  ?   io.github.iscasdmo                   2026-05..2026-05 8.6.0                |...................=|
+  ?   io.github.iscasdmo                   2026-05..2026-05 8.6.0                |..................=.|
 lombok  [no clear owner; `org.projectlombok` is earliest and most recent]
   ? * org.projectlombok                    2018-05..2026-04 1.18.46              |...================.|
   ?   io.github.valuya                     2026-07..2026-07 1.18.46.4            |...................=|
