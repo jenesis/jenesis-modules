@@ -151,8 +151,8 @@ public final class Crawl {
         System.out.println();
         System.out.println("Optional configuration is taken from system properties (-D...):");
         System.out.println("  -D" + PROP_DATA + "=<dir>                       Data directory (default 'data')");
-        System.out.println("  -D" + PROP_BUDGET_MINUTES + "=<n>                     Wall-clock budget in minutes (default 160)");
-        System.out.println("  -D" + PROP_CONCURRENCY + "=<n>                Concurrent artifact fetches (default 96)");
+        System.out.println("  -D" + PROP_BUDGET_MINUTES + "=<n>                     Wall-clock budget in minutes (default 180)");
+        System.out.println("  -D" + PROP_CONCURRENCY + "=<n>                Concurrent artifact fetches (default 64)");
         System.out.println("  -D" + PROP_TAIL_SIZE + "=<n>                Bytes range-fetched from each JAR tail");
         System.out.println("  -D" + PROP_CHECKPOINT_EVERY + "=<n>        Coordinates between checkpoints");
         System.out.println("  -D" + PROP_SMALL_JAR_THRESHOLD + "=<n>  JAR size cap for one-shot fetch");
