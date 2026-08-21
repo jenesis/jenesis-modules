@@ -26,7 +26,7 @@ by up to a week, so the most recent releases may not appear immediately.
 ## Resolving a module name
 
 ```bash
-curl -L https://repo.jenesis.build/module/com.fasterxml.jackson.databind
+curl -L https://repo.jenesis.build/module/com.fasterxml.jackson.databind/com.fasterxml.jackson.databind.jar
 ```
 
 Every request answers with a 302 to Maven Central - nothing is re-hosted. The
@@ -110,8 +110,8 @@ re-stamps records during republishing events and ownership is decided by who pub
 - **`release.yml`** fires on a push to `main` whose message starts with `[release]` (`[release X.Y.Z]` for an
   exact version, otherwise the latest tag's minor is bumped), stages with strict pinning, and publishes
   through JReleaser.
-- **`reconcile-metadata.yml`** is manual, and shares the `crawl` concurrency group so it queues behind a crawl
-  rather than fighting it for the same files.
+- **`reconcile-metadata.yml`** runs weekly (Mondays, 04:41 UTC) and on demand, and shares the `crawl`
+  concurrency group so it queues behind a crawl rather than fighting it for the same files.
 - **`worker.yml`** tests the Cloudflare Worker with Node's built-in test runner, gated on `worker/**`, since
   it is independent of the Java crawler and needs no install step.
 
