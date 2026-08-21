@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-20. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-21. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -478,7 +478,7 @@ org.apache.commons.lang3  [fork: keep `org.apache.commons`, `com.sngular` still 
   R   com.ubs-hainer                       2025-11..2026-08 3.26.31              |.................===|
   R   io.streamnative                      2025-05..2026-08 4.0.12.2             |................====|
   R   com.equinor.neqsim                   2025-11..2026-08 3.17.0               |.................===|
-  R   org.sonarsource.java                 2024-11..2026-08 8.38.0.46176         |................====|
+  R   org.sonarsource.java                 2024-11..2026-08 8.38.0.46176         |...............=====|
     + 104 more: com.blazemeter.jmeter, org.apache.paimon, io.swagger.parser.v3, com.datastax.oss, org.frankframework, org.openclover, org.apache.pulsar, io.openlineage, org.apache.tomee, org.apache.shenyu, com.liquibase.ext, org.apache.gravitino, (+92 more)
 codes.rafael.asmjdkbridge  [fork: keep `codes.rafael.asmjdkbridge`, `co.hyperprobe` still publishes the name]
   ? * codes.rafael.asmjdkbridge            2025-01..2025-10 0.0.13               |................==..|
@@ -523,7 +523,7 @@ com.formdev.flatlaf  [fork: keep `com.formdev`, `eu.rekawek.coffeegb` still publ
   A * com.formdev                          2019-10..2026-07 3.7.2                |.....===============|
   ?   eu.rekawek.coffeegb                  2026-08..2026-08 2.0.1                |...................=|
   ?   org.graphper                         2026-08..2026-08 1.5.3                |...................=|
-  R   ca.corbett                           2025-05..2026-06 3.0.0                |.................===|
+  R   ca.corbett                           2025-05..2026-06 3.0.0                |................====|
   R   dev.robocode.tankroyale              2026-05..2026-05 1.0.2                |..................=.|
   R   de.florianreuth                      2026-02..2026-02 2.2.0                |..................=.|
     + 4 more: de.florianmichael, com.suckatcoding, io.github.harvardpl, com.github.sundev79.MineBootFramework
@@ -746,7 +746,7 @@ com.zaxxer.hikari  [fork: keep `com.zaxxer`, `org.kill-bill.billing` still publi
   R   work.noice                           2026-01..2026-07 1.5.2                |..................==|
     + 73 more: io.github.kaleert, org.apache.kylin, org.apache.hudi, org.apache.dolphinscheduler, io.github.deathgod7, io.higson, org.apache.seatunnel, com.scalar-labs, org.apache.flink, org.testingisdocumenting.webtau, it.unibz.inf.ontop, org.finos.legend.shared, (+61 more)
 org.signal.libsignal  [fork: keep `org.signal`, `io.github.wanggenlin` still publishes the name]
-  A * org.signal                           2023-09..2025-11 0.86.5               |.............======.|
+  A * org.signal                           2023-09..2025-11 0.86.5               |.............=====..|
   R   io.github.wanggenlin                 2026-02..2026-08 0.87.6               |..................==|
   ?   com.securegroupchat                  2026-07..2026-07 0.96.3               |...................=|
 org.opentest4j  [fork: keep `org.opentest4j`, `org.tiatesting` still publishes the name]
@@ -802,7 +802,7 @@ com.fasterxml.jackson.jaxrs.json  [fork: keep `com.fasterxml.jackson.jaxrs`, `ru
   R   org.lance                            2025-12..2026-07 0.7.0                |..................==|
   R   com.alibaba.ververica                2022-10..2026-07 1.20-vvr-11.8.0-1-jdk11 |...........=========|
   ?   io.simpleishard                      2026-07..2026-07 0.55.0               |...................=|
-  R   ai.askamerica                        2026-05..2026-07 0.56.0               |...................=|
+  R   ai.askamerica                        2026-05..2026-07 0.56.0               |..................==|
     + 55 more: org.apache.pulsar, org.apache.phoenix, com.ascentstream.pulsar, org.apache.hbase.thirdparty, org.apache.pinot, org.apache.hudi, dev.henneberger, io.github.giis-uniovi, org.apache.flink, org.devlive.connector, org.apache.seatunnel, org.onebusaway, (+43 more)
 com.fasterxml.jackson.module.jaxb  [fork: keep `com.fasterxml.jackson.module`, `com.solacecoe.connectors` still publishes the name]
   A * com.fasterxml.jackson.module         2017-10..2026-07 2.18.9               |.===================|
@@ -2338,10 +2338,10 @@ org.eclipse.osgi  [no clear owner; `org.eclipse.tycho` is earliest and most rece
     + 22 more: de.funfried.libraries, io.github.alien-tools, org.tango-controls, org.tango-controls.pogo, ch.reportingsoft.birt, com.liferay, net.revelc.code.formatter, org.kie.j2cl.tools.external, io.github.dogla, com.vertispan.j2cl.external, fr.inria.gforge.spirals, org.geneweaver, (+10 more)
 com.jn.langx.java8  [no clear owner; `io.github.bes2008.solution.langx` is earliest and most recent]
   ? * io.github.bes2008.solution.langx     2024-01..2026-08 5.4.6.3              |..............======|
-  ?   io.github.qhsword.langx              2025-11..2025-11 5.5.10               |..................=.|
+  ?   io.github.qhsword.langx              2025-11..2025-11 5.5.10               |.................==.|
 com.jn.langx.security.gm.jca.bouncycastle  [no clear owner; `io.github.bes2008.solution.langx.security` is earliest and most recent]
   ? * io.github.bes2008.solution.langx.security 2024-01..2026-08 5.4.6.3              |..............======|
-  ?   io.github.qhsword.langx.security     2025-11..2025-12 5.8.0                |..................=.|
+  ?   io.github.qhsword.langx.security     2025-11..2025-12 5.8.0                |.................==.|
 com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most recent]
   ? * com.fasterxml.woodstox               2018-03..2026-08 7.2.2                |..==================|
   ?   org.uma.jmetal                       2025-12..2026-07 7.5                  |..................==|
@@ -2368,7 +2368,7 @@ lombok  [no clear owner; `org.projectlombok` is earliest and most recent]
   ?   net.dryuf                            2022-03..2026-07 1.2.0                |..........==========|
     + 98 more: com.scanoss, io.mosip.esignet.plugin.sunbirdrc, org.eclipse.hawkbit, com.huaweicloud.dws, net.wirelabs, cn.fyupeng, io.github.alllexey123, io.mosip.esignet.sunbirdrc, io.mosip.certify.sunbirdrc, io.github.opentelekomcloud, io.github.version-pulse, org.qubership.automation, (+86 more)
 net.sf.jsqlparser  [no clear owner; `com.github.jsqlparser` is earliest and most recent]
-  ? * com.github.jsqlparser                2024-03..2025-05 5.3                  |..............====..|
+  ? * com.github.jsqlparser                2024-03..2025-05 5.3                  |..............===...|
   ?   com.manticore-projects.jsqlformatter 2025-12..2026-07 5.3.241              |..................==|
   ?   se.alipsa                            2025-12..2025-12 1.2.0                |..................=.|
   ?   ai.starlake                          2024-09..2024-10 1.3.0                |...............=....|
