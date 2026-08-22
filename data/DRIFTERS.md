@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-21. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-22. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -438,8 +438,8 @@ io.github.humbleui.skija.shared  [renamed `io.github.humbleui.skija` -> `io.gith
   A   io.github.humbleui                   2021-12..2026-06 0.119.6              |..........==========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
 zertjsse  [renamed `com.ibm.zertjsse` -> `com.ibm.semeru-zjavasecurity` (latest 11.0.31.0)]
-  ? * com.ibm.zertjsse                     2026-05..2026-05 11.0.31.0            |..................==|
-  ?   com.ibm.semeru-zjavasecurity         2026-05..2026-05 11.0.31.0            |..................==|
+  ? * com.ibm.zertjsse                     2026-05..2026-05 11.0.31.0            |..................=.|
+  ?   com.ibm.semeru-zjavasecurity         2026-05..2026-05 11.0.31.0            |..................=.|
 com.peruncs.odbjca.api  [renamed `com.peruncs.odbjca` -> `com.peruncs` (latest 0.0.2)]
   ? * com.peruncs.odbjca                   2018-11..2018-11 0.0.1                |....=...............|
   ?   com.peruncs                          2018-11..2018-11 0.0.2                |....=...............|
@@ -1114,7 +1114,7 @@ org.bytedeco.numpy.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerha
   ? * org.bytedeco                         2019-04..2026-02 2.4.2-1.5.13         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 2.5.0-1.5.14-beta-08 |...................=|
 org.bytedeco.numpy.macosx.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2024-11..2026-02 2.4.2-1.5.13         |................===.|
+  ? * org.bytedeco                         2024-11..2026-02 2.4.2-1.5.13         |...............====.|
   ?   io.github.mullerhai                  2026-07..2026-08 2.5.0-1.5.14-beta-08 |...................=|
 org.bytedeco.numpy.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-02 2.4.2-1.5.13         |....===============.|
@@ -1140,7 +1140,7 @@ org.bytedeco.cpython.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.muller
   R   us.ihmc                              2025-02..2025-02 3.11.3-1.5.11-ihmc-2 |................=...|
   R   cn.wangshuyi                         2023-10..2023-10 3.10.13-1.5.7.2      |.............=......|
 org.bytedeco.cpython.macosx.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2024-11..2026-02 3.14.3-1.5.13        |................===.|
+  ? * org.bytedeco                         2024-11..2026-02 3.14.3-1.5.13        |...............====.|
   ?   io.github.mullerhai                  2026-07..2026-08 3.14.6-1.5.14-beta-08 |...................=|
 org.bytedeco.cpython.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-02 3.14.3-1.5.13        |....===============.|
@@ -1216,7 +1216,7 @@ ch.randelshofer.fastdoubleparser  [fork: keep `ch.randelshofer`, `za.co.absa.spl
   R   za.co.absa.spline.agent.spark        2023-06..2026-08 2.4.0-RC3            |.............=======|
   ?   org.jruby                            2026-07..2026-07 10.1.1.0             |...................=|
   R   com.clickzetta                       2024-08..2026-07 2.0.1                |...............=====|
-  R   software.amazon.smithy.java          2026-05..2026-06 1.4.0                |...................=|
+  R   software.amazon.smithy.java          2026-05..2026-06 1.4.0                |..................==|
   R   io.github.solven-eu.pepper           2024-11..2026-04 5.7                  |................===.|
     + 33 more: org.metafacture, org.jetbrains.kotlinx.dataframe, com.cjbooms, org.apache.inlong, io.github.cmu-phil, io.github.hkarthik7, io.kestra.plugin, io.trino, org.apache.arrow, com.databricks, org.sonarsource.text, org.openrewrite, (+21 more)
 jakarta.inject  [fork: keep `jakarta.inject`, `io.github.jolt-community.jolt` still publishes the name]
@@ -1265,7 +1265,7 @@ jakarta.validation  [fork: keep `jakarta.validation`, `dev.getelements.elements`
   A * jakarta.validation                   2020-02..2025-10 4.0.0-M1             |......============..|
   R   dev.getelements.elements             2025-03..2026-07 3.8.13               |................====|
   ?   com.meta-analyzer                    2026-06..2026-06 1.0.0                |...................=|
-  R   io.flux-capacitor                    2023-05..2024-06 0.943.0              |.............===....|
+  R   io.flux-capacitor                    2023-05..2024-06 0.943.0              |............====....|
   R   org.pipservices                      2024-06..2024-06 1.0.0                |...............=....|
   R   no.nav.security                      2023-04..2023-11 3.2.0                |............===.....|
     + 2 more: com.neko233, com.guicedee.services
@@ -1480,7 +1480,7 @@ org.junit.jupiter.engine  [owned by `org.junit.jupiter`; 10 other group(s) shade
   R   org.apache.tika                      2024-07..2026-06 4.0.0-beta-1         |...............=====|
   R   com.janeluo                          2026-04..2026-04 1.0.0                |..................=.|
   R   org.eclipse.pass                     2023-06..2024-01 1.3.0                |.............==.....|
-  R   com.quantego                         2023-11..2023-11 0.6.5                |..............=.....|
+  R   com.quantego                         2023-11..2023-11 0.6.5                |.............=......|
     + 6 more: com.salesforce.kafka.test, com.trendyol, org.caseine, org.eclipse.rdf4j, com.github.jnr, org.junit.platform
 org.htmlunit.cssparser  [owned by `org.htmlunit`; 1 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-08 5.4.0                |...................=|
@@ -2214,7 +2214,7 @@ agents.features.event.handler.jvm  [no clear owner; `ai.koog` is earliest and mo
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 org.apache.commons.codec  [no clear owner; `commons-codec` is earliest and most recent]
   ? * commons-codec                        2017-10..2026-07 1.22.1               |.===================|
-  ?   com.mirakl                           2025-11..2026-08 10.15.0              |..................==|
+  ?   com.mirakl                           2025-11..2026-08 10.15.0              |.................===|
   ?   software.amazon.awssdk               2024-07..2026-08 2.51.3               |...............=====|
   ?   io.gitlab.cupofcode                  2026-05..2026-08 1.3.6                |..................==|
   ?   cn.ctyun                             2025-10..2026-07 2.0.0                |.................===|
