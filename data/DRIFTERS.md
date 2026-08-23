@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-22. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-23. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -169,7 +169,7 @@ spring.context.indexer  [explicit rule: owned by `org.springframework`; 2 other 
 spring.context.support  [explicit rule: owned by `org.springframework`; 4 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |................=...|
 spring.aop  [explicit rule: owned by `org.springframework`; 3 other group(s) rejected]
@@ -184,14 +184,14 @@ spring.aspects  [explicit rule: owned by `org.springframework`; 2 other group(s)
 spring.beans  [explicit rule: owned by `org.springframework`; 5 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |................=...|
   R   com.liferay                          2023-01..2024-08 5.3.39.LIFERAY-PATCHED-1 |............====....|
 spring.context  [explicit rule: owned by `org.springframework`; 5 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |................=...|
   R   com.liferay                          2024-12..2024-12 5.3.39.LIFERAY-PATCHED-1 |................=...|
@@ -204,7 +204,7 @@ spring.core  [explicit rule: owned by `org.springframework`; 4 other group(s) re
 spring.expression  [explicit rule: owned by `org.springframework`; 4 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |................=...|
 spring.instrument  [explicit rule: owned by `org.springframework`; 2 other group(s) rejected]
@@ -214,12 +214,12 @@ spring.instrument  [explicit rule: owned by `org.springframework`; 2 other group
 spring.jdbc  [explicit rule: owned by `org.springframework`; 3 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
 spring.jms  [explicit rule: owned by `org.springframework`; 3 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
 spring.messaging  [explicit rule: owned by `org.springframework`; 2 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
@@ -242,7 +242,7 @@ spring.r2dbc  [explicit rule: owned by `org.springframework`; 2 other group(s) r
 spring.test  [explicit rule: owned by `org.springframework`; 5 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   com.liferay                          2025-05..2025-05 5.3.39.JAKARTA-LIFERAY-PATCHED-1 |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |................=...|
@@ -256,7 +256,7 @@ spring.tx  [explicit rule: owned by `org.springframework`; 5 other group(s) reje
 spring.web  [explicit rule: owned by `org.springframework`; 7 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   com.liferay                          2025-05..2025-05 5.3.39.JAKARTA-LIFERAY-PATCHED-1 |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |................=...|
@@ -264,18 +264,18 @@ spring.web  [explicit rule: owned by `org.springframework`; 7 other group(s) rej
 spring.webflux  [explicit rule: owned by `org.springframework`; 3 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
 spring.webmvc  [explicit rule: owned by `org.springframework`; 4 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |................=...|
 spring.websocket  [explicit rule: owned by `org.springframework`; 3 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 7.0.8                |.===================|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |...................=|
-  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................==..|
+  R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
 spring.jcl  [explicit rule: owned by `org.springframework`; 2 other group(s) rejected]
   A * org.springframework                  2017-09..2026-06 6.2.19               |.===================|
@@ -753,7 +753,7 @@ org.opentest4j  [fork: keep `org.opentest4j`, `org.tiatesting` still publishes t
   A * org.opentest4j                       2017-07..2023-07 1.3.0                |.=============......|
   R   org.tiatesting                       2024-12..2026-08 0.1.19               |................====|
   ?   org.jetbrains.kotlin                 2026-07..2026-07 2.4.20-Beta2         |...................=|
-  R   berlin.yuna                          2025-11..2026-06 2026.06.1562143      |..................==|
+  R   berlin.yuna                          2025-11..2026-06 2026.06.1562143      |.................===|
   R   org.ndviet                           2026-04..2026-04 4.42.0               |..................=.|
   R   com.adobe.cq                         2023-02..2024-06 1.3.0                |............====....|
     + 8 more: io.pravega, org.caseine, io.github.origin-energy, com.hurence.logisland, io.github.thxno, io.github.osvalda, net.corda, com.github.tandronicus
@@ -1217,7 +1217,7 @@ ch.randelshofer.fastdoubleparser  [fork: keep `ch.randelshofer`, `za.co.absa.spl
   ?   org.jruby                            2026-07..2026-07 10.1.1.0             |...................=|
   R   com.clickzetta                       2024-08..2026-07 2.0.1                |...............=====|
   R   software.amazon.smithy.java          2026-05..2026-06 1.4.0                |..................==|
-  R   io.github.solven-eu.pepper           2024-11..2026-04 5.7                  |................===.|
+  R   io.github.solven-eu.pepper           2024-11..2026-04 5.7                  |...............====.|
     + 33 more: org.metafacture, org.jetbrains.kotlinx.dataframe, com.cjbooms, org.apache.inlong, io.github.cmu-phil, io.github.hkarthik7, io.kestra.plugin, io.trino, org.apache.arrow, com.databricks, org.sonarsource.text, org.openrewrite, (+21 more)
 jakarta.inject  [fork: keep `jakarta.inject`, `io.github.jolt-community.jolt` still publishes the name]
   A * jakarta.inject                       2020-04..2021-10 2.0.1                |......====..........|
@@ -1278,7 +1278,7 @@ org.apache.commons.text  [fork: keep `org.apache.commons`, `de.fraunhofer.iosb.i
   R   com.vmlens                           2026-01..2026-04 1.2.28               |..................=.|
     + 18 more: ru.biosoft.diagrams, io.github.venkateshamurthy, dev.jbang, io.github.davidwhitlock.joy, io.github.pro4d, org.bidib.com.github.markusbernhardt, fr.lirmm.graphik, io.github.noeltoy, io.github.mderevyankoaqa, com.salesforce.functions, org.opendaylight.aaa, org.zowe.client.java.sdk, (+6 more)
 com.github.librepdf.openpdf  [fork: keep `com.github.librepdf`, `com.guicedee.modules.services` still publishes the name]
-  A * com.github.librepdf                  2018-09..2026-05 3.0.5                |...=================|
+  A * com.github.librepdf                  2018-09..2026-05 3.0.5                |...================.|
   R   com.guicedee.modules.services        2026-04..2026-07 2.2.0                |..................==|
   ?   io.github.icarius4iu                 2026-06..2026-06 0.1.0                |...................=|
   R   net.ioze                             2026-01..2026-01 1.0.9                |..................=.|
@@ -1443,7 +1443,7 @@ com.github.luben.zstd_jni  [owned by `com.github.luben`; 18 other group(s) shade
   A * com.github.luben                     2018-06..2026-08 1.5.7-13             |...=================|
   R   com.aliyun.openservices.eas          2024-06..2026-07 2.0.33               |...............=====|
   R   org.apache.tsfile                    2024-11..2026-07 2.4.0                |...............=====|
-  R   org.apache.iotdb                     2024-11..2026-07 2.0.10               |................====|
+  R   org.apache.iotdb                     2024-11..2026-07 2.0.10               |...............=====|
   ?   com.timecho.timechodb                2026-06..2026-06 2.0.10.1             |...................=|
   R   com.snowflake                        2024-12..2026-06 3.5.4                |................====|
     + 13 more: ai.h2o, com.timecho.iotdb, org.chipsalliance, org.apache.celeborn, io.moderne, io.spicelabs, io.nosqlbench, io.github.willena, io.github.fernandolopes, org.apache.amoro, io.kroxylicious, io.github.azagniotov, (+1 more)
@@ -2319,7 +2319,7 @@ org.scala.lang.tasty.core  [no clear owner; `org.scala-lang` is earliest and mos
   ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........===========|
   ?   dev.propensive                       2026-08..2026-08 3.9.0-RC5-p11        |...................=|
 bus.starter  [no clear owner; `org.miaixz` is earliest and most recent]
-  ? * org.miaixz                           2025-05..2026-08 8.8.12               |.................===|
+  ? * org.miaixz                           2025-05..2026-08 8.8.12               |................====|
   ?   io.github.rassafel                   2025-07..2025-07 0.0.1                |.................=..|
 bus.spring  [no clear owner; `io.github.rassafel` is earliest and most recent]
   ? * io.github.rassafel                   2026-04..2026-04 0.0.4                |..................=.|
@@ -2353,7 +2353,7 @@ com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most rec
 org.apache.commons.validator  [no clear owner; `commons-validator` is earliest and most recent]
   ? * commons-validator                    2023-12..2026-07 1.11.0               |..............======|
   ?   org.apiaddicts.apitools.dosonarapi   2026-05..2026-07 2.0.2-beta-3         |...................=|
-  ?   de.knightsoft-net                    2025-07..2025-11 1.10.1-0             |.................==.|
+  ?   de.knightsoft-net                    2025-07..2025-11 1.10.1-0             |.................=..|
   ?   org.chronos-eaas                     2024-07..2025-01 2.5.1                |...............==...|
 com.kingbase8.jdbc  [no clear owner; `org.jeecgframework` is earliest and most recent]
   ? * org.jeecgframework                   2024-06..2024-06 9.0.0                |...............=....|
