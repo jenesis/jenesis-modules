@@ -18,12 +18,6 @@ permissions:
 
 jobs:
   build:
-    # Release commits are handled exclusively by release.yml (which runs the same
-    # Jenesis build+test as part of staging). Skip them here to avoid duplicate work.
-    if: >-
-      github.event_name != 'push' ||
-      !(startsWith(github.event.head_commit.message, '[release]') ||
-        startsWith(github.event.head_commit.message, '[release '))
     runs-on: ubuntu-latest
     timeout-minutes: 20
 

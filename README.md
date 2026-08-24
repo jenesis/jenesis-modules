@@ -107,9 +107,10 @@ re-stamps records during republishing events and ownership is decided by who pub
   `data/SUMMARY.md`, `data/top/BLEEDING.md` and `data/DRIFTERS.md`, committing only when the content changed.
 - **`build.yml`** builds and tests on every push and pull request. `paths-ignore` excludes `data/**` and
   `*.md`, so the crawl bot's data commits do not trigger CI.
-- **`release.yml`** fires on a push to `main` whose message starts with `[release]` (`[release X.Y.Z]` for an
-  exact version, otherwise the latest tag's minor is bumped), stages with strict pinning, and publishes
-  through JReleaser.
+- **`release.yml`** is dispatched by hand from the Actions tab, so any commit is releasable: the optional
+  `sha` input names the commit (default: the head it runs on) and the optional `tag` input names the tag
+  (`vX.Y.Z`; default: the latest tag's minor bumped). It stages with strict pinning and publishes through
+  JReleaser.
 - **`reconcile-metadata.yml`** runs weekly (Mondays, 04:41 UTC) and on demand, and shares the `crawl`
   concurrency group so it queues behind a crawl rather than fighting it for the same files.
 - **`worker.yml`** tests the Cloudflare Worker with Node's built-in test runner, gated on `worker/**`, since

@@ -41,6 +41,8 @@ releasing. The user documentation is [jenesis.build/modules](https://jenesis.bui
 
 ## Releasing and the build tool
 
-A release is a commit on `main` whose first line starts with `[release X.Y.Z]`; the release workflow stages
-under strict pinning and publishes through JReleaser. The build tool pin is moved by checking out the new
+A release is a manual run of the release workflow from the Actions tab, so any commit is releasable: its
+optional `sha` input names the commit (default: the head it runs on) and its optional `tag` input names the tag
+(`vX.Y.Z`; default: the next minor of the latest tag). It stages under strict pinning and publishes through
+JReleaser. The build tool pin is moved by checking out the new
 commit in `.jenesis/upstream`, building, and committing the submodule pointer.
