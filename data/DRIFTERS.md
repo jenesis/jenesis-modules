@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-24. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-25. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -659,7 +659,7 @@ org.eclipse.jetty.compression.gzip  [fork: keep `org.eclipse.jetty.compression`,
 org.tukaani.xz  [fork: keep `org.tukaani`, `org.sonarsource.javascript` still publishes the name]
   A * org.tukaani                          2018-01..2026-03 1.12                 |..=================.|
   R   org.sonarsource.javascript           2023-09..2026-08 13.5.0.44127         |.............=======|
-  R   org.apache.syncope.fit               2025-11..2026-07 4.0.7                |..................==|
+  R   org.apache.syncope.fit               2025-11..2026-07 4.0.7                |.................===|
   R   org.incenp                           2024-07..2026-06 0.2.2                |...............=====|
   ?   com.timecho.timechodb                2026-06..2026-06 2.0.10.1             |...................=|
   ?   io.github.peterdowdy                 2026-06..2026-06 0.0.0-main-ad87994   |...................=|
@@ -783,7 +783,7 @@ org.locationtech.proj4j  [fork: keep `org.locationtech.proj4j`, `io.github.emile
   ? * org.locationtech.proj4j              2026-06..2026-06 1.4.3                |...................=|
   ?   io.github.emilevictor.neoproj4j      2026-08..2026-08 2.0.0                |...................=|
 org.locationtech.proj4j.geoapi  [fork: keep `org.locationtech.proj4j`, `io.github.emilevictor.neoproj4j` still publishes the name]
-  ? * org.locationtech.proj4j              2026-05..2026-06 1.4.3                |...................=|
+  ? * org.locationtech.proj4j              2026-05..2026-06 1.4.3                |..................==|
   ?   io.github.emilevictor.neoproj4j      2026-08..2026-08 2.0.0                |...................=|
 org.locationtech.proj4j.epsg  [fork: keep `org.locationtech.proj4j`, `io.github.emilevictor.neoproj4j` still publishes the name]
   ? * org.locationtech.proj4j              2026-06..2026-06 1.4.3                |...................=|
@@ -791,7 +791,7 @@ org.locationtech.proj4j.epsg  [fork: keep `org.locationtech.proj4j`, `io.github.
 com.github.benmanes.caffeine  [fork: keep `com.github.ben-manes.caffeine`, `com.janeluo` still publishes the name]
   A * com.github.ben-manes.caffeine        2017-12..2026-05 3.2.4                |..=================.|
   R   com.janeluo                          2026-03..2026-08 1.0.15               |..................==|
-  R   io.zeebe.redis                       2025-05..2026-07 8.9.2                |.................===|
+  R   io.zeebe.redis                       2025-05..2026-07 8.9.2                |................====|
   ?   org.kill-bill.billing                2026-06..2026-07 0.42.2               |...................=|
   R   org.openprovenance.prov              2024-10..2026-07 2.2.4                |...............=====|
   R   nl.basjes.parse.useragent            2022-01..2026-07 8.2.0                |..........==========|
@@ -1382,7 +1382,7 @@ com.headius.invokebinder  [fork: keep `com.headius`, `org.sahli.asciidoc.conflue
   R   org.sahli.asciidoc.confluence.publisher 2026-03..2026-07 0.35.0               |..................==|
   R   org.springframework.cloud            2024-11..2026-06 4.3.4                |................====|
   R   com.lealceldeiro                     2025-02..2026-03 2.3.1                |................===.|
-  R   ch.ifocusit.livingdoc                2025-05..2025-05 2.16                 |................==..|
+  R   ch.ifocusit.livingdoc                2025-05..2025-05 2.16                 |................=...|
   R   de.jcup.asp                          2021-09..2022-04 1.4.1                |.........==.........|
     + 2 more: org.asciidoctor, org.jruby
 net.bytebuddy.agent  [fork: keep `net.bytebuddy`, `com.google.gerrit` still publishes the name]
@@ -1465,7 +1465,7 @@ io.vertx.auth.common  [owned by `io.vertx`; 1 other group(s) shade the name]
   ? * io.vertx                             2020-05..2026-08 4.5.32               |.......=============|
   ?   ai.tock                              2026-07..2026-07 26.3.3               |...................=|
 org.htmlunit  [owned by `org.htmlunit`; 1 other group(s) shade the name]
-  ? * org.htmlunit                         2026-05..2026-08 5.4.0                |...................=|
+  ? * org.htmlunit                         2026-05..2026-08 5.4.0                |..................==|
   ?   com.nordstrom.ui-tools               2026-07..2026-07 4.46.0               |...................=|
 org.htmlunit.cyberneko  [owned by `org.htmlunit`; 2 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-08 5.4.0                |..................==|
@@ -1689,7 +1689,7 @@ The dominant owner's groupId with its top-level domain dropped is the module-nam
 
 ```
 koog.agents.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 koog.spring.ai.starter.vector.store.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-04..2026-07 1.1.1-beta           |..................==|
@@ -2009,7 +2009,7 @@ a2a.transport.client.jsonrpc.http.jvm  [no clear owner; `ai.koog` is earliest an
   ? * ai.koog                              2025-10..2026-07 1.1.1-beta           |.................===|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 agents.core.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 agents.features.a2a.core.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-07 1.1.1-beta           |.................===|
@@ -2027,7 +2027,7 @@ agents.features.longterm.memory.jvm  [no clear owner; `ai.koog` is earliest and 
   ? * ai.koog                              2026-03..2026-07 1.1.1-beta           |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 agents.features.memory.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 agents.features.persistence.jdbc.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-07 1.1.1                |..................==|
@@ -2051,10 +2051,10 @@ agents.planner.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-12..2026-07 1.1.1-beta           |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 agents.test.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 embeddings.base.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 http.client.java.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-07 1.1.1                |..................==|
@@ -2066,34 +2066,34 @@ http.client.spring.webclient.jvm  [no clear owner; `ai.koog` is earliest and mos
   ? * ai.koog                              2026-07..2026-07 1.1.1                |...................=|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.cache.files.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.executor.anthropic.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.executor.bedrock.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-07..2026-07 1.1.1                |.................===|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.executor.clients.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.executor.deepseek.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-08..2026-07 1.1.1-beta           |.................===|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 prompt.executor.model.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.executor.ollama.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.executor.openai.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.llm.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.markdown.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.tokenizer.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-06..2026-07 1.1.1                |.................===|
@@ -2123,7 +2123,7 @@ agents.cli.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-07..2026-07 1.1.1-beta           |...................=|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 agents.ext.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 agents.features.a2a.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-07 1.1.1-beta           |.................===|
@@ -2141,19 +2141,19 @@ agents.features.opentelemetry.jvm  [no clear owner; `ai.koog` is earliest and mo
   ? * ai.koog                              2025-07..2026-07 1.1.1                |.................===|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 agents.features.trace.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 agents.mcp.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 agents.tools.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 agents.utils.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 embeddings.llm.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 http.client.core.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-07 1.1.1                |.................===|
@@ -2162,25 +2162,25 @@ http.client.ktor.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-07 1.1.1                |.................===|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.cache.model.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.cache.redis.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 prompt.executor.cached.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.executor.dashscope.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-07 1.1.1-beta           |.................===|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 prompt.executor.google.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 prompt.executor.litert.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-05..2026-07 1.1.1-beta           |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 prompt.executor.llms.all.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1-beta           |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-beta-kroog.1   |...................=|
 prompt.executor.mistralai.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-07 1.1.1-beta           |.................===|
@@ -2189,19 +2189,19 @@ prompt.executor.openai.client.base.jvm  [no clear owner; `ai.koog` is earliest a
   ? * ai.koog                              2025-09..2026-07 1.1.1                |.................===|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.executor.openrouter.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.model.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.processor.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-12..2026-07 1.1.1                |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.structure.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 prompt.xml.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 rag.vector.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-04..2026-07 1.1.1-beta           |..................==|
@@ -2210,7 +2210,7 @@ serialization.core.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-07 1.1.1                |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 agents.features.event.handler.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-05..2026-07 1.1.1                |.................===|
+  ? * ai.koog                              2025-05..2026-07 1.1.1                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-08 1.1.1-kroog.1        |...................=|
 org.apache.commons.codec  [no clear owner; `commons-codec` is earliest and most recent]
   ? * commons-codec                        2017-10..2026-07 1.22.1               |.===================|
@@ -2570,7 +2570,7 @@ jpms_dss_jades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent
   ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1            |.........==========.|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_jaxb_common  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2022-05..2025-11 6.2.d4j.1            |...........========.|
+  ? * org.digidoc4j.dss                    2022-05..2025-11 6.2.d4j.1            |..........=========.|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_pades_pdfbox  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
