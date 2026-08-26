@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-25. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-26. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -126,7 +126,7 @@ kotlin.stdlib.jdk7  [explicit rule: owned by `org.jetbrains.kotlin`; 22 other gr
     + 17 more: io.github.team-sneakymouse, com.seanshubin.code.structure, me.xcue, org.partiql, io.github.wadoon.key, org.btmonier, com.slothiesmooth, com.slothiesmooth.links-detektor, hu.bme.mit.theta, com.github.shynixn.mccoroutine, dev.nelmin.spigot, com.facebook, (+5 more)
 kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other group(s) rejected]
   A * org.jetbrains.kotlinx                2021-09..2026-04 1.11.0               |.........==========.|
-  R   dev.sebastiano.spectre               2026-05..2026-08 0.4.1                |...................=|
+  R   dev.sebastiano.spectre               2026-05..2026-08 0.4.1                |..................==|
   ?   lol.simeon                           2026-06..2026-06 1.1.2                |...................=|
   R   love.forte.plugin.suspend-transform  2025-04..2026-06 2.4.0-0.14.0         |................====|
   R   dev.robocode.tankroyale              2026-01..2026-05 1.0.2                |..................=.|
@@ -1282,7 +1282,7 @@ com.github.librepdf.openpdf  [fork: keep `com.github.librepdf`, `com.guicedee.mo
   R   com.guicedee.modules.services        2026-04..2026-07 2.2.0                |..................==|
   ?   io.github.icarius4iu                 2026-06..2026-06 0.1.0                |...................=|
   R   net.ioze                             2026-01..2026-01 1.0.9                |..................=.|
-  R   org.computate                        2023-11..2024-02 2.0.2                |..............=.....|
+  R   org.computate                        2023-11..2024-02 2.0.2                |.............==.....|
   R   io.github.darkxanter                 2023-10..2023-10 1.3.31               |.............=......|
     + 2 more: com.github.kwart.jsign, com.guicedee.services
 org.apache.commons.collections4  [fork: keep `org.apache.commons`, `com.guicedee.modules.services` still publishes the name]
@@ -2273,7 +2273,7 @@ org.apache.commons.cli  [no clear owner; `commons-cli` is earliest and most rece
   ? * commons-cli                          2023-10..2025-11 1.11.0               |.............=====..|
   ?   org.imixs.bpmn                       2025-05..2026-08 1.3.0                |................====|
   ?   org.apktool                          2023-12..2026-07 3.0.3                |..............======|
-  ?   org.teavm                            2024-04..2026-05 0.14.1               |..............======|
+  ?   org.teavm                            2024-04..2026-05 0.14.1               |..............=====.|
   ?   io.github.vdaburon                   2024-01..2026-05 5.1                  |..............=====.|
   ?   com.nanolaba                         2025-07..2026-04 1.2                  |.................==.|
     + 25 more: com.ericsson.bss.cassandra.ecaudit, io.github.gvergine, com.amazonaws, io.github.706412584, com.legsem.legstar, dev.walgo, org.apache.phoenix.thirdparty, org.apache.meecrowave, org.apache.james, net.thisptr, us.poliscore, com.github.oboehm, (+13 more)
