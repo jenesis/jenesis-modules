@@ -1,6 +1,8 @@
 package build.jenesis.crawler;
 
 import module java.base;
+import build.jenesis.crawler.fetch.Fetcher;
+import build.jenesis.crawler.fetch.RobotsTxt;
 import build.jenesis.crawler.model.ModuleEntry;
 import build.jenesis.crawler.model.ModuleType;
 import build.jenesis.crawler.model.ScannedEntry;
@@ -38,6 +40,21 @@ import build.jenesis.crawler.store.ModuleStore;
  *       report year.</li>
  * </ul>
  *
+ * <p>Setting {@link #PROP_RELEASES_URI} adds five publishing columns measured against Maven
+ * Central's free thresholds: the artifacts covered, the mean file count and megabytes of a
+ * release, the release rate, and the thresholds exceeded. Every one of them describes the row's
+ * whole groupId rather than its single artifact, because a groupId is the closest stand-in this
+ * report has for the organization Central actually caps, and a group is measured over all of its
+ * artifacts rather than the listed ones alone. A group is measured once however many rows share
+ * it.
+ *
+ * <p>Those columns are the only figures the report reads from the network. It reads the
+ * repository's directory listing for the window's releases, one request each; no artifact is
+ * downloaded and nothing is written to {@code data/}, because a listing already carries the size
+ * of every file beside it, which is what lets the figures cover the POM, signatures and checksums
+ * that Maven Central counts alongside the JARs. Leave the property unset and the report is what
+ * it always was, offline and without those columns.
+ *
  * <p>Module facts come from {@code data/modules/<name-as-path>/versions.tsv}, the only catalogue
  * file carrying both publish timestamps and the named/automatic type. ({@code modules.tsv} is a
  * derived, named-only view without dates.) The module name is the directory path of the
@@ -49,6 +66,9 @@ public final class TopModules {
 
     public static final String PROP_DATA = "jenesis.crawler.data";
     public static final String PROP_BLEEDING = "jenesis.crawler.top.bleeding";
+    public static final String PROP_RELEASES_URI = "jenesis.crawler.top.releases.uri";
+    public static final String PROP_RELEASES_CONCURRENCY = "jenesis.crawler.top.releases.concurrency";
+    private static final int DEFAULT_RELEASES_CONCURRENCY = 32;
     private static final String DEFAULT_DATA_DIR = "data";
     private static final String VERSIONS_FILE = ModuleStore.LEAF_FILE_BASE + ModuleStore.LEAF_FILE_EXTENSION;
 
@@ -63,6 +83,26 @@ public final class TopModules {
     private static final String VERSIONED_EMOJI = "✳️"; // named module that declares a module-info version
     private static final String DORMANT_EMOJI = "⚠️"; // released within three years but not during the report year
     private static final String STALE_EMOJI = "🚩"; // popular artifact that looks deserted: no release in three years
+    private static final String OVER_LIMIT_EMOJI = "🔺"; // publishes above one of Maven Central's free thresholds
+
+    /**
+     * Maven Central's free publishing thresholds, as monthly volumes: file count, release size in
+     * megabytes, and release count. They are the 90th percentile of all publishers, the point
+     * Sonatype describes as where the top ten percent by volume begins, and become enforceable on
+     * 2026-10-01 after a soft-limit phase that started on 2026-06-16.
+     *
+     * <p>Two caveats travel with every figure derived from them. Sonatype evaluates the limits per
+     * organization, which may hold several namespaces, while a row here is a single artifact, so a
+     * row under a threshold can still belong to an organization over it, and a group's artifacts
+     * are counted together by Central but separately here. And the thresholds may move during the
+     * soft-limit phase, since the Usage Center, not this table, is their source of truth.
+     */
+    private static final double LIMIT_FILES_PER_MONTH = 1_167d;
+    private static final double LIMIT_MEGABYTES_PER_MONTH = 78d;
+    private static final double LIMIT_RELEASES_PER_MONTH = 7d;
+
+    /** Both report modes measure publishing over twelve months: a calendar year, or the rolling year. */
+    private static final int WINDOW_MONTHS = 12;
 
     /**
      * GroupId prefixes for Maven's own build tooling: Maven itself (core, plugins, shared,
@@ -108,6 +148,19 @@ public final class TopModules {
             "Artifacts released in year",
             "Modules released in year");
 
+    /**
+     * The publishing columns, appended only when {@link #PROP_RELEASES_URI} supplied a repository
+     * to measure against. Every one of them describes the row's whole groupId rather than its
+     * single artifact, because that is the unit Maven Central caps, so rows sharing a groupId
+     * carry identical values. "Group artifacts" says how many artifacts those values cover.
+     */
+    private static final List<String> RELEASE_HEADERS = List.of(
+            "Group artifacts",
+            "Files per release",
+            "MB per release",
+            "Releases per month",
+            "Over Central limit");
+
     private TopModules() {
     }
 
@@ -122,12 +175,59 @@ public final class TopModules {
     }
 
     private record ScanStats(long firstPublished, long lastPublished, String latestVersion,
-                             int totalVersions, int versionsInYear) {
-        static final ScanStats NONE = new ScanStats(0L, 0L, "", 0, 0);
+                             int totalVersions, Set<String> versionsInYear) {
+        static final ScanStats NONE = new ScanStats(0L, 0L, "", 0, Set.of());
+    }
+
+    /** The file count and total size of one release directory, read from its listing. */
+    public record Listing(int files, long bytes) {
+    }
+
+    /**
+     * What one groupId published during the window, which is the unit Maven Central caps: the
+     * artifacts it covers, its releases, and the files and bytes they weigh in total.
+     *
+     * <p>A release is a distinct version across the group's artifacts, because a multi-module
+     * project publishes one version over many artifacts in a single deployment. The monthly
+     * volumes divide the window's totals by its twelve months, which matches how Sonatype
+     * evaluates the limits: a rolling average of monthly volume, not a calendar-month bucket.
+     */
+    private record GroupPublishing(boolean present, int artifacts, int releases, long files, long bytes) {
+
+        static final GroupPublishing NONE = new GroupPublishing(false, 0, 0, 0L, 0L);
+
+        double filesPerRelease() {
+            return releases == 0 ? 0d : (double) files / releases;
+        }
+
+        double megabytesPerRelease() {
+            return releases == 0 ? 0d : bytes / 1_000_000d / releases;
+        }
+
+        double releasesPerMonth() {
+            return (double) releases / WINDOW_MONTHS;
+        }
+
+        boolean overFiles() {
+            return present && (double) files / WINDOW_MONTHS > LIMIT_FILES_PER_MONTH;
+        }
+
+        boolean overSize() {
+            return present && bytes / 1_000_000d / WINDOW_MONTHS > LIMIT_MEGABYTES_PER_MONTH;
+        }
+
+        boolean overReleases() {
+            return present && releasesPerMonth() > LIMIT_RELEASES_PER_MONTH;
+        }
+
+        boolean overAny() {
+            return overFiles() || overSize() || overReleases();
+        }
     }
 
     /** A rendered detail row plus the classification the summary table aggregates over. */
-    private record Row(String[] cells, boolean modular, ModuleType type, boolean declaresModuleVersion,
+    private record Row(String[] cells, String[] releaseCells, GroupPublishing publishing,
+                       boolean modular, ModuleType type, boolean declaresModuleVersion,
                        boolean mavenRelated, boolean pomAggregator, boolean ignored, boolean maintained, String groupId) {
 
         /** Excluded from the library figures: structurally cannot reflect module adoption. */
@@ -181,6 +281,15 @@ public final class TopModules {
         }
 
         Map<Artifact, List<Hit>> index = indexModules(modulesRoot, allTargets);
+        URI releasesUri = property(PROP_RELEASES_URI)
+                .map(value -> URI.create(value.endsWith("/") ? value : value + "/"))
+                .orElse(null);
+        int releasesConcurrency = property(PROP_RELEASES_CONCURRENCY)
+                .map(Integer::parseInt)
+                .orElse(DEFAULT_RELEASES_CONCURRENCY);
+        if (releasesConcurrency < 1) {
+            throw new IllegalArgumentException("Concurrency must be >= 1, got: " + releasesConcurrency);
+        }
 
         if (booleanProperty(PROP_BLEEDING)) {
             // Bleeding edge: take the most recent list we have, but don't crop the data to that
@@ -205,7 +314,7 @@ public final class TopModules {
             long threeYearStart = now.atZone(ZoneOffset.UTC).minusMonths(36).toInstant().toEpochMilli();
             long cutoff = now.toEpochMilli();
             String asOf = ISO_DATE.format(now);
-            List<Row> rows = buildRows(targetsByFile.get(latestFile), index, yearStart, threeYearStart, cutoff, scannedRoot);
+            List<Row> rows = buildRows(targetsByFile.get(latestFile), index, yearStart, threeYearStart, cutoff, scannedRoot, releasesUri, releasesConcurrency);
             Path output = latestFile.resolveSibling("BLEEDING.md");
             Files.writeString(output, render(windowYear, "bleeding edge", asOf, true, listYear, rows), StandardCharsets.UTF_8);
             long withModule = rows.stream().filter(Row::modular).count();
@@ -219,7 +328,7 @@ public final class TopModules {
             long yearStart = LocalDate.of(year, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
             long threeYearStart = LocalDate.of(year - 2, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
             long cutoff = LocalDate.of(year + 1, 1, 1).atStartOfDay(ZoneOffset.UTC).toInstant().toEpochMilli();
-            List<Row> rows = buildRows(targetsByFile.get(topFile), index, yearStart, threeYearStart, cutoff, scannedRoot);
+            List<Row> rows = buildRows(targetsByFile.get(topFile), index, yearStart, threeYearStart, cutoff, scannedRoot, releasesUri, releasesConcurrency);
             Path output = topFile.resolveSibling(stem(topFile) + ".md");
             Files.writeString(output, render(year, Integer.toString(year), year + "-12-31", false, year, rows), StandardCharsets.UTF_8);
             long withModule = rows.stream().filter(Row::modular).count();
@@ -229,11 +338,23 @@ public final class TopModules {
     }
 
     private static List<Row> buildRows(List<Artifact> targets, Map<Artifact, List<Hit>> index,
-                                       long yearStart, long threeYearStart, long cutoff, Path scannedRoot) throws IOException {
+                                       long yearStart, long threeYearStart, long cutoff, Path scannedRoot,
+                                       URI releasesUri, int releasesConcurrency) throws IOException {
+        // Read every coordinate's scan history once, so the release listings can be fetched as a
+        // single batch before any row is rendered rather than one artifact at a time.
+        Map<Artifact, ScanStats> stats = new LinkedHashMap<>();
+        for (Artifact target : targets) {
+            stats.put(target, scanStats(scannedRoot, target, yearStart, cutoff));
+        }
+        Map<String, GroupPublishing> publishing = releasesUri == null
+                ? Map.of()
+                : groupPublishing(releasesUri, targets, scannedRoot, yearStart, cutoff, releasesConcurrency);
         List<Row> rows = new ArrayList<>(targets.size());
         for (int rank = 0; rank < targets.size(); rank++) {
             Artifact target = targets.get(rank);
-            rows.add(buildRow(rank + 1, target, index.getOrDefault(target, List.of()), yearStart, threeYearStart, cutoff, scannedRoot));
+            rows.add(buildRow(rank + 1, target, index.getOrDefault(target, List.of()),
+                    yearStart, threeYearStart, cutoff, stats.get(target),
+                    publishing.getOrDefault(target.groupId(), GroupPublishing.NONE)));
         }
         return rows;
     }
@@ -327,9 +448,9 @@ public final class TopModules {
         return new Artifact(line.substring(second + 1, third), line.substring(third + 1, fourth));
     }
 
-    private static Row buildRow(int rank, Artifact target, List<Hit> hits, long yearStart, long threeYearStart, long cutoff, Path scannedRoot) throws IOException {
+    private static Row buildRow(int rank, Artifact target, List<Hit> hits, long yearStart, long threeYearStart,
+                                long cutoff, ScanStats scanned, GroupPublishing publishing) {
         List<Hit> qualifying = hits.stream().filter(hit -> hit.entry().publishedAt() < cutoff).toList();
-        ScanStats scanned = scanStats(scannedRoot, target, yearStart, cutoff);
 
         // The artifact's last version on or before the year end: from the scan log, falling back to
         // the newest module publication when there are no scanned rows. Modularity is decided by
@@ -396,9 +517,18 @@ public final class TopModules {
                 moduleVersion,
                 Integer.toString(scanned.totalVersions()),
                 Long.toString(totalModules),
-                Integer.toString(scanned.versionsInYear()),
+                Integer.toString(scanned.versionsInYear().size()),
                 Long.toString(modulesInYear),
         };
+        String[] releaseCells = publishing.present()
+                ? new String[] {
+                        Integer.toString(publishing.artifacts()),
+                        decimal(publishing.filesPerRelease()) + flag(publishing.overFiles()),
+                        decimal(publishing.megabytesPerRelease()) + flag(publishing.overSize()),
+                        decimal(publishing.releasesPerMonth()) + flag(publishing.overReleases()),
+                        overLimitCell(publishing),
+                }
+                : new String[] {"", "", "", "", ""};
         boolean maintained = lastPublished >= yearStart;
         boolean mavenRelated = isMavenRelated(target);
         boolean pomAggregator = isPomAggregator(target);
@@ -407,8 +537,42 @@ public final class TopModules {
             for (int index = 0; index < cells.length; index++) {
                 cells[index] = "~~" + (cells[index].isEmpty() ? "-" : cells[index]) + "~~";
             }
+            for (int index = 0; index < releaseCells.length; index++) {
+                releaseCells[index] = "~~" + (releaseCells[index].isEmpty() ? "-" : releaseCells[index]) + "~~";
+            }
         }
-        return new Row(cells, modular, type, declaresModuleVersion, mavenRelated, pomAggregator, ignored, maintained, target.groupId());
+        return new Row(cells, releaseCells, publishing, modular, type, declaresModuleVersion,
+                mavenRelated, pomAggregator, ignored, maintained, target.groupId());
+    }
+
+    /** Names the thresholds a monthly volume exceeds, or "-" when it stays under all three. */
+    private static String overLimitCell(GroupPublishing metrics) {
+        if (!metrics.overAny()) {
+            return "-";
+        }
+        StringJoiner joiner = new StringJoiner(", ");
+        if (metrics.overFiles()) {
+            joiner.add("files");
+        }
+        if (metrics.overSize()) {
+            joiner.add("size");
+        }
+        if (metrics.overReleases()) {
+            joiner.add("releases");
+        }
+        return OVER_LIMIT_EMOJI + " " + joiner;
+    }
+
+    private static String flag(boolean over) {
+        return over ? " " + OVER_LIMIT_EMOJI : "";
+    }
+
+    private static String count(double value) {
+        return String.format(Locale.ROOT, "%,.0f", value);
+    }
+
+    private static String decimal(double value) {
+        return String.format(Locale.GERMANY, "%.1f", value);
     }
 
     /** True for Maven's own build tooling, whose rows are struck through as ranking noise. */
@@ -490,7 +654,7 @@ public final class TopModules {
             }
         }
         return lastPublished > 0L
-                ? new ScanStats(firstPublished, lastPublished, latestVersion, versions.size(), versionsInYear.size())
+                ? new ScanStats(firstPublished, lastPublished, latestVersion, versions.size(), versionsInYear)
                 : ScanStats.NONE;
     }
 
@@ -510,6 +674,7 @@ public final class TopModules {
 
     private static String render(int year, String titleLabel, String asOf, boolean bleeding, int listYear, List<Row> rows) {
         int total = rows.size();
+        boolean hasReleases = rows.stream().anyMatch(row -> row.publishing().present());
         long mavenRows = rows.stream().filter(Row::mavenRelated).count();
         long pomRows = rows.stream().filter(row -> row.pomAggregator() && !row.mavenRelated()).count();
         long ignoredRows = rows.stream().filter(row -> row.ignored() && !row.mavenRelated() && !row.pomAggregator()).count();
@@ -538,6 +703,16 @@ public final class TopModules {
         appendMetric(builder, "Named modules", rows, row -> row.type() == ModuleType.NAMED, total, totalLibraries, totalMaintained);
         appendMetric(builder, "Named modules with declared version", rows, Row::declaresModuleVersion, total, totalLibraries, totalMaintained);
         appendMetric(builder, "Non-modular artifacts", rows, row -> !row.modular(), total, totalLibraries, totalMaintained);
+        if (hasReleases) {
+            appendMetric(builder, "Artifacts whose group is over the file limit", rows,
+                    row -> row.publishing().overFiles(), total, totalLibraries, totalMaintained);
+            appendMetric(builder, "Artifacts whose group is over the size limit", rows,
+                    row -> row.publishing().overSize(), total, totalLibraries, totalMaintained);
+            appendMetric(builder, "Artifacts whose group is over the release limit", rows,
+                    row -> row.publishing().overReleases(), total, totalLibraries, totalMaintained);
+            appendMetric(builder, "Artifacts whose group is over any limit", rows,
+                    row -> row.publishing().overAny(), total, totalLibraries, totalMaintained);
+        }
         builder.append('\n');
 
         builder.append("**By groupId**\n\n");
@@ -553,6 +728,15 @@ public final class TopModules {
         appendGroupMetric(builder, "Groups with named modules only", allGroups.namedOnly(), allTotal, libGroups.namedOnly(), libTotal, maintainedGroups.namedOnly(), maintTotal);
         appendGroupMetric(builder, "Groups with automatic modules only", allGroups.automaticOnly(), allTotal, libGroups.automaticOnly(), libTotal, maintainedGroups.automaticOnly(), maintTotal);
         appendGroupMetric(builder, "Groups with modules and version info only", allGroups.versionOnly(), allTotal, libGroups.versionOnly(), libTotal, maintainedGroups.versionOnly(), maintTotal);
+        if (hasReleases) {
+            GroupLimits allLimits = groupLimits(rows);
+            GroupLimits libLimits = groupLimits(rows.stream().filter(row -> !row.excluded()).toList());
+            GroupLimits maintainedLimits = groupLimits(rows.stream().filter(row -> !row.excluded() && row.maintained()).toList());
+            appendGroupMetric(builder, "Groups over the file limit", allLimits.overFiles(), allTotal, libLimits.overFiles(), libTotal, maintainedLimits.overFiles(), maintTotal);
+            appendGroupMetric(builder, "Groups over the size limit", allLimits.overSize(), allTotal, libLimits.overSize(), libTotal, maintainedLimits.overSize(), maintTotal);
+            appendGroupMetric(builder, "Groups over the release limit", allLimits.overReleases(), allTotal, libLimits.overReleases(), libTotal, maintainedLimits.overReleases(), maintTotal);
+            appendGroupMetric(builder, "Groups over any limit", allLimits.overAny(), allTotal, libLimits.overAny(), libTotal, maintainedLimits.overAny(), maintTotal);
+        }
         builder.append('\n');
 
         builder.append("Counts are absolute with the share in parentheses. \"All listed\" covers all ")
@@ -592,11 +776,50 @@ public final class TopModules {
                 .append(": parents, BOMs and dependency imports, which ship no JAR), and hand-listed placeholder ")
                 .append("artifacts (").append(plural(ignoredRows, "row")).append(").\n\n");
 
-        List<String> headers = HEADERS;
+        if (hasReleases) {
+            GroupLimits limits = groupLimits(rows);
+            builder.append("The last five columns measure publishing against Maven Central's free thresholds, ")
+                    .append("which since 2026-06-16 are notified as soft limits and become enforceable on ")
+                    .append("2026-10-01: ").append(count(LIMIT_FILES_PER_MONTH)).append(" files, ")
+                    .append(count(LIMIT_MEGABYTES_PER_MONTH)).append(" MB and ")
+                    .append(count(LIMIT_RELEASES_PER_MONTH)).append(" releases per month, the 90th percentile of ")
+                    .append("all publishers. They describe the row's whole **groupId**, not its single artifact, ")
+                    .append("because that is the unit Central caps, so every row sharing a groupId carries the ")
+                    .append("same figures and \"Group artifacts\" says how many artifacts they cover. Here ")
+                    .append(limits.measured()).append(" groups published inside the window, across ")
+                    .append(limits.artifacts()).append(" artifacts, which is ")
+                    .append(String.format(Locale.GERMANY, "%.1f", limits.measured() == 0
+                            ? 0d
+                            : (double) limits.artifacts() / limits.measured()))
+                    .append(" artifacts per group on average, against the ").append(total)
+                    .append(" the list itself names.\n\n")
+                    .append("A release is a distinct version across the group's artifacts, since a multi-module ")
+                    .append("project publishes one version over many artifacts in a single deployment. \"Files ")
+                    .append("per release\" and \"MB per release\" divide the group's window totals by those ")
+                    .append("releases, counting every file the repository serves under a version - the artifacts, ")
+                    .append("the POM, and the signature and checksum sidecars beside them - because Central counts ")
+                    .append("the same set. A ").append(OVER_LIMIT_EMOJI)
+                    .append(" marks a figure whose monthly volume is above its threshold, and \"Over Central ")
+                    .append("limit\" names them. Central averages monthly volume over a rolling three months ")
+                    .append("rather than bucketing it by calendar month, so these figures divide the window's ")
+                    .append("twelve months evenly; a group that published in one burst can therefore breach at ")
+                    .append("Central while its yearly mean here stays under.\n\n")
+                    .append("Read every one of these as a **best case**. Central applies a limit to an ")
+                    .append("organization, and an organization may hold several namespaces: ")
+                    .append("`org.springframework`, `org.springframework.boot` and `org.springframework.security` ")
+                    .append("are separate rows here and may well be one account there. A group counted as under a ")
+                    .append("threshold can therefore still belong to an organization over it, never the reverse. ")
+                    .append("The thresholds themselves may also move during the soft-limit phase, since the Usage ")
+                    .append("Center, not this table, is their source of truth.\n\n");
+        }
+
+        List<String> headers = new ArrayList<>(HEADERS);
         if (bleeding) {
-            headers = new ArrayList<>(HEADERS);
             headers.set(headers.indexOf("Artifacts released in year"), "Artifacts released in last 12 months");
             headers.set(headers.indexOf("Modules released in year"), "Modules released in last 12 months");
+        }
+        if (hasReleases) {
+            headers.addAll(RELEASE_HEADERS);
         }
         builder.append("| ").append(String.join(" | ", headers)).append(" |\n");
         builder.append("|").append("---|".repeat(headers.size())).append('\n');
@@ -604,6 +827,11 @@ public final class TopModules {
             builder.append('|');
             for (String cell : row.cells()) {
                 builder.append(' ').append(cell.replace("|", "\\|")).append(" |");
+            }
+            if (hasReleases) {
+                for (String cell : row.releaseCells()) {
+                    builder.append(' ').append(cell.replace("|", "\\|")).append(" |");
+                }
             }
             builder.append('\n');
         }
@@ -630,6 +858,41 @@ public final class TopModules {
         long withModules() {
             return fully + partial;
         }
+    }
+
+    /** How many groupIds publish above each Maven Central threshold, counting each group once. */
+    private record GroupLimits(long measured, long artifacts, long overFiles, long overSize,
+                               long overReleases, long overAny) {
+    }
+
+    private static GroupLimits groupLimits(List<Row> rows) {
+        Map<String, GroupPublishing> byGroup = new LinkedHashMap<>();
+        for (Row row : rows) {
+            if (row.publishing().present()) {
+                byGroup.putIfAbsent(row.groupId(), row.publishing());
+            }
+        }
+        long artifacts = 0;
+        long overFiles = 0;
+        long overSize = 0;
+        long overReleases = 0;
+        long overAny = 0;
+        for (GroupPublishing publishing : byGroup.values()) {
+            artifacts += publishing.artifacts();
+            if (publishing.overFiles()) {
+                overFiles++;
+            }
+            if (publishing.overSize()) {
+                overSize++;
+            }
+            if (publishing.overReleases()) {
+                overReleases++;
+            }
+            if (publishing.overAny()) {
+                overAny++;
+            }
+        }
+        return new GroupLimits(byGroup.size(), artifacts, overFiles, overSize, overReleases, overAny);
     }
 
     private static GroupStats groupStats(List<Row> rows) {
@@ -690,6 +953,241 @@ public final class TopModules {
         return count + " " + noun + (count == 1L ? "" : "s");
     }
 
+    /**
+     * Reads the repository's directory listing for every release the window holds, one request
+     * per release, and returns them keyed by {@code groupId:artifactId:version}. This is the only
+     * network the report does: it touches the listed coordinates alone, never an artifact's bytes,
+     * and keeps nothing, because a listing already carries the size of every file beside it.
+     *
+     * <p>A release whose listing cannot be read is left out rather than counted as empty, so a
+     * failed request lowers no average.
+     */
+    /** One release of one artifact, awaiting its listing. */
+    private record Release(String groupId, String artifactId, String version) {
+
+        String path() {
+            return groupId.replace('.', '/') + '/' + artifactId + '/' + version + '/';
+        }
+    }
+
+    /**
+     * Measures what every groupId on the list published during the window, which is the unit Maven
+     * Central caps. A group is measured once however many of its artifacts the list carries, and
+     * over all of its artifacts rather than the listed ones alone: the scan log already knows every
+     * coordinate the group ever published, so the group's artifacts are read from
+     * {@code data/scanned/<group>/} and each of their releases in the window is fetched.
+     *
+     * <p>Only the files directly under a group's directory belong to it. A nested directory is a
+     * different groupId, capped separately by Central unless it happens to share an organization,
+     * so it is left to its own row.
+     */
+    private static Map<String, GroupPublishing> groupPublishing(URI base, List<Artifact> targets, Path scannedRoot,
+                                                                long yearStart, long cutoff,
+                                                                int concurrency) throws IOException {
+        SequencedSet<String> groupIds = new LinkedHashSet<>();
+        for (Artifact target : targets) {
+            groupIds.add(target.groupId());
+        }
+        Map<String, Set<String>> artifactsByGroup = new LinkedHashMap<>();
+        List<Release> pending = new ArrayList<>();
+        for (String groupId : groupIds) {
+            Path groupDir = scannedRoot;
+            for (String segment : groupId.split("\\.", -1)) {
+                groupDir = groupDir.resolve(segment);
+            }
+            if (!Files.isDirectory(groupDir)) {
+                continue;
+            }
+            try (Stream<Path> files = Files.list(groupDir)) {
+                for (Path file : (Iterable<Path>) files.filter(Files::isRegularFile)
+                        .filter(path -> path.getFileName().toString().endsWith(".tsv"))
+                        .sorted()::iterator) {
+                    String name = file.getFileName().toString();
+                    String artifactId = name.substring(0, name.length() - ".tsv".length());
+                    Set<String> versions = versionsInWindow(file, yearStart, cutoff);
+                    if (versions.isEmpty()) {
+                        continue;
+                    }
+                    artifactsByGroup.computeIfAbsent(groupId, _ -> new LinkedHashSet<>()).add(artifactId);
+                    for (String version : versions) {
+                        pending.add(new Release(groupId, artifactId, version));
+                    }
+                }
+            }
+        }
+        if (pending.isEmpty()) {
+            return Map.of();
+        }
+        System.err.println("[top-modules] reading " + pending.size() + " release listing(s) across "
+                + artifactsByGroup.size() + " group(s) from " + base);
+
+        Map<String, Listing> listings = new ConcurrentHashMap<>(pending.size());
+        AtomicInteger missing = new AtomicInteger();
+        AtomicInteger failed = new AtomicInteger();
+        AtomicInteger done = new AtomicInteger();
+        try (Fetcher fetcher = new Fetcher()) {
+            verifyRobotsTxt(fetcher, base);
+            ExecutorService executor = Executors.newFixedThreadPool(concurrency);
+            try {
+                List<Future<?>> futures = new ArrayList<>(pending.size());
+                for (Release release : pending) {
+                    futures.add(executor.submit(() -> {
+                        Listing listing = fetchListing(fetcher, base, release.path(), missing, failed);
+                        if (listing != null) {
+                            listings.put(release.groupId() + ':' + release.artifactId() + ':' + release.version(), listing);
+                        }
+                        int completed = done.incrementAndGet();
+                        if (completed % 25_000 == 0) {
+                            System.err.println("[top-modules] " + completed + " of " + pending.size() + " read");
+                        }
+                    }));
+                }
+                for (Future<?> future : futures) {
+                    try {
+                        future.get();
+                    } catch (InterruptedException e) {
+                        Thread.currentThread().interrupt();
+                        throw new IOException("Interrupted while reading release listings", e);
+                    } catch (ExecutionException e) {
+                        throw new IOException("Failed to read a release listing", e.getCause());
+                    }
+                }
+            } finally {
+                executor.shutdownNow();
+            }
+        }
+        System.err.println("[top-modules] read=" + listings.size()
+                + " missing=" + missing.get() + " failed=" + failed.get());
+
+        Map<String, long[]> totals = new LinkedHashMap<>();
+        Map<String, Set<String>> releasesByGroup = new LinkedHashMap<>();
+        for (Release release : pending) {
+            Listing listing = listings.get(release.groupId() + ':' + release.artifactId() + ':' + release.version());
+            if (listing == null) {
+                continue;
+            }
+            long[] total = totals.computeIfAbsent(release.groupId(), _ -> new long[2]);
+            total[0] += listing.files();
+            total[1] += listing.bytes();
+            releasesByGroup.computeIfAbsent(release.groupId(), _ -> new HashSet<>()).add(release.version());
+        }
+        Map<String, GroupPublishing> publishing = new LinkedHashMap<>();
+        for (Map.Entry<String, long[]> entry : totals.entrySet()) {
+            String groupId = entry.getKey();
+            publishing.put(groupId, new GroupPublishing(true,
+                    artifactsByGroup.getOrDefault(groupId, Set.of()).size(),
+                    releasesByGroup.getOrDefault(groupId, Set.of()).size(),
+                    entry.getValue()[0],
+                    entry.getValue()[1]));
+        }
+        return publishing;
+    }
+
+    /** The distinct versions a scanned file records as published inside the window. */
+    private static Set<String> versionsInWindow(Path file, long yearStart, long cutoff) throws IOException {
+        Set<String> versions = new LinkedHashSet<>();
+        try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
+            for (String line : (Iterable<String>) lines::iterator) {
+                if (line.isEmpty()) {
+                    continue;
+                }
+                ScannedEntry entry = ScannedEntry.parse(line);
+                if (entry.publishedAt() >= yearStart && entry.publishedAt() < cutoff) {
+                    versions.add(entry.version());
+                }
+            }
+        }
+        return versions;
+    }
+
+    private static Listing fetchListing(Fetcher fetcher, URI base, String path,
+                                        AtomicInteger missing, AtomicInteger failed) {
+        URI uri = base.resolve(path);
+        try {
+            Optional<String> body = fetcher.getOptional(uri);
+            if (body.isEmpty()) {
+                missing.incrementAndGet();
+                return null;
+            }
+            Listing listing = parseListing(body.get());
+            if (listing.files() == 0) {
+                missing.incrementAndGet();
+                return null;
+            }
+            return listing;
+        } catch (IOException e) {
+            failed.incrementAndGet();
+            System.err.println("[top-modules] " + uri + ": " + e.getMessage());
+            return null;
+        }
+    }
+
+    /**
+     * Counts the files a directory listing serves and sums their sizes. Each entry is an anchor
+     * followed by a last-modified date and a size; an anchor whose target ends in a slash is the
+     * parent link or a nested directory, not a file of this release. The listing abbreviates long
+     * file names with an ellipsis, which is why no name is read here: the anchor's target decides
+     * whether a row counts, and only the trailing size column is summed.
+     */
+    public static Listing parseListing(String html) {
+        int files = 0;
+        long bytes = 0L;
+        for (String line : html.split("\n")) {
+            int anchor = line.indexOf("<a href=\"");
+            if (anchor < 0) {
+                continue;
+            }
+            int targetStart = anchor + "<a href=\"".length();
+            int targetEnd = line.indexOf('"', targetStart);
+            if (targetEnd < 0) {
+                continue;
+            }
+            String target = line.substring(targetStart, targetEnd);
+            if (target.isEmpty() || target.endsWith("/")) {
+                continue;
+            }
+            int close = line.indexOf("</a>", targetEnd);
+            if (close < 0) {
+                continue;
+            }
+            String[] columns = line.substring(close + "</a>".length()).strip().split("\\s+");
+            if (columns.length == 0) {
+                continue;
+            }
+            long size;
+            try {
+                size = Long.parseLong(columns[columns.length - 1]);
+            } catch (NumberFormatException _) {
+                continue;
+            }
+            files++;
+            bytes += size;
+        }
+        return new Listing(files, bytes);
+    }
+
+    private static void verifyRobotsTxt(Fetcher fetcher, URI baseUri) throws IOException {
+        String authority = baseUri.getAuthority();
+        RobotsTxt.Rules rules;
+        try {
+            rules = RobotsTxt.fetch(fetcher, baseUri);
+        } catch (IOException e) {
+            System.err.println("[top-modules] robots.txt fetch failed for " + authority
+                    + " (" + e.getMessage() + "); continuing without restrictions");
+            return;
+        }
+        String path = baseUri.getPath();
+        if (!rules.allows(path)) {
+            throw new IOException("robots.txt for " + authority + " disallows " + path
+                    + " for " + RobotsTxt.agentToken(Fetcher.USER_AGENT));
+        }
+    }
+
+    private static Optional<String> property(String name) {
+        String value = System.getProperty(name);
+        return value == null || value.isBlank() ? Optional.empty() : Optional.of(value.trim());
+    }
+
     private static void printUsage() {
         System.out.println("Usage: java build.jenesis.crawler.TopModules <data/top/YYYY.txt> [<more.txt> ...]");
         System.out.println();
@@ -711,6 +1209,18 @@ public final class TopModules {
         System.out.println("Optional system properties:");
         System.out.println("  -D" + PROP_DATA + "=<dir>");
         System.out.println("        Data directory holding modules/ and scanned/ (default 'data').");
+        System.out.println("  -D" + PROP_RELEASES_URI + "=<uri>");
+        System.out.println("        Repository to measure publishing volume against (e.g.");
+        System.out.println("        https://repo1.maven.org/maven2/). Set it to add the five publishing columns:");
+        System.out.println("        group artifacts, files and MB per release, releases per month, and the Maven");
+        System.out.println("        Central thresholds exceeded. The figures are per groupId, not per artifact,");
+        System.out.println("        since that is what Central caps, and cover every artifact of the group rather");
+        System.out.println("        than the listed ones - one directory-listing request per release in the");
+        System.out.println("        window, which for a 1000-artifact list is a few hundred thousand requests. No");
+        System.out.println("        artifact is downloaded and nothing is written to data/. Unset, the report is");
+        System.out.println("        rendered offline without those columns.");
+        System.out.println("  -D" + PROP_RELEASES_CONCURRENCY + "=<n>");
+        System.out.println("        Concurrent listing requests (default " + DEFAULT_RELEASES_CONCURRENCY + ").");
         System.out.println("  -D" + PROP_BLEEDING + "=true");
         System.out.println("        Bleeding-edge mode: take the latest input list and assess it against current");
         System.out.println("        data (cutoff = the crawler's index timestamp, nothing cropped to a year end),");
