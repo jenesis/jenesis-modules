@@ -105,6 +105,16 @@ re-stamps records during republishing events and ownership is decided by who pub
   concurrency group. The dispatch form exposes `budget_minutes`, `concurrency`, `push_every` and `resume`.
 - **`summary.yml`** runs daily at 06:07 UTC - halfway between the two crawls - and regenerates
   `data/SUMMARY.md`, `data/top/BLEEDING.md` and `data/DRIFTERS.md`, committing only when the content changed.
+  `BLEEDING.md` alone is rendered with `jenesis.crawler.top.releases.uri` set, which adds the publishing
+  columns: the artifacts covered, files and MB per release, releases per month, and the Maven Central
+  thresholds exceeded. They are measured per **groupId**, over every artifact of that group rather than the
+  listed ones, because a group is the closest stand-in for the organization Central actually caps; rows
+  sharing a groupId therefore carry identical figures, and the group is measured once. Read them as a best
+  case: one organization may hold several groupIds, so a group under a threshold can still belong to an
+  account over it. The columns cost one directory-listing request per release in the rolling year - a few
+  hundred thousand, roughly twelve minutes - and no artifact is downloaded, nor is any size stored in
+  `data/`. Leave the property unset, as the frozen per-year tables are, and the report is produced offline
+  exactly as before.
 - **`build.yml`** builds and tests on every push and pull request. `paths-ignore` excludes `data/**` and
   `*.md`, so the crawl bot's data commits do not trigger CI.
 - **`release.yml`** is dispatched by hand from the Actions tab, so any commit is releasable: the optional

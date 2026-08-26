@@ -12,7 +12,9 @@ permissions:
 jobs:
   summary:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    # The bleeding report reads one directory listing per release in the rolling year, for every
+    # artifact of every listed groupId - a few hundred thousand requests, around twelve minutes.
+    timeout-minutes: 45
 
     steps:
       - name: Check out repository
@@ -46,8 +48,14 @@ jobs:
       - name: Regenerate bleeding edge report
         run: |
           set -euo pipefail
+          # Only the bleeding report carries the publishing columns. They are measured per groupId
+          # over every artifact of that group, not per listed artifact, because a group is what
+          # Maven Central caps - which costs one directory-listing request per release in the
+          # rolling year. Affordable once; not once per frozen year as well, so the tables above
+          # stay offline without them.
           java -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
                -Djenesis.crawler.top.bleeding=true \
+               -Djenesis.crawler.top.releases.uri=https://repo1.maven.org/maven2/ \
                sources/build/jenesis/crawler/TopModules.java data/top/*.txt
 
       - name: Regenerate SUMMARY.md

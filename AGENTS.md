@@ -24,7 +24,9 @@ releasing. The user documentation is [jenesis.build/modules](https://jenesis.bui
   defaults equal to the real ones.
 - `data/` is written by the crawler and committed by the scheduled workflows. Never edit it by hand; change
   the program that produces it and rerun. The bot's commits land on `main` continuously, so rebase before
-  you push.
+  you push. Release file counts and sizes are the one exception to the catalogue: `TopModules` reads them
+  from the repository's directory listings while rendering `BLEEDING.md`, per groupId and for the report's
+  window alone, and stores none of them - the module catalogue has no use for them.
 - The resolved views (`artifacts.tsv`, `modules.tsv`) are derived from the audit log (`versions.tsv`) and the
   ownership files (`owners.tsv`) by `Regenerate`; a change to how ownership or filtering is decided is rolled
   out by regenerating, never by rewriting history.
