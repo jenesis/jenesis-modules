@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-26. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-27. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -60,7 +60,7 @@ kotlin.stdlib  [explicit rule: owned by `org.jetbrains.kotlin`; 224 other group(
   R   com.airbnb.viaduct                   2026-01..2026-08 2.0.0                |..................==|
   ?   com.woutwerkman.calltreevisualizer   2026-08..2026-08 0.0.2-alpha02        |...................=|
   R   com.volcengine                       2022-09..2026-08 2.9.17               |...........=========|
-  R   com.tidbcloud                        2026-05..2026-08 0.4.9                |...................=|
+  R   com.tidbcloud                        2026-05..2026-08 0.4.9                |..................==|
   R   com.eygraber                         2026-01..2026-08 0.1.7                |..................==|
     + 219 more: de.darkatra.injector, com.alibaba.ververica, org.virtuslab, com.nhncloud.android, org.jetbrains.kotlinx, com.databend, com.aliyun.odps, org.pgpainless, io.github.cuneytcakir, org.jetbrains.lets-plot, com.easemob.im, fi.evident.apina, (+207 more)
 kotlinx.coroutines.core  [explicit rule: owned by `org.jetbrains`; 21 other group(s) rejected]
@@ -1237,7 +1237,7 @@ org.apache.logging.log4j  [fork: keep `org.apache.logging.log4j`, `com.ibm.galas
     + 327 more: org.lucee, com.nqadmin.swingset.demo, com.vaimee, org.apache.hudi, io.github.zhouzhoucoder, org.beilstein, io.github.uwegeercken, org.hpccsystems, org.into-cps.maestro, com.adobe.campaign.tests.bridge.service, io.camunda, com.robotaccomplice, (+315 more)
 org.apache.commons.beanutils2  [fork: keep `org.apache.commons`, `org.onebusaway` still publishes the name]
   ? * org.apache.commons                   2024-12..2025-05 2.0.0-M2             |................==..|
-  ?   org.onebusaway                       2025-05..2026-07 14.2.1               |.................===|
+  ?   org.onebusaway                       2025-05..2026-07 14.2.1               |................====|
   ?   com.github.bordertech.wcomponents    2025-12..2026-01 1.5.39               |..................=.|
 com.ethlo.time  [fork: keep `com.ethlo.time`, `io.github.adorsys-gis` still publishes the name]
   ? * com.ethlo.time                       2023-06..2025-02 1.14.0               |.............====...|
@@ -1247,7 +1247,7 @@ org.apache.commons.pool2  [fork: keep `org.apache.commons`, `org.openjproxy` sti
   R   org.openjproxy                       2026-03..2026-07 0.5.3-beta           |..................==|
   ?   com.liquibase.ext                    2026-06..2026-07 5.2.1                |...................=|
   R   org.apache.directory.api             2023-10..2026-05 2.1.8                |.............=======|
-  R   io.github.caobahuong                 2026-05..2026-05 0.1.1                |...................=|
+  R   io.github.caobahuong                 2026-05..2026-05 0.1.1                |..................=.|
   R   org.apache.druid.extensions.contrib  2024-06..2026-04 37.0.0               |...............====.|
     + 5 more: com.redis, org.noear, io.github.hexsook, org.apache.storm, com.vlkan.log4j2
 org.bouncycastle.pkix  [fork: keep `org.bouncycastle`, `com.alibaba.ververica` still publishes the name]
