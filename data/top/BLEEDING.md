@@ -1040,7 +1040,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 993 | org.glassfish.jersey.containers:project |  | 2026-06-11 | 0,2 |  | 3.1.12 |  | 1 | 0 | 1 | 0 | 13 | 227,3 | 2,5 | 0,8 | - |
 | 994 | org.apache.felix:maven-bundle-plugin |  | 2026-02-13 | 19,1 |  | 6.0.2 |  | 42 | 0 | 1 | 0 | 8 | 32,2 | 7,5 | 2,1 | - |
 | 995 | io.swagger:swagger-parser-project |  |  |  |  |  |  | 0 | 0 | 0 | 0 | 8 | 63,7 | 28,6 | 1,1 | - |
-| 996 | org.hibernate:hibernate-core |  | 2026-07-05 | 17,9 |  | 7.4.4.Final |  | 312 | 114 | 31 | 2 | 31 | 114,9 | 2,2 | 2,7 | - |
+| 996 | org.hibernate:hibernate-core |  | 2026-07-05 | 17,9 |  | 7.4.4.Final |  | 312 | 114 | 31 | 2 | 31 | 116,1 | 2,2 | 2,7 | - |
 | 997 | org.springframework.boot:spring-boot-starter-data-redis | spring.boot.starter.data.redis ⚙️ | 2026-06-25 | 10,0 | 8,5 | 3.5.16 | 3.5.16 | 256 | 225 | 35 | 35 | 336 | 3788,6 🔺 | 132,2 🔺 | 2,9 | 🔺 files, size |
 | 998 | org.seleniumhq.selenium:selenium-edge-driver | org.seleniumhq.selenium.edge_driver 🏷️ | 2026-06-16 | 11,0 | 8,0 | 4.45.0 | 4.45.0 | 123 | 87 | 10 | 11 | 35 | 416,3 | 72,9 🔺 | 1,1 | 🔺 size |
 | 999 | com.github.mifmif:generex 🚩 |  | 2016-10-30 | 11,8 |  | 1.0.2 |  | 8 | 0 | 0 | 0 |  |  |  |  |  |
