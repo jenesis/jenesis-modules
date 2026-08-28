@@ -159,4 +159,9 @@ a summary table on its Actions page, including a per-category failure breakdown.
 
 ## License
 
-Apache License 2.0. Copyright Rafael Winterhalter.
+Apache License 2.0 - see [LICENSE](LICENSE). Copyright Rafael Winterhalter.
+
+The license covers the work in this repository: the crawler, the tests, the worker and the documentation.
+It does not extend to the artifacts the crawler reads. `data/` records facts observed on Maven Central -
+coordinates, the module names they declare and their publication timestamps - and every artifact described
+there stays under whatever license its own publisher chose.
