@@ -4,7 +4,7 @@ project:
   authors: [Rafael Winterhalter]
   license: Apache-2.0
   links:
-    homepage: https://github.com/raphw/jenesis-modules
+    homepage: https://github.com/jenesis/jenesis-modules
   languages:
     java:
       groupId: build.jenesis
@@ -19,7 +19,7 @@ signing:
 
 release:
   github:
-    owner: raphw
+    owner: jenesis
     name: jenesis-modules
     branch: main
     branchPush: main

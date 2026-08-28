@@ -4,7 +4,7 @@ The Jenesis Module Index: the crawler that reads the module name every artifact 
 the data it produces under `data/`, and the small HTTP service (`worker/`) that resolves a module name to the
 artifact behind it at repo.jenesis.build. `README.md` covers the layout, the crawl, the workflows and
 releasing. The user documentation is [jenesis.build/modules](https://jenesis.build/modules/)
-([raphw/jenesis-documentation](https://github.com/raphw/jenesis-documentation)).
+([jenesis/jenesis-documentation](https://github.com/jenesis/jenesis-documentation)).
 
 ## Build & test
 
