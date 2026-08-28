@@ -12,7 +12,7 @@ public final class Fetcher implements AutoCloseable {
     public static final String USER_AGENT_PRODUCT = "JenesisModulesCrawler";
     public static final String USER_AGENT_VERSION = "1.0";
     public static final String USER_AGENT = USER_AGENT_PRODUCT + "/" + USER_AGENT_VERSION
-            + " (+https://github.com/raphw/jenesis-modules)";
+            + " (+https://github.com/jenesis/jenesis-modules)";
     public static final long MAX_RETRY_AFTER_MILLIS = Duration.ofMinutes(5).toMillis();
 
     private final HttpClient client;

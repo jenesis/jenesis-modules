@@ -1,9 +1,9 @@
 # Jenesis Modules
 
-[![release](https://img.shields.io/github/v/release/raphw/jenesis-modules?label=release)](https://github.com/raphw/jenesis-modules/releases/latest)
-![build](https://github.com/raphw/jenesis-modules/actions/workflows/build.yml/badge.svg)
-![crawl](https://github.com/raphw/jenesis-modules/actions/workflows/crawl.yml/badge.svg)
-![last crawl](https://img.shields.io/github/last-commit/raphw/jenesis-modules?path=data%2FSTATUS.md&display_timestamp=committer&label=last%20crawl)
+[![release](https://img.shields.io/github/v/release/jenesis/jenesis-modules?label=release)](https://github.com/jenesis/jenesis-modules/releases/latest)
+![build](https://github.com/jenesis/jenesis-modules/actions/workflows/build.yml/badge.svg)
+![crawl](https://github.com/jenesis/jenesis-modules/actions/workflows/crawl.yml/badge.svg)
+![last crawl](https://img.shields.io/github/last-commit/jenesis/jenesis-modules?path=data%2FSTATUS.md&display_timestamp=committer&label=last%20crawl)
 
 > ### [Jenesis](https://jenesis.build) - a modern Java build tool
 > _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
@@ -47,7 +47,7 @@ and headers.
 ## Building and testing
 
 The crawler runs from source and needs no build. Tests are run with
-[Jenesis](https://github.com/raphw/jenesis), pinned as a shallow git submodule:
+[Jenesis](https://github.com/jenesis/jenesis), pinned as a shallow git submodule:
 
 ```bash
 git submodule update --init --depth 1         # the pinned build tool, once after cloning

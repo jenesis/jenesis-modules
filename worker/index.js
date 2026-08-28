@@ -59,9 +59,9 @@
  */
 
 const DEFAULT_DATA_BASE =
-    "https://raw.githubusercontent.com/raphw/jenesis-modules/main/data/modules/";
+    "https://raw.githubusercontent.com/jenesis/jenesis-modules/main/data/modules/";
 const DEFAULT_ARTIFACT_BASE = "https://repo.maven.apache.org/maven2/";
-const DEFAULT_HOME_REDIRECT = "https://github.com/raphw/jenesis-modules";
+const DEFAULT_HOME_REDIRECT = "https://github.com/jenesis/jenesis-modules";
 const DEFAULT_REDIRECT_TTL = 3600;
 const STALE_WHILE_REVALIDATE = 86400;
 

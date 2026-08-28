@@ -75,7 +75,7 @@ async function call(path, { files = {}, env = ENV, method = "GET" } = {}) {
 test("root path redirects to the default home", async () => {
     const response = await call("/", { env: {} });
     assert.equal(response.status, 302);
-    assert.equal(response.headers.get("Location"), "https://github.com/raphw/jenesis-modules");
+    assert.equal(response.headers.get("Location"), "https://github.com/jenesis/jenesis-modules");
 });
 
 test("root path honours HOME_REDIRECT override", async () => {
