@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-27. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-28. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -106,7 +106,7 @@ org.objectweb.asm.tree  [explicit rule: owned by `org.ow2.asm`; 19 other group(s
   R   org.jetbrains.compose.hot-reload     2025-10..2026-07 1.3.0-alpha01        |.................===|
   ?   org.opennms.newts                    2026-07..2026-07 3.0.1                |...................=|
   R   org.teavm                            2023-03..2026-06 0.15.0               |............========|
-  R   ch.exense.step                       2025-11..2026-06 3.29.5               |..................==|
+  R   ch.exense.step                       2025-11..2026-06 3.29.5               |.................===|
     + 14 more: io.joynr.tools.generator, io.killedkenny.crossfuzz, com.lihaoyi, io.joern, io.github.llmagentbuilder, com.jordansamhi, com.liferay, com.uber.nullaway, com.houxinlin, io.github.houxinlin, com.autonomousapps, org.netbeans.external, (+2 more)
 org.objectweb.asm  [explicit rule: owned by `org.ow2.asm`; 166 other group(s) rejected]
   A * org.ow2.asm                          2017-07..2026-05 9.10.1               |.==================.|
@@ -373,16 +373,16 @@ io.ekbatan.graalvm  [renamed `io.github.zyraz-io` -> `io.github.ekbatan-io` (lat
   ? * io.github.zyraz-io                   2026-05..2026-08 1.0.0                |..................==|
   ?   io.github.ekbatan-io                 2026-08..2026-08 1.0.1                |...................=|
 dev.mohterbaord.fp4j.apf  [renamed `dev.mohterbaord` -> `dev.mohterbaord.fp4j` (latest 0.6.0)]
-  ? * dev.mohterbaord                      2026-05..2026-05 0.5.0                |...................=|
+  ? * dev.mohterbaord                      2026-05..2026-05 0.5.0                |..................=.|
   ?   dev.mohterbaord.fp4j                 2026-08..2026-08 0.6.0                |...................=|
 dev.mohterbaord.fp4j.core  [renamed `dev.mohterbaord` -> `dev.mohterbaord.fp4j` (latest 0.6.0)]
-  ? * dev.mohterbaord                      2026-05..2026-05 0.5.0                |...................=|
+  ? * dev.mohterbaord                      2026-05..2026-05 0.5.0                |..................=.|
   ?   dev.mohterbaord.fp4j                 2026-08..2026-08 0.6.0                |...................=|
 dev.mohterbaord.fp4j.scope  [renamed `dev.mohterbaord` -> `dev.mohterbaord.fp4j` (latest 0.6.0)]
-  ? * dev.mohterbaord                      2026-05..2026-05 0.5.0                |...................=|
+  ? * dev.mohterbaord                      2026-05..2026-05 0.5.0                |..................=.|
   ?   dev.mohterbaord.fp4j                 2026-08..2026-08 0.6.0                |...................=|
 dev.mohterbaord.fp4j.util  [renamed `dev.mohterbaord` -> `dev.mohterbaord.fp4j` (latest 0.6.0)]
-  ? * dev.mohterbaord                      2026-05..2026-05 0.5.0                |...................=|
+  ? * dev.mohterbaord                      2026-05..2026-05 0.5.0                |..................=.|
   ?   dev.mohterbaord.fp4j                 2026-08..2026-08 0.6.0                |...................=|
 mutable.alignment  [renamed `io.github.beast2-dev` -> `io.github.compevol` (latest 0.1.1)]
   ? * io.github.beast2-dev                 2026-08..2026-08 0.1.0                |...................=|
@@ -1246,7 +1246,7 @@ org.apache.commons.pool2  [fork: keep `org.apache.commons`, `org.openjproxy` sti
   A * org.apache.commons                   2020-07..2025-12 2.13.1               |.......============.|
   R   org.openjproxy                       2026-03..2026-07 0.5.3-beta           |..................==|
   ?   com.liquibase.ext                    2026-06..2026-07 5.2.1                |...................=|
-  R   org.apache.directory.api             2023-10..2026-05 2.1.8                |.............=======|
+  R   org.apache.directory.api             2023-10..2026-05 2.1.8                |.............======.|
   R   io.github.caobahuong                 2026-05..2026-05 0.1.1                |..................=.|
   R   org.apache.druid.extensions.contrib  2024-06..2026-04 37.0.0               |...............====.|
     + 5 more: com.redis, org.noear, io.github.hexsook, org.apache.storm, com.vlkan.log4j2
@@ -1288,7 +1288,7 @@ com.github.librepdf.openpdf  [fork: keep `com.github.librepdf`, `com.guicedee.mo
 org.apache.commons.collections4  [fork: keep `org.apache.commons`, `com.guicedee.modules.services` still publishes the name]
   A * org.apache.commons                   2018-07..2025-04 4.5.0                |...==============...|
   R   com.guicedee.modules.services        2026-04..2026-07 2.2.0                |..................==|
-  ?   org.apache.directory.api             2026-05..2026-05 2.1.8                |...................=|
+  ?   org.apache.directory.api             2026-05..2026-05 2.1.8                |..................=.|
   R   io.github.qudtlib                    2024-12..2025-10 7.1.1                |................==..|
   R   de.jball                             2025-07..2025-07 0.9.0                |.................=..|
   R   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
@@ -2352,7 +2352,7 @@ com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most rec
     + 17 more: com.liferay.portal, de.fraunhofer.iosb.ilt.FROST-Server, com.ibm.jsonata4java, se.signatureservice.support, com.liferay, net.pincette, org.opengis.cite, org.immregistries, com.testdroid, org.sonarsource.slang, com.checkmarx, com.github.spoonlabs, (+5 more)
 org.apache.commons.validator  [no clear owner; `commons-validator` is earliest and most recent]
   ? * commons-validator                    2023-12..2026-07 1.11.0               |..............======|
-  ?   org.apiaddicts.apitools.dosonarapi   2026-05..2026-07 2.0.2-beta-3         |...................=|
+  ?   org.apiaddicts.apitools.dosonarapi   2026-05..2026-07 2.0.2-beta-3         |..................==|
   ?   de.knightsoft-net                    2025-07..2025-11 1.10.1-0             |.................=..|
   ?   org.chronos-eaas                     2024-07..2025-01 2.5.1                |...............==...|
 com.kingbase8.jdbc  [no clear owner; `org.jeecgframework` is earliest and most recent]
