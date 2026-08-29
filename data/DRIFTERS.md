@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-28. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-29. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -68,7 +68,7 @@ kotlinx.coroutines.core  [explicit rule: owned by `org.jetbrains`; 21 other grou
   R   com.airbnb.viaduct                   2026-05..2026-08 2.0.0                |..................==|
   R   com.eygraber                         2026-01..2026-08 0.1.7                |..................==|
   ?   org.openprojectx.java.dns            2026-06..2026-07 0.1.4                |...................=|
-  R   ca.acendas                           2025-11..2026-05 1.9.1                |..................=.|
+  R   ca.acendas                           2025-11..2026-05 1.9.1                |.................==.|
   R   com.krillforge                       2026-04..2026-04 0.0.2                |..................=.|
     + 18 more: org.openprojectx.hadoop.win, org.jetbrains.dokka, org.jetbrains.intellij.deps.kotlinx, io.github.danbeldev, io.johnsonlee.kx, io.github.zimoyin, io.johnsonlee.exec, io.github.saumya-bhatt, io.realm.kotlin, com.rickbusarow.doks, io.sirix, com.squareup.wire, (+6 more)
 com.google.common  [explicit rule: owned by `com.google.guava`; 74 other group(s) rejected]
@@ -93,7 +93,7 @@ kotlin.reflect  [explicit rule: owned by `org.jetbrains.kotlin`; 67 other group(
   ?   io.github.rodrigotimoteo             2026-06..2026-06 0.1.0                |...................=|
     + 62 more: com.airbnb.viaduct, io.github.abdullahkhan118, io.github.tobi-laa, io.github.kshulzh.kefir, io.github.xilinjia.krdb, io.github.snow1026, com.browserstack, com.simprints.realm.kotlin, org.pkl-lang, com.statsig, com.infomaniak.realm.kotlin, com.solapi, (+50 more)
 com.sun.xml.txw2  [explicit rule: owned by `org.glassfish.jaxb`; 9 other group(s) rejected]
-  A * org.glassfish.jaxb                   2018-07..2026-05 4.0.9                |...=================|
+  A * org.glassfish.jaxb                   2018-07..2026-05 4.0.9                |...================.|
   ?   ch.exense.step                       2026-08..2026-08 3.30.2               |...................=|
   R   org.uma.jmetal                       2025-12..2026-07 7.5                  |..................==|
   R   io.github.jeff-tian                  2026-02..2026-02 2.4.1                |..................=.|
@@ -159,7 +159,7 @@ kotlinx.serialization.protobuf  [explicit rule: owned by `org.jetbrains`; 1 othe
 com.sun.tools.xjc  [explicit rule: owned by `org.glassfish.jaxb`; 4 other group(s) rejected]
   A * org.glassfish.jaxb                   2018-07..2019-01 2.3.2                |...==...............|
   ?   gov.nasa.pds                         2026-06..2026-06 3.2.1                |...................=|
-  R   com.sun.xml.bind                     2018-07..2026-05 4.0.9                |...=================|
+  R   com.sun.xml.bind                     2018-07..2026-05 4.0.9                |...================.|
   R   cn.lzgabel.jaxb.xml.bind             2022-03..2022-03 4.0.0                |..........=.........|
   R   com.github.shynixn                   2019-02..2019-02 1.0                  |....=...............|
 spring.context.indexer  [explicit rule: owned by `org.springframework`; 2 other group(s) rejected]
@@ -338,7 +338,7 @@ com.sun.xml.bind  [republished by `org.glassfish.jaxb` (still active); belongs t
   R   int.esa.ccsds.mo                     2025-08..2026-07 14.1                 |.................===|
   R   com.helger.schematron                2021-09..2026-07 10.0.0               |.........===========|
   ?   com.checkmarx                        2026-06..2026-06 2026.2.32            |...................=|
-  A   com.sun.xml.bind                     2018-07..2026-05 4.0.9                |...=================|
+  A   com.sun.xml.bind                     2018-07..2026-05 4.0.9                |...================.|
   R   com.exasol                           2024-10..2025-10 5.4.3                |...............===..|
     + 32 more: gov.nasa.pds, com.intuit.quickbooks-online, com.google.tsunami, io.github.azagniotov, com.liferay, org.opengis.cite, org.duracloud, edu.iris.dmc, br.com.swconsultoria, one.gfw, org.xtce, com.github.cafapi, (+20 more)
 ```
@@ -610,7 +610,7 @@ org.jspecify  [fork: keep `org.jspecify`, `fr.inria.gforge.spoon` still publishe
 com.networknt.schema  [fork: keep `com.networknt`, `io.krabka` still publishes the name]
   A * com.networknt                        2023-04..2026-07 3.0.6                |............========|
   ?   io.krabka                            2026-08..2026-08 1.1.0                |...................=|
-  R   dev.dokimos                          2026-05..2026-05 0.15.0               |...................=|
+  R   dev.dokimos                          2026-05..2026-05 0.15.0               |..................=.|
   R   io.github.jdbcx                      2026-01..2026-05 1.1.1                |..................=.|
   R   com.intuit.isl                       2026-02..2026-04 1.2.0                |..................=.|
   R   org.wiremock                         2023-07..2026-01 1.0.0-beta.5         |.............======.|
@@ -2483,223 +2483,223 @@ org.freedesktop.dbus  [no clear owner; `com.github.hypfvieh` is earliest and mos
   ? * com.github.hypfvieh                  2021-03..2025-12 5.2.0                |........===========.|
   ?   org.endlesssource.mediainterface     2026-02..2026-07 3.0.0                |..................==|
 jpms_dss_cookbook  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_crl_parser  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_specs_saml_assertion  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........===========.|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_specs_xmlers  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-07 6.5.RC1              |.............=======|
-  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............====..|
 jpms_dss_utils_apache_commons  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_timestamp_remote_rest_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........===========.|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_common_converter  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_document  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_enumerations  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_pades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_pades_openpdf  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_pdfa  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2023-02..2026-07 6.5.RC1              |............========|
-  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............====..|
 jpms_dss_simple_certificate_report  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_specs_jws  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1            |.........==========.|
+  ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1            |.........=========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_specs_trusted_list  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_spi  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_utils_google_guava  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_certificate_validation_rest  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_signature_soap  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_validation_soap  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 dss_pki_factory_jaxb  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-07 6.5.RC1              |.............=======|
-  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............====..|
 jpms_dss_alert  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........===========.|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_asic_cades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_common_remote_dto  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_crl_parser_stream  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_diagnostic_data  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_evidence_record_common  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-07 6.5.RC1              |.............=======|
-  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............====..|
 jpms_dss_evidence_record_xml  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-07 6.5.RC1              |.............=======|
-  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............====..|
 jpms_dss_jades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1            |.........==========.|
+  ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1            |.........=========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_jaxb_common  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2022-05..2025-11 6.2.d4j.1            |..........=========.|
+  ? * org.digidoc4j.dss                    2022-05..2025-11 6.2.d4j.1            |..........========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_pades_pdfbox  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_pki_factory  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-07 6.5.RC1              |.............=======|
-  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............====..|
 jpms_dss_specs_asic_manifest  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1            |.........==========.|
+  ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1            |.........=========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_specs_jades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1            |.........==========.|
+  ? * org.digidoc4j.dss                    2021-10..2025-11 6.2.d4j.1            |.........=========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_specs_xades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_specs_xmldsig  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_server_signing_common  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_server_signing_dto  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_server_signing_soap  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_server_signing_soap_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_signature_remote  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_signature_rest  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_signature_soap_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_timestamp_dto  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........===========.|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_timestamp_remote_rest  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........===========.|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_xades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_model  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_specs_validation_report  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_test  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_tsl_validation  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_utils  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_validation  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2024-07..2026-07 6.5.RC1              |...............=====|
-  ?   org.digidoc4j.dss                    2025-11..2025-11 6.2.d4j.1            |..................=.|
+  ?   org.digidoc4j.dss                    2025-11..2025-11 6.2.d4j.1            |.................=..|
 jpms_dss_ws_certificate_validation_rest_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_certificate_validation_soap_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_timestamp_remote  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........===========.|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_timestamp_remote_soap_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........===========.|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_validation_common  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_validation_soap_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_xml_common  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-07 6.5.RC1              |.............=======|
-  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............====..|
 jpms_dss_asic_common  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_asic_xades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_cades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_crl_parser_x509crl  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_evidence_record_asn1  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2024-07..2026-07 6.5.RC1              |...............=====|
-  ?   org.digidoc4j.dss                    2025-11..2025-11 6.2.d4j.1            |..................=.|
+  ?   org.digidoc4j.dss                    2025-11..2025-11 6.2.d4j.1            |.................=..|
 jpms_dss_i18n  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........===========.|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_jacoco_coverage  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2023-02..2026-07 6.5.RC1              |............========|
-  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............=====.|
+  ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............====..|
 jpms_dss_policy  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_service  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_simple_report  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_token  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_certificate_validation_common  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_certificate_validation_dto  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 jpms_dss_ws_certificate_validation_soap  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......=============.|
+  ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-07 6.5.RC1              |...........=========|
 ```
 
