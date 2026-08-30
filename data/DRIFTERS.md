@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-29. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-30. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -1236,7 +1236,7 @@ org.apache.logging.log4j  [fork: keep `org.apache.logging.log4j`, `com.ibm.galas
   ?   io.kroxylicious                      2026-07..2026-07 0.22.0               |...................=|
     + 327 more: org.lucee, com.nqadmin.swingset.demo, com.vaimee, org.apache.hudi, io.github.zhouzhoucoder, org.beilstein, io.github.uwegeercken, org.hpccsystems, org.into-cps.maestro, com.adobe.campaign.tests.bridge.service, io.camunda, com.robotaccomplice, (+315 more)
 org.apache.commons.beanutils2  [fork: keep `org.apache.commons`, `org.onebusaway` still publishes the name]
-  ? * org.apache.commons                   2024-12..2025-05 2.0.0-M2             |................==..|
+  ? * org.apache.commons                   2024-12..2025-05 2.0.0-M2             |................=...|
   ?   org.onebusaway                       2025-05..2026-07 14.2.1               |................====|
   ?   com.github.bordertech.wcomponents    2025-12..2026-01 1.5.39               |..................=.|
 com.ethlo.time  [fork: keep `com.ethlo.time`, `io.github.adorsys-gis` still publishes the name]
@@ -1496,7 +1496,7 @@ org.bouncycastle.provider  [owned by `org.bouncycastle`; 88 other group(s) shade
 io.netty.handler  [owned by `io.netty`; 10 other group(s) shade the name]
   A * io.netty                             2017-12..2026-08 4.1.137.Final        |..==================|
   ?   io.camunda.connector                 2026-06..2026-08 8.7.23               |...................=|
-  R   org.apache.storm                     2025-05..2026-07 2.8.9                |.................===|
+  R   org.apache.storm                     2025-05..2026-07 2.8.9                |................====|
   R   org.apache.tika                      2025-04..2026-07 3.3.2                |................====|
   ?   org.openidentityplatform.opendj      2026-06..2026-07 5.1.2                |...................=|
   R   eu.michael-simons.neo4j              2025-07..2026-06 4.1.2                |.................===|
@@ -1504,7 +1504,7 @@ io.netty.handler  [owned by `io.netty`; 10 other group(s) shade the name]
 io.netty.transport.epoll.linux.x86_64  [owned by `io.netty`; 4 other group(s) shade the name]
   A * io.netty                             2022-05..2026-08 4.1.137.Final        |..........==========|
   ?   io.camunda.connector                 2026-06..2026-08 8.7.23               |...................=|
-  R   org.apache.storm                     2025-05..2026-07 2.8.9                |.................===|
+  R   org.apache.storm                     2025-05..2026-07 2.8.9                |................====|
   R   com.atscale.opensource               2026-01..2026-01 1.14                 |..................=.|
   R   org.readutf.orchestrator             2025-02..2025-02 2.0.0                |................=...|
 com.graphqljava  [owned by `com.graphql-java`; 3 other group(s) shade the name]
@@ -1664,8 +1664,8 @@ com.fasterxml.jackson.module.paramnames  [owned by `com.fasterxml.jackson.module
   ?   org.realityforge.arez                2026-06..2026-06 0.249                |...................=|
     + 6 more: com.infobip, io.kestra, com.araksis, com.araksis.sjd, io.github.codgen, io.micronaut.example
 org.mavai.punit.examples  [owned by `org.mavai`; 1 other group(s) shade the name]
-  ? * org.mavai                            2026-05..2026-07 0.7.1                |...................=|
-  ?   org.javai                            2026-05..2026-05 0.6.99               |...................=|
+  ? * org.mavai                            2026-05..2026-07 0.7.1                |..................==|
+  ?   org.javai                            2026-05..2026-05 0.6.99               |..................=.|
 io.github.humbleui.skija.linux.x64  [owned by `io.github.humbleui`; 1 other group(s) shade the name]
   ? * io.github.humbleui                   2022-12..2026-06 0.119.6              |............========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
@@ -2281,7 +2281,7 @@ org.apache.commons.logging  [no clear owner; `org.slf4j` is earliest and most re
   ? * org.slf4j                            2017-04..2026-05 2.0.18               |===================.|
   ?   com.helger.kaltblut                  2026-08..2026-08 0.9.5                |...................=|
   ?   org.beangle.sas                      2024-11..2026-08 0.13.11              |...............=====|
-  ?   org.open-metadata                    2025-11..2026-08 1.13.3               |..................==|
+  ?   org.open-metadata                    2025-11..2026-08 1.13.3               |.................===|
   ?   io.github.peterdowdy                 2026-07..2026-07 0.0.0-main-26f8f63   |...................=|
   ?   org.apache.tika                      2022-09..2026-07 3.3.2                |...........=========|
     + 36 more: net.ontopia, org.apache.orc, org.motorbrot, org.nuiton, de.redsix, org.lucee, io.github.jinahya, org.operaton.bpm.extension, commons-logging, org.jboss.pnc.build-agent, com.facebook.presto.hive, com.nordstrom.ui-tools, (+24 more)
@@ -2439,7 +2439,7 @@ com.google.api.client  [no clear owner; `com.google.http-client` is earliest and
   ?   com.google.cloud.bigtable            2020-07..2020-11 1.17.0               |.......==...........|
 jakarta.messaging  [no clear owner; `jakarta.jms` is earliest and most recent]
   ? * jakarta.jms                          2022-03..2022-03 3.1.0                |..........=.........|
-  ?   org.apache.storm                     2025-05..2026-07 3.0.0                |.................===|
+  ?   org.apache.storm                     2025-05..2026-07 3.0.0                |................====|
   ?   be.vlaanderen.informatievlaanderen.ldes.ldio 2024-12..2024-12 2.12.0               |................=...|
 org.apache.commons.net  [no clear owner; `commons-net` is earliest and most recent]
   ? * commons-net                          2020-08..2026-03 3.13.0               |.......============.|
