@@ -207,6 +207,48 @@ public class ScannedStoreTest {
                 .containsExactly("1.0\t\t2023-11-14T22:13:20Z\t");
     }
 
+    @Test
+    public void a_line_that_is_not_a_scanned_entry_costs_a_rescan_and_not_the_run() throws IOException {
+        // This store is a cache of what has already been looked at, so an unreadable line means "scan that
+        // coordinate again", never "abandon the sweep". A scheduled reconcile ran for hours over rebuildable
+        // state and was killed every time by one file holding a bare version, hand-written into data/ against
+        // the rule that only the crawler writes there.
+        Files.createDirectories(root.resolve("g"));
+        Files.writeString(root.resolve("g").resolve("a.tsv"), "0.5.0\n");
+
+        ScannedStore reader = new ScannedStore(root);
+
+        assertThat(reader.contains(coordinate("g", "a", "0.5.0", null)))
+                .as("the malformed entry is dropped, so the coordinate looks unscanned")
+                .isFalse();
+    }
+
+    @Test
+    public void a_malformed_line_does_not_discard_the_good_ones_beside_it() throws IOException {
+        Files.createDirectories(root.resolve("g"));
+        Files.writeString(root.resolve("g").resolve("a.tsv"), "1.0\t\t\t\n0.5.0\n2.0\t\t\t\n");
+
+        ScannedStore reader = new ScannedStore(root);
+
+        assertThat(reader.contains(coordinate("g", "a", "1.0", null))).isTrue();
+        assertThat(reader.contains(coordinate("g", "a", "2.0", null))).isTrue();
+        assertThat(reader.contains(coordinate("g", "a", "0.5.0", null))).isFalse();
+    }
+
+    @Test
+    public void a_rescan_rewrites_the_file_in_the_four_column_shape() throws IOException {
+        // The self-healing half: once the coordinate is scanned again, writeArtifact replaces the whole file, so
+        // the bad line is gone rather than skipped forever.
+        Files.createDirectories(root.resolve("g"));
+        Files.writeString(root.resolve("g").resolve("a.tsv"), "0.5.0\n");
+
+        ScannedStore store = new ScannedStore(root);
+        store.markOk(coordinate("g", "a", "0.5.0", null));
+        store.flush();
+
+        assertThat(Files.readAllLines(root.resolve("g").resolve("a.tsv"))).containsExactly("0.5.0\t\t\t");
+    }
+
     private static Coordinate coordinate(String groupId, String artifactId, String version, String classifier) {
         return new Coordinate(groupId, artifactId, version, classifier, "jar", 0L, 0L);
     }
