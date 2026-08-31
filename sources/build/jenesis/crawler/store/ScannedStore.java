@@ -1,6 +1,7 @@
 package build.jenesis.crawler.store;
 
 import module java.base;
+import java.time.format.DateTimeParseException;
 import build.jenesis.crawler.model.Coordinate;
 import build.jenesis.crawler.model.ScannedEntry;
 
@@ -226,10 +227,34 @@ public final class ScannedStore {
         if (!Files.exists(file)) {
             return set;
         }
+        int malformed = 0;
         try (Stream<String> lines = Files.lines(file, StandardCharsets.UTF_8)) {
-            lines.filter(line -> !line.isEmpty()).map(ScannedEntry::parse).forEach(set::add);
+            for (String line : (Iterable<String>) lines::iterator) {
+                if (line.isEmpty()) {
+                    continue;
+                }
+                try {
+                    set.add(ScannedEntry.parse(line));
+                } catch (IllegalArgumentException | DateTimeParseException malformedLine) {
+                    // A line this file cannot parse costs one re-scan, not the run. This store is a cache of what
+                    // has already been looked at, so dropping an entry makes the crawler visit that coordinate
+                    // again and rewrite the file correctly through writeArtifact - which always emits the four
+                    // columns. Aborting instead ends a multi-hour scheduled sweep over rebuildable state, and it
+                    // did: a file hand-written with only a version killed every reconcile run until someone read
+                    // a stack trace that named the offending TEXT but not the file it came from. Hence both the
+                    // recovery and the file name below.
+                    malformed++;
+                    if (malformed == 1) {
+                        System.err.println("[scanned] " + file + " has a line that is not a scanned entry, so the "
+                                + "coordinates it names will be scanned again: " + malformedLine.getMessage());
+                    }
+                }
+            }
         } catch (IOException e) {
             throw new UncheckedIOException("Failed to read " + file, e);
+        }
+        if (malformed > 1) {
+            System.err.println("[scanned] " + file + ": " + malformed + " unparseable lines in total");
         }
         return set;
     }
