@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-30. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-08-31. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -593,7 +593,7 @@ info.picocli  [fork: keep `info.picocli`, `io.github.daniloagostinho` still publ
     + 163 more: ru.curs, io.spicelabs, org.jgroups, io.github.kg-construct, org.apache.tika, ai.tegmentum.webassembly4j, io.github.shafthq, org.rundeck.rd, io.github.arthurcollet, org.primefaces, run.endive, org.substrate4j, (+151 more)
 tools.jackson.core  [fork: keep `tools.jackson.core`, `com.erudika` still publishes the name]
   A * tools.jackson.core                   2025-03..2026-07 3.2.1                |................====|
-  R   com.erudika                          2025-11..2026-08 1.43.0               |..................==|
+  R   com.erudika                          2025-11..2026-08 1.43.0               |.................===|
   ?   org.pragmatica-lite                  2026-08..2026-08 0.7.0                |...................=|
   R   ru.tinkoff.piapi                     2026-01..2026-08 1.49.4               |..................==|
   ?   com.phonepe.sentinel-ai              2026-06..2026-07 1.2.0-alpha3         |...................=|
@@ -775,7 +775,7 @@ com.nimbusds.jose.jwt  [fork: keep `com.nimbusds`, `com.vaadin` still publishes 
   A * com.nimbusds                         2020-08..2026-07 5.0.2                |.......=============|
   R   com.vaadin                           2025-07..2026-08 2.13.7               |.................===|
   ?   org.ligoj.plugin                     2026-07..2026-07 2.0.0                |...................=|
-  R   fish.payara.security.connectors      2024-05..2026-04 2.9.0                |...............====.|
+  R   fish.payara.security.connectors      2024-05..2026-04 2.9.0                |..............=====.|
   R   org.bonitasoft.connectors            2026-04..2026-04 1.0.0-beta.1         |..................=.|
   R   org.apache.hadoop                    2026-03..2026-03 3.5.0                |..................=.|
     + 6 more: com.waveinformatica.skysso, io.github.swiyu-admin-ch, io.okdp, org.project-kessel, com.liferay, com.thetransactioncompany
