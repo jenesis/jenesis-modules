@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-08-31. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-01. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -16,7 +16,7 @@ Generated 2026-08-31. A module *drifts* when more than one groupId publishes the
 
 The table covers all **3855** multi-owner modules (of **38125** modules scanned).
 
-Timeline axis spans 2017-01 .. 2026-08 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
+Timeline axis spans 2017-01 .. 2026-09 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
 ## explicit-rules (41)
 
@@ -1333,17 +1333,17 @@ org.apache.logging.log4j.slf4j2.impl  [fork: keep `org.apache.logging.log4j`, `o
   R   io.github.alien-tools                2025-07..2025-07 0.2.0                |.................=..|
     + 2 more: xyz.gianlu.librespot, io.github.giis-uniovi
 com.github.javaparser.symbolsolver.core  [fork: keep `com.github.javaparser`, `org.key-project.proofjava` still publishes the name]
-  A * com.github.javaparser                2018-01..2026-05 3.28.2               |..==================|
+  A * com.github.javaparser                2018-01..2026-05 3.28.2               |..=================.|
   ?   org.key-project.proofjava            2026-06..2026-07 3.28.0-K13.6         |...................=|
   R   org.mvel.javaparser                  2026-02..2026-02 3.25.5-mvel3-1       |..................=.|
   R   io.joern                             2022-06..2022-06 3.24.3-SL3           |...........=........|
 com.github.javaparser.core.serialization  [fork: keep `com.github.javaparser`, `org.key-project.proofjava` still publishes the name]
-  A * com.github.javaparser                2018-11..2026-05 3.28.2               |....================|
+  A * com.github.javaparser                2018-11..2026-05 3.28.2               |....===============.|
   ?   org.key-project.proofjava            2026-06..2026-07 3.28.0-K13.6         |...................=|
   R   org.mvel.javaparser                  2026-02..2026-02 3.25.5-mvel3-1       |..................=.|
   R   io.joern                             2022-06..2022-06 3.24.3-SL3           |...........=........|
 com.github.javaparser.core  [fork: keep `com.github.javaparser`, `org.key-project.proofjava` still publishes the name]
-  A * com.github.javaparser                2017-12..2026-05 3.28.2               |..==================|
+  A * com.github.javaparser                2017-12..2026-05 3.28.2               |..=================.|
   ?   org.key-project.proofjava            2026-06..2026-07 3.28.0-K13.6         |...................=|
   R   org.checkerframework                 2023-09..2026-05 3.28.1               |.............======.|
   R   org.mvel.javaparser                  2026-02..2026-02 3.25.5-mvel3-1       |..................=.|
@@ -1357,7 +1357,7 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `dk.dma.a
   A * org.apache.logging.log4j             2017-11..2026-07 2.25.5               |..==================|
   ?   dk.dma.ais.lib                       2026-07..2026-07 2.8.7                |...................=|
   R   org.lucee                            2022-03..2026-06 2.26.0.0             |..........==========|
-  ?   nl.tno.org.portico                   2026-05..2026-05 2.1.3                |...................=|
+  ?   nl.tno.org.portico                   2026-05..2026-05 2.1.3                |..................=.|
   R   app.freerouting                      2026-05..2026-05 2.2.4                |..................=.|
   R   org.beilstein                        2026-05..2026-05 1.1.2                |..................=.|
     + 20 more: me.bechberger, io.openems, com.kount, com.github.aquality-automation, com.ghgande, com.github.bilderherunterlader, com.gemecosystem.gemjar, io.github.alien-tools, com.webforj, io.github.egonw, com.liferay, de.fraunhofer.iem, (+8 more)
@@ -2326,7 +2326,7 @@ bus.spring  [no clear owner; `io.github.rassafel` is earliest and most recent]
   ?   org.miaixz                           2026-08..2026-08 8.8.12               |...................=|
 jdk.internal.vm.compiler  [no clear owner; `org.graalvm.compiler` is earliest and most recent]
   ? * org.graalvm.compiler                 2018-10..2026-07 21.3.19              |...=================|
-  ?   io.vertx                             2022-11..2026-08 4.5.32               |............========|
+  ?   io.vertx                             2022-11..2026-08 4.5.32               |...........=========|
   ?   org.linuxforhealth.fhir              2022-08..2022-12 5.1.1                |...........==.......|
 org.eclipse.osgi  [no clear owner; `org.eclipse.tycho` is earliest and most recent]
   ? * org.eclipse.tycho                    2018-05..2018-05 3.13.0.v20180226-1711 |...=................|
