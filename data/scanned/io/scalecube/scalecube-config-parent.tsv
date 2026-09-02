@@ -41,3 +41,5 @@
 0.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-config-parent/0.5.5/scalecube-config-parent-0.5.5.jar returned status 404
 0.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-config-parent/0.5.6/scalecube-config-parent-0.5.6.jar returned status 404
 0.5.7		2026-05-18T15:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-config-parent/0.5.7/scalecube-config-parent-0.5.7.jar returned status 404
+0.5.8		2026-08-19T07:18:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-config-parent/0.5.8/scalecube-config-parent-0.5.8.jar returned status 404
+0.5.8-rc1		2026-08-18T14:01:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-config-parent/0.5.8-rc1/scalecube-config-parent-0.5.8-rc1.jar returned status 404
