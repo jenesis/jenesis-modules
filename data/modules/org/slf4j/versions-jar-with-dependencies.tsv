@@ -520,4 +520,6 @@
 1.3.0	named	com.databricks	zerobus-ingest-sdk	2026-07-20T11:59:28Z	2.0.17
 7.1.1	named	org.openidentityplatform.openidm	openidm-workflow-activiti	2026-07-22T11:55:34Z	2.0.17
 7.1.2	named	org.openidentityplatform.openidm	openidm-workflow-activiti	2026-07-22T13:45:31Z	2.0.17
+1.4.0	named	com.databricks	zerobus-ingest-sdk	2026-08-14T10:28:32Z	2.0.17
 2.20.0	named	com.google.cloud.bigtable	bigtable-hbase-1.x-tools	2026-08-17T19:10:39Z	2.0.16
+1.5.0	named	com.databricks	zerobus-ingest-sdk	2026-08-26T17:31:22Z	2.0.17

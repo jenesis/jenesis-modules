@@ -1,3 +1,4 @@
 1.1.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cognitive3d/meta-spatial-sdk/1.1.0-alpha01/meta-spatial-sdk-1.1.0-alpha01.jar returned status 404
 1.1.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cognitive3d/meta-spatial-sdk/1.1.0-alpha02/meta-spatial-sdk-1.1.0-alpha02.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cognitive3d/meta-spatial-sdk/1.2.0/meta-spatial-sdk-1.2.0.jar returned status 404
+1.2.1		2026-08-25T15:54:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cognitive3d/meta-spatial-sdk/1.2.1/meta-spatial-sdk-1.2.1.jar returned status 404

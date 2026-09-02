@@ -28,6 +28,13 @@
 2.118.0		2026-08-10T16:36:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.118.0/codbex-atlas-parent-2.118.0.jar returned status 404
 2.119.0		2026-08-12T09:27:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.119.0/codbex-atlas-parent-2.119.0.jar returned status 404
 2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.12.0/codbex-atlas-parent-2.12.0.jar returned status 404
+2.120.0		2026-08-16T12:17:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.120.0/codbex-atlas-parent-2.120.0.jar returned status 404
+2.121.0		2026-08-19T07:39:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.121.0/codbex-atlas-parent-2.121.0.jar returned status 404
+2.122.0		2026-08-20T17:59:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.122.0/codbex-atlas-parent-2.122.0.jar returned status 404
+2.123.0		2026-08-22T17:55:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.123.0/codbex-atlas-parent-2.123.0.jar returned status 404
+2.124.0		2026-08-27T10:04:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.124.0/codbex-atlas-parent-2.124.0.jar returned status 404
+2.125.0		2026-08-28T13:05:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.125.0/codbex-atlas-parent-2.125.0.jar returned status 404
+2.126.0		2026-08-29T13:50:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.126.0/codbex-atlas-parent-2.126.0.jar returned status 404
 2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.13.0/codbex-atlas-parent-2.13.0.jar returned status 404
 2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.14.0/codbex-atlas-parent-2.14.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codbex/atlas/codbex-atlas-parent/2.2.0/codbex-atlas-parent-2.2.0.jar returned status 404
