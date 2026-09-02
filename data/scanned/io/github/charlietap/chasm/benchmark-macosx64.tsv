@@ -1,0 +1,6 @@
+1.6.0		2026-08-15T09:09:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/benchmark-macosx64/1.6.0/benchmark-macosx64-1.6.0.jar returned status 404
+1.6.0	metadata	2026-08-15T09:09:38Z	
+1.6.1		2026-08-16T09:02:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/benchmark-macosx64/1.6.1/benchmark-macosx64-1.6.1.jar returned status 404
+1.6.1	metadata	2026-08-16T09:02:11Z	
+1.7.0		2026-08-21T19:25:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/benchmark-macosx64/1.7.0/benchmark-macosx64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-08-21T19:25:31Z	

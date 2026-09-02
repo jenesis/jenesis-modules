@@ -1,2 +1,5 @@
 0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bams22/event-outboxer-parent/0.1.0/event-outboxer-parent-0.1.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bams22/event-outboxer-parent/0.2.0/event-outboxer-parent-0.2.0.jar returned status 404
+0.3.0		2026-08-16T17:09:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bams22/event-outboxer-parent/0.3.0/event-outboxer-parent-0.3.0.jar returned status 404
+0.4.0		2026-08-28T15:09:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bams22/event-outboxer-parent/0.4.0/event-outboxer-parent-0.4.0.jar returned status 404
+0.5.0		2026-08-29T06:01:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bams22/event-outboxer-parent/0.5.0/event-outboxer-parent-0.5.0.jar returned status 404

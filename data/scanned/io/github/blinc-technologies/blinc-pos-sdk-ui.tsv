@@ -1,0 +1,2 @@
+0.1.0		2026-08-16T19:00:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blinc-technologies/blinc-pos-sdk-ui/0.1.0/blinc-pos-sdk-ui-0.1.0.jar returned status 404
+0.1.0-staging		2026-08-16T19:21:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/blinc-technologies/blinc-pos-sdk-ui/0.1.0-staging/blinc-pos-sdk-ui-0.1.0-staging.jar returned status 404

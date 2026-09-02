@@ -4,3 +4,5 @@
 1.0.42		2026-06-15T17:19:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ccj-cxy/cjlab-common/1.0.42/cjlab-common-1.0.42.jar returned status 404
 1.0.43		2026-06-17T13:48:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ccj-cxy/cjlab-common/1.0.43/cjlab-common-1.0.43.jar returned status 404
 1.0.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ccj-cxy/cjlab-common/1.0.44/cjlab-common-1.0.44.jar returned status 404
+1.0.45		2026-08-12T14:55:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ccj-cxy/cjlab-common/1.0.45/cjlab-common-1.0.45.jar returned status 404
+1.0.46		2026-08-12T15:57:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ccj-cxy/cjlab-common/1.0.46/cjlab-common-1.0.46.jar returned status 404

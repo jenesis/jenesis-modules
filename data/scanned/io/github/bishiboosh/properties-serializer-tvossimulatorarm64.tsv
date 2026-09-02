@@ -2,3 +2,5 @@
 1.0.0	metadata	2025-07-13T13:25:24Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bishiboosh/properties-serializer-tvossimulatorarm64/1.1.0/properties-serializer-tvossimulatorarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-08-07T09:37:30Z	
+1.1.1		2026-08-20T14:25:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bishiboosh/properties-serializer-tvossimulatorarm64/1.1.1/properties-serializer-tvossimulatorarm64-1.1.1.jar returned status 404
+1.1.1	metadata	2026-08-20T14:25:41Z	
