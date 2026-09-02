@@ -145,3 +145,7 @@
 5.92.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-path/5.92.0/legend-pure-dsl-path-5.92.0.jar returned status 404
 5.93.0		2026-08-06T14:26:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-path/5.93.0/legend-pure-dsl-path-5.93.0.jar returned status 404
 5.94.0		2026-08-07T03:10:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-path/5.94.0/legend-pure-dsl-path-5.94.0.jar returned status 404
+5.95.0		2026-08-16T17:47:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-path/5.95.0/legend-pure-dsl-path-5.95.0.jar returned status 404
+5.96.0		2026-08-18T02:26:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-path/5.96.0/legend-pure-dsl-path-5.96.0.jar returned status 404
+5.97.0		2026-08-27T22:32:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-path/5.97.0/legend-pure-dsl-path-5.97.0.jar returned status 404
+5.97.1		2026-08-28T13:38:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-path/5.97.1/legend-pure-dsl-path-5.97.1.jar returned status 404
