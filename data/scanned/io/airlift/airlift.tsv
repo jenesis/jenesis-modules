@@ -378,3 +378,4 @@
 442			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airlift/442/airlift-442.jar returned status 404
 443			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airlift/443/airlift-443.jar returned status 404
 444			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airlift/444/airlift-444.jar returned status 404
+445		2026-08-24T17:44:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airlift/445/airlift-445.jar returned status 404

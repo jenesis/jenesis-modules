@@ -1,3 +1,5 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/trinsic/sdk-android-ui/2.1.0/sdk-android-ui-2.1.0.jar returned status 404
 2.1.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/trinsic/sdk-android-ui/2.1.0-alpha2/sdk-android-ui-2.1.0-alpha2.jar returned status 404
 2.1.1		2026-08-05T12:50:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/trinsic/sdk-android-ui/2.1.1/sdk-android-ui-2.1.1.jar returned status 404
+2.2.0-rc1		2026-08-12T17:08:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/trinsic/sdk-android-ui/2.2.0-rc1/sdk-android-ui-2.2.0-rc1.jar returned status 404
+2.2.0-rc2		2026-08-19T15:38:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/trinsic/sdk-android-ui/2.2.0-rc2/sdk-android-ui-2.2.0-rc2.jar returned status 404

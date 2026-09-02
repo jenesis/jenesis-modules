@@ -2,3 +2,4 @@
 1.0.0		2026-07-17T07:13:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/purse/securefields-android/1.0.0/securefields-android-1.0.0.jar returned status 404
 1.0.1		2026-07-20T13:35:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/purse/securefields-android/1.0.1/securefields-android-1.0.1.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/purse/securefields-android/1.1.0/securefields-android-1.1.0.jar returned status 404
+1.2.0		2026-08-13T08:22:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/purse/securefields-android/1.2.0/securefields-android-1.2.0.jar returned status 404

@@ -23,6 +23,7 @@
 21.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ralph-schuster/pom-oss/21.1.0/pom-oss-21.1.0.jar returned status 404
 21.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ralph-schuster/pom-oss/21.1.1/pom-oss-21.1.1.jar returned status 404
 21.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ralph-schuster/pom-oss/21.2.0/pom-oss-21.2.0.jar returned status 404
+21.3.0		2026-08-23T08:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ralph-schuster/pom-oss/21.3.0/pom-oss-21.3.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ralph-schuster/pom-oss/3.0.0/pom-oss-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ralph-schuster/pom-oss/3.0.1/pom-oss-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/ralph-schuster/pom-oss/3.0.2/pom-oss-3.0.2.jar returned status 404

@@ -14,3 +14,5 @@
 2.2.1	metadata	2026-07-11T17:02:20Z	
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-compose-macosx64/3.0.0/ksafe-compose-macosx64-3.0.0.jar returned status 404
 3.0.0	metadata	2026-07-27T11:11:19Z	
+3.1.0		2026-08-23T22:24:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-compose-macosx64/3.1.0/ksafe-compose-macosx64-3.1.0.jar returned status 404
+3.1.0	metadata	2026-08-23T22:24:11Z	

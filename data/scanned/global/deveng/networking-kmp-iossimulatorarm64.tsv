@@ -100,6 +100,8 @@
 2.13.72	metadata	2026-07-23T21:38:04Z	
 2.13.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-iossimulatorarm64/2.13.73/networking-kmp-iossimulatorarm64-2.13.73.jar returned status 404
 2.13.73	metadata	2026-07-24T21:52:04Z	
+2.13.75		2026-08-27T10:49:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-iossimulatorarm64/2.13.75/networking-kmp-iossimulatorarm64-2.13.75.jar returned status 404
+2.13.75	metadata	2026-08-27T10:49:36Z	
 2.5.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-iossimulatorarm64/2.5.40/networking-kmp-iossimulatorarm64-2.5.40.jar returned status 404
 2.5.40	metadata	2025-03-20T21:02:17Z	
 2.5.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/networking-kmp-iossimulatorarm64/2.5.41/networking-kmp-iossimulatorarm64-2.5.41.jar returned status 404

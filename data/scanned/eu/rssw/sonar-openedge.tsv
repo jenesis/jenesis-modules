@@ -16,6 +16,7 @@
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rssw/sonar-openedge/3.0.0/sonar-openedge-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rssw/sonar-openedge/3.0.1/sonar-openedge-3.0.1.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rssw/sonar-openedge/3.1.0/sonar-openedge-3.1.0.jar returned status 404
+3.10.0		2026-08-20T16:36:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rssw/sonar-openedge/3.10.0/sonar-openedge-3.10.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rssw/sonar-openedge/3.2.0/sonar-openedge-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rssw/sonar-openedge/3.3.0/sonar-openedge-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/rssw/sonar-openedge/3.3.1/sonar-openedge-3.3.1.jar returned status 404

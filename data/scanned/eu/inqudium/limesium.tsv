@@ -1,0 +1,2 @@
+1.0.0		2026-08-25T20:06:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/inqudium/limesium/1.0.0/limesium-1.0.0.jar returned status 404
+1.1.0		2026-08-25T22:14:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/inqudium/limesium/1.1.0/limesium-1.1.0.jar returned status 404

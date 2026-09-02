@@ -24,3 +24,6 @@
 2.0.2-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/threeds-base-sdk/2.0.2-alpha2/threeds-base-sdk-2.0.2-alpha2.jar returned status 404
 2.0.2-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/threeds-base-sdk/2.0.2-alpha3/threeds-base-sdk-2.0.2-alpha3.jar returned status 404
 2.0.2-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/threeds-base-sdk/2.0.2-alpha4/threeds-base-sdk-2.0.2-alpha4.jar returned status 404
+2.0.2-alpha5		2026-08-13T18:07:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/threeds-base-sdk/2.0.2-alpha5/threeds-base-sdk-2.0.2-alpha5.jar returned status 404
+2.0.2-alpha6		2026-08-24T19:18:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/threeds-base-sdk/2.0.2-alpha6/threeds-base-sdk-2.0.2-alpha6.jar returned status 404
+3.0.0		2026-08-26T09:17:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/threeds-base-sdk/3.0.0/threeds-base-sdk-3.0.0.jar returned status 404

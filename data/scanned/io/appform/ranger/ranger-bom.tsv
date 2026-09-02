@@ -9,3 +9,4 @@
 2.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appform/ranger/ranger-bom/2.0.0-RC3/ranger-bom-2.0.0-RC3.jar returned status 404
 2.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appform/ranger/ranger-bom/2.0.0-RC4/ranger-bom-2.0.0-RC4.jar returned status 404
 2.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appform/ranger/ranger-bom/2.0.0-RC5/ranger-bom-2.0.0-RC5.jar returned status 404
+2.0.0-RC6		2026-08-25T03:38:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appform/ranger/ranger-bom/2.0.0-RC6/ranger-bom-2.0.0-RC6.jar returned status 404
