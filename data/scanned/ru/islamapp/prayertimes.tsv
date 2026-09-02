@@ -49,6 +49,10 @@
 1.1.30		2026-06-29T10:21:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/prayertimes/1.1.30/prayertimes-1.1.30.jar returned status 404
 1.1.31		2026-06-30T10:10:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/prayertimes/1.1.31/prayertimes-1.1.31.jar returned status 404
 1.1.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/prayertimes/1.1.32/prayertimes-1.1.32.jar returned status 404
+1.1.33		2026-08-19T15:24:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/prayertimes/1.1.33/prayertimes-1.1.33.jar returned status 404
+1.1.34		2026-08-19T16:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/prayertimes/1.1.34/prayertimes-1.1.34.jar returned status 404
+1.1.35		2026-08-20T09:17:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/prayertimes/1.1.35/prayertimes-1.1.35.jar returned status 404
+1.1.36		2026-08-26T15:18:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/prayertimes/1.1.36/prayertimes-1.1.36.jar returned status 404
 1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/prayertimes/1.1.4/prayertimes-1.1.4.jar returned status 404
 1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/prayertimes/1.1.5/prayertimes-1.1.5.jar returned status 404
 1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/islamapp/prayertimes/1.1.6/prayertimes-1.1.6.jar returned status 404

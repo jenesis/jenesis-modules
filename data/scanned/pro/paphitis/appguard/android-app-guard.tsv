@@ -1,0 +1,4 @@
+0.1.0		2026-08-17T13:08:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/paphitis/appguard/android-app-guard/0.1.0/android-app-guard-0.1.0.jar returned status 404
+0.1.1		2026-08-17T17:09:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/paphitis/appguard/android-app-guard/0.1.1/android-app-guard-0.1.1.jar returned status 404
+0.1.2		2026-08-19T09:38:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/paphitis/appguard/android-app-guard/0.1.2/android-app-guard-0.1.2.jar returned status 404
+0.1.8		2026-08-25T19:27:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/paphitis/appguard/android-app-guard/0.1.8/android-app-guard-0.1.8.jar returned status 404

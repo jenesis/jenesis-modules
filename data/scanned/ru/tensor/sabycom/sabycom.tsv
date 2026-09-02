@@ -50,3 +50,4 @@
 26.2241.82		2026-05-21T07:20:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tensor/sabycom/sabycom/26.2241.82/sabycom-26.2241.82.jar returned status 404
 26.3218.48		2026-06-23T10:25:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tensor/sabycom/sabycom/26.3218.48/sabycom-26.3218.48.jar returned status 404
 26.3246.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tensor/sabycom/sabycom/26.3246.77/sabycom-26.3246.77.jar returned status 404
+26.4206.35		2026-08-20T07:26:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tensor/sabycom/sabycom/26.4206.35/sabycom-26.4206.35.jar returned status 404

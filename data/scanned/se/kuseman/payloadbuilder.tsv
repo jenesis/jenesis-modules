@@ -19,6 +19,7 @@
 1.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/kuseman/payloadbuilder/1.10.1/payloadbuilder-1.10.1.jar returned status 404
 1.11.0		2026-06-01T13:49:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/kuseman/payloadbuilder/1.11.0/payloadbuilder-1.11.0.jar returned status 404
 1.12.0		2026-06-03T11:52:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/kuseman/payloadbuilder/1.12.0/payloadbuilder-1.12.0.jar returned status 404
+1.13.0		2026-08-09T10:43:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/kuseman/payloadbuilder/1.13.0/payloadbuilder-1.13.0.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/kuseman/payloadbuilder/1.6.0/payloadbuilder-1.6.0.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/kuseman/payloadbuilder/1.7.0/payloadbuilder-1.7.0.jar returned status 404
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/kuseman/payloadbuilder/1.8.0/payloadbuilder-1.8.0.jar returned status 404

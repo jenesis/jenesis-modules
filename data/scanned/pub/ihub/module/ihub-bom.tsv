@@ -6,3 +6,4 @@
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pub/ihub/module/ihub-bom/0.2.1/ihub-bom-0.2.1.jar returned status 404
 0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pub/ihub/module/ihub-bom/0.2.2/ihub-bom-0.2.2.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pub/ihub/module/ihub-bom/0.3.0/ihub-bom-0.3.0.jar returned status 404
+0.3.1		2026-08-23T14:08:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pub/ihub/module/ihub-bom/0.3.1/ihub-bom-0.3.1.jar returned status 404
