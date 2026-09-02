@@ -12,3 +12,4 @@
 4.0.7	named	org.eclipse.jetty.toolchain	jetty-servlet-api	2026-01-14T18:56:02Z	4.0.7
 4.0.8	named	org.eclipse.jetty.toolchain	jetty-servlet-api	2026-01-14T20:18:00Z	4.0.8
 4.0.9	named	org.eclipse.jetty.toolchain	jetty-servlet-api	2026-01-19T15:35:55Z	4.0.9
+1.24.0-ws2	named	io.joynr.java.core	clustercontroller-standalone	2026-08-17T18:46:40Z	5.0.2

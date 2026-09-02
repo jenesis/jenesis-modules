@@ -1,3 +1,4 @@
+1.24.0-ws2		2026-08-17T18:46:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/examples/custom-headers/1.24.0-ws2/custom-headers-1.24.0-ws2.jar returned status 404
 1.24.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/examples/custom-headers/1.24.6/custom-headers-1.24.6.jar returned status 404
 1.24.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/examples/custom-headers/1.24.7/custom-headers-1.24.7.jar returned status 404
 1.24.8		2026-06-03T07:12:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/examples/custom-headers/1.24.8/custom-headers-1.24.8.jar returned status 404

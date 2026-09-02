@@ -1,3 +1,4 @@
 1.0.5		2026-07-22T12:04:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthscore/sdk/1.0.5/sdk-1.0.5.jar returned status 404
 1.0.6		2026-07-31T05:28:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthscore/sdk/1.0.6/sdk-1.0.6.jar returned status 404
 1.0.7		2026-08-04T11:18:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthscore/sdk/1.0.7/sdk-1.0.7.jar returned status 404
+1.0.8		2026-08-11T06:09:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthscore/sdk/1.0.8/sdk-1.0.8.jar returned status 404

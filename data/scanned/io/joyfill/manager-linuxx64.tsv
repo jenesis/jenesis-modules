@@ -61,6 +61,8 @@
 2.0.0-RC22		2026-06-18T09:41:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-linuxx64/2.0.0-RC22/manager-linuxx64-2.0.0-RC22.jar returned status 404
 2.0.0-RC23		2026-07-02T16:55:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-linuxx64/2.0.0-RC23/manager-linuxx64-2.0.0-RC23.jar returned status 404
 2.0.0-RC24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-linuxx64/2.0.0-RC24/manager-linuxx64-2.0.0-RC24.jar returned status 404
+2.0.0-RC25		2026-08-20T22:32:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-linuxx64/2.0.0-RC25/manager-linuxx64-2.0.0-RC25.jar returned status 404
+2.0.0-RC26		2026-08-21T14:10:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-linuxx64/2.0.0-RC26/manager-linuxx64-2.0.0-RC26.jar returned status 404
 2.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-linuxx64/2.0.0-RC3/manager-linuxx64-2.0.0-RC3.jar returned status 404
 2.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-linuxx64/2.0.0-RC4/manager-linuxx64-2.0.0-RC4.jar returned status 404
 2.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/manager-linuxx64/2.0.0-RC5/manager-linuxx64-2.0.0-RC5.jar returned status 404

@@ -92,6 +92,7 @@
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/libjoynr/1.1.1/libjoynr-1.1.1.jar returned status 404
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/libjoynr/1.1.2/libjoynr-1.1.2.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/libjoynr/1.2.0/libjoynr-1.2.0.jar returned status 404
+1.24.0-ws2		2026-08-17T18:46:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/libjoynr/1.24.0-ws2/libjoynr-1.24.0-ws2.jar returned status 404
 1.24.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/libjoynr/1.24.6/libjoynr-1.24.6.jar returned status 404
 1.24.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/libjoynr/1.24.7/libjoynr-1.24.7.jar returned status 404
 1.24.8		2026-06-03T07:12:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/libjoynr/1.24.8/libjoynr-1.24.8.jar returned status 404
