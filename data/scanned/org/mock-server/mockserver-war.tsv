@@ -202,3 +202,5 @@
 7.4.0	classes	2026-07-04T17:38:43Z	
 7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mock-server/mockserver-war/7.5.0/mockserver-war-7.5.0.jar returned status 404
 7.5.0	classes	2026-07-29T17:47:15Z	
+7.6.0		2026-08-17T16:46:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mock-server/mockserver-war/7.6.0/mockserver-war-7.6.0.jar returned status 404
+7.6.0	classes	2026-08-17T16:46:45Z	
