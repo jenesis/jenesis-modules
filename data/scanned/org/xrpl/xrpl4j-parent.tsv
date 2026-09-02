@@ -40,3 +40,5 @@
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xrpl/xrpl4j-parent/5.1.0/xrpl4j-parent-5.1.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xrpl/xrpl4j-parent/6.0.0/xrpl4j-parent-6.0.0.jar returned status 404
 6.1.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xrpl/xrpl4j-parent/6.1.0-rc.1/xrpl4j-parent-6.1.0-rc.1.jar returned status 404
+6.1.0-rc.2		2026-08-25T23:52:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xrpl/xrpl4j-parent/6.1.0-rc.2/xrpl4j-parent-6.1.0-rc.2.jar returned status 404
+7.0.0-rc.1		2026-08-27T18:14:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xrpl/xrpl4j-parent/7.0.0-rc.1/xrpl4j-parent-7.0.0-rc.1.jar returned status 404

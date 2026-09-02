@@ -71,6 +71,7 @@
 4.14.0		2026-02-17T05:02:59Z	
 4.14.1		2026-03-09T03:07:08Z	
 4.14.2		2026-03-27T05:00:54Z	
+4.14.3		2026-08-12T11:30:53Z	
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/multitenancy/org.wso2.carbon.client.configcontext.provider/4.6.0/org.wso2.carbon.client.configcontext.provider-4.6.0.jar returned status 404
 4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/multitenancy/org.wso2.carbon.client.configcontext.provider/4.6.1/org.wso2.carbon.client.configcontext.provider-4.6.1.jar returned status 404
 4.6.11		2018-03-13T12:57:04Z	

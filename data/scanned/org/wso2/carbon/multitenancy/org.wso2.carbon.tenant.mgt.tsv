@@ -58,6 +58,7 @@
 4.14.0		2026-02-17T05:02:51Z	
 4.14.1		2026-03-09T03:07:00Z	
 4.14.2		2026-03-27T05:00:45Z	
+4.14.3		2026-08-12T11:30:43Z	
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/multitenancy/org.wso2.carbon.tenant.mgt/4.3.0/org.wso2.carbon.tenant.mgt-4.3.0.jar returned status 404
 4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/multitenancy/org.wso2.carbon.tenant.mgt/4.3.2/org.wso2.carbon.tenant.mgt-4.3.2.jar returned status 404
 4.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/multitenancy/org.wso2.carbon.tenant.mgt/4.3.3/org.wso2.carbon.tenant.mgt-4.3.3.jar returned status 404
