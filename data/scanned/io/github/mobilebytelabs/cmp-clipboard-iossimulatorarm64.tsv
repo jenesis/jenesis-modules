@@ -44,6 +44,20 @@
 3.5.1	metadata	2026-06-08T04:28:08Z	
 3.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-clipboard-iossimulatorarm64/3.5.10/cmp-clipboard-iossimulatorarm64-3.5.10.jar returned status 404
 3.5.10	metadata	2026-08-05T07:09:28Z	
+3.5.11		2026-08-12T11:47:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-clipboard-iossimulatorarm64/3.5.11/cmp-clipboard-iossimulatorarm64-3.5.11.jar returned status 404
+3.5.11	metadata	2026-08-12T11:47:30Z	
+3.5.12		2026-08-17T01:34:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-clipboard-iossimulatorarm64/3.5.12/cmp-clipboard-iossimulatorarm64-3.5.12.jar returned status 404
+3.5.12	metadata	2026-08-17T01:34:02Z	
+3.5.13		2026-08-24T01:43:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-clipboard-iossimulatorarm64/3.5.13/cmp-clipboard-iossimulatorarm64-3.5.13.jar returned status 404
+3.5.13	metadata	2026-08-24T01:43:01Z	
+3.5.14		2026-08-25T19:24:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-clipboard-iossimulatorarm64/3.5.14/cmp-clipboard-iossimulatorarm64-3.5.14.jar returned status 404
+3.5.14	metadata	2026-08-25T19:24:30Z	
+3.5.15		2026-08-27T13:25:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-clipboard-iossimulatorarm64/3.5.15/cmp-clipboard-iossimulatorarm64-3.5.15.jar returned status 404
+3.5.15	metadata	2026-08-27T13:25:10Z	
+3.5.16		2026-08-27T15:04:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-clipboard-iossimulatorarm64/3.5.16/cmp-clipboard-iossimulatorarm64-3.5.16.jar returned status 404
+3.5.16	metadata	2026-08-27T15:04:01Z	
+3.5.18		2026-08-29T06:13:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-clipboard-iossimulatorarm64/3.5.18/cmp-clipboard-iossimulatorarm64-3.5.18.jar returned status 404
+3.5.18	metadata	2026-08-29T06:13:37Z	
 3.5.2		2026-06-22T04:51:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-clipboard-iossimulatorarm64/3.5.2/cmp-clipboard-iossimulatorarm64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T04:51:31Z	
 3.5.3		2026-07-06T15:32:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-clipboard-iossimulatorarm64/3.5.3/cmp-clipboard-iossimulatorarm64-3.5.3.jar returned status 404

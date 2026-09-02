@@ -44,6 +44,20 @@
 3.5.1	metadata	2026-06-08T04:22:40Z	
 3.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-macosarm64/3.5.10/cmp-in-app-update-macosarm64-3.5.10.jar returned status 404
 3.5.10	metadata	2026-08-05T07:07:13Z	
+3.5.11		2026-08-12T11:50:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-macosarm64/3.5.11/cmp-in-app-update-macosarm64-3.5.11.jar returned status 404
+3.5.11	metadata	2026-08-12T11:50:31Z	
+3.5.12		2026-08-17T01:36:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-macosarm64/3.5.12/cmp-in-app-update-macosarm64-3.5.12.jar returned status 404
+3.5.12	metadata	2026-08-17T01:36:28Z	
+3.5.13		2026-08-24T01:34:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-macosarm64/3.5.13/cmp-in-app-update-macosarm64-3.5.13.jar returned status 404
+3.5.13	metadata	2026-08-24T01:34:34Z	
+3.5.14		2026-08-25T19:32:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-macosarm64/3.5.14/cmp-in-app-update-macosarm64-3.5.14.jar returned status 404
+3.5.14	metadata	2026-08-25T19:32:56Z	
+3.5.15		2026-08-27T13:28:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-macosarm64/3.5.15/cmp-in-app-update-macosarm64-3.5.15.jar returned status 404
+3.5.15	metadata	2026-08-27T13:28:01Z	
+3.5.16		2026-08-27T15:05:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-macosarm64/3.5.16/cmp-in-app-update-macosarm64-3.5.16.jar returned status 404
+3.5.16	metadata	2026-08-27T15:05:05Z	
+3.5.18		2026-08-29T06:19:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-macosarm64/3.5.18/cmp-in-app-update-macosarm64-3.5.18.jar returned status 404
+3.5.18	metadata	2026-08-29T06:19:19Z	
 3.5.2		2026-06-22T04:58:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-macosarm64/3.5.2/cmp-in-app-update-macosarm64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T04:58:47Z	
 3.5.3		2026-07-06T15:22:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-in-app-update-macosarm64/3.5.3/cmp-in-app-update-macosarm64-3.5.3.jar returned status 404
