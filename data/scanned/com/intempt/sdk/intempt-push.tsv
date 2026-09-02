@@ -1,0 +1,5 @@
+3.0.1		2026-08-16T15:26:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intempt/sdk/intempt-push/3.0.1/intempt-push-3.0.1.jar returned status 404
+3.0.2		2026-08-18T19:09:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intempt/sdk/intempt-push/3.0.2/intempt-push-3.0.2.jar returned status 404
+3.0.3		2026-08-21T08:58:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intempt/sdk/intempt-push/3.0.3/intempt-push-3.0.3.jar returned status 404
+3.0.4		2026-08-21T11:14:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intempt/sdk/intempt-push/3.0.4/intempt-push-3.0.4.jar returned status 404
+3.1.0		2026-08-31T14:30:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intempt/sdk/intempt-push/3.1.0/intempt-push-3.1.0.jar returned status 404

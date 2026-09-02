@@ -9,3 +9,4 @@
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kinde/android-sdk/1.5.0/android-sdk-1.5.0.jar returned status 404
 1.6.0		2026-06-09T10:23:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kinde/android-sdk/1.6.0/android-sdk-1.6.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kinde/android-sdk/2.0.0/android-sdk-2.0.0.jar returned status 404
+2.1.0		2026-08-24T04:19:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kinde/android-sdk/2.1.0/android-sdk-2.1.0.jar returned status 404

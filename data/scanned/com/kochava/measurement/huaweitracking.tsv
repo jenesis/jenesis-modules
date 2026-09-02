@@ -1,3 +1,4 @@
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kochava/measurement/huaweitracking/6.0.0/huaweitracking-6.0.0.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kochava/measurement/huaweitracking/6.1.0/huaweitracking-6.1.0.jar returned status 404
 6.2.0		2026-07-20T16:46:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kochava/measurement/huaweitracking/6.2.0/huaweitracking-6.2.0.jar returned status 404
+7.0.0		2026-08-27T18:10:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kochava/measurement/huaweitracking/7.0.0/huaweitracking-7.0.0.jar returned status 404
