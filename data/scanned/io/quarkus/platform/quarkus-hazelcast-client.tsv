@@ -176,3 +176,7 @@
 3.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-hazelcast-client/3.38.0/quarkus-hazelcast-client-3.38.0.jar returned status 404
 3.38.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-hazelcast-client/3.38.0.CR1/quarkus-hazelcast-client-3.38.0.CR1.jar returned status 404
 3.38.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-hazelcast-client/3.38.1/quarkus-hazelcast-client-3.38.1.jar returned status 404
+3.38.2		2026-08-13T15:59:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-hazelcast-client/3.38.2/quarkus-hazelcast-client-3.38.2.jar returned status 404
+3.38.3		2026-08-19T14:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-hazelcast-client/3.38.3/quarkus-hazelcast-client-3.38.3.jar returned status 404
+3.39.0.CR1		2026-08-12T15:06:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-hazelcast-client/3.39.0.CR1/quarkus-hazelcast-client-3.39.0.CR1.jar returned status 404
+3.39.1		2026-08-26T16:55:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-hazelcast-client/3.39.1/quarkus-hazelcast-client-3.39.1.jar returned status 404
