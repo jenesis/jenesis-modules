@@ -86,6 +86,10 @@
 1.5.43	metadata	2026-03-07T17:37:05Z	
 1.6.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.6.43/core-kmp-iosarm64-1.6.43.jar returned status 404
 1.6.43	metadata	2026-03-12T20:20:54Z	
+1.7.100		2026-08-19T11:01:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.100/core-kmp-iosarm64-1.7.100.jar returned status 404
+1.7.100	metadata	2026-08-19T11:01:41Z	
+1.7.101		2026-08-21T06:55:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.101/core-kmp-iosarm64-1.7.101.jar returned status 404
+1.7.101	metadata	2026-08-21T06:55:08Z	
 1.7.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.43/core-kmp-iosarm64-1.7.43.jar returned status 404
 1.7.43	metadata	2026-03-15T19:40:51Z	
 1.7.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.44/core-kmp-iosarm64-1.7.44.jar returned status 404
@@ -178,3 +182,5 @@
 1.7.96	metadata	2026-07-27T21:33:06Z	
 1.7.98			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.98/core-kmp-iosarm64-1.7.98.jar returned status 404
 1.7.98	metadata	2026-07-30T12:43:21Z	
+1.7.99		2026-08-11T20:33:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.99/core-kmp-iosarm64-1.7.99.jar returned status 404
+1.7.99	metadata	2026-08-11T20:33:25Z	

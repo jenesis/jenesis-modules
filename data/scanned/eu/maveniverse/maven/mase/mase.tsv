@@ -3,3 +3,4 @@
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mase/mase/1.0.2/mase-1.0.2.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mase/mase/1.1.0/mase-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mase/mase/1.1.1/mase-1.1.1.jar returned status 404
+1.1.2		2026-08-15T19:47:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mase/mase/1.1.2/mase-1.1.2.jar returned status 404

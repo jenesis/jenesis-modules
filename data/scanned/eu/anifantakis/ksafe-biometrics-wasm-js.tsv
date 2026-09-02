@@ -8,3 +8,4 @@
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-biometrics-wasm-js/2.2.0/ksafe-biometrics-wasm-js-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-biometrics-wasm-js/2.2.1/ksafe-biometrics-wasm-js-2.2.1.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-biometrics-wasm-js/3.0.0/ksafe-biometrics-wasm-js-3.0.0.jar returned status 404
+3.1.0		2026-08-23T22:24:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-biometrics-wasm-js/3.1.0/ksafe-biometrics-wasm-js-3.1.0.jar returned status 404

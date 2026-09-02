@@ -22,3 +22,4 @@
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/icoding/smart-mybatis/2.0.1/smart-mybatis-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/icoding/smart-mybatis/2.0.2/smart-mybatis-2.0.2.jar returned status 404
 3.0.1		2026-06-02T08:56:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/icoding/smart-mybatis/3.0.1/smart-mybatis-3.0.1.jar returned status 404
+3.0.2		2026-08-17T06:29:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/icoding/smart-mybatis/3.0.2/smart-mybatis-3.0.2.jar returned status 404

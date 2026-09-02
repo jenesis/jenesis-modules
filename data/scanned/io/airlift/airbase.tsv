@@ -334,6 +334,11 @@
 4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/4/airbase-4.jar returned status 404
 40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/40/airbase-40.jar returned status 404
 400			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/400/airbase-400.jar returned status 404
+401		2026-08-13T16:53:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/401/airbase-401.jar returned status 404
+402		2026-08-17T10:52:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/402/airbase-402.jar returned status 404
+403		2026-08-21T17:51:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/403/airbase-403.jar returned status 404
+404		2026-08-24T09:33:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/404/airbase-404.jar returned status 404
+405		2026-08-24T16:52:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/405/airbase-405.jar returned status 404
 41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/41/airbase-41.jar returned status 404
 42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/42/airbase-42.jar returned status 404
 43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/airbase/43/airbase-43.jar returned status 404

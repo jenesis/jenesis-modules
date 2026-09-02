@@ -42,6 +42,8 @@
 1.4.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.4.42/core-kmp-android-1.4.42.jar returned status 404
 1.5.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.5.43/core-kmp-android-1.5.43.jar returned status 404
 1.6.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.6.43/core-kmp-android-1.6.43.jar returned status 404
+1.7.100		2026-08-19T11:01:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.7.100/core-kmp-android-1.7.100.jar returned status 404
+1.7.101		2026-08-21T06:55:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.7.101/core-kmp-android-1.7.101.jar returned status 404
 1.7.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.7.43/core-kmp-android-1.7.43.jar returned status 404
 1.7.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.7.44/core-kmp-android-1.7.44.jar returned status 404
 1.7.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.7.45/core-kmp-android-1.7.45.jar returned status 404
@@ -88,3 +90,4 @@
 1.7.95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.7.95/core-kmp-android-1.7.95.jar returned status 404
 1.7.96			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.7.96/core-kmp-android-1.7.96.jar returned status 404
 1.7.98			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.7.98/core-kmp-android-1.7.98.jar returned status 404
+1.7.99		2026-08-11T20:33:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-android/1.7.99/core-kmp-android-1.7.99.jar returned status 404

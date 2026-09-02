@@ -43,3 +43,4 @@
 5.0.M8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agrest/agrest-bom/5.0.M8/agrest-bom-5.0.M8.jar returned status 404
 5.0.M9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agrest/agrest-bom/5.0.M9/agrest-bom-5.0.M9.jar returned status 404
 6.0-M1		2026-06-26T17:05:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agrest/agrest-bom/6.0-M1/agrest-bom-6.0-M1.jar returned status 404
+6.0-M2		2026-08-29T12:04:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agrest/agrest-bom/6.0-M2/agrest-bom-6.0-M2.jar returned status 404

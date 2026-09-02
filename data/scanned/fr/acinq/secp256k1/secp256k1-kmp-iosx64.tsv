@@ -34,6 +34,8 @@
 0.22.0	metadata	2025-12-17T11:37:03Z	
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/secp256k1/secp256k1-kmp-iosx64/0.23.0/secp256k1-kmp-iosx64-0.23.0.jar returned status 404
 0.23.0	metadata	2026-03-19T08:46:18Z	
+0.24.0		2026-08-13T13:04:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/secp256k1/secp256k1-kmp-iosx64/0.24.0/secp256k1-kmp-iosx64-0.24.0.jar returned status 404
+0.24.0	metadata	2026-08-13T13:04:47Z	
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/secp256k1/secp256k1-kmp-iosx64/0.5.1/secp256k1-kmp-iosx64-0.5.1.jar returned status 404
 0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/secp256k1/secp256k1-kmp-iosx64/0.5.2/secp256k1-kmp-iosx64-0.5.2.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/acinq/secp256k1/secp256k1-kmp-iosx64/0.6.0/secp256k1-kmp-iosx64-0.6.0.jar returned status 404

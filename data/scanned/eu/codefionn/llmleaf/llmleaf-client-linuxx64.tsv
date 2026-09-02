@@ -8,6 +8,8 @@
 0.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.1.9/llmleaf-client-linuxx64-0.1.9.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.2.1/llmleaf-client-linuxx64-0.2.1.jar returned status 404
 0.2.10		2026-08-10T20:27:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.2.10/llmleaf-client-linuxx64-0.2.10.jar returned status 404
+0.2.11		2026-08-14T19:30:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.2.11/llmleaf-client-linuxx64-0.2.11.jar returned status 404
+0.2.12		2026-08-14T21:07:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.2.12/llmleaf-client-linuxx64-0.2.12.jar returned status 404
 0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.2.2/llmleaf-client-linuxx64-0.2.2.jar returned status 404
 0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.2.3/llmleaf-client-linuxx64-0.2.3.jar returned status 404
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.2.4/llmleaf-client-linuxx64-0.2.4.jar returned status 404
@@ -16,3 +18,5 @@
 0.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.2.7/llmleaf-client-linuxx64-0.2.7.jar returned status 404
 0.2.8		2026-08-10T06:15:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.2.8/llmleaf-client-linuxx64-0.2.8.jar returned status 404
 0.2.9		2026-08-10T19:25:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.2.9/llmleaf-client-linuxx64-0.2.9.jar returned status 404
+0.3.0		2026-08-20T20:56:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.3.0/llmleaf-client-linuxx64-0.3.0.jar returned status 404
+0.3.1		2026-08-20T21:38:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codefionn/llmleaf/llmleaf-client-linuxx64/0.3.1/llmleaf-client-linuxx64-0.3.1.jar returned status 404
