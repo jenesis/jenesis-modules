@@ -1,4 +1,11 @@
+0.11.0		2026-08-24T18:30:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/0.11.0/spice-bom-0.11.0.jar returned status 404
 1.0.0		2026-07-20T17:05:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/1.0.0/spice-bom-1.0.0.jar returned status 404
+1.0.10		2026-08-24T14:01:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/1.0.10/spice-bom-1.0.10.jar returned status 404
+1.0.11		2026-08-24T18:39:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/1.0.11/spice-bom-1.0.11.jar returned status 404
 1.0.3		2026-07-23T19:21:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/1.0.3/spice-bom-1.0.3.jar returned status 404
 1.0.4		2026-07-23T20:37:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/1.0.4/spice-bom-1.0.4.jar returned status 404
 1.0.5		2026-08-05T19:42:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/1.0.5/spice-bom-1.0.5.jar returned status 404
+1.0.6		2026-08-12T18:36:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/1.0.6/spice-bom-1.0.6.jar returned status 404
+1.0.7		2026-08-14T13:31:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/1.0.7/spice-bom-1.0.7.jar returned status 404
+1.0.8		2026-08-20T13:57:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/1.0.8/spice-bom-1.0.8.jar returned status 404
+1.0.9		2026-08-20T16:21:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spicelabs/spice-bom/1.0.9/spice-bom-1.0.9.jar returned status 404
