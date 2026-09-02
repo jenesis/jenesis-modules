@@ -30,6 +30,8 @@
 1.0.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ifrugal/app-building-blocks/1.0.44/app-building-blocks-1.0.44.jar returned status 404
 1.0.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ifrugal/app-building-blocks/1.0.45/app-building-blocks-1.0.45.jar returned status 404
 1.0.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ifrugal/app-building-blocks/1.0.46/app-building-blocks-1.0.46.jar returned status 404
+1.0.47		2026-08-25T21:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ifrugal/app-building-blocks/1.0.47/app-building-blocks-1.0.47.jar returned status 404
+1.0.48		2026-08-27T08:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ifrugal/app-building-blocks/1.0.48/app-building-blocks-1.0.48.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ifrugal/app-building-blocks/1.0.5/app-building-blocks-1.0.5.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ifrugal/app-building-blocks/1.0.7/app-building-blocks-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/ifrugal/app-building-blocks/1.0.8/app-building-blocks-1.0.8.jar returned status 404
