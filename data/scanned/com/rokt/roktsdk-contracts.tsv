@@ -1,3 +1,5 @@
 6.0.1		2026-07-20T20:35:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/roktsdk-contracts/6.0.1/roktsdk-contracts-6.0.1.jar returned status 404
 6.0.1-rc.1		2026-07-20T19:52:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/roktsdk-contracts/6.0.1-rc.1/roktsdk-contracts-6.0.1-rc.1.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/roktsdk-contracts/6.0.2/roktsdk-contracts-6.0.2.jar returned status 404
+6.0.3		2026-08-18T19:51:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/roktsdk-contracts/6.0.3/roktsdk-contracts-6.0.3.jar returned status 404
+6.1.0		2026-08-20T17:06:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rokt/roktsdk-contracts/6.1.0/roktsdk-contracts-6.1.0.jar returned status 404

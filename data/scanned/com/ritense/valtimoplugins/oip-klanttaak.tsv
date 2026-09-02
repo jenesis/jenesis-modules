@@ -10,3 +10,5 @@
 1.0.2	plain	2026-04-30T09:48:45Z	
 1.0.3		2026-05-20T07:37:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/oip-klanttaak/1.0.3/oip-klanttaak-1.0.3.jar returned status 404
 1.0.3	plain	2026-05-20T07:37:52Z	
+1.0.4		2026-08-17T15:50:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/oip-klanttaak/1.0.4/oip-klanttaak-1.0.4.jar returned status 404
+1.0.4	plain	2026-08-17T15:51:00Z	

@@ -6514,6 +6514,7 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 0.10.0	named	com.databricks.labs	databricks-morph-plugin	2026-08-10T20:36:28Z	2.21
 0.1.17	named	io.github.cdy-codey	codey-console	2026-08-20T12:03:32Z	2.18.2
 0.1.18	named	io.github.cdy-codey	codey-console	2026-08-21T10:02:45Z	2.18.2
+3.5.0	named	com.sbbsystems.flink	statefun-flink-distribution	2026-08-22T12:05:42Z	2.18.2
 0.1.19	named	io.github.cdy-codey	codey-console	2026-08-24T02:07:34Z	2.18.2
 4.0.4	named	software.amazon.neptune	neptune-endpoints-info-lambda	2026-08-24T21:22:58Z	2.18.9
 0.1.18	named	org.modeljars	modeljars-cli	2026-08-25T19:46:35Z	2.22
