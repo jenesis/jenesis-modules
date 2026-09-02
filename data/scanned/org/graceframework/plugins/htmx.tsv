@@ -1,5 +1,11 @@
 0.0.1		2024-02-08T13:18:13Z	
 0.1.0		2024-04-26T03:34:35Z	
+0.10.0		2026-08-10T13:44:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/htmx/0.10.0/htmx-0.10.0.jar returned status 404
+0.10.0	plugin	2026-08-10T13:44:22Z	
+0.11.0		2026-08-12T16:36:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/htmx/0.11.0/htmx-0.11.0.jar returned status 404
+0.11.0	plugin	2026-08-12T16:36:40Z	
+0.12.0		2026-08-15T05:10:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/htmx/0.12.0/htmx-0.12.0.jar returned status 404
+0.12.0	plugin	2026-08-15T05:10:59Z	
 0.2.0		2024-04-26T06:25:12Z	
 0.3.0		2024-04-27T04:58:43Z	
 0.4.0		2024-05-07T03:15:15Z	
@@ -11,3 +17,9 @@
 0.8.0	plugin	2024-08-10T18:26:43Z	
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/htmx/0.9.0/htmx-0.9.0.jar returned status 404
 0.9.0	plugin	2026-07-31T10:15:17Z	
+1.0.0		2026-08-10T16:10:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/htmx/1.0.0/htmx-1.0.0.jar returned status 404
+1.0.0	plugin	2026-08-10T16:10:06Z	
+1.1.0		2026-08-12T17:08:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/htmx/1.1.0/htmx-1.1.0.jar returned status 404
+1.1.0	plugin	2026-08-12T17:08:53Z	
+1.2.0		2026-08-15T07:47:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/htmx/1.2.0/htmx-1.2.0.jar returned status 404
+1.2.0	plugin	2026-08-15T07:47:48Z	

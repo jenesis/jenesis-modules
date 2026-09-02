@@ -7,3 +7,6 @@
 25.0.4	named	org.graalvm.wasm	wasm-isolate-windows-amd64	2026-07-22T00:14:23Z	
 25.2.4	named	org.graalvm.wasm	wasm-isolate-windows-amd64	2026-07-29T00:09:51Z	
 25.2.4	named	org.graalvm.wasm	wasm-isolate-windows-amd64-community	2026-07-29T00:09:52Z	
+25.0.4.1	named	org.graalvm.wasm	wasm-isolate-windows-amd64	2026-08-17T08:11:00Z	
+25.3.4.1	named	org.graalvm.wasm	wasm-isolate-windows-amd64	2026-08-23T21:59:39Z	
+25.3.4.1	named	org.graalvm.wasm	wasm-isolate-windows-amd64-community	2026-08-23T21:59:39Z	

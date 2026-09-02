@@ -88,3 +88,4 @@
 8.0.4		2026-08-03T20:42:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admingui/war/8.0.4/war-8.0.4.jar returned status 404
 9.0.0-M1		2026-03-15T17:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admingui/war/9.0.0-M1/war-9.0.0-M1.jar returned status 404
 9.0.0-M2		2026-05-02T23:42:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admingui/war/9.0.0-M2/war-9.0.0-M2.jar returned status 404
+9.0.0-M3		2026-08-11T14:39:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/admingui/war/9.0.0-M3/war-9.0.0-M3.jar returned status 404

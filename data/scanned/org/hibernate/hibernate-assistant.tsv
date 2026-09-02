@@ -21,5 +21,6 @@
 7.4.3.Final		2026-06-28T00:53:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-assistant/7.4.3.Final/hibernate-assistant-7.4.3.Final.jar returned status 404
 7.4.4.Final		2026-07-05T00:50:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-assistant/7.4.4.Final/hibernate-assistant-7.4.4.Final.jar returned status 404
 7.4.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-assistant/7.4.5.Final/hibernate-assistant-7.4.5.Final.jar returned status 404
+7.4.6.Final		2026-08-23T00:23:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-assistant/7.4.6.Final/hibernate-assistant-7.4.6.Final.jar returned status 404
 8.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-assistant/8.0.0.Alpha1/hibernate-assistant-8.0.0.Alpha1.jar returned status 404
 8.0.0.Beta1		2026-06-16T20:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-assistant/8.0.0.Beta1/hibernate-assistant-8.0.0.Beta1.jar returned status 404

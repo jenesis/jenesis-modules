@@ -1,1 +1,2 @@
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/hk2-project/4.0.1/hk2-project-4.0.1.jar returned status 404
+4.0.2		2026-08-17T17:17:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/hk2-project/4.0.2/hk2-project-4.0.2.jar returned status 404

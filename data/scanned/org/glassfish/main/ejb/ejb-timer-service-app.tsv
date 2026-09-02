@@ -88,3 +88,4 @@
 8.0.4		2026-08-03T20:42:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/ejb/ejb-timer-service-app/8.0.4/ejb-timer-service-app-8.0.4.jar returned status 404
 9.0.0-M1		2026-03-15T17:11:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/ejb/ejb-timer-service-app/9.0.0-M1/ejb-timer-service-app-9.0.0-M1.jar returned status 404
 9.0.0-M2		2026-05-02T23:42:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/ejb/ejb-timer-service-app/9.0.0-M2/ejb-timer-service-app-9.0.0-M2.jar returned status 404
+9.0.0-M3		2026-08-11T14:39:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/ejb/ejb-timer-service-app/9.0.0-M3/ejb-timer-service-app-9.0.0-M3.jar returned status 404

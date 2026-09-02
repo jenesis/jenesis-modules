@@ -3,3 +3,5 @@
 0.2.0	plugin	2024-06-21T11:29:30Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/inertia/0.3.0/inertia-0.3.0.jar returned status 404
 0.3.0	plugin	2025-05-26T13:22:14Z	
+0.4.0		2026-08-16T17:04:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/plugins/inertia/0.4.0/inertia-0.4.0.jar returned status 404
+0.4.0	plugin	2026-08-16T17:04:54Z	

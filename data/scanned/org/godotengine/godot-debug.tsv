@@ -7,3 +7,4 @@
 4.6.3.stable		2026-05-20T20:29:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/godotengine/godot-debug/4.6.3.stable/godot-debug-4.6.3.stable.jar returned status 404
 4.7.0.stable		2026-06-18T13:54:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/godotengine/godot-debug/4.7.0.stable/godot-debug-4.7.0.stable.jar returned status 404
 4.7.1.stable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/godotengine/godot-debug/4.7.1.stable/godot-debug-4.7.1.stable.jar returned status 404
+4.7.2.stable		2026-08-18T17:24:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/godotengine/godot-debug/4.7.2.stable/godot-debug-4.7.2.stable.jar returned status 404
