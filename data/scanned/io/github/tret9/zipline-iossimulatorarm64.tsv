@@ -30,6 +30,12 @@
 1.28.0-composelive-0.11	metadata	2026-07-27T11:09:01Z	
 1.28.0-composelive-0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-iossimulatorarm64/1.28.0-composelive-0.12/zipline-iossimulatorarm64-1.28.0-composelive-0.12.jar returned status 404
 1.28.0-composelive-0.12	metadata	2026-07-29T12:16:07Z	
+1.28.0-composelive-0.13		2026-08-12T11:52:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-iossimulatorarm64/1.28.0-composelive-0.13/zipline-iossimulatorarm64-1.28.0-composelive-0.13.jar returned status 404
+1.28.0-composelive-0.13	metadata	2026-08-12T11:52:38Z	
+1.28.0-composelive-0.14		2026-08-13T21:02:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-iossimulatorarm64/1.28.0-composelive-0.14/zipline-iossimulatorarm64-1.28.0-composelive-0.14.jar returned status 404
+1.28.0-composelive-0.14	metadata	2026-08-13T21:02:54Z	
+1.28.0-composelive-0.15		2026-08-13T21:09:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-iossimulatorarm64/1.28.0-composelive-0.15/zipline-iossimulatorarm64-1.28.0-composelive-0.15.jar returned status 404
+1.28.0-composelive-0.15	metadata	2026-08-13T21:09:24Z	
 1.28.0-composelive-0.16		2026-08-19T07:47:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-iossimulatorarm64/1.28.0-composelive-0.16/zipline-iossimulatorarm64-1.28.0-composelive-0.16.jar returned status 404
 1.28.0-composelive-0.16	metadata	2026-08-19T07:47:08Z	
 1.28.0-composelive-0.17		2026-08-19T10:06:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-iossimulatorarm64/1.28.0-composelive-0.17/zipline-iossimulatorarm64-1.28.0-composelive-0.17.jar returned status 404
