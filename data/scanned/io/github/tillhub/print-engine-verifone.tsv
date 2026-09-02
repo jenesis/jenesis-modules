@@ -1,3 +1,5 @@
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tillhub/print-engine-verifone/3.0.1/print-engine-verifone-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tillhub/print-engine-verifone/3.0.2/print-engine-verifone-3.0.2.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tillhub/print-engine-verifone/3.0.3/print-engine-verifone-3.0.3.jar returned status 404
+3.0.5		2026-08-18T08:29:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tillhub/print-engine-verifone/3.0.5/print-engine-verifone-3.0.5.jar returned status 404
+3.1.0		2026-08-19T08:56:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tillhub/print-engine-verifone/3.1.0/print-engine-verifone-3.1.0.jar returned status 404

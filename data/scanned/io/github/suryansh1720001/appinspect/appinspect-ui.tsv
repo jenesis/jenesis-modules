@@ -9,3 +9,5 @@
 0.5.1		2026-06-22T09:41:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/suryansh1720001/appinspect/appinspect-ui/0.5.1/appinspect-ui-0.5.1.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/suryansh1720001/appinspect/appinspect-ui/0.6.0/appinspect-ui-0.6.0.jar returned status 404
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/suryansh1720001/appinspect/appinspect-ui/0.6.1/appinspect-ui-0.6.1.jar returned status 404
+0.7.0		2026-08-20T14:34:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/suryansh1720001/appinspect/appinspect-ui/0.7.0/appinspect-ui-0.7.0.jar returned status 404
+0.8.0		2026-08-24T05:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/suryansh1720001/appinspect/appinspect-ui/0.8.0/appinspect-ui-0.8.0.jar returned status 404
