@@ -2533,3 +2533,6 @@ CANARY-2.3.1	named	org.linqs	psl-neural	2021-09-11T18:25:29Z	2.13.0
 2.0.0	named	com.ibm.galasa	com.ibm.galasa.dli.manager	2026-08-01T00:12:56Z	2.25.5
 2.0.0	named	com.ibm.galasa	com.ibm.galasa.framework	2026-08-01T00:12:56Z	2.25.5
 2.0.0	named	com.ibm.galasa	com.ibm.galasa.security	2026-08-01T00:12:57Z	2.25.5
+2.0.1	named	com.ibm.galasa	com.ibm.galasa.dli.manager	2026-08-19T14:59:34Z	2.25.5
+2.0.1	named	com.ibm.galasa	com.ibm.galasa.framework	2026-08-19T14:59:34Z	2.25.5
+2.0.1	named	com.ibm.galasa	com.ibm.galasa.security	2026-08-19T14:59:34Z	2.25.5

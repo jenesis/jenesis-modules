@@ -1072,3 +1072,5 @@
 0.2.7	named	io.github.daniloagostinho	semmet-springboot-cli	2026-08-14T01:49:34Z	4.7.7
 26.7.2	named	org.keycloak	keycloak-admin-cli	2026-08-19T05:13:32Z	4.7.7
 0.28.5	named	org.dcache.nfs4j	basic-server	2026-08-19T06:23:12Z	4.7.4
+4.1.12	named	com.instaclustr	esop-core	2026-08-31T11:57:21Z	4.7.2
+4.1.12	named	com.instaclustr	esop-s3	2026-08-31T11:57:21Z	4.7.2

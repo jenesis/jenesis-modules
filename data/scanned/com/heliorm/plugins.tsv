@@ -34,6 +34,7 @@
 0.99.107			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heliorm/plugins/0.99.107/plugins-0.99.107.jar returned status 404
 0.99.109			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heliorm/plugins/0.99.109/plugins-0.99.109.jar returned status 404
 0.99.112			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heliorm/plugins/0.99.112/plugins-0.99.112.jar returned status 404
+0.99.113		2026-08-18T04:27:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heliorm/plugins/0.99.113/plugins-0.99.113.jar returned status 404
 0.99.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heliorm/plugins/0.99.2/plugins-0.99.2.jar returned status 404
 0.99.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heliorm/plugins/0.99.3/plugins-0.99.3.jar returned status 404
 0.99.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/heliorm/plugins/0.99.4/plugins-0.99.4.jar returned status 404
