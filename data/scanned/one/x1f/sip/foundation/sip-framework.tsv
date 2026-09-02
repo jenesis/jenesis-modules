@@ -7,3 +7,4 @@
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/x1f/sip/foundation/sip-framework/4.4.0/sip-framework-4.4.0.jar returned status 404
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/x1f/sip/foundation/sip-framework/4.4.1/sip-framework-4.4.1.jar returned status 404
 4.4.2		2026-05-26T12:57:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/x1f/sip/foundation/sip-framework/4.4.2/sip-framework-4.4.2.jar returned status 404
+4.5.0		2026-08-27T11:10:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/x1f/sip/foundation/sip-framework/4.5.0/sip-framework-4.5.0.jar returned status 404

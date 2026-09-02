@@ -1,3 +1,4 @@
+17.7.6-20260815		2026-08-15T01:57:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-environment/17.7.6-20260815/anyline-environment-17.7.6-20260815.jar returned status 404
 8.7.2-20240411			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-environment/8.7.2-20240411/anyline-environment-8.7.2-20240411.jar returned status 404
 8.7.2-20240415			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-environment/8.7.2-20240415/anyline-environment-8.7.2-20240415.jar returned status 404
 8.7.2-20240416			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-environment/8.7.2-20240416/anyline-environment-8.7.2-20240416.jar returned status 404
@@ -471,4 +472,5 @@
 8.7.5-jdk25-boot4-20260805		2026-08-05T05:21:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-environment/8.7.5-jdk25-boot4-20260805/anyline-environment-8.7.5-jdk25-boot4-20260805.jar returned status 404
 8.7.6-20260806		2026-08-06T03:11:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-environment/8.7.6-20260806/anyline-environment-8.7.6-20260806.jar returned status 404
 8.7.6-20260808		2026-08-09T03:15:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-environment/8.7.6-20260808/anyline-environment-8.7.6-20260808.jar returned status 404
+8.7.6-20260815		2026-08-15T01:48:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-environment/8.7.6-20260815/anyline-environment-8.7.6-20260815.jar returned status 404
 9.7.6-20260806		2026-08-06T03:19:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-environment/9.7.6-20260806/anyline-environment-9.7.6-20260806.jar returned status 404

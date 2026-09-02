@@ -301,6 +301,7 @@
 0.71.0	named	io.simpleishard	govdata	2026-08-04T19:50:56Z	3.6.1
 0.71.0	named	io.simpleishard	trino-file	2026-08-05T02:03:47Z	3.6.1
 0.70.0	named	io.simpleishard	trino-file	2026-08-05T02:03:47Z	3.6.1
+1.12.2	named	org.apache.avro	avro-tools	2026-08-07T14:54:23Z	3.6.1
 0.72.0	named	io.simpleishard	govdata	2026-08-07T15:45:48Z	3.6.1
 0.72.0	named	io.simpleishard	trino-file	2026-08-08T02:06:42Z	3.6.1
 0.72.1	named	io.simpleishard	govdata	2026-08-08T10:47:16Z	3.6.1
