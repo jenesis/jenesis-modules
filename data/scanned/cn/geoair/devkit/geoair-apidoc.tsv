@@ -2,6 +2,7 @@ J17.1.2			IOException: Tail request on https://maven-central.storage-download.go
 J17.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J17.1.3/geoair-apidoc-J17.1.3.jar returned status 404
 J17.1.4		2026-06-12T05:34:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J17.1.4/geoair-apidoc-J17.1.4.jar returned status 404
 J17.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J17.1.5/geoair-apidoc-J17.1.5.jar returned status 404
+J17.1.6		2026-08-31T04:05:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J17.1.6/geoair-apidoc-J17.1.6.jar returned status 404
 J8.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J8.1.0-RC1/geoair-apidoc-J8.1.0-RC1.jar returned status 404
 J8.1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J8.1.0-RC2/geoair-apidoc-J8.1.0-RC2.jar returned status 404
 J8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J8.1.1/geoair-apidoc-J8.1.1.jar returned status 404
@@ -9,3 +10,4 @@ J8.1.2			IOException: Tail request on https://maven-central.storage-download.goo
 J8.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J8.1.3/geoair-apidoc-J8.1.3.jar returned status 404
 J8.1.4		2026-06-12T05:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J8.1.4/geoair-apidoc-J8.1.4.jar returned status 404
 J8.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J8.1.5/geoair-apidoc-J8.1.5.jar returned status 404
+J8.1.6		2026-08-31T03:40:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/geoair/devkit/geoair-apidoc/J8.1.6/geoair-apidoc-J8.1.6.jar returned status 404

@@ -1,0 +1,4 @@
+1.0.0		2026-08-29T09:25:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/opencv/opencv-kmp-tvosarm64/1.0.0/opencv-kmp-tvosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-08-29T09:25:39Z	
+1.0.1		2026-08-29T18:04:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/opencv/opencv-kmp-tvosarm64/1.0.1/opencv-kmp-tvosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-08-29T18:04:38Z	
