@@ -18,3 +18,4 @@
 0.5.0		2026-06-16T06:41:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.5.0/puml-parent-0.5.0.jar returned status 404
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.5.1/puml-parent-0.5.1.jar returned status 404
 0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.5.2/puml-parent-0.5.2.jar returned status 404
+0.5.3		2026-08-16T11:53:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/mulders/puml/puml-parent/0.5.3/puml-parent-0.5.3.jar returned status 404

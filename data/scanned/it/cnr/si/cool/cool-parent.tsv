@@ -134,6 +134,7 @@
 4.0.66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/cool-parent/4.0.66/cool-parent-4.0.66.jar returned status 404
 4.0.67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/cool-parent/4.0.67/cool-parent-4.0.67.jar returned status 404
 4.0.68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/cool-parent/4.0.68/cool-parent-4.0.68.jar returned status 404
+4.0.69		2026-08-11T08:42:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/cool-parent/4.0.69/cool-parent-4.0.69.jar returned status 404
 4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/cool-parent/4.0.7/cool-parent-4.0.7.jar returned status 404
 4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/cool-parent/4.0.8/cool-parent-4.0.8.jar returned status 404
 4.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/cool-parent/4.0.9/cool-parent-4.0.9.jar returned status 404

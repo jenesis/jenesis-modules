@@ -579,5 +579,7 @@ unspecified	named	com.mineplex.studio.sdk	relocated-yaml	2025-03-20T06:58:01Z	2.
 1.0.1	named	com.confident-ai	confident-agent	2026-08-03T04:48:02Z	2.22.1
 1.0.4	named	io.github.prabhusiddarth	sidd-ai	2026-08-03T07:08:27Z	2.15.2
 3.0.10	named	org.octopusden.octopus.components.registry.automation	components-registry-automation	2026-08-13T02:51:56Z	2.16.1
+0.0.13	named	io.teknek.deliverance	deliverance-antares-cli	2026-08-21T15:08:19Z	2.20.1
+0.0.14	named	io.teknek.deliverance	deliverance-antares-cli	2026-08-23T00:42:54Z	2.20.1
 0.3.0	named	se.deversity.codekarta	code-karta-cli	2026-08-23T10:32:05Z	2.22.2
 3.0.11	named	org.octopusden.octopus.components.registry.automation	components-registry-automation	2026-08-26T09:05:28Z	2.16.1

@@ -2,3 +2,4 @@
 1.0-M2		2026-06-18T21:46:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/parquetry/parquetry-parent/1.0-M2/parquetry-parent-1.0-M2.jar returned status 404
 1.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/parquetry/parquetry-parent/1.0-RC/parquetry-parent-1.0-RC.jar returned status 404
 1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/parquetry/parquetry-parent/1.0-RC2/parquetry-parent-1.0-RC2.jar returned status 404
+1.0-RC3		2026-08-27T14:40:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/parquetry/parquetry-parent/1.0-RC3/parquetry-parent-1.0-RC3.jar returned status 404

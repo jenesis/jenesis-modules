@@ -34,3 +34,4 @@
 4.2.4.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trtc/uikit/atomicx-core/4.2.4.76/atomicx-core-4.2.4.76.jar returned status 404
 4.2.4.77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trtc/uikit/atomicx-core/4.2.4.77/atomicx-core-4.2.4.77.jar returned status 404
 4.3.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trtc/uikit/atomicx-core/4.3.0.25/atomicx-core-4.3.0.25.jar returned status 404
+4.3.3.29		2026-08-11T09:57:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/trtc/uikit/atomicx-core/4.3.3.29/atomicx-core-4.3.3.29.jar returned status 404

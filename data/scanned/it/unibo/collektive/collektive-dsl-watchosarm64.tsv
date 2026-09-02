@@ -726,3 +726,9 @@
 28.3.3-dev0c+f774749f	metadata	2026-08-08T03:19:10Z	
 28.3.3-dev0d+4eb85788		2026-08-08T04:58:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/28.3.3-dev0d+4eb85788/collektive-dsl-watchosarm64-28.3.3-dev0d+4eb85788.jar returned status 404
 28.3.3-dev0d+4eb85788	metadata	2026-08-08T04:58:32Z	
+28.3.3-dev0h+abb53541		2026-08-19T21:37:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/28.3.3-dev0h+abb53541/collektive-dsl-watchosarm64-28.3.3-dev0h+abb53541.jar returned status 404
+28.3.3-dev0h+abb53541	metadata	2026-08-19T21:37:45Z	
+28.3.3-dev0j+15e38752		2026-08-20T00:38:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/28.3.3-dev0j+15e38752/collektive-dsl-watchosarm64-28.3.3-dev0j+15e38752.jar returned status 404
+28.3.3-dev0j+15e38752	metadata	2026-08-20T00:38:09Z	
+28.3.3-dev0l+381d600e		2026-08-25T20:26:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/28.3.3-dev0l+381d600e/collektive-dsl-watchosarm64-28.3.3-dev0l+381d600e.jar returned status 404
+28.3.3-dev0l+381d600e	metadata	2026-08-25T20:26:26Z	
