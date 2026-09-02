@@ -16,3 +16,5 @@
 1.2.0	metadata	2026-05-08T09:28:03Z	
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/xendit/terminal/id-bri-iosx64/1.2.1/id-bri-iosx64-1.2.1.jar returned status 404
 1.2.1	metadata	2026-05-13T05:22:08Z	
+1.2.2		2026-08-24T05:39:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/xendit/terminal/id-bri-iosx64/1.2.2/id-bri-iosx64-1.2.2.jar returned status 404
+1.2.2	metadata	2026-08-24T05:39:57Z	

@@ -1,3 +1,4 @@
 1.1.0		2026-06-19T02:30:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/actualplatform/activation-theming-android/1.1.0/activation-theming-android-1.1.0.jar returned status 404
 1.1.0-beta01		2026-06-17T23:44:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/actualplatform/activation-theming-android/1.1.0-beta01/activation-theming-android-1.1.0-beta01.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/actualplatform/activation-theming-android/1.1.1/activation-theming-android-1.1.1.jar returned status 404
+1.1.2		2026-08-19T03:06:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/actualplatform/activation-theming-android/1.1.2/activation-theming-android-1.1.2.jar returned status 404

@@ -2,3 +2,5 @@
 0.26.0	metadata	2026-07-22T12:53:14Z	
 0.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-ktor-server-iossimulatorarm64/0.28.1/acp-ktor-server-iossimulatorarm64-0.28.1.jar returned status 404
 0.28.1	metadata	2026-08-01T11:32:15Z	
+0.30.1		2026-08-25T11:46:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-ktor-server-iossimulatorarm64/0.30.1/acp-ktor-server-iossimulatorarm64-0.30.1.jar returned status 404
+0.30.1	metadata	2026-08-25T11:46:18Z	

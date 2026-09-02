@@ -1,0 +1,2 @@
+3.1.0.0		2026-08-27T00:08:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mezzomedia/3.1.0.0/mezzomedia-3.1.0.0.jar returned status 404
+3.1.1.0		2026-08-27T00:10:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mezzomedia/3.1.1.0/mezzomedia-3.1.1.0.jar returned status 404

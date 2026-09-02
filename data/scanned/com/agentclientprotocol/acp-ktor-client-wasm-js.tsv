@@ -35,6 +35,7 @@
 0.26.0		2026-07-22T12:53:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-ktor-client-wasm-js/0.26.0/acp-ktor-client-wasm-js-0.26.0.jar returned status 404
 0.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-ktor-client-wasm-js/0.28.1/acp-ktor-client-wasm-js-0.28.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-ktor-client-wasm-js/0.3.0/acp-ktor-client-wasm-js-0.3.0.jar returned status 404
+0.30.1		2026-08-25T11:46:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-ktor-client-wasm-js/0.30.1/acp-ktor-client-wasm-js-0.30.1.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-ktor-client-wasm-js/0.4.0/acp-ktor-client-wasm-js-0.4.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-ktor-client-wasm-js/0.5.0/acp-ktor-client-wasm-js-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/agentclientprotocol/acp-ktor-client-wasm-js/0.6.0/acp-ktor-client-wasm-js-0.6.0.jar returned status 404
