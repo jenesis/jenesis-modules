@@ -1,3 +1,7 @@
 0.13.3		2026-08-05T20:18:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/bgeo-android/0.13.3/bgeo-android-0.13.3.jar returned status 404
 0.13.4		2026-08-07T09:30:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/bgeo-android/0.13.4/bgeo-android-0.13.4.jar returned status 404
 0.13.5		2026-08-07T10:44:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/bgeo-android/0.13.5/bgeo-android-0.13.5.jar returned status 404
+0.14.0		2026-08-12T09:05:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/bgeo-android/0.14.0/bgeo-android-0.14.0.jar returned status 404
+0.14.1		2026-08-17T11:17:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/bgeo-android/0.14.1/bgeo-android-0.14.1.jar returned status 404
+0.16.8		2026-08-29T18:17:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/bgeo-android/0.16.8/bgeo-android-0.16.8.jar returned status 404
+0.16.9		2026-08-29T18:27:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/bgeo-android/0.16.9/bgeo-android-0.16.9.jar returned status 404

@@ -8,3 +8,9 @@
 1.1.0	metadata	2026-07-30T17:24:48Z	
 1.1.1		2026-08-06T09:12:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/avinya/ads/admob-cmp-iosarm64/1.1.1/admob-cmp-iosarm64-1.1.1.jar returned status 404
 1.1.1	metadata	2026-08-06T09:12:58Z	
+2.0.0		2026-08-11T11:21:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/avinya/ads/admob-cmp-iosarm64/2.0.0/admob-cmp-iosarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-08-11T11:21:58Z	
+2.0.1		2026-08-13T19:57:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/avinya/ads/admob-cmp-iosarm64/2.0.1/admob-cmp-iosarm64-2.0.1.jar returned status 404
+2.0.1	metadata	2026-08-13T19:58:00Z	
+2.1.0		2026-08-16T18:59:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/avinya/ads/admob-cmp-iosarm64/2.1.0/admob-cmp-iosarm64-2.1.0.jar returned status 404
+2.1.0	metadata	2026-08-16T18:59:37Z	
