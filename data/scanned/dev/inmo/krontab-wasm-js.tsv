@@ -1,3 +1,4 @@
+2.10.0		2026-08-17T09:12:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-wasm-js/2.10.0/krontab-wasm-js-2.10.0.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-wasm-js/2.7.0/krontab-wasm-js-2.7.0.jar returned status 404
 2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-wasm-js/2.7.1/krontab-wasm-js-2.7.1.jar returned status 404
 2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-wasm-js/2.7.2/krontab-wasm-js-2.7.2.jar returned status 404

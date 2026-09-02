@@ -26,6 +26,7 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-android/2.1.0/krontab-android-2.1.0.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-android/2.1.1/krontab-android-2.1.1.jar returned status 404
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-android/2.1.2/krontab-android-2.1.2.jar returned status 404
+2.10.0		2026-08-17T09:12:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-android/2.10.0/krontab-android-2.10.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-android/2.2.0/krontab-android-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-android/2.2.1/krontab-android-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/krontab-android/2.2.2/krontab-android-2.2.2.jar returned status 404

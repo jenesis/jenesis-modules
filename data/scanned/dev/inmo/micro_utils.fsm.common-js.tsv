@@ -193,6 +193,8 @@
 0.29.3		2026-05-21T15:35:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.fsm.common-js/0.29.3/micro_utils.fsm.common-js-0.29.3.jar returned status 404
 0.29.4		2026-05-23T12:25:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.fsm.common-js/0.29.4/micro_utils.fsm.common-js-0.29.4.jar returned status 404
 0.30.0		2026-06-29T10:49:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.fsm.common-js/0.30.0/micro_utils.fsm.common-js-0.30.0.jar returned status 404
+0.30.1		2026-08-13T08:11:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.fsm.common-js/0.30.1/micro_utils.fsm.common-js-0.30.1.jar returned status 404
+0.31.0		2026-08-30T12:40:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.fsm.common-js/0.31.0/micro_utils.fsm.common-js-0.31.0.jar returned status 404
 0.5.13		2021-06-23T15:49:00Z	
 0.5.14		2021-06-25T21:13:56Z	
 0.5.15		2021-06-27T19:20:53Z	
@@ -252,3 +254,4 @@
 0.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.fsm.common-js/0.9.7/micro_utils.fsm.common-js-0.9.7.jar returned status 404
 0.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.fsm.common-js/0.9.8/micro_utils.fsm.common-js-0.9.8.jar returned status 404
 0.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.fsm.common-js/0.9.9/micro_utils.fsm.common-js-0.9.9.jar returned status 404
+30.1.0		2026-08-12T08:20:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.fsm.common-js/30.1.0/micro_utils.fsm.common-js-30.1.0.jar returned status 404
