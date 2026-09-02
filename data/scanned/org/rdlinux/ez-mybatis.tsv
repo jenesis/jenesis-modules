@@ -116,3 +116,6 @@
 1.0.8.plus352			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rdlinux/ez-mybatis/1.0.8.plus352/ez-mybatis-1.0.8.plus352.jar returned status 404
 1.0.9.RS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rdlinux/ez-mybatis/1.0.9.RS/ez-mybatis-1.0.9.RS.jar returned status 404
 1.1.0.RS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rdlinux/ez-mybatis/1.1.0.RS/ez-mybatis-1.1.0.RS.jar returned status 404
+1.1.1.RS		2026-08-25T07:21:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rdlinux/ez-mybatis/1.1.1.RS/ez-mybatis-1.1.1.RS.jar returned status 404
+1.1.2.RS		2026-08-26T03:54:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rdlinux/ez-mybatis/1.1.2.RS/ez-mybatis-1.1.2.RS.jar returned status 404
+1.1.2.plus352		2026-08-26T04:42:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/rdlinux/ez-mybatis/1.1.2.plus352/ez-mybatis-1.1.2.plus352.jar returned status 404

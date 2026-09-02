@@ -1,1 +1,2 @@
 16.0.0-RC1		2026-07-08T20:20:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-cdk/16.0.0-RC1/primefaces-cdk-16.0.0-RC1.jar returned status 404
+16.0.0-RC2		2026-08-10T16:18:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/primefaces/primefaces-cdk/16.0.0-RC2/primefaces-cdk-16.0.0-RC2.jar returned status 404
