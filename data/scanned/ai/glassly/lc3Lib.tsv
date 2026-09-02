@@ -1,0 +1,4 @@
+0.1.0-dev.59		2026-08-29T02:23:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/glassly/lc3Lib/0.1.0-dev.59/lc3Lib-0.1.0-dev.59.jar returned status 404
+0.1.0-dev.61		2026-08-29T03:00:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/glassly/lc3Lib/0.1.0-dev.61/lc3Lib-0.1.0-dev.61.jar returned status 404
+0.1.0-dev.62		2026-08-29T17:27:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/glassly/lc3Lib/0.1.0-dev.62/lc3Lib-0.1.0-dev.62.jar returned status 404
+0.1.0-dev.73		2026-08-30T23:21:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/glassly/lc3Lib/0.1.0-dev.73/lc3Lib-0.1.0-dev.73.jar returned status 404

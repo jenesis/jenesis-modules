@@ -8905,3 +8905,11 @@ ai.singlr.onnx
 ai.singlr.gemini
 ai.singlr.core
 ai.singlr.anthropic
+ai.fireweave.testing
+ai.fireweave.sdk
+ai.fireweave.openfeature
+ai.fireweave.adapter.posthog
+ai.docling.testcontainers
+ai.docling.serve.client
+ai.docling.serve.api
+ai.docling.core

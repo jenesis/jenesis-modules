@@ -64,3 +64,5 @@
 1.0.0-beta-preview7	metadata	2026-05-21T09:23:37Z	
 1.1.1-beta		2026-07-20T12:13:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/koog-ktor-iossimulatorarm64/1.1.1-beta/koog-ktor-iossimulatorarm64-1.1.1-beta.jar returned status 404
 1.1.1-beta	metadata	2026-07-20T12:13:04Z	
+1.2.0-beta		2026-08-27T14:46:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/koog-ktor-iossimulatorarm64/1.2.0-beta/koog-ktor-iossimulatorarm64-1.2.0-beta.jar returned status 404
+1.2.0-beta	metadata	2026-08-27T14:46:31Z	

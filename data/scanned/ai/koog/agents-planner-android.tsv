@@ -1,3 +1,4 @@
 1.0.0-beta		2026-05-21T14:49:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-planner-android/1.0.0-beta/agents-planner-android-1.0.0-beta.jar returned status 404
 1.0.0-beta-preview7		2026-05-21T09:23:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-planner-android/1.0.0-beta-preview7/agents-planner-android-1.0.0-beta-preview7.jar returned status 404
 1.1.1-beta		2026-07-20T12:13:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-planner-android/1.1.1-beta/agents-planner-android-1.1.1-beta.jar returned status 404
+1.2.0-beta		2026-08-27T14:46:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-planner-android/1.2.0-beta/agents-planner-android-1.2.0-beta.jar returned status 404

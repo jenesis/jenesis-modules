@@ -64,3 +64,5 @@
 1.0.0-preview7	metadata	2026-05-21T09:23:38Z	
 1.1.1		2026-07-20T12:13:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-anthropic-client-iossimulatorarm64/1.1.1/prompt-executor-anthropic-client-iossimulatorarm64-1.1.1.jar returned status 404
 1.1.1	metadata	2026-07-20T12:13:29Z	
+1.2.0		2026-08-27T14:46:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-anthropic-client-iossimulatorarm64/1.2.0/prompt-executor-anthropic-client-iossimulatorarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-08-27T14:46:20Z	
