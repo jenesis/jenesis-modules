@@ -51,3 +51,4 @@
 0.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kdriver/cdp-mingwx64/0.5.7/cdp-mingwx64-0.5.7.jar returned status 404
 0.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kdriver/cdp-mingwx64/0.5.8/cdp-mingwx64-0.5.8.jar returned status 404
 0.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kdriver/cdp-mingwx64/0.5.9/cdp-mingwx64-0.5.9.jar returned status 404
+0.6.0		2026-08-27T09:29:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kdriver/cdp-mingwx64/0.6.0/cdp-mingwx64-0.6.0.jar returned status 404

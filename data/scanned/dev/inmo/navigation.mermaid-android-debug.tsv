@@ -16,3 +16,4 @@
 0.7.3-t6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/navigation.mermaid-android-debug/0.7.3-t6/navigation.mermaid-android-debug-0.7.3-t6.jar returned status 404
 0.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/navigation.mermaid-android-debug/0.7.4/navigation.mermaid-android-debug-0.7.4.jar returned status 404
 0.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/navigation.mermaid-android-debug/0.7.5/navigation.mermaid-android-debug-0.7.5.jar returned status 404
+0.7.7		2026-08-16T19:04:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/navigation.mermaid-android-debug/0.7.7/navigation.mermaid-android-debug-0.7.7.jar returned status 404

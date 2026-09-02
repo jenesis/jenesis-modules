@@ -35,3 +35,8 @@
 0.47.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-layout-bridge-js/0.47.0/kuml-layout-bridge-js-0.47.0.jar returned status 404
 0.48.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-layout-bridge-js/0.48.0/kuml-layout-bridge-js-0.48.0.jar returned status 404
 0.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-layout-bridge-js/0.49.0/kuml-layout-bridge-js-0.49.0.jar returned status 404
+0.50.0		2026-08-12T10:57:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-layout-bridge-js/0.50.0/kuml-layout-bridge-js-0.50.0.jar returned status 404
+0.51.0		2026-08-18T09:37:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-layout-bridge-js/0.51.0/kuml-layout-bridge-js-0.51.0.jar returned status 404
+0.51.1		2026-08-18T17:56:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-layout-bridge-js/0.51.1/kuml-layout-bridge-js-0.51.1.jar returned status 404
+0.52.0		2026-08-20T12:48:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-layout-bridge-js/0.52.0/kuml-layout-bridge-js-0.52.0.jar returned status 404
+0.53.0		2026-08-25T16:21:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-layout-bridge-js/0.53.0/kuml-layout-bridge-js-0.53.0.jar returned status 404

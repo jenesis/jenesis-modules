@@ -104,3 +104,5 @@
 0.5.8	metadata	2026-03-19T21:32:19Z	
 0.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kdriver/cdp-macosarm64/0.5.9/cdp-macosarm64-0.5.9.jar returned status 404
 0.5.9	metadata	2026-04-27T12:45:53Z	
+0.6.0		2026-08-27T09:29:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kdriver/cdp-macosarm64/0.6.0/cdp-macosarm64-0.6.0.jar returned status 404
+0.6.0	metadata	2026-08-27T09:29:32Z	

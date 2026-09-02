@@ -1,2 +1,4 @@
 0.2.1		2026-08-10T01:27:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kiit/kiit-result-iosarm64/0.2.1/kiit-result-iosarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2026-08-10T01:27:15Z	
+1.0.0		2026-08-16T00:42:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kiit/kiit-result-iosarm64/1.0.0/kiit-result-iosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-08-16T00:42:04Z	

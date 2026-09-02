@@ -21,3 +21,5 @@
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/geocoder-web-googlemaps-wasm-js/3.0.2/geocoder-web-googlemaps-wasm-js-3.0.2.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/geocoder-web-googlemaps-wasm-js/3.1.0/geocoder-web-googlemaps-wasm-js-3.1.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/geocoder-web-googlemaps-wasm-js/3.2.0/geocoder-web-googlemaps-wasm-js-3.2.0.jar returned status 404
+3.3.0		2026-08-20T14:44:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/geocoder-web-googlemaps-wasm-js/3.3.0/geocoder-web-googlemaps-wasm-js-3.3.0.jar returned status 404
+4.0.0		2026-08-26T18:29:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/geocoder-web-googlemaps-wasm-js/4.0.0/geocoder-web-googlemaps-wasm-js-4.0.0.jar returned status 404
