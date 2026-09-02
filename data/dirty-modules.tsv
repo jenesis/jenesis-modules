@@ -4462,3 +4462,9 @@ io.quarkus.modular
 io.quarkus.jlink.launcher
 io.quarkus.jlink
 io.quarkus.launcher
+io.quarkus.dev.spi
+io.quarkus.core
+io.quarkus.commons.classloading
+io.quarkus.changeagent
+io.quarkus.bootstrap.runner
+io.quarkus.arc

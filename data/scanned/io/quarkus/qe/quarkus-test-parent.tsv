@@ -190,3 +190,4 @@
 1.8.3		2026-05-27T09:49:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-parent/1.8.3/quarkus-test-parent-1.8.3.jar returned status 404
 1.8.4		2026-06-08T15:22:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-parent/1.8.4/quarkus-test-parent-1.8.4.jar returned status 404
 1.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-parent/1.8.5/quarkus-test-parent-1.8.5.jar returned status 404
+1.9.0.Beta2		2026-08-21T14:10:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/qe/quarkus-test-parent/1.9.0.Beta2/quarkus-test-parent-1.9.0.Beta2.jar returned status 404

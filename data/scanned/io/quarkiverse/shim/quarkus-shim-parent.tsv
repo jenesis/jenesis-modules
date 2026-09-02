@@ -1,3 +1,5 @@
 0.1.0		2026-07-12T13:01:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/shim/quarkus-shim-parent/0.1.0/quarkus-shim-parent-0.1.0.jar returned status 404
 0.1.1		2026-07-13T17:53:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/shim/quarkus-shim-parent/0.1.1/quarkus-shim-parent-0.1.1.jar returned status 404
 0.2.0		2026-07-19T15:02:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/shim/quarkus-shim-parent/0.2.0/quarkus-shim-parent-0.2.0.jar returned status 404
+0.3.0		2026-08-13T14:51:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/shim/quarkus-shim-parent/0.3.0/quarkus-shim-parent-0.3.0.jar returned status 404
+0.4.0		2026-08-13T21:17:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/shim/quarkus-shim-parent/0.4.0/quarkus-shim-parent-0.4.0.jar returned status 404
