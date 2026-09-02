@@ -2,6 +2,12 @@
 0.0.1	metadata	2026-04-24T12:38:26Z	
 0.0.10		2026-08-07T09:06:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/data-energy-iossimulatorarm64/0.0.10/data-energy-iossimulatorarm64-0.0.10.jar returned status 404
 0.0.10	metadata	2026-08-07T09:06:11Z	
+0.0.11		2026-08-14T07:52:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/data-energy-iossimulatorarm64/0.0.11/data-energy-iossimulatorarm64-0.0.11.jar returned status 404
+0.0.11	metadata	2026-08-14T07:52:29Z	
+0.0.12		2026-08-14T10:11:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/data-energy-iossimulatorarm64/0.0.12/data-energy-iossimulatorarm64-0.0.12.jar returned status 404
+0.0.12	metadata	2026-08-14T10:11:20Z	
+0.0.13		2026-08-28T13:07:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/data-energy-iossimulatorarm64/0.0.13/data-energy-iossimulatorarm64-0.0.13.jar returned status 404
+0.0.13	metadata	2026-08-28T13:07:03Z	
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/data-energy-iossimulatorarm64/0.0.2/data-energy-iossimulatorarm64-0.0.2.jar returned status 404
 0.0.2	metadata	2026-05-04T11:46:05Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/data-energy-iossimulatorarm64/0.0.3/data-energy-iossimulatorarm64-0.0.3.jar returned status 404
