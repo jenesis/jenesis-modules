@@ -1,0 +1,4 @@
+1.1.0		2026-08-14T15:11:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBookKotlinxSerialization-macosarm64/1.1.0/GrowthBookKotlinxSerialization-macosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-08-14T15:11:45Z	
+1.2.0		2026-08-24T10:37:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBookKotlinxSerialization-macosarm64/1.2.0/GrowthBookKotlinxSerialization-macosarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-08-24T10:37:28Z	

@@ -14,3 +14,8 @@
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-wasm-js/7.1.1/GrowthBook-wasm-js-7.1.1.jar returned status 404
 7.2.0		2026-06-19T14:30:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-wasm-js/7.2.0/GrowthBook-wasm-js-7.2.0.jar returned status 404
 7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-wasm-js/7.3.0/GrowthBook-wasm-js-7.3.0.jar returned status 404
+7.4.0		2026-08-14T09:53:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-wasm-js/7.4.0/GrowthBook-wasm-js-7.4.0.jar returned status 404
+7.5.0		2026-08-14T11:42:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-wasm-js/7.5.0/GrowthBook-wasm-js-7.5.0.jar returned status 404
+7.6.0		2026-08-14T15:22:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-wasm-js/7.6.0/GrowthBook-wasm-js-7.6.0.jar returned status 404
+7.7.0		2026-08-24T10:42:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-wasm-js/7.7.0/GrowthBook-wasm-js-7.7.0.jar returned status 404
+7.8.0		2026-08-25T09:21:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-wasm-js/7.8.0/GrowthBook-wasm-js-7.8.0.jar returned status 404

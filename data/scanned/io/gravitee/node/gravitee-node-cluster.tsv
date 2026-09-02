@@ -404,3 +404,6 @@
 9.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/gravitee-node-cluster/9.4.1/gravitee-node-cluster-9.4.1.jar returned status 404
 9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/gravitee-node-cluster/9.5.0/gravitee-node-cluster-9.5.0.jar returned status 404
 9.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/gravitee-node-cluster/9.6.0/gravitee-node-cluster-9.6.0.jar returned status 404
+9.6.1		2026-08-13T07:21:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/gravitee-node-cluster/9.6.1/gravitee-node-cluster-9.6.1.jar returned status 404
+9.6.2		2026-08-17T12:20:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/gravitee-node-cluster/9.6.2/gravitee-node-cluster-9.6.2.jar returned status 404
+9.7.0		2026-08-20T09:32:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/gravitee-node-cluster/9.7.0/gravitee-node-cluster-9.7.0.jar returned status 404

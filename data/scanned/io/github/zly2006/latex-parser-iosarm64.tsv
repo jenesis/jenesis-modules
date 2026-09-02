@@ -8,6 +8,8 @@
 0.0.1-alpha4	metadata	2026-07-23T18:26:13Z	
 0.0.1-alpha5		2026-08-10T15:58:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zly2006/latex-parser-iosarm64/0.0.1-alpha5/latex-parser-iosarm64-0.0.1-alpha5.jar returned status 404
 0.0.1-alpha5	metadata	2026-08-10T15:58:08Z	
+0.0.1-alpha6		2026-08-16T09:53:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zly2006/latex-parser-iosarm64/0.0.1-alpha6/latex-parser-iosarm64-0.0.1-alpha6.jar returned status 404
+0.0.1-alpha6	metadata	2026-08-16T09:53:34Z	
 1.4.4-zly			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zly2006/latex-parser-iosarm64/1.4.4-zly/latex-parser-iosarm64-1.4.4-zly.jar returned status 404
 1.4.4-zly	metadata	2026-05-17T17:30:31Z	
 1.4.6-zly		2026-05-31T11:41:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zly2006/latex-parser-iosarm64/1.4.6-zly/latex-parser-iosarm64-1.4.6-zly.jar returned status 404
