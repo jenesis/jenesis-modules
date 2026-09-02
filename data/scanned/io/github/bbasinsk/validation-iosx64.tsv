@@ -50,3 +50,5 @@
 0.5.0	metadata	2026-07-30T17:59:50Z	
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/validation-iosx64/0.5.1/validation-iosx64-0.5.1.jar returned status 404
 0.5.1	metadata	2026-08-04T02:29:16Z	
+0.5.2		2026-08-19T21:57:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/validation-iosx64/0.5.2/validation-iosx64-0.5.2.jar returned status 404
+0.5.2	metadata	2026-08-19T21:57:38Z	

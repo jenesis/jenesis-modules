@@ -1,3 +1,4 @@
 0.1.0		2026-08-05T21:43:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bowerbird-java/bowerbird-parent/0.1.0/bowerbird-parent-0.1.0.jar returned status 404
 0.2.0		2026-08-09T22:50:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bowerbird-java/bowerbird-parent/0.2.0/bowerbird-parent-0.2.0.jar returned status 404
 0.3.0		2026-08-10T21:43:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bowerbird-java/bowerbird-parent/0.3.0/bowerbird-parent-0.3.0.jar returned status 404
+0.3.1		2026-08-12T20:43:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bowerbird-java/bowerbird-parent/0.3.1/bowerbird-parent-0.3.1.jar returned status 404

@@ -1,0 +1,4 @@
+1.0.0		2026-08-26T19:23:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/buszi/respawn/respawn-iosarm64/1.0.0/respawn-iosarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-08-26T19:23:25Z	
+1.0.1		2026-08-28T19:36:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/buszi/respawn/respawn-iosarm64/1.0.1/respawn-iosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-08-28T19:36:07Z	
