@@ -1,4 +1,5 @@
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/zenoh/zenoh-kotlin-android/1.1.1/zenoh-kotlin-android-1.1.1.jar returned status 404
+1.10.0		2026-08-14T19:04:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/zenoh/zenoh-kotlin-android/1.10.0/zenoh-kotlin-android-1.10.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/zenoh/zenoh-kotlin-android/1.2.0/zenoh-kotlin-android-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/zenoh/zenoh-kotlin-android/1.2.1/zenoh-kotlin-android-1.2.1.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/zenoh/zenoh-kotlin-android/1.3.0/zenoh-kotlin-android-1.3.0.jar returned status 404

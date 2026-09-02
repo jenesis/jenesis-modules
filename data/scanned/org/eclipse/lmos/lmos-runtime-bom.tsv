@@ -15,3 +15,4 @@
 0.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lmos/lmos-runtime-bom/0.29.0/lmos-runtime-bom-0.29.0.jar returned status 404
 0.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lmos/lmos-runtime-bom/0.30.0/lmos-runtime-bom-0.30.0.jar returned status 404
 0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lmos/lmos-runtime-bom/0.31.0/lmos-runtime-bom-0.31.0.jar returned status 404
+0.32.0		2026-08-10T08:34:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lmos/lmos-runtime-bom/0.32.0/lmos-runtime-bom-0.32.0.jar returned status 404
