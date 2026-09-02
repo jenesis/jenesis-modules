@@ -4,6 +4,7 @@
 1.14.2		2026-05-22T11:25:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-compose-js/1.14.2/worldwind-compose-js-1.14.2.jar returned status 404
 2.0.0		2026-05-31T21:42:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-compose-js/2.0.0/worldwind-compose-js-2.0.0.jar returned status 404
 2.0.1		2026-06-07T12:24:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-compose-js/2.0.1/worldwind-compose-js-2.0.1.jar returned status 404
+2.0.10		2026-08-17T11:00:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-compose-js/2.0.10/worldwind-compose-js-2.0.10.jar returned status 404
 2.0.2		2026-06-10T22:01:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-compose-js/2.0.2/worldwind-compose-js-2.0.2.jar returned status 404
 2.0.3		2026-06-17T08:42:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-compose-js/2.0.3/worldwind-compose-js-2.0.3.jar returned status 404
 2.0.4		2026-06-30T22:33:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-compose-js/2.0.4/worldwind-compose-js-2.0.4.jar returned status 404

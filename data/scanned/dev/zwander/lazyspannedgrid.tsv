@@ -3,3 +3,5 @@
 1.0.2		2026-07-26T01:53:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zwander/lazyspannedgrid/1.0.2/lazyspannedgrid-1.0.2.jar returned status 404
 1.0.3		2026-07-26T14:06:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zwander/lazyspannedgrid/1.0.3/lazyspannedgrid-1.0.3.jar returned status 404
 1.1.0		2026-07-26T15:41:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zwander/lazyspannedgrid/1.1.0/lazyspannedgrid-1.1.0.jar returned status 404
+1.1.1		2026-08-17T15:50:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zwander/lazyspannedgrid/1.1.1/lazyspannedgrid-1.1.1.jar returned status 404
+1.2.0		2026-08-30T04:11:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zwander/lazyspannedgrid/1.2.0/lazyspannedgrid-1.2.0.jar returned status 404

@@ -34,6 +34,7 @@
 0.12.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/mada/jaxrs/openapi-jaxrs-bom/0.12.7/openapi-jaxrs-bom-0.12.7.jar returned status 404
 0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/mada/jaxrs/openapi-jaxrs-bom/0.13.0/openapi-jaxrs-bom-0.13.0.jar returned status 404
 0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/mada/jaxrs/openapi-jaxrs-bom/0.13.1/openapi-jaxrs-bom-0.13.1.jar returned status 404
+0.13.2		2026-08-12T07:00:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/mada/jaxrs/openapi-jaxrs-bom/0.13.2/openapi-jaxrs-bom-0.13.2.jar returned status 404
 0.9.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/mada/jaxrs/openapi-jaxrs-bom/0.9.17/openapi-jaxrs-bom-0.9.17.jar returned status 404
 0.9.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/mada/jaxrs/openapi-jaxrs-bom/0.9.18/openapi-jaxrs-bom-0.9.18.jar returned status 404
 0.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/mada/jaxrs/openapi-jaxrs-bom/0.9.19/openapi-jaxrs-bom-0.9.19.jar returned status 404

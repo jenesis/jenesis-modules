@@ -5,3 +5,5 @@
 0.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/greentape/platform/greentape-platform-java-parent/0.53/greentape-platform-java-parent-0.53.jar returned status 404
 0.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/greentape/platform/greentape-platform-java-parent/0.54/greentape-platform-java-parent-0.54.jar returned status 404
 0.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/greentape/platform/greentape-platform-java-parent/0.55/greentape-platform-java-parent-0.55.jar returned status 404
+0.78		2026-08-13T11:15:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/greentape/platform/greentape-platform-java-parent/0.78/greentape-platform-java-parent-0.78.jar returned status 404
+0.92		2026-08-27T15:36:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/greentape/platform/greentape-platform-java-parent/0.92/greentape-platform-java-parent-0.92.jar returned status 404
