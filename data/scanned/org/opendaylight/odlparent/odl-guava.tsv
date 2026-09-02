@@ -72,6 +72,7 @@
 14.3.4		2026-06-07T14:41:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-guava/14.3.4/odl-guava-14.3.4.jar returned status 404
 14.3.5		2026-06-07T14:41:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-guava/14.3.5/odl-guava-14.3.5.jar returned status 404
 14.3.6		2026-06-14T18:20:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-guava/14.3.6/odl-guava-14.3.6.jar returned status 404
+15.0.0		2026-08-23T17:07:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-guava/15.0.0/odl-guava-15.0.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-guava/4.0.0/odl-guava-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-guava/4.0.1/odl-guava-4.0.1.jar returned status 404
 4.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-guava/4.0.10/odl-guava-4.0.10.jar returned status 404

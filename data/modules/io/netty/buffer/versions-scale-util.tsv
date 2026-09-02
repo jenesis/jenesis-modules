@@ -8,3 +8,7 @@
 8.0.10	named	org.opendaylight.netconf	netconf-testtool	2026-03-02T10:05:14Z	4.2.7.Final
 9.0.2	named	org.opendaylight.netconf	netconf-testtool	2026-03-13T18:28:21Z	4.2.10.Final
 10.0.3	named	org.opendaylight.netconf	netconf-testtool	2026-03-15T10:45:51Z	4.2.10.Final
+9.0.3	named	org.opendaylight.netconf	netconf-testtool	2026-08-12T15:28:17Z	4.2.16.Final
+10.0.4	named	org.opendaylight.netconf	netconf-testtool	2026-08-21T05:54:33Z	4.2.16.Final
+9.0.4	named	org.opendaylight.netconf	netconf-testtool	2026-08-28T08:23:37Z	4.2.16.Final
+10.0.5	named	org.opendaylight.netconf	netconf-testtool	2026-08-28T08:28:53Z	4.2.16.Final

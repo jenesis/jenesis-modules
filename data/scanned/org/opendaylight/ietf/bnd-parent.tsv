@@ -8,3 +8,5 @@
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/bnd-parent/2.0.1/bnd-parent-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/bnd-parent/2.0.2/bnd-parent-2.0.2.jar returned status 404
 2.0.3		2026-06-10T03:09:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/bnd-parent/2.0.3/bnd-parent-2.0.3.jar returned status 404
+2.0.5		2026-08-12T05:14:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/bnd-parent/2.0.5/bnd-parent-2.0.5.jar returned status 404
+2.0.6		2026-08-20T12:22:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/bnd-parent/2.0.6/bnd-parent-2.0.6.jar returned status 404

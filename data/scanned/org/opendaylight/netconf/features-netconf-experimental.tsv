@@ -2,7 +2,9 @@
 10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/10.0.1/features-netconf-experimental-10.0.1.jar returned status 404
 10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/10.0.2/features-netconf-experimental-10.0.2.jar returned status 404
 10.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/10.0.3/features-netconf-experimental-10.0.3.jar returned status 404
+10.0.4		2026-08-23T16:55:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/10.0.4/features-netconf-experimental-10.0.4.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/11.0.0/features-netconf-experimental-11.0.0.jar returned status 404
+11.0.1		2026-08-23T16:55:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/11.0.1/features-netconf-experimental-11.0.1.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/6.0.0/features-netconf-experimental-6.0.0.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/6.0.1/features-netconf-experimental-6.0.1.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/6.0.2/features-netconf-experimental-6.0.2.jar returned status 404
@@ -40,3 +42,4 @@
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/9.0.0/features-netconf-experimental-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/9.0.1/features-netconf-experimental-9.0.1.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/9.0.2/features-netconf-experimental-9.0.2.jar returned status 404
+9.0.3		2026-08-16T14:09:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-experimental/9.0.3/features-netconf-experimental-9.0.3.jar returned status 404

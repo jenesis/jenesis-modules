@@ -118,3 +118,5 @@
 7.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/parent/7.1.7/parent-7.1.7.jar returned status 404
 7.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/parent/7.1.8/parent-7.1.8.jar returned status 404
 7.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/parent/7.1.9/parent-7.1.9.jar returned status 404
+8.0.0		2026-08-12T18:56:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/parent/8.0.0/parent-8.0.0.jar returned status 404
+8.0.1		2026-08-21T02:40:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/parent/8.0.1/parent-8.0.1.jar returned status 404

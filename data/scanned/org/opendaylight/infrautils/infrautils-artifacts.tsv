@@ -132,3 +132,5 @@
 7.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/infrautils-artifacts/7.1.7/infrautils-artifacts-7.1.7.jar returned status 404
 7.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/infrautils-artifacts/7.1.8/infrautils-artifacts-7.1.8.jar returned status 404
 7.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/infrautils-artifacts/7.1.9/infrautils-artifacts-7.1.9.jar returned status 404
+8.0.0		2026-08-12T18:57:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/infrautils-artifacts/8.0.0/infrautils-artifacts-8.0.0.jar returned status 404
+8.0.1		2026-08-21T02:41:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/infrautils-artifacts/8.0.1/infrautils-artifacts-8.0.1.jar returned status 404
