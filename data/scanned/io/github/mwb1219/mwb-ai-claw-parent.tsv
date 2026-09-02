@@ -1,0 +1,5 @@
+1.0.0		2026-08-22T04:48:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mwb1219/mwb-ai-claw-parent/1.0.0/mwb-ai-claw-parent-1.0.0.jar returned status 404
+1.0.1		2026-08-23T13:10:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mwb1219/mwb-ai-claw-parent/1.0.1/mwb-ai-claw-parent-1.0.1.jar returned status 404
+1.0.2		2026-08-24T10:53:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mwb1219/mwb-ai-claw-parent/1.0.2/mwb-ai-claw-parent-1.0.2.jar returned status 404
+1.0.3		2026-08-25T10:31:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mwb1219/mwb-ai-claw-parent/1.0.3/mwb-ai-claw-parent-1.0.3.jar returned status 404
+1.0.4		2026-08-29T11:38:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mwb1219/mwb-ai-claw-parent/1.0.4/mwb-ai-claw-parent-1.0.4.jar returned status 404

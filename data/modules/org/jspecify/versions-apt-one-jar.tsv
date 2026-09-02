@@ -6,3 +6,5 @@
 7.4.0	named	io.github.openfeign.querydsl	querydsl-mongodb	2026-06-15T14:29:46Z	
 7.5	named	io.github.openfeign.querydsl	querydsl-jpa	2026-07-21T20:46:58Z	
 7.5	named	io.github.openfeign.querydsl	querydsl-mongodb	2026-07-21T20:46:58Z	
+7.6	named	io.github.openfeign.querydsl	querydsl-jpa	2026-08-19T17:32:55Z	1.0.1
+7.6	named	io.github.openfeign.querydsl	querydsl-mongodb	2026-08-19T17:32:55Z	1.0.1

@@ -14,6 +14,20 @@
 3.5.1	metadata	2026-06-08T04:23:54Z	
 3.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-macosarm64/3.5.10/cmp-share-compose-macosarm64-3.5.10.jar returned status 404
 3.5.10	metadata	2026-08-05T07:18:10Z	
+3.5.11		2026-08-12T11:53:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-macosarm64/3.5.11/cmp-share-compose-macosarm64-3.5.11.jar returned status 404
+3.5.11	metadata	2026-08-12T11:53:18Z	
+3.5.12		2026-08-17T01:32:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-macosarm64/3.5.12/cmp-share-compose-macosarm64-3.5.12.jar returned status 404
+3.5.12	metadata	2026-08-17T01:32:32Z	
+3.5.13		2026-08-24T01:40:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-macosarm64/3.5.13/cmp-share-compose-macosarm64-3.5.13.jar returned status 404
+3.5.13	metadata	2026-08-24T01:40:00Z	
+3.5.14		2026-08-25T19:29:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-macosarm64/3.5.14/cmp-share-compose-macosarm64-3.5.14.jar returned status 404
+3.5.14	metadata	2026-08-25T19:29:38Z	
+3.5.15		2026-08-27T13:38:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-macosarm64/3.5.15/cmp-share-compose-macosarm64-3.5.15.jar returned status 404
+3.5.15	metadata	2026-08-27T13:38:33Z	
+3.5.16		2026-08-27T15:01:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-macosarm64/3.5.16/cmp-share-compose-macosarm64-3.5.16.jar returned status 404
+3.5.16	metadata	2026-08-27T15:01:57Z	
+3.5.18		2026-08-29T06:22:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-macosarm64/3.5.18/cmp-share-compose-macosarm64-3.5.18.jar returned status 404
+3.5.18	metadata	2026-08-29T06:22:01Z	
 3.5.2		2026-06-22T05:04:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-macosarm64/3.5.2/cmp-share-compose-macosarm64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T05:04:26Z	
 3.5.3		2026-07-06T15:34:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-compose-macosarm64/3.5.3/cmp-share-compose-macosarm64-3.5.3.jar returned status 404

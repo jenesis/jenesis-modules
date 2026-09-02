@@ -2,3 +2,4 @@
 0.1.1-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nikolaykuts/lokdroid-android/0.1.1-alpha/lokdroid-android-0.1.1-alpha.jar returned status 404
 0.1.1-alpha1234			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nikolaykuts/lokdroid-android/0.1.1-alpha1234/lokdroid-android-0.1.1-alpha1234.jar returned status 404
 0.1.2-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nikolaykuts/lokdroid-android/0.1.2-alpha/lokdroid-android-0.1.2-alpha.jar returned status 404
+0.2.0-alpha		2026-08-25T15:34:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nikolaykuts/lokdroid-android/0.2.0-alpha/lokdroid-android-0.2.0-alpha.jar returned status 404
