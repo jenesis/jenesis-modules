@@ -1,3 +1,11 @@
+2.10.0-beta		2026-08-23T05:37:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wadamzmail/androidide/logging/logsender/2.10.0-beta/logsender-2.10.0-beta.jar returned status 404
+2.10.0-beta	debug-sources	2026-08-23T05:37:03Z	
+2.10.0-beta	dev-sources	2026-08-23T05:37:03Z	
+2.10.0-beta	release-sources	2026-08-23T05:37:03Z	
+2.10.1-beta		2026-08-23T20:47:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wadamzmail/androidide/logging/logsender/2.10.1-beta/logsender-2.10.1-beta.jar returned status 404
+2.10.1-beta	debug-sources	2026-08-23T20:47:50Z	
+2.10.1-beta	dev-sources	2026-08-23T20:47:50Z	
+2.10.1-beta	release-sources	2026-08-23T20:47:50Z	
 2.7.22-beta		2026-07-26T20:42:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wadamzmail/androidide/logging/logsender/2.7.22-beta/logsender-2.7.22-beta.jar returned status 404
 2.7.22-beta	debug-sources	2026-07-26T20:42:54Z	
 2.7.22-beta	dev-sources	2026-07-26T20:42:54Z	
@@ -18,6 +26,10 @@
 2.8.1-beta	debug-sources	2026-08-07T08:44:36Z	
 2.8.1-beta	dev-sources	2026-08-07T08:44:36Z	
 2.8.1-beta	release-sources	2026-08-07T08:44:36Z	
+2.9.0-beta		2026-08-09T12:23:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wadamzmail/androidide/logging/logsender/2.9.0-beta/logsender-2.9.0-beta.jar returned status 404
+2.9.0-beta	debug-sources	2026-08-09T12:23:05Z	
+2.9.0-beta	dev-sources	2026-08-09T12:23:05Z	
+2.9.0-beta	release-sources	2026-08-09T12:23:05Z	
 v2.7.23-beta		2026-07-26T22:25:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wadamzmail/androidide/logging/logsender/v2.7.23-beta/logsender-v2.7.23-beta.jar returned status 404
 v2.7.23-beta	debug-sources	2026-07-26T22:25:49Z	
 v2.7.23-beta	dev-sources	2026-07-26T22:25:49Z	

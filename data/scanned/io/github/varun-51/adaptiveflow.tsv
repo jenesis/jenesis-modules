@@ -1,0 +1,5 @@
+1.0.0		2026-08-11T04:43:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/varun-51/adaptiveflow/1.0.0/adaptiveflow-1.0.0.jar returned status 404
+1.0.1		2026-08-11T06:03:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/varun-51/adaptiveflow/1.0.1/adaptiveflow-1.0.1.jar returned status 404
+1.0.2		2026-08-11T07:21:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/varun-51/adaptiveflow/1.0.2/adaptiveflow-1.0.2.jar returned status 404
+1.0.4		2026-08-11T08:27:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/varun-51/adaptiveflow/1.0.4/adaptiveflow-1.0.4.jar returned status 404
+1.0.5		2026-08-11T09:25:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/varun-51/adaptiveflow/1.0.5/adaptiveflow-1.0.5.jar returned status 404

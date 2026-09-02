@@ -1,3 +1,5 @@
 3.5.3		2026-07-08T01:31:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ven-coder/assists-log/3.5.3/assists-log-3.5.3.jar returned status 404
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ven-coder/assists-log/3.5.4/assists-log-3.5.4.jar returned status 404
 3.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ven-coder/assists-log/3.5.5/assists-log-3.5.5.jar returned status 404
+3.5.6		2026-08-25T23:26:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ven-coder/assists-log/3.5.6/assists-log-3.5.6.jar returned status 404
+3.5.7		2026-08-29T03:40:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ven-coder/assists-log/3.5.7/assists-log-3.5.7.jar returned status 404
