@@ -14,3 +14,4 @@
 0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/prelude/android/sdk/0.5.2/sdk-0.5.2.jar returned status 404
 0.6.0		2026-06-02T15:15:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/prelude/android/sdk/0.6.0/sdk-0.6.0.jar returned status 404
 0.6.1		2026-06-08T09:07:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/prelude/android/sdk/0.6.1/sdk-0.6.1.jar returned status 404
+0.6.2		2026-08-12T14:32:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/prelude/android/sdk/0.6.2/sdk-0.6.2.jar returned status 404
