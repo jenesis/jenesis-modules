@@ -10,12 +10,15 @@
 2.2.1-wso2v2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/ops4j/pax/logging/pax-logging-it/2.2.1-wso2v2/pax-logging-it-2.2.1-wso2v2.jar returned status 404
 2.2.1-wso2v3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/ops4j/pax/logging/pax-logging-it/2.2.1-wso2v3/pax-logging-it-2.2.1-wso2v3.jar returned status 404
 2.2.13-wso2v1			
+2.2.14-wso2v1		2026-08-12T13:51:27Z	
 2.2.2-wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/ops4j/pax/logging/pax-logging-it/2.2.2-wso2v1/pax-logging-it-2.2.2-wso2v1.jar returned status 404
 2.2.9-wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/ops4j/pax/logging/pax-logging-it/2.2.9-wso2v1/pax-logging-it-2.2.9-wso2v1.jar returned status 404
 2.2.9-wso2v2		2026-02-09T10:18:59Z	
 2.2.9-wso2v3		2026-04-21T05:26:40Z	
 2.2.9.1-wso2v1		2026-03-06T09:39:05Z	
 2.2.9.1-wso2v2		2026-04-21T05:11:46Z	
+2.2.9.1-wso2v3		2026-08-17T07:42:14Z	
+2.2.9.1-wso2v4		2026-08-19T06:19:12Z	
 2.3.0-wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/org/ops4j/pax/logging/pax-logging-it/2.3.0-wso2v1/pax-logging-it-2.3.0-wso2v1.jar returned status 404
 2.3.0-wso2v2		2026-02-21T05:30:46Z	
 2.3.2-wso2v1		2026-02-11T03:40:33Z	

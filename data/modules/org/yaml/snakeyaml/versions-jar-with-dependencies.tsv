@@ -47,3 +47,5 @@
 5.0.22	named	org.wso2.carbon.secvault	org.wso2.carbon.secvault.ciphertool	2026-04-10T05:09:01Z	2.6
 5.0.22	named	org.wso2.carbon.secvault	securevault-standalone	2026-04-10T05:09:17Z	2.6
 0.1.28	named	com.uchicom	smtp	2026-05-08T04:20:57Z	2.5
+5.0.23	named	org.wso2.carbon.secvault	org.wso2.carbon.secvault.ciphertool	2026-08-20T08:24:37Z	2.6
+5.0.23	named	org.wso2.carbon.secvault	securevault-standalone	2026-08-20T08:24:59Z	2.6

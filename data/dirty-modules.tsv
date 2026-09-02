@@ -827,3 +827,13 @@ ihub.agent.trace.plugin
 net.bytebuddy
 ihub.agent.core
 demo
+org.xmlobjects
+org.xmlobjects.xal
+org.xmlobjects.gml
+flying.saucer.swt
+flying.saucer.pdf.osgi
+flying.saucer.pdf
+flying.saucer.fop
+flying.saucer
+flying.saucer.chrome.pdf
+org.yaml.snakeyaml

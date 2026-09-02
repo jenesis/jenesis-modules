@@ -73,6 +73,7 @@
 5.14.3		2026-06-16T06:03:43Z	
 5.14.4		2026-06-16T13:58:45Z	
 5.14.5		2026-07-02T10:32:36Z	
+5.14.6		2026-08-10T09:56:54Z	
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/inbound/auth/sts/org.wso2.carbon.identity.sts.passive.stub/5.2.0/org.wso2.carbon.identity.sts.passive.stub-5.2.0.jar returned status 404
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/inbound/auth/sts/org.wso2.carbon.identity.sts.passive.stub/5.2.1/org.wso2.carbon.identity.sts.passive.stub-5.2.1.jar returned status 404
 5.2.10		2017-11-24T11:40:24Z	
