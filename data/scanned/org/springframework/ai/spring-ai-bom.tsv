@@ -38,3 +38,4 @@
 2.0.0-M8		2026-05-27T17:28:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/ai/spring-ai-bom/2.0.0-M8/spring-ai-bom-2.0.0-M8.jar returned status 404
 2.0.0-RC1		2026-06-05T23:51:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/ai/spring-ai-bom/2.0.0-RC1/spring-ai-bom-2.0.0-RC1.jar returned status 404
 2.0.0-RC2		2026-06-09T20:57:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/ai/spring-ai-bom/2.0.0-RC2/spring-ai-bom-2.0.0-RC2.jar returned status 404
+2.0.1		2026-08-20T12:21:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/ai/spring-ai-bom/2.0.1/spring-ai-bom-2.0.1.jar returned status 404

@@ -1,4 +1,5 @@
 11.8.0.37897			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/coverage-report/11.8.0.37897/coverage-report-11.8.0.37897.jar returned status 404
+11.8.1.44439		2026-08-20T15:09:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/coverage-report/11.8.1.44439/coverage-report-11.8.1.44439.jar returned status 404
 12.0.0.38664			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/coverage-report/12.0.0.38664/coverage-report-12.0.0.38664.jar returned status 404
 12.1.0.39434			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/coverage-report/12.1.0.39434/coverage-report-12.1.0.39434.jar returned status 404
 12.2.0.39785			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/coverage-report/12.2.0.39785/coverage-report-12.2.0.39785.jar returned status 404

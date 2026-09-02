@@ -15,3 +15,4 @@
 4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springblade/blade-core-bom/4.8.0/blade-core-bom-4.8.0.jar returned status 404
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springblade/blade-core-bom/4.9.0/blade-core-bom-4.9.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springblade/blade-core-bom/5.0.0/blade-core-bom-5.0.0.jar returned status 404
+5.0.1		2026-08-11T13:43:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springblade/blade-core-bom/5.0.1/blade-core-bom-5.0.1.jar returned status 404

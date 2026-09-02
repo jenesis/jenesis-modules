@@ -1,1 +1,3 @@
 0.1.0-rc3		2026-07-24T13:27:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/souther-lang/souther-parent/0.1.0-rc3/souther-parent-0.1.0-rc3.jar returned status 404
+0.1.0-rc4		2026-08-12T08:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/souther-lang/souther-parent/0.1.0-rc4/souther-parent-0.1.0-rc4.jar returned status 404
+0.1.0-rc5		2026-08-20T02:26:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/souther-lang/souther-parent/0.1.0-rc5/souther-parent-0.1.0-rc5.jar returned status 404

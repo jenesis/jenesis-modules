@@ -8,3 +8,4 @@
 8.19.0.1586			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/sonar-java-symbolic-execution/8.19.0.1586/sonar-java-symbolic-execution-8.19.0.1586.jar returned status 404
 8.20.0.1864			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/sonar-java-symbolic-execution/8.20.0.1864/sonar-java-symbolic-execution-8.20.0.1864.jar returned status 404
 8.21.0.1991			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/sonar-java-symbolic-execution/8.21.0.1991/sonar-java-symbolic-execution-8.21.0.1991.jar returned status 404
+8.22.0.2207		2026-08-19T08:19:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/sonar-java-symbolic-execution/8.22.0.2207/sonar-java-symbolic-execution-8.22.0.2207.jar returned status 404

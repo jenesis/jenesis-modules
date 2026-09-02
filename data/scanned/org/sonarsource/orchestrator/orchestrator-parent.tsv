@@ -70,3 +70,5 @@
 6.3.0.4464		2026-06-30T14:13:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/orchestrator/orchestrator-parent/6.3.0.4464/orchestrator-parent-6.3.0.4464.jar returned status 404
 6.3.1.4538			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/orchestrator/orchestrator-parent/6.3.1.4538/orchestrator-parent-6.3.1.4538.jar returned status 404
 6.4.0.4580			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/orchestrator/orchestrator-parent/6.4.0.4580/orchestrator-parent-6.4.0.4580.jar returned status 404
+6.4.1.4618		2026-08-13T09:37:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/orchestrator/orchestrator-parent/6.4.1.4618/orchestrator-parent-6.4.1.4618.jar returned status 404
+6.4.2.4626		2026-08-14T13:44:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/orchestrator/orchestrator-parent/6.4.2.4626/orchestrator-parent-6.4.2.4626.jar returned status 404
