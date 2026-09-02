@@ -2,3 +2,5 @@
 1.0.0	plain	2024-05-08T00:49:10Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/dillmann/dynamicquery/dynamic-query-spring-boot-web/1.1.0/dynamic-query-spring-boot-web-1.1.0.jar returned status 404
 1.1.0	plain	2024-06-02T16:00:06Z	
+2.0.0		2026-08-31T01:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/dillmann/dynamicquery/dynamic-query-spring-boot-web/2.0.0/dynamic-query-spring-boot-web-2.0.0.jar returned status 404
+2.0.0	plain	2026-08-31T01:11:11Z	
