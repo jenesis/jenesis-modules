@@ -2,3 +2,4 @@
 1.0.1		2026-02-05T05:11:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/biosoft/diagrams/webapps/1.0.1/webapps-1.0.1.jar returned status 404
 1.0.2		2026-02-24T05:01:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/biosoft/diagrams/webapps/1.0.2/webapps-1.0.2.jar returned status 404
 1.0.3		2026-02-27T03:18:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/biosoft/diagrams/webapps/1.0.3/webapps-1.0.3.jar returned status 404
+1.0.5		2026-08-12T03:57:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/biosoft/diagrams/webapps/1.0.5/webapps-1.0.5.jar returned status 404

@@ -23,3 +23,4 @@
 5.1.0		2026-06-20T08:32:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/kstorage-android/5.1.0/kstorage-android-5.1.0.jar returned status 404
 5.2.0		2026-06-22T09:04:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/kstorage-android/5.2.0/kstorage-android-5.2.0.jar returned status 404
 5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/kstorage-android/5.3.0/kstorage-android-5.3.0.jar returned status 404
+5.3.1		2026-08-18T10:02:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/kstorage-android/5.3.1/kstorage-android-5.3.1.jar returned status 404

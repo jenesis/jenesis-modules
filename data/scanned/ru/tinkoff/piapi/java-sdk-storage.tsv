@@ -14,3 +14,5 @@
 1.49.2		2026-07-01T09:23:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk-storage/1.49.2/java-sdk-storage-1.49.2.jar returned status 404
 1.49.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk-storage/1.49.3/java-sdk-storage-1.49.3.jar returned status 404
 1.49.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk-storage/1.49.4/java-sdk-storage-1.49.4.jar returned status 404
+1.49.5		2026-08-10T09:57:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk-storage/1.49.5/java-sdk-storage-1.49.5.jar returned status 404
+1.49.6		2026-08-21T13:48:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk-storage/1.49.6/java-sdk-storage-1.49.6.jar returned status 404

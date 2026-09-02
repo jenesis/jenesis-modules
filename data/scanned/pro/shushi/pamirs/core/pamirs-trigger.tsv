@@ -56,3 +56,4 @@
 7.2.5		2026-07-20T08:23:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/shushi/pamirs/core/pamirs-trigger/7.2.5/pamirs-trigger-7.2.5.jar returned status 404
 7.2.6		2026-07-30T10:49:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/shushi/pamirs/core/pamirs-trigger/7.2.6/pamirs-trigger-7.2.6.jar returned status 404
 7.2.7		2026-08-06T10:26:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/shushi/pamirs/core/pamirs-trigger/7.2.7/pamirs-trigger-7.2.7.jar returned status 404
+7.2.8		2026-08-20T11:34:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pro/shushi/pamirs/core/pamirs-trigger/7.2.8/pamirs-trigger-7.2.8.jar returned status 404
