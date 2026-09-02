@@ -63,6 +63,7 @@
 2.44.0		2026-07-01T14:23:40Z	
 2.44.1			
 2.45.0			
+2.46.0		2026-08-28T11:24:29Z	
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qameta/allure/plugins/packages-plugin/2.8.0/packages-plugin-2.8.0.jar returned status 404
 2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qameta/allure/plugins/packages-plugin/2.8.1/packages-plugin-2.8.1.jar returned status 404
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qameta/allure/plugins/packages-plugin/2.9.0/packages-plugin-2.9.0.jar returned status 404
