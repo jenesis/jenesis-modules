@@ -1,1 +1,5 @@
 3.0		2026-07-05T14:40:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/connellite/jcl/3.0/jcl-3.0.jar returned status 404
+3.1		2026-08-12T19:07:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/connellite/jcl/3.1/jcl-3.1.jar returned status 404
+3.2		2026-08-24T10:17:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/connellite/jcl/3.2/jcl-3.2.jar returned status 404
+3.3		2026-08-25T19:18:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/connellite/jcl/3.3/jcl-3.3.jar returned status 404
+3.3.1		2026-08-27T11:49:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/connellite/jcl/3.3.1/jcl-3.3.1.jar returned status 404

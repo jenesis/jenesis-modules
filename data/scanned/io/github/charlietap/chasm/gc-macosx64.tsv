@@ -8,3 +8,5 @@
 0.6.0	metadata	2024-05-15T07:24:32Z	
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/gc-macosx64/0.6.1/gc-macosx64-0.6.1.jar returned status 404
 0.6.1	metadata	2024-05-15T18:51:07Z	
+1.7.0		2026-08-21T19:25:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/gc-macosx64/1.7.0/gc-macosx64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-08-21T19:25:33Z	

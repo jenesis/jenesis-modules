@@ -39,6 +39,7 @@
 0.43.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crow-misia/libyuv/libyuv-android/0.43.0/libyuv-android-0.43.0.jar returned status 404
 0.43.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crow-misia/libyuv/libyuv-android/0.43.1/libyuv-android-0.43.1.jar returned status 404
 0.43.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crow-misia/libyuv/libyuv-android/0.43.2/libyuv-android-0.43.2.jar returned status 404
+0.44.0		2026-08-11T03:02:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crow-misia/libyuv/libyuv-android/0.44.0/libyuv-android-0.44.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crow-misia/libyuv/libyuv-android/0.6.0/libyuv-android-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crow-misia/libyuv/libyuv-android/0.7.0/libyuv-android-0.7.0.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crow-misia/libyuv/libyuv-android/0.8.0/libyuv-android-0.8.0.jar returned status 404

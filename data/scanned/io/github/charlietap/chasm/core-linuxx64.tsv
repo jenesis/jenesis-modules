@@ -25,3 +25,6 @@
 1.4.7		2026-06-19T17:48:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-linuxx64/1.4.7/core-linuxx64-1.4.7.jar returned status 404
 1.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-linuxx64/1.4.8/core-linuxx64-1.4.8.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-linuxx64/1.5.0/core-linuxx64-1.5.0.jar returned status 404
+1.6.0		2026-08-15T09:09:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-linuxx64/1.6.0/core-linuxx64-1.6.0.jar returned status 404
+1.6.1		2026-08-16T09:02:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-linuxx64/1.6.1/core-linuxx64-1.6.1.jar returned status 404
+1.7.0		2026-08-21T19:25:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/core-linuxx64/1.7.0/core-linuxx64-1.7.0.jar returned status 404

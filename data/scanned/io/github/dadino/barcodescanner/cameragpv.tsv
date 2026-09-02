@@ -10,6 +10,7 @@
 0.14.3-compose		2026-06-19T08:10:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/cameragpv/0.14.3-compose/cameragpv-0.14.3-compose.jar returned status 404
 0.14.4-compose			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/cameragpv/0.14.4-compose/cameragpv-0.14.4-compose.jar returned status 404
 0.14.5-compose			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/cameragpv/0.14.5-compose/cameragpv-0.14.5-compose.jar returned status 404
+0.14.6-compose		2026-08-25T11:09:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/cameragpv/0.14.6-compose/cameragpv-0.14.6-compose.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/cameragpv/0.2.0/cameragpv-0.2.0.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/cameragpv/0.2.1/cameragpv-0.2.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dadino/barcodescanner/cameragpv/0.3.0/cameragpv-0.3.0.jar returned status 404

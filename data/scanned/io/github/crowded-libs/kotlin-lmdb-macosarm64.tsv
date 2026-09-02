@@ -14,3 +14,5 @@
 0.3.6	metadata	2025-09-16T17:01:18Z	
 0.4.0		2026-07-05T20:29:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crowded-libs/kotlin-lmdb-macosarm64/0.4.0/kotlin-lmdb-macosarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2026-07-05T20:29:29Z	
+0.5.0		2026-08-29T18:30:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crowded-libs/kotlin-lmdb-macosarm64/0.5.0/kotlin-lmdb-macosarm64-0.5.0.jar returned status 404
+0.5.0	metadata	2026-08-29T18:30:07Z	
