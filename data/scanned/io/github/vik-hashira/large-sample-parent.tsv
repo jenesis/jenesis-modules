@@ -1,1 +1,6 @@
+1.0.1		2026-08-13T10:29:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/large-sample-parent/1.0.1/large-sample-parent-1.0.1.jar returned status 404
 1.4.7		2026-08-06T08:50:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/large-sample-parent/1.4.7/large-sample-parent-1.4.7.jar returned status 404
+10.0.2		2026-08-13T10:33:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/large-sample-parent/10.0.2/large-sample-parent-10.0.2.jar returned status 404
+10.0.3		2026-08-13T10:34:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/large-sample-parent/10.0.3/large-sample-parent-10.0.3.jar returned status 404
+10.0.4		2026-08-13T10:35:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/large-sample-parent/10.0.4/large-sample-parent-10.0.4.jar returned status 404
+10.0.5		2026-08-13T10:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/large-sample-parent/10.0.5/large-sample-parent-10.0.5.jar returned status 404
