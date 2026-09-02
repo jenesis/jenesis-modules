@@ -140,6 +140,11 @@
 0.6.9			
 0.7.0			
 0.7.1			
+0.7.10		2026-08-15T17:31:44Z	
+0.7.11		2026-08-22T17:14:59Z	
 0.7.3			
 0.7.4		2026-08-10T19:39:34Z	
+0.7.6		2026-08-11T13:57:44Z	
+0.7.7		2026-08-11T20:58:38Z	
+0.7.9		2026-08-13T16:51:10Z	
 23fed45f473f7277e7bf2d3d5acd27dd26240b88			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalin-rudnicki/oxygen-quoted_native0.5_3/23fed45f473f7277e7bf2d3d5acd27dd26240b88/oxygen-quoted_native0.5_3-23fed45f473f7277e7bf2d3d5acd27dd26240b88.jar returned status 404

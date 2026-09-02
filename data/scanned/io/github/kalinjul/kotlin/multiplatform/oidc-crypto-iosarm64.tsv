@@ -46,6 +46,10 @@
 0.16.5	metadata	2026-02-12T11:41:24Z	
 0.17.0		2026-08-10T14:42:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-crypto-iosarm64/0.17.0/oidc-crypto-iosarm64-0.17.0.jar returned status 404
 0.17.0	metadata	2026-08-10T14:42:05Z	
+0.18.0		2026-08-12T12:22:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-crypto-iosarm64/0.18.0/oidc-crypto-iosarm64-0.18.0.jar returned status 404
+0.18.0	metadata	2026-08-12T12:22:35Z	
+0.18.1		2026-08-12T16:04:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-crypto-iosarm64/0.18.1/oidc-crypto-iosarm64-0.18.1.jar returned status 404
+0.18.1	metadata	2026-08-12T16:04:35Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-crypto-iosarm64/0.3.0/oidc-crypto-iosarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2023-12-04T19:55:20Z	
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-crypto-iosarm64/0.3.1/oidc-crypto-iosarm64-0.3.1.jar returned status 404

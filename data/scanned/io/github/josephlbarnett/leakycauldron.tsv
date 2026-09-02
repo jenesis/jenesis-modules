@@ -64,3 +64,4 @@
 3.7.1536			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josephlbarnett/leakycauldron/3.7.1536/leakycauldron-3.7.1536.jar returned status 404
 3.7.1547			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josephlbarnett/leakycauldron/3.7.1547/leakycauldron-3.7.1547.jar returned status 404
 3.7.1574			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josephlbarnett/leakycauldron/3.7.1574/leakycauldron-3.7.1574.jar returned status 404
+3.7.1595		2026-08-14T19:05:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josephlbarnett/leakycauldron/3.7.1595/leakycauldron-3.7.1595.jar returned status 404

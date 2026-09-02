@@ -290,3 +290,5 @@
 3.7.0	metadata	2026-07-20T17:55:46Z	
 3.7.0-beta-1		2026-06-23T20:29:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/functions-kt-watchosarm64/3.7.0-beta-1/functions-kt-watchosarm64-3.7.0-beta-1.jar returned status 404
 3.7.0-beta-1	metadata	2026-06-23T20:29:51Z	
+3.8.0		2026-08-26T17:46:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/functions-kt-watchosarm64/3.8.0/functions-kt-watchosarm64-3.8.0.jar returned status 404
+3.8.0	metadata	2026-08-26T17:46:10Z	

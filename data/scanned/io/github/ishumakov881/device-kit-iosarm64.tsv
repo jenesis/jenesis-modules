@@ -10,3 +10,5 @@
 1.0.6	metadata	2026-06-11T13:28:26Z	
 1.0.7		2026-06-11T14:38:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ishumakov881/device-kit-iosarm64/1.0.7/device-kit-iosarm64-1.0.7.jar returned status 404
 1.0.7	metadata	2026-06-11T14:38:50Z	
+1.0.8		2026-08-21T14:02:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ishumakov881/device-kit-iosarm64/1.0.8/device-kit-iosarm64-1.0.8.jar returned status 404
+1.0.8	metadata	2026-08-21T14:02:31Z	

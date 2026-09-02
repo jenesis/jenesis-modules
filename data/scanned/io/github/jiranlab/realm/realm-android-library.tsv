@@ -1,0 +1,2 @@
+10.19.0-agp9.1.1-patch1		2026-08-11T06:20:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jiranlab/realm/realm-android-library/10.19.0-agp9.1.1-patch1/realm-android-library-10.19.0-agp9.1.1-patch1.jar returned status 404
+10.19.0-agp9.1.1-patch2		2026-08-14T00:11:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jiranlab/realm/realm-android-library/10.19.0-agp9.1.1-patch2/realm-android-library-10.19.0-agp9.1.1-patch2.jar returned status 404

@@ -10,5 +10,7 @@
 10.2.0	metadata	2026-07-08T12:00:33Z	
 10.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-core-iosarm64/10.2.1/paginator-core-iosarm64-10.2.1.jar returned status 404
 10.2.1	metadata	2026-07-08T15:04:16Z	
+10.2.2		2026-08-20T17:20:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-core-iosarm64/10.2.2/paginator-core-iosarm64-10.2.2.jar returned status 404
+10.2.2	metadata	2026-08-20T17:20:50Z	
 9.0.0		2026-05-24T17:48:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/paginator-core-iosarm64/9.0.0/paginator-core-iosarm64-9.0.0.jar returned status 404
 9.0.0	metadata	2026-05-24T17:48:25Z	

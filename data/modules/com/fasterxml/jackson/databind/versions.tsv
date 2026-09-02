@@ -4423,6 +4423,10 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 0.5.0	named	io.github.tomas-samek	tiko-kafka	2026-08-15T11:58:07Z	2.22.1
 0.5.0	named	io.github.tomas-samek	tiko-mcp	2026-08-15T11:58:07Z	2.22.1
 1.2.0-RC1	named	io.strimzi	crd-generator	2026-08-15T17:30:46Z	2.22.1
+1.0.0	named	io.github.kathukyabrian	tiara	2026-08-16T15:13:12Z	2.22.0
+0.1.0-alpha.1	named	io.github.jarredhj0214	linesql-cli	2026-08-17T03:26:28Z	2.17.2
+0.1.0-alpha.2	named	io.github.jarredhj0214	linesql-cli	2026-08-17T05:44:07Z	2.17.2
+0.1.0-alpha.3	named	io.github.jarredhj0214	linesql-cli	2026-08-17T07:35:53Z	2.17.2
 1.24.0-ws2	named	io.joynr.tests.graceful-shutdown-test	graceful-shutdown-test-consumer	2026-08-17T18:46:39Z	2.14.2
 1.24.0-ws2	named	io.joynr.examples	stateless-async-car-sim	2026-08-17T18:46:40Z	2.14.2
 1.24.0-ws2	named	io.joynr.examples	stateless-async-consumer	2026-08-17T18:46:40Z	2.14.2
@@ -4432,5 +4436,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 0.0.1	named	io.github.vicliu624.explicitarchitecture	explicit-architecture-atlas-cli	2026-08-21T03:45:27Z	2.18.2
 0.0.1	named	io.github.vicliu624.explicitarchitecture	explicit-architecture-atlas-cli-full	2026-08-21T03:45:27Z	2.18.2
 0.0.1	named	io.github.vicliu624.explicitarchitecture	explicit-architecture-atlas-server-bootstrap	2026-08-21T03:45:27Z	2.18.2
+0.1.0-alpha.4	named	io.github.jarredhj0214	linesql-cli	2026-08-21T07:40:00Z	2.17.2
+1.0.1	named	io.github.kathukyabrian	tiara	2026-08-23T17:52:26Z	2.22.0
 2.0.15	named	org.octopusden.octopus.sonar	sonar-automation	2026-08-27T10:06:32Z	2.20.1
 2.0.16	named	org.octopusden.octopus.sonar	sonar-automation	2026-08-28T01:21:00Z	2.20.1

@@ -16,3 +16,5 @@
 39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jonasrutishauser/parent/39/parent-39.jar returned status 404
 40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jonasrutishauser/parent/40/parent-40.jar returned status 404
 41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jonasrutishauser/parent/41/parent-41.jar returned status 404
+42		2026-08-28T13:46:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jonasrutishauser/parent/42/parent-42.jar returned status 404
+43		2026-08-28T16:04:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jonasrutishauser/parent/43/parent-43.jar returned status 404
