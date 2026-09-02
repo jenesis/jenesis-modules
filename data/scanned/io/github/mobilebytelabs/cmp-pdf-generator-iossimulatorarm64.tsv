@@ -24,6 +24,20 @@
 3.5.1	metadata	2026-06-08T04:18:57Z	
 3.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-iossimulatorarm64/3.5.10/cmp-pdf-generator-iossimulatorarm64-3.5.10.jar returned status 404
 3.5.10	metadata	2026-08-05T07:05:35Z	
+3.5.11		2026-08-12T12:07:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-iossimulatorarm64/3.5.11/cmp-pdf-generator-iossimulatorarm64-3.5.11.jar returned status 404
+3.5.11	metadata	2026-08-12T12:07:28Z	
+3.5.12		2026-08-17T01:42:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-iossimulatorarm64/3.5.12/cmp-pdf-generator-iossimulatorarm64-3.5.12.jar returned status 404
+3.5.12	metadata	2026-08-17T01:42:08Z	
+3.5.13		2026-08-24T01:44:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-iossimulatorarm64/3.5.13/cmp-pdf-generator-iossimulatorarm64-3.5.13.jar returned status 404
+3.5.13	metadata	2026-08-24T01:44:13Z	
+3.5.14		2026-08-25T19:25:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-iossimulatorarm64/3.5.14/cmp-pdf-generator-iossimulatorarm64-3.5.14.jar returned status 404
+3.5.14	metadata	2026-08-25T19:25:33Z	
+3.5.15		2026-08-27T13:36:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-iossimulatorarm64/3.5.15/cmp-pdf-generator-iossimulatorarm64-3.5.15.jar returned status 404
+3.5.15	metadata	2026-08-27T13:36:24Z	
+3.5.16		2026-08-27T15:03:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-iossimulatorarm64/3.5.16/cmp-pdf-generator-iossimulatorarm64-3.5.16.jar returned status 404
+3.5.16	metadata	2026-08-27T15:03:19Z	
+3.5.18		2026-08-29T06:20:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-iossimulatorarm64/3.5.18/cmp-pdf-generator-iossimulatorarm64-3.5.18.jar returned status 404
+3.5.18	metadata	2026-08-29T06:20:31Z	
 3.5.2		2026-06-22T05:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-iossimulatorarm64/3.5.2/cmp-pdf-generator-iossimulatorarm64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T05:03:11Z	
 3.5.3		2026-07-06T15:17:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-iossimulatorarm64/3.5.3/cmp-pdf-generator-iossimulatorarm64-3.5.3.jar returned status 404

@@ -128,3 +128,5 @@
 2.9.0-beta02	metadata	2026-04-26T06:04:42Z	
 3.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/moriafly/salt-core-iossimulatorarm64/3.0.0-alpha01/salt-core-iossimulatorarm64-3.0.0-alpha01.jar returned status 404
 3.0.0-alpha01	metadata	2026-07-30T01:49:32Z	
+3.0.0-alpha02		2026-08-23T04:27:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/moriafly/salt-core-iossimulatorarm64/3.0.0-alpha02/salt-core-iossimulatorarm64-3.0.0-alpha02.jar returned status 404
+3.0.0-alpha02	metadata	2026-08-23T04:27:38Z	

@@ -7,3 +7,5 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasserkhosravi/devin/write/4.0.0/write-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasserkhosravi/devin/write/4.1.0/write-4.1.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasserkhosravi/devin/write/4.2.0/write-4.2.0.jar returned status 404
+4.3.0		2026-08-27T16:28:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasserkhosravi/devin/write/4.3.0/write-4.3.0.jar returned status 404
+4.3.1		2026-08-28T06:11:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasserkhosravi/devin/write/4.3.1/write-4.3.1.jar returned status 404
