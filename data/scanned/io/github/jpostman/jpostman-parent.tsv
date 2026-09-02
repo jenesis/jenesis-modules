@@ -28,3 +28,4 @@
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpostman/jpostman-parent/4.2.0/jpostman-parent-4.2.0.jar returned status 404
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpostman/jpostman-parent/4.2.1/jpostman-parent-4.2.1.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpostman/jpostman-parent/4.3.0/jpostman-parent-4.3.0.jar returned status 404
+4.3.2		2026-08-25T01:45:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpostman/jpostman-parent/4.3.2/jpostman-parent-4.3.2.jar returned status 404

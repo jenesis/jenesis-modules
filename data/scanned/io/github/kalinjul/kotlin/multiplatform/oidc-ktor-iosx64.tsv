@@ -46,6 +46,10 @@
 0.16.5	metadata	2026-02-12T11:41:24Z	
 0.17.0		2026-08-10T14:42:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-ktor-iosx64/0.17.0/oidc-ktor-iosx64-0.17.0.jar returned status 404
 0.17.0	metadata	2026-08-10T14:42:07Z	
+0.18.0		2026-08-12T12:22:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-ktor-iosx64/0.18.0/oidc-ktor-iosx64-0.18.0.jar returned status 404
+0.18.0	metadata	2026-08-12T12:22:36Z	
+0.18.1		2026-08-12T16:04:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-ktor-iosx64/0.18.1/oidc-ktor-iosx64-0.18.1.jar returned status 404
+0.18.1	metadata	2026-08-12T16:04:36Z	
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-ktor-iosx64/0.8.0/oidc-ktor-iosx64-0.8.0.jar returned status 404
 0.8.0	metadata	2024-01-30T10:31:29Z	
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-ktor-iosx64/0.8.1/oidc-ktor-iosx64-0.8.1.jar returned status 404

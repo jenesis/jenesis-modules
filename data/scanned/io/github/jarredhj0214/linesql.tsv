@@ -1,0 +1,4 @@
+0.1.0-alpha.1		2026-08-17T03:26:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jarredhj0214/linesql/0.1.0-alpha.1/linesql-0.1.0-alpha.1.jar returned status 404
+0.1.0-alpha.2		2026-08-17T05:44:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jarredhj0214/linesql/0.1.0-alpha.2/linesql-0.1.0-alpha.2.jar returned status 404
+0.1.0-alpha.3		2026-08-17T07:35:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jarredhj0214/linesql/0.1.0-alpha.3/linesql-0.1.0-alpha.3.jar returned status 404
+0.1.0-alpha.4		2026-08-21T07:40:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jarredhj0214/linesql/0.1.0-alpha.4/linesql-0.1.0-alpha.4.jar returned status 404

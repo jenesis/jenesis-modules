@@ -138,3 +138,4 @@
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/compose-auth-android/3.6.0/compose-auth-android-3.6.0.jar returned status 404
 3.7.0		2026-07-20T18:27:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/compose-auth-android/3.7.0/compose-auth-android-3.7.0.jar returned status 404
 3.7.0-beta-1		2026-07-03T16:29:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/compose-auth-android/3.7.0-beta-1/compose-auth-android-3.7.0-beta-1.jar returned status 404
+3.8.0		2026-08-26T18:40:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/compose-auth-android/3.8.0/compose-auth-android-3.8.0.jar returned status 404

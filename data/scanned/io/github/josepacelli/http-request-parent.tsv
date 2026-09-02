@@ -1,3 +1,5 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josepacelli/http-request-parent/1.0.0/http-request-parent-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josepacelli/http-request-parent/1.0.1/http-request-parent-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josepacelli/http-request-parent/1.0.2/http-request-parent-1.0.2.jar returned status 404
+1.0.3		2026-08-16T23:13:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josepacelli/http-request-parent/1.0.3/http-request-parent-1.0.3.jar returned status 404
+1.0.4		2026-08-17T12:09:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/josepacelli/http-request-parent/1.0.4/http-request-parent-1.0.4.jar returned status 404

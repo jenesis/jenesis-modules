@@ -2,3 +2,5 @@
 0.0.1	metadata	2026-07-30T17:04:13Z	
 0.0.2		2026-08-05T16:54:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ismoy/imagepicker-core-iosarm64/0.0.2/imagepicker-core-iosarm64-0.0.2.jar returned status 404
 0.0.2	metadata	2026-08-05T16:54:35Z	
+0.0.3		2026-08-20T13:32:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ismoy/imagepicker-core-iosarm64/0.0.3/imagepicker-core-iosarm64-0.0.3.jar returned status 404
+0.0.3	metadata	2026-08-20T13:32:20Z	

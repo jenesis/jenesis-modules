@@ -150,3 +150,4 @@
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/serializer-moshi-android/3.6.0/serializer-moshi-android-3.6.0.jar returned status 404
 3.7.0		2026-07-20T17:55:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/serializer-moshi-android/3.7.0/serializer-moshi-android-3.7.0.jar returned status 404
 3.7.0-beta-1		2026-06-23T20:29:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/serializer-moshi-android/3.7.0-beta-1/serializer-moshi-android-3.7.0-beta-1.jar returned status 404
+3.8.0		2026-08-26T17:46:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jan-tennert/supabase/serializer-moshi-android/3.8.0/serializer-moshi-android-3.8.0.jar returned status 404
