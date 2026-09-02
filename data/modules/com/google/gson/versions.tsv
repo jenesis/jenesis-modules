@@ -5082,6 +5082,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 3.3.3	named	io.delta	delta-hudi_2.13	2026-08-12T04:43:11Z	2.9.0
 3.39.0.CR1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-08-12T10:44:59Z	2.10
 3.38.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-08-12T17:32:58Z	2.10
+1.5.2.18	named	com.linkedin.iceberg	iceberg-gcp-bundle	2026-08-12T22:40:13Z	2.10.1
 8.39.0.46279	named	org.sonarsource.java	java-custom-rules-example	2026-08-13T13:49:40Z	2.14.0
 0.19.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-08-13T17:15:50Z	2.11.0
 1.0.0-beta.20	named	dev.blitical	JigsawDB	2026-08-14T21:40:35Z	2.13.2
@@ -5115,9 +5116,12 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.27.2	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-08-25T22:56:05Z	2.11.0
 3.39.1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-08-26T11:40:20Z	2.10
 5.2.2	named	org.apache.rocketmq	rocketmq-client-java	2026-08-26T14:34:07Z	2.9.0
+1.5.2.19	named	com.linkedin.iceberg	iceberg-gcp-bundle	2026-08-27T02:06:18Z	2.10.1
+1.5.2.20	named	com.linkedin.iceberg	iceberg-gcp-bundle	2026-08-27T03:33:10Z	2.10.1
 8.41.0.47177	named	org.sonarsource.java	java-custom-rules-example	2026-08-28T07:01:50Z	2.14.0
 0.28.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-08-28T17:03:52Z	2.11.0
 1.1.4	named	io.github.jpostman	restage-ai-engine	2026-08-28T21:01:28Z	2.13.2
+1.5.2.21	named	com.linkedin.iceberg	iceberg-gcp-bundle	2026-08-28T23:58:48Z	2.10.1
 0.1.9-beta	named	dev.cjfravel	ariadne-spark35_2.12	2026-08-29T21:00:14Z	2.14.0
 0.1.9-beta	named	dev.cjfravel	ariadne-spark41_2.13	2026-08-29T21:18:00Z	2.14.0
 1.1.5	named	io.github.jpostman	restage-ai-engine	2026-08-30T05:28:45Z	2.13.2

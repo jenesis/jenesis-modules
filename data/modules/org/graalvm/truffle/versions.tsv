@@ -385,6 +385,7 @@
 23.0.13	named	org.graalvm.truffle	truffle-api	2026-07-22T00:14:13Z	
 25.0.4	named	org.graalvm.truffle	truffle-api	2026-07-22T00:14:30Z	
 25.2.4	named	org.graalvm.truffle	truffle-api	2026-07-29T00:09:20Z	
+5.2.2	named	com.liquibase.ext	liquibase-checks	2026-08-12T14:18:30Z	
 25.0.4.1	named	org.graalvm.truffle	truffle-api	2026-08-17T08:11:00Z	
 21.3.19.1	named	org.graalvm.truffle	truffle-api	2026-08-18T09:02:04Z	
 23.1.12.1	named	org.graalvm.truffle	truffle-api	2026-08-18T09:02:25Z	

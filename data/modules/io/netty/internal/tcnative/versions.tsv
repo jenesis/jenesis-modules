@@ -848,6 +848,7 @@
 1.38.0	named	io.temporal	temporal-shaded	2026-08-10T23:08:44Z	2.0.72.Final
 2.3.1	named	com.scalekit	scalekit-sdk-java	2026-08-11T07:36:21Z	2.0.72.Final
 4.139.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-11T15:22:39Z	2.0.72.Final
+5.2.2	named	com.liquibase.ext	liquibase-commercial-bigquery	2026-08-12T14:18:30Z	2.0.75.Final
 4.138.3	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-12T17:49:02Z	2.0.72.Final
 3.9.05	named	org.metricshub	metricshub-agent	2026-08-13T09:20:31Z	2.0.74.Final
 1.82.4	named	io.grpc	grpc-netty-shaded	2026-08-14T06:47:59Z	2.0.75.Final
