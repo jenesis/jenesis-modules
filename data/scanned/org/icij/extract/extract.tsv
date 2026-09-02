@@ -101,6 +101,7 @@
 9.15.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/icij/extract/extract/9.15.5/extract-9.15.5.jar returned status 404
 9.15.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/icij/extract/extract/9.15.6/extract-9.15.6.jar returned status 404
 9.16.0		2026-08-07T17:02:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/icij/extract/extract/9.16.0/extract-9.16.0.jar returned status 404
+9.16.1		2026-08-27T16:23:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/icij/extract/extract/9.16.1/extract-9.16.1.jar returned status 404
 9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/icij/extract/extract/9.2.0/extract-9.2.0.jar returned status 404
 9.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/icij/extract/extract/9.4.10/extract-9.4.10.jar returned status 404
 9.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/icij/extract/extract/9.4.12/extract-9.4.12.jar returned status 404

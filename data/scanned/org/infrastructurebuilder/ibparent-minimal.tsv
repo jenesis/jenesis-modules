@@ -90,3 +90,8 @@
 92			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibparent-minimal/92/ibparent-minimal-92.jar returned status 404
 93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibparent-minimal/93/ibparent-minimal-93.jar returned status 404
 94			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibparent-minimal/94/ibparent-minimal-94.jar returned status 404
+95		2026-08-10T14:15:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibparent-minimal/95/ibparent-minimal-95.jar returned status 404
+96		2026-08-10T15:16:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibparent-minimal/96/ibparent-minimal-96.jar returned status 404
+97		2026-08-13T13:04:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibparent-minimal/97/ibparent-minimal-97.jar returned status 404
+98		2026-08-18T14:38:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibparent-minimal/98/ibparent-minimal-98.jar returned status 404
+99		2026-08-28T15:52:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/infrastructurebuilder/ibparent-minimal/99/ibparent-minimal-99.jar returned status 404

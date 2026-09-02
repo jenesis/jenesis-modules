@@ -22,6 +22,7 @@
 1.5.25.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/1.5.25.Final/ironjacamar-parent-1.5.25.Final.jar returned status 404
 1.5.26.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/1.5.26.Final/ironjacamar-parent-1.5.26.Final.jar returned status 404
 1.5.27.Final		2026-06-08T10:31:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/1.5.27.Final/ironjacamar-parent-1.5.27.Final.jar returned status 404
+1.5.28.Final		2026-08-26T16:29:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/1.5.28.Final/ironjacamar-parent-1.5.28.Final.jar returned status 404
 1.5.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/1.5.3.Final/ironjacamar-parent-1.5.3.Final.jar returned status 404
 1.5.3.SP1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/1.5.3.SP1/ironjacamar-parent-1.5.3.SP1.jar returned status 404
 1.5.3.SP2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/1.5.3.SP2/ironjacamar-parent-1.5.3.SP2.jar returned status 404
@@ -50,6 +51,7 @@
 3.0.20.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/3.0.20.Final/ironjacamar-parent-3.0.20.Final.jar returned status 404
 3.0.21.Final		2026-06-08T10:31:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/3.0.21.Final/ironjacamar-parent-3.0.21.Final.jar returned status 404
 3.0.22.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/3.0.22.Final/ironjacamar-parent-3.0.22.Final.jar returned status 404
+3.0.23.Final		2026-08-26T16:29:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/3.0.23.Final/ironjacamar-parent-3.0.23.Final.jar returned status 404
 3.0.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/3.0.3.Final/ironjacamar-parent-3.0.3.Final.jar returned status 404
 3.0.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/3.0.4.Final/ironjacamar-parent-3.0.4.Final.jar returned status 404
 3.0.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/ironjacamar/ironjacamar-parent/3.0.5.Final/ironjacamar-parent-3.0.5.Final.jar returned status 404

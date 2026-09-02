@@ -1,1 +1,2 @@
 1.4.0		2026-08-05T08:45:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/exposed/exposed-version-catalog/1.4.0/exposed-version-catalog-1.4.0.jar returned status 404
+1.5.0		2026-08-26T11:25:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/exposed/exposed-version-catalog/1.5.0/exposed-version-catalog-1.5.0.jar returned status 404

@@ -219,3 +219,7 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 0.11	named	org.treblereel.j2cl.processors	processors	2026-08-06T00:05:18Z	
 0.1	named	org.treblereel.gwt.jakarta.websocket	processor	2026-08-08T01:58:10Z	
 0.10	named	org.treblereel.gwt.yaml.mapper	processor	2026-08-10T22:36:10Z	
+2.5.5	named	org.jboss.elemento	elemento-router-processor	2026-08-17T07:47:07Z	
+2.5.5	named	org.jboss.elemento	elemento-router-processor-cdi	2026-08-17T07:47:07Z	
+2.5.6	named	org.jboss.elemento	elemento-router-processor	2026-08-17T08:59:35Z	
+2.5.6	named	org.jboss.elemento	elemento-router-processor-cdi	2026-08-17T08:59:35Z	

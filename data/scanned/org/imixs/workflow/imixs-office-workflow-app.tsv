@@ -28,3 +28,4 @@
 5.1.6		2026-04-05T08:34:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/imixs/workflow/imixs-office-workflow-app/5.1.6/imixs-office-workflow-app-5.1.6.jar returned status 404
 5.1.7		2026-05-29T14:50:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/imixs/workflow/imixs-office-workflow-app/5.1.7/imixs-office-workflow-app-5.1.7.jar returned status 404
 5.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/imixs/workflow/imixs-office-workflow-app/5.1.8/imixs-office-workflow-app-5.1.8.jar returned status 404
+5.1.9		2026-08-28T13:40:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/imixs/workflow/imixs-office-workflow-app/5.1.9/imixs-office-workflow-app-5.1.9.jar returned status 404
