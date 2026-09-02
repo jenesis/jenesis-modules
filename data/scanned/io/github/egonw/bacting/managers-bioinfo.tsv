@@ -56,6 +56,7 @@
 1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/egonw/bacting/managers-bioinfo/1.0.10/managers-bioinfo-1.0.10.jar returned status 404
 1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/egonw/bacting/managers-bioinfo/1.0.11/managers-bioinfo-1.0.11.jar returned status 404
 1.0.12		2026-06-21T11:57:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/egonw/bacting/managers-bioinfo/1.0.12/managers-bioinfo-1.0.12.jar returned status 404
+1.0.13		2026-08-29T17:51:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/egonw/bacting/managers-bioinfo/1.0.13/managers-bioinfo-1.0.13.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/egonw/bacting/managers-bioinfo/1.0.2/managers-bioinfo-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/egonw/bacting/managers-bioinfo/1.0.3/managers-bioinfo-1.0.3.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/egonw/bacting/managers-bioinfo/1.0.5/managers-bioinfo-1.0.5.jar returned status 404

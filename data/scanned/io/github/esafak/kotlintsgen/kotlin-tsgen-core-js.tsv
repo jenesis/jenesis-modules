@@ -1,0 +1,4 @@
+0.3.0		2026-08-12T02:25:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esafak/kotlintsgen/kotlin-tsgen-core-js/0.3.0/kotlin-tsgen-core-js-0.3.0.jar returned status 404
+0.4.0		2026-08-13T03:12:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esafak/kotlintsgen/kotlin-tsgen-core-js/0.4.0/kotlin-tsgen-core-js-0.4.0.jar returned status 404
+0.4.1		2026-08-13T14:01:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esafak/kotlintsgen/kotlin-tsgen-core-js/0.4.1/kotlin-tsgen-core-js-0.4.1.jar returned status 404
+0.4.2		2026-08-20T15:43:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esafak/kotlintsgen/kotlin-tsgen-core-js/0.4.2/kotlin-tsgen-core-js-0.4.2.jar returned status 404

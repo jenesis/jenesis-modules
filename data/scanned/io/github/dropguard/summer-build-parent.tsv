@@ -1,0 +1,6 @@
+0.1.0		2026-08-18T08:27:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dropguard/summer-build-parent/0.1.0/summer-build-parent-0.1.0.jar returned status 404
+0.1.1		2026-08-21T11:51:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dropguard/summer-build-parent/0.1.1/summer-build-parent-0.1.1.jar returned status 404
+0.2.0		2026-08-21T15:08:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dropguard/summer-build-parent/0.2.0/summer-build-parent-0.2.0.jar returned status 404
+0.3.0		2026-08-22T05:43:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dropguard/summer-build-parent/0.3.0/summer-build-parent-0.3.0.jar returned status 404
+0.3.1		2026-08-24T06:13:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dropguard/summer-build-parent/0.3.1/summer-build-parent-0.3.1.jar returned status 404
+0.3.2		2026-08-26T16:55:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dropguard/summer-build-parent/0.3.2/summer-build-parent-0.3.2.jar returned status 404

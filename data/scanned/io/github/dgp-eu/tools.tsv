@@ -4,3 +4,7 @@
 1.1.0		2026-07-20T19:30:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dgp-eu/tools/1.1.0/tools-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dgp-eu/tools/1.1.1/tools-1.1.1.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dgp-eu/tools/1.2.0/tools-1.2.0.jar returned status 404
+1.2.1		2026-08-14T19:13:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dgp-eu/tools/1.2.1/tools-1.2.1.jar returned status 404
+1.2.2		2026-08-15T05:51:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dgp-eu/tools/1.2.2/tools-1.2.2.jar returned status 404
+1.2.3		2026-08-15T09:15:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dgp-eu/tools/1.2.3/tools-1.2.3.jar returned status 404
+1.2.4		2026-08-18T22:13:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dgp-eu/tools/1.2.4/tools-1.2.4.jar returned status 404

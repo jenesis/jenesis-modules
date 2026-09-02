@@ -1,3 +1,4 @@
 1.0.0		2026-06-19T14:35:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/elnix90/logging/logging/1.0.0/logging-1.0.0.jar returned status 404
 1.0.1		2026-06-21T16:50:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/elnix90/logging/logging/1.0.1/logging-1.0.1.jar returned status 404
 1.0.2		2026-07-02T17:41:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/elnix90/logging/logging/1.0.2/logging-1.0.2.jar returned status 404
+1.0.3		2026-08-19T16:17:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/elnix90/logging/logging/1.0.3/logging-1.0.3.jar returned status 404
