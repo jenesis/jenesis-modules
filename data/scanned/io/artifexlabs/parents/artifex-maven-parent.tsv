@@ -1,0 +1,2 @@
+1		2026-08-18T21:27:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/artifexlabs/parents/artifex-maven-parent/1/artifex-maven-parent-1.jar returned status 404
+2		2026-08-19T11:39:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/artifexlabs/parents/artifex-maven-parent/2/artifex-maven-parent-2.jar returned status 404

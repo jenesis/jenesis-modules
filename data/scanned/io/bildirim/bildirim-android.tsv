@@ -1,0 +1,2 @@
+1.0.0		2026-08-18T19:48:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bildirim/bildirim-android/1.0.0/bildirim-android-1.0.0.jar returned status 404
+1.0.1		2026-08-20T20:53:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bildirim/bildirim-android/1.0.1/bildirim-android-1.0.1.jar returned status 404

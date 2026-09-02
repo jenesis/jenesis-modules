@@ -1,0 +1,2 @@
+0.1.0		2026-08-22T10:44:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/artifexlabs/inventory/inventory-bom/0.1.0/inventory-bom-0.1.0.jar returned status 404
+0.2.0		2026-08-23T20:20:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/artifexlabs/inventory/inventory-bom/0.2.0/inventory-bom-0.2.0.jar returned status 404

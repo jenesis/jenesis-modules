@@ -1,0 +1,2 @@
+1		2026-08-21T12:13:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/artifexlabs/inventory/inventory-parent/1/inventory-parent-1.jar returned status 404
+2		2026-08-23T13:07:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/artifexlabs/inventory/inventory-parent/2/inventory-parent-2.jar returned status 404

@@ -47,3 +47,5 @@
 1.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/boxo/sdk/boxo-android/1.44.0/boxo-android-1.44.0.jar returned status 404
 1.45.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/boxo/sdk/boxo-android/1.45.0/boxo-android-1.45.0.jar returned status 404
 1.45.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/boxo/sdk/boxo-android/1.45.1/boxo-android-1.45.1.jar returned status 404
+1.45.2		2026-08-13T14:15:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/boxo/sdk/boxo-android/1.45.2/boxo-android-1.45.2.jar returned status 404
+1.45.3		2026-08-18T05:53:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/boxo/sdk/boxo-android/1.45.3/boxo-android-1.45.3.jar returned status 404

@@ -35,3 +35,4 @@
 4.0.0		2026-07-03T13:07:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/castle/android/castle/4.0.0/castle-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/castle/android/castle/4.0.1/castle-4.0.1.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/castle/android/castle/4.0.2/castle-4.0.2.jar returned status 404
+4.1.0		2026-08-21T09:26:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/castle/android/castle/4.1.0/castle-4.1.0.jar returned status 404

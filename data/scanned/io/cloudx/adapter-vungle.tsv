@@ -17,8 +17,10 @@
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-vungle/3.1.0/adapter-vungle-3.1.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-vungle/3.2.0/adapter-vungle-3.2.0.jar returned status 404
 7.4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-vungle/7.4.2.0/adapter-vungle-7.4.2.0.jar returned status 404
+7.5.0.0		2026-08-18T00:30:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-vungle/7.5.0.0/adapter-vungle-7.5.0.0.jar returned status 404
 7.6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-vungle/7.6.0.0/adapter-vungle-7.6.0.0.jar returned status 404
 7.6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-vungle/7.6.3.0/adapter-vungle-7.6.3.0.jar returned status 404
+7.7.0.0		2026-08-12T12:28:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-vungle/7.7.0.0/adapter-vungle-7.7.0.0.jar returned status 404
 7.7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-vungle/7.7.1.0/adapter-vungle-7.7.1.0.jar returned status 404
 7.7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-vungle/7.7.3.0/adapter-vungle-7.7.3.0.jar returned status 404
 7.7.4.0		2026-06-19T20:41:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cloudx/adapter-vungle/7.7.4.0/adapter-vungle-7.7.4.0.jar returned status 404
