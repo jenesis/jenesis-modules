@@ -2,3 +2,4 @@
 0.0.2		2026-06-30T08:34:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/smart-bdash/mobile-sdk-android/0.0.2/mobile-sdk-android-0.0.2.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/smart-bdash/mobile-sdk-android/7.0.0/mobile-sdk-android-7.0.0.jar returned status 404
 7.0.1		2026-08-03T06:57:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/smart-bdash/mobile-sdk-android/7.0.1/mobile-sdk-android-7.0.1.jar returned status 404
+7.1.0		2026-08-31T05:19:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/smart-bdash/mobile-sdk-android/7.1.0/mobile-sdk-android-7.1.0.jar returned status 404
