@@ -174,6 +174,7 @@
 0.24.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles/0.24.19/killbill-profiles-0.24.19.jar returned status 404
 0.24.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles/0.24.2/killbill-profiles-0.24.2.jar returned status 404
 0.24.20		2026-08-07T05:49:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles/0.24.20/killbill-profiles-0.24.20.jar returned status 404
+0.24.21		2026-08-12T06:36:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles/0.24.21/killbill-profiles-0.24.21.jar returned status 404
 0.24.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles/0.24.3/killbill-profiles-0.24.3.jar returned status 404
 0.24.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles/0.24.4/killbill-profiles-0.24.4.jar returned status 404
 0.24.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles/0.24.5/killbill-profiles-0.24.5.jar returned status 404
