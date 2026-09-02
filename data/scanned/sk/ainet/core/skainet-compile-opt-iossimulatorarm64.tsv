@@ -64,3 +64,13 @@
 0.37.0	metadata	2026-07-25T08:29:53Z	
 0.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-opt-iossimulatorarm64/0.38.0/skainet-compile-opt-iossimulatorarm64-0.38.0.jar returned status 404
 0.38.0	metadata	2026-07-30T10:05:50Z	
+0.39.0		2026-08-10T20:27:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-opt-iossimulatorarm64/0.39.0/skainet-compile-opt-iossimulatorarm64-0.39.0.jar returned status 404
+0.39.0	metadata	2026-08-10T20:27:36Z	
+0.39.1		2026-08-11T11:19:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-opt-iossimulatorarm64/0.39.1/skainet-compile-opt-iossimulatorarm64-0.39.1.jar returned status 404
+0.39.1	metadata	2026-08-11T11:19:33Z	
+0.40.0		2026-08-11T22:26:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-opt-iossimulatorarm64/0.40.0/skainet-compile-opt-iossimulatorarm64-0.40.0.jar returned status 404
+0.40.0	metadata	2026-08-11T22:26:36Z	
+0.40.1		2026-08-12T09:04:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-opt-iossimulatorarm64/0.40.1/skainet-compile-opt-iossimulatorarm64-0.40.1.jar returned status 404
+0.40.1	metadata	2026-08-12T09:04:50Z	
+0.49.0		2026-08-27T15:36:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-opt-iossimulatorarm64/0.49.0/skainet-compile-opt-iossimulatorarm64-0.49.0.jar returned status 404
+0.49.0	metadata	2026-08-27T15:36:20Z	

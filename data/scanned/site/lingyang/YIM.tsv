@@ -70,7 +70,11 @@
 6.3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.15/YIM-6.3.15.jar returned status 404
 6.3.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.16/YIM-6.3.16.jar returned status 404
 6.3.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.17/YIM-6.3.17.jar returned status 404
+6.3.18		2026-08-22T02:59:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.18/YIM-6.3.18.jar returned status 404
+6.3.19		2026-08-22T03:23:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.19/YIM-6.3.19.jar returned status 404
 6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.2/YIM-6.3.2.jar returned status 404
+6.3.20		2026-08-27T08:27:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.20/YIM-6.3.20.jar returned status 404
+6.3.21		2026-08-27T08:35:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.21/YIM-6.3.21.jar returned status 404
 6.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.5/YIM-6.3.5.jar returned status 404
 6.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.6/YIM-6.3.6.jar returned status 404
 6.3.7		2026-06-09T14:21:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/site/lingyang/YIM/6.3.7/YIM-6.3.7.jar returned status 404
