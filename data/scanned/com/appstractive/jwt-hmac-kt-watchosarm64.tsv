@@ -18,3 +18,5 @@
 1.3.0	metadata	2026-07-11T12:04:11Z	
 1.3.1		2026-08-10T16:59:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appstractive/jwt-hmac-kt-watchosarm64/1.3.1/jwt-hmac-kt-watchosarm64-1.3.1.jar returned status 404
 1.3.1	metadata	2026-08-10T16:59:27Z	
+1.3.2		2026-08-29T17:05:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appstractive/jwt-hmac-kt-watchosarm64/1.3.2/jwt-hmac-kt-watchosarm64-1.3.2.jar returned status 404
+1.3.2	metadata	2026-08-29T17:05:10Z	

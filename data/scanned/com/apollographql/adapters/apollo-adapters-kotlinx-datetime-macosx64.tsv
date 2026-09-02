@@ -12,3 +12,5 @@
 0.0.6	metadata	2025-04-29T19:33:23Z	
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/adapters/apollo-adapters-kotlinx-datetime-macosx64/0.7.0/apollo-adapters-kotlinx-datetime-macosx64-0.7.0.jar returned status 404
 0.7.0	metadata	2025-06-26T16:43:08Z	
+0.8.0		2026-08-28T14:34:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/adapters/apollo-adapters-kotlinx-datetime-macosx64/0.8.0/apollo-adapters-kotlinx-datetime-macosx64-0.8.0.jar returned status 404
+0.8.0	metadata	2026-08-28T14:34:10Z	

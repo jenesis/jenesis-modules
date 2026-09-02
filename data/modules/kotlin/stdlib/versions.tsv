@@ -2479,9 +2479,12 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 2.0.0	named	com.airbnb.viaduct	api	2026-08-10T18:21:46Z	
 2.0.0	named	com.airbnb.viaduct	javaapi-api	2026-08-10T18:21:47Z	
 2.4.20-RC	named	org.jetbrains.kotlin	kotlin-stdlib	2026-08-12T07:33:35Z	
+0.9.2	named	com.antwerkz	cartographer-agent	2026-08-13T04:22:23Z	
 2.9.19	named	com.volcengine	ve-tos-java-sdk-shade	2026-08-14T07:15:38Z	
 1.1.0	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-08-14T14:36:43Z	
 0.0.12	named	se.liu.research.hefquin	hefquin-cli	2026-08-17T09:10:46Z	
+1.0.0	named	com.antwerkz	cartographer-agent	2026-08-19T01:52:21Z	
+1.0.1	named	com.antwerkz	cartographer-agent	2026-08-22T21:11:22Z	
 2.4.20-RC2	named	org.jetbrains.kotlin	kotlin-stdlib	2026-08-26T06:47:04Z	
 4.12.12	named	net.corda	corda-tools-checkpoint-agent	2026-08-26T15:00:10Z	
 4.13.4	named	net.corda	corda-tools-checkpoint-agent	2026-08-26T15:06:43Z	

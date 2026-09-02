@@ -253,3 +253,9 @@
 3.1.9-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apihug/it-bom/3.1.9-RELEASE/it-bom-3.1.9-RELEASE.jar returned status 404
 3.2.0-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apihug/it-bom/3.2.0-RELEASE/it-bom-3.2.0-RELEASE.jar returned status 404
 3.2.1-RELEASE		2026-08-11T08:30:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apihug/it-bom/3.2.1-RELEASE/it-bom-3.2.1-RELEASE.jar returned status 404
+3.2.2-RELEASE		2026-08-20T11:16:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apihug/it-bom/3.2.2-RELEASE/it-bom-3.2.2-RELEASE.jar returned status 404
+3.2.3-RELEASE		2026-08-21T04:12:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apihug/it-bom/3.2.3-RELEASE/it-bom-3.2.3-RELEASE.jar returned status 404
+3.2.4-RELEASE		2026-08-21T06:18:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apihug/it-bom/3.2.4-RELEASE/it-bom-3.2.4-RELEASE.jar returned status 404
+3.2.5-RELEASE		2026-08-21T08:08:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apihug/it-bom/3.2.5-RELEASE/it-bom-3.2.5-RELEASE.jar returned status 404
+3.2.6-RELEASE		2026-08-22T04:37:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apihug/it-bom/3.2.6-RELEASE/it-bom-3.2.6-RELEASE.jar returned status 404
+3.2.7-RELEASE		2026-08-27T02:39:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apihug/it-bom/3.2.7-RELEASE/it-bom-3.2.7-RELEASE.jar returned status 404

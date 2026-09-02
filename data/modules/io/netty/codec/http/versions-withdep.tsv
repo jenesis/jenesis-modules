@@ -18,3 +18,5 @@
 2026.28.1	named	com.amazonaws	aws-athena-federation-sdk	2026-07-17T16:19:33Z	4.2.16.Final
 2026.30.1	named	com.amazonaws	athena-federation-integ-test	2026-07-28T16:30:42Z	4.2.16.Final
 2026.30.1	named	com.amazonaws	aws-athena-federation-sdk	2026-07-28T16:30:43Z	4.2.16.Final
+2026.33.1	named	com.amazonaws	athena-federation-integ-test	2026-08-20T23:37:50Z	4.2.17.Final
+2026.33.1	named	com.amazonaws	aws-athena-federation-sdk	2026-08-20T23:37:50Z	4.2.17.Final
