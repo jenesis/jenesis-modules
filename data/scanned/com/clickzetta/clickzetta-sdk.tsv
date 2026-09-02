@@ -20,6 +20,7 @@
 3.0.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/3.0.27/clickzetta-sdk-3.0.27.jar returned status 404
 3.0.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/3.0.28/clickzetta-sdk-3.0.28.jar returned status 404
 3.0.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/3.0.29/clickzetta-sdk-3.0.29.jar returned status 404
+3.0.30		2026-08-16T16:44:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/3.0.30/clickzetta-sdk-3.0.30.jar returned status 404
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/3.0.4/clickzetta-sdk-3.0.4.jar returned status 404
 3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/3.0.5/clickzetta-sdk-3.0.5.jar returned status 404
 3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/3.0.6/clickzetta-sdk-3.0.6.jar returned status 404
@@ -29,3 +30,5 @@
 4.0.0		2026-07-08T08:24:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/4.0.0/clickzetta-sdk-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/4.0.1/clickzetta-sdk-4.0.1.jar returned status 404
 4.0.2		2026-08-12T08:48:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/4.0.2/clickzetta-sdk-4.0.2.jar returned status 404
+4.0.3		2026-08-21T09:49:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/4.0.3/clickzetta-sdk-4.0.3.jar returned status 404
+4.0.4		2026-08-26T13:39:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/clickzetta/clickzetta-sdk/4.0.4/clickzetta-sdk-4.0.4.jar returned status 404

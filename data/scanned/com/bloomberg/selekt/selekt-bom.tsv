@@ -53,3 +53,6 @@
 0.35.5		2026-08-09T06:58:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bloomberg/selekt/selekt-bom/0.35.5/selekt-bom-0.35.5.jar returned status 404
 0.35.6		2026-08-09T17:55:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bloomberg/selekt/selekt-bom/0.35.6/selekt-bom-0.35.6.jar returned status 404
 1.0.0		2026-08-09T18:30:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bloomberg/selekt/selekt-bom/1.0.0/selekt-bom-1.0.0.jar returned status 404
+1.0.1		2026-08-21T19:49:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bloomberg/selekt/selekt-bom/1.0.1/selekt-bom-1.0.1.jar returned status 404
+1.0.2		2026-08-28T04:04:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bloomberg/selekt/selekt-bom/1.0.2/selekt-bom-1.0.2.jar returned status 404
+1.0.3		2026-08-31T08:06:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bloomberg/selekt/selekt-bom/1.0.3/selekt-bom-1.0.3.jar returned status 404

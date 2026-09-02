@@ -26,3 +26,4 @@
 3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/checkout/checkout-sdk-3ds-android/3.5.1/checkout-sdk-3ds-android-3.5.1.jar returned status 404
 3.5.2		2026-08-06T12:49:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/checkout/checkout-sdk-3ds-android/3.5.2/checkout-sdk-3ds-android-3.5.2.jar returned status 404
 3.5.3		2026-08-07T10:36:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/checkout/checkout-sdk-3ds-android/3.5.3/checkout-sdk-3ds-android-3.5.3.jar returned status 404
+3.5.4		2026-08-20T16:30:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/checkout/checkout-sdk-3ds-android/3.5.4/checkout-sdk-3ds-android-3.5.4.jar returned status 404

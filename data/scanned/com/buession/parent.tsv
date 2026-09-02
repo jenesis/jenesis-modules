@@ -23,3 +23,4 @@
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buession/parent/3.0.0/parent-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buession/parent/3.0.1/parent-3.0.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buession/parent/4.0.0/parent-4.0.0.jar returned status 404
+5.0.0		2026-08-30T09:22:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/buession/parent/5.0.0/parent-5.0.0.jar returned status 404

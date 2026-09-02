@@ -8,3 +8,4 @@
 2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/childrengreens/multi-source-spring-boot-starter/2.6/multi-source-spring-boot-starter-2.6.jar returned status 404
 2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/childrengreens/multi-source-spring-boot-starter/2.7/multi-source-spring-boot-starter-2.7.jar returned status 404
 3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/childrengreens/multi-source-spring-boot-starter/3.0/multi-source-spring-boot-starter-3.0.jar returned status 404
+3.0.1		2026-08-26T06:41:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/childrengreens/multi-source-spring-boot-starter/3.0.1/multi-source-spring-boot-starter-3.0.1.jar returned status 404
