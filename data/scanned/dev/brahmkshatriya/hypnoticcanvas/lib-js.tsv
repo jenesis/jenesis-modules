@@ -1,2 +1,4 @@
 1.0.0		2026-05-25T07:33:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/hypnoticcanvas/lib-js/1.0.0/lib-js-1.0.0.jar returned status 404
 1.0.1		2026-05-25T17:55:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/hypnoticcanvas/lib-js/1.0.1/lib-js-1.0.1.jar returned status 404
+1.0.2		2026-08-14T22:49:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/hypnoticcanvas/lib-js/1.0.2/lib-js-1.0.2.jar returned status 404
+1.0.3		2026-08-28T20:20:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/hypnoticcanvas/lib-js/1.0.3/lib-js-1.0.3.jar returned status 404
