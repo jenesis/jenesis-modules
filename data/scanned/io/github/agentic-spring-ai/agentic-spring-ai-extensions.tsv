@@ -1,0 +1,2 @@
+1.1.2.4		2026-08-28T15:39:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agentic-spring-ai/agentic-spring-ai-extensions/1.1.2.4/agentic-spring-ai-extensions-1.1.2.4.jar returned status 404
+2.0.0.0		2026-08-27T00:07:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agentic-spring-ai/agentic-spring-ai-extensions/2.0.0.0/agentic-spring-ai-extensions-2.0.0.0.jar returned status 404

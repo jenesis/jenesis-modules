@@ -20,3 +20,9 @@
 1.0.0-beta14	metadata	2026-03-18T03:38:51Z	
 1.0.0-beta15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aldefy/lumen-iossimulatorarm64/1.0.0-beta15/lumen-iossimulatorarm64-1.0.0-beta15.jar returned status 404
 1.0.0-beta15	metadata	2026-03-18T05:51:21Z	
+1.0.0-beta18		2026-08-20T06:10:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aldefy/lumen-iossimulatorarm64/1.0.0-beta18/lumen-iossimulatorarm64-1.0.0-beta18.jar returned status 404
+1.0.0-beta18	metadata	2026-08-20T06:10:51Z	
+1.0.0-beta19		2026-08-20T06:41:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aldefy/lumen-iossimulatorarm64/1.0.0-beta19/lumen-iossimulatorarm64-1.0.0-beta19.jar returned status 404
+1.0.0-beta19	metadata	2026-08-20T06:41:48Z	
+1.0.0-beta20		2026-08-20T07:48:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aldefy/lumen-iossimulatorarm64/1.0.0-beta20/lumen-iossimulatorarm64-1.0.0-beta20.jar returned status 404
+1.0.0-beta20	metadata	2026-08-20T07:48:37Z	

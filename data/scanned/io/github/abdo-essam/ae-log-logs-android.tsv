@@ -11,3 +11,5 @@
 1.1.5		2026-06-03T16:45:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/abdo-essam/ae-log-logs-android/1.1.5/ae-log-logs-android-1.1.5.jar returned status 404
 1.1.6		2026-06-08T08:57:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/abdo-essam/ae-log-logs-android/1.1.6/ae-log-logs-android-1.1.6.jar returned status 404
 1.1.7		2026-06-08T11:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/abdo-essam/ae-log-logs-android/1.1.7/ae-log-logs-android-1.1.7.jar returned status 404
+1.1.8		2026-08-15T00:10:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/abdo-essam/ae-log-logs-android/1.1.8/ae-log-logs-android-1.1.8.jar returned status 404
+1.1.9		2026-08-25T11:52:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/abdo-essam/ae-log-logs-android/1.1.9/ae-log-logs-android-1.1.9.jar returned status 404
