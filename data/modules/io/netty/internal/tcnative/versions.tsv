@@ -832,6 +832,7 @@
 4.1.11	named	com.instaclustr	esop-gcp	2026-07-31T02:15:28Z	2.0.70.Final
 2.75.0	named	com.google.api	gapic-generator-java	2026-07-31T02:16:53Z	2.0.75.Final
 9.0.3	named	com.datastax.oss	pulsar-jms-all	2026-08-01T00:09:27Z	2.0.77.Final
+3.3.0	named	org.apache.ratis	ratis-examples	2026-08-01T02:13:48Z	2.0.78.Final
 1.1.1	named	com.google.cloud.datalineage	producerclient	2026-08-01T02:22:05Z	2.0.70.Final
 4.138.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-03T17:33:45Z	2.0.72.Final
 0.16.1	named	com.spotify.confidence	openfeature-provider-local	2026-08-03T17:45:18Z	2.0.72.Final
@@ -855,3 +856,4 @@
 4.141.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-20T20:51:07Z	2.0.72.Final
 4.138.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-21T13:46:23Z	2.0.72.Final
 4.140.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-24T19:59:14Z	2.0.72.Final
+2.2.1	named	org.apache.ozone	ozone-filesystem-shaded	2026-08-26T20:24:18Z	2.0.78.Final

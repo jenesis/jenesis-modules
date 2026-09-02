@@ -64,3 +64,8 @@
 2.0.0-M2	automatic	org.apache.pekko	pekko-actor-typed_3	2026-05-10T11:35:22Z	
 2.0.0-M3	automatic	org.apache.pekko	pekko-actor-typed_2.13	2026-05-29T15:16:40Z	
 2.0.0-M3	automatic	org.apache.pekko	pekko-actor-typed_3	2026-05-29T15:16:53Z	
+1.7.0	automatic	org.apache.pekko	pekko-actor-typed_2.12	2026-08-16T12:34:03Z	
+1.7.0	automatic	org.apache.pekko	pekko-actor-typed_3	2026-08-16T12:34:35Z	
+1.7.0	automatic	org.apache.pekko	pekko-actor-typed_2.13	2026-08-16T12:35:10Z	
+2.0.0-M4	automatic	org.apache.pekko	pekko-actor-typed_3	2026-08-18T18:57:26Z	
+2.0.0-M4	automatic	org.apache.pekko	pekko-actor-typed_2.13	2026-08-18T18:57:53Z	

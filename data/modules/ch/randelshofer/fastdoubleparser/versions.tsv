@@ -373,3 +373,4 @@
 2.4.0-RC3	named	za.co.absa.spline.agent.spark	spark-3.3-spline-agent-bundle_2.12	2026-08-03T09:00:38Z	0.9.0
 2.4.0-RC3	named	za.co.absa.spline.agent.spark	spark-3.4-spline-agent-bundle_2.12	2026-08-03T09:00:38Z	0.9.0
 2.4.0-RC3	named	za.co.absa.spline.agent.spark	spark-3.5-spline-agent-bundle_2.12	2026-08-03T09:00:38Z	0.9.0
+2.4.0	named	org.apache.inlong	sort-connector-iceberg-v1.15	2026-08-13T15:53:21Z	0.9.0

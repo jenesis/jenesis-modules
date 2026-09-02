@@ -363,3 +363,5 @@
 3.33.3	named	io.quarkus	quarkus-grpc-cli	2026-07-24T00:03:14Z	3.0.0
 3.38.1	named	io.quarkus	quarkus-grpc-cli	2026-08-05T02:45:16Z	3.0.0
 3.33.3.1	named	io.quarkus	quarkus-grpc-cli	2026-08-05T02:45:19Z	3.0.0
+11.0.25	named	org.apache.tomcat	tomcat-annotations-api	2026-08-12T13:24:17Z	3.0
+10.1.59	named	org.apache.tomcat	tomcat-annotations-api	2026-08-13T17:06:09Z	2.1

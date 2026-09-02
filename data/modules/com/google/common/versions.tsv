@@ -1064,6 +1064,7 @@
 0.22.7	named	org.opendaylight.aaa	aaa-cli-jar	2026-08-11T14:00:38Z	33.6.0-jre
 0.23.3	named	org.opendaylight.aaa	aaa-cli-jar	2026-08-12T22:09:02Z	33.6.0-jre
 5.29.0.35837	named	org.sonarsource.python	sonar-python-plugin	2026-08-13T13:13:37Z	33.6.0-jre
+2.6.0	named	org.apache.jackrabbit	oak-shaded-guava	2026-08-19T16:30:50Z	33.5.0-jre
 0.23.4	named	org.opendaylight.aaa	aaa-cli-jar	2026-08-21T01:57:59Z	33.6.0-jre
 5.30.0.36259	named	org.sonarsource.python	sonar-python-plugin	2026-08-21T12:43:23Z	33.6.0-jre
 1.95.0	named	org.talend.sdk.component.sample.feature	entrywitherror	2026-08-21T14:18:41Z	33.4.8-jre

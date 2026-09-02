@@ -5086,4 +5086,5 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 10.33.0.1635	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-08-21T10:41:48Z	2.14.0
 10.33.0.1635	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-08-21T10:41:48Z	2.14.0
 2.2.0-M3	named	org.operaton.bpm	operaton-engine	2026-08-21T11:01:55Z	2.14.0
+5.2.2	named	org.apache.rocketmq	rocketmq-client-java	2026-08-26T14:34:07Z	2.9.0
 8.41.0.47177	named	org.sonarsource.java	java-custom-rules-example	2026-08-28T07:01:50Z	2.14.0
