@@ -18,3 +18,5 @@
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splunk/rum-integration-slowrendering/2.3.0/rum-integration-slowrendering-2.3.0.jar returned status 404
 2.3.1		2026-06-02T06:44:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splunk/rum-integration-slowrendering/2.3.1/rum-integration-slowrendering-2.3.1.jar returned status 404
 2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splunk/rum-integration-slowrendering/2.3.2/rum-integration-slowrendering-2.3.2.jar returned status 404
+2.3.3		2026-08-12T19:32:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splunk/rum-integration-slowrendering/2.3.3/rum-integration-slowrendering-2.3.3.jar returned status 404
+2.3.4		2026-08-28T01:08:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splunk/rum-integration-slowrendering/2.3.4/rum-integration-slowrendering-2.3.4.jar returned status 404
