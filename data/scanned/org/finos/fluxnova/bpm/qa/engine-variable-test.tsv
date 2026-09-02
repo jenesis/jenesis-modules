@@ -14,3 +14,5 @@
 2.0.4	classes	2026-07-27T19:37:41Z	
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/qa/engine-variable-test/3.0.0/engine-variable-test-3.0.0.jar returned status 404
 3.0.0	classes	2026-07-17T21:59:25Z	
+3.0.1		2026-08-13T18:18:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/qa/engine-variable-test/3.0.1/engine-variable-test-3.0.1.jar returned status 404
+3.0.1	classes	2026-08-13T18:18:24Z	
