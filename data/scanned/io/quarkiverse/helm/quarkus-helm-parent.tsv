@@ -41,3 +41,4 @@
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/helm/quarkus-helm-parent/1.4.0/quarkus-helm-parent-1.4.0.jar returned status 404
 1.4.1		2026-07-03T08:36:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/helm/quarkus-helm-parent/1.4.1/quarkus-helm-parent-1.4.1.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/helm/quarkus-helm-parent/1.4.2/quarkus-helm-parent-1.4.2.jar returned status 404
+1.4.3		2026-08-27T09:28:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/helm/quarkus-helm-parent/1.4.3/quarkus-helm-parent-1.4.3.jar returned status 404

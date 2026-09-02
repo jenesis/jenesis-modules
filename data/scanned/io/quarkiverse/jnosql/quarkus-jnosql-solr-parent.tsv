@@ -14,3 +14,4 @@
 3.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-solr-parent/3.4.7/quarkus-jnosql-solr-parent-3.4.7.jar returned status 404
 3.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-solr-parent/3.4.8/quarkus-jnosql-solr-parent-3.4.8.jar returned status 404
 3.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-solr-parent/3.4.9/quarkus-jnosql-solr-parent-3.4.9.jar returned status 404
+3.5.0		2026-08-11T19:08:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/jnosql/quarkus-jnosql-solr-parent/3.5.0/quarkus-jnosql-solr-parent-3.5.0.jar returned status 404
