@@ -9,3 +9,4 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/picovoice/orca-android/2.0.0/orca-android-2.0.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/picovoice/orca-android/3.0.0/orca-android-3.0.0.jar returned status 404
 3.0.1		2026-06-30T20:13:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/picovoice/orca-android/3.0.1/orca-android-3.0.1.jar returned status 404
+3.1.0		2026-08-19T20:49:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/picovoice/orca-android/3.1.0/orca-android-3.1.0.jar returned status 404

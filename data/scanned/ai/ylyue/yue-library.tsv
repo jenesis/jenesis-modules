@@ -16,6 +16,7 @@ j11.2.4.0			IOException: Tail request on https://maven-central.storage-download.
 j11.2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ylyue/yue-library/j11.2.6.0/yue-library-j11.2.6.0.jar returned status 404
 j11.2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ylyue/yue-library/j11.2.6.1/yue-library-j11.2.6.1.jar returned status 404
 j11.2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ylyue/yue-library/j11.2.6.2/yue-library-j11.2.6.2.jar returned status 404
+j17.3.3.1		2026-08-17T08:30:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ylyue/yue-library/j17.3.3.1/yue-library-j17.3.3.1.jar returned status 404
 j8.2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ylyue/yue-library/j8.2.2.0/yue-library-j8.2.2.0.jar returned status 404
 j8.2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ylyue/yue-library/j8.2.3.0/yue-library-j8.2.3.0.jar returned status 404
 j8.2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ylyue/yue-library/j8.2.3.1/yue-library-j8.2.3.1.jar returned status 404

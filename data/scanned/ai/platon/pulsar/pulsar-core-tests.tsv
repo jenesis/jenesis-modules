@@ -5,6 +5,14 @@
 4.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.10.4/pulsar-core-tests-4.10.4.jar returned status 404
 4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.11.0/pulsar-core-tests-4.11.0.jar returned status 404
 4.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.11.1/pulsar-core-tests-4.11.1.jar returned status 404
+4.11.10		2026-08-31T19:52:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.11.10/pulsar-core-tests-4.11.10.jar returned status 404
+4.11.3		2026-08-15T17:17:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.11.3/pulsar-core-tests-4.11.3.jar returned status 404
+4.11.4		2026-08-16T19:57:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.11.4/pulsar-core-tests-4.11.4.jar returned status 404
+4.11.5		2026-08-18T16:19:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.11.5/pulsar-core-tests-4.11.5.jar returned status 404
+4.11.6		2026-08-19T05:53:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.11.6/pulsar-core-tests-4.11.6.jar returned status 404
+4.11.7		2026-08-22T15:04:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.11.7/pulsar-core-tests-4.11.7.jar returned status 404
+4.11.8		2026-08-26T06:29:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.11.8/pulsar-core-tests-4.11.8.jar returned status 404
+4.11.9		2026-08-30T13:15:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.11.9/pulsar-core-tests-4.11.9.jar returned status 404
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.7.0/pulsar-core-tests-4.7.0.jar returned status 404
 4.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.7.1/pulsar-core-tests-4.7.1.jar returned status 404
 4.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar/pulsar-core-tests/4.7.10/pulsar-core-tests-4.7.10.jar returned status 404

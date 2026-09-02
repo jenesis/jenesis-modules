@@ -1,3 +1,4 @@
 0.1.0		2026-07-07T08:25:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-mlkit-providers/0.1.0/inderun-mlkit-providers-0.1.0.jar returned status 404
 0.1.1		2026-07-07T11:39:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-mlkit-providers/0.1.1/inderun-mlkit-providers-0.1.1.jar returned status 404
 0.1.2		2026-07-07T12:17:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-mlkit-providers/0.1.2/inderun-mlkit-providers-0.1.2.jar returned status 404
+0.2.2		2026-08-16T16:36:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-mlkit-providers/0.2.2/inderun-mlkit-providers-0.2.2.jar returned status 404
