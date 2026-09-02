@@ -41,6 +41,7 @@
 21.20.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/jdbc/ojdbc8-production/21.20.0.0/ojdbc8-production-21.20.0.0.jar returned status 404
 21.21.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/jdbc/ojdbc8-production/21.21.0.0/ojdbc8-production-21.21.0.0.jar returned status 404
 21.22.0.0		2026-08-03T22:00:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/jdbc/ojdbc8-production/21.22.0.0/ojdbc8-production-21.22.0.0.jar returned status 404
+21.23.0.0		2026-08-20T09:06:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/jdbc/ojdbc8-production/21.23.0.0/ojdbc8-production-21.23.0.0.jar returned status 404
 21.3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/jdbc/ojdbc8-production/21.3.0.0/ojdbc8-production-21.3.0.0.jar returned status 404
 21.4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/jdbc/ojdbc8-production/21.4.0.0/ojdbc8-production-21.4.0.0.jar returned status 404
 21.4.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/oracle/database/jdbc/ojdbc8-production/21.4.0.0.1/ojdbc8-production-21.4.0.0.1.jar returned status 404

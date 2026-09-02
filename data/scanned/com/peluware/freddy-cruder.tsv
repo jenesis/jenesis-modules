@@ -27,3 +27,5 @@
 2.1.0		2026-06-27T01:15:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/peluware/freddy-cruder/2.1.0/freddy-cruder-2.1.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/peluware/freddy-cruder/3.0.0/freddy-cruder-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/peluware/freddy-cruder/3.0.1/freddy-cruder-3.0.1.jar returned status 404
+3.1.0		2026-08-22T21:30:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/peluware/freddy-cruder/3.1.0/freddy-cruder-3.1.0.jar returned status 404
+3.2.0		2026-08-29T20:09:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/peluware/freddy-cruder/3.2.0/freddy-cruder-3.2.0.jar returned status 404

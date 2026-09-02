@@ -1408,6 +1408,7 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 6.7.3	named	com.sngular	scs-multiapi-maven-plugin	2026-08-16T22:24:08Z	3.18.0
 4.2.1.11	named	io.streamnative	buildtools	2026-08-17T04:28:40Z	3.19.0
 2.1.47	named	io.swagger.parser.v3	swagger-parser-cli	2026-08-18T11:47:56Z	3.20.0
+3.15.1	named	com.power4j.fist3	fist-jasypt-cli	2026-08-19T15:21:38Z	3.17.0
 8.40.0.46617	named	org.sonarsource.java	sonar-java-plugin	2026-08-20T13:44:23Z	3.20.0
 4.0.12.4	named	io.streamnative	buildtools	2026-08-23T08:45:46Z	3.19.0
 4.2.1.12	named	io.streamnative	buildtools	2026-08-24T03:08:56Z	3.19.0
