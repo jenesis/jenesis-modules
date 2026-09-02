@@ -124,6 +124,7 @@
 40.0.1.Final		2026-06-19T10:13:54Z	
 41.0.0.Beta1		2026-06-25T17:48:08Z	
 41.0.0.Final			
+41.0.1.Final		2026-08-25T18:19:35Z	
 8.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-dist/8.0.0.Alpha1/wildfly-dist-8.0.0.Alpha1.jar returned status 404
 8.0.0.Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-dist/8.0.0.Alpha2/wildfly-dist-8.0.0.Alpha2.jar returned status 404
 8.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/wildfly-dist/8.0.0.Alpha3/wildfly-dist-8.0.0.Alpha3.jar returned status 404

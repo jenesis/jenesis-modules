@@ -48,6 +48,7 @@
 1.12.9		2026-03-25T16:22:23Z	
 1.13.0		2026-03-24T05:25:26Z	
 1.13.1		2026-03-24T11:15:19Z	
+1.13.10		2026-08-18T03:04:02Z	
 1.13.2		2026-03-31T03:06:30Z	
 1.13.3		2026-04-08T05:08:46Z	
 1.13.4		2026-04-30T05:28:12Z	
@@ -55,6 +56,7 @@
 1.13.6		2026-06-17T14:13:15Z	
 1.13.7			
 1.13.8			
+1.13.9		2026-08-12T09:58:11Z	
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt.ui/1.2.0/org.wso2.carbon.email.mgt.ui-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt.ui/1.2.1/org.wso2.carbon.email.mgt.ui-1.2.1.jar returned status 404
 1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.email.mgt.ui/1.2.10/org.wso2.carbon.email.mgt.ui-1.2.10.jar returned status 404

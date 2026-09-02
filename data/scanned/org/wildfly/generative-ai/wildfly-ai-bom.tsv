@@ -1,4 +1,6 @@
 0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/generative-ai/wildfly-ai-bom/0.10.0/wildfly-ai-bom-0.10.0.jar returned status 404
+0.20.0		2026-08-21T09:14:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/generative-ai/wildfly-ai-bom/0.20.0/wildfly-ai-bom-0.20.0.jar returned status 404
+0.20.1		2026-08-21T11:01:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/generative-ai/wildfly-ai-bom/0.20.1/wildfly-ai-bom-0.20.1.jar returned status 404
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/generative-ai/wildfly-ai-bom/0.7.1/wildfly-ai-bom-0.7.1.jar returned status 404
 0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/generative-ai/wildfly-ai-bom/0.7.2/wildfly-ai-bom-0.7.2.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/generative-ai/wildfly-ai-bom/0.8.0/wildfly-ai-bom-0.8.0.jar returned status 404
