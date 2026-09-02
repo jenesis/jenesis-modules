@@ -4,3 +4,4 @@
 3.0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aevi/launcher/LauncherModel/3.0.3.0/LauncherModel-3.0.3.0.jar returned status 404
 3.0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aevi/launcher/LauncherModel/3.0.4.0/LauncherModel-3.0.4.0.jar returned status 404
 3.1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aevi/launcher/LauncherModel/3.1.0.0/LauncherModel-3.1.0.0.jar returned status 404
+3.2.0.0		2026-08-13T09:54:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aevi/launcher/LauncherModel/3.2.0.0/LauncherModel-3.2.0.0.jar returned status 404

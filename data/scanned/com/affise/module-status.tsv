@@ -83,6 +83,9 @@
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-status/1.7.1/module-status-1.7.1.jar returned status 404
 1.7.10		2026-07-13T12:26:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-status/1.7.10/module-status-1.7.10.jar returned status 404
 1.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-status/1.7.11/module-status-1.7.11.jar returned status 404
+1.7.12		2026-08-13T12:40:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-status/1.7.12/module-status-1.7.12.jar returned status 404
+1.7.13		2026-08-20T11:58:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-status/1.7.13/module-status-1.7.13.jar returned status 404
+1.7.14		2026-08-31T12:32:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-status/1.7.14/module-status-1.7.14.jar returned status 404
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-status/1.7.2/module-status-1.7.2.jar returned status 404
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-status/1.7.3/module-status-1.7.3.jar returned status 404
 1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/module-status/1.7.4/module-status-1.7.4.jar returned status 404

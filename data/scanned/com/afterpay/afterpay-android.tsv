@@ -31,3 +31,4 @@
 4.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/afterpay/afterpay-android/4.8.1/afterpay-android-4.8.1.jar returned status 404
 4.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/afterpay/afterpay-android/4.8.2/afterpay-android-4.8.2.jar returned status 404
 4.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/afterpay/afterpay-android/4.8.3/afterpay-android-4.8.3.jar returned status 404
+4.9.0		2026-08-31T19:57:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/afterpay/afterpay-android/4.9.0/afterpay-android-4.9.0.jar returned status 404

@@ -97,6 +97,9 @@
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/attribution/1.7.1/attribution-1.7.1.jar returned status 404
 1.7.10		2026-07-13T12:17:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/attribution/1.7.10/attribution-1.7.10.jar returned status 404
 1.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/attribution/1.7.11/attribution-1.7.11.jar returned status 404
+1.7.12		2026-08-13T12:20:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/attribution/1.7.12/attribution-1.7.12.jar returned status 404
+1.7.13		2026-08-20T11:50:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/attribution/1.7.13/attribution-1.7.13.jar returned status 404
+1.7.14		2026-08-31T12:23:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/attribution/1.7.14/attribution-1.7.14.jar returned status 404
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/attribution/1.7.2/attribution-1.7.2.jar returned status 404
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/attribution/1.7.3/attribution-1.7.3.jar returned status 404
 1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/affise/attribution/1.7.4/attribution-1.7.4.jar returned status 404
