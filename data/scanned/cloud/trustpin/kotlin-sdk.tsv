@@ -25,3 +25,4 @@
 6.1.1		2026-07-07T11:28:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/trustpin/kotlin-sdk/6.1.1/kotlin-sdk-6.1.1.jar returned status 404
 6.1.2		2026-07-07T12:58:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/trustpin/kotlin-sdk/6.1.2/kotlin-sdk-6.1.2.jar returned status 404
 6.2.0		2026-07-20T13:41:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/trustpin/kotlin-sdk/6.2.0/kotlin-sdk-6.2.0.jar returned status 404
+6.3.0		2026-08-26T14:16:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/trustpin/kotlin-sdk/6.3.0/kotlin-sdk-6.3.0.jar returned status 404

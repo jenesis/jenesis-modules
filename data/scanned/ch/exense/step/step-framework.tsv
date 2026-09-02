@@ -21,3 +21,4 @@
 3.0.0		2026-06-03T10:48:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-framework/3.0.0/step-framework-3.0.0.jar returned status 404
 3.0.1		2026-07-03T09:17:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-framework/3.0.1/step-framework-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-framework/3.0.2/step-framework-3.0.2.jar returned status 404
+3.0.3		2026-08-27T06:52:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step-framework/3.0.3/step-framework-3.0.3.jar returned status 404

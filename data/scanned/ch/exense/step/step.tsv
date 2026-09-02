@@ -30,3 +30,4 @@
 3.30.0		2026-06-03T13:32:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step/3.30.0/step-3.30.0.jar returned status 404
 3.30.1		2026-07-07T19:14:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step/3.30.1/step-3.30.1.jar returned status 404
 3.30.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step/3.30.2/step-3.30.2.jar returned status 404
+3.30.3		2026-08-27T10:02:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/exense/step/step/3.30.3/step-3.30.3.jar returned status 404

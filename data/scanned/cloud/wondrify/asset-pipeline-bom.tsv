@@ -26,3 +26,4 @@
 5.1.0-M5		2026-07-07T12:47:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/wondrify/asset-pipeline-bom/5.1.0-M5/asset-pipeline-bom-5.1.0-M5.jar returned status 404
 5.1.0-M6		2026-07-07T13:21:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/wondrify/asset-pipeline-bom/5.1.0-M6/asset-pipeline-bom-5.1.0-M6.jar returned status 404
 5.2.0-M1		2026-07-07T13:22:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/wondrify/asset-pipeline-bom/5.2.0-M1/asset-pipeline-bom-5.2.0-M1.jar returned status 404
+5.2.0-M3		2026-08-16T15:33:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/wondrify/asset-pipeline-bom/5.2.0-M3/asset-pipeline-bom-5.2.0-M3.jar returned status 404

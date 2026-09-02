@@ -21,3 +21,7 @@
 2.0.12	named	ch.qos.logback.access	logback-access-common	2026-02-16T10:12:50Z	2.0.12
 2.0.13	named	ch.qos.logback.access	logback-access-common	2026-07-09T23:55:07Z	2.0.13
 2.0.14	named	ch.qos.logback.access	logback-access-common	2026-07-23T23:55:56Z	2.0.14
+2.0.15	named	ch.qos.logback.access	logback-access-common	2026-08-14T09:26:14Z	2.0.15
+0.1.6-jdk17-RELEASES	named	club.dawdler	dawdler-client-api-generator	2026-08-15T09:49:11Z	2.0.14
+0.1.6-jdk21-RELEASES	named	club.dawdler	dawdler-client-api-generator	2026-08-15T13:10:53Z	2.0.14
+0.1.6-jdk25-RELEASES	named	club.dawdler	dawdler-client-api-generator	2026-08-15T13:31:07Z	2.0.14

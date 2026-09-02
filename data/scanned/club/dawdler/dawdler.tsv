@@ -44,3 +44,7 @@
 0.1.5-jdk17-RELEASES			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/dawdler/dawdler/0.1.5-jdk17-RELEASES/dawdler-0.1.5-jdk17-RELEASES.jar returned status 404
 0.1.5-jdk21-RELEASES			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/dawdler/dawdler/0.1.5-jdk21-RELEASES/dawdler-0.1.5-jdk21-RELEASES.jar returned status 404
 0.1.5-jdk25-RELEASES			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/dawdler/dawdler/0.1.5-jdk25-RELEASES/dawdler-0.1.5-jdk25-RELEASES.jar returned status 404
+0.1.6-jdk1.8-RELEASES		2026-08-15T08:49:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/dawdler/dawdler/0.1.6-jdk1.8-RELEASES/dawdler-0.1.6-jdk1.8-RELEASES.jar returned status 404
+0.1.6-jdk17-RELEASES		2026-08-15T09:49:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/dawdler/dawdler/0.1.6-jdk17-RELEASES/dawdler-0.1.6-jdk17-RELEASES.jar returned status 404
+0.1.6-jdk21-RELEASES		2026-08-15T13:10:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/dawdler/dawdler/0.1.6-jdk21-RELEASES/dawdler-0.1.6-jdk21-RELEASES.jar returned status 404
+0.1.6-jdk25-RELEASES		2026-08-15T13:31:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/club/dawdler/dawdler/0.1.6-jdk25-RELEASES/dawdler-0.1.6-jdk25-RELEASES.jar returned status 404
