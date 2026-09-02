@@ -28,3 +28,6 @@
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/money/link/linkaccount/3.0.4/linkaccount-3.0.4.jar returned status 404
 3.0.5-dev.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/money/link/linkaccount/3.0.5-dev.0/linkaccount-3.0.5-dev.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/money/link/linkaccount/4.0.0/linkaccount-4.0.0.jar returned status 404
+4.0.1		2026-08-11T21:39:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/money/link/linkaccount/4.0.1/linkaccount-4.0.1.jar returned status 404
+4.0.1-dev.0		2026-08-11T21:32:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/money/link/linkaccount/4.0.1-dev.0/linkaccount-4.0.1-dev.0.jar returned status 404
+4.0.2		2026-08-12T17:00:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/money/link/linkaccount/4.0.2/linkaccount-4.0.2.jar returned status 404

@@ -11,3 +11,4 @@
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/dankito/web/ktor-web-client-linuxX64/1.7.1/ktor-web-client-linuxX64-1.7.1.jar returned status 404
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/dankito/web/ktor-web-client-linuxX64/1.7.2/ktor-web-client-linuxX64-1.7.2.jar returned status 404
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/dankito/web/ktor-web-client-linuxX64/1.8.0/ktor-web-client-linuxX64-1.8.0.jar returned status 404
+1.9.0		2026-08-13T18:26:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/dankito/web/ktor-web-client-linuxX64/1.9.0/ktor-web-client-linuxX64-1.9.0.jar returned status 404

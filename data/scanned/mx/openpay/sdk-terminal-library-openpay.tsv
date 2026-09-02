@@ -9,7 +9,10 @@
 1.0.105		2026-07-02T23:47:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/sdk-terminal-library-openpay/1.0.105/sdk-terminal-library-openpay-1.0.105.jar returned status 404
 1.0.106			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/sdk-terminal-library-openpay/1.0.106/sdk-terminal-library-openpay-1.0.106.jar returned status 404
 1.0.107			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/sdk-terminal-library-openpay/1.0.107/sdk-terminal-library-openpay-1.0.107.jar returned status 404
+1.0.108		2026-08-14T23:49:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/sdk-terminal-library-openpay/1.0.108/sdk-terminal-library-openpay-1.0.108.jar returned status 404
+1.0.109		2026-08-24T22:04:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/sdk-terminal-library-openpay/1.0.109/sdk-terminal-library-openpay-1.0.109.jar returned status 404
 1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/sdk-terminal-library-openpay/1.0.11/sdk-terminal-library-openpay-1.0.11.jar returned status 404
+1.0.110		2026-08-29T00:28:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/sdk-terminal-library-openpay/1.0.110/sdk-terminal-library-openpay-1.0.110.jar returned status 404
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/sdk-terminal-library-openpay/1.0.12/sdk-terminal-library-openpay-1.0.12.jar returned status 404
 1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/sdk-terminal-library-openpay/1.0.13/sdk-terminal-library-openpay-1.0.13.jar returned status 404
 1.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/openpay/sdk-terminal-library-openpay/1.0.14/sdk-terminal-library-openpay-1.0.14.jar returned status 404

@@ -13,3 +13,4 @@
 0.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/test/fluent-assert-bom/0.2.6/fluent-assert-bom-0.2.6.jar returned status 404
 0.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/test/fluent-assert-bom/0.2.8/fluent-assert-bom-0.2.8.jar returned status 404
 1.0.0		2026-05-27T04:06:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/test/fluent-assert-bom/1.0.0/fluent-assert-bom-1.0.0.jar returned status 404
+1.1.0		2026-08-17T05:07:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/test/fluent-assert-bom/1.1.0/fluent-assert-bom-1.1.0.jar returned status 404

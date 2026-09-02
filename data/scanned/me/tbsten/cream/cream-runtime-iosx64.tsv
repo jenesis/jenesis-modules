@@ -4,6 +4,8 @@
 0.1.0-dev01	metadata	2025-07-05T16:35:13Z	
 0.1.0-dev02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-iosx64/0.1.0-dev02/cream-runtime-iosx64-0.1.0-dev02.jar returned status 404
 0.1.0-dev02	metadata	2025-07-05T17:41:24Z	
+0.10.0		2026-08-24T00:51:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-iosx64/0.10.0/cream-runtime-iosx64-0.10.0.jar returned status 404
+0.10.0	metadata	2026-08-24T00:51:58Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-iosx64/0.2.0/cream-runtime-iosx64-0.2.0.jar returned status 404
 0.2.0	metadata	2025-07-06T07:00:27Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-iosx64/0.3.0/cream-runtime-iosx64-0.3.0.jar returned status 404

@@ -578,3 +578,5 @@
 1.2.19	named	co.hyperprobe	hyperprobe-agent	2026-07-03T06:01:23Z	1.14.12
 3.12.9	named	com.google.gerrit	gerrit-acceptance-framework	2026-07-14T02:28:03Z	1.14.9
 3.13.8	named	com.google.gerrit	gerrit-acceptance-framework	2026-07-14T02:28:07Z	1.14.9
+1.18.12-jdk5	named	net.bytebuddy	byte-buddy-agent	2026-08-16T22:36:43Z	1.18.12-jdk5
+1.18.12	named	net.bytebuddy	byte-buddy-agent	2026-08-16T22:38:37Z	1.18.12

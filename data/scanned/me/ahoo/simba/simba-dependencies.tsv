@@ -60,3 +60,6 @@
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/simba/simba-dependencies/3.0.1/simba-dependencies-3.0.1.jar returned status 404
 3.0.2		2026-06-01T11:00:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/simba/simba-dependencies/3.0.2/simba-dependencies-3.0.2.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/simba/simba-dependencies/3.1.0/simba-dependencies-3.1.0.jar returned status 404
+3.1.1		2026-08-18T02:56:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/simba/simba-dependencies/3.1.1/simba-dependencies-3.1.1.jar returned status 404
+3.1.2		2026-08-18T07:31:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/simba/simba-dependencies/3.1.2/simba-dependencies-3.1.2.jar returned status 404
+3.1.3		2026-08-21T07:34:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/simba/simba-dependencies/3.1.3/simba-dependencies-3.1.3.jar returned status 404

@@ -1,6 +1,7 @@
 0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-linuxx64/0.1.0/cream-runtime-linuxx64-0.1.0.jar returned status 404
 0.1.0-dev01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-linuxx64/0.1.0-dev01/cream-runtime-linuxx64-0.1.0-dev01.jar returned status 404
 0.1.0-dev02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-linuxx64/0.1.0-dev02/cream-runtime-linuxx64-0.1.0-dev02.jar returned status 404
+0.10.0		2026-08-24T00:51:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-linuxx64/0.10.0/cream-runtime-linuxx64-0.10.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-linuxx64/0.2.0/cream-runtime-linuxx64-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-linuxx64/0.3.0/cream-runtime-linuxx64-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/cream/cream-runtime-linuxx64/0.3.1/cream-runtime-linuxx64-0.3.1.jar returned status 404

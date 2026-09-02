@@ -6,3 +6,4 @@
 0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/contract-java/0.1.5/contract-java-0.1.5.jar returned status 404
 0.1.6		2026-08-03T21:07:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/contract-java/0.1.6/contract-java-0.1.6.jar returned status 404
 0.1.7		2026-08-09T10:07:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/contract-java/0.1.7/contract-java-0.1.7.jar returned status 404
+0.1.8		2026-08-28T22:48:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/media/barney/contract-java/0.1.8/contract-java-0.1.8.jar returned status 404

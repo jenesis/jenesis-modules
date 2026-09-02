@@ -15,4 +15,6 @@
 2.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/report/2.12.2/report-2.12.2.jar returned status 404
 2.12.3		2026-05-21T00:12:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/report/2.12.3/report-2.12.3.jar returned status 404
 2.12.4		2026-06-12T03:38:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/report/2.12.4/report-2.12.4.jar returned status 404
+2.12.5		2026-08-11T20:25:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/report/2.12.5/report-2.12.5.jar returned status 404
 2.12.6		2026-08-04T18:05:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/report/2.12.6/report-2.12.6.jar returned status 404
+2.12.7		2026-08-21T07:20:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/report/2.12.7/report-2.12.7.jar returned status 404

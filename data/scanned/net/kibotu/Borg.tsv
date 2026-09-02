@@ -8,3 +8,6 @@
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kibotu/Borg/1.0.7/Borg-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kibotu/Borg/1.0.8/Borg-1.0.8.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kibotu/Borg/1.1.0/Borg-1.1.0.jar returned status 404
+1.2.0		2026-08-10T10:34:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kibotu/Borg/1.2.0/Borg-1.2.0.jar returned status 404
+1.2.5		2026-08-10T11:37:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kibotu/Borg/1.2.5/Borg-1.2.5.jar returned status 404
+1.2.6		2026-08-11T13:43:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/kibotu/Borg/1.2.6/Borg-1.2.6.jar returned status 404

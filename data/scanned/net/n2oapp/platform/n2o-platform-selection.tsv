@@ -33,5 +33,7 @@
 6.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/platform/n2o-platform-selection/6.3.10/n2o-platform-selection-6.3.10.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/platform/n2o-platform-selection/7.0.0/n2o-platform-selection-7.0.0.jar returned status 404
 7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/platform/n2o-platform-selection/7.0.1/n2o-platform-selection-7.0.1.jar returned status 404
+7.0.2		2026-08-25T15:19:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/platform/n2o-platform-selection/7.0.2/n2o-platform-selection-7.0.2.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/platform/n2o-platform-selection/7.1.0/n2o-platform-selection-7.1.0.jar returned status 404
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/platform/n2o-platform-selection/7.1.1/n2o-platform-selection-7.1.1.jar returned status 404
+7.1.2		2026-08-28T13:28:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/platform/n2o-platform-selection/7.1.2/n2o-platform-selection-7.1.2.jar returned status 404
