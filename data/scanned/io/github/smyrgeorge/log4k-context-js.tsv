@@ -5,3 +5,4 @@
 2.2.0		2026-06-29T15:24:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-context-js/2.2.0/log4k-context-js-2.2.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-context-js/2.3.0/log4k-context-js-2.3.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-context-js/2.4.0/log4k-context-js-2.4.0.jar returned status 404
+2.5.0		2026-08-11T16:54:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/smyrgeorge/log4k-context-js/2.5.0/log4k-context-js-2.5.0.jar returned status 404
