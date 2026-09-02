@@ -1,11 +1,13 @@
 10.0.0		2025-06-05T07:27:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/10.0.0/war-dispatch-jsp-10.0.0.jar returned status 404
 10.0.1		2025-07-30T08:06:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/10.0.1/war-dispatch-jsp-10.0.1.jar returned status 404
 10.1.0		2026-06-11T09:33:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/10.1.0/war-dispatch-jsp-10.1.0.jar returned status 404
+10.1.1		2026-08-11T12:56:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/10.1.1/war-dispatch-jsp-10.1.1.jar returned status 404
 11.0.0		2025-06-05T07:57:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/11.0.0/war-dispatch-jsp-11.0.0.jar returned status 404
 11.0.1		2025-07-30T08:09:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/11.0.1/war-dispatch-jsp-11.0.1.jar returned status 404
 11.1.0		2025-11-19T12:12:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/11.1.0/war-dispatch-jsp-11.1.0.jar returned status 404
 11.1.1		2026-05-07T11:13:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/11.1.1/war-dispatch-jsp-11.1.1.jar returned status 404
 11.1.2		2026-06-11T09:52:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/11.1.2/war-dispatch-jsp-11.1.2.jar returned status 404
+11.1.3		2026-08-11T12:31:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/11.1.3/war-dispatch-jsp-11.1.3.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/3.0.0/war-dispatch-jsp-3.0.0.jar returned status 404
 3.0.0.RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/3.0.0.RC/war-dispatch-jsp-3.0.0.RC.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/3.0.1/war-dispatch-jsp-3.0.1.jar returned status 404
@@ -183,6 +185,7 @@
 8.0.34		2025-09-18T13:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/8.0.34/war-dispatch-jsp-8.0.34.jar returned status 404
 8.0.35		2026-02-27T12:04:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/8.0.35/war-dispatch-jsp-8.0.35.jar returned status 404
 8.0.36		2026-06-11T08:53:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/8.0.36/war-dispatch-jsp-8.0.36.jar returned status 404
+8.0.37		2026-08-11T13:21:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/8.0.37/war-dispatch-jsp-8.0.37.jar returned status 404
 8.0.4		2024-12-03T20:07:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/8.0.4/war-dispatch-jsp-8.0.4.jar returned status 404
 8.0.5		2024-12-03T20:07:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/8.0.5/war-dispatch-jsp-8.0.5.jar returned status 404
 8.0.6		2024-12-03T20:06:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-dispatch-jsp/8.0.6/war-dispatch-jsp-8.0.6.jar returned status 404

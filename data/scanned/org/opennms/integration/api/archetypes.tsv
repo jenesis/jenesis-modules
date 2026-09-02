@@ -9,3 +9,4 @@
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/integration/api/archetypes/1.6.0/archetypes-1.6.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/integration/api/archetypes/1.6.1/archetypes-1.6.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/integration/api/archetypes/2.0.0/archetypes-2.0.0.jar returned status 404
+2.0.1		2026-08-27T13:01:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/integration/api/archetypes/2.0.1/archetypes-2.0.1.jar returned status 404

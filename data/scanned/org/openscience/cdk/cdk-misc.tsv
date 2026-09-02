@@ -10,6 +10,7 @@
 2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openscience/cdk/cdk-misc/2.10/cdk-misc-2.10.jar returned status 404
 2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openscience/cdk/cdk-misc/2.11/cdk-misc-2.11.jar returned status 404
 2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openscience/cdk/cdk-misc/2.12/cdk-misc-2.12.jar returned status 404
+2.13		2026-08-17T19:58:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openscience/cdk/cdk-misc/2.13/cdk-misc-2.13.jar returned status 404
 2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openscience/cdk/cdk-misc/2.2/cdk-misc-2.2.jar returned status 404
 2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openscience/cdk/cdk-misc/2.3/cdk-misc-2.3.jar returned status 404
 2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openscience/cdk/cdk-misc/2.5/cdk-misc-2.5.jar returned status 404
