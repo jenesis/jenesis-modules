@@ -9,6 +9,8 @@
 10.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-parent-pom/10.2.2/ph-oton-parent-pom-10.2.2.jar returned status 404
 10.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-parent-pom/10.2.3/ph-oton-parent-pom-10.2.3.jar returned status 404
 10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-parent-pom/10.3.0/ph-oton-parent-pom-10.3.0.jar returned status 404
+10.3.1		2026-08-12T09:30:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-parent-pom/10.3.1/ph-oton-parent-pom-10.3.1.jar returned status 404
+10.4.0		2026-08-30T11:56:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-parent-pom/10.4.0/ph-oton-parent-pom-10.4.0.jar returned status 404
 8.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-parent-pom/8.2.5/ph-oton-parent-pom-8.2.5.jar returned status 404
 8.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-parent-pom/8.2.6/ph-oton-parent-pom-8.2.6.jar returned status 404
 8.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-parent-pom/8.2.7/ph-oton-parent-pom-8.2.7.jar returned status 404

@@ -868,3 +868,5 @@
 2.0.82.Final	named	io.netty	netty-tcnative-boringssl-static	2026-08-28T10:57:31Z	2.0.82.Final
 2.0.83.Final	named	io.netty	netty-tcnative	2026-08-29T06:06:21Z	2.0.83.Final
 2.0.83.Final	named	io.netty	netty-tcnative-boringssl-static	2026-08-29T06:06:21Z	2.0.83.Final
+4.1.12	named	com.instaclustr	esop-azure	2026-08-31T11:57:21Z	2.0.73.Final
+4.1.12	named	com.instaclustr	esop-gcp	2026-08-31T11:57:21Z	2.0.70.Final
