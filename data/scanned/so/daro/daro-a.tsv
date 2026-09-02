@@ -89,3 +89,5 @@
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.6.1/daro-a-1.6.1.jar returned status 404
 1.6.1-os17-snapshot01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.6.1-os17-snapshot01/daro-a-1.6.1-os17-snapshot01.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.7.0/daro-a-1.7.0.jar returned status 404
+1.7.1		2026-08-12T06:52:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.7.1/daro-a-1.7.1.jar returned status 404
+1.7.1-beta01		2026-08-12T05:21:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-a/1.7.1-beta01/daro-a-1.7.1-beta01.jar returned status 404
