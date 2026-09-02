@@ -68,7 +68,10 @@
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.0.4/spring-kafka-bom-4.0.4.jar returned status 404
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.0.5/spring-kafka-bom-4.0.5.jar returned status 404
 4.0.6		2026-06-09T17:37:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.0.6/spring-kafka-bom-4.0.6.jar returned status 404
+4.0.7		2026-08-20T10:38:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.0.7/spring-kafka-bom-4.0.7.jar returned status 404
 4.1.0		2026-06-09T17:36:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.1.0/spring-kafka-bom-4.1.0.jar returned status 404
 4.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.1.0-M1/spring-kafka-bom-4.1.0-M1.jar returned status 404
 4.1.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.1.0-M2/spring-kafka-bom-4.1.0-M2.jar returned status 404
 4.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.1.0-RC1/spring-kafka-bom-4.1.0-RC1.jar returned status 404
+4.1.1		2026-08-20T10:38:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.1.1/spring-kafka-bom-4.1.1.jar returned status 404
+4.2.0-M1		2026-08-20T10:38:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/kafka/spring-kafka-bom/4.2.0-M1/spring-kafka-bom-4.2.0-M1.jar returned status 404

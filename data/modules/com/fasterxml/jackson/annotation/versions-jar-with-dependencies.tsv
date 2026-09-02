@@ -5320,6 +5320,15 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 0.24.18	named	top.bella	openai-service	2026-08-20T08:00:31Z	2.14.2
 0.24.19	named	top.bella	openai-service	2026-08-21T04:03:01Z	2.14.2
 7.0.5	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-08-22T15:49:16Z	2.21
+10.2.1	named	org.telegram	telegrambots-abilities	2026-08-22T22:11:07Z	2.17.2
+10.2.1	named	org.telegram	telegrambots-client	2026-08-22T22:11:07Z	2.17.2
+10.2.1	named	org.telegram	telegrambots-extensions	2026-08-22T22:11:07Z	2.17.2
+10.2.1	named	org.telegram	telegrambots-longpolling	2026-08-22T22:11:07Z	2.17.2
+10.2.1	named	org.telegram	telegrambots-springboot-longpolling-starter	2026-08-22T22:11:07Z	2.17.2
+10.2.1	named	org.telegram	telegrambots-springboot-webhook-starter	2026-08-22T22:11:07Z	2.17.2
+10.2.1	named	org.telegram	telegrambots-webhook	2026-08-22T22:11:07Z	2.17.2
+10.2.1	named	org.telegram	telegrambots-client-jetty-adapter	2026-08-22T22:11:08Z	2.17.2
+10.2.1	named	org.telegram	telegrambots-meta	2026-08-22T22:11:08Z	2.17.2
 1.2.42	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-08-24T07:03:09Z	2.17.0
 4.0.4	named	software.amazon.neptune	gremlin-client	2026-08-24T21:06:17Z	2.18.9
 0.24.20	named	top.bella	openai-service	2026-08-25T04:45:51Z	2.14.2

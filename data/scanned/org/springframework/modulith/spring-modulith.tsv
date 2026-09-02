@@ -52,6 +52,7 @@
 1.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/1.4.10/spring-modulith-1.4.10.jar returned status 404
 1.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/1.4.11/spring-modulith-1.4.11.jar returned status 404
 1.4.12		2026-06-11T08:52:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/1.4.12/spring-modulith-1.4.12.jar returned status 404
+1.4.13		2026-08-25T12:43:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/1.4.13/spring-modulith-1.4.13.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/1.4.2/spring-modulith-1.4.2.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/1.4.3/spring-modulith-1.4.3.jar returned status 404
 1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/1.4.4/spring-modulith-1.4.4.jar returned status 404
@@ -72,9 +73,12 @@
 2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.0.5/spring-modulith-2.0.5.jar returned status 404
 2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.0.6/spring-modulith-2.0.6.jar returned status 404
 2.0.7		2026-06-11T09:04:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.0.7/spring-modulith-2.0.7.jar returned status 404
+2.0.8		2026-08-25T12:56:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.0.8/spring-modulith-2.0.8.jar returned status 404
 2.1.0		2026-06-11T09:33:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.1.0/spring-modulith-2.1.0.jar returned status 404
 2.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.1.0-M1/spring-modulith-2.1.0-M1.jar returned status 404
 2.1.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.1.0-M2/spring-modulith-2.1.0-M2.jar returned status 404
 2.1.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.1.0-M3/spring-modulith-2.1.0-M3.jar returned status 404
 2.1.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.1.0-M4/spring-modulith-2.1.0-M4.jar returned status 404
 2.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.1.0-RC1/spring-modulith-2.1.0-RC1.jar returned status 404
+2.1.1		2026-08-25T13:07:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.1.1/spring-modulith-2.1.1.jar returned status 404
+2.2.0-M1		2026-08-25T16:06:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith/2.2.0-M1/spring-modulith-2.2.0-M1.jar returned status 404

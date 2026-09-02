@@ -99,3 +99,4 @@
 5.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/5.0.0-RC1/spring-cloud-dependencies-parent-5.0.0-RC1.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/5.0.1/spring-cloud-dependencies-parent-5.0.1.jar returned status 404
 5.0.2		2026-06-11T13:55:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/5.0.2/spring-cloud-dependencies-parent-5.0.2.jar returned status 404
+5.0.3		2026-08-20T13:52:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/5.0.3/spring-cloud-dependencies-parent-5.0.3.jar returned status 404

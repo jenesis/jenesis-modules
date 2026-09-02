@@ -39,3 +39,5 @@
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/togglz/togglz-spring-boot/4.6.0/togglz-spring-boot-4.6.0.jar returned status 404
 4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/togglz/togglz-spring-boot/4.6.1/togglz-spring-boot-4.6.1.jar returned status 404
 4.6.2		2026-05-31T20:24:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/togglz/togglz-spring-boot/4.6.2/togglz-spring-boot-4.6.2.jar returned status 404
+4.6.3		2026-08-11T21:33:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/togglz/togglz-spring-boot/4.6.3/togglz-spring-boot-4.6.3.jar returned status 404
+4.6.4		2026-08-12T20:30:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/togglz/togglz-spring-boot/4.6.4/togglz-spring-boot-4.6.4.jar returned status 404

@@ -12,3 +12,4 @@
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tkit/quarkus/lib/tkit-quarkus-security-dynamic-test-parent/5.1.0/tkit-quarkus-security-dynamic-test-parent-5.1.0.jar returned status 404
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tkit/quarkus/lib/tkit-quarkus-security-dynamic-test-parent/5.2.0/tkit-quarkus-security-dynamic-test-parent-5.2.0.jar returned status 404
 5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tkit/quarkus/lib/tkit-quarkus-security-dynamic-test-parent/5.3.0/tkit-quarkus-security-dynamic-test-parent-5.3.0.jar returned status 404
+5.4.0		2026-08-25T14:06:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tkit/quarkus/lib/tkit-quarkus-security-dynamic-test-parent/5.4.0/tkit-quarkus-security-dynamic-test-parent-5.4.0.jar returned status 404
