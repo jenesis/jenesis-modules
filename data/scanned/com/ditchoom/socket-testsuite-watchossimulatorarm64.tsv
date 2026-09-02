@@ -74,6 +74,14 @@
 4.1.5	metadata	2026-08-08T19:57:02Z	
 4.1.6		2026-08-08T21:07:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.1.6/socket-testsuite-watchossimulatorarm64-4.1.6.jar returned status 404
 4.1.6	metadata	2026-08-08T21:07:03Z	
+4.10.0		2026-08-27T19:19:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.10.0/socket-testsuite-watchossimulatorarm64-4.10.0.jar returned status 404
+4.10.0	metadata	2026-08-27T19:19:05Z	
+4.10.1		2026-08-27T22:58:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.10.1/socket-testsuite-watchossimulatorarm64-4.10.1.jar returned status 404
+4.10.1	metadata	2026-08-27T22:58:09Z	
+4.11.0		2026-08-30T23:52:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.11.0/socket-testsuite-watchossimulatorarm64-4.11.0.jar returned status 404
+4.11.0	metadata	2026-08-30T23:52:48Z	
+4.11.1		2026-08-31T21:26:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.11.1/socket-testsuite-watchossimulatorarm64-4.11.1.jar returned status 404
+4.11.1	metadata	2026-08-31T21:26:11Z	
 4.2.0		2026-08-09T15:49:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.2.0/socket-testsuite-watchossimulatorarm64-4.2.0.jar returned status 404
 4.2.0	metadata	2026-08-09T15:49:32Z	
 4.3.0		2026-08-10T19:48:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.3.0/socket-testsuite-watchossimulatorarm64-4.3.0.jar returned status 404
@@ -82,3 +90,27 @@
 4.3.1	metadata	2026-08-11T06:09:40Z	
 4.3.2		2026-08-12T00:09:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.3.2/socket-testsuite-watchossimulatorarm64-4.3.2.jar returned status 404
 4.3.2	metadata	2026-08-12T00:09:12Z	
+4.4.0		2026-08-12T14:18:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.4.0/socket-testsuite-watchossimulatorarm64-4.4.0.jar returned status 404
+4.4.0	metadata	2026-08-12T14:18:19Z	
+4.4.1		2026-08-12T18:03:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.4.1/socket-testsuite-watchossimulatorarm64-4.4.1.jar returned status 404
+4.4.1	metadata	2026-08-12T18:03:31Z	
+4.4.2		2026-08-13T19:50:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.4.2/socket-testsuite-watchossimulatorarm64-4.4.2.jar returned status 404
+4.4.2	metadata	2026-08-13T19:50:53Z	
+4.5.0		2026-08-14T03:31:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.5.0/socket-testsuite-watchossimulatorarm64-4.5.0.jar returned status 404
+4.5.0	metadata	2026-08-14T03:31:58Z	
+4.5.1		2026-08-14T21:17:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.5.1/socket-testsuite-watchossimulatorarm64-4.5.1.jar returned status 404
+4.5.1	metadata	2026-08-14T21:17:36Z	
+4.5.2		2026-08-15T00:17:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.5.2/socket-testsuite-watchossimulatorarm64-4.5.2.jar returned status 404
+4.5.2	metadata	2026-08-15T00:17:57Z	
+4.5.3		2026-08-15T01:23:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.5.3/socket-testsuite-watchossimulatorarm64-4.5.3.jar returned status 404
+4.5.3	metadata	2026-08-15T01:23:30Z	
+4.6.0		2026-08-15T03:33:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.6.0/socket-testsuite-watchossimulatorarm64-4.6.0.jar returned status 404
+4.6.0	metadata	2026-08-15T03:33:48Z	
+4.7.0		2026-08-15T14:19:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.7.0/socket-testsuite-watchossimulatorarm64-4.7.0.jar returned status 404
+4.7.0	metadata	2026-08-15T14:19:31Z	
+4.8.0		2026-08-15T15:10:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.8.0/socket-testsuite-watchossimulatorarm64-4.8.0.jar returned status 404
+4.8.0	metadata	2026-08-15T15:10:27Z	
+4.8.1		2026-08-15T15:59:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.8.1/socket-testsuite-watchossimulatorarm64-4.8.1.jar returned status 404
+4.8.1	metadata	2026-08-15T15:59:24Z	
+4.9.0		2026-08-21T00:28:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchossimulatorarm64/4.9.0/socket-testsuite-watchossimulatorarm64-4.9.0.jar returned status 404
+4.9.0	metadata	2026-08-21T00:28:24Z	

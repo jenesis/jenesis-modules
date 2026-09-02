@@ -45,6 +45,11 @@
 0.33.1		2026-08-11T14:43:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.33.1/webrtc-js-0.33.1.jar returned status 404
 0.33.2		2026-08-11T17:07:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.33.2/webrtc-js-0.33.2.jar returned status 404
 0.34.0		2026-08-12T03:22:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.34.0/webrtc-js-0.34.0.jar returned status 404
+0.35.0		2026-08-12T16:08:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.35.0/webrtc-js-0.35.0.jar returned status 404
+0.35.1		2026-08-12T18:04:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.35.1/webrtc-js-0.35.1.jar returned status 404
+0.35.2		2026-08-12T22:49:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.35.2/webrtc-js-0.35.2.jar returned status 404
+0.35.3		2026-08-14T14:52:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.35.3/webrtc-js-0.35.3.jar returned status 404
+0.35.4		2026-08-15T14:21:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.35.4/webrtc-js-0.35.4.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.4.0/webrtc-js-0.4.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.5.0/webrtc-js-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-js/0.6.0/webrtc-js-0.6.0.jar returned status 404
