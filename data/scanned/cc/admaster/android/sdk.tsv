@@ -30,7 +30,11 @@
 2.0.10		2026-07-20T07:22:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.10/sdk-2.0.10.jar returned status 404
 2.0.11		2026-07-27T12:33:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.11/sdk-2.0.11.jar returned status 404
 2.0.13		2026-08-06T12:21:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.13/sdk-2.0.13.jar returned status 404
+2.0.14-snapshot		2026-08-14T16:38:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.14-snapshot/sdk-2.0.14-snapshot.jar returned status 404
+2.0.16		2026-08-19T07:37:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.16/sdk-2.0.16.jar returned status 404
+2.0.19		2026-08-20T02:14:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.19/sdk-2.0.19.jar returned status 404
 2.0.2		2026-06-15T09:47:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.2/sdk-2.0.2.jar returned status 404
+2.0.20		2026-08-25T12:51:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.20/sdk-2.0.20.jar returned status 404
 2.0.3		2026-06-16T02:44:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.3/sdk-2.0.3.jar returned status 404
 2.0.4		2026-06-26T08:03:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.4/sdk-2.0.4.jar returned status 404
 2.0.6		2026-07-02T07:22:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/admaster/android/sdk/2.0.6/sdk-2.0.6.jar returned status 404
