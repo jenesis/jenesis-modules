@@ -1300,3 +1300,4 @@ v2.2	named	net.sf.automatic-report-generator	xls-generator	2022-06-13T19:56:49Z	
 1.1.17	named	com.alibaba.dts.client	dts-uniform-subscribe-sdk-network	2026-07-14T10:32:29Z	2.17.1
 1.1.17	named	com.alibaba.dts.client	dts-uniform-subscribe-sdk-store	2026-07-14T10:32:29Z	2.17.1
 1.1.17	named	com.alibaba.dts.client	dts-uniform-subscribe-sdk-api	2026-07-14T10:32:30Z	2.17.1
+5.0.3	named	org.springframework.cloud	spring-cloud-build-docs	2026-08-20T13:52:17Z	2.25.5

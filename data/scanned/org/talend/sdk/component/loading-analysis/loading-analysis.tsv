@@ -1,3 +1,4 @@
 1.92.0		2026-05-29T08:39:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/loading-analysis/loading-analysis/1.92.0/loading-analysis-1.92.0.jar returned status 404
 1.93.0		2026-06-18T10:35:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/loading-analysis/loading-analysis/1.93.0/loading-analysis-1.93.0.jar returned status 404
 1.94.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/loading-analysis/loading-analysis/1.94.0/loading-analysis-1.94.0.jar returned status 404
+1.95.0		2026-08-21T14:18:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/loading-analysis/loading-analysis/1.95.0/loading-analysis-1.95.0.jar returned status 404

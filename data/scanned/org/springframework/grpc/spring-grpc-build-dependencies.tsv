@@ -14,3 +14,4 @@
 1.1.0		2026-06-09T16:46:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/grpc/spring-grpc-build-dependencies/1.1.0/spring-grpc-build-dependencies-1.1.0.jar returned status 404
 1.1.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/grpc/spring-grpc-build-dependencies/1.1.0-M1/spring-grpc-build-dependencies-1.1.0-M1.jar returned status 404
 1.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/grpc/spring-grpc-build-dependencies/1.1.0-RC1/spring-grpc-build-dependencies-1.1.0-RC1.jar returned status 404
+1.1.1		2026-08-20T10:53:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/grpc/spring-grpc-build-dependencies/1.1.1/spring-grpc-build-dependencies-1.1.1.jar returned status 404

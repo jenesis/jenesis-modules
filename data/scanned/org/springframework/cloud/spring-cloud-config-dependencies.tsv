@@ -99,3 +99,4 @@
 5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-config-dependencies/5.0.2/spring-cloud-config-dependencies-5.0.2.jar returned status 404
 5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-config-dependencies/5.0.3/spring-cloud-config-dependencies-5.0.3.jar returned status 404
 5.0.4		2026-06-11T15:24:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-config-dependencies/5.0.4/spring-cloud-config-dependencies-5.0.4.jar returned status 404
+5.0.5		2026-08-20T13:52:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-config-dependencies/5.0.5/spring-cloud-config-dependencies-5.0.5.jar returned status 404
