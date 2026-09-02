@@ -1,2 +1,4 @@
 0.14.0		2026-07-26T08:48:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kormium/kromus-core-macosx64/0.14.0/kromus-core-macosx64-0.14.0.jar returned status 404
 0.14.0	metadata	2026-07-26T08:48:27Z	
+0.15.0		2026-08-28T22:47:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kormium/kromus-core-macosx64/0.15.0/kromus-core-macosx64-0.15.0.jar returned status 404
+0.15.0	metadata	2026-08-28T22:47:58Z	

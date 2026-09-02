@@ -6,3 +6,5 @@
 0.2.0	metadata	2026-05-07T17:20:23Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotlinmania/btree-kotlin-iossimulatorarm64/0.2.1/btree-kotlin-iossimulatorarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2026-05-07T17:42:47Z	
+0.2.2		2026-08-26T11:58:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotlinmania/btree-kotlin-iossimulatorarm64/0.2.2/btree-kotlin-iossimulatorarm64-0.2.2.jar returned status 404
+0.2.2	metadata	2026-08-26T11:58:29Z	

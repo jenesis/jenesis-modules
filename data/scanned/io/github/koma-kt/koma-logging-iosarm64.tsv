@@ -1,3 +1,5 @@
+4.0.0		2026-08-29T06:50:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/koma-kt/koma-logging-iosarm64/4.0.0/koma-logging-iosarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-08-29T06:50:58Z	
 4.0.0-rc02		2026-06-14T10:09:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/koma-kt/koma-logging-iosarm64/4.0.0-rc02/koma-logging-iosarm64-4.0.0-rc02.jar returned status 404
 4.0.0-rc02	metadata	2026-06-14T10:10:00Z	
 4.0.0-rc03		2026-06-29T11:55:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/koma-kt/koma-logging-iosarm64/4.0.0-rc03/koma-logging-iosarm64-4.0.0-rc03.jar returned status 404

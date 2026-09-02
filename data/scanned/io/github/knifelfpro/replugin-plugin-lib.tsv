@@ -1,0 +1,2 @@
+3.2.0		2026-08-26T02:59:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/knifelfpro/replugin-plugin-lib/3.2.0/replugin-plugin-lib-3.2.0.jar returned status 404
+3.3.0		2026-08-27T01:22:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/knifelfpro/replugin-plugin-lib/3.3.0/replugin-plugin-lib-3.3.0.jar returned status 404

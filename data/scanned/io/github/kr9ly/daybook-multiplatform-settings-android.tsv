@@ -1,0 +1,3 @@
+2.0.0		2026-08-16T07:50:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kr9ly/daybook-multiplatform-settings-android/2.0.0/daybook-multiplatform-settings-android-2.0.0.jar returned status 404
+2.0.1		2026-08-17T07:46:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kr9ly/daybook-multiplatform-settings-android/2.0.1/daybook-multiplatform-settings-android-2.0.1.jar returned status 404
+2.0.2		2026-08-17T08:20:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kr9ly/daybook-multiplatform-settings-android/2.0.2/daybook-multiplatform-settings-android-2.0.2.jar returned status 404

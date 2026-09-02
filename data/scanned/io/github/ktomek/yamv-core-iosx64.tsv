@@ -4,3 +4,7 @@
 0.3.3	metadata	2026-04-29T11:17:48Z	
 0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ktomek/yamv-core-iosx64/0.3.4/yamv-core-iosx64-0.3.4.jar returned status 404
 0.3.4	metadata	2026-05-01T10:28:50Z	
+0.3.6		2026-08-16T14:03:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ktomek/yamv-core-iosx64/0.3.6/yamv-core-iosx64-0.3.6.jar returned status 404
+0.3.6	metadata	2026-08-16T14:03:00Z	
+0.3.7		2026-08-16T20:00:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ktomek/yamv-core-iosx64/0.3.7/yamv-core-iosx64-0.3.7.jar returned status 404
+0.3.7	metadata	2026-08-16T20:00:25Z	

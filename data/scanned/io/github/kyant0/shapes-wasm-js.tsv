@@ -5,3 +5,4 @@
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/shapes-wasm-js/1.1.1/shapes-wasm-js-1.1.1.jar returned status 404
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/shapes-wasm-js/1.1.2/shapes-wasm-js-1.1.2.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/shapes-wasm-js/1.2.0/shapes-wasm-js-1.2.0.jar returned status 404
+1.2.1		2026-08-26T03:45:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/shapes-wasm-js/1.2.1/shapes-wasm-js-1.2.1.jar returned status 404

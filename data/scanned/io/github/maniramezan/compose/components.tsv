@@ -9,6 +9,7 @@
 0.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/components/0.15.1/components-0.15.1.jar returned status 404
 0.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/components/0.15.2/components-0.15.2.jar returned status 404
 0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/components/0.16.0/components-0.16.0.jar returned status 404
+0.17.0		2026-08-14T20:05:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/components/0.17.0/components-0.17.0.jar returned status 404
 0.2.0		2026-05-21T01:58:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/components/0.2.0/components-0.2.0.jar returned status 404
 0.3.0		2026-06-03T01:31:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/components/0.3.0/components-0.3.0.jar returned status 404
 0.5.1		2026-06-05T14:54:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/compose/components/0.5.1/components-0.5.1.jar returned status 404
