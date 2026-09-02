@@ -14,3 +14,5 @@
 0.3.1	metadata	2026-04-07T00:56:08Z	
 0.4.0		2026-06-05T06:42:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kimplify/kurrency-core-iosarm64/0.4.0/kurrency-core-iosarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2026-06-05T06:42:37Z	
+0.5.0		2026-08-20T02:59:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kimplify/kurrency-core-iosarm64/0.5.0/kurrency-core-iosarm64-0.5.0.jar returned status 404
+0.5.0	metadata	2026-08-20T02:59:30Z	

@@ -77,3 +77,4 @@
 26.6.4		2026-06-26T10:24:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-saml-adapter-galleon-pack/26.6.4/keycloak-saml-adapter-galleon-pack-26.6.4.jar returned status 404
 26.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-saml-adapter-galleon-pack/26.7.0/keycloak-saml-adapter-galleon-pack-26.7.0.jar returned status 404
 26.7.1		2026-08-05T15:43:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-saml-adapter-galleon-pack/26.7.1/keycloak-saml-adapter-galleon-pack-26.7.1.jar returned status 404
+26.7.2		2026-08-19T05:13:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-saml-adapter-galleon-pack/26.7.2/keycloak-saml-adapter-galleon-pack-26.7.2.jar returned status 404

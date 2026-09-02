@@ -491,6 +491,8 @@
 0.24.2	classes	2023-05-02T07:33:24Z	
 0.24.20		2026-08-07T05:49:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killpay/0.24.20/killbill-profiles-killpay-0.24.20.jar returned status 404
 0.24.20	classes	2026-08-07T05:49:13Z	
+0.24.21		2026-08-12T06:36:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killpay/0.24.21/killbill-profiles-killpay-0.24.21.jar returned status 404
+0.24.21	classes	2026-08-12T06:36:00Z	
 0.24.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killpay/0.24.3/killbill-profiles-killpay-0.24.3.jar returned status 404
 0.24.3	classes	2023-05-25T21:31:37Z	
 0.24.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/killbill-profiles-killpay/0.24.4/killbill-profiles-killpay-0.24.4.jar returned status 404

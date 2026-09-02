@@ -2298,3 +2298,14 @@ liquibase.core
 liquibase.jakarta.cdi
 lidiuma.math.api.traits
 lidiuma.math.api
+com.zaxxer.hikari
+org.jwcarman.codec.zstd
+org.jwcarman.codec.transforms
+org.jwcarman.codec.redis
+org.jwcarman.codec.starter
+org.jwcarman.codec.protobuf
+org.jwcarman.codec.lz4
+org.jwcarman.codec.kafka
+org.jwcarman.codec.jsonb
+org.jwcarman.codec.jackson2
+org.jwcarman.codec.jackson
