@@ -1,3 +1,4 @@
 0.0.1		2026-06-03T06:05:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/facesdkpro/silentLiveness/0.0.1/silentLiveness-0.0.1.jar returned status 404
 0.1.0		2026-06-05T07:32:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/facesdkpro/silentLiveness/0.1.0/silentLiveness-0.1.0.jar returned status 404
 0.1.1		2026-06-05T08:03:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/facesdkpro/silentLiveness/0.1.1/silentLiveness-0.1.1.jar returned status 404
+0.2.0		2026-08-11T07:46:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/facesdkpro/silentLiveness/0.2.0/silentLiveness-0.2.0.jar returned status 404

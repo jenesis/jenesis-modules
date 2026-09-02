@@ -21,8 +21,12 @@
 11.0.14-beta		2026-07-06T13:32:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.14-beta/connect-11.0.14-beta.jar returned status 404
 11.0.15-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.15-beta/connect-11.0.15-beta.jar returned status 404
 11.0.16-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.16-beta/connect-11.0.16-beta.jar returned status 404
+11.0.17-beta		2026-08-11T10:46:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.17-beta/connect-11.0.17-beta.jar returned status 404
+11.0.18-beta		2026-08-19T12:12:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.18-beta/connect-11.0.18-beta.jar returned status 404
+11.0.19-beta		2026-08-26T09:56:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.19-beta/connect-11.0.19-beta.jar returned status 404
 11.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.2/connect-11.0.2.jar returned status 404
 11.0.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.2-beta/connect-11.0.2-beta.jar returned status 404
+11.0.20-beta		2026-08-27T11:22:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.20-beta/connect-11.0.20-beta.jar returned status 404
 11.0.3-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.3-beta/connect-11.0.3-beta.jar returned status 404
 11.0.4-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.4-beta/connect-11.0.4-beta.jar returned status 404
 11.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/connect/11.0.5/connect-11.0.5.jar returned status 404

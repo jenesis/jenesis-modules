@@ -34,3 +34,5 @@
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-js/1.4.5/markdown-parser-js-1.4.5.jar returned status 404
 1.4.6		2026-08-10T06:19:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-js/1.4.6/markdown-parser-js-1.4.6.jar returned status 404
 1.5.0		2026-08-10T09:19:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-js/1.5.0/markdown-parser-js-1.5.0.jar returned status 404
+1.5.1		2026-08-17T08:49:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-js/1.5.1/markdown-parser-js-1.5.1.jar returned status 404
+1.5.2		2026-08-27T10:19:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-js/1.5.2/markdown-parser-js-1.5.2.jar returned status 404

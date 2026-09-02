@@ -1,3 +1,6 @@
+11.0.18-beta		2026-08-19T12:10:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/eocore/11.0.18-beta/eocore-11.0.18-beta.jar returned status 404
+11.0.19-beta		2026-08-26T09:58:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/eocore/11.0.19-beta/eocore-11.0.19-beta.jar returned status 404
+11.0.20-beta		2026-08-27T12:25:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/eocore/11.0.20-beta/eocore-11.0.20-beta.jar returned status 404
 2.0.345			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/eocore/2.0.345/eocore-2.0.345.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/eocore/2.1.1/eocore-2.1.1.jar returned status 404
 2.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/go-acoustic/eocore/2.1.10/eocore-2.1.10.jar returned status 404
