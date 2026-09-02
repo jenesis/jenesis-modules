@@ -218,6 +218,7 @@
 1.9.38		2026-06-14T12:58:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-sklearn/1.9.38/jpmml-sklearn-1.9.38.jar returned status 404
 1.9.39		2026-06-30T09:51:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-sklearn/1.9.39/jpmml-sklearn-1.9.39.jar returned status 404
 1.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-sklearn/1.9.4/jpmml-sklearn-1.9.4.jar returned status 404
+1.9.40		2026-08-10T06:12:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-sklearn/1.9.40/jpmml-sklearn-1.9.40.jar returned status 404
 1.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-sklearn/1.9.5/jpmml-sklearn-1.9.5.jar returned status 404
 1.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-sklearn/1.9.6/jpmml-sklearn-1.9.6.jar returned status 404
 1.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jpmml/jpmml-sklearn/1.9.7/jpmml-sklearn-1.9.7.jar returned status 404

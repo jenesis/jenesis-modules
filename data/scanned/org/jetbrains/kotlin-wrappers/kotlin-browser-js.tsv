@@ -684,3 +684,7 @@
 2026.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-browser-js/2026.7.6/kotlin-browser-js-2026.7.6.jar returned status 404
 2026.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-browser-js/2026.7.7/kotlin-browser-js-2026.7.7.jar returned status 404
 2026.8.0		2026-08-05T05:06:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-browser-js/2026.8.0/kotlin-browser-js-2026.8.0.jar returned status 404
+2026.8.1		2026-08-16T18:01:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-browser-js/2026.8.1/kotlin-browser-js-2026.8.1.jar returned status 404
+2026.8.2		2026-08-18T05:59:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-browser-js/2026.8.2/kotlin-browser-js-2026.8.2.jar returned status 404
+2026.8.3		2026-08-18T13:37:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-browser-js/2026.8.3/kotlin-browser-js-2026.8.3.jar returned status 404
+2026.8.4		2026-08-24T06:50:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-browser-js/2026.8.4/kotlin-browser-js-2026.8.4.jar returned status 404

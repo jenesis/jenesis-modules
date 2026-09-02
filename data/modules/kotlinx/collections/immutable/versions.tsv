@@ -2,3 +2,8 @@
 2.4.20-Beta2	named	org.jetbrains.kotlin	kotlin-power-assert-compiler-plugin-embeddable	2026-07-23T00:31:33Z	0.5.1
 2.4.20-Beta2	named	org.jetbrains.kotlin	kotlin-maven-power-assert	2026-07-23T00:31:36Z	0.5.1
 0.90.0	named	com.salesforce.revoman	revoman	2026-08-02T00:06:16Z	0.5.1
+2.4.20-RC	named	org.jetbrains.kotlin	kotlin-maven-power-assert	2026-08-12T07:33:35Z	0.5.1
+2.4.20-RC	named	org.jetbrains.kotlin	kotlin-power-assert-compiler-plugin-embeddable	2026-08-12T07:33:42Z	0.5.1
+2.4.20-RC2	named	org.jetbrains.kotlin	kotlin-maven-power-assert	2026-08-26T06:47:01Z	0.5.1
+2.4.20-RC2	named	org.jetbrains.kotlin	kotlin-power-assert-compiler-plugin-embeddable	2026-08-26T06:47:02Z	0.5.1
+0.5.2	named	org.jetbrains.kotlinx	kotlinx-collections-immutable-jvm	2026-08-28T16:09:27Z	0.5.2
