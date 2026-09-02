@@ -1088,3 +1088,4 @@ vv1.2.0.1-1-gadc43b8-1-gf5bc75b	named	com.linkedin.iceberg	iceberg-spark-runtime
 7.24.0	named	org.openapitools	openapi-generator-cli	2026-07-21T00:12:13Z	2.22.0
 1.52.0	named	io.openlineage	spark-extension-interfaces	2026-07-23T23:58:23Z	2.15.3
 1.2.0.20	named	com.linkedin.iceberg	iceberg-spark-runtime-3.1_2.12	2026-08-01T02:19:08Z	2.14.2
+7.25.0	named	org.openapitools	openapi-generator-cli	2026-08-24T08:25:01Z	2.22.0

@@ -78,6 +78,9 @@
 0.23.0		2025-07-09T12:29:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-karaf/0.23.0/bgpcep-karaf-0.23.0.jar returned status 404
 0.23.1		2025-09-20T22:38:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-karaf/0.23.1/bgpcep-karaf-0.23.1.jar returned status 404
 0.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-karaf/0.23.2/bgpcep-karaf-0.23.2.jar returned status 404
+0.23.3		2026-08-21T04:15:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-karaf/0.23.3/bgpcep-karaf-0.23.3.jar returned status 404
 1.0.0		2025-11-28T15:05:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-karaf/1.0.0/bgpcep-karaf-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-karaf/1.0.1/bgpcep-karaf-1.0.1.jar returned status 404
+1.0.2		2026-08-21T13:38:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-karaf/1.0.2/bgpcep-karaf-1.0.2.jar returned status 404
 2.0.0		2026-06-01T11:00:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-karaf/2.0.0/bgpcep-karaf-2.0.0.jar returned status 404
+2.0.1		2026-08-22T01:44:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-karaf/2.0.1/bgpcep-karaf-2.0.1.jar returned status 404

@@ -46,3 +46,9 @@
 0.2.0	metadata	2026-07-20T07:12:48Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-all-iosarm64/0.2.1/mediamp-all-iosarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2026-07-27T08:52:59Z	
+0.3.0		2026-08-09T12:52:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-all-iosarm64/0.3.0/mediamp-all-iosarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-08-09T12:52:08Z	
+0.3.1		2026-08-14T04:35:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-all-iosarm64/0.3.1/mediamp-all-iosarm64-0.3.1.jar returned status 404
+0.3.1	metadata	2026-08-14T04:35:39Z	
+0.3.2		2026-08-20T14:32:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-all-iosarm64/0.3.2/mediamp-all-iosarm64-0.3.2.jar returned status 404
+0.3.2	metadata	2026-08-20T14:33:02Z	

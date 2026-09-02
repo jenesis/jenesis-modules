@@ -7,11 +7,15 @@
 0.1.4-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/0.1.4-alpha/passport-android-0.1.4-alpha.jar returned status 404
 0.1.4-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/0.1.4-beta/passport-android-0.1.4-beta.jar returned status 404
 0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/0.1.5/passport-android-0.1.5.jar returned status 404
+0.1.6		2026-08-12T14:11:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/0.1.6/passport-android-0.1.6.jar returned status 404
 340ca5be			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/340ca5be/passport-android-340ca5be.jar returned status 404
 3dc2cd98			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/3dc2cd98/passport-android-3dc2cd98.jar returned status 404
 426426ef			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/426426ef/passport-android-426426ef.jar returned status 404
 46e2874c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/46e2874c/passport-android-46e2874c.jar returned status 404
 a13e362a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/a13e362a/passport-android-a13e362a.jar returned status 404
+c04ff174		2026-08-24T12:54:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/c04ff174/passport-android-c04ff174.jar returned status 404
+c8970bc3		2026-08-11T05:29:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/c8970bc3/passport-android-c8970bc3.jar returned status 404
+c93fc4e0		2026-08-23T05:53:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/c93fc4e0/passport-android-c93fc4e0.jar returned status 404
 d6faec0d		2026-05-20T06:38:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/d6faec0d/passport-android-d6faec0d.jar returned status 404
 e56538fd			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/e56538fd/passport-android-e56538fd.jar returned status 404
 e7988c75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/passport-android/e7988c75/passport-android-e7988c75.jar returned status 404
