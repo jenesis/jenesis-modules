@@ -1,3 +1,4 @@
+v1-rev20260814-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1-rev20260705-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1-rev20260327-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
@@ -74,6 +75,8 @@ v1-rev20200403-1.30.9	automatic	com.google.apis	google-api-services-secretmanage
 v1-rev20200222-1.30.9	automatic	com.google.apis	google-api-services-secretmanager
 v1-rev20200222-1.30.8	automatic	com.google.apis	google-api-services-secretmanager
 v1-rev20200208-1.30.8	automatic	com.google.apis	google-api-services-secretmanager
+v1beta2-rev20260814-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
+v1beta2-rev20260731-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1beta2-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1beta2-rev20260327-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1beta2-rev20260213-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
@@ -98,6 +101,8 @@ v1beta2-rev20240523-2.0.0	automatic	com.google.apis	google-api-services-secretma
 v1beta2-rev20240424-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1beta2-rev20240314-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1beta2-rev20240309-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
+v1beta1-rev20260814-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
+v1beta1-rev20260731-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1beta1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1beta1-rev20260327-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
 v1beta1-rev20260213-2.0.0	automatic	com.google.apis	google-api-services-secretmanager
