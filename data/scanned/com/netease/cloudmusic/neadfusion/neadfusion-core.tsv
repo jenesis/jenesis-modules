@@ -35,3 +35,7 @@
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/neadfusion/neadfusion-core/4.4.1/neadfusion-core-4.4.1.jar returned status 404
 4.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/neadfusion/neadfusion-core/4.4.2/neadfusion-core-4.4.2.jar returned status 404
 4.5.1		2026-08-06T11:30:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/neadfusion/neadfusion-core/4.5.1/neadfusion-core-4.5.1.jar returned status 404
+4.6.0		2026-08-25T02:55:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/neadfusion/neadfusion-core/4.6.0/neadfusion-core-4.6.0.jar returned status 404
+4.6.1		2026-08-25T14:01:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/neadfusion/neadfusion-core/4.6.1/neadfusion-core-4.6.1.jar returned status 404
+4.6.2		2026-08-27T08:37:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/neadfusion/neadfusion-core/4.6.2/neadfusion-core-4.6.2.jar returned status 404
+4.6.3		2026-08-31T08:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/cloudmusic/neadfusion/neadfusion-core/4.6.3/neadfusion-core-4.6.3.jar returned status 404

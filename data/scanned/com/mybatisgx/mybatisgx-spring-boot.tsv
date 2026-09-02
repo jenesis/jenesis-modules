@@ -5,3 +5,7 @@
 0.2.0		2026-07-04T13:13:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mybatisgx/mybatisgx-spring-boot/0.2.0/mybatisgx-spring-boot-0.2.0.jar returned status 404
 0.2.1		2026-07-06T14:03:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mybatisgx/mybatisgx-spring-boot/0.2.1/mybatisgx-spring-boot-0.2.1.jar returned status 404
 0.2.2		2026-07-07T13:09:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mybatisgx/mybatisgx-spring-boot/0.2.2/mybatisgx-spring-boot-0.2.2.jar returned status 404
+0.3.0		2026-08-14T08:29:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mybatisgx/mybatisgx-spring-boot/0.3.0/mybatisgx-spring-boot-0.3.0.jar returned status 404
+0.4.0		2026-08-23T11:21:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mybatisgx/mybatisgx-spring-boot/0.4.0/mybatisgx-spring-boot-0.4.0.jar returned status 404
+0.4.1		2026-08-28T13:33:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mybatisgx/mybatisgx-spring-boot/0.4.1/mybatisgx-spring-boot-0.4.1.jar returned status 404
+0.4.2		2026-08-29T08:19:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mybatisgx/mybatisgx-spring-boot/0.4.2/mybatisgx-spring-boot-0.4.2.jar returned status 404

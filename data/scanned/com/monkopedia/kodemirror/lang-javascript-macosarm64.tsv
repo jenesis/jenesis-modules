@@ -14,3 +14,5 @@
 0.3.4	metadata	2026-07-09T14:27:40Z	
 0.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/lang-javascript-macosarm64/0.3.5/lang-javascript-macosarm64-0.3.5.jar returned status 404
 0.3.5	metadata	2026-07-15T22:31:29Z	
+0.3.6		2026-08-30T18:27:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/monkopedia/kodemirror/lang-javascript-macosarm64/0.3.6/lang-javascript-macosarm64-0.3.6.jar returned status 404
+0.3.6	metadata	2026-08-30T18:27:49Z	

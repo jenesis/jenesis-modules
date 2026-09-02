@@ -3255,6 +3255,8 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 2.4.0	named	io.github.roseri66	metapool-benchmark	2026-08-12T19:11:44Z	2.0.16
 2.0.0-rc2	named	org.open-metadata	elasticsearch-deps	2026-08-13T08:29:27Z	2.0.4
 0.18.1	named	io.testomat	java-reporter-core	2026-08-17T17:48:08Z	2.0.9
+7.8.1	named	com.newrelic.agent.android	instrumentation-static	2026-08-18T16:04:03Z	2.0.4
+7.8.1	named	com.newrelic.agent.android	instrumentation	2026-08-18T16:04:22Z	2.0.4
 0.1.2	named	edu.montana.cs.notch	notch	2026-08-20T22:12:07Z	2.0.17
 1.13.4	named	org.open-metadata	elasticsearch-deps	2026-08-21T07:16:33Z	2.0.4
 2.56.0	named	org.apache.artemis	artemis-core-client-all	2026-08-21T09:45:25Z	2.0.18
@@ -3262,6 +3264,8 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 2.56.0	named	org.apache.artemis	artemis-jakarta-client-all	2026-08-21T09:46:21Z	2.0.18
 1.95.0	named	org.talend.sdk.component.sample.feature	checkpointruntime	2026-08-21T14:18:40Z	2.0.7
 2.0.0	named	org.open-metadata	elasticsearch-deps	2026-08-24T05:46:56Z	2.0.4
+7.8.2	named	com.newrelic.agent.android	instrumentation-static	2026-08-24T16:33:43Z	2.0.4
+7.8.2	named	com.newrelic.agent.android	instrumentation	2026-08-24T16:34:05Z	2.0.4
 2.26.0	named	org.mustangproject	Mustang-CLI	2026-08-25T11:42:44Z	2.0.18
 0.18.2	named	io.testomat	java-reporter-core	2026-08-25T19:56:35Z	2.0.9
 0.3.0	named	io.github.adorsys-gis	keycloak-token-status-plugin	2026-08-27T15:45:43Z	2.0.17
