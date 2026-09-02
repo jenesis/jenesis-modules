@@ -69,4 +69,5 @@
 6.1.5		2026-07-03T03:35:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/vivo/6.1.5/vivo-6.1.5.jar returned status 404
 6.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/vivo/6.1.6/vivo-6.1.6.jar returned status 404
 6.2.0		2026-07-22T10:18:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/vivo/6.2.0/vivo-6.2.0.jar returned status 404
+6.2.1		2026-08-26T07:31:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/vivo/6.2.1/vivo-6.2.1.jar returned status 404
 t.1.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/vivo/t.1.0.0.3/vivo-t.1.0.0.3.jar returned status 404

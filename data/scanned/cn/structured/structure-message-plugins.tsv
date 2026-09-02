@@ -5,3 +5,4 @@
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-message-plugins/0.0.5/structure-message-plugins-0.0.5.jar returned status 404
 0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-message-plugins/0.0.6/structure-message-plugins-0.0.6.jar returned status 404
 1.0.0		2026-08-12T09:17:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-message-plugins/1.0.0/structure-message-plugins-1.0.0.jar returned status 404
+v2.0.0		2026-08-14T04:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-message-plugins/v2.0.0/structure-message-plugins-v2.0.0.jar returned status 404

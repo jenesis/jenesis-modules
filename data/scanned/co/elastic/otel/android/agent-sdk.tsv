@@ -7,3 +7,4 @@
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/elastic/otel/android/agent-sdk/1.6.0/agent-sdk-1.6.0.jar returned status 404
 1.7.0		2026-06-22T15:09:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/elastic/otel/android/agent-sdk/1.7.0/agent-sdk-1.7.0.jar returned status 404
 1.7.1		2026-06-26T11:09:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/elastic/otel/android/agent-sdk/1.7.1/agent-sdk-1.7.1.jar returned status 404
+1.8.0		2026-08-18T09:02:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/elastic/otel/android/agent-sdk/1.8.0/agent-sdk-1.8.0.jar returned status 404

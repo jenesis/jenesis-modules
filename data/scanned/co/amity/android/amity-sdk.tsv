@@ -57,6 +57,11 @@
 7.23.0-beta01		2026-07-22T02:33:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.23.0-beta01/amity-sdk-7.23.0-beta01.jar returned status 404
 7.24.0		2026-07-31T04:29:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.24.0/amity-sdk-7.24.0.jar returned status 404
 7.24.1		2026-08-10T07:26:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.24.1/amity-sdk-7.24.1.jar returned status 404
+7.24.2		2026-08-14T07:05:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.24.2/amity-sdk-7.24.2.jar returned status 404
+7.24.3		2026-08-18T09:15:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.24.3/amity-sdk-7.24.3.jar returned status 404
+7.24.4		2026-08-25T09:38:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.24.4/amity-sdk-7.24.4.jar returned status 404
+7.24.5		2026-08-27T13:53:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.24.5/amity-sdk-7.24.5.jar returned status 404
+7.25.0		2026-08-28T06:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.25.0/amity-sdk-7.25.0.jar returned status 404
 7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.3.0/amity-sdk-7.3.0.jar returned status 404
 7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.4.0/amity-sdk-7.4.0.jar returned status 404
 7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/amity/android/amity-sdk/7.5.0/amity-sdk-7.5.0.jar returned status 404
