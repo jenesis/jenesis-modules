@@ -39,3 +39,4 @@
 26.0.0.5		2026-05-13T19:46:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/appAuthentication-3.0/26.0.0.5/appAuthentication-3.0-26.0.0.5.jar returned status 404
 26.0.0.6		2026-06-09T11:02:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/appAuthentication-3.0/26.0.0.6/appAuthentication-3.0-26.0.0.6.jar returned status 404
 26.0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/appAuthentication-3.0/26.0.0.7/appAuthentication-3.0-26.0.0.7.jar returned status 404
+26.0.0.8		2026-08-05T14:33:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/appAuthentication-3.0/26.0.0.8/appAuthentication-3.0-26.0.0.8.jar returned status 404

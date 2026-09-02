@@ -71,3 +71,4 @@
 26.0.0.6-beta		2026-05-12T19:27:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/beta/openliberty-runtime/26.0.0.6-beta/openliberty-runtime-26.0.0.6-beta.jar returned status 404
 26.0.0.7-beta		2026-06-09T10:52:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/beta/openliberty-runtime/26.0.0.7-beta/openliberty-runtime-26.0.0.7-beta.jar returned status 404
 26.0.0.8-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/beta/openliberty-runtime/26.0.0.8-beta/openliberty-runtime-26.0.0.8-beta.jar returned status 404
+26.0.0.9-beta		2026-08-05T10:56:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/beta/openliberty-runtime/26.0.0.9-beta/openliberty-runtime-26.0.0.9-beta.jar returned status 404

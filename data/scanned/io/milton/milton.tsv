@@ -25,3 +25,4 @@
 4.0.5.2500			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milton/milton/4.0.5.2500/milton-4.0.5.2500.jar returned status 404
 4.1.0.2601			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milton/milton/4.1.0.2601/milton-4.1.0.2601.jar returned status 404
 4.1.1.2676			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milton/milton/4.1.1.2676/milton-4.1.1.2676.jar returned status 404
+4.2.0.2712		2026-08-12T11:05:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/milton/milton/4.2.0.2712/milton-4.2.0.2712.jar returned status 404
