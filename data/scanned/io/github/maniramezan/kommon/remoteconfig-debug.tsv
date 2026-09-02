@@ -1,3 +1,5 @@
 0.1.0		2026-07-04T00:10:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/kommon/remoteconfig-debug/0.1.0/remoteconfig-debug-0.1.0.jar returned status 404
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/kommon/remoteconfig-debug/0.1.1/remoteconfig-debug-0.1.1.jar returned status 404
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/kommon/remoteconfig-debug/0.1.2/remoteconfig-debug-0.1.2.jar returned status 404
+0.1.3		2026-08-20T19:33:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/kommon/remoteconfig-debug/0.1.3/remoteconfig-debug-0.1.3.jar returned status 404
+0.1.4		2026-08-20T20:21:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maniramezan/kommon/remoteconfig-debug/0.1.4/remoteconfig-debug-0.1.4.jar returned status 404

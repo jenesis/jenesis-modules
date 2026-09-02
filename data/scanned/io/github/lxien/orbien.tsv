@@ -9,3 +9,9 @@
 0.28.0		2026-08-06T08:43:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.28.0/orbien-0.28.0.jar returned status 404
 0.28.1		2026-08-09T01:04:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/0.28.1/orbien-0.28.1.jar returned status 404
 2.0.0		2026-08-10T15:00:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/2.0.0/orbien-2.0.0.jar returned status 404
+2.1.0		2026-08-11T18:26:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/2.1.0/orbien-2.1.0.jar returned status 404
+3.0.0		2026-08-16T11:33:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/3.0.0/orbien-3.0.0.jar returned status 404
+3.1.0		2026-08-19T04:22:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/3.1.0/orbien-3.1.0.jar returned status 404
+3.1.1		2026-08-20T12:17:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/3.1.1/orbien-3.1.1.jar returned status 404
+3.2.0		2026-08-25T11:27:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/3.2.0/orbien-3.2.0.jar returned status 404
+3.3.0		2026-08-28T15:08:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lxien/orbien/3.3.0/orbien-3.3.0.jar returned status 404

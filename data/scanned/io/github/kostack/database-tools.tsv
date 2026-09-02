@@ -6,3 +6,7 @@
 1.0.2	plain	2026-07-05T12:16:47Z	
 1.0.2	test-fixtures	2026-07-05T12:16:47Z	
 1.0.2	test-fixtures-sources	2026-07-05T12:16:47Z	
+1.0.3		2026-08-11T08:45:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/database-tools/1.0.3/database-tools-1.0.3.jar returned status 404
+1.0.3	plain	2026-08-11T08:45:06Z	
+1.0.3	test-fixtures	2026-08-11T08:45:06Z	
+1.0.3	test-fixtures-sources	2026-08-11T08:45:06Z	

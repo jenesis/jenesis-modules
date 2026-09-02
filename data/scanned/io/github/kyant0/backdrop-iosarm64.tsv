@@ -8,3 +8,5 @@
 2.0.0-alpha03	metadata	2026-02-14T11:42:16Z	
 2.0.0-rc01		2026-05-26T16:28:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/backdrop-iosarm64/2.0.0-rc01/backdrop-iosarm64-2.0.0-rc01.jar returned status 404
 2.0.0-rc01	metadata	2026-05-26T16:28:39Z	
+2.0.1		2026-08-26T03:59:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kyant0/backdrop-iosarm64/2.0.1/backdrop-iosarm64-2.0.1.jar returned status 404
+2.0.1	metadata	2026-08-26T03:59:27Z	

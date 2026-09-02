@@ -10,6 +10,7 @@
 0.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liquibase-linter/liquibase-linter/0.14.3/liquibase-linter-0.14.3.jar returned status 404
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liquibase-linter/liquibase-linter/0.15.0/liquibase-linter-0.15.0.jar returned status 404
 0.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liquibase-linter/liquibase-linter/0.15.1/liquibase-linter-0.15.1.jar returned status 404
+0.16.0		2026-08-15T22:57:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liquibase-linter/liquibase-linter/0.16.0/liquibase-linter-0.16.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liquibase-linter/liquibase-linter/0.6.0/liquibase-linter-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liquibase-linter/liquibase-linter/0.7.0/liquibase-linter-0.7.0.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/liquibase-linter/liquibase-linter/0.8.0/liquibase-linter-0.8.0.jar returned status 404

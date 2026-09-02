@@ -6,3 +6,11 @@
 1.0.1	plain	2026-07-10T06:17:59Z	
 1.0.1	test-fixtures	2026-07-10T06:17:59Z	
 1.0.1	test-fixtures-sources	2026-07-10T06:17:59Z	
+1.0.2		2026-08-18T12:53:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/redis-sse/1.0.2/redis-sse-1.0.2.jar returned status 404
+1.0.2	plain	2026-08-18T12:53:09Z	
+1.0.2	test-fixtures	2026-08-18T12:53:09Z	
+1.0.2	test-fixtures-sources	2026-08-18T12:53:09Z	
+1.0.3		2026-08-18T14:13:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/redis-sse/1.0.3/redis-sse-1.0.3.jar returned status 404
+1.0.3	plain	2026-08-18T14:13:44Z	
+1.0.3	test-fixtures	2026-08-18T14:13:44Z	
+1.0.3	test-fixtures-sources	2026-08-18T14:13:44Z	

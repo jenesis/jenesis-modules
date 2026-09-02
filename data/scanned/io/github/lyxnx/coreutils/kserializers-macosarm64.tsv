@@ -1,3 +1,5 @@
+1.10.0		2026-08-18T14:34:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/kserializers-macosarm64/1.10.0/kserializers-macosarm64-1.10.0.jar returned status 404
+1.10.0	metadata	2026-08-18T14:34:02Z	
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/kserializers-macosarm64/1.8.0/kserializers-macosarm64-1.8.0.jar returned status 404
 1.8.0	metadata	2025-02-03T09:42:36Z	
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/coreutils/kserializers-macosarm64/1.8.1/kserializers-macosarm64-1.8.1.jar returned status 404

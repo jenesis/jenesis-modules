@@ -82,6 +82,8 @@
 1.1.25	metadata	2026-08-06T10:43:14Z	
 1.1.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/littlesurvival/yamibo-api-iosarm64/1.1.26/yamibo-api-iosarm64-1.1.26.jar returned status 404
 1.1.26	metadata	2026-08-09T14:27:50Z	
+1.1.27		2026-08-11T07:56:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/littlesurvival/yamibo-api-iosarm64/1.1.27/yamibo-api-iosarm64-1.1.27.jar returned status 404
+1.1.27	metadata	2026-08-11T07:56:53Z	
 1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/littlesurvival/yamibo-api-iosarm64/1.1.3/yamibo-api-iosarm64-1.1.3.jar returned status 404
 1.1.3	metadata	2026-05-01T23:54:26Z	
 1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/littlesurvival/yamibo-api-iosarm64/1.1.4/yamibo-api-iosarm64-1.1.4.jar returned status 404
