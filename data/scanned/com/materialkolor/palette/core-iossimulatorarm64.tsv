@@ -1,4 +1,8 @@
+4.0.0		2026-08-28T15:00:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/materialkolor/palette/core-iossimulatorarm64/4.0.0/core-iossimulatorarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-08-28T15:00:33Z	
 4.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/materialkolor/palette/core-iossimulatorarm64/4.0.0-beta01/core-iossimulatorarm64-4.0.0-beta01.jar returned status 404
 4.0.0-beta01	metadata	2026-02-17T20:55:47Z	
 4.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/materialkolor/palette/core-iossimulatorarm64/4.0.0-beta02/core-iossimulatorarm64-4.0.0-beta02.jar returned status 404
 4.0.0-beta02	metadata	2026-03-03T17:51:22Z	
+4.0.0-beta03		2026-08-18T22:44:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/materialkolor/palette/core-iossimulatorarm64/4.0.0-beta03/core-iossimulatorarm64-4.0.0-beta03.jar returned status 404
+4.0.0-beta03	metadata	2026-08-18T22:44:08Z	

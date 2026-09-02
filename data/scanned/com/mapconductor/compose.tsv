@@ -1,0 +1,2 @@
+1.3.0		2026-08-16T12:33:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapconductor/compose/1.3.0/compose-1.3.0.jar returned status 404
+1.3.1		2026-08-16T14:51:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mapconductor/compose/1.3.1/compose-1.3.1.jar returned status 404

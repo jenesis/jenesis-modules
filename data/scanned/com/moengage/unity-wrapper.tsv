@@ -9,3 +9,4 @@
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/unity-wrapper/3.1.0/unity-wrapper-3.1.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/unity-wrapper/3.2.0/unity-wrapper-3.2.0.jar returned status 404
 4.0.0		2026-06-24T11:31:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/unity-wrapper/4.0.0/unity-wrapper-4.0.0.jar returned status 404
+4.0.1		2026-08-12T09:32:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/unity-wrapper/4.0.1/unity-wrapper-4.0.1.jar returned status 404
