@@ -202,6 +202,7 @@
 1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-android/1.9.9/worldwind-android-1.9.9.jar returned status 404
 2.0.0		2026-05-31T21:42:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-android/2.0.0/worldwind-android-2.0.0.jar returned status 404
 2.0.1		2026-06-07T12:24:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-android/2.0.1/worldwind-android-2.0.1.jar returned status 404
+2.0.10		2026-08-17T11:00:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-android/2.0.10/worldwind-android-2.0.10.jar returned status 404
 2.0.2		2026-06-10T22:01:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-android/2.0.2/worldwind-android-2.0.2.jar returned status 404
 2.0.3		2026-06-17T08:42:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-android/2.0.3/worldwind-android-2.0.3.jar returned status 404
 2.0.4		2026-06-30T22:33:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/earth/worldwind/worldwind-android/2.0.4/worldwind-android-2.0.4.jar returned status 404

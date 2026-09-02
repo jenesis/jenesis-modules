@@ -28,3 +28,4 @@
 6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/byu/hbll/maven/parent/6.0.5/parent-6.0.5.jar returned status 404
 6.0.6		2026-05-19T20:08:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/byu/hbll/maven/parent/6.0.6/parent-6.0.6.jar returned status 404
 6.1.0		2026-07-07T21:14:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/byu/hbll/maven/parent/6.1.0/parent-6.1.0.jar returned status 404
+6.1.1		2026-08-14T19:14:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/edu/byu/hbll/maven/parent/6.1.1/parent-6.1.1.jar returned status 404
