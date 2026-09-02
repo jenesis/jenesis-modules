@@ -46,3 +46,5 @@
 2.4.0	named	org.apache.jackrabbit	oak-run-elastic	2026-07-15T02:16:07Z	9.12.2
 9.9.0.wso2v4	named	org.wso2.orbit.org.apache.solr	solr	2026-08-06T03:31:29Z	9.12.2
 9.10.1.wso2v2	named	org.wso2.orbit.org.apache.solr	solr	2026-08-06T09:03:51Z	9.12.3
+10.5.1	named	org.apache.lucene	lucene-core	2026-08-12T11:27:37Z	10.5.1
+2.6.0	named	org.apache.jackrabbit	oak-run-elastic	2026-08-19T17:39:11Z	9.12.2

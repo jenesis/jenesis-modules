@@ -217,3 +217,5 @@
 10.1.56.0	named	com.heroku	webapp-runner-main	2026-07-06T08:50:29Z	5.0
 10.1.57	named	org.apache.tomcat	tomcat-el-api	2026-07-08T02:21:45Z	5.0
 11.0.24	named	org.apache.tomcat	tomcat-el-api	2026-07-09T02:36:52Z	6.0
+11.0.25	named	org.apache.tomcat	tomcat-el-api	2026-08-12T13:24:36Z	6.0
+10.1.59	named	org.apache.tomcat	tomcat-el-api	2026-08-13T17:06:53Z	5.0

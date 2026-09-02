@@ -860,3 +860,12 @@ flink_1.19-1.0	named	com.oceanbase	flink-omt	2025-04-28T08:05:25Z	4.0.3
 1.14.0	named	com.aliyun.schedulerx	schedulerx2-worker	2026-07-30T00:06:50Z	
 1.14.1	named	com.aliyun.schedulerx	schedulerx2-worker	2026-08-04T02:12:18Z	
 1.14.2	named	com.aliyun.schedulerx	schedulerx2-worker	2026-08-05T03:15:10Z	
+2.4.0	named	org.apache.inlong	sort-connector-mysql-cdc-v1.15	2026-08-13T15:50:30Z	4.0.3
+2.4.0	named	org.apache.inlong	sort-dist	2026-08-13T15:57:59Z	4.0.3
+2.4.0	named	org.apache.inlong	sort-connector-mysql-cdc	2026-08-13T16:06:19Z	4.0.3
+2.4.0	named	org.apache.inlong	sort-connector-jdbc	2026-08-13T16:07:46Z	4.0.3
+2.4.0	named	org.apache.inlong	sort-connector-postgres-cdc	2026-08-13T16:12:34Z	4.0.3
+2.4.0	named	org.apache.inlong	sort-connector-redis	2026-08-13T16:18:49Z	4.0.3
+2.4.0	named	org.apache.inlong	sort-connector-doris	2026-08-13T16:23:16Z	4.0.3
+2.4.0	named	org.apache.inlong	sort-connector-starrocks	2026-08-13T16:24:29Z	4.0.3
+2.4.0	named	org.apache.inlong	sort-connector-kudu	2026-08-13T16:29:18Z	4.0.3

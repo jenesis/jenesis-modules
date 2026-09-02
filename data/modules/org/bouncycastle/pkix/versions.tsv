@@ -1211,3 +1211,4 @@ release-4.114.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-s
 1.85	named	org.bouncycastle	bcpkix-jdk18on	2026-07-13T00:03:18Z	
 1.85	named	org.bouncycastle	bcpkix-debug-jdk18on	2026-07-13T00:03:22Z	
 1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	ververica-connector-mq	2026-07-30T00:02:31Z	
+2.4.0	named	org.apache.inlong	sort-connector-pulsar-v1.15	2026-08-13T15:51:21Z	
