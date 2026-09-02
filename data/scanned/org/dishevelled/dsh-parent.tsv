@@ -49,6 +49,7 @@
 58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dishevelled/dsh-parent/58/dsh-parent-58.jar returned status 404
 59		2026-06-19T18:59:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dishevelled/dsh-parent/59/dsh-parent-59.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dishevelled/dsh-parent/6/dsh-parent-6.jar returned status 404
+60		2026-08-25T17:26:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dishevelled/dsh-parent/60/dsh-parent-60.jar returned status 404
 7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dishevelled/dsh-parent/7/dsh-parent-7.jar returned status 404
 8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dishevelled/dsh-parent/8/dsh-parent-8.jar returned status 404
 9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dishevelled/dsh-parent/9/dsh-parent-9.jar returned status 404

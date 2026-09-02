@@ -1,0 +1,2 @@
+5.10.1-dev01+cd8efd17cc		2026-08-19T09:35:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/netcdf-java-testing-platform/5.10.1-dev01+cd8efd17cc/netcdf-java-testing-platform-5.10.1-dev01+cd8efd17cc.jar returned status 404
+5.10.1-dev0p+39ce77e0f8		2026-08-19T10:13:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/netcdf-java-testing-platform/5.10.1-dev0p+39ce77e0f8/netcdf-java-testing-platform-5.10.1-dev0p+39ce77e0f8.jar returned status 404

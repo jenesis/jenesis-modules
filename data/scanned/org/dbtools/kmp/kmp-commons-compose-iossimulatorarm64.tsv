@@ -18,3 +18,5 @@
 2.3.0	metadata	2026-05-01T17:20:50Z	
 2.4.0		2026-06-24T16:38:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dbtools/kmp/kmp-commons-compose-iossimulatorarm64/2.4.0/kmp-commons-compose-iossimulatorarm64-2.4.0.jar returned status 404
 2.4.0	metadata	2026-06-24T16:38:40Z	
+2.5.0		2026-08-21T16:31:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dbtools/kmp/kmp-commons-compose-iossimulatorarm64/2.5.0/kmp-commons-compose-iossimulatorarm64-2.5.0.jar returned status 404
+2.5.0	metadata	2026-08-21T16:31:12Z	
