@@ -139,6 +139,7 @@
 7.34.4		2026-06-26T12:09:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-jvm/7.34.4/cucumber-jvm-7.34.4.jar returned status 404
 7.34.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-jvm/7.34.5/cucumber-jvm-7.34.5.jar returned status 404
 7.34.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-jvm/7.34.6/cucumber-jvm-7.34.6.jar returned status 404
+7.34.7		2026-08-16T23:49:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-jvm/7.34.7/cucumber-jvm-7.34.7.jar returned status 404
 7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-jvm/7.4.0/cucumber-jvm-7.4.0.jar returned status 404
 7.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-jvm/7.4.1/cucumber-jvm-7.4.1.jar returned status 404
 7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cucumber/cucumber-jvm/7.5.0/cucumber-jvm-7.5.0.jar returned status 404

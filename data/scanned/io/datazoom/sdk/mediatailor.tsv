@@ -35,3 +35,5 @@
 1.1.1		2026-06-04T21:20:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/mediatailor/1.1.1/mediatailor-1.1.1.jar returned status 404
 1.1.2		2026-06-10T12:54:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/mediatailor/1.1.2/mediatailor-1.1.2.jar returned status 404
 1.1.3		2026-06-22T15:28:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/mediatailor/1.1.3/mediatailor-1.1.3.jar returned status 404
+1.1.4		2026-08-20T16:06:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/mediatailor/1.1.4/mediatailor-1.1.4.jar returned status 404
+1.1.5		2026-08-28T21:34:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/mediatailor/1.1.5/mediatailor-1.1.5.jar returned status 404

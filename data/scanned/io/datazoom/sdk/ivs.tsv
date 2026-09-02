@@ -1,3 +1,4 @@
 0.0.1		2026-05-25T16:08:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/ivs/0.0.1/ivs-0.0.1.jar returned status 404
 0.0.2		2026-05-28T10:03:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/ivs/0.0.2/ivs-0.0.2.jar returned status 404
 0.0.3		2026-06-03T22:27:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/ivs/0.0.3/ivs-0.0.3.jar returned status 404
+0.0.4		2026-08-20T15:30:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/ivs/0.0.4/ivs-0.0.4.jar returned status 404
