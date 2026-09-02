@@ -44,3 +44,7 @@
 3.1.0	metadata	2026-07-18T14:55:12Z	
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/geocoder-web-iossimulatorarm64/3.2.0/geocoder-web-iossimulatorarm64-3.2.0.jar returned status 404
 3.2.0	metadata	2026-07-21T21:36:02Z	
+3.3.0		2026-08-20T14:44:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/geocoder-web-iossimulatorarm64/3.3.0/geocoder-web-iossimulatorarm64-3.3.0.jar returned status 404
+3.3.0	metadata	2026-08-20T14:44:09Z	
+4.0.0		2026-08-26T18:29:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/geocoder-web-iossimulatorarm64/4.0.0/geocoder-web-iossimulatorarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-08-26T18:29:03Z	

@@ -44,3 +44,7 @@
 3.1.0	metadata	2026-07-18T14:55:11Z	
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/tools-web-iosarm64/3.2.0/tools-web-iosarm64-3.2.0.jar returned status 404
 3.2.0	metadata	2026-07-21T21:35:59Z	
+3.3.0		2026-08-20T14:44:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/tools-web-iosarm64/3.3.0/tools-web-iosarm64-3.3.0.jar returned status 404
+3.3.0	metadata	2026-08-20T14:44:10Z	
+4.0.0		2026-08-26T18:29:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/compass/tools-web-iosarm64/4.0.0/tools-web-iosarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-08-26T18:29:06Z	

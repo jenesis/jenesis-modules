@@ -26,6 +26,8 @@
 1.11.0	metadata	2026-07-15T00:58:11Z	
 1.11.1		2026-07-20T16:31:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/karbide/karbide-core-macosarm64/1.11.1/karbide-core-macosarm64-1.11.1.jar returned status 404
 1.11.1	metadata	2026-07-20T16:31:36Z	
+1.11.2		2026-08-14T22:45:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/karbide/karbide-core-macosarm64/1.11.2/karbide-core-macosarm64-1.11.2.jar returned status 404
+1.11.2	metadata	2026-08-14T22:45:04Z	
 1.2.0		2026-05-22T22:38:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/karbide/karbide-core-macosarm64/1.2.0/karbide-core-macosarm64-1.2.0.jar returned status 404
 1.2.0	metadata	2026-05-22T22:38:14Z	
 1.3.0		2026-05-22T23:54:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/karmakrafts/karbide/karbide-core-macosarm64/1.3.0/karbide-core-macosarm64-1.3.0.jar returned status 404
