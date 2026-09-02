@@ -1,3 +1,4 @@
+17.7.6-20260815		2026-08-15T01:57:23Z	
 8.6.3-20230526			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-jdbc-sinodb/8.6.3-20230526/anyline-data-jdbc-sinodb-8.6.3-20230526.jar returned status 404
 8.6.3-20230527			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-jdbc-sinodb/8.6.3-20230527/anyline-data-jdbc-sinodb-8.6.3-20230527.jar returned status 404
 8.6.3-20230528			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-jdbc-sinodb/8.6.3-20230528/anyline-data-jdbc-sinodb-8.6.3-20230528.jar returned status 404
@@ -608,4 +609,5 @@
 8.7.5-jdk25-boot4-20260805		2026-08-05T05:21:06Z	
 8.7.6-20260806		2026-08-06T03:11:56Z	
 8.7.6-20260808		2026-08-09T03:15:19Z	
+8.7.6-20260815		2026-08-15T01:48:34Z	
 9.7.6-20260806		2026-08-06T03:19:02Z	

@@ -8,3 +8,5 @@
 0.12.1		2026-06-03T08:25:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-kotlinx-linuxx64/0.12.1/kmp-zip-kotlinx-linuxx64-0.12.1.jar returned status 404
 0.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-kotlinx-linuxx64/0.12.2/kmp-zip-kotlinx-linuxx64-0.12.2.jar returned status 404
 0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-kotlinx-linuxx64/0.13.0/kmp-zip-kotlinx-linuxx64-0.13.0.jar returned status 404
+0.14.0		2026-08-22T14:48:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-kotlinx-linuxx64/0.14.0/kmp-zip-kotlinx-linuxx64-0.14.0.jar returned status 404
+0.15.0		2026-08-26T10:16:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-kotlinx-linuxx64/0.15.0/kmp-zip-kotlinx-linuxx64-0.15.0.jar returned status 404
