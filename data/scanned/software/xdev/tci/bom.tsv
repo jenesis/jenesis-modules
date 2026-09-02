@@ -41,3 +41,5 @@
 4.0.0		2026-07-15T14:41:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/tci/bom/4.0.0/bom-4.0.0.jar returned status 404
 4.0.1		2026-07-16T07:27:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/tci/bom/4.0.1/bom-4.0.1.jar returned status 404
 4.1.0		2026-07-16T13:21:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/tci/bom/4.1.0/bom-4.1.0.jar returned status 404
+4.2.0		2026-08-11T08:40:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/tci/bom/4.2.0/bom-4.2.0.jar returned status 404
+4.3.0		2026-08-12T11:53:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/tci/bom/4.3.0/bom-4.3.0.jar returned status 404

@@ -1,5 +1,6 @@
 2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/kagg886/pixko-android/2.10/pixko-android-2.10.jar returned status 404
 2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/kagg886/pixko-android/2.11/pixko-android-2.11.jar returned status 404
+2.12		2026-08-15T03:01:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/kagg886/pixko-android/2.12/pixko-android-2.12.jar returned status 404
 2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/kagg886/pixko-android/2.4/pixko-android-2.4.jar returned status 404
 2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/kagg886/pixko-android/2.5/pixko-android-2.5.jar returned status 404
 2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/kagg886/pixko-android/2.6/pixko-android-2.6.jar returned status 404

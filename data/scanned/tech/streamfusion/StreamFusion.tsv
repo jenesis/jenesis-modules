@@ -1,0 +1,2 @@
+0.1.0-rc1		2026-08-15T19:47:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/streamfusion/StreamFusion/0.1.0-rc1/StreamFusion-0.1.0-rc1.jar returned status 404
+0.1.0-rc2		2026-08-26T22:29:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/streamfusion/StreamFusion/0.1.0-rc2/StreamFusion-0.1.0-rc2.jar returned status 404

@@ -63,3 +63,5 @@
 1.0.0-rc2	named	org.pragmatica-lite.aether	aether-setup	2026-07-17T00:13:25Z	3.1.0
 1.49.3	named	ru.tinkoff.piapi	java-sdk-basic-example	2026-07-23T23:55:23Z	3.0.3
 1.49.4	named	ru.tinkoff.piapi	java-sdk-basic-example	2026-08-05T01:55:06Z	3.0.3
+3.1.6	named	tools.jackson.core	jackson-core	2026-08-14T19:58:51Z	3.1.6
+3.2.2	named	tools.jackson.core	jackson-core	2026-08-14T21:19:06Z	3.2.2

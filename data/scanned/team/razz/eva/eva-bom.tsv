@@ -18,3 +18,10 @@
 0.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/razz/eva/eva-bom/0.32.1/eva-bom-0.32.1.jar returned status 404
 0.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/razz/eva/eva-bom/0.33.0/eva-bom-0.33.0.jar returned status 404
 0.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/razz/eva/eva-bom/0.34.0/eva-bom-0.34.0.jar returned status 404
+0.35.0		2026-08-13T08:27:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/razz/eva/eva-bom/0.35.0/eva-bom-0.35.0.jar returned status 404
+0.36.0		2026-08-14T12:29:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/razz/eva/eva-bom/0.36.0/eva-bom-0.36.0.jar returned status 404
+0.37.0		2026-08-18T10:18:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/razz/eva/eva-bom/0.37.0/eva-bom-0.37.0.jar returned status 404
+0.38.0		2026-08-18T11:25:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/razz/eva/eva-bom/0.38.0/eva-bom-0.38.0.jar returned status 404
+0.38.1		2026-08-18T15:36:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/razz/eva/eva-bom/0.38.1/eva-bom-0.38.1.jar returned status 404
+0.38.2		2026-08-18T17:02:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/razz/eva/eva-bom/0.38.2/eva-bom-0.38.2.jar returned status 404
+0.38.3		2026-08-26T13:17:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/team/razz/eva/eva-bom/0.38.3/eva-bom-0.38.3.jar returned status 404

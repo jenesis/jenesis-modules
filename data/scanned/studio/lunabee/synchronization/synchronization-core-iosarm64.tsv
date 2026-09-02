@@ -6,3 +6,5 @@
 2.0.0-rc01	metadata	2026-07-21T12:21:43Z	
 2.0.0-rc02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/synchronization/synchronization-core-iosarm64/2.0.0-rc02/synchronization-core-iosarm64-2.0.0-rc02.jar returned status 404
 2.0.0-rc02	metadata	2026-07-29T11:16:14Z	
+2.0.0-rc03		2026-08-20T11:01:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/synchronization/synchronization-core-iosarm64/2.0.0-rc03/synchronization-core-iosarm64-2.0.0-rc03.jar returned status 404
+2.0.0-rc03	metadata	2026-08-20T11:01:31Z	

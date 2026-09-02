@@ -6,3 +6,4 @@
 2.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/continew/starter/continew-starter-extension-tenant/2.14.0/continew-starter-extension-tenant-2.14.0.jar returned status 404
 2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/continew/starter/continew-starter-extension-tenant/2.15.0/continew-starter-extension-tenant-2.15.0.jar returned status 404
 2.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/continew/starter/continew-starter-extension-tenant/2.15.1/continew-starter-extension-tenant-2.15.1.jar returned status 404
+2.16.0		2026-08-20T13:40:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/top/continew/starter/continew-starter-extension-tenant/2.16.0/continew-starter-extension-tenant-2.16.0.jar returned status 404

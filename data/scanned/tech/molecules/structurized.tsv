@@ -10,3 +10,4 @@
 0.3.1		2026-08-03T07:34:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/molecules/structurized/0.3.1/structurized-0.3.1.jar returned status 404
 0.3.2		2026-08-06T11:04:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/molecules/structurized/0.3.2/structurized-0.3.2.jar returned status 404
 0.3.3		2026-08-06T11:45:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/molecules/structurized/0.3.3/structurized-0.3.3.jar returned status 404
+0.3.6		2026-08-23T07:29:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/molecules/structurized/0.3.6/structurized-0.3.6.jar returned status 404
