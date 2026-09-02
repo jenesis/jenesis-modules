@@ -1,5 +1,11 @@
 0.0.10		2026-08-07T09:06:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/onboarding-solar-edge-iossimulatorarm64/0.0.10/onboarding-solar-edge-iossimulatorarm64-0.0.10.jar returned status 404
 0.0.10	metadata	2026-08-07T09:06:13Z	
+0.0.11		2026-08-14T07:52:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/onboarding-solar-edge-iossimulatorarm64/0.0.11/onboarding-solar-edge-iossimulatorarm64-0.0.11.jar returned status 404
+0.0.11	metadata	2026-08-14T07:52:32Z	
+0.0.12		2026-08-14T10:11:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/onboarding-solar-edge-iossimulatorarm64/0.0.12/onboarding-solar-edge-iossimulatorarm64-0.0.12.jar returned status 404
+0.0.12	metadata	2026-08-14T10:11:20Z	
+0.0.13		2026-08-28T13:07:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/onboarding-solar-edge-iossimulatorarm64/0.0.13/onboarding-solar-edge-iossimulatorarm64-0.0.13.jar returned status 404
+0.0.13	metadata	2026-08-28T13:07:02Z	
 0.0.5		2026-07-21T09:49:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/onboarding-solar-edge-iossimulatorarm64/0.0.5/onboarding-solar-edge-iossimulatorarm64-0.0.5.jar returned status 404
 0.0.5	metadata	2026-07-21T09:49:31Z	
 0.0.6		2026-07-21T11:35:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/onboarding-solar-edge-iossimulatorarm64/0.0.6/onboarding-solar-edge-iossimulatorarm64-0.0.6.jar returned status 404

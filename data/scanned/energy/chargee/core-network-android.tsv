@@ -1,4 +1,7 @@
 0.0.10		2026-08-07T09:06:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/core-network-android/0.0.10/core-network-android-0.0.10.jar returned status 404
+0.0.11		2026-08-14T07:52:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/core-network-android/0.0.11/core-network-android-0.0.11.jar returned status 404
+0.0.12		2026-08-14T10:11:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/core-network-android/0.0.12/core-network-android-0.0.12.jar returned status 404
+0.0.13		2026-08-28T13:07:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/core-network-android/0.0.13/core-network-android-0.0.13.jar returned status 404
 0.0.5		2026-07-21T09:49:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/core-network-android/0.0.5/core-network-android-0.0.5.jar returned status 404
 0.0.6		2026-07-21T11:35:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/core-network-android/0.0.6/core-network-android-0.0.6.jar returned status 404
 0.0.7		2026-08-03T09:00:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/core-network-android/0.0.7/core-network-android-0.0.7.jar returned status 404

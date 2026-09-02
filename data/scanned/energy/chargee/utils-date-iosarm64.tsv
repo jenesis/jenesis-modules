@@ -1,5 +1,11 @@
 0.0.10		2026-08-07T09:06:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/utils-date-iosarm64/0.0.10/utils-date-iosarm64-0.0.10.jar returned status 404
 0.0.10	metadata	2026-08-07T09:06:09Z	
+0.0.11		2026-08-14T07:52:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/utils-date-iosarm64/0.0.11/utils-date-iosarm64-0.0.11.jar returned status 404
+0.0.11	metadata	2026-08-14T07:52:29Z	
+0.0.12		2026-08-14T10:11:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/utils-date-iosarm64/0.0.12/utils-date-iosarm64-0.0.12.jar returned status 404
+0.0.12	metadata	2026-08-14T10:11:19Z	
+0.0.13		2026-08-28T13:06:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/utils-date-iosarm64/0.0.13/utils-date-iosarm64-0.0.13.jar returned status 404
+0.0.13	metadata	2026-08-28T13:06:59Z	
 0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/utils-date-iosarm64/0.0.2/utils-date-iosarm64-0.0.2.jar returned status 404
 0.0.2	metadata	2026-05-04T11:46:08Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/utils-date-iosarm64/0.0.3/utils-date-iosarm64-0.0.3.jar returned status 404
