@@ -124,3 +124,5 @@
 1.7.1	metadata	2025-11-24T09:54:32Z	
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-materials-iosarm64/1.7.2/haze-materials-iosarm64-1.7.2.jar returned status 404
 1.7.2	metadata	2026-02-10T22:04:11Z	
+1.7.3		2026-08-27T11:11:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-materials-iosarm64/1.7.3/haze-materials-iosarm64-1.7.3.jar returned status 404
+1.7.3	metadata	2026-08-27T11:11:42Z	

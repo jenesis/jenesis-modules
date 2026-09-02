@@ -1,0 +1,6 @@
+2.0.0-alpha05		2026-08-12T07:44:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-blur-material3-macosarm64/2.0.0-alpha05/haze-blur-material3-macosarm64-2.0.0-alpha05.jar returned status 404
+2.0.0-alpha05	metadata	2026-08-12T07:44:01Z	
+2.0.0-beta01		2026-08-20T11:10:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-blur-material3-macosarm64/2.0.0-beta01/haze-blur-material3-macosarm64-2.0.0-beta01.jar returned status 404
+2.0.0-beta01	metadata	2026-08-20T11:10:08Z	
+2.0.0-beta02		2026-08-27T11:14:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-blur-material3-macosarm64/2.0.0-beta02/haze-blur-material3-macosarm64-2.0.0-beta02.jar returned status 404
+2.0.0-beta02	metadata	2026-08-27T11:14:36Z	

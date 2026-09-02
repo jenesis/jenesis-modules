@@ -51,3 +51,5 @@
 0.8.0		2020-06-01T14:33:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/galasa/dev.galasa.uber.obr/0.8.0/dev.galasa.uber.obr-0.8.0.jar returned status 404
 0.9.0		2020-06-30T13:03:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/galasa/dev.galasa.uber.obr/0.9.0/dev.galasa.uber.obr-0.9.0.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/galasa/dev.galasa.uber.obr/1.0.0/dev.galasa.uber.obr-1.0.0.jar returned status 404
+1.0.1		2026-08-11T14:56:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/galasa/dev.galasa.uber.obr/1.0.1/dev.galasa.uber.obr-1.0.1.jar returned status 404
+1.1.0		2026-08-19T10:50:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/galasa/dev.galasa.uber.obr/1.1.0/dev.galasa.uber.obr-1.1.0.jar returned status 404
