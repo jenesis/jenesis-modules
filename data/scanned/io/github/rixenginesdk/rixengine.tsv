@@ -10,3 +10,4 @@
 4.0.0		2026-05-28T06:08:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rixenginesdk/rixengine/4.0.0/rixengine-4.0.0.jar returned status 404
 4.1.0		2026-06-11T06:04:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rixenginesdk/rixengine/4.1.0/rixengine-4.1.0.jar returned status 404
 4.1.1		2026-07-03T02:40:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rixenginesdk/rixengine/4.1.1/rixengine-4.1.1.jar returned status 404
+4.1.2		2026-08-28T02:50:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rixenginesdk/rixengine/4.1.2/rixengine-4.1.2.jar returned status 404

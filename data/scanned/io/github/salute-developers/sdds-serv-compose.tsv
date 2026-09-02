@@ -41,6 +41,9 @@
 0.41.0			
 0.41.1		2026-08-10T12:36:34Z	
 0.41.2		2026-08-10T13:34:36Z	
+0.42.0		2026-08-19T16:06:48Z	
+0.42.1		2026-08-20T11:51:26Z	
+0.42.2		2026-08-25T07:24:06Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-serv-compose/0.5.0/sdds-serv-compose-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-serv-compose/0.6.0/sdds-serv-compose-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-serv-compose/0.7.0/sdds-serv-compose-0.7.0.jar returned status 404

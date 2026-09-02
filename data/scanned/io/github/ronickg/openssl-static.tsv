@@ -1,0 +1,2 @@
+3.6.2-1		2026-08-14T21:07:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronickg/openssl-static/3.6.2-1/openssl-static-3.6.2-1.jar returned status 404
+3.6.2-2		2026-08-14T21:47:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ronickg/openssl-static/3.6.2-2/openssl-static-3.6.2-2.jar returned status 404

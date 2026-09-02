@@ -1,3 +1,4 @@
 2.0.0		2026-07-27T16:26:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/regulusleow/astrolabe-runtime-android/2.0.0/astrolabe-runtime-android-2.0.0.jar returned status 404
 2.0.1		2026-07-28T03:13:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/regulusleow/astrolabe-runtime-android/2.0.1/astrolabe-runtime-android-2.0.1.jar returned status 404
 2.1.0		2026-08-09T14:49:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/regulusleow/astrolabe-runtime-android/2.1.0/astrolabe-runtime-android-2.1.0.jar returned status 404
+2.2.0		2026-08-24T15:16:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/regulusleow/astrolabe-runtime-android/2.2.0/astrolabe-runtime-android-2.2.0.jar returned status 404
