@@ -4,3 +4,5 @@
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-quarkus/1.1.0/ntfy-quarkus-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-quarkus/1.1.1/ntfy-quarkus-1.1.1.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-quarkus/1.2.0/ntfy-quarkus-1.2.0.jar returned status 404
+2.0.0		2026-08-20T07:50:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-quarkus/2.0.0/ntfy-quarkus-2.0.0.jar returned status 404
+2.1.0		2026-08-26T19:15:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pimak/ntfy-quarkus/2.1.0/ntfy-quarkus-2.1.0.jar returned status 404

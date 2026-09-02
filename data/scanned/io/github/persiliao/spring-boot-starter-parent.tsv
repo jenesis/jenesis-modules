@@ -1,0 +1,2 @@
+2026.1		2026-08-17T05:40:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/persiliao/spring-boot-starter-parent/2026.1/spring-boot-starter-parent-2026.1.jar returned status 404
+2026.1.1		2026-08-20T06:18:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/persiliao/spring-boot-starter-parent/2026.1.1/spring-boot-starter-parent-2026.1.1.jar returned status 404
