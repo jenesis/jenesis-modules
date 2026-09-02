@@ -1,0 +1,2 @@
+1.0.1		2026-08-14T10:20:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eugenprog/androidarc/1.0.1/androidarc-1.0.1.jar returned status 404
+1.0.2		2026-08-18T09:57:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eugenprog/androidarc/1.0.2/androidarc-1.0.2.jar returned status 404

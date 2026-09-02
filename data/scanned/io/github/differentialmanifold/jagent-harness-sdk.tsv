@@ -8,3 +8,4 @@
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/differentialmanifold/jagent-harness-sdk/0.6.0/jagent-harness-sdk-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/differentialmanifold/jagent-harness-sdk/0.7.0/jagent-harness-sdk-0.7.0.jar returned status 404
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/differentialmanifold/jagent-harness-sdk/0.7.1/jagent-harness-sdk-0.7.1.jar returned status 404
+0.7.2		2026-08-12T08:58:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/differentialmanifold/jagent-harness-sdk/0.7.2/jagent-harness-sdk-0.7.2.jar returned status 404

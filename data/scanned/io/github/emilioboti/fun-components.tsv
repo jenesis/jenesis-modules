@@ -1,0 +1,2 @@
+1.0.0		2026-08-25T23:28:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emilioboti/fun-components/1.0.0/fun-components-1.0.0.jar returned status 404
+1.0.1		2026-08-26T16:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emilioboti/fun-components/1.0.1/fun-components-1.0.1.jar returned status 404

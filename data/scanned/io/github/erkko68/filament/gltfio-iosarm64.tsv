@@ -36,5 +36,9 @@
 0.2.0	metadata	2026-07-17T19:11:10Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/gltfio-iosarm64/0.3.0/gltfio-iosarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2026-07-22T15:23:55Z	
+0.3.1		2026-08-14T14:14:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/gltfio-iosarm64/0.3.1/gltfio-iosarm64-0.3.1.jar returned status 404
+0.3.1	metadata	2026-08-14T14:14:05Z	
+0.4.0		2026-08-20T14:00:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/gltfio-iosarm64/0.4.0/gltfio-iosarm64-0.4.0.jar returned status 404
+0.4.0	metadata	2026-08-20T14:00:55Z	
 v0.1.0-alpha01		2026-05-18T20:39:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/erkko68/filament/gltfio-iosarm64/v0.1.0-alpha01/gltfio-iosarm64-v0.1.0-alpha01.jar returned status 404
 v0.1.0-alpha01	metadata	2026-05-18T20:39:42Z	

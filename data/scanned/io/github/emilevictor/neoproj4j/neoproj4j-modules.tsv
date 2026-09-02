@@ -1,1 +1,4 @@
 2.0.0		2026-08-06T02:16:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emilevictor/neoproj4j/neoproj4j-modules/2.0.0/neoproj4j-modules-2.0.0.jar returned status 404
+2.1.0		2026-08-14T11:00:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emilevictor/neoproj4j/neoproj4j-modules/2.1.0/neoproj4j-modules-2.1.0.jar returned status 404
+2.2.0		2026-08-17T01:00:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emilevictor/neoproj4j/neoproj4j-modules/2.2.0/neoproj4j-modules-2.2.0.jar returned status 404
+2.3.0		2026-08-18T07:11:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/emilevictor/neoproj4j/neoproj4j-modules/2.3.0/neoproj4j-modules-2.3.0.jar returned status 404

@@ -32,3 +32,5 @@
 0.5.1	metadata	2026-07-29T08:52:06Z	
 0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/core-iossimulatorarm64/0.5.2/core-iossimulatorarm64-0.5.2.jar returned status 404
 0.5.2	metadata	2026-08-03T08:30:53Z	
+0.5.3		2026-08-17T08:53:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/core-iossimulatorarm64/0.5.3/core-iossimulatorarm64-0.5.3.jar returned status 404
+0.5.3	metadata	2026-08-17T08:53:38Z	
