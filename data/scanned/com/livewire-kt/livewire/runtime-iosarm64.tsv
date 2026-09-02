@@ -8,3 +8,5 @@
 1.0.3	metadata	2026-07-27T15:36:30Z	
 1.0.4		2026-08-07T16:21:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/livewire-kt/livewire/runtime-iosarm64/1.0.4/runtime-iosarm64-1.0.4.jar returned status 404
 1.0.4	metadata	2026-08-07T16:21:40Z	
+1.0.5		2026-08-21T20:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/livewire-kt/livewire/runtime-iosarm64/1.0.5/runtime-iosarm64-1.0.5.jar returned status 404
+1.0.5	metadata	2026-08-21T20:27:09Z	
