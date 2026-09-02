@@ -10,6 +10,7 @@
 1.3.4.1		2025-02-10T08:17:57Z	
 2.0.1.1		2024-12-05T02:51:06Z	
 2.0.10.1		2026-06-25T04:10:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/timecho/iotdb/timechodb-thrift/2.0.10.1/timechodb-thrift-2.0.10.1.jar returned status 404
+2.0.11.1		2026-08-17T12:29:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/timecho/iotdb/timechodb-thrift/2.0.11.1/timechodb-thrift-2.0.11.1.jar returned status 404
 2.0.2.1		2025-04-03T10:01:52Z	
 2.0.2.2		2025-04-11T02:05:17Z	
 2.0.3.3		2025-05-21T10:50:02Z	

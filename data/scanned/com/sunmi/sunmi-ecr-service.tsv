@@ -8,6 +8,7 @@
 2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sunmi/sunmi-ecr-service/2.0.8/sunmi-ecr-service-2.0.8.jar returned status 404
 3.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sunmi/sunmi-ecr-service/3.0.11/sunmi-ecr-service-3.0.11.jar returned status 404
 3.0.15		2026-05-20T08:28:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sunmi/sunmi-ecr-service/3.0.15/sunmi-ecr-service-3.0.15.jar returned status 404
+3.0.16		2026-08-14T08:57:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sunmi/sunmi-ecr-service/3.0.16/sunmi-ecr-service-3.0.16.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sunmi/sunmi-ecr-service/3.0.3/sunmi-ecr-service-3.0.3.jar returned status 404
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sunmi/sunmi-ecr-service/3.0.4/sunmi-ecr-service-3.0.4.jar returned status 404
 3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sunmi/sunmi-ecr-service/3.0.6/sunmi-ecr-service-3.0.6.jar returned status 404

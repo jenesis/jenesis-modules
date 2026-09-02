@@ -3,3 +3,4 @@
 2.5.1.131			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/trro/remote/2.5.1.131/remote-2.5.1.131.jar returned status 404
 2.5.4-local			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/trro/remote/2.5.4-local/remote-2.5.4-local.jar returned status 404
 2.5.5.141		2026-06-26T06:33:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/trro/remote/2.5.5.141/remote-2.5.5.141.jar returned status 404
+2.5.6.145		2026-08-21T08:38:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/trro/remote/2.5.6.145/remote-2.5.6.145.jar returned status 404
