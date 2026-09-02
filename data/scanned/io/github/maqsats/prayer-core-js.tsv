@@ -6,4 +6,5 @@
 1.0.16		2026-06-03T12:09:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/prayer-core-js/1.0.16/prayer-core-js-1.0.16.jar returned status 404
 1.0.17		2026-06-05T17:02:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/prayer-core-js/1.0.17/prayer-core-js-1.0.17.jar returned status 404
 1.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/prayer-core-js/1.0.20/prayer-core-js-1.0.20.jar returned status 404
+1.0.21		2026-08-12T11:58:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/prayer-core-js/1.0.21/prayer-core-js-1.0.21.jar returned status 404
 1.0.9		2026-05-28T07:45:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/prayer-core-js/1.0.9/prayer-core-js-1.0.9.jar returned status 404

@@ -62,3 +62,5 @@
 3.0.3	metadata	2026-07-31T12:15:06Z	
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-uihelper-iosarm64/3.0.4/kmpauth-uihelper-iosarm64-3.0.4.jar returned status 404
 3.0.4	metadata	2026-08-06T12:58:20Z	
+3.0.5		2026-08-14T12:29:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mirzemehdi/kmpauth-uihelper-iosarm64/3.0.5/kmpauth-uihelper-iosarm64-3.0.5.jar returned status 404
+3.0.5	metadata	2026-08-14T12:29:15Z	

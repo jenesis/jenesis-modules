@@ -23,6 +23,7 @@
 0.2.9		2026-06-20T03:09:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.2.9/microsphere-logging-bom-0.2.9.jar returned status 404
 0.3.0		2026-06-29T13:47:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.3.0/microsphere-logging-bom-0.3.0.jar returned status 404
 0.3.1		2026-07-06T14:30:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.3.1/microsphere-logging-bom-0.3.1.jar returned status 404
+0.3.10		2026-08-25T11:50:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.3.10/microsphere-logging-bom-0.3.10.jar returned status 404
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.3.2/microsphere-logging-bom-0.3.2.jar returned status 404
 0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.3.3/microsphere-logging-bom-0.3.3.jar returned status 404
 0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.3.4/microsphere-logging-bom-0.3.4.jar returned status 404
@@ -30,3 +31,4 @@
 0.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.3.6/microsphere-logging-bom-0.3.6.jar returned status 404
 0.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.3.7/microsphere-logging-bom-0.3.7.jar returned status 404
 0.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.3.8/microsphere-logging-bom-0.3.8.jar returned status 404
+0.3.9		2026-08-13T04:03:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-logging-bom/0.3.9/microsphere-logging-bom-0.3.9.jar returned status 404

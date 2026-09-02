@@ -1,0 +1,3 @@
+0.1.3		2026-08-15T09:02:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mgilbir/ktecma262-linuxx64/0.1.3/ktecma262-linuxx64-0.1.3.jar returned status 404
+0.1.4		2026-08-15T09:39:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mgilbir/ktecma262-linuxx64/0.1.4/ktecma262-linuxx64-0.1.4.jar returned status 404
+0.2.0		2026-08-16T16:12:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mgilbir/ktecma262-linuxx64/0.2.0/ktecma262-linuxx64-0.2.0.jar returned status 404
