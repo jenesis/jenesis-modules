@@ -69,6 +69,8 @@
 11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix/11.3/flowlogix-11.3.jar returned status 404
 11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix/11.4/flowlogix-11.4.jar returned status 404
 11.4.1		2026-06-12T17:20:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix/11.4.1/flowlogix-11.4.1.jar returned status 404
+11.4.2		2026-08-15T22:03:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix/11.4.2/flowlogix-11.4.2.jar returned status 404
+11.4.3		2026-08-22T22:18:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix/11.4.3/flowlogix-11.4.3.jar returned status 404
 2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix/2.0/flowlogix-2.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix/2.0.1/flowlogix-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix/2.0.2/flowlogix-2.0.2.jar returned status 404

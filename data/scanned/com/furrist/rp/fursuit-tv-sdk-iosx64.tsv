@@ -6,3 +6,7 @@
 0.2.1	metadata	2026-04-29T05:40:04Z	
 0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/furrist/rp/fursuit-tv-sdk-iosx64/0.2.2/fursuit-tv-sdk-iosx64-0.2.2.jar returned status 404
 0.2.2	metadata	2026-05-02T00:31:20Z	
+0.4.0		2026-08-30T03:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/furrist/rp/fursuit-tv-sdk-iosx64/0.4.0/fursuit-tv-sdk-iosx64-0.4.0.jar returned status 404
+0.4.0	metadata	2026-08-30T03:41:43Z	
+0.4.1		2026-08-31T02:31:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/furrist/rp/fursuit-tv-sdk-iosx64/0.4.1/fursuit-tv-sdk-iosx64-0.4.1.jar returned status 404
+0.4.1	metadata	2026-08-31T02:31:23Z	

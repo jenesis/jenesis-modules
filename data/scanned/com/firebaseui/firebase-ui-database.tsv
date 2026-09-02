@@ -13,6 +13,7 @@
 10.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firebaseui/firebase-ui-database/10.0.0-beta01/firebase-ui-database-10.0.0-beta01.jar returned status 404
 10.0.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firebaseui/firebase-ui-database/10.0.0-beta02/firebase-ui-database-10.0.0-beta02.jar returned status 404
 10.0.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firebaseui/firebase-ui-database/10.0.0-beta03/firebase-ui-database-10.0.0-beta03.jar returned status 404
+10.0.0-beta04		2026-08-24T16:20:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firebaseui/firebase-ui-database/10.0.0-beta04/firebase-ui-database-10.0.0-beta04.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firebaseui/firebase-ui-database/2.0.0/firebase-ui-database-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firebaseui/firebase-ui-database/2.1.0/firebase-ui-database-2.1.0.jar returned status 404
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/firebaseui/firebase-ui-database/7.1.1/firebase-ui-database-7.1.1.jar returned status 404
