@@ -43,3 +43,4 @@
 7.8.0	named	io.fabric8	java-generator-cli	2026-06-29T09:26:02Z	2.0.77.Final
 2.0.80.Final	named	io.netty	netty-tcnative-classes	2026-06-29T13:46:29Z	2.0.80.Final
 2.0.81.Final	named	io.netty	netty-tcnative-classes	2026-07-21T00:02:05Z	2.0.81.Final
+4.4.27	named	org.neo4j.driver	neo4j-java-driver	2026-08-11T14:23:19Z	2.0.81.Final

@@ -10,3 +10,4 @@
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/config-ui/8.0.0/config-ui-8.0.0.jar returned status 404
 8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/config-ui/8.0.1/config-ui-8.0.1.jar returned status 404
 8.1.0		2025-07-07T17:36:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/config-ui/8.1.0/config-ui-8.1.0.jar returned status 404
+9.0.0		2026-08-14T14:38:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nhind/config-ui/9.0.0/config-ui-9.0.0.jar returned status 404

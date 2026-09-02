@@ -13,6 +13,8 @@
 2.5.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/smart-http-parent/2.5.18/smart-http-parent-2.5.18.jar returned status 404
 2.5.19		2026-06-06T04:44:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/smart-http-parent/2.5.19/smart-http-parent-2.5.19.jar returned status 404
 2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/smart-http-parent/2.5.2/smart-http-parent-2.5.2.jar returned status 404
+2.5.20		2026-08-09T11:31:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/smart-http-parent/2.5.20/smart-http-parent-2.5.20.jar returned status 404
+2.5.21		2026-08-14T11:40:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/smart-http-parent/2.5.21/smart-http-parent-2.5.21.jar returned status 404
 2.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/smart-http-parent/2.5.3/smart-http-parent-2.5.3.jar returned status 404
 2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/smart-http-parent/2.5.4/smart-http-parent-2.5.4.jar returned status 404
 2.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/noear/smart-http-parent/2.5.5/smart-http-parent-2.5.5.jar returned status 404
