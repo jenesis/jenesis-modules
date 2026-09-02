@@ -7,3 +7,4 @@
 0.5.0		2026-06-12T13:11:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springaicommunity/spring-ai-session-bom/0.5.0/spring-ai-session-bom-0.5.0.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springaicommunity/spring-ai-session-bom/0.6.0/spring-ai-session-bom-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springaicommunity/spring-ai-session-bom/0.7.0/spring-ai-session-bom-0.7.0.jar returned status 404
+0.8.0		2026-08-26T11:57:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springaicommunity/spring-ai-session-bom/0.8.0/spring-ai-session-bom-0.8.0.jar returned status 404

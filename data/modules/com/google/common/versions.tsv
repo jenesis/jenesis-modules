@@ -1060,4 +1060,6 @@
 1.7.0.2	named	io.acryl	datahub-protobuf	2026-08-10T09:03:50Z	33.6.0-jre
 6.0.32	named	io.digiexpress	thena-sql-client-annot-proc	2026-08-10T09:27:03Z	33.5.0-jre
 6.0.33	named	io.digiexpress	thena-sql-client-annot-proc	2026-08-10T11:57:37Z	33.5.0-jre
+5.29.0.35837	named	org.sonarsource.python	sonar-python-plugin	2026-08-13T13:13:37Z	33.6.0-jre
+5.30.0.36259	named	org.sonarsource.python	sonar-python-plugin	2026-08-21T12:43:23Z	33.6.0-jre
 1.95.0	named	org.talend.sdk.component.sample.feature	entrywitherror	2026-08-21T14:18:41Z	33.4.8-jre
