@@ -20,6 +20,7 @@
 3.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hypersistence/hypersistence-utils-parent/3.15.2/hypersistence-utils-parent-3.15.2.jar returned status 404
 3.15.3		2026-06-02T18:49:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hypersistence/hypersistence-utils-parent/3.15.3/hypersistence-utils-parent-3.15.3.jar returned status 404
 3.15.4		2026-06-29T13:18:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hypersistence/hypersistence-utils-parent/3.15.4/hypersistence-utils-parent-3.15.4.jar returned status 404
+3.15.5		2026-08-19T14:14:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hypersistence/hypersistence-utils-parent/3.15.5/hypersistence-utils-parent-3.15.5.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hypersistence/hypersistence-utils-parent/3.2.0/hypersistence-utils-parent-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hypersistence/hypersistence-utils-parent/3.3.0/hypersistence-utils-parent-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hypersistence/hypersistence-utils-parent/3.3.1/hypersistence-utils-parent-3.3.1.jar returned status 404

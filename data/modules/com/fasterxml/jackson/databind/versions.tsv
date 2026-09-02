@@ -4421,6 +4421,9 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.2.0	named	uz.sinaq	sinaq-report-cli	2026-08-13T07:18:03Z	2.17.2
 1.2.1	named	uz.sinaq	sinaq-report-cli	2026-08-14T09:33:16Z	2.17.2
 1.2.0-RC1	named	io.strimzi	crd-generator	2026-08-15T17:30:46Z	2.22.1
+1.24.0-ws2	named	io.joynr.tests.graceful-shutdown-test	graceful-shutdown-test-consumer	2026-08-17T18:46:39Z	2.14.2
+1.24.0-ws2	named	io.joynr.examples	stateless-async-car-sim	2026-08-17T18:46:40Z	2.14.2
+1.24.0-ws2	named	io.joynr.examples	stateless-async-consumer	2026-08-17T18:46:40Z	2.14.2
 1.2.0-RC2	named	io.strimzi	crd-generator	2026-08-18T16:07:43Z	2.22.1
 0.18.4	named	io.modelcontextprotocol.sdk	client-jdk-http-client	2026-08-19T14:17:44Z	2.20.1
 1.2.0	named	io.strimzi	crd-generator	2026-08-19T21:13:16Z	2.22.1
