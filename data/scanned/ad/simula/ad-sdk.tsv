@@ -15,3 +15,14 @@
 1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.7/ad-sdk-1.1.7.jar returned status 404
 1.1.7-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.7-dev.1/ad-sdk-1.1.7-dev.1.jar returned status 404
 1.1.7-dev.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.7-dev.2/ad-sdk-1.1.7-dev.2.jar returned status 404
+1.1.9		2026-08-28T15:54:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.9/ad-sdk-1.1.9.jar returned status 404
+1.1.9-dev.1		2026-08-17T01:30:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.9-dev.1/ad-sdk-1.1.9-dev.1.jar returned status 404
+1.1.9-dev.2		2026-08-18T23:36:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.9-dev.2/ad-sdk-1.1.9-dev.2.jar returned status 404
+1.1.9-dev.3		2026-08-20T22:38:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.9-dev.3/ad-sdk-1.1.9-dev.3.jar returned status 404
+1.1.9-dev.4		2026-08-24T15:05:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.9-dev.4/ad-sdk-1.1.9-dev.4.jar returned status 404
+1.1.9-dev.5		2026-08-26T10:11:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.9-dev.5/ad-sdk-1.1.9-dev.5.jar returned status 404
+1.1.9-dev.6		2026-08-27T12:26:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.9-dev.6/ad-sdk-1.1.9-dev.6.jar returned status 404
+1.1.9-dev.7		2026-08-27T20:48:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.9-dev.7/ad-sdk-1.1.9-dev.7.jar returned status 404
+1.1.9-dev.8		2026-08-28T11:21:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.9-dev.8/ad-sdk-1.1.9-dev.8.jar returned status 404
+1.1.9-dev.9		2026-08-28T13:46:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.1.9-dev.9/ad-sdk-1.1.9-dev.9.jar returned status 404
+1.2.0-dev.1		2026-08-29T23:38:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ad/simula/ad-sdk/1.2.0-dev.1/ad-sdk-1.2.0-dev.1.jar returned status 404

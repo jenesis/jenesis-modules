@@ -1,3 +1,5 @@
 0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/docling/docling-bom/0.5.2/docling-bom-0.5.2.jar returned status 404
 0.5.3		2026-06-07T21:11:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/docling/docling-bom/0.5.3/docling-bom-0.5.3.jar returned status 404
 0.6.0		2026-06-15T20:28:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/docling/docling-bom/0.6.0/docling-bom-0.6.0.jar returned status 404
+0.6.3		2026-09-01T14:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/docling/docling-bom/0.6.3/docling-bom-0.6.3.jar returned status 404
+0.6.4		2026-09-01T18:13:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/docling/docling-bom/0.6.4/docling-bom-0.6.4.jar returned status 404

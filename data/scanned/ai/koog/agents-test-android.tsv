@@ -1,3 +1,4 @@
 1.0.0		2026-05-21T14:49:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-test-android/1.0.0/agents-test-android-1.0.0.jar returned status 404
 1.0.0-preview7		2026-05-21T09:23:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-test-android/1.0.0-preview7/agents-test-android-1.0.0-preview7.jar returned status 404
 1.1.1		2026-07-20T12:13:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-test-android/1.1.1/agents-test-android-1.1.1.jar returned status 404
+1.2.0		2026-08-27T14:46:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/agents-test-android/1.2.0/agents-test-android-1.2.0.jar returned status 404

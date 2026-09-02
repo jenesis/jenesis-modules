@@ -48,3 +48,5 @@
 1.0.0-beta-preview7	metadata	2026-05-21T09:23:57Z	
 1.1.1-beta		2026-07-20T12:13:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-mistralai-client-iosarm64/1.1.1-beta/prompt-executor-mistralai-client-iosarm64-1.1.1-beta.jar returned status 404
 1.1.1-beta	metadata	2026-07-20T12:13:32Z	
+1.2.0-beta		2026-08-27T14:46:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/koog/prompt-executor-mistralai-client-iosarm64/1.2.0-beta/prompt-executor-mistralai-client-iosarm64-1.2.0-beta.jar returned status 404
+1.2.0-beta	metadata	2026-08-27T14:46:36Z	

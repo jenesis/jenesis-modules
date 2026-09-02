@@ -3,3 +3,9 @@
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/covia/covia/0.6.0/covia-0.6.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/covia/covia/0.7.0/covia-0.7.0.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/covia/covia/0.8.0/covia-0.8.0.jar returned status 404
+0.9.1		2026-08-13T21:33:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/covia/covia/0.9.1/covia-0.9.1.jar returned status 404
+0.9.3		2026-08-19T17:47:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/covia/covia/0.9.3/covia-0.9.3.jar returned status 404
+0.9.4		2026-08-24T22:07:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/covia/covia/0.9.4/covia-0.9.4.jar returned status 404
+0.9.5		2026-08-25T16:24:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/covia/covia/0.9.5/covia-0.9.5.jar returned status 404
+0.9.6		2026-08-27T16:59:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/covia/covia/0.9.6/covia-0.9.6.jar returned status 404
+0.9.7		2026-08-29T17:21:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/covia/covia/0.9.7/covia-0.9.7.jar returned status 404
