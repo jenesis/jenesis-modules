@@ -52,3 +52,11 @@
 0.84.0	metadata	2026-08-05T10:59:03Z	
 0.85.0		2026-08-07T07:59:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/dependencygraph/dependency-graph-api-model-macosarm64/0.85.0/dependency-graph-api-model-macosarm64-0.85.0.jar returned status 404
 0.85.0	metadata	2026-08-07T07:59:42Z	
+0.86.0		2026-08-12T08:22:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/dependencygraph/dependency-graph-api-model-macosarm64/0.86.0/dependency-graph-api-model-macosarm64-0.86.0.jar returned status 404
+0.86.0	metadata	2026-08-12T08:22:47Z	
+0.87.0		2026-08-13T09:53:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/dependencygraph/dependency-graph-api-model-macosarm64/0.87.0/dependency-graph-api-model-macosarm64-0.87.0.jar returned status 404
+0.87.0	metadata	2026-08-13T09:53:47Z	
+0.88.0		2026-08-18T11:20:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/dependencygraph/dependency-graph-api-model-macosarm64/0.88.0/dependency-graph-api-model-macosarm64-0.88.0.jar returned status 404
+0.88.0	metadata	2026-08-18T11:20:17Z	
+0.89.0		2026-08-26T08:15:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/dependencygraph/dependency-graph-api-model-macosarm64/0.89.0/dependency-graph-api-model-macosarm64-0.89.0.jar returned status 404
+0.89.0	metadata	2026-08-26T08:15:14Z	

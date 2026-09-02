@@ -11,3 +11,4 @@
 4.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dizitart/nitrite-java/4.4.3/nitrite-java-4.4.3.jar returned status 404
 4.5.0		2026-08-07T05:20:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dizitart/nitrite-java/4.5.0/nitrite-java-4.5.0.jar returned status 404
 5.0.0		2026-08-07T08:21:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dizitart/nitrite-java/5.0.0/nitrite-java-5.0.0.jar returned status 404
+5.1.0		2026-08-22T16:10:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dizitart/nitrite-java/5.1.0/nitrite-java-5.1.0.jar returned status 404
