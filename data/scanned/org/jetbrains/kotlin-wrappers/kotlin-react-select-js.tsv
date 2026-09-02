@@ -291,6 +291,10 @@
 2026.7.6-5.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-react-select-js/2026.7.6-5.10.2/kotlin-react-select-js-2026.7.6-5.10.2.jar returned status 404
 2026.7.7-5.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-react-select-js/2026.7.7-5.10.2/kotlin-react-select-js-2026.7.7-5.10.2.jar returned status 404
 2026.8.0-5.10.2		2026-08-05T05:06:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-react-select-js/2026.8.0-5.10.2/kotlin-react-select-js-2026.8.0-5.10.2.jar returned status 404
+2026.8.1-5.10.2		2026-08-16T18:01:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-react-select-js/2026.8.1-5.10.2/kotlin-react-select-js-2026.8.1-5.10.2.jar returned status 404
+2026.8.2-5.10.2		2026-08-18T05:59:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-react-select-js/2026.8.2-5.10.2/kotlin-react-select-js-2026.8.2-5.10.2.jar returned status 404
+2026.8.3-5.10.2		2026-08-18T13:37:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-react-select-js/2026.8.3-5.10.2/kotlin-react-select-js-2026.8.3-5.10.2.jar returned status 404
+2026.8.4-5.10.2		2026-08-24T06:50:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-react-select-js/2026.8.4-5.10.2/kotlin-react-select-js-2026.8.4-5.10.2.jar returned status 404
 5.7.0-pre.493		2023-02-08T07:15:19Z	
 5.7.0-pre.493-compat			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-react-select-js/5.7.0-pre.493-compat/kotlin-react-select-js-5.7.0-pre.493-compat.jar returned status 404
 5.7.0-pre.494		2023-02-08T18:10:58Z	

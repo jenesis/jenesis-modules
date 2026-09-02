@@ -16,3 +16,7 @@
 2.4.20-Beta1	metadata	2026-06-24T09:43:20Z	
 2.4.20-Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-iosarm64/2.4.20-Beta2/kotlin-power-assert-runtime-iosarm64-2.4.20-Beta2.jar returned status 404
 2.4.20-Beta2	metadata	2026-07-22T07:11:07Z	
+2.4.20-RC		2026-08-12T07:33:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-iosarm64/2.4.20-RC/kotlin-power-assert-runtime-iosarm64-2.4.20-RC.jar returned status 404
+2.4.20-RC	metadata	2026-08-12T07:33:42Z	
+2.4.20-RC2		2026-08-26T06:47:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-power-assert-runtime-iosarm64/2.4.20-RC2/kotlin-power-assert-runtime-iosarm64-2.4.20-RC2.jar returned status 404
+2.4.20-RC2	metadata	2026-08-26T06:46:59Z	

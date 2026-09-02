@@ -87,3 +87,4 @@
 4.2.1		2026-06-17T05:38:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jline/jline-parent/4.2.1/jline-parent-4.2.1.jar returned status 404
 4.3.0		2026-06-30T14:42:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jline/jline-parent/4.3.0/jline-parent-4.3.0.jar returned status 404
 4.3.1		2026-06-30T19:26:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jline/jline-parent/4.3.1/jline-parent-4.3.1.jar returned status 404
+4.4.0		2026-08-26T19:26:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jline/jline-parent/4.4.0/jline-parent-4.4.0.jar returned status 404
