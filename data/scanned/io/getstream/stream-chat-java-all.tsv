@@ -29,3 +29,7 @@
 1.44.0	all	2026-04-11T20:04:39Z	
 1.45.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-java-all/1.45.0/stream-chat-java-all-1.45.0.jar returned status 404
 1.45.0	all	2026-05-13T12:19:41Z	
+1.46.0		2026-08-11T08:36:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-java-all/1.46.0/stream-chat-java-all-1.46.0.jar returned status 404
+1.46.0	all	2026-08-11T08:36:22Z	
+1.46.1		2026-08-13T12:31:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-java-all/1.46.1/stream-chat-java-all-1.46.1.jar returned status 404
+1.46.1	all	2026-08-13T12:31:56Z	

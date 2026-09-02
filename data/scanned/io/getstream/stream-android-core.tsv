@@ -9,3 +9,4 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-android-core/4.0.0/stream-android-core-4.0.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-android-core/5.0.0/stream-android-core-5.0.0.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-android-core/5.0.1/stream-android-core-5.0.1.jar returned status 404
+5.0.2		2026-08-11T15:14:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-android-core/5.0.2/stream-android-core-5.0.2.jar returned status 404

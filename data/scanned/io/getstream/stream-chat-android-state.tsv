@@ -130,6 +130,8 @@
 6.41.0		2026-07-03T14:25:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-state/6.41.0/stream-chat-android-state-6.41.0.jar returned status 404
 6.41.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-state/6.41.1/stream-chat-android-state-6.41.1.jar returned status 404
 6.41.2		2026-08-10T14:32:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-state/6.41.2/stream-chat-android-state-6.41.2.jar returned status 404
+6.42.0		2026-08-24T14:04:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-state/6.42.0/stream-chat-android-state-6.42.0.jar returned status 404
+6.42.1		2026-08-26T08:28:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-state/6.42.1/stream-chat-android-state-6.42.1.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-state/6.5.0/stream-chat-android-state-6.5.0.jar returned status 404
 6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-state/6.5.1/stream-chat-android-state-6.5.1.jar returned status 404
 6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-state/6.5.2/stream-chat-android-state-6.5.2.jar returned status 404

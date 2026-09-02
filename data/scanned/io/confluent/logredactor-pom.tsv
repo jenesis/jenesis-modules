@@ -4,6 +4,10 @@
 1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/confluent/logredactor-pom/1.0.13/logredactor-pom-1.0.13.jar returned status 404
 1.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/confluent/logredactor-pom/1.0.17/logredactor-pom-1.0.17.jar returned status 404
 1.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/confluent/logredactor-pom/1.0.18/logredactor-pom-1.0.18.jar returned status 404
+1.0.19		2026-08-20T07:34:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/confluent/logredactor-pom/1.0.19/logredactor-pom-1.0.19.jar returned status 404
+1.0.20		2026-08-25T11:43:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/confluent/logredactor-pom/1.0.20/logredactor-pom-1.0.20.jar returned status 404
+1.0.21		2026-08-27T15:21:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/confluent/logredactor-pom/1.0.21/logredactor-pom-1.0.21.jar returned status 404
+1.0.22		2026-08-28T18:24:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/confluent/logredactor-pom/1.0.22/logredactor-pom-1.0.22.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/confluent/logredactor-pom/1.0.5/logredactor-pom-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/confluent/logredactor-pom/1.0.6/logredactor-pom-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/confluent/logredactor-pom/1.0.7/logredactor-pom-1.0.7.jar returned status 404

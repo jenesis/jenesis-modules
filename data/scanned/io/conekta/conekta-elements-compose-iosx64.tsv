@@ -8,3 +8,5 @@
 0.2.0-beta	metadata	2026-02-21T21:34:30Z	
 0.2.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/conekta/conekta-elements-compose-iosx64/0.2.0-beta.2/conekta-elements-compose-iosx64-0.2.0-beta.2.jar returned status 404
 0.2.0-beta.2	metadata	2026-02-22T00:08:43Z	
+1.0.0		2026-08-26T19:42:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/conekta/conekta-elements-compose-iosx64/1.0.0/conekta-elements-compose-iosx64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-08-26T19:42:21Z	

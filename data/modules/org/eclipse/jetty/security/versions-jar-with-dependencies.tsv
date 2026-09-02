@@ -6,3 +6,9 @@
 3.7.0.Alpha1	named	io.debezium	debezium-connector-cassandra-3	2026-07-30T10:47:11Z	12.1.11
 3.7.0.Alpha1	named	io.debezium	debezium-connector-cassandra-4	2026-07-30T10:47:11Z	12.1.11
 3.7.0.Alpha1	named	io.debezium	debezium-connector-cassandra-5	2026-07-30T10:47:11Z	12.1.11
+3.7.0.Alpha2	named	io.debezium	debezium-connector-cassandra-4	2026-08-13T09:22:39Z	12.1.11
+3.7.0.Alpha2	named	io.debezium	debezium-connector-cassandra-5	2026-08-13T09:22:39Z	12.1.11
+3.7.0.Alpha2	named	io.debezium	debezium-connector-dse	2026-08-13T09:22:39Z	12.1.11
+3.7.0.Beta1	named	io.debezium	debezium-connector-cassandra-4	2026-08-26T07:41:32Z	12.1.11
+3.7.0.Beta1	named	io.debezium	debezium-connector-cassandra-5	2026-08-26T07:41:32Z	12.1.11
+3.7.0.Beta1	named	io.debezium	debezium-connector-dse	2026-08-26T07:41:32Z	12.1.11

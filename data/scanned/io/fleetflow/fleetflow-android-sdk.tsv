@@ -2,3 +2,6 @@
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fleetflow/fleetflow-android-sdk/1.0.2/fleetflow-android-sdk-1.0.2.jar returned status 404
 1.1.0		2026-07-01T14:32:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fleetflow/fleetflow-android-sdk/1.1.0/fleetflow-android-sdk-1.1.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fleetflow/fleetflow-android-sdk/1.2.0/fleetflow-android-sdk-1.2.0.jar returned status 404
+1.2.1		2026-08-17T20:36:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fleetflow/fleetflow-android-sdk/1.2.1/fleetflow-android-sdk-1.2.1.jar returned status 404
+1.2.2		2026-08-17T20:55:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fleetflow/fleetflow-android-sdk/1.2.2/fleetflow-android-sdk-1.2.2.jar returned status 404
+1.2.3		2026-08-23T14:12:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fleetflow/fleetflow-android-sdk/1.2.3/fleetflow-android-sdk-1.2.3.jar returned status 404

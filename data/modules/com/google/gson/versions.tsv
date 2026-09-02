@@ -5076,6 +5076,8 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 10.32.0.713	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-08-10T12:31:12Z	2.14.0
 10.32.0.713	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-08-10T12:31:12Z	2.14.0
 0.17.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-08-10T23:54:51Z	2.11.0
+3.3.3	named	io.delta	delta-hudi_2.12	2026-08-12T04:43:11Z	2.9.0
+3.3.3	named	io.delta	delta-hudi_2.13	2026-08-12T04:43:11Z	2.9.0
 3.39.0.CR1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-08-12T10:44:59Z	2.10
 3.38.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-08-12T17:32:58Z	2.10
 8.39.0.46279	named	org.sonarsource.java	java-custom-rules-example	2026-08-13T13:49:40Z	2.14.0

@@ -24,3 +24,4 @@
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/ima/1.0.4/ima-1.0.4.jar returned status 404
 1.0.5		2026-05-28T22:10:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/ima/1.0.5/ima-1.0.5.jar returned status 404
 1.0.6		2026-06-03T22:27:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/ima/1.0.6/ima-1.0.6.jar returned status 404
+1.0.7		2026-08-20T15:31:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/datazoom/sdk/ima/1.0.7/ima-1.0.7.jar returned status 404

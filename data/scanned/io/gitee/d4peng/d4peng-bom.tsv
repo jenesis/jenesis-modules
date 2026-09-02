@@ -18,3 +18,13 @@
 1.4.0		2026-08-07T07:35:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.4.0/d4peng-bom-1.4.0.jar returned status 404
 1.5.0		2026-08-10T03:14:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.5.0/d4peng-bom-1.5.0.jar returned status 404
 1.5.1		2026-08-10T07:01:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.5.1/d4peng-bom-1.5.1.jar returned status 404
+1.5.2		2026-08-18T08:50:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.5.2/d4peng-bom-1.5.2.jar returned status 404
+1.5.3		2026-08-18T09:14:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.5.3/d4peng-bom-1.5.3.jar returned status 404
+1.5.4		2026-08-18T10:11:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.5.4/d4peng-bom-1.5.4.jar returned status 404
+1.5.5		2026-08-19T02:30:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.5.5/d4peng-bom-1.5.5.jar returned status 404
+1.5.6		2026-08-19T03:10:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.5.6/d4peng-bom-1.5.6.jar returned status 404
+1.5.7		2026-08-19T03:17:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.5.7/d4peng-bom-1.5.7.jar returned status 404
+1.5.8		2026-08-19T06:07:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.5.8/d4peng-bom-1.5.8.jar returned status 404
+1.5.9		2026-08-20T03:27:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.5.9/d4peng-bom-1.5.9.jar returned status 404
+1.6.0		2026-08-20T08:36:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.6.0/d4peng-bom-1.6.0.jar returned status 404
+1.6.2		2026-08-27T09:08:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/d4peng/d4peng-bom/1.6.2/d4peng-bom-1.6.2.jar returned status 404
