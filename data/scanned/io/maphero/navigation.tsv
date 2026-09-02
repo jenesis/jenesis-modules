@@ -10,3 +10,5 @@
 1.0.8		2026-06-22T08:09:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maphero/navigation/1.0.8/navigation-1.0.8.jar returned status 404
 1.0.9		2026-07-05T20:08:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maphero/navigation/1.0.9/navigation-1.0.9.jar returned status 404
 1.1.0		2026-08-09T22:44:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maphero/navigation/1.1.0/navigation-1.1.0.jar returned status 404
+1.2.0		2026-08-19T07:16:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maphero/navigation/1.2.0/navigation-1.2.0.jar returned status 404
+1.2.2		2026-08-19T11:43:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maphero/navigation/1.2.2/navigation-1.2.2.jar returned status 404

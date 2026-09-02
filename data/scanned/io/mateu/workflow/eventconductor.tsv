@@ -28,6 +28,27 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/1.0.0/eventconductor-1.0.0.jar returned status 404
 1.0.1		2026-08-10T09:44:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/1.0.1/eventconductor-1.0.1.jar returned status 404
 1.1.0		2026-08-10T14:10:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/1.1.0/eventconductor-1.1.0.jar returned status 404
+1.2.0		2026-08-13T20:47:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/1.2.0/eventconductor-1.2.0.jar returned status 404
+1.3.0		2026-08-13T22:49:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/1.3.0/eventconductor-1.3.0.jar returned status 404
+2.0.0		2026-08-18T06:55:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.0.0/eventconductor-2.0.0.jar returned status 404
+2.1.0		2026-08-18T09:18:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.1.0/eventconductor-2.1.0.jar returned status 404
+2.1.1		2026-08-18T09:51:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.1.1/eventconductor-2.1.1.jar returned status 404
+2.10.0		2026-08-28T13:07:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.10.0/eventconductor-2.10.0.jar returned status 404
+2.10.1		2026-08-29T07:29:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.10.1/eventconductor-2.10.1.jar returned status 404
+2.10.2		2026-08-29T15:15:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.10.2/eventconductor-2.10.2.jar returned status 404
+2.2.0		2026-08-19T05:51:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.2.0/eventconductor-2.2.0.jar returned status 404
+2.2.1		2026-08-19T08:52:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.2.1/eventconductor-2.2.1.jar returned status 404
+2.2.2		2026-08-19T14:12:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.2.2/eventconductor-2.2.2.jar returned status 404
+2.3.0		2026-08-20T04:26:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.3.0/eventconductor-2.3.0.jar returned status 404
+2.4.0		2026-08-20T05:38:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.4.0/eventconductor-2.4.0.jar returned status 404
+2.5.0		2026-08-20T07:20:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.5.0/eventconductor-2.5.0.jar returned status 404
+2.5.1		2026-08-20T08:05:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.5.1/eventconductor-2.5.1.jar returned status 404
+2.6.0		2026-08-20T13:05:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.6.0/eventconductor-2.6.0.jar returned status 404
+2.6.1		2026-08-20T14:50:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.6.1/eventconductor-2.6.1.jar returned status 404
+2.6.2		2026-08-21T05:42:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.6.2/eventconductor-2.6.2.jar returned status 404
+2.7.0		2026-08-21T06:19:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.7.0/eventconductor-2.7.0.jar returned status 404
+2.8.0		2026-08-21T08:27:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.8.0/eventconductor-2.8.0.jar returned status 404
+2.9.0		2026-08-21T15:27:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/2.9.0/eventconductor-2.9.0.jar returned status 404
 plugins-v0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/plugins-v0.1.0/eventconductor-plugins-v0.1.0.jar returned status 404
 plugins-v0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/plugins-v0.1.1/eventconductor-plugins-v0.1.1.jar returned status 404
 plugins-v0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/eventconductor/plugins-v0.1.2/eventconductor-plugins-v0.1.2.jar returned status 404

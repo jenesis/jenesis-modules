@@ -86,6 +86,8 @@
 2.1.4	metadata	2026-05-19T15:18:35Z	
 2.1.5		2026-06-09T07:41:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-iosx64/2.1.5/kotzilla-sdk-iosx64-2.1.5.jar returned status 404
 2.1.5	metadata	2026-06-09T07:41:31Z	
+2.1.6		2026-08-24T14:12:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-iosx64/2.1.6/kotzilla-sdk-iosx64-2.1.6.jar returned status 404
+2.1.6	metadata	2026-08-24T14:12:45Z	
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-iosx64/2.2.0/kotzilla-sdk-iosx64-2.2.0.jar returned status 404
 2.2.0	metadata	2026-05-13T13:00:27Z	
 2.2.1		2026-06-09T07:42:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-iosx64/2.2.1/kotzilla-sdk-iosx64-2.2.1.jar returned status 404
@@ -106,3 +108,7 @@
 2.3.2-RC1	metadata	2026-07-29T08:15:06Z	
 2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-iosx64/2.3.3/kotzilla-sdk-iosx64-2.3.3.jar returned status 404
 2.3.3	metadata	2026-08-03T13:46:15Z	
+2.3.4		2026-08-20T13:01:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-iosx64/2.3.4/kotzilla-sdk-iosx64-2.3.4.jar returned status 404
+2.3.4	metadata	2026-08-20T13:01:26Z	
+2.3.5		2026-08-24T14:34:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotzilla/kotzilla-sdk-iosx64/2.3.5/kotzilla-sdk-iosx64-2.3.5.jar returned status 404
+2.3.5	metadata	2026-08-24T14:34:30Z	
