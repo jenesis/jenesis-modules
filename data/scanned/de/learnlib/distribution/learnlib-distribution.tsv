@@ -39,3 +39,6 @@
 0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/learnlib/distribution/learnlib-distribution/0.18.0/learnlib-distribution-0.18.0.jar returned status 404
 0.18.0	bundle	2025-02-06T15:07:49Z	
 0.18.0	dependencies-bundle	2025-02-06T15:07:49Z	
+19.0.0		2026-08-12T17:28:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/learnlib/distribution/learnlib-distribution/19.0.0/learnlib-distribution-19.0.0.jar returned status 404
+19.0.0	bundle	2026-08-12T17:28:03Z	
+19.0.0	dependencies-bundle	2026-08-12T17:28:02Z	

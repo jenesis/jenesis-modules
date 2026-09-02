@@ -1,0 +1,2 @@
+10.0.0		2026-08-20T13:21:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/flapdoodle/wicket10/de.flapdoodle.wicket/10.0.0/de.flapdoodle.wicket-10.0.0.jar returned status 404
+10.0.1		2026-08-25T16:54:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/flapdoodle/wicket10/de.flapdoodle.wicket/10.0.1/de.flapdoodle.wicket-10.0.1.jar returned status 404

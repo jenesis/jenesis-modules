@@ -2,3 +2,4 @@
 1.7.1		2026-06-30T04:53:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/xmpcore-js/1.7.1/xmpcore-js-1.7.1.jar returned status 404
 1.7.2		2026-08-10T08:40:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/xmpcore-js/1.7.2/xmpcore-js-1.7.2.jar returned status 404
 1.7.3		2026-08-10T23:13:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/xmpcore-js/1.7.3/xmpcore-js-1.7.3.jar returned status 404
+1.7.4		2026-08-24T22:03:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/xmpcore-js/1.7.4/xmpcore-js-1.7.4.jar returned status 404

@@ -174,3 +174,5 @@
 1.0.1-K2.3.20	metadata	2026-06-17T20:41:42Z	
 1.0.1-K2.4.0		2026-06-17T23:16:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-framework-core-watchosarm32/1.0.1-K2.4.0/testBalloon-framework-core-watchosarm32-1.0.1-K2.4.0.jar returned status 404
 1.0.1-K2.4.0	metadata	2026-06-17T23:16:37Z	
+1.1.0-RC		2026-08-12T16:33:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/infix/testBalloon/testBalloon-framework-core-watchosarm32/1.1.0-RC/testBalloon-framework-core-watchosarm32-1.1.0-RC.jar returned status 404
+1.1.0-RC	metadata	2026-08-12T16:33:23Z	

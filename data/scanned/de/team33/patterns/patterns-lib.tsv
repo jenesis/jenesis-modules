@@ -44,3 +44,8 @@
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-lib/2.7.0/patterns-lib-2.7.0.jar returned status 404
 2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-lib/2.7.1/patterns-lib-2.7.1.jar returned status 404
 2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-lib/2.7.2/patterns-lib-2.7.2.jar returned status 404
+2.8.0		2026-08-11T12:56:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-lib/2.8.0/patterns-lib-2.8.0.jar returned status 404
+2.8.1		2026-08-12T10:35:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-lib/2.8.1/patterns-lib-2.8.1.jar returned status 404
+2.8.2		2026-08-16T12:37:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-lib/2.8.2/patterns-lib-2.8.2.jar returned status 404
+2.8.3		2026-08-23T10:24:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-lib/2.8.3/patterns-lib-2.8.3.jar returned status 404
+2.9.0		2026-08-26T10:07:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/team33/patterns/patterns-lib/2.9.0/patterns-lib-2.9.0.jar returned status 404
