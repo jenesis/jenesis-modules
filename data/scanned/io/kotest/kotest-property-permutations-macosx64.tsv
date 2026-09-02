@@ -72,3 +72,5 @@
 6.2.2	metadata	2026-07-08T01:56:34Z	
 6.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-property-permutations-macosx64/6.2.3/kotest-property-permutations-macosx64-6.2.3.jar returned status 404
 6.2.3	metadata	2026-07-20T22:43:10Z	
+6.2.4		2026-08-11T22:03:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-property-permutations-macosx64/6.2.4/kotest-property-permutations-macosx64-6.2.4.jar returned status 404
+6.2.4	metadata	2026-08-11T22:03:00Z	
