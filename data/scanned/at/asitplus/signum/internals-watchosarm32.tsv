@@ -28,3 +28,5 @@
 3.23.0	metadata	2026-05-19T08:18:02Z	
 3.24.0		2026-06-23T19:28:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/internals-watchosarm32/3.24.0/internals-watchosarm32-3.24.0.jar returned status 404
 3.24.0	metadata	2026-06-23T19:28:01Z	
+3.26.0		2026-08-17T14:07:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/signum/internals-watchosarm32/3.26.0/internals-watchosarm32-3.26.0.jar returned status 404
+3.26.0	metadata	2026-08-17T14:07:13Z	

@@ -26,3 +26,5 @@
 9.7.1	docs	2026-06-03T00:50:48Z	
 9.8.0		2026-06-20T08:42:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/au/csiro/pathling/python/9.8.0/python-9.8.0.jar returned status 404
 9.8.0	docs	2026-06-20T08:42:28Z	
+9.9.0		2026-09-01T06:28:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/au/csiro/pathling/python/9.9.0/python-9.9.0.jar returned status 404
+9.9.0	docs	2026-09-01T06:28:53Z	

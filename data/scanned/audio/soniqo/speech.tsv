@@ -1,0 +1,4 @@
+0.0.16		2026-08-13T23:40:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/audio/soniqo/speech/0.0.16/speech-0.0.16.jar returned status 404
+0.0.17		2026-08-14T11:07:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/audio/soniqo/speech/0.0.17/speech-0.0.17.jar returned status 404
+0.0.18		2026-08-30T10:43:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/audio/soniqo/speech/0.0.18/speech-0.0.18.jar returned status 404
+0.0.19		2026-08-30T11:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/audio/soniqo/speech/0.0.19/speech-0.0.19.jar returned status 404
