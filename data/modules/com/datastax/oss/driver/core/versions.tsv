@@ -126,3 +126,5 @@
 4.19.3	automatic	org.apache.cassandra	java-driver-core-shaded	2026-05-26T23:22:19Z	
 4.19.2.0	automatic	com.scylladb	java-driver-core	2026-06-25T17:34:31Z	
 4.19.2.0	automatic	com.scylladb	java-driver-core-shaded	2026-06-25T17:34:31Z	
+4.19.2.1	automatic	com.scylladb	java-driver-core	2026-08-17T18:27:16Z	
+4.19.2.1	automatic	com.scylladb	java-driver-core-shaded	2026-08-17T18:27:16Z	

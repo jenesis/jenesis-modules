@@ -1,1 +1,4 @@
 3.2.7		2026-08-05T09:19:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sobot/call/sobotcall_pre/3.2.7/sobotcall_pre-3.2.7.jar returned status 404
+3.2.9		2026-08-27T07:34:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sobot/call/sobotcall_pre/3.2.9/sobotcall_pre-3.2.9.jar returned status 404
+3.2.9.0		2026-08-27T08:13:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sobot/call/sobotcall_pre/3.2.9.0/sobotcall_pre-3.2.9.0.jar returned status 404
+3.2.9.1		2026-08-28T08:27:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sobot/call/sobotcall_pre/3.2.9.1/sobotcall_pre-3.2.9.1.jar returned status 404

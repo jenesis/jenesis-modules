@@ -6518,4 +6518,5 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 4.0.4	named	software.amazon.neptune	neptune-endpoints-info-lambda	2026-08-24T21:22:58Z	2.18.9
 0.1.18	named	org.modeljars	modeljars-cli	2026-08-25T19:46:35Z	2.22
 5.6	named	org.jboss.pnc.maven-manipulator	pom-manipulation-cli	2026-08-26T15:14:40Z	2.22
+0.14.0.1	named	com.scylladb.oss.simulacron	simulacron-standalone	2026-08-27T19:06:47Z	2.13.4
 0.1.19	named	org.modeljars	modeljars-cli	2026-08-28T13:07:17Z	2.22

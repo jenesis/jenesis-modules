@@ -48,3 +48,11 @@
 0.35.1	metadata	2026-07-16T03:35:35Z	
 0.36.0		2026-08-05T05:43:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/slack/circuit/circuit-runtime-watchosarm32/0.36.0/circuit-runtime-watchosarm32-0.36.0.jar returned status 404
 0.36.0	metadata	2026-08-05T05:43:39Z	
+0.36.1		2026-08-11T21:35:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/slack/circuit/circuit-runtime-watchosarm32/0.36.1/circuit-runtime-watchosarm32-0.36.1.jar returned status 404
+0.36.1	metadata	2026-08-11T21:35:40Z	
+0.37.0		2026-08-22T21:21:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/slack/circuit/circuit-runtime-watchosarm32/0.37.0/circuit-runtime-watchosarm32-0.37.0.jar returned status 404
+0.37.0	metadata	2026-08-22T21:21:11Z	
+0.37.1		2026-08-22T22:24:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/slack/circuit/circuit-runtime-watchosarm32/0.37.1/circuit-runtime-watchosarm32-0.37.1.jar returned status 404
+0.37.1	metadata	2026-08-22T22:24:13Z	
+0.38.0		2026-08-26T17:12:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/slack/circuit/circuit-runtime-watchosarm32/0.38.0/circuit-runtime-watchosarm32-0.38.0.jar returned status 404
+0.38.0	metadata	2026-08-26T17:12:52Z	
