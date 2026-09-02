@@ -50,3 +50,11 @@
 2.4.1	plain	2026-07-01T12:34:02Z	
 2.4.2		2026-07-02T11:22:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/xential/2.4.2/xential-2.4.2.jar returned status 404
 2.4.2	plain	2026-07-02T11:22:00Z	
+2.5.0		2026-08-17T10:24:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/xential/2.5.0/xential-2.5.0.jar returned status 404
+2.5.0	plain	2026-08-17T10:24:56Z	
+2.5.1		2026-08-17T13:21:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/xential/2.5.1/xential-2.5.1.jar returned status 404
+2.5.1	plain	2026-08-17T13:21:17Z	
+2.5.2		2026-08-17T16:23:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/xential/2.5.2/xential-2.5.2.jar returned status 404
+2.5.2	plain	2026-08-17T16:23:30Z	
+2.5.3		2026-08-17T16:38:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/xential/2.5.3/xential-2.5.3.jar returned status 404
+2.5.3	plain	2026-08-17T16:38:33Z	

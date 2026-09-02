@@ -8,5 +8,7 @@
 0.13	plain	2025-10-14T14:03:18Z	
 0.14		2026-07-20T13:17:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/haal-centraal-authentication/0.14/haal-centraal-authentication-0.14.jar returned status 404
 0.14	plain	2026-07-20T13:17:45Z	
+0.15.0		2026-08-18T11:40:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/haal-centraal-authentication/0.15.0/haal-centraal-authentication-0.15.0.jar returned status 404
+0.15.0	plain	2026-08-18T11:40:59Z	
 0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/haal-centraal-authentication/0.9/haal-centraal-authentication-0.9.jar returned status 404
 0.9	plain	2025-07-02T09:56:11Z	

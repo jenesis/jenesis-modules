@@ -1,4 +1,6 @@
 0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/token-authentication/0.9/token-authentication-0.9.jar returned status 404
 0.9	plain	2026-03-18T21:02:22Z	
+1.0.1		2026-08-18T11:39:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/token-authentication/1.0.1/token-authentication-1.0.1.jar returned status 404
+1.0.1	plain	2026-08-18T11:39:34Z	
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/token-authentication/unspecified/token-authentication-unspecified.jar returned status 404
 unspecified	plain	2025-11-09T21:30:16Z	

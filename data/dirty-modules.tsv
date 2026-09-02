@@ -7456,3 +7456,4 @@ com.datastax.oss.driver.mapper.runtime
 com.datastax.oss.driver.mapper.processor
 com.datastax.oss.driver.core
 com.scanii
+com.kohlschutter.junixsocket.core
