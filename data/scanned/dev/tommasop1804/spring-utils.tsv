@@ -264,3 +264,5 @@
 4.1.8	plain	2026-06-08T10:38:52Z	
 4.1.9		2026-06-08T14:35:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tommasop1804/spring-utils/4.1.9/spring-utils-4.1.9.jar returned status 404
 4.1.9	plain	2026-06-08T14:35:50Z	
+4.3.3		2026-08-23T15:33:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tommasop1804/spring-utils/4.3.3/spring-utils-4.3.3.jar returned status 404
+4.3.3	plain	2026-08-23T15:33:10Z	

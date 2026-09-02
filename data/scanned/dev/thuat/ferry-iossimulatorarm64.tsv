@@ -1,2 +1,4 @@
 0.2.0		2026-08-10T06:08:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/thuat/ferry-iossimulatorarm64/0.2.0/ferry-iossimulatorarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2026-08-10T06:08:51Z	
+0.3.0		2026-08-11T10:15:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/thuat/ferry-iossimulatorarm64/0.3.0/ferry-iossimulatorarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-08-11T10:15:35Z	

@@ -1,0 +1,3 @@
+0.1.0		2026-08-26T19:04:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/wasmo/brevity/brevity-wasi-p2-wasm-wasi/0.1.0/brevity-wasi-p2-wasm-wasi-0.1.0.jar returned status 404
+0.1.1		2026-08-27T01:18:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/wasmo/brevity/brevity-wasi-p2-wasm-wasi/0.1.1/brevity-wasi-p2-wasm-wasi-0.1.1.jar returned status 404
+0.2.0		2026-08-28T18:38:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/wasmo/brevity/brevity-wasi-p2-wasm-wasi/0.2.0/brevity-wasi-p2-wasm-wasi-0.2.0.jar returned status 404

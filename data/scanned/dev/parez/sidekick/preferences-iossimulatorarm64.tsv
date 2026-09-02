@@ -6,3 +6,5 @@
 0.2.6	metadata	2026-05-26T13:41:59Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/parez/sidekick/preferences-iossimulatorarm64/0.3.0/preferences-iossimulatorarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2026-07-21T13:33:34Z	
+0.3.1		2026-08-28T11:11:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/parez/sidekick/preferences-iossimulatorarm64/0.3.1/preferences-iossimulatorarm64-0.3.1.jar returned status 404
+0.3.1	metadata	2026-08-28T11:10:57Z	

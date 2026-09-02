@@ -1,5 +1,6 @@
 0.10.0		2026-06-04T12:09:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/firebase/firebase-auth-android/0.10.0/firebase-auth-android-0.10.0.jar returned status 404
 0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/firebase/firebase-auth-android/0.11.0/firebase-auth-android-0.11.0.jar returned status 404
+0.11.1		2026-08-12T22:24:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/firebase/firebase-auth-android/0.11.1/firebase-auth-android-0.11.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/firebase/firebase-auth-android/0.3.0/firebase-auth-android-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/firebase/firebase-auth-android/0.3.1/firebase-auth-android-0.3.1.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/firebase/firebase-auth-android/0.5.0/firebase-auth-android-0.5.0.jar returned status 404

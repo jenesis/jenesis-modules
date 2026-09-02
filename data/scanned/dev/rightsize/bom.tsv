@@ -9,3 +9,7 @@
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rightsize/bom/0.6.1/bom-0.6.1.jar returned status 404
 0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rightsize/bom/0.6.2/bom-0.6.2.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rightsize/bom/0.7.0/bom-0.7.0.jar returned status 404
+0.7.1		2026-08-16T10:04:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rightsize/bom/0.7.1/bom-0.7.1.jar returned status 404
+0.7.2		2026-08-21T08:03:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rightsize/bom/0.7.2/bom-0.7.2.jar returned status 404
+0.7.4		2026-08-22T17:36:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rightsize/bom/0.7.4/bom-0.7.4.jar returned status 404
+0.7.5		2026-08-26T14:42:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rightsize/bom/0.7.5/bom-0.7.5.jar returned status 404
