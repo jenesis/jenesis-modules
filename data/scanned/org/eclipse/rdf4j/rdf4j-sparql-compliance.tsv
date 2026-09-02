@@ -41,3 +41,4 @@
 6.0.0-M1		2026-04-24T11:33:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-sparql-compliance/6.0.0-M1/rdf4j-sparql-compliance-6.0.0-M1.jar returned status 404
 6.0.0-M2		2026-06-01T14:22:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-sparql-compliance/6.0.0-M2/rdf4j-sparql-compliance-6.0.0-M2.jar returned status 404
 6.0.0-M3		2026-06-22T15:37:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-sparql-compliance/6.0.0-M3/rdf4j-sparql-compliance-6.0.0-M3.jar returned status 404
+6.0.1		2026-08-20T18:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/rdf4j/rdf4j-sparql-compliance/6.0.1/rdf4j-sparql-compliance-6.0.1.jar returned status 404

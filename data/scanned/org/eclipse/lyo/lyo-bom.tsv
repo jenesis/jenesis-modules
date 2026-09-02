@@ -9,3 +9,4 @@
 7.0.0.Alpha9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/lyo-bom/7.0.0.Alpha9/lyo-bom-7.0.0.Alpha9.jar returned status 404
 7.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/lyo-bom/7.0.0.Beta1/lyo-bom-7.0.0.Beta1.jar returned status 404
 7.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/lyo-bom/7.0.0.Beta2/lyo-bom-7.0.0.Beta2.jar returned status 404
+7.0.0.Beta3		2026-08-24T13:18:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/lyo-bom/7.0.0.Beta3/lyo-bom-7.0.0.Beta3.jar returned status 404

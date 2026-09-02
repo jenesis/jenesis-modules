@@ -140,6 +140,8 @@
 26.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/scout/rt/org.eclipse.scout.rt/26.1.7/org.eclipse.scout.rt-26.1.7.jar returned status 404
 26.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/scout/rt/org.eclipse.scout.rt/26.1.9/org.eclipse.scout.rt-26.1.9.jar returned status 404
 26.2.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/scout/rt/org.eclipse.scout.rt/26.2.0-beta.3/org.eclipse.scout.rt-26.2.0-beta.3.jar returned status 404
+26.2.0-beta.7		2026-08-21T07:35:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/scout/rt/org.eclipse.scout.rt/26.2.0-beta.7/org.eclipse.scout.rt-26.2.0-beta.7.jar returned status 404
+26.2.1		2026-08-27T07:58:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/scout/rt/org.eclipse.scout.rt/26.2.1/org.eclipse.scout.rt-26.2.1.jar returned status 404
 5.2.0.M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/scout/rt/org.eclipse.scout.rt/5.2.0.M3/org.eclipse.scout.rt-5.2.0.M3.jar returned status 404
 5.2.0.M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/scout/rt/org.eclipse.scout.rt/5.2.0.M4/org.eclipse.scout.rt-5.2.0.M4.jar returned status 404
 5.2.0.M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/scout/rt/org.eclipse.scout.rt/5.2.0.M5/org.eclipse.scout.rt-5.2.0.M5.jar returned status 404

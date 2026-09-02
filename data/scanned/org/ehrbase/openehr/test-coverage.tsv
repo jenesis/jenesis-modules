@@ -52,6 +52,8 @@
 2.32.0		2026-06-09T12:39:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/test-coverage/2.32.0/test-coverage-2.32.0.jar returned status 404
 2.33.0		2026-06-16T15:53:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/test-coverage/2.33.0/test-coverage-2.33.0.jar returned status 404
 2.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/test-coverage/2.34.0/test-coverage-2.34.0.jar returned status 404
+2.35.0		2026-08-17T13:41:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/test-coverage/2.35.0/test-coverage-2.35.0.jar returned status 404
+2.35.1		2026-08-20T13:32:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/test-coverage/2.35.1/test-coverage-2.35.1.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/test-coverage/2.4.0/test-coverage-2.4.0.jar returned status 404
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/test-coverage/2.5.0/test-coverage-2.5.0.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ehrbase/openehr/test-coverage/2.6.0/test-coverage-2.6.0.jar returned status 404

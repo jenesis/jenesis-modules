@@ -17,6 +17,7 @@
 6.0.0.CR			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/6.0.0.CR/clients-parent-6.0.0.CR.jar returned status 404
 6.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/6.0.0.Final/clients-parent-6.0.0.Final.jar returned status 404
 6.0.1.Alpha1		2026-08-09T14:47:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/6.0.1.Alpha1/clients-parent-6.0.1.Alpha1.jar returned status 404
+6.0.1.Final		2026-08-24T10:44:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/6.0.1.Final/clients-parent-6.0.1.Final.jar returned status 404
 7.0.0-Alpha.10		2026-07-04T20:44:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/7.0.0-Alpha.10/clients-parent-7.0.0-Alpha.10.jar returned status 404
 7.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/7.0.0.Alpha1/clients-parent-7.0.0.Alpha1.jar returned status 404
 7.0.0.Alpha11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/7.0.0.Alpha11/clients-parent-7.0.0.Alpha11.jar returned status 404
@@ -31,3 +32,4 @@
 7.0.0.Alpha9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/7.0.0.Alpha9/clients-parent-7.0.0.Alpha9.jar returned status 404
 7.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/7.0.0.Beta1/clients-parent-7.0.0.Beta1.jar returned status 404
 7.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/7.0.0.Beta2/clients-parent-7.0.0.Beta2.jar returned status 404
+7.0.0.Beta3		2026-08-24T13:18:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/lyo/clients/clients-parent/7.0.0.Beta3/clients-parent-7.0.0.Beta3.jar returned status 404
