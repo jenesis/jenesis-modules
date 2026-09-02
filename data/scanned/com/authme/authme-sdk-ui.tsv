@@ -266,6 +266,9 @@
 2.8.1		2026-06-09T15:42:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/authme-sdk-ui/2.8.1/authme-sdk-ui-2.8.1.jar returned status 404
 2.8.2		2026-06-10T13:54:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/authme-sdk-ui/2.8.2/authme-sdk-ui-2.8.2.jar returned status 404
 2.8.3		2026-06-22T07:24:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/authme-sdk-ui/2.8.3/authme-sdk-ui-2.8.3.jar returned status 404
+2.8.4		2026-08-19T07:32:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/authme-sdk-ui/2.8.4/authme-sdk-ui-2.8.4.jar returned status 404
+2.8.5		2026-08-19T09:58:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/authme-sdk-ui/2.8.5/authme-sdk-ui-2.8.5.jar returned status 404
+2.8.6		2026-08-20T02:19:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/authme-sdk-ui/2.8.6/authme-sdk-ui-2.8.6.jar returned status 404
 26.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/authme-sdk-ui/26.0.0/authme-sdk-ui-26.0.0.jar returned status 404
 26.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/authme-sdk-ui/26.0.1/authme-sdk-ui-26.0.1.jar returned status 404
 26.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/authme-sdk-ui/26.0.2/authme-sdk-ui-26.0.2.jar returned status 404

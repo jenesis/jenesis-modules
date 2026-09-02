@@ -305,3 +305,15 @@
 5.0.1	automatic	com.apollographql.apollo	apollo-testing-support-watchossimulatorarm64	2026-06-25T14:59:55Z	
 5.0.1	automatic	com.apollographql.apollo	apollo-testing-support-macosarm64	2026-06-25T14:59:59Z	
 5.0.1	automatic	com.apollographql.apollo	apollo-testing-support-watchosdevicearm64	2026-06-25T14:59:59Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-iossimulatorarm64	2026-08-19T18:45:33Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-watchossimulatorarm64	2026-08-19T18:45:35Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-iosx64	2026-08-19T18:45:36Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-watchosarm64	2026-08-19T18:45:36Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-macosarm64	2026-08-19T18:45:37Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-tvosx64	2026-08-19T18:45:41Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-tvosarm64	2026-08-19T18:45:42Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-watchosarm32	2026-08-19T18:45:43Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-watchosdevicearm64	2026-08-19T18:45:43Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-iosarm64	2026-08-19T18:45:44Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-macosx64	2026-08-19T18:45:44Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-testing-support-tvossimulatorarm64	2026-08-19T18:45:45Z	

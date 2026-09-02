@@ -305,3 +305,15 @@
 5.0.1	automatic	com.apollographql.apollo	apollo-engine-tests-watchosdevicearm64	2026-06-25T14:59:56Z	
 5.0.1	automatic	com.apollographql.apollo	apollo-engine-tests-iossimulatorarm64	2026-06-25T14:59:57Z	
 5.0.1	automatic	com.apollographql.apollo	apollo-engine-tests-watchosarm32	2026-06-25T15:00:00Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-iossimulatorarm64	2026-08-19T18:45:35Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-iosx64	2026-08-19T18:45:35Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-tvossimulatorarm64	2026-08-19T18:45:35Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-tvosx64	2026-08-19T18:45:35Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-macosarm64	2026-08-19T18:45:36Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-macosx64	2026-08-19T18:45:37Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-tvosarm64	2026-08-19T18:45:37Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-watchosarm64	2026-08-19T18:45:38Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-watchossimulatorarm64	2026-08-19T18:45:41Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-watchosdevicearm64	2026-08-19T18:45:43Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-iosarm64	2026-08-19T18:45:44Z	
+5.1.0	automatic	com.apollographql.apollo	apollo-engine-tests-watchosarm32	2026-08-19T18:45:45Z	

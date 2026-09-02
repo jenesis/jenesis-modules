@@ -53,6 +53,7 @@
 9.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/algo/9.0.23/algo-9.0.23.jar returned status 404
 9.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/algo/9.0.24/algo-9.0.24.jar returned status 404
 9.0.25		2026-06-02T11:03:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/algo/9.0.25/algo-9.0.25.jar returned status 404
+9.0.26		2026-08-27T09:24:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/algo/9.0.26/algo-9.0.26.jar returned status 404
 9.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/algo/9.0.6/algo-9.0.6.jar returned status 404
 9.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/algo/9.0.8/algo-9.0.8.jar returned status 404
 9.0.8-rc.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/authme/algo/9.0.8-rc.11/algo-9.0.8-rc.11.jar returned status 404
