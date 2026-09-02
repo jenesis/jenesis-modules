@@ -95,6 +95,14 @@
 4.138.0		2026-08-03T17:33:44Z	
 4.138.1		2026-08-04T14:00:56Z	
 4.138.2		2026-08-05T11:37:26Z	
+4.138.3		2026-08-12T17:49:01Z	
+4.138.4		2026-08-14T17:30:45Z	
+4.138.5		2026-08-21T13:46:17Z	
+4.139.2		2026-08-11T15:22:48Z	
+4.140.0		2026-08-17T14:08:31Z	
+4.140.1		2026-08-20T08:53:09Z	
+4.140.2		2026-08-24T19:59:12Z	
+4.141.0		2026-08-20T20:51:05Z	
 4.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xt-relationalStore-test/4.37.0/legend-engine-xt-relationalStore-test-4.37.0.jar returned status 404
 4.37.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xt-relationalStore-test/4.37.1/legend-engine-xt-relationalStore-test-4.37.1.jar returned status 404
 4.37.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xt-relationalStore-test/4.37.2/legend-engine-xt-relationalStore-test-4.37.2.jar returned status 404
