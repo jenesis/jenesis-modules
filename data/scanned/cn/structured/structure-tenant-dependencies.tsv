@@ -1,0 +1,2 @@
+2.0.0		2026-08-14T01:57:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-tenant-dependencies/2.0.0/structure-tenant-dependencies-2.0.0.jar returned status 404
+2.0.1		2026-08-21T15:16:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/structured/structure-tenant-dependencies/2.0.1/structure-tenant-dependencies-2.0.1.jar returned status 404

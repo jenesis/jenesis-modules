@@ -80,5 +80,7 @@
 3.4.3		2026-06-17T08:08:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/thinkingdata/android/ThinkingAnalyticsSDK/3.4.3/ThinkingAnalyticsSDK-3.4.3.jar returned status 404
 3.4.4		2026-07-13T06:34:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/thinkingdata/android/ThinkingAnalyticsSDK/3.4.4/ThinkingAnalyticsSDK-3.4.4.jar returned status 404
 3.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/thinkingdata/android/ThinkingAnalyticsSDK/3.4.5/ThinkingAnalyticsSDK-3.4.5.jar returned status 404
+3.4.6		2026-08-13T10:27:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/thinkingdata/android/ThinkingAnalyticsSDK/3.4.6/ThinkingAnalyticsSDK-3.4.6.jar returned status 404
+3.5.0		2026-08-19T06:57:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/thinkingdata/android/ThinkingAnalyticsSDK/3.5.0/ThinkingAnalyticsSDK-3.5.0.jar returned status 404
 ks_2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/thinkingdata/android/ThinkingAnalyticsSDK/ks_2.8.1/ThinkingAnalyticsSDK-ks_2.8.1.jar returned status 404
 ks_2.8.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/thinkingdata/android/ThinkingAnalyticsSDK/ks_2.8.1.7/ThinkingAnalyticsSDK-ks_2.8.1.7.jar returned status 404

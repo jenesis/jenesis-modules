@@ -156,3 +156,8 @@
 6.1.0-RC1		2026-08-05T09:59:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-resource-reader/6.1.0-RC1/sdk-resource-reader-6.1.0-RC1.jar returned status 404
 6.1.0-RC2		2026-08-05T13:47:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-resource-reader/6.1.0-RC2/sdk-resource-reader-6.1.0-RC2.jar returned status 404
 6.1.0-RC3		2026-08-12T10:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-resource-reader/6.1.0-RC3/sdk-resource-reader-6.1.0-RC3.jar returned status 404
+6.1.0-RC4		2026-08-14T17:30:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-resource-reader/6.1.0-RC4/sdk-resource-reader-6.1.0-RC4.jar returned status 404
+6.1.0-RC5		2026-08-21T10:19:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-resource-reader/6.1.0-RC5/sdk-resource-reader-6.1.0-RC5.jar returned status 404
+6.1.0-RC6		2026-08-25T16:35:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-resource-reader/6.1.0-RC6/sdk-resource-reader-6.1.0-RC6.jar returned status 404
+6.1.0-RC7		2026-08-26T22:03:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-resource-reader/6.1.0-RC7/sdk-resource-reader-6.1.0-RC7.jar returned status 404
+6.1.0-RC8		2026-08-27T14:59:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/pango/sdk-resource-reader/6.1.0-RC8/sdk-resource-reader-6.1.0-RC8.jar returned status 404

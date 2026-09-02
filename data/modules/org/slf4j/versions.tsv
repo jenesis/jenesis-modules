@@ -3257,6 +3257,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 5.0.5	named	com.google.appengine	appengine-local-runtime-jetty121-ee11	2026-08-13T22:26:28Z	2.0.18
 5.0.5	named	com.google.appengine	appengine-tools-sdk	2026-08-13T22:26:29Z	2.0.18
 5.0.5	named	com.google.appengine	appengine-local-runtime-jetty121	2026-08-13T22:26:30Z	2.0.18
+0.2.0	named	cn.zpcnet.beanforge	beanforge-cli	2026-08-15T16:21:51Z	2.0.13
 5.2.0-beta	named	com.google.appengine	appengine-local-runtime-jetty121	2026-08-17T07:55:14Z	2.0.18
 5.2.0-beta	named	com.google.appengine	appengine-local-runtime-jetty121-ee11	2026-08-17T07:55:14Z	2.0.18
 5.2.0-beta	named	com.google.appengine	appengine-tools-sdk	2026-08-17T07:55:14Z	2.0.18

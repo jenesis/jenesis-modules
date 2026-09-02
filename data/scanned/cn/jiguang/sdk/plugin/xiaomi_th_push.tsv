@@ -14,5 +14,6 @@
 6.1.5		2026-07-03T03:25:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/xiaomi_th_push/6.1.5/xiaomi_th_push-6.1.5.jar returned status 404
 6.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/xiaomi_th_push/6.1.6/xiaomi_th_push-6.1.6.jar returned status 404
 6.2.0		2026-07-22T10:25:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/xiaomi_th_push/6.2.0/xiaomi_th_push-6.2.0.jar returned status 404
+6.2.1		2026-08-26T07:22:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/xiaomi_th_push/6.2.1/xiaomi_th_push-6.2.1.jar returned status 404
 t.1.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/xiaomi_th_push/t.1.0.0.1/xiaomi_th_push-t.1.0.0.1.jar returned status 404
 t.1.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/plugin/xiaomi_th_push/t.1.0.0.3/xiaomi_th_push-t.1.0.0.3.jar returned status 404

@@ -68,3 +68,4 @@
 3.0.9.1.05201			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/tianmu/3.0.9.1.05201/tianmu-3.0.9.1.05201.jar returned status 404
 3.1.1.2.06111		2026-06-16T09:25:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/tianmu/3.1.1.2.06111/tianmu-3.1.1.2.06111.jar returned status 404
 3.1.1.4.06114		2026-06-23T11:36:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/tianmu/3.1.1.4.06114/tianmu-3.1.1.4.06114.jar returned status 404
+3.1.1.5.06115		2026-08-24T02:47:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/tianmu/3.1.1.5.06115/tianmu-3.1.1.5.06115.jar returned status 404
