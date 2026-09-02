@@ -18,3 +18,5 @@
 2.2.3		2026-06-23T16:37:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/peluware/omni-search/2.2.3/omni-search-2.2.3.jar returned status 404
 2.3.0		2026-06-23T23:30:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/peluware/omni-search/2.3.0/omni-search-2.3.0.jar returned status 404
 2.4.0		2026-07-07T02:06:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/peluware/omni-search/2.4.0/omni-search-2.4.0.jar returned status 404
+2.5.0		2026-08-22T20:56:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/peluware/omni-search/2.5.0/omni-search-2.5.0.jar returned status 404
+2.6.0		2026-08-29T18:55:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/peluware/omni-search/2.6.0/omni-search-2.6.0.jar returned status 404

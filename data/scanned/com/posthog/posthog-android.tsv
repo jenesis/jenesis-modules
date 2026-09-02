@@ -163,8 +163,21 @@
 3.58.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.58.0/posthog-android-3.58.0.jar returned status 404
 3.58.1		2026-08-11T12:20:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.58.1/posthog-android-3.58.1.jar returned status 404
 3.58.2		2026-08-11T13:31:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.58.2/posthog-android-3.58.2.jar returned status 404
+3.58.3		2026-08-15T06:19:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.58.3/posthog-android-3.58.3.jar returned status 404
+3.58.4		2026-08-18T11:05:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.58.4/posthog-android-3.58.4.jar returned status 404
+3.59.0		2026-08-18T14:57:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.59.0/posthog-android-3.59.0.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.6.0/posthog-android-3.6.0.jar returned status 404
 3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.6.1/posthog-android-3.6.1.jar returned status 404
+3.60.0		2026-08-19T15:46:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.0/posthog-android-3.60.0.jar returned status 404
+3.60.1		2026-08-20T07:55:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.1/posthog-android-3.60.1.jar returned status 404
+3.60.2		2026-08-20T16:00:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.2/posthog-android-3.60.2.jar returned status 404
+3.60.3		2026-08-21T09:15:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.3/posthog-android-3.60.3.jar returned status 404
+3.60.4		2026-08-21T12:35:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.4/posthog-android-3.60.4.jar returned status 404
+3.60.5		2026-08-24T12:14:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.5/posthog-android-3.60.5.jar returned status 404
+3.60.6		2026-08-24T12:30:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.6/posthog-android-3.60.6.jar returned status 404
+3.60.7		2026-08-24T15:08:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.7/posthog-android-3.60.7.jar returned status 404
+3.60.8		2026-08-27T14:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.8/posthog-android-3.60.8.jar returned status 404
+3.61.0		2026-08-28T06:47:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.61.0/posthog-android-3.61.0.jar returned status 404
 3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.7.0/posthog-android-3.7.0.jar returned status 404
 3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.7.1/posthog-android-3.7.1.jar returned status 404
 3.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.7.2/posthog-android-3.7.2.jar returned status 404

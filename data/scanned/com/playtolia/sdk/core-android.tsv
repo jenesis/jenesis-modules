@@ -18,3 +18,6 @@
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playtolia/sdk/core-android/1.4.1/core-android-1.4.1.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playtolia/sdk/core-android/1.4.2/core-android-1.4.2.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playtolia/sdk/core-android/1.4.3/core-android-1.4.3.jar returned status 404
+1.4.4		2026-08-12T15:18:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playtolia/sdk/core-android/1.4.4/core-android-1.4.4.jar returned status 404
+1.5.0		2026-08-21T16:33:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playtolia/sdk/core-android/1.5.0/core-android-1.5.0.jar returned status 404
+1.5.1		2026-08-27T13:46:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/playtolia/sdk/core-android/1.5.1/core-android-1.5.1.jar returned status 404
