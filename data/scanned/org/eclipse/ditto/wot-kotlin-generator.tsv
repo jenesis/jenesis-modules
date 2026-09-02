@@ -6,3 +6,4 @@
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/wot-kotlin-generator/1.2.0/wot-kotlin-generator-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/wot-kotlin-generator/1.2.1/wot-kotlin-generator-1.2.1.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/wot-kotlin-generator/1.2.2/wot-kotlin-generator-1.2.2.jar returned status 404
+1.2.3		2026-08-11T15:23:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/wot-kotlin-generator/1.2.3/wot-kotlin-generator-1.2.3.jar returned status 404

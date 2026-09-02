@@ -48,3 +48,5 @@
 1.7.0-M1		2026-07-03T07:18:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ecsp/api-gateway-parent/1.7.0-M1/api-gateway-parent-1.7.0-M1.jar returned status 404
 1.7.0-M1.1		2026-07-03T12:31:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ecsp/api-gateway-parent/1.7.0-M1.1/api-gateway-parent-1.7.0-M1.1.jar returned status 404
 1.7.1-M1		2026-08-07T08:26:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ecsp/api-gateway-parent/1.7.1-M1/api-gateway-parent-1.7.1-M1.jar returned status 404
+1.7.1-M2		2026-08-11T11:04:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ecsp/api-gateway-parent/1.7.1-M2/api-gateway-parent-1.7.1-M2.jar returned status 404
+1.7.1-M3		2026-08-18T09:43:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ecsp/api-gateway-parent/1.7.1-M3/api-gateway-parent-1.7.1-M3.jar returned status 404
