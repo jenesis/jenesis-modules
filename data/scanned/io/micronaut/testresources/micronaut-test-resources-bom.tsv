@@ -66,3 +66,4 @@
 4.0.0-RC1		2026-05-09T14:45:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/testresources/micronaut-test-resources-bom/4.0.0-RC1/micronaut-test-resources-bom-4.0.0-RC1.jar returned status 404
 4.0.0-RC2		2026-05-18T11:12:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/testresources/micronaut-test-resources-bom/4.0.0-RC2/micronaut-test-resources-bom-4.0.0-RC2.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/testresources/micronaut-test-resources-bom/4.1.0/micronaut-test-resources-bom-4.1.0.jar returned status 404
+4.2.0		2026-08-21T13:28:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/testresources/micronaut-test-resources-bom/4.2.0/micronaut-test-resources-bom-4.2.0.jar returned status 404
