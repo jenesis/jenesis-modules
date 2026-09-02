@@ -7207,3 +7207,15 @@ org.scala.lang.scala3.library.sjs1
 org.scala.lang.scala3.directives.parser
 org.scala.lang.scala3.compiler
 dev.oppex.sdk
+dev.openfeature.sdk
+dev.openfeature.contrib.tools.flagdcore
+dev.openfeature.contrib.providers.flagd
+webrtc.java
+webrtc.windows.x86_64
+webrtc.macos.x86_64
+webrtc.macos.aarch64
+webrtc.linux.x86_64
+webrtc.linux.aarch64
+webrtc.linux.aarch32
+dev.nullkitty.cassette
+langchain4j.community.oci.genai

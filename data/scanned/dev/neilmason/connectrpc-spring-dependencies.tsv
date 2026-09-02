@@ -1,0 +1,2 @@
+0.1.1		2026-08-20T04:16:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/neilmason/connectrpc-spring-dependencies/0.1.1/connectrpc-spring-dependencies-0.1.1.jar returned status 404
+0.1.2		2026-08-20T06:09:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/neilmason/connectrpc-spring-dependencies/0.1.2/connectrpc-spring-dependencies-0.1.2.jar returned status 404

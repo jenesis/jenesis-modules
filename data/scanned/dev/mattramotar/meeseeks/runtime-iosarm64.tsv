@@ -22,3 +22,5 @@
 1.0.2	metadata	2026-02-28T21:05:15Z	
 1.1.0		2026-06-12T02:47:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mattramotar/meeseeks/runtime-iosarm64/1.1.0/runtime-iosarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-06-12T02:47:51Z	
+1.1.1		2026-08-17T23:45:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mattramotar/meeseeks/runtime-iosarm64/1.1.1/runtime-iosarm64-1.1.1.jar returned status 404
+1.1.1	metadata	2026-08-17T23:45:06Z	
