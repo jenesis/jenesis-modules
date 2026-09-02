@@ -1,1 +1,4 @@
 0.1.0-1.20		2026-07-27T22:36:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sekelenao/flinkboot/0.1.0-1.20/flinkboot-0.1.0-1.20.jar returned status 404
+0.2.0-1.20		2026-08-16T19:07:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sekelenao/flinkboot/0.2.0-1.20/flinkboot-0.2.0-1.20.jar returned status 404
+0.3.0-1.20		2026-08-18T21:20:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sekelenao/flinkboot/0.3.0-1.20/flinkboot-0.3.0-1.20.jar returned status 404
+0.4.0-1.20		2026-08-27T19:21:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sekelenao/flinkboot/0.4.0-1.20/flinkboot-0.4.0-1.20.jar returned status 404

@@ -20,3 +20,11 @@
 5.10.40	metadata	2026-07-28T10:17:30Z	
 5.90.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-iossimulatorarm64/5.90.20/ksensor-sensors-motion-iossimulatorarm64-5.90.20.jar returned status 404
 5.90.20	metadata	2026-08-01T10:16:08Z	
+6.20.22		2026-08-11T07:33:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-iossimulatorarm64/6.20.22/ksensor-sensors-motion-iossimulatorarm64-6.20.22.jar returned status 404
+6.20.22	metadata	2026-08-11T07:33:36Z	
+7.10.20		2026-08-13T17:42:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-iossimulatorarm64/7.10.20/ksensor-sensors-motion-iossimulatorarm64-7.10.20.jar returned status 404
+7.10.20	metadata	2026-08-13T17:42:19Z	
+7.30.0		2026-08-15T18:51:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-iossimulatorarm64/7.30.0/ksensor-sensors-motion-iossimulatorarm64-7.30.0.jar returned status 404
+7.30.0	metadata	2026-08-15T18:51:03Z	
+7.51.0		2026-08-28T18:58:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-motion-iossimulatorarm64/7.51.0/ksensor-sensors-motion-iossimulatorarm64-7.51.0.jar returned status 404
+7.51.0	metadata	2026-08-28T18:58:25Z	

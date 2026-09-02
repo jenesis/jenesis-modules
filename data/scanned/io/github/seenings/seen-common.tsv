@@ -44,3 +44,6 @@
 0.1.93			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/seenings/seen-common/0.1.93/seen-common-0.1.93.jar returned status 404
 0.1.94			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/seenings/seen-common/0.1.94/seen-common-0.1.94.jar returned status 404
 0.1.95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/seenings/seen-common/0.1.95/seen-common-0.1.95.jar returned status 404
+0.1.96		2026-08-21T17:26:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/seenings/seen-common/0.1.96/seen-common-0.1.96.jar returned status 404
+0.1.97		2026-08-21T17:40:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/seenings/seen-common/0.1.97/seen-common-0.1.97.jar returned status 404
+0.1.98		2026-08-22T09:56:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/seenings/seen-common/0.1.98/seen-common-0.1.98.jar returned status 404

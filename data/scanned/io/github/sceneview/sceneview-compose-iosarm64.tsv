@@ -2,3 +2,13 @@
 4.27.0	metadata	2026-08-10T09:11:06Z	
 4.28.0		2026-08-10T16:15:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iosarm64/4.28.0/sceneview-compose-iosarm64-4.28.0.jar returned status 404
 4.28.0	metadata	2026-08-10T16:15:14Z	
+4.29.0		2026-08-12T12:53:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iosarm64/4.29.0/sceneview-compose-iosarm64-4.29.0.jar returned status 404
+4.29.0	metadata	2026-08-12T12:53:24Z	
+4.30.0		2026-08-12T16:54:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iosarm64/4.30.0/sceneview-compose-iosarm64-4.30.0.jar returned status 404
+4.30.0	metadata	2026-08-12T16:54:52Z	
+4.31.0		2026-08-17T21:10:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iosarm64/4.31.0/sceneview-compose-iosarm64-4.31.0.jar returned status 404
+4.31.0	metadata	2026-08-17T21:10:40Z	
+4.32.0		2026-08-22T23:34:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iosarm64/4.32.0/sceneview-compose-iosarm64-4.32.0.jar returned status 404
+4.32.0	metadata	2026-08-22T23:34:01Z	
+4.33.0		2026-08-26T19:23:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iosarm64/4.33.0/sceneview-compose-iosarm64-4.33.0.jar returned status 404
+4.33.0	metadata	2026-08-26T19:23:12Z	

@@ -2,3 +2,9 @@
 0.41.1	metadata	2026-08-10T12:36:34Z	
 0.41.2		2026-08-10T13:34:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-serv-compose-iossimulatorarm64/0.41.2/sdds-serv-compose-iossimulatorarm64-0.41.2.jar returned status 404
 0.41.2	metadata	2026-08-10T13:34:36Z	
+0.42.0		2026-08-19T16:06:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-serv-compose-iossimulatorarm64/0.42.0/sdds-serv-compose-iossimulatorarm64-0.42.0.jar returned status 404
+0.42.0	metadata	2026-08-19T16:06:48Z	
+0.42.1		2026-08-20T11:51:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-serv-compose-iossimulatorarm64/0.42.1/sdds-serv-compose-iossimulatorarm64-0.42.1.jar returned status 404
+0.42.1	metadata	2026-08-20T11:51:27Z	
+0.42.2		2026-08-25T07:24:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-serv-compose-iossimulatorarm64/0.42.2/sdds-serv-compose-iossimulatorarm64-0.42.2.jar returned status 404
+0.42.2	metadata	2026-08-25T07:24:06Z	

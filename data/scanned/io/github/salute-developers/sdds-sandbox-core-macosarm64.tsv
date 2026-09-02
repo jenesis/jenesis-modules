@@ -1,0 +1,4 @@
+0.11.0		2026-08-19T15:15:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-sandbox-core-macosarm64/0.11.0/sdds-sandbox-core-macosarm64-0.11.0.jar returned status 404
+0.11.0	metadata	2026-08-19T15:15:45Z	
+0.11.1		2026-08-20T11:01:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-sandbox-core-macosarm64/0.11.1/sdds-sandbox-core-macosarm64-0.11.1.jar returned status 404
+0.11.1	metadata	2026-08-20T11:01:34Z	

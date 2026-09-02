@@ -20,6 +20,10 @@
 1.0.2	metadata	2026-06-25T21:35:09Z	
 1.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roshkamobile/charly-engine-iossimulatorarm64/1.0.20/charly-engine-iossimulatorarm64-1.0.20.jar returned status 404
 1.0.20	metadata	2026-08-04T18:33:42Z	
+1.0.23		2026-08-13T20:03:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roshkamobile/charly-engine-iossimulatorarm64/1.0.23/charly-engine-iossimulatorarm64-1.0.23.jar returned status 404
+1.0.23	metadata	2026-08-13T20:03:01Z	
+1.0.24		2026-08-17T20:00:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roshkamobile/charly-engine-iossimulatorarm64/1.0.24/charly-engine-iossimulatorarm64-1.0.24.jar returned status 404
+1.0.24	metadata	2026-08-17T20:00:04Z	
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roshkamobile/charly-engine-iossimulatorarm64/1.0.3/charly-engine-iossimulatorarm64-1.0.3.jar returned status 404
 1.0.3	metadata	2026-07-10T14:46:13Z	
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/roshkamobile/charly-engine-iossimulatorarm64/1.0.4/charly-engine-iossimulatorarm64-1.0.4.jar returned status 404

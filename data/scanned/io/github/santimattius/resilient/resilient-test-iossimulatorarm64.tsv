@@ -14,3 +14,5 @@
 2.0.0-ALPHA01	metadata	2026-06-19T16:18:50Z	
 2.0.0-ALPHA02		2026-06-27T22:45:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/resilient/resilient-test-iossimulatorarm64/2.0.0-ALPHA02/resilient-test-iossimulatorarm64-2.0.0-ALPHA02.jar returned status 404
 2.0.0-ALPHA02	metadata	2026-06-27T22:45:43Z	
+2.0.1		2026-08-11T22:58:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/resilient/resilient-test-iossimulatorarm64/2.0.1/resilient-test-iossimulatorarm64-2.0.1.jar returned status 404
+2.0.1	metadata	2026-08-11T22:58:44Z	

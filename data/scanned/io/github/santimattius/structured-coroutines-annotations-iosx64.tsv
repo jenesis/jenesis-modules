@@ -30,3 +30,5 @@
 1.0.0	metadata	2026-06-09T22:37:29Z	
 1.1.0		2026-06-27T22:56:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/structured-coroutines-annotations-iosx64/1.1.0/structured-coroutines-annotations-iosx64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-06-27T22:56:55Z	
+1.1.1		2026-08-24T23:17:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/structured-coroutines-annotations-iosx64/1.1.1/structured-coroutines-annotations-iosx64-1.1.1.jar returned status 404
+1.1.1	metadata	2026-08-24T23:17:31Z	

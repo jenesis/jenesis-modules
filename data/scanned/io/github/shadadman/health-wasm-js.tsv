@@ -1,0 +1,4 @@
+6.20.22		2026-08-11T07:33:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/health-wasm-js/6.20.22/health-wasm-js-6.20.22.jar returned status 404
+7.10.20		2026-08-13T17:42:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/health-wasm-js/7.10.20/health-wasm-js-7.10.20.jar returned status 404
+7.30.0		2026-08-15T18:51:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/health-wasm-js/7.30.0/health-wasm-js-7.30.0.jar returned status 404
+7.51.0		2026-08-28T18:58:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/health-wasm-js/7.51.0/health-wasm-js-7.51.0.jar returned status 404
