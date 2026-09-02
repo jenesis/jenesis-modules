@@ -394,5 +394,6 @@
 2.25.0	named	org.mustangproject	validator	2026-08-05T05:48:48Z	2.0.18
 3.30.2	named	ch.exense.step	step-functions-plugins-jmeter-handler	2026-08-07T16:52:47Z	2.0.18
 1.51.0	named	com.erudika	para-dao-sql	2026-08-09T09:41:48Z	2.0.17
+2.20.0	named	com.google.cloud.bigtable	bigtable-hbase-1.x-mapreduce	2026-08-17T19:10:39Z	2.0.16
 2.26.0	named	org.mustangproject	library	2026-08-25T11:42:44Z	2.0.18
 2.26.0	named	org.mustangproject	validator	2026-08-25T11:42:44Z	2.0.18

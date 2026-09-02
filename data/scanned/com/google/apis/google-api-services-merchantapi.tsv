@@ -24,6 +24,7 @@ accounts_v1-rev20260415-2.0.0		2026-04-19T08:00:18Z
 accounts_v1-rev20260512-2.0.0		2026-05-15T08:13:00Z	
 accounts_v1-rev20260527-2.0.0		2026-05-29T08:03:33Z	
 accounts_v1-rev20260722-2.0.0			
+accounts_v1-rev20260807-2.0.0		2026-08-14T07:59:10Z	
 accounts_v1beta-rev20240611-2.0.0		2024-07-01T08:00:10Z	
 accounts_v1beta-rev20240709-2.0.0		2024-07-12T08:13:47Z	
 accounts_v1beta-rev20240719-2.0.0		2024-07-24T08:41:18Z	
@@ -87,6 +88,7 @@ accounts_v1beta-rev20260415-2.0.0		2026-04-19T08:01:11Z
 accounts_v1beta-rev20260512-2.0.0		2026-05-15T08:13:56Z	
 accounts_v1beta-rev20260527-2.0.0		2026-05-29T08:04:31Z	
 accounts_v1beta-rev20260722-2.0.0			
+accounts_v1beta-rev20260807-2.0.0		2026-08-14T08:00:05Z	
 conversions_v1-rev20250804-2.0.0		2025-08-07T08:15:02Z	
 conversions_v1-rev20260223-2.0.0		2026-02-26T09:25:40Z	
 conversions_v1-rev20260527-2.0.0		2026-05-29T08:05:23Z	
@@ -228,6 +230,7 @@ notifications_v1-rev20260527-2.0.0		2026-05-29T08:13:52Z
 notifications_v1-rev20260615-2.0.0		2026-06-17T08:09:37Z	
 notifications_v1-rev20260713-2.0.0			
 notifications_v1-rev20260722-2.0.0			
+notifications_v1-rev20260817-2.0.0		2026-08-21T07:58:18Z	
 notifications_v1beta-rev20240611-2.0.0		2024-07-01T08:03:38Z	
 notifications_v1beta-rev20240827-2.0.0		2024-08-30T08:09:32Z	
 notifications_v1beta-rev20240930-2.0.0		2024-10-05T08:26:33Z	
@@ -246,6 +249,7 @@ notifications_v1beta-rev20260527-2.0.0		2026-05-29T08:14:42Z
 notifications_v1beta-rev20260615-2.0.0		2026-06-17T08:10:29Z	
 notifications_v1beta-rev20260713-2.0.0			
 notifications_v1beta-rev20260722-2.0.0			
+notifications_v1beta-rev20260817-2.0.0		2026-08-21T07:59:06Z	
 ordertracking_v1-rev20250804-2.0.0		2025-08-07T08:20:18Z	
 ordertracking_v1-rev20250805-2.0.0		2025-08-08T08:26:04Z	
 ordertracking_v1-rev20260221-2.0.0		2026-02-26T09:35:13Z	

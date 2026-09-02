@@ -505,6 +505,7 @@
 1.29.0	automatic	com.google.cloud.sql	postgres-socket-factory	2026-07-25T00:52:48Z	
 1.29.0	automatic	com.google.cloud.sql	cloud-sql-connector-jdbc-sqlserver	2026-07-25T00:52:49Z	
 1.29.0	automatic	com.google.cloud.sql	schemas	2026-07-25T00:52:56Z	
+1.30.0	automatic	com.google.cloud	cloud-sql-connector-r2dbc-mariadb	2026-08-24T20:36:23Z	
 1.30.0	automatic	com.google.cloud.sql	cloud-sql-connector-jdbc-sqlserver	2026-08-24T20:36:23Z	
 1.30.0	automatic	com.google.cloud.sql	cloud-sql-connector-r2dbc-core	2026-08-24T20:36:23Z	
 1.30.0	automatic	com.google.cloud.sql	cloud-sql-connector-r2dbc-mysql	2026-08-24T20:36:23Z	
