@@ -36,3 +36,4 @@
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/comixedproject/comixed/3.2.1/comixed-3.2.1.jar returned status 404
 3.2.2		2026-05-17T16:56:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/comixedproject/comixed/3.2.2/comixed-3.2.2.jar returned status 404
 3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/comixedproject/comixed/3.2.3/comixed-3.2.3.jar returned status 404
+4.0.0-alpha		2026-08-12T15:22:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/comixedproject/comixed/4.0.0-alpha/comixed-4.0.0-alpha.jar returned status 404

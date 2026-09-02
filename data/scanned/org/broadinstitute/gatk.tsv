@@ -45,6 +45,7 @@
 4.6.0.0		2024-06-30T00:36:28Z	
 4.6.1.0		2024-10-24T01:38:02Z	
 4.6.2.0		2025-04-14T23:04:32Z	
+4.7.0.0		2026-08-18T03:57:17Z	
 4.alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/broadinstitute/gatk/4.alpha/gatk-4.alpha.jar returned status 404
 4.alpha.1			
 4.alpha.2			

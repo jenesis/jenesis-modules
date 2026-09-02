@@ -260,6 +260,8 @@
 4.0.64		2026-08-06T03:42:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-runtime-libs/4.0.64/atmosphere-runtime-libs-4.0.64.jar returned status 404
 4.0.65		2026-08-07T16:50:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-runtime-libs/4.0.65/atmosphere-runtime-libs-4.0.65.jar returned status 404
 4.0.66		2026-08-09T20:59:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-runtime-libs/4.0.66/atmosphere-runtime-libs-4.0.66.jar returned status 404
+4.0.67		2026-08-17T13:47:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-runtime-libs/4.0.67/atmosphere-runtime-libs-4.0.67.jar returned status 404
+4.0.68		2026-08-23T17:13:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-runtime-libs/4.0.68/atmosphere-runtime-libs-4.0.68.jar returned status 404
 4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-runtime-libs/4.0.7/atmosphere-runtime-libs-4.0.7.jar returned status 404
 4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-runtime-libs/4.0.8/atmosphere-runtime-libs-4.0.8.jar returned status 404
 4.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/atmosphere/atmosphere-runtime-libs/4.0.9/atmosphere-runtime-libs-4.0.9.jar returned status 404

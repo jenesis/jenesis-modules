@@ -49,5 +49,6 @@
 2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/modello/modello/2.5.1/modello-2.5.1.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/modello/modello/2.6.0/modello-2.6.0.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/modello/modello/2.7.0/modello-2.7.0.jar returned status 404
+2.8.0		2026-08-19T17:15:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/modello/modello/2.8.0/modello-2.8.0.jar returned status 404
 test-1.0-alpha-1		2005-08-01T09:46:42Z	
 test-1.0-alpha-2		2005-08-01T09:46:42Z	

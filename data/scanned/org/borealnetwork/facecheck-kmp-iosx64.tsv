@@ -1,0 +1,4 @@
+0.1.0		2026-08-12T10:43:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/borealnetwork/facecheck-kmp-iosx64/0.1.0/facecheck-kmp-iosx64-0.1.0.jar returned status 404
+0.1.0	metadata	2026-08-12T10:43:33Z	
+1.0.0		2026-08-14T02:40:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/borealnetwork/facecheck-kmp-iosx64/1.0.0/facecheck-kmp-iosx64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-08-14T02:40:25Z	

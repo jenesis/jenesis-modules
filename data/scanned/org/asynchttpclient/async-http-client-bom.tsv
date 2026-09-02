@@ -8,3 +8,4 @@
 2.14.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-bom/2.14.5/async-http-client-bom-2.14.5.jar returned status 404
 2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-bom/2.15.0/async-http-client-bom-2.15.0.jar returned status 404
 2.16.0		2026-06-15T17:40:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-bom/2.16.0/async-http-client-bom-2.16.0.jar returned status 404
+2.16.1		2026-08-09T23:04:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/asynchttpclient/async-http-client-bom/2.16.1/async-http-client-bom-2.16.1.jar returned status 404

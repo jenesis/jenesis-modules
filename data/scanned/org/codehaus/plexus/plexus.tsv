@@ -33,6 +33,7 @@
 24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/plexus/plexus/24/plexus-24.jar returned status 404
 25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/plexus/plexus/25/plexus-25.jar returned status 404
 26		2026-08-08T17:49:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/plexus/plexus/26/plexus-26.jar returned status 404
+27		2026-08-18T20:47:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/plexus/plexus/27/plexus-27.jar returned status 404
 3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/plexus/plexus/3.0/plexus-3.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.jar returned status 404
 3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/plexus/plexus/3.1/plexus-3.1.jar returned status 404

@@ -10,3 +10,4 @@
 4.9.0		2026-06-11T21:37:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cqframework/elm-wasm-js/4.9.0/elm-wasm-js-4.9.0.jar returned status 404
 5.0.0		2026-06-30T21:42:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cqframework/elm-wasm-js/5.0.0/elm-wasm-js-5.0.0.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cqframework/elm-wasm-js/5.1.0/elm-wasm-js-5.1.0.jar returned status 404
+5.2.0		2026-08-19T22:02:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cqframework/elm-wasm-js/5.2.0/elm-wasm-js-5.2.0.jar returned status 404
