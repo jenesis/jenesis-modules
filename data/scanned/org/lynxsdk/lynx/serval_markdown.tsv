@@ -13,3 +13,6 @@
 0.2.1		2026-08-05T09:48:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/serval_markdown/0.2.1/serval_markdown-0.2.1.jar returned status 404
 0.2.2		2026-08-06T03:30:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/serval_markdown/0.2.2/serval_markdown-0.2.2.jar returned status 404
 0.2.3		2026-08-07T09:30:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/serval_markdown/0.2.3/serval_markdown-0.2.3.jar returned status 404
+0.2.4		2026-08-10T12:44:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/serval_markdown/0.2.4/serval_markdown-0.2.4.jar returned status 404
+0.2.5		2026-08-20T11:37:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/serval_markdown/0.2.5/serval_markdown-0.2.5.jar returned status 404
+0.2.6		2026-08-27T08:23:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/serval_markdown/0.2.6/serval_markdown-0.2.6.jar returned status 404

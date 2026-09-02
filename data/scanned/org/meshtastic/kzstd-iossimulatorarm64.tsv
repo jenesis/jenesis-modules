@@ -2,3 +2,7 @@
 0.1.0	metadata	2026-06-18T01:58:46Z	
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/kzstd-iossimulatorarm64/0.1.1/kzstd-iossimulatorarm64-0.1.1.jar returned status 404
 0.1.1	metadata	2026-07-21T19:10:19Z	
+0.1.2		2026-08-13T20:14:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/kzstd-iossimulatorarm64/0.1.2/kzstd-iossimulatorarm64-0.1.2.jar returned status 404
+0.1.2	metadata	2026-08-13T20:14:55Z	
+0.2.0		2026-08-17T22:39:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/kzstd-iossimulatorarm64/0.2.0/kzstd-iossimulatorarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-08-17T22:39:33Z	

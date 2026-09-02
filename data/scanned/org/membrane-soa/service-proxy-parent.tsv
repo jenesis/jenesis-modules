@@ -75,3 +75,4 @@
 6.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/membrane-soa/service-proxy-parent/6.5.4/service-proxy-parent-6.5.4.jar returned status 404
 7.2.5		2026-06-30T10:02:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/membrane-soa/service-proxy-parent/7.2.5/service-proxy-parent-7.2.5.jar returned status 404
 7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/membrane-soa/service-proxy-parent/7.3.1/service-proxy-parent-7.3.1.jar returned status 404
+7.5.0		2026-08-11T15:35:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/membrane-soa/service-proxy-parent/7.5.0/service-proxy-parent-7.5.0.jar returned status 404

@@ -92,6 +92,7 @@
 0.156.3		2026-06-28T08:53:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/metaeffekt/core/ae-plugins/0.156.3/ae-plugins-0.156.3.jar returned status 404
 0.156.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/metaeffekt/core/ae-plugins/0.156.4/ae-plugins-0.156.4.jar returned status 404
 0.156.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/metaeffekt/core/ae-plugins/0.156.5/ae-plugins-0.156.5.jar returned status 404
+0.156.6		2026-08-11T06:51:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/metaeffekt/core/ae-plugins/0.156.6/ae-plugins-0.156.6.jar returned status 404
 0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/metaeffekt/core/ae-plugins/0.16.0/ae-plugins-0.16.0.jar returned status 404
 0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/metaeffekt/core/ae-plugins/0.17.0/ae-plugins-0.17.0.jar returned status 404
 0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/metaeffekt/core/ae-plugins/0.18.0/ae-plugins-0.18.0.jar returned status 404

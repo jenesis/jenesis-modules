@@ -8,3 +8,4 @@
 3.0.0.14-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/esapi-extension/3.0.0.14-RC/esapi-extension-3.0.0.14-RC.jar returned status 404
 3.0.0.15		2026-06-15T19:54:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/esapi-extension/3.0.0.15/esapi-extension-3.0.0.15.jar returned status 404
 3.0.0.9-ALPHA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/esapi-extension/3.0.0.9-ALPHA/esapi-extension-3.0.0.9-ALPHA.jar returned status 404
+3.1.0.1-RC		2026-08-17T08:18:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/esapi-extension/3.1.0.1-RC/esapi-extension-3.1.0.1-RC.jar returned status 404

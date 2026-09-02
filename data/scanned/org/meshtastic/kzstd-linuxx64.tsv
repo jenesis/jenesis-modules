@@ -1,2 +1,4 @@
 0.1.0		2026-06-18T01:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/kzstd-linuxx64/0.1.0/kzstd-linuxx64-0.1.0.jar returned status 404
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/kzstd-linuxx64/0.1.1/kzstd-linuxx64-0.1.1.jar returned status 404
+0.1.2		2026-08-13T20:14:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/kzstd-linuxx64/0.1.2/kzstd-linuxx64-0.1.2.jar returned status 404
+0.2.0		2026-08-17T22:39:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/kzstd-linuxx64/0.2.0/kzstd-linuxx64-0.2.0.jar returned status 404

@@ -121,3 +121,15 @@
 3.4.2	natives-windows	2026-07-13T18:58:40Z	
 3.4.2	natives-windows-arm64	2026-07-13T18:58:39Z	
 3.4.2	natives-windows-x86	2026-07-13T18:58:44Z	
+3.4.3		2026-08-23T20:03:39Z	
+3.4.3	natives-freebsd	2026-08-23T20:03:42Z	
+3.4.3	natives-linux	2026-08-23T20:03:42Z	
+3.4.3	natives-linux-arm32	2026-08-23T20:03:44Z	
+3.4.3	natives-linux-arm64	2026-08-23T20:03:40Z	
+3.4.3	natives-linux-ppc64le	2026-08-23T20:03:42Z	
+3.4.3	natives-linux-riscv64	2026-08-23T20:03:41Z	
+3.4.3	natives-macos	2026-08-23T20:03:44Z	
+3.4.3	natives-macos-arm64	2026-08-23T20:03:41Z	
+3.4.3	natives-windows	2026-08-23T20:03:41Z	
+3.4.3	natives-windows-arm64	2026-08-23T20:03:41Z	
+3.4.3	natives-windows-x86	2026-08-23T20:03:43Z	
