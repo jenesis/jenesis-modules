@@ -44,6 +44,10 @@
 3.5.1	metadata	2026-06-08T04:18:51Z	
 3.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-macosarm64/3.5.10/cmp-open-url-macosarm64-3.5.10.jar returned status 404
 3.5.10	metadata	2026-08-05T07:16:04Z	
+3.5.11		2026-08-12T12:01:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-macosarm64/3.5.11/cmp-open-url-macosarm64-3.5.11.jar returned status 404
+3.5.11	metadata	2026-08-12T12:01:31Z	
+3.5.12		2026-08-17T01:38:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-macosarm64/3.5.12/cmp-open-url-macosarm64-3.5.12.jar returned status 404
+3.5.12	metadata	2026-08-17T01:38:30Z	
 3.5.13		2026-08-24T01:34:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-macosarm64/3.5.13/cmp-open-url-macosarm64-3.5.13.jar returned status 404
 3.5.13	metadata	2026-08-24T01:34:12Z	
 3.5.14		2026-08-25T19:32:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-open-url-macosarm64/3.5.14/cmp-open-url-macosarm64-3.5.14.jar returned status 404
