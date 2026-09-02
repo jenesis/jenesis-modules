@@ -1,0 +1,5 @@
+0.4.2		2026-08-15T14:15:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/araujojordan/kobaia/0.4.2/kobaia-0.4.2.jar returned status 404
+0.4.3		2026-08-15T15:03:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/araujojordan/kobaia/0.4.3/kobaia-0.4.3.jar returned status 404
+0.4.4		2026-08-15T17:33:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/araujojordan/kobaia/0.4.4/kobaia-0.4.4.jar returned status 404
+0.5.0		2026-08-16T18:34:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/araujojordan/kobaia/0.5.0/kobaia-0.5.0.jar returned status 404
+0.6.0		2026-08-16T19:55:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/araujojordan/kobaia/0.6.0/kobaia-0.6.0.jar returned status 404

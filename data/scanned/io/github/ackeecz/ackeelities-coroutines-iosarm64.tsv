@@ -2,3 +2,5 @@
 1.0.0	metadata	2025-08-13T16:37:45Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ackeecz/ackeelities-coroutines-iosarm64/1.1.0/ackeelities-coroutines-iosarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2025-11-20T15:51:35Z	
+2.0.0		2026-08-20T11:26:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ackeecz/ackeelities-coroutines-iosarm64/2.0.0/ackeelities-coroutines-iosarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-08-20T11:26:59Z	
