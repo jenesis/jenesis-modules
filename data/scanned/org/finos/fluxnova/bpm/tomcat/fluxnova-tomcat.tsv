@@ -6,3 +6,4 @@
 2.0.3		2026-06-18T17:24:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/tomcat/fluxnova-tomcat/2.0.3/fluxnova-tomcat-2.0.3.jar returned status 404
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/tomcat/fluxnova-tomcat/2.0.4/fluxnova-tomcat-2.0.4.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/tomcat/fluxnova-tomcat/3.0.0/fluxnova-tomcat-3.0.0.jar returned status 404
+3.0.1		2026-08-13T18:18:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/tomcat/fluxnova-tomcat/3.0.1/fluxnova-tomcat-3.0.1.jar returned status 404
