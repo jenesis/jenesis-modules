@@ -1,0 +1,4 @@
+0.1.0		2026-08-10T20:55:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hatoyuze/deepseek-helper-js/0.1.0/deepseek-helper-js-0.1.0.jar returned status 404
+0.1.1		2026-08-11T05:43:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hatoyuze/deepseek-helper-js/0.1.1/deepseek-helper-js-0.1.1.jar returned status 404
+0.2.0		2026-08-14T02:26:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hatoyuze/deepseek-helper-js/0.2.0/deepseek-helper-js-0.2.0.jar returned status 404
+0.3.0		2026-08-16T05:48:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hatoyuze/deepseek-helper-js/0.3.0/deepseek-helper-js-0.3.0.jar returned status 404

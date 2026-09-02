@@ -1,2 +1,4 @@
 1.0.0		2025-06-07T15:51:17Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eugenprog/navigation-compose/1.0.1/navigation-compose-1.0.1.jar returned status 404
+2.0.0		2026-08-11T09:57:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eugenprog/navigation-compose/2.0.0/navigation-compose-2.0.0.jar returned status 404
+2.0.1		2026-08-25T08:06:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eugenprog/navigation-compose/2.0.1/navigation-compose-2.0.1.jar returned status 404

@@ -1,3 +1,5 @@
 0.1.0-alpha01		2026-08-05T11:59:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eugenprog/giraffe/0.1.0-alpha01/giraffe-0.1.0-alpha01.jar returned status 404
 0.1.0-alpha02		2026-08-10T05:58:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eugenprog/giraffe/0.1.0-alpha02/giraffe-0.1.0-alpha02.jar returned status 404
 0.1.0-alpha03		2026-08-10T10:47:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eugenprog/giraffe/0.1.0-alpha03/giraffe-0.1.0-alpha03.jar returned status 404
+0.1.0-alpha04		2026-08-12T05:19:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eugenprog/giraffe/0.1.0-alpha04/giraffe-0.1.0-alpha04.jar returned status 404
+0.1.0-alpha05		2026-08-13T12:02:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eugenprog/giraffe/0.1.0-alpha05/giraffe-0.1.0-alpha05.jar returned status 404

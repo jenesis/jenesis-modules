@@ -118,3 +118,11 @@
 1.5.2	metadata	2026-07-30T09:02:38Z	
 1.5.2-kt2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-parser-iosarm64/1.5.2-kt2.1.0/latex-parser-iosarm64-1.5.2-kt2.1.0.jar returned status 404
 1.5.2-kt2.1.0	metadata	2026-07-30T09:04:06Z	
+1.5.3		2026-08-13T06:34:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-parser-iosarm64/1.5.3/latex-parser-iosarm64-1.5.3.jar returned status 404
+1.5.3	metadata	2026-08-13T06:34:31Z	
+1.5.3-kt2.1.0		2026-08-13T06:34:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-parser-iosarm64/1.5.3-kt2.1.0/latex-parser-iosarm64-1.5.3-kt2.1.0.jar returned status 404
+1.5.3-kt2.1.0	metadata	2026-08-13T06:34:35Z	
+1.5.4		2026-08-27T06:57:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-parser-iosarm64/1.5.4/latex-parser-iosarm64-1.5.4.jar returned status 404
+1.5.4	metadata	2026-08-27T06:57:49Z	
+1.5.4-kt2.1.0		2026-08-27T06:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/latex-parser-iosarm64/1.5.4-kt2.1.0/latex-parser-iosarm64-1.5.4-kt2.1.0.jar returned status 404
+1.5.4-kt2.1.0	metadata	2026-08-27T06:54:37Z	

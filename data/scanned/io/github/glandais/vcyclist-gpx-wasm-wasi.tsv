@@ -1,1 +1,8 @@
 3.1.0		2026-07-31T13:57:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glandais/vcyclist-gpx-wasm-wasi/3.1.0/vcyclist-gpx-wasm-wasi-3.1.0.jar returned status 404
+3.1.1		2026-08-17T09:28:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glandais/vcyclist-gpx-wasm-wasi/3.1.1/vcyclist-gpx-wasm-wasi-3.1.1.jar returned status 404
+4.0.0		2026-08-17T15:45:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glandais/vcyclist-gpx-wasm-wasi/4.0.0/vcyclist-gpx-wasm-wasi-4.0.0.jar returned status 404
+4.1.0		2026-08-18T05:02:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glandais/vcyclist-gpx-wasm-wasi/4.1.0/vcyclist-gpx-wasm-wasi-4.1.0.jar returned status 404
+4.2.0		2026-08-18T05:27:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glandais/vcyclist-gpx-wasm-wasi/4.2.0/vcyclist-gpx-wasm-wasi-4.2.0.jar returned status 404
+4.2.1		2026-08-18T05:39:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glandais/vcyclist-gpx-wasm-wasi/4.2.1/vcyclist-gpx-wasm-wasi-4.2.1.jar returned status 404
+4.3.0		2026-08-18T07:28:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glandais/vcyclist-gpx-wasm-wasi/4.3.0/vcyclist-gpx-wasm-wasi-4.3.0.jar returned status 404
+5.0.0		2026-08-18T14:00:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/glandais/vcyclist-gpx-wasm-wasi/5.0.0/vcyclist-gpx-wasm-wasi-5.0.0.jar returned status 404

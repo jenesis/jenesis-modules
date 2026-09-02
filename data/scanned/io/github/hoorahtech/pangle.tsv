@@ -1,0 +1,4 @@
+0.0.10		2026-08-26T10:29:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hoorahtech/pangle/0.0.10/pangle-0.0.10.jar returned status 404
+0.0.7		2026-08-26T07:19:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hoorahtech/pangle/0.0.7/pangle-0.0.7.jar returned status 404
+0.0.8		2026-08-26T07:40:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hoorahtech/pangle/0.0.8/pangle-0.0.8.jar returned status 404
+0.0.9		2026-08-26T09:23:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hoorahtech/pangle/0.0.9/pangle-0.0.9.jar returned status 404

@@ -4433,6 +4433,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.2.0-RC2	named	io.strimzi	crd-generator	2026-08-18T16:07:43Z	2.22.1
 0.18.4	named	io.modelcontextprotocol.sdk	client-jdk-http-client	2026-08-19T14:17:44Z	2.20.1
 1.2.0	named	io.strimzi	crd-generator	2026-08-19T21:13:16Z	2.22.1
+1.3.0	named	io.github.gabrielbbaldez	stacktale-mcp	2026-08-20T01:06:02Z	2.22.1
 0.0.1	named	io.github.vicliu624.explicitarchitecture	explicit-architecture-atlas-cli	2026-08-21T03:45:27Z	2.18.2
 0.0.1	named	io.github.vicliu624.explicitarchitecture	explicit-architecture-atlas-cli-full	2026-08-21T03:45:27Z	2.18.2
 0.0.1	named	io.github.vicliu624.explicitarchitecture	explicit-architecture-atlas-server-bootstrap	2026-08-21T03:45:27Z	2.18.2

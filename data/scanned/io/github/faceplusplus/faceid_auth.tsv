@@ -1,1 +1,2 @@
 5.8.16.5		2026-07-07T02:24:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceplusplus/faceid_auth/5.8.16.5/faceid_auth-5.8.16.5.jar returned status 404
+5.8.19		2026-08-11T07:57:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceplusplus/faceid_auth/5.8.19/faceid_auth-5.8.19.jar returned status 404

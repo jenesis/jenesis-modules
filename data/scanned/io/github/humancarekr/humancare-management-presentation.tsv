@@ -80,3 +80,4 @@
 4.0.1		2026-07-01T06:24:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/humancarekr/humancare-management-presentation/4.0.1/humancare-management-presentation-4.0.1.jar returned status 404
 4.0.2		2026-07-01T06:38:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/humancarekr/humancare-management-presentation/4.0.2/humancare-management-presentation-4.0.2.jar returned status 404
 4.1.0		2026-08-10T08:16:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/humancarekr/humancare-management-presentation/4.1.0/humancare-management-presentation-4.1.0.jar returned status 404
+4.2.0		2026-08-25T02:10:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/humancarekr/humancare-management-presentation/4.2.0/humancare-management-presentation-4.2.0.jar returned status 404

@@ -10,3 +10,5 @@
 0.2.1	metadata	2026-03-09T15:13:20Z	
 0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/foshlabs/kmp/navigationkit/navigation-core-iosarm64/0.2.2/navigation-core-iosarm64-0.2.2.jar returned status 404
 0.2.2	metadata	2026-03-09T16:07:55Z	
+0.2.3		2026-08-19T12:26:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/foshlabs/kmp/navigationkit/navigation-core-iosarm64/0.2.3/navigation-core-iosarm64-0.2.3.jar returned status 404
+0.2.3	metadata	2026-08-19T12:26:16Z	
