@@ -9,6 +9,10 @@
 0.11.0		2026-05-27T12:33:59Z	
 0.12.0		2026-06-05T04:42:02Z	
 0.13.0			
+0.14.0		2026-08-18T13:52:57Z	
+0.14.1		2026-08-19T13:13:22Z	
+0.15.0		2026-08-25T21:53:30Z	
+0.15.1		2026-08-26T01:50:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tansuasici/tnsai-tools/0.15.1/tnsai-tools-0.15.1.jar returned status 404
 0.2.2		2026-03-25T14:52:15Z	
 0.2.3		2026-03-26T20:07:01Z	
 0.3.0		2026-04-22T00:30:32Z	

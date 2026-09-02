@@ -4420,6 +4420,8 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.0.0	named	uz.sinaq	sinaq-report-cli	2026-08-13T05:21:30Z	2.17.2
 1.2.0	named	uz.sinaq	sinaq-report-cli	2026-08-13T07:18:03Z	2.17.2
 1.2.1	named	uz.sinaq	sinaq-report-cli	2026-08-14T09:33:16Z	2.17.2
+0.5.0	named	io.github.tomas-samek	tiko-kafka	2026-08-15T11:58:07Z	2.22.1
+0.5.0	named	io.github.tomas-samek	tiko-mcp	2026-08-15T11:58:07Z	2.22.1
 1.2.0-RC1	named	io.strimzi	crd-generator	2026-08-15T17:30:46Z	2.22.1
 1.24.0-ws2	named	io.joynr.tests.graceful-shutdown-test	graceful-shutdown-test-consumer	2026-08-17T18:46:39Z	2.14.2
 1.24.0-ws2	named	io.joynr.examples	stateless-async-car-sim	2026-08-17T18:46:40Z	2.14.2

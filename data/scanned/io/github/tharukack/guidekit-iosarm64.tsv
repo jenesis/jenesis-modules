@@ -8,3 +8,5 @@
 1.0.0	metadata	2026-07-22T04:51:50Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tharukack/guidekit-iosarm64/1.1.0/guidekit-iosarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-07-23T01:44:47Z	
+1.2.0		2026-08-24T02:51:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tharukack/guidekit-iosarm64/1.2.0/guidekit-iosarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-08-24T02:51:04Z	
