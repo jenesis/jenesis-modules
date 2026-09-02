@@ -50,6 +50,14 @@
 10.4.38	metadata	2026-08-06T14:59:31Z	
 10.4.4		2026-06-03T09:46:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.4.4/avs-kmp-macosarm64-10.4.4.jar returned status 404
 10.4.4	metadata	2026-06-03T09:46:37Z	
+10.4.40		2026-08-14T12:19:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.4.40/avs-kmp-macosarm64-10.4.40.jar returned status 404
+10.4.40	metadata	2026-08-14T12:19:03Z	
+10.4.41		2026-08-18T10:17:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.4.41/avs-kmp-macosarm64-10.4.41.jar returned status 404
+10.4.41	metadata	2026-08-18T10:17:50Z	
+10.4.45		2026-08-27T14:29:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.4.45/avs-kmp-macosarm64-10.4.45.jar returned status 404
+10.4.45	metadata	2026-08-27T14:29:32Z	
+10.4.46		2026-08-28T12:13:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.4.46/avs-kmp-macosarm64-10.4.46.jar returned status 404
+10.4.46	metadata	2026-08-28T12:13:52Z	
 10.4.5		2026-06-03T10:12:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.4.5/avs-kmp-macosarm64-10.4.5.jar returned status 404
 10.4.5	metadata	2026-06-03T10:12:23Z	
 10.4.6		2026-06-15T13:03:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.4.6/avs-kmp-macosarm64-10.4.6.jar returned status 404
@@ -58,9 +66,21 @@
 10.4.7	metadata	2026-06-16T11:33:12Z	
 10.4.9		2026-06-30T09:35:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.4.9/avs-kmp-macosarm64-10.4.9.jar returned status 404
 10.4.9	metadata	2026-06-30T09:35:28Z	
+10.5.10		2026-08-18T11:22:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.5.10/avs-kmp-macosarm64-10.5.10.jar returned status 404
+10.5.10	metadata	2026-08-18T11:22:23Z	
+10.5.11		2026-08-20T09:14:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.5.11/avs-kmp-macosarm64-10.5.11.jar returned status 404
+10.5.11	metadata	2026-08-20T09:14:09Z	
+10.5.14		2026-08-26T12:36:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.5.14/avs-kmp-macosarm64-10.5.14.jar returned status 404
+10.5.14	metadata	2026-08-26T12:36:58Z	
+10.5.15		2026-08-27T15:08:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.5.15/avs-kmp-macosarm64-10.5.15.jar returned status 404
+10.5.15	metadata	2026-08-27T15:08:51Z	
+10.5.16		2026-08-28T12:58:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.5.16/avs-kmp-macosarm64-10.5.16.jar returned status 404
+10.5.16	metadata	2026-08-28T12:58:45Z	
 10.5.2		2026-07-03T09:37:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.5.2/avs-kmp-macosarm64-10.5.2.jar returned status 404
 10.5.2	metadata	2026-07-03T09:37:48Z	
 10.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.5.3/avs-kmp-macosarm64-10.5.3.jar returned status 404
 10.5.3	metadata	2026-07-21T11:25:25Z	
 10.5.7		2026-08-11T11:38:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.5.7/avs-kmp-macosarm64-10.5.7.jar returned status 404
 10.5.7	metadata	2026-08-11T11:38:06Z	
+10.5.8		2026-08-11T15:18:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wire/avs-kmp-macosarm64/10.5.8/avs-kmp-macosarm64-10.5.8.jar returned status 404
+10.5.8	metadata	2026-08-11T15:18:54Z	

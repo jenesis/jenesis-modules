@@ -14,3 +14,8 @@
 2.48.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/json-logic-kmp-core/2.48.0/json-logic-kmp-core-2.48.0.jar returned status 404
 2.48.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/json-logic-kmp-core/2.48.1/json-logic-kmp-core-2.48.1.jar returned status 404
 2.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/json-logic-kmp-core/2.49.0/json-logic-kmp-core-2.49.0.jar returned status 404
+2.50.0		2026-08-11T23:04:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/json-logic-kmp-core/2.50.0/json-logic-kmp-core-2.50.0.jar returned status 404
+2.50.1		2026-08-18T02:17:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/json-logic-kmp-core/2.50.1/json-logic-kmp-core-2.50.1.jar returned status 404
+2.51.0		2026-08-21T02:19:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/json-logic-kmp-core/2.51.0/json-logic-kmp-core-2.51.0.jar returned status 404
+2.52.0		2026-08-25T01:09:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/json-logic-kmp-core/2.52.0/json-logic-kmp-core-2.52.0.jar returned status 404
+2.52.1		2026-08-26T20:52:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/json-logic-kmp-core/2.52.1/json-logic-kmp-core-2.52.1.jar returned status 404

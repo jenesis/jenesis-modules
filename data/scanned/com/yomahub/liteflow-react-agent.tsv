@@ -1,3 +1,5 @@
 2.16.0		2026-06-02T16:33:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yomahub/liteflow-react-agent/2.16.0/liteflow-react-agent-2.16.0.jar returned status 404
 2.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yomahub/liteflow-react-agent/2.16.1/liteflow-react-agent-2.16.1.jar returned status 404
 2.16.1.1		2026-08-07T08:04:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yomahub/liteflow-react-agent/2.16.1.1/liteflow-react-agent-2.16.1.1.jar returned status 404
+2.16.1.2		2026-08-12T16:26:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yomahub/liteflow-react-agent/2.16.1.2/liteflow-react-agent-2.16.1.2.jar returned status 404
+2.16.1.3		2026-08-18T08:48:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yomahub/liteflow-react-agent/2.16.1.3/liteflow-react-agent-2.16.1.3.jar returned status 404
