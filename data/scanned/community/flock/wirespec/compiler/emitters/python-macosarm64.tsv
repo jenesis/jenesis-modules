@@ -62,6 +62,10 @@
 0.20.0-RC.13	metadata	2026-07-29T16:15:08Z	
 0.20.0-RC.14		2026-08-10T08:54:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/python-macosarm64/0.20.0-RC.14/python-macosarm64-0.20.0-RC.14.jar returned status 404
 0.20.0-RC.14	metadata	2026-08-10T08:54:28Z	
+0.20.0-RC.15		2026-08-12T08:12:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/python-macosarm64/0.20.0-RC.15/python-macosarm64-0.20.0-RC.15.jar returned status 404
+0.20.0-RC.15	metadata	2026-08-12T08:12:41Z	
+0.20.0-RC.16		2026-08-12T12:41:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/python-macosarm64/0.20.0-RC.16/python-macosarm64-0.20.0-RC.16.jar returned status 404
+0.20.0-RC.16	metadata	2026-08-12T12:41:20Z	
 0.20.0-RC.2		2026-06-23T18:50:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/python-macosarm64/0.20.0-RC.2/python-macosarm64-0.20.0-RC.2.jar returned status 404
 0.20.0-RC.2	metadata	2026-06-23T18:50:20Z	
 0.20.0-RC.3		2026-06-24T21:03:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/python-macosarm64/0.20.0-RC.3/python-macosarm64-0.20.0-RC.3.jar returned status 404

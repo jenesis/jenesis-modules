@@ -8,6 +8,8 @@
 4.0.3	metadata	2026-02-06T22:32:05Z	
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/trixnity/messenger/trixnity-messenger-iossimulatorarm64/4.1.0/trixnity-messenger-iossimulatorarm64-4.1.0.jar returned status 404
 4.1.0	metadata	2026-02-09T15:04:44Z	
+4.10.0		2026-08-28T13:48:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/trixnity/messenger/trixnity-messenger-iossimulatorarm64/4.10.0/trixnity-messenger-iossimulatorarm64-4.10.0.jar returned status 404
+4.10.0	metadata	2026-08-28T13:48:55Z	
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/trixnity/messenger/trixnity-messenger-iossimulatorarm64/4.2.0/trixnity-messenger-iossimulatorarm64-4.2.0.jar returned status 404
 4.2.0	metadata	2026-02-23T15:49:27Z	
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/trixnity/messenger/trixnity-messenger-iossimulatorarm64/4.2.1/trixnity-messenger-iossimulatorarm64-4.2.1.jar returned status 404

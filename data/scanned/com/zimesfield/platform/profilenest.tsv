@@ -1,3 +1,15 @@
 0.0.1		2026-05-24T18:32:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.0.1/profilenest-0.0.1.jar returned status 404
 0.0.2		2026-06-02T20:48:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.0.2/profilenest-0.0.2.jar returned status 404
 0.0.6		2026-06-02T06:43:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.0.6/profilenest-0.0.6.jar returned status 404
+0.3.7-b		2026-08-28T14:15:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.3.7-b/profilenest-0.3.7-b.jar returned status 404
+0.3.7-c		2026-08-28T17:48:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.3.7-c/profilenest-0.3.7-c.jar returned status 404
+0.3.7-d		2026-08-28T18:19:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.3.7-d/profilenest-0.3.7-d.jar returned status 404
+0.3.7-e		2026-08-28T18:25:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.3.7-e/profilenest-0.3.7-e.jar returned status 404
+0.3.7-f		2026-08-28T18:31:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.3.7-f/profilenest-0.3.7-f.jar returned status 404
+0.3.7-g		2026-08-28T18:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.3.7-g/profilenest-0.3.7-g.jar returned status 404
+0.3.7-h		2026-08-28T19:21:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.3.7-h/profilenest-0.3.7-h.jar returned status 404
+0.3.8		2026-08-28T19:38:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.3.8/profilenest-0.3.8.jar returned status 404
+0.8.8		2026-08-26T21:53:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.8.8/profilenest-0.8.8.jar returned status 404
+0.8.9		2026-08-26T22:12:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.8.9/profilenest-0.8.9.jar returned status 404
+0.9.0		2026-08-27T17:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/0.9.0/profilenest-0.9.0.jar returned status 404
+1.0.4		2026-08-27T22:02:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zimesfield/platform/profilenest/1.0.4/profilenest-1.0.4.jar returned status 404
