@@ -3,3 +3,9 @@
 1.1.0-next.4		2026-07-20T19:17:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/a2ui-android/1.1.0-next.4/a2ui-android-1.1.0-next.4.jar returned status 404
 1.1.0-next.5		2026-07-20T23:12:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/a2ui-android/1.1.0-next.5/a2ui-android-1.1.0-next.5.jar returned status 404
 1.1.0-next.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/a2ui-android/1.1.0-next.6/a2ui-android-1.1.0-next.6.jar returned status 404
+1.1.1-next.0		2026-08-13T13:01:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/a2ui-android/1.1.1-next.0/a2ui-android-1.1.1-next.0.jar returned status 404
+1.2.0-next.0		2026-08-25T23:17:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/a2ui-android/1.2.0-next.0/a2ui-android-1.2.0-next.0.jar returned status 404
+1.2.0-next.1		2026-08-26T17:48:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/a2ui-android/1.2.0-next.1/a2ui-android-1.2.0-next.1.jar returned status 404
+1.2.0-next.2		2026-08-26T19:09:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/a2ui-android/1.2.0-next.2/a2ui-android-1.2.0-next.2.jar returned status 404
+1.2.0-next.3		2026-08-26T21:05:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/a2ui-android/1.2.0-next.3/a2ui-android-1.2.0-next.3.jar returned status 404
+1.2.0-next.4		2026-08-31T14:28:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/intuit/playerui/a2ui-android/1.2.0-next.4/a2ui-android-1.2.0-next.4.jar returned status 404

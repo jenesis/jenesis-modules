@@ -4,3 +4,5 @@
 0.2.0	metadata	2026-04-03T10:23:07Z	
 0.2.1		2026-06-28T17:20:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krossovochkin/chesskt/chesskt-iosarm64/0.2.1/chesskt-iosarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2026-06-28T17:20:40Z	
+0.2.2		2026-08-29T12:16:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/krossovochkin/chesskt/chesskt-iosarm64/0.2.2/chesskt-iosarm64-0.2.2.jar returned status 404
+0.2.2	metadata	2026-08-29T12:16:51Z	

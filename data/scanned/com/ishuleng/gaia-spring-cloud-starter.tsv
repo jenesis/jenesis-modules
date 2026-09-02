@@ -42,3 +42,5 @@
 1.6.0		2026-08-07T06:24:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ishuleng/gaia-spring-cloud-starter/1.6.0/gaia-spring-cloud-starter-1.6.0.jar returned status 404
 1.6.1		2026-08-10T01:03:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ishuleng/gaia-spring-cloud-starter/1.6.1/gaia-spring-cloud-starter-1.6.1.jar returned status 404
 1.6.2		2026-08-10T02:58:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ishuleng/gaia-spring-cloud-starter/1.6.2/gaia-spring-cloud-starter-1.6.2.jar returned status 404
+1.6.3		2026-08-13T08:18:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ishuleng/gaia-spring-cloud-starter/1.6.3/gaia-spring-cloud-starter-1.6.3.jar returned status 404
+1.6.4		2026-08-14T03:10:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ishuleng/gaia-spring-cloud-starter/1.6.4/gaia-spring-cloud-starter-1.6.4.jar returned status 404

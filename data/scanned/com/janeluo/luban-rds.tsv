@@ -9,7 +9,10 @@
 1.0.16		2026-08-06T01:28:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/janeluo/luban-rds/1.0.16/luban-rds-1.0.16.jar returned status 404
 1.0.17		2026-08-06T02:56:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/janeluo/luban-rds/1.0.17/luban-rds-1.0.17.jar returned status 404
 1.0.18		2026-08-07T07:48:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/janeluo/luban-rds/1.0.18/luban-rds-1.0.18.jar returned status 404
+1.0.19		2026-08-13T07:48:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/janeluo/luban-rds/1.0.19/luban-rds-1.0.19.jar returned status 404
 1.0.2		2026-07-06T17:11:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/janeluo/luban-rds/1.0.2/luban-rds-1.0.2.jar returned status 404
+1.0.20		2026-08-14T08:01:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/janeluo/luban-rds/1.0.20/luban-rds-1.0.20.jar returned status 404
+1.0.21		2026-08-18T17:13:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/janeluo/luban-rds/1.0.21/luban-rds-1.0.21.jar returned status 404
 1.0.3		2026-07-07T08:51:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/janeluo/luban-rds/1.0.3/luban-rds-1.0.3.jar returned status 404
 1.0.4		2026-07-07T17:06:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/janeluo/luban-rds/1.0.4/luban-rds-1.0.4.jar returned status 404
 1.0.5		2026-07-21T02:46:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/janeluo/luban-rds/1.0.5/luban-rds-1.0.5.jar returned status 404

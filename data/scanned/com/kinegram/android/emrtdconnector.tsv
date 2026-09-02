@@ -25,3 +25,6 @@
 2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kinegram/android/emrtdconnector/2.1.7/emrtdconnector-2.1.7.jar returned status 404
 2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kinegram/android/emrtdconnector/2.1.8/emrtdconnector-2.1.8.jar returned status 404
 2.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kinegram/android/emrtdconnector/2.1.9/emrtdconnector-2.1.9.jar returned status 404
+2.2.0		2026-08-13T14:51:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kinegram/android/emrtdconnector/2.2.0/emrtdconnector-2.2.0.jar returned status 404
+2.3.0		2026-08-26T09:38:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kinegram/android/emrtdconnector/2.3.0/emrtdconnector-2.3.0.jar returned status 404
+2.3.1		2026-08-26T10:46:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kinegram/android/emrtdconnector/2.3.1/emrtdconnector-2.3.1.jar returned status 404
