@@ -616,3 +616,6 @@
 2.3.5	named	com.networknt	lambda-native	2026-07-31T00:06:39Z	2.21.1
 2.3.6	named	com.networknt	lambda-native	2026-08-05T21:58:02Z	2.22.1
 2.3.7	named	com.networknt	lambda-native	2026-08-13T03:50:52Z	2.22.1
+2.21.6	named	com.fasterxml.jackson.datatype	jackson-datatype-jdk8	2026-08-15T00:00:01Z	2.21.6
+2.18.10	named	com.fasterxml.jackson.datatype	jackson-datatype-jdk8	2026-08-16T03:40:57Z	2.18.10
+2.22.2	named	com.fasterxml.jackson.datatype	jackson-datatype-jdk8	2026-08-16T17:00:28Z	2.22.2

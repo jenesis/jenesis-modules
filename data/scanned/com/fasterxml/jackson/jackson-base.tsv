@@ -69,6 +69,7 @@
 2.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.18.0/jackson-base-2.18.0.jar returned status 404
 2.18.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.18.0-rc1/jackson-base-2.18.0-rc1.jar returned status 404
 2.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.18.1/jackson-base-2.18.1.jar returned status 404
+2.18.10		2026-08-16T03:09:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.18.10/jackson-base-2.18.10.jar returned status 404
 2.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.18.2/jackson-base-2.18.2.jar returned status 404
 2.18.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.18.3/jackson-base-2.18.3.jar returned status 404
 2.18.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.18.4/jackson-base-2.18.4.jar returned status 404
@@ -95,8 +96,10 @@
 2.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.21.3/jackson-base-2.21.3.jar returned status 404
 2.21.4		2026-05-29T04:05:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.21.4/jackson-base-2.21.4.jar returned status 404
 2.21.5		2026-07-07T01:51:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.21.5/jackson-base-2.21.5.jar returned status 404
+2.21.6		2026-08-14T22:16:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.21.6/jackson-base-2.21.6.jar returned status 404
 2.22.0		2026-05-31T23:47:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.22.0/jackson-base-2.22.0.jar returned status 404
 2.22.1		2026-07-07T21:12:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.22.1/jackson-base-2.22.1.jar returned status 404
+2.22.2		2026-08-16T16:17:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.22.2/jackson-base-2.22.2.jar returned status 404
 2.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.9.10/jackson-base-2.9.10.jar returned status 404
 2.9.10.20191020			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.9.10.20191020/jackson-base-2.9.10.20191020.jar returned status 404
 2.9.10.20200103			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/fasterxml/jackson/jackson-base/2.9.10.20200103/jackson-base-2.9.10.20200103.jar returned status 404

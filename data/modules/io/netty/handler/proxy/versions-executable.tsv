@@ -4,3 +4,5 @@
 0.298	named	com.facebook.presto	presto-product-tests	2026-06-12T17:26:11Z	4.2.13.Final
 0.298.1	named	com.facebook.presto	presto-product-tests	2026-06-17T15:30:33Z	4.2.13.Final
 0.298.1	named	com.facebook.presto	presto-verifier	2026-06-17T15:30:33Z	4.2.13.Final
+0.299	named	com.facebook.presto	presto-verifier	2026-08-28T06:33:19Z	4.2.16.Final
+0.299	named	com.facebook.presto	presto-product-tests	2026-08-28T06:33:25Z	4.2.16.Final

@@ -4,3 +4,5 @@
 1.0.0-k19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/entrust/identity/verification/sdk/uitokens/1.0.0-k19/uitokens-1.0.0-k19.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/entrust/identity/verification/sdk/uitokens/1.1.0/uitokens-1.1.0.jar returned status 404
 1.1.0-k19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/entrust/identity/verification/sdk/uitokens/1.1.0-k19/uitokens-1.1.0-k19.jar returned status 404
+1.5.0		2026-08-19T14:19:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/entrust/identity/verification/sdk/uitokens/1.5.0/uitokens-1.5.0.jar returned status 404
+1.5.0-k19		2026-08-19T14:19:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/entrust/identity/verification/sdk/uitokens/1.5.0-k19/uitokens-1.5.0-k19.jar returned status 404

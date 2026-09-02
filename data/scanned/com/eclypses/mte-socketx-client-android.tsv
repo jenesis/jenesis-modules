@@ -1,1 +1,3 @@
 2.0.0		2026-07-30T15:51:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eclypses/mte-socketx-client-android/2.0.0/mte-socketx-client-android-2.0.0.jar returned status 404
+2.1.0		2026-08-12T14:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eclypses/mte-socketx-client-android/2.1.0/mte-socketx-client-android-2.1.0.jar returned status 404
+2.1.1		2026-08-20T21:13:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eclypses/mte-socketx-client-android/2.1.1/mte-socketx-client-android-2.1.1.jar returned status 404

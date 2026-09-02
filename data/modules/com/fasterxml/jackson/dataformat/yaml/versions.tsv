@@ -1203,11 +1203,14 @@
 0.75.0	named	io.simpleishard	trino-calcite-base	2026-08-14T21:05:11Z	2.21.3
 0.75.0	named	io.simpleishard	trino-splunk	2026-08-14T21:05:19Z	2.21.3
 0.75.0	named	io.simpleishard	trino-calcite	2026-08-14T21:06:59Z	2.21.3
+2.21.6	named	com.fasterxml.jackson.dataformat	jackson-dataformat-yaml	2026-08-14T22:53:49Z	2.21.6
+2.18.10	named	com.fasterxml.jackson.dataformat	jackson-dataformat-yaml	2026-08-16T03:36:27Z	2.18.10
 0.76.0	named	io.simpleishard	trino-calcite-base	2026-08-16T13:59:26Z	2.21.3
 0.76.0	named	io.simpleishard	trino-calcite	2026-08-16T14:03:59Z	2.21.3
 0.76.0	named	io.simpleishard	trino-sharepoint	2026-08-16T14:04:04Z	2.21.3
 0.76.0	named	io.simpleishard	trino-splunk	2026-08-16T14:04:11Z	2.21.3
 0.76.0	named	io.simpleishard	trino-cloudops	2026-08-16T14:04:32Z	2.21.3
+2.22.2	named	com.fasterxml.jackson.dataformat	jackson-dataformat-yaml	2026-08-16T16:48:30Z	2.22.2
 0.76.1	named	io.simpleishard	trino-splunk	2026-08-16T20:36:44Z	2.21.3
 0.76.1	named	io.simpleishard	trino-cloudops	2026-08-16T20:38:49Z	2.21.3
 0.76.1	named	io.simpleishard	trino-calcite	2026-08-16T20:43:19Z	2.21.3
