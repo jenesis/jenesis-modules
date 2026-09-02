@@ -87,6 +87,8 @@
 15.4.0		2026-07-03T13:48:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gleap/gleap-android-sdk/15.4.0/gleap-android-sdk-15.4.0.jar returned status 404
 16.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gleap/gleap-android-sdk/16.4.0/gleap-android-sdk-16.4.0.jar returned status 404
 16.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gleap/gleap-android-sdk/16.4.2/gleap-android-sdk-16.4.2.jar returned status 404
+16.4.5		2026-08-17T17:13:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gleap/gleap-android-sdk/16.4.5/gleap-android-sdk-16.4.5.jar returned status 404
+17.0.0		2026-08-27T11:12:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gleap/gleap-android-sdk/17.0.0/gleap-android-sdk-17.0.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gleap/gleap-android-sdk/6.0.0/gleap-android-sdk-6.0.0.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gleap/gleap-android-sdk/6.0.2/gleap-android-sdk-6.0.2.jar returned status 404
 6.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gleap/gleap-android-sdk/6.0.3/gleap-android-sdk-6.0.3.jar returned status 404

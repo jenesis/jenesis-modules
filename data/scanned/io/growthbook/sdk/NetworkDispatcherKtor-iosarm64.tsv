@@ -8,6 +8,8 @@
 1.0.13	metadata	2026-04-23T10:31:32Z	
 1.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-iosarm64/1.0.14/NetworkDispatcherKtor-iosarm64-1.0.14.jar returned status 404
 1.0.14	metadata	2026-04-30T08:48:58Z	
+1.0.15		2026-08-14T09:44:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-iosarm64/1.0.15/NetworkDispatcherKtor-iosarm64-1.0.15.jar returned status 404
+1.0.15	metadata	2026-08-14T09:44:43Z	
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-iosarm64/1.0.3/NetworkDispatcherKtor-iosarm64-1.0.3.jar returned status 404
 1.0.3	metadata	2024-11-22T19:13:54Z	
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-iosarm64/1.0.4/NetworkDispatcherKtor-iosarm64-1.0.4.jar returned status 404
@@ -26,3 +28,7 @@
 1.0.8-k1x	metadata	2025-12-19T11:09:49Z	
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-iosarm64/1.0.9/NetworkDispatcherKtor-iosarm64-1.0.9.jar returned status 404
 1.0.9	metadata	2026-01-30T09:32:35Z	
+1.1.0		2026-08-14T15:16:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-iosarm64/1.1.0/NetworkDispatcherKtor-iosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-08-14T15:16:58Z	
+1.2.0		2026-08-25T09:13:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-iosarm64/1.2.0/NetworkDispatcherKtor-iosarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-08-25T09:13:19Z	

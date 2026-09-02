@@ -4,6 +4,7 @@
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.0.12/NetworkDispatcherKtor-android-1.0.12.jar returned status 404
 1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.0.13/NetworkDispatcherKtor-android-1.0.13.jar returned status 404
 1.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.0.14/NetworkDispatcherKtor-android-1.0.14.jar returned status 404
+1.0.15		2026-08-14T09:44:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.0.15/NetworkDispatcherKtor-android-1.0.15.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.0.2/NetworkDispatcherKtor-android-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.0.3/NetworkDispatcherKtor-android-1.0.3.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.0.4/NetworkDispatcherKtor-android-1.0.4.jar returned status 404
@@ -14,3 +15,5 @@
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.0.8/NetworkDispatcherKtor-android-1.0.8.jar returned status 404
 1.0.8-k1x			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.0.8-k1x/NetworkDispatcherKtor-android-1.0.8-k1x.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.0.9/NetworkDispatcherKtor-android-1.0.9.jar returned status 404
+1.1.0		2026-08-14T15:16:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.1.0/NetworkDispatcherKtor-android-1.1.0.jar returned status 404
+1.2.0		2026-08-25T09:13:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/NetworkDispatcherKtor-android/1.2.0/NetworkDispatcherKtor-android-1.2.0.jar returned status 404

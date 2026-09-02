@@ -50,3 +50,4 @@
 5.0.0		2026-06-24T16:47:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/policy/gravitee-ratelimit-parent/5.0.0/gravitee-ratelimit-parent-5.0.0.jar returned status 404
 5.0.0-alpha.6		2026-06-24T13:08:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/policy/gravitee-ratelimit-parent/5.0.0-alpha.6/gravitee-ratelimit-parent-5.0.0-alpha.6.jar returned status 404
 5.0.1		2026-07-03T12:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/policy/gravitee-ratelimit-parent/5.0.1/gravitee-ratelimit-parent-5.0.1.jar returned status 404
+5.0.2		2026-08-17T12:53:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/policy/gravitee-ratelimit-parent/5.0.2/gravitee-ratelimit-parent-5.0.2.jar returned status 404

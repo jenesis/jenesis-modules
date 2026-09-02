@@ -18,6 +18,7 @@
 4.11.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.11.22/gravitee-apim-reporter-4.11.22.jar returned status 404
 4.11.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.11.23/gravitee-apim-reporter-4.11.23.jar returned status 404
 4.11.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.11.24/gravitee-apim-reporter-4.11.24.jar returned status 404
+4.11.25		2026-08-21T15:11:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.11.25/gravitee-apim-reporter-4.11.25.jar returned status 404
 4.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.11.3/gravitee-apim-reporter-4.11.3.jar returned status 404
 4.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.11.4/gravitee-apim-reporter-4.11.4.jar returned status 404
 4.11.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.11.5/gravitee-apim-reporter-4.11.5.jar returned status 404
@@ -38,6 +39,9 @@
 4.12.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.12.12/gravitee-apim-reporter-4.12.12.jar returned status 404
 4.12.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.12.13/gravitee-apim-reporter-4.12.13.jar returned status 404
 4.12.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.12.14/gravitee-apim-reporter-4.12.14.jar returned status 404
+4.12.15		2026-08-12T13:19:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.12.15/gravitee-apim-reporter-4.12.15.jar returned status 404
+4.12.16		2026-08-18T11:25:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.12.16/gravitee-apim-reporter-4.12.16.jar returned status 404
+4.12.17		2026-08-21T15:27:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.12.17/gravitee-apim-reporter-4.12.17.jar returned status 404
 4.12.2		2026-07-01T16:20:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.12.2/gravitee-apim-reporter-4.12.2.jar returned status 404
 4.12.3		2026-07-03T10:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.12.3/gravitee-apim-reporter-4.12.3.jar returned status 404
 4.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/apim/reporter/gravitee-apim-reporter/4.12.4/gravitee-apim-reporter-4.12.4.jar returned status 404
