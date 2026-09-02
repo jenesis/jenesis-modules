@@ -2,6 +2,10 @@
 0.10.0	metadata	2026-06-15T19:10:15Z	
 0.11.0		2026-07-05T08:25:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-testlib-watchosarm32/0.11.0/maryk-testlib-watchosarm32-0.11.0.jar returned status 404
 0.11.0	metadata	2026-07-05T08:25:35Z	
+0.12.0		2026-08-22T16:53:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-testlib-watchosarm32/0.12.0/maryk-testlib-watchosarm32-0.12.0.jar returned status 404
+0.12.0	metadata	2026-08-22T16:53:23Z	
+0.12.1		2026-08-25T06:50:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-testlib-watchosarm32/0.12.1/maryk-testlib-watchosarm32-0.12.1.jar returned status 404
+0.12.1	metadata	2026-08-25T06:50:02Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-testlib-watchosarm32/0.6.0/maryk-testlib-watchosarm32-0.6.0.jar returned status 404
 0.6.0	metadata	2025-01-14T08:54:38Z	
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-testlib-watchosarm32/0.7.0/maryk-testlib-watchosarm32-0.7.0.jar returned status 404

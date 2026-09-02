@@ -1,2 +1,4 @@
 2.0.0		2026-08-09T17:10:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kriptal/ethers/ethers-ens-iosarm64/2.0.0/ethers-ens-iosarm64-2.0.0.jar returned status 404
 2.0.0	metadata	2026-08-09T17:10:17Z	
+2.0.1		2026-08-19T21:27:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kriptal/ethers/ethers-ens-iosarm64/2.0.1/ethers-ens-iosarm64-2.0.1.jar returned status 404
+2.0.1	metadata	2026-08-19T21:27:59Z	

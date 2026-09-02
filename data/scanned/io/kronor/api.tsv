@@ -11,4 +11,5 @@
 2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/2.3.4/api-2.3.4.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/3.0.1/api-3.0.1.jar returned status 404
 3.1.0		2026-08-10T14:20:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/3.1.0/api-3.1.0.jar returned status 404
+3.2.0		2026-08-20T12:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/3.2.0/api-3.2.0.jar returned status 404
 v2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kronor/api/v2.3.1/api-v2.3.1.jar returned status 404
