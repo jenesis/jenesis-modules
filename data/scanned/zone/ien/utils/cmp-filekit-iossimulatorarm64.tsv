@@ -86,3 +86,5 @@
 3.1.0	metadata	2026-07-27T05:55:05Z	
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-filekit-iossimulatorarm64/3.2.0/cmp-filekit-iossimulatorarm64-3.2.0.jar returned status 404
 3.2.0	metadata	2026-07-28T14:21:25Z	
+3.3.0		2026-08-16T04:35:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-filekit-iossimulatorarm64/3.3.0/cmp-filekit-iossimulatorarm64-3.3.0.jar returned status 404
+3.3.0	metadata	2026-08-16T04:35:31Z	

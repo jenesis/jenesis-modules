@@ -170,3 +170,5 @@
 3.0.0-beta	plain	2026-07-09T11:14:13Z	
 3.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-kotlin-spring-boot-autoconfigure/3.0.0-beta2/hmpps-kotlin-spring-boot-autoconfigure-3.0.0-beta2.jar returned status 404
 3.0.0-beta2	plain	2026-07-09T15:20:12Z	
+3.0.1		2026-08-26T14:43:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/hmpps/hmpps-kotlin-spring-boot-autoconfigure/3.0.1/hmpps-kotlin-spring-boot-autoconfigure-3.0.1.jar returned status 404
+3.0.1	plain	2026-08-26T14:43:32Z	

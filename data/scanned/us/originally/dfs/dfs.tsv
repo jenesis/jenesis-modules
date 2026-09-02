@@ -19,3 +19,5 @@
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/originally/dfs/dfs/3.3.0/dfs-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/originally/dfs/dfs/3.3.1/dfs-3.3.1.jar returned status 404
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/originally/dfs/dfs/3.3.2/dfs-3.3.2.jar returned status 404
+3.3.3		2026-08-10T09:25:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/originally/dfs/dfs/3.3.3/dfs-3.3.3.jar returned status 404
+3.3.4		2026-08-24T07:15:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/originally/dfs/dfs/3.3.4/dfs-3.3.4.jar returned status 404

@@ -7,3 +7,5 @@
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/mytang0/brook/brook-spring-boot-locks/1.0.4/brook-spring-boot-locks-1.0.4.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/mytang0/brook/brook-spring-boot-locks/1.0.5/brook-spring-boot-locks-1.0.5.jar returned status 404
 1.0.5.1		2026-08-03T07:02:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/mytang0/brook/brook-spring-boot-locks/1.0.5.1/brook-spring-boot-locks-1.0.5.1.jar returned status 404
+1.0.5.2		2026-08-17T06:59:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/mytang0/brook/brook-spring-boot-locks/1.0.5.2/brook-spring-boot-locks-1.0.5.2.jar returned status 404
+1.0.5.3		2026-08-24T03:55:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/mytang0/brook/brook-spring-boot-locks/1.0.5.3/brook-spring-boot-locks-1.0.5.3.jar returned status 404

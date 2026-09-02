@@ -1,2 +1,4 @@
 0.7.2		2026-07-28T08:47:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-warp-test-macosarm64/0.7.2/kuilt-warp-test-macosarm64-0.7.2.jar returned status 404
 0.7.2	metadata	2026-07-28T08:47:40Z	
+0.7.3		2026-08-13T00:45:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-warp-test-macosarm64/0.7.3/kuilt-warp-test-macosarm64-0.7.3.jar returned status 404
+0.7.3	metadata	2026-08-13T00:45:52Z	

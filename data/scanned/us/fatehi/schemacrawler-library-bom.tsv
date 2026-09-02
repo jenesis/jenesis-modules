@@ -11,6 +11,7 @@
 17.11.4		2026-06-27T01:41:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-library-bom/17.11.4/schemacrawler-library-bom-17.11.4.jar returned status 404
 17.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-library-bom/17.12.1/schemacrawler-library-bom-17.12.1.jar returned status 404
 17.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-library-bom/17.12.2/schemacrawler-library-bom-17.12.2.jar returned status 404
+17.14.1		2026-08-24T03:00:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-library-bom/17.14.1/schemacrawler-library-bom-17.14.1.jar returned status 404
 17.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-library-bom/17.2.7/schemacrawler-library-bom-17.2.7.jar returned status 404
 17.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-library-bom/17.2.8/schemacrawler-library-bom-17.2.8.jar returned status 404
 17.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/fatehi/schemacrawler-library-bom/17.3.0/schemacrawler-library-bom-17.3.0.jar returned status 404

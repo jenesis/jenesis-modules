@@ -8,3 +8,4 @@
 2.0.5		2026-05-26T01:50:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.5/nostr-java-2.0.5.jar returned status 404
 2.0.6		2026-05-27T06:41:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.6/nostr-java-2.0.6.jar returned status 404
 2.0.7		2026-05-27T16:30:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.7/nostr-java-2.0.7.jar returned status 404
+2.0.8		2026-08-22T20:39:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/tcheeric/nostr-java/2.0.8/nostr-java-2.0.8.jar returned status 404
