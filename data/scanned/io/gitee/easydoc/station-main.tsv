@@ -1,5 +1,6 @@
 3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/easydoc/station-main/3.0.10/station-main-3.0.10.jar returned status 404
 3.0.12		2026-08-10T11:02:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/easydoc/station-main/3.0.12/station-main-3.0.12.jar returned status 404
+3.0.13		2026-08-20T14:16:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/easydoc/station-main/3.0.13/station-main-3.0.13.jar returned status 404
 3.0.2		2026-06-15T13:45:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/easydoc/station-main/3.0.2/station-main-3.0.2.jar returned status 404
 3.0.4		2026-06-16T03:08:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/easydoc/station-main/3.0.4/station-main-3.0.4.jar returned status 404
 3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/easydoc/station-main/3.0.9/station-main-3.0.9.jar returned status 404

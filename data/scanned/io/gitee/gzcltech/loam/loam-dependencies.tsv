@@ -1,6 +1,10 @@
 3.0.11		2026-07-30T13:04:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/3.0.11/loam-dependencies-3.0.11.jar returned status 404
 3.0.13		2026-08-02T00:06:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/3.0.13/loam-dependencies-3.0.13.jar returned status 404
 3.0.16		2026-08-05T15:02:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/3.0.16/loam-dependencies-3.0.16.jar returned status 404
+3.2.0		2026-08-16T13:56:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/3.2.0/loam-dependencies-3.2.0.jar returned status 404
+3.2.1		2026-08-17T22:01:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/3.2.1/loam-dependencies-3.2.1.jar returned status 404
+3.2.3		2026-08-26T15:44:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/3.2.3/loam-dependencies-3.2.3.jar returned status 404
+3.2.4		2026-08-28T23:08:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/3.2.4/loam-dependencies-3.2.4.jar returned status 404
 4.0.10		2026-07-29T23:16:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/4.0.10/loam-dependencies-4.0.10.jar returned status 404
 4.0.11		2026-07-30T11:40:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/4.0.11/loam-dependencies-4.0.11.jar returned status 404
 4.0.12		2026-07-31T23:15:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/4.0.12/loam-dependencies-4.0.12.jar returned status 404
@@ -8,3 +12,7 @@
 4.0.14		2026-08-03T23:25:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/4.0.14/loam-dependencies-4.0.14.jar returned status 404
 4.0.15		2026-08-04T22:59:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/4.0.15/loam-dependencies-4.0.15.jar returned status 404
 4.0.16		2026-08-05T14:39:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/4.0.16/loam-dependencies-4.0.16.jar returned status 404
+4.2.0		2026-08-16T01:45:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/4.2.0/loam-dependencies-4.2.0.jar returned status 404
+4.2.1		2026-08-17T14:06:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/4.2.1/loam-dependencies-4.2.1.jar returned status 404
+4.2.2		2026-08-22T04:54:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/4.2.2/loam-dependencies-4.2.2.jar returned status 404
+4.2.3		2026-08-23T15:02:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/loam/loam-dependencies/4.2.3/loam-dependencies-4.2.3.jar returned status 404

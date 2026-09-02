@@ -1,8 +1,16 @@
 3.0.0-RC1		2026-07-19T23:21:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/3.0.0-RC1/codec-bom-3.0.0-RC1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/3.0.2/codec-bom-3.0.2.jar returned status 404
+3.2.0		2026-08-16T14:41:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/3.2.0/codec-bom-3.2.0.jar returned status 404
+3.2.1		2026-08-17T22:19:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/3.2.1/codec-bom-3.2.1.jar returned status 404
+3.2.3		2026-08-26T23:25:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/3.2.3/codec-bom-3.2.3.jar returned status 404
+3.2.4		2026-08-28T23:28:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/3.2.4/codec-bom-3.2.4.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/4.0.0/codec-bom-4.0.0.jar returned status 404
 4.0.0-RC4		2026-07-16T22:19:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/4.0.0-RC4/codec-bom-4.0.0-RC4.jar returned status 404
 4.0.0-RC5		2026-07-18T13:42:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/4.0.0-RC5/codec-bom-4.0.0-RC5.jar returned status 404
 4.0.0-RC6		2026-07-18T16:58:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/4.0.0-RC6/codec-bom-4.0.0-RC6.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/4.0.1/codec-bom-4.0.1.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/4.0.2/codec-bom-4.0.2.jar returned status 404
+4.2.0		2026-08-16T03:54:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/4.2.0/codec-bom-4.2.0.jar returned status 404
+4.2.1		2026-08-17T14:24:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/4.2.1/codec-bom-4.2.1.jar returned status 404
+4.2.2		2026-08-22T05:10:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/4.2.2/codec-bom-4.2.2.jar returned status 404
+4.2.3		2026-08-23T15:38:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/codec/codec-bom/4.2.3/codec-bom-4.2.3.jar returned status 404
