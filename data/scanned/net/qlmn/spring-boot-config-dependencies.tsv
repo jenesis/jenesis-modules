@@ -1,0 +1,2 @@
+1.0.0		2026-08-15T00:23:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/qlmn/spring-boot-config-dependencies/1.0.0/spring-boot-config-dependencies-1.0.0.jar returned status 404
+1.0.1		2026-08-15T10:44:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/qlmn/spring-boot-config-dependencies/1.0.1/spring-boot-config-dependencies-1.0.1.jar returned status 404

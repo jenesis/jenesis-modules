@@ -1,0 +1,4 @@
+0.1.7-rc1		2026-08-28T08:56:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/csiworks/corepos/corepos-sdk/0.1.7-rc1/corepos-sdk-0.1.7-rc1.jar returned status 404
+0.1.7-rc3		2026-08-28T09:38:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/csiworks/corepos/corepos-sdk/0.1.7-rc3/corepos-sdk-0.1.7-rc3.jar returned status 404
+0.1.7-rc4		2026-08-28T13:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/csiworks/corepos/corepos-sdk/0.1.7-rc4/corepos-sdk-0.1.7-rc4.jar returned status 404
+0.1.7-rc5		2026-08-28T13:36:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/csiworks/corepos/corepos-sdk/0.1.7-rc5/corepos-sdk-0.1.7-rc5.jar returned status 404

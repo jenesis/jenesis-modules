@@ -2,6 +2,7 @@
 0.0.301			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/wpos/0.0.301/wpos-0.0.301.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/wpos/5.0.1/wpos-5.0.1.jar returned status 404
 5.0.10		2026-06-12T03:54:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/wpos/5.0.10/wpos-5.0.10.jar returned status 404
+5.0.11		2026-08-11T20:30:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/wpos/5.0.11/wpos-5.0.11.jar returned status 404
 5.0.12		2026-08-04T18:10:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/wpos/5.0.12/wpos-5.0.12.jar returned status 404
 5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/wpos/5.0.2/wpos-5.0.2.jar returned status 404
 5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/wpos/5.0.3/wpos-5.0.3.jar returned status 404

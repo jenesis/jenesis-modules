@@ -2,3 +2,4 @@
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bunny/tv/3.1.0/tv-3.1.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bunny/tv/3.2.0/tv-3.2.0.jar returned status 404
 3.3.0		2026-06-01T08:31:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bunny/tv/3.3.0/tv-3.3.0.jar returned status 404
+3.3.1		2026-08-21T14:54:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bunny/tv/3.3.1/tv-3.3.1.jar returned status 404

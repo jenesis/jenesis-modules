@@ -10,3 +10,9 @@
 0.2.1	metadata	2026-05-20T23:25:12Z	
 0.2.2		2026-05-23T12:04:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/capture/code/annotation-macosx64/0.2.2/annotation-macosx64-0.2.2.jar returned status 404
 0.2.2	metadata	2026-05-23T12:04:05Z	
+0.3.0		2026-08-20T23:43:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/capture/code/annotation-macosx64/0.3.0/annotation-macosx64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-08-20T23:43:36Z	
+0.3.1		2026-08-21T06:24:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/capture/code/annotation-macosx64/0.3.1/annotation-macosx64-0.3.1.jar returned status 404
+0.3.1	metadata	2026-08-21T06:24:31Z	
+0.4.0		2026-08-22T04:02:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/tbsten/capture/code/annotation-macosx64/0.4.0/annotation-macosx64-0.4.0.jar returned status 404
+0.4.0	metadata	2026-08-22T04:02:53Z	

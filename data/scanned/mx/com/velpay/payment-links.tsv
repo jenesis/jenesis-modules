@@ -3,6 +3,7 @@
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.0/payment-links-3.2.0.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.1/payment-links-3.2.1.jar returned status 404
 3.2.10		2026-08-04T17:56:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.10/payment-links-3.2.10.jar returned status 404
+3.2.11		2026-08-21T07:22:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.11/payment-links-3.2.11.jar returned status 404
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.2/payment-links-3.2.2.jar returned status 404
 3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.3/payment-links-3.2.3.jar returned status 404
 3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.4/payment-links-3.2.4.jar returned status 404
@@ -10,3 +11,4 @@
 3.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.6/payment-links-3.2.6.jar returned status 404
 3.2.7		2026-05-21T00:28:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.7/payment-links-3.2.7.jar returned status 404
 3.2.8		2026-06-12T03:31:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.8/payment-links-3.2.8.jar returned status 404
+3.2.9		2026-08-11T20:15:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/payment-links/3.2.9/payment-links-3.2.9.jar returned status 404

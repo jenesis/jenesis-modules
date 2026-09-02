@@ -1,7 +1,9 @@
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/velpay-bom/0.0.5/velpay-bom-0.0.5.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/velpay-bom/1.0.0/velpay-bom-1.0.0.jar returned status 404
 1.0.10		2026-06-17T21:13:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/velpay-bom/1.0.10/velpay-bom-1.0.10.jar returned status 404
+1.0.11		2026-08-12T02:57:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/velpay-bom/1.0.11/velpay-bom-1.0.11.jar returned status 404
 1.0.12		2026-08-04T18:20:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/velpay-bom/1.0.12/velpay-bom-1.0.12.jar returned status 404
+1.0.13		2026-08-21T08:15:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/velpay-bom/1.0.13/velpay-bom-1.0.13.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/velpay-bom/1.0.2/velpay-bom-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/velpay-bom/1.0.3/velpay-bom-1.0.3.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/velpay-bom/1.0.4/velpay-bom-1.0.4.jar returned status 404

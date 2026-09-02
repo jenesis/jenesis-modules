@@ -37,3 +37,6 @@
 0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/automatalib/distribution/automata-distribution/0.9.0/automata-distribution-0.9.0.jar returned status 404
 0.9.0	bundle	2020-02-05T15:41:35Z	
 0.9.0	dependencies-bundle	2020-02-05T15:41:42Z	
+13.0.0		2026-08-12T10:38:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/automatalib/distribution/automata-distribution/13.0.0/automata-distribution-13.0.0.jar returned status 404
+13.0.0	bundle	2026-08-12T10:38:41Z	
+13.0.0	dependencies-bundle	2026-08-12T10:38:41Z	

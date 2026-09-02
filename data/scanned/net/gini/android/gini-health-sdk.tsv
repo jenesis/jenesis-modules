@@ -35,3 +35,4 @@
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gini/android/gini-health-sdk/5.5.0/gini-health-sdk-5.5.0.jar returned status 404
 5.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gini/android/gini-health-sdk/5.5.1/gini-health-sdk-5.5.1.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gini/android/gini-health-sdk/6.0.0/gini-health-sdk-6.0.0.jar returned status 404
+6.1.0		2026-08-11T12:21:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/gini/android/gini-health-sdk/6.1.0/gini-health-sdk-6.1.0.jar returned status 404

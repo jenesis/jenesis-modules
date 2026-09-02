@@ -2,4 +2,6 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/dspos/1.0.0/dspos-1.0.0.jar returned status 404
 1.0.1		2026-05-21T00:57:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/dspos/1.0.1/dspos-1.0.1.jar returned status 404
 1.0.2		2026-06-12T04:02:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/dspos/1.0.2/dspos-1.0.2.jar returned status 404
+1.0.3		2026-08-11T20:42:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/dspos/1.0.3/dspos-1.0.3.jar returned status 404
 1.0.4		2026-08-04T17:53:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/dspos/1.0.4/dspos-1.0.4.jar returned status 404
+1.0.5		2026-08-21T07:48:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/dspos/1.0.5/dspos-1.0.5.jar returned status 404
