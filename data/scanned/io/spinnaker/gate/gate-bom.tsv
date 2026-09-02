@@ -4,6 +4,9 @@
 2026.0-22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.0-22/gate-bom-2026.0-22.jar returned status 404
 2026.0-23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.0-23/gate-bom-2026.0-23.jar returned status 404
 2026.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.0.4/gate-bom-2026.0.4.jar returned status 404
+2026.1-10		2026-08-20T00:36:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.1-10/gate-bom-2026.1-10.jar returned status 404
+2026.1-11		2026-08-20T14:34:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.1-11/gate-bom-2026.1-11.jar returned status 404
+2026.1-12		2026-08-21T17:51:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.1-12/gate-bom-2026.1-12.jar returned status 404
 2026.1-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.1-5/gate-bom-2026.1-5.jar returned status 404
 2026.1-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.1-6/gate-bom-2026.1-6.jar returned status 404
 2026.1-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.1-7/gate-bom-2026.1-7.jar returned status 404
@@ -18,6 +21,10 @@
 2026.2-13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-13/gate-bom-2026.2-13.jar returned status 404
 2026.2-14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-14/gate-bom-2026.2-14.jar returned status 404
 2026.2-15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-15/gate-bom-2026.2-15.jar returned status 404
+2026.2-16		2026-08-11T03:29:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-16/gate-bom-2026.2-16.jar returned status 404
+2026.2-17		2026-08-20T00:39:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-17/gate-bom-2026.2-17.jar returned status 404
+2026.2-18		2026-08-20T01:55:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-18/gate-bom-2026.2-18.jar returned status 404
+2026.2-19		2026-08-21T14:45:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-19/gate-bom-2026.2-19.jar returned status 404
 2026.2-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-2/gate-bom-2026.2-2.jar returned status 404
 2026.2-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-3/gate-bom-2026.2-3.jar returned status 404
 2026.2-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/2026.2-4/gate-bom-2026.2-4.jar returned status 404
@@ -127,3 +134,38 @@ main-283			IOException: Tail request on https://maven-central.storage-download.g
 main-284			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-284/gate-bom-main-284.jar returned status 404
 main-285			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-285/gate-bom-main-285.jar returned status 404
 main-286			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-286/gate-bom-main-286.jar returned status 404
+main-287		2026-08-11T02:34:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-287/gate-bom-main-287.jar returned status 404
+main-288		2026-08-12T14:55:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-288/gate-bom-main-288.jar returned status 404
+main-289		2026-08-12T21:49:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-289/gate-bom-main-289.jar returned status 404
+main-290		2026-08-13T17:54:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-290/gate-bom-main-290.jar returned status 404
+main-291		2026-08-14T14:58:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-291/gate-bom-main-291.jar returned status 404
+main-292		2026-08-14T15:22:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-292/gate-bom-main-292.jar returned status 404
+main-293		2026-08-14T16:34:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-293/gate-bom-main-293.jar returned status 404
+main-294		2026-08-18T14:44:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-294/gate-bom-main-294.jar returned status 404
+main-295		2026-08-18T14:43:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-295/gate-bom-main-295.jar returned status 404
+main-296		2026-08-18T15:06:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-296/gate-bom-main-296.jar returned status 404
+main-297		2026-08-18T22:05:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-297/gate-bom-main-297.jar returned status 404
+main-298		2026-08-18T23:20:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-298/gate-bom-main-298.jar returned status 404
+main-299		2026-08-19T14:58:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-299/gate-bom-main-299.jar returned status 404
+main-300		2026-08-19T18:05:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-300/gate-bom-main-300.jar returned status 404
+main-301		2026-08-19T19:42:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-301/gate-bom-main-301.jar returned status 404
+main-302		2026-08-20T00:47:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-302/gate-bom-main-302.jar returned status 404
+main-303		2026-08-20T15:34:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-303/gate-bom-main-303.jar returned status 404
+main-304		2026-08-21T14:05:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-304/gate-bom-main-304.jar returned status 404
+main-305		2026-08-21T15:00:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-305/gate-bom-main-305.jar returned status 404
+main-306		2026-08-21T16:20:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-306/gate-bom-main-306.jar returned status 404
+main-307		2026-08-22T03:01:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-307/gate-bom-main-307.jar returned status 404
+main-308		2026-08-24T15:05:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-308/gate-bom-main-308.jar returned status 404
+main-309		2026-08-24T17:41:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-309/gate-bom-main-309.jar returned status 404
+main-310		2026-08-24T21:45:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-310/gate-bom-main-310.jar returned status 404
+main-311		2026-08-25T15:33:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-311/gate-bom-main-311.jar returned status 404
+main-312		2026-08-27T14:59:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-312/gate-bom-main-312.jar returned status 404
+main-313		2026-08-27T15:02:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-313/gate-bom-main-313.jar returned status 404
+main-314		2026-08-27T15:34:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-314/gate-bom-main-314.jar returned status 404
+main-315		2026-08-27T17:04:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-315/gate-bom-main-315.jar returned status 404
+main-316		2026-08-27T18:01:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-316/gate-bom-main-316.jar returned status 404
+main-317		2026-08-28T13:39:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-317/gate-bom-main-317.jar returned status 404
+main-318		2026-08-28T14:47:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-318/gate-bom-main-318.jar returned status 404
+main-319		2026-08-28T15:29:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-319/gate-bom-main-319.jar returned status 404
+main-320		2026-08-28T15:31:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-320/gate-bom-main-320.jar returned status 404
+main-321		2026-08-28T16:01:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/gate/gate-bom/main-321/gate-bom-main-321.jar returned status 404
