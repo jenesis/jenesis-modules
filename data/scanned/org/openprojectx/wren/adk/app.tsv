@@ -1,0 +1,4 @@
+0.1.0		2026-08-23T14:34:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openprojectx/wren/adk/app/0.1.0/app-0.1.0.jar returned status 404
+0.1.0	plain	2026-08-23T14:34:27Z	
+0.1.1		2026-08-25T00:33:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openprojectx/wren/adk/app/0.1.1/app-0.1.1.jar returned status 404
+0.1.1	plain	2026-08-25T00:33:23Z	

@@ -1,6 +1,7 @@
 10.0.0		2025-06-05T07:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/10.0.0/war-vaadin08-spring-10.0.0.jar returned status 404
 10.0.1		2025-07-30T08:06:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/10.0.1/war-vaadin08-spring-10.0.1.jar returned status 404
 10.1.0		2026-06-11T09:33:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/10.1.0/war-vaadin08-spring-10.1.0.jar returned status 404
+10.1.1		2026-08-11T12:56:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/10.1.1/war-vaadin08-spring-10.1.1.jar returned status 404
 8.0.0		2024-12-03T20:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/8.0.0/war-vaadin08-spring-8.0.0.jar returned status 404
 8.0.1		2024-12-03T20:03:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/8.0.1/war-vaadin08-spring-8.0.1.jar returned status 404
 8.0.10		2024-12-03T20:03:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/8.0.10/war-vaadin08-spring-8.0.10.jar returned status 404
@@ -32,6 +33,7 @@
 8.0.34		2025-09-18T13:38:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/8.0.34/war-vaadin08-spring-8.0.34.jar returned status 404
 8.0.35		2026-02-27T12:04:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/8.0.35/war-vaadin08-spring-8.0.35.jar returned status 404
 8.0.36		2026-06-11T08:53:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/8.0.36/war-vaadin08-spring-8.0.36.jar returned status 404
+8.0.37		2026-08-11T13:21:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/8.0.37/war-vaadin08-spring-8.0.37.jar returned status 404
 8.0.4		2024-12-03T20:03:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/8.0.4/war-vaadin08-spring-8.0.4.jar returned status 404
 8.0.5		2024-12-03T20:03:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/8.0.5/war-vaadin08-spring-8.0.5.jar returned status 404
 8.0.6		2024-12-03T20:03:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ops4j/pax/web/samples/war-vaadin08-spring/8.0.6/war-vaadin08-spring-8.0.6.jar returned status 404

@@ -6,3 +6,5 @@
 2.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/client/opentmf-http-clients/2.1.4/opentmf-http-clients-2.1.4.jar returned status 404
 2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/client/opentmf-http-clients/2.1.5/opentmf-http-clients-2.1.5.jar returned status 404
 2.1.6		2026-08-05T18:01:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/client/opentmf-http-clients/2.1.6/opentmf-http-clients-2.1.6.jar returned status 404
+2.1.7		2026-08-10T09:02:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/client/opentmf-http-clients/2.1.7/opentmf-http-clients-2.1.7.jar returned status 404
+2.1.8		2026-08-20T19:14:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opentmf/client/opentmf-http-clients/2.1.8/opentmf-http-clients-2.1.8.jar returned status 404
