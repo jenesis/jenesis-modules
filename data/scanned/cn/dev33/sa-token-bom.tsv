@@ -9,3 +9,4 @@
 1.43.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dev33/sa-token-bom/1.43.0/sa-token-bom-1.43.0.jar returned status 404
 1.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dev33/sa-token-bom/1.44.0/sa-token-bom-1.44.0.jar returned status 404
 1.45.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dev33/sa-token-bom/1.45.0/sa-token-bom-1.45.0.jar returned status 404
+1.46.0		2026-08-18T06:25:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dev33/sa-token-bom/1.46.0/sa-token-bom-1.46.0.jar returned status 404

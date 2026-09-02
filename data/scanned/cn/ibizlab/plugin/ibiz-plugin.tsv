@@ -52,3 +52,4 @@
 8.1.0.581.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ibizlab/plugin/ibiz-plugin/8.1.0.581.30/ibiz-plugin-8.1.0.581.30.jar returned status 404
 8.1.0.583.15		2026-08-03T11:24:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ibizlab/plugin/ibiz-plugin/8.1.0.583.15/ibiz-plugin-8.1.0.583.15.jar returned status 404
 8.1.0.583.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ibizlab/plugin/ibiz-plugin/8.1.0.583.6/ibiz-plugin-8.1.0.583.6.jar returned status 404
+8.1.0.584.1		2026-08-19T14:18:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ibizlab/plugin/ibiz-plugin/8.1.0.584.1/ibiz-plugin-8.1.0.584.1.jar returned status 404

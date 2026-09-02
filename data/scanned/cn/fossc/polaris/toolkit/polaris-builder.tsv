@@ -134,3 +134,4 @@
 3.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/fossc/polaris/toolkit/polaris-builder/3.8.8/polaris-builder-3.8.8.jar returned status 404
 3.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/fossc/polaris/toolkit/polaris-builder/3.8.9/polaris-builder-3.8.9.jar returned status 404
 3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/fossc/polaris/toolkit/polaris-builder/3.9.0/polaris-builder-3.9.0.jar returned status 404
+3.9.1		2026-09-01T01:05:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/fossc/polaris/toolkit/polaris-builder/3.9.1/polaris-builder-3.9.1.jar returned status 404

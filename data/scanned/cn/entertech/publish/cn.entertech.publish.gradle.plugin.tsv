@@ -1,2 +1,4 @@
 1.2.1		2026-07-06T02:59:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/entertech/publish/cn.entertech.publish.gradle.plugin/1.2.1/cn.entertech.publish.gradle.plugin-1.2.1.jar returned status 404
 1.2.2		2026-07-22T09:59:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/entertech/publish/cn.entertech.publish.gradle.plugin/1.2.2/cn.entertech.publish.gradle.plugin-1.2.2.jar returned status 404
+1.2.3		2026-08-20T06:51:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/entertech/publish/cn.entertech.publish.gradle.plugin/1.2.3/cn.entertech.publish.gradle.plugin-1.2.3.jar returned status 404
+2.0.0		2026-08-28T02:18:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/entertech/publish/cn.entertech.publish.gradle.plugin/2.0.0/cn.entertech.publish.gradle.plugin-2.0.0.jar returned status 404
