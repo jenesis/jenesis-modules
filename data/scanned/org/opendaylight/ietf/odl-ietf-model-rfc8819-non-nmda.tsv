@@ -8,3 +8,5 @@
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/odl-ietf-model-rfc8819-non-nmda/2.0.1/odl-ietf-model-rfc8819-non-nmda-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/odl-ietf-model-rfc8819-non-nmda/2.0.2/odl-ietf-model-rfc8819-non-nmda-2.0.2.jar returned status 404
 2.0.3		2026-06-14T19:12:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/odl-ietf-model-rfc8819-non-nmda/2.0.3/odl-ietf-model-rfc8819-non-nmda-2.0.3.jar returned status 404
+2.0.5		2026-08-16T15:23:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/odl-ietf-model-rfc8819-non-nmda/2.0.5/odl-ietf-model-rfc8819-non-nmda-2.0.5.jar returned status 404
+2.0.6		2026-08-23T18:08:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/ietf/odl-ietf-model-rfc8819-non-nmda/2.0.6/odl-ietf-model-rfc8819-non-nmda-2.0.6.jar returned status 404

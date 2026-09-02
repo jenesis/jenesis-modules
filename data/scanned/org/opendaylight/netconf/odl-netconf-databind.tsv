@@ -2,7 +2,10 @@
 10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-databind/10.0.1/odl-netconf-databind-10.0.1.jar returned status 404
 10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-databind/10.0.2/odl-netconf-databind-10.0.2.jar returned status 404
 10.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-databind/10.0.3/odl-netconf-databind-10.0.3.jar returned status 404
+10.0.4		2026-08-23T16:58:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-databind/10.0.4/odl-netconf-databind-10.0.4.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-databind/11.0.0/odl-netconf-databind-11.0.0.jar returned status 404
+11.0.1		2026-08-23T16:58:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-databind/11.0.1/odl-netconf-databind-11.0.1.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-databind/9.0.0/odl-netconf-databind-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-databind/9.0.1/odl-netconf-databind-9.0.1.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-databind/9.0.2/odl-netconf-databind-9.0.2.jar returned status 404
+9.0.3		2026-08-16T14:12:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-netconf-databind/9.0.3/odl-netconf-databind-9.0.3.jar returned status 404

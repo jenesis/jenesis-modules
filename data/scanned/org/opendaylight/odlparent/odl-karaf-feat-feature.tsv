@@ -78,6 +78,7 @@
 14.3.4		2026-06-07T14:41:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-feature/14.3.4/odl-karaf-feat-feature-14.3.4.jar returned status 404
 14.3.5		2026-06-07T14:41:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-feature/14.3.5/odl-karaf-feat-feature-14.3.5.jar returned status 404
 14.3.6		2026-06-14T18:21:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-feature/14.3.6/odl-karaf-feat-feature-14.3.6.jar returned status 404
+15.0.0		2026-08-23T17:08:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-feature/15.0.0/odl-karaf-feat-feature-15.0.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-feature/2.0.0/odl-karaf-feat-feature-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-feature/2.0.1/odl-karaf-feat-feature-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-karaf-feat-feature/2.0.2/odl-karaf-feat-feature-2.0.2.jar returned status 404

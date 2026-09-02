@@ -59,10 +59,12 @@
 0.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.20.0/features-openflowplugin-0.20.0.jar returned status 404
 0.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.20.1/features-openflowplugin-0.20.1.jar returned status 404
 0.20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.20.2/features-openflowplugin-0.20.2.jar returned status 404
+0.20.3		2026-08-16T14:30:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.20.3/features-openflowplugin-0.20.3.jar returned status 404
 0.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.21.0/features-openflowplugin-0.21.0.jar returned status 404
 0.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.21.1/features-openflowplugin-0.21.1.jar returned status 404
 0.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.21.2/features-openflowplugin-0.21.2.jar returned status 404
 0.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.21.3/features-openflowplugin-0.21.3.jar returned status 404
+0.21.4		2026-08-23T17:17:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.21.4/features-openflowplugin-0.21.4.jar returned status 404
 0.3.0-Boron			
 0.3.1-Boron-SR1			
 0.3.2-Boron-SR2			
@@ -96,3 +98,4 @@
 0.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.9.3/features-openflowplugin-0.9.3.jar returned status 404
 0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/0.9.4/features-openflowplugin-0.9.4.jar returned status 404
 1.0.0		2026-06-07T14:49:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/1.0.0/features-openflowplugin-1.0.0.jar returned status 404
+1.0.1		2026-08-23T17:17:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/openflowplugin/features-openflowplugin/1.0.1/features-openflowplugin-1.0.1.jar returned status 404

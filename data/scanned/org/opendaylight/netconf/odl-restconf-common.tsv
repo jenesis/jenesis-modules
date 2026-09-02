@@ -40,7 +40,9 @@
 10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/10.0.1/odl-restconf-common-10.0.1.jar returned status 404
 10.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/10.0.2/odl-restconf-common-10.0.2.jar returned status 404
 10.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/10.0.3/odl-restconf-common-10.0.3.jar returned status 404
+10.0.4		2026-08-23T16:49:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/10.0.4/odl-restconf-common-10.0.4.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/11.0.0/odl-restconf-common-11.0.0.jar returned status 404
+11.0.1		2026-08-23T16:50:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/11.0.1/odl-restconf-common-11.0.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/2.0.0/odl-restconf-common-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/2.0.1/odl-restconf-common-2.0.1.jar returned status 404
 2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/2.0.10/odl-restconf-common-2.0.10.jar returned status 404
@@ -127,3 +129,4 @@
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/9.0.0/odl-restconf-common-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/9.0.1/odl-restconf-common-9.0.1.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/9.0.2/odl-restconf-common-9.0.2.jar returned status 404
+9.0.3		2026-08-16T14:04:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/odl-restconf-common/9.0.3/odl-restconf-common-9.0.3.jar returned status 404
