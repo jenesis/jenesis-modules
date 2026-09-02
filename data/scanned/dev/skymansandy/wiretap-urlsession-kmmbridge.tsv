@@ -1,3 +1,4 @@
+1.0.0		2026-08-25T07:51:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-urlsession-kmmbridge/1.0.0/wiretap-urlsession-kmmbridge-1.0.0.jar returned status 404
 1.0.0-RC10		2026-04-22T21:56:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-urlsession-kmmbridge/1.0.0-RC10/wiretap-urlsession-kmmbridge-1.0.0-RC10.jar returned status 404
 1.0.0-RC11		2026-05-05T15:01:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-urlsession-kmmbridge/1.0.0-RC11/wiretap-urlsession-kmmbridge-1.0.0-RC11.jar returned status 404
 1.0.0-RC12		2026-05-23T19:25:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-urlsession-kmmbridge/1.0.0-RC12/wiretap-urlsession-kmmbridge-1.0.0-RC12.jar returned status 404

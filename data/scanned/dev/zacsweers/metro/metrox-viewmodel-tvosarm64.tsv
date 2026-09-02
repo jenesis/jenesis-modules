@@ -74,3 +74,5 @@
 1.4.0	metadata	2026-07-30T23:27:46Z	
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/metrox-viewmodel-tvosarm64/1.4.1/metrox-viewmodel-tvosarm64-1.4.1.jar returned status 404
 1.4.1	metadata	2026-08-06T18:44:17Z	
+1.4.2		2026-08-14T00:43:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/metrox-viewmodel-tvosarm64/1.4.2/metrox-viewmodel-tvosarm64-1.4.2.jar returned status 404
+1.4.2	metadata	2026-08-14T00:43:07Z	

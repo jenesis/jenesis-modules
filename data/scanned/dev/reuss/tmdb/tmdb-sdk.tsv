@@ -1,3 +1,4 @@
 0.1.0		2026-06-19T11:56:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/reuss/tmdb/tmdb-sdk/0.1.0/tmdb-sdk-0.1.0.jar returned status 404
 0.2.0		2026-06-19T14:59:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/reuss/tmdb/tmdb-sdk/0.2.0/tmdb-sdk-0.2.0.jar returned status 404
 1.0.0		2026-06-21T13:00:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/reuss/tmdb/tmdb-sdk/1.0.0/tmdb-sdk-1.0.0.jar returned status 404
+2.0.0		2026-08-23T16:22:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/reuss/tmdb/tmdb-sdk/2.0.0/tmdb-sdk-2.0.0.jar returned status 404

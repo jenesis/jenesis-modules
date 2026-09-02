@@ -4,3 +4,9 @@
 0.4.0	metadata	2026-08-06T07:13:27Z	
 0.5.0		2026-08-11T02:01:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/autograph/autograph-uikit-iossimulatorarm64/0.5.0/autograph-uikit-iossimulatorarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-08-11T02:01:46Z	
+0.6.0		2026-08-15T06:52:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/autograph/autograph-uikit-iossimulatorarm64/0.6.0/autograph-uikit-iossimulatorarm64-0.6.0.jar returned status 404
+0.6.0	metadata	2026-08-15T06:52:31Z	
+0.7.0		2026-08-15T22:20:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/autograph/autograph-uikit-iossimulatorarm64/0.7.0/autograph-uikit-iossimulatorarm64-0.7.0.jar returned status 404
+0.7.0	metadata	2026-08-15T22:20:53Z	
+0.8.0		2026-08-21T21:47:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/autograph/autograph-uikit-iossimulatorarm64/0.8.0/autograph-uikit-iossimulatorarm64-0.8.0.jar returned status 404
+0.8.0	metadata	2026-08-21T21:47:34Z	

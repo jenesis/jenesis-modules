@@ -1,3 +1,4 @@
+1.0.0		2026-08-25T07:51:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-launcher-noop-android/1.0.0/wiretap-launcher-noop-android-1.0.0.jar returned status 404
 1.0.0-RC12		2026-05-23T19:25:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-launcher-noop-android/1.0.0-RC12/wiretap-launcher-noop-android-1.0.0-RC12.jar returned status 404
 1.0.0-RC13		2026-06-02T20:50:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-launcher-noop-android/1.0.0-RC13/wiretap-launcher-noop-android-1.0.0-RC13.jar returned status 404
 1.0.0-RC14		2026-06-04T15:39:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-launcher-noop-android/1.0.0-RC14/wiretap-launcher-noop-android-1.0.0-RC14.jar returned status 404

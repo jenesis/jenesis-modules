@@ -1,0 +1,5 @@
+1.0.0		2026-08-20T08:17:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/oppex/oppex-integration-sdk-parent/1.0.0/oppex-integration-sdk-parent-1.0.0.jar returned status 404
+1.0.1		2026-08-20T08:18:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/oppex/oppex-integration-sdk-parent/1.0.1/oppex-integration-sdk-parent-1.0.1.jar returned status 404
+1.1.0		2026-08-25T07:05:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/oppex/oppex-integration-sdk-parent/1.1.0/oppex-integration-sdk-parent-1.1.0.jar returned status 404
+2.0.0		2026-08-25T10:36:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/oppex/oppex-integration-sdk-parent/2.0.0/oppex-integration-sdk-parent-2.0.0.jar returned status 404
+2.1.0		2026-08-25T10:37:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/oppex/oppex-integration-sdk-parent/2.1.0/oppex-integration-sdk-parent-2.1.0.jar returned status 404
