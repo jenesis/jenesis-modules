@@ -36,6 +36,15 @@
 2.0.0	named	org.opendaylight.bgpcep	bgp-bmp-mock	2026-06-01T10:59:52Z	4.2.10.Final
 2.0.0	named	org.opendaylight.bgpcep	bgp-testtool	2026-06-01T11:00:00Z	4.2.10.Final
 9.0.3	named	org.opendaylight.netconf	netconf-testtool	2026-08-12T15:28:18Z	4.2.16.Final
+0.23.3	named	org.opendaylight.bgpcep	pcep-testtool	2026-08-21T04:13:42Z	4.2.16.Final
+0.23.3	named	org.opendaylight.bgpcep	bgp-bmp-mock	2026-08-21T04:14:52Z	4.2.16.Final
+0.23.3	named	org.opendaylight.bgpcep	bgp-testtool	2026-08-21T04:15:01Z	4.2.16.Final
 10.0.4	named	org.opendaylight.netconf	netconf-testtool	2026-08-21T05:54:34Z	4.2.16.Final
+1.0.2	named	org.opendaylight.bgpcep	pcep-testtool	2026-08-21T13:36:59Z	4.2.16.Final
+1.0.2	named	org.opendaylight.bgpcep	bgp-bmp-mock	2026-08-21T13:38:09Z	4.2.16.Final
+1.0.2	named	org.opendaylight.bgpcep	bgp-testtool	2026-08-21T13:38:18Z	4.2.16.Final
+2.0.1	named	org.opendaylight.bgpcep	pcep-testtool	2026-08-22T01:42:06Z	4.2.16.Final
+2.0.1	named	org.opendaylight.bgpcep	bgp-bmp-mock	2026-08-22T01:43:16Z	4.2.16.Final
+2.0.1	named	org.opendaylight.bgpcep	bgp-testtool	2026-08-22T01:43:28Z	4.2.16.Final
 9.0.4	named	org.opendaylight.netconf	netconf-testtool	2026-08-28T08:23:42Z	4.2.16.Final
 10.0.5	named	org.opendaylight.netconf	netconf-testtool	2026-08-28T08:28:53Z	4.2.16.Final

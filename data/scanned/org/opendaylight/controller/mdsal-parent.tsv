@@ -36,6 +36,7 @@
 11.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/11.0.2/mdsal-parent-11.0.2.jar returned status 404
 11.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/11.0.3/mdsal-parent-11.0.3.jar returned status 404
 11.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/11.0.4/mdsal-parent-11.0.4.jar returned status 404
+11.0.5		2026-08-10T22:57:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/11.0.5/mdsal-parent-11.0.5.jar returned status 404
 12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/12.0.0/mdsal-parent-12.0.0.jar returned status 404
 12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/12.0.1/mdsal-parent-12.0.1.jar returned status 404
 12.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/12.0.2/mdsal-parent-12.0.2.jar returned status 404
@@ -43,9 +44,12 @@
 12.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/12.0.4/mdsal-parent-12.0.4.jar returned status 404
 12.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/12.0.5/mdsal-parent-12.0.5.jar returned status 404
 12.0.6		2026-06-10T12:52:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/12.0.6/mdsal-parent-12.0.6.jar returned status 404
+12.0.7		2026-08-11T05:55:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/12.0.7/mdsal-parent-12.0.7.jar returned status 404
 13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/13.0.0/mdsal-parent-13.0.0.jar returned status 404
 13.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/13.0.1/mdsal-parent-13.0.1.jar returned status 404
 13.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/13.0.2/mdsal-parent-13.0.2.jar returned status 404
+13.0.3		2026-08-12T15:23:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/13.0.3/mdsal-parent-13.0.3.jar returned status 404
+13.0.4		2026-08-20T23:10:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/13.0.4/mdsal-parent-13.0.4.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/2.0.0/mdsal-parent-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/2.0.1/mdsal-parent-2.0.1.jar returned status 404
 2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/mdsal-parent/2.0.10/mdsal-parent-2.0.10.jar returned status 404

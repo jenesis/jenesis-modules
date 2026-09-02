@@ -50,6 +50,7 @@
 11.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/11.0.2/odl-mdsal-benchmark-11.0.2.jar returned status 404
 11.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/11.0.3/odl-mdsal-benchmark-11.0.3.jar returned status 404
 11.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/11.0.4/odl-mdsal-benchmark-11.0.4.jar returned status 404
+11.0.5		2026-08-16T12:38:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/11.0.5/odl-mdsal-benchmark-11.0.5.jar returned status 404
 12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/12.0.0/odl-mdsal-benchmark-12.0.0.jar returned status 404
 12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/12.0.1/odl-mdsal-benchmark-12.0.1.jar returned status 404
 12.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/12.0.2/odl-mdsal-benchmark-12.0.2.jar returned status 404
@@ -57,9 +58,12 @@
 12.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/12.0.4/odl-mdsal-benchmark-12.0.4.jar returned status 404
 12.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/12.0.5/odl-mdsal-benchmark-12.0.5.jar returned status 404
 12.0.6		2026-06-14T16:50:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/12.0.6/odl-mdsal-benchmark-12.0.6.jar returned status 404
+12.0.7		2026-08-16T12:38:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/12.0.7/odl-mdsal-benchmark-12.0.7.jar returned status 404
 13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/13.0.0/odl-mdsal-benchmark-13.0.0.jar returned status 404
 13.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/13.0.1/odl-mdsal-benchmark-13.0.1.jar returned status 404
 13.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/13.0.2/odl-mdsal-benchmark-13.0.2.jar returned status 404
+13.0.3		2026-08-16T12:38:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/13.0.3/odl-mdsal-benchmark-13.0.3.jar returned status 404
+13.0.4		2026-08-23T15:19:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/13.0.4/odl-mdsal-benchmark-13.0.4.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/2.0.0/odl-mdsal-benchmark-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/2.0.1/odl-mdsal-benchmark-2.0.1.jar returned status 404
 2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-mdsal-benchmark/2.0.10/odl-mdsal-benchmark-2.0.10.jar returned status 404

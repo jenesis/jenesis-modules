@@ -5,6 +5,9 @@
 12.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-pekko/12.0.4/odl-pekko-12.0.4.jar returned status 404
 12.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-pekko/12.0.5/odl-pekko-12.0.5.jar returned status 404
 12.0.6		2026-06-14T17:00:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-pekko/12.0.6/odl-pekko-12.0.6.jar returned status 404
+12.0.7		2026-08-16T12:48:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-pekko/12.0.7/odl-pekko-12.0.7.jar returned status 404
 13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-pekko/13.0.0/odl-pekko-13.0.0.jar returned status 404
 13.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-pekko/13.0.1/odl-pekko-13.0.1.jar returned status 404
 13.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-pekko/13.0.2/odl-pekko-13.0.2.jar returned status 404
+13.0.3		2026-08-16T12:48:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-pekko/13.0.3/odl-pekko-13.0.3.jar returned status 404
+13.0.4		2026-08-23T15:30:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-pekko/13.0.4/odl-pekko-13.0.4.jar returned status 404

@@ -113,6 +113,7 @@
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/0.23.0/odl-bgpcep-bgp-dependencies-0.23.0.jar returned status 404
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/0.23.1/odl-bgpcep-bgp-dependencies-0.23.1.jar returned status 404
 0.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/0.23.2/odl-bgpcep-bgp-dependencies-0.23.2.jar returned status 404
+0.23.3		2026-08-23T14:49:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/0.23.3/odl-bgpcep-bgp-dependencies-0.23.3.jar returned status 404
 0.7.0-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/0.7.0-Carbon/odl-bgpcep-bgp-dependencies-0.7.0-Carbon.jar returned status 404
 0.7.1-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/0.7.1-Carbon/odl-bgpcep-bgp-dependencies-0.7.1-Carbon.jar returned status 404
 0.7.2-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/0.7.2-Carbon/odl-bgpcep-bgp-dependencies-0.7.2-Carbon.jar returned status 404
@@ -129,4 +130,6 @@
 0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/0.9.4/odl-bgpcep-bgp-dependencies-0.9.4.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/1.0.0/odl-bgpcep-bgp-dependencies-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/1.0.1/odl-bgpcep-bgp-dependencies-1.0.1.jar returned status 404
+1.0.2		2026-08-23T14:49:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/1.0.2/odl-bgpcep-bgp-dependencies-1.0.2.jar returned status 404
 2.0.0		2026-06-07T12:47:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/2.0.0/odl-bgpcep-bgp-dependencies-2.0.0.jar returned status 404
+2.0.1		2026-08-23T14:49:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/odl-bgpcep-bgp-dependencies/2.0.1/odl-bgpcep-bgp-dependencies-2.0.1.jar returned status 404

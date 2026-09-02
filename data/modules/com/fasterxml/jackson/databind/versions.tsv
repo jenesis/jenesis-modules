@@ -4419,3 +4419,5 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.0.0	named	uz.sinaq	sinaq-report-cli	2026-08-13T05:21:30Z	2.17.2
 1.2.0	named	uz.sinaq	sinaq-report-cli	2026-08-13T07:18:03Z	2.17.2
 1.2.1	named	uz.sinaq	sinaq-report-cli	2026-08-14T09:33:16Z	2.17.2
+2.0.15	named	org.octopusden.octopus.sonar	sonar-automation	2026-08-27T10:06:32Z	2.20.1
+2.0.16	named	org.octopusden.octopus.sonar	sonar-automation	2026-08-28T01:21:00Z	2.20.1

@@ -3,6 +3,7 @@
 0.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.21.2/template-feature-parent-0.21.2.jar returned status 404
 0.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.21.3/template-feature-parent-0.21.3.jar returned status 404
 0.21.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.21.4/template-feature-parent-0.21.4.jar returned status 404
+0.21.5		2026-08-11T10:10:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.21.5/template-feature-parent-0.21.5.jar returned status 404
 0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.22.0/template-feature-parent-0.22.0.jar returned status 404
 0.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.22.1/template-feature-parent-0.22.1.jar returned status 404
 0.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.22.2/template-feature-parent-0.22.2.jar returned status 404
@@ -10,6 +11,9 @@
 0.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.22.4/template-feature-parent-0.22.4.jar returned status 404
 0.22.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.22.5/template-feature-parent-0.22.5.jar returned status 404
 0.22.6		2026-06-10T16:41:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.22.6/template-feature-parent-0.22.6.jar returned status 404
+0.22.7		2026-08-11T14:01:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.22.7/template-feature-parent-0.22.7.jar returned status 404
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.23.0/template-feature-parent-0.23.0.jar returned status 404
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.23.1/template-feature-parent-0.23.1.jar returned status 404
 0.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.23.2/template-feature-parent-0.23.2.jar returned status 404
+0.23.3		2026-08-12T22:09:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.23.3/template-feature-parent-0.23.3.jar returned status 404
+0.23.4		2026-08-21T01:58:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/template-feature-parent/0.23.4/template-feature-parent-0.23.4.jar returned status 404

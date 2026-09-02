@@ -113,6 +113,7 @@
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/0.23.0/bgpcep-artifacts-0.23.0.jar returned status 404
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/0.23.1/bgpcep-artifacts-0.23.1.jar returned status 404
 0.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/0.23.2/bgpcep-artifacts-0.23.2.jar returned status 404
+0.23.3		2026-08-21T04:14:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/0.23.3/bgpcep-artifacts-0.23.3.jar returned status 404
 0.4.0-Lithium			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/0.4.0-Lithium/bgpcep-artifacts-0.4.0-Lithium.jar returned status 404
 0.4.1-Lithium-SR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/0.4.1-Lithium-SR1/bgpcep-artifacts-0.4.1-Lithium-SR1.jar returned status 404
 0.4.2-Lithium-SR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/0.4.2-Lithium-SR2/bgpcep-artifacts-0.4.2-Lithium-SR2.jar returned status 404
@@ -144,4 +145,6 @@
 0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/0.9.4/bgpcep-artifacts-0.9.4.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/1.0.0/bgpcep-artifacts-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/1.0.1/bgpcep-artifacts-1.0.1.jar returned status 404
+1.0.2		2026-08-21T13:38:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/1.0.2/bgpcep-artifacts-1.0.2.jar returned status 404
 2.0.0		2026-06-01T10:59:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/2.0.0/bgpcep-artifacts-2.0.0.jar returned status 404
+2.0.1		2026-08-22T01:43:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/bgpcep/bgpcep-artifacts/2.0.1/bgpcep-artifacts-2.0.1.jar returned status 404

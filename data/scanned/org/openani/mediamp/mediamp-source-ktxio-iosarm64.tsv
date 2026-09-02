@@ -64,3 +64,9 @@
 0.2.0	metadata	2026-07-20T07:12:48Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-source-ktxio-iosarm64/0.2.1/mediamp-source-ktxio-iosarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2026-07-27T08:53:00Z	
+0.3.0		2026-08-09T12:52:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-source-ktxio-iosarm64/0.3.0/mediamp-source-ktxio-iosarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-08-09T12:52:11Z	
+0.3.1		2026-08-14T04:35:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-source-ktxio-iosarm64/0.3.1/mediamp-source-ktxio-iosarm64-0.3.1.jar returned status 404
+0.3.1	metadata	2026-08-14T04:35:35Z	
+0.3.2		2026-08-20T14:33:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openani/mediamp/mediamp-source-ktxio-iosarm64/0.3.2/mediamp-source-ktxio-iosarm64-0.3.2.jar returned status 404
+0.3.2	metadata	2026-08-20T14:33:02Z	

@@ -118,6 +118,7 @@
 0.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.21.2/aaa-artifacts-0.21.2.jar returned status 404
 0.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.21.3/aaa-artifacts-0.21.3.jar returned status 404
 0.21.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.21.4/aaa-artifacts-0.21.4.jar returned status 404
+0.21.5		2026-08-11T10:09:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.21.5/aaa-artifacts-0.21.5.jar returned status 404
 0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.22.0/aaa-artifacts-0.22.0.jar returned status 404
 0.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.22.1/aaa-artifacts-0.22.1.jar returned status 404
 0.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.22.2/aaa-artifacts-0.22.2.jar returned status 404
@@ -125,9 +126,12 @@
 0.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.22.4/aaa-artifacts-0.22.4.jar returned status 404
 0.22.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.22.5/aaa-artifacts-0.22.5.jar returned status 404
 0.22.6		2026-06-10T16:40:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.22.6/aaa-artifacts-0.22.6.jar returned status 404
+0.22.7		2026-08-11T14:00:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.22.7/aaa-artifacts-0.22.7.jar returned status 404
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.23.0/aaa-artifacts-0.23.0.jar returned status 404
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.23.1/aaa-artifacts-0.23.1.jar returned status 404
 0.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.23.2/aaa-artifacts-0.23.2.jar returned status 404
+0.23.3		2026-08-12T22:09:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.23.3/aaa-artifacts-0.23.3.jar returned status 404
+0.23.4		2026-08-21T01:58:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.23.4/aaa-artifacts-0.23.4.jar returned status 404
 0.3.0-Beryllium			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.3.0-Beryllium/aaa-artifacts-0.3.0-Beryllium.jar returned status 404
 0.3.1-Beryllium-SR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.3.1-Beryllium-SR1/aaa-artifacts-0.3.1-Beryllium-SR1.jar returned status 404
 0.3.2-Beryllium-SR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/aaa-artifacts/0.3.2-Beryllium-SR2/aaa-artifacts-0.3.2-Beryllium-SR2.jar returned status 404

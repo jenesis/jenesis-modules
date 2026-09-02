@@ -101,6 +101,7 @@
 0.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.21.2/odl-apache-shiro-0.21.2.jar returned status 404
 0.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.21.3/odl-apache-shiro-0.21.3.jar returned status 404
 0.21.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.21.4/odl-apache-shiro-0.21.4.jar returned status 404
+0.21.5		2026-08-16T11:52:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.21.5/odl-apache-shiro-0.21.5.jar returned status 404
 0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.22.0/odl-apache-shiro-0.22.0.jar returned status 404
 0.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.22.1/odl-apache-shiro-0.22.1.jar returned status 404
 0.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.22.2/odl-apache-shiro-0.22.2.jar returned status 404
@@ -108,6 +109,9 @@
 0.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.22.4/odl-apache-shiro-0.22.4.jar returned status 404
 0.22.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.22.5/odl-apache-shiro-0.22.5.jar returned status 404
 0.22.6		2026-06-14T16:14:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.22.6/odl-apache-shiro-0.22.6.jar returned status 404
+0.22.7		2026-08-16T11:52:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.22.7/odl-apache-shiro-0.22.7.jar returned status 404
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.23.0/odl-apache-shiro-0.23.0.jar returned status 404
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.23.1/odl-apache-shiro-0.23.1.jar returned status 404
 0.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.23.2/odl-apache-shiro-0.23.2.jar returned status 404
+0.23.3		2026-08-16T11:52:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.23.3/odl-apache-shiro-0.23.3.jar returned status 404
+0.23.4		2026-08-23T14:29:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/aaa/odl-apache-shiro/0.23.4/odl-apache-shiro-0.23.4.jar returned status 404
