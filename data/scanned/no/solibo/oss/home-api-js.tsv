@@ -120,6 +120,7 @@
 1.1.80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.1.80/home-api-js-1.1.80.jar returned status 404
 1.1.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.1.81/home-api-js-1.1.81.jar returned status 404
 1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.1.9/home-api-js-1.1.9.jar returned status 404
+1.10.0		2026-08-28T22:56:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.10.0/home-api-js-1.10.0.jar returned status 404
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.4.1/home-api-js-1.4.1.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.4.2/home-api-js-1.4.2.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.4.3/home-api-js-1.4.3.jar returned status 404
@@ -251,6 +252,7 @@
 1.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.12/home-api-js-1.8.12.jar returned status 404
 1.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.13/home-api-js-1.8.13.jar returned status 404
 1.8.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.14/home-api-js-1.8.14.jar returned status 404
+1.8.15		2026-08-10T12:18:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.15/home-api-js-1.8.15.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.2/home-api-js-1.8.2.jar returned status 404
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.3/home-api-js-1.8.3.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.4/home-api-js-1.8.4.jar returned status 404
@@ -259,3 +261,23 @@
 1.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.7/home-api-js-1.8.7.jar returned status 404
 1.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.8/home-api-js-1.8.8.jar returned status 404
 1.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.8.9/home-api-js-1.8.9.jar returned status 404
+1.9.0		2026-08-12T16:31:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.0/home-api-js-1.9.0.jar returned status 404
+1.9.1		2026-08-12T18:42:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.1/home-api-js-1.9.1.jar returned status 404
+1.9.10		2026-08-17T15:08:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.10/home-api-js-1.9.10.jar returned status 404
+1.9.11		2026-08-18T09:21:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.11/home-api-js-1.9.11.jar returned status 404
+1.9.12		2026-08-19T12:27:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.12/home-api-js-1.9.12.jar returned status 404
+1.9.14		2026-08-21T23:09:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.14/home-api-js-1.9.14.jar returned status 404
+1.9.15		2026-08-24T14:28:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.15/home-api-js-1.9.15.jar returned status 404
+1.9.16		2026-08-26T23:30:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.16/home-api-js-1.9.16.jar returned status 404
+1.9.17		2026-08-27T01:44:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.17/home-api-js-1.9.17.jar returned status 404
+1.9.18		2026-08-27T08:22:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.18/home-api-js-1.9.18.jar returned status 404
+1.9.2		2026-08-15T21:17:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.2/home-api-js-1.9.2.jar returned status 404
+1.9.20		2026-08-27T13:26:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.20/home-api-js-1.9.20.jar returned status 404
+1.9.21		2026-08-27T15:12:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.21/home-api-js-1.9.21.jar returned status 404
+1.9.3		2026-08-15T23:04:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.3/home-api-js-1.9.3.jar returned status 404
+1.9.4		2026-08-16T01:07:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.4/home-api-js-1.9.4.jar returned status 404
+1.9.5		2026-08-16T17:18:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.5/home-api-js-1.9.5.jar returned status 404
+1.9.6		2026-08-16T18:36:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.6/home-api-js-1.9.6.jar returned status 404
+1.9.7		2026-08-16T23:28:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.7/home-api-js-1.9.7.jar returned status 404
+1.9.8		2026-08-17T05:22:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.8/home-api-js-1.9.8.jar returned status 404
+1.9.9		2026-08-17T10:14:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-js/1.9.9/home-api-js-1.9.9.jar returned status 404

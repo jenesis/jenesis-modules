@@ -111,4 +111,14 @@
 1.6.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.13/qtart-1.6.13.jar returned status 404
 1.6.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.14/qtart-1.6.14.jar returned status 404
 1.6.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.19/qtart-1.6.19.jar returned status 404
+1.6.26		2026-08-13T15:27:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.26/qtart-1.6.26.jar returned status 404
+1.6.27		2026-08-19T20:34:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.27/qtart-1.6.27.jar returned status 404
+1.6.28		2026-08-19T22:30:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.28/qtart-1.6.28.jar returned status 404
+1.6.29		2026-08-20T13:18:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.29/qtart-1.6.29.jar returned status 404
+1.6.30		2026-08-20T15:57:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.30/qtart-1.6.30.jar returned status 404
+1.6.31		2026-08-21T08:00:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.31/qtart-1.6.31.jar returned status 404
+1.6.32		2026-08-22T12:39:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.32/qtart-1.6.32.jar returned status 404
+1.6.35		2026-08-26T10:35:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.35/qtart-1.6.35.jar returned status 404
+1.6.36		2026-08-27T13:20:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.36/qtart-1.6.36.jar returned status 404
+1.6.38		2026-08-27T17:18:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.38/qtart-1.6.38.jar returned status 404
 1.6.4		2026-06-08T15:32:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/taler/qtart/1.6.4/qtart-1.6.4.jar returned status 404

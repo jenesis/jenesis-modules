@@ -1,3 +1,4 @@
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/helseid/parent/0.1.2/parent-0.1.2.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/helseid/parent/1.0.0/parent-1.0.0.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/helseid/parent/1.0.2/parent-1.0.2.jar returned status 404
+1.0.3		2026-08-21T13:41:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/helseid/parent/1.0.3/parent-1.0.3.jar returned status 404

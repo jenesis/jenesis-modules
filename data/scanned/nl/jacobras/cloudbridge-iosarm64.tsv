@@ -2,3 +2,5 @@
 0.6.0	metadata	2026-07-22T19:05:22Z	
 0.7.0		2026-07-25T10:17:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/cloudbridge-iosarm64/0.7.0/cloudbridge-iosarm64-0.7.0.jar returned status 404
 0.7.0	metadata	2026-07-25T10:17:26Z	
+0.8.0		2026-08-21T13:36:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/jacobras/cloudbridge-iosarm64/0.8.0/cloudbridge-iosarm64-0.8.0.jar returned status 404
+0.8.0	metadata	2026-08-21T13:36:51Z	

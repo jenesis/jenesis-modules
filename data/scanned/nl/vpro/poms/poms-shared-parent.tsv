@@ -166,6 +166,7 @@
 8.14.0		2026-06-03T08:16:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-shared-parent/8.14.0/poms-shared-parent-8.14.0.jar returned status 404
 8.14.1		2026-06-26T13:05:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-shared-parent/8.14.1/poms-shared-parent-8.14.1.jar returned status 404
 8.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-shared-parent/8.14.2/poms-shared-parent-8.14.2.jar returned status 404
+8.15.0		2026-08-28T15:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-shared-parent/8.15.0/poms-shared-parent-8.15.0.jar returned status 404
 8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-shared-parent/8.2.0/poms-shared-parent-8.2.0.jar returned status 404
 8.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-shared-parent/8.2.1/poms-shared-parent-8.2.1.jar returned status 404
 8.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-shared-parent/8.2.2/poms-shared-parent-8.2.2.jar returned status 404

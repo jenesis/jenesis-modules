@@ -242,6 +242,8 @@
 1.1.81	metadata	2026-03-31T20:36:41Z	
 1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.1.9/home-api-iosx64-1.1.9.jar returned status 404
 1.1.9	metadata	2026-02-20T11:38:39Z	
+1.10.0		2026-08-28T22:56:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.10.0/home-api-iosx64-1.10.0.jar returned status 404
+1.10.0	metadata	2026-08-28T22:56:01Z	
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.4.1/home-api-iosx64-1.4.1.jar returned status 404
 1.4.1	metadata	2026-05-06T00:19:23Z	
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.4.2/home-api-iosx64-1.4.2.jar returned status 404
@@ -504,6 +506,8 @@
 1.8.13	metadata	2026-08-04T13:11:10Z	
 1.8.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.8.14/home-api-iosx64-1.8.14.jar returned status 404
 1.8.14	metadata	2026-08-04T14:27:08Z	
+1.8.15		2026-08-10T12:18:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.8.15/home-api-iosx64-1.8.15.jar returned status 404
+1.8.15	metadata	2026-08-10T12:18:15Z	
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.8.2/home-api-iosx64-1.8.2.jar returned status 404
 1.8.2	metadata	2026-07-23T23:25:07Z	
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.8.3/home-api-iosx64-1.8.3.jar returned status 404
@@ -520,3 +524,43 @@
 1.8.8	metadata	2026-07-25T23:39:52Z	
 1.8.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.8.9/home-api-iosx64-1.8.9.jar returned status 404
 1.8.9	metadata	2026-07-27T19:24:27Z	
+1.9.0		2026-08-12T16:31:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.0/home-api-iosx64-1.9.0.jar returned status 404
+1.9.0	metadata	2026-08-12T16:31:48Z	
+1.9.1		2026-08-12T18:42:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.1/home-api-iosx64-1.9.1.jar returned status 404
+1.9.1	metadata	2026-08-12T18:42:33Z	
+1.9.10		2026-08-17T15:08:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.10/home-api-iosx64-1.9.10.jar returned status 404
+1.9.10	metadata	2026-08-17T15:08:11Z	
+1.9.11		2026-08-18T09:21:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.11/home-api-iosx64-1.9.11.jar returned status 404
+1.9.11	metadata	2026-08-18T09:21:16Z	
+1.9.12		2026-08-19T12:27:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.12/home-api-iosx64-1.9.12.jar returned status 404
+1.9.12	metadata	2026-08-19T12:27:14Z	
+1.9.14		2026-08-21T23:09:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.14/home-api-iosx64-1.9.14.jar returned status 404
+1.9.14	metadata	2026-08-21T23:09:42Z	
+1.9.15		2026-08-24T14:28:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.15/home-api-iosx64-1.9.15.jar returned status 404
+1.9.15	metadata	2026-08-24T14:28:15Z	
+1.9.16		2026-08-26T23:30:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.16/home-api-iosx64-1.9.16.jar returned status 404
+1.9.16	metadata	2026-08-26T23:30:42Z	
+1.9.17		2026-08-27T01:44:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.17/home-api-iosx64-1.9.17.jar returned status 404
+1.9.17	metadata	2026-08-27T01:44:28Z	
+1.9.18		2026-08-27T08:22:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.18/home-api-iosx64-1.9.18.jar returned status 404
+1.9.18	metadata	2026-08-27T08:22:57Z	
+1.9.2		2026-08-15T21:17:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.2/home-api-iosx64-1.9.2.jar returned status 404
+1.9.2	metadata	2026-08-15T21:17:12Z	
+1.9.20		2026-08-27T13:26:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.20/home-api-iosx64-1.9.20.jar returned status 404
+1.9.20	metadata	2026-08-27T13:26:45Z	
+1.9.21		2026-08-27T15:12:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.21/home-api-iosx64-1.9.21.jar returned status 404
+1.9.21	metadata	2026-08-27T15:12:30Z	
+1.9.3		2026-08-15T23:04:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.3/home-api-iosx64-1.9.3.jar returned status 404
+1.9.3	metadata	2026-08-15T23:04:43Z	
+1.9.4		2026-08-16T01:07:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.4/home-api-iosx64-1.9.4.jar returned status 404
+1.9.4	metadata	2026-08-16T01:07:20Z	
+1.9.5		2026-08-16T17:18:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.5/home-api-iosx64-1.9.5.jar returned status 404
+1.9.5	metadata	2026-08-16T17:18:29Z	
+1.9.6		2026-08-16T18:36:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.6/home-api-iosx64-1.9.6.jar returned status 404
+1.9.6	metadata	2026-08-16T18:36:26Z	
+1.9.7		2026-08-16T23:28:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.7/home-api-iosx64-1.9.7.jar returned status 404
+1.9.7	metadata	2026-08-16T23:28:18Z	
+1.9.8		2026-08-17T05:22:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.8/home-api-iosx64-1.9.8.jar returned status 404
+1.9.8	metadata	2026-08-17T05:22:58Z	
+1.9.9		2026-08-17T10:14:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-iosx64/1.9.9/home-api-iosx64-1.9.9.jar returned status 404
+1.9.9	metadata	2026-08-17T10:14:44Z	

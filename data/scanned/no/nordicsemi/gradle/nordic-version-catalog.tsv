@@ -5,3 +5,4 @@
 2026.07.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/nordic-version-catalog/2026.07.01/nordic-version-catalog-2026.07.01.jar returned status 404
 2026.07.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/nordic-version-catalog/2026.07.02/nordic-version-catalog-2026.07.02.jar returned status 404
 2026.07.03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/nordic-version-catalog/2026.07.03/nordic-version-catalog-2026.07.03.jar returned status 404
+2026.08.00		2026-08-26T10:05:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/nordicsemi/gradle/nordic-version-catalog/2026.08.00/nordic-version-catalog-2026.08.00.jar returned status 404

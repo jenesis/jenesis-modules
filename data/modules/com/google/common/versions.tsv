@@ -1068,6 +1068,8 @@
 0.23.4	named	org.opendaylight.aaa	aaa-cli-jar	2026-08-21T01:57:59Z	33.6.0-jre
 5.30.0.36259	named	org.sonarsource.python	sonar-python-plugin	2026-08-21T12:43:23Z	33.6.0-jre
 1.95.0	named	org.talend.sdk.component.sample.feature	entrywitherror	2026-08-21T14:18:41Z	33.4.8-jre
+1.2026.7	named	net.sourceforge.plantuml	plantuml	2026-08-25T09:52:24Z	33.7.1-jre
+1.2026.7	named	net.sourceforge.plantuml	plantuml-epl	2026-08-25T09:52:24Z	33.7.1-jre
 0.23.5	named	org.opendaylight.aaa	aaa-cli-jar	2026-08-27T21:10:17Z	33.6.0-jre
 0.22.8	named	org.opendaylight.aaa	aaa-cli-jar	2026-08-27T22:11:35Z	33.6.0-jre
 0.21.6	named	org.opendaylight.aaa	aaa-cli-jar	2026-08-27T22:11:45Z	33.6.0-jre
