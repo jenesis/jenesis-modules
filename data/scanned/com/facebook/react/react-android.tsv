@@ -751,6 +751,10 @@
 0.86.2	debug-sources	2026-07-27T16:31:13Z	
 0.86.2	debugOptimized-sources	2026-07-27T16:31:13Z	
 0.86.2	release-sources	2026-07-27T16:31:13Z	
+0.86.3		2026-08-24T15:58:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/react/react-android/0.86.3/react-android-0.86.3.jar returned status 404
+0.86.3	debug-sources	2026-08-24T15:58:39Z	
+0.86.3	debugOptimized-sources	2026-08-24T15:58:39Z	
+0.86.3	release-sources	2026-08-24T15:58:39Z	
 0.87.0		2026-08-11T15:27:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/react/react-android/0.87.0/react-android-0.87.0.jar returned status 404
 0.87.0	debug-sources	2026-08-11T15:27:15Z	
 0.87.0	debugOptimized-sources	2026-08-11T15:27:15Z	
@@ -775,3 +779,7 @@
 0.87.0-rc.4	debug-sources	2026-08-04T23:48:43Z	
 0.87.0-rc.4	debugOptimized-sources	2026-08-04T23:48:43Z	
 0.87.0-rc.4	release-sources	2026-08-04T23:48:43Z	
+0.87.1		2026-08-26T15:08:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/react/react-android/0.87.1/react-android-0.87.1.jar returned status 404
+0.87.1	debug-sources	2026-08-26T15:08:32Z	
+0.87.1	debugOptimized-sources	2026-08-26T15:08:32Z	
+0.87.1	release-sources	2026-08-26T15:08:32Z	

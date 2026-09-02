@@ -92,6 +92,16 @@
 0.33.2	metadata	2026-08-11T17:07:11Z	
 0.34.0		2026-08-12T03:22:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-tvossimulatorarm64/0.34.0/webrtc-tvossimulatorarm64-0.34.0.jar returned status 404
 0.34.0	metadata	2026-08-12T03:22:51Z	
+0.35.0		2026-08-12T16:08:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-tvossimulatorarm64/0.35.0/webrtc-tvossimulatorarm64-0.35.0.jar returned status 404
+0.35.0	metadata	2026-08-12T16:08:05Z	
+0.35.1		2026-08-12T18:04:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-tvossimulatorarm64/0.35.1/webrtc-tvossimulatorarm64-0.35.1.jar returned status 404
+0.35.1	metadata	2026-08-12T18:04:12Z	
+0.35.2		2026-08-12T22:49:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-tvossimulatorarm64/0.35.2/webrtc-tvossimulatorarm64-0.35.2.jar returned status 404
+0.35.2	metadata	2026-08-12T22:49:38Z	
+0.35.3		2026-08-14T14:52:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-tvossimulatorarm64/0.35.3/webrtc-tvossimulatorarm64-0.35.3.jar returned status 404
+0.35.3	metadata	2026-08-14T14:52:36Z	
+0.35.4		2026-08-15T14:21:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-tvossimulatorarm64/0.35.4/webrtc-tvossimulatorarm64-0.35.4.jar returned status 404
+0.35.4	metadata	2026-08-15T14:22:01Z	
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-tvossimulatorarm64/0.4.0/webrtc-tvossimulatorarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2026-07-25T19:43:12Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/webrtc-tvossimulatorarm64/0.5.0/webrtc-tvossimulatorarm64-0.5.0.jar returned status 404

@@ -1050,4 +1050,7 @@
 1.1.1	named	org.eclipse.ditto	wot-to-openapi-generator	2026-07-24T00:07:48Z	2.19.2
 1.2.2	named	org.eclipse.ditto	wot-to-openapi-generator	2026-07-24T00:11:57Z	2.22.0
 1.2.3	named	org.eclipse.ditto	wot-to-openapi-generator	2026-08-11T15:23:42Z	2.22.0
+2.21.6	named	com.fasterxml.jackson.dataformat	jackson-dataformat-cbor	2026-08-14T22:51:36Z	2.21.6
+2.18.10	named	com.fasterxml.jackson.dataformat	jackson-dataformat-cbor	2026-08-16T03:36:32Z	2.18.10
+2.22.2	named	com.fasterxml.jackson.dataformat	jackson-dataformat-cbor	2026-08-16T16:48:26Z	2.22.2
 4.4.4	named	net.snowflake	snowflake-ingest-sdk	2026-08-25T10:16:26Z	2.18.1

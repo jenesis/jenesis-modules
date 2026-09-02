@@ -78,6 +78,8 @@
 5.0.3	metadata	2026-07-22T12:18:30Z	
 5.0.3-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.0.3-rc.1/ditto-kotlin-iossimulatorarm64-5.0.3-rc.1.jar returned status 404
 5.0.3-rc.1	metadata	2026-07-15T13:37:45Z	
+5.1.0		2026-08-19T04:00:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.1.0/ditto-kotlin-iossimulatorarm64-5.1.0.jar returned status 404
+5.1.0	metadata	2026-08-19T04:00:43Z	
 5.1.0-dev-demo-publish.1		2026-06-12T21:37:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.1.0-dev-demo-publish.1/ditto-kotlin-iossimulatorarm64-5.1.0-dev-demo-publish.1.jar returned status 404
 5.1.0-dev-demo-publish.1	metadata	2026-06-12T21:37:37Z	
 5.1.0-dev-weekly.20260215.211			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.1.0-dev-weekly.20260215.211/ditto-kotlin-iossimulatorarm64-5.1.0-dev-weekly.20260215.211.jar returned status 404
@@ -174,9 +176,15 @@
 5.1.0-rc.1	metadata	2026-07-30T21:25:46Z	
 5.1.0-rc.2		2026-08-05T23:43:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.1.0-rc.2/ditto-kotlin-iossimulatorarm64-5.1.0-rc.2.jar returned status 404
 5.1.0-rc.2	metadata	2026-08-05T23:43:40Z	
+5.1.0-rc.3		2026-08-13T12:36:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.1.0-rc.3/ditto-kotlin-iossimulatorarm64-5.1.0-rc.3.jar returned status 404
+5.1.0-rc.3	metadata	2026-08-13T12:36:57Z	
 5.2.0-dev-sdks-4505.20260717.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.2.0-dev-sdks-4505.20260717.7/ditto-kotlin-iossimulatorarm64-5.2.0-dev-sdks-4505.20260717.7.jar returned status 404
 5.2.0-dev-sdks-4505.20260717.7	metadata	2026-07-19T03:28:56Z	
 5.2.0-dev-weekly.20260726.1866			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.2.0-dev-weekly.20260726.1866/ditto-kotlin-iossimulatorarm64-5.2.0-dev-weekly.20260726.1866.jar returned status 404
 5.2.0-dev-weekly.20260726.1866	metadata	2026-07-27T13:36:31Z	
 5.2.0-dev-weekly.20260802.1991			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.2.0-dev-weekly.20260802.1991/ditto-kotlin-iossimulatorarm64-5.2.0-dev-weekly.20260802.1991.jar returned status 404
 5.2.0-dev-weekly.20260802.1991	metadata	2026-08-02T14:51:10Z	
+5.2.0-dev-weekly.20260823.2222		2026-08-28T12:56:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.2.0-dev-weekly.20260823.2222/ditto-kotlin-iossimulatorarm64-5.2.0-dev-weekly.20260823.2222.jar returned status 404
+5.2.0-dev-weekly.20260823.2222	metadata	2026-08-28T12:56:19Z	
+5.2.0-dev-weekly.20260830.2299		2026-08-31T16:09:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-kotlin-iossimulatorarm64/5.2.0-dev-weekly.20260830.2299/ditto-kotlin-iossimulatorarm64-5.2.0-dev-weekly.20260830.2299.jar returned status 404
+5.2.0-dev-weekly.20260830.2299	metadata	2026-08-31T16:09:16Z	

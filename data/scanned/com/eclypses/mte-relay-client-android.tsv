@@ -1,1 +1,6 @@
 5.0.0		2026-07-30T03:23:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eclypses/mte-relay-client-android/5.0.0/mte-relay-client-android-5.0.0.jar returned status 404
+5.1.0		2026-08-12T14:47:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eclypses/mte-relay-client-android/5.1.0/mte-relay-client-android-5.1.0.jar returned status 404
+5.2.0		2026-08-27T14:29:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eclypses/mte-relay-client-android/5.2.0/mte-relay-client-android-5.2.0.jar returned status 404
+5.2.1		2026-08-27T18:25:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eclypses/mte-relay-client-android/5.2.1/mte-relay-client-android-5.2.1.jar returned status 404
+5.2.2		2026-08-27T21:01:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eclypses/mte-relay-client-android/5.2.2/mte-relay-client-android-5.2.2.jar returned status 404
+5.2.3		2026-08-27T22:21:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eclypses/mte-relay-client-android/5.2.3/mte-relay-client-android-5.2.3.jar returned status 404

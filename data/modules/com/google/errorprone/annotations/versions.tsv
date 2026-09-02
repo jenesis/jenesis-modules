@@ -500,3 +500,4 @@
 4.2.2	named	org.checkerframework	dataflow-errorprone	2026-08-06T18:35:49Z	2.50.0
 4.2.2	named	org.checkerframework	dataflow-shaded	2026-08-06T18:35:49Z	2.50.0
 4.2.2	named	org.checkerframework	dataflow-nullaway	2026-08-06T18:35:50Z	2.50.0
+0.299	named	com.facebook.presto	presto-spark-launcher	2026-08-28T06:33:15Z	2.50.0

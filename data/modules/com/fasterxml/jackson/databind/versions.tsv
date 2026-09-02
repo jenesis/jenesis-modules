@@ -4430,10 +4430,13 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 0.1.0	named	com.sparkutils	kogito-4-spark_testshade_4.1.0.oss_4.1_2.13	2026-08-13T19:35:53Z	2.19.2
 0.1.0	named	com.sparkutils	kogito-4-spark_testshade_4.2.0.oss_4.2_2.13	2026-08-13T19:36:40Z	2.19.2
 1.2.1	named	uz.sinaq	sinaq-report-cli	2026-08-14T09:33:16Z	2.17.2
+2.21.6	named	com.fasterxml.jackson.core	jackson-databind	2026-08-14T22:30:53Z	2.21.6
 0.5.0	named	io.github.tomas-samek	tiko-kafka	2026-08-15T11:58:07Z	2.22.1
 0.5.0	named	io.github.tomas-samek	tiko-mcp	2026-08-15T11:58:07Z	2.22.1
 1.2.0-RC1	named	io.strimzi	crd-generator	2026-08-15T17:30:46Z	2.22.1
+2.18.10	named	com.fasterxml.jackson.core	jackson-databind	2026-08-16T03:26:25Z	2.18.10
 1.0.0	named	io.github.kathukyabrian	tiara	2026-08-16T15:13:12Z	2.22.0
+2.22.2	named	com.fasterxml.jackson.core	jackson-databind	2026-08-16T16:35:01Z	2.22.2
 0.1.0-alpha.1	named	io.github.jarredhj0214	linesql-cli	2026-08-17T03:26:28Z	2.17.2
 0.1.0-alpha.2	named	io.github.jarredhj0214	linesql-cli	2026-08-17T05:44:07Z	2.17.2
 0.1.0-alpha.3	named	io.github.jarredhj0214	linesql-cli	2026-08-17T07:35:53Z	2.17.2
