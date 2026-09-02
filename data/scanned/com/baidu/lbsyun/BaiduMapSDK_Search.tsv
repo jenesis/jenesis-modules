@@ -31,3 +31,4 @@
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/BaiduMapSDK_Search/8.0.0/BaiduMapSDK_Search-8.0.0.jar returned status 404
 8.1.0		2026-06-03T08:23:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/BaiduMapSDK_Search/8.1.0/BaiduMapSDK_Search-8.1.0.jar returned status 404
 8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/BaiduMapSDK_Search/8.2.0/BaiduMapSDK_Search-8.2.0.jar returned status 404
+8.2.0.2		2026-08-17T03:27:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/BaiduMapSDK_Search/8.2.0.2/BaiduMapSDK_Search-8.2.0.2.jar returned status 404

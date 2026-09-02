@@ -70,6 +70,7 @@
 6.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/6.1.2/core-6.1.2.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/6.2.0/core-6.2.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/6.2.1/core-6.2.1.jar returned status 404
+6.2.2		2026-08-31T22:48:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/6.2.2/core-6.2.2.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/7.0.0/core-7.0.0.jar returned status 404
 7.0.0-rc.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/7.0.0-rc.0/core-7.0.0-rc.0.jar returned status 404
 7.0.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/7.0.0-rc.1/core-7.0.0-rc.1.jar returned status 404
@@ -92,6 +93,7 @@
 7.6.6		2026-06-02T16:11:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/7.6.6/core-7.6.6.jar returned status 404
 7.6.7		2026-06-19T08:45:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/7.6.7/core-7.6.7.jar returned status 404
 7.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/7.6.8/core-7.6.8.jar returned status 404
+7.6.9		2026-08-31T22:06:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/7.6.9/core-7.6.9.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/8.0.0/core-8.0.0.jar returned status 404
 8.0.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/8.0.0-alpha.1/core-8.0.0-alpha.1.jar returned status 404
 8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/8.0.1/core-8.0.1.jar returned status 404
@@ -106,4 +108,6 @@
 8.4.0		2026-06-02T15:58:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/8.4.0/core-8.4.0.jar returned status 404
 8.4.1		2026-06-19T09:04:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/8.4.1/core-8.4.1.jar returned status 404
 8.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/8.4.2/core-8.4.2.jar returned status 404
+8.4.3		2026-08-31T22:01:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/8.4.3/core-8.4.3.jar returned status 404
 8.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/8.5.0/core-8.5.0.jar returned status 404
+8.5.1		2026-08-31T21:57:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/capacitorjs/core/8.5.1/core-8.5.1.jar returned status 404

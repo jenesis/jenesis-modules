@@ -28,3 +28,4 @@
 7.6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/carnavi/7.6.2.1/carnavi-7.6.2.1.jar returned status 404
 8.0.1		2026-06-03T07:18:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/carnavi/8.0.1/carnavi-8.0.1.jar returned status 404
 8.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/carnavi/8.0.3/carnavi-8.0.3.jar returned status 404
+8.0.4		2026-08-14T09:45:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/baidu/lbsyun/carnavi/8.0.4/carnavi-8.0.4.jar returned status 404

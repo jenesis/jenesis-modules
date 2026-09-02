@@ -1,1 +1,2 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bakdata/gradle/avro/com.bakdata.gradle.avro.gradle.plugin/2.0.0/com.bakdata.gradle.avro.gradle.plugin-2.0.0.jar returned status 404
+2.0.1		2026-08-24T11:49:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bakdata/gradle/avro/com.bakdata.gradle.avro.gradle.plugin/2.0.1/com.bakdata.gradle.avro.gradle.plugin-2.0.1.jar returned status 404

@@ -1,0 +1,4 @@
+0.1.4		2026-08-12T05:52:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/byrizki/rusto/rusto-android/0.1.4/rusto-android-0.1.4.jar returned status 404
+0.1.5		2026-08-12T08:41:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/byrizki/rusto/rusto-android/0.1.5/rusto-android-0.1.5.jar returned status 404
+0.1.6		2026-08-12T10:01:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/byrizki/rusto/rusto-android/0.1.6/rusto-android-0.1.6.jar returned status 404
+0.1.7		2026-08-13T03:29:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/byrizki/rusto/rusto-android/0.1.7/rusto-android-0.1.7.jar returned status 404
