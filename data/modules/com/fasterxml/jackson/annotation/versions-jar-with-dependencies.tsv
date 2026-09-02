@@ -5316,6 +5316,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 0.24.15	named	top.bella	openai-service	2026-08-14T06:17:35Z	2.14.2
 0.24.16	named	top.bella	openai-service	2026-08-15T10:20:22Z	2.14.2
 0.24.17	named	top.bella	openai-service	2026-08-17T12:19:59Z	2.14.2
+7.6.0	named	org.mock-server	mockserver-k8s-webhook	2026-08-17T16:46:44Z	2.22
 7.0.4	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-08-18T00:43:39Z	2.21
 0.24.18	named	top.bella	openai-service	2026-08-20T08:00:31Z	2.14.2
 0.24.19	named	top.bella	openai-service	2026-08-21T04:03:01Z	2.14.2

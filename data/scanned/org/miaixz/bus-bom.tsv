@@ -57,6 +57,9 @@
 8.8.11		2026-08-08T07:25:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-bom/8.8.11/bus-bom-8.8.11.jar returned status 404
 8.8.12		2026-08-08T15:50:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-bom/8.8.12/bus-bom-8.8.12.jar returned status 404
 8.8.13		2026-08-09T10:58:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-bom/8.8.13/bus-bom-8.8.13.jar returned status 404
+8.8.15		2026-08-09T16:36:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-bom/8.8.15/bus-bom-8.8.15.jar returned status 404
+8.8.16		2026-08-23T21:47:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-bom/8.8.16/bus-bom-8.8.16.jar returned status 404
+8.8.18		2026-08-25T09:47:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-bom/8.8.18/bus-bom-8.8.18.jar returned status 404
 8.8.2		2026-07-02T05:14:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-bom/8.8.2/bus-bom-8.8.2.jar returned status 404
 8.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-bom/8.8.3/bus-bom-8.8.3.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/miaixz/bus-bom/8.8.5/bus-bom-8.8.5.jar returned status 404
