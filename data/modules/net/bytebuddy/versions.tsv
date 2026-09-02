@@ -1623,4 +1623,5 @@ debug.1	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-03-13T15:01:48Z	1.12
 4.4.1	named	de.gematik.test	tiger-java-agent	2026-08-13T07:36:34Z	1.18.11-jdk5
 1.18.12-jdk5	named	net.bytebuddy	byte-buddy	2026-08-16T22:36:43Z	1.18.12-jdk5
 1.18.12	named	net.bytebuddy	byte-buddy	2026-08-16T22:38:37Z	1.18.12
+24.4	named	com.graphql-java	graphql-java-agent	2026-08-24T00:05:18Z	1.17.5
 4.4.2	named	de.gematik.test	tiger-java-agent	2026-08-26T09:57:49Z	1.18.11-jdk5
