@@ -2,3 +2,5 @@
 1.0.0	metadata	2026-07-22T14:08:51Z	
 1.0.1		2026-07-23T16:01:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xingheyuzhuan/kgit-macosx64/1.0.1/kgit-macosx64-1.0.1.jar returned status 404
 1.0.1	metadata	2026-07-23T16:01:11Z	
+1.0.2		2026-08-15T15:29:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xingheyuzhuan/kgit-macosx64/1.0.2/kgit-macosx64-1.0.2.jar returned status 404
+1.0.2	metadata	2026-08-15T15:29:15Z	

@@ -1275,6 +1275,12 @@
 13.3.0	automatic	org.flywaydb	flyway-locations-s3	2026-08-13T10:10:32Z	
 13.3.0	automatic	org.flywaydb	flyway-command-test-connection	2026-08-13T10:10:33Z	
 13.3.0	automatic	org.flywaydb	flyway-command-mcp	2026-08-13T10:10:34Z	
+9.9.6	automatic	io.github.wu9007	flyway-core	2026-08-25T03:27:25Z	
+9.9.5	automatic	io.github.wu9007	flyway-core	2026-08-25T04:05:50Z	
+9.9.5	automatic	io.github.wu9007	flyway-dm	2026-08-25T04:05:50Z	
+9.9.7	automatic	io.github.wu9007	flyway-core	2026-08-25T06:15:26Z	
+9.9.8	automatic	io.github.wu9007	flyway-core	2026-08-25T06:37:28Z	
+9.9.9	automatic	io.github.wu9007	flyway-core	2026-08-25T08:17:14Z	
 13.4.0	automatic	org.flywaydb	flyway-command-mcp	2026-08-26T09:32:35Z	
 13.4.0	automatic	org.flywaydb	flyway-locations-s3	2026-08-26T09:32:35Z	
 13.4.0	automatic	org.flywaydb	flyway-command-test-connection	2026-08-26T09:32:36Z	

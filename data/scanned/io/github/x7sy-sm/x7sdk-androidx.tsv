@@ -73,3 +73,8 @@
 8.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-androidx/8.8.0/x7sdk-androidx-8.8.0.jar returned status 404
 8.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-androidx/8.8.1/x7sdk-androidx-8.8.1.jar returned status 404
 8.80.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-androidx/8.80.0/x7sdk-androidx-8.80.0.jar returned status 404
+8.82.0		2026-08-13T09:29:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-androidx/8.82.0/x7sdk-androidx-8.82.0.jar returned status 404
+8.82.1		2026-08-18T07:18:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-androidx/8.82.1/x7sdk-androidx-8.82.1.jar returned status 404
+8.82.2		2026-08-21T08:43:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-androidx/8.82.2/x7sdk-androidx-8.82.2.jar returned status 404
+8.84.0		2026-08-26T03:19:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-androidx/8.84.0/x7sdk-androidx-8.84.0.jar returned status 404
+8.84.1		2026-08-27T12:19:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/x7sy-sm/x7sdk-androidx/8.84.1/x7sdk-androidx-8.84.1.jar returned status 404
