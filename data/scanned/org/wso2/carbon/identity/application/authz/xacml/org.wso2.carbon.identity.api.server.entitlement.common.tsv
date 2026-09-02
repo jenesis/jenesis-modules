@@ -26,7 +26,10 @@
 2.4.35			
 2.4.36			
 2.4.37			
+2.4.38		2026-08-10T07:10:24Z	
 2.4.6		2025-01-20T06:24:39Z	
 2.4.7		2025-01-20T11:30:27Z	
 2.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/application/authz/xacml/org.wso2.carbon.identity.api.server.entitlement.common/2.4.8/org.wso2.carbon.identity.api.server.entitlement.common-2.4.8.jar returned status 404
 2.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/application/authz/xacml/org.wso2.carbon.identity.api.server.entitlement.common/2.4.9/org.wso2.carbon.identity.api.server.entitlement.common-2.4.9.jar returned status 404
+2.5.0		2026-08-25T09:04:45Z	
+2.5.1		2026-08-26T02:04:31Z	

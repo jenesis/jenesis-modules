@@ -5306,6 +5306,8 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.736.12	named	com.yahoo.vespa	config-application-package	2026-08-10T02:06:27Z	2.22
 0.65	named	com.testfabrik.webmate.sdk	java-sdk	2026-08-10T13:51:41Z	2.15.0
 7.0.3	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-08-10T20:14:32Z	2.21
+1.2.39	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-08-11T05:27:23Z	2.17.0
+1.2.40	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-08-11T07:55:30Z	2.17.0
 0.24.11	named	top.bella	openai-service	2026-08-12T06:14:43Z	2.14.2
 0.24.12	named	top.bella	openai-service	2026-08-12T08:23:28Z	2.14.2
 0.24.13	named	top.bella	openai-service	2026-08-12T12:59:40Z	2.14.2
@@ -5318,6 +5320,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 0.24.18	named	top.bella	openai-service	2026-08-20T08:00:31Z	2.14.2
 0.24.19	named	top.bella	openai-service	2026-08-21T04:03:01Z	2.14.2
 7.0.5	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-08-22T15:49:16Z	2.21
+1.2.42	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-08-24T07:03:09Z	2.17.0
 4.0.4	named	software.amazon.neptune	gremlin-client	2026-08-24T21:06:17Z	2.18.9
 0.24.20	named	top.bella	openai-service	2026-08-25T04:45:51Z	2.14.2
 0.24.21	named	top.bella	openai-service	2026-08-26T14:29:21Z	2.14.2
