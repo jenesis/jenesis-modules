@@ -197,6 +197,7 @@
 32.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/32.7.1/assertion-32.7.1.jar returned status 404
 32.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/32.8.0/assertion-32.8.0.jar returned status 404
 32.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/32.9.0/assertion-32.9.0.jar returned status 404
+33.0.0		2026-08-26T09:52:44Z	
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/4.0.0/assertion-4.0.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/5.0.0/assertion-5.0.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/6.0.0/assertion-6.0.0.jar returned status 404

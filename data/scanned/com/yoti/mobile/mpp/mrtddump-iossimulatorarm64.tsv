@@ -3,3 +3,5 @@
 1.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/mpp/mrtddump-iossimulatorarm64/1.2.8/mrtddump-iossimulatorarm64-1.2.8.jar returned status 404
 1.3.01		2026-06-12T09:42:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/mpp/mrtddump-iossimulatorarm64/1.3.01/mrtddump-iossimulatorarm64-1.3.01.jar returned status 404
 1.3.01	metadata	2026-06-12T09:42:40Z	
+1.4.00		2026-08-24T12:35:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yoti/mobile/mpp/mrtddump-iossimulatorarm64/1.4.00/mrtddump-iossimulatorarm64-1.4.00.jar returned status 404
+1.4.00	metadata	2026-08-24T12:35:37Z	
