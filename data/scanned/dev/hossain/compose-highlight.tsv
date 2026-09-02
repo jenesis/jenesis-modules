@@ -25,3 +25,5 @@
 0.30.2		2026-06-14T01:38:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hossain/compose-highlight/0.30.2/compose-highlight-0.30.2.jar returned status 404
 0.31.0		2026-06-15T03:12:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hossain/compose-highlight/0.31.0/compose-highlight-0.31.0.jar returned status 404
 0.32.0		2026-07-05T00:13:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hossain/compose-highlight/0.32.0/compose-highlight-0.32.0.jar returned status 404
+0.33.0		2026-08-18T23:50:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hossain/compose-highlight/0.33.0/compose-highlight-0.33.0.jar returned status 404
+0.34.0		2026-08-28T04:22:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hossain/compose-highlight/0.34.0/compose-highlight-0.34.0.jar returned status 404

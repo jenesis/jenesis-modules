@@ -7224,3 +7224,12 @@ dev.jvmguard.annotation
 dev.javai18n.swing
 dev.javai18n.fx
 dev.javai18n.core
+dev.hloth.zgztransport
+dev.hegel.jna
+dev.hegel
+dev.hallock.zstd
+dev.hallock.zstd.platforms
+dev.hallock.zstd.bindings
+dev.goforge.participle
+com.samskivert.jmustache
+jakarta.validation
