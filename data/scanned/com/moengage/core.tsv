@@ -1,5 +1,6 @@
 10.0.0		2026-07-07T08:45:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/core/10.0.0/core-10.0.0.jar returned status 404
 10.1.0		2026-08-03T08:22:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/core/10.1.0/core-10.1.0.jar returned status 404
+10.2.0		2026-08-12T08:39:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/core/10.2.0/core-10.2.0.jar returned status 404
 4.5.00			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/core/4.5.00/core-4.5.00.jar returned status 404
 4.5.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/core/4.5.01/core-4.5.01.jar returned status 404
 5.0.03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/core/5.0.03/core-5.0.03.jar returned status 404
@@ -93,3 +94,4 @@
 9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/core/9.1.0/core-9.1.0.jar returned status 404
 9.1.1		2026-05-26T08:28:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/core/9.1.1/core-9.1.1.jar returned status 404
 9.2.0		2026-06-23T10:25:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/core/9.2.0/core-9.2.0.jar returned status 404
+9.2.1		2026-08-12T05:04:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/core/9.2.1/core-9.2.1.jar returned status 404

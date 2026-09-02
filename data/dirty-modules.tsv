@@ -7546,3 +7546,16 @@ com.netflix.spectator.aws2
 com.netflix.spectator.aws
 com.netflix.spectator.api
 com.netflix.spectator.agent
+com.microsoft.onnxruntime
+com.microsoft.aad.msal4j
+com.maxio.advancedbilling
+com.marvinformatics.shard4j.protocol
+com.marvinformatics.shard4j.engine
+com.marvinformatics.shard4j.coordinator
+net.sf.jsqlparser
+org.javacc.generator.java
+org.javacc.core
+com.mailkube.spring
+com.mailkube
+com.logicommerce.sdktest
+com.logicommerce.sdk

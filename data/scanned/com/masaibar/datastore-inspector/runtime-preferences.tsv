@@ -1,0 +1,3 @@
+0.1.0		2026-08-22T09:14:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/masaibar/datastore-inspector/runtime-preferences/0.1.0/runtime-preferences-0.1.0.jar returned status 404
+0.2.0		2026-08-24T14:07:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/masaibar/datastore-inspector/runtime-preferences/0.2.0/runtime-preferences-0.2.0.jar returned status 404
+1.0.0		2026-08-28T12:15:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/masaibar/datastore-inspector/runtime-preferences/1.0.0/runtime-preferences-1.0.0.jar returned status 404
