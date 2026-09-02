@@ -16,3 +16,5 @@
 3.0.0-beta02	metadata	2026-06-03T02:44:57Z	
 3.0.0-beta03		2026-06-11T06:10:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/enro/enro-common-iossimulatorarm64/3.0.0-beta03/enro-common-iossimulatorarm64-3.0.0-beta03.jar returned status 404
 3.0.0-beta03	metadata	2026-06-11T06:10:46Z	
+3.0.0-beta04		2026-08-24T02:28:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/enro/enro-common-iossimulatorarm64/3.0.0-beta04/enro-common-iossimulatorarm64-3.0.0-beta04.jar returned status 404
+3.0.0-beta04	metadata	2026-08-24T02:28:40Z	

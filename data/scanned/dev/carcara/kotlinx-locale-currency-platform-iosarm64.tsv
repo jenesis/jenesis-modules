@@ -1,2 +1,6 @@
 0.1.0		2026-08-10T14:22:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/carcara/kotlinx-locale-currency-platform-iosarm64/0.1.0/kotlinx-locale-currency-platform-iosarm64-0.1.0.jar returned status 404
 0.1.0	metadata	2026-08-10T14:22:49Z	
+0.2.0		2026-08-11T23:55:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/carcara/kotlinx-locale-currency-platform-iosarm64/0.2.0/kotlinx-locale-currency-platform-iosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-08-11T23:55:31Z	
+0.3.0		2026-08-28T13:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/carcara/kotlinx-locale-currency-platform-iosarm64/0.3.0/kotlinx-locale-currency-platform-iosarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-08-28T13:31:21Z	
