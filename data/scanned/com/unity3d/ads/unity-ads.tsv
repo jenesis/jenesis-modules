@@ -37,6 +37,7 @@
 4.19.0		2026-06-26T16:19:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads/unity-ads/4.19.0/unity-ads-4.19.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads/unity-ads/4.2.0/unity-ads-4.2.0.jar returned status 404
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads/unity-ads/4.2.1/unity-ads-4.2.1.jar returned status 404
+4.20.0		2026-08-14T19:10:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads/unity-ads/4.20.0/unity-ads-4.20.0.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads/unity-ads/4.3.0/unity-ads-4.3.0.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads/unity-ads/4.4.0/unity-ads-4.4.0.jar returned status 404
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/unity3d/ads/unity-ads/4.4.1/unity-ads-4.4.1.jar returned status 404

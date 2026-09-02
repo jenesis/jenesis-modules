@@ -22,3 +22,4 @@
 2.28.1-unity			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/usercentrics/sdk/usercentrics-unity-android/2.28.1-unity/usercentrics-unity-android-2.28.1-unity.jar returned status 404
 2.28.2-unity			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/usercentrics/sdk/usercentrics-unity-android/2.28.2-unity/usercentrics-unity-android-2.28.2-unity.jar returned status 404
 2.29.1-unity		2026-08-05T11:15:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/usercentrics/sdk/usercentrics-unity-android/2.29.1-unity/usercentrics-unity-android-2.29.1-unity.jar returned status 404
+2.30.0-unity		2026-08-19T11:47:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/usercentrics/sdk/usercentrics-unity-android/2.30.0-unity/usercentrics-unity-android-2.30.0-unity.jar returned status 404

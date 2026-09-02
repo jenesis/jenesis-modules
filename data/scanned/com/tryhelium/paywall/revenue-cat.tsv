@@ -57,3 +57,9 @@
 4.4.7		2026-06-23T17:01:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/revenue-cat/4.4.7/revenue-cat-4.4.7.jar returned status 404
 4.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/revenue-cat/4.4.8/revenue-cat-4.4.8.jar returned status 404
 4.4.9		2026-08-05T19:39:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/revenue-cat/4.4.9/revenue-cat-4.4.9.jar returned status 404
+4.5.0		2026-08-15T01:35:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/revenue-cat/4.5.0/revenue-cat-4.5.0.jar returned status 404
+4.5.1		2026-08-15T18:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/revenue-cat/4.5.1/revenue-cat-4.5.1.jar returned status 404
+4.5.2		2026-08-18T03:13:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/revenue-cat/4.5.2/revenue-cat-4.5.2.jar returned status 404
+4.6.0		2026-08-20T17:41:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/revenue-cat/4.6.0/revenue-cat-4.6.0.jar returned status 404
+4.7.0		2026-08-24T22:32:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/revenue-cat/4.7.0/revenue-cat-4.7.0.jar returned status 404
+4.7.1		2026-08-27T23:19:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tryhelium/paywall/revenue-cat/4.7.1/revenue-cat-4.7.1.jar returned status 404

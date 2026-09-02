@@ -2,3 +2,5 @@
 4.22.0		2026-05-19T14:55:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/class/4.22.0/class-4.22.0.jar returned status 404
 4.23.0		2026-07-03T18:58:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/class/4.23.0/class-4.23.0.jar returned status 404
 4.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/class/4.24.0/class-4.24.0.jar returned status 404
+4.24.1		2026-08-14T07:45:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/class/4.24.1/class-4.24.1.jar returned status 404
+4.25.0		2026-08-24T12:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vmware/pscoe/library/class/4.25.0/class-4.25.0.jar returned status 404
