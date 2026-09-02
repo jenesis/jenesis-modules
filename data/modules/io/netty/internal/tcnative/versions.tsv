@@ -845,5 +845,13 @@
 1.0.0	named	io.github.austinmreppert	fabric-hadoop-abfs-auth-provider	2026-08-06T19:17:14Z	2.0.78.Final
 1.1.0	named	io.github.ktestify	ktestify-cucumber	2026-08-07T02:49:41Z	2.0.78.Final
 2.3.1	named	com.scalekit	scalekit-sdk-java	2026-08-11T07:36:21Z	2.0.72.Final
+4.139.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-11T15:22:39Z	2.0.72.Final
+4.138.3	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-12T17:49:02Z	2.0.72.Final
 3.9.05	named	org.metricshub	metricshub-agent	2026-08-13T09:20:31Z	2.0.74.Final
 3.9.06	named	org.metricshub	metricshub-agent	2026-08-14T09:25:52Z	2.0.74.Final
+4.138.4	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-14T17:30:54Z	2.0.72.Final
+4.140.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-17T14:08:26Z	2.0.72.Final
+4.140.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-20T08:53:11Z	2.0.72.Final
+4.141.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-20T20:51:07Z	2.0.72.Final
+4.138.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-21T13:46:23Z	2.0.72.Final
+4.140.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-24T19:59:14Z	2.0.72.Final
