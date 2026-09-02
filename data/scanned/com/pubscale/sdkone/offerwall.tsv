@@ -46,5 +46,10 @@
 1.3.1-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.3.1-beta2/offerwall-1.3.1-beta2.jar returned status 404
 1.3.1-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.3.1-beta3/offerwall-1.3.1-beta3.jar returned status 404
 1.4.0-beta3		2026-06-23T09:44:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.4.0-beta3/offerwall-1.4.0-beta3.jar returned status 404
+1.4.1-beta21		2026-08-18T13:39:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.4.1-beta21/offerwall-1.4.1-beta21.jar returned status 404
+1.4.1-beta22		2026-08-25T06:02:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.4.1-beta22/offerwall-1.4.1-beta22.jar returned status 404
 1.4.1-beta7		2026-08-11T12:12:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.4.1-beta7/offerwall-1.4.1-beta7.jar returned status 404
 1.4.1-beta8		2026-08-11T13:22:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.4.1-beta8/offerwall-1.4.1-beta8.jar returned status 404
+1.4.1-beta9		2026-08-12T09:14:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.4.1-beta9/offerwall-1.4.1-beta9.jar returned status 404
+1.4.2-beta1		2026-08-25T09:56:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.4.2-beta1/offerwall-1.4.2-beta1.jar returned status 404
+1.4.2-beta2		2026-08-26T13:54:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.4.2-beta2/offerwall-1.4.2-beta2.jar returned status 404

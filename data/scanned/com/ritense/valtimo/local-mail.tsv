@@ -181,6 +181,7 @@
 12.41.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/local-mail/12.41.0.RELEASE/local-mail-12.41.0.RELEASE.jar returned status 404
 12.41.0.RELEASE	plain	2026-07-29T11:28:37Z	
 12.42.0.RELEASE		2026-08-12T11:02:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/local-mail/12.42.0.RELEASE/local-mail-12.42.0.RELEASE.jar returned status 404
+12.42.0.RELEASE	plain	2026-08-12T11:02:34Z	
 12.43.0.RELEASE		2026-08-19T09:59:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/local-mail/12.43.0.RELEASE/local-mail-12.43.0.RELEASE.jar returned status 404
 12.43.0.RELEASE	plain	2026-08-19T09:59:56Z	
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/local-mail/12.5.0.RELEASE/local-mail-12.5.0.RELEASE.jar returned status 404
