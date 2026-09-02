@@ -3937,3 +3937,6 @@ master-rc-daily	named	io.streamnative	pulsar-client-admin	2023-02-08T12:25:05Z	2
 1.5	named	com.oceanbase	spark-connector-obkv-hbase-3.5_2.12	2026-07-23T00:23:17Z	2.12.7
 3.2.0	named	com.solacecoe.connectors	pubsubplus-connector-spark	2026-08-04T14:11:21Z	2.12.7
 5.2.2	named	com.liquibase	liquibase-commercial	2026-08-12T14:18:31Z	2.22.1
+2.21.6	named	com.fasterxml.jackson.module	jackson-module-jaxb-annotations	2026-08-14T22:50:02Z	2.21.6
+2.18.10	named	com.fasterxml.jackson.module	jackson-module-jaxb-annotations	2026-08-16T03:33:58Z	2.18.10
+2.22.2	named	com.fasterxml.jackson.module	jackson-module-jaxb-annotations	2026-08-16T16:40:26Z	2.22.2
