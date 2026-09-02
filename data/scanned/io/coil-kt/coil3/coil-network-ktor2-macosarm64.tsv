@@ -32,3 +32,5 @@
 3.5.0	metadata	2026-06-10T13:44:41Z	
 3.5.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/coil-kt/coil3/coil-network-ktor2-macosarm64/3.5.0-beta01/coil-network-ktor2-macosarm64-3.5.0-beta01.jar returned status 404
 3.5.0-beta01	metadata	2026-05-04T11:34:45Z	
+3.6.0		2026-08-26T14:28:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/coil-kt/coil3/coil-network-ktor2-macosarm64/3.6.0/coil-network-ktor2-macosarm64-3.6.0.jar returned status 404
+3.6.0	metadata	2026-08-26T14:28:40Z	

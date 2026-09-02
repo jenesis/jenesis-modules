@@ -76,7 +76,9 @@
 3.1-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-http-parent/3.1-RC2/avaje-http-parent-3.1-RC2.jar returned status 404
 3.10		2026-07-06T11:12:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-http-parent/3.10/avaje-http-parent-3.10.jar returned status 404
 3.10-RC1		2026-06-30T22:47:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-http-parent/3.10-RC1/avaje-http-parent-3.10-RC1.jar returned status 404
+3.11		2026-08-18T08:12:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-http-parent/3.11/avaje-http-parent-3.11.jar returned status 404
 3.11-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-http-parent/3.11-RC1/avaje-http-parent-3.11-RC1.jar returned status 404
+3.12-RC1		2026-08-27T21:27:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-http-parent/3.12-RC1/avaje-http-parent-3.12-RC1.jar returned status 404
 3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-http-parent/3.2/avaje-http-parent-3.2.jar returned status 404
 3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-http-parent/3.3/avaje-http-parent-3.3.jar returned status 404
 3.3-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/avaje/avaje-http-parent/3.3-RC1/avaje-http-parent-3.3-RC1.jar returned status 404

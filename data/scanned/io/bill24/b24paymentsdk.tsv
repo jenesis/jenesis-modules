@@ -82,3 +82,10 @@
 1.1.33-beta-6		2026-06-15T08:42:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-6/b24paymentsdk-1.1.33-beta-6.jar returned status 404
 1.1.33-beta-7		2026-06-16T07:12:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-7/b24paymentsdk-1.1.33-beta-7.jar returned status 404
 1.1.33-beta-8		2026-06-18T02:32:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.33-beta-8/b24paymentsdk-1.1.33-beta-8.jar returned status 404
+1.1.34-beta-1		2026-08-14T04:20:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.34-beta-1/b24paymentsdk-1.1.34-beta-1.jar returned status 404
+1.1.34-beta-2		2026-08-25T04:06:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.34-beta-2/b24paymentsdk-1.1.34-beta-2.jar returned status 404
+1.1.34-beta-3		2026-08-27T08:21:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.34-beta-3/b24paymentsdk-1.1.34-beta-3.jar returned status 404
+1.1.34-beta-4		2026-08-27T09:33:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.34-beta-4/b24paymentsdk-1.1.34-beta-4.jar returned status 404
+1.1.34-beta-5		2026-08-27T10:02:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.34-beta-5/b24paymentsdk-1.1.34-beta-5.jar returned status 404
+1.1.34-beta-6		2026-08-27T11:02:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.34-beta-6/b24paymentsdk-1.1.34-beta-6.jar returned status 404
+1.1.34-beta-7		2026-08-28T02:04:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bill24/b24paymentsdk/1.1.34-beta-7/b24paymentsdk-1.1.34-beta-7.jar returned status 404

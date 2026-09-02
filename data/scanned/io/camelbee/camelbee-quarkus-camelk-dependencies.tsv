@@ -1,0 +1,2 @@
+4.0.0		2026-08-19T21:32:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camelbee/camelbee-quarkus-camelk-dependencies/4.0.0/camelbee-quarkus-camelk-dependencies-4.0.0.jar returned status 404
+4.0.1		2026-08-29T14:35:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camelbee/camelbee-quarkus-camelk-dependencies/4.0.1/camelbee-quarkus-camelk-dependencies-4.0.1.jar returned status 404

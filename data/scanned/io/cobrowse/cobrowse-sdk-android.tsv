@@ -133,6 +133,11 @@
 3.14.3		2026-07-01T09:51:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.14.3/cobrowse-sdk-android-3.14.3.jar returned status 404
 3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.15.0/cobrowse-sdk-android-3.15.0.jar returned status 404
 3.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.16.0/cobrowse-sdk-android-3.16.0.jar returned status 404
+3.17.0		2026-08-11T10:49:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.17.0/cobrowse-sdk-android-3.17.0.jar returned status 404
+3.17.1		2026-08-17T18:26:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.17.1/cobrowse-sdk-android-3.17.1.jar returned status 404
+3.17.2		2026-08-21T06:44:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.17.2/cobrowse-sdk-android-3.17.2.jar returned status 404
+3.17.3		2026-08-21T12:08:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.17.3/cobrowse-sdk-android-3.17.3.jar returned status 404
+3.18.0		2026-08-27T11:38:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.18.0/cobrowse-sdk-android-3.18.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.2.0/cobrowse-sdk-android-3.2.0.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.2.1/cobrowse-sdk-android-3.2.1.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/cobrowse/cobrowse-sdk-android/3.3.0/cobrowse-sdk-android-3.3.0.jar returned status 404
