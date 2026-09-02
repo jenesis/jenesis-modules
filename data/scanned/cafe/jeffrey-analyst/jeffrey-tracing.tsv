@@ -1,0 +1,3 @@
+0.16.0		2026-08-22T20:52:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/jeffrey-analyst/jeffrey-tracing/0.16.0/jeffrey-tracing-0.16.0.jar returned status 404
+0.17.0		2026-08-23T06:29:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/jeffrey-analyst/jeffrey-tracing/0.17.0/jeffrey-tracing-0.17.0.jar returned status 404
+0.18.0		2026-08-28T20:34:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cafe/jeffrey-analyst/jeffrey-tracing/0.18.0/jeffrey-tracing-0.18.0.jar returned status 404

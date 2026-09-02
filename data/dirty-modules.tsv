@@ -8718,3 +8718,12 @@ ch.qos.logback.access.tomcat
 ch.qos.logback.access.jetty
 com.sun.xml.txw2
 org.eclipse.jetty.compression.gzip
+cafe.jeffrey.jfr.events.spring.boot
+cafe.jeffrey.jfr.events.spring
+cafe.jeffrey.jfr.events.servlet
+cafe.jeffrey.jfr.events.mybatis
+cafe.jeffrey.jfr.events.jdbc.datasource
+cafe.jeffrey.jfr.events.jdbc.hikari
+cafe.jeffrey.jfr.events.grpc.interceptor
+cafe.jeffrey.jfr.events.test
+cafe.jeffrey.jfr.events

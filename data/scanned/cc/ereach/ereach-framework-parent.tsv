@@ -1,0 +1,2 @@
+1.0.0		2026-08-30T07:00:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/ereach/ereach-framework-parent/1.0.0/ereach-framework-parent-1.0.0.jar returned status 404
+1.0.1		2026-08-30T09:36:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/ereach/ereach-framework-parent/1.0.1/ereach-framework-parent-1.0.1.jar returned status 404

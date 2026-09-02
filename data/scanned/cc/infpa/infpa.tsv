@@ -1,0 +1,4 @@
+1.0.0		2026-08-16T10:50:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/infpa/infpa/1.0.0/infpa-1.0.0.jar returned status 404
+1.0.0	plain	2026-08-16T10:50:21Z	
+1.0.1		2026-08-17T14:15:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/infpa/infpa/1.0.1/infpa-1.0.1.jar returned status 404
+1.0.1	plain	2026-08-17T14:15:05Z	

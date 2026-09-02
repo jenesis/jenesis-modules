@@ -271,6 +271,8 @@
 6.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/org.hl7.fhir.core/6.1.9/org.hl7.fhir.core-6.1.9.jar returned status 404
 6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/org.hl7.fhir.core/6.10.0/org.hl7.fhir.core-6.10.0.jar returned status 404
 6.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/org.hl7.fhir.core/6.10.1/org.hl7.fhir.core-6.10.1.jar returned status 404
+6.10.2		2026-08-13T01:03:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/org.hl7.fhir.core/6.10.2/org.hl7.fhir.core-6.10.2.jar returned status 404
+6.10.3		2026-08-26T23:28:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/org.hl7.fhir.core/6.10.3/org.hl7.fhir.core-6.10.3.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/org.hl7.fhir.core/6.2.0/org.hl7.fhir.core-6.2.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/org.hl7.fhir.core/6.2.1/org.hl7.fhir.core-6.2.1.jar returned status 404
 6.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/uhn/hapi/fhir/org.hl7.fhir.core/6.2.10/org.hl7.fhir.core-6.2.10.jar returned status 404
