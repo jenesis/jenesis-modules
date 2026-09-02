@@ -57,3 +57,4 @@
 2.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/jdbc/ydb-jdbc-driver-parent/2.3.8/ydb-jdbc-driver-parent-2.3.8.jar returned status 404
 2.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/jdbc/ydb-jdbc-driver-parent/2.3.9/ydb-jdbc-driver-parent-2.3.9.jar returned status 404
 2.4.0		2026-07-13T18:37:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/jdbc/ydb-jdbc-driver-parent/2.4.0/ydb-jdbc-driver-parent-2.4.0.jar returned status 404
+2.4.1		2026-08-20T12:35:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ydb/jdbc/ydb-jdbc-driver-parent/2.4.1/ydb-jdbc-driver-parent-2.4.1.jar returned status 404

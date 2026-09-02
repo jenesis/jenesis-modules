@@ -7,3 +7,4 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ryadom/origami-android/1.0.0/origami-android-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ryadom/origami-android/1.0.1/origami-android-1.0.1.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ryadom/origami-android/1.1.0/origami-android-1.1.0.jar returned status 404
+2.0.0		2026-08-22T23:17:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ryadom/origami-android/2.0.0/origami-android-2.0.0.jar returned status 404

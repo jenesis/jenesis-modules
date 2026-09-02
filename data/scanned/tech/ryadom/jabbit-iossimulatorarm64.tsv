@@ -1,0 +1,6 @@
+1.0.0		2026-08-24T19:44:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ryadom/jabbit-iossimulatorarm64/1.0.0/jabbit-iossimulatorarm64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-08-24T19:44:43Z	
+1.1.0		2026-08-25T10:23:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ryadom/jabbit-iossimulatorarm64/1.1.0/jabbit-iossimulatorarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-08-25T10:23:08Z	
+2.0.0		2026-08-26T16:44:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/ryadom/jabbit-iossimulatorarm64/2.0.0/jabbit-iossimulatorarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-08-26T16:44:22Z	
