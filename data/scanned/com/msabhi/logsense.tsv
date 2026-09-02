@@ -23,4 +23,15 @@
 0.5.2		2026-07-27T17:14:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.5.2/logsense-0.5.2.jar returned status 404
 0.6.0		2026-08-11T18:06:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.0/logsense-0.6.0.jar returned status 404
 0.6.1		2026-08-11T18:22:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.1/logsense-0.6.1.jar returned status 404
+0.6.10		2026-08-13T12:56:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.10/logsense-0.6.10.jar returned status 404
+0.6.11		2026-08-13T13:28:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.11/logsense-0.6.11.jar returned status 404
+0.6.12		2026-08-13T17:51:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.12/logsense-0.6.12.jar returned status 404
+0.6.13		2026-08-14T08:38:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.13/logsense-0.6.13.jar returned status 404
 0.6.2		2026-08-11T18:37:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.2/logsense-0.6.2.jar returned status 404
+0.6.3		2026-08-12T10:44:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.3/logsense-0.6.3.jar returned status 404
+0.6.4		2026-08-12T12:14:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.4/logsense-0.6.4.jar returned status 404
+0.6.5		2026-08-13T08:50:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.5/logsense-0.6.5.jar returned status 404
+0.6.6		2026-08-13T10:18:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.6/logsense-0.6.6.jar returned status 404
+0.6.7		2026-08-13T10:32:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.7/logsense-0.6.7.jar returned status 404
+0.6.8		2026-08-13T11:36:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.8/logsense-0.6.8.jar returned status 404
+0.6.9		2026-08-13T12:44:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/msabhi/logsense/0.6.9/logsense-0.6.9.jar returned status 404

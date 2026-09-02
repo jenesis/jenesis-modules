@@ -1270,6 +1270,7 @@
 3.32.2.rc1	named	org.conductoross	conductor-os-persistence-v3	2026-08-25T18:45:11Z	2.4
 3.32.2.rc2	named	org.conductoross	conductor-os-persistence-v2	2026-08-25T19:06:08Z	2.4
 3.32.2.rc2	named	org.conductoross	conductor-os-persistence-v3	2026-08-25T19:06:39Z	2.4
+26.06.3	named	com.nvidia	rapids-4-spark-tools_2.12	2026-08-26T06:53:26Z	2.0
 4.0.0-alpha.1	named	org.conductoross	conductor-os-persistence-v2	2026-08-26T17:13:33Z	2.6
 4.0.0-alpha.1	named	org.conductoross	conductor-os-persistence-v3	2026-08-26T17:14:01Z	2.6
 3.32.0-rc.28	named	org.conductoross	conductor-os-persistence-v2	2026-08-27T16:26:53Z	2.4
