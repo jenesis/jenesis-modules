@@ -1,1 +1,4 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cx/swan/swan-android-sdk/1.0.0/swan-android-sdk-1.0.0.jar returned status 404
+1.1.0		2026-08-20T08:47:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cx/swan/swan-android-sdk/1.1.0/swan-android-sdk-1.1.0.jar returned status 404
+1.1.1		2026-08-20T08:50:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cx/swan/swan-android-sdk/1.1.1/swan-android-sdk-1.1.1.jar returned status 404
+1.1.2		2026-08-20T08:29:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cx/swan/swan-android-sdk/1.1.2/swan-android-sdk-1.1.2.jar returned status 404

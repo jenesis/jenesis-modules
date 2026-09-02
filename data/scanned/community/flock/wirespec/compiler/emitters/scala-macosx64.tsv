@@ -62,6 +62,10 @@
 0.20.0-RC.13	metadata	2026-07-29T16:15:06Z	
 0.20.0-RC.14		2026-08-10T08:54:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/scala-macosx64/0.20.0-RC.14/scala-macosx64-0.20.0-RC.14.jar returned status 404
 0.20.0-RC.14	metadata	2026-08-10T08:54:27Z	
+0.20.0-RC.15		2026-08-12T08:12:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/scala-macosx64/0.20.0-RC.15/scala-macosx64-0.20.0-RC.15.jar returned status 404
+0.20.0-RC.15	metadata	2026-08-12T08:12:39Z	
+0.20.0-RC.16		2026-08-12T12:41:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/scala-macosx64/0.20.0-RC.16/scala-macosx64-0.20.0-RC.16.jar returned status 404
+0.20.0-RC.16	metadata	2026-08-12T12:41:21Z	
 0.20.0-RC.2		2026-06-23T18:50:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/scala-macosx64/0.20.0-RC.2/scala-macosx64-0.20.0-RC.2.jar returned status 404
 0.20.0-RC.2	metadata	2026-06-23T18:50:27Z	
 0.20.0-RC.3		2026-06-24T21:03:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/scala-macosx64/0.20.0-RC.3/scala-macosx64-0.20.0-RC.3.jar returned status 404
