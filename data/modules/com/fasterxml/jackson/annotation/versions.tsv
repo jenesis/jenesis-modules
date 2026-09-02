@@ -6512,6 +6512,7 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 0.0.74	named	com.free-now.sauron.plugins	dependency-checker	2026-08-04T12:04:48Z	2.15.0
 4.1.11	named	io.dekorate	issue-442-build-config-name	2026-08-10T13:34:37Z	2.14.1
 0.10.0	named	com.databricks.labs	databricks-morph-plugin	2026-08-10T20:36:28Z	2.21
+0.1.6-jdk1.8-RELEASES	named	club.dawdler	dawdler-client-api-generator	2026-08-15T08:50:01Z	2.21
 2.18.10	named	com.fasterxml.jackson.core	jackson-annotations	2026-08-16T03:12:34Z	2.18.10
 0.1.17	named	io.github.cdy-codey	codey-console	2026-08-20T12:03:32Z	2.18.2
 0.1.18	named	io.github.cdy-codey	codey-console	2026-08-21T10:02:45Z	2.18.2

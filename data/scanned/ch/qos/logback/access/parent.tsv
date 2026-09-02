@@ -5,6 +5,7 @@
 2.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/access/parent/2.0.12/parent-2.0.12.jar returned status 404
 2.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/access/parent/2.0.13/parent-2.0.13.jar returned status 404
 2.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/access/parent/2.0.14/parent-2.0.14.jar returned status 404
+2.0.15		2026-08-14T09:26:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/access/parent/2.0.15/parent-2.0.15.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/access/parent/2.0.2/parent-2.0.2.jar returned status 404
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/access/parent/2.0.3/parent-2.0.3.jar returned status 404
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/qos/logback/access/parent/2.0.4/parent-2.0.4.jar returned status 404

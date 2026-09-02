@@ -12,3 +12,5 @@
 3.1.0	mule-plugin	2025-11-05T11:48:24Z	
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/anypoint/json-logger/3.1.1/json-logger-3.1.1.jar returned status 404
 3.1.1	mule-plugin	2026-04-27T11:28:58Z	
+3.1.2		2026-08-31T14:41:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/anypoint/json-logger/3.1.2/json-logger-3.1.2.jar returned status 404
+3.1.2	mule-plugin	2026-08-31T14:41:18Z	

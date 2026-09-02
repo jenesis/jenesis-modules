@@ -5364,11 +5364,13 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 4.0.4	named	software.amazon.neptune	gremlin-client	2026-08-24T21:06:17Z	2.18.9
 10.3.4-BETA-2	named	com.chartiq.finsemble	finsemble	2026-08-24T21:42:07Z	2.13.5
 0.24.20	named	top.bella	openai-service	2026-08-25T04:45:51Z	2.14.2
+3.0.3	named	ch.exense.step	step-grid-agent	2026-08-26T13:48:44Z	2.21
 9.10.36-BETA-1	named	com.chartiq.finsemble	finsemble	2026-08-26T14:26:45Z	2.13.5
 0.24.21	named	top.bella	openai-service	2026-08-26T14:29:21Z	2.14.2
 9.10.36	named	com.chartiq.finsemble	finsemble	2026-08-26T15:49:44Z	2.13.5
 10.3.4-BETA-3	named	com.chartiq.finsemble	finsemble	2026-08-27T03:50:49Z	2.13.5
 10.3.4	named	com.chartiq.finsemble	finsemble	2026-08-27T08:42:56Z	2.13.5
+3.30.3	named	ch.exense.step	step-functions-plugins-java-handler	2026-08-27T10:02:09Z	2.21
 10.3.5-BETA-1	named	com.chartiq.finsemble	finsemble	2026-08-27T15:44:31Z	2.13.5
 1.11	named	com.bluecirclesoft.open	json-generator-allin1	2026-08-27T19:12:42Z	2.21
 1.11	named	com.bluecirclesoft.open	json-jee7-reader	2026-08-27T19:12:42Z	2.21
