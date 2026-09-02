@@ -92,3 +92,9 @@
 1.4.8	metadata	2026-07-16T18:14:57Z	
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/decoder-macosx64/1.5.0/decoder-macosx64-1.5.0.jar returned status 404
 1.5.0	metadata	2026-08-09T20:35:10Z	
+1.6.0		2026-08-15T09:09:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/decoder-macosx64/1.6.0/decoder-macosx64-1.6.0.jar returned status 404
+1.6.0	metadata	2026-08-15T09:09:38Z	
+1.6.1		2026-08-16T09:02:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/decoder-macosx64/1.6.1/decoder-macosx64-1.6.1.jar returned status 404
+1.6.1	metadata	2026-08-16T09:02:14Z	
+1.7.0		2026-08-21T19:25:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/decoder-macosx64/1.7.0/decoder-macosx64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-08-21T19:25:31Z	

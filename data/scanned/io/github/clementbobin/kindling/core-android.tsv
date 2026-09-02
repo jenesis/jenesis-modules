@@ -23,3 +23,5 @@
 3.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/core-android/3.1.8/core-android-3.1.8.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/core-android/3.2.1/core-android-3.2.1.jar returned status 404
 3.3.0		2026-08-10T09:30:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/core-android/3.3.0/core-android-3.3.0.jar returned status 404
+4.0.2		2026-08-17T12:53:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/core-android/4.0.2/core-android-4.0.2.jar returned status 404
+4.1.2		2026-08-25T10:03:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clementbobin/kindling/core-android/4.1.2/core-android-4.1.2.jar returned status 404

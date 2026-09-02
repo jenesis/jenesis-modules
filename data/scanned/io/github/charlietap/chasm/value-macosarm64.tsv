@@ -52,3 +52,9 @@
 1.4.8	metadata	2026-07-16T18:14:52Z	
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/value-macosarm64/1.5.0/value-macosarm64-1.5.0.jar returned status 404
 1.5.0	metadata	2026-08-09T20:35:09Z	
+1.6.0		2026-08-15T09:09:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/value-macosarm64/1.6.0/value-macosarm64-1.6.0.jar returned status 404
+1.6.0	metadata	2026-08-15T09:09:36Z	
+1.6.1		2026-08-16T09:02:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/value-macosarm64/1.6.1/value-macosarm64-1.6.1.jar returned status 404
+1.6.1	metadata	2026-08-16T09:02:13Z	
+1.7.0		2026-08-21T19:25:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/value-macosarm64/1.7.0/value-macosarm64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-08-21T19:25:32Z	

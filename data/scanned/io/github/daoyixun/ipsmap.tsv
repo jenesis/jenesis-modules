@@ -28,3 +28,4 @@
 1.7.0.4		2026-06-16T03:21:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/daoyixun/ipsmap/1.7.0.4/ipsmap-1.7.0.4.jar returned status 404
 1.7.0.5		2026-06-24T03:06:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/daoyixun/ipsmap/1.7.0.5/ipsmap-1.7.0.5.jar returned status 404
 1.7.0.6		2026-07-02T03:01:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/daoyixun/ipsmap/1.7.0.6/ipsmap-1.7.0.6.jar returned status 404
+1.7.0.7		2026-08-19T06:14:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/daoyixun/ipsmap/1.7.0.7/ipsmap-1.7.0.7.jar returned status 404

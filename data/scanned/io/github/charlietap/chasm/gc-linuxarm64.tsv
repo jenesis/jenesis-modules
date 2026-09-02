@@ -3,3 +3,4 @@
 0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/gc-linuxarm64/0.2.2/gc-linuxarm64-0.2.2.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/gc-linuxarm64/0.6.0/gc-linuxarm64-0.6.0.jar returned status 404
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/gc-linuxarm64/0.6.1/gc-linuxarm64-0.6.1.jar returned status 404
+1.7.0		2026-08-21T19:25:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/gc-linuxarm64/1.7.0/gc-linuxarm64-1.7.0.jar returned status 404
