@@ -1,6 +1,10 @@
 3.0.0		2026-07-14T15:32:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/3.0.0/security-bom-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/3.0.1/security-bom-3.0.1.jar returned status 404
 3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/3.0.4/security-bom-3.0.4.jar returned status 404
+3.2.0		2026-08-16T16:32:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/3.2.0/security-bom-3.2.0.jar returned status 404
+3.2.1		2026-08-17T23:55:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/3.2.1/security-bom-3.2.1.jar returned status 404
+3.2.3		2026-08-27T15:59:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/3.2.3/security-bom-3.2.3.jar returned status 404
+3.2.4		2026-08-29T04:36:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/3.2.4/security-bom-3.2.4.jar returned status 404
 4.0.0		2026-07-12T16:17:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/4.0.0/security-bom-4.0.0.jar returned status 404
 4.0.1		2026-07-12T16:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/4.0.1/security-bom-4.0.1.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/4.0.2/security-bom-4.0.2.jar returned status 404
@@ -11,3 +15,7 @@
 4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/4.0.7/security-bom-4.0.7.jar returned status 404
 4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/4.0.8/security-bom-4.0.8.jar returned status 404
 4.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/4.0.9/security-bom-4.0.9.jar returned status 404
+4.2.0		2026-08-16T03:00:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/4.2.0/security-bom-4.2.0.jar returned status 404
+4.2.1		2026-08-17T15:42:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/4.2.1/security-bom-4.2.1.jar returned status 404
+4.2.2		2026-08-22T09:17:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/4.2.2/security-bom-4.2.2.jar returned status 404
+4.2.3		2026-08-25T23:44:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/gzcltech/security/security-bom/4.2.3/security-bom-4.2.3.jar returned status 404
