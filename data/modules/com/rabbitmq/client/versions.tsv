@@ -84,4 +84,5 @@
 5.33.1	automatic	com.rabbitmq	amqp-client	2026-07-06T11:47:23Z	
 5.34.0	automatic	com.rabbitmq	amqp-client	2026-07-11T00:01:40Z	
 2.2.0	named	com.guicedee.modules.services	amqp-client	2026-07-27T00:14:54Z	2.2.0
+2.2.2	named	com.guicedee.modules.services	amqp-client	2026-08-17T22:53:22Z	2.2.2
 5.35.0	automatic	com.rabbitmq	amqp-client	2026-08-21T09:02:49Z	

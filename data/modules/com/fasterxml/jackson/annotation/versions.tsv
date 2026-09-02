@@ -6517,7 +6517,15 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 3.5.0	named	com.sbbsystems.flink	statefun-flink-distribution	2026-08-22T12:05:42Z	2.18.2
 0.1.19	named	io.github.cdy-codey	codey-console	2026-08-24T02:07:34Z	2.18.2
 4.0.4	named	software.amazon.neptune	neptune-endpoints-info-lambda	2026-08-24T21:22:58Z	2.18.9
+20.0.2-PREVIEW.gitignore-carabiner-to-fix-release-workflow.2026-08-25T0945.03a49038	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_2.13	2026-08-25T09:49:34Z	2.22
+20.0.2-PREVIEW.gitignore-carabiner-to-fix-release-workflow.2026-08-25T0945.03a49038	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_3	2026-08-25T09:49:34Z	2.22
+20.0.2-PREVIEW.test-release-workflow-fix.2026-08-25T1546.a490060d	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_2.13	2026-08-25T15:50:26Z	2.22
+20.0.2-PREVIEW.test-release-workflow-fix.2026-08-25T1546.a490060d	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_3	2026-08-25T15:50:26Z	2.22
+20.0.2	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_2.13	2026-08-25T16:10:50Z	2.22
+20.0.2	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_3	2026-08-25T16:10:50Z	2.22
 0.1.18	named	org.modeljars	modeljars-cli	2026-08-25T19:46:35Z	2.22
 5.6	named	org.jboss.pnc.maven-manipulator	pom-manipulation-cli	2026-08-26T15:14:40Z	2.22
+21.0.0	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_3	2026-08-27T10:52:25Z	2.22
+21.0.0	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_2.13	2026-08-27T10:52:26Z	2.22
 0.14.0.1	named	com.scylladb.oss.simulacron	simulacron-standalone	2026-08-27T19:06:47Z	2.13.4
 0.1.19	named	org.modeljars	modeljars-cli	2026-08-28T13:07:17Z	2.22

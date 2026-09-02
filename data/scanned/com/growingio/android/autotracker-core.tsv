@@ -41,3 +41,4 @@
 4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/growingio/android/autotracker-core/4.5.2/autotracker-core-4.5.2.jar returned status 404
 4.5.2-volvo			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/growingio/android/autotracker-core/4.5.2-volvo/autotracker-core-4.5.2-volvo.jar returned status 404
 4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/growingio/android/autotracker-core/4.5.3/autotracker-core-4.5.3.jar returned status 404
+4.5.4		2026-08-12T06:14:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/growingio/android/autotracker-core/4.5.4/autotracker-core-4.5.4.jar returned status 404

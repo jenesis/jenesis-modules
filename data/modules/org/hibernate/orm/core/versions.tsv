@@ -923,6 +923,7 @@
 7.1.35.Final	automatic	org.hibernate.orm	hibernate-core	2026-08-03T00:07:02Z	
 6.6.55.Final	automatic	org.hibernate.orm	hibernate-core	2026-08-03T00:11:06Z	
 7.4.5.Final	automatic	org.beangle.hibernate	beangle-hibernate-core	2026-08-07T02:55:48Z	
+2.2.2	named	com.guicedee.modules.services	hibernate-core	2026-08-17T22:53:22Z	2.2.2
 6.6.7-bravura-1	automatic	io.github.martinhickson	hibernate-core	2026-08-18T23:12:23Z	
 6.6.56.Final	automatic	org.hibernate.orm	hibernate-core	2026-08-23T00:19:06Z	
 7.4.6.Final	automatic	org.hibernate.orm	hibernate-core	2026-08-23T00:23:28Z	
