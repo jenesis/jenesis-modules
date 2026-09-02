@@ -2,3 +2,7 @@
 0.2.0	metadata	2025-12-30T00:04:34Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shashlikmap/mapshared-iossimulatorarm64/0.2.1/mapshared-iossimulatorarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2025-12-30T00:30:13Z	
+0.2.4		2026-08-27T02:20:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shashlikmap/mapshared-iossimulatorarm64/0.2.4/mapshared-iossimulatorarm64-0.2.4.jar returned status 404
+0.2.4	metadata	2026-08-27T02:20:06Z	
+0.3.0		2026-08-27T03:20:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shashlikmap/mapshared-iossimulatorarm64/0.3.0/mapshared-iossimulatorarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-08-27T03:20:19Z	

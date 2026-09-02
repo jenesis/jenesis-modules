@@ -6,3 +6,5 @@
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/stefanrichterhuber/nextcloudlib-parent/1.0.8/nextcloudlib-parent-1.0.8.jar returned status 404
 1.1.0		2026-05-18T15:04:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/stefanrichterhuber/nextcloudlib-parent/1.1.0/nextcloudlib-parent-1.1.0.jar returned status 404
 1.1.1		2026-06-18T19:00:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/stefanrichterhuber/nextcloudlib-parent/1.1.1/nextcloudlib-parent-1.1.1.jar returned status 404
+2.0.0		2026-08-14T19:51:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/stefanrichterhuber/nextcloudlib-parent/2.0.0/nextcloudlib-parent-2.0.0.jar returned status 404
+2.0.1		2026-08-28T14:14:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/stefanrichterhuber/nextcloudlib-parent/2.0.1/nextcloudlib-parent-2.0.1.jar returned status 404

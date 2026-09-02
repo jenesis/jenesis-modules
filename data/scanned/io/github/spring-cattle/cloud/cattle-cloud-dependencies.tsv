@@ -2,3 +2,4 @@
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spring-cattle/cloud/cattle-cloud-dependencies/1.0.6/cattle-cloud-dependencies-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spring-cattle/cloud/cattle-cloud-dependencies/1.0.7/cattle-cloud-dependencies-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spring-cattle/cloud/cattle-cloud-dependencies/1.0.8/cattle-cloud-dependencies-1.0.8.jar returned status 404
+1.0.9		2026-08-18T02:42:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spring-cattle/cloud/cattle-cloud-dependencies/1.0.9/cattle-cloud-dependencies-1.0.9.jar returned status 404

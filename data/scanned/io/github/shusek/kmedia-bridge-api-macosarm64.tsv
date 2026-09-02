@@ -4,6 +4,10 @@
 0.4.2	metadata	2026-07-17T19:30:45Z	
 0.5.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-api-macosarm64/0.5.0-rc.1/kmedia-bridge-api-macosarm64-0.5.0-rc.1.jar returned status 404
 0.5.0-rc.1	metadata	2026-07-23T00:59:08Z	
+0.5.0-rc.10		2026-08-14T15:04:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-api-macosarm64/0.5.0-rc.10/kmedia-bridge-api-macosarm64-0.5.0-rc.10.jar returned status 404
+0.5.0-rc.10	metadata	2026-08-14T15:04:01Z	
+0.5.0-rc.11		2026-08-15T17:39:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-api-macosarm64/0.5.0-rc.11/kmedia-bridge-api-macosarm64-0.5.0-rc.11.jar returned status 404
+0.5.0-rc.11	metadata	2026-08-15T17:39:12Z	
 0.5.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-api-macosarm64/0.5.0-rc.2/kmedia-bridge-api-macosarm64-0.5.0-rc.2.jar returned status 404
 0.5.0-rc.2	metadata	2026-07-23T17:03:47Z	
 0.5.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-api-macosarm64/0.5.0-rc.3/kmedia-bridge-api-macosarm64-0.5.0-rc.3.jar returned status 404
@@ -16,3 +20,7 @@
 0.5.0-rc.6	metadata	2026-08-03T10:52:48Z	
 0.5.0-rc.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-api-macosarm64/0.5.0-rc.7/kmedia-bridge-api-macosarm64-0.5.0-rc.7.jar returned status 404
 0.5.0-rc.7	metadata	2026-08-05T12:17:36Z	
+0.5.0-rc.8		2026-08-11T12:07:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-api-macosarm64/0.5.0-rc.8/kmedia-bridge-api-macosarm64-0.5.0-rc.8.jar returned status 404
+0.5.0-rc.8	metadata	2026-08-11T12:07:37Z	
+0.5.0-rc.9		2026-08-14T12:31:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shusek/kmedia-bridge-api-macosarm64/0.5.0-rc.9/kmedia-bridge-api-macosarm64-0.5.0-rc.9.jar returned status 404
+0.5.0-rc.9	metadata	2026-08-14T12:31:17Z	

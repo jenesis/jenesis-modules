@@ -5,3 +5,5 @@
 1.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/stefanosiano/powerful_libraries/sharedpreferences/1.0.19/sharedpreferences-1.0.19.jar returned status 404
 1.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/stefanosiano/powerful_libraries/sharedpreferences/1.0.20/sharedpreferences-1.0.20.jar returned status 404
 1.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/stefanosiano/powerful_libraries/sharedpreferences/1.0.21/sharedpreferences-1.0.21.jar returned status 404
+1.1.0		2026-08-27T20:11:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/stefanosiano/powerful_libraries/sharedpreferences/1.1.0/sharedpreferences-1.1.0.jar returned status 404
+1.2.0		2026-08-28T15:26:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/stefanosiano/powerful_libraries/sharedpreferences/1.2.0/sharedpreferences-1.2.0.jar returned status 404

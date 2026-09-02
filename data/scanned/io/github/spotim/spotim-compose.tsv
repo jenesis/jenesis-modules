@@ -1,2 +1,4 @@
 3.0.0		2026-06-14T13:53:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spotim/spotim-compose/3.0.0/spotim-compose-3.0.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spotim/spotim-compose/3.1.0/spotim-compose-3.1.0.jar returned status 404
+3.2.0		2026-08-14T16:18:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spotim/spotim-compose/3.2.0/spotim-compose-3.2.0.jar returned status 404
+3.2.1		2026-08-20T08:42:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spotim/spotim-compose/3.2.1/spotim-compose-3.2.1.jar returned status 404
