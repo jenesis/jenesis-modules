@@ -1,3 +1,4 @@
+v1-rev20260807-2.0.0	automatic	com.google.apis	google-api-services-workstations
 v1-rev20260604-2.0.0	automatic	com.google.apis	google-api-services-workstations
 v1-rev20260427-2.0.0	automatic	com.google.apis	google-api-services-workstations
 v1-rev20260413-2.0.0	automatic	com.google.apis	google-api-services-workstations
@@ -34,6 +35,8 @@ v1-rev20231018-2.0.0	automatic	com.google.apis	google-api-services-workstations
 v1-rev20231001-2.0.0	automatic	com.google.apis	google-api-services-workstations
 v1-rev20230904-2.0.0	automatic	com.google.apis	google-api-services-workstations
 v1-rev20230802-2.0.0	automatic	com.google.apis	google-api-services-workstations
+v1beta-rev20260819-2.0.0	automatic	com.google.apis	google-api-services-workstations
+v1beta-rev20260807-2.0.0	automatic	com.google.apis	google-api-services-workstations
 v1beta-rev20260705-2.0.0	automatic	com.google.apis	google-api-services-workstations
 v1beta-rev20260622-2.0.0	automatic	com.google.apis	google-api-services-workstations
 v1beta-rev20260604-2.0.0	automatic	com.google.apis	google-api-services-workstations

@@ -1,3 +1,4 @@
+v1-rev20260811-2.0.0	automatic	com.google.apis	google-api-services-datafusion
 v1-rev20260202-2.0.0	automatic	com.google.apis	google-api-services-datafusion
 v1-rev20251203-2.0.0	automatic	com.google.apis	google-api-services-datafusion
 v1-rev20251106-2.0.0	automatic	com.google.apis	google-api-services-datafusion
@@ -38,6 +39,7 @@ v1-rev20200928-1.30.10	automatic	com.google.apis	google-api-services-datafusion
 v1-rev20200901-1.30.10	automatic	com.google.apis	google-api-services-datafusion
 v1-rev20200803-1.30.10	automatic	com.google.apis	google-api-services-datafusion
 v1-rev20200609-1.30.10	automatic	com.google.apis	google-api-services-datafusion
+v1beta1-rev20260811-2.0.0	automatic	com.google.apis	google-api-services-datafusion
 v1beta1-rev20260202-2.0.0	automatic	com.google.apis	google-api-services-datafusion
 v1beta1-rev20251203-2.0.0	automatic	com.google.apis	google-api-services-datafusion
 v1beta1-rev20251106-2.0.0	automatic	com.google.apis	google-api-services-datafusion

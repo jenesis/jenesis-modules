@@ -1,3 +1,4 @@
+v1-rev20260706-2.0.0	automatic	com.google.apis	google-api-services-datacatalog
 v1-rev20260211-2.0.0	automatic	com.google.apis	google-api-services-datacatalog
 v1-rev20251226-2.0.0	automatic	com.google.apis	google-api-services-datacatalog
 v1-rev20251205-2.0.0	automatic	com.google.apis	google-api-services-datacatalog
@@ -62,6 +63,7 @@ v1-rev20210702-1.32.1	automatic	com.google.apis	google-api-services-datacatalog
 v1-rev20210618-1.32.1	automatic	com.google.apis	google-api-services-datacatalog
 v1-rev20210618-1.31.5	automatic	com.google.apis	google-api-services-datacatalog
 v1-rev20210601-1.31.5	automatic	com.google.apis	google-api-services-datacatalog
+v1beta1-rev20260706-2.0.0	automatic	com.google.apis	google-api-services-datacatalog
 v1beta1-rev20260211-2.0.0	automatic	com.google.apis	google-api-services-datacatalog
 v1beta1-rev20251226-2.0.0	automatic	com.google.apis	google-api-services-datacatalog
 v1beta1-rev20251205-2.0.0	automatic	com.google.apis	google-api-services-datacatalog

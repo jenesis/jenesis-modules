@@ -1,3 +1,6 @@
+v1-rev20260823-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
+v1-rev20260817-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
+v1-rev20260809-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
 v1-rev20260802-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
 v1-rev20260719-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
 v1-rev20260712-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
@@ -5,6 +8,7 @@ v1-rev20260705-2.0.0	automatic	com.google.apis	google-api-services-developerknow
 v1-rev20260524-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
 v1-rev20260510-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
 v1-rev20260413-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
+v1alpha-rev20260809-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
 v1alpha-rev20260802-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
 v1alpha-rev20260719-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge
 v1alpha-rev20260705-2.0.0	automatic	com.google.apis	google-api-services-developerknowledge

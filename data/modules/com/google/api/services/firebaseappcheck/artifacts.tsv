@@ -1,3 +1,4 @@
+v1-rev20260822-2.0.0	automatic	com.google.apis	google-api-services-firebaseappcheck
 v1-rev20260717-2.0.0	automatic	com.google.apis	google-api-services-firebaseappcheck
 v1-rev20260711-2.0.0	automatic	com.google.apis	google-api-services-firebaseappcheck
 v1-rev20260403-2.0.0	automatic	com.google.apis	google-api-services-firebaseappcheck
@@ -17,6 +18,7 @@ v1-rev20230425-2.0.0	automatic	com.google.apis	google-api-services-firebaseappch
 v1-rev20220425-2.0.0	automatic	com.google.apis	google-api-services-firebaseappcheck
 v1-rev20220425-1.32.1	automatic	com.google.apis	google-api-services-firebaseappcheck
 v1-rev20220415-1.32.1	automatic	com.google.apis	google-api-services-firebaseappcheck
+v1beta-rev20260822-2.0.0	automatic	com.google.apis	google-api-services-firebaseappcheck
 v1beta-rev20260717-2.0.0	automatic	com.google.apis	google-api-services-firebaseappcheck
 v1beta-rev20260711-2.0.0	automatic	com.google.apis	google-api-services-firebaseappcheck
 v1beta-rev20260403-2.0.0	automatic	com.google.apis	google-api-services-firebaseappcheck

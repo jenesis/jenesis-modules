@@ -1,3 +1,4 @@
+v3-rev20260814-2.0.0	automatic	com.google.apis	google-api-services-translate
 v3-rev20260128-2.0.0	automatic	com.google.apis	google-api-services-translate
 v3-rev20250424-2.0.0	automatic	com.google.apis	google-api-services-translate
 v3-rev20241218-2.0.0	automatic	com.google.apis	google-api-services-translate
@@ -48,6 +49,7 @@ v3-rev20200221-1.30.8	automatic	com.google.apis	google-api-services-translate
 v3-rev20200131-1.30.8	automatic	com.google.apis	google-api-services-translate
 v3-rev20200110-1.29.2	automatic	com.google.apis	google-api-services-translate
 v3-rev20200110-1.28.0	automatic	com.google.apis	google-api-services-translate
+v3beta1-rev20260814-2.0.0	automatic	com.google.apis	google-api-services-translate
 v3beta1-rev20260128-2.0.0	automatic	com.google.apis	google-api-services-translate
 v3beta1-rev20250424-2.0.0	automatic	com.google.apis	google-api-services-translate
 v3beta1-rev20241218-2.0.0	automatic	com.google.apis	google-api-services-translate
