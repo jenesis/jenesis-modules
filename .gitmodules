@@ -1,4 +1,4 @@
 [submodule ".jenesis/upstream"]
 	path = .jenesis/upstream
-	url = https://github.com/jenesis/jenesis.git
+	url = git@github.com:jenesis/jenesis.git
 	shallow = true
