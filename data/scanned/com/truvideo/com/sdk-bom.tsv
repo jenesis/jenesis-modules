@@ -1,0 +1,3 @@
+1.1.0-beta.186		2026-08-25T17:08:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-bom/1.1.0-beta.186/sdk-bom-1.1.0-beta.186.jar returned status 404
+1.1.0-beta.188		2026-08-28T04:58:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-bom/1.1.0-beta.188/sdk-bom-1.1.0-beta.188.jar returned status 404
+1.1.0-beta.189		2026-08-28T08:41:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-bom/1.1.0-beta.189/sdk-bom-1.1.0-beta.189.jar returned status 404
