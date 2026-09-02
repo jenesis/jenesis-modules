@@ -1,0 +1,2 @@
+0.1.0		2026-08-12T15:41:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/borealnetwork/facecheck-android/0.1.0/facecheck-android-0.1.0.jar returned status 404
+1.0.0		2026-08-14T02:36:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/borealnetwork/facecheck-android/1.0.0/facecheck-android-1.0.0.jar returned status 404

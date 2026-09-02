@@ -6,3 +6,5 @@
 1.1.0	classes	2025-11-25T13:13:23Z	
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cadenzaflow/bpm/cadenzaflow-engine-rest/1.2.1/cadenzaflow-engine-rest-1.2.1.jar returned status 404
 1.2.1	classes	2026-07-29T13:17:57Z	
+1.2.2		2026-08-18T12:04:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cadenzaflow/bpm/cadenzaflow-engine-rest/1.2.2/cadenzaflow-engine-rest-1.2.2.jar returned status 404
+1.2.2	classes	2026-08-18T12:04:57Z	
