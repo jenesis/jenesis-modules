@@ -3250,6 +3250,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 5.19.10	named	org.apache.activemq	activemq-all	2026-08-06T20:16:10Z	2.0.18
 0.18.0	named	io.testomat	java-reporter-core	2026-08-08T01:58:55Z	2.0.9
 2.0.0-rc2	named	org.open-metadata	elasticsearch-deps	2026-08-13T08:29:27Z	2.0.4
+0.18.1	named	io.testomat	java-reporter-core	2026-08-17T17:48:08Z	2.0.9
 1.13.4	named	org.open-metadata	elasticsearch-deps	2026-08-21T07:16:33Z	2.0.4
 2.56.0	named	org.apache.artemis	artemis-core-client-all	2026-08-21T09:45:25Z	2.0.18
 2.56.0	named	org.apache.artemis	artemis-jms-client-all	2026-08-21T09:45:59Z	2.0.18
@@ -3257,3 +3258,4 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 1.95.0	named	org.talend.sdk.component.sample.feature	checkpointruntime	2026-08-21T14:18:40Z	2.0.7
 2.0.0	named	org.open-metadata	elasticsearch-deps	2026-08-24T05:46:56Z	2.0.4
 2.26.0	named	org.mustangproject	Mustang-CLI	2026-08-25T11:42:44Z	2.0.18
+0.18.2	named	io.testomat	java-reporter-core	2026-08-25T19:56:35Z	2.0.9

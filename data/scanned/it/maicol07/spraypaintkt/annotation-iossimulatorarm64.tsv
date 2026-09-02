@@ -12,3 +12,7 @@
 2.3.0	metadata	2026-01-01T13:38:07Z	
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/maicol07/spraypaintkt/annotation-iossimulatorarm64/2.4.0/annotation-iossimulatorarm64-2.4.0.jar returned status 404
 2.4.0	metadata	2026-01-05T14:05:25Z	
+3.0.0-rc1		2026-08-23T14:20:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/maicol07/spraypaintkt/annotation-iossimulatorarm64/3.0.0-rc1/annotation-iossimulatorarm64-3.0.0-rc1.jar returned status 404
+3.0.0-rc1	metadata	2026-08-23T14:20:53Z	
+3.0.0-rc2		2026-08-24T23:58:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/maicol07/spraypaintkt/annotation-iossimulatorarm64/3.0.0-rc2/annotation-iossimulatorarm64-3.0.0-rc2.jar returned status 404
+3.0.0-rc2	metadata	2026-08-24T23:58:26Z	

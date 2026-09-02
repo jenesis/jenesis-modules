@@ -17,3 +17,5 @@
 4.0.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/bamap/blu/bamap-dependencies/4.0.2.7/bamap-dependencies-4.0.2.7.jar returned status 404
 4.0.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/bamap/blu/bamap-dependencies/4.0.2.8/bamap-dependencies-4.0.2.8.jar returned status 404
 4.1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/bamap/blu/bamap-dependencies/4.1.0.0/bamap-dependencies-4.1.0.0.jar returned status 404
+4.1.1.0		2026-08-23T12:11:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/bamap/blu/bamap-dependencies/4.1.1.0/bamap-dependencies-4.1.1.0.jar returned status 404
+4.1.1.1		2026-08-23T15:26:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/bamap/blu/bamap-dependencies/4.1.1.1/bamap-dependencies-4.1.1.1.jar returned status 404

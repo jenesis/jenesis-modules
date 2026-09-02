@@ -36,6 +36,9 @@
 0.2.36		2026-06-09T09:41:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/syncrasy-dynamic-android/0.2.36/syncrasy-dynamic-android-0.2.36.jar returned status 404
 0.2.37		2026-06-18T10:14:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/syncrasy-dynamic-android/0.2.37/syncrasy-dynamic-android-0.2.37.jar returned status 404
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/syncrasy-dynamic-android/0.2.4/syncrasy-dynamic-android-0.2.4.jar returned status 404
+0.2.40		2026-08-24T05:24:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/syncrasy-dynamic-android/0.2.40/syncrasy-dynamic-android-0.2.40.jar returned status 404
+0.2.41		2026-08-24T07:49:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/syncrasy-dynamic-android/0.2.41/syncrasy-dynamic-android-0.2.41.jar returned status 404
+0.2.42		2026-08-25T05:12:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/syncrasy-dynamic-android/0.2.42/syncrasy-dynamic-android-0.2.42.jar returned status 404
 0.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/syncrasy-dynamic-android/0.2.5/syncrasy-dynamic-android-0.2.5.jar returned status 404
 0.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/syncrasy-dynamic-android/0.2.6/syncrasy-dynamic-android-0.2.6.jar returned status 404
 0.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/syncrasy/syncrasy-dynamic-android/0.2.7/syncrasy-dynamic-android-0.2.7.jar returned status 404

@@ -1,2 +1,4 @@
 1.0.0		2026-08-01T11:39:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/tapsi/map/core-iosarm64/1.0.0/core-iosarm64-1.0.0.jar returned status 404
 1.0.0	metadata	2026-08-01T11:39:34Z	
+1.0.1		2026-08-29T11:17:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ir/tapsi/map/core-iosarm64/1.0.1/core-iosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-08-29T11:17:31Z	

@@ -39,3 +39,4 @@
 1.36.0		2026-06-24T17:53:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/temporal/temporal-bom/1.36.0/temporal-bom-1.36.0.jar returned status 404
 1.36.1		2026-07-02T01:00:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/temporal/temporal-bom/1.36.1/temporal-bom-1.36.1.jar returned status 404
 1.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/temporal/temporal-bom/1.37.0/temporal-bom-1.37.0.jar returned status 404
+1.38.0		2026-08-10T23:08:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/temporal/temporal-bom/1.38.0/temporal-bom-1.38.0.jar returned status 404

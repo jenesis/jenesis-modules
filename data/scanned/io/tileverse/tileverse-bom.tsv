@@ -18,3 +18,5 @@
 2.0.0		2026-07-04T14:44:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/tileverse-bom/2.0.0/tileverse-bom-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/tileverse-bom/2.0.1/tileverse-bom-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/tileverse-bom/2.0.2/tileverse-bom-2.0.2.jar returned status 404
+2.0.3		2026-08-24T21:23:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/tileverse-bom/2.0.3/tileverse-bom-2.0.3.jar returned status 404
+2.1-M1		2026-08-27T01:11:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/tileverse-bom/2.1-M1/tileverse-bom-2.1-M1.jar returned status 404
