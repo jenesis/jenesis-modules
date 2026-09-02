@@ -1,2 +1,5 @@
 1.0.1		2026-07-31T21:11:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/banner/quarkus-banner-parent/1.0.1/quarkus-banner-parent-1.0.1.jar returned status 404
 1.1.0		2026-08-03T09:39:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/banner/quarkus-banner-parent/1.1.0/quarkus-banner-parent-1.1.0.jar returned status 404
+1.5.0		2026-08-11T01:34:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/banner/quarkus-banner-parent/1.5.0/quarkus-banner-parent-1.5.0.jar returned status 404
+1.5.1		2026-08-11T03:50:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/banner/quarkus-banner-parent/1.5.1/quarkus-banner-parent-1.5.1.jar returned status 404
+1.6.0		2026-08-13T03:19:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/banner/quarkus-banner-parent/1.6.0/quarkus-banner-parent-1.6.0.jar returned status 404
