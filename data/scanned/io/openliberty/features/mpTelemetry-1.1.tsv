@@ -30,3 +30,4 @@
 26.0.0.5		2026-05-13T20:48:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/mpTelemetry-1.1/26.0.0.5/mpTelemetry-1.1-26.0.0.5.jar returned status 404
 26.0.0.6		2026-06-09T12:06:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/mpTelemetry-1.1/26.0.0.6/mpTelemetry-1.1-26.0.0.6.jar returned status 404
 26.0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/mpTelemetry-1.1/26.0.0.7/mpTelemetry-1.1-26.0.0.7.jar returned status 404
+26.0.0.8		2026-08-05T11:23:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/mpTelemetry-1.1/26.0.0.8/mpTelemetry-1.1-26.0.0.8.jar returned status 404

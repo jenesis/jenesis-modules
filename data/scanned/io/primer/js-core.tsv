@@ -4,6 +4,9 @@
 2.50.2		2026-06-01T15:31:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/js-core/2.50.2/js-core-2.50.2.jar returned status 404
 2.51.0		2026-06-03T17:02:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/js-core/2.51.0/js-core-2.51.0.jar returned status 404
 2.52.0		2026-06-26T09:47:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/js-core/2.52.0/js-core-2.52.0.jar returned status 404
+2.52.1-alpha.1		2026-08-11T15:42:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/js-core/2.52.1-alpha.1/js-core-2.52.1-alpha.1.jar returned status 404
+2.53.0		2026-08-25T09:07:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/js-core/2.53.0/js-core-2.53.0.jar returned status 404
 3.0.0-beta.3		2026-06-25T13:13:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/js-core/3.0.0-beta.3/js-core-3.0.0-beta.3.jar returned status 404
 3.0.0-beta.4		2026-07-03T10:23:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/js-core/3.0.0-beta.4/js-core-3.0.0-beta.4.jar returned status 404
 3.0.0-beta.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/js-core/3.0.0-beta.5/js-core-3.0.0-beta.5.jar returned status 404
+3.0.0-beta.6		2026-08-12T13:02:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/primer/js-core/3.0.0-beta.6/js-core-3.0.0-beta.6.jar returned status 404

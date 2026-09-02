@@ -93,3 +93,4 @@
 26.0.0.5		2026-05-13T20:48:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/wasJmsClient-2.0/26.0.0.5/wasJmsClient-2.0-26.0.0.5.jar returned status 404
 26.0.0.6		2026-06-09T12:06:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/wasJmsClient-2.0/26.0.0.6/wasJmsClient-2.0-26.0.0.6.jar returned status 404
 26.0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/wasJmsClient-2.0/26.0.0.7/wasJmsClient-2.0-26.0.0.7.jar returned status 404
+26.0.0.8		2026-08-05T12:04:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/wasJmsClient-2.0/26.0.0.8/wasJmsClient-2.0-26.0.0.8.jar returned status 404

@@ -55,3 +55,4 @@
 26.0.0.5		2026-05-13T20:46:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jsonpContainer-2.0/26.0.0.5/jsonpContainer-2.0-26.0.0.5.jar returned status 404
 26.0.0.6		2026-06-09T12:03:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jsonpContainer-2.0/26.0.0.6/jsonpContainer-2.0-26.0.0.6.jar returned status 404
 26.0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jsonpContainer-2.0/26.0.0.7/jsonpContainer-2.0-26.0.0.7.jar returned status 404
+26.0.0.8		2026-08-05T11:36:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openliberty/features/jsonpContainer-2.0/26.0.0.8/jsonpContainer-2.0-26.0.0.8.jar returned status 404
