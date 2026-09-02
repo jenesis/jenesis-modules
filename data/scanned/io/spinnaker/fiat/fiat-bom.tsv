@@ -71,6 +71,9 @@
 2026.0-22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.0-22/fiat-bom-2026.0-22.jar returned status 404
 2026.0-23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.0-23/fiat-bom-2026.0-23.jar returned status 404
 2026.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.0.4/fiat-bom-2026.0.4.jar returned status 404
+2026.1-10		2026-08-20T00:36:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.1-10/fiat-bom-2026.1-10.jar returned status 404
+2026.1-11		2026-08-20T14:30:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.1-11/fiat-bom-2026.1-11.jar returned status 404
+2026.1-12		2026-08-21T17:46:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.1-12/fiat-bom-2026.1-12.jar returned status 404
 2026.1-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.1-5/fiat-bom-2026.1-5.jar returned status 404
 2026.1-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.1-6/fiat-bom-2026.1-6.jar returned status 404
 2026.1-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.1-7/fiat-bom-2026.1-7.jar returned status 404
@@ -80,6 +83,10 @@
 2026.2-13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.2-13/fiat-bom-2026.2-13.jar returned status 404
 2026.2-14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.2-14/fiat-bom-2026.2-14.jar returned status 404
 2026.2-15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.2-15/fiat-bom-2026.2-15.jar returned status 404
+2026.2-16		2026-08-11T03:26:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.2-16/fiat-bom-2026.2-16.jar returned status 404
+2026.2-17		2026-08-20T00:34:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.2-17/fiat-bom-2026.2-17.jar returned status 404
+2026.2-18		2026-08-20T01:56:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.2-18/fiat-bom-2026.2-18.jar returned status 404
+2026.2-19		2026-08-21T14:43:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.2-19/fiat-bom-2026.2-19.jar returned status 404
 2026.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/2026.2.3/fiat-bom-2026.2.3.jar returned status 404
 main-239		2026-06-16T20:26:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-239/fiat-bom-main-239.jar returned status 404
 main-241		2026-06-17T03:20:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-241/fiat-bom-main-241.jar returned status 404
@@ -98,4 +105,39 @@ main-283			IOException: Tail request on https://maven-central.storage-download.g
 main-284			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-284/fiat-bom-main-284.jar returned status 404
 main-285			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-285/fiat-bom-main-285.jar returned status 404
 main-286			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-286/fiat-bom-main-286.jar returned status 404
+main-287		2026-08-11T02:30:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-287/fiat-bom-main-287.jar returned status 404
+main-288		2026-08-12T14:51:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-288/fiat-bom-main-288.jar returned status 404
+main-289		2026-08-12T21:47:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-289/fiat-bom-main-289.jar returned status 404
+main-290		2026-08-13T17:52:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-290/fiat-bom-main-290.jar returned status 404
+main-291		2026-08-14T14:54:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-291/fiat-bom-main-291.jar returned status 404
+main-292		2026-08-14T15:20:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-292/fiat-bom-main-292.jar returned status 404
+main-293		2026-08-14T16:31:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-293/fiat-bom-main-293.jar returned status 404
+main-294		2026-08-18T14:42:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-294/fiat-bom-main-294.jar returned status 404
+main-295		2026-08-18T14:42:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-295/fiat-bom-main-295.jar returned status 404
+main-296		2026-08-18T15:10:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-296/fiat-bom-main-296.jar returned status 404
+main-297		2026-08-18T22:06:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-297/fiat-bom-main-297.jar returned status 404
+main-298		2026-08-18T23:17:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-298/fiat-bom-main-298.jar returned status 404
+main-299		2026-08-19T14:54:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-299/fiat-bom-main-299.jar returned status 404
+main-300		2026-08-19T18:05:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-300/fiat-bom-main-300.jar returned status 404
+main-301		2026-08-19T19:37:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-301/fiat-bom-main-301.jar returned status 404
+main-302		2026-08-20T00:44:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-302/fiat-bom-main-302.jar returned status 404
+main-303		2026-08-20T15:30:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-303/fiat-bom-main-303.jar returned status 404
+main-304		2026-08-21T14:03:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-304/fiat-bom-main-304.jar returned status 404
+main-305		2026-08-21T15:00:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-305/fiat-bom-main-305.jar returned status 404
+main-306		2026-08-21T16:16:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-306/fiat-bom-main-306.jar returned status 404
+main-307		2026-08-22T02:57:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-307/fiat-bom-main-307.jar returned status 404
+main-308		2026-08-24T15:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-308/fiat-bom-main-308.jar returned status 404
+main-309		2026-08-24T17:41:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-309/fiat-bom-main-309.jar returned status 404
+main-310		2026-08-24T21:41:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-310/fiat-bom-main-310.jar returned status 404
+main-311		2026-08-25T15:38:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-311/fiat-bom-main-311.jar returned status 404
+main-312		2026-08-27T14:57:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-312/fiat-bom-main-312.jar returned status 404
+main-313		2026-08-27T14:58:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-313/fiat-bom-main-313.jar returned status 404
+main-314		2026-08-27T15:30:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-314/fiat-bom-main-314.jar returned status 404
+main-315		2026-08-27T17:01:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-315/fiat-bom-main-315.jar returned status 404
+main-316		2026-08-27T17:57:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-316/fiat-bom-main-316.jar returned status 404
+main-317		2026-08-28T13:37:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-317/fiat-bom-main-317.jar returned status 404
+main-318		2026-08-28T14:41:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-318/fiat-bom-main-318.jar returned status 404
+main-319		2026-08-28T15:27:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-319/fiat-bom-main-319.jar returned status 404
+main-320		2026-08-28T15:27:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-320/fiat-bom-main-320.jar returned status 404
+main-321		2026-08-28T16:05:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/main-321/fiat-bom-main-321.jar returned status 404
 version-1.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/fiat/fiat-bom/version-1.14.4/fiat-bom-version-1.14.4.jar returned status 404
