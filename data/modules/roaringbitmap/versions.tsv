@@ -107,3 +107,13 @@
 1.6.17	named	org.roaringbitmap	RoaringBitmap	2026-07-26T00:04:01Z	1.6.17
 1.6.19	named	org.roaringbitmap	RoaringBitmap	2026-08-03T22:08:55Z	1.6.19
 1.6.20	named	org.roaringbitmap	RoaringBitmap	2026-08-05T21:41:58Z	1.6.20
+0.7.0	named	org.apache.celeborn	celeborn-client-spark-3-shaded_2.12	2026-08-10T11:45:50Z	1.0.6
+0.7.0	named	org.apache.celeborn	celeborn-client-spark-3-shaded_2.13	2026-08-10T11:48:19Z	1.0.6
+0.7.0	named	org.apache.celeborn	celeborn-client-spark-4-shaded_2.13	2026-08-10T11:50:15Z	1.0.6
+0.7.0	named	org.apache.celeborn	celeborn-client-flink-1.18-shaded_2.12	2026-08-10T11:51:55Z	1.0.6
+0.7.0	named	org.apache.celeborn	celeborn-client-flink-1.19-shaded_2.12	2026-08-10T11:54:29Z	1.0.6
+0.7.0	named	org.apache.celeborn	celeborn-client-flink-1.20-shaded_2.12	2026-08-10T11:55:41Z	1.0.6
+0.7.0	named	org.apache.celeborn	celeborn-client-flink-2.0-shaded_2.12	2026-08-10T11:56:56Z	1.0.6
+0.7.0	named	org.apache.celeborn	celeborn-client-flink-2.1-shaded_2.12	2026-08-10T11:58:11Z	1.0.6
+0.7.0	named	org.apache.celeborn	celeborn-client-flink-2.2-shaded_2.12	2026-08-10T11:59:20Z	1.0.6
+0.7.0	named	org.apache.celeborn	celeborn-client-flink-2.3-shaded_2.12	2026-08-10T12:00:48Z	1.0.6
