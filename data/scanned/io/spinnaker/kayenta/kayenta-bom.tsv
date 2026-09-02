@@ -63,6 +63,9 @@
 2026.0-22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.0-22/kayenta-bom-2026.0-22.jar returned status 404
 2026.0-23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.0-23/kayenta-bom-2026.0-23.jar returned status 404
 2026.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.0.4/kayenta-bom-2026.0.4.jar returned status 404
+2026.1-10		2026-08-20T00:48:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.1-10/kayenta-bom-2026.1-10.jar returned status 404
+2026.1-11		2026-08-20T14:36:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.1-11/kayenta-bom-2026.1-11.jar returned status 404
+2026.1-12		2026-08-21T18:00:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.1-12/kayenta-bom-2026.1-12.jar returned status 404
 2026.1-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.1-5/kayenta-bom-2026.1-5.jar returned status 404
 2026.1-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.1-6/kayenta-bom-2026.1-6.jar returned status 404
 2026.1-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.1-7/kayenta-bom-2026.1-7.jar returned status 404
@@ -72,6 +75,10 @@
 2026.2-13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.2-13/kayenta-bom-2026.2-13.jar returned status 404
 2026.2-14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.2-14/kayenta-bom-2026.2-14.jar returned status 404
 2026.2-15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.2-15/kayenta-bom-2026.2-15.jar returned status 404
+2026.2-16		2026-08-11T03:31:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.2-16/kayenta-bom-2026.2-16.jar returned status 404
+2026.2-17		2026-08-20T00:38:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.2-17/kayenta-bom-2026.2-17.jar returned status 404
+2026.2-18		2026-08-20T01:57:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.2-18/kayenta-bom-2026.2-18.jar returned status 404
+2026.2-19		2026-08-21T14:40:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.2-19/kayenta-bom-2026.2-19.jar returned status 404
 2026.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/2026.2.3/kayenta-bom-2026.2.3.jar returned status 404
 main-239		2026-06-16T20:33:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-239/kayenta-bom-main-239.jar returned status 404
 main-241		2026-06-17T03:34:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-241/kayenta-bom-main-241.jar returned status 404
@@ -89,3 +96,38 @@ main-283			IOException: Tail request on https://maven-central.storage-download.g
 main-284			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-284/kayenta-bom-main-284.jar returned status 404
 main-285			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-285/kayenta-bom-main-285.jar returned status 404
 main-286			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-286/kayenta-bom-main-286.jar returned status 404
+main-287		2026-08-11T02:32:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-287/kayenta-bom-main-287.jar returned status 404
+main-288		2026-08-12T14:55:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-288/kayenta-bom-main-288.jar returned status 404
+main-289		2026-08-12T21:49:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-289/kayenta-bom-main-289.jar returned status 404
+main-290		2026-08-13T17:56:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-290/kayenta-bom-main-290.jar returned status 404
+main-291		2026-08-14T14:58:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-291/kayenta-bom-main-291.jar returned status 404
+main-292		2026-08-14T15:23:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-292/kayenta-bom-main-292.jar returned status 404
+main-293		2026-08-14T16:33:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-293/kayenta-bom-main-293.jar returned status 404
+main-294		2026-08-18T14:45:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-294/kayenta-bom-main-294.jar returned status 404
+main-295		2026-08-18T14:47:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-295/kayenta-bom-main-295.jar returned status 404
+main-296		2026-08-18T15:08:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-296/kayenta-bom-main-296.jar returned status 404
+main-297		2026-08-18T22:07:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-297/kayenta-bom-main-297.jar returned status 404
+main-298		2026-08-18T23:19:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-298/kayenta-bom-main-298.jar returned status 404
+main-299		2026-08-19T14:57:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-299/kayenta-bom-main-299.jar returned status 404
+main-300		2026-08-19T18:07:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-300/kayenta-bom-main-300.jar returned status 404
+main-301		2026-08-19T19:42:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-301/kayenta-bom-main-301.jar returned status 404
+main-302		2026-08-20T00:49:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-302/kayenta-bom-main-302.jar returned status 404
+main-303		2026-08-20T15:32:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-303/kayenta-bom-main-303.jar returned status 404
+main-304		2026-08-21T14:08:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-304/kayenta-bom-main-304.jar returned status 404
+main-305		2026-08-21T15:02:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-305/kayenta-bom-main-305.jar returned status 404
+main-306		2026-08-21T16:19:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-306/kayenta-bom-main-306.jar returned status 404
+main-307		2026-08-22T03:01:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-307/kayenta-bom-main-307.jar returned status 404
+main-308		2026-08-24T15:04:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-308/kayenta-bom-main-308.jar returned status 404
+main-309		2026-08-24T17:45:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-309/kayenta-bom-main-309.jar returned status 404
+main-310		2026-08-24T21:45:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-310/kayenta-bom-main-310.jar returned status 404
+main-311		2026-08-25T15:37:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-311/kayenta-bom-main-311.jar returned status 404
+main-312		2026-08-27T15:01:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-312/kayenta-bom-main-312.jar returned status 404
+main-313		2026-08-27T15:00:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-313/kayenta-bom-main-313.jar returned status 404
+main-314		2026-08-27T15:32:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-314/kayenta-bom-main-314.jar returned status 404
+main-315		2026-08-27T17:05:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-315/kayenta-bom-main-315.jar returned status 404
+main-316		2026-08-27T18:00:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-316/kayenta-bom-main-316.jar returned status 404
+main-317		2026-08-28T13:39:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-317/kayenta-bom-main-317.jar returned status 404
+main-318		2026-08-28T14:47:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-318/kayenta-bom-main-318.jar returned status 404
+main-319		2026-08-28T15:25:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-319/kayenta-bom-main-319.jar returned status 404
+main-320		2026-08-28T15:31:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-320/kayenta-bom-main-320.jar returned status 404
+main-321		2026-08-28T16:07:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kayenta/kayenta-bom/main-321/kayenta-bom-main-321.jar returned status 404
