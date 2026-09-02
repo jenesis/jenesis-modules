@@ -94,3 +94,5 @@
 5.0.0-Preview3	metadata	2026-06-26T11:03:00Z	
 5.0.0-Preview4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/common/simbot-common-collection-tvossimulatorarm64/5.0.0-Preview4/simbot-common-collection-tvossimulatorarm64-5.0.0-Preview4.jar returned status 404
 5.0.0-Preview4	metadata	2026-07-14T14:11:43Z	
+5.0.0-Preview5		2026-08-19T10:01:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/common/simbot-common-collection-tvossimulatorarm64/5.0.0-Preview5/simbot-common-collection-tvossimulatorarm64-5.0.0-Preview5.jar returned status 404
+5.0.0-Preview5	metadata	2026-08-19T10:02:23Z	

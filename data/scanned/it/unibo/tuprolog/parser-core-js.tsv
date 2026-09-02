@@ -112,3 +112,5 @@
 1.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/parser-core-js/1.1.3/parser-core-js-1.1.3.jar returned status 404
 1.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/parser-core-js/1.1.4/parser-core-js-1.1.4.jar returned status 404
 1.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/parser-core-js/1.1.5/parser-core-js-1.1.5.jar returned status 404
+1.2.0		2026-08-24T22:43:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/parser-core-js/1.2.0/parser-core-js-1.2.0.jar returned status 404
+1.2.1		2026-08-26T15:18:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/parser-core-js/1.2.1/parser-core-js-1.2.1.jar returned status 404

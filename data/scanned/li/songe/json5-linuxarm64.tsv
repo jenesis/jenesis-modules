@@ -9,3 +9,5 @@
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/json5-linuxarm64/0.4.0/json5-linuxarm64-0.4.0.jar returned status 404
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/json5-linuxarm64/0.4.1/json5-linuxarm64-0.4.1.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/json5-linuxarm64/0.5.0/json5-linuxarm64-0.5.0.jar returned status 404
+0.6.0		2026-08-25T14:09:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/json5-linuxarm64/0.6.0/json5-linuxarm64-0.6.0.jar returned status 404
+0.7.0		2026-08-25T17:39:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/json5-linuxarm64/0.7.0/json5-linuxarm64-0.7.0.jar returned status 404

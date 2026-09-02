@@ -1,5 +1,7 @@
 1.0.0-beta.1		2026-08-04T08:42:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kim/jade/kotlinx-tvossimulatorarm64/1.0.0-beta.1/kotlinx-tvossimulatorarm64-1.0.0-beta.1.jar returned status 404
 1.0.0-beta.1	metadata	2026-08-04T08:42:51Z	
+3.0.0		2026-08-11T12:31:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kim/jade/kotlinx-tvossimulatorarm64/3.0.0/kotlinx-tvossimulatorarm64-3.0.0.jar returned status 404
+3.0.0	metadata	2026-08-11T12:31:04Z	
 3.0.0-beta.1		2026-08-05T07:26:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kim/jade/kotlinx-tvossimulatorarm64/3.0.0-beta.1/kotlinx-tvossimulatorarm64-3.0.0-beta.1.jar returned status 404
 3.0.0-beta.1	metadata	2026-08-05T07:26:49Z	
 3.0.0-beta.2		2026-08-05T10:17:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kim/jade/kotlinx-tvossimulatorarm64/3.0.0-beta.2/kotlinx-tvossimulatorarm64-3.0.0-beta.2.jar returned status 404

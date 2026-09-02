@@ -7,3 +7,5 @@
 0.5.0-alpha.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-android/0.5.0-alpha.7/lemmy-api-android-0.5.0-alpha.7.jar returned status 404
 0.5.0-alpha.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-android/0.5.0-alpha.8/lemmy-api-android-0.5.0-alpha.8.jar returned status 404
 0.6.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-android/0.6.0-beta.3/lemmy-api-android-0.6.0-beta.3.jar returned status 404
+0.6.0-beta.6		2026-08-16T14:05:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-android/0.6.0-beta.6/lemmy-api-android-0.6.0-beta.6.jar returned status 404
+0.6.0-beta.7		2026-08-16T16:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-android/0.6.0-beta.7/lemmy-api-android-0.6.0-beta.7.jar returned status 404

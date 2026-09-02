@@ -16,3 +16,7 @@
 0.5.0-alpha.8	metadata	2026-07-11T14:22:57Z	
 0.6.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-iosarm64/0.6.0-beta.3/lemmy-api-iosarm64-0.6.0-beta.3.jar returned status 404
 0.6.0-beta.3	metadata	2026-07-18T13:26:36Z	
+0.6.0-beta.6		2026-08-16T14:05:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-iosarm64/0.6.0-beta.6/lemmy-api-iosarm64-0.6.0-beta.6.jar returned status 404
+0.6.0-beta.6	metadata	2026-08-16T14:05:21Z	
+0.6.0-beta.7		2026-08-16T16:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-iosarm64/0.6.0-beta.7/lemmy-api-iosarm64-0.6.0-beta.7.jar returned status 404
+0.6.0-beta.7	metadata	2026-08-16T16:36:35Z	
