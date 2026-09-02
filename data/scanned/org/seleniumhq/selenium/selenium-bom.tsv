@@ -42,6 +42,8 @@
 4.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-bom/4.44.0/selenium-bom-4.44.0.jar returned status 404
 4.45.0		2026-06-16T04:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-bom/4.45.0/selenium-bom-4.45.0.jar returned status 404
 4.46.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-bom/4.46.0/selenium-bom-4.46.0.jar returned status 404
+4.47.0		2026-08-10T17:59:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-bom/4.47.0/selenium-bom-4.47.0.jar returned status 404
+4.48.0		2026-08-27T20:11:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-bom/4.48.0/selenium-bom-4.48.0.jar returned status 404
 4.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-bom/4.8.1/selenium-bom-4.8.1.jar returned status 404
 4.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-bom/4.8.2/selenium-bom-4.8.2.jar returned status 404
 4.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/seleniumhq/selenium/selenium-bom/4.8.3/selenium-bom-4.8.3.jar returned status 404

@@ -56,3 +56,5 @@
 0.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-code-parent/0.9.3/patternfly-java-code-parent-0.9.3.jar returned status 404
 0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-code-parent/0.9.4/patternfly-java-code-parent-0.9.4.jar returned status 404
 0.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-code-parent/0.9.5/patternfly-java-code-parent-0.9.5.jar returned status 404
+0.9.6		2026-08-17T10:49:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-code-parent/0.9.6/patternfly-java-code-parent-0.9.6.jar returned status 404
+0.9.7		2026-08-17T12:05:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/patternfly/patternfly-java-code-parent/0.9.7/patternfly-java-code-parent-0.9.7.jar returned status 404

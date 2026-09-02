@@ -32,6 +32,7 @@
 21.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-core/21.0.0/authzforce-ce-core-21.0.0.jar returned status 404
 21.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-core/21.0.1/authzforce-ce-core-21.0.1.jar returned status 404
 21.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-core/21.1.0/authzforce-ce-core-21.1.0.jar returned status 404
+21.2.0		2026-08-24T23:24:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-core/21.2.0/authzforce-ce-core-21.2.0.jar returned status 404
 3.6.0		2015-12-07T22:23:27Z	
 3.7.0		2016-01-13T21:59:02Z	
 3.8.0		2016-04-07T22:34:49Z	
