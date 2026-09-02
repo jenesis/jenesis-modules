@@ -26,3 +26,5 @@
 4.51.2		2026-07-02T10:17:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/internal/survey/4.51.2/survey-4.51.2.jar returned status 404
 4.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/internal/survey/4.52.0/survey-4.52.0.jar returned status 404
 4.52.1		2026-08-04T16:27:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/internal/survey/4.52.1/survey-4.52.1.jar returned status 404
+4.52.2		2026-08-13T15:13:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/internal/survey/4.52.2/survey-4.52.2.jar returned status 404
+4.52.3		2026-08-27T14:44:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/internal/survey/4.52.3/survey-4.52.3.jar returned status 404

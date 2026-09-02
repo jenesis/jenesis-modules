@@ -22,3 +22,5 @@
 2.8.2	metadata	2026-07-11T09:57:49Z	
 2.9.0		2026-07-21T06:38:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-scrollbars-iossimulatorarm64/2.9.0/composeunstyled-scrollbars-iossimulatorarm64-2.9.0.jar returned status 404
 2.9.0	metadata	2026-07-21T06:38:12Z	
+2.9.2		2026-08-29T10:06:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/composables/composeunstyled-scrollbars-iossimulatorarm64/2.9.2/composeunstyled-scrollbars-iossimulatorarm64-2.9.2.jar returned status 404
+2.9.2	metadata	2026-08-29T10:05:58Z	
