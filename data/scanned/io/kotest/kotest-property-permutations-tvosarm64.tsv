@@ -74,3 +74,5 @@
 6.2.2	metadata	2026-07-08T01:51:22Z	
 6.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-property-permutations-tvosarm64/6.2.3/kotest-property-permutations-tvosarm64-6.2.3.jar returned status 404
 6.2.3	metadata	2026-07-20T22:39:40Z	
+6.2.4		2026-08-11T22:03:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kotest/kotest-property-permutations-tvosarm64/6.2.4/kotest-property-permutations-tvosarm64-6.2.4.jar returned status 404
+6.2.4	metadata	2026-08-11T22:03:21Z	
