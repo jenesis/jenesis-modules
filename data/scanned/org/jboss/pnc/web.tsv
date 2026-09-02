@@ -90,9 +90,14 @@
 3.4.5		2026-04-22T12:50:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.4.5/web-3.4.5.jar returned status 404
 3.4.6		2026-06-18T15:58:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.4.6/web-3.4.6.jar returned status 404
 3.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.4.7/web-3.4.7.jar returned status 404
+3.4.8		2026-08-21T19:28:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.4.8/web-3.4.8.jar returned status 404
 3.5.0		2026-05-13T10:04:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.5.0/web-3.5.0.jar returned status 404
 3.5.1		2026-06-19T17:24:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.5.1/web-3.5.1.jar returned status 404
 3.5.10		2026-08-05T21:47:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.5.10/web-3.5.10.jar returned status 404
+3.5.12		2026-08-18T21:03:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.5.12/web-3.5.12.jar returned status 404
+3.5.13		2026-08-21T19:19:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.5.13/web-3.5.13.jar returned status 404
+3.5.14		2026-08-21T21:26:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.5.14/web-3.5.14.jar returned status 404
+3.5.15		2026-08-25T14:10:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.5.15/web-3.5.15.jar returned status 404
 3.5.2		2026-06-25T15:52:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.5.2/web-3.5.2.jar returned status 404
 3.5.3		2026-06-25T18:31:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.5.3/web-3.5.3.jar returned status 404
 3.5.4		2026-07-01T12:19:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/web/3.5.4/web-3.5.4.jar returned status 404

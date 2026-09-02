@@ -39,3 +39,6 @@
 3.0.3		2026-06-22T07:27:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/parent/3.0.3/parent-3.0.3.jar returned status 404
 3.0.4		2026-06-22T22:11:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/parent/3.0.4/parent-3.0.4.jar returned status 404
 3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/parent/3.0.5/parent-3.0.5.jar returned status 404
+3.0.6		2026-08-14T19:42:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/parent/3.0.6/parent-3.0.6.jar returned status 404
+3.0.7		2026-08-20T20:50:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/parent/3.0.7/parent-3.0.7.jar returned status 404
+3.0.8		2026-08-28T11:46:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/da/parent/3.0.8/parent-3.0.8.jar returned status 404

@@ -18,6 +18,8 @@
 1.11.0-rc01	metadata	2026-05-04T17:14:24Z	
 1.11.1		2026-06-01T10:34:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/ui/ui-backhandler-iossimulatorarm64/1.11.1/ui-backhandler-iossimulatorarm64-1.11.1.jar returned status 404
 1.11.1	metadata	2026-06-01T10:34:59Z	
+1.12.0		2026-08-24T14:09:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/ui/ui-backhandler-iossimulatorarm64/1.12.0/ui-backhandler-iossimulatorarm64-1.12.0.jar returned status 404
+1.12.0	metadata	2026-08-24T14:09:02Z	
 1.12.0-alpha01		2026-05-19T09:28:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/ui/ui-backhandler-iossimulatorarm64/1.12.0-alpha01/ui-backhandler-iossimulatorarm64-1.12.0-alpha01.jar returned status 404
 1.12.0-alpha01	metadata	2026-05-19T09:28:45Z	
 1.12.0-alpha02		2026-06-15T13:20:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/ui/ui-backhandler-iossimulatorarm64/1.12.0-alpha02/ui-backhandler-iossimulatorarm64-1.12.0-alpha02.jar returned status 404
@@ -28,3 +30,5 @@
 1.12.0-beta02	metadata	2026-07-13T12:38:25Z	
 1.12.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/ui/ui-backhandler-iossimulatorarm64/1.12.0-beta03/ui-backhandler-iossimulatorarm64-1.12.0-beta03.jar returned status 404
 1.12.0-beta03	metadata	2026-07-28T11:04:32Z	
+1.12.0-rc01		2026-08-10T15:42:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/compose/ui/ui-backhandler-iossimulatorarm64/1.12.0-rc01/ui-backhandler-iossimulatorarm64-1.12.0-rc01.jar returned status 404
+1.12.0-rc01	metadata	2026-08-10T15:42:42Z	

@@ -90,9 +90,14 @@
 3.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.4.5/parent-3.4.5.jar returned status 404
 3.4.6		2026-06-18T15:58:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.4.6/parent-3.4.6.jar returned status 404
 3.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.4.7/parent-3.4.7.jar returned status 404
+3.4.8		2026-08-21T19:28:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.4.8/parent-3.4.8.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.5.0/parent-3.5.0.jar returned status 404
 3.5.1		2026-06-19T17:24:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.5.1/parent-3.5.1.jar returned status 404
 3.5.10		2026-08-05T21:47:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.5.10/parent-3.5.10.jar returned status 404
+3.5.12		2026-08-18T21:03:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.5.12/parent-3.5.12.jar returned status 404
+3.5.13		2026-08-21T19:19:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.5.13/parent-3.5.13.jar returned status 404
+3.5.14		2026-08-21T21:26:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.5.14/parent-3.5.14.jar returned status 404
+3.5.15		2026-08-25T14:10:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.5.15/parent-3.5.15.jar returned status 404
 3.5.2		2026-06-25T15:52:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.5.2/parent-3.5.2.jar returned status 404
 3.5.3		2026-06-25T18:31:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.5.3/parent-3.5.3.jar returned status 404
 3.5.4		2026-07-01T12:19:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/parent/3.5.4/parent-3.5.4.jar returned status 404

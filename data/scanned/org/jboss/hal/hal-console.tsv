@@ -151,6 +151,9 @@
 3.7.20.Final		2026-06-16T14:50:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-console/3.7.20.Final/hal-console-3.7.20.Final.jar returned status 404
 3.7.20.Final	resources	2026-06-16T14:50:52Z	
 3.7.20.Final	webroot	2026-06-16T14:50:53Z	
+3.7.21.Final		2026-08-12T07:35:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-console/3.7.21.Final/hal-console-3.7.21.Final.jar returned status 404
+3.7.21.Final	resources	2026-08-12T07:35:44Z	
+3.7.21.Final	webroot	2026-08-12T07:35:44Z	
 3.7.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-console/3.7.4.Final/hal-console-3.7.4.Final.jar returned status 404
 3.7.4.Final	resources	2024-07-02T05:53:05Z	
 3.7.4.Final	webroot	2024-07-02T05:52:54Z	

@@ -49,6 +49,7 @@
 3.7.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-theme-parent/3.7.18.Final/hal-theme-parent-3.7.18.Final.jar returned status 404
 3.7.19.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-theme-parent/3.7.19.Final/hal-theme-parent-3.7.19.Final.jar returned status 404
 3.7.20.Final		2026-06-16T14:50:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-theme-parent/3.7.20.Final/hal-theme-parent-3.7.20.Final.jar returned status 404
+3.7.21.Final		2026-08-12T07:35:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-theme-parent/3.7.21.Final/hal-theme-parent-3.7.21.Final.jar returned status 404
 3.7.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-theme-parent/3.7.4.Final/hal-theme-parent-3.7.4.Final.jar returned status 404
 3.7.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-theme-parent/3.7.5.Final/hal-theme-parent-3.7.5.Final.jar returned status 404
 3.7.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/hal/hal-theme-parent/3.7.6.Final/hal-theme-parent-3.7.6.Final.jar returned status 404
