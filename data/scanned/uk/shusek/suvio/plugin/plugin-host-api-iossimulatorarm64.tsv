@@ -10,3 +10,7 @@
 1.0.0-rc.19	metadata	2026-08-05T12:22:46Z	
 1.0.0-rc.20		2026-08-07T16:43:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/plugin/plugin-host-api-iossimulatorarm64/1.0.0-rc.20/plugin-host-api-iossimulatorarm64-1.0.0-rc.20.jar returned status 404
 1.0.0-rc.20	metadata	2026-08-07T16:43:48Z	
+1.0.0-rc.21		2026-08-09T18:20:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/plugin/plugin-host-api-iossimulatorarm64/1.0.0-rc.21/plugin-host-api-iossimulatorarm64-1.0.0-rc.21.jar returned status 404
+1.0.0-rc.21	metadata	2026-08-09T18:20:47Z	
+1.0.0-rc.22		2026-08-12T16:20:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/plugin/plugin-host-api-iossimulatorarm64/1.0.0-rc.22/plugin-host-api-iossimulatorarm64-1.0.0-rc.22.jar returned status 404
+1.0.0-rc.22	metadata	2026-08-12T16:20:16Z	

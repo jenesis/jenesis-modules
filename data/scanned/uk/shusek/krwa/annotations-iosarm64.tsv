@@ -8,3 +8,7 @@
 0.3.0-rc.6	metadata	2026-07-25T21:34:42Z	
 0.3.0-rc.7		2026-08-05T17:44:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/krwa/annotations-iosarm64/0.3.0-rc.7/annotations-iosarm64-0.3.0-rc.7.jar returned status 404
 0.3.0-rc.7	metadata	2026-08-05T17:44:31Z	
+0.3.0-rc.8		2026-08-09T21:51:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/krwa/annotations-iosarm64/0.3.0-rc.8/annotations-iosarm64-0.3.0-rc.8.jar returned status 404
+0.3.0-rc.8	metadata	2026-08-09T21:51:35Z	
+0.3.0-rc.9		2026-08-12T14:46:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/krwa/annotations-iosarm64/0.3.0-rc.9/annotations-iosarm64-0.3.0-rc.9.jar returned status 404
+0.3.0-rc.9	metadata	2026-08-12T14:46:16Z	

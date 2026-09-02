@@ -1,1 +1,3 @@
 1.0.0-RC1		2026-07-16T12:55:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/hebi/graalvm/reachability-parent/1.0.0-RC1/reachability-parent-1.0.0-RC1.jar returned status 404
+1.0.0-RC2		2026-08-24T20:26:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/hebi/graalvm/reachability-parent/1.0.0-RC2/reachability-parent-1.0.0-RC2.jar returned status 404
+1.0.0-RC3		2026-08-24T21:22:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/hebi/graalvm/reachability-parent/1.0.0-RC3/reachability-parent-1.0.0-RC3.jar returned status 404

@@ -13,3 +13,4 @@
 2.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-linuxarm64/2.2.7/paging-core-linuxarm64-2.2.7.jar returned status 404
 2.3.0		2026-08-01T23:44:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-linuxarm64/2.3.0/paging-core-linuxarm64-2.3.0.jar returned status 404
 2.3.1		2026-08-02T21:10:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-linuxarm64/2.3.1/paging-core-linuxarm64-2.3.1.jar returned status 404
+2.3.2		2026-08-24T22:16:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ua/wwind/paging/paging-core-linuxarm64/2.3.2/paging-core-linuxarm64-2.3.2.jar returned status 404

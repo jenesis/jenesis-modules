@@ -4,3 +4,5 @@
 1.0.0-rc.18		2026-08-05T10:36:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/plugin/plugin-api-wasm-js/1.0.0-rc.18/plugin-api-wasm-js-1.0.0-rc.18.jar returned status 404
 1.0.0-rc.19		2026-08-05T12:22:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/plugin/plugin-api-wasm-js/1.0.0-rc.19/plugin-api-wasm-js-1.0.0-rc.19.jar returned status 404
 1.0.0-rc.20		2026-08-07T16:43:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/plugin/plugin-api-wasm-js/1.0.0-rc.20/plugin-api-wasm-js-1.0.0-rc.20.jar returned status 404
+1.0.0-rc.21		2026-08-09T18:20:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/plugin/plugin-api-wasm-js/1.0.0-rc.21/plugin-api-wasm-js-1.0.0-rc.21.jar returned status 404
+1.0.0-rc.22		2026-08-12T16:20:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/plugin/plugin-api-wasm-js/1.0.0-rc.22/plugin-api-wasm-js-1.0.0-rc.22.jar returned status 404

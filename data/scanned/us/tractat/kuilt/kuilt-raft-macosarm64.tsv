@@ -8,3 +8,5 @@
 0.7.0	metadata	2026-07-03T12:40:34Z	
 0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-raft-macosarm64/0.7.2/kuilt-raft-macosarm64-0.7.2.jar returned status 404
 0.7.2	metadata	2026-07-28T08:47:48Z	
+0.7.3		2026-08-13T00:45:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-raft-macosarm64/0.7.3/kuilt-raft-macosarm64-0.7.3.jar returned status 404
+0.7.3	metadata	2026-08-13T00:45:47Z	

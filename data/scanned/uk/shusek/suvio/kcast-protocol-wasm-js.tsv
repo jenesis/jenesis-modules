@@ -1,0 +1,5 @@
+0.1.0		2026-08-13T11:10:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/kcast-protocol-wasm-js/0.1.0/kcast-protocol-wasm-js-0.1.0.jar returned status 404
+0.1.1		2026-08-13T15:44:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/kcast-protocol-wasm-js/0.1.1/kcast-protocol-wasm-js-0.1.1.jar returned status 404
+0.2.0		2026-08-14T07:12:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/kcast-protocol-wasm-js/0.2.0/kcast-protocol-wasm-js-0.2.0.jar returned status 404
+0.3.0		2026-08-14T09:15:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/kcast-protocol-wasm-js/0.3.0/kcast-protocol-wasm-js-0.3.0.jar returned status 404
+0.3.1		2026-08-15T10:15:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/suvio/kcast-protocol-wasm-js/0.3.1/kcast-protocol-wasm-js-0.3.1.jar returned status 404

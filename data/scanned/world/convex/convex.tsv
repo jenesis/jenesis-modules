@@ -20,6 +20,11 @@
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.0/convex-0.8.0.jar returned status 404
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.1/convex-0.8.1.jar returned status 404
 0.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.10/convex-0.8.10.jar returned status 404
+0.8.11		2026-08-10T12:12:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.11/convex-0.8.11.jar returned status 404
+0.8.12		2026-08-13T12:38:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.12/convex-0.8.12.jar returned status 404
+0.8.13		2026-08-17T17:57:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.13/convex-0.8.13.jar returned status 404
+0.8.14		2026-08-19T17:05:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.14/convex-0.8.14.jar returned status 404
+0.8.15		2026-08-24T17:57:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.15/convex-0.8.15.jar returned status 404
 0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.2/convex-0.8.2.jar returned status 404
 0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.3/convex-0.8.3.jar returned status 404
 0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/world/convex/convex/0.8.4/convex-0.8.4.jar returned status 404
