@@ -5324,6 +5324,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 7.6.0	named	org.mock-server	mockserver-k8s-webhook	2026-08-17T16:46:44Z	2.22
 7.0.4	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-08-18T00:43:39Z	2.21
 1.0.21	named	com.janeluo	luban-rds-bin	2026-08-18T17:13:22Z	2.13.5
+1.0.0	named	com.dbtimes	dwtools_2.12-3.3	2026-08-19T02:45:44Z	2.18.4
 7.2.3.23	named	com.kinetica	kinetica-jdbc	2026-08-20T03:53:15Z	2.22
 0.24.18	named	top.bella	openai-service	2026-08-20T08:00:31Z	2.14.2
 7.2.3.24	named	com.kinetica	kinetica-jdbc	2026-08-20T19:37:22Z	2.22
