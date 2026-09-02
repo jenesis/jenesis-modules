@@ -7457,3 +7457,11 @@ com.datastax.oss.driver.mapper.processor
 com.datastax.oss.driver.core
 com.scanii
 com.kohlschutter.junixsocket.core
+com.renomad.minum
+com.rejment.jhttp
+com.rabbitmq.stream
+com.rabbitmq.jms
+com.rabbitmq.http.client
+com.rabbitmq.client.amqp
+com.rabbitmq.client
+com.puppycrawl.tools.checkstyle

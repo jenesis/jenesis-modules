@@ -12,3 +12,4 @@
 20260405.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reallifedeveloper/rld-bom/20260405.1/rld-bom-20260405.1.jar returned status 404
 20260419.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reallifedeveloper/rld-bom/20260419.1/rld-bom-20260419.1.jar returned status 404
 20260502.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reallifedeveloper/rld-bom/20260502.1/rld-bom-20260502.1.jar returned status 404
+20260822.1		2026-08-22T11:51:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/reallifedeveloper/rld-bom/20260822.1/rld-bom-20260822.1.jar returned status 404

@@ -388,3 +388,5 @@
 1.0.5	metadata	2026-07-15T18:27:48Z	
 1.0.5-kotlin-2.4.20-Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rickclephas/kmp/kmp-nativecoroutines-annotations-iosx64/1.0.5-kotlin-2.4.20-Beta2/kmp-nativecoroutines-annotations-iosx64-1.0.5-kotlin-2.4.20-Beta2.jar returned status 404
 1.0.5-kotlin-2.4.20-Beta2	metadata	2026-07-28T19:08:25Z	
+1.0.5-kotlin-2.4.20-RC		2026-08-18T07:23:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/rickclephas/kmp/kmp-nativecoroutines-annotations-iosx64/1.0.5-kotlin-2.4.20-RC/kmp-nativecoroutines-annotations-iosx64-1.0.5-kotlin-2.4.20-RC.jar returned status 404
+1.0.5-kotlin-2.4.20-RC	metadata	2026-08-18T07:23:36Z	
