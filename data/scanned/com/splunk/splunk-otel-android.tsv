@@ -53,3 +53,5 @@
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splunk/splunk-otel-android/2.3.0/splunk-otel-android-2.3.0.jar returned status 404
 2.3.1		2026-06-02T06:44:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splunk/splunk-otel-android/2.3.1/splunk-otel-android-2.3.1.jar returned status 404
 2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splunk/splunk-otel-android/2.3.2/splunk-otel-android-2.3.2.jar returned status 404
+2.3.3		2026-08-12T19:32:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splunk/splunk-otel-android/2.3.3/splunk-otel-android-2.3.3.jar returned status 404
+2.3.4		2026-08-28T01:08:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splunk/splunk-otel-android/2.3.4/splunk-otel-android-2.3.4.jar returned status 404

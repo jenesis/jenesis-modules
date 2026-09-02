@@ -1,5 +1,7 @@
 2.0.0-1742fc14cb-alpha.1212		2026-06-22T10:59:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splendo/kaluga/location/location-tvosarm64/2.0.0-1742fc14cb-alpha.1212/location-tvosarm64-2.0.0-1742fc14cb-alpha.1212.jar returned status 404
 2.0.0-1742fc14cb-alpha.1212	metadata	2026-06-22T10:59:21Z	
+2.0.0-23732ec7ce-alpha.1217		2026-08-14T15:07:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splendo/kaluga/location/location-tvosarm64/2.0.0-23732ec7ce-alpha.1217/location-tvosarm64-2.0.0-23732ec7ce-alpha.1217.jar returned status 404
+2.0.0-23732ec7ce-alpha.1217	metadata	2026-08-14T15:07:39Z	
 2.0.0-6509ddb45c-alpha.1216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splendo/kaluga/location/location-tvosarm64/2.0.0-6509ddb45c-alpha.1216/location-tvosarm64-2.0.0-6509ddb45c-alpha.1216.jar returned status 404
 2.0.0-6509ddb45c-alpha.1216	metadata	2026-07-27T16:36:46Z	
 2.0.0-alpha.1213			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/splendo/kaluga/location/location-tvosarm64/2.0.0-alpha.1213/location-tvosarm64-2.0.0-alpha.1213.jar returned status 404
