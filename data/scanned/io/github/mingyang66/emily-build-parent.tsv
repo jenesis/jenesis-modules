@@ -6,3 +6,4 @@
 5.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mingyang66/emily-build-parent/5.0.4/emily-build-parent-5.0.4.jar returned status 404
 5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mingyang66/emily-build-parent/5.0.5/emily-build-parent-5.0.5.jar returned status 404
 6.1.0		2026-06-10T05:39:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mingyang66/emily-build-parent/6.1.0/emily-build-parent-6.1.0.jar returned status 404
+6.1.2		2026-08-19T12:02:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mingyang66/emily-build-parent/6.1.2/emily-build-parent-6.1.2.jar returned status 404

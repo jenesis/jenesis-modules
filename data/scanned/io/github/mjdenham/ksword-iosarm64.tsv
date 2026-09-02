@@ -2,3 +2,5 @@
 0.1.0	metadata	2026-07-18T12:20:45Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mjdenham/ksword-iosarm64/0.2.0/ksword-iosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2026-07-30T17:19:54Z	
+0.2.1		2026-08-14T20:23:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mjdenham/ksword-iosarm64/0.2.1/ksword-iosarm64-0.2.1.jar returned status 404
+0.2.1	metadata	2026-08-14T20:23:18Z	

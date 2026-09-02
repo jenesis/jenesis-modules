@@ -1,2 +1,6 @@
 0.3.0		2026-05-19T19:34:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-bench-parent/0.3.0/agent-bench-parent-0.3.0.jar returned status 404
 0.4.0		2026-06-07T02:54:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-bench-parent/0.4.0/agent-bench-parent-0.4.0.jar returned status 404
+0.5.0		2026-08-17T21:37:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-bench-parent/0.5.0/agent-bench-parent-0.5.0.jar returned status 404
+0.6.0		2026-08-18T18:54:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-bench-parent/0.6.0/agent-bench-parent-0.6.0.jar returned status 404
+0.6.1		2026-08-25T02:02:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-bench-parent/0.6.1/agent-bench-parent-0.6.1.jar returned status 404
+0.6.2		2026-08-25T21:28:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-bench-parent/0.6.2/agent-bench-parent-0.6.2.jar returned status 404

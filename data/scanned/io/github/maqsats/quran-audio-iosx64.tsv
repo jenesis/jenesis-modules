@@ -14,5 +14,7 @@
 1.0.17	metadata	2026-06-05T17:02:20Z	
 1.0.18		2026-06-17T07:08:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/quran-audio-iosx64/1.0.18/quran-audio-iosx64-1.0.18.jar returned status 404
 1.0.18	metadata	2026-06-17T07:08:45Z	
+1.0.21		2026-08-12T11:58:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/quran-audio-iosx64/1.0.21/quran-audio-iosx64-1.0.21.jar returned status 404
+1.0.21	metadata	2026-08-12T11:58:29Z	
 1.0.9		2026-05-28T07:45:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/quran-audio-iosx64/1.0.9/quran-audio-iosx64-1.0.9.jar returned status 404
 1.0.9	metadata	2026-05-28T07:45:27Z	

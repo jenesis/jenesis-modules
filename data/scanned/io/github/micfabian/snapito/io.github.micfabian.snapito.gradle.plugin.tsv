@@ -1,0 +1,2 @@
+1.0.0		2026-08-22T17:04:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/micfabian/snapito/io.github.micfabian.snapito.gradle.plugin/1.0.0/io.github.micfabian.snapito.gradle.plugin-1.0.0.jar returned status 404
+1.0.1		2026-08-22T20:02:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/micfabian/snapito/io.github.micfabian.snapito.gradle.plugin/1.0.1/io.github.micfabian.snapito.gradle.plugin-1.0.1.jar returned status 404

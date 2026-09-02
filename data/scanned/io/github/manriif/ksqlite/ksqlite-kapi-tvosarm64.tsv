@@ -2,3 +2,5 @@
 0.0.1	metadata	2026-07-21T01:22:01Z	
 0.0.3		2026-07-27T22:30:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manriif/ksqlite/ksqlite-kapi-tvosarm64/0.0.3/ksqlite-kapi-tvosarm64-0.0.3.jar returned status 404
 0.0.3	metadata	2026-07-27T22:30:44Z	
+0.0.4		2026-08-24T20:19:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manriif/ksqlite/ksqlite-kapi-tvosarm64/0.0.4/ksqlite-kapi-tvosarm64-0.0.4.jar returned status 404
+0.0.4	metadata	2026-08-24T20:19:57Z	
