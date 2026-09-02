@@ -352,3 +352,4 @@ hadoop3-2.2.33	named	com.google.cloud.bigdataoss	gcs-connector	2026-03-25T10:32:
 7.2.3.21	named	com.gpudb	gpudb-api	2026-07-29T19:55:27Z	2.18.6
 7.2.3.22	named	com.gpudb	gpudb-api	2026-07-31T04:51:45Z	2.22.1
 1.0.13	named	info.unterrainer.commons	opc-ua-browser	2026-08-04T12:11:47Z	2.13.3
+4.9	named	com.testingbot	TestingBotTunnel	2026-08-25T17:59:50Z	2.22.2

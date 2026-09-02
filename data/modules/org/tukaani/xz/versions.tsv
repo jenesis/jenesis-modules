@@ -115,5 +115,8 @@
 13.4.0.43982	named	org.sonarsource.javascript	sonar-javascript-plugin	2026-07-30T00:19:34Z	
 13.5.0.44127	named	org.sonarsource.javascript	sonar-javascript-plugin	2026-08-07T14:44:12Z	
 13.6.0.44263	named	org.sonarsource.javascript	sonar-javascript-plugin	2026-08-14T08:20:39Z	
+2.0.11.1	named	com.timecho.timechodb	shade-iotdb-session	2026-08-17T12:10:19Z	
+2.0.11.1	named	com.timecho.timechodb	shade-iotdb-jdbc	2026-08-17T12:10:20Z	
+2.0.11.1	named	com.timecho.timechodb	shade-timecho-session	2026-08-17T12:10:20Z	
 13.7.0.44407	named	org.sonarsource.javascript	sonar-javascript-plugin	2026-08-19T17:26:50Z	
 11.8.1.44439	named	org.sonarsource.javascript	sonar-javascript-plugin	2026-08-20T15:09:48Z	

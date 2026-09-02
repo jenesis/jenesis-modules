@@ -70,3 +70,5 @@
 2.4.0	so-symbols	2026-03-19T07:32:38Z	
 2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/mmkv-static/2.4.1/mmkv-static-2.4.1.jar returned status 404
 2.4.1	so-symbols	2026-07-30T07:06:30Z	
+2.4.2		2026-08-21T03:14:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/mmkv-static/2.4.2/mmkv-static-2.4.2.jar returned status 404
+2.4.2	so-symbols	2026-08-21T03:14:49Z	

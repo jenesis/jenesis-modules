@@ -37,6 +37,7 @@
 2.10		2026-06-10T14:58:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trigyn/commonutils/2.10/commonutils-2.10.jar returned status 404
 2.11		2026-06-29T11:44:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trigyn/commonutils/2.11/commonutils-2.11.jar returned status 404
 2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trigyn/commonutils/2.12/commonutils-2.12.jar returned status 404
+2.13		2026-08-19T07:01:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trigyn/commonutils/2.13/commonutils-2.13.jar returned status 404
 2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trigyn/commonutils/2.2/commonutils-2.2.jar returned status 404
 2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trigyn/commonutils/2.3/commonutils-2.3.jar returned status 404
 2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trigyn/commonutils/2.4/commonutils-2.4.jar returned status 404

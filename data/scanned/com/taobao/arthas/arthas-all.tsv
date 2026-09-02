@@ -74,3 +74,5 @@
 4.3.0		2026-06-15T16:10:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taobao/arthas/arthas-all/4.3.0/arthas-all-4.3.0.jar returned status 404
 4.3.1		2026-06-30T15:54:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taobao/arthas/arthas-all/4.3.1/arthas-all-4.3.1.jar returned status 404
 4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taobao/arthas/arthas-all/4.3.2/arthas-all-4.3.2.jar returned status 404
+4.3.3		2026-08-12T07:28:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taobao/arthas/arthas-all/4.3.3/arthas-all-4.3.3.jar returned status 404
+4.3.4		2026-08-13T16:45:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taobao/arthas/arthas-all/4.3.4/arthas-all-4.3.4.jar returned status 404

@@ -3,3 +3,7 @@
 1.0.2		2026-06-02T16:29:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stirling/jpdfium-bom/1.0.2/jpdfium-bom-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stirling/jpdfium-bom/1.0.3/jpdfium-bom-1.0.3.jar returned status 404
 1.0.4		2026-08-03T10:36:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stirling/jpdfium-bom/1.0.4/jpdfium-bom-1.0.4.jar returned status 404
+1.1.0		2026-08-20T21:42:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stirling/jpdfium-bom/1.1.0/jpdfium-bom-1.1.0.jar returned status 404
+1.1.1		2026-08-21T12:28:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stirling/jpdfium-bom/1.1.1/jpdfium-bom-1.1.1.jar returned status 404
+1.1.2		2026-08-21T16:18:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stirling/jpdfium-bom/1.1.2/jpdfium-bom-1.1.2.jar returned status 404
+1.1.3		2026-08-22T17:31:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stirling/jpdfium-bom/1.1.3/jpdfium-bom-1.1.3.jar returned status 404

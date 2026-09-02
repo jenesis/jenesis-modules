@@ -4,3 +4,4 @@
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/telemetrydeck/kotlin-sdk-google-services/6.3.0/kotlin-sdk-google-services-6.3.0.jar returned status 404
 7.0.0		2026-06-12T10:09:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/telemetrydeck/kotlin-sdk-google-services/7.0.0/kotlin-sdk-google-services-7.0.0.jar returned status 404
 7.1.0		2026-07-06T05:20:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/telemetrydeck/kotlin-sdk-google-services/7.1.0/kotlin-sdk-google-services-7.1.0.jar returned status 404
+7.2.0		2026-08-24T09:06:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/telemetrydeck/kotlin-sdk-google-services/7.2.0/kotlin-sdk-google-services-7.2.0.jar returned status 404

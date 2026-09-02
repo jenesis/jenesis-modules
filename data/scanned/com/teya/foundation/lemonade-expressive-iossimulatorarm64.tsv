@@ -110,6 +110,14 @@
 0.37.0	metadata	2026-07-31T16:49:45Z	
 0.37.1		2026-08-07T14:06:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-expressive-iossimulatorarm64/0.37.1/lemonade-expressive-iossimulatorarm64-0.37.1.jar returned status 404
 0.37.1	metadata	2026-08-07T14:06:56Z	
+0.38.0		2026-08-24T17:19:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-expressive-iossimulatorarm64/0.38.0/lemonade-expressive-iossimulatorarm64-0.38.0.jar returned status 404
+0.38.0	metadata	2026-08-24T17:19:44Z	
+0.38.1		2026-08-25T13:00:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-expressive-iossimulatorarm64/0.38.1/lemonade-expressive-iossimulatorarm64-0.38.1.jar returned status 404
+0.38.1	metadata	2026-08-25T13:00:09Z	
+0.38.2		2026-08-25T15:25:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-expressive-iossimulatorarm64/0.38.2/lemonade-expressive-iossimulatorarm64-0.38.2.jar returned status 404
+0.38.2	metadata	2026-08-25T15:25:07Z	
+0.39.0		2026-08-26T13:25:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-expressive-iossimulatorarm64/0.39.0/lemonade-expressive-iossimulatorarm64-0.39.0.jar returned status 404
+0.39.0	metadata	2026-08-26T13:25:48Z	
 0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-expressive-iossimulatorarm64/0.5.3/lemonade-expressive-iossimulatorarm64-0.5.3.jar returned status 404
 0.5.3	metadata	2026-03-13T13:07:16Z	
 0.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/teya/foundation/lemonade-expressive-iossimulatorarm64/0.5.4/lemonade-expressive-iossimulatorarm64-0.5.4.jar returned status 404
