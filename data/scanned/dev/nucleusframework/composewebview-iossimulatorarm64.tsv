@@ -1,2 +1,4 @@
 1.0.1		2026-08-10T14:40:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/composewebview-iossimulatorarm64/1.0.1/composewebview-iossimulatorarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2026-08-10T14:40:32Z	
+1.0.2		2026-08-30T04:36:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/composewebview-iossimulatorarm64/1.0.2/composewebview-iossimulatorarm64-1.0.2.jar returned status 404
+1.0.2	metadata	2026-08-30T04:36:55Z	

@@ -12,3 +12,11 @@
 152.0.7961.0	metadata	2026-07-21T06:07:52Z	
 153.0.7988.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/pdfium-iosarm64/153.0.7988.0/pdfium-iosarm64-153.0.7988.0.jar returned status 404
 153.0.7988.0	metadata	2026-08-04T06:05:38Z	
+153.0.7999.0		2026-08-12T05:02:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/pdfium-iosarm64/153.0.7999.0/pdfium-iosarm64-153.0.7999.0.jar returned status 404
+153.0.7999.0	metadata	2026-08-12T05:02:40Z	
+153.0.8009.0		2026-08-18T03:56:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/pdfium-iosarm64/153.0.8009.0/pdfium-iosarm64-153.0.8009.0.jar returned status 404
+153.0.8009.0	metadata	2026-08-18T03:56:18Z	
+154.0.8021.0		2026-08-26T04:08:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/pdfium-iosarm64/154.0.8021.0/pdfium-iosarm64-154.0.8021.0.jar returned status 404
+154.0.8021.0	metadata	2026-08-26T04:08:27Z	
+154.0.8021.0b		2026-08-30T05:12:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/pdfium-iosarm64/154.0.8021.0b/pdfium-iosarm64-154.0.8021.0b.jar returned status 404
+154.0.8021.0b	metadata	2026-08-30T05:12:47Z	
