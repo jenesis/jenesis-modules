@@ -9,5 +9,10 @@
 1.0.8		2026-06-25T13:41:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.0.8/embed-android-1.0.8.jar returned status 404
 1.0.9		2026-07-22T17:01:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.0.9/embed-android-1.0.9.jar returned status 404
 1.0.9-beta01		2026-07-22T16:07:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.0.9-beta01/embed-android-1.0.9-beta01.jar returned status 404
+1.1.0		2026-08-31T13:48:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.1.0/embed-android-1.1.0.jar returned status 404
 1.1.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.1.0-beta01/embed-android-1.1.0-beta01.jar returned status 404
 1.1.0-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.1.0-beta02/embed-android-1.1.0-beta02.jar returned status 404
+1.1.0-beta07		2026-08-13T10:47:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.1.0-beta07/embed-android-1.1.0-beta07.jar returned status 404
+1.1.0-beta08		2026-08-15T15:50:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.1.0-beta08/embed-android-1.1.0-beta08.jar returned status 404
+1.1.0-beta09		2026-08-18T12:32:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.1.0-beta09/embed-android-1.1.0-beta09.jar returned status 404
+1.1.0-beta10		2026-08-18T13:25:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.1.0-beta10/embed-android-1.1.0-beta10.jar returned status 404

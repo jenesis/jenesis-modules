@@ -5,6 +5,14 @@
 4.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.10.4/pulsar-dependencies-4.10.4.jar returned status 404
 4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.11.0/pulsar-dependencies-4.11.0.jar returned status 404
 4.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.11.1/pulsar-dependencies-4.11.1.jar returned status 404
+4.11.10		2026-08-31T19:52:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.11.10/pulsar-dependencies-4.11.10.jar returned status 404
+4.11.3		2026-08-15T17:17:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.11.3/pulsar-dependencies-4.11.3.jar returned status 404
+4.11.4		2026-08-16T19:57:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.11.4/pulsar-dependencies-4.11.4.jar returned status 404
+4.11.5		2026-08-18T16:19:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.11.5/pulsar-dependencies-4.11.5.jar returned status 404
+4.11.6		2026-08-19T05:53:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.11.6/pulsar-dependencies-4.11.6.jar returned status 404
+4.11.7		2026-08-22T15:04:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.11.7/pulsar-dependencies-4.11.7.jar returned status 404
+4.11.8		2026-08-26T06:29:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.11.8/pulsar-dependencies-4.11.8.jar returned status 404
+4.11.9		2026-08-30T13:15:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.11.9/pulsar-dependencies-4.11.9.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.3.0/pulsar-dependencies-4.3.0.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.4.0/pulsar-dependencies-4.4.0.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/platon/pulsar-dependencies/4.5.0/pulsar-dependencies-4.5.0.jar returned status 404

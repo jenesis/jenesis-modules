@@ -19,3 +19,5 @@
 2.2.57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/trinityaudio/trinity-player/2.2.57/trinity-player-2.2.57.jar returned status 404
 2.2.58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/trinityaudio/trinity-player/2.2.58/trinity-player-2.2.58.jar returned status 404
 2.2.60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/trinityaudio/trinity-player/2.2.60/trinity-player-2.2.60.jar returned status 404
+2.2.64		2026-08-14T09:46:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/trinityaudio/trinity-player/2.2.64/trinity-player-2.2.64.jar returned status 404
+2.2.65		2026-08-27T17:00:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/trinityaudio/trinity-player/2.2.65/trinity-player-2.2.65.jar returned status 404

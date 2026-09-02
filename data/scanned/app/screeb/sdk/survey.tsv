@@ -112,3 +112,7 @@
 4.0.0		2026-07-02T10:12:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/survey/4.0.0/survey-4.0.0.jar returned status 404
 4.0.1		2026-07-02T15:21:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/survey/4.0.1/survey-4.0.1.jar returned status 404
 4.0.2		2026-07-08T15:48:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/survey/4.0.2/survey-4.0.2.jar returned status 404
+4.0.4		2026-08-13T15:56:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/survey/4.0.4/survey-4.0.4.jar returned status 404
+4.1.0		2026-08-20T14:26:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/survey/4.1.0/survey-4.1.0.jar returned status 404
+4.2.0		2026-08-24T11:02:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/survey/4.2.0/survey-4.2.0.jar returned status 404
+4.2.1		2026-09-01T10:53:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/survey/4.2.1/survey-4.2.1.jar returned status 404

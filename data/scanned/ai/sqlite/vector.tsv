@@ -35,3 +35,4 @@
 0.9.94			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/vector/0.9.94/vector-0.9.94.jar returned status 404
 0.9.95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/vector/0.9.95/vector-0.9.95.jar returned status 404
 1.0.0		2026-05-25T14:20:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/vector/1.0.0/vector-1.0.0.jar returned status 404
+1.1.0		2026-08-24T21:15:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/vector/1.1.0/vector-1.1.0.jar returned status 404

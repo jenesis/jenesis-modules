@@ -7,3 +7,7 @@
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/ai/1.0.2/ai-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/ai/1.0.3/ai-1.0.3.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/ai/1.0.4/ai-1.0.4.jar returned status 404
+1.0.5		2026-08-22T07:16:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/ai/1.0.5/ai-1.0.5.jar returned status 404
+1.0.6		2026-08-24T13:05:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/ai/1.0.6/ai-1.0.6.jar returned status 404
+1.0.7		2026-08-25T13:10:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/ai/1.0.7/ai-1.0.7.jar returned status 404
+1.0.8		2026-08-31T09:31:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/ai/1.0.8/ai-1.0.8.jar returned status 404

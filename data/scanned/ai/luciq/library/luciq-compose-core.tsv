@@ -7,6 +7,7 @@
 19.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-core/19.0.1/luciq-compose-core-19.0.1.jar returned status 404
 19.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-core/19.1.0/luciq-compose-core-19.1.0.jar returned status 404
 19.10.0		2026-07-22T15:34:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-core/19.10.0/luciq-compose-core-19.10.0.jar returned status 404
+19.11.0		2026-08-19T14:25:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-core/19.11.0/luciq-compose-core-19.11.0.jar returned status 404
 19.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-core/19.2.0/luciq-compose-core-19.2.0.jar returned status 404
 19.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-core/19.2.1/luciq-compose-core-19.2.1.jar returned status 404
 19.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/luciq/library/luciq-compose-core/19.2.2/luciq-compose-core-19.2.2.jar returned status 404

@@ -1,3 +1,7 @@
 0.1.0		2026-06-10T17:12:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/origon/sdk/0.1.0/sdk-0.1.0.jar returned status 404
 0.1.0-alpha.1		2026-05-21T07:50:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/origon/sdk/0.1.0-alpha.1/sdk-0.1.0-alpha.1.jar returned status 404
 0.1.0-alpha.2		2026-06-10T14:45:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/origon/sdk/0.1.0-alpha.2/sdk-0.1.0-alpha.2.jar returned status 404
+0.3.0		2026-08-18T11:21:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/origon/sdk/0.3.0/sdk-0.3.0.jar returned status 404
+0.3.1		2026-08-26T08:57:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/origon/sdk/0.3.1/sdk-0.3.1.jar returned status 404
+0.3.2		2026-08-26T18:34:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/origon/sdk/0.3.2/sdk-0.3.2.jar returned status 404
+0.3.3		2026-08-27T16:38:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/origon/sdk/0.3.3/sdk-0.3.3.jar returned status 404
