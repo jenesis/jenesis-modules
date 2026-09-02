@@ -12,3 +12,11 @@
 0.6.0	metadata	2026-08-06T18:31:24Z	
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-skia-renderer-iossimulatorarm64/0.6.1/kitepdf-skia-renderer-iossimulatorarm64-0.6.1.jar returned status 404
 0.6.1	metadata	2026-08-08T00:38:25Z	
+0.6.2		2026-08-19T02:07:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-skia-renderer-iossimulatorarm64/0.6.2/kitepdf-skia-renderer-iossimulatorarm64-0.6.2.jar returned status 404
+0.6.2	metadata	2026-08-19T02:07:04Z	
+0.6.3		2026-08-19T02:15:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-skia-renderer-iossimulatorarm64/0.6.3/kitepdf-skia-renderer-iossimulatorarm64-0.6.3.jar returned status 404
+0.6.3	metadata	2026-08-19T02:15:26Z	
+0.7.0		2026-08-24T22:38:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-skia-renderer-iossimulatorarm64/0.7.0/kitepdf-skia-renderer-iossimulatorarm64-0.7.0.jar returned status 404
+0.7.0	metadata	2026-08-24T22:38:10Z	
+0.8.0		2026-08-29T17:25:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuroyami/kitepdf-skia-renderer-iossimulatorarm64/0.8.0/kitepdf-skia-renderer-iossimulatorarm64-0.8.0.jar returned status 404
+0.8.0	metadata	2026-08-29T17:25:34Z	
