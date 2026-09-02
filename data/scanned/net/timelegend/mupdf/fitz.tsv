@@ -2,5 +2,6 @@
 1.24.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/timelegend/mupdf/fitz/1.24.9.2/fitz-1.24.9.2.jar returned status 404
 1.24.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/timelegend/mupdf/fitz/1.24.9.6/fitz-1.24.9.6.jar returned status 404
 1.24.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/timelegend/mupdf/fitz/1.24.9.7/fitz-1.24.9.7.jar returned status 404
+1.27.1.10		2026-08-11T13:25:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/timelegend/mupdf/fitz/1.27.1.10/fitz-1.27.1.10.jar returned status 404
 1.27.1.8		2026-05-22T03:14:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/timelegend/mupdf/fitz/1.27.1.8/fitz-1.27.1.8.jar returned status 404
 1.27.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/timelegend/mupdf/fitz/1.27.1.9/fitz-1.27.1.9.jar returned status 404

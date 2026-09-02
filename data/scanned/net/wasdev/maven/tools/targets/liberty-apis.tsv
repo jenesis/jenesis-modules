@@ -42,5 +42,6 @@
 26.0.0.5		2026-05-13T09:53:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/targets/liberty-apis/26.0.0.5/liberty-apis-26.0.0.5.jar returned status 404
 26.0.0.6		2026-06-09T12:11:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/targets/liberty-apis/26.0.0.6/liberty-apis-26.0.0.6.jar returned status 404
 26.0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/targets/liberty-apis/26.0.0.7/liberty-apis-26.0.0.7.jar returned status 404
+26.0.0.8		2026-08-05T14:35:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/targets/liberty-apis/26.0.0.8/liberty-apis-26.0.0.8.jar returned status 404
 8.5.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/targets/liberty-apis/8.5.5.8/liberty-apis-8.5.5.8.jar returned status 404
 8.5.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/wasdev/maven/tools/targets/liberty-apis/8.5.5.9/liberty-apis-8.5.5.9.jar returned status 404

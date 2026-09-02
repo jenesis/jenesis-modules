@@ -123,6 +123,7 @@
 7.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd/7.24.0/pmd-7.24.0.jar returned status 404
 7.25.0		2026-05-29T07:22:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd/7.25.0/pmd-7.25.0.jar returned status 404
 7.26.0		2026-06-29T09:13:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd/7.26.0/pmd-7.26.0.jar returned status 404
+7.27.0		2026-08-28T12:27:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd/7.27.0/pmd-7.27.0.jar returned status 404
 7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd/7.3.0/pmd-7.3.0.jar returned status 404
 7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd/7.4.0/pmd-7.4.0.jar returned status 404
 7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/sourceforge/pmd/pmd/7.5.0/pmd-7.5.0.jar returned status 404

@@ -126,6 +126,8 @@
 5.16.0		2026-06-02T14:51:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-parent/5.16.0/vpro-shared-parent-5.16.0.jar returned status 404
 5.16.1		2026-07-15T08:26:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-parent/5.16.1/vpro-shared-parent-5.16.1.jar returned status 404
 5.17.0		2026-07-13T13:23:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-parent/5.17.0/vpro-shared-parent-5.17.0.jar returned status 404
+5.17.1		2026-08-11T13:34:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-parent/5.17.1/vpro-shared-parent-5.17.1.jar returned status 404
+5.17.2		2026-08-28T13:09:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-parent/5.17.2/vpro-shared-parent-5.17.2.jar returned status 404
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-parent/5.2.0/vpro-shared-parent-5.2.0.jar returned status 404
 5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-parent/5.3.0/vpro-shared-parent-5.3.0.jar returned status 404
 5.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/shared/vpro-shared-parent/5.3.1/vpro-shared-parent-5.3.1.jar returned status 404
