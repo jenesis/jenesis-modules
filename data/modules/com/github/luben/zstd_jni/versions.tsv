@@ -313,3 +313,6 @@
 1.5.7-12	named	com.github.luben	zstd-jni	2026-07-27T02:14:33Z	1.5.7-12
 1.5.7-13	named	com.github.luben	zstd-jni	2026-08-08T10:47:46Z	1.5.7-13
 0.7.0	named	org.apache.celeborn	celeborn-client-mr-shaded_2.12	2026-08-10T12:01:52Z	1.5.7-1
+1.5.7-14	named	com.github.luben	zstd-jni	2026-08-16T11:18:28Z	1.5.7-14
+1.5.7-15	named	com.github.luben	zstd-jni	2026-08-16T18:12:01Z	1.5.7-15
+1.5.7-16	named	com.github.luben	zstd-jni	2026-08-29T15:01:21Z	1.5.7-16

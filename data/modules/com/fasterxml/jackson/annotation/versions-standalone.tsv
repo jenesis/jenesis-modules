@@ -95,3 +95,4 @@
 2.5.1	named	org.jolokia	jolokia-client-kubernetes	2026-02-18T07:43:43Z	2.21
 2.6.0	named	org.jolokia	jolokia-client-kubernetes	2026-04-29T15:04:23Z	2.21
 2.6.1	named	org.jolokia	jolokia-client-kubernetes	2026-08-11T10:38:04Z	2.22
+1.1.0	named	com.github.masonm	wiremock-jwt-extension	2026-08-18T03:16:01Z	2.22
