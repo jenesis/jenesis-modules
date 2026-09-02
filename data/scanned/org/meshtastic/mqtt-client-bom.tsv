@@ -4,3 +4,4 @@
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/mqtt-client-bom/0.6.1/mqtt-client-bom-0.6.1.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/mqtt-client-bom/0.7.0/mqtt-client-bom-0.7.0.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/mqtt-client-bom/0.8.0/mqtt-client-bom-0.8.0.jar returned status 404
+0.8.1		2026-08-13T20:30:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/mqtt-client-bom/0.8.1/mqtt-client-bom-0.8.1.jar returned status 404

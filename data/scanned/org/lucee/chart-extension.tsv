@@ -1,4 +1,6 @@
 2.0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/chart-extension/2.0.0.1/chart-extension-2.0.0.1.jar returned status 404
+2.0.0.3		2026-08-24T17:59:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/chart-extension/2.0.0.3/chart-extension-2.0.0.3.jar returned status 404
+2.0.0.3-RC		2026-08-24T17:52:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/chart-extension/2.0.0.3-RC/chart-extension-2.0.0.3-RC.jar returned status 404
 3.0.0.0-ALPHA		2026-06-12T12:04:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/chart-extension/3.0.0.0-ALPHA/chart-extension-3.0.0.0-ALPHA.jar returned status 404
 3.0.0.0-BETA		2026-06-12T13:22:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/chart-extension/3.0.0.0-BETA/chart-extension-3.0.0.0-BETA.jar returned status 404
 3.0.0.1-BETA		2026-06-15T19:56:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/chart-extension/3.0.0.1-BETA/chart-extension-3.0.0.1-BETA.jar returned status 404

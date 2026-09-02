@@ -45,6 +45,8 @@
 3.9.0		2026-06-25T14:29:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynx-trace/3.9.0/lynx-trace-3.9.0.jar returned status 404
 3.9.0-alpha.1-dev		2026-06-30T02:26:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynx-trace/3.9.0-alpha.1-dev/lynx-trace-3.9.0-alpha.1-dev.jar returned status 404
 3.9.0-dev		2026-06-25T14:29:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynx-trace/3.9.0-dev/lynx-trace-3.9.0-dev.jar returned status 404
+3.9.1		2026-08-25T06:04:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynx-trace/3.9.1/lynx-trace-3.9.1.jar returned status 404
+3.9.1-dev		2026-08-25T06:04:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynx-trace/3.9.1-dev/lynx-trace-3.9.1-dev.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynx-trace/4.0.0/lynx-trace-4.0.0.jar returned status 404
 4.0.0-dev			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynx-trace/4.0.0-dev/lynx-trace-4.0.0-dev.jar returned status 404
 4.0.0-nightly.202605211944.33.g3bcc2afb		2026-05-21T14:54:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/lynx-trace/4.0.0-nightly.202605211944.33.g3bcc2afb/lynx-trace-4.0.0-nightly.202605211944.33.g3bcc2afb.jar returned status 404

@@ -1,3 +1,4 @@
 1.0.0		2026-08-07T00:07:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/liuzx/liuzx-pki-parent/1.0.0/liuzx-pki-parent-1.0.0.jar returned status 404
 1.0.1		2026-08-07T21:34:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/liuzx/liuzx-pki-parent/1.0.1/liuzx-pki-parent-1.0.1.jar returned status 404
 1.0.2		2026-08-09T00:54:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/liuzx/liuzx-pki-parent/1.0.2/liuzx-pki-parent-1.0.2.jar returned status 404
+1.0.3		2026-08-25T00:07:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/liuzx/liuzx-pki-parent/1.0.3/liuzx-pki-parent-1.0.3.jar returned status 404

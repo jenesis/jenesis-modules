@@ -1,4 +1,6 @@
 0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-namespace-root/0.1.0/lance-namespace-root-0.1.0.jar returned status 404
+0.11.0		2026-08-14T18:53:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-namespace-root/0.11.0/lance-namespace-root-0.11.0.jar returned status 404
+0.11.1		2026-08-18T17:42:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-namespace-root/0.11.1/lance-namespace-root-0.11.1.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-namespace-root/0.2.0/lance-namespace-root-0.2.0.jar returned status 404
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-namespace-root/0.2.1/lance-namespace-root-0.2.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lance/lance-namespace-root/0.3.0/lance-namespace-root-0.3.0.jar returned status 404

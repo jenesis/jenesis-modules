@@ -4,3 +4,7 @@
 0.8.0	metadata	2026-07-16T22:52:55Z	
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/takpacket-sdk-tvosarm64/0.8.1/takpacket-sdk-tvosarm64-0.8.1.jar returned status 404
 0.8.1	metadata	2026-07-26T18:54:57Z	
+0.9.0		2026-08-14T01:03:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/takpacket-sdk-tvosarm64/0.9.0/takpacket-sdk-tvosarm64-0.9.0.jar returned status 404
+0.9.0	metadata	2026-08-14T01:03:32Z	
+0.9.1		2026-08-17T23:26:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/meshtastic/takpacket-sdk-tvosarm64/0.9.1/takpacket-sdk-tvosarm64-0.9.1.jar returned status 404
+0.9.1	metadata	2026-08-17T23:26:37Z	
