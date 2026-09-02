@@ -30,4 +30,7 @@
 5.0.3		2026-06-03T19:47:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/allinone_jakarta/5.0.3/allinone_jakarta-5.0.3.jar returned status 404
 5.0.3-beta		2026-05-19T16:10:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/allinone_jakarta/5.0.3-beta/allinone_jakarta-5.0.3-beta.jar returned status 404
 5.0.4		2026-06-11T13:18:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/allinone_jakarta/5.0.4/allinone_jakarta-5.0.4.jar returned status 404
+5.0.5		2026-08-13T22:26:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/allinone_jakarta/5.0.5/allinone_jakarta-5.0.5.jar returned status 404
 5.0.5-beta.1		2026-07-07T09:27:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/allinone_jakarta/5.0.5-beta.1/allinone_jakarta-5.0.5-beta.1.jar returned status 404
+5.1.0		2026-08-18T06:02:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/allinone_jakarta/5.1.0/allinone_jakarta-5.1.0.jar returned status 404
+5.2.0-beta		2026-08-17T07:55:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/appengine/demos/allinone_jakarta/5.2.0-beta/allinone_jakarta-5.2.0-beta.jar returned status 404

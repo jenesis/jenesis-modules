@@ -6,3 +6,4 @@
 0.14.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/goncalossilva/resources-wasmJs/0.14.3/resources-wasmJs-0.14.3.jar returned status 404
 0.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/goncalossilva/resources-wasmJs/0.14.4/resources-wasmJs-0.14.4.jar returned status 404
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/goncalossilva/resources-wasmJs/0.15.0/resources-wasmJs-0.15.0.jar returned status 404
+0.16.0		2026-08-25T18:36:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/goncalossilva/resources-wasmJs/0.16.0/resources-wasmJs-0.16.0.jar returned status 404

@@ -17,6 +17,8 @@
 0.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/applic/cdc-applic/0.19.0/cdc-applic-0.19.0.jar returned status 404
 0.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/applic/cdc-applic/0.19.1/cdc-applic-0.19.1.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/applic/cdc-applic/0.2.0/cdc-applic-0.2.0.jar returned status 404
+0.20-0		2026-08-29T17:37:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/applic/cdc-applic/0.20-0/cdc-applic-0.20-0.jar returned status 404
+0.20.0		2026-08-29T17:48:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/applic/cdc-applic/0.20.0/cdc-applic-0.20.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/applic/cdc-applic/0.3.0/cdc-applic-0.3.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/applic/cdc-applic/0.4.0/cdc-applic-0.4.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gitlab/cdc-java/applic/cdc-applic/0.5.0/cdc-applic-0.5.0.jar returned status 404

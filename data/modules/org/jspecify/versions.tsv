@@ -225,7 +225,13 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 0.11	named	io.crysknife.ui	crysknife-ui-websocket-generator	2026-08-12T03:33:25Z	
 3.0.1	named	org.finos.fluxnova.bpm	fluxnova-engine	2026-08-13T18:18:21Z	
 3.0.1	named	org.finos.fluxnova.bpm.qa	fluxnova-qa-performance-tests-engine	2026-08-13T18:18:25Z	
+5.0.5	named	com.google.appengine	runtime-impl-jetty12	2026-08-13T22:26:30Z	
+5.0.5	named	com.google.appengine	runtime-impl-jetty121	2026-08-13T22:26:31Z	
 2.5.5	named	org.jboss.elemento	elemento-router-processor	2026-08-17T07:47:07Z	
 2.5.5	named	org.jboss.elemento	elemento-router-processor-cdi	2026-08-17T07:47:07Z	
+5.2.0-beta	named	com.google.appengine	runtime-impl-jetty12	2026-08-17T07:55:14Z	
+5.2.0-beta	named	com.google.appengine	runtime-impl-jetty121	2026-08-17T07:55:14Z	
 2.5.6	named	org.jboss.elemento	elemento-router-processor	2026-08-17T08:59:35Z	
 2.5.6	named	org.jboss.elemento	elemento-router-processor-cdi	2026-08-17T08:59:35Z	
+5.1.0	named	com.google.appengine	runtime-impl-jetty121	2026-08-18T06:02:26Z	
+5.1.0	named	com.google.appengine	runtime-impl-jetty12	2026-08-18T06:02:28Z	

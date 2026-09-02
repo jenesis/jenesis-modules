@@ -3254,7 +3254,16 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 2.3.0	named	io.github.roseri66	metapool-benchmark	2026-08-12T17:23:41Z	2.0.16
 2.4.0	named	io.github.roseri66	metapool-benchmark	2026-08-12T19:11:44Z	2.0.16
 2.0.0-rc2	named	org.open-metadata	elasticsearch-deps	2026-08-13T08:29:27Z	2.0.4
+5.0.5	named	com.google.appengine	appengine-local-runtime-jetty121-ee11	2026-08-13T22:26:28Z	2.0.18
+5.0.5	named	com.google.appengine	appengine-tools-sdk	2026-08-13T22:26:29Z	2.0.18
+5.0.5	named	com.google.appengine	appengine-local-runtime-jetty121	2026-08-13T22:26:30Z	2.0.18
+5.2.0-beta	named	com.google.appengine	appengine-local-runtime-jetty121	2026-08-17T07:55:14Z	2.0.18
+5.2.0-beta	named	com.google.appengine	appengine-local-runtime-jetty121-ee11	2026-08-17T07:55:14Z	2.0.18
+5.2.0-beta	named	com.google.appengine	appengine-tools-sdk	2026-08-17T07:55:14Z	2.0.18
 0.18.1	named	io.testomat	java-reporter-core	2026-08-17T17:48:08Z	2.0.9
+5.1.0	named	com.google.appengine	appengine-tools-sdk	2026-08-18T06:02:27Z	2.0.18
+5.1.0	named	com.google.appengine	appengine-local-runtime-jetty121-ee11	2026-08-18T06:02:28Z	2.0.18
+5.1.0	named	com.google.appengine	appengine-local-runtime-jetty121	2026-08-18T06:02:29Z	2.0.18
 7.8.1	named	com.newrelic.agent.android	instrumentation-static	2026-08-18T16:04:03Z	2.0.4
 7.8.1	named	com.newrelic.agent.android	instrumentation	2026-08-18T16:04:22Z	2.0.4
 0.1.2	named	edu.montana.cs.notch	notch	2026-08-20T22:12:07Z	2.0.17
