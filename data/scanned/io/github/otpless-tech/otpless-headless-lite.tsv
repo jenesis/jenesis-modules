@@ -26,3 +26,4 @@
 1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otpless-tech/otpless-headless-lite/1.3.2/otpless-headless-lite-1.3.2.jar returned status 404
 1.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otpless-tech/otpless-headless-lite/1.3.3/otpless-headless-lite-1.3.3.jar returned status 404
 1.3.3-patch-cs35-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otpless-tech/otpless-headless-lite/1.3.3-patch-cs35-1/otpless-headless-lite-1.3.3-patch-cs35-1.jar returned status 404
+2.0.0		2026-08-19T14:21:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otpless-tech/otpless-headless-lite/2.0.0/otpless-headless-lite-2.0.0.jar returned status 404

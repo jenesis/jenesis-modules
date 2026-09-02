@@ -25,3 +25,5 @@
 0.2.5		2026-06-12T10:03:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/dlna/0.2.5/dlna-0.2.5.jar returned status 404
 0.2.6		2026-06-26T07:03:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/dlna/0.2.6/dlna-0.2.6.jar returned status 404
 0.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/dlna/0.2.7/dlna-0.2.7.jar returned status 404
+0.2.8		2026-08-11T03:24:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/dlna/0.2.8/dlna-0.2.8.jar returned status 404
+0.2.9		2026-08-12T07:12:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qytech/dlna/0.2.9/dlna-0.2.9.jar returned status 404

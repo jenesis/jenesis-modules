@@ -29,3 +29,4 @@
 1.0.0-rc3		2026-06-06T20:24:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-linuxx64/1.0.0-rc3/serialization-linuxx64-1.0.0-rc3.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-linuxx64/1.0.1/serialization-linuxx64-1.0.1.jar returned status 404
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-linuxx64/1.0.2/serialization-linuxx64-1.0.2.jar returned status 404
+1.0.2.1		2026-08-25T18:01:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pdvrieze/xmlutil/serialization-linuxx64/1.0.2.1/serialization-linuxx64-1.0.2.1.jar returned status 404

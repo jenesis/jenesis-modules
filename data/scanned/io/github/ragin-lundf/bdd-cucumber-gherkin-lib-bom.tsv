@@ -4,3 +4,4 @@
 3.3.0		2026-06-14T20:24:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ragin-lundf/bdd-cucumber-gherkin-lib-bom/3.3.0/bdd-cucumber-gherkin-lib-bom-3.3.0.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ragin-lundf/bdd-cucumber-gherkin-lib-bom/3.5.0/bdd-cucumber-gherkin-lib-bom-3.5.0.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ragin-lundf/bdd-cucumber-gherkin-lib-bom/3.6.0/bdd-cucumber-gherkin-lib-bom-3.6.0.jar returned status 404
+3.7.0		2026-08-16T19:12:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ragin-lundf/bdd-cucumber-gherkin-lib-bom/3.7.0/bdd-cucumber-gherkin-lib-bom-3.7.0.jar returned status 404
