@@ -86,3 +86,4 @@
 8.0.4		2026-08-03T20:42:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/appclient/appclient-scripts/8.0.4/appclient-scripts-8.0.4.jar returned status 404
 9.0.0-M1		2026-03-15T17:11:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/appclient/appclient-scripts/9.0.0-M1/appclient-scripts-9.0.0-M1.jar returned status 404
 9.0.0-M2		2026-05-02T23:42:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/appclient/appclient-scripts/9.0.0-M2/appclient-scripts-9.0.0-M2.jar returned status 404
+9.0.0-M3		2026-08-11T14:39:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/main/appclient/appclient-scripts/9.0.0-M3/appclient-scripts-9.0.0-M3.jar returned status 404

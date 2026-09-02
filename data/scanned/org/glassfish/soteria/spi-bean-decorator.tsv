@@ -9,3 +9,4 @@
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/soteria/spi-bean-decorator/4.0.2/spi-bean-decorator-4.0.2.jar returned status 404
 5.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/soteria/spi-bean-decorator/5.0.0-M1/spi-bean-decorator-5.0.0-M1.jar returned status 404
 5.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/soteria/spi-bean-decorator/5.0.0-M2/spi-bean-decorator-5.0.0-M2.jar returned status 404
+5.0.0-M3		2026-08-10T19:35:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/soteria/spi-bean-decorator/5.0.0-M3/spi-bean-decorator-5.0.0-M3.jar returned status 404

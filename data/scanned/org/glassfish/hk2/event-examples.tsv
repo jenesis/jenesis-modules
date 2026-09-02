@@ -121,3 +121,4 @@
 4.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/event-examples/4.0.0-M3/event-examples-4.0.0-M3.jar returned status 404
 4.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/event-examples/4.0.0-M4/event-examples-4.0.0-M4.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/event-examples/4.0.1/event-examples-4.0.1.jar returned status 404
+4.0.2		2026-08-17T17:17:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/hk2/event-examples/4.0.2/event-examples-4.0.2.jar returned status 404
