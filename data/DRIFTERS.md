@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-03. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-04. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -221,7 +221,7 @@ spring.messaging  [explicit rule: owned by `org.springframework`; 2 other group(
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
 spring.test  [explicit rule: owned by `org.springframework`; 5 other group(s) rejected]
   A * org.springframework                  2017-09..2026-08 7.1.0-M1             |.===================|
-  ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |..................==|
+  ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |..................=.|
   R   org.gov4j.thirdparty.org.springframework 2024-12..2025-05 5.3.39-gov4j-2       |................=...|
   R   com.liferay                          2025-05..2025-05 5.3.39.JAKARTA-LIFERAY-PATCHED-1 |................=...|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
@@ -803,7 +803,7 @@ org.eclipse.jetty.security  [fork: keep `org.eclipse.jetty`, `org.sonatype.nexus
   A * org.eclipse.jetty                    2018-11..2026-08 12.1.12              |....================|
   R   org.sonatype.nexus.common.components 2026-02..2026-08 3.94.2-01            |..................==|
   ?   io.debezium                          2026-07..2026-08 3.7.0.Beta1          |...................=|
-  ?   ch.exense.step                       2026-06..2026-07 3.30.1               |...................=|
+  ?   ch.exense.step                       2026-06..2026-07 3.30.1               |..................==|
   R   org.sonatype.nexus.jetty             2025-09..2026-01 3.87.2-01            |.................==.|
 io.vertx.core  [fork: keep `io.vertx`, `io.etcd` still publishes the name]
   A * io.vertx                             2020-05..2026-08 4.5.32               |.......=============|
@@ -1011,7 +1011,7 @@ org.jetbrains.annotations  [fork: keep `org.jetbrains`, `com.qcloud.cos` still p
 io.netty.codec.http  [fork: keep `io.netty`, `com.amazonaws` still publishes the name]
   A * io.netty                             2017-12..2026-08 4.1.137.Final        |..==================|
   R   com.amazonaws                        2026-02..2026-08 2026.33.1            |..................==|
-  R   dev.zio                              2025-05..2026-08 3.11.4               |.................===|
+  R   dev.zio                              2025-05..2026-08 3.11.4               |................====|
   ?   io.github.shafthq                    2026-07..2026-08 10.3.20260806        |...................=|
   ?   io.camunda.connector                 2026-06..2026-08 8.7.23               |..................==|
   R   org.apache.tika                      2026-03..2026-07 3.3.2                |..................==|
@@ -1035,7 +1035,7 @@ org.apache.logging.log4j  [fork: keep `org.apache.logging.log4j`, `org.springfra
 org.apache.commons.beanutils2  [fork: keep `org.apache.commons`, `org.onebusaway` still publishes the name]
   ? * org.apache.commons                   2024-12..2025-05 2.0.0-M2             |................=...|
   ?   org.onebusaway                       2025-05..2026-08 14.2.2               |................====|
-  ?   com.github.bordertech.wcomponents    2025-12..2026-01 1.5.39               |..................=.|
+  ?   com.github.bordertech.wcomponents    2025-12..2026-01 1.5.39               |.................==.|
 com.fasterxml.jackson.module.paramnames  [fork: keep `com.fasterxml.jackson.module`, `com.infobip` still publishes the name]
   A * com.fasterxml.jackson.module         2017-10..2026-08 2.22.2               |.===================|
   R   com.infobip                          2026-03..2026-08 4.0.0                |..................==|
@@ -1188,7 +1188,7 @@ jakarta.inject  [fork: keep `jakarta.inject`, `io.github.jolt-community.jolt` st
   ?   org.kill-bill.billing                2026-06..2026-07 0.42.2               |...................=|
   R   com.google.gerrit                    2023-10..2026-07 3.13.8               |.............=======|
   ?   org.openidentityplatform.openig      2026-06..2026-06 6.1.1                |...................=|
-  R   io.joynr.java.core                   2026-01..2026-06 1.24.8               |..................==|
+  R   io.joynr.java.core                   2026-01..2026-06 1.24.8               |..................=.|
     + 13 more: dev.getelements.elements, it.netgrid, network.sloud.hytale, com.uchicom, com.google.tsunami, io.github.avistotelecom, org.apache.opennlp, com.google.template, io.github.openfeign.querydsl, org.reploop, com.guicedee.services, io.github.jbock-java, (+1 more)
 org.apache.commons.text  [fork: keep `org.apache.commons`, `de.fraunhofer.iosb.ilt.FROST-Server` still publishes the name]
   A * org.apache.commons                   2018-03..2025-12 1.15.0               |..=================.|
@@ -1233,7 +1233,7 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `dk.dma.a
 com.headius.invokebinder  [fork: keep `com.headius`, `org.sahli.asciidoc.confluence.publisher` still publishes the name]
   A * com.headius                          2017-10..2026-07 1.16                 |.===================|
   R   org.sahli.asciidoc.confluence.publisher 2026-03..2026-07 0.35.0               |..................==|
-  R   org.springframework.cloud            2024-11..2026-06 4.3.4                |................====|
+  R   org.springframework.cloud            2024-11..2026-06 4.3.4                |...............=====|
   R   com.lealceldeiro                     2025-02..2026-03 2.3.1                |................===.|
   R   ch.ifocusit.livingdoc                2025-05..2025-05 2.16                 |................=...|
   R   de.jcup.asp                          2021-09..2022-04 1.4.1                |.........==.........|
@@ -1380,7 +1380,7 @@ io.netty.internal.tcnative.openssl.linux.x86_64  [owned by `io.netty`; 11 other 
 io.netty.tcnative.classes.openssl  [owned by `io.netty`; 5 other group(s) shade the name]
   A * io.netty                             2022-03..2026-08 2.0.83.Final         |..........==========|
   R   org.neo4j.driver                     2024-11..2026-08 4.4.27               |................====|
-  ?   io.vertx                             2026-06..2026-08 4.5.32               |...................=|
+  ?   io.vertx                             2026-06..2026-08 4.5.32               |..................==|
   ?   io.fabric8                           2026-06..2026-06 7.8.0                |...................=|
   R   io.kestra.plugin                     2024-10..2025-06 0.23.0               |...............===..|
   R   eu.michael-simons.neo4j              2024-10..2025-06 2.17.4               |...............===..|
@@ -1452,10 +1452,10 @@ org.hibernate.orm.community.dialects  [owned by `org.hibernate.orm`; 1 other gro
   ? * org.hibernate.orm                    2022-05..2026-08 7.4.6.Final          |...........=========|
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
 org.hibernate.orm.jfr  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
-  ? * org.hibernate.orm                    2023-11..2026-08 7.4.6.Final          |..............======|
+  ? * org.hibernate.orm                    2023-11..2026-08 7.4.6.Final          |.............=======|
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
 org.hibernate.orm.vector  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
-  ? * org.hibernate.orm                    2023-11..2026-08 7.4.6.Final          |..............======|
+  ? * org.hibernate.orm                    2023-11..2026-08 7.4.6.Final          |.............=======|
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
 org.hibernate.orm.ucp  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
   ? * org.hibernate.orm                    2024-03..2026-08 6.6.56.Final         |..............======|
@@ -1924,7 +1924,7 @@ io.netty.transport.epoll.linux.x86_64  [owned by `io.netty`; 4 other group(s) sh
   R   org.readutf.orchestrator             2025-02..2025-02 2.0.0                |................=...|
 org.eclipse.jetty.client  [owned by `org.eclipse.jetty`; 2 other group(s) shade the name]
   A * org.eclipse.jetty                    2018-11..2026-08 12.1.12              |....================|
-  ?   ch.exense.step                       2026-06..2026-07 3.30.1               |...................=|
+  ?   ch.exense.step                       2026-06..2026-07 3.30.1               |..................==|
   R   org.exploit                          2024-10..2026-04 1.0.9                |...............====.|
 org.apache.jena.base  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...=================|
@@ -3006,7 +3006,7 @@ java.xml.bind  [no clear owner; `javax.xml.bind` is earliest and most recent]
     + 185 more: io.inji.certify, de.fraunhofer.iosb.ilt.FROST-Server, com.alibaba.dts.client, org.apache.tika, org.kendar.protocol, org.verapdf.apps, org.apache.flink, org.apache.pinot, io.mosip.mock.sdk, de.fraunhofer.iosb.ilt, io.mosip.esignet, org.wso2.msf4j.perftest.echo, (+173 more)
 com.jn.langx.java8  [no clear owner; `io.github.bes2008.solution.langx` is earliest and most recent]
   ? * io.github.bes2008.solution.langx     2024-01..2026-08 5.4.6.4              |..............======|
-  ?   io.github.qhsword.langx              2025-11..2025-11 5.5.10               |.................==.|
+  ?   io.github.qhsword.langx              2025-11..2025-11 5.5.10               |.................=..|
 com.jn.langx.security.gm.jca.bouncycastle  [no clear owner; `io.github.bes2008.solution.langx.security` is earliest and most recent]
   ? * io.github.bes2008.solution.langx.security 2024-01..2026-08 5.4.6.4              |..............======|
   ?   io.github.qhsword.langx.security     2025-11..2025-12 5.8.0                |.................==.|
