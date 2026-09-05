@@ -544,7 +544,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 497 | org.lz4:lz4-java |  | 2025-11-26 | 9,1 |  | 1.8.1 |  | 10 | 4 | 1 | 0 | 1 | 26,0 | 0,0 | 0,1 | - |
 | 498 | software.amazon.awssdk:bom |  | 2026-08-26 | 0,3 |  | 2.54.5 |  | 65 | 0 | 65 | 0 | 520 | 8276,9 🔺 | 3439,5 🔺 | 26,6 🔺 | 🔺 files, size, releases |
 | 499 | org.jvnet.staxex:stax-ex 🚩 | org.jvnet.staxex ✳️ | 2022-02-17 | 19,8 | 8,4 | 2.1.0 | 2.1.0 | 27 | 11 | 0 | 0 |  |  |  |  |  |
-| 500 | com.diffplug.spotless:spotless-lib |  | 2026-08-27 | 9,6 |  | 4.10.1 |  | 158 | 0 | 13 | 0 | 4 | 66,7 | 1,1 | 3,0 | - |
+| 500 | com.diffplug.spotless:spotless-lib |  | 2026-08-27 | 9,6 |  | 4.10.1 |  | 158 | 0 | 13 | 0 | 4 | 64,6 | 1,1 | 3,3 | - |
 | 501 | com.sun.mail:all |  |  |  |  |  |  | 0 | 0 | 0 | 0 |  |  |  |  |  |
 | 502 | org.bouncycastle:bcutil-jdk18on | org.bouncycastle.util 🏷️ | 2026-05-15 | 4,4 | 4,4 | 1.81.1 | 1.81.1 | 18 | 19 | 5 | 6 | 59 | 168,4 | 46,6 🔺 | 2,3 | 🔺 size |
 | ~~503~~ | ~~org.apache.maven.surefire:common-java5~~ | ~~-~~ | ~~2026-06-02~~ | ~~13,7~~ | ~~-~~ | ~~3.6.0-M1~~ | ~~-~~ | ~~43~~ | ~~0~~ | ~~4~~ | ~~0~~ | ~~20~~ | ~~418,0~~ | ~~12,9~~ | ~~0,3~~ | ~~-~~ |
@@ -572,7 +572,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 525 | jakarta.transaction:jakarta.transaction-api 🚩 | jakarta.transaction ✳️ | 2022-03-31 | 7,7 | 7,7 | 2.0.1 | 2.0.1 | 9 | 9 | 0 | 0 |  |  |  |  |  |
 | 526 | io.opentelemetry:opentelemetry-sdk-metrics | io.opentelemetry.sdk.metrics ⚙️ | 2026-06-05 | 6,0 | 6,0 | 1.63.0 | 1.63.0 | 91 | 93 | 12 | 14 | 33 | 714,2 🔺 | 3,8 | 2,0 | 🔺 files |
 | 527 | commons-net:commons-net | org.apache.commons.net ✳️ | 2026-03-15 | 20,9 | 6,1 | 3.13.0 | 3.13.0 | 30 | 10 | 1 | 1 | 1 | 44,0 | 4,1 | 0,1 | - |
-| 528 | com.diffplug.spotless:spotless-lib-extra |  | 2026-08-27 | 9,6 |  | 4.10.1 |  | 158 | 0 | 13 | 0 | 4 | 66,7 | 1,1 | 3,0 | - |
+| 528 | com.diffplug.spotless:spotless-lib-extra |  | 2026-08-27 | 9,6 |  | 4.10.1 |  | 158 | 0 | 13 | 0 | 4 | 64,6 | 1,1 | 3,3 | - |
 | ~~529~~ | ~~org.apache.maven.plugins:maven-antrun-plugin~~ | ~~-~~ | ~~2025-10-17~~ | ~~20,3~~ | ~~-~~ | ~~3.2.0~~ | ~~-~~ | ~~14~~ | ~~0~~ | ~~1~~ | ~~0~~ | ~~35~~ | ~~45,4~~ | ~~2,7~~ | ~~2,9~~ | ~~-~~ |
 | 530 | software.amazon.awssdk:annotations | software.amazon.awssdk.annotations ⚙️ | 2026-08-26 | 9,0 | 7,8 | 2.54.5 | 2.54.5 | 1831 | 1821 | 233 | 239 | 520 | 8276,9 🔺 | 3439,5 🔺 | 26,6 🔺 | 🔺 files, size, releases |
 | 531 | software.amazon.awssdk:utils | software.amazon.awssdk.utils ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1832 | 1820 | 233 | 239 | 520 | 8276,9 🔺 | 3439,5 🔺 | 26,6 🔺 | 🔺 files, size, releases |
@@ -965,7 +965,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 918 | org.ccil.cowan.tagsoup:tagsoup 🚩 |  | 2011-08-22 | 20,7 |  | 1.2.1 |  | 5 | 0 | 0 | 0 |  |  |  |  |  |
 | 919 | io.netty:netty-all | io.netty.all ⚙️ | 2026-06-02 | 13,5 | 8,6 | 4.1.135.Final | 4.1.135.Final | 249 | 112 | 22 | 13 | 66 | 1061,8 🔺 | 43,9 🔺 | 3,2 | 🔺 files, size |
 | 920 | com.google.googlejavaformat:google-java-format | com.google.googlejavaformat ⚙️ | 2026-07-30 | 10,8 | 8,3 | 1.36.1 | 1.36.1 | 45 | 38 | 10 | 10 | 1 | 30,0 | 4,6 | 0,8 | - |
-| 921 | com.diffplug.spotless:spotless-plugin-gradle |  | 2026-08-27 | 9,7 |  | 8.10.1 |  | 169 | 0 | 13 | 0 | 4 | 66,7 | 1,1 | 3,0 | - |
+| 921 | com.diffplug.spotless:spotless-plugin-gradle |  | 2026-08-27 | 9,7 |  | 8.10.1 |  | 169 | 0 | 13 | 0 | 4 | 64,6 | 1,1 | 3,3 | - |
 | ~~922~~ | ~~org.apache.maven.plugins:maven-source-plugin~~ | ~~-~~ | ~~2025-11-22~~ | ~~20,3~~ | ~~-~~ | ~~3.4.0~~ | ~~-~~ | ~~23~~ | ~~0~~ | ~~1~~ | ~~0~~ | ~~35~~ | ~~45,4~~ | ~~2,7~~ | ~~2,9~~ | ~~-~~ |
 | 923 | org.glassfish.jersey.media:project |  | 2026-06-11 | 0,2 |  | 3.1.12 |  | 1 | 0 | 1 | 0 | 13 | 285,8 | 4,0 | 0,7 | - |
 | 924 | io.jsonwebtoken:jjwt-api ⚠️ |  | 2025-08-20 | 8,1 |  | 0.13.0 |  | 24 | 0 | 0 | 0 |  |  |  |  |  |
