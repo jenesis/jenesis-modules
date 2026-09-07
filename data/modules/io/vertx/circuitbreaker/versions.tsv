@@ -130,6 +130,8 @@
 1.0.41	named	io.github.the-infinite	framework	2026-08-30T00:29:28Z	5.0.6
 1.0.41-b	named	io.github.the-infinite	framework	2026-08-30T00:34:40Z	5.0.6
 1.0.42	named	io.github.the-infinite	framework	2026-09-01T02:32:07Z	5.0.6
+4.5.33	automatic	io.vertx	vertx-circuit-breaker	2026-09-02T02:01:58Z	
+5.1.7	named	io.vertx	vertx-circuit-breaker	2026-09-02T02:02:01Z	5.1.7
 1.0.43	named	io.github.the-infinite	framework	2026-09-02T02:24:27Z	5.0.6
 1.0.45	named	io.github.the-infinite	framework	2026-09-07T02:23:41Z	5.0.6
 1.0.44	named	io.github.the-infinite	framework	2026-09-07T02:23:43Z	5.0.6

@@ -10,6 +10,10 @@
 8.10.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.10.0-alpha4/operate-parent-8.10.0-alpha4.jar returned status 404
 8.10.0-alpha4-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.10.0-alpha4-rc1/operate-parent-8.10.0-alpha4-rc1.jar returned status 404
 8.10.0-alpha4-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.10.0-alpha4-rc2/operate-parent-8.10.0-alpha4-rc2.jar returned status 404
+8.10.0-alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.10.0-alpha5/operate-parent-8.10.0-alpha5.jar returned status 404
+8.10.0-alpha5-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.10.0-alpha5-rc1/operate-parent-8.10.0-alpha5-rc1.jar returned status 404
+8.10.0-alpha5-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.10.0-alpha5-rc2/operate-parent-8.10.0-alpha5-rc2.jar returned status 404
+8.10.0-alpha5-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.10.0-alpha5-rc3/operate-parent-8.10.0-alpha5-rc3.jar returned status 404
 8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.6.0/operate-parent-8.6.0.jar returned status 404
 8.6.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.6.0-alpha1/operate-parent-8.6.0-alpha1.jar returned status 404
 8.6.0-alpha1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.6.0-alpha1-rc1/operate-parent-8.6.0-alpha1-rc1.jar returned status 404
@@ -134,6 +138,7 @@
 8.7.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.7.35/operate-parent-8.7.35.jar returned status 404
 8.7.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.7.36/operate-parent-8.7.36.jar returned status 404
 8.7.37		2026-08-14T08:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.7.37/operate-parent-8.7.37.jar returned status 404
+8.7.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.7.38/operate-parent-8.7.38.jar returned status 404
 8.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.7.4/operate-parent-8.7.4.jar returned status 404
 8.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.7.5/operate-parent-8.7.5.jar returned status 404
 8.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.7.6/operate-parent-8.7.6.jar returned status 404
@@ -198,6 +203,9 @@
 8.8.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.8.32/operate-parent-8.8.32.jar returned status 404
 8.8.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.8.33/operate-parent-8.8.33.jar returned status 404
 8.8.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.8.34/operate-parent-8.8.34.jar returned status 404
+8.8.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.8.35/operate-parent-8.8.35.jar returned status 404
+8.8.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.8.36/operate-parent-8.8.36.jar returned status 404
+8.8.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.8.37/operate-parent-8.8.37.jar returned status 404
 8.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.8.4/operate-parent-8.8.4.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.8.5/operate-parent-8.8.5.jar returned status 404
 8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.8.6/operate-parent-8.8.6.jar returned status 404
@@ -229,6 +237,11 @@
 8.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.12/operate-parent-8.9.12.jar returned status 404
 8.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.13/operate-parent-8.9.13.jar returned status 404
 8.9.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.14/operate-parent-8.9.14.jar returned status 404
+8.9.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.15/operate-parent-8.9.15.jar returned status 404
+8.9.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.16/operate-parent-8.9.16.jar returned status 404
+8.9.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.17/operate-parent-8.9.17.jar returned status 404
+8.9.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.18/operate-parent-8.9.18.jar returned status 404
+8.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.19/operate-parent-8.9.19.jar returned status 404
 8.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.2/operate-parent-8.9.2.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.3/operate-parent-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/operate-parent/8.9.4/operate-parent-8.9.4.jar returned status 404

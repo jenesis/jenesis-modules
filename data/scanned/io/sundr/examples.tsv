@@ -135,6 +135,7 @@
 0.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/examples/0.4.4/examples-0.4.4.jar returned status 404
 0.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/examples/0.40.0/examples-0.40.0.jar returned status 404
 0.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/examples/0.40.1/examples-0.40.1.jar returned status 404
+0.400.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/examples/0.400.0/examples-0.400.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/examples/0.5.0/examples-0.5.0.jar returned status 404
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/examples/0.5.1/examples-0.5.1.jar returned status 404
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/examples/0.6.0/examples-0.6.0.jar returned status 404
