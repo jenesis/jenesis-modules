@@ -54,3 +54,4 @@
 0.4.0	metadata	2026-03-09T06:29:46Z	
 0.40.2		2026-08-13T09:01:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-inference-llama-macosarm64/0.40.2/skainet-transformers-inference-llama-macosarm64-0.40.2.jar returned status 404
 0.40.2	metadata	2026-08-13T09:01:35Z	
+0.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-inference-llama-macosarm64/0.53.0/skainet-transformers-inference-llama-macosarm64-0.53.0.jar returned status 404

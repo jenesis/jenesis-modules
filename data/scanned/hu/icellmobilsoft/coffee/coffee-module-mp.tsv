@@ -31,7 +31,9 @@
 2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-module-mp/2.10.1/coffee-module-mp-2.10.1.jar returned status 404
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-module-mp/2.11.0/coffee-module-mp-2.11.0.jar returned status 404
 2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-module-mp/2.12.0/coffee-module-mp-2.12.0.jar returned status 404
+2.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-module-mp/2.12.1/coffee-module-mp-2.12.1.jar returned status 404
 2.13.0		2026-05-20T14:22:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-module-mp/2.13.0/coffee-module-mp-2.13.0.jar returned status 404
+2.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-module-mp/2.13.1/coffee-module-mp-2.13.1.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-module-mp/2.2.0/coffee-module-mp-2.2.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-module-mp/2.3.0/coffee-module-mp-2.3.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/hu/icellmobilsoft/coffee/coffee-module-mp/2.4.0/coffee-module-mp-2.4.0.jar returned status 404

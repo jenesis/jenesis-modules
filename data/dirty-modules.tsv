@@ -2329,3 +2329,10 @@ run.endive.simd
 info.picocli
 run.endive.codegen
 plus.application.app.common
+eu.opendppnode.sdk
+eu.maveniverse.maven.nisse.source.jgit
+eu.maveniverse.maven.nisse.source.osdetector
+eu.maveniverse.maven.nisse.source.file
+eu.maveniverse.maven.nisse.core
+eu.maveniverse.maven.nisse.source.mvn
+codegen
