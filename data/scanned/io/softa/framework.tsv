@@ -63,3 +63,8 @@
 2.5.3		2026-08-28T08:56:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/framework/2.5.3/framework-2.5.3.jar returned status 404
 2.5.4		2026-08-29T03:38:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/framework/2.5.4/framework-2.5.4.jar returned status 404
 2.5.5		2026-08-29T03:51:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/framework/2.5.5/framework-2.5.5.jar returned status 404
+2.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/framework/2.5.6/framework-2.5.6.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/framework/2.6.0/framework-2.6.0.jar returned status 404
+2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/framework/2.6.1/framework-2.6.1.jar returned status 404
+2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/framework/2.6.2/framework-2.6.2.jar returned status 404
+2.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/softa/framework/2.6.3/framework-2.6.3.jar returned status 404

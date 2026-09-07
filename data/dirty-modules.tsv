@@ -1951,3 +1951,16 @@ io.quarkus.arc
 io.quarkus.modular
 io.quarkus.packaging.common
 io.quarkus.jlink.launcher
+quarkus.klass.change.agent
+io.quarkus.changeagent
+io.quarkus.bootstrap.runner
+io.quarkus.jlink
+io.smallrye.mutiny
+jakarta.annotation
+io.quarkus.commons.classloading
+io.aeron.annotations
+io.aeron.cluster
+io.aeron.all
+io.aeron.archive
+io.aeron.agent
+io.aeron.client
