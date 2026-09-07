@@ -49,6 +49,12 @@
 2.21.8		2026-08-10T07:14:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.21.8/kotlinjsonui-dynamic-2.21.8.jar returned status 404
 2.22.0		2026-08-10T08:54:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.22.0/kotlinjsonui-dynamic-2.22.0.jar returned status 404
 2.23.0		2026-08-11T04:22:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.23.0/kotlinjsonui-dynamic-2.23.0.jar returned status 404
+2.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.23.1/kotlinjsonui-dynamic-2.23.1.jar returned status 404
+2.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.24.0/kotlinjsonui-dynamic-2.24.0.jar returned status 404
+2.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.25.0/kotlinjsonui-dynamic-2.25.0.jar returned status 404
+2.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.26.0/kotlinjsonui-dynamic-2.26.0.jar returned status 404
+2.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.27.0/kotlinjsonui-dynamic-2.27.0.jar returned status 404
+2.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.28.0/kotlinjsonui-dynamic-2.28.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.3.0/kotlinjsonui-dynamic-2.3.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.4.0/kotlinjsonui-dynamic-2.4.0.jar returned status 404
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui-dynamic/2.5.0/kotlinjsonui-dynamic-2.5.0.jar returned status 404

@@ -60,3 +60,6 @@
 8.1.0	plain	2026-06-27T14:54:52Z	
 8.2.0		2026-07-02T08:49:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/exception-handler-spring-boot-starter/8.2.0/exception-handler-spring-boot-starter-8.2.0.jar returned status 404
 8.2.0	plain	2026-07-02T08:49:32Z	
+8.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/exception-handler-spring-boot-starter/8.3.0/exception-handler-spring-boot-starter-8.3.0.jar returned status 404
+8.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/exception-handler-spring-boot-starter/8.3.1/exception-handler-spring-boot-starter-8.3.1.jar returned status 404
+8.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/exception-handler-spring-boot-starter/8.3.2/exception-handler-spring-boot-starter-8.3.2.jar returned status 404

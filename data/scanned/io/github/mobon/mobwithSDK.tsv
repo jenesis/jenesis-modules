@@ -16,6 +16,8 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.0/mobwithSDK-1.0.0.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.1/mobwithSDK-1.0.1.jar returned status 404
 1.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.10/mobwithSDK-1.0.10.jar returned status 404
+1.0.100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.100/mobwithSDK-1.0.100.jar returned status 404
+1.0.101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.101/mobwithSDK-1.0.101.jar returned status 404
 1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.11/mobwithSDK-1.0.11.jar returned status 404
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.12/mobwithSDK-1.0.12.jar returned status 404
 1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.13/mobwithSDK-1.0.13.jar returned status 404
@@ -110,3 +112,6 @@
 1.0.94		2026-08-20T07:54:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.94/mobwithSDK-1.0.94.jar returned status 404
 1.0.95		2026-08-25T04:11:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.95/mobwithSDK-1.0.95.jar returned status 404
 1.0.96		2026-08-28T07:37:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.96/mobwithSDK-1.0.96.jar returned status 404
+1.0.97			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.97/mobwithSDK-1.0.97.jar returned status 404
+1.0.98			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.98/mobwithSDK-1.0.98.jar returned status 404
+1.0.99			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobon/mobwithSDK/1.0.99/mobwithSDK-1.0.99.jar returned status 404

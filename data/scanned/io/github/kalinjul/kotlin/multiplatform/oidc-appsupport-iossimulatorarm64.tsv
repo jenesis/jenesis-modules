@@ -50,6 +50,7 @@
 0.18.0	metadata	2026-08-12T12:22:36Z	
 0.18.1		2026-08-12T16:04:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-appsupport-iossimulatorarm64/0.18.1/oidc-appsupport-iossimulatorarm64-0.18.1.jar returned status 404
 0.18.1	metadata	2026-08-12T16:04:37Z	
+0.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-appsupport-iossimulatorarm64/0.18.2/oidc-appsupport-iossimulatorarm64-0.18.2.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-appsupport-iossimulatorarm64/0.2.0/oidc-appsupport-iossimulatorarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2023-12-04T14:39:55Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-appsupport-iossimulatorarm64/0.3.0/oidc-appsupport-iossimulatorarm64-0.3.0.jar returned status 404

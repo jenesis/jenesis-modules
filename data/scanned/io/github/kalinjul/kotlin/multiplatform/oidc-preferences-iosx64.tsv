@@ -16,3 +16,4 @@
 0.18.0	metadata	2026-08-12T12:22:36Z	
 0.18.1		2026-08-12T16:04:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-preferences-iosx64/0.18.1/oidc-preferences-iosx64-0.18.1.jar returned status 404
 0.18.1	metadata	2026-08-12T16:04:35Z	
+0.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-preferences-iosx64/0.18.2/oidc-preferences-iosx64-0.18.2.jar returned status 404

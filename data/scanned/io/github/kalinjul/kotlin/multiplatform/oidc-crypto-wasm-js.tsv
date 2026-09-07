@@ -16,3 +16,4 @@
 0.17.0		2026-08-10T14:42:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-crypto-wasm-js/0.17.0/oidc-crypto-wasm-js-0.17.0.jar returned status 404
 0.18.0		2026-08-12T12:22:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-crypto-wasm-js/0.18.0/oidc-crypto-wasm-js-0.18.0.jar returned status 404
 0.18.1		2026-08-12T16:04:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-crypto-wasm-js/0.18.1/oidc-crypto-wasm-js-0.18.1.jar returned status 404
+0.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kalinjul/kotlin/multiplatform/oidc-crypto-wasm-js/0.18.2/oidc-crypto-wasm-js-0.18.2.jar returned status 404
