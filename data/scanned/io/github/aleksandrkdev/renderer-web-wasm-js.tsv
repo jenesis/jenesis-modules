@@ -3,3 +3,4 @@
 0.1.0-alpha05		2026-08-11T17:15:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aleksandrkdev/renderer-web-wasm-js/0.1.0-alpha05/renderer-web-wasm-js-0.1.0-alpha05.jar returned status 404
 0.1.0-alpha06		2026-08-12T17:55:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aleksandrkdev/renderer-web-wasm-js/0.1.0-alpha06/renderer-web-wasm-js-0.1.0-alpha06.jar returned status 404
 0.1.0-alpha07		2026-08-26T16:29:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aleksandrkdev/renderer-web-wasm-js/0.1.0-alpha07/renderer-web-wasm-js-0.1.0-alpha07.jar returned status 404
+0.1.0-alpha08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aleksandrkdev/renderer-web-wasm-js/0.1.0-alpha08/renderer-web-wasm-js-0.1.0-alpha08.jar returned status 404

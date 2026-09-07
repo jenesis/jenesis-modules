@@ -1,3 +1,7 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/async-test-lib/async-test-parent/1.10.0/async-test-parent-1.10.0.jar returned status 404
+1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/async-test-lib/async-test-parent/1.11.0/async-test-parent-1.11.0.jar returned status 404
+1.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/async-test-lib/async-test-parent/1.11.1/async-test-parent-1.11.1.jar returned status 404
+1.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/async-test-lib/async-test-parent/1.11.2/async-test-parent-1.11.2.jar returned status 404
 1.7.0		2026-08-04T18:43:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/async-test-lib/async-test-parent/1.7.0/async-test-parent-1.7.0.jar returned status 404
 1.7.0-RC5		2026-08-01T14:07:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/async-test-lib/async-test-parent/1.7.0-RC5/async-test-parent-1.7.0-RC5.jar returned status 404
 1.7.0-RC6		2026-08-02T08:17:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/se/deversity/async-test-lib/async-test-parent/1.7.0-RC6/async-test-parent-1.7.0-RC6.jar returned status 404

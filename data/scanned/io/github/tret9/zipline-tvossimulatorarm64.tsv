@@ -52,6 +52,8 @@
 1.28.0-composelive-0.20	metadata	2026-08-28T16:38:21Z	
 1.28.0-composelive-0.20-profilable		2026-08-28T16:42:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-tvossimulatorarm64/1.28.0-composelive-0.20-profilable/zipline-tvossimulatorarm64-1.28.0-composelive-0.20-profilable.jar returned status 404
 1.28.0-composelive-0.20-profilable	metadata	2026-08-28T16:42:04Z	
+1.28.0-composelive-0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-tvossimulatorarm64/1.28.0-composelive-0.21/zipline-tvossimulatorarm64-1.28.0-composelive-0.21.jar returned status 404
+1.28.0-composelive-0.21-profilable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-tvossimulatorarm64/1.28.0-composelive-0.21-profilable/zipline-tvossimulatorarm64-1.28.0-composelive-0.21-profilable.jar returned status 404
 1.28.0-composelive-0.3		2026-06-29T13:59:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-tvossimulatorarm64/1.28.0-composelive-0.3/zipline-tvossimulatorarm64-1.28.0-composelive-0.3.jar returned status 404
 1.28.0-composelive-0.3	metadata	2026-06-29T13:59:19Z	
 1.28.0-composelive-0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-tvossimulatorarm64/1.28.0-composelive-0.4/zipline-tvossimulatorarm64-1.28.0-composelive-0.4.jar returned status 404
@@ -74,3 +76,6 @@
 1.28.0-composelive-hermes-0.3	metadata	2026-08-18T18:00:22Z	
 1.28.0-composelive-hermes-0.4		2026-08-19T07:53:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-tvossimulatorarm64/1.28.0-composelive-hermes-0.4/zipline-tvossimulatorarm64-1.28.0-composelive-hermes-0.4.jar returned status 404
 1.28.0-composelive-hermes-0.4	metadata	2026-08-19T07:53:39Z	
+1.28.0-composelive-hermes-0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-tvossimulatorarm64/1.28.0-composelive-hermes-0.5/zipline-tvossimulatorarm64-1.28.0-composelive-hermes-0.5.jar returned status 404
+1.28.0-composelive-hermes-0.5-debuggable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-tvossimulatorarm64/1.28.0-composelive-hermes-0.5-debuggable/zipline-tvossimulatorarm64-1.28.0-composelive-hermes-0.5-debuggable.jar returned status 404
+1.28.0-composelive-hermes-0.5-prof			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-tvossimulatorarm64/1.28.0-composelive-hermes-0.5-prof/zipline-tvossimulatorarm64-1.28.0-composelive-hermes-0.5-prof.jar returned status 404
