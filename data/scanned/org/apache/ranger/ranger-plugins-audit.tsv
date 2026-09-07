@@ -16,3 +16,4 @@
 2.6.0		2025-02-14T19:11:07Z	
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ranger/ranger-plugins-audit/2.7.0/ranger-plugins-audit-2.7.0.jar returned status 404
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ranger/ranger-plugins-audit/2.8.0/ranger-plugins-audit-2.8.0.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ranger/ranger-plugins-audit/2.9.0/ranger-plugins-audit-2.9.0.jar returned status 404

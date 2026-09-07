@@ -63,6 +63,7 @@
 2.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-openwire-protocol/2.53.0/artemis-openwire-protocol-2.53.0.jar returned status 404
 2.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-openwire-protocol/2.54.0/artemis-openwire-protocol-2.54.0.jar returned status 404
 2.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-openwire-protocol/2.55.0/artemis-openwire-protocol-2.55.0.jar returned status 404
+2.56.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/activemq/artemis-openwire-protocol/2.56.0/artemis-openwire-protocol-2.56.0.jar returned status 404
 2.6.0		2018-05-16T15:11:30Z	
 2.6.1		2018-06-04T21:54:01Z	
 2.6.2		2018-06-19T03:15:37Z	

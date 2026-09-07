@@ -9,3 +9,5 @@
 1.0.1.5		2026-06-15T19:59:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/kinesis-extension/1.0.1.5/kinesis-extension-1.0.1.5.jar returned status 404
 1.0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/kinesis-extension/1.0.1.6/kinesis-extension-1.0.1.6.jar returned status 404
 1.0.1.6-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/kinesis-extension/1.0.1.6-RC/kinesis-extension-1.0.1.6-RC.jar returned status 404
+1.0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/kinesis-extension/1.0.1.7/kinesis-extension-1.0.1.7.jar returned status 404
+1.0.1.7-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/kinesis-extension/1.0.1.7-RC/kinesis-extension-1.0.1.7-RC.jar returned status 404

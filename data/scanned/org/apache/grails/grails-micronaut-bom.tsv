@@ -19,3 +19,4 @@
 8.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/grails/grails-micronaut-bom/8.0.0-M3/grails-micronaut-bom-8.0.0-M3.jar returned status 404
 8.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/grails/grails-micronaut-bom/8.0.0-M4/grails-micronaut-bom-8.0.0-M4.jar returned status 404
 8.0.0-M5		2026-08-02T23:23:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/grails/grails-micronaut-bom/8.0.0-M5/grails-micronaut-bom-8.0.0-M5.jar returned status 404
+8.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/grails/grails-micronaut-bom/8.0.0-M6/grails-micronaut-bom-8.0.0-M6.jar returned status 404

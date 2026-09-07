@@ -18,6 +18,8 @@
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pekko/pekko-bom_3/1.4.0/pekko-bom_3-1.4.0.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pekko/pekko-bom_3/1.5.0/pekko-bom_3-1.5.0.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pekko/pekko-bom_3/1.6.0/pekko-bom_3-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pekko/pekko-bom_3/1.7.0/pekko-bom_3-1.7.0.jar returned status 404
 2.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pekko/pekko-bom_3/2.0.0-M1/pekko-bom_3-2.0.0-M1.jar returned status 404
 2.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pekko/pekko-bom_3/2.0.0-M2/pekko-bom_3-2.0.0-M2.jar returned status 404
 2.0.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pekko/pekko-bom_3/2.0.0-M3/pekko-bom_3-2.0.0-M3.jar returned status 404
+2.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pekko/pekko-bom_3/2.0.0-M4/pekko-bom_3-2.0.0-M4.jar returned status 404

@@ -90,6 +90,7 @@
 3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/3.6.1/cxf-systests-cdi-3.6.1.jar returned status 404
 3.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/3.6.10/cxf-systests-cdi-3.6.10.jar returned status 404
 3.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/3.6.11/cxf-systests-cdi-3.6.11.jar returned status 404
+3.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/3.6.12/cxf-systests-cdi-3.6.12.jar returned status 404
 3.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/3.6.2/cxf-systests-cdi-3.6.2.jar returned status 404
 3.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/3.6.3/cxf-systests-cdi-3.6.3.jar returned status 404
 3.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/3.6.4/cxf-systests-cdi-3.6.4.jar returned status 404
@@ -118,6 +119,8 @@
 4.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/4.1.5/cxf-systests-cdi-4.1.5.jar returned status 404
 4.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/4.1.6/cxf-systests-cdi-4.1.6.jar returned status 404
 4.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/4.1.7/cxf-systests-cdi-4.1.7.jar returned status 404
+4.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/4.1.8/cxf-systests-cdi-4.1.8.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/4.2.0/cxf-systests-cdi-4.2.0.jar returned status 404
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/4.2.1/cxf-systests-cdi-4.2.1.jar returned status 404
 4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/4.2.2/cxf-systests-cdi-4.2.2.jar returned status 404
+4.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/cxf/systests/cxf-systests-cdi/4.2.3/cxf-systests-cdi-4.2.3.jar returned status 404

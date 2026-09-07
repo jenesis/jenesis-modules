@@ -8,6 +8,7 @@
 1.10.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ant/ant-parent/1.10.15/ant-parent-1.10.15.jar returned status 404
 1.10.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ant/ant-parent/1.10.16/ant-parent-1.10.16.jar returned status 404
 1.10.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ant/ant-parent/1.10.17/ant-parent-1.10.17.jar returned status 404
+1.10.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ant/ant-parent/1.10.18/ant-parent-1.10.18.jar returned status 404
 1.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ant/ant-parent/1.10.2/ant-parent-1.10.2.jar returned status 404
 1.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ant/ant-parent/1.10.3/ant-parent-1.10.3.jar returned status 404
 1.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/ant/ant-parent/1.10.4/ant-parent-1.10.4.jar returned status 404
