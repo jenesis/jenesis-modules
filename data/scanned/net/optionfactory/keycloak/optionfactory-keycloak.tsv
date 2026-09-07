@@ -96,6 +96,7 @@
 9.13		2026-08-25T13:02:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/keycloak/optionfactory-keycloak/9.13/optionfactory-keycloak-9.13.jar returned status 404
 9.14		2026-08-26T09:22:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/keycloak/optionfactory-keycloak/9.14/optionfactory-keycloak-9.14.jar returned status 404
 9.15		2026-08-26T10:36:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/keycloak/optionfactory-keycloak/9.15/optionfactory-keycloak-9.15.jar returned status 404
+9.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/keycloak/optionfactory-keycloak/9.16/optionfactory-keycloak-9.16.jar returned status 404
 9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/keycloak/optionfactory-keycloak/9.2/optionfactory-keycloak-9.2.jar returned status 404
 9.3		2026-05-25T13:48:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/keycloak/optionfactory-keycloak/9.3/optionfactory-keycloak-9.3.jar returned status 404
 9.4		2026-06-08T20:49:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/keycloak/optionfactory-keycloak/9.4/optionfactory-keycloak-9.4.jar returned status 404

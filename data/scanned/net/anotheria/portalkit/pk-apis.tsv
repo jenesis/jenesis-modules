@@ -19,3 +19,5 @@
 4.2.7		2026-05-31T10:03:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/portalkit/pk-apis/4.2.7/pk-apis-4.2.7.jar returned status 404
 4.2.8		2026-06-04T08:56:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/portalkit/pk-apis/4.2.8/pk-apis-4.2.8.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/portalkit/pk-apis/4.3.0/pk-apis-4.3.0.jar returned status 404
+4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/portalkit/pk-apis/4.3.1/pk-apis-4.3.1.jar returned status 404
+4.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/anotheria/portalkit/pk-apis/4.3.2/pk-apis-4.3.2.jar returned status 404

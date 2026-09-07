@@ -7370,6 +7370,7 @@ v0.0.18	named	com.grafana	grafana-foundation-sdk	2026-06-12T14:46:57Z	2.19.1
 1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	flink-connector-elasticsearch7	2026-07-30T00:02:28Z	2.13.4
 1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	flink-connector-elasticsearch6	2026-07-30T00:02:32Z	2.13.4
 1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	ververica-connector-hologres	2026-07-30T00:06:42Z	2.17.2
+0.3.0	named	be.ugent.idlab.knows	MappingWeaver	2026-07-30T23:52:22Z	2.18.2
 1.2.1	named	org.cadenzaflow.spin	cadenzaflow-spin-dataformat-all	2026-07-31T00:08:00Z	2.21.3
 1.2.0.20	named	com.linkedin.iceberg	iceberg-flink-runtime-1.16	2026-08-01T02:18:54Z	2.14.3
 0.9.1	named	com.lemmabase	lemma-engine	2026-08-01T22:57:17Z	2.22.1
