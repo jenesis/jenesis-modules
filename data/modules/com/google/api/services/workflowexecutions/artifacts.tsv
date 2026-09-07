@@ -1,3 +1,4 @@
+v1-rev20260825-2.0.0	automatic	com.google.apis	google-api-services-workflowexecutions
 v1-rev20250211-2.0.0	automatic	com.google.apis	google-api-services-workflowexecutions
 v1-rev20241001-2.0.0	automatic	com.google.apis	google-api-services-workflowexecutions
 v1-rev20240916-2.0.0	automatic	com.google.apis	google-api-services-workflowexecutions
@@ -36,6 +37,7 @@ v1-rev20210309-1.31.5	automatic	com.google.apis	google-api-services-workflowexec
 v1-rev20210309-1.31.0	automatic	com.google.apis	google-api-services-workflowexecutions
 v1-rev20210302-1.31.0	automatic	com.google.apis	google-api-services-workflowexecutions
 v1-rev20210118-1.31.0	automatic	com.google.apis	google-api-services-workflowexecutions
+v1beta-rev20260825-2.0.0	automatic	com.google.apis	google-api-services-workflowexecutions
 v1beta-rev20230719-2.0.0	automatic	com.google.apis	google-api-services-workflowexecutions
 v1beta-rev20221206-2.0.0	automatic	com.google.apis	google-api-services-workflowexecutions
 v1beta-rev20221020-2.0.0	automatic	com.google.apis	google-api-services-workflowexecutions

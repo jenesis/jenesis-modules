@@ -61,6 +61,7 @@
 1.2.3.Final	automatic	org.wildfly.plugins	wildfly-plugin-tools
 1.2.2.Final	automatic	org.wildfly.plugins	wildfly-plugin-core
 1.2.1.Final	automatic	org.wildfly.plugins	wildfly-plugin-tools
+1.2.0.SP1	automatic	org.wildfly.plugins	wildfly-plugin-tools
 1.2.0.Final	automatic	org.wildfly.plugins	wildfly-plugin-tools
 1.2.0.Beta2	automatic	org.wildfly.plugins	wildfly-plugin-tools
 1.2.0.Beta1	automatic	org.wildfly.plugins	wildfly-plugin-tools
