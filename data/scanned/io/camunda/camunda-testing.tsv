@@ -10,6 +10,10 @@
 8.10.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.10.0-alpha4/camunda-testing-8.10.0-alpha4.jar returned status 404
 8.10.0-alpha4-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.10.0-alpha4-rc1/camunda-testing-8.10.0-alpha4-rc1.jar returned status 404
 8.10.0-alpha4-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.10.0-alpha4-rc2/camunda-testing-8.10.0-alpha4-rc2.jar returned status 404
+8.10.0-alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.10.0-alpha5/camunda-testing-8.10.0-alpha5.jar returned status 404
+8.10.0-alpha5-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.10.0-alpha5-rc1/camunda-testing-8.10.0-alpha5-rc1.jar returned status 404
+8.10.0-alpha5-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.10.0-alpha5-rc2/camunda-testing-8.10.0-alpha5-rc2.jar returned status 404
+8.10.0-alpha5-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.10.0-alpha5-rc3/camunda-testing-8.10.0-alpha5-rc3.jar returned status 404
 8.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.0/camunda-testing-8.8.0.jar returned status 404
 8.8.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.0-alpha3/camunda-testing-8.8.0-alpha3.jar returned status 404
 8.8.0-alpha3-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.0-alpha3-rc3/camunda-testing-8.8.0-alpha3-rc3.jar returned status 404
@@ -62,6 +66,9 @@
 8.8.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.32/camunda-testing-8.8.32.jar returned status 404
 8.8.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.33/camunda-testing-8.8.33.jar returned status 404
 8.8.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.34/camunda-testing-8.8.34.jar returned status 404
+8.8.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.35/camunda-testing-8.8.35.jar returned status 404
+8.8.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.36/camunda-testing-8.8.36.jar returned status 404
+8.8.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.37/camunda-testing-8.8.37.jar returned status 404
 8.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.4/camunda-testing-8.8.4.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.5/camunda-testing-8.8.5.jar returned status 404
 8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.8.6/camunda-testing-8.8.6.jar returned status 404
@@ -93,6 +100,11 @@
 8.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.12/camunda-testing-8.9.12.jar returned status 404
 8.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.13/camunda-testing-8.9.13.jar returned status 404
 8.9.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.14/camunda-testing-8.9.14.jar returned status 404
+8.9.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.15/camunda-testing-8.9.15.jar returned status 404
+8.9.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.16/camunda-testing-8.9.16.jar returned status 404
+8.9.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.17/camunda-testing-8.9.17.jar returned status 404
+8.9.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.18/camunda-testing-8.9.18.jar returned status 404
+8.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.19/camunda-testing-8.9.19.jar returned status 404
 8.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.2/camunda-testing-8.9.2.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.3/camunda-testing-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-testing/8.9.4/camunda-testing-8.9.4.jar returned status 404
