@@ -1485,5 +1485,12 @@
 9.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.2.2/sda-commons-bom-9.2.2.jar returned status 404
 9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.0/sda-commons-bom-9.3.0.jar returned status 404
 9.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.1/sda-commons-bom-9.3.1.jar returned status 404
+9.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.10/sda-commons-bom-9.3.10.jar returned status 404
 9.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.2/sda-commons-bom-9.3.2.jar returned status 404
 9.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.3/sda-commons-bom-9.3.3.jar returned status 404
+9.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.4/sda-commons-bom-9.3.4.jar returned status 404
+9.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.5/sda-commons-bom-9.3.5.jar returned status 404
+9.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.6/sda-commons-bom-9.3.6.jar returned status 404
+9.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.7/sda-commons-bom-9.3.7.jar returned status 404
+9.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.8/sda-commons-bom-9.3.8.jar returned status 404
+9.3.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/sda-commons-bom/9.3.9/sda-commons-bom-9.3.9.jar returned status 404

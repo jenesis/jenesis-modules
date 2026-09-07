@@ -4,3 +4,4 @@
 0.202608.2	metadata	2026-08-18T17:58:06Z	
 0.202608.3		2026-08-20T04:15:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/nativeffi/maplibre-native-ffi-tvosarm64/0.202608.3/maplibre-native-ffi-tvosarm64-0.202608.3.jar returned status 404
 0.202608.3	metadata	2026-08-20T04:15:58Z	
+0.202609.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/nativeffi/maplibre-native-ffi-tvosarm64/0.202609.0/maplibre-native-ffi-tvosarm64-0.202609.0.jar returned status 404
