@@ -17,3 +17,4 @@
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spotim/rn/spotim-core/3.1.0/spotim-core-3.1.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spotim/rn/spotim-core/3.2.0/spotim-core-3.2.0.jar returned status 404
 3.2.1		2026-08-20T11:13:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spotim/rn/spotim-core/3.2.1/spotim-core-3.2.1.jar returned status 404
+3.2.2-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/spotim/rn/spotim-core/3.2.2-alpha/spotim-core-3.2.2-alpha.jar returned status 404

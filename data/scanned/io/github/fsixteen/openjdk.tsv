@@ -56,6 +56,12 @@
 22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/22/openjdk-22.jar returned status 404
 22.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/22.0.1/openjdk-22.0.1.jar returned status 404
 22.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/22.0.2/openjdk-22.0.2.jar returned status 404
+23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/23/openjdk-23.jar returned status 404
+23.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/23.0.2/openjdk-23.0.2.jar returned status 404
+24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/24/openjdk-24.jar returned status 404
+24.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/24.0.2/openjdk-24.0.2.jar returned status 404
+25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/25/openjdk-25.jar returned status 404
+25.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/25.0.4/openjdk-25.0.4.jar returned status 404
 9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/9/openjdk-9.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/9.0.1/openjdk-9.0.1.jar returned status 404
 9.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fsixteen/openjdk/9.0.4/openjdk-9.0.4.jar returned status 404
