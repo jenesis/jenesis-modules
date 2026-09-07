@@ -1756,10 +1756,18 @@
 2.53.3		2026-08-18T20:39:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.53.3/bom-2.53.3.jar returned status 404
 2.54.0		2026-08-19T21:04:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.0/bom-2.54.0.jar returned status 404
 2.54.1		2026-08-20T20:35:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.1/bom-2.54.1.jar returned status 404
+2.54.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.10/bom-2.54.10.jar returned status 404
+2.54.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.11/bom-2.54.11.jar returned status 404
+2.54.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.12/bom-2.54.12.jar returned status 404
+2.54.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.13/bom-2.54.13.jar returned status 404
 2.54.2		2026-08-21T20:48:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.2/bom-2.54.2.jar returned status 404
 2.54.3		2026-08-24T20:42:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.3/bom-2.54.3.jar returned status 404
 2.54.4		2026-08-25T21:48:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.4/bom-2.54.4.jar returned status 404
 2.54.5		2026-08-26T20:54:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.5/bom-2.54.5.jar returned status 404
+2.54.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.6/bom-2.54.6.jar returned status 404
+2.54.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.7/bom-2.54.7.jar returned status 404
+2.54.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.8/bom-2.54.8.jar returned status 404
+2.54.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.54.9/bom-2.54.9.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.6.0/bom-2.6.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.6.1/bom-2.6.1.jar returned status 404
 2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/bom/2.6.2/bom-2.6.2.jar returned status 404
