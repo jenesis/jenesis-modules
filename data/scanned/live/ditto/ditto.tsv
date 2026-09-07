@@ -369,6 +369,7 @@
 4.12.6-rc.1	html-docs	2026-07-16T14:23:16Z	
 4.12.6-tokio-bump.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.6-tokio-bump.1/ditto-4.12.6-tokio-bump.1.jar returned status 404
 4.12.6-tokio-bump.1	html-docs	2026-04-22T23:31:10Z	
+4.12.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.7/ditto-4.12.7.jar returned status 404
 4.12.7-experimental-canceled-query-fix		2026-08-20T20:54:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.7-experimental-canceled-query-fix/ditto-4.12.7-experimental-canceled-query-fix.jar returned status 404
 4.12.7-experimental-canceled-query-fix	html-docs	2026-08-20T20:54:54Z	
 4.12.7-experimental-integration-8-14		2026-08-14T20:14:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.12.7-experimental-integration-8-14/ditto-4.12.7-experimental-integration-8-14.jar returned status 404
@@ -507,6 +508,7 @@
 4.14.6	html-docs	2026-07-02T23:09:21Z	
 4.14.6-dev-experimental-publishing.1		2026-07-03T12:18:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.14.6-dev-experimental-publishing.1/ditto-4.14.6-dev-experimental-publishing.1.jar returned status 404
 4.14.6-dev-experimental-publishing.1	html-docs	2026-07-03T12:18:54Z	
+4.14.7-experimental-impr.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.14.7-experimental-impr.1/ditto-4.14.7-experimental-impr.1.jar returned status 404
 4.14.7-experimental-prof.1		2026-08-14T19:24:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.14.7-experimental-prof.1/ditto-4.14.7-experimental-prof.1.jar returned status 404
 4.14.7-experimental-prof.1	html-docs	2026-08-14T19:24:37Z	
 4.14.7-experimental.preview.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto/4.14.7-experimental.preview.1/ditto-4.14.7-experimental.preview.1.jar returned status 404

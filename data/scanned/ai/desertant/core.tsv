@@ -1,3 +1,10 @@
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/core/0.3.0/core-0.3.0.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/core/1.0.0/core-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/core/1.0.1/core-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/core/1.0.2/core-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/core/1.0.3/core-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/core/1.0.4/core-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/core/1.0.5/core-1.0.5.jar returned status 404
 1.1.0		2026-08-13T17:48:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/core/1.1.0/core-1.1.0.jar returned status 404
 1.2.0		2026-08-19T01:17:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/core/1.2.0/core-1.2.0.jar returned status 404
 3.0.0		2026-08-19T17:45:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/core/3.0.0/core-3.0.0.jar returned status 404

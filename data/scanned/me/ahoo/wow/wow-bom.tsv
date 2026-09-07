@@ -642,6 +642,8 @@
 8.15.0		2026-08-28T08:27:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.15.0/wow-bom-8.15.0.jar returned status 404
 8.16.0		2026-08-28T15:30:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.16.0/wow-bom-8.16.0.jar returned status 404
 8.16.1		2026-08-29T02:24:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.16.1/wow-bom-8.16.1.jar returned status 404
+8.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.16.2/wow-bom-8.16.2.jar returned status 404
+8.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.16.3/wow-bom-8.16.3.jar returned status 404
 8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.2.0/wow-bom-8.2.0.jar returned status 404
 8.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.2.1/wow-bom-8.2.1.jar returned status 404
 8.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.2.2/wow-bom-8.2.2.jar returned status 404
@@ -669,3 +671,13 @@
 8.9.6		2026-08-02T08:58:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.6/wow-bom-8.9.6.jar returned status 404
 8.9.8		2026-08-03T12:29:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.8/wow-bom-8.9.8.jar returned status 404
 8.9.9		2026-08-03T15:23:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/8.9.9/wow-bom-8.9.9.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/9.0.0/wow-bom-9.0.0.jar returned status 404
+9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/9.0.1/wow-bom-9.0.1.jar returned status 404
+9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/9.0.2/wow-bom-9.0.2.jar returned status 404
+9.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/9.0.3/wow-bom-9.0.3.jar returned status 404
+9.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/9.0.4/wow-bom-9.0.4.jar returned status 404
+9.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/9.0.5/wow-bom-9.0.5.jar returned status 404
+9.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/9.0.6/wow-bom-9.0.6.jar returned status 404
+9.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/9.0.7/wow-bom-9.0.7.jar returned status 404
+9.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/9.0.8/wow-bom-9.0.8.jar returned status 404
+9.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-bom/9.0.9/wow-bom-9.0.9.jar returned status 404
