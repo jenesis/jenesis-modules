@@ -417,3 +417,7 @@ v20240317	automatic	com.google.javascript	closure-compiler-unshaded	2024-03-19T0
 4.36.0	automatic	com.google.protobuf	protobuf-javalite	2026-08-20T16:23:30Z	
 4.36.0	automatic	com.google.protobuf	protobuf-kotlin	2026-08-20T16:23:30Z	
 4.36.0	automatic	com.google.protobuf	protobuf-kotlin-lite	2026-08-20T16:23:30Z	
+4.36.1	automatic	com.google.protobuf	protobuf-kotlin	2026-09-02T02:23:53Z	
+4.36.1	automatic	com.google.protobuf	protobuf-java	2026-09-02T02:23:55Z	
+4.36.1	automatic	com.google.protobuf	protobuf-javalite	2026-09-02T02:23:55Z	
+4.36.1	automatic	com.google.protobuf	protobuf-kotlin-lite	2026-09-02T02:24:04Z	

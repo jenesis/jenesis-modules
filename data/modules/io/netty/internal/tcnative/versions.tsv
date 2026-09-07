@@ -873,3 +873,9 @@
 4.1.12	named	com.instaclustr	esop-azure	2026-08-31T11:57:21Z	2.0.73.Final
 4.1.12	named	com.instaclustr	esop-gcp	2026-08-31T11:57:21Z	2.0.70.Final
 0.21.0	named	com.spotify.confidence	openfeature-provider-local	2026-09-01T02:34:54Z	2.0.72.Final
+1.5.0	named	com.google.cloud.spark.spanner	spark-3.5-spanner	2026-09-03T03:11:57Z	2.0.70.Final
+1.5.0	named	com.google.cloud.spark.spanner	spark-4.0-spanner	2026-09-03T03:11:57Z	2.0.70.Final
+1.5.0	named	com.google.cloud.spark.spanner	spark-3.1-spanner	2026-09-03T03:12:00Z	2.0.70.Final
+1.5.0	named	com.google.cloud.spark.spanner	spark-3.2-spanner	2026-09-03T03:12:00Z	2.0.70.Final
+1.5.0	named	com.google.cloud.spark.spanner	spark-3.3-spanner	2026-09-03T03:16:08Z	2.0.70.Final
+2.77.0	named	com.google.api	gapic-generator-java	2026-09-06T02:16:49Z	2.0.75.Final
