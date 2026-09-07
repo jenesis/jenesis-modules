@@ -38,3 +38,8 @@
 0.11.57		2026-08-31T18:57:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dolthub/doltlite-android/0.11.57/doltlite-android-0.11.57.jar returned status 404
 0.50.0		2026-08-31T19:52:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dolthub/doltlite-android/0.50.0/doltlite-android-0.50.0.jar returned status 404
 0.50.1		2026-09-01T00:38:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dolthub/doltlite-android/0.50.1/doltlite-android-0.50.1.jar returned status 404
+0.50.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dolthub/doltlite-android/0.50.2/doltlite-android-0.50.2.jar returned status 404
+0.50.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dolthub/doltlite-android/0.50.3/doltlite-android-0.50.3.jar returned status 404
+0.50.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dolthub/doltlite-android/0.50.4/doltlite-android-0.50.4.jar returned status 404
+0.50.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dolthub/doltlite-android/0.50.5/doltlite-android-0.50.5.jar returned status 404
+0.50.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dolthub/doltlite-android/0.50.6/doltlite-android-0.50.6.jar returned status 404
