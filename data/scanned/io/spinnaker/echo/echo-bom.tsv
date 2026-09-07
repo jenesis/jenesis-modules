@@ -61,6 +61,7 @@
 2026.1-10		2026-08-20T00:35:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.1-10/echo-bom-2026.1-10.jar returned status 404
 2026.1-11		2026-08-20T14:28:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.1-11/echo-bom-2026.1-11.jar returned status 404
 2026.1-12		2026-08-21T17:56:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.1-12/echo-bom-2026.1-12.jar returned status 404
+2026.1-13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.1-13/echo-bom-2026.1-13.jar returned status 404
 2026.1-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.1-5/echo-bom-2026.1-5.jar returned status 404
 2026.1-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.1-6/echo-bom-2026.1-6.jar returned status 404
 2026.1-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.1-7/echo-bom-2026.1-7.jar returned status 404
@@ -74,7 +75,12 @@
 2026.2-17		2026-08-20T00:34:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.2-17/echo-bom-2026.2-17.jar returned status 404
 2026.2-18		2026-08-20T01:53:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.2-18/echo-bom-2026.2-18.jar returned status 404
 2026.2-19		2026-08-21T14:40:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.2-19/echo-bom-2026.2-19.jar returned status 404
+2026.2-20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.2-20/echo-bom-2026.2-20.jar returned status 404
+2026.2-21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.2-21/echo-bom-2026.2-21.jar returned status 404
 2026.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.2.3/echo-bom-2026.2.3.jar returned status 404
+2026.3-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.3-0/echo-bom-2026.3-0.jar returned status 404
+2026.3-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.3-1/echo-bom-2026.3-1.jar returned status 404
+2026.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/2026.3.0/echo-bom-2026.3.0.jar returned status 404
 main-239		2026-06-16T20:30:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-239/echo-bom-main-239.jar returned status 404
 main-241		2026-06-17T03:26:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-241/echo-bom-main-241.jar returned status 404
 main-272			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-272/echo-bom-main-272.jar returned status 404
@@ -127,3 +133,15 @@ main-318		2026-08-28T14:42:07Z	IOException: Tail request on https://maven-centra
 main-319		2026-08-28T15:24:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-319/echo-bom-main-319.jar returned status 404
 main-320		2026-08-28T15:27:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-320/echo-bom-main-320.jar returned status 404
 main-321		2026-08-28T16:03:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-321/echo-bom-main-321.jar returned status 404
+main-322			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-322/echo-bom-main-322.jar returned status 404
+main-323			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-323/echo-bom-main-323.jar returned status 404
+main-324			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-324/echo-bom-main-324.jar returned status 404
+main-325			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-325/echo-bom-main-325.jar returned status 404
+main-326			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-326/echo-bom-main-326.jar returned status 404
+main-327			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-327/echo-bom-main-327.jar returned status 404
+main-328			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-328/echo-bom-main-328.jar returned status 404
+main-329			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-329/echo-bom-main-329.jar returned status 404
+main-330			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-330/echo-bom-main-330.jar returned status 404
+main-331			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-331/echo-bom-main-331.jar returned status 404
+main-332			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-332/echo-bom-main-332.jar returned status 404
+main-333			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/echo/echo-bom/main-333/echo-bom-main-333.jar returned status 404
