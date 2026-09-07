@@ -690,3 +690,7 @@
 20260814	named	org.json	json	2026-08-14T16:19:18Z	20260814
 1.0.0-alpha.27	named	org.test-charm	bean-util	2026-08-17T02:44:48Z	20251224
 2.2.2	named	com.guicedee.modules.services	json	2026-08-17T22:53:21Z	2.2.2
+1.6.0	named	com.github.karsaig	approvalcrest	2026-09-06T02:15:21Z	20240303
+1.6.0	named	com.github.karsaig	approvalcrest-junit-jupiter-kotlin	2026-09-06T02:15:21Z	20240303
+1.6.0	named	com.github.karsaig	approvalcrest-testng	2026-09-06T02:15:22Z	20240303
+1.6.0	named	com.github.karsaig	approvalcrest-junit-jupiter	2026-09-06T02:15:23Z	20240303
