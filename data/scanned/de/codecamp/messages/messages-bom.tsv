@@ -7,3 +7,4 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecamp/messages/messages-bom/2.1.0/messages-bom-2.1.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecamp/messages/messages-bom/2.2.0/messages-bom-2.2.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecamp/messages/messages-bom/3.0.0/messages-bom-3.0.0.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecamp/messages/messages-bom/3.1.0/messages-bom-3.1.0.jar returned status 404

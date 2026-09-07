@@ -4,3 +4,6 @@
 0.1.2	metadata	2026-08-18T13:10:52Z	
 0.1.3		2026-08-31T06:14:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flabbergast/wandkit/ui-compose-iosarm64/0.1.3/ui-compose-iosarm64-0.1.3.jar returned status 404
 0.1.3	metadata	2026-08-31T06:14:42Z	
+0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flabbergast/wandkit/ui-compose-iosarm64/0.1.4/ui-compose-iosarm64-0.1.4.jar returned status 404
+0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flabbergast/wandkit/ui-compose-iosarm64/0.1.5/ui-compose-iosarm64-0.1.5.jar returned status 404
+0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flabbergast/wandkit/ui-compose-iosarm64/0.1.6/ui-compose-iosarm64-0.1.6.jar returned status 404
