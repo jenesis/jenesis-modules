@@ -1,1 +1,41 @@
+2.0.0-RC2	automatic	org.tinylog	tinylog1.3-api	2019-07-16T19:57:44Z	
+2.0.0	automatic	org.tinylog	tinylog1.3-api	2019-08-20T21:34:59Z	
+2.0.1	automatic	org.tinylog	tinylog1.3-api	2019-11-30T15:00:49Z	
+2.1.0-RC1	automatic	org.tinylog	tinylog1.3-api	2020-01-11T13:01:33Z	
+2.1.0-RC2	automatic	org.tinylog	tinylog1.3-api	2020-02-03T21:42:17Z	
+2.1.0-RC3	automatic	org.tinylog	tinylog1.3-api	2020-02-18T21:03:00Z	
+2.1.0	automatic	org.tinylog	tinylog1.3-api	2020-03-10T19:47:57Z	
+2.1.1	automatic	org.tinylog	tinylog1.3-api	2020-03-24T20:19:55Z	
+2.1.2	automatic	org.tinylog	tinylog1.3-api	2020-05-06T07:37:31Z	
+2.2.0-M1	named	org.tinylog	tinylog1.3-api	2020-06-23T19:20:36Z	2.2.0-M1
+2.2.0-M2	named	org.tinylog	tinylog1.3-api	2020-08-02T20:25:30Z	2.2.0-M2
+2.2.0-M3	named	org.tinylog	tinylog1.3-api	2020-08-24T21:12:43Z	2.2.0-M3
+2.2.0-M4	named	org.tinylog	tinylog1.3-api	2020-09-01T21:45:49Z	2.2.0-M4
+2.2.0-RC1	named	org.tinylog	tinylog1.3-api	2020-09-11T11:12:55Z	2.2.0-RC1
+2.2.0	named	org.tinylog	tinylog1.3-api	2020-10-26T20:43:39Z	2.2.0
+2.2.1	named	org.tinylog	tinylog1.3-api	2020-12-03T20:11:33Z	2.2.1
+2.3.0-M1	named	org.tinylog	tinylog1.3-api	2021-02-02T20:01:56Z	2.3.0-M1
+2.3.0-M2	named	org.tinylog	tinylog1.3-api	2021-03-19T01:06:39Z	2.3.0-M2
+2.3.0	named	org.tinylog	tinylog1.3-api	2021-04-18T08:11:38Z	2.3.0
+2.4.0-M1	named	org.tinylog	tinylog1.3-api	2021-04-23T20:02:07Z	2.4.0-M1
+2.3.1	named	org.tinylog	tinylog1.3-api	2021-04-30T18:59:59Z	2.3.1
+2.3.2	named	org.tinylog	tinylog1.3-api	2021-06-06T12:12:16Z	2.3.2
+2.4.0-M2	named	org.tinylog	tinylog1.3-api	2021-10-30T16:31:20Z	2.4.0-M2
+2.4.0	named	org.tinylog	tinylog1.3-api	2021-12-06T19:44:36Z	2.4.0
+2.4.1	named	org.tinylog	tinylog1.3-api	2021-12-10T18:20:58Z	2.4.1
+2.5.0-M1	named	org.tinylog	tinylog1.3-api	2022-02-26T20:51:39Z	2.5.0-M1
+2.5.0-M1.1	named	org.tinylog	tinylog1.3-api	2022-03-07T21:02:39Z	2.5.0-M1.1
+2.5.0-M2	named	org.tinylog	tinylog1.3-api	2022-05-25T18:57:15Z	2.5.0-M2
+2.5.0-M2.1	named	org.tinylog	tinylog1.3-api	2022-06-25T06:56:06Z	2.5.0-M2.1
+2.5.0	named	org.tinylog	tinylog1.3-api	2022-08-16T19:16:06Z	2.5.0
+2.6.0-M1	named	org.tinylog	tinylog1.3-api	2022-10-09T10:17:39Z	2.6.0-M1
+2.6.0-M2	named	org.tinylog	tinylog1.3-api	2022-11-26T07:11:02Z	2.6.0-M2
+2.6.0	named	org.tinylog	tinylog1.3-api	2023-01-23T20:13:06Z	2.6.0
+2.6.1	named	org.tinylog	tinylog1.3-api	2023-03-09T20:32:46Z	2.6.1
+2.6.2	named	org.tinylog	tinylog1.3-api	2023-05-13T10:41:26Z	2.6.2
+2.7.0-M1	named	org.tinylog	tinylog1.3-api	2023-11-17T20:50:56Z	2.7.0-M1
+2.7.0-M2	named	org.tinylog	tinylog1.3-api	2023-12-30T10:19:51Z	2.7.0-M2
+2.7.0-M3	named	org.tinylog	tinylog1.3-api	2024-01-09T19:45:10Z	2.7.0-M3
+2.7.0	named	org.tinylog	tinylog1.3-api	2024-01-31T20:26:41Z	2.7.0
+2.8.0-M1	named	org.tinylog	tinylog1.3-api	2024-04-27T06:17:21Z	2.8.0-M1
 2.8.0-M2	named	org.tinylog	tinylog1.3-api	2026-08-09T21:14:30Z	2.8.0-M2
