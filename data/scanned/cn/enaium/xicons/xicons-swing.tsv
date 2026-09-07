@@ -8,3 +8,4 @@
 1.0.0	ionicons5	2025-08-14T15:28:48Z	
 1.0.0	material	2025-08-14T15:28:48Z	
 1.0.0	tabler	2025-08-14T15:28:48Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/xicons/xicons-swing/1.0.1/xicons-swing-1.0.1.jar returned status 404

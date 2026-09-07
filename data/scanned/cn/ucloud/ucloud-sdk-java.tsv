@@ -122,3 +122,6 @@
 1.2.91-release		2026-08-27T10:21:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ucloud/ucloud-sdk-java/1.2.91-release/ucloud-sdk-java-1.2.91-release.jar returned status 404
 1.2.92-release		2026-08-28T10:35:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ucloud/ucloud-sdk-java/1.2.92-release/ucloud-sdk-java-1.2.92-release.jar returned status 404
 1.2.93-release		2026-09-01T10:10:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ucloud/ucloud-sdk-java/1.2.93-release/ucloud-sdk-java-1.2.93-release.jar returned status 404
+1.2.94-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ucloud/ucloud-sdk-java/1.2.94-release/ucloud-sdk-java-1.2.94-release.jar returned status 404
+1.2.95-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ucloud/ucloud-sdk-java/1.2.95-release/ucloud-sdk-java-1.2.95-release.jar returned status 404
+1.2.96-release			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ucloud/ucloud-sdk-java/1.2.96-release/ucloud-sdk-java-1.2.96-release.jar returned status 404

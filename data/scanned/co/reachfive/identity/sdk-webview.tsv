@@ -1,6 +1,7 @@
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-webview/10.0.0/sdk-webview-10.0.0.jar returned status 404
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-webview/10.1.0/sdk-webview-10.1.0.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-webview/11.0.0/sdk-webview-11.0.0.jar returned status 404
+11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-webview/11.1.0/sdk-webview-11.1.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-webview/6.2.1/sdk-webview-6.2.1.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-webview/7.0.0/sdk-webview-7.0.0.jar returned status 404
 7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-webview/7.0.1/sdk-webview-7.0.1.jar returned status 404

@@ -3,3 +3,4 @@
 2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/user/liquibase/2.2.5/liquibase-2.2.5.jar returned status 404
 2.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/user/liquibase/2.2.6/liquibase-2.2.6.jar returned status 404
 2.3.0		2025-07-17T12:21:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/user/liquibase/2.3.0/liquibase-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fish/focus/uvms/user/liquibase/2.3.1/liquibase-2.3.1.jar returned status 404

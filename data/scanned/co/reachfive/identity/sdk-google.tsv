@@ -1,6 +1,7 @@
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-google/10.0.0/sdk-google-10.0.0.jar returned status 404
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-google/10.1.0/sdk-google-10.1.0.jar returned status 404
 11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-google/11.0.0/sdk-google-11.0.0.jar returned status 404
+11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-google/11.1.0/sdk-google-11.1.0.jar returned status 404
 6.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-google/6.2.1/sdk-google-6.2.1.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-google/7.0.0/sdk-google-7.0.0.jar returned status 404
 7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/reachfive/identity/sdk-google/7.0.1/sdk-google-7.0.1.jar returned status 404
