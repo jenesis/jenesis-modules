@@ -1253,3 +1253,7 @@ v0.24.1	named	io.kestra	kestra-api-client	2025-10-03T07:53:57Z	2.17.1
 0.8.0-beta.1	named	org.lance	lance-spark-bundle-3.5_2.13	2026-08-22T01:33:18Z	2.17.1
 0.8.0-beta.1	named	org.lance	lance-spark-bundle-4.2_2.13	2026-08-22T01:33:18Z	2.17.1
 0.8.0-beta.1	named	org.lance	lance-spark-bundle-4.1_2.13	2026-08-22T01:33:19Z	2.17.1
+0.22.0	named	ru.moysklad.api	remap-1.2-java-sdk	2026-09-01T01:55:12Z	2.21.1
+0.21.0	named	ru.moysklad.api	remap-1.2-java-sdk	2026-09-01T01:55:12Z	2.21.1
+0.26.0	named	ru.moysklad.api	remap-1.2-java-sdk	2026-09-02T01:55:58Z	2.21.1
+0.24.0	named	ru.moysklad.api	remap-1.2-java-sdk	2026-09-02T01:56:00Z	2.21.1
