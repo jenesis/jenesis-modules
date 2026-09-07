@@ -23,3 +23,4 @@
 3.39.0		2026-08-19T09:59:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-reactive-transactions-parent/3.39.0/quarkus-reactive-transactions-parent-3.39.0.jar returned status 404
 3.39.0.CR1		2026-08-12T10:44:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-reactive-transactions-parent/3.39.0.CR1/quarkus-reactive-transactions-parent-3.39.0.CR1.jar returned status 404
 3.39.1		2026-08-26T11:40:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-reactive-transactions-parent/3.39.1/quarkus-reactive-transactions-parent-3.39.1.jar returned status 404
+3.39.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-reactive-transactions-parent/3.39.2/quarkus-reactive-transactions-parent-3.39.2.jar returned status 404

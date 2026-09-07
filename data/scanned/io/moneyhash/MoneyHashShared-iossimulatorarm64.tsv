@@ -42,6 +42,7 @@
 1c93fac	metadata	2024-11-18T06:42:01Z	
 1d39e26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/1d39e26/MoneyHashShared-iossimulatorarm64-1d39e26.jar returned status 404
 1d39e26	metadata	2026-07-27T15:17:41Z	
+1eb5add			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/1eb5add/MoneyHashShared-iossimulatorarm64-1eb5add.jar returned status 404
 1f2fcae			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/1f2fcae/MoneyHashShared-iossimulatorarm64-1f2fcae.jar returned status 404
 1f2fcae	metadata	2025-09-16T17:47:15Z	
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/2.0.4/MoneyHashShared-iossimulatorarm64-2.0.4.jar returned status 404
@@ -98,6 +99,7 @@
 4100cdf	metadata	2024-10-14T10:14:46Z	
 472403c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/472403c/MoneyHashShared-iossimulatorarm64-472403c.jar returned status 404
 472403c	metadata	2024-09-24T14:35:19Z	
+47e84e1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/47e84e1/MoneyHashShared-iossimulatorarm64-47e84e1.jar returned status 404
 48d001b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/48d001b/MoneyHashShared-iossimulatorarm64-48d001b.jar returned status 404
 48d001b	metadata	2026-08-03T12:21:04Z	
 4dda063			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/4dda063/MoneyHashShared-iossimulatorarm64-4dda063.jar returned status 404
@@ -206,6 +208,7 @@ ac37d9a			IOException: Tail request on https://maven-central.storage-download.go
 ac37d9a	metadata	2024-11-24T13:40:08Z	
 adc5b67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/adc5b67/MoneyHashShared-iossimulatorarm64-adc5b67.jar returned status 404
 adc5b67	metadata	2024-11-14T15:13:43Z	
+adefe8f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/adefe8f/MoneyHashShared-iossimulatorarm64-adefe8f.jar returned status 404
 aee4e3f		2026-06-25T19:50:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/aee4e3f/MoneyHashShared-iossimulatorarm64-aee4e3f.jar returned status 404
 aee4e3f	metadata	2026-06-25T19:50:46Z	
 b032e2c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/b032e2c/MoneyHashShared-iossimulatorarm64-b032e2c.jar returned status 404
@@ -262,6 +265,7 @@ ef497f8			IOException: Tail request on https://maven-central.storage-download.go
 ef497f8	metadata	2025-07-27T13:18:32Z	
 f43d851			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/f43d851/MoneyHashShared-iossimulatorarm64-f43d851.jar returned status 404
 f43d851	metadata	2024-09-18T13:27:56Z	
+f5a9a2f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/f5a9a2f/MoneyHashShared-iossimulatorarm64-f5a9a2f.jar returned status 404
 f72a2ca			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/f72a2ca/MoneyHashShared-iossimulatorarm64-f72a2ca.jar returned status 404
 f72a2ca	metadata	2025-01-19T12:50:56Z	
 fa8856e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-iossimulatorarm64/fa8856e/MoneyHashShared-iossimulatorarm64-fa8856e.jar returned status 404
