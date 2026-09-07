@@ -219,6 +219,7 @@
 6.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.24.0/cdm-parent-6.24.0.jar returned status 404
 6.25.0		2026-08-21T11:07:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.25.0/cdm-parent-6.25.0.jar returned status 404
 6.26.0		2026-08-28T16:25:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.26.0/cdm-parent-6.26.0.jar returned status 404
+6.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.27.0/cdm-parent-6.27.0.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.3.0/cdm-parent-6.3.0.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.4.0/cdm-parent-6.4.0.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.5.0/cdm-parent-6.5.0.jar returned status 404

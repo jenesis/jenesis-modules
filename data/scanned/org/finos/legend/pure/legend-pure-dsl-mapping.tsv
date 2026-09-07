@@ -149,3 +149,5 @@
 5.96.0		2026-08-18T02:26:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-mapping/5.96.0/legend-pure-dsl-mapping-5.96.0.jar returned status 404
 5.97.0		2026-08-27T22:32:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-mapping/5.97.0/legend-pure-dsl-mapping-5.97.0.jar returned status 404
 5.97.1		2026-08-28T13:38:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-mapping/5.97.1/legend-pure-dsl-mapping-5.97.1.jar returned status 404
+5.97.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-mapping/5.97.2/legend-pure-dsl-mapping-5.97.2.jar returned status 404
+5.98.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/pure/legend-pure-dsl-mapping/5.98.0/legend-pure-dsl-mapping-5.98.0.jar returned status 404

@@ -1283,7 +1283,13 @@
 3.32.2.rc3	named	org.conductoross	conductor-os-persistence-v3	2026-08-27T20:00:48Z	2.4
 3.1.214	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-08-28T03:27:58Z	2.3
 2.7	named	org.yaml	snakeyaml	2026-08-31T02:05:05Z	2.7
+3.32.0-rc.29	named	org.conductoross	conductor-os-persistence-v3	2026-09-01T02:20:39Z	2.4
+3.32.0-rc.29	named	org.conductoross	conductor-os-persistence-v2	2026-09-01T02:20:40Z	2.4
 4.5.33	named	io.vertx	vertx-web-api-contract	2026-09-02T01:59:52Z	2.0
+3.32.2.rc5	named	org.conductoross	conductor-os-persistence-v2	2026-09-03T04:08:13Z	2.4
+3.32.0-rc.30	named	org.conductoross	conductor-os-persistence-v3	2026-09-03T04:08:14Z	2.4
+3.32.0-rc.30	named	org.conductoross	conductor-os-persistence-v2	2026-09-03T04:08:15Z	2.4
+3.32.2.rc5	named	org.conductoross	conductor-os-persistence-v3	2026-09-03T04:12:23Z	2.4
 3.1.215	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-09-04T02:21:53Z	2.3
 1.0.1	named	com.deftdevs	bootstrapi-jira-plugin	2026-09-04T02:27:33Z	2.2
 1.0.1	named	com.deftdevs	bootstrapi-crowd-plugin	2026-09-04T02:27:34Z	2.0

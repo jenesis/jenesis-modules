@@ -102,7 +102,9 @@
 4.140.0		2026-08-17T13:53:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xts-tds/4.140.0/legend-engine-xts-tds-4.140.0.jar returned status 404
 4.140.1		2026-08-20T08:38:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xts-tds/4.140.1/legend-engine-xts-tds-4.140.1.jar returned status 404
 4.140.2		2026-08-24T19:32:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xts-tds/4.140.2/legend-engine-xts-tds-4.140.2.jar returned status 404
+4.140.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xts-tds/4.140.3/legend-engine-xts-tds-4.140.3.jar returned status 404
 4.141.0		2026-08-20T20:34:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xts-tds/4.141.0/legend-engine-xts-tds-4.141.0.jar returned status 404
+4.143.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xts-tds/4.143.0/legend-engine-xts-tds-4.143.0.jar returned status 404
 4.95.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xts-tds/4.95.0/legend-engine-xts-tds-4.95.0.jar returned status 404
 4.95.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xts-tds/4.95.1/legend-engine-xts-tds-4.95.1.jar returned status 404
 4.96.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xts-tds/4.96.0/legend-engine-xts-tds-4.96.0.jar returned status 404
