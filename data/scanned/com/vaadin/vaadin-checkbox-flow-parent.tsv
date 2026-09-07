@@ -554,6 +554,8 @@
 25.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-checkbox-flow-parent/25.2.4/vaadin-checkbox-flow-parent-25.2.4.jar returned status 404
 25.2.5		2026-08-03T08:43:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-checkbox-flow-parent/25.2.5/vaadin-checkbox-flow-parent-25.2.5.jar returned status 404
 25.2.6		2026-08-10T06:28:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-checkbox-flow-parent/25.2.6/vaadin-checkbox-flow-parent-25.2.6.jar returned status 404
+25.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-checkbox-flow-parent/25.2.7/vaadin-checkbox-flow-parent-25.2.7.jar returned status 404
+25.3.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-checkbox-flow-parent/25.3.0-beta1/vaadin-checkbox-flow-parent-25.3.0-beta1.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-checkbox-flow-parent/3.0.0/vaadin-checkbox-flow-parent-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-checkbox-flow-parent/3.0.1/vaadin-checkbox-flow-parent-3.0.1.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-checkbox-flow-parent/3.1.0/vaadin-checkbox-flow-parent-3.1.0.jar returned status 404

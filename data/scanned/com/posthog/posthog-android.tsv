@@ -178,6 +178,7 @@
 3.60.7		2026-08-24T15:08:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.7/posthog-android-3.60.7.jar returned status 404
 3.60.8		2026-08-27T14:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.60.8/posthog-android-3.60.8.jar returned status 404
 3.61.0		2026-08-28T06:47:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.61.0/posthog-android-3.61.0.jar returned status 404
+3.61.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.61.1/posthog-android-3.61.1.jar returned status 404
 3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.7.0/posthog-android-3.7.0.jar returned status 404
 3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.7.1/posthog-android-3.7.1.jar returned status 404
 3.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/posthog/posthog-android/3.7.2/posthog-android-3.7.2.jar returned status 404
