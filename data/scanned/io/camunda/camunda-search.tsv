@@ -10,6 +10,10 @@
 8.10.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.10.0-alpha4/camunda-search-8.10.0-alpha4.jar returned status 404
 8.10.0-alpha4-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.10.0-alpha4-rc1/camunda-search-8.10.0-alpha4-rc1.jar returned status 404
 8.10.0-alpha4-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.10.0-alpha4-rc2/camunda-search-8.10.0-alpha4-rc2.jar returned status 404
+8.10.0-alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.10.0-alpha5/camunda-search-8.10.0-alpha5.jar returned status 404
+8.10.0-alpha5-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.10.0-alpha5-rc1/camunda-search-8.10.0-alpha5-rc1.jar returned status 404
+8.10.0-alpha5-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.10.0-alpha5-rc2/camunda-search-8.10.0-alpha5-rc2.jar returned status 404
+8.10.0-alpha5-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.10.0-alpha5-rc3/camunda-search-8.10.0-alpha5-rc3.jar returned status 404
 8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.6.0/camunda-search-8.6.0.jar returned status 404
 8.6.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.6.0-alpha3/camunda-search-8.6.0-alpha3.jar returned status 404
 8.6.0-alpha3-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.6.0-alpha3-rc3/camunda-search-8.6.0-alpha3-rc3.jar returned status 404
@@ -126,6 +130,7 @@
 8.7.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.7.35/camunda-search-8.7.35.jar returned status 404
 8.7.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.7.36/camunda-search-8.7.36.jar returned status 404
 8.7.37		2026-08-14T08:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.7.37/camunda-search-8.7.37.jar returned status 404
+8.7.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.7.38/camunda-search-8.7.38.jar returned status 404
 8.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.7.4/camunda-search-8.7.4.jar returned status 404
 8.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.7.5/camunda-search-8.7.5.jar returned status 404
 8.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.7.6/camunda-search-8.7.6.jar returned status 404
@@ -190,6 +195,9 @@
 8.8.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.8.32/camunda-search-8.8.32.jar returned status 404
 8.8.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.8.33/camunda-search-8.8.33.jar returned status 404
 8.8.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.8.34/camunda-search-8.8.34.jar returned status 404
+8.8.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.8.35/camunda-search-8.8.35.jar returned status 404
+8.8.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.8.36/camunda-search-8.8.36.jar returned status 404
+8.8.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.8.37/camunda-search-8.8.37.jar returned status 404
 8.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.8.4/camunda-search-8.8.4.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.8.5/camunda-search-8.8.5.jar returned status 404
 8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.8.6/camunda-search-8.8.6.jar returned status 404
@@ -221,6 +229,11 @@
 8.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.12/camunda-search-8.9.12.jar returned status 404
 8.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.13/camunda-search-8.9.13.jar returned status 404
 8.9.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.14/camunda-search-8.9.14.jar returned status 404
+8.9.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.15/camunda-search-8.9.15.jar returned status 404
+8.9.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.16/camunda-search-8.9.16.jar returned status 404
+8.9.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.17/camunda-search-8.9.17.jar returned status 404
+8.9.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.18/camunda-search-8.9.18.jar returned status 404
+8.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.19/camunda-search-8.9.19.jar returned status 404
 8.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.2/camunda-search-8.9.2.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.3/camunda-search-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-search/8.9.4/camunda-search-8.9.4.jar returned status 404

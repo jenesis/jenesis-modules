@@ -2083,3 +2083,7 @@ io.micronaut.openapi.micronaut_openapi_common
 io.micronaut.openapi.micronaut_openapi
 io.micronaut.openapi.micronaut_openapi_adoc
 io.micronaut.openapi.micronaut_openapi_generator
+io.avaje.oauth2.helidon.jwtfilter
+io.avaje.oauth2.jex.jwtfilter
+io.avaje.webview
+io.avaje.oauth2.core
