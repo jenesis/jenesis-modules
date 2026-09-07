@@ -16,3 +16,5 @@
 1.1.0-s2		2026-08-17T04:12:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/open-ground/open-ground-common/1.1.0-s2/open-ground-common-1.1.0-s2.jar returned status 404
 1.1.1		2026-08-24T03:58:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/open-ground/open-ground-common/1.1.1/open-ground-common-1.1.1.jar returned status 404
 1.1.1-s2		2026-08-24T04:18:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/open-ground/open-ground-common/1.1.1-s2/open-ground-common-1.1.1-s2.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/open-ground/open-ground-common/1.1.2/open-ground-common-1.1.2.jar returned status 404
+1.1.2-s2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/open-ground/open-ground-common/1.1.2-s2/open-ground-common-1.1.2-s2.jar returned status 404

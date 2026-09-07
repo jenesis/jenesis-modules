@@ -8,3 +8,4 @@
 0.4.0	metadata	2026-08-24T21:59:31Z	
 0.5.0		2026-08-29T09:52:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mgilbir/astervega/vega-svg-iossimulatorarm64/0.5.0/vega-svg-iossimulatorarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-08-29T09:52:17Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mgilbir/astervega/vega-svg-iossimulatorarm64/0.6.0/vega-svg-iossimulatorarm64-0.6.0.jar returned status 404
