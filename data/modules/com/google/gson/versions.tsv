@@ -5138,6 +5138,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.29.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-01T01:58:33Z	2.11.0
 2.12.1	named	hu.icellmobilsoft.coffee	coffee-grpc-protoc	2026-09-02T01:51:49Z	2.10
 2.13.1	named	hu.icellmobilsoft.coffee	coffee-grpc-protoc	2026-09-02T01:51:51Z	2.10
+8.23.0.2254	named	org.sonarsource.java	sonar-java-symbolic-execution-plugin	2026-09-02T02:11:26Z	2.11.0
 0.32.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-03T01:57:07Z	2.11.0
 0.32.1	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-03T01:57:08Z	2.11.0
 1.0.0	named	io.lakefs	hadoop-lakefs-enterprise-assembly	2026-09-03T02:25:06Z	2.9.1

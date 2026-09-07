@@ -1,1 +1,15 @@
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/2.3.0/jupnp-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/2.4.0/jupnp-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/2.5.0/jupnp-2.5.0.jar returned status 404
+2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/2.5.1/jupnp-2.5.1.jar returned status 404
+2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/2.5.2/jupnp-2.5.2.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/2.6.0/jupnp-2.6.0.jar returned status 404
+2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/2.6.1/jupnp-2.6.1.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/2.7.0/jupnp-2.7.0.jar returned status 404
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/2.7.1/jupnp-2.7.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/3.0.0/jupnp-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/3.0.1/jupnp-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/3.0.2/jupnp-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/3.0.3/jupnp-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/3.0.4/jupnp-3.0.4.jar returned status 404
 3.0.5		2026-08-12T14:37:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jupnp/jupnp/3.0.5/jupnp-3.0.5.jar returned status 404

@@ -4,6 +4,7 @@
 1.10.0-RC	metadata	2025-12-19T13:22:58Z	
 1.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-cbor-watchosdevicearm64/1.11.0/kotlinx-serialization-cbor-watchosdevicearm64-1.11.0.jar returned status 404
 1.11.0	metadata	2026-04-09T17:48:02Z	
+1.12.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-cbor-watchosdevicearm64/1.12.0-RC/kotlinx-serialization-cbor-watchosdevicearm64-1.12.0-RC.jar returned status 404
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-cbor-watchosdevicearm64/1.5.1/kotlinx-serialization-cbor-watchosdevicearm64-1.5.1.jar returned status 404
 1.5.1	metadata	2023-05-11T12:25:49Z	
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlinx/kotlinx-serialization-cbor-watchosdevicearm64/1.6.0/kotlinx-serialization-cbor-watchosdevicearm64-1.6.0.jar returned status 404

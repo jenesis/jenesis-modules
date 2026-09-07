@@ -152,4 +152,6 @@
 5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-ogm/5.0.5/neo4j-ogm-5.0.5.jar returned status 404
 5.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-ogm/5.0.6/neo4j-ogm-5.0.6.jar returned status 404
 5.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-ogm/5.0.7/neo4j-ogm-5.0.7.jar returned status 404
+5.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-ogm/5.0.8/neo4j-ogm-5.0.8.jar returned status 404
+5.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-ogm/5.0.9/neo4j-ogm-5.0.9.jar returned status 404
 v3.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-ogm/v3.2.13/neo4j-ogm-v3.2.13.jar returned status 404
