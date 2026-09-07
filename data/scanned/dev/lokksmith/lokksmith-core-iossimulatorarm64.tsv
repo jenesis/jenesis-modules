@@ -84,3 +84,4 @@
 2.0.0	metadata	2026-08-21T07:24:52Z	
 2.1.0		2026-08-25T14:39:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lokksmith/lokksmith-core-iossimulatorarm64/2.1.0/lokksmith-core-iossimulatorarm64-2.1.0.jar returned status 404
 2.1.0	metadata	2026-08-25T14:39:47Z	
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lokksmith/lokksmith-core-iossimulatorarm64/2.1.1/lokksmith-core-iossimulatorarm64-2.1.1.jar returned status 404

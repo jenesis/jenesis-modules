@@ -1,1 +1,5 @@
 0.15.1		2026-08-26T02:01:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tnsai/tnsai-parent/0.15.1/tnsai-parent-0.15.1.jar returned status 404
+0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tnsai/tnsai-parent/0.16.0/tnsai-parent-0.16.0.jar returned status 404
+0.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tnsai/tnsai-parent/0.16.1/tnsai-parent-0.16.1.jar returned status 404
+0.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tnsai/tnsai-parent/0.16.2/tnsai-parent-0.16.2.jar returned status 404
+0.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tnsai/tnsai-parent/0.16.3/tnsai-parent-0.16.3.jar returned status 404

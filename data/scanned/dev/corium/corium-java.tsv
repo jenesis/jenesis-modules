@@ -9,3 +9,4 @@
 0.1.87		2026-08-27T21:39:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/corium/corium-java/0.1.87/corium-java-0.1.87.jar returned status 404
 0.1.88		2026-08-29T13:15:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/corium/corium-java/0.1.88/corium-java-0.1.88.jar returned status 404
 0.1.89		2026-08-30T12:51:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/corium/corium-java/0.1.89/corium-java-0.1.89.jar returned status 404
+0.1.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/corium/corium-java/0.1.90/corium-java-0.1.90.jar returned status 404
