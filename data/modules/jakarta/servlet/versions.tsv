@@ -216,3 +216,5 @@
 11.0.24	named	org.apache.tomcat	tomcat-servlet-api	2026-07-09T02:37:13Z	6.1
 11.0.25	named	org.apache.tomcat	tomcat-servlet-api	2026-08-12T13:24:46Z	6.1
 10.1.59	named	org.apache.tomcat	tomcat-servlet-api	2026-08-13T17:07:15Z	6.0
+4.1.4	named	org.apache.myfaces.core	myfaces-bundle	2026-09-05T02:18:05Z	6.1
+4.0.4	named	org.apache.myfaces.core	myfaces-bundle	2026-09-05T02:18:25Z	6.0

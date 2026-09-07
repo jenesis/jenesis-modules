@@ -5,3 +5,5 @@
 2.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jspwiki/jspwiki-bom/2.12.2/jspwiki-bom-2.12.2.jar returned status 404
 2.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jspwiki/jspwiki-bom/2.12.3/jspwiki-bom-2.12.3.jar returned status 404
 2.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jspwiki/jspwiki-bom/2.12.4/jspwiki-bom-2.12.4.jar returned status 404
+2.12.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jspwiki/jspwiki-bom/2.12.5/jspwiki-bom-2.12.5.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jspwiki/jspwiki-bom/3.0.0/jspwiki-bom-3.0.0.jar returned status 404

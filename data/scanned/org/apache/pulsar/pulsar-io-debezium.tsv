@@ -86,6 +86,7 @@
 4.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.0.10/pulsar-io-debezium-4.0.10.jar returned status 404
 4.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.0.11/pulsar-io-debezium-4.0.11.jar returned status 404
 4.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.0.12/pulsar-io-debezium-4.0.12.jar returned status 404
+4.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.0.13/pulsar-io-debezium-4.0.13.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.0.2/pulsar-io-debezium-4.0.2.jar returned status 404
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.0.3/pulsar-io-debezium-4.0.3.jar returned status 404
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.0.4/pulsar-io-debezium-4.0.4.jar returned status 404
@@ -102,3 +103,4 @@
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.2.1/pulsar-io-debezium-4.2.1.jar returned status 404
 4.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.2.2/pulsar-io-debezium-4.2.2.jar returned status 404
 4.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.2.3/pulsar-io-debezium-4.2.3.jar returned status 404
+4.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/pulsar/pulsar-io-debezium/4.2.4/pulsar-io-debezium-4.2.4.jar returned status 404

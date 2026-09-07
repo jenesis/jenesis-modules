@@ -78,6 +78,7 @@
 1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/1.13.2/openmetadata-dist-1.13.2.jar returned status 404
 1.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/1.13.3/openmetadata-dist-1.13.3.jar returned status 404
 1.13.4		2026-08-21T07:16:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/1.13.4/openmetadata-dist-1.13.4.jar returned status 404
+1.13.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/1.13.5/openmetadata-dist-1.13.5.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/1.2.0/openmetadata-dist-1.2.0.jar returned status 404
 1.2.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/1.2.0-beta/openmetadata-dist-1.2.0-beta.jar returned status 404
 1.2.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/1.2.0-beta1/openmetadata-dist-1.2.0-beta1.jar returned status 404
@@ -194,4 +195,5 @@
 2.0.0		2026-08-24T05:46:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/2.0.0/openmetadata-dist-2.0.0.jar returned status 404
 2.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/2.0.0-rc1/openmetadata-dist-2.0.0-rc1.jar returned status 404
 2.0.0-rc2		2026-08-13T08:29:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/2.0.0-rc2/openmetadata-dist-2.0.0-rc2.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/2.0.1/openmetadata-dist-2.0.1.jar returned status 404
 DEMO_BETA1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/DEMO_BETA1/openmetadata-dist-DEMO_BETA1.jar returned status 404

@@ -318,3 +318,4 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/oak-parent/2.0.0/oak-parent-2.0.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/oak-parent/2.2.0/oak-parent-2.2.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/oak-parent/2.4.0/oak-parent-2.4.0.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/oak-parent/2.6.0/oak-parent-2.6.0.jar returned status 404

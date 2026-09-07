@@ -167,6 +167,7 @@
 2.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/jackrabbit-parent/2.22.1/jackrabbit-parent-2.22.1.jar returned status 404
 2.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/jackrabbit-parent/2.22.2/jackrabbit-parent-2.22.2.jar returned status 404
 2.22.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/jackrabbit-parent/2.22.3/jackrabbit-parent-2.22.3.jar returned status 404
+2.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/jackrabbit-parent/2.22.4/jackrabbit-parent-2.22.4.jar returned status 404
 2.23.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/jackrabbit-parent/2.23.0-beta/jackrabbit-parent-2.23.0-beta.jar returned status 404
 2.23.1-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/jackrabbit-parent/2.23.1-beta/jackrabbit-parent-2.23.1-beta.jar returned status 404
 2.23.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jackrabbit/jackrabbit-parent/2.23.2-beta/jackrabbit-parent-2.23.2-beta.jar returned status 404

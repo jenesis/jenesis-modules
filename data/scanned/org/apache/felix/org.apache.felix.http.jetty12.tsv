@@ -110,6 +110,7 @@
 1.2.4	light	2026-07-22T07:57:14Z	
 1.2.4	with-jakarta-websockets	2026-07-22T07:57:14Z	
 1.2.4	with-jetty-websockets	2026-07-22T07:57:14Z	
+1.2.6			
 2.0.0		2026-05-28T09:24:29Z	
 2.0.0	light	2026-05-28T09:24:29Z	
 2.0.0	with-jakarta-websockets	2026-05-28T09:24:29Z	
@@ -122,3 +123,4 @@
 2.0.4	light	2026-07-22T07:51:08Z	
 2.0.4	with-jakarta-websockets	2026-07-22T07:51:09Z	
 2.0.4	with-jetty-websockets	2026-07-22T07:51:09Z	
+2.0.6			
