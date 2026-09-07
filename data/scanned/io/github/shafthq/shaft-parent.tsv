@@ -39,3 +39,4 @@
 10.3.20260820		2026-08-20T21:30:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/shaft-parent/10.3.20260820/shaft-parent-10.3.20260820.jar returned status 404
 10.3.20260824		2026-08-24T17:42:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/shaft-parent/10.3.20260824/shaft-parent-10.3.20260824.jar returned status 404
 10.3.20260826		2026-08-26T11:39:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/shaft-parent/10.3.20260826/shaft-parent-10.3.20260826.jar returned status 404
+10.3.20260906			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafthq/shaft-parent/10.3.20260906/shaft-parent-10.3.20260906.jar returned status 404

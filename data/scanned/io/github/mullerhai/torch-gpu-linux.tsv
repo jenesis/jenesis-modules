@@ -1,2 +1,4 @@
 13.3-9.24-1.5.14-beta-08		2026-08-25T04:28:40Z	
 13.3-9.24-1.5.14-beta-08.1		2026-08-26T01:23:41Z	
+13.3-9.25-1.5.14-GA-1.0			
+13.3-9.25-1.5.14-GA-1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mullerhai/torch-gpu-linux/13.3-9.25-1.5.14-GA-1.10/torch-gpu-linux-13.3-9.25-1.5.14-GA-1.10.jar returned status 404

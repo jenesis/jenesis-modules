@@ -14,6 +14,7 @@
 0.0.114			
 0.0.115		2026-08-25T07:42:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tejasreerolla/sorting-algorithm/0.0.115/sorting-algorithm-0.0.115.jar returned status 404
 0.0.116		2026-08-25T09:12:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tejasreerolla/sorting-algorithm/0.0.116/sorting-algorithm-0.0.116.jar returned status 404
+0.0.118			
 0.0.2		2025-12-02T06:42:41Z	
 0.0.3		2025-12-19T11:53:19Z	
 0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tejasreerolla/sorting-algorithm/0.0.4/sorting-algorithm-0.0.4.jar returned status 404

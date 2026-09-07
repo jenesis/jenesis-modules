@@ -66,6 +66,7 @@
 0.2.14	metadata	2026-08-11T12:04:01Z	
 0.2.15		2026-08-15T11:19:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/soap-runtime-watchossimulatorarm64/0.2.15/soap-runtime-watchossimulatorarm64-0.2.15.jar returned status 404
 0.2.15	metadata	2026-08-15T11:19:17Z	
+0.2.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/soap-runtime-watchossimulatorarm64/0.2.16/soap-runtime-watchossimulatorarm64-0.2.16.jar returned status 404
 0.2.2		2026-01-25T18:04:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/soap-runtime-watchossimulatorarm64/0.2.2/soap-runtime-watchossimulatorarm64-0.2.2.jar returned status 404
 0.2.2	metadata	2026-01-25T18:04:39Z	
 0.2.3		2026-01-26T08:29:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hfhbd/kfx/soap-runtime-watchossimulatorarm64/0.2.3/soap-runtime-watchossimulatorarm64-0.2.3.jar returned status 404
