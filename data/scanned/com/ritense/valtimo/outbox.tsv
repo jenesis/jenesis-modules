@@ -136,6 +136,7 @@
 12.42.0.RELEASE	plain	2026-08-12T11:02:33Z	
 12.43.0.RELEASE		2026-08-19T09:59:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/12.43.0.RELEASE/outbox-12.43.0.RELEASE.jar returned status 404
 12.43.0.RELEASE	plain	2026-08-19T09:59:57Z	
+12.44.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/12.44.0.RELEASE/outbox-12.44.0.RELEASE.jar returned status 404
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/12.5.0.RELEASE/outbox-12.5.0.RELEASE.jar returned status 404
 12.5.0.RELEASE	plain	2024-11-22T16:00:19Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/12.5.1.RELEASE/outbox-12.5.1.RELEASE.jar returned status 404
@@ -262,6 +263,9 @@
 13.41.0-10	plain	2026-08-26T15:42:38Z	
 13.41.0-11		2026-08-28T15:27:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/13.41.0-11/outbox-13.41.0-11.jar returned status 404
 13.41.0-11	plain	2026-08-28T15:27:59Z	
+13.41.0-12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/13.41.0-12/outbox-13.41.0-12.jar returned status 404
+13.41.0-13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/13.41.0-13/outbox-13.41.0-13.jar returned status 404
+13.41.0-14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/13.41.0-14/outbox-13.41.0-14.jar returned status 404
 13.41.0-2		2026-08-19T11:45:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/13.41.0-2/outbox-13.41.0-2.jar returned status 404
 13.41.0-2	plain	2026-08-19T11:45:54Z	
 13.41.0-3		2026-08-20T10:17:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/13.41.0-3/outbox-13.41.0-3.jar returned status 404
@@ -284,6 +288,7 @@
 13.42.0.RELEASE	plain	2026-08-19T11:38:19Z	
 13.43.0.RELEASE		2026-08-26T09:59:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/13.43.0.RELEASE/outbox-13.43.0.RELEASE.jar returned status 404
 13.43.0.RELEASE	plain	2026-08-26T09:59:01Z	
+13.44.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/13.44.0.RELEASE/outbox-13.44.0.RELEASE.jar returned status 404
 13.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/13.5.0.RELEASE/outbox-13.5.0.RELEASE.jar returned status 404
 13.5.0.RELEASE	plain	2025-11-05T10:13:58Z	
 13.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/outbox/13.5.1.RELEASE/outbox-13.5.1.RELEASE.jar returned status 404
