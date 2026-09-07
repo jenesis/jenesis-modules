@@ -1,3 +1,10 @@
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/dvbern/oss/iso20022/iso20022-ch/4.3.0/iso20022-ch-4.3.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/dvbern/oss/iso20022/iso20022-ch/5.0.0/iso20022-ch-5.0.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/dvbern/oss/iso20022/iso20022-ch/6.0.0/iso20022-ch-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/dvbern/oss/iso20022/iso20022-ch/6.1.0/iso20022-ch-6.1.0.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/dvbern/oss/iso20022/iso20022-ch/6.1.1/iso20022-ch-6.1.1.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/dvbern/oss/iso20022/iso20022-ch/6.2.0/iso20022-ch-6.2.0.jar returned status 404
+7.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/dvbern/oss/iso20022/iso20022-ch/7.0.2/iso20022-ch-7.0.2.jar returned status 404
 8.0.2		2026-08-03T08:51:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/dvbern/oss/iso20022/iso20022-ch/8.0.2/iso20022-ch-8.0.2.jar returned status 404
 8.0.3		2026-08-03T09:30:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/dvbern/oss/iso20022/iso20022-ch/8.0.3/iso20022-ch-8.0.3.jar returned status 404
 9.0.0		2026-08-04T11:48:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/dvbern/oss/iso20022/iso20022-ch/9.0.0/iso20022-ch-9.0.0.jar returned status 404
