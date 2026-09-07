@@ -1074,6 +1074,7 @@
 0.28.5	named	org.dcache.nfs4j	basic-server	2026-08-19T06:23:12Z	4.7.4
 4.1.12	named	com.instaclustr	esop-core	2026-08-31T11:57:21Z	4.7.2
 4.1.12	named	com.instaclustr	esop-s3	2026-08-31T11:57:21Z	4.7.2
+26.7.3	named	org.keycloak	keycloak-admin-cli	2026-09-01T00:21:39Z	4.7.7
 15.0.18	named	org.primefaces	primefaces-cli	2026-09-04T00:29:16Z	4.7.6
 1.1.0	named	run.endive	build-time-compiler-cli-experimental	2026-09-04T01:54:08Z	4.7.7
 1.1.0	named	run.endive	cli-experimental	2026-09-04T01:54:11Z	4.7.7
