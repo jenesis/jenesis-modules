@@ -36,3 +36,8 @@
 0.15.48	metadata	2026-08-25T11:03:15Z	
 0.15.50		2026-08-28T10:43:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/syrou/reaktiv-test-iosarm64/0.15.50/reaktiv-test-iosarm64-0.15.50.jar returned status 404
 0.15.50	metadata	2026-08-28T10:43:32Z	
+0.15.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/syrou/reaktiv-test-iosarm64/0.15.52/reaktiv-test-iosarm64-0.15.52.jar returned status 404
+0.15.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/syrou/reaktiv-test-iosarm64/0.15.53/reaktiv-test-iosarm64-0.15.53.jar returned status 404
+0.15.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/syrou/reaktiv-test-iosarm64/0.15.54/reaktiv-test-iosarm64-0.15.54.jar returned status 404
+0.15.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/syrou/reaktiv-test-iosarm64/0.15.55/reaktiv-test-iosarm64-0.15.55.jar returned status 404
+0.15.56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/syrou/reaktiv-test-iosarm64/0.15.56/reaktiv-test-iosarm64-0.15.56.jar returned status 404
