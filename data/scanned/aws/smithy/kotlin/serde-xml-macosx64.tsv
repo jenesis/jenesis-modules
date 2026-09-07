@@ -70,5 +70,9 @@
 1.7.2	metadata	2026-07-08T19:14:41Z	
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/serde-xml-macosx64/1.7.3/serde-xml-macosx64-1.7.3.jar returned status 404
 1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/serde-xml-macosx64/1.7.4/serde-xml-macosx64-1.7.4.jar returned status 404
+1.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/serde-xml-macosx64/1.7.5/serde-xml-macosx64-1.7.5.jar returned status 404
+1.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/serde-xml-macosx64/1.7.6/serde-xml-macosx64-1.7.6.jar returned status 404
+1.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/serde-xml-macosx64/1.7.7/serde-xml-macosx64-1.7.7.jar returned status 404
 1.7.8		2026-08-18T16:43:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/serde-xml-macosx64/1.7.8/serde-xml-macosx64-1.7.8.jar returned status 404
 1.7.8	metadata	2026-08-18T16:43:41Z	
+1.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/serde-xml-macosx64/1.7.9/serde-xml-macosx64-1.7.9.jar returned status 404
