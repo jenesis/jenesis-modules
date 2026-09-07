@@ -60,6 +60,7 @@
 14.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/14.0.2/features-mdsal-experimental-14.0.2.jar returned status 404
 14.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/14.0.20/features-mdsal-experimental-14.0.20.jar returned status 404
 14.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/14.0.21/features-mdsal-experimental-14.0.21.jar returned status 404
+14.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/14.0.22/features-mdsal-experimental-14.0.22.jar returned status 404
 14.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/14.0.3/features-mdsal-experimental-14.0.3.jar returned status 404
 14.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/14.0.4/features-mdsal-experimental-14.0.4.jar returned status 404
 14.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/14.0.6/features-mdsal-experimental-14.0.6.jar returned status 404
@@ -79,6 +80,7 @@
 16.0.4		2026-08-16T13:24:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/16.0.4/features-mdsal-experimental-16.0.4.jar returned status 404
 16.0.5		2026-08-16T13:24:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/16.0.5/features-mdsal-experimental-16.0.5.jar returned status 404
 16.0.6		2026-08-23T16:07:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/16.0.6/features-mdsal-experimental-16.0.6.jar returned status 404
+17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/17.0.0/features-mdsal-experimental-17.0.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/3.0.0/features-mdsal-experimental-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/3.0.1/features-mdsal-experimental-3.0.1.jar returned status 404
 3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal-experimental/3.0.10/features-mdsal-experimental-3.0.10.jar returned status 404
