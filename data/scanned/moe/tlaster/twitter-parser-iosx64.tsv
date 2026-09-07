@@ -46,6 +46,8 @@
 0.4.2	metadata	2024-05-24T07:30:58Z	
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/moe/tlaster/twitter-parser-iosx64/0.5.1/twitter-parser-iosx64-0.5.1.jar returned status 404
 0.5.1	metadata	2024-08-22T04:03:43Z	
+0.5.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/moe/tlaster/twitter-parser-iosx64/0.5.10/twitter-parser-iosx64-0.5.10.jar returned status 404
+0.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/moe/tlaster/twitter-parser-iosx64/0.5.11/twitter-parser-iosx64-0.5.11.jar returned status 404
 0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/moe/tlaster/twitter-parser-iosx64/0.5.2/twitter-parser-iosx64-0.5.2.jar returned status 404
 0.5.2	metadata	2024-11-01T04:48:48Z	
 0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/moe/tlaster/twitter-parser-iosx64/0.5.3/twitter-parser-iosx64-0.5.3.jar returned status 404

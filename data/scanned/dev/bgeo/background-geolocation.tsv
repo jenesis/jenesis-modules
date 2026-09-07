@@ -5,3 +5,4 @@
 0.1.4		2026-08-17T11:17:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/background-geolocation/0.1.4/background-geolocation-0.1.4.jar returned status 404
 0.2.0		2026-08-29T18:17:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/background-geolocation/0.2.0/background-geolocation-0.2.0.jar returned status 404
 0.2.1		2026-08-29T18:27:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/background-geolocation/0.2.1/background-geolocation-0.2.1.jar returned status 404
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bgeo/background-geolocation/0.2.2/background-geolocation-0.2.2.jar returned status 404

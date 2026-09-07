@@ -4,3 +4,5 @@
 0.3.12		2026-08-21T01:11:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/moq/moq-ffi-android/0.3.12/moq-ffi-android-0.3.12.jar returned status 404
 0.3.13		2026-08-25T19:35:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/moq/moq-ffi-android/0.3.13/moq-ffi-android-0.3.13.jar returned status 404
 0.3.14		2026-08-27T00:32:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/moq/moq-ffi-android/0.3.14/moq-ffi-android-0.3.14.jar returned status 404
+0.3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/moq/moq-ffi-android/0.3.15/moq-ffi-android-0.3.15.jar returned status 404
+0.3.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/moq/moq-ffi-android/0.3.16/moq-ffi-android-0.3.16.jar returned status 404
