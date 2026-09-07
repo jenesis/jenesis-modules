@@ -203,3 +203,7 @@
 2.21.6	named	com.fasterxml.jackson.module	jackson-module-afterburner	2026-08-14T22:50:02Z	2.21.6
 2.18.10	named	com.fasterxml.jackson.module	jackson-module-afterburner	2026-08-16T03:33:58Z	2.18.10
 2.22.2	named	com.fasterxml.jackson.module	jackson-module-afterburner	2026-08-16T16:40:26Z	2.22.2
+0.8.5	named	org.kill-bill.billing.plugin.java	killbill-email-notifications-plugin	2026-09-02T02:10:52Z	2.10.1
+0.8.6	named	org.kill-bill.billing.plugin.java	killbill-email-notifications-plugin	2026-09-02T02:10:53Z	2.10.1
+0.8.3	named	org.kill-bill.billing.plugin.java	killbill-email-notifications-plugin	2026-09-02T02:10:53Z	2.10.1
+0.8.4	named	org.kill-bill.billing.plugin.java	killbill-email-notifications-plugin	2026-09-02T02:10:54Z	2.10.1

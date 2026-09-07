@@ -533,6 +533,10 @@
 7.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-bom/7.0.40/sda-commons-bom-7.0.40.jar returned status 404
 7.0.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-bom/7.0.41/sda-commons-bom-7.0.41.jar returned status 404
 7.0.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-bom/7.0.42/sda-commons-bom-7.0.42.jar returned status 404
+7.0.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-bom/7.0.43/sda-commons-bom-7.0.43.jar returned status 404
+7.0.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-bom/7.0.44/sda-commons-bom-7.0.44.jar returned status 404
+7.0.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-bom/7.0.45/sda-commons-bom-7.0.45.jar returned status 404
+7.0.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-bom/7.0.46/sda-commons-bom-7.0.46.jar returned status 404
 7.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-bom/7.0.5/sda-commons-bom-7.0.5.jar returned status 404
 7.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-bom/7.0.6/sda-commons-bom-7.0.6.jar returned status 404
 7.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sdase/commons/spring/boot/sda-commons-bom/7.0.7/sda-commons-bom-7.0.7.jar returned status 404
