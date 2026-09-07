@@ -1283,3 +1283,6 @@
 3.32.2.rc3	named	org.conductoross	conductor-os-persistence-v3	2026-08-27T20:00:48Z	2.4
 3.1.214	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-08-28T03:27:58Z	2.3
 3.1.215	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-09-04T02:21:53Z	2.3
+1.0.1	named	com.deftdevs	bootstrapi-jira-plugin	2026-09-04T02:27:33Z	2.2
+1.0.1	named	com.deftdevs	bootstrapi-crowd-plugin	2026-09-04T02:27:34Z	2.0
+1.0.1	named	com.deftdevs	bootstrapi-confluence-plugin	2026-09-04T02:28:07Z	2.4
