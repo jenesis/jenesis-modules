@@ -130,3 +130,13 @@ com.formdev.flatlaf
 dev.kaiquebt.anycall
 dev.stxt
 dev.cardigan
+com.fasterxml.jackson.dataformat.yaml
+dev.hardwood.core
+dev.hardwood.avro
+dev.hardwood.s3
+dev.hardwood.awsauth
+dev.kastle.netty.transport.nethernet
+org.cloudburstmc.netty.transport.raknet
+langchain4j.community.oci.genai
+dev.zio.izumi.reflect.thirdparty.boopickle.shaded
+dev.zio.izumi.reflect
