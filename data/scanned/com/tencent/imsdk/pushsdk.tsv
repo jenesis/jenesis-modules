@@ -11,3 +11,5 @@
 8.8.7359			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/pushsdk/8.8.7359/pushsdk-8.8.7359.jar returned status 404
 8.9.7537			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/pushsdk/8.9.7537/pushsdk-8.9.7537.jar returned status 404
 9.0.7652		2026-05-29T09:38:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/pushsdk/9.0.7652/pushsdk-9.0.7652.jar returned status 404
+9.1.7753-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/pushsdk/9.1.7753-beta01/pushsdk-9.1.7753-beta01.jar returned status 404
+9.1.7753-beta02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/imsdk/pushsdk/9.1.7753-beta02/pushsdk-9.1.7753-beta02.jar returned status 404

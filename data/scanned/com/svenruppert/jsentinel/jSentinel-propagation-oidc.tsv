@@ -14,3 +14,6 @@
 00.79.30		2026-07-02T16:04:00Z	
 00.79.40		2026-07-05T18:56:39Z	
 00.79.41		2026-07-06T09:27:47Z	
+00.80.00			
+00.81.00			
+00.81.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/svenruppert/jsentinel/jSentinel-propagation-oidc/00.81.10/jSentinel-propagation-oidc-00.81.10.jar returned status 404
