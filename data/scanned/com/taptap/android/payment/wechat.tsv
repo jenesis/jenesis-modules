@@ -21,6 +21,7 @@
 4.10.7-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/wechat/4.10.7-beta.1/wechat-4.10.7-beta.1.jar returned status 404
 4.10.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/wechat/4.10.8/wechat-4.10.8.jar returned status 404
 4.10.8-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/wechat/4.10.8-beta.1/wechat-4.10.8-beta.1.jar returned status 404
+4.10.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/wechat/4.10.9/wechat-4.10.9.jar returned status 404
 4.3.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/wechat/4.3.12/wechat-4.3.12.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/wechat/4.4.0/wechat-4.4.0.jar returned status 404
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/taptap/android/payment/wechat/4.4.1/wechat-4.4.1.jar returned status 404

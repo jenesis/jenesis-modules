@@ -168,7 +168,10 @@
 1.3.4-alpha.1758280226232			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/frontegg/sdk/android/1.3.4-alpha.1758280226232/android-1.3.4-alpha.1758280226232.jar returned status 404
 1.3.4-alpha.1758818607202			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/frontegg/sdk/android/1.3.4-alpha.1758818607202/android-1.3.4-alpha.1758818607202.jar returned status 404
 1.3.4-alpha.1758819280171			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/frontegg/sdk/android/1.3.4-alpha.1758819280171/android-1.3.4-alpha.1758819280171.jar returned status 404
+1.3.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/frontegg/sdk/android/1.3.40/android-1.3.40.jar returned status 404
 1.3.40-alpha.1787648783934		2026-08-25T09:07:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/frontegg/sdk/android/1.3.40-alpha.1787648783934/android-1.3.40-alpha.1787648783934.jar returned status 404
+1.3.40-alpha.1788274298467			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/frontegg/sdk/android/1.3.40-alpha.1788274298467/android-1.3.40-alpha.1788274298467.jar returned status 404
+1.3.41-alpha.1788346847643			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/frontegg/sdk/android/1.3.41-alpha.1788346847643/android-1.3.41-alpha.1788346847643.jar returned status 404
 1.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/frontegg/sdk/android/1.3.5/android-1.3.5.jar returned status 404
 1.3.5-alpha.1759497095218			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/frontegg/sdk/android/1.3.5-alpha.1759497095218/android-1.3.5-alpha.1759497095218.jar returned status 404
 1.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/frontegg/sdk/android/1.3.6/android-1.3.6.jar returned status 404
