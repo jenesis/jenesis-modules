@@ -502,5 +502,8 @@
 4.2.2	named	org.checkerframework	dataflow-nullaway	2026-08-06T18:35:50Z	2.50.0
 1.20.0	named	au.com.integradev.samples	delphi-custom-rules-example	2026-08-13T01:52:15Z	2.50.0
 0.299	named	com.facebook.presto	presto-spark-launcher	2026-08-28T06:33:15Z	2.50.0
+4.2.3	named	org.checkerframework	dataflow-shaded	2026-09-02T02:13:13Z	2.50.0
+4.2.3	named	org.checkerframework	dataflow-nullaway	2026-09-02T02:13:14Z	2.50.0
+4.2.3	named	org.checkerframework	dataflow-errorprone	2026-09-02T02:13:34Z	2.50.0
 0.4.5	named	com.salesforce.multicloudj	multicloudj-examples	2026-09-04T02:19:36Z	2.31.0
 1.21.0	named	au.com.integradev.samples	delphi-custom-rules-example	2026-09-05T01:52:04Z	2.50.0

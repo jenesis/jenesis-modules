@@ -60,6 +60,7 @@
 14.0.2		2024-09-02T13:24:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/14.0.2/mdsal-karaf-14.0.2.jar returned status 404
 14.0.20		2025-12-05T17:46:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/14.0.20/mdsal-karaf-14.0.20.jar returned status 404
 14.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/14.0.21/mdsal-karaf-14.0.21.jar returned status 404
+14.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/14.0.22/mdsal-karaf-14.0.22.jar returned status 404
 14.0.3		2024-10-11T13:24:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/14.0.3/mdsal-karaf-14.0.3.jar returned status 404
 14.0.4		2024-10-21T07:45:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/14.0.4/mdsal-karaf-14.0.4.jar returned status 404
 14.0.6		2024-11-30T08:16:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/14.0.6/mdsal-karaf-14.0.6.jar returned status 404
@@ -79,6 +80,7 @@
 16.0.4		2026-08-11T05:28:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/16.0.4/mdsal-karaf-16.0.4.jar returned status 404
 16.0.5		2026-08-12T11:27:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/16.0.5/mdsal-karaf-16.0.5.jar returned status 404
 16.0.6		2026-08-20T16:19:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/16.0.6/mdsal-karaf-16.0.6.jar returned status 404
+17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/17.0.0/mdsal-karaf-17.0.0.jar returned status 404
 8.0.10		2022-01-19T09:42:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/8.0.10/mdsal-karaf-8.0.10.jar returned status 404
 8.0.11		2022-02-14T01:05:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/8.0.11/mdsal-karaf-8.0.11.jar returned status 404
 8.0.12		2022-02-18T09:04:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/mdsal-karaf/8.0.12/mdsal-karaf-8.0.12.jar returned status 404

@@ -24,6 +24,7 @@
 14.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/14.0.2/bundle-parent-14.0.2.jar returned status 404
 14.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/14.0.20/bundle-parent-14.0.20.jar returned status 404
 14.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/14.0.21/bundle-parent-14.0.21.jar returned status 404
+14.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/14.0.22/bundle-parent-14.0.22.jar returned status 404
 14.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/14.0.3/bundle-parent-14.0.3.jar returned status 404
 14.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/14.0.4/bundle-parent-14.0.4.jar returned status 404
 14.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/14.0.6/bundle-parent-14.0.6.jar returned status 404
@@ -43,3 +44,4 @@
 16.0.4		2026-08-11T05:28:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/16.0.4/bundle-parent-16.0.4.jar returned status 404
 16.0.5		2026-08-12T11:27:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/16.0.5/bundle-parent-16.0.5.jar returned status 404
 16.0.6		2026-08-20T16:19:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/16.0.6/bundle-parent-16.0.6.jar returned status 404
+17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/bundle-parent/17.0.0/bundle-parent-17.0.0.jar returned status 404
