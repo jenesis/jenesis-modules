@@ -40,6 +40,7 @@
 1.15.2		2025-08-13T13:52:10Z	
 1.15.3		2025-10-23T09:59:41Z	
 1.15.4		2026-03-31T16:43:26Z	
+1.15.5			
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.1/assembly-1.9.1.jar returned status 404
 1.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.10/assembly-1.9.10.jar returned status 404
 1.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/daisy/pipeline/assembly/1.9.12/assembly-1.9.12.jar returned status 404

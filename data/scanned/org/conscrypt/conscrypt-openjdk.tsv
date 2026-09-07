@@ -231,3 +231,4 @@
 2.7-alpha	osx-aarch_64	2026-08-24T13:15:29Z	
 2.7-alpha	osx-x86_64	2026-08-24T13:15:29Z	
 2.7-alpha	windows-x86_64	2026-08-24T13:15:29Z	
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/conscrypt/conscrypt-openjdk/2.7.0/conscrypt-openjdk-2.7.0.jar returned status 404

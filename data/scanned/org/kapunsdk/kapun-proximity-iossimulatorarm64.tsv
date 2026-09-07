@@ -4,6 +4,7 @@
 1.0.0-RC10	metadata	2026-08-26T12:31:49Z	
 1.0.0-RC11		2026-08-26T19:35:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-proximity-iossimulatorarm64/1.0.0-RC11/kapun-proximity-iossimulatorarm64-1.0.0-RC11.jar returned status 404
 1.0.0-RC11	metadata	2026-08-26T19:35:46Z	
+1.0.0-RC13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-proximity-iossimulatorarm64/1.0.0-RC13/kapun-proximity-iossimulatorarm64-1.0.0-RC13.jar returned status 404
 1.0.0-RC2		2026-08-12T11:50:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-proximity-iossimulatorarm64/1.0.0-RC2/kapun-proximity-iossimulatorarm64-1.0.0-RC2.jar returned status 404
 1.0.0-RC2	metadata	2026-08-12T11:50:38Z	
 1.0.0-RC3		2026-08-14T19:19:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-proximity-iossimulatorarm64/1.0.0-RC3/kapun-proximity-iossimulatorarm64-1.0.0-RC3.jar returned status 404
@@ -24,3 +25,6 @@
 1.0.0-size-improvements-2	metadata	2026-08-28T08:42:29Z	
 1.0.0-size-improvements-3		2026-08-28T16:04:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-proximity-iossimulatorarm64/1.0.0-size-improvements-3/kapun-proximity-iossimulatorarm64-1.0.0-size-improvements-3.jar returned status 404
 1.0.0-size-improvements-3	metadata	2026-08-28T16:04:04Z	
+1.0.0-size-improvements-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-proximity-iossimulatorarm64/1.0.0-size-improvements-4/kapun-proximity-iossimulatorarm64-1.0.0-size-improvements-4.jar returned status 404
+1.0.0-size-improvements-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-proximity-iossimulatorarm64/1.0.0-size-improvements-5/kapun-proximity-iossimulatorarm64-1.0.0-size-improvements-5.jar returned status 404
+1.0.0-size-improvements-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-proximity-iossimulatorarm64/1.0.0-size-improvements-6/kapun-proximity-iossimulatorarm64-1.0.0-size-improvements-6.jar returned status 404

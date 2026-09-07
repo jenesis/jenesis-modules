@@ -75,9 +75,11 @@
 6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.0.5/joinfaces-platform-6.0.5.jar returned status 404
 6.0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.0.6.1/joinfaces-platform-6.0.6.1.jar returned status 404
 6.0.7		2026-06-11T11:59:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.0.7/joinfaces-platform-6.0.7.jar returned status 404
+6.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.0.8/joinfaces-platform-6.0.8.jar returned status 404
 6.1.0		2026-06-11T16:10:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.1.0/joinfaces-platform-6.1.0.jar returned status 404
 6.1.0-m1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.1.0-m1/joinfaces-platform-6.1.0-m1.jar returned status 404
 6.1.0-m2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.1.0-m2/joinfaces-platform-6.1.0-m2.jar returned status 404
 6.1.0-m3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.1.0-m3/joinfaces-platform-6.1.0-m3.jar returned status 404
 6.1.0-m4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.1.0-m4/joinfaces-platform-6.1.0-m4.jar returned status 404
 6.1.0-rc1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.1.0-rc1.1/joinfaces-platform-6.1.0-rc1.1.jar returned status 404
+6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/joinfaces/joinfaces-platform/6.1.1/joinfaces-platform-6.1.1.jar returned status 404
