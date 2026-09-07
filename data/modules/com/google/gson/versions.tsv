@@ -5139,6 +5139,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.32.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-03T01:57:07Z	2.11.0
 0.32.1	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-03T01:57:08Z	2.11.0
 1.1.6	named	io.github.jpostman	restage-ai-engine	2026-09-03T02:33:08Z	2.13.2
+3.39.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-03T03:10:27Z	2.10
 0.1.10-beta	named	dev.cjfravel	ariadne-spark41_2.13	2026-09-04T01:55:15Z	2.14.0
 0.1.10-beta	named	dev.cjfravel	ariadne-spark35_2.12	2026-09-04T01:55:24Z	2.14.0
 0.33.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-05T01:57:38Z	2.11.0
