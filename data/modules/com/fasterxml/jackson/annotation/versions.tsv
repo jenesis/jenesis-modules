@@ -6540,6 +6540,7 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 0.1.25	named	org.modeljars	modeljars-cli	2026-08-31T02:24:24Z	2.22
 3.1.0	named	io.antmedia.plugin	media-push	2026-09-01T01:56:31Z	2.21
 0.1.27	named	org.modeljars	modeljars-cli	2026-09-01T02:19:30Z	2.22
+5.7	named	org.jboss.pnc.maven-manipulator	pom-manipulation-cli	2026-09-02T02:09:53Z	2.22
 0.1.28	named	org.modeljars	modeljars-cli	2026-09-02T02:11:14Z	2.22
 0.1.29	named	org.modeljars	modeljars-cli	2026-09-02T02:11:16Z	2.22
 0.1.30	named	org.modeljars	modeljars-cli	2026-09-04T02:08:33Z	2.22

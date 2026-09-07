@@ -26,6 +26,9 @@
 22.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-tapi-2.4.0-models/22.1.0/odl-tapi-2.4.0-models-22.1.0.jar returned status 404
 22.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-tapi-2.4.0-models/22.2.0/odl-tapi-2.4.0-models-22.2.0.jar returned status 404
 22.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-tapi-2.4.0-models/22.2.1/odl-tapi-2.4.0-models-22.2.1.jar returned status 404
+22.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-tapi-2.4.0-models/22.3.0/odl-tapi-2.4.0-models-22.3.0.jar returned status 404
+22.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-tapi-2.4.0-models/22.3.1/odl-tapi-2.4.0-models-22.3.1.jar returned status 404
+22.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-tapi-2.4.0-models/22.3.2/odl-tapi-2.4.0-models-22.3.2.jar returned status 404
 23.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-tapi-2.4.0-models/23.0.0/odl-tapi-2.4.0-models-23.0.0.jar returned status 404
 23.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-tapi-2.4.0-models/23.0.1/odl-tapi-2.4.0-models-23.0.1.jar returned status 404
 23.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/transportpce/models/odl-tapi-2.4.0-models/23.1.0/odl-tapi-2.4.0-models-23.1.0.jar returned status 404
