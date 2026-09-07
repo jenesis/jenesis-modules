@@ -1,3 +1,4 @@
+v1-rev20260902-2.0.0	automatic	com.google.apis	google-api-services-apigateway
 v1-rev20260422-2.0.0	automatic	com.google.apis	google-api-services-apigateway
 v1-rev20260325-2.0.0	automatic	com.google.apis	google-api-services-apigateway
 v1-rev20260127-2.0.0	automatic	com.google.apis	google-api-services-apigateway
@@ -30,6 +31,7 @@ v1-rev20210408-1.31.0	automatic	com.google.apis	google-api-services-apigateway
 v1-rev20210310-1.31.0	automatic	com.google.apis	google-api-services-apigateway
 v1-rev20210107-1.31.0	automatic	com.google.apis	google-api-services-apigateway
 v1-rev20201211-1.31.0	automatic	com.google.apis	google-api-services-apigateway
+v1beta-rev20260902-2.0.0	automatic	com.google.apis	google-api-services-apigateway
 v1beta-rev20260422-2.0.0	automatic	com.google.apis	google-api-services-apigateway
 v1beta-rev20260325-2.0.0	automatic	com.google.apis	google-api-services-apigateway
 v1beta-rev20260127-2.0.0	automatic	com.google.apis	google-api-services-apigateway
