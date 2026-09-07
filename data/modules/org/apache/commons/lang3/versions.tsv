@@ -1423,3 +1423,5 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 3.26.33-1	named	com.ubs-hainer	filebridge-jdbc-driver	2026-09-02T02:13:59Z	3.19.0
 3.19.0	named	com.equinor.neqsim	neqsim	2026-09-05T02:08:35Z	3.20.0
 3.19.0-Java8	named	com.equinor.neqsim	neqsim	2026-09-05T02:08:51Z	3.20.0
+4.0.12.6	named	io.streamnative	buildtools	2026-09-06T02:03:41Z	3.19.0
+4.2.1.14	named	io.streamnative	buildtools	2026-09-06T02:03:44Z	3.19.0

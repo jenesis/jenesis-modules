@@ -6,3 +6,5 @@
 1.1.5		2026-06-26T19:17:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/saifullah-nurani/ads/multi-ads-android/1.1.5/multi-ads-android-1.1.5.jar returned status 404
 1.1.6		2026-06-28T17:54:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/saifullah-nurani/ads/multi-ads-android/1.1.6/multi-ads-android-1.1.6.jar returned status 404
 1.1.7		2026-06-29T01:02:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/saifullah-nurani/ads/multi-ads-android/1.1.7/multi-ads-android-1.1.7.jar returned status 404
+1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/saifullah-nurani/ads/multi-ads-android/1.1.8/multi-ads-android-1.1.8.jar returned status 404
+1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/saifullah-nurani/ads/multi-ads-android/1.1.9/multi-ads-android-1.1.9.jar returned status 404

@@ -18,3 +18,5 @@
 1.28.0-composelive-0.20	metadata	2026-08-28T16:38:22Z	
 1.28.0-composelive-0.20-profilable		2026-08-28T16:42:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-bridge-annotations-tvosx64/1.28.0-composelive-0.20-profilable/zipline-bridge-annotations-tvosx64-1.28.0-composelive-0.20-profilable.jar returned status 404
 1.28.0-composelive-0.20-profilable	metadata	2026-08-28T16:42:08Z	
+1.28.0-composelive-0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-bridge-annotations-tvosx64/1.28.0-composelive-0.21/zipline-bridge-annotations-tvosx64-1.28.0-composelive-0.21.jar returned status 404
+1.28.0-composelive-0.21-profilable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-bridge-annotations-tvosx64/1.28.0-composelive-0.21-profilable/zipline-bridge-annotations-tvosx64-1.28.0-composelive-0.21-profilable.jar returned status 404

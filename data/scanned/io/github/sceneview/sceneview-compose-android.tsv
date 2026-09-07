@@ -5,3 +5,4 @@
 4.31.0		2026-08-17T21:10:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-android/4.31.0/sceneview-compose-android-4.31.0.jar returned status 404
 4.32.0		2026-08-22T23:34:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-android/4.32.0/sceneview-compose-android-4.32.0.jar returned status 404
 4.33.0		2026-08-26T19:23:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-android/4.33.0/sceneview-compose-android-4.33.0.jar returned status 404
+4.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-android/4.34.0/sceneview-compose-android-4.34.0.jar returned status 404

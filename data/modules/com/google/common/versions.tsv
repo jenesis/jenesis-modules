@@ -1085,5 +1085,6 @@
 0.22.8	named	org.opendaylight.aaa	aaa-cli-jar	2026-08-27T22:11:35Z	33.6.0-jre
 0.21.6	named	org.opendaylight.aaa	aaa-cli-jar	2026-08-27T22:11:45Z	33.6.0-jre
 0.1.0	named	guru.mocker.composition	java-composition	2026-08-28T20:39:34Z	33.6.0-jre
+6.0.36	named	io.digiexpress	thena-sql-client-annot-proc	2026-09-04T02:00:16Z	33.5.0-jre
 1.2026.8	named	net.sourceforge.plantuml	plantuml-epl	2026-09-07T01:56:59Z	33.7.1-jre
 1.2026.8	named	net.sourceforge.plantuml	plantuml	2026-09-07T01:57:00Z	33.6.0-jre
