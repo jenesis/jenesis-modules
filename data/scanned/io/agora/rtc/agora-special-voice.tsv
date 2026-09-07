@@ -92,6 +92,7 @@
 3.7.3.181			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/3.7.3.181/agora-special-voice-3.7.3.181.jar returned status 404
 3.7.3.183			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/3.7.3.183/agora-special-voice-3.7.3.183.jar returned status 404
 3.7.3.183.AFMPG			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/3.7.3.183.AFMPG/agora-special-voice-3.7.3.183.AFMPG.jar returned status 404
+3.7.3.183.JLST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/3.7.3.183.JLST/agora-special-voice-3.7.3.183.JLST.jar returned status 404
 3.7.3.185			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/3.7.3.185/agora-special-voice-3.7.3.185.jar returned status 404
 3.7.3.186			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/3.7.3.186/agora-special-voice-3.7.3.186.jar returned status 404
 3.7.3.188			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/3.7.3.188/agora-special-voice-3.7.3.188.jar returned status 404
@@ -281,6 +282,7 @@
 4.1.2.165.BASIC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.1.2.165.BASIC/agora-special-voice-4.1.2.165.BASIC.jar returned status 404
 4.1.2.180			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.1.2.180/agora-special-voice-4.1.2.180.jar returned status 404
 4.1.2.180.AINS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.1.2.180.AINS/agora-special-voice-4.1.2.180.AINS.jar returned status 404
+4.1.2.197			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.1.2.197/agora-special-voice-4.1.2.197.jar returned status 404
 4.1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.1.2.2/agora-special-voice-4.1.2.2.jar returned status 404
 4.1.2.2.ABEAUTY			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.1.2.2.ABEAUTY/agora-special-voice-4.1.2.2.ABEAUTY.jar returned status 404
 4.1.2.2.AINS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.1.2.2.AINS/agora-special-voice-4.1.2.2.AINS.jar returned status 404
@@ -373,9 +375,11 @@
 4.3.2.17.AINS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.17.AINS/agora-special-voice-4.3.2.17.AINS.jar returned status 404
 4.3.2.17.BASIC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.17.BASIC/agora-special-voice-4.3.2.17.BASIC.jar returned status 404
 4.3.2.17.MINI.AUDIO			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.17.MINI.AUDIO/agora-special-voice-4.3.2.17.MINI.AUDIO.jar returned status 404
+4.3.2.17.MINIABEAUTY			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.17.MINIABEAUTY/agora-special-voice-4.3.2.17.MINIABEAUTY.jar returned status 404
 4.3.2.175			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.175/agora-special-voice-4.3.2.175.jar returned status 404
 4.3.2.177			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.177/agora-special-voice-4.3.2.177.jar returned status 404
 4.3.2.177.WNS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.177.WNS/agora-special-voice-4.3.2.177.WNS.jar returned status 404
+4.3.2.187			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.187/agora-special-voice-4.3.2.187.jar returned status 404
 4.3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.2/agora-special-voice-4.3.2.2.jar returned status 404
 4.3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.3/agora-special-voice-4.3.2.3.jar returned status 404
 4.3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.3.2.4/agora-special-voice-4.3.2.4.jar returned status 404
@@ -478,6 +482,11 @@
 4.5.3.2.AINS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.5.3.2.AINS/agora-special-voice-4.5.3.2.AINS.jar returned status 404
 4.5.3.2.BASIC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.5.3.2.BASIC/agora-special-voice-4.5.3.2.BASIC.jar returned status 404
 4.5.3.2.MINI.AUDIO			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.5.3.2.MINI.AUDIO/agora-special-voice-4.5.3.2.MINI.AUDIO.jar returned status 404
+4.5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.5.3.3/agora-special-voice-4.5.3.3.jar returned status 404
+4.5.3.3.BASIC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.5.3.3.BASIC/agora-special-voice-4.5.3.3.BASIC.jar returned status 404
+4.5.3.3.FLT.ABEAUTY			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.5.3.3.FLT.ABEAUTY/agora-special-voice-4.5.3.3.FLT.ABEAUTY.jar returned status 404
+4.5.3.3.HERO			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.5.3.3.HERO/agora-special-voice-4.5.3.3.HERO.jar returned status 404
+4.5.3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.5.3.4.1/agora-special-voice-4.5.3.4.1.jar returned status 404
 4.5.3.70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.5.3.70/agora-special-voice-4.5.3.70.jar returned status 404
 4.5.3.NOFMPG			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.5.3.NOFMPG/agora-special-voice-4.5.3.NOFMPG.jar returned status 404
 4.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-voice/4.6.0.1/agora-special-voice-4.6.0.1.jar returned status 404

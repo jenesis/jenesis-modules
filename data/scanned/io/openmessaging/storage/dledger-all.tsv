@@ -1,2 +1,10 @@
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openmessaging/storage/dledger-all/0.3.0/dledger-all-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openmessaging/storage/dledger-all/0.3.1/dledger-all-0.3.1.jar returned status 404
+0.3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openmessaging/storage/dledger-all/0.3.1.1/dledger-all-0.3.1.1.jar returned status 404
+0.3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openmessaging/storage/dledger-all/0.3.1.2/dledger-all-0.3.1.2.jar returned status 404
+0.3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openmessaging/storage/dledger-all/0.3.1.3/dledger-all-0.3.1.3.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openmessaging/storage/dledger-all/0.3.2/dledger-all-0.3.2.jar returned status 404
+0.3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openmessaging/storage/dledger-all/0.3.3.1/dledger-all-0.3.3.1.jar returned status 404
 0.3.3.4		2026-08-17T03:52:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openmessaging/storage/dledger-all/0.3.3.4/dledger-all-0.3.3.4.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openmessaging/storage/dledger-all/0.4.0/dledger-all-0.4.0.jar returned status 404
 0.4.3		2026-08-17T04:05:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openmessaging/storage/dledger-all/0.4.3/dledger-all-0.4.3.jar returned status 404

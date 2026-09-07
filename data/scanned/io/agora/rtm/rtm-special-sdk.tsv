@@ -1,3 +1,4 @@
+0.0.1.test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/0.0.1.test/rtm-special-sdk-0.0.1.test.jar returned status 404
 1.4.10.208			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.208/rtm-special-sdk-1.4.10.208.jar returned status 404
 1.4.10.209			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.209/rtm-special-sdk-1.4.10.209.jar returned status 404
 1.4.10.210			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.4.10.210/rtm-special-sdk-1.4.10.210.jar returned status 404
@@ -29,6 +30,7 @@
 1.5.3.218			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.218/rtm-special-sdk-1.5.3.218.jar returned status 404
 1.5.3.219			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.219/rtm-special-sdk-1.5.3.219.jar returned status 404
 1.5.3.220			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.220/rtm-special-sdk-1.5.3.220.jar returned status 404
+1.5.3.221			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.5.3.221/rtm-special-sdk-1.5.3.221.jar returned status 404
 1.6.0.101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.6.0.101/rtm-special-sdk-1.6.0.101.jar returned status 404
 1.6.0.201			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.6.0.201/rtm-special-sdk-1.6.0.201.jar returned status 404
 1.6.0.202			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtm/rtm-special-sdk/1.6.0.202/rtm-special-sdk-1.6.0.202.jar returned status 404
