@@ -4,7 +4,7 @@
 > _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-09-01 19:33:33 UTC_  
-_Current chunk started: 2026-09-02 04:22:55 UTC_  
+_Current chunk started: 2026-09-07 09:41:18 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 936_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 18 440 786 |
-| Non-module artifacts | 16 413 588 |
-| Modular artifacts | 1 678 723 |
+| Total artifacts scanned | 18 513 691 |
+| Non-module artifacts | 16 478 205 |
+| Modular artifacts | 1 678 724 |
 | Total automatic modules | 1 313 634 |
-| Total named modules | 365 089 |
-| Total named modules with module-info version | 276 848 |
-| Distinct Maven artifacts | 689 589 |
-| Distinct module names | 42 040 |
+| Total named modules | 365 090 |
+| Total named modules with module-info version | 276 849 |
+| Distinct Maven artifacts | 689 592 |
+| Distinct module names | 42 054 |
 | Distinct automatic modules | 22 266 |
 | Distinct named modules | 18 261 |
 | Distinct named modules with module-info version | 13 325 |
@@ -92,7 +92,7 @@ Counts canonical **named publications** (one count per published JAR, not per di
 
 | Publication category | Publications |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 271 201 |
+| `module-info` version matches the Maven coordinate version | 271 202 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 5 647 |
 | `module-info` declared no version (Maven coordinate version is the only reference) | 57 695 |
 
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 3 025 | 1 091 | 1 934 |
-| New version rows | 4 519 | 1 821 | 2 698 |
-| Non-modular artifacts | 20 961 | - | - |
+| Modules with a publication | 79 | 54 | 25 |
+| New version rows | 102 | 58 | 44 |
+| Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -163,11 +163,11 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-02 | `█`&nbsp;2 623 (3.8%) | `▓▓`&nbsp;5 516 (7.9%) | `░░░░░░░░░░░░░░░░░░░░`&nbsp;61 430 (88.3%) |
 | 2026-03 | `█`&nbsp;3 104 (3.9%) | `▓▓`&nbsp;6 696 (8.4%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;70 130 (87.7%) |
 | 2026-04 | `█`&nbsp;3 387 (4.4%) | `▓▓`&nbsp;5 836 (7.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;67 391 (88.0%) |
-| 2026-05 | `█`&nbsp;3 441 (4.4%) | `▓▓`&nbsp;5 624 (7.2%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 007 (88.4%) |
+| 2026-05 | `█`&nbsp;3 441 (4.4%) | `▓▓`&nbsp;5 624 (7.2%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 006 (88.4%) |
 | 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 111 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 969 (88.4%) |
-| 2026-07 | `█`&nbsp;3 536 (7.1%) | `▓▓`&nbsp;5 572 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 610 (81.7%) |
-| 2026-08 | `█`&nbsp;4 097 (5.3%) | `▓▓`&nbsp;6 647 (8.7%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;65 916 (86.0%) |
-| 2026-09 | `█`&nbsp;44 (10.5%) | `▓`&nbsp;6 (1.4%) | `░`&nbsp;371 (88.1%) |
+| 2026-07 | `█`&nbsp;3 536 (7.1%) | `▓▓`&nbsp;5 572 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
+| 2026-08 | `█`&nbsp;4 097 (5.3%) | `▓▓`&nbsp;6 647 (8.7%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;65 843 (86.0%) |
+| 2026-09 | `█`&nbsp;44 (88.0%) | `▓`&nbsp;6 (12.0%) | 0 (0.0%) |
 
 ## Naming patterns
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 3 798 987 |
-| Incorrectly indexed (mis-stamped 404s) | 3 796 696 |
-| Genuine artifact errors | 2 291 |
+| Total failed coordinates | 3 829 993 |
+| Incorrectly indexed (mis-stamped 404s) | 3 827 701 |
+| Genuine artifact errors | 2 292 |
 
 ### Top 25 genuine error messages
 
@@ -212,7 +212,7 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 | Error message | Count |
 |---|---:|
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
-| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 509 |
+| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 510 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
@@ -306,7 +306,7 @@ Module names that have been published under the most different groupIds across h
 | Module | Distinct groupIds |
 |---|---:|
 | `com.google.gson` | 309 |
-| `com.fasterxml.jackson.databind` | 268 |
+| `com.fasterxml.jackson.databind` | 269 |
 | `com.fasterxml.jackson.core` | 238 |
 | `com.fasterxml.jackson.annotation [-jar-with-dependencies]` | 229 |
 | `com.fasterxml.jackson.annotation` | 188 |
