@@ -348,7 +348,18 @@
 1.244.0		2026-08-27T08:17:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.244.0/fluxzero-bom-1.244.0.jar returned status 404
 1.245.0		2026-08-28T06:03:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.245.0/fluxzero-bom-1.245.0.jar returned status 404
 1.246.0		2026-08-28T10:03:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.246.0/fluxzero-bom-1.246.0.jar returned status 404
+1.247.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.247.0/fluxzero-bom-1.247.0.jar returned status 404
+1.248.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.248.0/fluxzero-bom-1.248.0.jar returned status 404
+1.249.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.249.0/fluxzero-bom-1.249.0.jar returned status 404
 1.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.25.0/fluxzero-bom-1.25.0.jar returned status 404
+1.250.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.250.0/fluxzero-bom-1.250.0.jar returned status 404
+1.251.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.251.0/fluxzero-bom-1.251.0.jar returned status 404
+1.252.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.252.0/fluxzero-bom-1.252.0.jar returned status 404
+1.253.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.253.0/fluxzero-bom-1.253.0.jar returned status 404
+1.254.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.254.0/fluxzero-bom-1.254.0.jar returned status 404
+1.255.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.255.0/fluxzero-bom-1.255.0.jar returned status 404
+1.256.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.256.0/fluxzero-bom-1.256.0.jar returned status 404
+1.257.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.257.0/fluxzero-bom-1.257.0.jar returned status 404
 1.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.26.0/fluxzero-bom-1.26.0.jar returned status 404
 1.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.27.0/fluxzero-bom-1.27.0.jar returned status 404
 1.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.28.0/fluxzero-bom-1.28.0.jar returned status 404
@@ -475,3 +486,8 @@
 1.99.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.99.0/fluxzero-bom-1.99.0.jar returned status 404
 1.99.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/1.99.1/fluxzero-bom-1.99.1.jar returned status 404
 2.0.0-RC1		2026-08-27T13:49:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/2.0.0-RC1/fluxzero-bom-2.0.0-RC1.jar returned status 404
+2.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/2.0.0-RC2/fluxzero-bom-2.0.0-RC2.jar returned status 404
+2.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/2.0.0-RC3/fluxzero-bom-2.0.0-RC3.jar returned status 404
+2.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/2.0.0-RC4/fluxzero-bom-2.0.0-RC4.jar returned status 404
+2.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/2.0.0-RC5/fluxzero-bom-2.0.0-RC5.jar returned status 404
+2.0.0-RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fluxzero/fluxzero-bom/2.0.0-RC6/fluxzero-bom-2.0.0-RC6.jar returned status 404

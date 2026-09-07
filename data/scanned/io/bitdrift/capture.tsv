@@ -54,3 +54,5 @@
 0.23.7		2026-06-26T19:09:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture/0.23.7/capture-0.23.7.jar returned status 404
 0.23.8		2026-06-26T21:52:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture/0.23.8/capture-0.23.8.jar returned status 404
 0.23.9		2026-07-02T22:07:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture/0.23.9/capture-0.23.9.jar returned status 404
+0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture/0.24.0/capture-0.24.0.jar returned status 404
+0.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/bitdrift/capture/0.24.1/capture-0.24.1.jar returned status 404

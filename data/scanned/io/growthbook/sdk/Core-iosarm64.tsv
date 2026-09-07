@@ -22,3 +22,4 @@
 1.4.0	metadata	2026-08-24T10:32:14Z	
 1.5.0		2026-08-25T09:06:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/Core-iosarm64/1.5.0/Core-iosarm64-1.5.0.jar returned status 404
 1.5.0	metadata	2026-08-25T09:06:41Z	
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/Core-iosarm64/1.6.0/Core-iosarm64-1.6.0.jar returned status 404
