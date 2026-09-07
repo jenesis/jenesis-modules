@@ -373,6 +373,14 @@
 8.87.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.87.6/rewrite-bom-8.87.6.jar returned status 404
 8.87.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.87.7/rewrite-bom-8.87.7.jar returned status 404
 8.88.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.88.0/rewrite-bom-8.88.0.jar returned status 404
+8.88.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.88.1/rewrite-bom-8.88.1.jar returned status 404
+8.88.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.88.2/rewrite-bom-8.88.2.jar returned status 404
+8.88.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.88.3/rewrite-bom-8.88.3.jar returned status 404
+8.88.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.88.4/rewrite-bom-8.88.4.jar returned status 404
+8.88.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.88.5/rewrite-bom-8.88.5.jar returned status 404
+8.89.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.89.0/rewrite-bom-8.89.0.jar returned status 404
+8.89.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.89.1/rewrite-bom-8.89.1.jar returned status 404
+8.89.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.89.2/rewrite-bom-8.89.2.jar returned status 404
 8.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.9.0/rewrite-bom-8.9.0.jar returned status 404
 8.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.9.1/rewrite-bom-8.9.1.jar returned status 404
 8.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.9.2/rewrite-bom-8.9.2.jar returned status 404
@@ -383,3 +391,8 @@
 8.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.9.7/rewrite-bom-8.9.7.jar returned status 404
 8.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.9.8/rewrite-bom-8.9.8.jar returned status 404
 8.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.9.9/rewrite-bom-8.9.9.jar returned status 404
+8.90.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.90.0/rewrite-bom-8.90.0.jar returned status 404
+8.90.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.90.1/rewrite-bom-8.90.1.jar returned status 404
+8.90.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.90.2/rewrite-bom-8.90.2.jar returned status 404
+8.90.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.90.3/rewrite-bom-8.90.3.jar returned status 404
+8.90.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openrewrite/rewrite-bom/8.90.4/rewrite-bom-8.90.4.jar returned status 404

@@ -1,1 +1,24 @@
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/10.0.0/authzforce-ce-server-10.0.0.jar returned status 404
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/10.1.0/authzforce-ce-server-10.1.0.jar returned status 404
+10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/10.1.1/authzforce-ce-server-10.1.1.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/11.0.0/authzforce-ce-server-11.0.0.jar returned status 404
+11.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/11.0.1/authzforce-ce-server-11.0.1.jar returned status 404
+12.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/12.0.0/authzforce-ce-server-12.0.0.jar returned status 404
+12.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/12.0.1/authzforce-ce-server-12.0.1.jar returned status 404
 12.1.0		2026-08-25T02:14:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/12.1.0/authzforce-ce-server-12.1.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/4.3.0/authzforce-ce-server-4.3.0.jar returned status 404
+4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/4.4.0/authzforce-ce-server-4.4.0.jar returned status 404
+4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/4.4.1/authzforce-ce-server-4.4.1.jar returned status 404
+5.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/5.1.2/authzforce-ce-server-5.1.2.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/5.2.0/authzforce-ce-server-5.2.0.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/5.3.0/authzforce-ce-server-5.3.0.jar returned status 404
+5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/5.4.0/authzforce-ce-server-5.4.0.jar returned status 404
+5.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/5.4.1/authzforce-ce-server-5.4.1.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/6.0.0/authzforce-ce-server-6.0.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/7.0.0/authzforce-ce-server-7.0.0.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/7.1.0/authzforce-ce-server-7.1.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/8.0.0/authzforce-ce-server-8.0.0.jar returned status 404
+8.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/8.0.1/authzforce-ce-server-8.0.1.jar returned status 404
+8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/8.1.0/authzforce-ce-server-8.1.0.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/9.0.0/authzforce-ce-server-9.0.0.jar returned status 404
+9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/authzforce/authzforce-ce-server/9.0.1/authzforce-ce-server-9.0.1.jar returned status 404

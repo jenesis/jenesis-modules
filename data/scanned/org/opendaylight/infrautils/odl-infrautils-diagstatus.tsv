@@ -110,6 +110,7 @@
 7.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/7.1.11/odl-infrautils-diagstatus-7.1.11.jar returned status 404
 7.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/7.1.12/odl-infrautils-diagstatus-7.1.12.jar returned status 404
 7.1.13		2026-06-14T17:10:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/7.1.13/odl-infrautils-diagstatus-7.1.13.jar returned status 404
+7.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/7.1.14/odl-infrautils-diagstatus-7.1.14.jar returned status 404
 7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/7.1.2/odl-infrautils-diagstatus-7.1.2.jar returned status 404
 7.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/7.1.3/odl-infrautils-diagstatus-7.1.3.jar returned status 404
 7.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/7.1.4/odl-infrautils-diagstatus-7.1.4.jar returned status 404
@@ -120,3 +121,4 @@
 7.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/7.1.9/odl-infrautils-diagstatus-7.1.9.jar returned status 404
 8.0.0		2026-08-16T12:59:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/8.0.0/odl-infrautils-diagstatus-8.0.0.jar returned status 404
 8.0.1		2026-08-23T15:41:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/8.0.1/odl-infrautils-diagstatus-8.0.1.jar returned status 404
+8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/infrautils/odl-infrautils-diagstatus/8.0.2/odl-infrautils-diagstatus-8.0.2.jar returned status 404

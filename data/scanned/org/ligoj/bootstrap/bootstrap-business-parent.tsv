@@ -106,3 +106,5 @@
 3.3.6		2026-06-21T19:39:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/bootstrap-business-parent/3.3.6/bootstrap-business-parent-3.3.6.jar returned status 404
 3.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/bootstrap-business-parent/3.3.7/bootstrap-business-parent-3.3.7.jar returned status 404
 4.0.0		2026-08-14T20:38:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/bootstrap-business-parent/4.0.0/bootstrap-business-parent-4.0.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/bootstrap-business-parent/5.0.0/bootstrap-business-parent-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ligoj/bootstrap/bootstrap-business-parent/5.0.1/bootstrap-business-parent-5.0.1.jar returned status 404
