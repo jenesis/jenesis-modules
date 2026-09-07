@@ -51,6 +51,7 @@
 0.0.34		2026-08-30T04:01:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jinganix/webpb/webpb-protoc-java/0.0.34/webpb-protoc-java-0.0.34.jar returned status 404
 0.0.34	all	2026-08-30T04:01:50Z	
 0.0.34	plain	2026-08-30T04:01:50Z	
+0.0.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jinganix/webpb/webpb-protoc-java/0.0.35/webpb-protoc-java-0.0.35.jar returned status 404
 0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jinganix/webpb/webpb-protoc-java/0.0.4/webpb-protoc-java-0.0.4.jar returned status 404
 0.0.4	all	2024-01-14T06:23:32Z	
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jinganix/webpb/webpb-protoc-java/0.0.5/webpb-protoc-java-0.0.5.jar returned status 404

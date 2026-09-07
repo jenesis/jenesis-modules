@@ -15,3 +15,4 @@
 1.1.0	debug-sources	2025-11-19T22:02:59Z	
 1.1.0	release-javadoc	2025-11-19T22:02:59Z	
 1.1.0	release-sources	2025-11-19T22:02:59Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/codandotv/craftd-xml/1.1.1/craftd-xml-1.1.1.jar returned status 404
