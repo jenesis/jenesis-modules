@@ -30,6 +30,11 @@
 2.2.4		2026-06-19T11:04:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/2.2.4/app-2.2.4.jar returned status 404
 2.2.4-dialogtest		2026-06-19T15:03:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/2.2.4-dialogtest/app-2.2.4-dialogtest.jar returned status 404
 2.2.4-dialogtest2		2026-06-19T15:25:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/2.2.4-dialogtest2/app-2.2.4-dialogtest2.jar returned status 404
+2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/2.2.5/app-2.2.5.jar returned status 404
+2.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/2.2.6/app-2.2.6.jar returned status 404
+2.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/2.2.7/app-2.2.7.jar returned status 404
+2.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/2.2.8/app-2.2.8.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/2.3.0/app-2.3.0.jar returned status 404
 3.0.0-beta		2026-06-13T17:34:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/3.0.0-beta/app-3.0.0-beta.jar returned status 404
 3.0.1-beta		2026-06-13T18:00:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/3.0.1-beta/app-3.0.1-beta.jar returned status 404
 3.0.2-beta		2026-06-13T23:36:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devaro95/vro/app/3.0.2-beta/app-3.0.2-beta.jar returned status 404

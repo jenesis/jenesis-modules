@@ -38,3 +38,4 @@
 0.5.9	metadata	2026-08-28T06:09:17Z	
 0.6.0		2026-08-28T11:43:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devatrii/starter-ui-layouts-iossimulatorarm64/0.6.0/starter-ui-layouts-iossimulatorarm64-0.6.0.jar returned status 404
 0.6.0	metadata	2026-08-28T11:43:37Z	
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devatrii/starter-ui-layouts-iossimulatorarm64/0.6.1/starter-ui-layouts-iossimulatorarm64-0.6.1.jar returned status 404
