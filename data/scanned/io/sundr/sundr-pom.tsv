@@ -149,6 +149,7 @@
 0.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/sundr-pom/0.4.4/sundr-pom-0.4.4.jar returned status 404
 0.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/sundr-pom/0.40.0/sundr-pom-0.40.0.jar returned status 404
 0.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/sundr-pom/0.40.1/sundr-pom-0.40.1.jar returned status 404
+0.400.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/sundr-pom/0.400.0/sundr-pom-0.400.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/sundr-pom/0.5.0/sundr-pom-0.5.0.jar returned status 404
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/sundr-pom/0.5.1/sundr-pom-0.5.1.jar returned status 404
 0.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sundr/sundr-pom/0.50.0/sundr-pom-0.50.0.jar returned status 404

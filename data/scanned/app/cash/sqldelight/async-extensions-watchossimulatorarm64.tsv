@@ -22,3 +22,4 @@
 2.3.1	metadata	2026-03-12T20:29:11Z	
 2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/sqldelight/async-extensions-watchossimulatorarm64/2.3.2/async-extensions-watchossimulatorarm64-2.3.2.jar returned status 404
 2.3.2	metadata	2026-03-16T18:09:25Z	
+2.4.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/sqldelight/async-extensions-watchossimulatorarm64/2.4.0-rc1/async-extensions-watchossimulatorarm64-2.4.0-rc1.jar returned status 404

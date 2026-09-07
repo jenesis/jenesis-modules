@@ -13,3 +13,4 @@
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/sqldelight/native-driver-linuxx64/2.2.1/native-driver-linuxx64-2.2.1.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/sqldelight/native-driver-linuxx64/2.3.1/native-driver-linuxx64-2.3.1.jar returned status 404
 2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/sqldelight/native-driver-linuxx64/2.3.2/native-driver-linuxx64-2.3.2.jar returned status 404
+2.4.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/sqldelight/native-driver-linuxx64/2.4.0-rc1/native-driver-linuxx64-2.4.0-rc1.jar returned status 404

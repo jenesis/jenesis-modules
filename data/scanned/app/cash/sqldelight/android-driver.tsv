@@ -56,3 +56,4 @@
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/sqldelight/android-driver/2.2.1/android-driver-2.2.1.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/sqldelight/android-driver/2.3.1/android-driver-2.3.1.jar returned status 404
 2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/sqldelight/android-driver/2.3.2/android-driver-2.3.2.jar returned status 404
+2.4.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/sqldelight/android-driver/2.4.0-rc1/android-driver-2.4.0-rc1.jar returned status 404
