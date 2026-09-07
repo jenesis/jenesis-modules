@@ -12,6 +12,8 @@
 12.0.0		2026-08-20T23:14:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/12.0.0/jme-cdct-provider-example-12.0.0.jar returned status 404
 13.0.0		2026-08-21T08:00:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.0.0/jme-cdct-provider-example-13.0.0.jar returned status 404
 13.1.0		2026-08-25T06:15:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.1.0/jme-cdct-provider-example-13.1.0.jar returned status 404
+13.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.10.0/jme-cdct-provider-example-13.10.0.jar returned status 404
+13.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.10.1/jme-cdct-provider-example-13.10.1.jar returned status 404
 13.2.0		2026-08-25T23:14:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.2.0/jme-cdct-provider-example-13.2.0.jar returned status 404
 13.3.0		2026-08-26T23:14:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.3.0/jme-cdct-provider-example-13.3.0.jar returned status 404
 13.4.0		2026-08-27T23:13:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.4.0/jme-cdct-provider-example-13.4.0.jar returned status 404
@@ -19,6 +21,8 @@
 13.6.0		2026-08-28T23:15:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.6.0/jme-cdct-provider-example-13.6.0.jar returned status 404
 13.7.0		2026-08-30T23:23:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.7.0/jme-cdct-provider-example-13.7.0.jar returned status 404
 13.7.1		2026-08-31T23:21:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.7.1/jme-cdct-provider-example-13.7.1.jar returned status 404
+13.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.8.0/jme-cdct-provider-example-13.8.0.jar returned status 404
+13.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/13.9.0/jme-cdct-provider-example-13.9.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/2.0.0/jme-cdct-provider-example-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/2.1.0/jme-cdct-provider-example-2.1.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-cdct-provider-example/2.2.0/jme-cdct-provider-example-2.2.0.jar returned status 404
