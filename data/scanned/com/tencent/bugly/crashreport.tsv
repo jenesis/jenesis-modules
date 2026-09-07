@@ -1,3 +1,4 @@
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/0.0.3/crashreport-0.0.3.jar returned status 404
 1.2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/1.2.8.1/crashreport-1.2.8.1.jar returned status 404
 1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/1.2.9/crashreport-1.2.9.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.1.1/crashreport-2.1.1.jar returned status 404
@@ -6,6 +7,7 @@
 2.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.1.7/crashreport-2.1.7.jar returned status 404
 2.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.1.9/crashreport-2.1.9.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.2.0/crashreport-2.2.0.jar returned status 404
+2.2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.2.0.0/crashreport-2.2.0.0.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.2.2/crashreport-2.2.2.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.3.0/crashreport-2.3.0.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.3.1/crashreport-2.3.1.jar returned status 404
@@ -17,6 +19,8 @@
 2.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.6.6/crashreport-2.6.6.jar returned status 404
 2.6.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.6.6.1/crashreport-2.6.6.1.jar returned status 404
 2.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.8.6/crashreport-2.8.6.jar returned status 404
+2.8.6-SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.8.6-SNAPSHOT/crashreport-2.8.6-SNAPSHOT.jar returned status 404
+2.8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/2.8.6.0/crashreport-2.8.6.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/3.0.0/crashreport-3.0.0.jar returned status 404
 3.0.0	so-symbols	2021-04-14T06:41:20Z	
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/bugly/crashreport/3.0.1/crashreport-3.0.1.jar returned status 404

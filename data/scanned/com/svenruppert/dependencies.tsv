@@ -20,3 +20,4 @@
 06.02.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/svenruppert/dependencies/06.02.02/dependencies-06.02.02.jar returned status 404
 06.02.03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/svenruppert/dependencies/06.02.03/dependencies-06.02.03.jar returned status 404
 06.02.04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/svenruppert/dependencies/06.02.04/dependencies-06.02.04.jar returned status 404
+06.02.05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/svenruppert/dependencies/06.02.05/dependencies-06.02.05.jar returned status 404

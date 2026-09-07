@@ -21,6 +21,8 @@
 0.12.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/0.12.16/mill-dist-native-linux-aarch64-0.12.16.jar returned status 404
 0.12.16-3-7dc77d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/0.12.16-3-7dc77d/mill-dist-native-linux-aarch64-0.12.16-3-7dc77d.jar returned status 404
 0.12.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/0.12.17/mill-dist-native-linux-aarch64-0.12.17.jar returned status 404
+0.12.17-2-7c55e0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/0.12.17-2-7c55e0/mill-dist-native-linux-aarch64-0.12.17-2-7c55e0.jar returned status 404
+0.12.17-3-93cad2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/0.12.17-3-93cad2/mill-dist-native-linux-aarch64-0.12.17-3-93cad2.jar returned status 404
 0.12.5-147-ca6ace		2025-01-17T12:47:04Z	
 0.12.5-150-31d41c		2025-01-17T14:35:42Z	
 0.12.5-160-94aad2		2025-01-20T01:37:37Z	
@@ -258,6 +260,9 @@
 1.1.6-88-655739			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/1.1.6-88-655739/mill-dist-native-linux-aarch64-1.1.6-88-655739.jar returned status 404
 1.1.6-89-71e900			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/1.1.6-89-71e900/mill-dist-native-linux-aarch64-1.1.6-89-71e900.jar returned status 404
 1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/1.1.7/mill-dist-native-linux-aarch64-1.1.7.jar returned status 404
+1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/1.1.8/mill-dist-native-linux-aarch64-1.1.8.jar returned status 404
+1.1.8-2-e9791c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/1.1.8-2-e9791c/mill-dist-native-linux-aarch64-1.1.8-2-e9791c.jar returned status 404
+1.1.8-3-a05083			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/1.1.8-3-a05083/mill-dist-native-linux-aarch64-1.1.8-3-a05083.jar returned status 404
 1.2.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/1.2.0-RC1/mill-dist-native-linux-aarch64-1.2.0-RC1.jar returned status 404
 1.2.0-RC1-16-21730c			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/1.2.0-RC1-16-21730c/mill-dist-native-linux-aarch64-1.2.0-RC1-16-21730c.jar returned status 404
 1.2.0-RC1-24-042146			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lihaoyi/mill-dist-native-linux-aarch64/1.2.0-RC1-24-042146/mill-dist-native-linux-aarch64-1.2.0-RC1-24-042146.jar returned status 404
