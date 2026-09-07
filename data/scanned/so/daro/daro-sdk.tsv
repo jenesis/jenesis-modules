@@ -12,3 +12,5 @@
 2.0.0-beta12		2026-08-24T07:08:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-sdk/2.0.0-beta12/daro-sdk-2.0.0-beta12.jar returned status 404
 2.0.0-beta13		2026-08-26T05:12:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-sdk/2.0.0-beta13/daro-sdk-2.0.0-beta13.jar returned status 404
 2.0.0-beta14		2026-08-27T05:45:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-sdk/2.0.0-beta14/daro-sdk-2.0.0-beta14.jar returned status 404
+2.0.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-sdk/2.0.0-rc.1/daro-sdk-2.0.0-rc.1.jar returned status 404
+2.0.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-sdk/2.0.0-rc.2/daro-sdk-2.0.0-rc.2.jar returned status 404
