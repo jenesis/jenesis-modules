@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-07. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-08. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -587,7 +587,7 @@ org.slf4j  [fork: keep `org.slf4j`, `io.github.mraysmit` still publishes the nam
     + 326 more: io.github.adorsys-gis, ch.exense.step, com.buralotech.oss.identifier, com.databricks, com.launchdarkly, org.mustangproject, com.erudika, com.newrelic.agent.android, org.talend.sdk.component.sample.feature, org.apache.artemis, edu.montana.cs.notch, com.google.appengine, (+314 more)
 io.netty.internal.tcnative  [fork: keep `io.netty`, `com.google.api` still publishes the name]
   A * io.netty                             2021-10..2026-08 2.0.83.Final         |.........===========|
-  R   com.google.api                       2025-06..2026-09 2.77.0               |.................===|
+  R   com.google.api                       2025-06..2026-09 2.77.0               |................====|
   R   org.finos.legend.engine              2026-01..2026-09 4.143.0              |..................==|
   ?   com.google.cloud.spark.spanner       2026-09..2026-09 1.5.0                |...................=|
   R   io.grpc                              2025-03..2026-09 1.84.0               |................====|
@@ -668,7 +668,7 @@ ch.qos.logback.classic  [fork: keep `ch.qos.logback`, `com.daml` still publishes
 io.netty.tcnative.classes.openssl  [fork: keep `io.netty`, `io.fabric8` still publishes the name]
   A * io.netty                             2022-03..2026-08 2.0.83.Final         |..........==========|
   ?   io.fabric8                           2026-06..2026-09 7.9.0                |...................=|
-  R   org.neo4j.driver                     2024-11..2026-08 4.4.27               |................====|
+  R   org.neo4j.driver                     2024-11..2026-08 4.4.27               |...............=====|
   ?   io.vertx                             2026-06..2026-08 4.5.32               |..................==|
   R   io.kestra.plugin                     2024-10..2025-06 0.23.0               |...............===..|
   R   eu.michael-simons.neo4j              2024-10..2025-06 2.17.4               |...............===..|
@@ -941,41 +941,41 @@ org.signal.libsignal  [fork: keep `org.signal`, `io.github.wanggenlin` still pub
   ?   com.securegroupchat                  2026-07..2026-07 0.96.3               |...................=|
 org.springdoc.openapi.ui  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
   A * org.springdoc                        2020-12..2026-08 3.1.0                |........============|
-  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |...................=|
+  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   ?   io.github.branislavmalo              2026-08..2026-08 3.1.0-jackson3       |...................=|
   R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |.................==.|
 org.springdoc.openapi.webflux.ai  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
   ? * org.springdoc                        2026-04..2026-08 3.1.0                |..................==|
-  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |...................=|
+  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
 org.springdoc.openapi.webflux.core  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
   A * org.springdoc                        2020-12..2026-08 3.1.0                |........============|
-  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |...................=|
+  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-08..2025-12 2.8.14               |.................==.|
 org.springdoc.openapi.webmvc.core  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
   A * org.springdoc                        2020-12..2026-08 2.9.0                |........============|
-  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |...................=|
+  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |.................==.|
 org.springdoc.openapi.ai.common  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
   ? * org.springdoc                        2026-04..2026-08 3.1.0                |..................==|
-  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |...................=|
+  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
 org.springdoc.openapi.common  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
   A * org.springdoc                        2020-12..2026-08 3.1.0                |........============|
-  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |...................=|
+  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |.................==.|
 org.springdoc.openapi.webflux.scalar  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
   A * org.springdoc                        2025-09..2026-08 2.9.0                |.................===|
-  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |...................=|
+  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-12..2025-12 2.8.14               |..................=.|
 org.springdoc.openapi.webflux.ui  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
   A * org.springdoc                        2020-12..2026-08 2.9.0                |........============|
-  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |...................=|
+  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-08..2025-12 2.8.14               |.................==.|
 org.springdoc.openapi.webmvc.ai  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
   ? * org.springdoc                        2026-04..2026-08 3.1.0                |..................==|
-  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |...................=|
+  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
 org.springdoc.openapi.webmvc.scalar  [fork: keep `org.springdoc`, `io.github.vpelikh` still publishes the name]
   A * org.springdoc                        2025-09..2026-08 2.9.0                |.................===|
-  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |...................=|
+  ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-12..2025-12 2.8.14               |..................=.|
 io.netty.common  [fork: keep `io.netty`, `org.opendaylight.netconf` still publishes the name]
   A * io.netty                             2017-12..2026-08 4.1.137.Final        |..==================|
@@ -1284,7 +1284,7 @@ jakarta.inject  [fork: keep `jakarta.inject`, `io.github.jolt-community.jolt` st
   R   io.joynr.java.core                   2026-01..2026-06 1.24.8               |..................=.|
     + 13 more: dev.getelements.elements, it.netgrid, network.sloud.hytale, com.uchicom, com.google.tsunami, io.github.avistotelecom, org.apache.opennlp, com.google.template, io.github.openfeign.querydsl, org.reploop, com.guicedee.services, io.github.jbock-java, (+1 more)
 org.apache.commons.text  [fork: keep `org.apache.commons`, `de.fraunhofer.iosb.ilt.FROST-Server` still publishes the name]
-  A * org.apache.commons                   2018-03..2025-12 1.15.0               |..=================.|
+  A * org.apache.commons                   2018-03..2025-12 1.15.0               |..================..|
   ?   de.fraunhofer.iosb.ilt.FROST-Server  2026-07..2026-07 2.8.0                |...................=|
   R   org.bonitasoft.engine.data           2026-01..2026-06 11.1.0               |..................==|
   R   com.telamin.fluxtion                 2026-05..2026-06 1.0.9                |..................==|
@@ -1476,7 +1476,7 @@ net.bytebuddy  [owned by `net.bytebuddy`; 131 other group(s) shade the name]
 io.vertx.core  [owned by `io.vertx`; 4 other group(s) shade the name]
   A * io.vertx                             2020-05..2026-09 4.5.33               |.......=============|
   ?   io.etcd                              2026-08..2026-08 0.8.7                |...................=|
-  ?   io.sirix                             2026-06..2026-07 1.0.0-beta7          |...................=|
+  ?   io.sirix                             2026-06..2026-07 1.0.0-beta7          |..................==|
   R   io.github.crac.io.vertx              2023-08..2024-09 4.4.6.CRAC.0         |.............===....|
   R   one.gfw                              2023-03..2023-03 4.4.0                |............=.......|
 io.vertx.auth.common  [owned by `io.vertx`; 1 other group(s) shade the name]
@@ -1558,7 +1558,7 @@ com.clickhouse.jdbc  [owned by `com.clickhouse`; 4 other group(s) shade the name
   R   ru.yandex.clickhouse                 2021-12..2021-12 0.3.2                |..........=.........|
 io.github.pdvrieze.testutil  [owned by `io.github.pdvrieze.xmlutil`; 0 other group(s) shade the name]
   ? * io.github.pdvrieze.xmlutil           2025-07..2026-08 1.0.2.1              |.................===|
-  ?   io.github.pdvrieze                   2026-06..2026-06 1.0.0-rc3            |...................=|
+  ?   io.github.pdvrieze                   2026-06..2026-06 1.0.0-rc3            |..................=.|
 io.github.classgraph  [owned by `io.github.classgraph`; 72 other group(s) shade the name]
   A * io.github.classgraph                 2018-08..2026-08 4.8.194              |...=================|
   R   org.finos.legend.engine              2025-10..2026-08 4.140.2              |.................===|
@@ -1597,7 +1597,7 @@ com.azure.storage.common  [owned by `com.azure`; 2 other group(s) shade the name
 com.fasterxml.jackson.datatype.joda  [owned by `com.fasterxml.jackson.datatype`; 4 other group(s) shade the name]
   A * com.fasterxml.jackson.datatype       2017-10..2026-08 2.22.2               |.===================|
   R   io.kestra.plugin                     2024-06..2024-08 0.18.1               |...............=....|
-  R   org.apache.beam                      2022-05..2023-05 2.48.0               |..........====......|
+  R   org.apache.beam                      2022-05..2023-05 2.48.0               |..........===.......|
   ?   io.siddhi                            2022-11..2023-02 5.1.28               |...........==.......|
   R   com.seeq                             2021-12..2022-08 55.4.9-v202208021422 |..........==........|
 com.fasterxml.jackson.module.jaxb  [owned by `com.fasterxml.jackson.module`; 97 other group(s) shade the name]
@@ -2639,7 +2639,7 @@ org.newsclub.net.unix  [no clear owner; `com.kohlschutter.junixsocket` is earlie
   ?   net.corda                            2025-09..2026-08 4.14.3               |.................===|
   ?   com.sbbsystems.flink                 2026-01..2026-08 3.5.0                |..................==|
   ?   net.blahajcloud                      2026-06..2026-06 1.0                  |...................=|
-  ?   org.jam4s                            2025-10..2026-06 0.7.2-M1             |.................===|
+  ?   org.jam4s                            2025-10..2026-06 0.7.2-M1             |.................==.|
   ?   io.nosqlbench                        2020-02..2020-03 3.12.47              |......=.............|
     + 1 more: io.engineblock
 org.apache.commons.net  [no clear owner; `commons-net` is earliest and most recent]
