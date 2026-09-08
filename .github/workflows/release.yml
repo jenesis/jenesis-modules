@@ -64,7 +64,7 @@ jobs:
                -Djenesis.project.documentation=true \
                -Djenesis.dependency.pin=strict \
                -Djenesis.project.metadata=project.properties \
-               build/jenesis/Project.java stage
+               build/jenesis/Make.java stage
 
       - name: JReleaser deploy
         uses: jreleaser/release-action@90ac653bb9c79d11179e65d81499f3f34527dcd5 # 2.5.0

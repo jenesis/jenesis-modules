@@ -41,7 +41,7 @@ and headers.
 | `tests/` | JUnit Jupiter and AssertJ, one test package. |
 | `worker/` | The Cloudflare Worker (`index.js`) that serves the repository contract over `data/modules/`. |
 | `data/` | The catalogue itself, written by the crawler and committed. |
-| `build/jenesis/` | A link into the `.jenesis/upstream` git submodule, the pinned Jenesis build tool. |
+| `build/jenesis/` | A link into the `build/.upstream` git submodule, the pinned Jenesis build tool. |
 | `.github/workflows/` | build, crawl, summary, release, reconcile-metadata, and worker. |
 
 ## Building and testing
@@ -51,8 +51,8 @@ The crawler runs from source and needs no build. Tests are run with
 
 ```bash
 git submodule update --init --depth 1         # the pinned build tool, once after cloning
-java build/jenesis/Project.java               # build + run tests
-java build/jenesis/Project.java stage         # stage the runtime jar under target/stage/
+java build/jenesis/Make.java               # build + run tests
+java build/jenesis/Make.java stage         # stage the runtime jar under target/stage/
 ```
 
 ## Running a crawl

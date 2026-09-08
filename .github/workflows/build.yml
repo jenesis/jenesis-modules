@@ -34,4 +34,4 @@ jobs:
           java-version: '26'
 
       - name: Build and test with Jenesis
-        run: java build/jenesis/Project.java
+        run: java build/jenesis/Make.java

@@ -3,10 +3,10 @@
 # legitimate groupId segment.
 /target/
 *.hprof
-# The tool's runtime caches inside the jenesis home dir (.jenesis/ also holds the committed
-# .jenesis.skip marker and the upstream submodule, which stay tracked).
-.jenesis/artifacts/
-.jenesis/cache/
+# Everything the tool writes: the resolved artifacts, the caches, the compiled
+# engine and its stamp. Nothing tracked lives here - the vendored engine is the
+# build/.upstream submodule - so the whole folder is safe to delete.
+.jenesis/
 
 ### IntelliJ IDEA ###
 .idea/*

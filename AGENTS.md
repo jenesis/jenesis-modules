@@ -8,11 +8,11 @@ releasing. The user documentation is [jenesis.build/modules](https://jenesis.bui
 
 ## Build & test
 
-- **JDK 25 or newer.** The build tool is the `.jenesis/upstream` git submodule (`build/jenesis` links into
-  it): `git submodule update --init --depth 1` once, then `java build/jenesis/Project.java` builds and runs
+- **JDK 25 or newer.** The build tool is the `build/.upstream` git submodule (`build/jenesis` links into
+  it): `git submodule update --init --depth 1` once, then `java build/jenesis/Make.java` builds and runs
   the tests. The crawler programs themselves run from source (`java sources/build/jenesis/crawler/Crawl.java …`).
 - The worker is tested with Node's built-in runner: `node --test` from `worker/`. It has no dependencies.
-- CI builds under strict pinning; after changing a dependency, run `java build/jenesis/Project.java pin` and
+- CI builds under strict pinning; after changing a dependency, run `java build/jenesis/Make.java pin` and
   commit the rewritten pins.
 
 ## How the code is written
@@ -47,4 +47,4 @@ A release is a manual run of the release workflow from the Actions tab, so any c
 optional `sha` input names the commit (default: the head it runs on) and its optional `tag` input names the tag
 (`vX.Y.Z`; default: the next minor of the latest tag). It stages under strict pinning and publishes through
 JReleaser. The build tool pin is moved by checking out the new
-commit in `.jenesis/upstream`, building, and committing the submodule pointer.
+commit in `build/.upstream`, building, and committing the submodule pointer.
