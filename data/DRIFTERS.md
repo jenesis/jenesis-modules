@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-08. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-09. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -81,7 +81,7 @@ jul.to.slf4j  [explicit rule: owned by `org.slf4j`; 17 other group(s) rejected]
 scala.library  [explicit rule: owned by `org.scala-lang`; 3 other group(s) rejected]
   A * org.scala-lang                       2018-03..2026-08 3.10.0-RC1           |..==================|
   ?   dev.propensive                       2026-08..2026-09 3.10.1-dev-p16       |...................=|
-  ?   ch.epfl.lara                         2026-06..2026-09 3.10.1-RC1-bin-20260903-e1f9361-NIGHTLY |...................=|
+  ?   ch.epfl.lara                         2026-06..2026-09 3.10.1-RC1-bin-20260903-e1f9361-NIGHTLY |..................==|
   R   com.github.xuwei-k                   2021-01..2021-01 2.13.3-bin-1ca7d14   |........=...........|
 kotlin.stdlib.jdk8  [explicit rule: owned by `org.jetbrains.kotlin`; 245 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2026-09 2.4.20-RC3           |....================|
@@ -869,7 +869,7 @@ org.bouncycastle.provider  [fork: keep `org.bouncycastle`, `io.gitee.maluole` st
   ?   io.gitee.maluole                     2026-06..2026-09 1.3.2.RELEASE        |...................=|
   R   org.terracotta                       2022-02..2026-08 3.3.49               |..........==========|
   R   org.wso2.charon                      2019-04..2026-06 5.1.5                |....================|
-  R   org.dcache                           2025-12..2026-06 3.4.3                |..................==|
+  R   org.dcache                           2025-12..2026-06 3.4.3                |.................==.|
   R   org.apache.pinot                     2025-02..2026-06 1.5.1                |................===.|
     + 83 more: org.openeuler, org.apache.dolphinscheduler, org.exploit, de.moritzpetersen, org.apache.seatunnel, de.splatgames.aether.pack, net.maritimeconnectivity.pki, io.github.swiyu-admin-ch, org.hyperledger.fabric, io.kestra.storage, io.aiven, io.kestra.plugin, (+71 more)
 org.apache.logging.log4j  [fork: keep `org.apache.logging.log4j`, `dk.dma.ais.lib` still publishes the name]
@@ -916,8 +916,8 @@ org.apache.poi.poi  [fork: keep `org.apache.poi`, `ai.platon.pulsar` still publi
   ?   ai.platon.pulsar                     2026-08..2026-08 4.14.0-rc.2          |...................=|
   R   com.guicedee.modules.services        2026-04..2026-08 2.2.2                |..................==|
   R   io.github.itgemini                   2024-12..2026-02 2.2.5                |................===.|
-  R   io.github.daichangya                 2025-12..2025-12 5.1.1                |..................=.|
-  R   com.jsdiff                           2025-12..2025-12 5.1.0                |..................=.|
+  R   io.github.daichangya                 2025-12..2025-12 5.1.1                |.................=..|
+  R   com.jsdiff                           2025-12..2025-12 5.1.0                |.................=..|
     + 14 more: io.gitee.tikadoc, io.github.geminit-it, io.github.mianalysis, com.liferay, com.crealytics, com.codoid.products, ch.exense.step.library, com.guicedee.services, io.github.rocketmadev, org.datakurator, org.lucee, io.github.weizhonzhen, (+2 more)
 org.tukaani.xz  [fork: keep `org.tukaani`, `org.sonarsource.javascript` still publishes the name]
   A * org.tukaani                          2018-01..2026-03 1.12                 |..=================.|

@@ -197,7 +197,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 150 | org.junit.platform:junit-platform-launcher | org.junit.platform.launcher ✳️ | 2026-08-07 | 10,2 | 9,2 | 6.1.3 | 6.1.3 | 112 | 109 | 16 | 17 | 13 | 531,3 | 24,3 | 1,3 | - |
 | 151 | com.amazonaws:aws-java-sdk-pom |  |  |  |  |  |  | 0 | 0 | 0 | 0 | 426 | 773,1 🔺 | 647,6 🔺 | 6,8 | 🔺 files, size |
 | 152 | com.fasterxml.jackson.dataformat:jackson-dataformats-text |  | 2026-08-16 | 0,3 |  | 2.22.2 |  | 9 | 0 | 9 | 0 | 12 | 365,4 | 5,3 | 1,7 | - |
-| ~~153~~ | ~~io.projectreactor:reactor-bom~~ | ~~-~~ | ~~2026-08-20~~ | ~~9,5~~ | ~~-~~ | ~~2025.0.7~~ | ~~-~~ | ~~40~~ | ~~0~~ | ~~4~~ | ~~0~~ | ~~5~~ | ~~121,6~~ | ~~7,6~~ | ~~3,0~~ | ~~-~~ |
+| ~~153~~ | ~~io.projectreactor:reactor-bom~~ | ~~-~~ | ~~2026-08-20~~ | ~~9,5~~ | ~~-~~ | ~~2025.0.7~~ | ~~-~~ | ~~40~~ | ~~0~~ | ~~4~~ | ~~0~~ | ~~5~~ | ~~123,6~~ | ~~7,8~~ | ~~2,9~~ | ~~-~~ |
 | 154 | com.sun.xml.bind:jaxb-bom-ext |  |  |  |  |  |  | 0 | 0 | 0 | 0 | 8 | 140,5 | 31,9 | 0,3 | - |
 | ~~155~~ | ~~org.apache.maven.plugins:maven-surefire-plugin~~ | ~~-~~ | ~~2026-06-02~~ | ~~20,4~~ | ~~-~~ | ~~3.6.0-M1~~ | ~~-~~ | ~~71~~ | ~~0~~ | ~~4~~ | ~~0~~ | ~~35~~ | ~~45,4~~ | ~~2,7~~ | ~~2,9~~ | ~~-~~ |
 | ~~156~~ | ~~org.apache.maven.doxia:doxia-sink-api~~ | ~~-~~ | ~~2026-03-17~~ | ~~20,3~~ | ~~-~~ | ~~2.1.0~~ | ~~-~~ | ~~38~~ | ~~0~~ | ~~1~~ | ~~0~~ | ~~13~~ | ~~312,0~~ | ~~7,8~~ | ~~0,1~~ | ~~-~~ |
@@ -284,7 +284,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~237~~ | ~~org.springframework.ws:spring-ws-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~5~~ | ~~80,0~~ | ~~13,0~~ | ~~0,8~~ | ~~-~~ |
 | ~~238~~ | ~~com.google.http-client:google-http-client-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~11~~ | ~~220,0~~ | ~~3,2~~ | ~~0,6~~ | ~~-~~ |
 | 239 | classworlds:classworlds 🚩 |  | 2006-01-12 | 21,1 |  | 1.1 |  | 13 | 0 | 0 | 0 |  |  |  |  |  |
-| 240 | io.projectreactor:reactor-core | reactor.core ⚙️ | 2026-08-20 | 11,5 | 6,9 | 3.8.7 | 3.8.7 | 203 | 146 | 20 | 20 | 5 | 121,6 | 7,6 | 3,0 | - |
+| 240 | io.projectreactor:reactor-core | reactor.core ⚙️ | 2026-08-20 | 11,5 | 6,9 | 3.8.7 | 3.8.7 | 203 | 146 | 20 | 20 | 5 | 123,6 | 7,8 | 2,9 | - |
 | 241 | jakarta.annotation:jakarta.annotation-api ⚠️ | jakarta.annotation ✳️ | 2024-02-15 | 7,8 | 7,8 | 3.0.0 | 3.0.0 | 10 | 10 | 0 | 0 |  |  |  |  |  |
 | 242 | io.netty:netty-tcnative-boringssl-static | io.netty.internal.tcnative ✳️ | 2026-08-29 | 10,5 | 7,5 | 2.0.83.Final | 2.0.83.Final | 105 | 62 | 10 | 10 | 66 | 1061,8 🔺 | 43,9 🔺 | 3,2 | 🔺 files, size |
 | 243 | org.glassfish.jaxb:txw2 | com.sun.xml.txw2 ✳️ | 2026-05-28 | 12,5 | 8,1 | 4.0.9 | 4.0.9 | 45 | 38 | 4 | 4 | 27 | 399,0 | 16,2 | 0,3 | - |
