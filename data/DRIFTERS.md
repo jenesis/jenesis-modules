@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-09. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-10. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -303,7 +303,7 @@ com.sun.tools.xjc  [explicit rule: owned by `org.glassfish.jaxb`; 4 other group(
   R   cn.lzgabel.jaxb.xml.bind             2022-03..2022-03 4.0.0                |..........=.........|
   R   com.github.shynixn                   2019-02..2019-02 1.0                  |....=...............|
 spring.jcl  [explicit rule: owned by `org.springframework`; 2 other group(s) rejected]
-  A * org.springframework                  2017-09..2026-06 6.2.19               |.===================|
+  A * org.springframework                  2017-09..2026-06 6.2.19               |.==================.|
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |..................=.|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
 ```
@@ -1047,7 +1047,7 @@ org.lwjgl.glfw  [fork: keep `org.lwjgl`, `io.github.lionblazer` still publishes 
   A * org.lwjgl                            2017-09..2026-08 3.4.3                |.===================|
   ?   io.github.lionblazer                 2026-08..2026-08 1.92.5.1             |...................=|
   R   io.github.spair                      2021-06..2025-08 1.90.0               |.........=========..|
-  R   com.github.tommyettinger             2022-10..2023-11 1.12.1.0             |...........====.....|
+  R   com.github.tommyettinger             2022-10..2023-11 1.12.1.0             |...........===......|
   R   org.glavo.hmcl.mmachina              2022-09..2022-09 3.3.1-mmachina.1     |...........=........|
   A   org.lwjgl.osgi                       2018-12..2021-12 3.3.0                |....=======.........|
 org.apache.logging.log4j.slf4j2.impl  [fork: keep `org.apache.logging.log4j`, `net.corda` still publishes the name]
@@ -1371,22 +1371,22 @@ org.apache.commons.configuration2  [fork: keep `org.apache.commons`, `org.wso2.o
     + 2 more: org.bidib.com.github.markusbernhardt, consulting.freiheitsgrade.patched
 org.apache.jena.jdbc.driver.remote  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
   ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....=========......|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.ext.com.google  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
   ? * org.apache.jena                      2018-06..2023-04 4.8.0                |...==========.......|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.jdbc.core  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
   ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....=========......|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.jdbc.driver.tdb  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
   ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....=========......|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.permissions  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
   ? * org.apache.jena                      2018-06..2025-10 5.6.0                |...===============..|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 jakarta.json  [fork: keep `jakarta.json`, `com.vaimee` still publishes the name]
   A * jakarta.json                         2020-01..2023-10 2.1.3                |......========......|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
   R   org.eclipse.parsson                  2021-06..2026-05 1.1.9                |.........==========.|
   R   io.github.qudtlib                    2026-02..2026-02 7.2.0                |..................=.|
   R   com.arangodb                         2025-08..2026-01 1.9.0                |.................==.|
@@ -1394,13 +1394,13 @@ jakarta.json  [fork: keep `jakarta.json`, `com.vaimee` still publishes the name]
     + 9 more: org.openpreservation.jhove, zone.cogni.semanticz, com.exasol, io.github.changebooks, com.atomgraph.etl.csv, org.avaje.experiment, org.spdx, org.glassfish, com.mparticle
 org.apache.jena.iri  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
   ? * org.apache.jena                      2018-06..2025-10 5.6.0                |...===============..|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.jdbc.driver.mem  [fork: keep `org.apache.jena`, `com.vaimee` still publishes the name]
   ? * org.apache.jena                      2019-10..2023-10 4.10.0               |.....=========......|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 com.aayushatharva.brotli4j  [fork: keep `com.aayushatharva.brotli4j`, `net.sourceforge.plantuml` still publishes the name]
   A * com.aayushatharva.brotli4j           2022-12..2026-04 1.23.0               |............=======.|
-  ?   net.sourceforge.plantuml             2026-06..2026-06 1.2026.6             |...................=|
+  ?   net.sourceforge.plantuml             2026-06..2026-06 1.2026.6             |..................=.|
   R   org.apache.orc                       2024-11..2026-01 2.1.4                |...............====.|
 org.osgi.framework  [fork: keep `org.osgi`, `org.apache.karaf` still publishes the name]
   ? * org.osgi                             2020-12..2020-12 1.10.0               |........=...........|
@@ -1527,7 +1527,7 @@ org.mongodb.bson.record.codec  [owned by `org.mongodb`; 1 other group(s) shade t
   ?   com.guicedee.modules.services        2026-08..2026-08 2.2.2                |...................=|
 com.azure.http.netty  [owned by `com.azure`; 1 other group(s) shade the name]
   ? * com.azure                            2019-11..2026-08 1.16.7               |......==============|
-  ?   io.lakefs                            2026-06..2026-06 0.24.1               |...................=|
+  ?   io.lakefs                            2026-06..2026-06 0.24.1               |..................=.|
 org.seleniumhq.selenium.api  [owned by `org.seleniumhq.selenium`; 3 other group(s) shade the name]
   A * org.seleniumhq.selenium              2019-09..2026-08 4.48.0               |.....===============|
   ?   com.github.aquality-automation       2026-08..2026-08 7.5.0                |...................=|
@@ -1936,70 +1936,70 @@ org.eclipse.jetty.client  [owned by `org.eclipse.jetty`; 2 other group(s) shade 
   R   org.exploit                          2024-10..2026-04 1.0.9                |...............====.|
 org.apache.jena.base  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...=================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.text  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...=================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.arq  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...=================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.commonsrdf  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2020-05..2026-08 6.2.0                |.......=============|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.core  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...=================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.dboe.trans.data  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-12..2026-08 6.2.0                |....================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.fuseki.access  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-12..2026-08 6.2.0                |....================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.fuseki.core  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-12..2026-08 6.2.0                |....================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.shex  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2021-09..2026-08 6.2.0                |.........===========|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.tdb2  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...=================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.rdfconnection  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...=================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.cmds  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...=================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.dboe.index  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-12..2026-08 6.2.0                |....================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.dboe.index.test  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-12..2026-08 6.2.0                |....================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.dboe.transaction  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-12..2026-08 6.2.0                |....================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.shacl  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2019-10..2026-08 6.2.0                |.....===============|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.tdb  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...=================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.dboe.base  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2020-01..2026-08 6.2.0                |......==============|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.dboe.storage  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2019-10..2026-08 6.2.0                |.....===============|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.fuseki.main  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-12..2026-08 6.2.0                |....================|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.geosparql  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2019-09..2026-08 6.2.0                |.....===============|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 org.apache.jena.querybuilder  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2020-05..2026-08 6.2.0                |.......=============|
-  ?   com.vaimee                           2026-06..2026-06 4.3.2                |...................=|
+  ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
 com.gizmodata.quack.jdbc  [owned by `com.gizmodata`; 1 other group(s) shade the name]
   ? * com.gizmodata                        2026-05..2026-07 0.2.0-alpha.6        |..................==|
   ?   dev.brikk.duckdb                     2026-07..2026-07 0.6.0                |...................=|
@@ -2016,7 +2016,7 @@ io.github.humbleui.skija.windows.x64  [owned by `io.github.humbleui`; 1 other gr
   ? * io.github.humbleui                   2022-12..2026-06 0.119.6              |............========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
 org.neo4j.bolt.connection.routed  [owned by `org.neo4j.bolt`; 0 other group(s) shade the name]
-  ? * org.neo4j.bolt                       2025-03..2026-06 12.0.0               |................====|
+  ? * org.neo4j.bolt                       2025-03..2026-06 12.0.0               |................===.|
   ?   org.neo4j.connectors                 2026-06..2026-06 6.0.0-RC01-s_2.13    |..................=.|
 ```
 
@@ -2353,7 +2353,7 @@ org.apache.commons.io  [no clear owner; `commons-io` is earliest and most recent
 net.sf.jsqlparser  [no clear owner; `com.github.jsqlparser` is earliest and most recent]
   ? * com.github.jsqlparser                2024-03..2025-05 5.3                  |..............===...|
   ?   com.manticore-projects.jsqlformatter 2025-12..2026-09 5.3.336              |..................==|
-  ?   se.alipsa                            2025-12..2025-12 1.2.0                |..................=.|
+  ?   se.alipsa                            2025-12..2025-12 1.2.0                |.................==.|
   ?   ai.starlake                          2024-09..2024-10 1.3.0                |...............=....|
 org.apache.commons.codec  [no clear owner; `commons-codec` is earliest and most recent]
   ? * commons-codec                        2017-10..2026-07 1.22.1               |.===================|
