@@ -24,6 +24,10 @@
         <mainClass>build.jenesis.crawler.Crawl</mainClass>
     </properties>
 
+    <!--jenesis.signature
+    OpenPGP/BE685132AFD2740D9095F9040CC0B712FEE75827 org.assertj/*
+    OpenPGP/FF6E2C001948C5F2F38B0CC385911F425EC61B51 org.apiguardian/* org.junit.jupiter/* org.junit.platform/* org.opentest4j/*
+    -->
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -76,27 +80,9 @@
             </dependency>
             <dependency>
                 <groupId>org.junit.platform</groupId>
-                <artifactId>junit-platform-console</artifactId>
-                <version>1.11.4</version>
-                <!--Checksum/SHA-256/a9c3309cdfded3542200de85da6cb274864439d6b02ba80bb45ecc8e0bdf1be7-->
-            </dependency>
-            <dependency>
-                <groupId>org.junit.platform</groupId>
                 <artifactId>junit-platform-engine</artifactId>
                 <version>1.11.3</version>
                 <!--Checksum/SHA-256/0043f72f611664735da8dc9a308bf12ecd2236b05339351c4741edb4d8fab0da-->
-            </dependency>
-            <dependency>
-                <groupId>org.junit.platform</groupId>
-                <artifactId>junit-platform-launcher</artifactId>
-                <version>1.11.4</version>
-                <!--Checksum/SHA-256/d7430bd029e7fcced53ee445e4d2d1a8a1e043ea4c4df43b6335a857f79761ae-->
-            </dependency>
-            <dependency>
-                <groupId>org.junit.platform</groupId>
-                <artifactId>junit-platform-reporting</artifactId>
-                <version>1.11.4</version>
-                <!--Checksum/SHA-256/df6896109bfaef4de8d2fa9e3371a6176936d1a45a6c0e7fd8f7e6dd6f4c5597-->
             </dependency>
             <dependency>
                 <groupId>org.opentest4j</groupId>
