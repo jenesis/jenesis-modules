@@ -12,6 +12,7 @@
  *    `<moduleName>-<classifier>`) passes through unchanged. Examples:
  *      `<moduleName>.jar`              → `<artifactId>-<version>.jar`
  *      `<moduleName>.pom`              → `<artifactId>-<version>.pom`
+ *      `<moduleName>.jar.asc`          → `<artifactId>-<version>.jar.asc`
  *      `<moduleName>.pom.sha256`       → `<artifactId>-<version>.pom.sha256`
  *      `<moduleName>.module`           → `<artifactId>-<version>.module`
  *      `<moduleName>-<c>.jar`          → `<artifactId>-<version>-<c>.jar`
@@ -26,14 +27,15 @@
  *    Maven version when no module-info version was declared). Each module-version maps to
  *    exactly one Maven coordinate - the oldest Maven publish wins, so the mapping is
  *    stable even though Maven doesn't enforce unique module versions. Filename is
- *    `<moduleName>.jar` or `<moduleName>-<classifier>.jar`; only `.jar` is supported on
- *    this route.
+ *    `<moduleName>.jar` or `<moduleName>-<classifier>.jar`; only `.jar`, optionally with a
+ *    trailing `.asc` for the detached signature, is supported on this route.
  *
  *  - `/sources/<moduleName>/[<moduleVersion>/]<filename>.jar`
  *    `/documentation/<moduleName>/[<moduleVersion>/]<filename>.jar`
  *    Companion sources / javadoc JARs. The version segment is the **module-info version**;
  *    these routes resolve through `modules.tsv` and synthesise the `-sources` / `-javadoc`
- *    URL from the row's Maven coordinate.
+ *    URL from the row's Maven coordinate. As on `/module/`, a trailing `.asc` fetches the
+ *    detached signature instead of the jar.
  *
  * In every mode the version segment is optional - leaving it out picks the first row in
  * the TSV (highest version, since both files are sorted descending). An explicit version
@@ -69,6 +71,12 @@ const STALE_WHILE_REVALIDATE = 86400;
 // We use this both to validate URL-supplied module names and to split a
 // `<moduleName>-<classifier>` basename at the first hyphen.
 const MODULE_SEGMENT = /^[A-Za-z_$][A-Za-z0-9_$]*$/;
+
+// Detached OpenPGP signature sidecar. Routes that constrain the request extension accept
+// their extension with this appended, so a signature can be fetched over the same route as
+// the artifact it signs. The redirect target gets the same suffix, and Maven Central serves
+// the `.asc` that the publisher uploaded beside the jar.
+const SIGNATURE_EXTENSION = ".asc";
 
 // Resolution modes. `tsv` is the TSV file base name. `filenameSuffix` is the Maven-side
 // filename decoration ("-sources" / "-javadoc") spliced before the extension when building
@@ -254,7 +262,11 @@ function parsePath(pathname) {
     }
 
     const required = MODES[mode].extension;
-    if (required !== null && extension !== required) {
+    if (
+        required !== null &&
+        extension !== required &&
+        extension !== required + SIGNATURE_EXTENSION
+    ) {
         return null;
     }
 
