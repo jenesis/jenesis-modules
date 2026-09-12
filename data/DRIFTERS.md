@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-11. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-12. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -772,7 +772,7 @@ com.fasterxml.jackson.datatype.jsr310  [fork: keep `com.fasterxml.jackson.dataty
 com.fasterxml.jackson.jaxrs.json  [fork: keep `com.fasterxml.jackson.jaxrs`, `ru.moysklad.api` still publishes the name]
   A * com.fasterxml.jackson.jaxrs          2017-10..2026-08 2.22.2               |.===================|
   ?   ru.moysklad.api                      2026-08..2026-09 0.24.0               |...................=|
-  R   org.lance                            2025-12..2026-08 0.8.0-beta.1         |..................==|
+  R   org.lance                            2025-12..2026-08 0.8.0-beta.1         |.................===|
   R   org.devlive.connector                2025-03..2026-08 2026.0.0             |................====|
   R   com.alibaba.ververica                2022-10..2026-07 1.20-vvr-11.8.0-1-jdk11 |...........=========|
   ?   io.simpleishard                      2026-07..2026-07 0.55.0               |...................=|
@@ -933,7 +933,7 @@ ch.randelshofer.fastdoubleparser  [fork: keep `ch.randelshofer`, `za.co.absa.spl
   R   org.apache.inlong                    2023-10..2026-08 2.4.0                |.............=======|
   ?   org.jruby                            2026-07..2026-07 10.1.1.0             |...................=|
   R   com.clickzetta                       2024-08..2026-07 2.0.1                |...............=====|
-  R   software.amazon.smithy.java          2026-05..2026-06 1.4.0                |..................==|
+  R   software.amazon.smithy.java          2026-05..2026-06 1.4.0                |..................=.|
     + 33 more: io.github.solven-eu.pepper, org.metafacture, org.jetbrains.kotlinx.dataframe, com.cjbooms, io.github.cmu-phil, io.github.hkarthik7, io.kestra.plugin, io.trino, org.apache.arrow, com.databricks, org.sonarsource.text, org.openrewrite, (+21 more)
 org.signal.libsignal  [fork: keep `org.signal`, `io.github.wanggenlin` still publishes the name]
   A * org.signal                           2023-09..2025-11 0.86.5               |.............=====..|
@@ -1023,7 +1023,7 @@ com.zaxxer.hikari  [fork: keep `com.zaxxer`, `io.github.kaleert` still publishes
   R   io.github.kaleert                    2026-01..2026-08 1.2.2                |..................==|
   R   org.apache.inlong                    2022-06..2026-08 2.4.0                |...........=========|
   R   org.kill-bill.billing                2020-09..2026-08 0.24.21              |.......=============|
-  R   org.finos.legend.depot               2025-06..2026-08 2.96.0               |.................===|
+  R   org.finos.legend.depot               2025-06..2026-08 2.96.0               |................====|
   R   com.aliyun.schedulerx                2020-08..2026-08 1.14.2               |.......=============|
     + 73 more: org.quickfixj, work.noice, org.apache.kylin, org.apache.hudi, org.apache.dolphinscheduler, io.github.deathgod7, io.higson, org.apache.seatunnel, com.scalar-labs, org.apache.flink, org.testingisdocumenting.webtau, it.unibz.inf.ontop, (+61 more)
 com.fasterxml.jackson.jakarta.rs.json  [fork: keep `com.fasterxml.jackson.jakarta.rs`, `ch.exense.step` still publishes the name]
@@ -1128,7 +1128,7 @@ tools.jackson.core  [fork: keep `tools.jackson.core`, `org.pragmatica-lite` stil
   R   ru.tinkoff.piapi                     2026-01..2026-08 1.49.6               |..................==|
   ?   org.apache.cayenne                   2026-06..2026-08 5.0-M3               |...................=|
   R   com.erudika                          2025-11..2026-08 1.43.0               |.................===|
-  ?   com.phonepe.sentinel-ai              2026-06..2026-07 1.2.0-alpha3         |...................=|
+  ?   com.phonepe.sentinel-ai              2026-06..2026-07 1.2.0-alpha3         |..................==|
     + 23 more: org.pragmatica-lite.aether, software.xdev.mockserver, com.ibm.jsonata4java, fish.payara.tools, com.playtika.reactivefeign, io.github.ignf, media.barney, org.sonarsource.sonarlint.ls, io.github.tansuasici, com.limemojito.oss.standards, com.limemojito.oss.standards.development-test, io.sapl, (+11 more)
 dev.tamboui.toolkit  [fork: keep `dev.tamboui`, `com.steeplesoft` still publishes the name]
   ? * dev.tamboui                          2026-02..2026-06 0.4.0                |..................==|
@@ -1326,7 +1326,7 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `dk.dma.a
 com.headius.invokebinder  [fork: keep `com.headius`, `org.sahli.asciidoc.confluence.publisher` still publishes the name]
   A * com.headius                          2017-10..2026-07 1.16                 |.===================|
   R   org.sahli.asciidoc.confluence.publisher 2026-03..2026-07 0.35.0               |..................==|
-  R   org.springframework.cloud            2024-11..2026-06 4.3.4                |...............=====|
+  R   org.springframework.cloud            2024-11..2026-06 4.3.4                |...............====.|
   R   com.lealceldeiro                     2025-02..2026-03 2.3.1                |................===.|
   R   ch.ifocusit.livingdoc                2025-05..2025-05 2.16                 |................=...|
   R   de.jcup.asp                          2021-09..2022-04 1.4.1                |.........==.........|
@@ -1363,7 +1363,7 @@ io.github.humbleui.skija.windows.arm64  [fork: keep `io.github.humbleui`, `com.b
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
 org.apache.commons.configuration2  [fork: keep `org.apache.commons`, `org.wso2.orbit.org.apache.commons` still publishes the name]
   A * org.apache.commons                   2017-10..2026-05 2.15.1               |.==================.|
-  ?   org.wso2.orbit.org.apache.commons    2026-06..2026-06 2.15.1.wso2v1        |...................=|
+  ?   org.wso2.orbit.org.apache.commons    2026-06..2026-06 2.15.1.wso2v1        |..................=.|
   R   org.neo4j.procedure                  2024-04..2026-01 4.4.0.40             |..............=====.|
   R   com.databricks.labs                  2025-05..2026-01 0.6.17               |................===.|
   R   software.amazon.s3tables             2024-12..2025-08 0.1.8                |................==..|
@@ -2375,29 +2375,29 @@ org.apache.commons.logging  [no clear owner; `org.slf4j` is earliest and most re
   ?   org.apache.tika                      2022-09..2026-07 3.3.2                |...........=========|
     + 36 more: net.ontopia, org.apache.orc, org.motorbrot, org.nuiton, de.redsix, org.lucee, io.github.jinahya, org.operaton.bpm.extension, commons-logging, org.jboss.pnc.build-agent, com.facebook.presto.hive, com.nordstrom.ui-tools, (+24 more)
 org.scala.lang.scala3.compiler  [no clear owner; `org.scala-lang` is earliest and most recent]
-  ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........===========|
+  ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........==========.|
   ?   dev.propensive                       2026-08..2026-09 3.10.1-dev-p16       |...................=|
   ?   com.michaelpollmeier                 2022-10..2022-11 3.2.2-RC1-bin-20221101-d84007c-NIGHTLY+1-extensible-repl |...........=........|
 org.scala.lang.scala3.interfaces  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2021-06..2026-08 3.10.0-RC1           |.........===========|
   ?   dev.propensive                       2026-08..2026-09 3.10.1-dev-p16       |...................=|
 org.scala.lang.scala3.staging  [no clear owner; `org.scala-lang` is earliest and most recent]
-  ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........===========|
+  ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........==========.|
   ?   dev.propensive                       2026-08..2026-09 3.9.0-p16            |...................=|
 org.scala.lang.scala3.library  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2021-06..2026-08 3.10.0-RC1           |.........===========|
   ?   dev.propensive                       2026-08..2026-09 3.9.0-p16            |...................=|
 org.scala.lang.scala3.tasty.inspector  [no clear owner; `org.scala-lang` is earliest and most recent]
-  ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........===========|
+  ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........==========.|
   ?   dev.propensive                       2026-08..2026-09 3.9.0-p16            |...................=|
 org.scala.lang.scala3.presentation.compiler  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2023-07..2026-08 3.10.0-RC1           |.............=======|
   ?   dev.propensive                       2026-08..2026-09 3.10.1-dev-p16       |...................=|
 org.scala.lang.scala3.sbt.bridge  [no clear owner; `org.scala-lang` is earliest and most recent]
-  ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........===========|
+  ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........==========.|
   ?   dev.propensive                       2026-08..2026-09 3.9.0-p16            |...................=|
 org.scala.lang.tasty.core  [no clear owner; `org.scala-lang` is earliest and most recent]
-  ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........===========|
+  ? * org.scala-lang                       2021-06..2026-06 3.3.8                |.........==========.|
   ?   dev.propensive                       2026-08..2026-09 3.9.0-p16            |...................=|
 agents.features.trace.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-08 1.2.0                |................====|
@@ -2648,7 +2648,7 @@ org.apache.commons.net  [no clear owner; `commons-net` is earliest and most rece
   ?   com.nordstrom.ui-tools               2024-08..2024-08 4.23.0               |...............=....|
   ?   io.kestra.plugin                     2024-02..2024-03 0.15.1               |..............=.....|
   ?   org.apache.pinot                     2024-03..2024-03 1.1.0                |..............=.....|
-  ?   com.jkoolcloud.tnt4j.streams         2023-11..2023-11 2.0.0                |..............=.....|
+  ?   com.jkoolcloud.tnt4j.streams         2023-11..2023-11 2.0.0                |.............=......|
 jpms_dss_asic_cades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
@@ -2918,7 +2918,7 @@ org.apache.commons.beanutils  [no clear owner; `com.guicedee.services` is earlie
   ?   org.wildfly                          2025-06..2026-08 41.0.1.Final         |.................===|
   ?   com.guicedee.modules.services        2026-04..2026-08 2.2.2                |..................==|
   ?   io.github.stoyank7                   2026-06..2026-06 1.0.2                |...................=|
-  ?   org.jvnet.jaxb                       2025-09..2026-06 2.0.16               |.................===|
+  ?   org.jvnet.jaxb                       2025-09..2026-06 2.0.16               |.................==.|
   ?   com.github.bld-commons               2026-01..2026-05 3.0.19               |..................=.|
     + 4 more: kg.apc, com.github.bordertech.wcomponents, commons-beanutils, org.onebusaway
 bus.starter  [no clear owner; `org.miaixz` is earliest and most recent]
