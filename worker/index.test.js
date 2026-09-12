@@ -170,6 +170,29 @@ test("module mode only accepts a .jar filename", async () => {
     assert.equal(response.status, 404);
 });
 
+test("module mode serves the detached signature beside the jar", async () => {
+    const response = await call("/module/org.slf4j/2.0.9/org.slf4j.jar.asc");
+    assert.equal(response.status, 302);
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar.asc",
+    );
+});
+
+test("module mode still rejects a sidecar it does not serve", async () => {
+    const response = await call("/module/org.slf4j/2.0.9/org.slf4j.jar.sha256");
+    assert.equal(response.status, 404);
+});
+
+test("sources mode signs the -sources jar, not the plain one", async () => {
+    const response = await call("/sources/org.slf4j/2.0.9/org.slf4j.jar.asc");
+    assert.equal(response.status, 302);
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9-sources.jar.asc",
+    );
+});
+
 test("sources mode synthesises the -sources.jar URL", async () => {
     const response = await call("/sources/org.slf4j/2.0.9/org.slf4j.jar");
     assert.equal(response.status, 302);
