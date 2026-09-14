@@ -33,6 +33,11 @@
 39		2026-08-28T16:47:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/39/webgpuviewer-39.jar returned status 404
 4		2026-07-06T00:43:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/4/webgpuviewer-4.jar returned status 404
 40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/40/webgpuviewer-40.jar returned status 404
+41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/41/webgpuviewer-41.jar returned status 404
+42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/42/webgpuviewer-42.jar returned status 404
+43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/43/webgpuviewer-43.jar returned status 404
+44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/44/webgpuviewer-44.jar returned status 404
+45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/45/webgpuviewer-45.jar returned status 404
 5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/5/webgpuviewer-5.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/6/webgpuviewer-6.jar returned status 404
 7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ca/mpreg/webgpuviewer/7/webgpuviewer-7.jar returned status 404

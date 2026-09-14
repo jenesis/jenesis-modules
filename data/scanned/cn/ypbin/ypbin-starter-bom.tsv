@@ -5,3 +5,7 @@
 1.4.1		2026-08-29T02:25:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ypbin/ypbin-starter-bom/1.4.1/ypbin-starter-bom-1.4.1.jar returned status 404
 2.0.0		2026-08-31T07:55:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ypbin/ypbin-starter-bom/2.0.0/ypbin-starter-bom-2.0.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ypbin/ypbin-starter-bom/2.2.0/ypbin-starter-bom-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ypbin/ypbin-starter-bom/2.2.1/ypbin-starter-bom-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ypbin/ypbin-starter-bom/2.2.2/ypbin-starter-bom-2.2.2.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ypbin/ypbin-starter-bom/2.2.3/ypbin-starter-bom-2.2.3.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/ypbin/ypbin-starter-bom/3.0.0/ypbin-starter-bom-3.0.0.jar returned status 404
