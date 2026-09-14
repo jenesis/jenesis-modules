@@ -2387,3 +2387,4 @@ ac.simons.neo4j.migrations.annotations.catalog
 ac.simons.neo4j.migrations.formats.csv
 ac.simons.neo4j.migrations.maven
 ac.simons.neo4j.migrations.cli
+codegen
