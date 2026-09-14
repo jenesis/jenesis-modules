@@ -87,3 +87,5 @@
 0.1.27		2026-06-11T12:34:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pl/mareklangiewicz/kground-linuxx64/0.1.27/kground-linuxx64-0.1.27.jar returned status 404
 0.1.28		2026-06-28T16:19:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pl/mareklangiewicz/kground-linuxx64/0.1.28/kground-linuxx64-0.1.28.jar returned status 404
 0.1.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pl/mareklangiewicz/kground-linuxx64/0.1.29/kground-linuxx64-0.1.29.jar returned status 404
+0.1.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pl/mareklangiewicz/kground-linuxx64/0.1.30/kground-linuxx64-0.1.30.jar returned status 404
+0.1.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pl/mareklangiewicz/kground-linuxx64/0.1.31/kground-linuxx64-0.1.31.jar returned status 404
