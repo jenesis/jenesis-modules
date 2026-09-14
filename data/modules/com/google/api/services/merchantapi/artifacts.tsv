@@ -93,6 +93,7 @@ promotions_v1beta-rev20241101-2.0.0	automatic	com.google.apis	google-api-service
 promotions_v1beta-rev20241022-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 promotions_v1beta-rev20240827-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 promotions_v1beta-rev20240611-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+products_v1-rev20260910-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1-rev20260903-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1-rev20260729-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
