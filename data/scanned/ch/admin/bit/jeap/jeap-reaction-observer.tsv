@@ -48,7 +48,12 @@
 10.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.25.0/jeap-reaction-observer-10.25.0.jar returned status 404
 10.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.26.0/jeap-reaction-observer-10.26.0.jar returned status 404
 10.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.27.0/jeap-reaction-observer-10.27.0.jar returned status 404
+10.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.27.1/jeap-reaction-observer-10.27.1.jar returned status 404
+10.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.28.0/jeap-reaction-observer-10.28.0.jar returned status 404
+10.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.29.0/jeap-reaction-observer-10.29.0.jar returned status 404
 10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.3.0/jeap-reaction-observer-10.3.0.jar returned status 404
+10.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.30.0/jeap-reaction-observer-10.30.0.jar returned status 404
+10.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.31.0/jeap-reaction-observer-10.31.0.jar returned status 404
 10.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.4.0/jeap-reaction-observer-10.4.0.jar returned status 404
 10.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.4.1/jeap-reaction-observer-10.4.1.jar returned status 404
 10.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.5.0/jeap-reaction-observer-10.5.0.jar returned status 404
@@ -56,6 +61,8 @@
 10.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.7.0/jeap-reaction-observer-10.7.0.jar returned status 404
 10.8.0		2026-08-10T09:19:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.8.0/jeap-reaction-observer-10.8.0.jar returned status 404
 10.9.0		2026-08-10T15:06:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/10.9.0/jeap-reaction-observer-10.9.0.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/11.0.0/jeap-reaction-observer-11.0.0.jar returned status 404
+11.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/11.1.0/jeap-reaction-observer-11.1.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/2.0.0/jeap-reaction-observer-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/2.0.1/jeap-reaction-observer-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-reaction-observer/2.0.2/jeap-reaction-observer-2.0.2.jar returned status 404

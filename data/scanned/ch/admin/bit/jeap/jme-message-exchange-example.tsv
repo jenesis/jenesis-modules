@@ -20,6 +20,10 @@
 7.0.0		2026-08-21T07:51:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/7.0.0/jme-message-exchange-example-7.0.0.jar returned status 404
 8.0.0		2026-08-21T08:07:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.0.0/jme-message-exchange-example-8.0.0.jar returned status 404
 8.1.0		2026-08-25T06:20:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.1.0/jme-message-exchange-example-8.1.0.jar returned status 404
+8.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.10.0/jme-message-exchange-example-8.10.0.jar returned status 404
+8.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.10.1/jme-message-exchange-example-8.10.1.jar returned status 404
+8.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.11.0/jme-message-exchange-example-8.11.0.jar returned status 404
+8.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.12.0/jme-message-exchange-example-8.12.0.jar returned status 404
 8.2.0		2026-08-28T07:29:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.2.0/jme-message-exchange-example-8.2.0.jar returned status 404
 8.3.0		2026-08-28T14:44:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.3.0/jme-message-exchange-example-8.3.0.jar returned status 404
 8.4.0		2026-08-28T23:31:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.4.0/jme-message-exchange-example-8.4.0.jar returned status 404
@@ -29,3 +33,6 @@
 8.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.7.0/jme-message-exchange-example-8.7.0.jar returned status 404
 8.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.8.0/jme-message-exchange-example-8.8.0.jar returned status 404
 8.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.8.1/jme-message-exchange-example-8.8.1.jar returned status 404
+8.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/8.9.0/jme-message-exchange-example-8.9.0.jar returned status 404
+9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/9.0.0/jme-message-exchange-example-9.0.0.jar returned status 404
+9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-message-exchange-example/9.1.0/jme-message-exchange-example-9.1.0.jar returned status 404
