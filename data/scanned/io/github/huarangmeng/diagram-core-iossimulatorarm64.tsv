@@ -10,3 +10,4 @@
 1.0.3	metadata	2026-05-27T06:19:05Z	
 1.0.4		2026-05-29T08:44:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/diagram-core-iossimulatorarm64/1.0.4/diagram-core-iossimulatorarm64-1.0.4.jar returned status 404
 1.0.4	metadata	2026-05-29T08:44:36Z	
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/diagram-core-iossimulatorarm64/1.0.5/diagram-core-iossimulatorarm64-1.0.5.jar returned status 404
