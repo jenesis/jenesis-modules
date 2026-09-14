@@ -14,3 +14,4 @@
 1.1.6		2026-06-30T02:58:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/xmagic/xmagic-root/1.1.6/xmagic-root-1.1.6.jar returned status 404
 1.1.8		2026-06-30T09:19:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/xmagic/xmagic-root/1.1.8/xmagic-root-1.1.8.jar returned status 404
 1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/xmagic/xmagic-root/1.1.9/xmagic-root-1.1.9.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/xmagic/xmagic-root/2.0.0/xmagic-root-2.0.0.jar returned status 404

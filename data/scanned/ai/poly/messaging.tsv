@@ -1,2 +1,4 @@
+0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/poly/messaging/0.10.0/messaging-0.10.0.jar returned status 404
+0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/poly/messaging/0.11.0/messaging-0.11.0.jar returned status 404
 0.8.0		2026-06-18T09:45:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/poly/messaging/0.8.0/messaging-0.8.0.jar returned status 404
 0.9.0		2026-07-01T10:02:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/poly/messaging/0.9.0/messaging-0.9.0.jar returned status 404

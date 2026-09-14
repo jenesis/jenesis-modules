@@ -27,3 +27,6 @@
 0.6.0		2026-08-21T05:17:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/runapi/runapi-bom/0.6.0/runapi-bom-0.6.0.jar returned status 404
 0.6.1		2026-08-25T03:29:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/runapi/runapi-bom/0.6.1/runapi-bom-0.6.1.jar returned status 404
 0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/runapi/runapi-bom/0.6.2/runapi-bom-0.6.2.jar returned status 404
+0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/runapi/runapi-bom/0.6.3/runapi-bom-0.6.3.jar returned status 404
+0.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/runapi/runapi-bom/0.6.4/runapi-bom-0.6.4.jar returned status 404
+0.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/runapi/runapi-bom/0.6.5/runapi-bom-0.6.5.jar returned status 404

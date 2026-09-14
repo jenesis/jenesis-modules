@@ -856,6 +856,8 @@
 4.138.4	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-14T17:30:54Z	2.0.72.Final
 4.140.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-17T14:08:26Z	2.0.72.Final
 0.17.0	named	com.spotify.confidence	openfeature-provider-local	2026-08-19T08:25:01Z	2.0.72.Final
+2.6	named	com.github.crawler-commons	urlfrontier-client	2026-08-19T14:17:06Z	2.0.72.Final
+2.6	named	com.github.crawler-commons	urlfrontier-service	2026-08-19T14:17:06Z	2.0.72.Final
 45.0.0	named	com.google.api-ads	google-ads-shadowjar	2026-08-19T17:11:57Z	2.0.75.Final
 4.140.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-20T08:53:11Z	2.0.72.Final
 4.141.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-08-20T20:51:07Z	2.0.72.Final
