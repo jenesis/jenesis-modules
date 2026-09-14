@@ -4,7 +4,7 @@
 > _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-09-01 19:33:33 UTC_  
-_Current chunk started: 2026-09-07 09:41:18 UTC_  
+_Current chunk started: 2026-09-14 10:13:41 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 936_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 18 513 691 |
-| Non-module artifacts | 16 478 205 |
+| Total artifacts scanned | 18 571 664 |
+| Non-module artifacts | 16 529 175 |
 | Modular artifacts | 1 686 230 |
 | Total automatic modules | 1 319 463 |
 | Total named modules | 366 767 |
 | Total named modules with module-info version | 278 355 |
-| Distinct Maven artifacts | 689 592 |
-| Distinct module names | 42 054 |
+| Distinct Maven artifacts | 689 598 |
+| Distinct module names | 42 073 |
 | Distinct automatic modules | 22 274 |
 | Distinct named modules | 18 267 |
 | Distinct named modules with module-info version | 13 330 |
@@ -146,8 +146,8 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 2 782 | 926 | 1 856 |
-| New version rows | 5 849 | 1 198 | 4 651 |
+| Modules with a publication | 136 | 54 | 82 |
+| New version rows | 148 | 55 | 93 |
 | Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
@@ -166,7 +166,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-05 | `█`&nbsp;3 441 (4.4%) | `▓▓`&nbsp;5 625 (7.2%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 006 (88.4%) |
 | 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 111 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 969 (88.4%) |
 | 2026-07 | `█`&nbsp;3 538 (7.1%) | `▓▓`&nbsp;5 573 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
-| 2026-08 | `█`&nbsp;4 154 (5.4%) | `▓▓`&nbsp;6 677 (8.7%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;65 843 (85.9%) |
+| 2026-08 | `█`&nbsp;4 154 (5.4%) | `▓▓`&nbsp;6 677 (8.7%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;65 836 (85.9%) |
 | 2026-09 | `█`&nbsp;918 (32.6%) | `▓`&nbsp;1 901 (67.4%) | 0 (0.0%) |
 
 ## Naming patterns
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 3 829 993 |
-| Incorrectly indexed (mis-stamped 404s) | 3 827 701 |
-| Genuine artifact errors | 2 292 |
+| Total failed coordinates | 3 854 650 |
+| Incorrectly indexed (mis-stamped 404s) | 3 852 356 |
+| Genuine artifact errors | 2 294 |
 
 ### Top 25 genuine error messages
 
@@ -212,7 +212,7 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 | Error message | Count |
 |---|---:|
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
-| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 510 |
+| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 512 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
@@ -310,7 +310,7 @@ Module names that have been published under the most different groupIds across h
 | `com.fasterxml.jackson.core` | 238 |
 | `com.fasterxml.jackson.annotation [-jar-with-dependencies]` | 229 |
 | `com.fasterxml.jackson.annotation` | 188 |
-| `org.slf4j` | 185 |
+| `org.slf4j` | 186 |
 | `org.apache.logging.log4j` | 181 |
 | `kotlin.stdlib` | 148 |
 | `kotlin.stdlib.jdk8` | 137 |
@@ -327,8 +327,8 @@ Module names that have been published under the most different groupIds across h
 | `org.apache.commons.lang3` | 74 |
 | `com.google.gson [-all]` | 72 |
 | `com.fasterxml.jackson.module.jaxb` | 67 |
+| `org.apache.commons.io` | 66 |
 | `org.yaml.snakeyaml` | 66 |
-| `org.apache.commons.io` | 65 |
 | `org.objectweb.asm` | 65 |
 
 ## Top 25 modules updated in the last 7 days
