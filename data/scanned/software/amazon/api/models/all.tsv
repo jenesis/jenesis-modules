@@ -233,6 +233,10 @@
 1.0.309			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/api/models/all/1.0.309/all-1.0.309.jar returned status 404
 1.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/api/models/all/1.0.31/all-1.0.31.jar returned status 404
 1.0.310			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/api/models/all/1.0.310/all-1.0.310.jar returned status 404
+1.0.311			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/api/models/all/1.0.311/all-1.0.311.jar returned status 404
+1.0.312			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/api/models/all/1.0.312/all-1.0.312.jar returned status 404
+1.0.313			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/api/models/all/1.0.313/all-1.0.313.jar returned status 404
+1.0.314			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/api/models/all/1.0.314/all-1.0.314.jar returned status 404
 1.0.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/api/models/all/1.0.32/all-1.0.32.jar returned status 404
 1.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/api/models/all/1.0.33/all-1.0.33.jar returned status 404
 1.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/api/models/all/1.0.34/all-1.0.34.jar returned status 404
