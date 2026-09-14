@@ -319,3 +319,16 @@ com.io7m.jcoronado.fake
 com.io7m.jcoronado.utility.swapchain
 org.postgresql.jdbc
 org.yaml.snakeyaml
+com.rejment.jhttp
+com.fasterxml.jackson.core
+de.fzk.iai.ilcd
+com.healthmarketscience.jackcess
+com.healthmarketscience.jackcess.crypt
+com.powsybl.openrao.data.cracimpl
+com.powsybl.openrao.commons
+com.powsybl.openrao.data.raoresult.impl
+com.google.i18n.phonenumbers.libphonenumber
+com.google.i18n.phonenumbers.prefixmapper
+com.nimbusds.openid.connect.provider.spi.claims.ldap
+com.nimbusds.infinispan.persistence.dynamodb
+com.nimbusds.infinispan.persistence.sql
