@@ -40,3 +40,5 @@
 0.51.1		2026-08-18T17:56:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-dsl-js/0.51.1/kuml-core-dsl-js-0.51.1.jar returned status 404
 0.52.0		2026-08-20T12:49:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-dsl-js/0.52.0/kuml-core-dsl-js-0.52.0.jar returned status 404
 0.53.0		2026-08-25T16:21:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-dsl-js/0.53.0/kuml-core-dsl-js-0.53.0.jar returned status 404
+0.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-dsl-js/0.54.0/kuml-core-dsl-js-0.54.0.jar returned status 404
+0.54.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-core-dsl-js/0.54.1/kuml-core-dsl-js-0.54.1.jar returned status 404

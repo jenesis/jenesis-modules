@@ -25,3 +25,4 @@
 3.0.4		2026-06-18T13:19:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/berichten/3.0.4/berichten-3.0.4.jar returned status 404
 3.0.4	plain	2026-06-18T13:19:47Z	
 3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/berichten/3.0.5/berichten-3.0.5.jar returned status 404
+3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/berichten/3.1.0/berichten-3.1.0.jar returned status 404

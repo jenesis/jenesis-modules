@@ -19,3 +19,4 @@
 2023.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/yosql/internals/yosql-internals/2023.4.5/yosql-internals-2023.4.5.jar returned status 404
 2023.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/yosql/internals/yosql-internals/2023.5.3/yosql-internals-2023.5.3.jar returned status 404
 2026.8.8		2026-08-08T04:35:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/yosql/internals/yosql-internals/2026.8.8/yosql-internals-2026.8.8.jar returned status 404
+2026.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wtf/metio/yosql/internals/yosql-internals/2026.9.8/yosql-internals-2026.9.8.jar returned status 404

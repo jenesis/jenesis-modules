@@ -236,3 +236,4 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 5.1.0	named	com.google.appengine	runtime-impl-jetty121	2026-08-18T06:02:26Z	
 5.1.0	named	com.google.appengine	runtime-impl-jetty12	2026-08-18T06:02:28Z	
 0.3.7	named	io.camunda	camunda-7-to-8-diagram-converter-cli	2026-09-03T02:20:43Z	1.0.1
+1.4.3	named	dev.zacsweers.metro	gradle-plugin	2026-09-08T04:23:23Z	1.0.1
