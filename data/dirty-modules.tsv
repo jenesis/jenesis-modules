@@ -119,3 +119,12 @@ dev.reformator.stacktracedecoroutinator.mhinvoker
 kotlin.stdlib
 kotlinx.serialization.core
 com.formdev.flatlaf
+dev.hegel
+dev.hegel.jna
+dev.stxt
+webrtc.java
+com.fasterxml.jackson.dataformat.yaml
+kotlinx.serialization.json
+com.google.common
+dev.hloth.zgztransport
+io.netty.codec.http
