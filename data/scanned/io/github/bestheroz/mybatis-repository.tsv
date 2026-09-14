@@ -4,6 +4,8 @@
 0.1.0	plain	2025-01-03T00:18:32Z	
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bestheroz/mybatis-repository/0.1.1/mybatis-repository-0.1.1.jar returned status 404
 0.1.1	plain	2025-01-03T00:55:13Z	
+0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bestheroz/mybatis-repository/0.10.0/mybatis-repository-0.10.0.jar returned status 404
+0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bestheroz/mybatis-repository/0.10.1/mybatis-repository-0.10.1.jar returned status 404
 0.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bestheroz/mybatis-repository/0.2.11/mybatis-repository-0.2.11.jar returned status 404
 0.2.11	plain	2025-01-03T05:51:01Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bestheroz/mybatis-repository/0.3.0/mybatis-repository-0.3.0.jar returned status 404
@@ -50,3 +52,5 @@
 0.8.0	plain	2025-07-04T04:48:26Z	
 0.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bestheroz/mybatis-repository/0.8.1/mybatis-repository-0.8.1.jar returned status 404
 0.8.1	plain	2025-07-04T06:19:28Z	
+0.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bestheroz/mybatis-repository/0.9.1/mybatis-repository-0.9.1.jar returned status 404
+0.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bestheroz/mybatis-repository/0.9.2/mybatis-repository-0.9.2.jar returned status 404
