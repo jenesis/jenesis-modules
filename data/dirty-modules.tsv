@@ -1933,3 +1933,8 @@ io.netty.transport_native_unix_common_tests
 io.netty.tcnative.classes.openssl
 io.netty.resolver.dns.classes.macos
 io.netty.codec.protobuf
+io.telicent.jena.fuseki.kafka
+io.telicent.jena.kafka.connector
+io.neonbee.core
+org.objectweb.asm.tree
+org.eclipse.osgi
