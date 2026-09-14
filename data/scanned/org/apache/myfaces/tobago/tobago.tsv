@@ -32,6 +32,7 @@
 1.0.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/1.0.41/tobago-1.0.41.jar returned status 404
 1.0.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/1.0.42/tobago-1.0.42.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/1.0.7/tobago-1.0.7.jar returned status 404
+1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/1.0.8/tobago-1.0.8.jar returned status 404
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/1.0.9/tobago-1.0.9.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/1.5.0/tobago-1.5.0.jar returned status 404
 1.5.0-alpha-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/1.5.0-alpha-2/tobago-1.5.0-alpha-2.jar returned status 404
@@ -112,6 +113,7 @@
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/4.4.1/tobago-4.4.1.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/4.5.0/tobago-4.5.0.jar returned status 404
 4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/4.5.1/tobago-4.5.1.jar returned status 404
+4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/4.5.2/tobago-4.5.2.jar returned status 404
 4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/4.5.3/tobago-4.5.3.jar returned status 404
 4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/4.5.4/tobago-4.5.4.jar returned status 404
 4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/4.5.5/tobago-4.5.5.jar returned status 404
@@ -144,6 +146,7 @@
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/6.1.0/tobago-6.1.0.jar returned status 404
 6.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/6.10.0/tobago-6.10.0.jar returned status 404
 6.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/6.11.0/tobago-6.11.0.jar returned status 404
+6.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/6.12.0/tobago-6.12.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/6.2.0/tobago-6.2.0.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/6.3.0/tobago-6.3.0.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/myfaces/tobago/tobago/6.4.0/tobago-6.4.0.jar returned status 404

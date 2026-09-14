@@ -12,3 +12,5 @@
 26.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pipelineframework/framework-parent/26.7.1/framework-parent-26.7.1.jar returned status 404
 26.8.1		2026-08-25T19:44:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pipelineframework/framework-parent/26.8.1/framework-parent-26.8.1.jar returned status 404
 26.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pipelineframework/framework-parent/26.9.1/framework-parent-26.9.1.jar returned status 404
+26.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pipelineframework/framework-parent/26.9.2/framework-parent-26.9.2.jar returned status 404
+26.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/pipelineframework/framework-parent/26.9.3/framework-parent-26.9.3.jar returned status 404
