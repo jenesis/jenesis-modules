@@ -11,6 +11,7 @@
 07112024-Beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/07112024-Beta-1/woosmap-mobile-sdk-07112024-Beta-1.jar returned status 404
 07112024-Beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/07112024-Beta-2/woosmap-mobile-sdk-07112024-Beta-2.jar returned status 404
 09092025-Beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/09092025-Beta-1/woosmap-mobile-sdk-09092025-Beta-1.jar returned status 404
+09092026-Beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/09092026-Beta-1/woosmap-mobile-sdk-09092026-Beta-1.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/1.2.0/woosmap-mobile-sdk-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/1.2.1/woosmap-mobile-sdk-1.2.1.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/1.2.2/woosmap-mobile-sdk-1.2.2.jar returned status 404
@@ -145,4 +146,5 @@
 4.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/4.7.8/woosmap-mobile-sdk-4.7.8.jar returned status 404
 4.7.9		2026-06-15T08:28:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/4.7.9/woosmap-mobile-sdk-4.7.9.jar returned status 404
 4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/4.8.0/woosmap-mobile-sdk-4.8.0.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/4.9.0/woosmap-mobile-sdk-4.9.0.jar returned status 404
 patch.1-4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/webgeoservices/woosmapgeofencing/woosmap-mobile-sdk/patch.1-4.6.2/woosmap-mobile-sdk-patch.1-4.6.2.jar returned status 404
