@@ -165,6 +165,8 @@
 2026.06.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-community/2026.06.0/neo4j-community-2026.06.0.jar returned status 404
 2026.07.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-community/2026.07.0/neo4j-community-2026.07.0.jar returned status 404
 2026.07.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-community/2026.07.1/neo4j-community-2026.07.1.jar returned status 404
+2026.08.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-community/2026.08.0/neo4j-community-2026.08.0.jar returned status 404
+2026.08.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-community/2026.08.1/neo4j-community-2026.08.1.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-community/3.0.0/neo4j-community-3.0.0.jar returned status 404
 3.0.0-M01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-community/3.0.0-M01/neo4j-community-3.0.0-M01.jar returned status 404
 3.0.0-M02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-community/3.0.0-M02/neo4j-community-3.0.0-M02.jar returned status 404
