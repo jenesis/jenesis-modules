@@ -6550,4 +6550,10 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 0.1.32	named	org.modeljars	modeljars-cli	2026-09-06T02:07:42Z	2.22
 0.1.33	named	org.modeljars	modeljars-cli	2026-09-07T02:08:20Z	2.22
 0.1.34	named	org.modeljars	modeljars-cli	2026-09-07T02:12:32Z	2.22
+0.1.35	named	org.modeljars	modeljars-cli	2026-09-07T18:18:14Z	2.22
+0.1.36	named	org.modeljars	modeljars-cli	2026-09-08T00:09:52Z	2.22
+5.8	named	org.jboss.pnc.maven-manipulator	pom-manipulation-cli	2026-09-08T02:05:26Z	2.22
+0.1.37	named	org.modeljars	modeljars-cli	2026-09-08T14:35:15Z	2.22
 3.0.18.3	named	com.ascentstream.pulsar	pulsar-functions-runtime-all	2026-09-10T08:37:35Z	2.18.6
+0.1.38	named	org.modeljars	modeljars-cli	2026-09-11T21:52:43Z	2.22
+0.1.39	named	org.modeljars	modeljars-cli	2026-09-12T05:32:35Z	2.22
