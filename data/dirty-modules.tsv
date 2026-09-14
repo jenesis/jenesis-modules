@@ -1542,3 +1542,8 @@ com.jplotx
 io.github.classgraph
 org.apache.commons.text
 io.github.dfa1.zstd
+pdk.chart
+pdk.chart.fx
+pdk.util
+io.github.patricklfdm.generalsearch.processor
+io.github.patricklfdm.generalsearch

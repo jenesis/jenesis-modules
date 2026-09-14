@@ -20,6 +20,10 @@
 3.5.10	metadata	2026-08-05T07:01:20Z	
 3.5.2		2026-06-22T05:00:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-watchossimulatorarm64/3.5.2/cmp-app-intents-watchossimulatorarm64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T05:00:44Z	
+3.5.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-watchossimulatorarm64/3.5.25/cmp-app-intents-watchossimulatorarm64-3.5.25.jar returned status 404
+3.5.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-watchossimulatorarm64/3.5.26/cmp-app-intents-watchossimulatorarm64-3.5.26.jar returned status 404
+3.5.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-watchossimulatorarm64/3.5.27/cmp-app-intents-watchossimulatorarm64-3.5.27.jar returned status 404
+3.5.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-watchossimulatorarm64/3.5.28/cmp-app-intents-watchossimulatorarm64-3.5.28.jar returned status 404
 3.5.3		2026-07-06T15:26:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-watchossimulatorarm64/3.5.3/cmp-app-intents-watchossimulatorarm64-3.5.3.jar returned status 404
 3.5.3	metadata	2026-07-06T15:26:55Z	
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-app-intents-watchossimulatorarm64/3.5.4/cmp-app-intents-watchossimulatorarm64-3.5.4.jar returned status 404
