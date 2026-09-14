@@ -3439,3 +3439,17 @@ org.eclipse.milo.examples.client
 org.eclipse.milo.opcua.stack.transport
 org.eclipse.milo.opcua.stack.encoding.json
 org.eclipse.milo.opcua.sdk.client
+org.eclipse.birt.report.engine.emitter.docx
+org.eclipse.birt.data.oda.mongodb
+org.eclipse.birt.report.engine.emitter.config.ods
+org.eclipse.birt.chart.engine
+org.eclipse.birt.report.engine.emitter.config.postscript
+org.eclipse.birt.report.engine.emitter.ppt
+org.eclipse.birt.report.engine.emitter.wpml
+org.eclipse.birt.report.item.crosstab.core
+org.eclipse.birt.chart.reportitem
+org.eclipse.birt.report.engine.emitter.odt
+org.eclipse.birt.chart.device.extension
+org.eclipse.birt.report.engine
+org.eclipse.birt.report.engine.odf
+org.eclipse.birt.report.model.adapter.oda
