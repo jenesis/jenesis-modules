@@ -7416,3 +7416,5 @@ v0.0.18	named	com.grafana	grafana-foundation-sdk	2026-06-12T14:46:57Z	2.19.1
 v0.0.19	named	com.grafana	grafana-foundation-sdk	2026-09-09T11:02:56Z	2.19.1
 v0.0.20	named	com.grafana	grafana-foundation-sdk	2026-09-09T13:04:54Z	2.19.1
 5.3.6	named	com.microsoft.azure.kusto	kusto-spark_3.0_2.12	2026-09-10T18:26:49Z	2.14.3
+42.5	named	io.deephaven	deephaven-oidc-authentication-provider	2026-09-10T21:16:29Z	2.14.0
+41.9	named	io.deephaven	deephaven-oidc-authentication-provider	2026-09-11T18:13:20Z	2.14.0

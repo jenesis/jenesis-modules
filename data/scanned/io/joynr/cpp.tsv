@@ -96,10 +96,12 @@
 1.24.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.24.6/cpp-1.24.6.jar returned status 404
 1.24.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.24.7/cpp-1.24.7.jar returned status 404
 1.24.8		2026-06-03T07:12:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.24.8/cpp-1.24.8.jar returned status 404
+1.24.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.24.9/cpp-1.24.9.jar returned status 404
 1.26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.26.3/cpp-1.26.3.jar returned status 404
 1.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.26.4/cpp-1.26.4.jar returned status 404
 1.26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.26.5/cpp-1.26.5.jar returned status 404
 1.26.6		2026-06-01T05:59:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.26.6/cpp-1.26.6.jar returned status 404
+1.26.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.26.7/cpp-1.26.7.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.3.0/cpp-1.3.0.jar returned status 404
 1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.3.1/cpp-1.3.1.jar returned status 404
 1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/cpp/1.3.2/cpp-1.3.2.jar returned status 404
