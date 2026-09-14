@@ -9,3 +9,5 @@
 0.5.2	named	org.jetbrains.kotlinx	kotlinx-collections-immutable-jvm	2026-08-28T16:09:27Z	0.5.2
 2.4.20-RC3	named	org.jetbrains.kotlin	kotlin-power-assert-compiler-plugin-embeddable	2026-09-03T02:58:16Z	0.5.1
 2.4.20-RC3	named	org.jetbrains.kotlin	kotlin-maven-power-assert	2026-09-03T02:58:26Z	0.5.1
+2.4.20	named	org.jetbrains.kotlin	kotlin-maven-power-assert	2026-09-08T02:19:30Z	0.5.1
+2.4.20	named	org.jetbrains.kotlin	kotlin-power-assert-compiler-plugin-embeddable	2026-09-08T02:23:38Z	0.5.1

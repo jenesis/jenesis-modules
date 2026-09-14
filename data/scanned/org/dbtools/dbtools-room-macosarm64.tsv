@@ -12,6 +12,7 @@
 10.1.0	metadata	2026-08-21T19:21:12Z	
 10.1.1		2026-08-24T01:46:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dbtools/dbtools-room-macosarm64/10.1.1/dbtools-room-macosarm64-10.1.1.jar returned status 404
 10.1.1	metadata	2026-08-24T01:46:28Z	
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dbtools/dbtools-room-macosarm64/10.2.0/dbtools-room-macosarm64-10.2.0.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dbtools/dbtools-room-macosarm64/9.0.0/dbtools-room-macosarm64-9.0.0.jar returned status 404
 9.0.0	metadata	2024-11-28T06:04:53Z	
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dbtools/dbtools-room-macosarm64/9.0.1/dbtools-room-macosarm64-9.0.1.jar returned status 404

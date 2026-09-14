@@ -5162,6 +5162,11 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.33.3	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-07T01:56:49Z	2.11.0
 1.1.8	named	io.github.jpostman	restage-ai-engine	2026-09-07T20:20:16Z	2.13.2
 0.34.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-08T01:57:29Z	2.11.0
+8.24.0.2319	named	org.sonarsource.java	sonar-java-symbolic-execution-plugin	2026-09-08T14:52:05Z	2.14.0
+8.16.5.2330	named	org.sonarsource.java	sonar-java-symbolic-execution-plugin	2026-09-08T15:39:57Z	2.14.0
+10.34.0.3385	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-09-09T09:42:30Z	2.14.0
+10.34.0.3385	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-09-09T09:42:30Z	2.14.0
 3.39.3	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-09T23:10:08Z	2.10
 3.0.18.3	named	com.ascentstream.pulsar	jclouds-shaded	2026-09-10T08:37:35Z	2.10.1
+8.42.0.47616	named	org.sonarsource.java	java-custom-rules-example	2026-09-10T09:30:06Z	2.14.0
 0.35.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-11T00:41:26Z	2.11.0

@@ -184,3 +184,9 @@
 1.85.1	automatic	org.bouncycastle	bcutil-jdk15to18	2026-07-17T00:05:30Z	
 1.85.1	automatic	org.bouncycastle	bcutil-debug-jdk14	2026-07-17T00:05:32Z	
 1.85.1	automatic	org.bouncycastle	bcutil-jdk14	2026-07-17T00:05:32Z	
+1.86	named	org.bouncycastle	bcutil-jdk18on	2026-09-11T02:43:35Z	
+1.86	named	org.bouncycastle	bcutil-debug-jdk18on	2026-09-11T02:44:18Z	
+1.86	automatic	org.bouncycastle	bcutil-jdk15to18	2026-09-11T07:23:31Z	
+1.86	automatic	org.bouncycastle	bcutil-debug-jdk15to18	2026-09-11T07:24:11Z	
+1.86	automatic	org.bouncycastle	bcutil-jdk14	2026-09-11T07:30:09Z	
+1.86	automatic	org.bouncycastle	bcutil-debug-jdk14	2026-09-11T07:30:47Z	
