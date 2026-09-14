@@ -646,6 +646,7 @@
 4.1.2.155.WR			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.1.2.155.WR/agora-special-full-4.1.2.155.WR.jar returned status 404
 4.1.2.156			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.1.2.156/agora-special-full-4.1.2.156.jar returned status 404
 4.1.2.158			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.1.2.158/agora-special-full-4.1.2.158.jar returned status 404
+4.1.2.158.KKS.AINS			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.1.2.158.KKS.AINS/agora-special-full-4.1.2.158.KKS.AINS.jar returned status 404
 4.1.2.159			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.1.2.159/agora-special-full-4.1.2.159.jar returned status 404
 4.1.2.162			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.1.2.162/agora-special-full-4.1.2.162.jar returned status 404
 4.1.2.163			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.1.2.163/agora-special-full-4.1.2.163.jar returned status 404
@@ -717,6 +718,7 @@
 4.2.2.162			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.2.162/agora-special-full-4.2.2.162.jar returned status 404
 4.2.2.162.KOOK			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.2.162.KOOK/agora-special-full-4.2.2.162.KOOK.jar returned status 404
 4.2.2.162.KOOK1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.2.162.KOOK1/agora-special-full-4.2.2.162.KOOK1.jar returned status 404
+4.2.2.163			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.2.163/agora-special-full-4.2.2.163.jar returned status 404
 4.2.2.236			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.2.236/agora-special-full-4.2.2.236.jar returned status 404
 4.2.2.238			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.2.238/agora-special-full-4.2.2.238.jar returned status 404
 4.2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.3.1/agora-special-full-4.2.3.1.jar returned status 404
@@ -850,6 +852,7 @@
 4.2.7.127.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.7.127.1/agora-special-full-4.2.7.127.1.jar returned status 404
 4.2.7.127.HIYA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.7.127.HIYA/agora-special-full-4.2.7.127.HIYA.jar returned status 404
 4.2.7.129			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.7.129/agora-special-full-4.2.7.129.jar returned status 404
+4.2.7.129.CSDTEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.7.129.CSDTEST/agora-special-full-4.2.7.129.CSDTEST.jar returned status 404
 4.2.7.132			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.7.132/agora-special-full-4.2.7.132.jar returned status 404
 4.2.7.133			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.7.133/agora-special-full-4.2.7.133.jar returned status 404
 4.2.7.134.LITE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.2.7.134.LITE/agora-special-full-4.2.7.134.LITE.jar returned status 404
@@ -1385,6 +1388,7 @@
 4.5.3.1.WRHD1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.1.WRHD1/agora-special-full-4.5.3.1.WRHD1.jar returned status 404
 4.5.3.1.WRHD2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.1.WRHD2/agora-special-full-4.5.3.1.WRHD2.jar returned status 404
 4.5.3.121			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.121/agora-special-full-4.5.3.121.jar returned status 404
+4.5.3.123			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.123/agora-special-full-4.5.3.123.jar returned status 404
 4.5.3.123.OTEST.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.123.OTEST.1/agora-special-full-4.5.3.123.OTEST.1.jar returned status 404
 4.5.3.123.Test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.123.Test/agora-special-full-4.5.3.123.Test.jar returned status 404
 4.5.3.124			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.124/agora-special-full-4.5.3.124.jar returned status 404
@@ -1414,7 +1418,10 @@
 4.5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.3/agora-special-full-4.5.3.3.jar returned status 404
 4.5.3.3.BASIC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.3.BASIC/agora-special-full-4.5.3.3.BASIC.jar returned status 404
 4.5.3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.4.1/agora-special-full-4.5.3.4.1.jar returned status 404
+4.5.3.4.BASIC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.4.BASIC/agora-special-full-4.5.3.4.BASIC.jar returned status 404
+4.5.3.4.DDYW			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.4.DDYW/agora-special-full-4.5.3.4.DDYW.jar returned status 404
 4.5.3.4.JINSHU			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.4.JINSHU/agora-special-full-4.5.3.4.JINSHU.jar returned status 404
+4.5.3.4.YUZHAN			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.4.YUZHAN/agora-special-full-4.5.3.4.YUZHAN.jar returned status 404
 4.5.3.70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.3.70/agora-special-full-4.5.3.70.jar returned status 404
 4.5.TEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.5.TEST/agora-special-full-4.5.TEST.jar returned status 404
 4.6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.6.0.1/agora-special-full-4.6.0.1.jar returned status 404
@@ -1429,6 +1436,7 @@
 4.6.0.136			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.6.0.136/agora-special-full-4.6.0.136.jar returned status 404
 4.6.0.136.THR			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.6.0.136.THR/agora-special-full-4.6.0.136.THR.jar returned status 404
 4.6.0.136.WHALE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.6.0.136.WHALE/agora-special-full-4.6.0.136.WHALE.jar returned status 404
+4.6.0.137			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.6.0.137/agora-special-full-4.6.0.137.jar returned status 404
 4.6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.6.0.2/agora-special-full-4.6.0.2.jar returned status 404
 4.6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.6.1.1/agora-special-full-4.6.1.1.jar returned status 404
 4.6.1.130			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/agora-special-full/4.6.1.130/agora-special-full-4.6.1.130.jar returned status 404
