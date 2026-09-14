@@ -8,3 +8,6 @@
 0.2.0	metadata	2026-08-15T10:12:01Z	
 0.3.0		2026-08-15T11:11:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vectencia/klarinet/klarinet-coroutines-iosx64/0.3.0/klarinet-coroutines-iosx64-0.3.0.jar returned status 404
 0.3.0	metadata	2026-08-15T11:11:12Z	
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vectencia/klarinet/klarinet-coroutines-iosx64/0.4.0/klarinet-coroutines-iosx64-0.4.0.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vectencia/klarinet/klarinet-coroutines-iosx64/0.4.1/klarinet-coroutines-iosx64-0.4.1.jar returned status 404
+0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vectencia/klarinet/klarinet-coroutines-iosx64/0.4.2/klarinet-coroutines-iosx64-0.4.2.jar returned status 404

@@ -137,11 +137,19 @@
 39.0.0-PREVIEW.update-capiversion-to-50-for-customdata.2026-09-02T1232.0ef21c3f			
 4.0.10		2023-12-19T10:31:31Z	
 4.0.9		2023-12-15T18:05:18Z	
+40.0.0			
 40.0.0-PREVIEW.adu-event-graphics.2026-09-02T1451.c67f5173			
 40.0.0-PREVIEW.adu-re-revisit-event-graphics.2026-09-04T1140.5fcb1191			
+40.0.0-PREVIEW.glupdate-custom-subnav-model.2026-09-08T2328.04cd90bc			
 40.0.0-PREVIEW.rt-update-capi-client.2026-09-02T1308.ebcd4d47			
 40.0.0-PREVIEW.rt-update-capi-client.2026-09-03T1436.a3ce517f			
 40.0.0-PREVIEW.rt-update-capi-client.2026-09-03T1444.81ea9b9d			
+41.0.0			
+41.0.0-PREVIEW.adu-implement-storage-event-graphic.2026-09-07T1415.a7d87573			
+41.1.0			
+42.0.0			
+42.0.0-PREVIEW.adu-implement-storage-event-graphic.2026-09-11T1245.a99a7586			
+42.0.0-PREVIEW.adu-implement-storage-event-graphic.2026-09-11T1321.8de198e1			
 5.0.0		2024-02-23T16:48:51Z	
 5.0.0-PREVIEW.prevent-runtime-incompatibility-with-early-semver-content-api-scala-client.2024-01-25T1557.dc2a96be		2024-01-25T16:02:19Z	
 5.0.0-PREVIEW.prevent-runtime-incompatibility-with-early-semver-content-api-scala-client.2024-01-25T1802.fd2cdc6a		2024-01-25T18:07:06Z	
