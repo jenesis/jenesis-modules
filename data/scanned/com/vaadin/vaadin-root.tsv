@@ -43,6 +43,7 @@
 7.7.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-root/7.7.51/vaadin-root-7.7.51.jar returned status 404
 7.7.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-root/7.7.52/vaadin-root-7.7.52.jar returned status 404
 7.7.53		2026-06-17T11:13:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-root/7.7.53/vaadin-root-7.7.53.jar returned status 404
+7.7.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-root/7.7.54/vaadin-root-7.7.54.jar returned status 404
 7.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-root/7.7.6/vaadin-root-7.7.6.jar returned status 404
 7.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-root/7.7.7/vaadin-root-7.7.7.jar returned status 404
 7.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-root/7.7.8/vaadin-root-7.7.8.jar returned status 404
