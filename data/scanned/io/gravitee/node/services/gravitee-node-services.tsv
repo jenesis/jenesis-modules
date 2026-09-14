@@ -276,6 +276,7 @@
 7.26.5		2026-06-16T02:23:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/7.26.5/gravitee-node-services-7.26.5.jar returned status 404
 7.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/7.27.0/gravitee-node-services-7.27.0.jar returned status 404
 7.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/7.28.0/gravitee-node-services-7.28.0.jar returned status 404
+7.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/7.28.1/gravitee-node-services-7.28.1.jar returned status 404
 7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/7.3.0/gravitee-node-services-7.3.0.jar returned status 404
 7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/7.4.0/gravitee-node-services-7.4.0.jar returned status 404
 7.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/7.4.1/gravitee-node-services-7.4.1.jar returned status 404
@@ -339,6 +340,7 @@
 8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/8.1.1/gravitee-node-services-8.1.1.jar returned status 404
 8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/8.2.0/gravitee-node-services-8.2.0.jar returned status 404
 8.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/8.3.0/gravitee-node-services-8.3.0.jar returned status 404
+8.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/8.3.1/gravitee-node-services-8.3.1.jar returned status 404
 9.0.0		2026-06-17T07:04:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.0.0/gravitee-node-services-9.0.0.jar returned status 404
 9.0.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.0.0-alpha.1/gravitee-node-services-9.0.0-alpha.1.jar returned status 404
 9.0.0-alpha.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.0.0-alpha.10/gravitee-node-services-9.0.0-alpha.10.jar returned status 404
@@ -363,6 +365,8 @@
 9.0.0-alpha.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.0.0-alpha.9/gravitee-node-services-9.0.0-alpha.9.jar returned status 404
 9.1.0		2026-06-19T08:39:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.1.0/gravitee-node-services-9.1.0.jar returned status 404
 9.1.1		2026-06-26T15:47:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.1.1/gravitee-node-services-9.1.1.jar returned status 404
+9.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.10.0/gravitee-node-services-9.10.0.jar returned status 404
+9.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.10.1/gravitee-node-services-9.10.1.jar returned status 404
 9.2.0		2026-07-01T11:40:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.2.0/gravitee-node-services-9.2.0.jar returned status 404
 9.2.1		2026-07-02T07:29:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.2.1/gravitee-node-services-9.2.1.jar returned status 404
 9.2.2		2026-07-06T13:14:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/node/services/gravitee-node-services/9.2.2/gravitee-node-services-9.2.2.jar returned status 404

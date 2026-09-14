@@ -2064,3 +2064,11 @@ io.micronaut.micronaut_jackson_core
 io.micronaut.http_server
 io.micronaut.micronaut_http_server
 io.micronaut.micronaut_http_client_tck
+io.avaje.validation.plugin
+io.avaje.validation
+io.avaje.validation.spring
+io.avaje.validation.contraints
+io.avaje.validation.http
+io.avaje.validation.generator
+kotlin.stdlib.jdk7
+io.vavr.test
