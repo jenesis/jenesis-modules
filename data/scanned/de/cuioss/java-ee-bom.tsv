@@ -131,3 +131,8 @@
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/java-ee-bom/1.6.0/java-ee-bom-1.6.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/java-ee-bom/1.6.1/java-ee-bom-1.6.1.jar returned status 404
 1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/java-ee-bom/1.6.2/java-ee-bom-1.6.2.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/java-ee-bom/1.7.0/java-ee-bom-1.7.0.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/java-ee-bom/1.7.1/java-ee-bom-1.7.1.jar returned status 404
+1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/java-ee-bom/1.7.2/java-ee-bom-1.7.2.jar returned status 404
+1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/java-ee-bom/1.7.3/java-ee-bom-1.7.3.jar returned status 404
+1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/cuioss/java-ee-bom/1.7.4/java-ee-bom-1.7.4.jar returned status 404

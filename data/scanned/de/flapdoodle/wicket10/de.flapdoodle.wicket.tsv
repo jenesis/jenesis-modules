@@ -3,3 +3,6 @@
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/flapdoodle/wicket10/de.flapdoodle.wicket/10.1.0/de.flapdoodle.wicket-10.1.0.jar returned status 404
 10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/flapdoodle/wicket10/de.flapdoodle.wicket/10.2.0/de.flapdoodle.wicket-10.2.0.jar returned status 404
 10.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/flapdoodle/wicket10/de.flapdoodle.wicket/10.2.1/de.flapdoodle.wicket-10.2.1.jar returned status 404
+10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/flapdoodle/wicket10/de.flapdoodle.wicket/10.3.0/de.flapdoodle.wicket-10.3.0.jar returned status 404
+10.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/flapdoodle/wicket10/de.flapdoodle.wicket/10.3.1/de.flapdoodle.wicket-10.3.1.jar returned status 404
+10.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/flapdoodle/wicket10/de.flapdoodle.wicket/10.3.2/de.flapdoodle.wicket-10.3.2.jar returned status 404

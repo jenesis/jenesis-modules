@@ -8,3 +8,4 @@
 1.0.2		2026-08-21T15:47:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-flashPay-sdk/1.0.2/payu-flashPay-sdk-1.0.2.jar returned status 404
 1.0.3		2026-08-26T09:16:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-flashPay-sdk/1.0.3/payu-flashPay-sdk-1.0.3.jar returned status 404
 1.0.4		2026-08-26T18:54:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-flashPay-sdk/1.0.4/payu-flashPay-sdk-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-flashPay-sdk/1.0.5/payu-flashPay-sdk-1.0.5.jar returned status 404
