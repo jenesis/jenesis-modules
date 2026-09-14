@@ -378,6 +378,7 @@
 8.7.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-atomix-parent/8.7.36/zeebe-atomix-parent-8.7.36.jar returned status 404
 8.7.37		2026-08-14T08:27:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-atomix-parent/8.7.37/zeebe-atomix-parent-8.7.37.jar returned status 404
 8.7.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-atomix-parent/8.7.38/zeebe-atomix-parent-8.7.38.jar returned status 404
+8.7.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-atomix-parent/8.7.39/zeebe-atomix-parent-8.7.39.jar returned status 404
 8.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-atomix-parent/8.7.4/zeebe-atomix-parent-8.7.4.jar returned status 404
 8.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-atomix-parent/8.7.5/zeebe-atomix-parent-8.7.5.jar returned status 404
 8.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-atomix-parent/8.7.6/zeebe-atomix-parent-8.7.6.jar returned status 404
