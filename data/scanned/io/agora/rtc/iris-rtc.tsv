@@ -226,6 +226,7 @@
 4.2.6.cx-dev.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.2.6.cx-dev.4/iris-rtc-4.2.6.cx-dev.4.jar returned status 404
 4.2.6.cx-dev.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.2.6.cx-dev.5/iris-rtc-4.2.6.cx-dev.5.jar returned status 404
 4.2.6.cx-dev.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.2.6.cx-dev.6/iris-rtc-4.2.6.cx-dev.6.jar returned status 404
+4.2.7.1-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.2.7.1-build.1/iris-rtc-4.2.7.1-build.1.jar returned status 404
 4.2.7.123-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.2.7.123-build.1/iris-rtc-4.2.7.123-build.1.jar returned status 404
 4.2.7.125-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.2.7.125-build.1/iris-rtc-4.2.7.125-build.1.jar returned status 404
 4.2.7.125-build.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.2.7.125-build.3/iris-rtc-4.2.7.125-build.3.jar returned status 404
@@ -488,6 +489,7 @@
 4.5.3.1-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.5.3.1-build.1/iris-rtc-4.5.3.1-build.1.jar returned status 404
 4.5.3.123-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.5.3.123-build.1/iris-rtc-4.5.3.123-build.1.jar returned status 404
 4.5.3.123-build.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.5.3.123-build.2/iris-rtc-4.5.3.123-build.2.jar returned status 404
+4.5.3.123-build.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.5.3.123-build.3/iris-rtc-4.5.3.123-build.3.jar returned status 404
 4.5.3.127-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.5.3.127-build.1/iris-rtc-4.5.3.127-build.1.jar returned status 404
 4.5.3.128-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.5.3.128-build.1/iris-rtc-4.5.3.128-build.1.jar returned status 404
 4.5.3.131-build.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/iris-rtc/4.5.3.131-build.1/iris-rtc-4.5.3.131-build.1.jar returned status 404
