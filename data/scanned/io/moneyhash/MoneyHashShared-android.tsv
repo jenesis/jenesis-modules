@@ -26,6 +26,7 @@
 0d2fb44	debug-sources	2025-02-09T10:57:14Z	
 0f13e16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/0f13e16/MoneyHashShared-android-0f13e16.jar returned status 404
 0f13e16	debug-sources	2025-05-11T14:14:48Z	
+10eb5ec			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/10eb5ec/MoneyHashShared-android-10eb5ec.jar returned status 404
 159994a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/159994a/MoneyHashShared-android-159994a.jar returned status 404
 159994a	debug-sources	2024-09-24T11:43:28Z	
 169df22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/169df22/MoneyHashShared-android-169df22.jar returned status 404
@@ -136,6 +137,7 @@
 5fb29f3	debug-sources	2025-07-02T05:50:34Z	
 6050348			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/6050348/MoneyHashShared-android-6050348.jar returned status 404
 6050348	debug-sources	2025-01-19T16:05:35Z	
+618b7ce			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/618b7ce/MoneyHashShared-android-618b7ce.jar returned status 404
 61d15ab			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/61d15ab/MoneyHashShared-android-61d15ab.jar returned status 404
 61d15ab	debug-sources	2024-11-27T15:04:12Z	
 6447960		2026-06-24T13:52:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/6447960/MoneyHashShared-android-6447960.jar returned status 404
@@ -162,8 +164,10 @@
 7bf875f	debug-sources	2024-09-24T11:06:45Z	
 7cd2d08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/7cd2d08/MoneyHashShared-android-7cd2d08.jar returned status 404
 7cd2d08	debug-sources	2026-04-27T12:03:37Z	
+7f53e1a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/7f53e1a/MoneyHashShared-android-7f53e1a.jar returned status 404
 7f7cac1		2026-06-11T16:57:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/7f7cac1/MoneyHashShared-android-7f7cac1.jar returned status 404
 7f7cac1	debug-sources	2026-06-11T16:57:16Z	
+859e3a0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/859e3a0/MoneyHashShared-android-859e3a0.jar returned status 404
 85d54a3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/85d54a3/MoneyHashShared-android-85d54a3.jar returned status 404
 85d54a3	debug-sources	2025-01-05T12:50:52Z	
 87ccb15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/87ccb15/MoneyHashShared-android-87ccb15.jar returned status 404
@@ -229,6 +233,7 @@ b8d14b0			IOException: Tail request on https://maven-central.storage-download.go
 b8d14b0	debug-sources	2026-03-18T15:23:33Z	
 bb5b6bc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/bb5b6bc/MoneyHashShared-android-bb5b6bc.jar returned status 404
 bb5b6bc	debug-sources	2025-09-08T11:40:40Z	
+bba1867			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/bba1867/MoneyHashShared-android-bba1867.jar returned status 404
 c2e422e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/c2e422e/MoneyHashShared-android-c2e422e.jar returned status 404
 c2e422e	debug-sources	2024-12-08T13:58:15Z	
 c406b07			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/c406b07/MoneyHashShared-android-c406b07.jar returned status 404
@@ -245,6 +250,7 @@ cd9e014			IOException: Tail request on https://maven-central.storage-download.go
 cd9e014	debug-sources	2025-09-01T12:16:41Z	
 cdea24b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/cdea24b/MoneyHashShared-android-cdea24b.jar returned status 404
 cdea24b	debug-sources	2026-07-28T15:05:42Z	
+d7186a2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/d7186a2/MoneyHashShared-android-d7186a2.jar returned status 404
 dbbca7d			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/dbbca7d/MoneyHashShared-android-dbbca7d.jar returned status 404
 dbbca7d	debug-sources	2024-11-25T11:06:29Z	
 dd63047			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/moneyhash/MoneyHashShared-android/dd63047/MoneyHashShared-android-dd63047.jar returned status 404

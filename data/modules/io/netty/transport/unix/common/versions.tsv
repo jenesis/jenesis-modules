@@ -154,3 +154,5 @@
 1.1.0-RC21.patch1	named	org.reactivemongo	reactivemongo-shaded-native-osx-x86-64	2026-08-16T19:05:54Z	4.2.17.Final
 1.1.0-RC21.patch1	named	org.reactivemongo	reactivemongo-shaded-native-linux-x86-64	2026-08-16T19:05:55Z	4.2.17.Final
 1.1.0-RC21.patch1	named	org.reactivemongo	reactivemongo-shaded-native-osx-aarch-64	2026-08-16T19:05:55Z	4.2.17.Final
+4.2.18.Final	named	io.netty	netty-transport-native-unix-common	2026-09-09T16:55:19Z	4.2.18.Final
+4.1.138.Final	automatic	io.netty	netty-transport-native-unix-common	2026-09-09T18:46:18Z	
