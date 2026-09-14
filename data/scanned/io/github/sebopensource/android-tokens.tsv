@@ -17,3 +17,4 @@
 3.1.5		2026-06-05T08:07:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebopensource/android-tokens/3.1.5/android-tokens-3.1.5.jar returned status 404
 3.1.6		2026-06-30T07:38:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebopensource/android-tokens/3.1.6/android-tokens-3.1.6.jar returned status 404
 3.1.7		2026-08-21T13:36:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebopensource/android-tokens/3.1.7/android-tokens-3.1.7.jar returned status 404
+3.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebopensource/android-tokens/3.1.8/android-tokens-3.1.8.jar returned status 404
