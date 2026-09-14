@@ -48,6 +48,8 @@
 0.1.4	metadata	2024-01-12T08:45:23Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/izzzgoy/event-thread-core-iossimulatorarm64/0.2.0/event-thread-core-iossimulatorarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2024-01-13T14:24:15Z	
+1.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/izzzgoy/event-thread-core-iossimulatorarm64/1.0.0-RC1/event-thread-core-iossimulatorarm64-1.0.0-RC1.jar returned status 404
+1.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/izzzgoy/event-thread-core-iossimulatorarm64/1.0.0-RC2/event-thread-core-iossimulatorarm64-1.0.0-RC2.jar returned status 404
 1.0.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/izzzgoy/event-thread-core-iossimulatorarm64/1.0.0-alpha01/event-thread-core-iossimulatorarm64-1.0.0-alpha01.jar returned status 404
 1.0.0-alpha01	metadata	2024-02-05T09:55:48Z	
 1.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/izzzgoy/event-thread-core-iossimulatorarm64/1.0.0-alpha02/event-thread-core-iossimulatorarm64-1.0.0-alpha02.jar returned status 404
@@ -76,3 +78,5 @@
 1.0.0-alpha14	metadata	2024-07-17T10:34:43Z	
 1.0.0-beta1		2026-08-11T11:26:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/izzzgoy/event-thread-core-iossimulatorarm64/1.0.0-beta1/event-thread-core-iossimulatorarm64-1.0.0-beta1.jar returned status 404
 1.0.0-beta1	metadata	2026-08-11T11:26:32Z	
+1.0.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/izzzgoy/event-thread-core-iossimulatorarm64/1.0.0-beta2/event-thread-core-iossimulatorarm64-1.0.0-beta2.jar returned status 404
+1.0.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/izzzgoy/event-thread-core-iossimulatorarm64/1.0.0-beta3/event-thread-core-iossimulatorarm64-1.0.0-beta3.jar returned status 404

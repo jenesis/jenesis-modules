@@ -6,3 +6,4 @@
 0.1.5-alpha		2026-08-28T14:01:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kawanagare-git/androrm-runtime/0.1.5-alpha/androrm-runtime-0.1.5-alpha.jar returned status 404
 0.1.6-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kawanagare-git/androrm-runtime/0.1.6-alpha/androrm-runtime-0.1.6-alpha.jar returned status 404
 0.1.7-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kawanagare-git/androrm-runtime/0.1.7-alpha/androrm-runtime-0.1.7-alpha.jar returned status 404
+0.1.8-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kawanagare-git/androrm-runtime/0.1.8-alpha/androrm-runtime-0.1.8-alpha.jar returned status 404

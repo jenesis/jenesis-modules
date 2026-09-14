@@ -483,3 +483,12 @@
 2026.09.04.capture04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.04.capture04/Android-2026.09.04.capture04.jar returned status 404
 2026.09.04.capture05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.04.capture05/Android-2026.09.04.capture05.jar returned status 404
 2026.09.04.capture06			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.04.capture06/Android-2026.09.04.capture06.jar returned status 404
+2026.09.07.capt1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.07.capt1/Android-2026.09.07.capt1.jar returned status 404
+2026.09.07.capt2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.07.capt2/Android-2026.09.07.capt2.jar returned status 404
+2026.09.07.capt3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.07.capt3/Android-2026.09.07.capt3.jar returned status 404
+2026.09.07.live			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.07.live/Android-2026.09.07.live.jar returned status 404
+2026.09.09.capt1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.09.capt1/Android-2026.09.09.capt1.jar returned status 404
+2026.09.09.cnemc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.09.cnemc/Android-2026.09.09.cnemc.jar returned status 404
+2026.09.09.dsjk			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.09.dsjk/Android-2026.09.09.dsjk.jar returned status 404
+2026.09.10.dsjk			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.10.dsjk/Android-2026.09.10.dsjk.jar returned status 404
+2026.09.10.dsjka			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.10.dsjka/Android-2026.09.10.dsjka.jar returned status 404
