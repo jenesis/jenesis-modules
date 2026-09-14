@@ -81,6 +81,7 @@
 4.5.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/4.5.31/vertx-tracing-parent-4.5.31.jar returned status 404
 4.5.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/4.5.32/vertx-tracing-parent-4.5.32.jar returned status 404
 4.5.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/4.5.33/vertx-tracing-parent-4.5.33.jar returned status 404
+4.5.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/4.5.34/vertx-tracing-parent-4.5.34.jar returned status 404
 4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/4.5.4/vertx-tracing-parent-4.5.4.jar returned status 404
 4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/4.5.5/vertx-tracing-parent-4.5.5.jar returned status 404
 4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/4.5.6/vertx-tracing-parent-4.5.6.jar returned status 404
@@ -116,3 +117,4 @@
 5.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/5.1.5/vertx-tracing-parent-5.1.5.jar returned status 404
 5.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/5.1.6/vertx-tracing-parent-5.1.6.jar returned status 404
 5.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/5.1.7/vertx-tracing-parent-5.1.7.jar returned status 404
+5.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-tracing-parent/5.1.8/vertx-tracing-parent-5.1.8.jar returned status 404
