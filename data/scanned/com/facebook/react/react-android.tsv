@@ -783,3 +783,4 @@
 0.87.1	debug-sources	2026-08-26T15:08:32Z	
 0.87.1	debugOptimized-sources	2026-08-26T15:08:32Z	
 0.87.1	release-sources	2026-08-26T15:08:32Z	
+0.88.0-rc.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/facebook/react/react-android/0.88.0-rc.0/react-android-0.88.0-rc.0.jar returned status 404

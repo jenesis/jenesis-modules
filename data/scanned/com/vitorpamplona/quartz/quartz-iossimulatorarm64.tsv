@@ -50,5 +50,7 @@
 1.13.1	metadata	2026-07-29T04:04:00Z	
 1.14.0		2026-08-22T17:53:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vitorpamplona/quartz/quartz-iossimulatorarm64/1.14.0/quartz-iossimulatorarm64-1.14.0.jar returned status 404
 1.14.0	metadata	2026-08-22T17:53:32Z	
+1.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vitorpamplona/quartz/quartz-iossimulatorarm64/1.15.1/quartz-iossimulatorarm64-1.15.1.jar returned status 404
+1.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vitorpamplona/quartz/quartz-iossimulatorarm64/1.15.2/quartz-iossimulatorarm64-1.15.2.jar returned status 404
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vitorpamplona/quartz/quartz-iossimulatorarm64/unspecified/quartz-iossimulatorarm64-unspecified.jar returned status 404
 unspecified	metadata	2025-09-23T18:46:23Z	
