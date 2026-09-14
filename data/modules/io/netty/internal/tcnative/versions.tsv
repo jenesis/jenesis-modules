@@ -890,4 +890,5 @@
 4.143.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-04T02:19:59Z	2.0.72.Final
 2.77.0	named	com.google.api	gapic-generator-java	2026-09-06T02:16:49Z	2.0.75.Final
 0.22.0	named	com.spotify.confidence	openfeature-provider-local	2026-09-08T09:47:00Z	2.0.72.Final
+7.1.3	named	com.microsoft.azure.kusto	kusto-spark_4.0_2.13	2026-09-09T18:44:00Z	2.0.74.Final
 2.4.0	named	com.scalekit	scalekit-sdk-java	2026-09-11T12:43:16Z	2.0.72.Final

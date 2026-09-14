@@ -1,6 +1,7 @@
 24.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.10.0/vaadin-card-flow-parent-24.10.0.jar returned status 404
 24.10.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.10.0-beta1/vaadin-card-flow-parent-24.10.0-beta1.jar returned status 404
 24.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.10.1/vaadin-card-flow-parent-24.10.1.jar returned status 404
+24.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.10.10/vaadin-card-flow-parent-24.10.10.jar returned status 404
 24.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.10.2/vaadin-card-flow-parent-24.10.2.jar returned status 404
 24.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.10.3/vaadin-card-flow-parent-24.10.3.jar returned status 404
 24.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.10.4/vaadin-card-flow-parent-24.10.4.jar returned status 404
@@ -60,6 +61,7 @@
 24.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.9.19/vaadin-card-flow-parent-24.9.19.jar returned status 404
 24.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.9.2/vaadin-card-flow-parent-24.9.2.jar returned status 404
 24.9.20		2026-08-10T13:07:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.9.20/vaadin-card-flow-parent-24.9.20.jar returned status 404
+24.9.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.9.21/vaadin-card-flow-parent-24.9.21.jar returned status 404
 24.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.9.3/vaadin-card-flow-parent-24.9.3.jar returned status 404
 24.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.9.4/vaadin-card-flow-parent-24.9.4.jar returned status 404
 24.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/24.9.5/vaadin-card-flow-parent-24.9.5.jar returned status 404
@@ -122,3 +124,4 @@
 25.2.6		2026-08-10T06:28:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/25.2.6/vaadin-card-flow-parent-25.2.6.jar returned status 404
 25.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/25.2.7/vaadin-card-flow-parent-25.2.7.jar returned status 404
 25.3.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/25.3.0-beta1/vaadin-card-flow-parent-25.3.0-beta1.jar returned status 404
+25.3.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-card-flow-parent/25.3.0-beta2/vaadin-card-flow-parent-25.3.0-beta2.jar returned status 404

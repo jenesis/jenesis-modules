@@ -83,3 +83,5 @@
 2.21.6	named	com.fasterxml.jackson.datatype	jackson-datatype-jakarta-jsonp	2026-08-15T00:05:30Z	2.21.6
 2.18.10	named	com.fasterxml.jackson.datatype	jackson-datatype-jakarta-jsonp	2026-08-16T03:44:26Z	2.18.10
 2.22.2	named	com.fasterxml.jackson.datatype	jackson-datatype-jakarta-jsonp	2026-08-16T17:04:52Z	2.22.2
+7.27.0	named	com.arangodb	arangodb-java-driver-shaded	2026-09-09T20:45:25Z	2.21.1
+7.28.0	named	com.arangodb	arangodb-java-driver-shaded	2026-09-10T21:14:20Z	2.22.2
