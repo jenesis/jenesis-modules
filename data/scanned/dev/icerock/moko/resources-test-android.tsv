@@ -76,3 +76,4 @@
 0.26.3	debug-sources	2026-04-09T07:55:12Z	
 0.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/icerock/moko/resources-test-android/0.26.4/resources-test-android-0.26.4.jar returned status 404
 0.26.4	debug-sources	2026-05-06T10:56:43Z	
+0.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/icerock/moko/resources-test-android/0.27.0/resources-test-android-0.27.0.jar returned status 404

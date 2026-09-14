@@ -1,6 +1,7 @@
 0.26.1		2026-08-05T09:59:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ximatai/muyun/spring/muyun-spring-bom/0.26.1/muyun-spring-bom-0.26.1.jar returned status 404
 0.26.10		2026-08-26T05:02:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ximatai/muyun/spring/muyun-spring-bom/0.26.10/muyun-spring-bom-0.26.10.jar returned status 404
 0.26.11		2026-08-27T23:18:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ximatai/muyun/spring/muyun-spring-bom/0.26.11/muyun-spring-bom-0.26.11.jar returned status 404
+0.26.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ximatai/muyun/spring/muyun-spring-bom/0.26.12/muyun-spring-bom-0.26.12.jar returned status 404
 0.26.3		2026-08-06T01:52:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ximatai/muyun/spring/muyun-spring-bom/0.26.3/muyun-spring-bom-0.26.3.jar returned status 404
 0.26.4		2026-08-06T09:25:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ximatai/muyun/spring/muyun-spring-bom/0.26.4/muyun-spring-bom-0.26.4.jar returned status 404
 0.26.5		2026-08-07T02:10:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/ximatai/muyun/spring/muyun-spring-bom/0.26.5/muyun-spring-bom-0.26.5.jar returned status 404

@@ -5,3 +5,5 @@
 0.1.0-rc.1		2026-06-29T16:13:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/media/adsdk/0.1.0-rc.1/adsdk-0.1.0-rc.1.jar returned status 404
 0.1.0-rc.2		2026-07-02T11:01:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/media/adsdk/0.1.0-rc.2/adsdk-0.1.0-rc.2.jar returned status 404
 0.1.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/media/adsdk/0.1.0-rc.3/adsdk-0.1.0-rc.3.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/media/adsdk/1.0.0/adsdk-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/media/adsdk/1.0.1/adsdk-1.0.1.jar returned status 404

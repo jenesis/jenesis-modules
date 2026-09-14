@@ -7,3 +7,4 @@
 0.0.6-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/orivis/orivis-parent/0.0.6-rc/orivis-parent-0.0.6-rc.jar returned status 404
 0.0.6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/orivis/orivis-parent/0.0.6-rc1/orivis-parent-0.0.6-rc1.jar returned status 404
 0.0.6-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/orivis/orivis-parent/0.0.6-rc2/orivis-parent-0.0.6-rc2.jar returned status 404
+0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/orivis/orivis-parent/0.0.7/orivis-parent-0.0.7.jar returned status 404
