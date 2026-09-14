@@ -1297,5 +1297,17 @@
 26.06.4	named	com.nvidia	rapids-4-spark-tools_2.12	2026-09-05T02:06:53Z	2.0
 26.08.0	named	com.nvidia	rapids-4-spark-tools_2.12	2026-09-06T02:07:32Z	2.0
 26.08.1	named	com.nvidia	rapids-4-spark-tools_2.12	2026-09-08T08:25:23Z	2.0
+3.32.2	named	org.conductoross	conductor-os-persistence-v2	2026-09-08T21:46:48Z	2.4
+3.32.2	named	org.conductoross	conductor-os-persistence-v3	2026-09-08T21:47:17Z	2.4
+3.32.3	named	org.conductoross	conductor-os-persistence-v2	2026-09-09T08:52:26Z	2.4
+3.32.3	named	org.conductoross	conductor-os-persistence-v3	2026-09-09T08:53:00Z	2.4
+3.33.0-rc1	named	org.conductoross	conductor-os-persistence-v2	2026-09-09T15:07:17Z	2.4
+3.33.0-rc1	named	org.conductoross	conductor-os-persistence-v3	2026-09-09T15:07:50Z	2.4
 3.1.216	named	com.huaweicloud.sdk	huaweicloud-sdk-bundle	2026-09-10T08:19:11Z	2.3
 4.5.34	named	io.vertx	vertx-web-api-contract	2026-09-10T08:29:40Z	2.0
+3.33.0-rc2	named	org.conductoross	conductor-os-persistence-v2	2026-09-10T17:35:29Z	2.4
+3.33.0-rc2	named	org.conductoross	conductor-os-persistence-v3	2026-09-10T17:36:04Z	2.4
+3.32.4	named	org.conductoross	conductor-os-persistence-v2	2026-09-10T22:23:27Z	2.4
+3.32.4	named	org.conductoross	conductor-os-persistence-v3	2026-09-10T22:23:59Z	2.4
+3.33.0-rc3	named	org.conductoross	conductor-os-persistence-v2	2026-09-11T19:04:12Z	2.4
+3.33.0-rc3	named	org.conductoross	conductor-os-persistence-v3	2026-09-11T19:04:40Z	2.4
