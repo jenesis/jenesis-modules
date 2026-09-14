@@ -154,3 +154,5 @@
 1.1.0	named	io.gravitee.singularitee	gravitee-singularitee-grpc	2026-08-18T14:57:09Z	4.2.15.Final
 1.2.0	named	io.gravitee.singularitee	gravitee-singularitee-grpc	2026-08-20T09:28:40Z	4.2.15.Final
 1.2.1	named	io.gravitee.singularitee	gravitee-singularitee-grpc	2026-08-25T07:14:05Z	4.2.15.Final
+4.2.18.Final	named	io.netty	netty-common	2026-09-09T16:55:19Z	4.2.18.Final
+4.1.138.Final	automatic	io.netty	netty-common	2026-09-09T18:46:19Z	
