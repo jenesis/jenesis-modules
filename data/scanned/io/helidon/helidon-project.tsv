@@ -125,6 +125,7 @@
 2.6.8	site	2024-08-22T00:21:09Z	
 2.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/helidon/helidon-project/2.6.9/helidon-project-2.6.9.jar returned status 404
 2.6.9	site	2024-09-25T17:49:34Z	
+27.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/helidon/helidon-project/27.0.0-M1/helidon-project-27.0.0-M1.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/helidon/helidon-project/3.0.0/helidon-project-3.0.0.jar returned status 404
 3.0.0	site	2022-07-26T01:00:12Z	
 3.0.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/helidon/helidon-project/3.0.0-M1/helidon-project-3.0.0-M1.jar returned status 404

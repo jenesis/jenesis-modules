@@ -2,3 +2,4 @@
 1.0.2		2026-08-28T10:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mayzs/tts/1.0.2/tts-1.0.2.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mayzs/tts/1.0.3/tts-1.0.3.jar returned status 404
 1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mayzs/tts/1.0.4/tts-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mayzs/tts/1.0.5/tts-1.0.5.jar returned status 404
