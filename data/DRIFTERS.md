@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-14. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-15. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -47,7 +47,7 @@ kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other g
   A * org.jetbrains.kotlinx                2021-09..2026-09 1.12.0-RC            |.........===========|
   R   dev.robocode.tankroyale              2026-01..2026-09 1.3.1                |..................==|
   R   dev.sebastiano.spectre               2026-05..2026-08 0.5.0                |..................==|
-  ?   lol.simeon                           2026-06..2026-06 1.1.2                |...................=|
+  ?   lol.simeon                           2026-06..2026-06 1.1.2                |..................==|
   R   love.forte.plugin.suspend-transform  2025-04..2026-06 2.4.0-0.14.0         |................====|
   R   io.github.wangbax                    2026-04..2026-04 5.5.1-okio-fork-2    |..................=.|
     + 23 more: com.squareup.wire, org.ldemetrios, io.github.lumamontes, dev.zacsweers.metro, io.typst, io.availe, dev.oglass, io.github.oewntk, io.github.lexa-diky, com.toasttab.expediter, io.johnsonlee.exec, io.specmatic, (+11 more)
@@ -788,7 +788,7 @@ tools.jackson.core  [fork: keep `tools.jackson.core`, `org.opentripplanner` stil
   R   org.opentripplanner                  2026-03..2026-09 2.10.0               |..................==|
   ?   org.pragmatica-lite                  2026-08..2026-08 0.7.3                |...................=|
   R   ru.tinkoff.piapi                     2026-01..2026-08 1.49.6               |..................==|
-  ?   org.apache.cayenne                   2026-06..2026-08 5.0-M3               |...................=|
+  ?   org.apache.cayenne                   2026-06..2026-08 5.0-M3               |..................==|
   R   com.erudika                          2025-11..2026-08 1.43.0               |.................===|
     + 23 more: com.phonepe.sentinel-ai, org.pragmatica-lite.aether, software.xdev.mockserver, com.ibm.jsonata4java, fish.payara.tools, com.playtika.reactivefeign, io.github.ignf, media.barney, org.sonarsource.sonarlint.ls, io.github.tansuasici, com.limemojito.oss.standards, com.limemojito.oss.standards.development-test, (+11 more)
 net.bytebuddy  [fork: keep `net.bytebuddy`, `de.gematik.test` still publishes the name]
@@ -1090,7 +1090,7 @@ com.fasterxml.jackson.jakarta.rs.json  [fork: keep `com.fasterxml.jackson.jakart
   R   ch.exense.step                       2022-10..2026-08 3.30.3               |...........=========|
   R   ch.exense.step.library               2023-08..2026-08 1.0.32               |.............=======|
   ?   com.inteligr8.activiti               2026-06..2026-08 1.4.1-aps-v26.2      |..................==|
-  R   org.apache.tika                      2023-12..2026-07 3.3.2                |..............======|
+  R   org.apache.tika                      2023-12..2026-07 3.3.2                |.............=======|
   R   com.phonepe.sentinel-ai              2026-05..2026-05 1.1.2-SOLARIS-rc0    |..................=.|
     + 13 more: org.eclipse.tractusx.edc, org.ow2.petals.samples.rest.edm, dev.getelements.elements, org.eclipse.edc.huawei, org.eclipse.edc.aws, org.eclipse.edc, io.nflow, com.brightsparklabs, io.trino.gateway, com.snehasishroy, com.smoketurner.dropwizard, org.kiwiproject, (+1 more)
 org.eclipse.jetty.compression.gzip  [fork: keep `org.eclipse.jetty.compression`, `ch.exense.step` still publishes the name]
@@ -1206,7 +1206,7 @@ com.fasterxml.jackson.module.paramnames  [fork: keep `com.fasterxml.jackson.modu
   ?   org.realityforge.proton              2026-06..2026-07 0.74                 |..................==|
   ?   org.realityforge.sting               2026-06..2026-06 0.39                 |..................==|
   ?   org.realityforge.router.fu           2026-06..2026-06 0.47                 |...................=|
-  ?   org.realityforge.react4j             2026-06..2026-06 0.226                |...................=|
+  ?   org.realityforge.react4j             2026-06..2026-06 0.226                |..................==|
     + 6 more: org.realityforge.arez, io.kestra, com.araksis, com.araksis.sjd, io.github.codgen, io.micronaut.example
 org.locationtech.proj4j  [fork: keep `org.locationtech.proj4j`, `io.github.emilevictor.neoproj4j` still publishes the name]
   ? * org.locationtech.proj4j              2026-06..2026-06 1.4.3                |..................=.|
@@ -1431,13 +1431,13 @@ org.hibernate.orm.jfr  [owned by `org.hibernate.orm`; 1 other group(s) shade the
   ? * org.hibernate.orm                    2023-11..2026-09 7.4.8.Final          |.............=======|
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
 org.hibernate.orm.community.dialects  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
-  ? * org.hibernate.orm                    2022-05..2026-09 7.4.8.Final          |...........=========|
+  ? * org.hibernate.orm                    2022-05..2026-09 7.4.8.Final          |..........==========|
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
 org.hibernate.orm.vector  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
   ? * org.hibernate.orm                    2023-11..2026-09 7.4.8.Final          |.............=======|
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
 org.hibernate.orm.enhance.maven.plugin  [owned by `org.hibernate.orm.tooling`; 1 other group(s) shade the name]
-  ? * org.hibernate.orm.tooling            2022-05..2026-09 6.6.57.Final         |...........=========|
+  ? * org.hibernate.orm.tooling            2022-05..2026-09 6.6.57.Final         |..........==========|
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
 org.hibernate.orm.ucp  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
   ? * org.hibernate.orm                    2024-03..2026-09 6.6.57.Final         |..............======|
