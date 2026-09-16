@@ -3,3 +3,5 @@
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/asia/hombre/keccak-androidnativex64/2.0.1/keccak-androidnativex64-2.0.1.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/asia/hombre/keccak-androidnativex64/2.1.0/keccak-androidnativex64-2.1.0.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/asia/hombre/keccak-androidnativex64/2.1.1/keccak-androidnativex64-2.1.1.jar returned status 404
+2.2.0		2026-09-09T05:30:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/asia/hombre/keccak-androidnativex64/2.2.0/keccak-androidnativex64-2.2.0.jar returned status 404
+2.3.0		2026-09-09T06:34:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/asia/hombre/keccak-androidnativex64/2.3.0/keccak-androidnativex64-2.3.0.jar returned status 404

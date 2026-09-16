@@ -1,0 +1,2 @@
+0.1.0		2026-09-07T17:13:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/authplane/sdk/authplane-parent/0.1.0/authplane-parent-0.1.0.jar returned status 404
+0.2.0		2026-09-09T13:14:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/authplane/sdk/authplane-parent/0.2.0/authplane-parent-0.2.0.jar returned status 404
