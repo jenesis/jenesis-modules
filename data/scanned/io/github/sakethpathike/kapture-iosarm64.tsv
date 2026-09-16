@@ -9,3 +9,4 @@
 1.1.0		2026-08-24T21:54:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sakethpathike/kapture-iosarm64/1.1.0/kapture-iosarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-08-24T21:54:28Z	
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sakethpathike/kapture-iosarm64/1.2.0/kapture-iosarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-09-11T07:43:07Z	

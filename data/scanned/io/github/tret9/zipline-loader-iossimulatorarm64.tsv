@@ -57,9 +57,13 @@
 1.28.0-composelive-0.21-profilable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-0.21-profilable/zipline-loader-iossimulatorarm64-1.28.0-composelive-0.21-profilable.jar returned status 404
 1.28.0-composelive-0.21-profilable	metadata	2026-09-01T15:28:04Z	
 1.28.0-composelive-0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-0.22/zipline-loader-iossimulatorarm64-1.28.0-composelive-0.22.jar returned status 404
+1.28.0-composelive-0.22	metadata	2026-09-10T23:00:55Z	
 1.28.0-composelive-0.22-profilable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-0.22-profilable/zipline-loader-iossimulatorarm64-1.28.0-composelive-0.22-profilable.jar returned status 404
+1.28.0-composelive-0.22-profilable	metadata	2026-09-10T23:07:23Z	
 1.28.0-composelive-0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-0.23/zipline-loader-iossimulatorarm64-1.28.0-composelive-0.23.jar returned status 404
+1.28.0-composelive-0.23	metadata	2026-09-10T23:24:42Z	
 1.28.0-composelive-0.23-profilable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-0.23-profilable/zipline-loader-iossimulatorarm64-1.28.0-composelive-0.23-profilable.jar returned status 404
+1.28.0-composelive-0.23-profilable	metadata	2026-09-10T23:36:58Z	
 1.28.0-composelive-0.3		2026-06-29T13:59:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-0.3/zipline-loader-iossimulatorarm64-1.28.0-composelive-0.3.jar returned status 404
 1.28.0-composelive-0.3	metadata	2026-06-29T13:59:19Z	
 1.28.0-composelive-0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-0.4/zipline-loader-iossimulatorarm64-1.28.0-composelive-0.4.jar returned status 404
@@ -89,6 +93,10 @@
 1.28.0-composelive-hermes-0.5-prof			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-hermes-0.5-prof/zipline-loader-iossimulatorarm64-1.28.0-composelive-hermes-0.5-prof.jar returned status 404
 1.28.0-composelive-hermes-0.5-prof	metadata	2026-09-03T02:59:32Z	
 1.28.0-composelive-hermes-0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-hermes-0.6/zipline-loader-iossimulatorarm64-1.28.0-composelive-hermes-0.6.jar returned status 404
+1.28.0-composelive-hermes-0.6	metadata	2026-09-08T15:51:56Z	
 1.28.0-composelive-hermes-0.6-debuggable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-hermes-0.6-debuggable/zipline-loader-iossimulatorarm64-1.28.0-composelive-hermes-0.6-debuggable.jar returned status 404
+1.28.0-composelive-hermes-0.6-debuggable	metadata	2026-09-08T16:08:35Z	
 1.28.0-composelive-hermes-0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-hermes-0.7/zipline-loader-iossimulatorarm64-1.28.0-composelive-hermes-0.7.jar returned status 404
+1.28.0-composelive-hermes-0.7	metadata	2026-09-11T22:03:48Z	
 1.28.0-composelive-hermes-0.7-debuggable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-iossimulatorarm64/1.28.0-composelive-hermes-0.7-debuggable/zipline-loader-iossimulatorarm64-1.28.0-composelive-hermes-0.7-debuggable.jar returned status 404
+1.28.0-composelive-hermes-0.7-debuggable	metadata	2026-09-11T22:37:21Z	

@@ -57,9 +57,13 @@
 1.28.0-composelive-0.21-profilable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-0.21-profilable/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-0.21-profilable.jar returned status 404
 1.28.0-composelive-0.21-profilable	metadata	2026-09-01T15:28:04Z	
 1.28.0-composelive-0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-0.22/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-0.22.jar returned status 404
+1.28.0-composelive-0.22	metadata	2026-09-10T23:00:56Z	
 1.28.0-composelive-0.22-profilable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-0.22-profilable/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-0.22-profilable.jar returned status 404
+1.28.0-composelive-0.22-profilable	metadata	2026-09-10T23:07:23Z	
 1.28.0-composelive-0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-0.23/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-0.23.jar returned status 404
+1.28.0-composelive-0.23	metadata	2026-09-10T23:24:39Z	
 1.28.0-composelive-0.23-profilable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-0.23-profilable/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-0.23-profilable.jar returned status 404
+1.28.0-composelive-0.23-profilable	metadata	2026-09-10T23:37:00Z	
 1.28.0-composelive-0.3		2026-06-29T13:59:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-0.3/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-0.3.jar returned status 404
 1.28.0-composelive-0.3	metadata	2026-06-29T13:59:21Z	
 1.28.0-composelive-0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-0.4/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-0.4.jar returned status 404
@@ -89,6 +93,10 @@
 1.28.0-composelive-hermes-0.5-prof			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-hermes-0.5-prof/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-hermes-0.5-prof.jar returned status 404
 1.28.0-composelive-hermes-0.5-prof	metadata	2026-09-03T02:59:35Z	
 1.28.0-composelive-hermes-0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-hermes-0.6/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-hermes-0.6.jar returned status 404
+1.28.0-composelive-hermes-0.6	metadata	2026-09-08T15:51:58Z	
 1.28.0-composelive-hermes-0.6-debuggable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-hermes-0.6-debuggable/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-hermes-0.6-debuggable.jar returned status 404
+1.28.0-composelive-hermes-0.6-debuggable	metadata	2026-09-08T16:08:38Z	
 1.28.0-composelive-hermes-0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-hermes-0.7/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-hermes-0.7.jar returned status 404
+1.28.0-composelive-hermes-0.7	metadata	2026-09-11T22:03:47Z	
 1.28.0-composelive-hermes-0.7-debuggable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-cryptography-tvossimulatorarm64/1.28.0-composelive-hermes-0.7-debuggable/zipline-cryptography-tvossimulatorarm64-1.28.0-composelive-hermes-0.7-debuggable.jar returned status 404
+1.28.0-composelive-hermes-0.7-debuggable	metadata	2026-09-11T22:37:23Z	
