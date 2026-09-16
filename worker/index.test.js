@@ -38,18 +38,43 @@ const JACKSON_NOAOP = tsv([
     ["2.17.0", "named", "com.fasterxml.jackson.core", "jackson-core"],
 ]);
 
+// A module whose newest publishes are pre-releases, and whose modules view declares a
+// module-info version without the qualifier its Maven version carries.
+const ALPHA_ARTIFACTS = tsv([
+    ["2.1.0-alpha1", "named", "org.alpha", "alpha-api"],
+    ["2.1.0-alpha0", "named", "org.alpha", "alpha-api"],
+    ["2.0.19", "named", "org.alpha", "alpha-api"],
+]);
+const ALPHA_MODULES = tsv([
+    ["2.1.0", "org.alpha", "alpha-api", "2.1.0-alpha1"],
+    ["2.0.19", "org.alpha", "alpha-api", "2.0.19"],
+]);
+// A module that has never published anything but pre-releases.
+const UNRELEASED_ARTIFACTS = tsv([
+    ["1.0-alpha2", "named", "org.unreleased", "unreleased"],
+    ["1.0-alpha1", "named", "org.unreleased", "unreleased"],
+]);
+
 const FIXTURES = {
     "org/slf4j/artifacts.tsv": SLF4J_ARTIFACTS,
     "org/slf4j/modules.tsv": SLF4J_MODULES,
     "com/fasterxml/jackson/core/artifacts-no_aopalliance.tsv": JACKSON_NOAOP,
+    "org/alpha/artifacts.tsv": ALPHA_ARTIFACTS,
+    "org/alpha/modules.tsv": ALPHA_MODULES,
+    "org/unreleased/artifacts.tsv": UNRELEASED_ARTIFACTS,
 };
+
+// An artifacts view of `org.sample` listing the given versions, newest first.
+const sampleVersions = (...rows) =>
+    ({ "org/sample/artifacts.tsv": tsv(rows.map((version) => [version, "named", "org.sample", "sample"])) });
 
 /**
  * Drive the worker for one request. `files` maps a TSV path suffix to either a string body
  * (served as 200) or `{ status, body }` to simulate upstream errors / 404s. Falls back to
- * FIXTURES, then to a 404, so most tests only declare what differs.
+ * FIXTURES, then to a 404, so most tests only declare what differs. `headers` are request
+ * headers, which is how a caller opts in to pre-releases.
  */
-async function call(path, { files = {}, env = ENV, method = "GET" } = {}) {
+async function call(path, { files = {}, env = ENV, method = "GET", headers = {} } = {}) {
     const saved = globalThis.fetch;
     globalThis.fetch = async (url) => {
         const u = String(url);
@@ -65,7 +90,7 @@ async function call(path, { files = {}, env = ENV, method = "GET" } = {}) {
         return new Response("not found", { status: 404 });
     };
     try {
-        const request = new Request("https://worker.test" + path, { method });
+        const request = new Request("https://worker.test" + path, { method, headers });
         return await worker.fetch(request, env);
     } finally {
         globalThis.fetch = saved;
@@ -111,9 +136,9 @@ test("artifact mode without a version redirects to the newest Maven coordinate",
         response.headers.get("Location"),
         "https://maven.test/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
     );
-    assert.equal(response.headers.get("X-Jenesis-GroupId"), "org.slf4j");
-    assert.equal(response.headers.get("X-Jenesis-ArtifactId"), "slf4j-api");
-    assert.equal(response.headers.get("X-Jenesis-MavenVersion"), "2.0.10");
+    assert.equal(response.headers.get("Jenesis-GroupId"), "org.slf4j");
+    assert.equal(response.headers.get("Jenesis-ArtifactId"), "slf4j-api");
+    assert.equal(response.headers.get("Jenesis-MavenVersion"), "2.0.10");
 });
 
 test("artifact mode resolves an explicit Maven version present in the TSV", async () => {
@@ -161,8 +186,8 @@ test("module mode resolves via modules.tsv (module-info version keys the row)", 
         response.headers.get("Location"),
         "https://maven.test/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar",
     );
-    assert.equal(response.headers.get("X-Jenesis-ModuleVersion"), "2.0.9");
-    assert.equal(response.headers.get("X-Jenesis-MavenVersion"), "2.0.9");
+    assert.equal(response.headers.get("Jenesis-ModuleVersion"), "2.0.9");
+    assert.equal(response.headers.get("Jenesis-MavenVersion"), "2.0.9");
 });
 
 test("module mode only accepts a .jar filename", async () => {
@@ -218,7 +243,105 @@ test("an unknown explicit version resolves best-effort against the newest coordi
         response.headers.get("Location"),
         "https://maven.test/org/slf4j/slf4j-api/9.9.9/slf4j-api-9.9.9.jar",
     );
-    assert.equal(response.headers.get("X-Jenesis-BestEffort"), "true");
+    assert.equal(response.headers.get("Jenesis-BestEffort"), "true");
+});
+
+test("without a version the newest pre-release is skipped", async () => {
+    const response = await call("/artifact/org.alpha/org.alpha.jar");
+    assert.equal(response.status, 302);
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/alpha/alpha-api/2.0.19/alpha-api-2.0.19.jar",
+    );
+    assert.equal(response.headers.get("Jenesis-Prerelease"), null);
+});
+
+test("module mode skips a row whose Maven version is a pre-release, clean module version notwithstanding", async () => {
+    const response = await call("/module/org.alpha/org.alpha.jar");
+    assert.equal(response.status, 302);
+    assert.equal(response.headers.get("Jenesis-ModuleVersion"), "2.0.19");
+    assert.equal(response.headers.get("Jenesis-MavenVersion"), "2.0.19");
+});
+
+test("a pre-release named explicitly is served and flagged", async () => {
+    const response = await call("/artifact/org.alpha/2.1.0-alpha1/org.alpha.jar");
+    assert.equal(response.status, 302);
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/alpha/alpha-api/2.1.0-alpha1/alpha-api-2.1.0-alpha1.jar",
+    );
+    assert.equal(response.headers.get("Jenesis-Prerelease"), "true");
+});
+
+test("a module with nothing but pre-releases is a 404 that names the header", async () => {
+    const response = await call("/artifact/org.unreleased/org.unreleased.jar");
+    assert.equal(response.status, 404);
+    assert.match(await response.text(), /Jenesis-Prerelease: true/);
+    assert.equal(response.headers.get("Vary"), "Jenesis-Prerelease");
+});
+
+test("the opt-in header serves the newest pre-release of an otherwise unresolvable module", async () => {
+    const response = await call("/artifact/org.unreleased/org.unreleased.jar", {
+        headers: { "Jenesis-Prerelease": "true" },
+    });
+    assert.equal(response.status, 302);
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/unreleased/unreleased/1.0-alpha2/unreleased-1.0-alpha2.jar",
+    );
+    assert.equal(response.headers.get("Jenesis-Prerelease"), "true");
+});
+
+test("the opt-in header restores the plain newest row", async () => {
+    const response = await call("/artifact/org.alpha/org.alpha.jar", {
+        headers: { "Jenesis-Prerelease": "TRUE " },
+    });
+    assert.equal(response.status, 302);
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/alpha/alpha-api/2.1.0-alpha1/alpha-api-2.1.0-alpha1.jar",
+    );
+    assert.equal(response.headers.get("Jenesis-Prerelease"), "true");
+});
+
+test("the redirect varies on the opt-in header", async () => {
+    const response = await call("/artifact/org.slf4j/org.slf4j.jar");
+    assert.equal(response.headers.get("Vary"), "Jenesis-Prerelease");
+});
+
+test("any header value other than true leaves pre-releases skipped", async () => {
+    for (const value of ["false", "yes", "1", ""]) {
+        const response = await call("/artifact/org.alpha/org.alpha.jar", {
+            headers: { "Jenesis-Prerelease": value },
+        });
+        assert.equal(response.headers.get("Jenesis-MavenVersion"), "2.0.19", value);
+    }
+});
+
+test("every qualifier that ranks below the release is treated as a pre-release", async () => {
+    for (const version of [
+        "2.1.0-alpha1", "1.1-beta-2", "1.1-M3", "1.1-rc1", "1.1-CR1", "1.1-SNAPSHOT",
+        "1.1-a1", "1.1-b2", "1.1.0.RC2", "1.1-ea", "1.1-preview3", "1.1-dev", "1.1-nightly",
+        "1.1-milestone-1", "1.1-pre", "1.1-canary", "1.1-next", "1.1-adhoc", "1.1-test",
+    ]) {
+        const response = await call("/artifact/org.sample/org.sample.jar", {
+            files: sampleVersions(version, "1.0"),
+        });
+        assert.equal(response.headers.get("Jenesis-MavenVersion"), "1.0", version);
+    }
+});
+
+test("a qualifier that ranks at or above the release is not a pre-release", async () => {
+    for (const version of [
+        "2.0.19", "1.1.0.Final", "1.1.0.RELEASE", "1.1-ga", "1.1-sp1", "1.1-jre",
+        "1.1-android", "1.1.0+build7", "1.1-incubating", "1.1-b", "1.1.1",
+    ]) {
+        const response = await call("/artifact/org.sample/org.sample.jar", {
+            files: sampleVersions(version, "0.9"),
+        });
+        assert.equal(response.headers.get("Jenesis-MavenVersion"), version, version);
+        assert.equal(response.headers.get("Jenesis-Prerelease"), null, version);
+    }
 });
 
 test("an unknown module (TSV 404 upstream) returns 404", async () => {
