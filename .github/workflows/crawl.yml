@@ -97,7 +97,12 @@ jobs:
       - name: Run crawler with incremental commits
         env:
           ARTIFACT_BASE: ${{ vars.ARTIFACT_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/' }}
-          INDEX_BASE: ${{ vars.INDEX_BASE || 'https://repo.maven.apache.org/maven2/.index/' }}
+          # The Maven Indexer files come from the GCS mirror, not from Central: Central's
+          # robots.txt disallows /maven2/.index/ for every agent but Googlebot, and that
+          # directory enforces a per-IP download limit whose 429 asks consumers to cache the
+          # files instead of re-fetching them. The mirror carries the same bytes, verified
+          # against Central's published .md5/.sha1 sidecars, about twelve hours behind.
+          INDEX_BASE: ${{ vars.INDEX_BASE || 'https://maven-central.storage-download.googleapis.com/maven2/.index/' }}
           # HEAD target for the canonical Last-Modified when ARTIFACT_BASE is a mirror that
           # rewrites mtimes (the GCS mirror serves pre-2019 imports with bucket-landing
           # times rather than publish times). Falls back to ARTIFACT_BASE when unset, which
