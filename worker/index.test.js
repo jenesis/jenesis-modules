@@ -304,9 +304,69 @@ test("the opt-in header restores the plain newest row", async () => {
     assert.equal(response.headers.get("Jenesis-Prerelease"), "true");
 });
 
-test("the redirect varies on the opt-in header", async () => {
+test("the redirect varies on both steering headers", async () => {
     const response = await call("/artifact/org.slf4j/org.slf4j.jar");
-    assert.equal(response.headers.get("Vary"), "Jenesis-Prerelease");
+    assert.equal(response.headers.get("Vary"), "Jenesis-Prerelease, Jenesis-Mirror");
+});
+
+test("the redirect targets the mirror when no repository is bound", async () => {
+    const response = await call("/artifact/org.slf4j/org.slf4j.jar", { env: { DATA_BASE } });
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
+    );
+    assert.equal(response.headers.get("Jenesis-Mirror"), null);
+});
+
+test("a false mirror header redirects to Maven Central and says so", async () => {
+    const response = await call("/artifact/org.slf4j/org.slf4j.jar", {
+        env: { DATA_BASE },
+        headers: { "Jenesis-Mirror": "false" },
+    });
+    assert.equal(
+        response.headers.get("Location"),
+        "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
+    );
+    assert.equal(response.headers.get("Jenesis-Mirror"), "false");
+});
+
+test("a false mirror header honours a bound CENTRAL_BASE", async () => {
+    const response = await call("/artifact/org.slf4j/org.slf4j.jar", {
+        env: { DATA_BASE, ARTIFACT_BASE, CENTRAL_BASE: "https://central.test/" },
+        headers: { "Jenesis-Mirror": "false" },
+    });
+    assert.equal(
+        response.headers.get("Location"),
+        "https://central.test/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
+    );
+});
+
+test("a deployment naming one repository never redirects outside it", async () => {
+    for (const value of ["false", "true", ""]) {
+        const response = await call("/artifact/org.slf4j/org.slf4j.jar", {
+            headers: { "Jenesis-Mirror": value },
+        });
+        assert.equal(
+            response.headers.get("Location"),
+            "https://maven.test/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
+            value,
+        );
+    }
+});
+
+test("any mirror header value other than false keeps the mirror", async () => {
+    for (const value of ["true", "no", "0", ""]) {
+        const response = await call("/artifact/org.slf4j/org.slf4j.jar", {
+            env: { DATA_BASE },
+            headers: { "Jenesis-Mirror": value },
+        });
+        assert.equal(
+            response.headers.get("Location"),
+            "https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
+            value,
+        );
+        assert.equal(response.headers.get("Jenesis-Mirror"), null, value);
+    }
 });
 
 test("any header value other than true leaves pre-releases skipped", async () => {
