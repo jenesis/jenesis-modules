@@ -315,5 +315,7 @@
 1.699-7280b62		2026-08-11T19:16:24Z	
 1.699-7280b62	v699	2026-08-11T19:16:24Z	
 1.700-e7a78d8			
+1.700-e7a78d8	v700	2026-09-03T17:45:11Z	
 1.701-6e28041			
+1.701-6e28041	v701	2026-09-05T14:10:10Z	
 SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/damsel/SNAPSHOT/damsel-SNAPSHOT.jar returned status 404

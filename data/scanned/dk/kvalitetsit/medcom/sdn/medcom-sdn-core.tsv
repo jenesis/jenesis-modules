@@ -1,0 +1,2 @@
+0.0.1		2026-09-01T13:09:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/kvalitetsit/medcom/sdn/medcom-sdn-core/0.0.1/medcom-sdn-core-0.0.1.jar returned status 404
+0.0.2		2026-09-02T08:38:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dk/kvalitetsit/medcom/sdn/medcom-sdn-core/0.0.2/medcom-sdn-core-0.0.2.jar returned status 404

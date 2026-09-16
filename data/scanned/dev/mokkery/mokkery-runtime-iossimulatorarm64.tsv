@@ -139,3 +139,4 @@
 3.4.2		2026-06-25T19:49:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mokkery/mokkery-runtime-iossimulatorarm64/3.4.2/mokkery-runtime-iossimulatorarm64-3.4.2.jar returned status 404
 3.4.2	metadata	2026-06-25T19:49:38Z	
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mokkery/mokkery-runtime-iossimulatorarm64/3.5.0/mokkery-runtime-iossimulatorarm64-3.5.0.jar returned status 404
+3.5.0	metadata	2026-09-07T21:38:21Z	
