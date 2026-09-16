@@ -37,11 +37,19 @@
  *    URL from the row's Maven coordinate. As on `/module/`, a trailing `.asc` fetches the
  *    detached signature instead of the jar.
  *
- * In every mode the version segment is optional - leaving it out picks the first row in
- * the TSV (highest version, since both files are sorted descending). An explicit version
- * that is not in the TSV is resolved on a best-effort basis against the newest coordinate
- * (the first row's groupId / artifactId), so versions published after the last crawl still
- * redirect; the request only 404s if Maven Central itself has no such artifact.
+ * In every mode the version segment is optional - leaving it out picks the newest row that
+ * is not a pre-release: the TSVs are sorted descending, so that is the first row whose
+ * version carries no `alpha`, `beta`, `milestone`, `rc`, `snapshot` or comparable
+ * qualifier. A request opts out of that filter with `Jenesis-Prerelease: true`, which
+ * restores the plain newest row; without the header a module whose every recorded version
+ * is a pre-release resolves to nothing and answers 404. A pre-release asked for by name is
+ * served either way - naming a version is already an unambiguous request for it. Whenever
+ * the version served is a pre-release, the response says so with the same header.
+ *
+ * An explicit version that is not in the TSV is resolved on a best-effort basis against the
+ * newest coordinate (the first row's groupId / artifactId), so versions published after the
+ * last crawl still redirect; the request only 404s if Maven Central itself has no such
+ * artifact.
  *
  * The worker is indifferent to any path segments preceding the mode marker - only the
  * trailing three or four segments are inspected - so it can be deployed behind any
@@ -77,6 +85,30 @@ const MODULE_SEGMENT = /^[A-Za-z_$][A-Za-z0-9_$]*$/;
 // the artifact it signs. The redirect target gets the same suffix, and Maven Central serves
 // the `.asc` that the publisher uploaded beside the jar.
 const SIGNATURE_EXTENSION = ".asc";
+
+// Opt-in request header: `true` widens an unversioned request to pre-releases. On a
+// response the same header states that the version served is one, so the two directions
+// read alike: "pre-releases: yes".
+const PRERELEASE_HEADER = "Jenesis-Prerelease";
+
+// Maven's qualifier order, mirroring the Jenesis build tool's version negotiator: a
+// qualifier that ranks below the empty one (the release itself) marks a pre-release.
+// An unknown qualifier ranks above the release, so it is not a pre-release - "1.0-jre"
+// is a release, "1.0-rc1" is not.
+const QUALIFIERS = ["alpha", "beta", "milestone", "rc", "snapshot", "", "sp"];
+const RELEASE_INDEX = QUALIFIERS.indexOf("");
+const QUALIFIER_ALIASES = { ga: "", final: "", release: "", cr: "rc" };
+
+// Qualifiers Maven's ordering ranks above the release because it doesn't know them, but
+// which publishers use to mark a pre-release. Matched against the leading letters of a
+// qualifier, so "preview2" counts as well as "preview".
+const PRERELEASE_QUALIFIERS = new Set([
+    "ea", "pre", "prerelease", "preview", "dev", "nightly", "canary", "next", "test", "adhoc",
+]);
+
+// What `pickRow` answers when a module has rows but every one of them is a pre-release and
+// the request did not opt in - distinct from `null`, which means the view is empty.
+const PRERELEASE_ONLY = Symbol("prerelease-only");
 
 // Resolution modes. `tsv` is the TSV file base name. `filenameSuffix` is the Maven-side
 // filename decoration ("-sources" / "-javadoc") spliced before the extension when building
@@ -128,6 +160,7 @@ async function handleRequest(request, env) {
     if (!parsed) {
         return textResponse(404, "Not Found\n");
     }
+    const prereleases = (request.headers.get(PRERELEASE_HEADER) || "").trim().toLowerCase() === "true";
     const { moduleName, version, classifier, extension, mode } = parsed;
     const config = MODES[mode];
 
@@ -157,7 +190,17 @@ async function handleRequest(request, env) {
     }
 
     const tsv = await tsvResponse.text();
-    const row = pickRow(tsv, version, mode);
+    const row = pickRow(tsv, version, mode, prereleases);
+    if (row === PRERELEASE_ONLY) {
+        return textResponse(
+            404,
+            `Not Found: no released version of module ${moduleName}${classifier ? `-${classifier}` : ""}`
+                + ` (${config.tsv}.tsv)`
+                + ` - every recorded version is a pre-release;`
+                + ` send ${PRERELEASE_HEADER}: true to accept one\n`,
+            { Vary: PRERELEASE_HEADER },
+        );
+    }
     if (!row) {
         return textResponse(
             404,
@@ -171,11 +214,13 @@ async function handleRequest(request, env) {
         headers: {
             Location: target,
             "Cache-Control": `public, max-age=${redirectTtl}, stale-while-revalidate=${STALE_WHILE_REVALIDATE}`,
-            "X-Jenesis-GroupId": row.groupId,
-            "X-Jenesis-ArtifactId": row.artifactId,
-            "X-Jenesis-MavenVersion": row.mavenVersion,
-            ...(row.moduleVersion ? { "X-Jenesis-ModuleVersion": row.moduleVersion } : {}),
-            ...(row.bestEffort ? { "X-Jenesis-BestEffort": "true" } : {}),
+            Vary: PRERELEASE_HEADER,
+            "Jenesis-GroupId": row.groupId,
+            "Jenesis-ArtifactId": row.artifactId,
+            "Jenesis-MavenVersion": row.mavenVersion,
+            ...(row.moduleVersion ? { "Jenesis-ModuleVersion": row.moduleVersion } : {}),
+            ...(row.bestEffort ? { "Jenesis-BestEffort": "true" } : {}),
+            ...(isRelease(row) ? {} : { [PRERELEASE_HEADER]: "true" }),
         },
     });
 }
@@ -316,8 +361,12 @@ function isModuleName(text) {
  *
  * Returns a normalised `{ groupId, artifactId, mavenVersion, moduleVersion?, bestEffort? }`
  * row, or `null` when nothing can be served. If `version` is `null`, returns the first row
- * (highest version - both files are sorted descending). Otherwise returns the first row
- * whose first column matches `version` exactly.
+ * that is not a pre-release (highest release version - both files are sorted descending),
+ * or, when `prereleases` is set, simply the first row. A module with rows but no release to
+ * offer answers {@link PRERELEASE_ONLY} rather than a row, which the caller turns into a
+ * 404 naming the header that would have widened the search. Otherwise returns the first row
+ * whose first column matches `version` exactly; a pre-release asked for by name is served
+ * like any other version.
  *
  * If an explicit `version` is not in the file but the module has at least one row, the
  * version is assumed to exist on Maven Central under the **newest** coordinate (the first
@@ -325,7 +374,7 @@ function isModuleName(text) {
  * returned (flagged `bestEffort`). This lets versions published after the last crawl resolve
  * optimistically; if Maven Central has no such artifact the redirect simply 404s downstream.
  */
-function pickRow(tsv, version, mode) {
+function pickRow(tsv, version, mode, prereleases) {
     let newest = null;
     for (const line of tsv.split("\n")) {
         if (line.length === 0) {
@@ -339,11 +388,14 @@ function pickRow(tsv, version, mode) {
         if (newest === null) {
             newest = row;
         }
-        if (version === null || cols[0] === version) {
+        if (version === null ? prereleases || isRelease(row) : cols[0] === version) {
             return row;
         }
     }
-    if (version !== null && newest !== null) {
+    if (version === null) {
+        return newest === null ? null : PRERELEASE_ONLY;
+    }
+    if (newest !== null) {
         return {
             groupId: newest.groupId,
             artifactId: newest.artifactId,
@@ -372,15 +424,75 @@ function normaliseRow(cols, mode) {
     };
 }
 
+/**
+ * Whether a row is a release: neither the version it is keyed by nor the Maven coordinate
+ * version it resolves to carries a pre-release qualifier. Both are checked because a
+ * publisher can declare a module-info version that is cleaner than the Maven version it
+ * was published under.
+ */
+function isRelease(row) {
+    return !isPrerelease(row.mavenVersion)
+        && (row.moduleVersion === null || !isPrerelease(row.moduleVersion));
+}
+
+/**
+ * Whether a version string carries a pre-release qualifier, following the same rules as the
+ * Jenesis build tool's `STABLE` version negotiator so that both agree on what a release is.
+ *
+ * The version is split on `.` and `-` and at every digit / non-digit boundary, exactly as
+ * Maven's `ComparableVersion` does, and every non-numeric token is judged on its own: a
+ * single `a`, `b` or `m` before a digit expands to `alpha`, `beta`, `milestone`, the
+ * aliases `ga`, `final`, `release` and `cr` are folded, and the token is a pre-release
+ * marker if it ranks below the release qualifier or its leading letters name one of the
+ * qualifiers Maven's ordering doesn't know. `2.1.0-alpha1`, `1.0-M3`, `3.0.0-ea` and
+ * `1.0-SNAPSHOT` are pre-releases; `2.0.19`, `1.0.0.Final` and `33.0-jre` are not.
+ */
+function isPrerelease(version) {
+    for (const segment of version.toLowerCase().split(/[.-]/)) {
+        let index = 0;
+        while (index < segment.length) {
+            const start = index;
+            const numeric = isDigit(segment.charAt(index));
+            while (index < segment.length && isDigit(segment.charAt(index)) === numeric) {
+                index++;
+            }
+            // Numeric and non-numeric runs alternate, so a non-numeric run that doesn't
+            // end the segment is the shorthand-qualifier case ("m1", "b2").
+            if (!numeric && !isReleaseQualifier(segment.slice(start, index), index < segment.length)) {
+                return true;
+            }
+        }
+    }
+    return false;
+}
+
+function isReleaseQualifier(token, followedByDigit) {
+    const expanded = followedByDigit && token.length === 1
+        ? { a: "alpha", b: "beta", m: "milestone" }[token] ?? token
+        : token;
+    const qualifier = Object.hasOwn(QUALIFIER_ALIASES, expanded)
+        ? QUALIFIER_ALIASES[expanded]
+        : expanded;
+    if (PRERELEASE_QUALIFIERS.has(/^[a-z]*/.exec(qualifier)[0])) {
+        return false;
+    }
+    const rank = QUALIFIERS.indexOf(qualifier);
+    return (rank < 0 ? QUALIFIERS.length : rank) >= RELEASE_INDEX;
+}
+
+function isDigit(character) {
+    return character >= "0" && character <= "9";
+}
+
 function artifactUrl(base, row, classifier, extension, filenameSuffix) {
     const groupPath = row.groupId.replaceAll(".", "/");
     const classifierSuffix = classifier ? `-${classifier}` : "";
     return `${base}${groupPath}/${row.artifactId}/${row.mavenVersion}/${row.artifactId}-${row.mavenVersion}${classifierSuffix}${filenameSuffix}.${extension}`;
 }
 
-function textResponse(status, body) {
+function textResponse(status, body, headers = {}) {
     return new Response(body, {
         status,
-        headers: { "Content-Type": "text/plain; charset=utf-8" },
+        headers: { "Content-Type": "text/plain; charset=utf-8", ...headers },
     });
 }
