@@ -36,5 +36,8 @@
 1.0.0	all		InvalidModuleDescriptorException: Package com.joltvm.shaded.bytebuddy.build missing from ModulePackages class file attribute
 1.1.0			
 1.2.1			
+1.2.1	all	2026-09-09T17:31:40Z	InvalidModuleDescriptorException: Package com.joltvm.shaded.bytebuddy.build missing from ModulePackages class file attribute
 1.3.0			
+1.3.0	all	2026-09-09T18:35:04Z	InvalidModuleDescriptorException: Package com.joltvm.shaded.bytebuddy.build missing from ModulePackages class file attribute
 1.4.0			
+1.4.0	all	2026-09-10T01:05:06Z	InvalidModuleDescriptorException: Package com.joltvm.shaded.bytebuddy.build missing from ModulePackages class file attribute

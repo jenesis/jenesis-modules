@@ -37,3 +37,4 @@
 1.6.0		2026-08-24T21:28:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kmpbits/splash-runtime-iosx64/1.6.0/splash-runtime-iosx64-1.6.0.jar returned status 404
 1.6.0	metadata	2026-08-24T21:28:10Z	
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kmpbits/splash-runtime-iosx64/1.7.0/splash-runtime-iosx64-1.7.0.jar returned status 404
+1.7.0	metadata	2026-09-11T12:31:53Z	

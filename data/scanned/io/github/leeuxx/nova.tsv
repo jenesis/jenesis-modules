@@ -1,2 +1,5 @@
 1.0.0		2026-09-03T02:21:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leeuxx/nova/1.0.0/nova-1.0.0.jar returned status 404
 1.1.0		2026-09-04T07:04:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leeuxx/nova/1.1.0/nova-1.1.0.jar returned status 404
+1.1.1		2026-09-08T11:07:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leeuxx/nova/1.1.1/nova-1.1.1.jar returned status 404
+1.2.0		2026-09-10T03:21:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leeuxx/nova/1.2.0/nova-1.2.0.jar returned status 404
+1.2.1		2026-09-12T07:24:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/leeuxx/nova/1.2.1/nova-1.2.1.jar returned status 404
