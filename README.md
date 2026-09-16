@@ -63,8 +63,14 @@ production crawl and a test against a local mock:
 ```bash
 java sources/build/jenesis/crawler/Crawl.java \
      https://maven-central.storage-download.googleapis.com/maven2/ \
-     https://repo.maven.apache.org/maven2/.index/
+     https://maven-central.storage-download.googleapis.com/maven2/.index/
 ```
+
+Both URIs are the Google Cloud Storage mirror. Central's `robots.txt` disallows `/maven2/.index/` for every
+agent but Googlebot, and that directory enforces a per-IP download limit whose 429 asks consumers to cache
+the index rather than re-fetch it; the mirror carries the same index bytes, verified against Central's own
+`.md5` and `.sha1` sidecars, roughly twelve hours behind. `CANONICAL_TIMESTAMP_BASE` is the one setting that
+still reads from Central, and only as HEAD requests outside `/maven2/.index/`.
 
 A run works to a wall-clock budget (`jenesis.crawler.budget`, default 180 minutes), checkpoints as it goes,
 and resumes where it stopped. `jenesis.crawler.data` relocates the output, `jenesis.crawler.concurrency`
