@@ -1,1 +1,2 @@
+1.0.0		2026-09-10T08:11:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/faradn-parent/1.0.0/faradn-parent-1.0.0.jar returned status 404
 1.0.0-RC1		2026-08-31T03:45:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/nmoncho/faradn-parent/1.0.0-RC1/faradn-parent-1.0.0-RC1.jar returned status 404

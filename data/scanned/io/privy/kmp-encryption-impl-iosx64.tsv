@@ -13,3 +13,4 @@
 0.14.0		2026-08-12T17:03:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-encryption-impl-iosx64/0.14.0/kmp-encryption-impl-iosx64-0.14.0.jar returned status 404
 0.14.0	metadata	2026-08-12T17:03:12Z	
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/privy/kmp-encryption-impl-iosx64/0.15.0/kmp-encryption-impl-iosx64-0.15.0.jar returned status 404
+0.15.0	metadata	2026-09-09T19:51:24Z	
