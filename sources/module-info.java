@@ -1,5 +1,5 @@
 /**
- * Jenesis Modules Crawler
+ * Jenesis Modules Crawler.
  *
  * Crawls Maven Central and records the Java module name produced by every
  * modularised artifact, in a form that supports lookup by module name then version.
