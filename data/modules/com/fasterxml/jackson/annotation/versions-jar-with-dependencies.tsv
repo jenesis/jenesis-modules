@@ -5381,7 +5381,9 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 10.4.0	named	com.chartiq.finsemble	finsemble	2026-08-31T11:04:28Z	2.13.5
 8.746.22	named	com.yahoo.vespa	config-application-package	2026-09-01T06:54:40Z	2.22
 8.748.3	named	com.yahoo.vespa	config-application-package	2026-09-01T06:55:10Z	2.22
+3.00.6.0	named	com.dolphindb	jdbc	2026-09-01T07:28:52Z	2.15.2
 3.6.2.Final	named	io.debezium	debezium-connector-cassandra-5	2026-09-01T10:26:08Z	2.21
 0.3.0	named	io.github.tibyaan-org	tibyan-cli	2026-09-03T05:18:31Z	2.18.2
 8.750.13	named	com.yahoo.vespa	config-application-package	2026-09-03T05:27:17Z	2.22
 8.751.13	named	com.yahoo.vespa	config-application-package	2026-09-07T02:06:09Z	2.22
+1.0.22	named	com.janeluo	luban-rds-bin	2026-09-08T06:59:12Z	2.13.5

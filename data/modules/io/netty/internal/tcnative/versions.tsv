@@ -882,6 +882,7 @@
 2.76.0	named	org.apache.beam	beam-runners-spark-3-job-server	2026-09-02T01:59:09Z	2.0.75.Final
 1.84.0	named	io.grpc	grpc-netty-shaded	2026-09-02T02:08:57Z	2.0.81.Final
 4.140.3	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-02T02:14:09Z	2.0.72.Final
+1.5.0	named	com.google.cloud.spark.spanner	spark-4.1-spanner	2026-09-02T04:38:24Z	2.0.70.Final
 1.5.0	named	com.google.cloud.spark.spanner	spark-3.5-spanner	2026-09-03T03:11:57Z	2.0.70.Final
 1.5.0	named	com.google.cloud.spark.spanner	spark-4.0-spanner	2026-09-03T03:11:57Z	2.0.70.Final
 1.5.0	named	com.google.cloud.spark.spanner	spark-3.1-spanner	2026-09-03T03:12:00Z	2.0.70.Final

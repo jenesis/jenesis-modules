@@ -523,3 +523,5 @@
 1.4.0	named	com.databricks	zerobus-ingest-sdk	2026-08-14T10:28:32Z	2.0.17
 2.20.0	named	com.google.cloud.bigtable	bigtable-hbase-1.x-tools	2026-08-17T19:10:39Z	2.0.16
 1.5.0	named	com.databricks	zerobus-ingest-sdk	2026-08-26T17:31:22Z	2.0.17
+2.20.1	named	com.google.cloud.bigtable	bigtable-hbase-1.x-tools	2026-09-02T19:36:14Z	2.0.16
+2.20.2	named	com.google.cloud.bigtable	bigtable-hbase-1.x-tools	2026-09-04T22:17:51Z	2.0.16

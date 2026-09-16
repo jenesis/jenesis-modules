@@ -83,11 +83,17 @@
 4.11.1		2026-08-31T21:26:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchosx64/4.11.1/socket-testsuite-watchosx64-4.11.1.jar returned status 404
 4.11.1	metadata	2026-08-31T21:26:16Z	
 4.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchosx64/4.12.0/socket-testsuite-watchosx64-4.12.0.jar returned status 404
+4.12.0	metadata	2026-09-06T19:32:34Z	
 4.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchosx64/4.13.0/socket-testsuite-watchosx64-4.13.0.jar returned status 404
+4.13.0	metadata	2026-09-07T04:50:55Z	
 4.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchosx64/4.13.1/socket-testsuite-watchosx64-4.13.1.jar returned status 404
+4.13.1	metadata	2026-09-07T14:19:35Z	
 4.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchosx64/4.14.0/socket-testsuite-watchosx64-4.14.0.jar returned status 404
+4.14.0	metadata	2026-09-08T00:28:57Z	
 4.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchosx64/4.15.0/socket-testsuite-watchosx64-4.15.0.jar returned status 404
+4.15.0	metadata	2026-09-08T16:03:00Z	
 4.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchosx64/4.16.0/socket-testsuite-watchosx64-4.16.0.jar returned status 404
+4.16.0	metadata	2026-09-08T20:47:00Z	
 4.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchosx64/4.16.1/socket-testsuite-watchosx64-4.16.1.jar returned status 404
 4.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchosx64/4.16.2/socket-testsuite-watchosx64-4.16.2.jar returned status 404
 4.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-testsuite-watchosx64/4.17.0/socket-testsuite-watchosx64-4.17.0.jar returned status 404
