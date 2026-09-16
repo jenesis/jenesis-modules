@@ -54,11 +54,11 @@ jobs:
           persist-credentials: true
           submodules: recursive
 
-      - name: Set up JDK 26
+      - name: Set up the newest JDK
         uses: actions/setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 # v5.2.0
         with:
           distribution: temurin
-          java-version: '26'
+          java-version: 'latest'
 
       - name: Configure git
         run: |
