@@ -6,6 +6,14 @@
 1.0.0-beta12	metadata	2026-09-08T10:44:41Z	
 1.0.0-beta13		2026-09-08T21:22:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-http-ktor-macosarm64/1.0.0-beta13/neton-http-ktor-macosarm64-1.0.0-beta13.jar returned status 404
 1.0.0-beta13	metadata	2026-09-08T21:22:58Z	
+1.0.0-beta14		2026-09-09T11:59:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-http-ktor-macosarm64/1.0.0-beta14/neton-http-ktor-macosarm64-1.0.0-beta14.jar returned status 404
+1.0.0-beta14	metadata	2026-09-09T11:59:00Z	
+1.0.0-beta15		2026-09-09T13:22:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-http-ktor-macosarm64/1.0.0-beta15/neton-http-ktor-macosarm64-1.0.0-beta15.jar returned status 404
+1.0.0-beta15	metadata	2026-09-09T13:22:18Z	
+1.0.0-beta16		2026-09-10T16:44:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-http-ktor-macosarm64/1.0.0-beta16/neton-http-ktor-macosarm64-1.0.0-beta16.jar returned status 404
+1.0.0-beta16	metadata	2026-09-10T16:44:52Z	
+1.0.0-beta17		2026-09-10T17:11:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-http-ktor-macosarm64/1.0.0-beta17/neton-http-ktor-macosarm64-1.0.0-beta17.jar returned status 404
+1.0.0-beta17	metadata	2026-09-10T17:11:35Z	
 1.0.0-beta3		2026-09-02T16:22:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-http-ktor-macosarm64/1.0.0-beta3/neton-http-ktor-macosarm64-1.0.0-beta3.jar returned status 404
 1.0.0-beta3	metadata	2026-09-02T16:22:27Z	
 1.0.0-beta4		2026-09-03T15:41:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-http-ktor-macosarm64/1.0.0-beta4/neton-http-ktor-macosarm64-1.0.0-beta4.jar returned status 404
