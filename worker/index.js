@@ -49,7 +49,9 @@
  * An explicit version that is not in the TSV is resolved on a best-effort basis against the
  * newest coordinate (the first row's groupId / artifactId), so versions published after the
  * last crawl still redirect; the request only 404s if Maven Central itself has no such
- * artifact.
+ * artifact. A request refuses that guess with `Jenesis-BestEffort: false`, which answers
+ * 404 for a version the crawl has not recorded rather than redirecting optimistically.
+ * Whenever the redirect served is such a guess, the response says so with the same header.
  *
  * The redirect targets Google's Maven Central mirror, which carries the same artifacts and
  * is not rate limited the way Central is. A request names another Maven repository with
@@ -104,8 +106,13 @@ const PRERELEASE_HEADER = "Jenesis-Prerelease";
 // in place of ARTIFACT_BASE. The `Location` already shows it, so it is not echoed back.
 const REPOSITORY_HEADER = "Jenesis-Repository";
 
-// Both headers change which redirect a request earns, so a shared cache has to key on them.
-const VARY_HEADERS = `${PRERELEASE_HEADER}, ${REPOSITORY_HEADER}`;
+// Opt-out request header: `false` refuses a redirect built for a version the crawl has not
+// recorded. On a response the same header states that the redirect served is such a guess,
+// so the two directions read alike: "guesses: yes".
+const BEST_EFFORT_HEADER = "Jenesis-BestEffort";
+
+// Every header changes which redirect a request earns, so a shared cache has to key on them.
+const VARY_HEADERS = `${PRERELEASE_HEADER}, ${REPOSITORY_HEADER}, ${BEST_EFFORT_HEADER}`;
 
 // Maven's qualifier order, mirroring the Jenesis build tool's version negotiator: a
 // qualifier that ranks below the empty one (the release itself) marks a pre-release.
@@ -177,6 +184,7 @@ async function handleRequest(request, env) {
         return textResponse(404, "Not Found\n");
     }
     const prereleases = (request.headers.get(PRERELEASE_HEADER) || "").trim().toLowerCase() === "true";
+    const guesses = (request.headers.get(BEST_EFFORT_HEADER) || "").trim().toLowerCase() !== "false";
     const requestedRepository = (request.headers.get(REPOSITORY_HEADER) || "").trim();
     const repository = requestedRepository ? repositoryBase(requestedRepository) : null;
     if (requestedRepository && !repository) {
@@ -232,6 +240,15 @@ async function handleRequest(request, env) {
             `Not Found: version ${version ?? "latest"} for module ${moduleName} (${config.tsv}.tsv)\n`,
         );
     }
+    if (row.bestEffort && !guesses) {
+        return textResponse(
+            404,
+            `Not Found: version ${version} for module ${moduleName} (${config.tsv}.tsv)`
+                + ` - the crawl has not recorded it, and ${BEST_EFFORT_HEADER}: false`
+                + ` refuses the guess that it exists under the newest coordinate\n`,
+            { Vary: BEST_EFFORT_HEADER },
+        );
+    }
 
     const target = artifactUrl(repository ?? artifactBase, row, classifier, extension, config.filenameSuffix);
     return new Response(null, {
@@ -244,7 +261,7 @@ async function handleRequest(request, env) {
             "Jenesis-ArtifactId": row.artifactId,
             "Jenesis-MavenVersion": row.mavenVersion,
             ...(row.moduleVersion ? { "Jenesis-ModuleVersion": row.moduleVersion } : {}),
-            ...(row.bestEffort ? { "Jenesis-BestEffort": "true" } : {}),
+            ...(row.bestEffort ? { [BEST_EFFORT_HEADER]: "true" } : {}),
             ...(isRelease(row) ? {} : { [PRERELEASE_HEADER]: "true" }),
         },
     });
