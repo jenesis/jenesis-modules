@@ -5,3 +5,4 @@
 0.4.0-alpha01		2026-08-28T09:25:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mkeeda/arranger/arranger-richtext-iossimulatorarm64/0.4.0-alpha01/arranger-richtext-iossimulatorarm64-0.4.0-alpha01.jar returned status 404
 0.4.0-alpha01	metadata	2026-08-28T09:25:30Z	
 0.4.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/mkeeda/arranger/arranger-richtext-iossimulatorarm64/0.4.0-alpha02/arranger-richtext-iossimulatorarm64-0.4.0-alpha02.jar returned status 404
+0.4.0-alpha02	metadata	2026-09-09T02:00:48Z	

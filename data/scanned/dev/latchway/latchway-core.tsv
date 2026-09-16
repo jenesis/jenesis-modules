@@ -1,1 +1,5 @@
 1.0.0		2026-09-04T17:13:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/latchway/latchway-core/1.0.0/latchway-core-1.0.0.jar returned status 404
+1.1.0		2026-09-08T11:20:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/latchway/latchway-core/1.1.0/latchway-core-1.1.0.jar returned status 404
+1.2.0		2026-09-09T12:56:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/latchway/latchway-core/1.2.0/latchway-core-1.2.0.jar returned status 404
+1.2.1		2026-09-10T04:47:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/latchway/latchway-core/1.2.1/latchway-core-1.2.1.jar returned status 404
+1.2.2		2026-09-10T06:46:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/latchway/latchway-core/1.2.2/latchway-core-1.2.2.jar returned status 404
