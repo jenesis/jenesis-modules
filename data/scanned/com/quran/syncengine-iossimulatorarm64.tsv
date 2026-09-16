@@ -25,6 +25,7 @@
 0.1.18		2026-08-16T17:20:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quran/syncengine-iossimulatorarm64/0.1.18/syncengine-iossimulatorarm64-0.1.18.jar returned status 404
 0.1.18	metadata	2026-08-16T17:20:50Z	
 0.1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quran/syncengine-iossimulatorarm64/0.1.19/syncengine-iossimulatorarm64-0.1.19.jar returned status 404
+0.1.19	metadata	2026-08-31T15:09:58Z	
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quran/syncengine-iossimulatorarm64/0.1.2/syncengine-iossimulatorarm64-0.1.2.jar returned status 404
 0.1.2	metadata	2026-05-07T12:59:13Z	
 0.1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/quran/syncengine-iossimulatorarm64/0.1.20/syncengine-iossimulatorarm64-0.1.20.jar returned status 404

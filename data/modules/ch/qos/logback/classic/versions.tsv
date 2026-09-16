@@ -3552,6 +3552,7 @@
 3.6.0-snapshot.20260902.14799.0.v0d5b8c8e	named	com.daml	codegen-java	2026-09-03T02:05:07Z	1.5.3
 3.6.0-snapshot.20260901.14797.0.v58717081	named	com.daml	codegen-java	2026-09-03T02:05:07Z	1.5.3
 3.6.0-snapshot.20260901.14797.0.v58717081	named	com.daml	codegen-js	2026-09-03T02:05:08Z	1.5.3
+0.5.25	named	com.salesforce.cantor	cantor-integration	2026-09-03T18:30:09Z	1.5.32
 0.5.25	named	com.salesforce.cantor	cantor-server	2026-09-04T02:19:47Z	1.5.32
 3.6.0-snapshot.20260904.14802.0.vd13c73ac	named	com.daml	codegen-jvm-main	2026-09-05T02:03:14Z	1.5.3
 3.6.0-snapshot.20260903.14800.0.v6fb19bd8	named	com.daml	codegen-jvm-main	2026-09-05T02:03:15Z	1.5.3

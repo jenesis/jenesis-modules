@@ -185,6 +185,7 @@
 12.43.0.RELEASE		2026-08-19T09:59:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/12.43.0.RELEASE/exact-plugin-12.43.0.RELEASE.jar returned status 404
 12.43.0.RELEASE	plain	2026-08-19T09:59:59Z	
 12.44.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/12.44.0.RELEASE/exact-plugin-12.44.0.RELEASE.jar returned status 404
+12.44.0.RELEASE	plain	2026-09-02T12:07:05Z	
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/12.5.0.RELEASE/exact-plugin-12.5.0.RELEASE.jar returned status 404
 12.5.0.RELEASE	plain	2024-11-22T15:56:36Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/12.5.1.RELEASE/exact-plugin-12.5.1.RELEASE.jar returned status 404
@@ -312,8 +313,11 @@
 13.41.0-11		2026-08-28T15:27:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.41.0-11/exact-plugin-13.41.0-11.jar returned status 404
 13.41.0-11	plain	2026-08-28T15:27:55Z	
 13.41.0-12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.41.0-12/exact-plugin-13.41.0-12.jar returned status 404
+13.41.0-12	plain	2026-08-31T08:17:21Z	
 13.41.0-13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.41.0-13/exact-plugin-13.41.0-13.jar returned status 404
+13.41.0-13	plain	2026-09-01T07:12:49Z	
 13.41.0-14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.41.0-14/exact-plugin-13.41.0-14.jar returned status 404
+13.41.0-14	plain	2026-09-02T14:39:15Z	
 13.41.0-2		2026-08-19T11:45:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.41.0-2/exact-plugin-13.41.0-2.jar returned status 404
 13.41.0-2	plain	2026-08-19T11:45:52Z	
 13.41.0-3		2026-08-20T10:17:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.41.0-3/exact-plugin-13.41.0-3.jar returned status 404
@@ -337,6 +341,7 @@
 13.43.0.RELEASE		2026-08-26T09:59:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.43.0.RELEASE/exact-plugin-13.43.0.RELEASE.jar returned status 404
 13.43.0.RELEASE	plain	2026-08-26T09:59:02Z	
 13.44.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.44.0.RELEASE/exact-plugin-13.44.0.RELEASE.jar returned status 404
+13.44.0.RELEASE	plain	2026-09-02T13:00:39Z	
 13.45.0-1000			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.45.0-1000/exact-plugin-13.45.0-1000.jar returned status 404
 13.45.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.45.0.RELEASE/exact-plugin-13.45.0.RELEASE.jar returned status 404
 13.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/exact-plugin/13.5.0.RELEASE/exact-plugin-13.5.0.RELEASE.jar returned status 404
