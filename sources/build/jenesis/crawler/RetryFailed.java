@@ -112,7 +112,8 @@ public final class RetryFailed {
                 dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold,
                 /* resume */ true,
                 /* reprocessFailed */ true,
-                /* allowRebaseline */ false);
+                /* allowRebaseline */ false,
+                /* probeIncrementals */ false);
     }
 
     private static void configureListener(Crawler crawler, Crawler.Configuration configuration) {

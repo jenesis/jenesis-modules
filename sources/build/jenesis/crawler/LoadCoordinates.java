@@ -155,7 +155,8 @@ public final class LoadCoordinates {
                 dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold,
                 /* resume */ true,
                 /* reprocessFailed */ false,
-                /* allowRebaseline */ false);
+                /* allowRebaseline */ false,
+                /* probeIncrementals */ false);
     }
 
     private static Optional<String> property(String name) {

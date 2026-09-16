@@ -119,7 +119,8 @@ public final class ReconcileMetadata {
                 dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold,
                 /* resume */ true,
                 /* reprocessFailed */ false,
-                /* allowRebaseline */ false);
+                /* allowRebaseline */ false,
+                /* probeIncrementals */ false);
     }
 
     private static void configureListener(Crawler crawler, Crawler.Configuration configuration) {

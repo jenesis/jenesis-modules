@@ -75,6 +75,19 @@ public final class FakeMavenCentral implements AutoCloseable {
                 buildIndex(timestampEpochMillis, jars));
     }
 
+    private byte[] bodyFor(String path) {
+        if (path.equals("/maven2/.index/nexus-maven-repository-index.properties")) {
+            return propertiesBody;
+        }
+        if (path.startsWith("/maven2/.index/")) {
+            return indexBodies.get(path.substring("/maven2/.index/".length()));
+        }
+        if (path.startsWith("/maven2/")) {
+            return artifactBodies.get(path.substring("/maven2/".length()));
+        }
+        return null;
+    }
+
     private void publishJars(List<IndexedJar> jars) {
         for (IndexedJar jar : jars) {
             artifactBodies.put(jar.mavenPath(), jar.jarBytes());
@@ -84,6 +97,10 @@ public final class FakeMavenCentral implements AutoCloseable {
     private void handleMaven(HttpExchange exchange) throws IOException {
         String path = exchange.getRequestURI().getPath();
         try {
+            if (exchange.getRequestMethod().equals("HEAD")) {
+                exchange.sendResponseHeaders(bodyFor(path) == null ? 404 : 200, -1);
+                return;
+            }
             if (path.equals("/maven2/.index/nexus-maven-repository-index.properties")) {
                 serveBytes(exchange, propertiesBody);
                 return;
