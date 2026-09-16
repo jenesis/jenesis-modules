@@ -1,0 +1,2 @@
+0.1.0		2026-09-07T20:37:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/f2io/pdf-kit/0.1.0/pdf-kit-0.1.0.jar returned status 404
+0.1.1		2026-09-07T20:56:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/f2io/pdf-kit/0.1.1/pdf-kit-0.1.1.jar returned status 404

@@ -1,0 +1,2 @@
+1.0.0		2026-09-08T14:54:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/differentialmanifold/jagent-harness/1.0.0/jagent-harness-1.0.0.jar returned status 404
+1.1.0		2026-09-09T07:20:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/differentialmanifold/jagent-harness/1.1.0/jagent-harness-1.1.0.jar returned status 404

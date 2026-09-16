@@ -1,0 +1,2 @@
+1.1.0		2026-09-08T00:31:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crazy-airhead/aifei-parent/1.1.0/aifei-parent-1.1.0.jar returned status 404
+1.1.1		2026-09-12T12:42:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/crazy-airhead/aifei-parent/1.1.1/aifei-parent-1.1.1.jar returned status 404
