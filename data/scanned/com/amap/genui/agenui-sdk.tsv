@@ -5,3 +5,4 @@
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amap/genui/agenui-sdk/1.3.0/agenui-sdk-1.3.0.jar returned status 404
 1.3.1		2026-08-14T00:56:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amap/genui/agenui-sdk/1.3.1/agenui-sdk-1.3.1.jar returned status 404
 1.4.0		2026-08-28T02:20:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amap/genui/agenui-sdk/1.4.0/agenui-sdk-1.4.0.jar returned status 404
+1.5.0		2026-09-14T07:47:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/amap/genui/agenui-sdk/1.5.0/agenui-sdk-1.5.0.jar returned status 404
