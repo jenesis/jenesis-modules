@@ -129,6 +129,7 @@
 3.7.1		2026-08-18T09:37:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-iosx64/3.7.1/blue-falcon-iosx64-3.7.1.jar returned status 404
 3.7.1	metadata	2026-08-18T09:37:40Z	
 3.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-iosx64/3.7.4/blue-falcon-iosx64-3.7.4.jar returned status 404
+3.7.4	metadata	2026-09-01T12:46:06Z	
 3.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-iosx64/3.7.5/blue-falcon-iosx64-3.7.5.jar returned status 404
 3.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-iosx64/3.7.6/blue-falcon-iosx64-3.7.6.jar returned status 404
 3.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-iosx64/3.7.7/blue-falcon-iosx64-3.7.7.jar returned status 404

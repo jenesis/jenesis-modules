@@ -355,3 +355,5 @@ hadoop3-2.2.33	named	com.google.cloud.bigdataoss	gcs-connector	2026-03-25T10:32:
 7.2.3.23	named	com.gpudb	gpudb-api	2026-08-20T03:08:23Z	2.22.1
 7.2.3.24	named	com.gpudb	gpudb-api	2026-08-20T18:56:16Z	2.22.1
 4.9	named	com.testingbot	TestingBotTunnel	2026-08-25T17:59:50Z	2.22.2
+2.6.5	named	de.fraunhofer.iosb.ilt.FROST-Server	FROST-Server.Tools.ModelEditor	2026-09-01T10:05:23Z	2.22.2
+2.6.5	named	de.fraunhofer.iosb.ilt.FROST-Server	FROST-Server.Tools.ModelExtractor	2026-09-01T10:05:24Z	2.22.2

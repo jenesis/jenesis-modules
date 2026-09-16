@@ -439,3 +439,15 @@ dev.resteasy.vertx
 dev.propensive.proscala.library.sjs1
 dev.propensive.proscala.library
 com.fasterxml.jackson.dataformat.yaml
+jcef
+de.splatgames.aether.weaver.testkit
+de.splatgames.aether.weaver.runtime
+de.splatgames.aether.weaver.processor
+de.splatgames.aether.weaver.maven
+de.splatgames.aether.weaver.engine
+de.splatgames.aether.weaver.api
+de.splatgames.aether.weaver.agent
+java.xml.bind
+de.cuioss.http
+org.postgresql.jdbc
+org.apache.felix.framework
