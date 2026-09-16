@@ -1,0 +1,2 @@
+0.0.3		2026-08-31T16:04:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/morainet/mcos-bom/0.0.3/mcos-bom-0.0.3.jar returned status 404
+0.0.4		2026-09-06T13:54:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/morainet/mcos-bom/0.0.4/mcos-bom-0.0.4.jar returned status 404

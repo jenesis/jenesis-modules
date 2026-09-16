@@ -1,0 +1,2 @@
+0.0.0.1		2026-09-03T17:43:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oss-ta/framework-support/0.0.0.1/framework-support-0.0.0.1.jar returned status 404
+20260903		2026-09-03T20:51:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/oss-ta/framework-support/20260903/framework-support-20260903.jar returned status 404

@@ -37,5 +37,8 @@
 2.2.0		2026-07-02T08:50:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/tiktok-spring-boot-starter/2.2.0/tiktok-spring-boot-starter-2.2.0.jar returned status 404
 2.2.0	plain	2026-07-02T08:50:57Z	
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/tiktok-spring-boot-starter/2.3.0/tiktok-spring-boot-starter-2.3.0.jar returned status 404
+2.3.0	plain	2026-09-06T01:20:35Z	
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/tiktok-spring-boot-starter/2.3.1/tiktok-spring-boot-starter-2.3.1.jar returned status 404
+2.3.1	plain	2026-09-06T01:36:14Z	
 2.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/tiktok-spring-boot-starter/2.3.2/tiktok-spring-boot-starter-2.3.2.jar returned status 404
+2.3.2	plain	2026-09-06T02:28:43Z	

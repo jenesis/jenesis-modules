@@ -1,0 +1,2 @@
+1.1.0		2026-09-02T20:06:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lilaschuda/guanaco-parent/1.1.0/guanaco-parent-1.1.0.jar returned status 404
+1.2.0		2026-09-05T13:33:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lilaschuda/guanaco-parent/1.2.0/guanaco-parent-1.2.0.jar returned status 404

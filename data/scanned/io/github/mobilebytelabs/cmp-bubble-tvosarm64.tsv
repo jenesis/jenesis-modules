@@ -59,11 +59,15 @@
 3.5.18		2026-08-29T06:23:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-tvosarm64/3.5.18/cmp-bubble-tvosarm64-3.5.18.jar returned status 404
 3.5.18	metadata	2026-08-29T06:23:11Z	
 3.5.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-tvosarm64/3.5.19/cmp-bubble-tvosarm64-3.5.19.jar returned status 404
+3.5.19	metadata	2026-08-31T04:31:33Z	
 3.5.2		2026-06-22T04:46:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-tvosarm64/3.5.2/cmp-bubble-tvosarm64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T04:46:16Z	
 3.5.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-tvosarm64/3.5.20/cmp-bubble-tvosarm64-3.5.20.jar returned status 404
+3.5.20	metadata	2026-09-02T17:37:43Z	
 3.5.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-tvosarm64/3.5.21/cmp-bubble-tvosarm64-3.5.21.jar returned status 404
+3.5.21	metadata	2026-09-03T17:57:57Z	
 3.5.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-tvosarm64/3.5.22/cmp-bubble-tvosarm64-3.5.22.jar returned status 404
+3.5.22	metadata	2026-09-07T03:49:50Z	
 3.5.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-tvosarm64/3.5.23/cmp-bubble-tvosarm64-3.5.23.jar returned status 404
 3.5.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-tvosarm64/3.5.24/cmp-bubble-tvosarm64-3.5.24.jar returned status 404
 3.5.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-bubble-tvosarm64/3.5.25/cmp-bubble-tvosarm64-3.5.25.jar returned status 404
