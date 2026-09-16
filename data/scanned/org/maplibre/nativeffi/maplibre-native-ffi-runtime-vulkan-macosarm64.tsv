@@ -7,3 +7,4 @@
 0.202609.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/nativeffi/maplibre-native-ffi-runtime-vulkan-macosarm64/0.202609.0/maplibre-native-ffi-runtime-vulkan-macosarm64-0.202609.0.jar returned status 404
 0.202609.0	metadata	2026-09-05T19:40:50Z	
 0.202609.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/nativeffi/maplibre-native-ffi-runtime-vulkan-macosarm64/0.202609.1/maplibre-native-ffi-runtime-vulkan-macosarm64-0.202609.1.jar returned status 404
+0.202609.1	metadata	2026-09-09T00:43:22Z	

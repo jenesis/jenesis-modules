@@ -1,1 +1,2 @@
 0.202609.0		2026-09-05T19:40:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/nativeffi/maplibre-native-ffi-androidnativearm32/0.202609.0/maplibre-native-ffi-androidnativearm32-0.202609.0.jar returned status 404
+0.202609.1		2026-09-09T00:43:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/maplibre/nativeffi/maplibre-native-ffi-androidnativearm32/0.202609.1/maplibre-native-ffi-androidnativearm32-0.202609.1.jar returned status 404

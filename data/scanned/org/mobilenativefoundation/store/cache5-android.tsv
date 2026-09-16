@@ -3,3 +3,4 @@
 5.1.0-alpha09		2026-06-11T23:27:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mobilenativefoundation/store/cache5-android/5.1.0-alpha09/cache5-android-5.1.0-alpha09.jar returned status 404
 5.1.0-alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mobilenativefoundation/store/cache5-android/5.1.0-alpha10/cache5-android-5.1.0-alpha10.jar returned status 404
 5.1.0-alpha11		2026-08-29T03:34:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mobilenativefoundation/store/cache5-android/5.1.0-alpha11/cache5-android-5.1.0-alpha11.jar returned status 404
+5.1.0-beta01		2026-09-08T21:11:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mobilenativefoundation/store/cache5-android/5.1.0-beta01/cache5-android-5.1.0-beta01.jar returned status 404
