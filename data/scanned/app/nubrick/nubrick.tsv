@@ -18,3 +18,4 @@
 0.16.6		2026-08-27T03:37:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nubrick/nubrick/0.16.6/nubrick-0.16.6.jar returned status 404
 0.16.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nubrick/nubrick/0.16.7/nubrick-0.16.7.jar returned status 404
 0.16.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nubrick/nubrick/0.16.8/nubrick-0.16.8.jar returned status 404
+0.16.9		2026-09-15T07:42:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nubrick/nubrick/0.16.9/nubrick-0.16.9.jar returned status 404

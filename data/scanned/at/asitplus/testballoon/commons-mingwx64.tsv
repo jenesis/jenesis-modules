@@ -6,6 +6,8 @@
 0.14.0		2026-06-09T17:37:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-mingwx64/0.14.0/commons-mingwx64-0.14.0.jar returned status 404
 0.15.0		2026-06-10T20:41:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-mingwx64/0.15.0/commons-mingwx64-0.15.0.jar returned status 404
 0.16.0		2026-07-20T05:30:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-mingwx64/0.16.0/commons-mingwx64-0.16.0.jar returned status 404
+0.16.1		2026-09-14T15:12:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-mingwx64/0.16.1/commons-mingwx64-0.16.1.jar returned status 404
+0.16.2		2026-09-15T04:22:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-mingwx64/0.16.2/commons-mingwx64-0.16.2.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-mingwx64/0.2.0/commons-mingwx64-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-mingwx64/0.3.0/commons-mingwx64-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-mingwx64/0.3.1/commons-mingwx64-0.3.1.jar returned status 404

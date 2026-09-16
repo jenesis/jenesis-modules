@@ -921,3 +921,9 @@ build.codemodel.dependency.injection
 be.yildizgames.common.logging
 codegen
 org.lz4.java
+JSQLFormatter.JSQLTranspiler.main
+org.graalvm.truffle
+ai.docling.testcontainers
+ai.docling.serve.client
+ai.docling.serve.api
+ai.docling.core

@@ -3,3 +3,5 @@
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/huntshorts/xdramas-characters/0.7.0/xdramas-characters-0.7.0.jar returned status 404
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/huntshorts/xdramas-characters/0.8.0/xdramas-characters-0.8.0.jar returned status 404
 0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/huntshorts/xdramas-characters/0.8.2/xdramas-characters-0.8.2.jar returned status 404
+0.9.1		2026-09-14T01:29:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/huntshorts/xdramas-characters/0.9.1/xdramas-characters-0.9.1.jar returned status 404
+0.9.2		2026-09-14T06:22:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/huntshorts/xdramas-characters/0.9.2/xdramas-characters-0.9.2.jar returned status 404
