@@ -451,3 +451,9 @@ java.xml.bind
 de.cuioss.http
 org.postgresql.jdbc
 org.apache.felix.framework
+com.twelvemonkeys.servlet
+com.spectrayan.spector.client
+com.github.victools.jsonschema.generator
+ch.qos.logback.classic
+com.oracle.truffle.tools.profiler
+com.newfoundcodes.okatana

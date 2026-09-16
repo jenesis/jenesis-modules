@@ -219,6 +219,16 @@
 0.29.0-rc.3	x86_64-unknown-linux-gnu	2026-08-04T07:55:37Z	
 0.29.0-rc.3	x86_64-unknown-linux-musl	2026-08-04T07:55:37Z	
 0.30.0			
+0.30.0	aarch64-apple-darwin	2026-09-04T18:35:31Z	
+0.30.0	aarch64-unknown-linux-gnu	2026-09-04T18:35:31Z	
+0.30.0	aarch64-unknown-linux-musl	2026-09-04T18:35:31Z	
+0.30.0	i686-pc-windows-msvc	2026-09-04T18:35:31Z	
+0.30.0	java-coreJar	2026-09-04T18:35:31Z	
+0.30.0	uber	2026-09-04T18:35:31Z	
+0.30.0	x86_64-apple-darwin	2026-09-04T18:35:31Z	
+0.30.0	x86_64-pc-windows-msvc	2026-09-04T18:35:31Z	
+0.30.0	x86_64-unknown-linux-gnu	2026-09-04T18:35:31Z	
+0.30.0	x86_64-unknown-linux-musl	2026-09-04T18:35:31Z	
 0.30.0-beta.202607261836			
 0.30.0-beta.202607261836	aarch64-apple-darwin	2026-07-27T19:32:40Z	
 0.30.0-beta.202607261836	aarch64-unknown-linux-gnu	2026-07-27T19:32:40Z	
@@ -352,7 +362,27 @@
 0.30.0-rc.11	x86_64-unknown-linux-gnu	2026-08-27T02:33:04Z	
 0.30.0-rc.11	x86_64-unknown-linux-musl	2026-08-27T02:33:04Z	
 0.30.0-rc.12			
+0.30.0-rc.12	aarch64-apple-darwin	2026-08-31T20:14:20Z	
+0.30.0-rc.12	aarch64-unknown-linux-gnu	2026-08-31T20:14:20Z	
+0.30.0-rc.12	aarch64-unknown-linux-musl	2026-08-31T20:14:20Z	
+0.30.0-rc.12	i686-pc-windows-msvc	2026-08-31T20:14:20Z	
+0.30.0-rc.12	java-coreJar	2026-08-31T20:14:20Z	
+0.30.0-rc.12	uber	2026-08-31T20:14:20Z	
+0.30.0-rc.12	x86_64-apple-darwin	2026-08-31T20:14:20Z	
+0.30.0-rc.12	x86_64-pc-windows-msvc	2026-08-31T20:14:20Z	
+0.30.0-rc.12	x86_64-unknown-linux-gnu	2026-08-31T20:14:20Z	
+0.30.0-rc.12	x86_64-unknown-linux-musl	2026-08-31T20:14:20Z	
 0.30.0-rc.13			
+0.30.0-rc.13	aarch64-apple-darwin	2026-09-01T21:23:44Z	
+0.30.0-rc.13	aarch64-unknown-linux-gnu	2026-09-01T21:23:44Z	
+0.30.0-rc.13	aarch64-unknown-linux-musl	2026-09-01T21:23:44Z	
+0.30.0-rc.13	i686-pc-windows-msvc	2026-09-01T21:23:44Z	
+0.30.0-rc.13	java-coreJar	2026-09-01T21:23:44Z	
+0.30.0-rc.13	uber	2026-09-01T21:23:44Z	
+0.30.0-rc.13	x86_64-apple-darwin	2026-09-01T21:23:44Z	
+0.30.0-rc.13	x86_64-pc-windows-msvc	2026-09-01T21:23:44Z	
+0.30.0-rc.13	x86_64-unknown-linux-gnu	2026-09-01T21:23:44Z	
+0.30.0-rc.13	x86_64-unknown-linux-musl	2026-09-01T21:23:44Z	
 0.30.0-rc.2		2026-08-10T07:55:42Z	
 0.30.0-rc.2	aarch64-apple-darwin	2026-08-10T07:55:42Z	
 0.30.0-rc.2	aarch64-unknown-linux-gnu	2026-08-10T07:55:41Z	
@@ -761,18 +791,108 @@
 0.31.0-beta.202608301826	x86_64-unknown-linux-gnu	2026-08-31T01:46:44Z	
 0.31.0-beta.202608301826	x86_64-unknown-linux-musl	2026-08-31T01:46:44Z	
 0.31.0-beta.202608311829			
+0.31.0-beta.202608311829	aarch64-apple-darwin	2026-09-01T01:50:53Z	
+0.31.0-beta.202608311829	aarch64-unknown-linux-gnu	2026-09-01T01:50:53Z	
+0.31.0-beta.202608311829	aarch64-unknown-linux-musl	2026-09-01T01:50:53Z	
+0.31.0-beta.202608311829	i686-pc-windows-msvc	2026-09-01T01:50:53Z	
+0.31.0-beta.202608311829	java-coreJar	2026-09-01T01:50:53Z	
+0.31.0-beta.202608311829	uber	2026-09-01T01:50:53Z	
+0.31.0-beta.202608311829	x86_64-apple-darwin	2026-09-01T01:50:53Z	
+0.31.0-beta.202608311829	x86_64-pc-windows-msvc	2026-09-01T01:50:53Z	
+0.31.0-beta.202608311829	x86_64-unknown-linux-gnu	2026-09-01T01:50:53Z	
+0.31.0-beta.202608311829	x86_64-unknown-linux-musl	2026-09-01T01:50:53Z	
 0.31.0-beta.202609011821			
+0.31.0-beta.202609011821	aarch64-apple-darwin	2026-09-02T01:41:19Z	
+0.31.0-beta.202609011821	aarch64-unknown-linux-gnu	2026-09-02T01:41:19Z	
+0.31.0-beta.202609011821	aarch64-unknown-linux-musl	2026-09-02T01:41:19Z	
+0.31.0-beta.202609011821	i686-pc-windows-msvc	2026-09-02T01:41:19Z	
+0.31.0-beta.202609011821	java-coreJar	2026-09-02T01:41:19Z	
+0.31.0-beta.202609011821	uber	2026-09-02T01:41:19Z	
+0.31.0-beta.202609011821	x86_64-apple-darwin	2026-09-02T01:41:19Z	
+0.31.0-beta.202609011821	x86_64-pc-windows-msvc	2026-09-02T01:41:19Z	
+0.31.0-beta.202609011821	x86_64-unknown-linux-gnu	2026-09-02T01:41:19Z	
+0.31.0-beta.202609011821	x86_64-unknown-linux-musl	2026-09-02T01:41:19Z	
 0.31.0-beta.202609021826			
+0.31.0-beta.202609021826	aarch64-apple-darwin	2026-09-03T01:45:57Z	
+0.31.0-beta.202609021826	aarch64-unknown-linux-gnu	2026-09-03T01:45:58Z	
+0.31.0-beta.202609021826	aarch64-unknown-linux-musl	2026-09-03T01:45:58Z	
+0.31.0-beta.202609021826	i686-pc-windows-msvc	2026-09-03T01:45:57Z	
+0.31.0-beta.202609021826	java-coreJar	2026-09-03T01:45:58Z	
+0.31.0-beta.202609021826	uber	2026-09-03T01:45:57Z	
+0.31.0-beta.202609021826	x86_64-apple-darwin	2026-09-03T01:45:58Z	
+0.31.0-beta.202609021826	x86_64-pc-windows-msvc	2026-09-03T01:45:57Z	
+0.31.0-beta.202609021826	x86_64-unknown-linux-gnu	2026-09-03T01:45:57Z	
+0.31.0-beta.202609021826	x86_64-unknown-linux-musl	2026-09-03T01:45:57Z	
 0.31.0-beta.202609031819			
+0.31.0-beta.202609031819	aarch64-apple-darwin	2026-09-04T16:55:38Z	
+0.31.0-beta.202609031819	aarch64-unknown-linux-gnu	2026-09-04T16:55:38Z	
+0.31.0-beta.202609031819	aarch64-unknown-linux-musl	2026-09-04T16:55:38Z	
+0.31.0-beta.202609031819	i686-pc-windows-msvc	2026-09-04T16:55:38Z	
+0.31.0-beta.202609031819	java-coreJar	2026-09-04T16:55:38Z	
+0.31.0-beta.202609031819	uber	2026-09-04T16:55:38Z	
+0.31.0-beta.202609031819	x86_64-apple-darwin	2026-09-04T16:55:38Z	
+0.31.0-beta.202609031819	x86_64-pc-windows-msvc	2026-09-04T16:55:38Z	
+0.31.0-beta.202609031819	x86_64-unknown-linux-gnu	2026-09-04T16:55:38Z	
+0.31.0-beta.202609031819	x86_64-unknown-linux-musl	2026-09-04T16:55:38Z	
 0.31.0-rc.1			
+0.31.0-rc.1	aarch64-apple-darwin	2026-09-07T07:48:30Z	
+0.31.0-rc.1	aarch64-unknown-linux-gnu	2026-09-07T07:48:30Z	
+0.31.0-rc.1	aarch64-unknown-linux-musl	2026-09-07T07:48:30Z	
+0.31.0-rc.1	i686-pc-windows-msvc	2026-09-07T07:48:30Z	
+0.31.0-rc.1	java-coreJar	2026-09-07T07:48:30Z	
+0.31.0-rc.1	uber	2026-09-07T07:48:30Z	
+0.31.0-rc.1	x86_64-apple-darwin	2026-09-07T07:48:30Z	
+0.31.0-rc.1	x86_64-pc-windows-msvc	2026-09-07T07:48:30Z	
+0.31.0-rc.1	x86_64-unknown-linux-gnu	2026-09-07T07:48:30Z	
+0.31.0-rc.1	x86_64-unknown-linux-musl	2026-09-07T07:48:30Z	
 0.31.0-rc.2			
 0.31.0-rc.3			
 0.31.0-rc.4			
 0.32.0-alpha.2026090801			
+0.32.0-alpha.2026090801	aarch64-apple-darwin	2026-09-08T20:16:15Z	
+0.32.0-alpha.2026090801	aarch64-unknown-linux-gnu	2026-09-08T20:16:15Z	
+0.32.0-alpha.2026090801	aarch64-unknown-linux-musl	2026-09-08T20:16:15Z	
+0.32.0-alpha.2026090801	i686-pc-windows-msvc	2026-09-08T20:16:15Z	
+0.32.0-alpha.2026090801	java-coreJar	2026-09-08T20:16:15Z	
+0.32.0-alpha.2026090801	uber	2026-09-08T20:16:15Z	
+0.32.0-alpha.2026090801	x86_64-apple-darwin	2026-09-08T20:16:15Z	
+0.32.0-alpha.2026090801	x86_64-pc-windows-msvc	2026-09-08T20:16:15Z	
+0.32.0-alpha.2026090801	x86_64-unknown-linux-gnu	2026-09-08T20:16:15Z	
+0.32.0-alpha.2026090801	x86_64-unknown-linux-musl	2026-09-08T20:16:15Z	
 0.32.0-alpha.2026090802			
+0.32.0-alpha.2026090802	aarch64-apple-darwin	2026-09-08T22:55:58Z	
+0.32.0-alpha.2026090802	aarch64-unknown-linux-gnu	2026-09-08T22:55:58Z	
+0.32.0-alpha.2026090802	aarch64-unknown-linux-musl	2026-09-08T22:55:58Z	
+0.32.0-alpha.2026090802	i686-pc-windows-msvc	2026-09-08T22:55:58Z	
+0.32.0-alpha.2026090802	java-coreJar	2026-09-08T22:55:58Z	
+0.32.0-alpha.2026090802	uber	2026-09-08T22:55:58Z	
+0.32.0-alpha.2026090802	x86_64-apple-darwin	2026-09-08T22:55:58Z	
+0.32.0-alpha.2026090802	x86_64-pc-windows-msvc	2026-09-08T22:55:58Z	
+0.32.0-alpha.2026090802	x86_64-unknown-linux-gnu	2026-09-08T22:55:58Z	
+0.32.0-alpha.2026090802	x86_64-unknown-linux-musl	2026-09-08T22:55:58Z	
 0.32.0-alpha.2026090901			
 0.32.0-beta.202609071315			
+0.32.0-beta.202609071315	aarch64-apple-darwin	2026-09-07T20:36:36Z	
+0.32.0-beta.202609071315	aarch64-unknown-linux-gnu	2026-09-07T20:36:36Z	
+0.32.0-beta.202609071315	aarch64-unknown-linux-musl	2026-09-07T20:36:37Z	
+0.32.0-beta.202609071315	i686-pc-windows-msvc	2026-09-07T20:36:37Z	
+0.32.0-beta.202609071315	java-coreJar	2026-09-07T20:36:36Z	
+0.32.0-beta.202609071315	uber	2026-09-07T20:36:37Z	
+0.32.0-beta.202609071315	x86_64-apple-darwin	2026-09-07T20:36:37Z	
+0.32.0-beta.202609071315	x86_64-pc-windows-msvc	2026-09-07T20:36:37Z	
+0.32.0-beta.202609071315	x86_64-unknown-linux-gnu	2026-09-07T20:36:36Z	
+0.32.0-beta.202609071315	x86_64-unknown-linux-musl	2026-09-07T20:36:37Z	
 0.32.0-beta.202609071753			
+0.32.0-beta.202609071753	aarch64-apple-darwin	2026-09-08T01:17:17Z	
+0.32.0-beta.202609071753	aarch64-unknown-linux-gnu	2026-09-08T01:17:17Z	
+0.32.0-beta.202609071753	aarch64-unknown-linux-musl	2026-09-08T01:17:18Z	
+0.32.0-beta.202609071753	i686-pc-windows-msvc	2026-09-08T01:17:17Z	
+0.32.0-beta.202609071753	java-coreJar	2026-09-08T01:17:18Z	
+0.32.0-beta.202609071753	uber	2026-09-08T01:17:17Z	
+0.32.0-beta.202609071753	x86_64-apple-darwin	2026-09-08T01:17:18Z	
+0.32.0-beta.202609071753	x86_64-pc-windows-msvc	2026-09-08T01:17:17Z	
+0.32.0-beta.202609071753	x86_64-unknown-linux-gnu	2026-09-08T01:17:17Z	
+0.32.0-beta.202609071753	x86_64-unknown-linux-musl	2026-09-08T01:17:18Z	
 0.32.0-beta.202609081821			
 0.32.0-beta.202609091820			
 0.32.0-beta.202609111409			
