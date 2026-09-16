@@ -5,3 +5,5 @@
 0.5.0		2026-08-25T16:49:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/codec/codec-bom/0.5.0/codec-bom-0.5.0.jar returned status 404
 0.6.0		2026-08-25T22:31:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/codec/codec-bom/0.6.0/codec-bom-0.6.0.jar returned status 404
 0.7.0		2026-08-26T10:36:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/codec/codec-bom/0.7.0/codec-bom-0.7.0.jar returned status 404
+0.8.0		2026-09-07T05:41:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/codec/codec-bom/0.8.0/codec-bom-0.8.0.jar returned status 404
+0.9.0		2026-09-07T14:32:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/codec/codec-bom/0.9.0/codec-bom-0.9.0.jar returned status 404

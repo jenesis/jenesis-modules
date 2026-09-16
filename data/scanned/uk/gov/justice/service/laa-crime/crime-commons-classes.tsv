@@ -148,4 +148,6 @@
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/laa-crime/crime-commons-classes/5.0.0/crime-commons-classes-5.0.0.jar returned status 404
 5.0.0	plain	2026-09-01T13:36:10Z	
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/laa-crime/crime-commons-classes/5.0.1/crime-commons-classes-5.0.1.jar returned status 404
+5.0.1	plain	2026-09-08T15:12:12Z	
 5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/laa-crime/crime-commons-classes/5.0.2/crime-commons-classes-5.0.2.jar returned status 404
+5.0.2	plain	2026-09-09T15:02:31Z	
