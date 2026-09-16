@@ -1,3 +1,4 @@
 0.1.1		2026-09-02T08:48:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rosday/buildthisplease-compose/0.1.1/buildthisplease-compose-0.1.1.jar returned status 404
 0.1.2		2026-09-03T03:03:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rosday/buildthisplease-compose/0.1.2/buildthisplease-compose-0.1.2.jar returned status 404
 0.1.3		2026-09-03T04:13:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rosday/buildthisplease-compose/0.1.3/buildthisplease-compose-0.1.3.jar returned status 404
+0.1.4		2026-09-10T22:57:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rosday/buildthisplease-compose/0.1.4/buildthisplease-compose-0.1.4.jar returned status 404

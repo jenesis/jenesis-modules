@@ -122,3 +122,5 @@ v2.0	named	net.sf.automatic-report-generator	xml-generator	2022-06-09T18:25:35Z	
 1.0.26.1	named	mx.com.sw.services	SW-JAVA	2026-08-03T20:20:42Z	4.0.2
 3.2.4	named	org.openfolder	kotlin-asyncapi-ktor-example	2026-08-06T09:04:59Z	3.0.1
 1.4.2	named	com.nomalab	subtitle	2026-08-12T08:34:06Z	4.0.2
+4.1.0	named	io.github.rzo1.org.sweble.wikitext	swc-dumpreader	2026-09-10T15:49:39Z	4.0.5
+4.1.0	named	io.github.rzo1.org.sweble.wikitext	swc-engine	2026-09-10T15:49:39Z	4.0.5

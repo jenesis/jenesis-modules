@@ -4481,4 +4481,6 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.24.9	named	io.joynr.examples	stateless-async-car-sim	2026-09-10T11:49:16Z	2.14.2
 1.24.9	named	io.joynr.tests.graceful-shutdown-test	graceful-shutdown-test-consumer	2026-09-10T11:49:16Z	2.14.2
 1.24.9	named	io.joynr.examples	stateless-async-consumer	2026-09-10T11:49:18Z	2.14.2
+1.0.0	named	io.github.prabhnoor12	sentinel-agent	2026-09-12T15:32:35Z	2.18.3
+1.0.0	named	io.github.prabhnoor12	sentinel-cli	2026-09-12T15:32:35Z	2.18.3
 1.4.0	named	com.debugbundle	debugbundle-java-agent	2026-09-12T17:49:52Z	2.19.0

@@ -1,2 +1,6 @@
 1.0.0		2026-09-07T08:54:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rfaturriza/nona-config-iossimulatorarm64/1.0.0/nona-config-iossimulatorarm64-1.0.0.jar returned status 404
 1.0.0	metadata	2026-09-07T08:54:14Z	
+1.0.1		2026-09-08T02:02:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rfaturriza/nona-config-iossimulatorarm64/1.0.1/nona-config-iossimulatorarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-09-08T02:02:21Z	
+1.0.2		2026-09-08T14:42:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rfaturriza/nona-config-iossimulatorarm64/1.0.2/nona-config-iossimulatorarm64-1.0.2.jar returned status 404
+1.0.2	metadata	2026-09-08T14:42:33Z	
