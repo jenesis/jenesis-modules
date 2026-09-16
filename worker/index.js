@@ -49,14 +49,18 @@
  * An explicit version that is not in the TSV is resolved on a best-effort basis against the
  * newest coordinate (the first row's groupId / artifactId), so versions published after the
  * last crawl still redirect; the request only 404s if Maven Central itself has no such
- * artifact.
+ * artifact. A request refuses that guess with `Jenesis-BestEffort: false`, which answers
+ * 404 for a version the crawl has not recorded rather than redirecting optimistically.
+ * Whenever the redirect served is such a guess, the response says so with the same header.
  *
  * The redirect targets Google's Maven Central mirror, which carries the same artifacts and
- * is not rate limited the way Central is. A request that wants Central itself says so with
- * `Jenesis-Mirror: false`, and a response served from Central carries the same header back.
- * Because the mirror trails Central by a couple of hours, a version published since its last
- * sync is a case for the header: a best-effort redirect for a version newer than the crawl
- * is the most likely to want it.
+ * is not rate limited the way Central is. A request names another Maven repository with
+ * `Jenesis-Repository: <url>`, whose URL then replaces the mirror as the base of the
+ * redirect; `Jenesis-Repository: https://repo.maven.apache.org/maven2/` asks for Central
+ * itself. Because the mirror trails Central by a couple of hours, a version published since
+ * its last sync is a case for the header: a best-effort redirect for a version newer than
+ * the crawl is the most likely to want it. A redirect built from the header is marked
+ * `private`, so no shared cache hands one client's repository to another.
  *
  * The worker is indifferent to any path segments preceding the mode marker - only the
  * trailing three or four segments are inspected - so it can be deployed behind any
@@ -66,12 +70,8 @@
  *   DATA_BASE         Base URL for fetching `artifacts[-<classifier>].tsv` and
  *                     `modules[-<classifier>].tsv`. Defaults to this repo's `main`
  *                     branch on raw.githubusercontent.com.
- *   ARTIFACT_BASE     Base URL of the Maven repository to redirect to. Defaults to
- *                     Google's Maven Central mirror.
- *   CENTRAL_BASE      Base URL used instead when a request sends `Jenesis-Mirror: false`.
- *                     Defaults to ARTIFACT_BASE when that is set, so a deployment naming
- *                     one repository never redirects outside it, and to
- *                     repo.maven.apache.org/maven2/ otherwise.
+ *   ARTIFACT_BASE     Base URL of the Maven repository to redirect to when a request
+ *                     does not name one. Defaults to Google's Maven Central mirror.
  *   HOME_REDIRECT     URL the root path (`/`) redirects to. Defaults to this repo's
  *                     GitHub page.
  *   REDIRECT_TTL      Cache-Control max-age (seconds) on the 302 response. Defaults
@@ -82,7 +82,6 @@
 const DEFAULT_DATA_BASE =
     "https://raw.githubusercontent.com/jenesis/jenesis-modules/main/data/modules/";
 const DEFAULT_ARTIFACT_BASE = "https://maven-central.storage-download.googleapis.com/maven2/";
-const DEFAULT_CENTRAL_BASE = "https://repo.maven.apache.org/maven2/";
 const DEFAULT_HOME_REDIRECT = "https://github.com/jenesis/jenesis-modules";
 const DEFAULT_REDIRECT_TTL = 3600;
 const STALE_WHILE_REVALIDATE = 86400;
@@ -103,13 +102,17 @@ const SIGNATURE_EXTENSION = ".asc";
 // read alike: "pre-releases: yes".
 const PRERELEASE_HEADER = "Jenesis-Prerelease";
 
-// Opt-out request header: `false` redirects to Maven Central rather than the mirror the
-// service redirects to by default. On a response the same header states that Central was
-// used, so only the non-default direction is ever spelled out.
-const MIRROR_HEADER = "Jenesis-Mirror";
+// Request header naming the Maven repository to redirect to, as an absolute http(s) URL,
+// in place of ARTIFACT_BASE. The `Location` already shows it, so it is not echoed back.
+const REPOSITORY_HEADER = "Jenesis-Repository";
 
-// Both headers change which redirect a request earns, so a shared cache has to key on them.
-const VARY_HEADERS = `${PRERELEASE_HEADER}, ${MIRROR_HEADER}`;
+// Opt-out request header: `false` refuses a redirect built for a version the crawl has not
+// recorded. On a response the same header states that the redirect served is such a guess,
+// so the two directions read alike: "guesses: yes".
+const BEST_EFFORT_HEADER = "Jenesis-BestEffort";
+
+// Every header changes which redirect a request earns, so a shared cache has to key on them.
+const VARY_HEADERS = `${PRERELEASE_HEADER}, ${REPOSITORY_HEADER}, ${BEST_EFFORT_HEADER}`;
 
 // Maven's qualifier order, mirroring the Jenesis build tool's version negotiator: a
 // qualifier that ranks below the empty one (the release itself) marks a pre-release.
@@ -181,13 +184,21 @@ async function handleRequest(request, env) {
         return textResponse(404, "Not Found\n");
     }
     const prereleases = (request.headers.get(PRERELEASE_HEADER) || "").trim().toLowerCase() === "true";
-    const mirror = (request.headers.get(MIRROR_HEADER) || "").trim().toLowerCase() !== "false";
+    const guesses = (request.headers.get(BEST_EFFORT_HEADER) || "").trim().toLowerCase() !== "false";
+    const requestedRepository = (request.headers.get(REPOSITORY_HEADER) || "").trim();
+    const repository = requestedRepository ? repositoryBase(requestedRepository) : null;
+    if (requestedRepository && !repository) {
+        return textResponse(
+            400,
+            `Bad Request: ${REPOSITORY_HEADER} must be an absolute http or https URL`
+                + ` without credentials, query or fragment\n`,
+        );
+    }
     const { moduleName, version, classifier, extension, mode } = parsed;
     const config = MODES[mode];
 
     const dataBase = (env && env.DATA_BASE) || DEFAULT_DATA_BASE;
     const artifactBase = (env && env.ARTIFACT_BASE) || DEFAULT_ARTIFACT_BASE;
-    const centralBase = (env && env.CENTRAL_BASE) || (env && env.ARTIFACT_BASE) || DEFAULT_CENTRAL_BASE;
     const redirectTtl = Number((env && env.REDIRECT_TTL) || DEFAULT_REDIRECT_TTL);
 
     const tsvName = classifier
@@ -229,22 +240,29 @@ async function handleRequest(request, env) {
             `Not Found: version ${version ?? "latest"} for module ${moduleName} (${config.tsv}.tsv)\n`,
         );
     }
+    if (row.bestEffort && !guesses) {
+        return textResponse(
+            404,
+            `Not Found: version ${version} for module ${moduleName} (${config.tsv}.tsv)`
+                + ` - the crawl has not recorded it, and ${BEST_EFFORT_HEADER}: false`
+                + ` refuses the guess that it exists under the newest coordinate\n`,
+            { Vary: BEST_EFFORT_HEADER },
+        );
+    }
 
-    const base = mirror ? artifactBase : centralBase;
-    const target = artifactUrl(base, row, classifier, extension, config.filenameSuffix);
+    const target = artifactUrl(repository ?? artifactBase, row, classifier, extension, config.filenameSuffix);
     return new Response(null, {
         status: 302,
         headers: {
             Location: target,
-            "Cache-Control": `public, max-age=${redirectTtl}, stale-while-revalidate=${STALE_WHILE_REVALIDATE}`,
+            "Cache-Control": `${repository ? "private" : "public"}, max-age=${redirectTtl}, stale-while-revalidate=${STALE_WHILE_REVALIDATE}`,
             Vary: VARY_HEADERS,
             "Jenesis-GroupId": row.groupId,
             "Jenesis-ArtifactId": row.artifactId,
             "Jenesis-MavenVersion": row.mavenVersion,
             ...(row.moduleVersion ? { "Jenesis-ModuleVersion": row.moduleVersion } : {}),
-            ...(row.bestEffort ? { "Jenesis-BestEffort": "true" } : {}),
+            ...(row.bestEffort ? { [BEST_EFFORT_HEADER]: "true" } : {}),
             ...(isRelease(row) ? {} : { [PRERELEASE_HEADER]: "true" }),
-            ...(mirror ? {} : { [MIRROR_HEADER]: "false" }),
         },
     });
 }
@@ -506,6 +524,25 @@ function isReleaseQualifier(token, followedByDigit) {
 
 function isDigit(character) {
     return character >= "0" && character <= "9";
+}
+
+/**
+ * The redirect base a `Jenesis-Repository` value names, with a trailing slash so a value
+ * given as `https://host/maven2` or `https://host` joins the artifact path like a bound
+ * ARTIFACT_BASE does. Answers `null` for anything that is not an absolute http(s) URL, or
+ * that carries credentials, a query or a fragment, none of which survive being joined to.
+ */
+function repositoryBase(value) {
+    let url;
+    try {
+        url = new URL(value);
+    } catch {
+        return null;
+    }
+    if ((url.protocol !== "https:" && url.protocol !== "http:") || url.href !== url.origin + url.pathname) {
+        return null;
+    }
+    return url.href.endsWith("/") ? url.href : `${url.href}/`;
 }
 
 function artifactUrl(base, row, classifier, extension, filenameSuffix) {
