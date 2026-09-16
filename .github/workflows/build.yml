@@ -34,4 +34,4 @@ jobs:
           java-version: '25'
 
       - name: Build and test with Jenesis
-        run: java build/jenesis/Make.java
+        run: java -Djenesis.dependency.pin=strict build/jenesis/Make.java
