@@ -202,3 +202,6 @@
 4.0.5	named	com.google.cloud.bigdataoss	gcs-connector	2026-08-26T04:53:35Z	2.0.72.Final
 2026.08.31.233413-ab51e8c	named	app.cash.backfila	service	2026-08-31T23:45:17Z	2.0.72.Final
 2026.09.01.175539-b7f0968	named	app.cash.backfila	service	2026-09-01T18:07:46Z	2.0.72.Final
+2.20.1	named	com.google.cloud.bigtable	bigtable-beam-import	2026-09-02T19:36:14Z	2.0.72.Final
+0.137.0	named	com.google.cloud	google-cloud-nio	2026-09-04T21:30:08Z	2.0.75.Final
+2.20.2	named	com.google.cloud.bigtable	bigtable-beam-import	2026-09-04T22:17:51Z	2.0.72.Final
