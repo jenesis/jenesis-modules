@@ -500,3 +500,5 @@ build.jenesis.repository.scope
 build.jenesis.repository.net
 build.jenesis.repository.format.lifecycle
 codegen
+io.vertx.auth.common
+ai.djl.google_ai
