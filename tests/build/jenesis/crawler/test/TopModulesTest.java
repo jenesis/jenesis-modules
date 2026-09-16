@@ -245,7 +245,11 @@ public class TopModulesTest {
             server = HttpServer.create(new InetSocketAddress(InetAddress.getLoopbackAddress(), 0), 0);
             server.createContext("/", exchange -> {
                 String path = exchange.getRequestURI().getPath().substring(1);
-                String body = listings.get(path);
+                // A real repository serves the same listing for the directory and its index.html.
+                String directory = path.endsWith("index.html")
+                        ? path.substring(0, path.length() - "index.html".length())
+                        : path;
+                String body = listings.get(directory);
                 byte[] bytes = body == null
                         ? new byte[0]
                         : body.getBytes(StandardCharsets.UTF_8);

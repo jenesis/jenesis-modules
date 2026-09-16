@@ -52,10 +52,12 @@ jobs:
           # over every artifact of that group, not per listed artifact, because a group is what
           # Maven Central caps - which costs one directory-listing request per release in the
           # rolling year. Affordable once; not once per frozen year as well, so the tables above
-          # stay offline without them.
+          # stay offline without them. Read from the GCS mirror for the same reason the crawl reads
+          # its index there: Central's robots.txt disallows /maven2/ for every agent but Googlebot,
+          # and a few hundred thousand listings is exactly the enumeration it is asking us not to do.
           java -Djenesis.crawler.data="$GITHUB_WORKSPACE/data" \
                -Djenesis.crawler.top.bleeding=true \
-               -Djenesis.crawler.top.releases.uri=https://repo1.maven.org/maven2/ \
+               -Djenesis.crawler.top.releases.uri=https://maven-central.storage-download.googleapis.com/maven2/ \
                sources/build/jenesis/crawler/TopModules.java data/top/*.txt
 
       - name: Regenerate SUMMARY.md
