@@ -42,7 +42,8 @@ public final class Crawler implements AutoCloseable {
                                 long smallJarThreshold,
                                 boolean resume,
                                 boolean reprocessFailed,
-                                boolean allowRebaseline) {
+                                boolean allowRebaseline,
+                                boolean probeIncrementals) {
 
         public static final long DEFAULT_SMALL_JAR_THRESHOLD = 262144L;
         public static final Duration DEFAULT_BUDGET = Duration.ofMinutes(180L);
@@ -52,6 +53,7 @@ public final class Crawler implements AutoCloseable {
         public static final boolean DEFAULT_RESUME = true;
         public static final boolean DEFAULT_REPROCESS_FAILED = false;
         public static final boolean DEFAULT_ALLOW_REBASELINE = false;
+        public static final boolean DEFAULT_PROBE_INCREMENTALS = false;
 
         /**
          * Builds a configuration whose {@code canonicalTimestampBaseUri} equals
@@ -80,7 +82,8 @@ public final class Crawler implements AutoCloseable {
                     DEFAULT_SMALL_JAR_THRESHOLD,
                     DEFAULT_RESUME,
                     DEFAULT_REPROCESS_FAILED,
-                    DEFAULT_ALLOW_REBASELINE
+                    DEFAULT_ALLOW_REBASELINE,
+                    DEFAULT_PROBE_INCREMENTALS
             );
         }
     }
@@ -483,7 +486,7 @@ public final class Crawler implements AutoCloseable {
                 chunkApplied = plan.incrementalNumber();
             }
             state = State.load(statePath)
-                    .withIndex(chunkApplied, remote.timestamp(), remote.chainId());
+                    .withIndex(chunkApplied, Math.max(remote.timestamp(), plan.probedTimestamp()), remote.chainId());
             if (plan.mode() == SyncMode.FULL) {
                 state = state.withIndexChunkPending(-1L);
             }
@@ -497,27 +500,41 @@ public final class Crawler implements AutoCloseable {
         return aggregator.finish(true);
     }
 
-    private record ChunkPlan(SyncMode mode, URI uri, long incrementalNumber) {
+    private record ChunkPlan(SyncMode mode, URI uri, long incrementalNumber, long probedTimestamp) {
     }
 
     private ChunkPlan decideNextChunk(State state, IndexProperties remote) {
         if (state.hasPendingFullScan()) {
             return new ChunkPlan(SyncMode.FULL,
                     configuration.indexBaseUri().resolve(INDEX_FILE),
-                    -1L);
+                    -1L,
+                    0L);
         }
         if (!state.hasIndexBaseline() || state.indexChainId() == null) {
             return new ChunkPlan(SyncMode.FULL,
                     configuration.indexBaseUri().resolve(INDEX_FILE),
-                    -1L);
+                    -1L,
+                    0L);
         }
         long next = state.indexChunkLastApplied() + 1L;
+        URI nextUri = configuration.indexBaseUri().resolve(INCREMENTAL_PREFIX + next + INCREMENTAL_SUFFIX);
+        long probedTimestamp = 0L;
         if (next > remote.lastIncremental()) {
-            return null;
+            // The .properties pointer is the contract, but Central has published chunks without
+            // advancing it (937 and 938 sat unannounced for a fortnight while every run reported
+            // UP_TO_DATE). One HEAD tells the two apart: 404 is genuinely caught up.
+            if (!configuration.probeIncrementals()) {
+                return null;
+            }
+            Fetcher.HeadProbe probe = fetcher.headLastModifiedProbe(nextUri);
+            if (probe.status() / 100 != 2) {
+                return null;
+            }
+            probedTimestamp = probe.lastModifiedMillis();
+            System.out.println("[info] Chunk " + next + " is published although .properties still advertises "
+                    + remote.lastIncremental() + "; applying it.");
         }
-        return new ChunkPlan(SyncMode.INCREMENTAL,
-                configuration.indexBaseUri().resolve(INCREMENTAL_PREFIX + next + INCREMENTAL_SUFFIX),
-                next);
+        return new ChunkPlan(SyncMode.INCREMENTAL, nextUri, next, probedTimestamp);
     }
 
     private final class Aggregator {

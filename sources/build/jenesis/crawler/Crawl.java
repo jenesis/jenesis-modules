@@ -16,6 +16,7 @@ public final class Crawl {
     public static final String PROP_RESUME = "jenesis.crawler.resume";
     public static final String PROP_REPROCESS_FAILED = "jenesis.crawler.reprocess.failed";
     public static final String PROP_ALLOW_REBASELINE = "jenesis.crawler.allow.rebaseline";
+    public static final String PROP_PROBE_INCREMENTALS = "jenesis.crawler.probe.incrementals";
     public static final String PROP_CANONICAL_TIMESTAMP_URI = "jenesis.crawler.canonical.timestamp.uri";
     public static final String PROP_GIT_PUBLISH = "jenesis.crawler.git.publish";
     public static final String PROP_GIT_WORK_DIR = "jenesis.crawler.git.work.dir";
@@ -46,6 +47,7 @@ public final class Crawl {
         System.out.println("[info]   indexBase=" + configuration.indexBaseUri());
         System.out.println("[info]   artifactBase=" + configuration.artifactBaseUri());
         System.out.println("[info]   resume=" + configuration.resume());
+        System.out.println("[info]   probeIncrementals=" + configuration.probeIncrementals());
 
         Crawler.Result result;
         try (Crawler crawler = new Crawler(configuration)) {
@@ -75,10 +77,11 @@ public final class Crawl {
         boolean resume = property(PROP_RESUME).map(value -> parseBoolean(value, PROP_RESUME)).orElse(base.resume());
         boolean reprocessFailed = property(PROP_REPROCESS_FAILED).map(value -> parseBoolean(value, PROP_REPROCESS_FAILED)).orElse(base.reprocessFailed());
         boolean allowRebaseline = property(PROP_ALLOW_REBASELINE).map(value -> parseBoolean(value, PROP_ALLOW_REBASELINE)).orElse(base.allowRebaseline());
+        boolean probeIncrementals = property(PROP_PROBE_INCREMENTALS).map(value -> parseBoolean(value, PROP_PROBE_INCREMENTALS)).orElse(base.probeIncrementals());
         URI canonicalTimestampBase = property(PROP_CANONICAL_TIMESTAMP_URI)
                 .map(URI::create)
                 .orElse(base.canonicalTimestampBaseUri());
-        return new Crawler.Configuration(indexBase, artifactBase, canonicalTimestampBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold, resume, reprocessFailed, allowRebaseline);
+        return new Crawler.Configuration(indexBase, artifactBase, canonicalTimestampBase, dataDir, budget, concurrency, tailSize, checkpointEvery, smallJarThreshold, resume, reprocessFailed, allowRebaseline, probeIncrementals);
     }
 
     private static Optional<String> property(String name) {
@@ -162,6 +165,11 @@ public final class Crawl {
         System.out.println("  -D" + PROP_ALLOW_REBASELINE + "=<true|false>   Allow recovery when an incremental 404s because we fell off the");
         System.out.println("                                                  Central retention window: reset the baseline and re-FULL on the");
         System.out.println("                                                  next iteration (default false; without this the crawler fails fast).");
+        System.out.println("  -D" + PROP_PROBE_INCREMENTALS + "=<true|false> When the .properties pointer says we are caught up, HEAD the");
+        System.out.println("                                                  next chunk anyway and apply it when it is already published");
+        System.out.println("                                                  (default false). Central has left last-incremental behind the");
+        System.out.println("                                                  chunks it serves, which otherwise reads as UP_TO_DATE forever.");
+        System.out.println("                                                  Costs one HEAD per run when genuinely caught up.");
         System.out.println("  -D" + PROP_CANONICAL_TIMESTAMP_URI + "=<uri>");
         System.out.println("                                                  Maven-repo base used to HEAD the canonical Last-Modified when the");
         System.out.println("                                                  primary artifact fetch comes from a mirror that rewrites mtimes");

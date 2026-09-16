@@ -85,7 +85,76 @@ public class CrawlerChainIntegrationTest {
         }
     }
 
+    @Test
+    public void crawler_ignores_a_published_chunk_the_properties_file_has_not_announced() throws Exception {
+        Path dataDir = tempDir.resolve("data");
+        Files.createDirectories(dataDir);
+
+        try (FakeMavenCentral central = new FakeMavenCentral()) {
+            central.setIndexProperties(CHAIN_ID, 0, T0);
+            central.publishFullIndex(T0, List.of(
+                    indexed("com.example", "named-mod", "1.0", Jars.modularJar("com.example.named.mod"))));
+            runCrawler(central, dataDir);
+
+            // Chunk 1 is served, but last-incremental still reads 0.
+            central.publishIncremental(1, T1, List.of(
+                    indexed("com.example", "unannounced", "1.0", Jars.modularJar("com.example.unannounced"))));
+
+            runCrawler(central, dataDir);
+
+            assertThat(State.load(dataDir.resolve("state.properties")).indexChunkLastApplied()).isEqualTo(0L);
+            assertModuleAbsent(dataDir, "com.example.unannounced");
+        }
+    }
+
+    @Test
+    public void probing_applies_a_published_chunk_the_properties_file_has_not_announced() throws Exception {
+        Path dataDir = tempDir.resolve("data");
+        Files.createDirectories(dataDir);
+
+        try (FakeMavenCentral central = new FakeMavenCentral()) {
+            central.setIndexProperties(CHAIN_ID, 0, T0);
+            central.publishFullIndex(T0, List.of(
+                    indexed("com.example", "named-mod", "1.0", Jars.modularJar("com.example.named.mod"))));
+            runCrawler(central, dataDir, true);
+
+            central.publishIncremental(1, T1, List.of(
+                    indexed("com.example", "unannounced", "1.0", Jars.modularJar("com.example.unannounced"))));
+            central.publishIncremental(2, T2, List.of(
+                    indexed("com.example", "also-unannounced", "1.0", Jars.modularJar("com.example.also.unannounced"))));
+
+            runCrawler(central, dataDir, true);
+
+            State state = State.load(dataDir.resolve("state.properties"));
+            assertThat(state.indexChunkLastApplied()).as("both unannounced chunks apply in one run").isEqualTo(2L);
+            assertThat(state.indexChainId()).isEqualTo(CHAIN_ID);
+            assertModulePresent(dataDir, "com.example.unannounced", "1.0");
+            assertModulePresent(dataDir, "com.example.also.unannounced", "1.0");
+        }
+    }
+
+    @Test
+    public void probing_leaves_the_chain_untouched_when_no_further_chunk_is_published() throws Exception {
+        Path dataDir = tempDir.resolve("data");
+        Files.createDirectories(dataDir);
+
+        try (FakeMavenCentral central = new FakeMavenCentral()) {
+            central.setIndexProperties(CHAIN_ID, 0, T0);
+            central.publishFullIndex(T0, List.of(
+                    indexed("com.example", "named-mod", "1.0", Jars.modularJar("com.example.named.mod"))));
+            runCrawler(central, dataDir, true);
+
+            runCrawler(central, dataDir, true);
+
+            assertThat(State.load(dataDir.resolve("state.properties")).indexChunkLastApplied()).isEqualTo(0L);
+        }
+    }
+
     private static void runCrawler(FakeMavenCentral central, Path dataDir) throws IOException {
+        runCrawler(central, dataDir, false);
+    }
+
+    private static void runCrawler(FakeMavenCentral central, Path dataDir, boolean probeIncrementals) throws IOException {
         Crawler.Configuration configuration = new Crawler.Configuration(
                 central.indexBaseUri(),
                 central.artifactBaseUri(),
@@ -98,7 +167,8 @@ public class CrawlerChainIntegrationTest {
                 262144L,
                 true,
                 false,
-                false
+                false,
+                probeIncrementals
         );
         try (Crawler crawler = new Crawler(configuration)) {
             Crawler.Result result = crawler.run();
