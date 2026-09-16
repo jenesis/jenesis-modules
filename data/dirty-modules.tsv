@@ -920,3 +920,4 @@ build.codemodel.expression
 build.codemodel.dependency.injection
 be.yildizgames.common.logging
 codegen
+org.lz4.java
