@@ -72,7 +72,7 @@ const sampleVersions = (...rows) =>
  * Drive the worker for one request. `files` maps a TSV path suffix to either a string body
  * (served as 200) or `{ status, body }` to simulate upstream errors / 404s. Falls back to
  * FIXTURES, then to a 404, so most tests only declare what differs. `headers` are request
- * headers, which is how a caller opts in to pre-releases.
+ * headers, which is how a caller opts in to pre-releases or names a repository.
  */
 async function call(path, { files = {}, env = ENV, method = "GET", headers = {} } = {}) {
     const saved = globalThis.fetch;
@@ -306,7 +306,7 @@ test("the opt-in header restores the plain newest row", async () => {
 
 test("the redirect varies on both steering headers", async () => {
     const response = await call("/artifact/org.slf4j/org.slf4j.jar");
-    assert.equal(response.headers.get("Vary"), "Jenesis-Prerelease, Jenesis-Mirror");
+    assert.equal(response.headers.get("Vary"), "Jenesis-Prerelease, Jenesis-Repository");
 });
 
 test("the redirect targets the mirror when no repository is bound", async () => {
@@ -315,57 +315,69 @@ test("the redirect targets the mirror when no repository is bound", async () => 
         response.headers.get("Location"),
         "https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
     );
-    assert.equal(response.headers.get("Jenesis-Mirror"), null);
+    assert.match(response.headers.get("Cache-Control"), /^public,/);
 });
 
-test("a false mirror header redirects to Maven Central and says so", async () => {
-    const response = await call("/artifact/org.slf4j/org.slf4j.jar", {
-        env: { DATA_BASE },
-        headers: { "Jenesis-Mirror": "false" },
-    });
-    assert.equal(
-        response.headers.get("Location"),
-        "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
-    );
-    assert.equal(response.headers.get("Jenesis-Mirror"), "false");
-});
-
-test("a false mirror header honours a bound CENTRAL_BASE", async () => {
-    const response = await call("/artifact/org.slf4j/org.slf4j.jar", {
-        env: { DATA_BASE, ARTIFACT_BASE, CENTRAL_BASE: "https://central.test/" },
-        headers: { "Jenesis-Mirror": "false" },
-    });
-    assert.equal(
-        response.headers.get("Location"),
-        "https://central.test/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
-    );
-});
-
-test("a deployment naming one repository never redirects outside it", async () => {
-    for (const value of ["false", "true", ""]) {
+test("a repository header replaces the bound repository in the redirect", async () => {
+    for (const env of [ENV, { DATA_BASE }]) {
         const response = await call("/artifact/org.slf4j/org.slf4j.jar", {
-            headers: { "Jenesis-Mirror": value },
+            env,
+            headers: { "Jenesis-Repository": "https://repo.maven.apache.org/maven2/" },
+        });
+        assert.equal(response.status, 302);
+        assert.equal(
+            response.headers.get("Location"),
+            "https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
+        );
+    }
+});
+
+test("a repository header without a trailing slash still joins the artifact path", async () => {
+    for (const [value, base] of [
+        ["https://foobar", "https://foobar/"],
+        [" https://foobar/maven2 ", "https://foobar/maven2/"],
+        ["http://nexus.internal:8081/repository/central", "http://nexus.internal:8081/repository/central/"],
+    ]) {
+        const response = await call("/module/org.slf4j/2.0.9/org.slf4j.jar", {
+            headers: { "Jenesis-Repository": value },
         });
         assert.equal(
             response.headers.get("Location"),
-            "https://maven.test/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
+            `${base}org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar`,
             value,
         );
     }
 });
 
-test("any mirror header value other than false keeps the mirror", async () => {
-    for (const value of ["true", "no", "0", ""]) {
+test("a redirect to a requested repository is private to the client", async () => {
+    const response = await call("/artifact/org.slf4j/org.slf4j.jar", {
+        headers: { "Jenesis-Repository": "https://foobar/" },
+    });
+    assert.match(response.headers.get("Cache-Control"), /^private,/);
+    assert.equal(response.headers.get("Jenesis-Repository"), null);
+});
+
+test("a blank repository header keeps the bound repository", async () => {
+    const response = await call("/artifact/org.slf4j/org.slf4j.jar", {
+        headers: { "Jenesis-Repository": " " },
+    });
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
+    );
+    assert.match(response.headers.get("Cache-Control"), /^public,/);
+});
+
+test("a repository header that is not a plain http(s) URL is a 400", async () => {
+    for (const value of [
+        "false", "foobar", "/maven2/", "ftp://foobar/", "file:///maven2/",
+        "https://user:secret@foobar/", "https://foobar/?token=1", "https://foobar/#top", "https://foobar/?",
+    ]) {
         const response = await call("/artifact/org.slf4j/org.slf4j.jar", {
-            env: { DATA_BASE },
-            headers: { "Jenesis-Mirror": value },
+            headers: { "Jenesis-Repository": value },
         });
-        assert.equal(
-            response.headers.get("Location"),
-            "https://maven-central.storage-download.googleapis.com/maven2/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
-            value,
-        );
-        assert.equal(response.headers.get("Jenesis-Mirror"), null, value);
+        assert.equal(response.status, 400, value);
+        assert.match(await response.text(), /Jenesis-Repository/, value);
     }
 });
 
