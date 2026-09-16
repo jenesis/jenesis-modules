@@ -1,5 +1,6 @@
 1.100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wikimedia/wmf-jvm-parent-pom/1.100/wmf-jvm-parent-pom-1.100.jar returned status 404
 1.101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wikimedia/wmf-jvm-parent-pom/1.101/wmf-jvm-parent-pom-1.101.jar returned status 404
+1.102		2026-09-01T17:49:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wikimedia/wmf-jvm-parent-pom/1.102/wmf-jvm-parent-pom-1.102.jar returned status 404
 1.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wikimedia/wmf-jvm-parent-pom/1.74/wmf-jvm-parent-pom-1.74.jar returned status 404
 1.75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wikimedia/wmf-jvm-parent-pom/1.75/wmf-jvm-parent-pom-1.75.jar returned status 404
 1.76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wikimedia/wmf-jvm-parent-pom/1.76/wmf-jvm-parent-pom-1.76.jar returned status 404

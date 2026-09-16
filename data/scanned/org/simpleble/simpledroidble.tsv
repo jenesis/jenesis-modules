@@ -9,3 +9,7 @@
 1.1.1-dev25		2026-08-25T21:35:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidble/1.1.1-dev25/simpledroidble-1.1.1-dev25.jar returned status 404
 1.1.1-dev26		2026-08-25T23:34:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidble/1.1.1-dev26/simpledroidble-1.1.1-dev26.jar returned status 404
 1.1.1-dev27		2026-08-26T20:27:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidble/1.1.1-dev27/simpledroidble-1.1.1-dev27.jar returned status 404
+1.1.1-dev28		2026-09-01T17:15:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidble/1.1.1-dev28/simpledroidble-1.1.1-dev28.jar returned status 404
+1.1.1-dev29		2026-09-01T18:31:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidble/1.1.1-dev29/simpledroidble-1.1.1-dev29.jar returned status 404
+1.1.1-dev31		2026-09-01T19:02:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidble/1.1.1-dev31/simpledroidble-1.1.1-dev31.jar returned status 404
+1.1.1-dev32		2026-09-02T06:42:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidble/1.1.1-dev32/simpledroidble-1.1.1-dev32.jar returned status 404

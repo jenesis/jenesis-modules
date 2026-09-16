@@ -71,3 +71,5 @@
 1.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/testingisdocumenting/znai/znai-parent/1.90/znai-parent-1.90.jar returned status 404
 1.90.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/testingisdocumenting/znai/znai-parent/1.90.1/znai-parent-1.90.1.jar returned status 404
 1.91		2026-06-03T00:55:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/testingisdocumenting/znai/znai-parent/1.91/znai-parent-1.91.jar returned status 404
+1.92		2026-08-31T01:33:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/testingisdocumenting/znai/znai-parent/1.92/znai-parent-1.92.jar returned status 404
+1.93		2026-09-04T02:29:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/testingisdocumenting/znai/znai-parent/1.93/znai-parent-1.93.jar returned status 404
