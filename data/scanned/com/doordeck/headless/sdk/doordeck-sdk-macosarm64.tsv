@@ -287,4 +287,8 @@
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-macosarm64/2.5.0/doordeck-sdk-macosarm64-2.5.0.jar returned status 404
 2.5.0	metadata	2026-09-03T14:48:18Z	
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-macosarm64/2.6.0/doordeck-sdk-macosarm64-2.6.0.jar returned status 404
+2.6.0	metadata	2026-09-10T09:16:57Z	
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-macosarm64/2.7.0/doordeck-sdk-macosarm64-2.7.0.jar returned status 404
+2.7.0	metadata	2026-09-10T11:55:47Z	
+2.9.0		2026-09-14T12:16:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doordeck/headless/sdk/doordeck-sdk-macosarm64/2.9.0/doordeck-sdk-macosarm64-2.9.0.jar returned status 404
+2.9.0	metadata	2026-09-14T12:16:24Z	

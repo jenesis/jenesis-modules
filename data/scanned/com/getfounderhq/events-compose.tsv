@@ -1,2 +1,3 @@
 0.7.0		2026-09-05T10:19:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfounderhq/events-compose/0.7.0/events-compose-0.7.0.jar returned status 404
 0.8.0		2026-09-06T14:09:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfounderhq/events-compose/0.8.0/events-compose-0.8.0.jar returned status 404
+1.0.0		2026-09-10T19:31:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getfounderhq/events-compose/1.0.0/events-compose-1.0.0.jar returned status 404

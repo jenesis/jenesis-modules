@@ -5407,5 +5407,9 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 9.10.39	named	com.chartiq.finsemble	finsemble	2026-09-08T06:18:00Z	2.13.5
 1.0.22	named	com.janeluo	luban-rds-bin	2026-09-08T06:59:12Z	2.13.5
 10.4.1-BETA-5	named	com.chartiq.finsemble	finsemble	2026-09-09T03:17:58Z	2.13.5
+1.0.23	named	com.janeluo	luban-rds-bin	2026-09-09T06:51:33Z	2.13.5
 10.4.1	named	com.chartiq.finsemble	finsemble	2026-09-09T07:43:42Z	2.13.5
 0.66	named	com.testfabrik.webmate.sdk	java-sdk	2026-09-09T11:51:15Z	2.15.0
+3.00.6.1	named	com.dolphindb	dolphindb-javaapi	2026-09-10T06:32:12Z	2.15.2
+7.2.3.25	named	com.kinetica	kinetica-jdbc	2026-09-11T15:51:41Z	2.22
+1.0.26	named	com.janeluo	luban-rds-bin	2026-09-13T09:45:05Z	2.13.5
