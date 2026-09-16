@@ -848,3 +848,12 @@ com.dua3.meja
 com.dua3.license
 com.dua3.fx.application.fxml
 com.dua3.fx.application
+ch.qos.logback.core
+com.aspectran.netty
+com.aspectran.web.servlet
+fiftyone.pipeline.engines.fiftyone
+fiftyone.pipeline.engines
+fiftyone.pipeline.core
+fiftyone.common
+fiftyone.caching
+codes.rafael.asmjdkbridge

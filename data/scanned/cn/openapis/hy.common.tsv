@@ -241,3 +241,6 @@
 4.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openapis/hy.common/4.9.4/hy.common-4.9.4.jar returned status 404
 4.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openapis/hy.common/4.9.5/hy.common-4.9.5.jar returned status 404
 4.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openapis/hy.common/4.9.6/hy.common-4.9.6.jar returned status 404
+4.9.7		2026-09-14T07:36:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openapis/hy.common/4.9.7/hy.common-4.9.7.jar returned status 404
+4.9.8		2026-09-14T08:05:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openapis/hy.common/4.9.8/hy.common-4.9.8.jar returned status 404
+4.9.9		2026-09-15T03:41:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/openapis/hy.common/4.9.9/hy.common-4.9.9.jar returned status 404
