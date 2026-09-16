@@ -1,0 +1,2 @@
+1.0.0		2026-09-02T10:00:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wzyoucai/yc-china-core-sdk/1.0.0/yc-china-core-sdk-1.0.0.jar returned status 404
+1.0.1		2026-09-02T10:17:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/wzyoucai/yc-china-core-sdk/1.0.1/yc-china-core-sdk-1.0.1.jar returned status 404

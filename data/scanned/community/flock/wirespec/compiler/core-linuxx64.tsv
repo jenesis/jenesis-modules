@@ -102,6 +102,7 @@
 0.19.5		2026-06-18T20:52:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.19.5/core-linuxx64-0.19.5.jar returned status 404
 0.19.6		2026-06-22T10:03:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.19.6/core-linuxx64-0.19.6.jar returned status 404
 0.19.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.19.7/core-linuxx64-0.19.7.jar returned status 404
+0.20.0		2026-08-31T07:46:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.20.0/core-linuxx64-0.20.0.jar returned status 404
 0.20.0-RC.1		2026-06-18T22:02:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.20.0-RC.1/core-linuxx64-0.20.0-RC.1.jar returned status 404
 0.20.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.20.0-RC.10/core-linuxx64-0.20.0-RC.10.jar returned status 404
 0.20.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.20.0-RC.11/core-linuxx64-0.20.0-RC.11.jar returned status 404
@@ -118,6 +119,11 @@
 0.20.0-RC.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.20.0-RC.7/core-linuxx64-0.20.0-RC.7.jar returned status 404
 0.20.0-RC.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.20.0-RC.8/core-linuxx64-0.20.0-RC.8.jar returned status 404
 0.20.0-RC.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.20.0-RC.9/core-linuxx64-0.20.0-RC.9.jar returned status 404
+0.20.1		2026-09-03T11:14:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.20.1/core-linuxx64-0.20.1.jar returned status 404
+0.20.2		2026-09-04T12:59:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.20.2/core-linuxx64-0.20.2.jar returned status 404
+0.21.0		2026-09-07T09:55:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.21.0/core-linuxx64-0.21.0.jar returned status 404
+0.21.0-RC.1		2026-09-02T19:00:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.21.0-RC.1/core-linuxx64-0.21.0-RC.1.jar returned status 404
+0.21.1		2026-09-08T07:55:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.21.1/core-linuxx64-0.21.1.jar returned status 404
 0.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.8.10/core-linuxx64-0.8.10.jar returned status 404
 0.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.8.11/core-linuxx64-0.8.11.jar returned status 404
 0.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-linuxx64/0.8.13/core-linuxx64-0.8.13.jar returned status 404

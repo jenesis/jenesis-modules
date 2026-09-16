@@ -15,6 +15,7 @@
 0.19.5		2026-06-18T20:52:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.19.5/wirespec-bom-0.19.5.jar returned status 404
 0.19.6		2026-06-22T10:03:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.19.6/wirespec-bom-0.19.6.jar returned status 404
 0.19.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.19.7/wirespec-bom-0.19.7.jar returned status 404
+0.20.0		2026-08-31T07:46:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.20.0/wirespec-bom-0.20.0.jar returned status 404
 0.20.0-RC.1		2026-06-18T22:02:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.20.0-RC.1/wirespec-bom-0.20.0-RC.1.jar returned status 404
 0.20.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.20.0-RC.10/wirespec-bom-0.20.0-RC.10.jar returned status 404
 0.20.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.20.0-RC.11/wirespec-bom-0.20.0-RC.11.jar returned status 404
@@ -31,3 +32,8 @@
 0.20.0-RC.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.20.0-RC.7/wirespec-bom-0.20.0-RC.7.jar returned status 404
 0.20.0-RC.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.20.0-RC.8/wirespec-bom-0.20.0-RC.8.jar returned status 404
 0.20.0-RC.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.20.0-RC.9/wirespec-bom-0.20.0-RC.9.jar returned status 404
+0.20.1		2026-09-03T11:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.20.1/wirespec-bom-0.20.1.jar returned status 404
+0.20.2		2026-09-04T12:59:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.20.2/wirespec-bom-0.20.2.jar returned status 404
+0.21.0		2026-09-07T09:54:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.21.0/wirespec-bom-0.21.0.jar returned status 404
+0.21.0-RC.1		2026-09-02T19:00:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.21.0-RC.1/wirespec-bom-0.21.0-RC.1.jar returned status 404
+0.21.1		2026-09-08T07:55:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/wirespec-bom/0.21.1/wirespec-bom-0.21.1.jar returned status 404

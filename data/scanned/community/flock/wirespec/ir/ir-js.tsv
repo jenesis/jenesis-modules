@@ -24,6 +24,7 @@
 0.19.5		2026-06-18T20:52:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.19.5/ir-js-0.19.5.jar returned status 404
 0.19.6		2026-06-22T10:03:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.19.6/ir-js-0.19.6.jar returned status 404
 0.19.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.19.7/ir-js-0.19.7.jar returned status 404
+0.20.0		2026-08-31T07:46:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.20.0/ir-js-0.20.0.jar returned status 404
 0.20.0-RC.1		2026-06-18T22:02:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.20.0-RC.1/ir-js-0.20.0-RC.1.jar returned status 404
 0.20.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.20.0-RC.10/ir-js-0.20.0-RC.10.jar returned status 404
 0.20.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.20.0-RC.11/ir-js-0.20.0-RC.11.jar returned status 404
@@ -40,3 +41,8 @@
 0.20.0-RC.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.20.0-RC.7/ir-js-0.20.0-RC.7.jar returned status 404
 0.20.0-RC.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.20.0-RC.8/ir-js-0.20.0-RC.8.jar returned status 404
 0.20.0-RC.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.20.0-RC.9/ir-js-0.20.0-RC.9.jar returned status 404
+0.20.1		2026-09-03T11:14:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.20.1/ir-js-0.20.1.jar returned status 404
+0.20.2		2026-09-04T12:59:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.20.2/ir-js-0.20.2.jar returned status 404
+0.21.0		2026-09-07T09:54:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.21.0/ir-js-0.21.0.jar returned status 404
+0.21.0-RC.1		2026-09-02T19:00:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.21.0-RC.1/ir-js-0.21.0-RC.1.jar returned status 404
+0.21.1		2026-09-08T07:55:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/ir/ir-js/0.21.1/ir-js-0.21.1.jar returned status 404
