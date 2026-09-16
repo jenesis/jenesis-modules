@@ -246,6 +246,35 @@ test("an unknown explicit version resolves best-effort against the newest coordi
     assert.equal(response.headers.get("Jenesis-BestEffort"), "true");
 });
 
+test("Jenesis-BestEffort: false refuses a version the crawl has not recorded", async () => {
+    const response = await call("/artifact/org.slf4j/9.9.9/org.slf4j.jar", {
+        headers: { "Jenesis-BestEffort": "false" },
+    });
+    assert.equal(response.status, 404);
+    assert.match(await response.text(), /Jenesis-BestEffort: false/);
+    assert.equal(response.headers.get("Vary"), "Jenesis-BestEffort");
+});
+
+test("Jenesis-BestEffort: false leaves a recorded version alone", async () => {
+    const response = await call("/artifact/org.slf4j/2.0.9/org.slf4j.jar", {
+        headers: { "Jenesis-BestEffort": "false" },
+    });
+    assert.equal(response.status, 302);
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar",
+    );
+    assert.equal(response.headers.get("Jenesis-BestEffort"), null);
+});
+
+test("a value other than false keeps the guess", async () => {
+    const response = await call("/artifact/org.slf4j/9.9.9/org.slf4j.jar", {
+        headers: { "Jenesis-BestEffort": "true" },
+    });
+    assert.equal(response.status, 302);
+    assert.equal(response.headers.get("Jenesis-BestEffort"), "true");
+});
+
 test("without a version the newest pre-release is skipped", async () => {
     const response = await call("/artifact/org.alpha/org.alpha.jar");
     assert.equal(response.status, 302);
@@ -304,9 +333,9 @@ test("the opt-in header restores the plain newest row", async () => {
     assert.equal(response.headers.get("Jenesis-Prerelease"), "true");
 });
 
-test("the redirect varies on both steering headers", async () => {
+test("the redirect varies on every header that steers it", async () => {
     const response = await call("/artifact/org.slf4j/org.slf4j.jar");
-    assert.equal(response.headers.get("Vary"), "Jenesis-Prerelease, Jenesis-Repository");
+    assert.equal(response.headers.get("Vary"), "Jenesis-Prerelease, Jenesis-Repository, Jenesis-BestEffort");
 });
 
 test("the redirect targets the mirror when no repository is bound", async () => {
