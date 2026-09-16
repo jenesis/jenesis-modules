@@ -38,6 +38,7 @@
 1.130.0		2026-08-18T03:19:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/schema2proto-parent/1.130.0/schema2proto-parent-1.130.0.jar returned status 404
 1.131.0		2026-08-25T03:23:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/schema2proto-parent/1.131.0/schema2proto-parent-1.131.0.jar returned status 404
 1.132.0		2026-09-02T03:11:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/schema2proto-parent/1.132.0/schema2proto-parent-1.132.0.jar returned status 404
+1.133.0		2026-09-10T03:09:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/schema2proto-parent/1.133.0/schema2proto-parent-1.133.0.jar returned status 404
 1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/schema2proto-parent/1.14/schema2proto-parent-1.14.jar returned status 404
 1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/schema2proto-parent/1.15/schema2proto-parent-1.15.jar returned status 404
 1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/entur/schema2proto-parent/1.16/schema2proto-parent-1.16.jar returned status 404

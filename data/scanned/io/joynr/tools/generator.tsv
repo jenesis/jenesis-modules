@@ -2,7 +2,9 @@
 1.24.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tools/generator/1.24.6/generator-1.24.6.jar returned status 404
 1.24.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tools/generator/1.24.7/generator-1.24.7.jar returned status 404
 1.24.8		2026-06-03T07:12:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tools/generator/1.24.8/generator-1.24.8.jar returned status 404
+1.24.9		2026-09-10T11:49:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tools/generator/1.24.9/generator-1.24.9.jar returned status 404
 1.26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tools/generator/1.26.3/generator-1.26.3.jar returned status 404
 1.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tools/generator/1.26.4/generator-1.26.4.jar returned status 404
 1.26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tools/generator/1.26.5/generator-1.26.5.jar returned status 404
 1.26.6		2026-06-01T05:59:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tools/generator/1.26.6/generator-1.26.6.jar returned status 404
+1.26.7		2026-09-10T10:51:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joynr/tools/generator/1.26.7/generator-1.26.7.jar returned status 404

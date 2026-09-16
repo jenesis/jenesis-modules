@@ -23,3 +23,4 @@
 1.4.357-1		2026-08-15T23:15:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/technoirlab/vulkan/volk-kotlin-macosarm64/1.4.357-1/volk-kotlin-macosarm64-1.4.357-1.jar returned status 404
 1.4.357-1	metadata	2026-08-15T23:15:44Z	
 1.4.357-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/technoirlab/vulkan/volk-kotlin-macosarm64/1.4.357-2/volk-kotlin-macosarm64-1.4.357-2.jar returned status 404
+1.4.357-2	metadata	2026-09-09T00:23:26Z	

@@ -11,3 +11,5 @@
 0.2.3+tcnative-2.0.83.Final	linux-aarch_64	2026-08-31T15:31:14Z	
 0.2.3+tcnative-2.0.83.Final	linux-x86_64	2026-08-31T15:31:14Z	
 0.2.3+tcnative-2.0.84.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-openssl/0.2.3+tcnative-2.0.84.Final/smallrye-openssl-0.2.3+tcnative-2.0.84.Final.jar returned status 404
+0.2.3+tcnative-2.0.84.Final	linux-aarch_64	2026-09-08T12:50:35Z	
+0.2.3+tcnative-2.0.84.Final	linux-x86_64	2026-09-08T12:50:35Z	
