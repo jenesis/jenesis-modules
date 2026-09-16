@@ -97,6 +97,7 @@
 1.17.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu-parent/1.17.9/gosu-parent-1.17.9.jar returned status 404
 1.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu-parent/1.18.1/gosu-parent-1.18.1.jar returned status 404
 1.18.10		2026-08-26T20:08:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu-parent/1.18.10/gosu-parent-1.18.10.jar returned status 404
+1.18.11		2026-09-03T17:37:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu-parent/1.18.11/gosu-parent-1.18.11.jar returned status 404
 1.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu-parent/1.18.2/gosu-parent-1.18.2.jar returned status 404
 1.18.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu-parent/1.18.3/gosu-parent-1.18.3.jar returned status 404
 1.18.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/gosu-lang/gosu/gosu-parent/1.18.4/gosu-parent-1.18.4.jar returned status 404

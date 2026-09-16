@@ -96,4 +96,6 @@
 2.6.0	named	org.jolokia	jolokia-client-kubernetes	2026-04-29T15:04:23Z	2.21
 2.6.1	named	org.jolokia	jolokia-client-kubernetes	2026-08-11T10:38:04Z	2.22
 1.1.0	named	com.github.masonm	wiremock-jwt-extension	2026-08-18T03:16:01Z	2.22
+2.6.2	named	org.jolokia	jolokia-client-kubernetes	2026-09-02T07:39:22Z	2.22
+1.7.3	named	org.jolokia	jolokia-kubernetes	2026-09-02T10:38:11Z	2.19.0
 2.51.2	named	software.xdev.mockserver	server	2026-09-02T11:33:20Z	2.22
