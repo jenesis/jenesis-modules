@@ -63,5 +63,8 @@
 6.2.0		2026-07-02T08:49:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/entity-spring-boot-starter/6.2.0/entity-spring-boot-starter-6.2.0.jar returned status 404
 6.2.0	plain	2026-07-02T08:49:05Z	
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/entity-spring-boot-starter/6.3.0/entity-spring-boot-starter-6.3.0.jar returned status 404
+6.3.0	plain	2026-09-06T01:24:04Z	
 6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/entity-spring-boot-starter/6.3.1/entity-spring-boot-starter-6.3.1.jar returned status 404
+6.3.1	plain	2026-09-06T02:30:01Z	
 6.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/entity-spring-boot-starter/6.3.2/entity-spring-boot-starter-6.3.2.jar returned status 404
+6.3.2	plain	2026-09-06T02:40:43Z	
