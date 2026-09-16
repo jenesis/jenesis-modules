@@ -81,11 +81,13 @@ jobs:
           persist-credentials: true
           submodules: recursive
 
+      # setup-java resolves a version rather than 'latest', so the newest JDK is named here and
+      # bumped when the next feature release reaches general availability on Temurin.
       - name: Set up the newest JDK
         uses: actions/setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 # v5.2.0
         with:
           distribution: temurin
-          java-version: 'latest'
+          java-version: '26'
 
       - name: Configure git
         run: |
