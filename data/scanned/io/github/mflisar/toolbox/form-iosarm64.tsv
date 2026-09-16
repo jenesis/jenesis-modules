@@ -117,4 +117,6 @@
 4.0.7		2026-08-13T09:17:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/form-iosarm64/4.0.7/form-iosarm64-4.0.7.jar returned status 404
 4.0.7	metadata	2026-08-13T09:17:43Z	
 4.0.8-test			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/form-iosarm64/4.0.8-test/form-iosarm64-4.0.8-test.jar returned status 404
+4.0.8-test	metadata	2026-09-09T06:45:12Z	
 4.0.8-test02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mflisar/toolbox/form-iosarm64/4.0.8-test02/form-iosarm64-4.0.8-test02.jar returned status 404
+4.0.8-test02	metadata	2026-09-09T09:37:19Z	

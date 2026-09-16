@@ -1,2 +1,6 @@
+1.0.1		2026-09-12T16:50:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-logging-iosarm64/1.0.1/kmptoolkit-logging-iosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-09-12T16:50:11Z	
 1.0.2		2026-09-04T14:09:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-logging-iosarm64/1.0.2/kmptoolkit-logging-iosarm64-1.0.2.jar returned status 404
 1.0.2	metadata	2026-09-04T14:09:42Z	
+1.1.0		2026-09-12T17:24:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-logging-iosarm64/1.1.0/kmptoolkit-logging-iosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-09-12T17:24:59Z	
