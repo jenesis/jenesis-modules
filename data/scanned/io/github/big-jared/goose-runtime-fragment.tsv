@@ -1,0 +1,7 @@
+0.1.0		2026-08-31T03:13:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/big-jared/goose-runtime-fragment/0.1.0/goose-runtime-fragment-0.1.0.jar returned status 404
+0.2.0		2026-09-01T19:24:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/big-jared/goose-runtime-fragment/0.2.0/goose-runtime-fragment-0.2.0.jar returned status 404
+0.2.1		2026-09-01T20:01:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/big-jared/goose-runtime-fragment/0.2.1/goose-runtime-fragment-0.2.1.jar returned status 404
+0.2.2		2026-09-01T20:27:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/big-jared/goose-runtime-fragment/0.2.2/goose-runtime-fragment-0.2.2.jar returned status 404
+0.3.0		2026-09-02T00:04:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/big-jared/goose-runtime-fragment/0.3.0/goose-runtime-fragment-0.3.0.jar returned status 404
+0.4.0		2026-09-02T00:13:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/big-jared/goose-runtime-fragment/0.4.0/goose-runtime-fragment-0.4.0.jar returned status 404
+0.5.0		2026-09-02T02:41:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/big-jared/goose-runtime-fragment/0.5.0/goose-runtime-fragment-0.5.0.jar returned status 404

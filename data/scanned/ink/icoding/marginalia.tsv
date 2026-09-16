@@ -5,3 +5,5 @@
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/icoding/marginalia/1.1.2/marginalia-1.1.2.jar returned status 404
 1.1.3		2026-08-03T01:54:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/icoding/marginalia/1.1.3/marginalia-1.1.3.jar returned status 404
 1.1.4		2026-08-07T06:10:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/icoding/marginalia/1.1.4/marginalia-1.1.4.jar returned status 404
+1.1.5		2026-08-31T07:08:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/icoding/marginalia/1.1.5/marginalia-1.1.5.jar returned status 404
+1.1.6		2026-08-31T08:21:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ink/icoding/marginalia/1.1.6/marginalia-1.1.6.jar returned status 404

@@ -1,0 +1,2 @@
+2.0.1-RC4		2026-09-04T02:32:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hmctec/exception/exception-sweeper-parent/2.0.1-RC4/exception-sweeper-parent-2.0.1-RC4.jar returned status 404
+3.0.1-RC2		2026-09-04T02:39:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hmctec/exception/exception-sweeper-parent/3.0.1-RC2/exception-sweeper-parent-3.0.1-RC2.jar returned status 404
