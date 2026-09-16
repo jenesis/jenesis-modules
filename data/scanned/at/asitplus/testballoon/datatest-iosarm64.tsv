@@ -18,6 +18,10 @@
 0.15.0	metadata	2026-06-11T04:16:04Z	
 0.16.0		2026-07-20T06:04:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-iosarm64/0.16.0/datatest-iosarm64-0.16.0.jar returned status 404
 0.16.0	metadata	2026-07-20T06:04:28Z	
+0.16.1		2026-09-14T15:12:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-iosarm64/0.16.1/datatest-iosarm64-0.16.1.jar returned status 404
+0.16.1	metadata	2026-09-14T15:12:21Z	
+0.16.2		2026-09-15T04:22:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-iosarm64/0.16.2/datatest-iosarm64-0.16.2.jar returned status 404
+0.16.2	metadata	2026-09-15T04:22:50Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-iosarm64/0.2.0/datatest-iosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2025-11-09T22:43:42Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/datatest-iosarm64/0.3.0/datatest-iosarm64-0.3.0.jar returned status 404
