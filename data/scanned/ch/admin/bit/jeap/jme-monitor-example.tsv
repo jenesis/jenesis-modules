@@ -44,3 +44,5 @@
 6.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/6.9.0/jme-monitor-example-6.9.0.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/7.0.0/jme-monitor-example-7.0.0.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/7.1.0/jme-monitor-example-7.1.0.jar returned status 404
+7.2.0		2026-09-13T23:26:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/7.2.0/jme-monitor-example-7.2.0.jar returned status 404
+7.3.0		2026-09-14T23:26:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/7.3.0/jme-monitor-example-7.3.0.jar returned status 404
