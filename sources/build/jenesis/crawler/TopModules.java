@@ -1102,7 +1102,9 @@ public final class TopModules {
 
     private static Listing fetchListing(Fetcher fetcher, URI base, String path,
                                         AtomicInteger missing, AtomicInteger failed) {
-        URI uri = base.resolve(path);
+        // Resolved as index.html rather than the bare directory: Central serves both, while the
+        // GCS mirror stores the generated listing as an object and 404s the directory itself.
+        URI uri = base.resolve(path + "index.html");
         try {
             Optional<String> body = fetcher.getOptional(uri);
             if (body.isEmpty()) {
@@ -1211,14 +1213,15 @@ public final class TopModules {
         System.out.println("        Data directory holding modules/ and scanned/ (default 'data').");
         System.out.println("  -D" + PROP_RELEASES_URI + "=<uri>");
         System.out.println("        Repository to measure publishing volume against (e.g.");
-        System.out.println("        https://repo1.maven.org/maven2/). Set it to add the five publishing columns:");
-        System.out.println("        group artifacts, files and MB per release, releases per month, and the Maven");
-        System.out.println("        Central thresholds exceeded. The figures are per groupId, not per artifact,");
-        System.out.println("        since that is what Central caps, and cover every artifact of the group rather");
-        System.out.println("        than the listed ones - one directory-listing request per release in the");
-        System.out.println("        window, which for a 1000-artifact list is a few hundred thousand requests. No");
-        System.out.println("        artifact is downloaded and nothing is written to data/. Unset, the report is");
-        System.out.println("        rendered offline without those columns.");
+        System.out.println("        https://maven-central.storage-download.googleapis.com/maven2/). Set it to add");
+        System.out.println("        the five publishing columns: group artifacts, files and MB per release,");
+        System.out.println("        releases per month, and the Maven Central thresholds exceeded. The figures");
+        System.out.println("        are per groupId, not per artifact, since that is what Central caps, and cover");
+        System.out.println("        every artifact of the group rather than the listed ones - one");
+        System.out.println("        directory-listing request per release in the window, which for a");
+        System.out.println("        1000-artifact list is a few hundred thousand requests. Each is read as the");
+        System.out.println("        directory's index.html. No artifact is downloaded and nothing is written to");
+        System.out.println("        data/. Unset, the report is rendered offline without those columns.");
         System.out.println("  -D" + PROP_RELEASES_CONCURRENCY + "=<n>");
         System.out.println("        Concurrent listing requests (default " + DEFAULT_RELEASES_CONCURRENCY + ").");
         System.out.println("  -D" + PROP_BLEEDING + "=true");
