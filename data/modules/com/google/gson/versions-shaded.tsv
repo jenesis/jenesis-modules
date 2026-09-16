@@ -6693,3 +6693,6 @@
 10.0.1	named	com.aliyun	sas20181203	2026-09-01T06:08:59Z	2.11.0
 1.4.0	named	com.aliyun	fcsandbox20260509	2026-09-01T08:24:29Z	2.11.0
 10.0.2	named	com.aliyun	sas20181203	2026-09-01T08:34:14Z	2.11.0
+3.39.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-02T09:33:08Z	2.10
+3.33.3.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-03T09:26:09Z	2.10
+3.27.5.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-03T10:01:43Z	2.10

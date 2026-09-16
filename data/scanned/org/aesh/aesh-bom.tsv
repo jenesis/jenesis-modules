@@ -1,1 +1,2 @@
 3.17.4		2026-08-29T08:18:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aesh/aesh-bom/3.17.4/aesh-bom-3.17.4.jar returned status 404
+3.17.5		2026-09-01T14:28:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aesh/aesh-bom/3.17.5/aesh-bom-3.17.5.jar returned status 404
