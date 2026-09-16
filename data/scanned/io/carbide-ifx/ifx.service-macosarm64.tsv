@@ -1,0 +1,2 @@
+0.1.0		2026-09-05T16:33:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/carbide-ifx/ifx.service-macosarm64/0.1.0/ifx.service-macosarm64-0.1.0.jar returned status 404
+0.1.1		2026-09-09T10:52:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/carbide-ifx/ifx.service-macosarm64/0.1.1/ifx.service-macosarm64-0.1.1.jar returned status 404

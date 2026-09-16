@@ -1,0 +1,2 @@
+0.1.1		2026-09-11T06:44:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fnmesh/fnmesh-parent/0.1.1/fnmesh-parent-0.1.1.jar returned status 404
+0.2.0		2026-09-12T06:14:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/fnmesh/fnmesh-parent/0.2.0/fnmesh-parent-0.2.0.jar returned status 404
