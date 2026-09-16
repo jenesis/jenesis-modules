@@ -30,6 +30,10 @@
 1.14.3	metadata	2026-07-09T11:40:26Z	
 1.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ro/cosminmihu/ktor/ktor-monitor-logging-no-op-iossimulatorarm64/1.14.4/ktor-monitor-logging-no-op-iossimulatorarm64-1.14.4.jar returned status 404
 1.14.4	metadata	2026-07-15T15:22:39Z	
+1.15.0		2026-08-29T10:34:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ro/cosminmihu/ktor/ktor-monitor-logging-no-op-iossimulatorarm64/1.15.0/ktor-monitor-logging-no-op-iossimulatorarm64-1.15.0.jar returned status 404
+1.15.0	metadata	2026-08-29T10:34:18Z	
+1.16.0		2026-08-31T10:16:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ro/cosminmihu/ktor/ktor-monitor-logging-no-op-iossimulatorarm64/1.16.0/ktor-monitor-logging-no-op-iossimulatorarm64-1.16.0.jar returned status 404
+1.16.0	metadata	2026-08-31T10:16:54Z	
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ro/cosminmihu/ktor/ktor-monitor-logging-no-op-iossimulatorarm64/1.6.0/ktor-monitor-logging-no-op-iossimulatorarm64-1.6.0.jar returned status 404
 1.6.0	metadata	2025-04-07T13:47:55Z	
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ro/cosminmihu/ktor/ktor-monitor-logging-no-op-iossimulatorarm64/1.6.1/ktor-monitor-logging-no-op-iossimulatorarm64-1.6.1.jar returned status 404

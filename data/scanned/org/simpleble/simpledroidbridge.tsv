@@ -9,3 +9,7 @@
 1.1.1-dev25		2026-08-25T21:32:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.1.1-dev25/simpledroidbridge-1.1.1-dev25.jar returned status 404
 1.1.1-dev26		2026-08-25T23:30:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.1.1-dev26/simpledroidbridge-1.1.1-dev26.jar returned status 404
 1.1.1-dev27		2026-08-26T20:23:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.1.1-dev27/simpledroidbridge-1.1.1-dev27.jar returned status 404
+1.1.1-dev28		2026-09-01T17:12:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.1.1-dev28/simpledroidbridge-1.1.1-dev28.jar returned status 404
+1.1.1-dev29		2026-09-01T18:26:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.1.1-dev29/simpledroidbridge-1.1.1-dev29.jar returned status 404
+1.1.1-dev31		2026-09-01T18:58:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.1.1-dev31/simpledroidbridge-1.1.1-dev31.jar returned status 404
+1.1.1-dev32		2026-09-02T06:38:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.1.1-dev32/simpledroidbridge-1.1.1-dev32.jar returned status 404
