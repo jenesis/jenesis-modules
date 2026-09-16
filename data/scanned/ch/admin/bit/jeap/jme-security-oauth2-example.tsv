@@ -31,3 +31,5 @@
 5.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-oauth2-example/5.9.0/jme-security-oauth2-example-5.9.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-oauth2-example/6.0.0/jme-security-oauth2-example-6.0.0.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-oauth2-example/6.1.0/jme-security-oauth2-example-6.1.0.jar returned status 404
+7.0.0		2026-09-13T23:26:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-oauth2-example/7.0.0/jme-security-oauth2-example-7.0.0.jar returned status 404
+7.1.0		2026-09-14T23:26:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-oauth2-example/7.1.0/jme-security-oauth2-example-7.1.0.jar returned status 404

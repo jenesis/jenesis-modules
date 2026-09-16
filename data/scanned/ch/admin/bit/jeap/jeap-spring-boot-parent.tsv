@@ -238,3 +238,4 @@
 40.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-parent/40.9.2/jeap-spring-boot-parent-40.9.2.jar returned status 404
 41.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-parent/41.0.0/jeap-spring-boot-parent-41.0.0.jar returned status 404
 41.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-parent/41.1.0/jeap-spring-boot-parent-41.1.0.jar returned status 404
+41.2.0		2026-09-14T09:46:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-spring-boot-parent/41.2.0/jeap-spring-boot-parent-41.2.0.jar returned status 404
