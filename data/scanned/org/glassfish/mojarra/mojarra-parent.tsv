@@ -4,3 +4,5 @@
 5.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mojarra/mojarra-parent/5.0.0-M4/mojarra-parent-5.0.0-M4.jar returned status 404
 5.0.0-M5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mojarra/mojarra-parent/5.0.0-M5/mojarra-parent-5.0.0-M5.jar returned status 404
 5.0.0-M6		2026-08-21T12:28:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mojarra/mojarra-parent/5.0.0-M6/mojarra-parent-5.0.0-M6.jar returned status 404
+5.0.0-M7		2026-08-29T22:24:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mojarra/mojarra-parent/5.0.0-M7/mojarra-parent-5.0.0-M7.jar returned status 404
+5.0.0-M8		2026-09-05T13:48:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/mojarra/mojarra-parent/5.0.0-M8/mojarra-parent-5.0.0-M8.jar returned status 404

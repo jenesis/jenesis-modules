@@ -35,4 +35,6 @@
 3.3-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-parent/3.3-RC2/microprofile-parent-3.3-RC2.jar returned status 404
 3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-parent/3.4/microprofile-parent-3.4.jar returned status 404
 3.4-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-parent/3.4-RC1/microprofile-parent-3.4-RC1.jar returned status 404
+3.5		2026-08-31T13:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-parent/3.5/microprofile-parent-3.5.jar returned status 404
 3.5-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-parent/3.5-RC1/microprofile-parent-3.5-RC1.jar returned status 404
+3.5-RC4		2026-08-31T08:18:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-parent/3.5-RC4/microprofile-parent-3.5-RC4.jar returned status 404

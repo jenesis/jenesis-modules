@@ -117,6 +117,7 @@
 3.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.8.10/ditto-3.8.10.jar returned status 404
 3.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.8.11/ditto-3.8.11.jar returned status 404
 3.8.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.8.12/ditto-3.8.12.jar returned status 404
+3.8.13		2026-09-01T16:38:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.8.13/ditto-3.8.13.jar returned status 404
 3.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.8.2/ditto-3.8.2.jar returned status 404
 3.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.8.3/ditto-3.8.3.jar returned status 404
 3.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.8.4/ditto-3.8.4.jar returned status 404
@@ -138,3 +139,4 @@
 3.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.9.4/ditto-3.9.4.jar returned status 404
 3.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.9.5/ditto-3.9.5.jar returned status 404
 3.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.9.6/ditto-3.9.6.jar returned status 404
+3.9.7		2026-09-01T15:03:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/ditto/ditto/3.9.7/ditto-3.9.7.jar returned status 404
