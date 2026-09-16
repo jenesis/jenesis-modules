@@ -486,3 +486,17 @@ krystal.vajram.ext.graphql.client.codegen
 krystal.vajram.ext.graphql.client
 flipkart.krystal.krystex.testFixtures
 ch.qos.logback.core
+com.fasterxml.jackson.module.jakarta.xmlbind
+jakarta.annotation
+com.azure.resourcemanager.resources.policy
+com.azure.resourcemanager.resources.deployments
+com.azure.resourcemanager.redhatopenshifthcp
+okhttp3
+org.graalvm.truffle
+net.bytebuddy.agent
+org.apache.commons.codec
+build.jenesis.repository.store.s3compatible
+build.jenesis.repository.scope
+build.jenesis.repository.net
+build.jenesis.repository.format.lifecycle
+codegen

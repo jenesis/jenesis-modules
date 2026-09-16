@@ -1,0 +1,2 @@
+0.1.0		2026-09-01T19:23:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/configdirector/android/configdirector-android/0.1.0/configdirector-android-0.1.0.jar returned status 404
+1.0.0		2026-09-01T19:42:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/configdirector/android/configdirector-android/1.0.0/configdirector-android-1.0.0.jar returned status 404
