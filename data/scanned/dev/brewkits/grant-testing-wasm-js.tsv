@@ -1,1 +1,2 @@
 2.5.0		2026-09-05T15:21:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/grant-testing-wasm-js/2.5.0/grant-testing-wasm-js-2.5.0.jar returned status 404
+2.6.0		2026-09-12T08:56:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/grant-testing-wasm-js/2.6.0/grant-testing-wasm-js-2.6.0.jar returned status 404

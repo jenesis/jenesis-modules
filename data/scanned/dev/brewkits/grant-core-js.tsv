@@ -1,2 +1,3 @@
 2.4.0		2026-09-05T08:53:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/grant-core-js/2.4.0/grant-core-js-2.4.0.jar returned status 404
 2.5.0		2026-09-05T15:21:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/grant-core-js/2.5.0/grant-core-js-2.5.0.jar returned status 404
+2.6.0		2026-09-12T08:56:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brewkits/grant-core-js/2.6.0/grant-core-js-2.6.0.jar returned status 404
