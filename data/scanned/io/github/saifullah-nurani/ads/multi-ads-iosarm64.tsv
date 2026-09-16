@@ -15,4 +15,6 @@
 1.1.7		2026-06-29T01:02:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/saifullah-nurani/ads/multi-ads-iosarm64/1.1.7/multi-ads-iosarm64-1.1.7.jar returned status 404
 1.1.7	metadata	2026-06-29T01:02:03Z	
 1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/saifullah-nurani/ads/multi-ads-iosarm64/1.1.8/multi-ads-iosarm64-1.1.8.jar returned status 404
+1.1.8	metadata	2026-09-03T15:16:56Z	
 1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/saifullah-nurani/ads/multi-ads-iosarm64/1.1.9/multi-ads-iosarm64-1.1.9.jar returned status 404
+1.1.9	metadata	2026-09-03T21:28:27Z	
