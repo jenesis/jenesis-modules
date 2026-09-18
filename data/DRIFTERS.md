@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-17. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-18. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -910,7 +910,7 @@ io.netty.tcnative.classes.openssl  [fork: keep `io.netty`, `io.vertx` still publ
   ?   io.fabric8                           2026-06..2026-09 7.9.0                |...................=|
   R   org.neo4j.driver                     2024-11..2026-08 4.4.27               |...............=====|
   R   io.kestra.plugin                     2024-10..2025-06 0.23.0               |...............===..|
-  R   eu.michael-simons.neo4j              2024-10..2025-06 2.17.4               |...............===..|
+  R   eu.michael-simons.neo4j              2024-10..2025-06 2.17.4               |...............==...|
 net.bytebuddy  [fork: keep `net.bytebuddy`, `io.github.lucientong` still publishes the name]
   A * net.bytebuddy                        2017-05..2026-09 1.18.13              |.===================|
   R   io.github.lucientong                 2026-04..2026-09 1.4.0                |..................==|
@@ -947,7 +947,7 @@ io.github.classgraph  [fork: keep `io.github.classgraph`, `org.finos.legend.engi
   R   tech.neander                         2024-05..2026-06 0.0.4                |..............=====.|
     + 77 more: org.finos.legend.sdlc, org.paramixel, org.javastro.vodsl, software.amazon.glue, dev.getelements.elements.crossfire, com.netgrif, org.plumelib, com.google.tsunami, org.finos.legend.depot, io.github.api-ghost-agent, org.geneweaver, cn.ashersu.omni.model, (+65 more)
 org.threeten.extra  [fork: keep `org.threeten`, `fr.insee.trevas` still publishes the name]
-  A * org.threeten                         2018-01..2026-06 1.10.0               |..==================|
+  A * org.threeten                         2018-01..2026-06 1.10.0               |..=================.|
   ?   fr.insee.trevas                      2026-08..2026-09 2.7.2                |...................=|
   R   org.apache.orc                       2020-01..2026-07 1.9.9                |......==============|
   R   org.yupana                           2022-01..2026-06 0.43.1               |..........==========|
@@ -1530,7 +1530,7 @@ org.jctools.core  [fork: keep `org.jctools`, `io.monix` still publishes the name
   A * org.jctools                          2020-11..2026-08 4.0.7                |........============|
   ?   io.monix                             2026-08..2026-08 3.5.0                |...................=|
   R   net.kieker-monitoring                2024-09..2026-04 2.0.3                |...............====.|
-  R   io.xdag                              2025-10..2025-12 0.1.6                |.................==.|
+  R   io.xdag                              2025-10..2025-12 0.1.6                |.................=..|
   R   io.github.shangor                    2025-07..2025-08 1.1.3                |.................=..|
   R   io.actor4j                           2025-06..2025-06 2.4.0-beta.3         |................==..|
     + 1 more: io.github.jponge.jct
