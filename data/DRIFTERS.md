@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-18. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-19. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -538,15 +538,15 @@ bento.fx  [renamed `software.coley` -> `software.coley.bento-fx` (latest 0.16.0)
 io.github.humbleui.skija.macos.arm64  [renamed `io.github.humbleui.skija` -> `io.github.humbleui` (latest 0.119.6)]
   A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |.........=..........|
   A   io.github.humbleui                   2021-12..2026-06 0.119.6              |..........==========|
-  ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
+  ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 io.github.humbleui.skija.macos.x64  [renamed `io.github.humbleui.skija` -> `io.github.humbleui` (latest 0.119.6)]
   A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |.........=..........|
   A   io.github.humbleui                   2021-12..2026-06 0.119.6              |..........==========|
-  ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
+  ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 io.github.humbleui.skija.shared  [renamed `io.github.humbleui.skija` -> `io.github.humbleui` (latest 0.119.6)]
   A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |.........=..........|
   A   io.github.humbleui                   2021-12..2026-06 0.119.6              |..........==========|
-  ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
+  ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 zertjsse  [renamed `com.ibm.zertjsse` -> `com.ibm.semeru-zjavasecurity` (latest 11.0.31.0)]
   ? * com.ibm.zertjsse                     2026-05..2026-05 11.0.31.0            |..................=.|
   ?   com.ibm.semeru-zjavasecurity         2026-05..2026-05 11.0.31.0            |..................=.|
@@ -1543,7 +1543,7 @@ org.snakeyaml.engine.v2  [fork: keep `org.snakeyaml`, `io.github.ethanz0x0` stil
   R   org.frankframework                   2025-01..2026-07 9.4.4                |................====|
   ?   io.github.baokhang83.mnemo           2026-07..2026-07 0.1.4                |...................=|
   ?   io.btrace                            2026-07..2026-07 0.26.2               |...................=|
-  ?   com.walmartlabs.concord.k8s          2026-06..2026-07 2.42.1               |...................=|
+  ?   com.walmartlabs.concord.k8s          2026-06..2026-07 2.42.1               |..................==|
     + 29 more: com.datadoghq, org.wildfly.glow, org.apache.zeppelin, io.acryl, io.fabric8, io.strimzi, io.github.phompang, eu.koboo, io.dscope.camel, org.workflomics, org.sonarsource.iac, ch.framedev, (+17 more)
 org.bytedeco.pytorch.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
@@ -1929,10 +1929,10 @@ com.gizmodata.quack.jdbc  [owned by `com.gizmodata`; 1 other group(s) shade the 
   ?   dev.brikk.duckdb                     2026-07..2026-07 0.6.0                |...................=|
 io.github.humbleui.skija.linux.x64  [owned by `io.github.humbleui`; 1 other group(s) shade the name]
   ? * io.github.humbleui                   2022-12..2026-06 0.119.6              |............========|
-  ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
+  ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 io.github.humbleui.skija.windows.x64  [owned by `io.github.humbleui`; 1 other group(s) shade the name]
   ? * io.github.humbleui                   2022-12..2026-06 0.119.6              |............========|
-  ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |...................=|
+  ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 org.neo4j.bolt.connection.routed  [owned by `org.neo4j.bolt`; 0 other group(s) shade the name]
   ? * org.neo4j.bolt                       2025-03..2026-06 12.0.0               |................===.|
   ?   org.neo4j.connectors                 2026-06..2026-06 6.0.0-RC01-s_2.13    |..................=.|
@@ -2706,7 +2706,7 @@ jpms_dss_xml_common  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest a
   ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-08 6.5                  |.............=======|
   ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............====..|
 jpms_dss_alert  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |.......===========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_asic_xades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
@@ -2742,7 +2742,7 @@ jpms_dss_ws_signature_soap_client  [no clear owner; `org.digidoc4j.dss` is earli
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_ws_timestamp_remote  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |.......===========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_ws_validation_dto  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
@@ -2850,16 +2850,16 @@ jpms_dss_ws_signature_soap  [no clear owner; `org.digidoc4j.dss` is earliest and
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_ws_timestamp_dto  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |.......===========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_ws_timestamp_remote_rest_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |.......===========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_ws_timestamp_remote_soap  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |.......===========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_ws_timestamp_remote_soap_client  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |.......===========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_ws_validation_common  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
@@ -2889,7 +2889,7 @@ jpms_dss_enumerations  [no clear owner; `org.digidoc4j.dss` is earliest and most
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_i18n  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |.......===========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_pades_pdfbox  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
@@ -2916,7 +2916,7 @@ jpms_dss_ws_signature_remote  [no clear owner; `org.digidoc4j.dss` is earliest a
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_ws_timestamp_remote_rest  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
-  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |........==========..|
+  ? * org.digidoc4j.dss                    2020-11..2025-11 6.2.d4j.1            |.......===========..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-08 6.5                  |...........=========|
 jpms_dss_xades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
