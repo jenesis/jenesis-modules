@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-19. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-20. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -174,7 +174,7 @@ okhttp3  [explicit rule: owned by `com.squareup.okhttp3`; 9 other group(s) rejec
   R   com.squareup.wire                    2026-01..2026-08 6.4.7                |..................==|
   A   com.squareup.okhttp3                 2018-02..2026-08 5.5.0                |..==================|
   R   org.eclipse.csi                      2026-03..2026-08 0.8.2                |..................==|
-  R   org.testcontainers                   2025-12..2026-04 2.0.5                |..................=.|
+  R   org.testcontainers                   2025-12..2026-04 2.0.5                |.................==.|
     + 4 more: io.github.mashanshui, com.huanli233.okhttp3-compat, io.github.sunny-chung, com.datadoghq.okhttp3
 com.google.common.util.concurrent.internal  [explicit rule: owned by `com.google.guava`; 5 other group(s) rejected]
   A * com.google.guava                     2023-10..2025-03 1.0.3                |.............====...|
@@ -614,7 +614,7 @@ org.apache.commons.text  [fork: keep `org.apache.commons`, `io.github.liquid-jav
   ?   io.github.liquid-java                2026-09..2026-09 0.0.34               |...................=|
   ?   de.fraunhofer.iosb.ilt.FROST-Server  2026-07..2026-07 2.8.0                |...................=|
   R   org.bonitasoft.engine.data           2026-01..2026-06 11.1.0               |..................==|
-  R   com.telamin.fluxtion                 2026-05..2026-06 1.0.9                |..................==|
+  R   com.telamin.fluxtion                 2026-05..2026-06 1.0.9                |..................=.|
   ?   net.officefloor.tutorial             2026-06..2026-06 4.0.0                |..................=.|
     + 19 more: com.vmlens, ru.biosoft.diagrams, io.github.venkateshamurthy, dev.jbang, io.github.davidwhitlock.joy, io.github.pro4d, org.bidib.com.github.markusbernhardt, fr.lirmm.graphik, io.github.noeltoy, io.github.mderevyankoaqa, com.salesforce.functions, org.opendaylight.aaa, (+7 more)
 org.apache.commons.compress  [fork: keep `org.apache.commons`, `com.io7m.montarre` still publishes the name]
@@ -882,7 +882,7 @@ jakarta.inject  [fork: keep `jakarta.inject`, `io.joynr.java.core` still publish
   R   io.joynr.java.core                   2026-01..2026-09 1.24.9               |..................==|
   R   com.google.gerrit                    2023-10..2026-09 3.12.10              |.............=======|
   R   io.github.jolt-community.jolt        2025-09..2026-08 1.3.0                |.................===|
-  ?   org.kill-bill.billing                2026-06..2026-07 0.42.2               |...................=|
+  ?   org.kill-bill.billing                2026-06..2026-07 0.42.2               |..................==|
   ?   org.openidentityplatform.openig      2026-06..2026-06 6.1.1                |...................=|
     + 13 more: dev.getelements.elements, it.netgrid, network.sloud.hytale, com.uchicom, com.google.tsunami, io.github.avistotelecom, org.apache.opennlp, com.google.template, io.github.openfeign.querydsl, org.reploop, com.guicedee.services, io.github.jbock-java, (+1 more)
 com.zaxxer.hikari  [fork: keep `com.zaxxer`, `org.finos.legend.depot` still publishes the name]
@@ -1161,11 +1161,11 @@ org.bytedeco.cuda.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` st
 org.bytedeco.ffmpeg.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 8.1.2-1.5.14-GA-1.0  |...................=|
-  R   us.ihmc                              2023-06..2023-06 6.0-1.5.9            |.............=......|
+  R   us.ihmc                              2023-06..2023-06 6.0-1.5.9            |............=.......|
 org.bytedeco.ffmpeg  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 8.1.2-1.5.14-GA-1.0  |...................=|
-  R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |.............====...|
+  R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |............=====...|
   R   com.github.javacpp-nogpl             2020-09..2020-09 4.3.1-1.5.4          |.......=............|
 org.bytedeco.cpython  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....================|
@@ -1176,11 +1176,11 @@ org.bytedeco.javacpp.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai`
   A * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
   ?   io.github.mullerhai                  2026-07..2026-09 1.5.14-GA-1.0        |...................=|
   R   org.apache.tika                      2024-07..2024-10 3.0.0                |...............=....|
-  R   us.ihmc                              2023-06..2023-06 1.5.9                |.............=......|
+  R   us.ihmc                              2023-06..2023-06 1.5.9                |............=.......|
 org.bytedeco.openblas.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 0.3.34-1.5.14-GA-1.0 |...................=|
-  R   us.ihmc                              2023-06..2023-06 0.3.23-1.5.9         |.............=......|
+  R   us.ihmc                              2023-06..2023-06 0.3.23-1.5.9         |............=.......|
   R   de.uni-mannheim.informatik.dws.melt  2022-06..2022-06 3.3                  |...........=........|
 org.bytedeco.numpy  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....================|
@@ -1191,7 +1191,7 @@ org.bytedeco.numpy.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` s
 org.bytedeco.javacpp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 1.5.14               |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 1.5.14-GA-1.0        |...................=|
-  R   us.ihmc                              2023-06..2025-01 1.5.11-ihmc-2        |.............====...|
+  R   us.ihmc                              2023-06..2025-01 1.5.11-ihmc-2        |............=====...|
   R   ai.polus.utils                       2024-06..2024-06 2.0.7                |...............=....|
   R   com.github.vinhkhuc                  2023-05..2023-05 0.5                  |............=.......|
   R   com.alibaba.alink                    2021-10..2022-10 0.2.0-0.6            |.........===........|
@@ -1199,7 +1199,7 @@ org.bytedeco.javacpp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still pu
 org.bytedeco.openblas  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 0.3.34-1.5.14-GA-1.0 |...................=|
-  R   us.ihmc                              2023-06..2025-02 0.3.23-1.5.11-ihmc-2 |.............====...|
+  R   us.ihmc                              2023-06..2025-02 0.3.23-1.5.11-ihmc-2 |............=====...|
 org.bytedeco.tensorrt  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 11.2-1.5.14          |....================|
   ?   io.github.mullerhai                  2026-08..2026-09 11.2-1.5.14-GA-1.0   |...................=|
@@ -1208,11 +1208,11 @@ org.bytedeco.opencv.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` 
   ?   io.github.mullerhai                  2026-07..2026-09 4.14.0-1.5.14-GA-1.0 |...................=|
   R   io.github.extractpdf4j               2025-12..2026-07 2.2.0                |..................==|
   R   io.github.mehulimukherjee            2025-08..2025-09 0.1.1                |.................=..|
-  R   us.ihmc                              2023-06..2023-06 4.7.0-1.5.9          |.............=......|
+  R   us.ihmc                              2023-06..2023-06 4.7.0-1.5.9          |............=.......|
 org.bytedeco.opencv  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 4.14.0-1.5.14-GA-1.0 |...................=|
-  R   us.ihmc                              2023-06..2025-02 4.7.0-1.5.11-ihmc-2  |.............====...|
+  R   us.ihmc                              2023-06..2025-02 4.7.0-1.5.11-ihmc-2  |............=====...|
 org.bytedeco.tritonserver  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2022-02..2026-08 2.71.0-1.5.14        |..........==========|
   ?   io.github.mullerhai                  2026-08..2026-09 2.71.0-1.5.14-GA-1.0 |...................=|
@@ -1368,12 +1368,12 @@ org.bytedeco.ffmpeg.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerha
 org.bytedeco.ffmpeg.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 8.1.2-1.5.14-GA-1.0  |...................=|
-  R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |.............====...|
+  R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |............=====...|
   R   com.github.javacpp-nogpl             2020-09..2020-09 4.3.1-1.5.4          |.......=............|
 org.bytedeco.ffmpeg.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 8.1.2-1.5.14-GA-1.0  |...................=|
-  R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |.............====...|
+  R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |............=====...|
 org.bytedeco.javacpp.android.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |...................=|
@@ -1398,14 +1398,14 @@ org.bytedeco.javacpp.linux.riscv64  [fork: keep `org.bytedeco`, `io.github.mulle
 org.bytedeco.javacpp.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |...................=|
-  R   us.ihmc                              2023-06..2025-01 1.5.11-ihmc-2        |.............====...|
+  R   us.ihmc                              2023-06..2025-01 1.5.11-ihmc-2        |............=====...|
 org.bytedeco.javacpp.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |...................=|
 org.bytedeco.javacpp.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |...................=|
-  R   us.ihmc                              2023-06..2025-01 1.5.11-ihmc-2        |.............====...|
+  R   us.ihmc                              2023-06..2025-01 1.5.11-ihmc-2        |............=====...|
 org.bytedeco.numpy.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-11..2026-08 2.5.1-1.5.14         |.....===============|
   ?   io.github.mullerhai                  2026-07..2026-08 2.5.1-1.5.14-GA-1.0  |...................=|
@@ -1418,15 +1418,15 @@ org.bytedeco.openblas.ios.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerh
 org.bytedeco.openblas.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 0.3.34-1.5.14-GA-1.0 |...................=|
-  R   us.ihmc                              2023-06..2025-02 0.3.23-1.5.11-ihmc-2 |.............====...|
+  R   us.ihmc                              2023-06..2025-02 0.3.23-1.5.11-ihmc-2 |............=====...|
 org.bytedeco.opencv.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 4.14.0-1.5.14-GA-1.0 |...................=|
-  R   us.ihmc                              2023-06..2025-02 4.7.0-1.5.11-ihmc-2  |.............====...|
+  R   us.ihmc                              2023-06..2025-02 4.7.0-1.5.11-ihmc-2  |............=====...|
 org.bytedeco.opencv.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 4.14.0-1.5.14-GA-1.0 |...................=|
-  R   us.ihmc                              2023-06..2025-02 4.7.0-1.5.11-ihmc-2  |.............====...|
+  R   us.ihmc                              2023-06..2025-02 4.7.0-1.5.11-ihmc-2  |............=====...|
 org.bytedeco.ffmpeg.android.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 8.1.2-1.5.14-GA-1.0  |...................=|
@@ -1440,7 +1440,7 @@ org.bytedeco.openblas.linux.arm64  [fork: keep `org.bytedeco`, `io.github.muller
 org.bytedeco.openblas.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 0.3.34-1.5.14-GA-1.0 |...................=|
-  R   us.ihmc                              2023-06..2025-02 0.3.23-1.5.11-ihmc-2 |.............====...|
+  R   us.ihmc                              2023-06..2025-02 0.3.23-1.5.11-ihmc-2 |............=====...|
 org.apache.commons.beanutils2  [fork: keep `org.apache.commons`, `org.onebusaway` still publishes the name]
   ? * org.apache.commons                   2024-12..2025-05 2.0.0-M2             |................=...|
   ?   org.onebusaway                       2025-05..2026-08 14.2.3               |................====|
@@ -2635,7 +2635,7 @@ atlantafx.base  [no clear owner; `io.github.mkpaz` is earliest and most recent]
 java.ws.rs  [no clear owner; `javax.ws.rs` is earliest and most recent]
   ? * javax.ws.rs                          2017-06..2018-08 2.1.1                |.===................|
   ?   org.opennms.alec                     2026-09..2026-09 3.0.4                |...................=|
-  ?   org.apache.opennlp                   2020-07..2026-06 1.9.5                |.......=============|
+  ?   org.apache.opennlp                   2020-07..2026-06 1.9.5                |.......============.|
   ?   org.jboss.pnc.build-agent            2021-07..2026-05 1.2.3                |.........==========.|
   ?   org.apache.hadoop                    2026-03..2026-03 3.5.0                |..................=.|
   ?   net.oneandone.ioc-unit               2021-09..2025-11 2.0.51               |.........=========..|
