@@ -1,9 +1,9 @@
 # Crawl status
 
-- Updated: 2026-09-21T10:25:39.077393457Z
+- Updated: 2026-09-21T10:27:35.593026101Z
 - Sync mode: SKIPPED
-- This run: processed=20410, named=603, automatic=453, failed=4
-- Throughput: 25 coordinates/sec
+- This run: processed=22416, named=647, automatic=496, failed=4
+- Throughput: 24 coordinates/sec
 - Current chunk started: 2026-09-21T10:12:14.819102324Z
 - Last applied index chunk: 938
 - Index chain id: `1318453614498`

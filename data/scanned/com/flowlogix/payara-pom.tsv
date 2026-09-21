@@ -44,6 +44,8 @@
 139			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/payara-pom/139/payara-pom-139.jar returned status 404
 14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/payara-pom/14/payara-pom-14.jar returned status 404
 140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/payara-pom/140/payara-pom-140.jar returned status 404
+141			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/payara-pom/141/payara-pom-141.jar returned status 404
+142			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/payara-pom/142/payara-pom-142.jar returned status 404
 15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/payara-pom/15/payara-pom-15.jar returned status 404
 16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/payara-pom/16/payara-pom-16.jar returned status 404
 17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/payara-pom/17/payara-pom-17.jar returned status 404

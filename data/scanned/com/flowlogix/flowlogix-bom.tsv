@@ -54,6 +54,8 @@
 44		2026-08-31T14:40:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix-bom/44/flowlogix-bom-44.jar returned status 404
 45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix-bom/45/flowlogix-bom-45.jar returned status 404
 46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix-bom/46/flowlogix-bom-46.jar returned status 404
+47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix-bom/47/flowlogix-bom-47.jar returned status 404
+48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix-bom/48/flowlogix-bom-48.jar returned status 404
 5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix-bom/5.0/flowlogix-bom-5.0.jar returned status 404
 5.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix-bom/5.0-M1/flowlogix-bom-5.0-M1.jar returned status 404
 5.0-M10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/flowlogix-bom/5.0-M10/flowlogix-bom-5.0-M10.jar returned status 404

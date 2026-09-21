@@ -13,3 +13,5 @@
 138		2026-08-25T02:28:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/glassfish-pom/138/glassfish-pom-138.jar returned status 404
 139			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/glassfish-pom/139/glassfish-pom-139.jar returned status 404
 140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/glassfish-pom/140/glassfish-pom-140.jar returned status 404
+141			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/glassfish-pom/141/glassfish-pom-141.jar returned status 404
+142			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/glassfish-pom/142/glassfish-pom-142.jar returned status 404

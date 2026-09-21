@@ -18,6 +18,7 @@
 3.13.0-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/target/3.13.0-1/target-3.13.0-1.jar returned status 404
 3.13.9-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/target/3.13.9-0/target-3.13.9-0.jar returned status 404
 3.14.0-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/target/3.14.0-0/target-3.14.0-0.jar returned status 404
+3.15.0rc2-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/target/3.15.0rc2-0/target-3.15.0rc2-0.jar returned status 404
 3.8.13-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/target/3.8.13-1/target-3.8.13-1.jar returned status 404
 3.8.13-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/target/3.8.13-2/target-3.8.13-2.jar returned status 404
 3.8.16-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/chaquo/python/target/3.8.16-0/target-3.8.16-0.jar returned status 404
