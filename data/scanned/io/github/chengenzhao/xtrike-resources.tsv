@@ -128,6 +128,9 @@
 1.5.9		2026-08-22T08:58:03Z	
 1.6		2026-08-28T03:23:59Z	
 1.6.1		2026-08-30T09:17:28Z	
+1.6.10			
+1.6.11			
+1.6.12			
 1.6.2			
 1.6.3			
 1.6.4			
@@ -136,3 +139,5 @@
 1.6.7			
 1.6.8			
 1.6.9			
+1.7			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
+1.7.1			InvalidModuleDescriptorException: Unsupported major.minor version 71.0

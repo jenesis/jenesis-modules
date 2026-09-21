@@ -5,6 +5,7 @@
 21.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eckig/grapheditor/21.1.2/grapheditor-21.1.2.jar returned status 404
 24.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eckig/grapheditor/24.0.0/grapheditor-24.0.0.jar returned status 404
 24.0.1		2026-05-26T09:01:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eckig/grapheditor/24.0.1/grapheditor-24.0.1.jar returned status 404
+24.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eckig/grapheditor/24.0.10/grapheditor-24.0.10.jar returned status 404
 24.0.2		2026-05-27T09:10:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eckig/grapheditor/24.0.2/grapheditor-24.0.2.jar returned status 404
 24.0.3		2026-06-03T13:32:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eckig/grapheditor/24.0.3/grapheditor-24.0.3.jar returned status 404
 24.0.4		2026-06-03T14:21:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/eckig/grapheditor/24.0.4/grapheditor-24.0.4.jar returned status 404

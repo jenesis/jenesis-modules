@@ -1,1 +1,2 @@
 0.13		2026-09-12T06:35:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/zstd/zstd-ffm/0.13/zstd-ffm-0.13.jar returned status 404
+0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dfa1/zstd/zstd-ffm/0.14/zstd-ffm-0.14.jar returned status 404
