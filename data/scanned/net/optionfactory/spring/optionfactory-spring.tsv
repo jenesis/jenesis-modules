@@ -129,6 +129,8 @@
 27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/27.0/optionfactory-spring-27.0.jar returned status 404
 27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/27.1/optionfactory-spring-27.1.jar returned status 404
 27.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/27.10/optionfactory-spring-27.10.jar returned status 404
+27.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/27.11/optionfactory-spring-27.11.jar returned status 404
+27.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/27.13/optionfactory-spring-27.13.jar returned status 404
 27.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/27.2/optionfactory-spring-27.2.jar returned status 404
 27.3		2026-08-05T11:28:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/27.3/optionfactory-spring-27.3.jar returned status 404
 27.4		2026-08-15T15:37:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/optionfactory/spring/optionfactory-spring/27.4/optionfactory-spring-27.4.jar returned status 404

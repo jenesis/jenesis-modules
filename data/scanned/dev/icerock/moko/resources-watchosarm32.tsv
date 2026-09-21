@@ -38,3 +38,4 @@
 0.26.4	metadata	2026-05-06T10:56:43Z	
 0.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/icerock/moko/resources-watchosarm32/0.27.0/resources-watchosarm32-0.27.0.jar returned status 404
 0.27.0	metadata	2026-09-08T06:57:14Z	
+0.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/icerock/moko/resources-watchosarm32/0.27.1/resources-watchosarm32-0.27.1.jar returned status 404

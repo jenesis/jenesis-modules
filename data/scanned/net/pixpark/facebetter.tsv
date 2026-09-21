@@ -11,3 +11,4 @@
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pixpark/facebetter/1.5.0/facebetter-1.5.0.jar returned status 404
 1.5.1		2026-08-03T15:14:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pixpark/facebetter/1.5.1/facebetter-1.5.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pixpark/facebetter/2.0.0/facebetter-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/pixpark/facebetter/2.0.1/facebetter-2.0.1.jar returned status 404
