@@ -74,6 +74,9 @@
 2026.1-12		2026-08-21T17:44:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.1-12/rosco-bom-2026.1-12.jar returned status 404
 2026.1-13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.1-13/rosco-bom-2026.1-13.jar returned status 404
 2026.1-14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.1-14/rosco-bom-2026.1-14.jar returned status 404
+2026.1-15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.1-15/rosco-bom-2026.1-15.jar returned status 404
+2026.1-16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.1-16/rosco-bom-2026.1-16.jar returned status 404
+2026.1-17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.1-17/rosco-bom-2026.1-17.jar returned status 404
 2026.1-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.1-5/rosco-bom-2026.1-5.jar returned status 404
 2026.1-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.1-6/rosco-bom-2026.1-6.jar returned status 404
 2026.1-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.1-7/rosco-bom-2026.1-7.jar returned status 404
@@ -93,6 +96,8 @@
 2026.2-23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.2-23/rosco-bom-2026.2-23.jar returned status 404
 2026.2-24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.2-24/rosco-bom-2026.2-24.jar returned status 404
 2026.2-25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.2-25/rosco-bom-2026.2-25.jar returned status 404
+2026.2-26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.2-26/rosco-bom-2026.2-26.jar returned status 404
+2026.2-27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.2-27/rosco-bom-2026.2-27.jar returned status 404
 2026.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.2.3/rosco-bom-2026.2.3.jar returned status 404
 2026.3-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.3-0/rosco-bom-2026.3-0.jar returned status 404
 2026.3-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.3-1/rosco-bom-2026.3-1.jar returned status 404
@@ -100,6 +105,9 @@
 2026.3-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.3-3/rosco-bom-2026.3-3.jar returned status 404
 2026.3-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.3-4/rosco-bom-2026.3-4.jar returned status 404
 2026.3-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.3-5/rosco-bom-2026.3-5.jar returned status 404
+2026.3-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.3-6/rosco-bom-2026.3-6.jar returned status 404
+2026.3-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.3-7/rosco-bom-2026.3-7.jar returned status 404
+2026.3-8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.3-8/rosco-bom-2026.3-8.jar returned status 404
 2026.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/2026.3.0/rosco-bom-2026.3.0.jar returned status 404
 main-239		2026-06-16T20:24:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-239/rosco-bom-main-239.jar returned status 404
 main-241		2026-06-17T03:21:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-241/rosco-bom-main-241.jar returned status 404
@@ -172,3 +180,12 @@ main-337			IOException: Tail request on https://maven-central.storage-download.g
 main-338			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-338/rosco-bom-main-338.jar returned status 404
 main-339			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-339/rosco-bom-main-339.jar returned status 404
 main-340			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-340/rosco-bom-main-340.jar returned status 404
+main-341			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-341/rosco-bom-main-341.jar returned status 404
+main-342			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-342/rosco-bom-main-342.jar returned status 404
+main-343			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-343/rosco-bom-main-343.jar returned status 404
+main-344			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-344/rosco-bom-main-344.jar returned status 404
+main-345			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-345/rosco-bom-main-345.jar returned status 404
+main-346			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-346/rosco-bom-main-346.jar returned status 404
+main-347			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-347/rosco-bom-main-347.jar returned status 404
+main-348			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-348/rosco-bom-main-348.jar returned status 404
+main-349			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/rosco/rosco-bom/main-349/rosco-bom-main-349.jar returned status 404
