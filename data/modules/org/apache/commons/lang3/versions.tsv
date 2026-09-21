@@ -1453,3 +1453,5 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 7.1.7	named	com.sngular	scs-multiapi-maven-plugin	2026-09-18T12:51:27Z	3.18.0
 3.21.0-Java8	named	com.equinor.neqsim	neqsim	2026-09-19T10:46:27Z	3.20.0
 3.21.0	named	com.equinor.neqsim	neqsim	2026-09-19T10:51:27Z	3.20.0
+4.0.12.8	named	io.streamnative	buildtools	2026-09-20T02:36:57Z	3.19.0
+4.2.1.16	named	io.streamnative	buildtools	2026-09-20T02:51:12Z	3.19.0

@@ -1,3 +1,4 @@
 1.0.0		2026-09-01T19:21:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/side/colorpicker-android/1.0.0/colorpicker-android-1.0.0.jar returned status 404
 1.1.0		2026-09-02T03:10:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/side/colorpicker-android/1.1.0/colorpicker-android-1.1.0.jar returned status 404
 1.1.1		2026-09-02T18:18:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/side/colorpicker-android/1.1.1/colorpicker-android-1.1.1.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/side/colorpicker-android/1.2.0/colorpicker-android-1.2.0.jar returned status 404
