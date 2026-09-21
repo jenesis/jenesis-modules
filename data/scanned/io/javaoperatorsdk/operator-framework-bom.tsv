@@ -77,3 +77,4 @@
 5.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/javaoperatorsdk/operator-framework-bom/5.5.0/operator-framework-bom-5.5.0.jar returned status 404
 5.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/javaoperatorsdk/operator-framework-bom/5.5.1/operator-framework-bom-5.5.1.jar returned status 404
 5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/javaoperatorsdk/operator-framework-bom/5.6.0/operator-framework-bom-5.6.0.jar returned status 404
+5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/javaoperatorsdk/operator-framework-bom/5.6.1/operator-framework-bom-5.6.1.jar returned status 404
