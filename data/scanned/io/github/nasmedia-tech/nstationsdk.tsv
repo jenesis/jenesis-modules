@@ -177,6 +177,12 @@
 2.0.0-rc.1		2026-08-20T00:06:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.1/nstationsdk-2.0.0-rc.1.jar returned status 404
 2.0.0-rc.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.10/nstationsdk-2.0.0-rc.10.jar returned status 404
 2.0.0-rc.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.11/nstationsdk-2.0.0-rc.11.jar returned status 404
+2.0.0-rc.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.12/nstationsdk-2.0.0-rc.12.jar returned status 404
+2.0.0-rc.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.14/nstationsdk-2.0.0-rc.14.jar returned status 404
+2.0.0-rc.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.16/nstationsdk-2.0.0-rc.16.jar returned status 404
+2.0.0-rc.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.17/nstationsdk-2.0.0-rc.17.jar returned status 404
+2.0.0-rc.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.18/nstationsdk-2.0.0-rc.18.jar returned status 404
+2.0.0-rc.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.19/nstationsdk-2.0.0-rc.19.jar returned status 404
 2.0.0-rc.2		2026-08-21T02:14:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.2/nstationsdk-2.0.0-rc.2.jar returned status 404
 2.0.0-rc.3		2026-08-21T08:33:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.3/nstationsdk-2.0.0-rc.3.jar returned status 404
 2.0.0-rc.8		2026-08-24T12:15:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/2.0.0-rc.8/nstationsdk-2.0.0-rc.8.jar returned status 404
