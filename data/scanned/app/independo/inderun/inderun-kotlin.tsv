@@ -2,3 +2,9 @@
 0.1.1		2026-07-07T11:39:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-kotlin/0.1.1/inderun-kotlin-0.1.1.jar returned status 404
 0.1.2		2026-07-07T12:17:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-kotlin/0.1.2/inderun-kotlin-0.1.2.jar returned status 404
 0.2.2		2026-08-16T16:36:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-kotlin/0.2.2/inderun-kotlin-0.2.2.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-kotlin/0.3.0/inderun-kotlin-0.3.0.jar returned status 404
+0.3.0-dev.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-kotlin/0.3.0-dev.14/inderun-kotlin-0.3.0-dev.14.jar returned status 404
+0.3.0-dev.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-kotlin/0.3.0-dev.16/inderun-kotlin-0.3.0-dev.16.jar returned status 404
+0.3.0-dev.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-kotlin/0.3.0-dev.17/inderun-kotlin-0.3.0-dev.17.jar returned status 404
+0.3.1-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-kotlin/0.3.1-dev.1/inderun-kotlin-0.3.1-dev.1.jar returned status 404
+0.3.1-dev.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-kotlin/0.3.1-dev.2/inderun-kotlin-0.3.1-dev.2.jar returned status 404

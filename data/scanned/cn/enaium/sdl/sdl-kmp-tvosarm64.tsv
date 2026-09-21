@@ -8,6 +8,7 @@
 1.0.11	metadata	2026-09-04T12:26:16Z	
 1.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/sdl/sdl-kmp-tvosarm64/1.0.12/sdl-kmp-tvosarm64-1.0.12.jar returned status 404
 1.0.12	metadata	2026-09-12T08:50:26Z	
+1.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/sdl/sdl-kmp-tvosarm64/1.0.13/sdl-kmp-tvosarm64-1.0.13.jar returned status 404
 1.0.2		2026-08-12T02:07:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/sdl/sdl-kmp-tvosarm64/1.0.2/sdl-kmp-tvosarm64-1.0.2.jar returned status 404
 1.0.2	metadata	2026-08-12T02:07:06Z	
 1.0.3		2026-08-13T01:36:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/sdl/sdl-kmp-tvosarm64/1.0.3/sdl-kmp-tvosarm64-1.0.3.jar returned status 404
