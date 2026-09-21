@@ -361,6 +361,7 @@
 9.21.15		2026-06-12T11:38:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/chatroom/9.21.15/chatroom-9.21.15.jar returned status 404
 9.21.16		2026-06-18T03:00:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/chatroom/9.21.16/chatroom-9.21.16.jar returned status 404
 9.21.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/chatroom/9.21.17/chatroom-9.21.17.jar returned status 404
+9.21.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/chatroom/9.21.18/chatroom-9.21.18.jar returned status 404
 9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/chatroom/9.3.0/chatroom-9.3.0.jar returned status 404
 9.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/chatroom/9.4.0/chatroom-9.4.0.jar returned status 404
 9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netease/nimlib/chatroom/9.5.0/chatroom-9.5.0.jar returned status 404

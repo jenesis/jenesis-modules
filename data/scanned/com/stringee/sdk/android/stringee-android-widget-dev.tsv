@@ -3,3 +3,4 @@
 1.1.5		2026-08-11T08:33:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stringee/sdk/android/stringee-android-widget-dev/1.1.5/stringee-android-widget-dev-1.1.5.jar returned status 404
 1.1.6		2026-08-12T09:49:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stringee/sdk/android/stringee-android-widget-dev/1.1.6/stringee-android-widget-dev-1.1.6.jar returned status 404
 1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stringee/sdk/android/stringee-android-widget-dev/1.1.7/stringee-android-widget-dev-1.1.7.jar returned status 404
+1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stringee/sdk/android/stringee-android-widget-dev/1.1.8/stringee-android-widget-dev-1.1.8.jar returned status 404

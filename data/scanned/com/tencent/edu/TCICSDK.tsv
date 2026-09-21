@@ -322,6 +322,7 @@
 1.8.38		2026-08-25T02:38:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TCICSDK/1.8.38/TCICSDK-1.8.38.jar returned status 404
 1.8.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TCICSDK/1.8.39/TCICSDK-1.8.39.jar returned status 404
 1.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TCICSDK/1.8.4/TCICSDK-1.8.4.jar returned status 404
+1.8.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TCICSDK/1.8.40/TCICSDK-1.8.40.jar returned status 404
 1.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TCICSDK/1.8.5/TCICSDK-1.8.5.jar returned status 404
 1.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TCICSDK/1.8.7/TCICSDK-1.8.7.jar returned status 404
 1.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/edu/TCICSDK/1.8.8/TCICSDK-1.8.8.jar returned status 404
