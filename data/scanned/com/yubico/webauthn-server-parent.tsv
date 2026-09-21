@@ -31,6 +31,10 @@
 2.1.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yubico/webauthn-server-parent/2.1.0-RC2/webauthn-server-parent-2.1.0-RC2.jar returned status 404
 2.1.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yubico/webauthn-server-parent/2.1.0-alpha1/webauthn-server-parent-2.1.0-alpha1.jar returned status 404
 2.1.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yubico/webauthn-server-parent/2.1.0-alpha2/webauthn-server-parent-2.1.0-alpha2.jar returned status 404
+2.10.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yubico/webauthn-server-parent/2.10.0-RC1/webauthn-server-parent-2.10.0-RC1.jar returned status 404
+2.10.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yubico/webauthn-server-parent/2.10.0-RC2/webauthn-server-parent-2.10.0-RC2.jar returned status 404
+2.10.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yubico/webauthn-server-parent/2.10.0-RC3/webauthn-server-parent-2.10.0-RC3.jar returned status 404
+2.10.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yubico/webauthn-server-parent/2.10.0-RC4/webauthn-server-parent-2.10.0-RC4.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yubico/webauthn-server-parent/2.2.0/webauthn-server-parent-2.2.0.jar returned status 404
 2.2.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yubico/webauthn-server-parent/2.2.0-RC1/webauthn-server-parent-2.2.0-RC1.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yubico/webauthn-server-parent/2.3.0/webauthn-server-parent-2.3.0.jar returned status 404
