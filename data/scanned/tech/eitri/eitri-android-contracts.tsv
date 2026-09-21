@@ -10,3 +10,4 @@
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/eitri/eitri-android-contracts/4.1.0/eitri-android-contracts-4.1.0.jar returned status 404
 4.1.0-alpha.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/eitri/eitri-android-contracts/4.1.0-alpha.0/eitri-android-contracts-4.1.0-alpha.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/eitri/eitri-android-contracts/4.2.0/eitri-android-contracts-4.2.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/eitri/eitri-android-contracts/5.0.0/eitri-android-contracts-5.0.0.jar returned status 404
