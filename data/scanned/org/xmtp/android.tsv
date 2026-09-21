@@ -220,6 +220,7 @@
 4.11.0-nightly.20260728.757ad30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.11.0-nightly.20260728.757ad30/android-4.11.0-nightly.20260728.757ad30.jar returned status 404
 4.11.0-nightly.20260729.ddeab1f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.11.0-nightly.20260729.ddeab1f/android-4.11.0-nightly.20260729.ddeab1f.jar returned status 404
 4.11.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.11.0-rc1/android-4.11.0-rc1.jar returned status 404
+4.12.0-dev.43f235e			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.12.0-dev.43f235e/android-4.12.0-dev.43f235e.jar returned status 404
 4.12.0-dev.4742763		2026-08-05T20:46:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.12.0-dev.4742763/android-4.12.0-dev.4742763.jar returned status 404
 4.12.0-dev.de26965		2026-08-27T19:30:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.12.0-dev.de26965/android-4.12.0-dev.de26965.jar returned status 404
 4.12.0-nightly.20260731.66944e2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/xmtp/android/4.12.0-nightly.20260731.66944e2/android-4.12.0-nightly.20260731.66944e2.jar returned status 404
