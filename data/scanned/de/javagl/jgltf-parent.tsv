@@ -1,1 +1,6 @@
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/javagl/jgltf-parent/2.0.0/jgltf-parent-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/javagl/jgltf-parent/2.0.1/jgltf-parent-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/javagl/jgltf-parent/2.0.2/jgltf-parent-2.0.2.jar returned status 404
+2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/javagl/jgltf-parent/2.0.3/jgltf-parent-2.0.3.jar returned status 404
+2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/javagl/jgltf-parent/2.0.4/jgltf-parent-2.0.4.jar returned status 404
 3.0.1		2026-08-31T13:47:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/javagl/jgltf-parent/3.0.1/jgltf-parent-3.0.1.jar returned status 404

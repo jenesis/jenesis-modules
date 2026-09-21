@@ -1,1 +1,4 @@
 0.1.0		2026-09-11T15:05:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/morph/morph-compose-android/0.1.0/morph-compose-android-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/morph/morph-compose-android/0.2.0/morph-compose-android-0.2.0.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/morph/morph-compose-android/0.3.0/morph-compose-android-0.3.0.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/li/songe/morph/morph-compose-android/0.4.0/morph-compose-android-0.4.0.jar returned status 404

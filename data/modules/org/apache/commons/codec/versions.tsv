@@ -2075,3 +2075,6 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 2.54.16	named	software.amazon.awssdk	bundle	2026-09-10T20:30:45Z	1.17.1
 2.54.17	named	software.amazon.awssdk	bundle-sdk	2026-09-11T20:31:54Z	1.17.1
 2.54.17	named	software.amazon.awssdk	bundle	2026-09-11T20:31:57Z	1.17.1
+2.0.0	named	software.amazon.glue	jsonschema-kafkaconnect-converter	2026-09-15T15:35:25Z	1.17.1
+2.0.0	named	software.amazon.glue	protobuf-kafkaconnect-converter	2026-09-15T15:35:25Z	1.17.1
+2.0.0	named	software.amazon.glue	schema-registry-kafkaconnect-converter	2026-09-15T15:35:25Z	1.17.1
