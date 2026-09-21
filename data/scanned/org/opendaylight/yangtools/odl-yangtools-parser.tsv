@@ -70,6 +70,7 @@
 15.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-parser/15.1.4/odl-yangtools-parser-15.1.4.jar returned status 404
 15.1.5		2026-08-16T14:56:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-parser/15.1.5/odl-yangtools-parser-15.1.5.jar returned status 404
 16.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-parser/16.0.0/odl-yangtools-parser-16.0.0.jar returned status 404
+16.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-parser/16.1.0/odl-yangtools-parser-16.1.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-parser/2.0.0/odl-yangtools-parser-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-parser/2.0.1/odl-yangtools-parser-2.0.1.jar returned status 404
 2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-parser/2.0.10/odl-yangtools-parser-2.0.10.jar returned status 404

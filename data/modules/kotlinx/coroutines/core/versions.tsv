@@ -79,4 +79,7 @@
 1.10.2-intellij-2	named	org.jetbrains.intellij.deps.kotlinx	kotlinx-coroutines-core-jvm	2026-08-10T15:19:08Z	
 2.0.0	named	com.airbnb.viaduct	javaapi-runtime	2026-08-10T18:21:46Z	
 1.10.2-intellij-3	named	org.jetbrains.intellij.deps.kotlinx	kotlinx-coroutines-core-jvm	2026-09-08T14:23:22Z	
+2.3.0-Beta	named	org.jetbrains.dokka	dokka-cli	2026-09-15T13:42:27Z	
+1.10.2-intellij-4	named	org.jetbrains.intellij.deps.kotlinx	kotlinx-coroutines-core-jvm	2026-09-16T11:13:21Z	
+1.11.0-intellij-1	named	org.jetbrains.intellij.deps.kotlinx	kotlinx-coroutines-core-jvm	2026-09-18T15:29:28Z	
 2.4.20-0.15.0	named	love.forte.plugin.suspend-transform	suspend-transform-plugin-embeddable	2026-09-19T16:11:38Z	

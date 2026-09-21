@@ -34,3 +34,4 @@
 15.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-binding-spec/15.1.4/odl-yangtools-binding-spec-15.1.4.jar returned status 404
 15.1.5		2026-08-16T15:19:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-binding-spec/15.1.5/odl-yangtools-binding-spec-15.1.5.jar returned status 404
 16.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-binding-spec/16.0.0/odl-yangtools-binding-spec-16.0.0.jar returned status 404
+16.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-binding-spec/16.1.0/odl-yangtools-binding-spec-16.1.0.jar returned status 404

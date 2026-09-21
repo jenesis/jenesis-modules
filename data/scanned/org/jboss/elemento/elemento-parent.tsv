@@ -74,3 +74,4 @@
 2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/elemento/elemento-parent/2.5.4/elemento-parent-2.5.4.jar returned status 404
 2.5.5		2026-08-17T07:47:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/elemento/elemento-parent/2.5.5/elemento-parent-2.5.5.jar returned status 404
 2.5.6		2026-08-17T08:59:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/elemento/elemento-parent/2.5.6/elemento-parent-2.5.6.jar returned status 404
+2.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/elemento/elemento-parent/2.5.7/elemento-parent-2.5.7.jar returned status 404

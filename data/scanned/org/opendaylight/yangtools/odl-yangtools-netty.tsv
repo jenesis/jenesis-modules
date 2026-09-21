@@ -70,6 +70,7 @@
 15.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-netty/15.1.4/odl-yangtools-netty-15.1.4.jar returned status 404
 15.1.5		2026-08-16T14:55:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-netty/15.1.5/odl-yangtools-netty-15.1.5.jar returned status 404
 16.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-netty/16.0.0/odl-yangtools-netty-16.0.0.jar returned status 404
+16.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-netty/16.1.0/odl-yangtools-netty-16.1.0.jar returned status 404
 4.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-netty/4.0.10/odl-yangtools-netty-4.0.10.jar returned status 404
 4.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-netty/4.0.11/odl-yangtools-netty-4.0.11.jar returned status 404
 4.0.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/odl-yangtools-netty/4.0.12/odl-yangtools-netty-4.0.12.jar returned status 404
