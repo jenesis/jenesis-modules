@@ -48,6 +48,7 @@
 1.49.6		2026-08-21T13:48:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk/1.49.6/java-sdk-1.49.6.jar returned status 404
 1.49.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk/1.49.7/java-sdk-1.49.7.jar returned status 404
 1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk/1.5/java-sdk-1.5.jar returned status 404
+1.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk/1.51/java-sdk-1.51.jar returned status 404
 1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk/1.6/java-sdk-1.6.jar returned status 404
 1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk/1.7/java-sdk-1.7.jar returned status 404
 1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/tinkoff/piapi/java-sdk/1.8/java-sdk-1.8.jar returned status 404
