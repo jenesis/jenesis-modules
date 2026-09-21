@@ -1,5 +1,6 @@
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tango-controls/JTango/10.0.0/JTango-10.0.0.jar returned status 404
 10.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tango-controls/JTango/10.0.0-rc1/JTango-10.0.0-rc1.jar returned status 404
+10.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tango-controls/JTango/10.0.1/JTango-10.0.1.jar returned status 404
 9.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tango-controls/JTango/9.3.10/JTango-9.3.10.jar returned status 404
 9.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tango-controls/JTango/9.4.1/JTango-9.4.1.jar returned status 404
 9.5.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tango-controls/JTango/9.5.15/JTango-9.5.15.jar returned status 404

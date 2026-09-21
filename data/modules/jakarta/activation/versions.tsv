@@ -1088,4 +1088,5 @@
 4.0.1248	named	com.cognite.spark.datasource	cdf-spark-datasource-fatjar_2.13	2026-09-03T02:59:09Z	
 0.9.5	named	com.eed3si9n	shaded-asynchttpclient	2026-09-15T21:34:25Z	
 0.9.6	named	com.eed3si9n	shaded-asynchttpclient	2026-09-16T01:51:37Z	
+3.0.14	named	org.playframework	shaded-asynchttpclient	2026-09-16T13:39:53Z	
 2.2.18	named	com.typesafe.play	shaded-asynchttpclient	2026-09-16T13:39:54Z	
