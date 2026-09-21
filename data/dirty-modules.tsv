@@ -130,3 +130,4 @@ dev.tamboui.picocli
 dev.tamboui.annotations
 dev.openfeature.contrib.providers.flagd
 io.netty.codec.http
+org.apache.felix.framework

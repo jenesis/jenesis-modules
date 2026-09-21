@@ -1,3 +1,4 @@
+3.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-proximity-iosx64/3.7.10/blue-falcon-plugin-proximity-iosx64-3.7.10.jar returned status 404
 3.7.4		2026-09-01T12:46:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-proximity-iosx64/3.7.4/blue-falcon-plugin-proximity-iosx64-3.7.4.jar returned status 404
 3.7.4	metadata	2026-09-01T12:46:05Z	
 3.7.5		2026-09-09T11:17:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-proximity-iosx64/3.7.5/blue-falcon-plugin-proximity-iosx64-3.7.5.jar returned status 404
@@ -6,3 +7,5 @@
 3.7.6	metadata	2026-09-09T13:54:34Z	
 3.7.7		2026-09-09T15:54:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-proximity-iosx64/3.7.7/blue-falcon-plugin-proximity-iosx64-3.7.7.jar returned status 404
 3.7.7	metadata	2026-09-09T15:54:48Z	
+3.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-proximity-iosx64/3.7.8/blue-falcon-plugin-proximity-iosx64-3.7.8.jar returned status 404
+3.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-proximity-iosx64/3.7.9/blue-falcon-plugin-proximity-iosx64-3.7.9.jar returned status 404
