@@ -45,6 +45,7 @@
 5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-parent/5/smallrye-parent-5.jar returned status 404
 50		2026-06-15T16:19:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-parent/50/smallrye-parent-50.jar returned status 404
 51		2026-07-01T22:28:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-parent/51/smallrye-parent-51.jar returned status 404
+52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-parent/52/smallrye-parent-52.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-parent/6/smallrye-parent-6.jar returned status 404
 7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-parent/7/smallrye-parent-7.jar returned status 404
 8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-parent/8/smallrye-parent-8.jar returned status 404
