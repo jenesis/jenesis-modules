@@ -24,3 +24,4 @@
 0.53.0	metadata	2026-09-02T11:53:41Z	
 0.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-data-simple-iosarm64/0.54.0/skainet-data-simple-iosarm64-0.54.0.jar returned status 404
 0.54.0	metadata	2026-09-06T21:59:49Z	
+0.56.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-data-simple-iosarm64/0.56.0/skainet-data-simple-iosarm64-0.56.0.jar returned status 404
