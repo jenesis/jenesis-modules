@@ -196,4 +196,5 @@
 2.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/2.0.0-rc1/platform-2.0.0-rc1.jar returned status 404
 2.0.0-rc2		2026-08-13T08:29:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/2.0.0-rc2/platform-2.0.0-rc2.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/2.0.1/platform-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/2.0.2/platform-2.0.2.jar returned status 404
 DEMO_BETA1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/platform/DEMO_BETA1/platform-DEMO_BETA1.jar returned status 404

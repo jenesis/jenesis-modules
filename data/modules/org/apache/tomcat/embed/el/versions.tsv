@@ -275,3 +275,6 @@
 9.0.121	named	org.apache.tomcat.embed	tomcat-embed-el	2026-08-12T19:49:13Z	9.0.121
 10.1.59	named	org.apache.tomcat.embed	tomcat-embed-el	2026-08-13T17:09:26Z	10.1.59
 10.1.59.0	named	com.heroku	webapp-runner	2026-09-02T02:15:48Z	10.1.59
+11.0.26	named	org.apache.tomcat.embed	tomcat-embed-el	2026-09-09T22:03:45Z	11.0.26
+10.1.60	named	org.apache.tomcat.embed	tomcat-embed-el	2026-09-09T22:44:19Z	10.1.60
+9.0.122	named	org.apache.tomcat.embed	tomcat-embed-el	2026-09-10T07:03:15Z	9.0.122

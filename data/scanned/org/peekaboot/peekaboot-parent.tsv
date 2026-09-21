@@ -1,1 +1,2 @@
 0.1.0		2026-09-04T09:44:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/peekaboot/peekaboot-parent/0.1.0/peekaboot-parent-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/peekaboot/peekaboot-parent/0.2.0/peekaboot-parent-0.2.0.jar returned status 404
