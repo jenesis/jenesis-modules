@@ -12,3 +12,5 @@
 1.0.22rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/globalpayments/globalpayments-portico/1.0.22rc2/globalpayments-portico-1.0.22rc2.jar returned status 404
 1.0.22rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/globalpayments/globalpayments-portico/1.0.22rc3/globalpayments-portico-1.0.22rc3.jar returned status 404
 1.0.22rc4		2026-08-07T14:11:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/globalpayments/globalpayments-portico/1.0.22rc4/globalpayments-portico-1.0.22rc4.jar returned status 404
+1.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/globalpayments/globalpayments-portico/1.0.23/globalpayments-portico-1.0.23.jar returned status 404
+1.0.23_rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/globalpayments/globalpayments-portico/1.0.23_rc3/globalpayments-portico-1.0.23_rc3.jar returned status 404
