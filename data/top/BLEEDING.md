@@ -170,7 +170,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 123 | com.squareup.okio:okio |  | 2026-03-11 | 12,4 |  | 3.17.0 |  | 87 | 28 | 5 | 0 | 32 | 1421,5 | 12,7 | 0,7 | - |
 | 124 | software.amazon.awssdk:aws-sdk-java-pom |  | 2026-08-26 | 0,3 |  | 2.54.5 |  | 65 | 0 | 65 | 0 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | ~~125~~ | ~~org.objenesis:objenesis-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~4~~ | ~~96,0~~ | ~~1,2~~ | ~~0,1~~ | ~~-~~ |
-| 126 | net.bytebuddy:byte-buddy | net.bytebuddy ✳️ | 2026-08-16 | 12,4 | 9,3 | 1.18.12 | 1.18.12 | 323 | 186 | 21 | 23 | 9 | 172,6 | 68,9 🔺 | 1,8 | 🔺 size |
+| 126 | net.bytebuddy:byte-buddy | net.bytebuddy ✳️ | 2026-08-16 | 12,4 | 9,3 | 1.18.12 | 1.18.12 | 323 | 188 | 21 | 25 | 9 | 172,6 | 68,9 🔺 | 1,8 | 🔺 size |
 | ~~127~~ | ~~io.dropwizard.metrics:metrics-parent~~ | ~~-~~ | ~~2026-08-28~~ | ~~0,3~~ | ~~-~~ | ~~4.2.40~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~2~~ | ~~0~~ | ~~44~~ | ~~1110,0~~ | ~~7,5~~ | ~~0,3~~ | ~~-~~ |
 | ~~128~~ | ~~org.apache.maven.reporting:maven-reporting-api ⚠️~~ | ~~-~~ | ~~2024-10-01~~ | ~~20,4~~ | ~~-~~ | ~~4.0.0~~ | ~~-~~ | ~~37~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~1~~ | ~~29,0~~ | ~~0,5~~ | ~~0,1~~ | ~~-~~ |
 | ~~129~~ | ~~ch.qos.logback:logback-parent~~ | ~~-~~ | ~~2026-08-14~~ | ~~0,3~~ | ~~-~~ | ~~1.6.3~~ | ~~-~~ | ~~7~~ | ~~0~~ | ~~7~~ | ~~0~~ | ~~6~~ | ~~80,6~~ | ~~8,6~~ | ~~1,9~~ | ~~-~~ |
@@ -238,7 +238,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~191~~ | ~~org.codehaus.plexus:plexus-compilers~~ | ~~-~~ | ~~2026-09-09~~ | ~~0,1~~ | ~~-~~ | ~~2.17.1~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~2~~ | ~~0~~ | ~~27~~ | ~~50,0~~ | ~~0,9~~ | ~~3,8~~ | ~~-~~ |
 | 192 | io.netty:netty-transport-native-epoll | io.netty.transport.epoll.linux.x86_64 ⚙️ | 2026-09-09 | 12,6 | 8,8 | 4.1.138.Final | 4.1.138.Final | 225 | 150 | 23 | 23 | 66 | 898,7 🔺 | 38,2 🔺 | 3,0 | 🔺 files, size |
 | ~~193~~ | ~~org.sonatype.plexus:plexus-build-api 🚩~~ | ~~-~~ | ~~2011-02-11~~ | ~~17,6~~ | ~~-~~ | ~~0.0.7~~ | ~~-~~ | ~~6~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| 194 | net.bytebuddy:byte-buddy-agent | net.bytebuddy.agent ✳️ | 2026-08-16 | 12,0 | 9,3 | 1.18.12 | 1.18.12 | 320 | 186 | 21 | 23 | 9 | 172,6 | 68,9 🔺 | 1,8 | 🔺 size |
+| 194 | net.bytebuddy:byte-buddy-agent | net.bytebuddy.agent ✳️ | 2026-08-16 | 12,0 | 9,3 | 1.18.12 | 1.18.12 | 320 | 188 | 21 | 25 | 9 | 172,6 | 68,9 🔺 | 1,8 | 🔺 size |
 | ~~195~~ | ~~org.codehaus.plexus:plexus-compiler-api~~ | ~~org.codehaus.plexus.compiler ⚙️~~ | ~~2026-09-09~~ | ~~20,9~~ | ~~0,1~~ | ~~2.17.1~~ | ~~2.17.1~~ | ~~48~~ | ~~2~~ | ~~5~~ | ~~2~~ | ~~27~~ | ~~50,0~~ | ~~0,9~~ | ~~3,8~~ | ~~-~~ |
 | ~~196~~ | ~~org.apache.maven.plugins:maven-clean-plugin ⚠️~~ | ~~-~~ | ~~2025-05-27~~ | ~~20,4~~ | ~~-~~ | ~~3.5.0~~ | ~~-~~ | ~~22~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~34~~ | ~~45,0~~ | ~~2,7~~ | ~~2,8~~ | ~~-~~ |
 | ~~197~~ | ~~org.eclipse.aether:aether-util 🚩~~ | ~~-~~ | ~~2016-02-03~~ | ~~14,0~~ | ~~-~~ | ~~1.1.0~~ | ~~-~~ | ~~10~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
@@ -368,10 +368,10 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 321 | io.netty:netty-transport-classes-epoll | io.netty.transport.classes.epoll ⚙️ | 2026-06-02 | 4,9 | 4,9 | 4.1.135.Final | 4.1.135.Final | 92 | 98 | 17 | 23 | 66 | 898,7 🔺 | 38,2 🔺 | 3,0 | 🔺 files, size |
 | 322 | io.grpc:grpc-protobuf | io.grpc.protobuf ⚙️ | 2026-08-14 | 11,3 | 3,0 | 1.82.4 | 1.82.4 | 192 | 51 | 13 | 19 | 38 | 747,3 | 251,6 🔺 | 1,2 | 🔺 size |
 | 323 | org.assertj:assertj-core | org.assertj.core ✳️ | 2026-01-24 | 13,5 | 8,3 | 3.27.7 | 3.27.7 | 82 | 44 | 3 | 3 | 6 | 35,3 | 6,4 | 0,7 | - |
-| ~~324~~ | ~~org.apache.maven.resolver:maven-resolver-util~~ | ~~org.apache.maven.resolver.util ✳️~~ | ~~2026-08-20~~ | ~~9,6~~ | ~~9,2~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~75~~ | ~~11~~ | ~~12~~ | ~~31~~ | ~~430,7~~ | ~~16,3~~ | ~~1,2~~ | ~~-~~ |
+| ~~324~~ | ~~org.apache.maven.resolver:maven-resolver-util~~ | ~~org.apache.maven.resolver.util ✳️~~ | ~~2026-08-20~~ | ~~9,6~~ | ~~9,2~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~76~~ | ~~11~~ | ~~13~~ | ~~31~~ | ~~430,7~~ | ~~16,3~~ | ~~1,2~~ | ~~-~~ |
 | 325 | org.springframework.boot:spring-boot-starter-test | spring.boot.starter.test ⚙️ | 2026-08-20 | 12,5 | 8,5 | 4.0.8 | 4.0.8 | 293 | 228 | 35 | 35 | 343 | 4398,2 🔺 | 123,4 🔺 | 2,9 | 🔺 files, size |
 | ~~326~~ | ~~org.apache.maven.shared:maven-dependency-tree ⚠️~~ | ~~-~~ | ~~2024-05-26~~ | ~~19,8~~ | ~~-~~ | ~~3.3.0~~ | ~~-~~ | ~~14~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~4~~ | ~~29,0~~ | ~~0,6~~ | ~~0,5~~ | ~~-~~ |
-| ~~327~~ | ~~org.apache.maven.resolver:maven-resolver-api~~ | ~~org.apache.maven.resolver ✳️~~ | ~~2026-08-20~~ | ~~9,6~~ | ~~9,2~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~75~~ | ~~11~~ | ~~12~~ | ~~31~~ | ~~430,7~~ | ~~16,3~~ | ~~1,2~~ | ~~-~~ |
+| ~~327~~ | ~~org.apache.maven.resolver:maven-resolver-api~~ | ~~org.apache.maven.resolver ✳️~~ | ~~2026-08-20~~ | ~~9,6~~ | ~~9,2~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~76~~ | ~~11~~ | ~~13~~ | ~~31~~ | ~~430,7~~ | ~~16,3~~ | ~~1,2~~ | ~~-~~ |
 | 328 | org.springframework.boot:spring-boot-test-autoconfigure | spring.boot.test.autoconfigure ⚙️ | 2026-08-20 | 10,1 | 8,5 | 4.0.8 | 4.0.8 | 259 | 228 | 35 | 35 | 343 | 4398,2 🔺 | 123,4 🔺 | 2,9 | 🔺 files, size |
 | ~~329~~ | ~~org.apache.groovy:groovy-bom~~ | ~~-~~ | ~~2026-08-24~~ | ~~0,2~~ | ~~-~~ | ~~6.0.0-beta-3~~ | ~~-~~ | ~~7~~ | ~~0~~ | ~~7~~ | ~~0~~ | ~~43~~ | ~~2245,8 🔺~~ | ~~107,1 🔺~~ | ~~1,8~~ | ~~🔺 files, size~~ |
 | ~~330~~ | ~~org.sonatype.sisu.inject:guice-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
@@ -421,13 +421,13 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 374 | org.apache.httpcomponents:httpmime 🚩 | org.apache.httpcomponents.httpmime ⚙️ | 2022-11-30 | 18,6 | 8,2 | 4.5.14 | 4.5.14 | 53 | 9 | 0 | 0 |  |  |  |  |  |
 | 375 | org.springframework.boot:spring-boot-actuator | spring.boot.actuator ⚙️ | 2026-08-20 | 12,5 | 8,5 | 4.1.1 | 4.1.1 | 293 | 228 | 35 | 35 | 343 | 4398,2 🔺 | 123,4 🔺 | 2,9 | 🔺 files, size |
 | 376 | org.apache.logging.log4j:log4j-to-slf4j | org.apache.logging.log4j.to.slf4j ✳️ | 2026-06-29 | 13,4 | 8,8 | 2.26.1 | 2.26.1 | 70 | 43 | 5 | 6 | 29 | 580,0 | 8,1 | 0,4 | - |
-| 377 | org.apache.tomcat.embed:tomcat-embed-el | org.apache.tomcat.embed.el ✳️ | 2026-08-13 | 12,6 | 7,0 | 10.1.59 | 10.1.59 | 428 | 220 | 30 | 33 | 4 | 72,0 | 9,7 | 2,5 | - |
+| 377 | org.apache.tomcat.embed:tomcat-embed-el | org.apache.tomcat.embed.el ✳️ | 2026-08-13 | 12,6 | 7,0 | 10.1.59 | 10.1.59 | 428 | 223 | 30 | 36 | 4 | 72,0 | 9,7 | 2,5 | - |
 | 378 | io.opentelemetry:opentelemetry-api | io.opentelemetry.api ⚙️ | 2026-06-05 | 6,8 | 6,5 | 1.63.0 | 1.63.0 | 102 | 104 | 11 | 14 | 33 | 715,5 🔺 | 3,8 | 1,8 | 🔺 files |
 | 379 | org.jetbrains.kotlin:kotlin-script-runtime |  | 2026-08-26 | 9,5 |  | 2.4.20-RC2 |  | 204 | 0 | 30 | 0 | 171 | 3871,5 🔺 | 562,2 🔺 | 3,2 | 🔺 files, size |
 | 380 | org.jsoup:jsoup | org.jsoup ✳️ | 2026-08-26 | 16,6 | 8,4 | 1.23.2 | 1.23.2 | 56 | 26 | 4 | 4 | 1 | 30,0 | 3,4 | 0,3 | - |
 | 381 | com.fasterxml.woodstox:woodstox-core | com.ctc.wstx ✳️ | 2026-08-04 | 11,6 | 8,5 | 7.2.2 | 7.2.2 | 41 | 37 | 3 | 3 | 1 | 24,0 | 3,6 | 0,3 | - |
 | 382 | org.springframework.boot:spring-boot-actuator-autoconfigure | spring.boot.actuator.autoconfigure ⚙️ | 2026-08-20 | 8,5 | 8,5 | 4.1.1 | 4.1.1 | 228 | 228 | 35 | 35 | 343 | 4398,2 🔺 | 123,4 🔺 | 2,9 | 🔺 files, size |
-| 383 | org.apache.tomcat.embed:tomcat-embed-core | org.apache.tomcat.embed.core ✳️ | 2026-08-13 | 16,2 | 7,0 | 10.1.59 | 10.1.59 | 462 | 218 | 30 | 33 | 4 | 72,0 | 9,7 | 2,5 | - |
+| 383 | org.apache.tomcat.embed:tomcat-embed-core | org.apache.tomcat.embed.core ✳️ | 2026-08-13 | 16,2 | 7,0 | 10.1.59 | 10.1.59 | 462 | 221 | 30 | 36 | 4 | 72,0 | 9,7 | 2,5 | - |
 | ~~384~~ | ~~org.sonatype.aether:aether-api 🚩~~ | ~~-~~ | ~~2011-11-29~~ | ~~16,2~~ | ~~-~~ | ~~1.13.1~~ | ~~-~~ | ~~18~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | 385 | org.springframework.boot:spring-boot-starter-actuator | spring.boot.starter.actuator ⚙️ | 2026-08-20 | 12,5 | 8,5 | 4.2.0-M1 | 4.2.0-M1 | 293 | 228 | 35 | 35 | 343 | 4398,2 🔺 | 123,4 🔺 | 2,9 | 🔺 files, size |
 | 386 | org.jspecify:jspecify ⚠️ | org.jspecify 🏷️ | 2024-07-16 | 5,2 | 5,2 | 1.0.0 | 1.0.0 | 6 | 7 | 0 | 1 |  |  |  |  |  |
@@ -453,7 +453,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~406~~ | ~~org.ow2.asm:asm-bom~~ | ~~-~~ | ~~2026-05-23~~ | ~~0,3~~ | ~~-~~ | ~~9.10.1~~ | ~~-~~ | ~~1~~ | ~~0~~ | ~~1~~ | ~~0~~ | ~~7~~ | ~~242,5~~ | ~~2,2~~ | ~~0,3~~ | ~~-~~ |
 | 407 | org.jacoco:org.jacoco.build |  |  |  |  |  |  | 0 | 0 | 0 | 0 | 6 | 108,0 | 4,2 | 0,2 | - |
 | 408 | org.springframework.boot:spring-boot-starter-validation | spring.boot.starter.validation ⚙️ | 2026-08-20 | 10,8 | 8,5 | 4.0.8 | 4.0.8 | 268 | 228 | 35 | 35 | 343 | 4398,2 🔺 | 123,4 🔺 | 2,9 | 🔺 files, size |
-| 409 | org.apache.tomcat.embed:tomcat-embed-websocket | org.apache.tomcat.embed.websocket ✳️ | 2026-08-13 | 12,6 | 7,0 | 10.1.59 | 10.1.59 | 428 | 220 | 30 | 33 | 4 | 72,0 | 9,7 | 2,5 | - |
+| 409 | org.apache.tomcat.embed:tomcat-embed-websocket | org.apache.tomcat.embed.websocket ✳️ | 2026-08-13 | 12,6 | 7,0 | 10.1.59 | 10.1.59 | 428 | 223 | 30 | 36 | 4 | 72,0 | 9,7 | 2,5 | - |
 | ~~410~~ | ~~io.prometheus:prometheus-metrics-bom~~ | ~~-~~ | ~~2026-06-11~~ | ~~0,3~~ | ~~-~~ | ~~1.8.0~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~2~~ | ~~0~~ | ~~30~~ | ~~589,5~~ | ~~16,3~~ | ~~0,7~~ | ~~-~~ |
 | ~~411~~ | ~~javax.xml.bind:jaxb-api-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | 412 | org.xmlunit:xmlunit-core | org.xmlunit ⚙️ | 2026-05-31 | 10,8 | 8,1 | 2.12.0 | 2.12.0 | 32 | 19 | 2 | 3 | 9 | 224,0 | 2,8 | 0,3 | - |
@@ -484,7 +484,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~437~~ | ~~org.apache.activemq:activemq-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~74~~ | ~~506,0~~ | ~~84,0 🔺~~ | ~~1,8~~ | ~~🔺 size~~ |
 | 438 | oro:oro 🚩 |  | 2005-11-22 | 20,8 |  | 2.0.8 |  | 3 | 0 | 0 | 0 |  |  |  |  |  |
 | 439 | org.springframework:spring-orm | spring.orm ⚙️ | 2026-08-20 | 20,7 | 9,0 | 7.0.9 | 7.0.9 | 323 | 197 | 22 | 22 | 26 | 471,3 | 110,3 🔺 | 1,8 | 🔺 size |
-| 440 | org.tomlj:tomlj ⚠️ | org.tomlj ⚙️ | 2023-12-31 | 7,3 | 3,9 | 1.1.1 | 1.1.1 | 3 | 2 | 0 | 0 |  |  |  |  |  |
+| 440 | org.tomlj:tomlj ⚠️ | org.tomlj ⚙️ | 2023-12-31 | 7,3 | 3,9 | 1.1.1 | 1.1.1 | 3 | 3 | 0 | 1 |  |  |  |  |  |
 | 441 | org.apache.ant:ant-launcher |  | 2026-04-06 | 19,7 |  | 1.10.17 |  | 42 | 0 | 2 | 0 | 29 | 214,8 | 7,4 | 0,4 | - |
 | ~~442~~ | ~~org.awaitility:awaitility-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | 443 | software.amazon.awssdk:http-clients |  | 2026-08-26 | 0,3 |  | 2.54.5 |  | 65 | 0 | 65 | 0 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
@@ -574,16 +574,16 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 527 | commons-net:commons-net | org.apache.commons.net ✳️ | 2026-03-15 | 20,9 | 6,1 | 3.13.0 | 3.13.0 | 30 | 10 | 1 | 1 | 1 | 44,0 | 4,1 | 0,1 | - |
 | 528 | com.diffplug.spotless:spotless-lib-extra |  | 2026-08-27 | 9,7 |  | 4.10.1 |  | 158 | 0 | 13 | 0 | 4 | 64,6 | 1,1 | 3,3 | - |
 | ~~529~~ | ~~org.apache.maven.plugins:maven-antrun-plugin~~ | ~~-~~ | ~~2025-10-17~~ | ~~20,4~~ | ~~-~~ | ~~3.2.0~~ | ~~-~~ | ~~14~~ | ~~0~~ | ~~1~~ | ~~0~~ | ~~34~~ | ~~45,0~~ | ~~2,7~~ | ~~2,8~~ | ~~-~~ |
-| 530 | software.amazon.awssdk:annotations | software.amazon.awssdk.annotations ⚙️ | 2026-08-26 | 9,0 | 7,8 | 2.54.5 | 2.54.5 | 1831 | 1833 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 531 | software.amazon.awssdk:utils | software.amazon.awssdk.utils ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1832 | 1832 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 530 | software.amazon.awssdk:annotations | software.amazon.awssdk.annotations ⚙️ | 2026-08-26 | 9,0 | 7,8 | 2.54.5 | 2.54.5 | 1831 | 1834 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 531 | software.amazon.awssdk:utils | software.amazon.awssdk.utils ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1832 | 1833 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 532 | io.opentelemetry:opentelemetry-sdk-logs | io.opentelemetry.sdk.logs ⚙️ | 2026-06-05 | 4,8 | 4,8 | 1.63.0 | 1.63.0 | 67 | 70 | 11 | 14 | 33 | 715,5 🔺 | 3,8 | 1,8 | 🔺 files |
-| 533 | software.amazon.awssdk:http-client-spi | software.amazon.awssdk.http ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1833 | 1833 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 533 | software.amazon.awssdk:http-client-spi | software.amazon.awssdk.http ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1833 | 1834 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 534 | com.google.auth:google-auth-library-credentials | com.google.auth ⚙️ | 2026-08-24 | 11,5 | 7,1 | 1.51.0 | 1.51.0 | 112 | 92 | 15 | 17 | 4 | 72,9 | 1,7 | 1,4 | - |
-| 535 | software.amazon.awssdk:sdk-core | software.amazon.awssdk.core ⚙️ | 2026-08-26 | 8,1 | 7,8 | 2.54.5 | 2.54.5 | 1823 | 1832 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 536 | software.amazon.awssdk:regions | software.amazon.awssdk.regions ⚙️ | 2026-08-26 | 8,3 | 7,8 | 2.54.5 | 2.54.5 | 1824 | 1832 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 537 | software.amazon.awssdk:auth | software.amazon.awssdk.auth ⚙️ | 2026-08-26 | 8,3 | 7,8 | 2.54.5 | 2.54.5 | 1825 | 1833 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 535 | software.amazon.awssdk:sdk-core | software.amazon.awssdk.core ⚙️ | 2026-08-26 | 8,1 | 7,8 | 2.54.5 | 2.54.5 | 1823 | 1833 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 536 | software.amazon.awssdk:regions | software.amazon.awssdk.regions ⚙️ | 2026-08-26 | 8,3 | 7,8 | 2.54.5 | 2.54.5 | 1824 | 1833 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 537 | software.amazon.awssdk:auth | software.amazon.awssdk.auth ⚙️ | 2026-08-26 | 8,3 | 7,8 | 2.54.5 | 2.54.5 | 1825 | 1834 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 538 | org.vafer:jdependency |  | 2026-05-24 | 16,1 |  | 2.16 |  | 27 | 6 | 3 | 2 | 1 | 26,0 | 0,7 | 0,3 | - |
-| 539 | software.amazon.awssdk:profiles | software.amazon.awssdk.profiles ⚙️ | 2026-08-26 | 8,3 | 7,8 | 2.54.5 | 2.54.5 | 1824 | 1832 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 539 | software.amazon.awssdk:profiles | software.amazon.awssdk.profiles ⚙️ | 2026-08-26 | 8,3 | 7,8 | 2.54.5 | 2.54.5 | 1824 | 1833 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 540 | com.google.devtools.ksp:symbol-processing-api |  | 2026-08-03 | 5,1 |  | 2.3.11 |  | 158 | 0 | 16 | 0 | 8 | 257,5 | 201,7 🔺 | 1,3 | 🔺 size |
 | 541 | com.sun.xml.fastinfoset:FastInfoset ⚠️ | com.sun.xml.fastinfoset ✳️ | 2023-10-20 | 20,2 | 8,0 | 2.1.1 | 2.1.1 | 27 | 10 | 0 | 0 |  |  |  |  |  |
 | 542 | org.bitbucket.b_c:jose4j ⚠️ | org.jose4j ⚙️ | 2024-03-06 | 12,3 | 6,9 | 0.9.6 | 0.9.6 | 45 | 22 | 0 | 1 |  |  |  |  |  |
@@ -591,9 +591,9 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~544~~ | ~~org.apache.avro:avro-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~19~~ | ~~524,0~~ | ~~100,8~~ | ~~0,1~~ | ~~-~~ |
 | 545 | org.apache.avro:avro-toplevel |  |  |  |  |  |  | 0 | 0 | 0 | 0 | 19 | 524,0 | 100,8 | 0,1 | - |
 | ~~546~~ | ~~org.springframework.cloud:spring-cloud-commons-dependencies~~ | ~~-~~ | ~~2026-08-20~~ | ~~0,3~~ | ~~-~~ | ~~5.0.3~~ | ~~-~~ | ~~3~~ | ~~0~~ | ~~3~~ | ~~0~~ | ~~240~~ | ~~1057,4 🔺~~ | ~~150,9 🔺~~ | ~~3,2~~ | ~~🔺 files, size~~ |
-| 547 | software.amazon.awssdk:aws-core | software.amazon.awssdk.awscore ⚙️ | 2026-08-26 | 8,3 | 7,8 | 2.54.5 | 2.54.5 | 1825 | 1833 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 548 | software.amazon.awssdk:metrics-spi | software.amazon.awssdk.metrics ⚙️ | 2026-08-26 | 9,2 | 6,2 | 2.54.5 | 2.54.5 | 1473 | 1489 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 549 | software.amazon.awssdk:protocol-core | software.amazon.awssdk.protocols.core ⚙️ | 2026-08-26 | 7,8 | 7,8 | 2.54.5 | 2.54.5 | 1814 | 1832 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 547 | software.amazon.awssdk:aws-core | software.amazon.awssdk.awscore ⚙️ | 2026-08-26 | 8,3 | 7,8 | 2.54.5 | 2.54.5 | 1825 | 1834 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 548 | software.amazon.awssdk:metrics-spi | software.amazon.awssdk.metrics ⚙️ | 2026-08-26 | 9,2 | 6,2 | 2.54.5 | 2.54.5 | 1473 | 1490 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 549 | software.amazon.awssdk:protocol-core | software.amazon.awssdk.protocols.core ⚙️ | 2026-08-26 | 7,8 | 7,8 | 2.54.5 | 2.54.5 | 1814 | 1833 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 550 | log4j:log4j 🚩 |  | 2007-08-30 | 20,8 |  | 1.2.15 |  | 12 | 0 | 0 | 0 |  |  |  |  |  |
 | 551 | com.squareup:kotlinpoet | com.squareup.kotlinpoet ⚙️ | 2026-03-27 | 9,3 | 8,6 | 2.3.0 | 2.3.0 | 50 | 45 | 1 | 2 | 9 | 86,8 | 36,6 | 1,3 | - |
 | ~~552~~ | ~~org.springframework.pulsar:spring-pulsar-bom~~ | ~~-~~ | ~~2026-08-20~~ | ~~0,3~~ | ~~-~~ | ~~2.0.7~~ | ~~-~~ | ~~3~~ | ~~0~~ | ~~3~~ | ~~0~~ | ~~6~~ | ~~98,2~~ | ~~10,7~~ | ~~1,6~~ | ~~-~~ |
@@ -610,16 +610,16 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 563 | com.github.stephenc.jcip:jcip-annotations 🚩 |  | 2013-02-13 | 13,6 |  | 1.0-1 |  | 1 | 0 | 0 | 0 |  |  |  |  |  |
 | 564 | com.sun.xml.fastinfoset:fastinfoset-project |  |  |  |  |  |  | 0 | 0 | 0 | 0 |  |  |  |  |  |
 | ~~565~~ | ~~com.google.auth:google-auth-library-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~4~~ | ~~72,9~~ | ~~1,7~~ | ~~1,4~~ | ~~-~~ |
-| 566 | software.amazon.awssdk:json-utils | software.amazon.awssdk.protocols.jsoncore ⚙️ | 2026-08-26 | 5,2 | 5,2 | 2.54.5 | 2.54.5 | 1229 | 1247 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 566 | software.amazon.awssdk:json-utils | software.amazon.awssdk.protocols.jsoncore ⚙️ | 2026-08-26 | 5,2 | 5,2 | 2.54.5 | 2.54.5 | 1229 | 1248 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 567 | com.beust:jcommander 🚩 |  | 2022-01-11 | 16,2 |  | 1.82 |  | 37 | 1 | 0 | 0 |  |  |  |  |  |
 | 568 | org.glassfish.jaxb:jaxb-core | org.glassfish.jaxb.core ✳️ | 2026-05-28 | 12,5 | 6,4 | 4.0.9 | 4.0.9 | 31 | 24 | 4 | 4 | 27 | 399,0 | 16,2 | 0,3 | - |
 | 569 | org.eclipse.angus:angus-activation ⚠️ | org.eclipse.angus.activation ✳️ | 2025-09-11 | 5,1 | 5,1 | 2.0.3 | 2.0.3 | 9 | 9 | 0 | 0 | 9 | 324,0 | 12,2 | 0,2 | - |
-| 570 | software.amazon.awssdk:apache-client | software.amazon.awssdk.http.apache ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1832 | 1833 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 571 | software.amazon.awssdk:third-party-jackson-core | software.amazon.awssdk.thirdparty.jackson.core ⚙️ | 2026-09-09 | 5,2 | 5,2 | 2.54.15 | 2.54.15 | 1244 | 1246 | 240 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 570 | software.amazon.awssdk:apache-client | software.amazon.awssdk.http.apache ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1832 | 1834 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 571 | software.amazon.awssdk:third-party-jackson-core | software.amazon.awssdk.thirdparty.jackson.core ⚙️ | 2026-09-09 | 5,2 | 5,2 | 2.54.15 | 2.54.15 | 1244 | 1247 | 240 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 572 | com.typesafe:config | typesafe.config ⚙️ | 2026-06-03 | 14,4 | 8,6 | 1.4.9 | 1.4.9 | 32 | 13 | 4 | 4 | 15 | 114,5 | 11,9 | 1,1 | - |
 | 573 | javax.activation:javax.activation-api 🚩 | java.activation ⚙️ | 2017-09-06 | 9,0 | 9,0 | 1.2.0 | 1.2.0 | 1 | 1 | 0 | 0 |  |  |  |  |  |
 | 574 | org.glassfish.jersey:project |  | 2026-06-11 | 0,3 |  | 3.1.12 |  | 1 | 0 | 1 | 0 | 2 | 24,0 | 0,1 | 0,1 | - |
-| 575 | software.amazon.awssdk:netty-nio-client | software.amazon.awssdk.http.nio.netty ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1832 | 1833 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 575 | software.amazon.awssdk:netty-nio-client | software.amazon.awssdk.http.nio.netty ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1832 | 1834 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 576 | com.google.crypto.tink:tink | com.google.crypto.tink ⚙️ | 2026-06-18 | 9,0 | 4,1 | 1.22.0 | 1.22.0 | 37 | 18 | 4 | 5 | 7 | 48,0 | 10,1 | 0,8 | - |
 | 577 | io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi | io.opentelemetry.sdk.autoconfigure.spi ⚙️ | 2026-06-05 | 5,0 | 5,0 | 1.63.0 | 1.63.0 | 70 | 73 | 11 | 14 | 33 | 715,5 🔺 | 3,8 | 1,8 | 🔺 files |
 | ~~578~~ | ~~com.thoughtworks.xstream:xstream-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
@@ -649,7 +649,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 602 | javax.servlet:javax.servlet-api 🚩 |  | 2018-04-20 | 15,2 |  | 4.0.1 |  | 20 | 0 | 0 | 0 |  |  |  |  |  |
 | ~~603~~ | ~~org.eclipse.aether:aether-impl 🚩~~ | ~~-~~ | ~~2016-02-03~~ | ~~14,0~~ | ~~-~~ | ~~1.1.0~~ | ~~-~~ | ~~10~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | 604 | org.jetbrains.kotlin:kotlin-build-common ⚠️ |  | 2025-01-26 | 10,3 |  | 2.1.10 |  | 145 | 0 | 0 | 0 | 171 | 3871,5 🔺 | 562,2 🔺 | 3,2 | 🔺 files, size |
-| 605 | software.amazon.awssdk:endpoints-spi | software.amazon.awssdk.endpoints ⚙️ | 2026-08-26 | 3,9 | 3,9 | 2.54.5 | 2.54.5 | 933 | 951 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 605 | software.amazon.awssdk:endpoints-spi | software.amazon.awssdk.endpoints ⚙️ | 2026-08-26 | 3,9 | 3,9 | 2.54.5 | 2.54.5 | 933 | 952 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 606 | io.airlift:airbase |  | 2026-08-24 | 0,3 |  | 405 |  | 23 | 0 | 23 | 0 | 58 | 552,3 🔺 | 54,0 🔺 | 13,4 🔺 | 🔺 files, size, releases |
 | 607 | jakarta.persistence:jakarta.persistence-api | jakarta.persistence ✳️ | 2026-07-03 | 7,9 | 7,9 | 4.0.0-M6 | 4.0.0-M6 | 20 | 20 | 6 | 6 | 5 | 172,0 | 41,0 | 0,5 | - |
 | ~~608~~ | ~~org.eclipse.aether:aether-spi 🚩~~ | ~~-~~ | ~~2016-02-03~~ | ~~14,0~~ | ~~-~~ | ~~1.1.0~~ | ~~-~~ | ~~10~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
@@ -681,7 +681,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~634~~ | ~~org.apache.maven.plugins:maven-shade-plugin~~ | ~~-~~ | ~~2026-03-02~~ | ~~18,8~~ | ~~-~~ | ~~3.6.2~~ | ~~-~~ | ~~44~~ | ~~0~~ | ~~1~~ | ~~0~~ | ~~34~~ | ~~45,0~~ | ~~2,7~~ | ~~2,8~~ | ~~-~~ |
 | ~~635~~ | ~~org.springframework.cloud:spring-cloud-netflix-dependencies~~ | ~~-~~ | ~~2026-06-11~~ | ~~0,3~~ | ~~-~~ | ~~5.0.2~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~2~~ | ~~0~~ | ~~240~~ | ~~1057,4 🔺~~ | ~~150,9 🔺~~ | ~~3,2~~ | ~~🔺 files, size~~ |
 | 636 | org.springframework:spring-webflux | spring.webflux ⚙️ | 2026-08-20 | 9,0 | 9,0 | 7.1.0-M1 | 7.1.0-M1 | 197 | 197 | 22 | 22 | 26 | 471,3 | 110,3 🔺 | 1,8 | 🔺 size |
-| 637 | software.amazon.awssdk:aws-query-protocol | software.amazon.awssdk.protocols.query ⚙️ | 2026-08-26 | 7,8 | 7,8 | 2.54.5 | 2.54.5 | 1815 | 1833 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 637 | software.amazon.awssdk:aws-query-protocol | software.amazon.awssdk.protocols.query ⚙️ | 2026-08-26 | 7,8 | 7,8 | 2.54.5 | 2.54.5 | 1815 | 1834 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | ~~638~~ | ~~org.apache.maven.doxia:doxia-integration-tools~~ | ~~-~~ | ~~2026-03-31~~ | ~~14,0~~ | ~~-~~ | ~~2.1.0~~ | ~~-~~ | ~~32~~ | ~~0~~ | ~~1~~ | ~~0~~ | ~~13~~ | ~~312,0~~ | ~~7,8~~ | ~~0,1~~ | ~~-~~ |
 | ~~639~~ | ~~org.apache.maven.doxia:doxia-module-fml~~ | ~~-~~ | ~~2026-03-17~~ | ~~19,0~~ | ~~-~~ | ~~2.1.0~~ | ~~-~~ | ~~35~~ | ~~0~~ | ~~1~~ | ~~0~~ | ~~13~~ | ~~312,0~~ | ~~7,8~~ | ~~0,1~~ | ~~-~~ |
 | ~~640~~ | ~~org.apache.maven.surefire:surefire-junit-platform~~ | ~~-~~ | ~~2026-06-02~~ | ~~8,3~~ | ~~-~~ | ~~3.6.0-M1~~ | ~~-~~ | ~~30~~ | ~~0~~ | ~~3~~ | ~~0~~ | ~~20~~ | ~~400,0~~ | ~~12,8~~ | ~~0,3~~ | ~~-~~ |
@@ -713,7 +713,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 666 | org.scala-lang.modules:scala-xml_2.12 ⚠️ | scala.xml ⚙️ | 2025-05-27 | 9,9 | 5,3 | 2.4.0 | 2.4.0 | 20 | 9 | 0 | 2 | 14 | 90,0 | 6,5 | 0,3 | - |
 | 667 | com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider | com.fasterxml.jackson.jaxrs.json ✳️ | 2026-08-16 | 14,5 | 8,9 | 2.22.2 | 2.22.2 | 186 | 98 | 20 | 20 | 7 | 248,7 | 1,1 | 1,7 | - |
 | 668 | com.sun.activation:jakarta.activation 🚩 | jakarta.activation ✳️ | 2021-02-12 | 7,8 | 7,8 | 2.0.1 | 2.0.1 | 7 | 7 | 0 | 0 |  |  |  |  |  |
-| 669 | org.apache.groovy:groovy | org.apache.groovy ⚙️ | 2026-09-04 | 5,9 | 5,9 | 6.0.0-RC-1 | 6.0.0-RC-1 | 74 | 75 | 21 | 22 | 43 | 2245,8 🔺 | 107,1 🔺 | 1,8 | 🔺 files, size |
+| 669 | org.apache.groovy:groovy | org.apache.groovy ⚙️ | 2026-09-04 | 5,9 | 5,9 | 6.0.0-RC-1 | 6.0.0-RC-1 | 74 | 76 | 21 | 23 | 43 | 2245,8 🔺 | 107,1 🔺 | 1,8 | 🔺 files, size |
 | ~~670~~ | ~~org.sonatype.buildsupport:public-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~1~~ | ~~24,0~~ | ~~0,1~~ | ~~0,2~~ | ~~-~~ |
 | 671 | antlr:antlr 🚩 |  | 2007-01-13 | 21,1 |  | 2.7.7 |  | 7 | 0 | 0 | 0 |  |  |  |  |  |
 | ~~672~~ | ~~com.googlecode.libphonenumber:libphonenumber-parent~~ | ~~-~~ | ~~2026-08-26~~ | ~~0,3~~ | ~~-~~ | ~~9.0.38~~ | ~~-~~ | ~~6~~ | ~~0~~ | ~~6~~ | ~~0~~ | ~~6~~ | ~~42,0~~ | ~~11,7~~ | ~~5,8~~ | ~~-~~ |
@@ -739,15 +739,15 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~692~~ | ~~com.google.api-client:google-api-client-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~9~~ | ~~184,0~~ | ~~2,2~~ | ~~0,1~~ | ~~-~~ |
 | 693 | com.sun.activation:javax.activation 🚩 | java.activation ⚙️ | 2017-09-06 | 9,0 | 9,0 | 1.2.0 | 1.2.0 | 1 | 1 | 0 | 0 |  |  |  |  |  |
 | 694 | com.sun.xml.bind.mvn:jaxb-bundles |  |  |  |  |  |  | 0 | 0 | 0 | 0 | 1 | 20,0 | 0,0 | 0,1 | - |
-| 695 | software.amazon.awssdk:identity-spi | software.amazon.awssdk.identity.spi ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 712 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 696 | software.amazon.awssdk:http-auth-aws | software.amazon.awssdk.http.auth.aws ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 712 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 697 | software.amazon.awssdk:http-auth-spi | software.amazon.awssdk.http.auth.spi ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 712 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 695 | software.amazon.awssdk:identity-spi | software.amazon.awssdk.identity.spi ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 713 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 696 | software.amazon.awssdk:http-auth-aws | software.amazon.awssdk.http.auth.aws ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 713 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 697 | software.amazon.awssdk:http-auth-spi | software.amazon.awssdk.http.auth.spi ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 713 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 698 | org.tensorflow:tensorflow-lite-metadata ⚠️ |  | 2025-01-24 | 6,1 |  | 0.5.0 |  | 20 | 0 | 0 | 0 | 4 | 90,0 | 985,7 🔺 | 0,1 | 🔺 size |
-| 699 | software.amazon.awssdk:checksums | software.amazon.awssdk.checksums ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 712 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 700 | software.amazon.awssdk:aws-json-protocol | software.amazon.awssdk.protocols.json ⚙️ | 2026-08-26 | 7,8 | 7,8 | 2.54.5 | 2.54.5 | 1815 | 1833 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 701 | software.amazon.awssdk:checksums-spi | software.amazon.awssdk.checksums.spi ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 712 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 699 | software.amazon.awssdk:checksums | software.amazon.awssdk.checksums ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 713 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 700 | software.amazon.awssdk:aws-json-protocol | software.amazon.awssdk.protocols.json ⚙️ | 2026-08-26 | 7,8 | 7,8 | 2.54.5 | 2.54.5 | 1815 | 1834 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 701 | software.amazon.awssdk:checksums-spi | software.amazon.awssdk.checksums.spi ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 713 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 702 | org.springframework.data:spring-data-releasetrain |  |  |  |  |  |  | 0 | 0 | 0 | 0 | 28 | 71,5 | 16,9 🔺 | 9,6 🔺 | 🔺 size, releases |
-| 703 | software.amazon.awssdk:http-auth | software.amazon.awssdk.http.auth ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 712 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 703 | software.amazon.awssdk:http-auth | software.amazon.awssdk.http.auth ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 713 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | ~~704~~ | ~~com.google.api:gax-bom 🚩~~ | ~~-~~ | ~~2022-12-09~~ | ~~7,9~~ | ~~-~~ | ~~2.19.6~~ | ~~-~~ | ~~88~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~5~~ | ~~42,0~~ | ~~22,2 🔺~~ | ~~4,7~~ | ~~🔺 size~~ |
 | 705 | io.grpc:grpc-util | io.grpc.util ⚙️ | 2026-08-14 | 3,0 | 3,0 | 1.82.4 | 1.82.4 | 45 | 51 | 13 | 19 | 38 | 747,3 | 251,6 🔺 | 1,2 | 🔺 size |
 | 706 | backport-util-concurrent:backport-util-concurrent 🚩 |  | 2007-11-11 | 21,1 |  | 3.1 |  | 7 | 0 | 0 | 0 |  |  |  |  |  |
@@ -811,12 +811,12 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 764 | com.amazonaws:aws-java-sdk-kms |  | 2025-12-29 | 11,8 |  | 1.12.797 |  | 1951 | 0 | 6 | 0 | 424 | 576,1 🔺 | 558,1 🔺 | 6,5 | 🔺 files, size |
 | ~~765~~ | ~~org.apache.maven.plugins:maven-release-plugin~~ | ~~-~~ | ~~2025-12-09~~ | ~~20,4~~ | ~~-~~ | ~~3.3.1~~ | ~~-~~ | ~~36~~ | ~~0~~ | ~~3~~ | ~~0~~ | ~~34~~ | ~~45,0~~ | ~~2,7~~ | ~~2,8~~ | ~~-~~ |
 | 766 | org.testng:testng | org.testng ⚙️ | 2026-01-22 | 16,2 | 7,7 | 7.12.0 | 7.12.0 | 90 | 19 | 1 | 1 | 2 | 37,0 | 1,5 | 0,2 | - |
-| 767 | org.apache.groovy:groovy-json | org.apache.groovy.json ⚙️ | 2026-09-04 | 5,9 | 5,9 | 6.0.0-RC-1 | 6.0.0-RC-1 | 74 | 75 | 21 | 22 | 43 | 2245,8 🔺 | 107,1 🔺 | 1,8 | 🔺 files, size |
+| 767 | org.apache.groovy:groovy-json | org.apache.groovy.json ⚙️ | 2026-09-04 | 5,9 | 5,9 | 6.0.0-RC-1 | 6.0.0-RC-1 | 74 | 76 | 21 | 23 | 43 | 2245,8 🔺 | 107,1 🔺 | 1,8 | 🔺 files, size |
 | 768 | io.swagger.core.v3:swagger-models | io.swagger.v3.oas.models ⚙️ | 2026-08-18 | 8,8 | 7,4 | 2.2.54 | 2.2.54 | 81 | 73 | 17 | 19 | 20 | 417,2 | 12,1 | 1,4 | - |
 | 769 | org.reflections:reflections 🚩 | org.reflections ⚙️ | 2021-10-25 | 15,1 | 4,9 | 0.10.2 | 0.10.2 | 17 | 2 | 0 | 0 |  |  |  |  |  |
 | 770 | org.springframework:spring-oxm | spring.oxm ⚙️ | 2026-08-20 | 16,7 | 9,0 | 7.0.9 | 7.0.9 | 290 | 197 | 22 | 22 | 26 | 471,3 | 110,3 🔺 | 1,8 | 🔺 size |
 | 771 | org.springframework.boot:spring-boot-configuration-processor | spring.boot.configuration.processor ⚙️ | 2026-08-20 | 11,8 | 8,5 | 4.1.1 | 4.1.1 | 277 | 228 | 35 | 35 | 343 | 4398,2 🔺 | 123,4 🔺 | 2,9 | 🔺 files, size |
-| 772 | org.apache.groovy:groovy-xml | org.apache.groovy.xml ⚙️ | 2026-09-04 | 5,9 | 5,9 | 6.0.0-RC-1 | 6.0.0-RC-1 | 74 | 75 | 21 | 22 | 43 | 2245,8 🔺 | 107,1 🔺 | 1,8 | 🔺 files, size |
+| 772 | org.apache.groovy:groovy-xml | org.apache.groovy.xml ⚙️ | 2026-09-04 | 5,9 | 5,9 | 6.0.0-RC-1 | 6.0.0-RC-1 | 74 | 76 | 21 | 23 | 43 | 2245,8 🔺 | 107,1 🔺 | 1,8 | 🔺 files, size |
 | 773 | io.opentelemetry:opentelemetry-sdk-extension-autoconfigure | io.opentelemetry.sdk.autoconfigure ⚙️ | 2026-06-05 | 5,7 | 5,7 | 1.63.0 | 1.63.0 | 84 | 87 | 11 | 14 | 33 | 715,5 🔺 | 3,8 | 1,8 | 🔺 files |
 | ~~774~~ | ~~org.jline:jline-parent~~ | ~~-~~ | ~~2026-09-08~~ | ~~0,3~~ | ~~-~~ | ~~4.4.3~~ | ~~-~~ | ~~15~~ | ~~0~~ | ~~15~~ | ~~0~~ | ~~25~~ | ~~525,8 🔺~~ | ~~18,6~~ | ~~3,3~~ | ~~🔺 files~~ |
 | 775 | com.google.auto.service:auto-service-aggregator |  |  |  |  |  |  | 0 | 0 | 0 | 0 |  |  |  |  |  |
@@ -828,7 +828,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~781~~ | ~~org.springframework.cloud:spring-cloud-commons-parent~~ | ~~-~~ | ~~2026-08-20~~ | ~~0,3~~ | ~~-~~ | ~~5.0.3~~ | ~~-~~ | ~~3~~ | ~~0~~ | ~~3~~ | ~~0~~ | ~~240~~ | ~~1057,4 🔺~~ | ~~150,9 🔺~~ | ~~3,2~~ | ~~🔺 files, size~~ |
 | 782 | com.amazonaws:aws-java-sdk-s3 |  | 2025-12-29 | 11,9 |  | 1.12.797 |  | 1956 | 0 | 6 | 0 | 424 | 576,1 🔺 | 558,1 🔺 | 6,5 | 🔺 files, size |
 | 783 | com.squareup.moshi:moshi-kotlin ⚠️ | com.squareup.moshi.kotlin ⚙️ | 2024-12-05 | 9,3 | 8,4 | 1.15.2 | 1.15.2 | 17 | 12 | 0 | 0 |  |  |  |  |  |
-| 784 | software.amazon.awssdk:arns | software.amazon.awssdk.arns ⚙️ | 2026-08-26 | 6,9 | 6,9 | 2.54.5 | 2.54.5 | 1640 | 1658 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 784 | software.amazon.awssdk:arns | software.amazon.awssdk.arns ⚙️ | 2026-08-26 | 6,9 | 6,9 | 2.54.5 | 2.54.5 | 1640 | 1659 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 785 | org.apache.ivy:ivy ⚠️ | org.apache.ivy ⚙️ | 2024-12-23 | 18,8 | 8,4 | 2.5.3 | 2.5.3 | 20 | 6 | 0 | 1 |  |  |  |  |  |
 | 786 | com.github.virtuald:curvesapi 🚩 | com.github.virtuald.curvesapi ⚙️ | 2023-08-11 | 10,9 | 4,7 | 1.08 | 1.08 | 7 | 2 | 0 | 0 |  |  |  |  |  |
 | 787 | com.google.api:api-common | com.google.api.apicommon ⚙️ | 2026-08-24 | 10,0 | 7,4 | 2.67.0 | 2.67.0 | 130 | 118 | 21 | 23 | 5 | 42,0 | 22,2 🔺 | 4,7 | 🔺 size |
@@ -840,7 +840,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 793 | com.sun.jersey:jersey-core 🚩 |  | 2017-05-24 | 16,3 |  | 1.19.4 |  | 98 | 0 | 0 | 0 |  |  |  |  |  |
 | 794 | com.google.oauth-client:google-oauth-client ⚠️ | com.google.api.client.auth ⚙️ | 2025-05-16 | 15,1 | 7,0 | 1.38.2 | 1.38.2 | 58 | 25 | 0 | 0 |  |  |  |  |  |
 | 795 | org.jetbrains.kotlin:fus-statistics-gradle-plugin |  | 2026-09-07 | 2,0 |  | 2.4.20 |  | 66 | 0 | 35 | 0 | 171 | 3871,5 🔺 | 562,2 🔺 | 3,2 | 🔺 files, size |
-| 796 | com.github.jnr:jffi | org.jnrproject.jffi ⚙️ | 2026-06-26 | 15,1 | 6,0 | 1.4.0 | 1.4.0 | 43 | 14 | 3 | 3 | 9 | 24,6 | 2,7 | 2,3 | - |
+| 796 | com.github.jnr:jffi | org.jnrproject.jffi ⚙️ | 2026-06-26 | 15,1 | 6,0 | 1.4.0 | 1.4.0 | 43 | 15 | 3 | 4 | 9 | 24,6 | 2,7 | 2,3 | - |
 | 797 | com.googlecode.json-simple:json-simple 🚩 |  | 2012-03-21 | 17,1 |  | 1.1.1 |  | 2 | 0 | 0 | 0 |  |  |  |  |  |
 | 798 | com.fasterxml.jackson.dataformat:jackson-dataformat-csv | com.fasterxml.jackson.dataformat.csv ✳️ | 2026-08-16 | 14,6 | 8,9 | 2.22.2 | 2.22.2 | 183 | 98 | 20 | 20 | 12 | 365,4 | 5,3 | 1,7 | - |
 | 799 | com.github.docker-java:docker-java-transport-zerodep | com.github.dockerjava.transport.zerodep ⚙️ | 2026-03-18 | 6,3 | 3,8 | 3.7.1 | 3.7.1 | 30 | 18 | 2 | 2 | 9 | 270,0 | 10,0 | 0,2 | - |
@@ -870,8 +870,8 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 823 | org.eclipse.jetty:jetty-util-ajax | org.eclipse.jetty.util.ajax ✳️ | 2026-09-04 | 14,0 | 7,8 | 12.0.39 | 12.0.39 | 327 | 181 | 23 | 24 | 54 | 928,4 🔺 | 84,5 🔺 | 2,5 | 🔺 files, size |
 | 824 | com.mysql:mysql-connector-j |  | 2026-04-22 | 3,9 |  | 9.7.0 |  | 15 | 0 | 3 | 0 | 1 | 17,3 | 5,9 | 0,3 | - |
 | ~~825~~ | ~~org.mapstruct:mapstruct-parent~~ | ~~-~~ | ~~2026-06-27~~ | ~~0,2~~ | ~~-~~ | ~~1.7.0.Beta2~~ | ~~-~~ | ~~1~~ | ~~0~~ | ~~1~~ | ~~0~~ | ~~4~~ | ~~63,0~~ | ~~6,0~~ | ~~0,2~~ | ~~-~~ |
-| 826 | software.amazon.awssdk:aws-xml-protocol | software.amazon.awssdk.protocols.xml ⚙️ | 2026-08-26 | 7,8 | 6,7 | 2.54.5 | 2.54.5 | 1815 | 1606 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
-| 827 | software.amazon.awssdk:s3 | software.amazon.awssdk.services.s3 ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1826 | 1832 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 826 | software.amazon.awssdk:aws-xml-protocol | software.amazon.awssdk.protocols.xml ⚙️ | 2026-08-26 | 7,8 | 6,7 | 2.54.5 | 2.54.5 | 1815 | 1607 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 827 | software.amazon.awssdk:s3 | software.amazon.awssdk.services.s3 ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1826 | 1833 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 828 | io.grpc:grpc-inprocess | io.grpc.inprocess ⚙️ | 2026-08-14 | 3,0 | 3,0 | 1.82.4 | 1.82.4 | 45 | 51 | 13 | 19 | 38 | 747,3 | 251,6 🔺 | 1,2 | 🔺 size |
 | 829 | com.zaxxer:SparseBitSet 🚩 | com.zaxxer.sparsebitset ⚙️ | 2023-09-06 | 12,3 | 3,0 | 1.3 | 1.3 | 4 | 1 | 0 | 0 | 2 | 30,0 | 0,7 | 0,3 | - |
 | 830 | org.springframework.security:spring-security-oauth2-jose | spring.security.oauth2.jose ⚙️ | 2026-08-20 | 8,8 | 8,8 | 7.0.7 | 7.0.7 | 216 | 216 | 31 | 31 | 26 | 371,6 🔺 | 34,6 🔺 | 3,3 | 🔺 files, size |
@@ -882,9 +882,9 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 835 | io.swagger.core.v3:swagger-core-jakarta | io.swagger.v3.core ⚙️ | 2026-08-18 | 5,6 | 5,6 | 2.2.54 | 2.2.54 | 61 | 63 | 17 | 19 | 20 | 417,2 | 12,1 | 1,4 | - |
 | 836 | org.eclipse.platform:org.eclipse.osgi | org.eclipse.osgi ✳️ | 2026-09-07 | 9,7 | 8,2 | 3.24.300 | 3.24.300 | 39 | 34 | 4 | 4 | 203 | 26,5 | 2,1 | 24,3 🔺 | 🔺 releases |
 | ~~837~~ | ~~io.smallrye:smallrye-parent~~ | ~~-~~ | ~~2026-07-01~~ | ~~0,3~~ | ~~-~~ | ~~51~~ | ~~-~~ | ~~2~~ | ~~0~~ | ~~2~~ | ~~0~~ | ~~90~~ | ~~245,0~~ | ~~4,8~~ | ~~3,7~~ | ~~-~~ |
-| 838 | software.amazon.awssdk:retries-spi | software.amazon.awssdk.retries.api ⚙️ | 2026-08-26 | 2,3 | 2,3 | 2.54.5 | 2.54.5 | 526 | 544 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 838 | software.amazon.awssdk:retries-spi | software.amazon.awssdk.retries.api ⚙️ | 2026-08-26 | 2,3 | 2,3 | 2.54.5 | 2.54.5 | 526 | 545 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 839 | io.opentelemetry:opentelemetry-api-incubator | io.opentelemetry.api.incubator ⚙️ | 2026-06-05 | 2,4 | 2,4 | 1.63.0-alpha | 1.63.0-alpha | 31 | 34 | 11 | 14 | 33 | 715,5 🔺 | 3,8 | 1,8 | 🔺 files |
-| 840 | software.amazon.awssdk:retries | software.amazon.awssdk.retries ⚙️ | 2026-08-26 | 2,3 | 2,3 | 2.54.5 | 2.54.5 | 526 | 544 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 840 | software.amazon.awssdk:retries | software.amazon.awssdk.retries ⚙️ | 2026-08-26 | 2,3 | 2,3 | 2.54.5 | 2.54.5 | 526 | 545 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 841 | org.scala-lang.modules:scala-collection-compat_2.12 | scala.collection.compat ⚙️ | 2025-10-07 | 8,3 | 5,3 | 2.14.0 | 2.14.0 | 36 | 12 | 1 | 1 | 14 | 90,0 | 6,5 | 0,3 | - |
 | 842 | org.rnorth.duct-tape:duct-tape 🚩 |  | 2019-04-28 | 11,0 |  | 1.0.8 |  | 5 | 0 | 0 | 0 |  |  |  |  |  |
 | 843 | com.microsoft.sqlserver:mssql-jdbc | com.microsoft.sqlserver.jdbc ⚙️ | 2026-05-14 | 9,8 | 8,1 | 13.5.0.jre11-preview | 13.5.0.jre11-preview | 269 | 133 | 26 | 15 | 1 | 32,0 | 3,5 | 2,2 | - |
@@ -909,15 +909,15 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 862 | org.antlr:ST4 🚩 |  | 2022-09-02 | 15,2 |  | 4.3.4 |  | 13 | 0 | 0 | 0 |  |  |  |  |  |
 | 863 | org.springdoc:springdoc-openapi-starter-common | org.springdoc.openapi.common ⚙️ | 2026-09-06 | 4,6 | 4,6 | 3.1.1 | 3.1.1 | 48 | 50 | 11 | 13 | 12 | 168,5 | 4,5 | 1,0 | - |
 | 864 | com.googlecode.concurrent-trees:concurrent-trees 🚩 |  | 2017-07-14 | 14,2 |  | 2.6.1 |  | 10 | 0 | 0 | 0 |  |  |  |  |  |
-| ~~865~~ | ~~org.apache.maven.resolver:maven-resolver-spi~~ | ~~org.apache.maven.resolver.spi ✳️~~ | ~~2026-08-20~~ | ~~9,6~~ | ~~9,2~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~75~~ | ~~11~~ | ~~12~~ | ~~31~~ | ~~430,7~~ | ~~16,3~~ | ~~1,2~~ | ~~-~~ |
+| ~~865~~ | ~~org.apache.maven.resolver:maven-resolver-spi~~ | ~~org.apache.maven.resolver.spi ✳️~~ | ~~2026-08-20~~ | ~~9,6~~ | ~~9,2~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~76~~ | ~~11~~ | ~~13~~ | ~~31~~ | ~~430,7~~ | ~~16,3~~ | ~~1,2~~ | ~~-~~ |
 | 866 | org.springframework.boot:spring-boot-devtools | spring.boot.devtools ⚙️ | 2026-08-20 | 10,8 | 8,5 | 4.0.8 | 4.0.8 | 268 | 228 | 35 | 35 | 343 | 4398,2 🔺 | 123,4 🔺 | 2,9 | 🔺 files, size |
 | 867 | org.jetbrains.kotlin:kotlin-util-klib-metadata |  | 2026-08-26 | 6,8 |  | 2.4.20-RC2 |  | 160 | 0 | 30 | 0 | 171 | 3871,5 🔺 | 562,2 🔺 | 3,2 | 🔺 files, size |
-| ~~868~~ | ~~org.apache.maven.resolver:maven-resolver-impl~~ | ~~org.apache.maven.resolver.impl ⚙️~~ | ~~2026-08-20~~ | ~~9,6~~ | ~~9,2~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~75~~ | ~~11~~ | ~~12~~ | ~~31~~ | ~~430,7~~ | ~~16,3~~ | ~~1,2~~ | ~~-~~ |
+| ~~868~~ | ~~org.apache.maven.resolver:maven-resolver-impl~~ | ~~org.apache.maven.resolver.impl ⚙️~~ | ~~2026-08-20~~ | ~~9,6~~ | ~~9,2~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~76~~ | ~~11~~ | ~~13~~ | ~~31~~ | ~~430,7~~ | ~~16,3~~ | ~~1,2~~ | ~~-~~ |
 | 869 | commons-fileupload:commons-fileupload ⚠️ | org.apache.commons.fileupload ✳️ | 2025-06-05 | 20,8 | 1,3 | 1.6.0 | 1.6.0 | 15 | 1 | 0 | 0 |  |  |  |  |  |
 | 870 | com.google.api:gax-grpc |  | 2026-09-04 | 9,4 |  | 2.85.0 |  | 227 | 0 | 23 | 0 | 5 | 42,0 | 22,2 🔺 | 4,7 | 🔺 size |
 | 871 | org.conscrypt:conscrypt-openjdk-uber | org.conscrypt ⚙️ | 2026-08-24 | 9,6 | 7,9 | 2.7-alpha | 2.7-alpha | 42 | 21 | 8 | 11 | 3 | 86,2 | 19,1 | 0,9 | - |
 | 872 | com.google.devtools.ksp:symbol-processing-gradle-plugin |  | 2026-08-03 | 5,1 |  | 2.3.11 |  | 158 | 0 | 16 | 0 | 8 | 257,5 | 201,7 🔺 | 1,3 | 🔺 size |
-| 873 | software.amazon.awssdk:http-auth-aws-eventstream | software.amazon.awssdk.http.auth.aws.eventstream ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 712 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 873 | software.amazon.awssdk:http-auth-aws-eventstream | software.amazon.awssdk.http.auth.aws.eventstream ⚙️ | 2026-08-26 | 2,9 | 2,9 | 2.54.5 | 2.54.5 | 694 | 713 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 874 | io.grpc:grpc-auth | io.grpc.auth ⚙️ | 2026-08-14 | 11,3 | 3,0 | 1.82.4 | 1.82.4 | 192 | 51 | 13 | 19 | 38 | 747,3 | 251,6 🔺 | 1,2 | 🔺 size |
 | 875 | com.google.api:gax-httpjson |  | 2026-09-04 | 8,9 |  | 2.85.0 |  | 205 | 0 | 23 | 0 | 5 | 42,0 | 22,2 🔺 | 4,7 | 🔺 size |
 | 876 | io.mockk:mockk-dsl-jvm |  | 2026-05-29 | 8,8 |  | 1.14.11 |  | 104 | 0 | 4 | 0 | 17 | 430,5 | 1,9 | 0,3 | - |
@@ -938,7 +938,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~891~~ | ~~io.quarkus:quarkus-build-parent~~ | ~~-~~ | ~~2026-08-26~~ | ~~0,3~~ | ~~-~~ | ~~3.39.1~~ | ~~-~~ | ~~18~~ | ~~0~~ | ~~18~~ | ~~0~~ | ~~1140~~ | ~~7928,8 🔺~~ | ~~182,2 🔺~~ | ~~14,2 🔺~~ | ~~🔺 files, size, releases~~ |
 | 892 | com.sun.jersey.contribs:jersey-contribs |  |  |  |  |  |  | 0 | 0 | 0 | 0 |  |  |  |  |  |
 | ~~893~~ | ~~io.quarkus:quarkus-parent~~ | ~~-~~ | ~~2026-08-26~~ | ~~0,3~~ | ~~-~~ | ~~3.39.1~~ | ~~-~~ | ~~18~~ | ~~0~~ | ~~18~~ | ~~0~~ | ~~1140~~ | ~~7928,8 🔺~~ | ~~182,2 🔺~~ | ~~14,2 🔺~~ | ~~🔺 files, size, releases~~ |
-| 894 | software.amazon.awssdk:sts | software.amazon.awssdk.services.sts ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1826 | 1832 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 894 | software.amazon.awssdk:sts | software.amazon.awssdk.services.sts ⚙️ | 2026-08-26 | 9,2 | 7,8 | 2.54.5 | 2.54.5 | 1826 | 1833 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 895 | io.grpc:grpc-grpclb | io.grpc.grpclb ⚙️ | 2026-08-14 | 10,6 | 3,0 | 1.82.4 | 1.82.4 | 186 | 51 | 13 | 19 | 38 | 747,3 | 251,6 🔺 | 1,2 | 🔺 size |
 | 896 | org.seleniumhq.selenium:selenium-api | org.seleniumhq.selenium.api 🏷️ | 2026-08-27 | 15,6 | 8,1 | 4.48.0 | 4.48.0 | 186 | 90 | 12 | 14 | 38 | 434,4 | 82,2 🔺 | 1,3 | 🔺 size |
 | 897 | com.nimbusds:lang-tag 🚩 |  | 2022-07-06 | 13,4 |  | 1.7 |  | 11 | 0 | 0 | 0 | 10 | 31,0 | 7,8 | 3,5 | - |
@@ -955,7 +955,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 908 | io.grpc:grpc-alts | io.grpc.alts ⚙️ | 2026-08-14 | 8,5 | 3,0 | 1.82.4 | 1.82.4 | 157 | 51 | 13 | 19 | 38 | 747,3 | 251,6 🔺 | 1,2 | 🔺 size |
 | 909 | org.glassfish.jersey.inject:jersey-hk2 |  | 2026-06-11 | 9,3 |  | 3.1.12 |  | 82 | 6 | 8 | 6 | 3 | 51,8 | 0,9 | 0,7 | - |
 | 910 | org.springdoc:springdoc-openapi-starter-webmvc-api | org.springdoc.openapi.webmvc.core ⚙️ | 2026-09-06 | 4,6 | 4,6 | 3.1.1 | 3.1.1 | 48 | 50 | 11 | 13 | 12 | 168,5 | 4,5 | 1,0 | - |
-| 911 | software.amazon.awssdk:crt-core | software.amazon.awssdk.crtcore ⚙️ | 2026-08-26 | 3,5 | 3,5 | 2.54.5 | 2.54.5 | 829 | 847 | 224 | 242 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
+| 911 | software.amazon.awssdk:crt-core | software.amazon.awssdk.crtcore ⚙️ | 2026-08-26 | 3,5 | 3,5 | 2.54.5 | 2.54.5 | 829 | 848 | 224 | 243 | 519 | 8273,1 🔺 | 3390,0 🔺 | 25,9 🔺 | 🔺 files, size, releases |
 | 912 | org.seleniumhq.selenium:selenium-support | org.seleniumhq.selenium.support 🏷️ | 2026-08-27 | 16,8 | 7,4 | 4.48.0 | 4.48.0 | 193 | 86 | 12 | 14 | 38 | 434,4 | 82,2 🔺 | 1,3 | 🔺 size |
 | 913 | com.nimbusds:content-type ⚠️ |  | 2023-11-05 | 6,6 |  | 2.3 |  | 5 | 0 | 0 | 0 | 10 | 31,0 | 7,8 | 3,5 | - |
 | 914 | io.prometheus:simpleclient 🚩 |  | 2022-06-15 | 11,8 |  | 0.16.0 |  | 40 | 0 | 0 | 0 | 30 | 589,5 | 16,3 | 0,7 | - |

@@ -4,7 +4,7 @@
 > _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-09-15 13:15:15 UTC_  
-_Current chunk started: 2026-09-16 08:06:04 UTC_  
+_Current chunk started: 2026-09-21 10:12:14 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 938_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 18 613 805 |
-| Non-module artifacts | 16 568 554 |
+| Total artifacts scanned | 18 671 959 |
+| Non-module artifacts | 16 619 624 |
 | Modular artifacts | 1 694 352 |
 | Total automatic modules | 1 324 882 |
 | Total named modules | 369 470 |
 | Total named modules with module-info version | 280 396 |
-| Distinct Maven artifacts | 695 269 |
-| Distinct module names | 42 377 |
+| Distinct Maven artifacts | 695 271 |
+| Distinct module names | 42 426 |
 | Distinct automatic modules | 22 445 |
 | Distinct named modules | 18 401 |
 | Distinct named modules with module-info version | 13 397 |
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 3 498 | 1 246 | 2 252 |
-| New version rows | 6 254 | 1 730 | 4 524 |
-| Non-modular artifacts | 6 340 | - | - |
+| Modules with a publication | 123 | 110 | 13 |
+| New version rows | 143 | 130 | 13 |
+| Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 111 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 969 (88.4%) |
 | 2026-07 | `█`&nbsp;3 538 (7.1%) | `▓▓`&nbsp;5 573 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
 | 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 687 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 736 (86.0%) |
-| 2026-09 | `█`&nbsp;2 217 (13.2%) | `▓`&nbsp;3 783 (22.6%) | `░░░░`&nbsp;10 740 (64.2%) |
+| 2026-09 | `█`&nbsp;2 217 (14.5%) | `▓`&nbsp;3 783 (24.7%) | `░░░`&nbsp;9 285 (60.7%) |
 
 ## Naming patterns
 
@@ -175,7 +175,7 @@ How module names relate to their publishing groupId. "Competing groupIds" counts
 
 | Pattern | Modules |
 |---|---:|
-| Multiple competing groupIds in audit history | 4 299 |
+| Multiple competing groupIds in audit history | 4 301 |
 
 ### Leading dot-segments shared with the owning groupId
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 3 863 470 |
-| Incorrectly indexed (mis-stamped 404s) | 3 861 172 |
-| Genuine artifact errors | 2 298 |
+| Total failed coordinates | 3 887 365 |
+| Incorrectly indexed (mis-stamped 404s) | 3 884 853 |
+| Genuine artifact errors | 2 512 |
 
 ### Top 25 genuine error messages
 
@@ -212,11 +212,11 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 | Error message | Count |
 |---|---:|
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
-| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 515 |
+| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 518 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
+| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 304 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
-| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 93 |
 | `InvalidModuleDescriptorException: CONSTANT_Package at entry <ENTRY> has illegal character: '.'` | 83 |
 | `IllegalArgumentException: Expected central file header signature at offset <OFFSET>` | 76 |
 | `InvalidModuleDescriptorException: <CLASS>: Invalid service type name: '<NAME>' is not a Java identifier` | 45 |
@@ -305,7 +305,7 @@ Module names that have been published under the most different groupIds across h
 
 | Module | Distinct groupIds |
 |---|---:|
-| `com.google.gson` | 309 |
+| `com.google.gson` | 310 |
 | `com.fasterxml.jackson.databind` | 270 |
 | `com.fasterxml.jackson.core` | 238 |
 | `com.fasterxml.jackson.annotation [-jar-with-dependencies]` | 229 |
@@ -328,8 +328,8 @@ Module names that have been published under the most different groupIds across h
 | `com.google.gson [-all]` | 72 |
 | `com.fasterxml.jackson.module.jaxb` | 67 |
 | `org.yaml.snakeyaml` | 67 |
+| `org.apache.commons.codec` | 66 |
 | `org.apache.commons.io` | 66 |
-| `org.apache.commons.codec` | 65 |
 
 ## Top 25 modules updated in the last 7 days
 
