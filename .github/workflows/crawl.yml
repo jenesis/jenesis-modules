@@ -128,10 +128,9 @@ jobs:
             "-Djenesis.crawler.git.work.dir=$GITHUB_WORKSPACE"
             "-Djenesis.crawler.git.push.every=$PUSH_EVERY"
             "-Djenesis.crawler.canonical.timestamp.uri=$CANONICAL_TIMESTAMP_BASE"
-            # Central has published chunks without advancing last-incremental (937 and 938 stood
-            # unannounced for a fortnight while every run reported UP_TO_DATE and committed
-            # nothing), so the pointer alone cannot be trusted to mean "caught up" here.
-            "-Djenesis.crawler.probe.incrementals=true"
+            # last-incremental tracks the chunks again since 938, so the pointer decides alone
+            # and no run pays a HEAD to find that out. Should the pointer fall behind what the
+            # index serves, add -Djenesis.crawler.probe.incrementals=true here again.
           )
           [ -n "$TAIL_SIZE" ]            && props+=("-Djenesis.crawler.tail.size=$TAIL_SIZE")
           [ -n "$SMALL_JAR_THRESHOLD" ]  && props+=("-Djenesis.crawler.small.jar.threshold=$SMALL_JAR_THRESHOLD")

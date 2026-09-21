@@ -106,9 +106,10 @@ re-stamps records during republishing events and ownership is decided by who pub
 ## Continuous crawling
 
 - **`crawl.yml`** runs every 12 hours at minute 7, with a 90-minute budget inside a 110-minute timeout, and
-  commits each checkpoint. It runs with `jenesis.crawler.probe.incrementals=true`, because Central has left
-  `last-incremental` behind the chunks it actually serves; without the probe such a run reports `UP_TO_DATE`
-  and the catalogue stops advancing while the workflow stays green. A guard job makes a *scheduled* run stand down while another crawl is in flight, so
+  commits each checkpoint. It follows `last-incremental` as published; when that pointer has fallen behind the
+  chunks the index actually serves, a run reports `UP_TO_DATE` and the catalogue stops advancing while the
+  workflow stays green, and `jenesis.crawler.probe.incrementals=true` is what settles it with one HEAD per
+  run. A guard job makes a *scheduled* run stand down while another crawl is in flight, so
   a long manual crawl is never chased by a queued one; manual dispatches always proceed and share a
   concurrency group. The dispatch form exposes `budget_minutes`, `concurrency`, `push_every` and `resume`.
 - **`summary.yml`** runs daily at 06:07 UTC - halfway between the two crawls - and regenerates
