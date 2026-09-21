@@ -4491,6 +4491,8 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.24.0-26w37	named	io.joynr.examples	stateless-async-consumer	2026-09-15T13:27:41Z	2.14.2
 1.24.0-26w37	named	io.joynr.tests.graceful-shutdown-test	graceful-shutdown-test-consumer	2026-09-15T13:27:42Z	2.14.2
 1.0.6	named	io.github.kathukyabrian	mpesa	2026-09-15T14:22:44Z	2.22.0
+1.29.0	named	org.apache.calcite.avatica	avatica	2026-09-15T23:01:23Z	2.22.2
+1.29.0	named	org.apache.calcite.avatica	avatica-standalone-server	2026-09-15T23:01:23Z	2.22.2
 1.0.7	named	io.github.kathukyabrian	mpesa	2026-09-17T10:42:35Z	2.22.0
 1.0.2	named	io.github.kathukyabrian	tiara	2026-09-19T08:21:11Z	2.22.0
 2.1.14	named	com.icegreen	greenmail-standalone	2026-09-19T13:26:16Z	2.22.2

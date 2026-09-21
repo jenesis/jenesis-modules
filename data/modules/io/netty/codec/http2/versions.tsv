@@ -202,4 +202,7 @@
 4.1.138.Final	automatic	io.netty	netty-codec-http2	2026-09-09T18:46:18Z	
 5.89.5	named	com.applitools	eyes-sdk-core-java5	2026-09-14T17:26:19Z	4.2.17.Final
 5.89.6	named	com.applitools	eyes-sdk-core-java5	2026-09-15T10:30:21Z	4.2.17.Final
+1.0.0-RC2	named	org.openjproxy	ojp-jdbc-driver	2026-09-17T15:58:37Z	4.2.18.Final
 5.89.7	named	com.applitools	eyes-sdk-core-java5	2026-09-17T16:54:23Z	4.2.17.Final
+1.0.0-RC3	named	org.openjproxy	ojp-jdbc-driver	2026-09-20T05:16:04Z	4.2.18.Final
+1.0.0	named	org.openjproxy	ojp-jdbc-driver	2026-09-20T05:21:42Z	4.2.18.Final
