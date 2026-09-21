@@ -20,3 +20,4 @@
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grovs/Grovs/1.0.9/Grovs-1.0.9.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grovs/Grovs/1.1.0/Grovs-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grovs/Grovs/1.1.1/Grovs-1.1.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grovs/Grovs/3.0.0/Grovs-3.0.0.jar returned status 404
