@@ -36,6 +36,7 @@
 3.10.8-jk			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.10.8-jk/AgoraRte-3.10.8-jk.jar returned status 404
 3.10.8-jk.test1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.10.8-jk.test1/AgoraRte-3.10.8-jk.test1.jar returned status 404
 3.10.8-jk.test2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.10.8-jk.test2/AgoraRte-3.10.8-jk.test2.jar returned status 404
+3.10.9-jk			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.10.9-jk/AgoraRte-3.10.9-jk.jar returned status 404
 3.11.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.1/AgoraRte-3.11.0-rc.1.jar returned status 404
 3.11.0-rc.10		2026-08-15T08:15:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.10/AgoraRte-3.11.0-rc.10.jar returned status 404
 3.11.0-rc.10.1		2026-08-25T13:23:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.10.1/AgoraRte-3.11.0-rc.10.1.jar returned status 404
@@ -44,6 +45,8 @@
 3.11.0-rc.10.4		2026-08-28T14:42:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.10.4/AgoraRte-3.11.0-rc.10.4.jar returned status 404
 3.11.0-rc.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.11/AgoraRte-3.11.0-rc.11.jar returned status 404
 3.11.0-rc.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.11.1/AgoraRte-3.11.0-rc.11.1.jar returned status 404
+3.11.0-rc.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.11.2/AgoraRte-3.11.0-rc.11.2.jar returned status 404
+3.11.0-rc.12-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.12-alpha/AgoraRte-3.11.0-rc.12-alpha.jar returned status 404
 3.11.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.2/AgoraRte-3.11.0-rc.2.jar returned status 404
 3.11.0-rc.3		2026-06-02T13:20:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.3/AgoraRte-3.11.0-rc.3.jar returned status 404
 3.11.0-rc.4		2026-06-17T04:00:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.4/AgoraRte-3.11.0-rc.4.jar returned status 404
@@ -53,6 +56,7 @@
 3.11.0-rc.7.1		2026-07-01T14:29:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.7.1/AgoraRte-3.11.0-rc.7.1.jar returned status 404
 3.11.0-rc.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.9/AgoraRte-3.11.0-rc.9.jar returned status 404
 3.11.0-rc.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc.9.1/AgoraRte-3.11.0-rc.9.1.jar returned status 404
+3.11.0-rc11-test01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.0-rc11-test01/AgoraRte-3.11.0-rc11-test01.jar returned status 404
 3.11.1-rc.1		2026-06-13T06:51:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.11.1-rc.1/AgoraRte-3.11.1-rc.1.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.3.0/AgoraRte-3.3.0.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/agora-apaas/AgoraRte/3.3.1/AgoraRte-3.3.1.jar returned status 404

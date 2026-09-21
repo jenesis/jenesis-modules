@@ -1,2 +1,3 @@
 0.5.0		2026-09-08T21:33:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/youndie/viddik/viddik-annotations-iosarm64/0.5.0/viddik-annotations-iosarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-09-08T21:33:31Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/youndie/viddik/viddik-annotations-iosarm64/0.6.0/viddik-annotations-iosarm64-0.6.0.jar returned status 404

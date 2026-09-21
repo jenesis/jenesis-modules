@@ -7,4 +7,5 @@
 0.15.1		2026-08-25T01:40:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-judge-parent/0.15.1/agent-judge-parent-0.15.1.jar returned status 404
 0.15.2		2026-08-25T20:43:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-judge-parent/0.15.2/agent-judge-parent-0.15.2.jar returned status 404
 0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-judge-parent/0.16.0/agent-judge-parent-0.16.0.jar returned status 404
+0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-judge-parent/0.17.0/agent-judge-parent-0.17.0.jar returned status 404
 0.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/markpollack/agent-judge-parent/0.9.2/agent-judge-parent-0.9.2.jar returned status 404
