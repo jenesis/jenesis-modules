@@ -1,1 +1,10 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/engine/1.0.0/engine-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/engine/1.0.1/engine-1.0.1.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/engine/1.1.1/engine-1.1.1.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/engine/2.0.0/engine-2.0.0.jar returned status 404
+2.1.1-ALPHA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/engine/2.1.1-ALPHA/engine-2.1.1-ALPHA.jar returned status 404
+2.1.2-ALPHA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/engine/2.1.2-ALPHA/engine-2.1.2-ALPHA.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/engine/3.0.1/engine-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/engine/3.0.2/engine-3.0.2.jar returned status 404
+3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/engine/3.0.3/engine-3.0.3.jar returned status 404
 3.0.4		2026-09-02T14:10:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opennms/alec/engine/3.0.4/engine-3.0.4.jar returned status 404
