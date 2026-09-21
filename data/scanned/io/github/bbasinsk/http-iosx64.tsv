@@ -54,3 +54,5 @@
 0.5.2	metadata	2026-08-19T21:57:44Z	
 0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/http-iosx64/0.5.3/http-iosx64-0.5.3.jar returned status 404
 0.5.3	metadata	2026-09-01T22:04:51Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/http-iosx64/0.6.0/http-iosx64-0.6.0.jar returned status 404
+0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/http-iosx64/0.6.1/http-iosx64-0.6.1.jar returned status 404
