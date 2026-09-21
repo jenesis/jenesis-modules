@@ -16,3 +16,4 @@
 14.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-netty-http3/14.3.7/odl-netty-http3-14.3.7.jar returned status 404
 15.0.0		2026-08-23T17:14:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-netty-http3/15.0.0/odl-netty-http3-15.0.0.jar returned status 404
 15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-netty-http3/15.0.1/odl-netty-http3-15.0.1.jar returned status 404
+15.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odl-netty-http3/15.0.2/odl-netty-http3-15.0.2.jar returned status 404

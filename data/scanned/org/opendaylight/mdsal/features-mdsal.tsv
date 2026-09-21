@@ -81,6 +81,7 @@
 16.0.5		2026-08-16T13:24:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal/16.0.5/features-mdsal-16.0.5.jar returned status 404
 16.0.6		2026-08-23T16:07:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal/16.0.6/features-mdsal-16.0.6.jar returned status 404
 17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal/17.0.0/features-mdsal-17.0.0.jar returned status 404
+17.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/features-mdsal/17.0.1/features-mdsal-17.0.1.jar returned status 404
 2.0.0-Beryllium			
 2.0.1-Beryllium-SR1			
 2.0.2-Beryllium-SR2			

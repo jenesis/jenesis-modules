@@ -109,6 +109,7 @@
 16.0.5		2026-08-12T11:27:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/binding-parent/16.0.5/binding-parent-16.0.5.jar returned status 404
 16.0.6		2026-08-20T16:18:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/binding-parent/16.0.6/binding-parent-16.0.6.jar returned status 404
 17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/binding-parent/17.0.0/binding-parent-17.0.0.jar returned status 404
+17.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/binding-parent/17.0.1/binding-parent-17.0.1.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/binding-parent/3.0.0/binding-parent-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/binding-parent/3.0.1/binding-parent-3.0.1.jar returned status 404
 3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/binding-parent/3.0.10/binding-parent-3.0.10.jar returned status 404

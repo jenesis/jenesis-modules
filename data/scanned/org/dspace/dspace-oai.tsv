@@ -28,6 +28,7 @@
 1.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-oai/1.8.3/dspace-oai-1.8.3.jar returned status 404
 10.0		2026-05-28T17:53:15Z	
 10.0-rc1		2026-04-03T21:46:47Z	
+10.1			
 3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-oai/3.0/dspace-oai-3.0.jar returned status 404
 3.0	classes	2012-11-30T17:31:02Z	
 3.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/dspace/dspace-oai/3.0-rc1/dspace-oai-3.0-rc1.jar returned status 404
@@ -153,8 +154,10 @@
 8.2		2025-07-14T20:23:36Z	
 8.3		2025-12-17T20:09:24Z	
 8.4		2026-05-28T15:49:09Z	
+8.5			
 9.0		2025-05-23T15:39:58Z	
 9.0-rc1		2025-04-04T17:47:57Z	
 9.1		2025-07-14T21:09:26Z	
 9.2		2025-12-17T20:58:07Z	
 9.3		2026-05-28T16:42:38Z	
+9.4			

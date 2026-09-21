@@ -102,6 +102,7 @@
 14.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odlparent/14.3.7/odlparent-14.3.7.jar returned status 404
 15.0.0		2026-08-20T22:56:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odlparent/15.0.0/odlparent-15.0.0.jar returned status 404
 15.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odlparent/15.0.1/odlparent-15.0.1.jar returned status 404
+15.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odlparent/15.0.2/odlparent-15.0.2.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odlparent/2.0.0/odlparent-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odlparent/2.0.1/odlparent-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/odlparent/2.0.2/odlparent-2.0.2.jar returned status 404
