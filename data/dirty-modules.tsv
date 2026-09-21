@@ -1249,3 +1249,13 @@ uk.uuid.slf4j.android
 uk.co.real_logic.sbe.tool
 uk.co.real_logic.sbe.samples
 uk.co.real_logic.sbe.all
+ch.sbb.polarion.extension.diff_tool
+ch.sbb.polarion.extension.interceptor_manager
+ch.rasc.sse.eventbus
+com.fasterxml.jackson.jr.ob
+build.percolate.core
+build.jenesis.crawler
+build.jenesis.launcher
+build.jenesis
+org.joda.time
+nz.net.ultraq.eventhorizon

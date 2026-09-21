@@ -33,3 +33,5 @@
 1.2.2-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-mingwx64/1.2.2-rc2/runtime-mingwx64-1.2.2-rc2.jar returned status 404
 1.2.2-rc3		2026-09-14T09:22:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-mingwx64/1.2.2-rc3/runtime-mingwx64-1.2.2-rc3.jar returned status 404
 1.2.2-rc4		2026-09-14T19:59:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-mingwx64/1.2.2-rc4/runtime-mingwx64-1.2.2-rc4.jar returned status 404
+1.2.2-rc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-mingwx64/1.2.2-rc5/runtime-mingwx64-1.2.2-rc5.jar returned status 404
+1.2.2-rc6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-mingwx64/1.2.2-rc6/runtime-mingwx64-1.2.2-rc6.jar returned status 404

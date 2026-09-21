@@ -1,1 +1,2 @@
 1.1.5		2026-09-02T12:41:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/travel/gate2/core-abb-staging/1.1.5/core-abb-staging-1.1.5.jar returned status 404
+1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/travel/gate2/core-abb-staging/1.1.6/core-abb-staging-1.1.6.jar returned status 404
