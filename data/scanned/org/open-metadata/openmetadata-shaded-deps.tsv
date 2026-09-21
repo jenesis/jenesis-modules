@@ -169,3 +169,4 @@
 2.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/2.0.0-rc1/openmetadata-shaded-deps-2.0.0-rc1.jar returned status 404
 2.0.0-rc2		2026-08-13T08:29:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/2.0.0-rc2/openmetadata-shaded-deps-2.0.0-rc2.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/2.0.1/openmetadata-shaded-deps-2.0.1.jar returned status 404
+2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-shaded-deps/2.0.2/openmetadata-shaded-deps-2.0.2.jar returned status 404

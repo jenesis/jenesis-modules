@@ -210,3 +210,6 @@
 9.0.121	named	org.apache.tomcat	tomcat-jasper-el	2026-08-12T19:46:17Z	9.0.121
 10.1.59	named	org.apache.tomcat	tomcat-jasper-el	2026-08-13T17:07:04Z	10.1.59
 10.1.59.0	named	com.heroku	webapp-runner-main	2026-09-02T02:15:49Z	10.1.59
+11.0.26	named	org.apache.tomcat	tomcat-jasper-el	2026-09-09T22:02:46Z	11.0.26
+10.1.60	named	org.apache.tomcat	tomcat-jasper-el	2026-09-09T22:41:53Z	10.1.60
+9.0.122	named	org.apache.tomcat	tomcat-jasper-el	2026-09-10T07:02:18Z	9.0.122
