@@ -3,3 +3,5 @@
 1.0.0-beta.3		2026-08-25T16:32:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pavelapk/converge/converge-core-android/1.0.0-beta.3/converge-core-android-1.0.0-beta.3.jar returned status 404
 1.0.0-beta.4		2026-08-30T00:39:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pavelapk/converge/converge-core-android/1.0.0-beta.4/converge-core-android-1.0.0-beta.4.jar returned status 404
 1.0.0-beta.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pavelapk/converge/converge-core-android/1.0.0-beta.5/converge-core-android-1.0.0-beta.5.jar returned status 404
+1.0.0-beta.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pavelapk/converge/converge-core-android/1.0.0-beta.6/converge-core-android-1.0.0-beta.6.jar returned status 404
+1.0.0-beta.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pavelapk/converge/converge-core-android/1.0.0-beta.7/converge-core-android-1.0.0-beta.7.jar returned status 404
