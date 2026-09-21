@@ -57,6 +57,7 @@
 3.1.0-beta.205			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.0-beta.205/bluetooth-sdk-3.1.0-beta.205.jar returned status 404
 3.1.0-beta.207			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.0-beta.207/bluetooth-sdk-3.1.0-beta.207.jar returned status 404
 3.1.0-beta.212			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.0-beta.212/bluetooth-sdk-3.1.0-beta.212.jar returned status 404
+3.1.0-beta.228			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.0-beta.228/bluetooth-sdk-3.1.0-beta.228.jar returned status 404
 3.1.0-dev.10		2026-08-26T01:47:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.0-dev.10/bluetooth-sdk-3.1.0-dev.10.jar returned status 404
 3.1.0-dev.101		2026-08-29T04:59:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.0-dev.101/bluetooth-sdk-3.1.0-dev.101.jar returned status 404
 3.1.0-dev.102		2026-08-29T06:56:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.0-dev.102/bluetooth-sdk-3.1.0-dev.102.jar returned status 404
@@ -120,6 +121,15 @@
 3.1.0-dev.95		2026-08-29T01:43:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.0-dev.95/bluetooth-sdk-3.1.0-dev.95.jar returned status 404
 3.1.0-dev.96		2026-08-29T03:26:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.0-dev.96/bluetooth-sdk-3.1.0-dev.96.jar returned status 404
 3.1.0-dev.98		2026-08-29T04:11:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.0-dev.98/bluetooth-sdk-3.1.0-dev.98.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.1/bluetooth-sdk-3.1.1.jar returned status 404
+3.1.1-beta.230			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.1-beta.230/bluetooth-sdk-3.1.1-beta.230.jar returned status 404
+3.1.1-beta.231			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.1-beta.231/bluetooth-sdk-3.1.1-beta.231.jar returned status 404
+3.1.1-beta.234			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.1-beta.234/bluetooth-sdk-3.1.1-beta.234.jar returned status 404
+3.1.1-beta.246			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.1-beta.246/bluetooth-sdk-3.1.1-beta.246.jar returned status 404
+3.1.1-beta.251			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.1-beta.251/bluetooth-sdk-3.1.1-beta.251.jar returned status 404
+3.1.1-beta.252			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.1-beta.252/bluetooth-sdk-3.1.1-beta.252.jar returned status 404
+3.1.1-beta.256			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.1-beta.256/bluetooth-sdk-3.1.1-beta.256.jar returned status 404
+3.1.1-beta.257			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.1.1-beta.257/bluetooth-sdk-3.1.1-beta.257.jar returned status 404
 3.2.0-dev.106			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.106/bluetooth-sdk-3.2.0-dev.106.jar returned status 404
 3.2.0-dev.107			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.107/bluetooth-sdk-3.2.0-dev.107.jar returned status 404
 3.2.0-dev.111			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.111/bluetooth-sdk-3.2.0-dev.111.jar returned status 404
@@ -168,3 +178,41 @@
 3.2.0-dev.225			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.225/bluetooth-sdk-3.2.0-dev.225.jar returned status 404
 3.2.0-dev.226			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.226/bluetooth-sdk-3.2.0-dev.226.jar returned status 404
 3.2.0-dev.227			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.227/bluetooth-sdk-3.2.0-dev.227.jar returned status 404
+3.2.0-dev.232			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.232/bluetooth-sdk-3.2.0-dev.232.jar returned status 404
+3.2.0-dev.233			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.233/bluetooth-sdk-3.2.0-dev.233.jar returned status 404
+3.2.0-dev.235			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.235/bluetooth-sdk-3.2.0-dev.235.jar returned status 404
+3.2.0-dev.245			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.245/bluetooth-sdk-3.2.0-dev.245.jar returned status 404
+3.2.0-dev.247			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.247/bluetooth-sdk-3.2.0-dev.247.jar returned status 404
+3.2.0-dev.248			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.248/bluetooth-sdk-3.2.0-dev.248.jar returned status 404
+3.2.0-dev.249			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.249/bluetooth-sdk-3.2.0-dev.249.jar returned status 404
+3.2.0-dev.250			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.250/bluetooth-sdk-3.2.0-dev.250.jar returned status 404
+3.2.0-dev.253			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.253/bluetooth-sdk-3.2.0-dev.253.jar returned status 404
+3.2.0-dev.254			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.254/bluetooth-sdk-3.2.0-dev.254.jar returned status 404
+3.2.0-dev.255			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.255/bluetooth-sdk-3.2.0-dev.255.jar returned status 404
+3.2.0-dev.259			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.259/bluetooth-sdk-3.2.0-dev.259.jar returned status 404
+3.2.0-dev.261			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.261/bluetooth-sdk-3.2.0-dev.261.jar returned status 404
+3.2.0-dev.262			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.262/bluetooth-sdk-3.2.0-dev.262.jar returned status 404
+3.2.0-dev.263			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.263/bluetooth-sdk-3.2.0-dev.263.jar returned status 404
+3.2.0-dev.264			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.264/bluetooth-sdk-3.2.0-dev.264.jar returned status 404
+3.2.0-dev.265			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.265/bluetooth-sdk-3.2.0-dev.265.jar returned status 404
+3.2.0-dev.266			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.0-dev.266/bluetooth-sdk-3.2.0-dev.266.jar returned status 404
+3.2.1-dev.274			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.274/bluetooth-sdk-3.2.1-dev.274.jar returned status 404
+3.2.1-dev.276			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.276/bluetooth-sdk-3.2.1-dev.276.jar returned status 404
+3.2.1-dev.277			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.277/bluetooth-sdk-3.2.1-dev.277.jar returned status 404
+3.2.1-dev.278			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.278/bluetooth-sdk-3.2.1-dev.278.jar returned status 404
+3.2.1-dev.279			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.279/bluetooth-sdk-3.2.1-dev.279.jar returned status 404
+3.2.1-dev.282			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.282/bluetooth-sdk-3.2.1-dev.282.jar returned status 404
+3.2.1-dev.283			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.283/bluetooth-sdk-3.2.1-dev.283.jar returned status 404
+3.2.1-dev.285			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.285/bluetooth-sdk-3.2.1-dev.285.jar returned status 404
+3.2.1-dev.286			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.286/bluetooth-sdk-3.2.1-dev.286.jar returned status 404
+3.2.1-dev.287			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.287/bluetooth-sdk-3.2.1-dev.287.jar returned status 404
+3.2.1-dev.288			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.288/bluetooth-sdk-3.2.1-dev.288.jar returned status 404
+3.2.1-dev.289			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.289/bluetooth-sdk-3.2.1-dev.289.jar returned status 404
+3.2.1-dev.291			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.291/bluetooth-sdk-3.2.1-dev.291.jar returned status 404
+3.2.1-dev.292			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.292/bluetooth-sdk-3.2.1-dev.292.jar returned status 404
+3.2.1-dev.293			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.293/bluetooth-sdk-3.2.1-dev.293.jar returned status 404
+3.2.1-dev.294			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.294/bluetooth-sdk-3.2.1-dev.294.jar returned status 404
+3.2.1-dev.295			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.295/bluetooth-sdk-3.2.1-dev.295.jar returned status 404
+3.2.1-dev.297			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.297/bluetooth-sdk-3.2.1-dev.297.jar returned status 404
+3.2.1-dev.298			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.298/bluetooth-sdk-3.2.1-dev.298.jar returned status 404
+3.2.1-dev.299			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/bluetooth-sdk/3.2.1-dev.299/bluetooth-sdk-3.2.1-dev.299.jar returned status 404

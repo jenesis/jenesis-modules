@@ -898,3 +898,4 @@
 7.1.3	named	com.microsoft.azure.kusto	kusto-spark_4.0_2.13	2026-09-09T18:44:00Z	2.0.74.Final
 46.0.0	named	com.google.api-ads	google-ads-shadowjar	2026-09-10T14:51:11Z	2.0.75.Final
 2.4.0	named	com.scalekit	scalekit-sdk-java	2026-09-11T12:43:16Z	2.0.72.Final
+0.23.0	named	com.spotify.confidence	openfeature-provider-local	2026-09-15T12:07:55Z	2.0.72.Final

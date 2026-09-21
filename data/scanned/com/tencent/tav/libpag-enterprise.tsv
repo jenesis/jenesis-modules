@@ -362,6 +362,15 @@
 4.4.69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.69/libpag-enterprise-4.4.69.jar returned status 404
 4.4.69-movie			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.69-movie/libpag-enterprise-4.4.69-movie.jar returned status 404
 4.4.69-noffavc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.69-noffavc/libpag-enterprise-4.4.69-noffavc.jar returned status 404
+4.4.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.72/libpag-enterprise-4.4.72.jar returned status 404
+4.4.72-movie			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.72-movie/libpag-enterprise-4.4.72-movie.jar returned status 404
+4.4.72-noffavc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.72-noffavc/libpag-enterprise-4.4.72-noffavc.jar returned status 404
+4.4.73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.73/libpag-enterprise-4.4.73.jar returned status 404
+4.4.73-movie			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.73-movie/libpag-enterprise-4.4.73-movie.jar returned status 404
+4.4.73-noffavc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.73-noffavc/libpag-enterprise-4.4.73-noffavc.jar returned status 404
+4.4.74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.74/libpag-enterprise-4.4.74.jar returned status 404
+4.4.74-movie			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.74-movie/libpag-enterprise-4.4.74-movie.jar returned status 404
+4.4.74-noffavc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.74-noffavc/libpag-enterprise-4.4.74-noffavc.jar returned status 404
 4.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.8/libpag-enterprise-4.4.8.jar returned status 404
 4.4.8-movie			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.8-movie/libpag-enterprise-4.4.8-movie.jar returned status 404
 4.4.8-noffavc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.4.8-noffavc/libpag-enterprise-4.4.8-noffavc.jar returned status 404
@@ -380,3 +389,6 @@
 4.5.94			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.5.94/libpag-enterprise-4.5.94.jar returned status 404
 4.5.94-movie			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.5.94-movie/libpag-enterprise-4.5.94-movie.jar returned status 404
 4.5.94-noffavc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.5.94-noffavc/libpag-enterprise-4.5.94-noffavc.jar returned status 404
+4.5.98			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.5.98/libpag-enterprise-4.5.98.jar returned status 404
+4.5.98-movie			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.5.98-movie/libpag-enterprise-4.5.98-movie.jar returned status 404
+4.5.98-noffavc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/tav/libpag-enterprise/4.5.98-noffavc/libpag-enterprise-4.5.98-noffavc.jar returned status 404
