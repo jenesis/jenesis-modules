@@ -253,6 +253,7 @@
 4.2.2.162.KOOK			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.2.162.KOOK/full-screen-sharing-4.2.2.162.KOOK.jar returned status 404
 4.2.2.162.KOOK1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.2.162.KOOK1/full-screen-sharing-4.2.2.162.KOOK1.jar returned status 404
 4.2.2.163			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.2.163/full-screen-sharing-4.2.2.163.jar returned status 404
+4.2.2.164			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.2.164/full-screen-sharing-4.2.2.164.jar returned status 404
 4.2.2.238			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.2.238/full-screen-sharing-4.2.2.238.jar returned status 404
 4.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.3/full-screen-sharing-4.2.3.jar returned status 404
 4.2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.3.1/full-screen-sharing-4.2.3.1.jar returned status 404
@@ -319,6 +320,7 @@
 4.2.7.129.CSDTEST			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.7.129.CSDTEST/full-screen-sharing-4.2.7.129.CSDTEST.jar returned status 404
 4.2.7.132			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.7.132/full-screen-sharing-4.2.7.132.jar returned status 404
 4.2.7.137			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.7.137/full-screen-sharing-4.2.7.137.jar returned status 404
+4.2.7.143			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.2.7.143/full-screen-sharing-4.2.7.143.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.3.0/full-screen-sharing-4.3.0.jar returned status 404
 4.3.0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.3.0.1.1/full-screen-sharing-4.3.0.1.1.jar returned status 404
 4.3.0.122			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agora/rtc/full-screen-sharing/4.3.0.122/full-screen-sharing-4.3.0.122.jar returned status 404
