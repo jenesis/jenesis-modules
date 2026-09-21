@@ -8,3 +8,4 @@
 0.1.5	metadata	2026-09-12T11:49:40Z	
 0.1.6		2026-09-12T19:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/grigoriym/grappim-kit-uikit-iosarm64/0.1.6/grappim-kit-uikit-iosarm64-0.1.6.jar returned status 404
 0.1.6	metadata	2026-09-12T19:04:53Z	
+0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/grigoriym/grappim-kit-uikit-iosarm64/0.1.7/grappim-kit-uikit-iosarm64-0.1.7.jar returned status 404
