@@ -117,3 +117,5 @@
 1.86	automatic	org.bouncycastle	bctls-debug-jdk15to18	2026-09-11T07:25:58Z	
 1.86	automatic	org.bouncycastle	bctls-jdk14	2026-09-11T07:32:26Z	
 1.86	automatic	org.bouncycastle	bctls-debug-jdk14	2026-09-11T07:33:23Z	
+1.86.1	named	org.bouncycastle	bctls-jdk18on	2026-09-15T12:20:59Z	
+1.86.1	named	org.bouncycastle	bctls-klog-jdk18on	2026-09-15T12:20:59Z	

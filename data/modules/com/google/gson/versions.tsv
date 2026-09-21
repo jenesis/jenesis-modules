@@ -5170,6 +5170,9 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 3.0.18.3	named	com.ascentstream.pulsar	jclouds-shaded	2026-09-10T08:37:35Z	2.10.1
 8.42.0.47616	named	org.sonarsource.java	java-custom-rules-example	2026-09-10T09:30:06Z	2.14.0
 0.35.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-11T00:41:26Z	2.11.0
+11.10.0.86299	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-09-14T10:05:50Z	2.13.2
+11.10.0.86299	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-09-14T10:05:50Z	2.13.2
+5.9.0.79716	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-09-14T11:41:28Z	2.14.0
 0.36.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-09-16T07:06:09Z	2.11.0
 3.39.4	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-16T10:46:22Z	2.10
 3.40.0.CR1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-16T11:27:42Z	2.10

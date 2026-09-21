@@ -76,3 +76,4 @@
 2.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/elemento/elemento-bom/2.5.4/elemento-bom-2.5.4.jar returned status 404
 2.5.5		2026-08-17T07:34:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/elemento/elemento-bom/2.5.5/elemento-bom-2.5.5.jar returned status 404
 2.5.6		2026-08-17T08:45:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/elemento/elemento-bom/2.5.6/elemento-bom-2.5.6.jar returned status 404
+2.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/elemento/elemento-bom/2.5.7/elemento-bom-2.5.7.jar returned status 404

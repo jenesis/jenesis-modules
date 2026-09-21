@@ -40,3 +40,4 @@
 15.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/feature-parent/15.1.4/feature-parent-15.1.4.jar returned status 404
 15.1.5		2026-08-11T15:18:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/feature-parent/15.1.5/feature-parent-15.1.5.jar returned status 404
 16.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/feature-parent/16.0.0/feature-parent-16.0.0.jar returned status 404
+16.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/yangtools/feature-parent/16.1.0/feature-parent-16.1.0.jar returned status 404
