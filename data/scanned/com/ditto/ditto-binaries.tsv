@@ -281,6 +281,7 @@
 5.0.4-rc.2	linux-x64	2026-09-14T17:36:21Z	
 5.0.4-rc.2	macos-arm64	2026-09-14T17:36:22Z	
 5.0.4-rc.2	windows-x64	2026-09-14T17:36:21Z	
+5.0.4-rc.3			
 5.1.0		2026-08-19T03:35:30Z	
 5.1.0	linux-arm64	2026-08-19T03:35:30Z	
 5.1.0	linux-x64	2026-08-19T03:35:31Z	
@@ -596,6 +597,7 @@
 5.2.0-dev-weekly.20260910.2377	linux-x64	2026-09-10T13:55:07Z	
 5.2.0-dev-weekly.20260910.2377	macos-arm64	2026-09-10T13:55:07Z	
 5.2.0-dev-weekly.20260910.2377	windows-x64	2026-09-10T13:55:06Z	
+5.2.0-dev-weekly.20260913.2457			
 5.2.0-experimental-ca-kmp-internal.1			
 5.2.0-experimental-ca-kmp-internal.1	linux-arm64	2026-09-11T15:33:19Z	
 5.2.0-experimental-ca-kmp-internal.1	linux-x64	2026-09-11T15:33:20Z	
@@ -606,3 +608,4 @@
 5.2.0-experimental-ca-kmp-public.1	linux-x64	2026-09-11T15:32:56Z	
 5.2.0-experimental-ca-kmp-public.1	macos-arm64	2026-09-11T15:32:56Z	
 5.2.0-experimental-ca-kmp-public.1	windows-x64	2026-09-11T15:32:57Z	
+5.2.0-preview.1			
