@@ -78,3 +78,4 @@
 1.6.1	metadata	2026-08-16T09:02:09Z	
 1.7.0		2026-08-21T19:25:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/stream-iossimulatorarm64/1.7.0/stream-iossimulatorarm64-1.7.0.jar returned status 404
 1.7.0	metadata	2026-08-21T19:25:33Z	
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/stream-iossimulatorarm64/2.0.0/stream-iossimulatorarm64-2.0.0.jar returned status 404

@@ -12,3 +12,4 @@
 2.1.6	metadata	2026-08-09T21:28:24Z	
 2.1.7		2026-08-09T22:33:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrisimx/anyscankt-codegen-annotations-iosx64/2.1.7/anyscankt-codegen-annotations-iosx64-2.1.7.jar returned status 404
 2.1.7	metadata	2026-08-09T22:33:09Z	
+2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrisimx/anyscankt-codegen-annotations-iosx64/2.1.8/anyscankt-codegen-annotations-iosx64-2.1.8.jar returned status 404

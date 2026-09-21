@@ -6,3 +6,4 @@
 7.30.0	metadata	2026-08-15T18:51:02Z	
 7.51.0		2026-08-28T18:58:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/health-iosx64/7.51.0/health-iosx64-7.51.0.jar returned status 404
 7.51.0	metadata	2026-08-28T18:58:27Z	
+8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/health-iosx64/8.0.2/health-iosx64-8.0.2.jar returned status 404

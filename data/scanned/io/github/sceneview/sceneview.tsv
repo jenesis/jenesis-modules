@@ -131,6 +131,8 @@
 4.33.0		2026-08-26T19:23:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview/4.33.0/sceneview-4.33.0.jar returned status 404
 4.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview/4.34.0/sceneview-4.34.0.jar returned status 404
 4.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview/4.35.0/sceneview-4.35.0.jar returned status 404
+4.37.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview/4.37.0/sceneview-4.37.0.jar returned status 404
+4.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview/4.38.0/sceneview-4.38.0.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview/4.4.0/sceneview-4.4.0.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview/4.5.0/sceneview-4.5.0.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview/4.6.0/sceneview-4.6.0.jar returned status 404
