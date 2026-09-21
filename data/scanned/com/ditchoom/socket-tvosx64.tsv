@@ -288,6 +288,7 @@
 4.17.3	metadata	2026-09-11T17:54:57Z	
 4.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-tvosx64/4.18.0/socket-tvosx64-4.18.0.jar returned status 404
 4.18.0	metadata	2026-09-11T19:29:22Z	
+4.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-tvosx64/4.19.0/socket-tvosx64-4.19.0.jar returned status 404
 4.2.0		2026-08-09T15:49:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-tvosx64/4.2.0/socket-tvosx64-4.2.0.jar returned status 404
 4.2.0	metadata	2026-08-09T15:49:28Z	
 4.3.0		2026-08-10T19:48:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-tvosx64/4.3.0/socket-tvosx64-4.3.0.jar returned status 404

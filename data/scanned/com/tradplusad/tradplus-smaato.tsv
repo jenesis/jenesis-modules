@@ -142,6 +142,7 @@
 38.16.8.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-smaato/38.16.8.20.1/tradplus-smaato-38.16.8.20.1.jar returned status 404
 38.16.8.30.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-smaato/38.16.8.30.1/tradplus-smaato-38.16.8.30.1.jar returned status 404
 38.16.8.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-smaato/38.16.8.40.1/tradplus-smaato-38.16.8.40.1.jar returned status 404
+38.16.9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-smaato/38.16.9.0.1/tradplus-smaato-38.16.9.0.1.jar returned status 404
 38.5.6.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-smaato/38.5.6.4.1/tradplus-smaato-38.5.6.4.1.jar returned status 404
 38.6.4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-smaato/38.6.4.0.1/tradplus-smaato-38.6.4.0.1.jar returned status 404
 38.6.4.0.1.1002			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tradplusad/tradplus-smaato/38.6.4.0.1.1002/tradplus-smaato-38.6.4.0.1.1002.jar returned status 404
