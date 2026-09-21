@@ -1,1 +1,2 @@
 1.1.0		2026-09-02T05:46:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bota/bota-android-sdk/1.1.0/bota-android-sdk-1.1.0.jar returned status 404
+1.2.0-beta.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bota/bota-android-sdk/1.2.0-beta.0/bota-android-sdk-1.2.0-beta.0.jar returned status 404
