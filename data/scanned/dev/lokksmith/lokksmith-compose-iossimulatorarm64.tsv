@@ -70,3 +70,6 @@
 2.1.1	metadata	2026-09-05T14:29:51Z	
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lokksmith/lokksmith-compose-iossimulatorarm64/2.2.0/lokksmith-compose-iossimulatorarm64-2.2.0.jar returned status 404
 2.2.0	metadata	2026-09-11T12:53:11Z	
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lokksmith/lokksmith-compose-iossimulatorarm64/2.3.0/lokksmith-compose-iossimulatorarm64-2.3.0.jar returned status 404
+2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lokksmith/lokksmith-compose-iossimulatorarm64/2.4.0/lokksmith-compose-iossimulatorarm64-2.4.0.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/lokksmith/lokksmith-compose-iossimulatorarm64/2.5.0/lokksmith-compose-iossimulatorarm64-2.5.0.jar returned status 404

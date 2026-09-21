@@ -36,3 +36,5 @@
 2.0.0-beta02	metadata	2026-08-27T11:14:36Z	
 2.0.0-beta03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-macosarm64/2.0.0-beta03/haze-macosarm64-2.0.0-beta03.jar returned status 404
 2.0.0-beta03	metadata	2026-09-07T22:28:57Z	
+2.0.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-macosarm64/2.0.0-rc01/haze-macosarm64-2.0.0-rc01.jar returned status 404
+2.0.0-rc02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/chrisbanes/haze/haze-macosarm64/2.0.0-rc02/haze-macosarm64-2.0.0-rc02.jar returned status 404

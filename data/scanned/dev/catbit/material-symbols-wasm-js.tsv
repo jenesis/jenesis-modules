@@ -1,1 +1,2 @@
 1.0.0		2026-09-09T21:04:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/catbit/material-symbols-wasm-js/1.0.0/material-symbols-wasm-js-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/catbit/material-symbols-wasm-js/1.0.1/material-symbols-wasm-js-1.0.1.jar returned status 404

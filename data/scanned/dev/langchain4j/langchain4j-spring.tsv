@@ -56,6 +56,7 @@
 1.19.0-beta29		2026-08-14T11:37:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-spring/1.19.0-beta29/langchain4j-spring-1.19.0-beta29.jar returned status 404
 1.19.1-beta29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-spring/1.19.1-beta29/langchain4j-spring-1.19.1-beta29.jar returned status 404
 1.19.2-beta29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-spring/1.19.2-beta29/langchain4j-spring-1.19.2-beta29.jar returned status 404
+1.19.3-beta29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-spring/1.19.3-beta29/langchain4j-spring-1.19.3-beta29.jar returned status 404
 1.2.0-beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-spring/1.2.0-beta8/langchain4j-spring-1.2.0-beta8.jar returned status 404
 1.2.1-beta8		2026-06-15T13:22:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-spring/1.2.1-beta8/langchain4j-spring-1.2.1-beta8.jar returned status 404
 1.20.0-beta30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-spring/1.20.0-beta30/langchain4j-spring-1.20.0-beta30.jar returned status 404
