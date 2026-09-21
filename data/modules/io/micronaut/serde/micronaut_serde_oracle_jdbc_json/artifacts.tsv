@@ -12,6 +12,7 @@
 3.0.0-M3	automatic	io.micronaut.serde	micronaut-serde-oracle-jdbc-json
 3.0.0-M2	automatic	io.micronaut.serde	micronaut-serde-oracle-jdbc-json
 3.0.0-M1	automatic	io.micronaut.serde	micronaut-serde-oracle-jdbc-json
+2.17.0	automatic	io.micronaut.serde	micronaut-serde-oracle-jdbc-json
 2.16.2	automatic	io.micronaut.serde	micronaut-serde-oracle-jdbc-json
 2.16.1	automatic	io.micronaut.serde	micronaut-serde-oracle-jdbc-json
 2.16.0	automatic	io.micronaut.serde	micronaut-serde-oracle-jdbc-json
