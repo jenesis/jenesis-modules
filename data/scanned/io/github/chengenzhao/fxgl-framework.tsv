@@ -6,3 +6,5 @@
 26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chengenzhao/fxgl-framework/26.4/fxgl-framework-26.4.jar returned status 404
 26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chengenzhao/fxgl-framework/26.5/fxgl-framework-26.5.jar returned status 404
 26.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chengenzhao/fxgl-framework/26.6/fxgl-framework-26.6.jar returned status 404
+27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chengenzhao/fxgl-framework/27/fxgl-framework-27.jar returned status 404
+27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chengenzhao/fxgl-framework/27.1/fxgl-framework-27.1.jar returned status 404

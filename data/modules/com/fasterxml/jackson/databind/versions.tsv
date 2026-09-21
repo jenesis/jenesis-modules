@@ -4484,4 +4484,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.0.0	named	io.github.prabhnoor12	sentinel-agent	2026-09-12T15:32:35Z	2.18.3
 1.0.0	named	io.github.prabhnoor12	sentinel-cli	2026-09-12T15:32:35Z	2.18.3
 1.4.0	named	com.debugbundle	debugbundle-java-agent	2026-09-12T17:49:52Z	2.19.0
+1.0.6	named	io.github.kathukyabrian	mpesa	2026-09-15T14:22:44Z	2.22.0
+1.0.7	named	io.github.kathukyabrian	mpesa	2026-09-17T10:42:35Z	2.22.0
+1.0.2	named	io.github.kathukyabrian	tiara	2026-09-19T08:21:11Z	2.22.0
 2.1.14	named	com.icegreen	greenmail-standalone	2026-09-19T13:26:16Z	2.22.2

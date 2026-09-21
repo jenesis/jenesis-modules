@@ -2,3 +2,5 @@
 3.5.25	metadata	2026-09-12T13:16:48Z	
 3.5.26		2026-09-12T15:44:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-tvosarm64/3.5.26/cmp-pdf-generator-tvosarm64-3.5.26.jar returned status 404
 3.5.26	metadata	2026-09-12T15:44:52Z	
+3.5.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-tvosarm64/3.5.27/cmp-pdf-generator-tvosarm64-3.5.27.jar returned status 404
+3.5.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-pdf-generator-tvosarm64/3.5.28/cmp-pdf-generator-tvosarm64-3.5.28.jar returned status 404

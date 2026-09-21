@@ -82,3 +82,5 @@
 1.2.2-alfa	plain	2026-09-10T11:20:04Z	
 1.2.2-alfa	test-fixtures	2026-09-10T11:20:04Z	
 1.2.2-alfa	test-fixtures-sources	2026-09-10T11:20:04Z	
+1.2.2-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/mcp-openai/1.2.2-beta/mcp-openai-1.2.2-beta.jar returned status 404
+1.2.3-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/mcp-openai/1.2.3-beta/mcp-openai-1.2.3-beta.jar returned status 404
