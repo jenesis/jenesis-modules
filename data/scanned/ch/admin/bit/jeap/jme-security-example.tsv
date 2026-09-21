@@ -2,6 +2,12 @@
 1.0.1		2026-08-04T14:00:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/1.0.1/jme-security-example-1.0.1.jar returned status 404
 10.0.0		2026-09-13T23:26:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/10.0.0/jme-security-example-10.0.0.jar returned status 404
 10.1.0		2026-09-14T23:26:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/10.1.0/jme-security-example-10.1.0.jar returned status 404
+10.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/10.2.0/jme-security-example-10.2.0.jar returned status 404
+10.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/10.3.0/jme-security-example-10.3.0.jar returned status 404
+10.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/10.4.0/jme-security-example-10.4.0.jar returned status 404
+10.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/10.5.0/jme-security-example-10.5.0.jar returned status 404
+10.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/10.5.1/jme-security-example-10.5.1.jar returned status 404
+10.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/10.6.0/jme-security-example-10.6.0.jar returned status 404
 2.0.0		2026-08-07T06:01:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/2.0.0/jme-security-example-2.0.0.jar returned status 404
 2.0.1		2026-08-07T23:30:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/2.0.1/jme-security-example-2.0.1.jar returned status 404
 2.1.0		2026-08-09T23:35:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-security-example/2.1.0/jme-security-example-2.1.0.jar returned status 404

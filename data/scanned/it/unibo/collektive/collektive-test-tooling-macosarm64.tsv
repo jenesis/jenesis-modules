@@ -748,3 +748,5 @@
 28.3.3-dev0w+30339d38	metadata	2026-09-10T02:47:58Z	
 28.3.3-dev0z+78c51955			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-macosarm64/28.3.3-dev0z+78c51955/collektive-test-tooling-macosarm64-28.3.3-dev0z+78c51955.jar returned status 404
 28.3.3-dev0z+78c51955	metadata	2026-09-10T19:29:33Z	
+28.3.3-dev14+0238d742			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-macosarm64/28.3.3-dev14+0238d742/collektive-test-tooling-macosarm64-28.3.3-dev14+0238d742.jar returned status 404
+28.3.3-dev17+5ce99daf			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-macosarm64/28.3.3-dev17+5ce99daf/collektive-test-tooling-macosarm64-28.3.3-dev17+5ce99daf.jar returned status 404
