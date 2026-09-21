@@ -1,2 +1,6 @@
 1.11.0		2026-08-23T03:25:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/mattmann/mnemosyne/cas-product/1.11.0/cas-product-1.11.0.jar returned status 404
 1.12.0		2026-09-15T02:31:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/mattmann/mnemosyne/cas-product/1.12.0/cas-product-1.12.0.jar returned status 404
+1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/mattmann/mnemosyne/cas-product/1.13.0/cas-product-1.13.0.jar returned status 404
+1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/mattmann/mnemosyne/cas-product/1.13.1/cas-product-1.13.1.jar returned status 404
+1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/mattmann/mnemosyne/cas-product/1.13.2/cas-product-1.13.2.jar returned status 404
+1.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/mattmann/mnemosyne/cas-product/1.13.3/cas-product-1.13.3.jar returned status 404

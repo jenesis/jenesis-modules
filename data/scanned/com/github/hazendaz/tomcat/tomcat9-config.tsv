@@ -16,6 +16,7 @@
 9.0.119		2026-06-23T21:25:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat9-config/9.0.119/tomcat9-config-9.0.119.jar returned status 404
 9.0.120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat9-config/9.0.120/tomcat9-config-9.0.120.jar returned status 404
 9.0.121			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat9-config/9.0.121/tomcat9-config-9.0.121.jar returned status 404
+9.0.122			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat9-config/9.0.122/tomcat9-config-9.0.122.jar returned status 404
 9.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat9-config/9.0.31/tomcat9-config-9.0.31.jar returned status 404
 9.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat9-config/9.0.33/tomcat9-config-9.0.33.jar returned status 404
 9.0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat9-config/9.0.34/tomcat9-config-9.0.34.jar returned status 404

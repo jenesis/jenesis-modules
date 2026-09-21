@@ -182,6 +182,7 @@
 4.14.7-experimental.vp.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.14.7-experimental.vp.1/ditto-cpp-4.14.7-experimental.vp.1.jar returned status 404
 4.14.7-preview.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.14.7-preview.1/ditto-cpp-4.14.7-preview.1.jar returned status 404
 4.14.7-preview.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.14.7-preview.2/ditto-cpp-4.14.7-preview.2.jar returned status 404
+4.14.7-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.14.7-rc.1/ditto-cpp-4.14.7-rc.1.jar returned status 404
 4.15.0-experimental-b6835ba.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.15.0-experimental-b6835ba.0/ditto-cpp-4.15.0-experimental-b6835ba.0.jar returned status 404
 4.15.0-experimental-kotlin17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.15.0-experimental-kotlin17.1/ditto-cpp-4.15.0-experimental-kotlin17.1.jar returned status 404
 4.15.0-experimental-rkyv-20251215-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/live/ditto/ditto-cpp/4.15.0-experimental-rkyv-20251215-1/ditto-cpp-4.15.0-experimental-rkyv-20251215-1.jar returned status 404

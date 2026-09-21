@@ -30,6 +30,7 @@
 11.0.23		2026-06-23T21:47:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat11-config/11.0.23/tomcat11-config-11.0.23.jar returned status 404
 11.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat11-config/11.0.24/tomcat11-config-11.0.24.jar returned status 404
 11.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat11-config/11.0.25/tomcat11-config-11.0.25.jar returned status 404
+11.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat11-config/11.0.26/tomcat11-config-11.0.26.jar returned status 404
 11.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat11-config/11.0.3/tomcat11-config-11.0.3.jar returned status 404
 11.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat11-config/11.0.4/tomcat11-config-11.0.4.jar returned status 404
 11.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/hazendaz/tomcat/tomcat11-config/11.0.5/tomcat11-config-11.0.5.jar returned status 404

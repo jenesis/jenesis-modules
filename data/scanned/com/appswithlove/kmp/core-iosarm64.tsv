@@ -2,3 +2,4 @@
 0.2.0	metadata	2026-09-09T14:00:53Z	
 0.3.0		2026-09-14T14:22:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appswithlove/kmp/core-iosarm64/0.3.0/core-iosarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2026-09-14T14:22:02Z	
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appswithlove/kmp/core-iosarm64/0.4.0/core-iosarm64-0.4.0.jar returned status 404

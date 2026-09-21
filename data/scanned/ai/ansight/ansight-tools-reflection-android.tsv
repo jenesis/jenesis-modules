@@ -22,3 +22,4 @@
 1.4.0-preview.3		2026-08-25T01:33:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ansight/ansight-tools-reflection-android/1.4.0-preview.3/ansight-tools-reflection-android-1.4.0-preview.3.jar returned status 404
 1.4.0-preview.5		2026-08-26T07:17:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ansight/ansight-tools-reflection-android/1.4.0-preview.5/ansight-tools-reflection-android-1.4.0-preview.5.jar returned status 404
 1.5.0		2026-09-14T23:43:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ansight/ansight-tools-reflection-android/1.5.0/ansight-tools-reflection-android-1.5.0.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/ansight/ansight-tools-reflection-android/1.6.0/ansight-tools-reflection-android-1.6.0.jar returned status 404
