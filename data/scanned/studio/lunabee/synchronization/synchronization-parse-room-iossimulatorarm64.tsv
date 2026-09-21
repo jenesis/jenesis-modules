@@ -14,3 +14,4 @@
 2.0.0-rc02	metadata	2026-07-29T12:29:44Z	
 2.0.0-rc03		2026-08-20T11:38:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/synchronization/synchronization-parse-room-iossimulatorarm64/2.0.0-rc03/synchronization-parse-room-iossimulatorarm64-2.0.0-rc03.jar returned status 404
 2.0.0-rc03	metadata	2026-08-20T11:38:14Z	
+2.1.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/synchronization/synchronization-parse-room-iossimulatorarm64/2.1.0-alpha01/synchronization-parse-room-iossimulatorarm64-2.1.0-alpha01.jar returned status 404
