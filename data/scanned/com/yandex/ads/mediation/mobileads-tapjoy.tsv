@@ -41,3 +41,4 @@
 14.3.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/ads/mediation/mobileads-tapjoy/14.3.1.9/mobileads-tapjoy-14.3.1.9.jar returned status 404
 14.3.1.9-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/ads/mediation/mobileads-tapjoy/14.3.1.9-beta.1/mobileads-tapjoy-14.3.1.9-beta.1.jar returned status 404
 14.3.1.9-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/ads/mediation/mobileads-tapjoy/14.3.1.9-beta.2/mobileads-tapjoy-14.3.1.9-beta.2.jar returned status 404
+14.8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/ads/mediation/mobileads-tapjoy/14.8.0.0/mobileads-tapjoy-14.8.0.0.jar returned status 404

@@ -21,7 +21,13 @@
 0.5.7		2026-08-24T11:37:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.5.7/lattice-bom-0.5.7.jar returned status 404
 0.6.0		2026-08-25T22:07:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.0/lattice-bom-0.6.0.jar returned status 404
 0.6.1		2026-08-26T04:23:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.1/lattice-bom-0.6.1.jar returned status 404
+0.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.10/lattice-bom-0.6.10.jar returned status 404
 0.6.2		2026-08-26T05:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.2/lattice-bom-0.6.2.jar returned status 404
 0.6.3		2026-08-27T10:37:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.3/lattice-bom-0.6.3.jar returned status 404
 0.6.4		2026-08-27T12:53:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.4/lattice-bom-0.6.4.jar returned status 404
 0.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.5/lattice-bom-0.6.5.jar returned status 404
+0.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.6/lattice-bom-0.6.6.jar returned status 404
+0.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.7/lattice-bom-0.6.7.jar returned status 404
+0.6.7-cf-fixes			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.7-cf-fixes/lattice-bom-0.6.7-cf-fixes.jar returned status 404
+0.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.8/lattice-bom-0.6.8.jar returned status 404
+0.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipkart/krystal/lattice-bom/0.6.9/lattice-bom-0.6.9.jar returned status 404

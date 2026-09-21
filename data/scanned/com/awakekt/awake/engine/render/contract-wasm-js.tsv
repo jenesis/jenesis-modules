@@ -1,2 +1,3 @@
 0.1.0-alpha.1		2026-09-12T11:21:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/render/contract-wasm-js/0.1.0-alpha.1/contract-wasm-js-0.1.0-alpha.1.jar returned status 404
 0.1.0-alpha.2		2026-09-14T14:22:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/render/contract-wasm-js/0.1.0-alpha.2/contract-wasm-js-0.1.0-alpha.2.jar returned status 404
+0.1.0-alpha.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/render/contract-wasm-js/0.1.0-alpha.4/contract-wasm-js-0.1.0-alpha.4.jar returned status 404
