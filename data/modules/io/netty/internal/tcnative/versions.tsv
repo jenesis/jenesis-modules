@@ -899,6 +899,10 @@
 46.0.0	named	com.google.api-ads	google-ads-shadowjar	2026-09-10T14:51:11Z	2.0.75.Final
 2.4.0	named	com.scalekit	scalekit-sdk-java	2026-09-11T12:43:16Z	2.0.72.Final
 1.39.0	named	io.temporal	temporal-shaded	2026-09-14T22:13:22Z	2.0.72.Final
+4.143.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-15T04:08:17Z	2.0.72.Final
 0.23.0	named	com.spotify.confidence	openfeature-provider-local	2026-09-15T12:07:55Z	2.0.72.Final
+4.146.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-18T09:21:28Z	2.0.72.Final
 4.1.13	named	com.instaclustr	esop-azure	2026-09-18T12:42:19Z	2.0.73.Final
 4.1.13	named	com.instaclustr	esop-gcp	2026-09-18T12:42:19Z	2.0.70.Final
+4.147.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-18T20:46:24Z	2.0.72.Final
+4.143.3	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-19T12:01:25Z	2.0.72.Final
