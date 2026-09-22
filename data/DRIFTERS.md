@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-21. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-22. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -192,7 +192,7 @@ com.google.common.util.concurrent.internal  [explicit rule: owned by `com.google
 com.sun.xml.txw2  [explicit rule: owned by `org.glassfish.jaxb`; 9 other group(s) rejected]
   A * org.glassfish.jaxb                   2018-07..2026-05 4.0.9                |...================.|
   ?   ch.exense.step                       2026-08..2026-08 3.30.3               |...................=|
-  R   org.uma.jmetal                       2025-12..2026-07 7.5                  |..................==|
+  R   org.uma.jmetal                       2025-12..2026-07 7.5                  |.................===|
   R   io.github.jeff-tian                  2026-02..2026-02 2.4.1                |..................=.|
   R   ai.starlake                          2022-04..2025-05 1.3.5                |..........=======...|
   R   com.jordansamhi                      2024-08..2024-08 1.1.8                |...............=....|
@@ -817,7 +817,7 @@ org.apache.commons.compress  [fork: keep `org.apache.commons`, `com.io7m.montarr
 io.netty.buffer  [fork: keep `io.netty`, `top.shouldbe` still publishes the name]
   A * io.netty                             2017-12..2026-09 4.1.138.Final        |..==================|
   ?   top.shouldbe                         2026-07..2026-09 2.4.3-RELEASE        |...................=|
-  R   net.neoforged.jst                    2025-12..2026-09 2.0.11               |..................==|
+  R   net.neoforged.jst                    2025-12..2026-09 2.0.11               |.................===|
   R   org.opendaylight.bgpcep              2025-07..2026-08 1.0.3                |.................===|
   R   org.opendaylight.netconf             2025-07..2026-08 10.0.5               |.................===|
   R   org.opendaylight.controller          2025-07..2026-08 12.0.8               |.................===|
@@ -825,7 +825,7 @@ io.netty.buffer  [fork: keep `io.netty`, `top.shouldbe` still publishes the name
 com.github.librepdf.openpdf  [fork: keep `com.github.librepdf`, `com.guicedee.modules.services` still publishes the name]
   A * com.github.librepdf                  2018-09..2026-05 3.0.5                |...================.|
   R   com.guicedee.modules.services        2026-04..2026-09 2.2.3                |..................==|
-  ?   io.github.icarius4iu                 2026-06..2026-06 0.1.0                |...................=|
+  ?   io.github.icarius4iu                 2026-06..2026-06 0.1.0                |..................=.|
   R   net.ioze                             2026-01..2026-01 1.0.9                |..................=.|
   R   org.computate                        2023-11..2024-02 2.0.2                |.............==.....|
   R   io.github.darkxanter                 2023-10..2023-10 1.3.31               |.............=......|
@@ -1142,7 +1142,7 @@ org.bytedeco.javacpp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still pu
   A * org.bytedeco                         2019-04..2026-08 1.5.14               |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 1.5.14-GA-1.0        |...................=|
   R   us.ihmc                              2023-06..2025-01 1.5.11-ihmc-2        |............=====...|
-  R   ai.polus.utils                       2024-06..2024-06 2.0.7                |...............=....|
+  R   ai.polus.utils                       2024-06..2024-06 2.0.7                |..............=.....|
   R   com.github.vinhkhuc                  2023-05..2023-05 0.5                  |............=.......|
   R   com.alibaba.alink                    2021-10..2022-10 0.2.0-0.6            |.........===........|
     + 5 more: cn.langpy, org.flinkextended, org.deeplearning4j, org.nd4j, io.github.carschno
@@ -1792,7 +1792,7 @@ org.mavai.punit.examples  [owned by `org.mavai`; 1 other group(s) shade the name
   ?   org.javai                            2026-05..2026-05 0.6.99               |..................=.|
 org.eclipse.jgit.pgm  [owned by `org.eclipse.jgit`; 1 other group(s) shade the name]
   ? * org.eclipse.jgit                     2017-12..2026-09 7.8.0.202609011348-r |..==================|
-  ?   org.openl.jgit                       2022-01..2023-12 6.8.0.202311291450-openl |..........=====.....|
+  ?   org.openl.jgit                       2022-01..2023-12 6.8.0.202311291450-openl |..........====......|
 org.tinylog.api.slf4j  [owned by `org.tinylog`; 1 other group(s) shade the name]
   ? * org.tinylog                          2019-07..2026-09 2.8.0                |.....===============|
   ?   io.github.ynverxe                    2025-05..2025-05 1.0.0-indev          |................=...|
@@ -1865,11 +1865,11 @@ org.htmlunit  [owned by `org.htmlunit`; 1 other group(s) shade the name]
   ?   com.nordstrom.ui-tools               2026-07..2026-07 4.46.0               |...................=|
 org.htmlunit.websocket.client  [owned by `org.htmlunit`; 1 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-08 5.5.0                |..................==|
-  ?   org.wetator                          2026-06..2026-06 5.2.0                |...................=|
+  ?   org.wetator                          2026-06..2026-06 5.2.0                |..................=.|
 org.htmlunit.cyberneko  [owned by `org.htmlunit`; 2 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-08 5.5.0                |..................==|
   ?   com.nordstrom.ui-tools               2026-07..2026-07 4.45.0               |...................=|
-  ?   org.seleniumhq.selenium              2026-06..2026-06 4.45.0               |...................=|
+  ?   org.seleniumhq.selenium              2026-06..2026-06 4.45.0               |..................=.|
 com.clickhouse.jdbc  [owned by `com.clickhouse`; 4 other group(s) shade the name]
   A * com.clickhouse                       2021-12..2026-08 0.9.9                |..........==========|
   ?   io.github.tridog                     2026-07..2026-07 0.7.3-2              |...................=|
@@ -2755,7 +2755,7 @@ jakarta.security.auth.message  [no clear owner; `jakarta.authentication` is earl
 com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most recent]
   ? * com.fasterxml.woodstox               2018-03..2026-08 7.2.2                |..==================|
   ?   com.twilio.sdk                       2026-08..2026-09 13.0.1               |...................=|
-  ?   org.uma.jmetal                       2025-12..2026-07 7.5                  |..................==|
+  ?   org.uma.jmetal                       2025-12..2026-07 7.5                  |.................===|
   ?   org.apache.bigtop.itest              2026-07..2026-07 3.6.0                |...................=|
   ?   org.bidib.jbidib                     2021-12..2026-05 2.0.44               |..........=========.|
   ?   gov.nih.ncats                        2022-01..2026-03 1.0.26               |..........=========.|
