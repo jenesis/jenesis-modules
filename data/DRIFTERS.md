@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-22. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-23. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -585,7 +585,7 @@ com.formdev.flatlaf  [fork: keep `com.formdev`, `eu.rekawek.coffeegb` still publ
   ?   eu.rekawek.coffeegb                  2026-08..2026-09 2.1.6                |...................=|
   R   dev.robocode.tankroyale              2026-05..2026-09 1.3.1                |..................==|
   ?   org.graphper                         2026-08..2026-09 1.5.5                |...................=|
-  R   ca.corbett                           2025-05..2026-06 3.0.0                |................====|
+  R   ca.corbett                           2025-05..2026-06 3.0.0                |................===.|
   R   de.florianreuth                      2026-02..2026-02 2.2.0                |..................=.|
     + 4 more: de.florianmichael, com.suckatcoding, io.github.harvardpl, com.github.sundev79.MineBootFramework
 org.apache.commons.text  [fork: keep `org.apache.commons`, `io.github.liquid-java` still publishes the name]
@@ -883,7 +883,7 @@ org.apache.commons.collections4  [fork: keep `org.apache.commons`, `com.guicedee
   A * org.apache.commons                   2018-07..2026-08 4.6.0                |...=================|
   R   com.guicedee.modules.services        2026-04..2026-09 2.2.3                |..................==|
   ?   org.apache.directory.api             2026-05..2026-05 2.1.8                |..................=.|
-  R   io.github.qudtlib                    2024-12..2025-10 7.1.1                |................==..|
+  R   io.github.qudtlib                    2024-12..2025-10 7.1.1                |...............===..|
   R   de.jball                             2025-07..2025-07 0.9.0                |.................=..|
   R   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
     + 1 more: com.jwebmp.jpms.commons
