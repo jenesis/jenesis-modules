@@ -74,10 +74,10 @@ public final class Crawl {
         int tailSize = property(PROP_TAIL_SIZE).map(Integer::parseInt).orElse(base.tailSize());
         long checkpointEvery = property(PROP_CHECKPOINT_EVERY).map(Long::parseLong).orElse(base.checkpointEvery());
         long smallJarThreshold = property(PROP_SMALL_JAR_THRESHOLD).map(Long::parseLong).orElse(base.smallJarThreshold());
-        boolean resume = property(PROP_RESUME).map(value -> parseBoolean(value, PROP_RESUME)).orElse(base.resume());
-        boolean reprocessFailed = property(PROP_REPROCESS_FAILED).map(value -> parseBoolean(value, PROP_REPROCESS_FAILED)).orElse(base.reprocessFailed());
-        boolean allowRebaseline = property(PROP_ALLOW_REBASELINE).map(value -> parseBoolean(value, PROP_ALLOW_REBASELINE)).orElse(base.allowRebaseline());
-        boolean probeIncrementals = property(PROP_PROBE_INCREMENTALS).map(value -> parseBoolean(value, PROP_PROBE_INCREMENTALS)).orElse(base.probeIncrementals());
+        boolean resume = flag(PROP_RESUME, base.resume());
+        boolean reprocessFailed = flag(PROP_REPROCESS_FAILED, base.reprocessFailed());
+        boolean allowRebaseline = flag(PROP_ALLOW_REBASELINE, base.allowRebaseline());
+        boolean probeIncrementals = flag(PROP_PROBE_INCREMENTALS, base.probeIncrementals());
         URI canonicalTimestampBase = property(PROP_CANONICAL_TIMESTAMP_URI)
                 .map(URI::create)
                 .orElse(base.canonicalTimestampBaseUri());
@@ -89,17 +89,22 @@ public final class Crawl {
         return value == null || value.isBlank() ? Optional.empty() : Optional.of(value.trim());
     }
 
-    static boolean parseBoolean(String value, String source) {
-        return switch (value.toLowerCase(Locale.ROOT)) {
-            case "true", "1", "yes" -> true;
-            case "false", "0", "no" -> false;
-            default -> throw new IllegalArgumentException("Expected true/false for " + source + ", got: " + value);
+    public static boolean flag(String name, boolean defaultValue) {
+        String value = System.getProperty(name);
+        if (value == null) {
+            return defaultValue;
+        }
+        return switch (value.trim().toLowerCase(Locale.ROOT)) {
+            case "", "true" -> true;
+            case "false" -> false;
+            default -> throw new IllegalArgumentException("Malformed value for " + name + ": '" + value
+                    + "' (expected true, false, or the setting named with no value at all)");
         };
     }
 
     private static void configureListener(Crawler crawler, Crawler.Configuration configuration) {
         CheckpointListener listener = new StatusWriter(configuration.dataDir().resolve("STATUS.md"));
-        boolean publish = property(PROP_GIT_PUBLISH).map(value -> parseBoolean(value, PROP_GIT_PUBLISH)).orElse(false);
+        boolean publish = flag(PROP_GIT_PUBLISH, false);
         if (publish) {
             Path workingDirectory = property(PROP_GIT_WORK_DIR).map(Path::of).orElse(Path.of("."));
             int pushEvery = property(PROP_GIT_PUSH_EVERY).map(Integer::parseInt).orElse(GitPublisher.DEFAULT_PUSH_EVERY);

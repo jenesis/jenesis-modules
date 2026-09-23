@@ -291,7 +291,7 @@ public final class TopModules {
             throw new IllegalArgumentException("Concurrency must be >= 1, got: " + releasesConcurrency);
         }
 
-        if (booleanProperty(PROP_BLEEDING)) {
+        if (Crawl.flag(PROP_BLEEDING, false)) {
             // Bleeding edge: take the most recent list we have, but don't crop the data to that
             // year - assess those artifacts against the current state (cutoff = the index
             // timestamp), so the table reflects their latest versions and recent activity rather
@@ -357,18 +357,6 @@ public final class TopModules {
                     publishing.getOrDefault(target.groupId(), GroupPublishing.NONE)));
         }
         return rows;
-    }
-
-    private static boolean booleanProperty(String name) {
-        String value = System.getProperty(name);
-        if (value == null || value.isBlank()) {
-            return false;
-        }
-        return switch (value.trim().toLowerCase(Locale.ROOT)) {
-            case "true", "1", "yes" -> true;
-            case "false", "0", "no" -> false;
-            default -> throw new IllegalArgumentException("Expected true/false for " + name + ", got: " + value);
-        };
     }
 
     private static List<Artifact> readTargets(Path topFile) throws IOException {
