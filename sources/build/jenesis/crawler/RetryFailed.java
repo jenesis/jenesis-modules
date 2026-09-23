@@ -118,7 +118,7 @@ public final class RetryFailed {
 
     private static void configureListener(Crawler crawler, Crawler.Configuration configuration) {
         CheckpointListener listener = new StatusWriter(configuration.dataDir().resolve("STATUS.md"));
-        boolean publish = property(PROP_GIT_PUBLISH).map(value -> parseBoolean(value, PROP_GIT_PUBLISH)).orElse(false);
+        boolean publish = Crawl.flag(PROP_GIT_PUBLISH, false);
         if (publish) {
             Path workingDirectory = property(PROP_GIT_WORK_DIR).map(Path::of).orElse(Path.of("."));
             int pushEvery = property(PROP_GIT_PUSH_EVERY).map(Integer::parseInt).orElse(GitPublisher.DEFAULT_PUSH_EVERY);
@@ -134,14 +134,6 @@ public final class RetryFailed {
     private static Optional<String> property(String name) {
         String value = System.getProperty(name);
         return value == null || value.isBlank() ? Optional.empty() : Optional.of(value.trim());
-    }
-
-    private static boolean parseBoolean(String value, String source) {
-        return switch (value.toLowerCase(Locale.ROOT)) {
-            case "true", "1", "yes" -> true;
-            case "false", "0", "no" -> false;
-            default -> throw new IllegalArgumentException("Expected true/false for " + source + ", got: " + value);
-        };
     }
 
     private static void printUsage() {

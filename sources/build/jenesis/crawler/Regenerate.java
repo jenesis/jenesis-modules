@@ -37,7 +37,7 @@ public final class Regenerate {
                 ? Path.of(DEFAULT_DATA_DIR)
                 : Path.of(configuredDataDir.trim());
         Scope scope = parseScope(System.getProperty(PROP_SCOPE));
-        boolean dryRun = booleanProperty(PROP_DRY_RUN, false);
+        boolean dryRun = Crawl.flag(PROP_DRY_RUN, false);
         Path modulesRoot = dataDir.resolve("modules");
         if (!Files.isDirectory(modulesRoot)) {
             throw new IOException("No modules directory at " + modulesRoot);
@@ -91,18 +91,6 @@ public final class Regenerate {
             case "modules", "module" -> Scope.MODULES;
             default -> throw new IllegalArgumentException(
                     "Expected " + PROP_SCOPE + "=both|artifacts|modules, got: " + raw);
-        };
-    }
-
-    private static boolean booleanProperty(String name, boolean defaultValue) {
-        String value = System.getProperty(name);
-        if (value == null || value.isBlank()) {
-            return defaultValue;
-        }
-        return switch (value.trim().toLowerCase(Locale.ROOT)) {
-            case "true", "1", "yes" -> true;
-            case "false", "0", "no" -> false;
-            default -> throw new IllegalArgumentException("Expected true/false for " + name + ", got: " + value);
         };
     }
 

@@ -32,9 +32,9 @@ public final class ListOwners {
         Path dataDir = configuredDataDir == null || configuredDataDir.isBlank()
                 ? Path.of(DEFAULT_DATA_DIR)
                 : Path.of(configuredDataDir.trim());
-        boolean groupOnly = booleanProperty(PROP_GROUP_ONLY, true);
-        boolean onlyMissingOwners = booleanProperty(PROP_ONLY_MISSING_OWNERS, false);
-        boolean onlyAmbiguous = booleanProperty(PROP_ONLY_AMBIGUOUS, false);
+        boolean groupOnly = Crawl.flag(PROP_GROUP_ONLY, true);
+        boolean onlyMissingOwners = Crawl.flag(PROP_ONLY_MISSING_OWNERS, false);
+        boolean onlyAmbiguous = Crawl.flag(PROP_ONLY_AMBIGUOUS, false);
         Path modulesRoot = dataDir.resolve("modules");
         if (!Files.isDirectory(modulesRoot)) {
             throw new IOException("No modules directory at " + modulesRoot);
@@ -68,18 +68,6 @@ public final class ListOwners {
         }
         emit(ownersByModule);
         System.err.println(ownersByModule.size() + " module(s) listed.");
-    }
-
-    private static boolean booleanProperty(String name, boolean defaultValue) {
-        String value = System.getProperty(name);
-        if (value == null || value.isBlank()) {
-            return defaultValue;
-        }
-        return switch (value.trim().toLowerCase(Locale.ROOT)) {
-            case "true", "1", "yes" -> true;
-            case "false", "0", "no" -> false;
-            default -> throw new IllegalArgumentException("Expected true/false for " + name + ", got: " + value);
-        };
     }
 
     private static String dottedName(Path relative) {
