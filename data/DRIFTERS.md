@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-23. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-24. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -48,7 +48,7 @@ com.google.gson  [explicit rule: owned by `com.google.code.gson`; 543 other grou
   A * com.google.code.gson                 2019-10..2026-04 2.14.0               |.....==============.|
   ?   dev.frontseat.maven.extensions       2026-07..2026-09 0.41.1               |...................=|
   R   org.biojava                          2021-10..2026-09 7.3.0                |.........===========|
-  R   org.operaton.bpm                     2025-12..2026-09 2.2.0-RC1            |..................==|
+  R   org.operaton.bpm                     2025-12..2026-09 2.2.0-RC1            |.................===|
   R   io.github.lambdatest                 2024-10..2026-09 1.0.24-beta.2        |...............=====|
   R   io.quarkus                           2024-07..2026-09 3.40.0.CR1           |...............=====|
     + 538 more: org.eximeebpms.bpm, com.aliyun, org.sonarsource.sonarlint.ls, org.sonarsource.sonarlint.core, com.cyberark.conjur.api, org.sonarsource.java, com.ascentstream.pulsar, io.github.lucientong, org.sonarsource.dotnet, im.dart.boot, io.github.piscescup, io.github.jpostman, (+526 more)
@@ -143,7 +143,7 @@ kotlin.stdlib.jdk7  [explicit rule: owned by `org.jetbrains.kotlin`; 23 other gr
   ?   net.maizegenetics                    2026-08..2026-08 5.2.98               |...................=|
   ?   io.github.zawarka03                  2026-07..2026-07 0.1.1                |...................=|
   ?   me.bechberger                        2026-06..2026-06 0.0.8                |..................==|
-  R   com.kroegerama.openapi-kgen          2023-12..2026-06 0.18.2               |..............======|
+  R   com.kroegerama.openapi-kgen          2023-12..2026-06 0.18.2               |..............=====.|
     + 18 more: org.octopusden.octopus.jira, io.github.team-sneakymouse, com.seanshubin.code.structure, me.xcue, org.partiql, io.github.wadoon.key, org.btmonier, com.slothiesmooth, com.slothiesmooth.links-detektor, hu.bme.mit.theta, com.github.shynixn.mccoroutine, dev.nelmin.spigot, (+6 more)
 scala.library  [explicit rule: owned by `org.scala-lang`; 3 other group(s) rejected]
   A * org.scala-lang                       2018-03..2026-09 3.10.0-RC2           |..==================|
@@ -687,7 +687,7 @@ org.slf4j  [fork: keep `org.slf4j`, `com.github.toolarium` still publishes the n
 info.picocli  [fork: keep `info.picocli`, `com.instaclustr` still publishes the name]
   A * info.picocli                         2017-10..2025-04 4.7.7                |.================...|
   R   com.instaclustr                      2020-01..2026-09 4.1.13               |......==============|
-  R   org.keycloak                         2024-06..2026-09 26.7.4               |...............=====|
+  R   org.keycloak                         2024-06..2026-09 26.7.4               |..............======|
   R   com.fathzer                          2023-04..2026-09 1.0.1                |............========|
   ?   com.julien-dubois.bootui             2026-09..2026-09 1.17.0               |...................=|
   R   com.helger                           2020-03..2026-09 1.1.0                |......==============|
@@ -1859,7 +1859,7 @@ org.eclipse.jetty.compression.gzip  [owned by `org.eclipse.jetty.compression`; 1
   ?   ch.exense.step                       2026-08..2026-08 3.30.3               |...................=|
 de.agilecoders.wicket.webjars  [owned by `de.agilecoders.wicket.webjars`; 1 other group(s) shade the name]
   ? * de.agilecoders.wicket.webjars        2023-10..2026-09 4.0.15               |.............=======|
-  ?   io.github.arieslab                   2026-06..2026-06 2.4.2                |...................=|
+  ?   io.github.arieslab                   2026-06..2026-06 2.4.2                |..................=.|
 org.htmlunit  [owned by `org.htmlunit`; 1 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-08 5.5.0                |..................==|
   ?   com.nordstrom.ui-tools               2026-07..2026-07 4.46.0               |...................=|
@@ -2099,7 +2099,7 @@ roaringbitmap  [owned by `org.roaringbitmap` (groupId minus TLD is the module pr
 r2dbc.postgresql  [owned by `io.r2dbc` (groupId minus TLD is the module prefix); 3 other group(s) shade the name]
   A * io.r2dbc                             2019-11..2022-09 0.8.13.RELEASE       |......======........|
   ?   com.aliyun                           2026-08..2026-08 1.2.1                |...................=|
-  R   org.postgresql                       2021-02..2026-06 1.1.2.RELEASE        |........============|
+  R   org.postgresql                       2021-02..2026-06 1.1.2.RELEASE        |........===========.|
   R   com.yugabyte                         2023-12..2026-04 1.1.0-yb-2           |..............=====.|
 osgi.core  [owned by `org.osgi` (groupId minus TLD is the module prefix); 2 other group(s) shade the name]
   ? * org.osgi                             2020-12..2020-12 8.0.0                |........=...........|
