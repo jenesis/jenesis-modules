@@ -97,5 +97,6 @@
 1.1.2-beta.243			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-internal-video/1.1.2-beta.243/sdk-internal-video-1.1.2-beta.243.jar returned status 404
 1.1.2-beta.293			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-internal-video/1.1.2-beta.293/sdk-internal-video-1.1.2-beta.293.jar returned status 404
 1.1.2-beta.294			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-internal-video/1.1.2-beta.294/sdk-internal-video-1.1.2-beta.294.jar returned status 404
+1.1.2-beta.297		2026-09-22T02:02:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-internal-video/1.1.2-beta.297/sdk-internal-video-1.1.2-beta.297.jar returned status 404
 1.1.2-rc.242			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-internal-video/1.1.2-rc.242/sdk-internal-video-1.1.2-rc.242.jar returned status 404
 1.1.3-beta.296			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-internal-video/1.1.3-beta.296/sdk-internal-video-1.1.3-beta.296.jar returned status 404

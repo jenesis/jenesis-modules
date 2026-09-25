@@ -49,5 +49,6 @@
 3.1.7-yuanbao.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.7-yuanbao.1/mapcraft-ai-sdk-3.1.7-yuanbao.1.jar returned status 404
 3.1.7-yuanbao.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.7-yuanbao.2/mapcraft-ai-sdk-3.1.7-yuanbao.2.jar returned status 404
 3.1.7-yuanbao.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.7-yuanbao.3/mapcraft-ai-sdk-3.1.7-yuanbao.3.jar returned status 404
+3.1.7-yuanbao.4		2026-09-21T06:56:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.7-yuanbao.4/mapcraft-ai-sdk-3.1.7-yuanbao.4.jar returned status 404
 3.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.8/mapcraft-ai-sdk-3.1.8.jar returned status 404
 3.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.9/mapcraft-ai-sdk-3.1.9.jar returned status 404

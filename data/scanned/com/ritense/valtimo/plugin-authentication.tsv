@@ -187,6 +187,7 @@
 12.44.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/12.44.0.RELEASE/plugin-authentication-12.44.0.RELEASE.jar returned status 404
 12.44.0.RELEASE	plain	2026-09-02T12:07:08Z	
 12.45.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/12.45.0.RELEASE/plugin-authentication-12.45.0.RELEASE.jar returned status 404
+12.45.0.RELEASE	plain	2026-09-16T13:39:56Z	
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/12.5.0.RELEASE/plugin-authentication-12.5.0.RELEASE.jar returned status 404
 12.5.0.RELEASE	plain	2024-11-22T16:00:47Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/12.5.1.RELEASE/plugin-authentication-12.5.1.RELEASE.jar returned status 404
@@ -308,6 +309,7 @@
 13.40.0.RELEASE		2026-08-05T09:15:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/13.40.0.RELEASE/plugin-authentication-13.40.0.RELEASE.jar returned status 404
 13.40.0.RELEASE	plain	2026-08-05T09:15:20Z	
 13.40.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/13.40.1.RELEASE/plugin-authentication-13.40.1.RELEASE.jar returned status 404
+13.40.1.RELEASE	plain	2026-09-17T16:42:45Z	
 13.41.0-1		2026-08-17T12:06:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/13.41.0-1/plugin-authentication-13.41.0-1.jar returned status 404
 13.41.0-1	plain	2026-08-17T12:06:28Z	
 13.41.0-10		2026-08-26T15:42:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/13.41.0-10/plugin-authentication-13.41.0-10.jar returned status 404
@@ -349,7 +351,9 @@
 13.45.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/13.45.0.RELEASE/plugin-authentication-13.45.0.RELEASE.jar returned status 404
 13.45.0.RELEASE	plain	2026-09-09T08:59:16Z	
 13.45.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/13.45.1.RELEASE/plugin-authentication-13.45.1.RELEASE.jar returned status 404
+13.45.1.RELEASE	plain	2026-09-15T11:17:37Z	
 13.46.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/13.46.0.RELEASE/plugin-authentication-13.46.0.RELEASE.jar returned status 404
+13.46.0.RELEASE	plain	2026-09-16T13:39:56Z	
 13.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/13.5.0.RELEASE/plugin-authentication-13.5.0.RELEASE.jar returned status 404
 13.5.0.RELEASE	plain	2025-11-05T10:13:58Z	
 13.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/plugin-authentication/13.5.1.RELEASE/plugin-authentication-13.5.1.RELEASE.jar returned status 404

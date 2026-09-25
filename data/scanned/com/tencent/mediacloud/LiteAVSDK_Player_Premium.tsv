@@ -34,3 +34,4 @@
 12.8.1.29017		2026-06-26T11:20:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/mediacloud/LiteAVSDK_Player_Premium/12.8.1.29017/LiteAVSDK_Player_Premium-12.8.1.29017.jar returned status 404
 12.8.1.29018			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/mediacloud/LiteAVSDK_Player_Premium/12.8.1.29018/LiteAVSDK_Player_Premium-12.8.1.29018.jar returned status 404
 12.8.1.29022			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/mediacloud/LiteAVSDK_Player_Premium/12.8.1.29022/LiteAVSDK_Player_Premium-12.8.1.29022.jar returned status 404
+12.8.1.29023		2026-09-22T02:56:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/mediacloud/LiteAVSDK_Player_Premium/12.8.1.29023/LiteAVSDK_Player_Premium-12.8.1.29023.jar returned status 404

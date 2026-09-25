@@ -307,6 +307,7 @@
 24.9.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/24.9.24/flow-plugins-24.9.24.jar returned status 404
 24.9.25		2026-08-07T07:57:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/24.9.25/flow-plugins-24.9.25.jar returned status 404
 24.9.26		2026-08-14T13:17:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/24.9.26/flow-plugins-24.9.26.jar returned status 404
+24.9.27		2026-09-21T11:16:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/24.9.27/flow-plugins-24.9.27.jar returned status 404
 24.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/24.9.3/flow-plugins-24.9.3.jar returned status 404
 24.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/24.9.4/flow-plugins-24.9.4.jar returned status 404
 24.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/24.9.5/flow-plugins-24.9.5.jar returned status 404
@@ -377,6 +378,7 @@
 25.2.7		2026-08-14T13:16:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.2.7/flow-plugins-25.2.7.jar returned status 404
 25.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.2.8/flow-plugins-25.2.8.jar returned status 404
 25.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.2.9/flow-plugins-25.2.9.jar returned status 404
+25.3.0		2026-09-22T06:21:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.3.0/flow-plugins-25.3.0.jar returned status 404
 25.3.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.3.0-beta1/flow-plugins-25.3.0-beta1.jar returned status 404
 25.3.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.3.0-beta2/flow-plugins-25.3.0-beta2.jar returned status 404
 25.3.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-plugins/25.3.0-beta3/flow-plugins-25.3.0-beta3.jar returned status 404
