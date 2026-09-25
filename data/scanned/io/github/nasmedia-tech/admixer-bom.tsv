@@ -8,3 +8,4 @@
 2026.08.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-bom/2026.08.02/admixer-bom-2026.08.02.jar returned status 404
 2026.09.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-bom/2026.09.01/admixer-bom-2026.09.01.jar returned status 404
 2026.09.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-bom/2026.09.02/admixer-bom-2026.09.02.jar returned status 404
+2026.09.03		2026-09-21T05:51:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/admixer-bom/2026.09.03/admixer-bom-2026.09.03.jar returned status 404

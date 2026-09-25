@@ -1,0 +1,6 @@
+0.12.0		2026-09-13T09:45:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-ui-wasm-js/0.12.0/priv-ui-wasm-js-0.12.0.jar returned status 404
+0.12.1		2026-09-16T14:32:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-ui-wasm-js/0.12.1/priv-ui-wasm-js-0.12.1.jar returned status 404
+0.13.0		2026-09-18T07:41:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-ui-wasm-js/0.13.0/priv-ui-wasm-js-0.13.0.jar returned status 404
+0.14.0		2026-09-18T10:27:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-ui-wasm-js/0.14.0/priv-ui-wasm-js-0.14.0.jar returned status 404
+0.15.0		2026-09-19T03:46:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-ui-wasm-js/0.15.0/priv-ui-wasm-js-0.15.0.jar returned status 404
+0.16.0		2026-09-21T04:56:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-ui-wasm-js/0.16.0/priv-ui-wasm-js-0.16.0.jar returned status 404

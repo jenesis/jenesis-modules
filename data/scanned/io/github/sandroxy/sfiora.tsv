@@ -1,0 +1,2 @@
+1.1.0		2026-09-14T02:22:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sandroxy/sfiora/1.1.0/sfiora-1.1.0.jar returned status 404
+1.2.0		2026-09-17T06:26:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sandroxy/sfiora/1.2.0/sfiora-1.2.0.jar returned status 404
