@@ -204,6 +204,20 @@ test("module mode serves the detached signature beside the jar", async () => {
     );
 });
 
+test("module mode serves the Sigstore bundle beside the jar", async () => {
+    const response = await call("/module/org.slf4j/2.0.9/org.slf4j.jar.sigstore.json");
+    assert.equal(response.status, 302);
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar.sigstore.json",
+    );
+});
+
+test("module mode rejects a Sigstore bundle without the .json suffix", async () => {
+    const response = await call("/module/org.slf4j/2.0.9/org.slf4j.jar.sigstore");
+    assert.equal(response.status, 404);
+});
+
 test("module mode still rejects a sidecar it does not serve", async () => {
     const response = await call("/module/org.slf4j/2.0.9/org.slf4j.jar.sha256");
     assert.equal(response.status, 404);
@@ -215,6 +229,15 @@ test("sources mode signs the -sources jar, not the plain one", async () => {
     assert.equal(
         response.headers.get("Location"),
         "https://maven.test/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9-sources.jar.asc",
+    );
+});
+
+test("documentation mode bundles the -javadoc jar, not the plain one", async () => {
+    const response = await call("/documentation/org.slf4j/2.0.9/org.slf4j.jar.sigstore.json");
+    assert.equal(response.status, 302);
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9-javadoc.jar.sigstore.json",
     );
 });
 

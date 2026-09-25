@@ -28,14 +28,15 @@
  *    exactly one Maven coordinate - the oldest Maven publish wins, so the mapping is
  *    stable even though Maven doesn't enforce unique module versions. Filename is
  *    `<moduleName>.jar` or `<moduleName>-<classifier>.jar`; only `.jar`, optionally with a
- *    trailing `.asc` for the detached signature, is supported on this route.
+ *    trailing `.asc` for the detached OpenPGP signature or `.sigstore.json` for the Sigstore
+ *    bundle, is supported on this route.
  *
  *  - `/sources/<moduleName>/[<moduleVersion>/]<filename>.jar`
  *    `/documentation/<moduleName>/[<moduleVersion>/]<filename>.jar`
  *    Companion sources / javadoc JARs. The version segment is the **module-info version**;
  *    these routes resolve through `modules.tsv` and synthesise the `-sources` / `-javadoc`
- *    URL from the row's Maven coordinate. As on `/module/`, a trailing `.asc` fetches the
- *    detached signature instead of the jar.
+ *    URL from the row's Maven coordinate. As on `/module/`, a trailing `.asc` or
+ *    `.sigstore.json` fetches the signature instead of the jar.
  *
  * In every mode the version segment is optional - leaving it out picks the newest row that
  * is not a pre-release: the TSVs are sorted descending, so that is the first row whose
@@ -91,11 +92,11 @@ const STALE_WHILE_REVALIDATE = 86400;
 // `<moduleName>-<classifier>` basename at the first hyphen.
 const MODULE_SEGMENT = /^[A-Za-z_$][A-Za-z0-9_$]*$/;
 
-// Detached OpenPGP signature sidecar. Routes that constrain the request extension accept
-// their extension with this appended, so a signature can be fetched over the same route as
-// the artifact it signs. The redirect target gets the same suffix, and Maven Central serves
-// the `.asc` that the publisher uploaded beside the jar.
-const SIGNATURE_EXTENSION = ".asc";
+// Signature sidecars: the detached OpenPGP signature and the Sigstore bundle. Routes that
+// constrain the request extension accept their extension with one of these appended, so a
+// signature can be fetched over the same route as the artifact it signs. The redirect target
+// gets the same suffix, and Maven Central serves the file the publisher uploaded beside the jar.
+const SIGNATURE_EXTENSIONS = [".asc", ".sigstore.json"];
 
 // Opt-in request header: `true` widens an unversioned request to pre-releases. On a
 // response the same header states that the version served is one, so the two directions
@@ -352,7 +353,7 @@ function parsePath(pathname) {
     if (
         required !== null &&
         extension !== required &&
-        extension !== required + SIGNATURE_EXTENSION
+        !SIGNATURE_EXTENSIONS.some((signature) => extension === required + signature)
     ) {
         return null;
     }
