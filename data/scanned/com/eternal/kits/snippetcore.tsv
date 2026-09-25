@@ -8,6 +8,7 @@
 0.91.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcore/0.91.5/snippetcore-0.91.5.jar returned status 404
 0.91.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcore/0.91.6/snippetcore-0.91.6.jar returned status 404
 0.91.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcore/0.91.7/snippetcore-0.91.7.jar returned status 404
+0.91.8		2026-09-23T07:48:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcore/0.91.8/snippetcore-0.91.8.jar returned status 404
 3004			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcore/3004/snippetcore-3004.jar returned status 404
 3010			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcore/3010/snippetcore-3010.jar returned status 404
 9090			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcore/9090/snippetcore-9090.jar returned status 404

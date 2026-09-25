@@ -181,8 +181,11 @@
 4.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-tvosx64/4.18.0/socket-http3-tvosx64-4.18.0.jar returned status 404
 4.18.0	metadata	2026-09-11T19:29:26Z	
 4.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-tvosx64/4.19.0/socket-http3-tvosx64-4.19.0.jar returned status 404
+4.19.0	metadata	2026-09-20T00:37:07Z	
 4.2.0		2026-08-09T15:49:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-tvosx64/4.2.0/socket-http3-tvosx64-4.2.0.jar returned status 404
 4.2.0	metadata	2026-08-09T15:49:33Z	
+4.20.0		2026-09-23T03:01:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-tvosx64/4.20.0/socket-http3-tvosx64-4.20.0.jar returned status 404
+4.20.0	metadata	2026-09-23T03:01:11Z	
 4.3.0		2026-08-10T19:48:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-tvosx64/4.3.0/socket-http3-tvosx64-4.3.0.jar returned status 404
 4.3.0	metadata	2026-08-10T19:48:52Z	
 4.3.1		2026-08-11T06:09:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-http3-tvosx64/4.3.1/socket-http3-tvosx64-4.3.1.jar returned status 404

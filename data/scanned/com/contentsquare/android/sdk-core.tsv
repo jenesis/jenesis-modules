@@ -3,3 +3,4 @@
 0.2.1		2026-07-02T08:45:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/sdk-core/0.2.1/sdk-core-0.2.1.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/sdk-core/0.3.0/sdk-core-0.3.0.jar returned status 404
 0.3.1		2026-08-04T13:30:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/sdk-core/0.3.1/sdk-core-0.3.1.jar returned status 404
+0.3.2		2026-09-21T05:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/contentsquare/android/sdk-core/0.3.2/sdk-core-0.3.2.jar returned status 404

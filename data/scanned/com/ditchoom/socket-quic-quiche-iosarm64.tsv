@@ -149,8 +149,11 @@
 4.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-quiche-iosarm64/4.18.0/socket-quic-quiche-iosarm64-4.18.0.jar returned status 404
 4.18.0	metadata	2026-09-11T19:29:22Z	
 4.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-quiche-iosarm64/4.19.0/socket-quic-quiche-iosarm64-4.19.0.jar returned status 404
+4.19.0	metadata	2026-09-20T00:37:08Z	
 4.2.0		2026-08-09T15:49:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-quiche-iosarm64/4.2.0/socket-quic-quiche-iosarm64-4.2.0.jar returned status 404
 4.2.0	metadata	2026-08-09T15:49:33Z	
+4.20.0		2026-09-23T03:01:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-quiche-iosarm64/4.20.0/socket-quic-quiche-iosarm64-4.20.0.jar returned status 404
+4.20.0	metadata	2026-09-23T03:01:13Z	
 4.3.0		2026-08-10T19:48:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-quiche-iosarm64/4.3.0/socket-quic-quiche-iosarm64-4.3.0.jar returned status 404
 4.3.0	metadata	2026-08-10T19:48:54Z	
 4.3.1		2026-08-11T06:09:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/socket-quic-quiche-iosarm64/4.3.1/socket-quic-quiche-iosarm64-4.3.1.jar returned status 404

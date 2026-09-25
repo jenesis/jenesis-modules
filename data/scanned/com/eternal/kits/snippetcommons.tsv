@@ -8,6 +8,7 @@
 0.91.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcommons/0.91.5/snippetcommons-0.91.5.jar returned status 404
 0.91.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcommons/0.91.6/snippetcommons-0.91.6.jar returned status 404
 0.91.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcommons/0.91.7/snippetcommons-0.91.7.jar returned status 404
+0.91.8		2026-09-23T08:03:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcommons/0.91.8/snippetcommons-0.91.8.jar returned status 404
 3004			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcommons/3004/snippetcommons-3004.jar returned status 404
 3010			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcommons/3010/snippetcommons-3010.jar returned status 404
 9090			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/snippetcommons/9090/snippetcommons-9090.jar returned status 404
