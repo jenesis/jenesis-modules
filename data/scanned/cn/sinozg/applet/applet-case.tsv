@@ -30,3 +30,4 @@
 3.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/sinozg/applet/applet-case/3.2.7/applet-case-3.2.7.jar returned status 404
 3.2.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/sinozg/applet/applet-case/3.2.8/applet-case-3.2.8.jar returned status 404
 3.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/sinozg/applet/applet-case/3.2.9/applet-case-3.2.9.jar returned status 404
+3.3.0		2026-09-22T09:15:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/sinozg/applet/applet-case/3.3.0/applet-case-3.3.0.jar returned status 404
