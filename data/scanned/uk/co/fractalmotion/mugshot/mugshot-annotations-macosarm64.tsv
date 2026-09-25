@@ -1,0 +1,4 @@
+3.4.1		2026-09-13T18:18:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/co/fractalmotion/mugshot/mugshot-annotations-macosarm64/3.4.1/mugshot-annotations-macosarm64-3.4.1.jar returned status 404
+3.4.1	metadata	2026-09-13T18:18:25Z	
+3.4.2		2026-09-14T16:56:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/co/fractalmotion/mugshot/mugshot-annotations-macosarm64/3.4.2/mugshot-annotations-macosarm64-3.4.2.jar returned status 404
+3.4.2	metadata	2026-09-14T16:56:19Z	

@@ -1,0 +1,10 @@
+0.1.0		2026-09-10T21:05:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/nomercy/nomercy-music-player-kmp-iosarm64/0.1.0/nomercy-music-player-kmp-iosarm64-0.1.0.jar returned status 404
+0.1.0	metadata	2026-09-10T21:05:25Z	
+0.2.0		2026-09-11T09:27:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/nomercy/nomercy-music-player-kmp-iosarm64/0.2.0/nomercy-music-player-kmp-iosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-09-11T09:27:02Z	
+0.2.1		2026-09-13T16:15:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/nomercy/nomercy-music-player-kmp-iosarm64/0.2.1/nomercy-music-player-kmp-iosarm64-0.2.1.jar returned status 404
+0.2.1	metadata	2026-09-13T16:15:06Z	
+0.2.2		2026-09-14T02:02:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/nomercy/nomercy-music-player-kmp-iosarm64/0.2.2/nomercy-music-player-kmp-iosarm64-0.2.2.jar returned status 404
+0.2.2	metadata	2026-09-14T02:02:53Z	
+0.2.3		2026-09-14T15:24:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/nomercy/nomercy-music-player-kmp-iosarm64/0.2.3/nomercy-music-player-kmp-iosarm64-0.2.3.jar returned status 404
+0.2.3	metadata	2026-09-14T15:24:23Z	

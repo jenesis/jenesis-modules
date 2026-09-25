@@ -1,0 +1,6 @@
+0.1.0		2026-09-11T18:56:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/audio/audio-wav-macosarm64/0.1.0/audio-wav-macosarm64-0.1.0.jar returned status 404
+0.1.0	metadata	2026-09-11T18:56:45Z	
+0.2.0		2026-09-12T18:25:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/audio/audio-wav-macosarm64/0.2.0/audio-wav-macosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-09-12T18:25:20Z	
+0.2.1		2026-09-13T21:45:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/audio/audio-wav-macosarm64/0.2.1/audio-wav-macosarm64-0.2.1.jar returned status 404
+0.2.1	metadata	2026-09-13T21:45:40Z	
