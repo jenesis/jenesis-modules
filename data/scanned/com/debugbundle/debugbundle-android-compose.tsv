@@ -5,3 +5,4 @@
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/debugbundle/debugbundle-android-compose/1.2.0/debugbundle-android-compose-1.2.0.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/debugbundle/debugbundle-android-compose/1.3.0/debugbundle-android-compose-1.3.0.jar returned status 404
 1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/debugbundle/debugbundle-android-compose/1.3.1/debugbundle-android-compose-1.3.1.jar returned status 404
+2.0.0		2026-09-21T14:16:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/debugbundle/debugbundle-android-compose/2.0.0/debugbundle-android-compose-2.0.0.jar returned status 404

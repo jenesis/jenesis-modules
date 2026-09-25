@@ -251,3 +251,5 @@
 4.1.138.Final	automatic	io.netty	netty-buffer	2026-09-09T18:46:17Z	
 2.0.11	named	net.neoforged.jst	jst-cli-bundle	2026-09-10T16:29:21Z	4.2.0.RC2
 2.4.3-RELEASE	named	top.shouldbe	xinbot	2026-09-13T04:15:12Z	4.2.16.Final
+2.3.0-EXNESS-0.2	named	com.exness	flink-sql-jdbc-driver-bundle	2026-09-23T11:55:16Z	4.2.6.Final
+2.3.0-EXNESS-0.2.Final	named	com.exness	flink-sql-jdbc-driver-bundle	2026-09-23T14:31:02Z	4.2.6.Final
