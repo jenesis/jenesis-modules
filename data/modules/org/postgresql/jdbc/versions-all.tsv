@@ -20,3 +20,4 @@
 42.7.9	automatic	org.postgresql	postgresql	2026-01-15T18:09:22Z	
 42.7.11.1	automatic	com.enterprisedb	edb-pge-jdbc	2026-05-04T01:18:16Z	
 42.7.3-yb-5	automatic	com.yugabyte	jdbc-yugabytedb	2026-09-08T11:48:08Z	
+42.7.3-yb-6	automatic	com.yugabyte	jdbc-yugabytedb	2026-09-15T06:16:15Z	
