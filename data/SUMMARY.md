@@ -3,10 +3,10 @@
 > ### [Jenesis](https://jenesis.build) - a modern Java build tool
 > _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
-_Index timestamp: 2026-09-15 13:15:15 UTC_  
-_Current chunk started: 2026-09-21 10:12:14 UTC_  
+_Index timestamp: 2026-09-24 08:56:20 UTC_  
+_Current chunk started: 2026-09-25 04:49:14 UTC_  
 _Index chain id: `1318453614498`_  
-_Last applied index chunk: 938_  
+_Last applied index chunk: 939_  
 
 ## Top artifacts by year
 
@@ -20,29 +20,29 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 18 671 959 |
-| Non-module artifacts | 16 619 624 |
-| Modular artifacts | 1 700 855 |
-| Total automatic modules | 1 329 044 |
-| Total named modules | 371 811 |
-| Total named modules with module-info version | 282 255 |
-| Distinct Maven artifacts | 695 271 |
-| Distinct module names | 42 426 |
-| Distinct automatic modules | 22 478 |
-| Distinct named modules | 18 417 |
-| Distinct named modules with module-info version | 13 415 |
-| Distinct groupIds publishing modules | 5 493 |
-| Most recent tracked publication | 2026-09-20 21:14:37 UTC |
+| Total artifacts scanned | 18 707 988 |
+| Non-module artifacts | 16 653 434 |
+| Modular artifacts | 1 702 405 |
+| Total automatic modules | 1 329 572 |
+| Total named modules | 372 833 |
+| Total named modules with module-info version | 282 827 |
+| Distinct Maven artifacts | 698 789 |
+| Distinct module names | 42 641 |
+| Distinct automatic modules | 22 593 |
+| Distinct named modules | 18 515 |
+| Distinct named modules with module-info version | 13 483 |
+| Distinct groupIds publishing modules | 5 544 |
+| Most recent tracked publication | 2026-09-23 21:06:58 UTC |
 
 ## Resolved catalogue size
 
-Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **358 794** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
+Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **359 798** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
 
 Of those, **246** rows (55 distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.
 
 ### Republished JVM modules
 
-**15** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, the `java --list-modules` set) have been republished on Maven Central under some coordinate, across **800** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.
+**15** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, the `java --list-modules` set) have been republished on Maven Central under some coordinate, across **807** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.
 
 ## Type breakdown
 
@@ -50,8 +50,8 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
-| Named | 18 417 | 371 810 |
-| Automatic | 22 478 | 1 329 044 |
+| Named | 18 515 | 372 832 |
+| Automatic | 22 593 | 1 329 572 |
 
 ## Classifiers
 
@@ -59,30 +59,30 @@ A classifier-keyed JAR (e.g. `-jakarta`, `-jdk8`, `-jar-with-dependencies`) that
 
 | Metric | Value |
 |---|---:|
-| Distinct classifiers | 214 |
-| Modules with at least one classifier variant | 2 076 |
-| Classifier variant files (`versions-<classifier>.tsv`) | 4 177 |
-| Classifier-keyed resolved module-version rows | 23 376 |
+| Distinct classifiers | 215 |
+| Modules with at least one classifier variant | 2 083 |
+| Classifier variant files (`versions-<classifier>.tsv`) | 4 193 |
+| Classifier-keyed resolved module-version rows | 23 489 |
 
 Top classifiers by resolved module-version rows:
 
 | Classifier | Resolved rows |
 |---|---:|
-| `linux` | 1 339 |
-| `mac` | 1 339 |
-| `win` | 1 338 |
+| `linux` | 1 348 |
+| `mac` | 1 348 |
+| `win` | 1 347 |
 | `jdk9` | 1 191 |
-| `mac-aarch64` | 812 |
-| `linux-x86_64` | 787 |
+| `mac-aarch64` | 821 |
+| `linux-x86_64` | 789 |
 | `natives-windows` | 648 |
-| `windows-x86_64` | 631 |
+| `windows-x86_64` | 633 |
 | `natives-macos` | 622 |
 | `natives-linux` | 617 |
 | `android` | 608 |
 | `ios` | 607 |
-| `jar-with-dependencies` | 604 |
+| `jar-with-dependencies` | 605 |
 | `desktop` | 589 |
-| `linux-aarch64` | 559 |
+| `linux-aarch64` | 560 |
 
 ## `module-info` version field across named publications
 
@@ -92,25 +92,25 @@ Counts canonical **named publications** (one count per published JAR, not per di
 
 | Publication category | Publications |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 276 585 |
-| `module-info` version is non-empty but differs from the Maven coordinate version | 5 670 |
-| `module-info` declared no version (Maven coordinate version is the only reference) | 58 810 |
+| `module-info` version matches the Maven coordinate version | 277 155 |
+| `module-info` version is non-empty but differs from the Maven coordinate version | 5 672 |
+| `module-info` declared no version (Maven coordinate version is the only reference) | 59 133 |
 
 Same breakdown but counted once per **canonical module**, against the latest named row in its no-classifier resolved view (the row a consumer fetching the "latest" of a module would land on). Modules whose latest row is automatic are excluded.
 
 | Module category (by latest canonical named row) | Modules |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 12 040 |
+| `module-info` version matches the Maven coordinate version | 12 106 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 210 |
-| `module-info` declared no version (Maven coordinate version is the only reference) | 4 410 |
+| `module-info` declared no version (Maven coordinate version is the only reference) | 4 436 |
 
 Each row describes what the **version-mismatch filter** (drop every named row whose `module-info` version semantically contradicts its Maven coordinate version) leaves behind in the module's `modules.tsv`, counted once per **canonical module** (no-classifier view). Modules with no canonical named row are out of scope. The first row is the in-scope total; rows two through four are mutually exclusive and sum to it; the fifth row overlaps with rows three and four (it's the subset whose head-of-`modules.tsv` is the one the filter removes).
 
 | Module version filtering impact | Module names |
 |---|---:|
-| Canonical modules with at least one named row (in scope) | 16 807 |
-| Filter keeps every named row: `modules.tsv` is unchanged | 16 188 |
-| Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 509 |
+| Canonical modules with at least one named row (in scope) | 16 899 |
+| Filter keeps every named row: `modules.tsv` is unchanged | 16 279 |
+| Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 510 |
 | Filter drops every named row: `modules.tsv` is removed entirely | 110 |
 | Filter drops the module's current top row: "latest" shifts to an older Maven version (or vanishes if fully lost) | 210 |
 
@@ -120,7 +120,7 @@ Breaks down the publications whose `module-info` version differs from the Maven 
 
 | Pattern | Rows | Share |
 |---|---:|---:|
-| Module = Maven + `-SNAPSHOT` (release that forgot to drop SNAPSHOT) | 3 202 | 56.5% |
+| Module = Maven + `-SNAPSHOT` (release that forgot to drop SNAPSHOT) | 3 203 | 56.5% |
 | Module = Maven + `-<other suffix>` (build label, patch tag) | 12 | 0.2% |
 | Maven = Module + `-<suffix>` (repackager appended a coordinate suffix) | 175 | 3.1% |
 | Module = Maven + `.<segment>` (extra dot-segment in module-info) | 4 | 0.1% |
@@ -128,7 +128,7 @@ Breaks down the publications whose `module-info` version differs from the Maven 
 | Module = Maven + `+<metadata>` (build metadata in module-info) | 0 | 0.0% |
 | Maven = Module + `+<metadata>` (build metadata in coordinate) | 0 | 0.0% |
 | Unresolved `${...}` placeholder in either version | 19 | 0.3% |
-| Different major segment (likely shaded/bundled artifact) | 493 | 8.7% |
+| Different major segment (likely shaded/bundled artifact) | 494 | 8.7% |
 | Substantively different (same major, different version) | 1 742 | 30.7% |
 
 ## Type transitions
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 3 175 | 1 461 | 1 714 |
-| New version rows | 6 525 | 2 386 | 4 139 |
-| Non-modular artifacts | 0 | - | - |
+| Modules with a publication | 2 311 | 906 | 1 405 |
+| New version rows | 3 662 | 1 441 | 2 221 |
+| Non-modular artifacts | 12 112 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -166,8 +166,8 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-05 | `█`&nbsp;3 441 (4.4%) | `▓▓`&nbsp;5 625 (7.2%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 006 (88.4%) |
 | 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 111 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 969 (88.4%) |
 | 2026-07 | `█`&nbsp;3 538 (7.1%) | `▓▓`&nbsp;5 573 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
-| 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 687 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 736 (86.0%) |
-| 2026-09 | `█`&nbsp;2 885 (17.4%) | `▓`&nbsp;4 404 (26.6%) | `░░░`&nbsp;9 285 (56.0%) |
+| 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 687 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 737 (86.0%) |
+| 2026-09 | `█`&nbsp;3 245 (10.7%) | `▓▓`&nbsp;4 638 (15.3%) | `░░░░░░░`&nbsp;22 412 (74.0%) |
 
 ## Naming patterns
 
@@ -175,7 +175,7 @@ How module names relate to their publishing groupId. "Competing groupIds" counts
 
 | Pattern | Modules |
 |---|---:|
-| Multiple competing groupIds in audit history | 4 301 |
+| Multiple competing groupIds in audit history | 4 307 |
 
 ### Leading dot-segments shared with the owning groupId
 
@@ -183,12 +183,12 @@ For each canonical (no-classifier) module that resolved to an owner (implicit or
 
 | Shared leading dot-segments | Canonical modules |
 |---:|---:|
-| 0 | 8 884 |
-| 1 | 1 140 |
-| 2 | 12 280 |
-| 3 | 13 105 |
-| 4 | 2 462 |
-| 5 | 345 |
+| 0 | 8 893 |
+| 1 | 1 175 |
+| 2 | 12 335 |
+| 3 | 13 190 |
+| 4 | 2 464 |
+| 5 | 358 |
 | 6 | 18 |
 | 7 | - |
 | 8 | 2 |
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 3 887 365 |
-| Incorrectly indexed (mis-stamped 404s) | 3 884 853 |
-| Genuine artifact errors | 2 512 |
+| Total failed coordinates | 3 896 279 |
+| Incorrectly indexed (mis-stamped 404s) | 3 893 609 |
+| Genuine artifact errors | 2 670 |
 
 ### Top 25 genuine error messages
 
@@ -212,9 +212,9 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 | Error message | Count |
 |---|---:|
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
-| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 518 |
+| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 519 |
+| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 461 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
-| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 304 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
 | `InvalidModuleDescriptorException: CONSTANT_Package at entry <ENTRY> has illegal character: '.'` | 83 |
@@ -244,13 +244,13 @@ Modules with the longest release history. Counts come from the main (no-classifi
 | `software.amazon.awssdk.* (511 modules)` | [1, 1 838] |
 | `org.scala.lang.scala3.* (12 modules)` | [9, 1 244] |
 | `org.scala.lang.* (excl. scala3) (4 modules)` | [354, 1 214] |
-| `com.graphqljava` | 1 184 |
+| `com.graphqljava` | 1 185 |
 | `net.minestom.server` | 752 |
 | `com.google.api.services.* (349 modules)` | [1, 583] |
-| `io.fluxzero.common` | 533 |
-| `io.fluxzero.proxy` | 533 |
-| `io.fluxzero.testserver` | 533 |
-| `io.fluxzero.sdk` | 530 |
+| `io.fluxzero.common` | 538 |
+| `io.fluxzero.proxy` | 538 |
+| `io.fluxzero.testserver` | 538 |
+| `io.fluxzero.sdk` | 535 |
 | `com.azure.sdk.template` | 475 |
 | `com.hazelcast.all` | 456 |
 | `javassist` | 456 |
@@ -296,7 +296,7 @@ GroupIds that publish the most distinct module names, sorted by module count. Ea
 | `org.kie.kogito` | 182 |
 | `org.ogc-schemas` | 175 |
 | `net.solarnetwork.node` | 171 |
-| `com.azure` | 159 |
+| `com.azure` | 160 |
 | `io.micronaut` | 159 |
 
 ## Top 25 modules with most colliding groupIds
@@ -305,17 +305,17 @@ Module names that have been published under the most different groupIds across h
 
 | Module | Distinct groupIds |
 |---|---:|
-| `com.google.gson` | 310 |
-| `com.fasterxml.jackson.databind` | 270 |
+| `com.google.gson` | 311 |
+| `com.fasterxml.jackson.databind` | 272 |
 | `com.fasterxml.jackson.core` | 238 |
 | `com.fasterxml.jackson.annotation [-jar-with-dependencies]` | 229 |
 | `com.fasterxml.jackson.annotation` | 188 |
 | `org.slf4j` | 188 |
 | `org.apache.logging.log4j` | 183 |
-| `kotlin.stdlib` | 149 |
+| `kotlin.stdlib` | 150 |
 | `kotlin.stdlib.jdk8` | 137 |
 | `com.google.gson [-jar-with-dependencies]` | 130 |
-| `com.fasterxml.jackson.databind [-jar-with-dependencies]` | 110 |
+| `com.fasterxml.jackson.databind [-jar-with-dependencies]` | 111 |
 | `org.apache.logging.log4j [-jar-with-dependencies]` | 95 |
 | `java.xml.bind [-jar-with-dependencies]` | 89 |
 | `java.xml.bind` | 88 |
@@ -337,31 +337,31 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 
 | Module | Last publication |
 |---|---|
-| `com.google.common.labs.parse` | 2026-09-20 21:14:37 UTC |
-| `com.google.mu` | 2026-09-20 21:14:37 UTC |
-| `com.google.mu.cel` | 2026-09-20 21:14:37 UTC |
-| `com.google.mu.guava` | 2026-09-20 21:14:37 UTC |
-| `com.google.mu.protobuf` | 2026-09-20 21:14:37 UTC |
-| `com.google.mu.safesql` | 2026-09-20 21:14:37 UTC |
-| `com.google.mu.spanner` | 2026-09-20 21:14:37 UTC |
-| `com.google.mu.testing.concurrent` | 2026-09-20 21:14:37 UTC |
-| `com.google.mu.util.concurrent24` | 2026-09-20 21:14:37 UTC |
-| `com.google.mu.bigquery` | 2026-09-20 21:14:36 UTC |
-| `flipkart.krystal.vajram` | 2026-09-20 21:03:36 UTC |
-| `flipkart.krystal.vajram.ext.json` | 2026-09-20 21:03:36 UTC |
-| `flipkart.krystal.vajram.ext.json.codegen` | 2026-09-20 21:03:36 UTC |
-| `flipkart.krystal.vajram.ext.protobuf` | 2026-09-20 21:03:36 UTC |
-| `flipkart.krystal.vajram.ext.protobuf.codegen` | 2026-09-20 21:03:36 UTC |
-| `flipkart.krystal.vajram.ext.protobuf.codegen.util` | 2026-09-20 21:03:36 UTC |
-| `flipkart.krystal.vajram.ext.protobuf.util` | 2026-09-20 21:03:36 UTC |
-| `flipkart.krystal.vajram.ext.protobuf2024e` | 2026-09-20 21:03:36 UTC |
-| `flipkart.krystal.vajram.ext.protobuf2024e.codegen` | 2026-09-20 21:03:36 UTC |
-| `flipkart.krystal.vajram.lang.grammar` | 2026-09-20 21:03:36 UTC |
-| `krystal.vajram.ext.graphql.codegen` | 2026-09-20 21:03:36 UTC |
-| `krystal.vajram.ext.resilience4j` | 2026-09-20 21:03:36 UTC |
-| `krystal.vajram.ext.sql` | 2026-09-20 21:03:36 UTC |
-| `krystal.vajram.ext.sql.codegen` | 2026-09-20 21:03:36 UTC |
-| `krystal.vajram.ext.sql.vertx` | 2026-09-20 21:03:36 UTC |
+| `ai.koryki.core.core` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.duckdb` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.kqlcore` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.mariadb` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.mssql` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.northwind` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.oracle` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.postgresql` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.snowflake` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.sqlite` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.testkit` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.tools` | 2026-09-23 21:06:58 UTC |
+| `ai.koryki.core.trino` | 2026-09-23 21:06:58 UTC |
+| `build.jenesis.launcher` | 2026-09-23 21:00:48 UTC |
+| `ar.com.fdvs.dynamicjasper` | 2026-09-23 19:26:50 UTC |
+| `ch.braincell.plantuml.vitruv` | 2026-09-23 18:01:31 UTC |
+| `rag.vector.jvm` | 2026-09-23 14:41:35 UTC |
+| `serialization.core.jvm` | 2026-09-23 14:41:35 UTC |
+| `serialization.jackson.jvm` | 2026-09-23 14:41:35 UTC |
+| `utils.jvm` | 2026-09-23 14:41:35 UTC |
+| `prompt.structure.jvm` | 2026-09-23 14:41:34 UTC |
+| `prompt.tokenizer.jvm` | 2026-09-23 14:41:34 UTC |
+| `prompt.xml.jvm` | 2026-09-23 14:41:34 UTC |
+| `rag.base.jvm` | 2026-09-23 14:41:34 UTC |
+| `prompt.llm.jvm` | 2026-09-23 14:41:33 UTC |
 
 ## Top 25 groupIds by average versions per module
 
@@ -369,10 +369,10 @@ Restricted to groupIds publishing at least 3 modules so the average isn't domina
 
 | groupId | Modules | Total versions | Avg versions / module |
 |---|---:|---:|---:|
-| `software.amazon.awssdk` | 514 | 636 988 | 1239.3 |
+| `software.amazon.awssdk` | 514 | 637 009 | 1239.3 |
 | `org.scala-lang` | 19 | 12 690 | 667.9 |
-| `com.graphql-java` | 3 | 1 351 | 450.3 |
-| `io.fluxzero` | 5 | 2 132 | 426.4 |
+| `com.graphql-java` | 3 | 1 352 | 450.7 |
+| `io.fluxzero` | 5 | 2 152 | 430.4 |
 | `com.guicedee.servlets` | 11 | 3 517 | 319.7 |
 | `com.jwebmp.plugins.angular` | 17 | 5 151 | 303.0 |
 | `com.jwebmp.plugins.effects` | 3 | 909 | 303.0 |
