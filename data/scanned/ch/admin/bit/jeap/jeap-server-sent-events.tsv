@@ -93,6 +93,8 @@
 13.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.3.0/jeap-server-sent-events-13.3.0.jar returned status 404
 13.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.4.0/jeap-server-sent-events-13.4.0.jar returned status 404
 13.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.5.0/jeap-server-sent-events-13.5.0.jar returned status 404
+13.6.0		2026-09-22T07:06:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.6.0/jeap-server-sent-events-13.6.0.jar returned status 404
+13.7.0		2026-09-22T17:16:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.7.0/jeap-server-sent-events-13.7.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/2.0.0/jeap-server-sent-events-2.0.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/3.0.0/jeap-server-sent-events-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/3.0.1/jeap-server-sent-events-3.0.1.jar returned status 404

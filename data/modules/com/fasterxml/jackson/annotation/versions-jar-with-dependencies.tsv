@@ -5447,6 +5447,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 11.70.1	named	com.silanis.esl	esl-java-sdk	2026-09-17T21:16:26Z	2.18.2
 11.70.2	named	com.silanis.esl	esl-java-sdk	2026-09-17T22:21:03Z	2.18.2
 3.6.3.Final	named	io.debezium	debezium-connector-cassandra-5	2026-09-18T07:51:25Z	2.21
+3.0.4	named	ch.exense.step	step-grid-agent	2026-09-18T11:15:46Z	2.21
 10.4.3-BETA-24	named	com.chartiq.finsemble	finsemble	2026-09-18T12:06:04Z	2.13.5
 10.4.3-BETA-25	named	com.chartiq.finsemble	finsemble	2026-09-18T12:56:23Z	2.13.5
 9.10.40-BETA-1	named	com.chartiq.finsemble	finsemble	2026-09-18T14:06:18Z	2.13.5
