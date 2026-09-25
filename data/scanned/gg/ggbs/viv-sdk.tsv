@@ -1,0 +1,6 @@
+0.1.0		2026-09-19T23:41:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gg/ggbs/viv-sdk/0.1.0/viv-sdk-0.1.0.jar returned status 404
+0.2.0		2026-09-20T00:31:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gg/ggbs/viv-sdk/0.2.0/viv-sdk-0.2.0.jar returned status 404
+0.2.1		2026-09-20T12:26:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gg/ggbs/viv-sdk/0.2.1/viv-sdk-0.2.1.jar returned status 404
+0.2.2		2026-09-20T14:01:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gg/ggbs/viv-sdk/0.2.2/viv-sdk-0.2.2.jar returned status 404
+0.2.3		2026-09-20T19:02:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gg/ggbs/viv-sdk/0.2.3/viv-sdk-0.2.3.jar returned status 404
+0.3.0		2026-09-21T21:06:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gg/ggbs/viv-sdk/0.3.0/viv-sdk-0.3.0.jar returned status 404

@@ -18,3 +18,5 @@
 3.1.1	metadata	2026-09-07T16:14:36Z	
 3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-readable-iosarm64/3.1.2/format-readable-iosarm64-3.1.2.jar returned status 404
 3.1.2	metadata	2026-09-08T03:26:44Z	
+4.0.0		2026-09-21T12:21:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-readable-iosarm64/4.0.0/format-readable-iosarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-09-21T12:21:31Z	

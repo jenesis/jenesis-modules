@@ -57,3 +57,6 @@
 3.6.2.Final	named	io.debezium	debezium-connector-cassandra-3	2026-09-01T10:26:07Z	9.1.0
 3.6.2.Final	named	io.debezium	debezium-connector-cassandra-4	2026-09-01T10:26:07Z	9.1.0
 3.6.2.Final	named	io.debezium	debezium-connector-dse	2026-09-01T10:26:08Z	9.1.0
+3.6.3.Final	named	io.debezium	debezium-connector-cassandra-3	2026-09-18T07:51:24Z	9.1.0
+3.6.3.Final	named	io.debezium	debezium-connector-dse	2026-09-18T07:51:24Z	9.1.0
+3.6.3.Final	named	io.debezium	debezium-connector-cassandra-4	2026-09-18T07:51:25Z	9.1.0

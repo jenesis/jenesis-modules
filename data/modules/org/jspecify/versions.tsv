@@ -241,3 +241,5 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 1.4.4	named	dev.zacsweers.metro	gradle-plugin	2026-09-16T21:55:15Z	1.0.1
 2.5.7	named	org.jboss.elemento	elemento-router-processor-cdi	2026-09-17T15:16:00Z	
 2.5.7	named	org.jboss.elemento	elemento-router-processor	2026-09-17T15:16:01Z	
+0.2.9	named	io.camunda	camunda-7-to-8-diagram-converter-cli	2026-09-21T10:21:57Z	1.0.1
+0.3.8	named	io.camunda	camunda-7-to-8-diagram-converter-cli	2026-09-21T19:41:31Z	1.0.1
