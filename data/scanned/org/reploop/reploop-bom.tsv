@@ -1,0 +1,3 @@
+0.0.6		2026-09-15T09:56:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reploop/reploop-bom/0.0.6/reploop-bom-0.0.6.jar returned status 404
+0.0.7		2026-09-15T13:21:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reploop/reploop-bom/0.0.7/reploop-bom-0.0.7.jar returned status 404
+0.0.8		2026-09-17T01:16:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/reploop/reploop-bom/0.0.8/reploop-bom-0.0.8.jar returned status 404

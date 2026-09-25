@@ -7,6 +7,7 @@
 1.0.0-RC13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-trust-iosarm64/1.0.0-RC13/kapun-trust-iosarm64-1.0.0-RC13.jar returned status 404
 1.0.0-RC13	metadata	2026-09-06T21:13:10Z	
 1.0.0-RC14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-trust-iosarm64/1.0.0-RC14/kapun-trust-iosarm64-1.0.0-RC14.jar returned status 404
+1.0.0-RC14	metadata	2026-09-15T13:42:18Z	
 1.0.0-RC2		2026-08-12T11:50:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-trust-iosarm64/1.0.0-RC2/kapun-trust-iosarm64-1.0.0-RC2.jar returned status 404
 1.0.0-RC2	metadata	2026-08-12T11:50:38Z	
 1.0.0-RC3		2026-08-14T19:19:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kapunsdk/kapun-trust-iosarm64/1.0.0-RC3/kapun-trust-iosarm64-1.0.0-RC3.jar returned status 404
