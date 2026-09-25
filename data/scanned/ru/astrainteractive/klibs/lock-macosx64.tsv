@@ -15,3 +15,4 @@
 5.3.1		2026-08-18T10:02:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/lock-macosx64/5.3.1/lock-macosx64-5.3.1.jar returned status 404
 5.3.1	metadata	2026-08-18T10:02:28Z	
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/astrainteractive/klibs/lock-macosx64/5.4.0/lock-macosx64-5.4.0.jar returned status 404
+5.4.0	metadata	2026-09-19T10:31:04Z	

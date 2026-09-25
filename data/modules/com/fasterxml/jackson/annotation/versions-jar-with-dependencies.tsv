@@ -5414,6 +5414,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 10.4.2	named	com.chartiq.finsemble	finsemble	2026-09-10T10:36:42Z	2.13.5
 10.4.1-BETA-6	named	com.chartiq.finsemble	finsemble	2026-09-11T03:54:44Z	2.13.5
 7.2.3.25	named	com.kinetica	kinetica-jdbc	2026-09-11T15:51:41Z	2.22
+7.0.7	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-09-12T17:09:39Z	2.21
 1.0.26	named	com.janeluo	luban-rds-bin	2026-09-13T09:45:05Z	2.13.5
 10.4.3-BETA-1	named	com.chartiq.finsemble	finsemble	2026-09-14T11:47:12Z	2.13.5
 10.4.3-BETA-2	named	com.chartiq.finsemble	finsemble	2026-09-14T21:08:39Z	2.13.5

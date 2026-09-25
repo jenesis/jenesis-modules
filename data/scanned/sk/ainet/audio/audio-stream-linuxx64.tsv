@@ -1,0 +1,2 @@
+0.2.0		2026-09-12T18:25:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/audio/audio-stream-linuxx64/0.2.0/audio-stream-linuxx64-0.2.0.jar returned status 404
+0.2.1		2026-09-13T21:45:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/audio/audio-stream-linuxx64/0.2.1/audio-stream-linuxx64-0.2.1.jar returned status 404
