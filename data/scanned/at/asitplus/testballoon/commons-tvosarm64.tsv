@@ -18,6 +18,8 @@
 0.16.1	metadata	2026-09-14T15:12:24Z	
 0.16.2		2026-09-15T04:22:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-tvosarm64/0.16.2/commons-tvosarm64-0.16.2.jar returned status 404
 0.16.2	metadata	2026-09-15T04:22:51Z	
+0.17.0		2026-09-18T18:36:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-tvosarm64/0.17.0/commons-tvosarm64-0.17.0.jar returned status 404
+0.17.0	metadata	2026-09-18T18:36:20Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-tvosarm64/0.2.0/commons-tvosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2025-11-09T22:43:45Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/commons-tvosarm64/0.3.0/commons-tvosarm64-0.3.0.jar returned status 404

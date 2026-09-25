@@ -8,4 +8,6 @@
 4.2.0		2026-08-24T12:00:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/kmp/sdk-kmp-iossimulatorarm64/4.2.0/sdk-kmp-iossimulatorarm64-4.2.0.jar returned status 404
 4.2.0	metadata	2026-08-24T12:00:30Z	
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/kmp/sdk-kmp-iossimulatorarm64/4.3.0/sdk-kmp-iossimulatorarm64-4.3.0.jar returned status 404
+4.3.0	metadata	2026-09-15T14:56:14Z	
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/kmp/sdk-kmp-iossimulatorarm64/4.4.1/sdk-kmp-iossimulatorarm64-4.4.1.jar returned status 404
+4.4.1	metadata	2026-09-16T12:23:24Z	

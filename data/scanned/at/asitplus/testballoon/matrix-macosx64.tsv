@@ -16,3 +16,5 @@
 0.16.1	metadata	2026-09-14T15:12:23Z	
 0.16.2		2026-09-15T04:22:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/matrix-macosx64/0.16.2/matrix-macosx64-0.16.2.jar returned status 404
 0.16.2	metadata	2026-09-15T04:22:50Z	
+0.17.0		2026-09-18T18:36:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/matrix-macosx64/0.17.0/matrix-macosx64-0.17.0.jar returned status 404
+0.17.0	metadata	2026-09-18T18:36:19Z	
