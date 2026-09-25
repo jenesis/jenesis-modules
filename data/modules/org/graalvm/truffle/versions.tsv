@@ -398,4 +398,8 @@
 1.1.10	named	org.helixflo	hf-compiler	2026-08-28T17:41:54Z	
 1.1.10	named	org.helixflo	hf-runtime	2026-08-28T17:41:54Z	
 0.1.0-alpha.1	named	ai.ravenroot	ravenroot-distribution	2026-09-02T23:32:02Z	
+25.0.4.1.1	named	org.graalvm.truffle	truffle-api	2026-09-15T11:41:19Z	
+23.1.12.1.1	named	org.graalvm.truffle	truffle-api	2026-09-15T11:41:21Z	
+21.3.19.1.1	named	org.graalvm.truffle	truffle-api	2026-09-15T11:41:21Z	
+23.0.13.1.1	named	org.graalvm.truffle	truffle-api	2026-09-15T11:47:57Z	
 0.4.1-alpha.1	named	ai.ravenroot	ravenroot-distribution	2026-09-16T20:21:29Z	
