@@ -37,3 +37,4 @@
 1.0.0-preview			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-core-iosarm64/1.0.0-preview/wiretap-core-iosarm64-1.0.0-preview.jar returned status 404
 1.0.0-preview	metadata	2026-04-01T09:32:01Z	
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/skymansandy/wiretap-core-iosarm64/1.0.1/wiretap-core-iosarm64-1.0.1.jar returned status 404
+1.0.1	metadata	2026-09-16T05:06:58Z	

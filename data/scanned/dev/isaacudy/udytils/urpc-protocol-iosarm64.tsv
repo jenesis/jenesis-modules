@@ -3,3 +3,4 @@
 1.4.0		2026-08-25T08:59:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/isaacudy/udytils/urpc-protocol-iosarm64/1.4.0/urpc-protocol-iosarm64-1.4.0.jar returned status 404
 1.4.0	metadata	2026-08-25T08:59:54Z	
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/isaacudy/udytils/urpc-protocol-iosarm64/1.5.0/urpc-protocol-iosarm64-1.5.0.jar returned status 404
+1.5.0	metadata	2026-09-17T06:41:19Z	

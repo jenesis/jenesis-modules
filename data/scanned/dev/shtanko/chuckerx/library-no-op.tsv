@@ -1,0 +1,2 @@
+1.0.0		2026-09-17T08:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shtanko/chuckerx/library-no-op/1.0.0/library-no-op-1.0.0.jar returned status 404
+1.0.1		2026-09-17T09:31:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shtanko/chuckerx/library-no-op/1.0.1/library-no-op-1.0.1.jar returned status 404

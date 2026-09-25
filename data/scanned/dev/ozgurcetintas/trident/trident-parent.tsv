@@ -1,0 +1,4 @@
+0.2.1		2026-09-17T21:32:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ozgurcetintas/trident/trident-parent/0.2.1/trident-parent-0.2.1.jar returned status 404
+0.2.2		2026-09-18T08:36:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ozgurcetintas/trident/trident-parent/0.2.2/trident-parent-0.2.2.jar returned status 404
+0.2.3		2026-09-18T08:51:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ozgurcetintas/trident/trident-parent/0.2.3/trident-parent-0.2.3.jar returned status 404
+1.0.0		2026-09-18T09:56:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ozgurcetintas/trident/trident-parent/1.0.0/trident-parent-1.0.0.jar returned status 404
