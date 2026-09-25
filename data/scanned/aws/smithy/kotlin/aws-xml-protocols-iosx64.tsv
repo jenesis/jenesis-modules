@@ -69,6 +69,7 @@
 1.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-xml-protocols-iosx64/1.7.10/aws-xml-protocols-iosx64-1.7.10.jar returned status 404
 1.7.10	metadata	2026-09-11T19:36:28Z	
 1.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-xml-protocols-iosx64/1.7.11/aws-xml-protocols-iosx64-1.7.11.jar returned status 404
+1.7.11	metadata	2026-09-18T20:57:04Z	
 1.7.2		2026-07-08T19:14:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-xml-protocols-iosx64/1.7.2/aws-xml-protocols-iosx64-1.7.2.jar returned status 404
 1.7.2	metadata	2026-07-08T19:14:45Z	
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/aws-xml-protocols-iosx64/1.7.3/aws-xml-protocols-iosx64-1.7.3.jar returned status 404
