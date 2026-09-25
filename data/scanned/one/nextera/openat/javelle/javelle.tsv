@@ -81,3 +81,4 @@
 0.2.2		2026-08-09T07:21:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle/0.2.2/javelle-0.2.2.jar returned status 404
 0.2.5		2026-08-16T04:05:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle/0.2.5/javelle-0.2.5.jar returned status 404
 0.2.6		2026-08-18T07:46:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle/0.2.6/javelle-0.2.6.jar returned status 404
+0.2.7		2026-09-13T13:55:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/nextera/openat/javelle/javelle/0.2.7/javelle-0.2.7.jar returned status 404

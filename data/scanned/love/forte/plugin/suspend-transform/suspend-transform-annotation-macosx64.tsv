@@ -97,3 +97,4 @@
 2.4.0-0.14.0		2026-06-15T17:21:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/plugin/suspend-transform/suspend-transform-annotation-macosx64/2.4.0-0.14.0/suspend-transform-annotation-macosx64-2.4.0-0.14.0.jar returned status 404
 2.4.0-0.14.0	metadata	2026-06-15T17:21:26Z	
 2.4.20-0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/plugin/suspend-transform/suspend-transform-annotation-macosx64/2.4.20-0.15.0/suspend-transform-annotation-macosx64-2.4.20-0.15.0.jar returned status 404
+2.4.20-0.15.0	metadata	2026-09-19T16:11:35Z	

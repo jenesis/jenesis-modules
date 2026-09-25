@@ -20,6 +20,7 @@
 1.10.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/codehaus-cargo/1.10.26/codehaus-cargo-1.10.26.jar returned status 404
 1.10.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/codehaus-cargo/1.10.27/codehaus-cargo-1.10.27.jar returned status 404
 1.10.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/codehaus-cargo/1.10.28/codehaus-cargo-1.10.28.jar returned status 404
+1.10.29		2026-09-16T22:51:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/codehaus-cargo/1.10.29/codehaus-cargo-1.10.29.jar returned status 404
 1.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/codehaus-cargo/1.10.3/codehaus-cargo-1.10.3.jar returned status 404
 1.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/codehaus-cargo/1.10.4/codehaus-cargo-1.10.4.jar returned status 404
 1.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/codehaus/cargo/codehaus-cargo/1.10.5/codehaus-cargo-1.10.5.jar returned status 404

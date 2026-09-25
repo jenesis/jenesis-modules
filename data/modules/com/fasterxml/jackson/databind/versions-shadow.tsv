@@ -66,3 +66,5 @@
 0.37.23	named	io.neonbee	neonbee-core	2025-12-19T14:00:16Z	2.17.2
 1.28.0	named	org.apache.calcite.avatica	avatica	2026-05-07T23:04:29Z	2.18.6
 1.28.0	named	org.apache.calcite.avatica	avatica-standalone-server	2026-05-07T23:04:40Z	2.18.6
+1.29.0	named	org.apache.calcite.avatica	avatica	2026-09-15T23:01:40Z	2.22.2
+1.29.0	named	org.apache.calcite.avatica	avatica-standalone-server	2026-09-15T23:01:41Z	2.22.2

@@ -1,0 +1,9 @@
+1.0.2		2026-09-14T19:22:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/dibsy/softpos/dibsy-tap/1.0.2/dibsy-tap-1.0.2.jar returned status 404
+1.0.2-dev		2026-09-14T19:22:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/dibsy/softpos/dibsy-tap/1.0.2-dev/dibsy-tap-1.0.2-dev.jar returned status 404
+1.0.2-stage		2026-09-14T19:22:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/dibsy/softpos/dibsy-tap/1.0.2-stage/dibsy-tap-1.0.2-stage.jar returned status 404
+1.0.3		2026-09-14T19:59:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/dibsy/softpos/dibsy-tap/1.0.3/dibsy-tap-1.0.3.jar returned status 404
+1.0.3-dev		2026-09-14T19:59:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/dibsy/softpos/dibsy-tap/1.0.3-dev/dibsy-tap-1.0.3-dev.jar returned status 404
+1.0.3-stage		2026-09-14T19:59:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/dibsy/softpos/dibsy-tap/1.0.3-stage/dibsy-tap-1.0.3-stage.jar returned status 404
+1.0.4		2026-09-14T20:22:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/dibsy/softpos/dibsy-tap/1.0.4/dibsy-tap-1.0.4.jar returned status 404
+1.0.4-dev		2026-09-14T20:22:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/dibsy/softpos/dibsy-tap/1.0.4-dev/dibsy-tap-1.0.4-dev.jar returned status 404
+1.0.4-stage		2026-09-14T20:22:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/one/dibsy/softpos/dibsy-tap/1.0.4-stage/dibsy-tap-1.0.4-stage.jar returned status 404
