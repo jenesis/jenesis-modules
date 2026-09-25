@@ -3,6 +3,7 @@
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jukomu/jmcomic-api-java/1.0.0/jmcomic-api-java-1.0.0.jar returned status 404
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jukomu/jmcomic-api-java/1.1.0/jmcomic-api-java-1.1.0.jar returned status 404
 1.1.1		2026-05-20T22:22:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jukomu/jmcomic-api-java/1.1.1/jmcomic-api-java-1.1.1.jar returned status 404
+1.1.10		2026-09-21T00:56:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jukomu/jmcomic-api-java/1.1.10/jmcomic-api-java-1.1.10.jar returned status 404
 1.1.2		2026-05-21T01:00:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jukomu/jmcomic-api-java/1.1.2/jmcomic-api-java-1.1.2.jar returned status 404
 1.1.3		2026-05-22T08:30:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jukomu/jmcomic-api-java/1.1.3/jmcomic-api-java-1.1.3.jar returned status 404
 1.1.4		2026-05-22T21:43:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jukomu/jmcomic-api-java/1.1.4/jmcomic-api-java-1.1.4.jar returned status 404

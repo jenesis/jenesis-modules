@@ -17,6 +17,7 @@
 0.3.1		2026-07-06T14:30:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-tomcat-bom/0.3.1/microsphere-tomcat-bom-0.3.1.jar returned status 404
 0.3.10		2026-08-25T11:50:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-tomcat-bom/0.3.10/microsphere-tomcat-bom-0.3.10.jar returned status 404
 0.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-tomcat-bom/0.3.11/microsphere-tomcat-bom-0.3.11.jar returned status 404
+0.3.12		2026-09-21T01:47:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-tomcat-bom/0.3.12/microsphere-tomcat-bom-0.3.12.jar returned status 404
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-tomcat-bom/0.3.2/microsphere-tomcat-bom-0.3.2.jar returned status 404
 0.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-tomcat-bom/0.3.3/microsphere-tomcat-bom-0.3.3.jar returned status 404
 0.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/microsphere-projects/microsphere-tomcat-bom/0.3.4/microsphere-tomcat-bom-0.3.4.jar returned status 404

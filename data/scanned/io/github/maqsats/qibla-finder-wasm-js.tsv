@@ -2,3 +2,4 @@
 1.0.18		2026-07-01T21:33:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/qibla-finder-wasm-js/1.0.18/qibla-finder-wasm-js-1.0.18.jar returned status 404
 1.0.21		2026-08-12T11:58:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/qibla-finder-wasm-js/1.0.21/qibla-finder-wasm-js-1.0.21.jar returned status 404
 1.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/qibla-finder-wasm-js/1.0.22/qibla-finder-wasm-js-1.0.22.jar returned status 404
+1.0.23		2026-09-21T09:11:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maqsats/qibla-finder-wasm-js/1.0.23/qibla-finder-wasm-js-1.0.23.jar returned status 404
