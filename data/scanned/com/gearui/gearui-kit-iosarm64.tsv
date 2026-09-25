@@ -1,3 +1,4 @@
 1.0.0-beta1		2026-08-14T23:19:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gearui/gearui-kit-iosarm64/1.0.0-beta1/gearui-kit-iosarm64-1.0.0-beta1.jar returned status 404
 1.0.0-beta1	metadata	2026-08-14T23:19:52Z	
 1.0.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gearui/gearui-kit-iosarm64/1.0.0-beta3/gearui-kit-iosarm64-1.0.0-beta3.jar returned status 404
+1.0.0-beta3	metadata	2026-09-19T18:51:42Z	

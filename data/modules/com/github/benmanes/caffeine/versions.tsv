@@ -122,3 +122,4 @@
 0.42.2	named	org.kill-bill.billing	killbill-platform-osgi-bundles-test-beatrix	2026-07-30T00:22:59Z	3.2.4
 0.42.2	named	org.kill-bill.billing	killbill-platform-osgi-bundles-metrics	2026-07-30T00:23:09Z	3.2.4
 0.42.2	named	org.kill-bill.billing	killbill-platform-osgi-bundles-eureka	2026-07-30T00:23:12Z	3.2.4
+3.3.0	named	com.github.ben-manes.caffeine	caffeine	2026-09-21T06:26:19Z	3.3.0

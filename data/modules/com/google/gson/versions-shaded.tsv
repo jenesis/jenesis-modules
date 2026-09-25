@@ -6824,3 +6824,4 @@
 2.0.0	named	com.aliyun	alikafkastreaming20260202	2026-09-15T02:26:45Z	2.11.0
 3.39.4	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-16T10:46:21Z	2.10
 3.40.0.CR1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-16T11:27:42Z	2.10
+3.1.19	named	com.google.cloud.bigdataoss	gcs-connector	2026-09-22T07:04:16Z	2.12.1

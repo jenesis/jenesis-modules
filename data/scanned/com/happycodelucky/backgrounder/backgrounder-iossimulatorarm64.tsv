@@ -3,4 +3,6 @@
 0.11.0		2026-06-11T22:28:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/happycodelucky/backgrounder/backgrounder-iossimulatorarm64/0.11.0/backgrounder-iossimulatorarm64-0.11.0.jar returned status 404
 0.11.0	metadata	2026-06-11T22:28:59Z	
 0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/happycodelucky/backgrounder/backgrounder-iossimulatorarm64/0.12.0/backgrounder-iossimulatorarm64-0.12.0.jar returned status 404
+0.12.0	metadata	2026-09-19T20:16:01Z	
 0.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/happycodelucky/backgrounder/backgrounder-iossimulatorarm64/0.12.1/backgrounder-iossimulatorarm64-0.12.1.jar returned status 404
+0.12.1	metadata	2026-09-19T21:01:11Z	
