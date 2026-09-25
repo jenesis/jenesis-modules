@@ -22,3 +22,5 @@
 0.15.0	metadata	2026-08-26T10:16:15Z	
 0.16.0		2026-09-08T11:32:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-okio-macosx64/0.16.0/kmp-zip-okio-macosx64-0.16.0.jar returned status 404
 0.16.0	metadata	2026-09-08T11:32:13Z	
+1.0.0		2026-09-14T11:26:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/synth/kmp-zip-okio-macosx64/1.0.0/kmp-zip-okio-macosx64-1.0.0.jar returned status 404
+1.0.0	metadata	2026-09-14T11:26:06Z	

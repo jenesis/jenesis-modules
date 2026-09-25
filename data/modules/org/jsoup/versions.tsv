@@ -328,6 +328,7 @@
 1.0.0	named	net.nmoncho	faradn-cli	2026-09-10T08:11:07Z	1.23.2
 10.3.20260911	named	io.github.shafthq	shaft-cli	2026-09-11T00:57:09Z	1.23.1
 2.1.0-M1	named	org.scala-sbt	librarymanagement-coursier_3	2026-09-13T08:15:03Z	1.22.2
+0.2.7	named	one.nextera.openat.javelle	javelle-cli	2026-09-13T13:55:35Z	1.23.1
 2.0.9	named	org.scala-sbt	librarymanagement-coursier_3	2026-09-14T05:46:02Z	1.22.2
 2.3.0-Beta	named	org.jetbrains.dokka	analysis-kotlin-symbols	2026-09-15T13:42:34Z	1.23.2
 interface-v1.0.29	named	io.get-coursier	coursier-util_2.13	2026-09-16T12:03:14Z	1.23.2

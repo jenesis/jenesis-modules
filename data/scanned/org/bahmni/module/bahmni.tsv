@@ -10,3 +10,4 @@
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bahmni/module/bahmni/2.0.0/bahmni-2.0.0.jar returned status 404
 2.0.1		2026-06-24T09:12:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bahmni/module/bahmni/2.0.1/bahmni-2.0.1.jar returned status 404
 2.1.0		2026-09-08T06:26:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bahmni/module/bahmni/2.1.0/bahmni-2.1.0.jar returned status 404
+3.0.0		2026-09-17T06:41:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/bahmni/module/bahmni/3.0.0/bahmni-3.0.0.jar returned status 404

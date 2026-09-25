@@ -3308,6 +3308,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 3.1.0	named	org.apache.storm	storm-kafka-client-examples	2026-09-11T02:13:37Z	2.0.18
 3.1.0	named	org.apache.storm	storm-jdbc-examples	2026-09-11T02:13:46Z	2.0.18
 3.1.0	named	org.apache.storm	storm-hdfs-examples	2026-09-11T02:14:04Z	2.0.18
+3.1.0	named	org.apache.storm	storm-iceberg-examples	2026-09-11T02:14:26Z	2.0.18
 3.1.0	named	org.apache.storm	storm-perf	2026-09-11T02:15:12Z	2.0.18
 1.13.6	named	org.open-metadata	elasticsearch-deps	2026-09-11T08:13:18Z	2.0.4
 1.1.0	named	com.fathzer	jdbbackup-docker	2026-09-11T09:11:55Z	2.0.19
