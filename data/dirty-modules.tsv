@@ -447,3 +447,13 @@ io.omq
 kotlinx.serialization.core
 io.netty.codec.unused
 io.github.nicklambourne.slackblocks
+io.github.mnem0c0der.liquibase.ext.clickhouse
+io.github.malczuuu.modelmaker
+io.github.libtmux.workspace
+io.github.libtmux.mcp
+io.github.libtmux.kotlin
+io.github.libtmux.junit5
+io.github.libtmux.jackson
+io.github.libtmux
+io.github.kgonia.typesafe
+io.github.jevkit

@@ -1,0 +1,5 @@
+0.1.1		2026-09-13T08:15:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lanhuangjg/pishi-core/0.1.1/pishi-core-0.1.1.jar returned status 404
+0.2.0		2026-09-13T09:35:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lanhuangjg/pishi-core/0.2.0/pishi-core-0.2.0.jar returned status 404
+0.3.0		2026-09-13T09:45:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lanhuangjg/pishi-core/0.3.0/pishi-core-0.3.0.jar returned status 404
+0.3.1		2026-09-13T10:45:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lanhuangjg/pishi-core/0.3.1/pishi-core-0.3.1.jar returned status 404
+0.3.6		2026-09-13T14:45:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lanhuangjg/pishi-core/0.3.6/pishi-core-0.3.6.jar returned status 404

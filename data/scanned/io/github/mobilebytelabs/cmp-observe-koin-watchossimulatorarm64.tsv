@@ -13,6 +13,9 @@
 3.5.2		2026-06-22T04:47:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-koin-watchossimulatorarm64/3.5.2/cmp-observe-koin-watchossimulatorarm64-3.5.2.jar returned status 404
 3.5.2	metadata	2026-06-22T04:47:12Z	
 3.5.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-koin-watchossimulatorarm64/3.5.28/cmp-observe-koin-watchossimulatorarm64-3.5.28.jar returned status 404
+3.5.28	metadata	2026-09-13T14:55:03Z	
+3.5.29		2026-09-21T04:21:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-koin-watchossimulatorarm64/3.5.29/cmp-observe-koin-watchossimulatorarm64-3.5.29.jar returned status 404
+3.5.29	metadata	2026-09-21T04:21:01Z	
 3.5.3		2026-07-06T15:39:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-koin-watchossimulatorarm64/3.5.3/cmp-observe-koin-watchossimulatorarm64-3.5.3.jar returned status 404
 3.5.3	metadata	2026-07-06T15:39:57Z	
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-observe-koin-watchossimulatorarm64/3.5.4/cmp-observe-koin-watchossimulatorarm64-3.5.4.jar returned status 404

@@ -81,3 +81,4 @@
 0.1.0-alpha7		2026-05-28T12:44:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lzdev42/kbrowser-iosarm64/0.1.0-alpha7/kbrowser-iosarm64-0.1.0-alpha7.jar returned status 404
 0.1.0-alpha7	metadata	2026-05-28T12:44:50Z	
 0.1.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lzdev42/kbrowser-iosarm64/0.1.0-beta1/kbrowser-iosarm64-0.1.0-beta1.jar returned status 404
+0.1.0-beta1	metadata	2026-09-16T09:10:54Z	
