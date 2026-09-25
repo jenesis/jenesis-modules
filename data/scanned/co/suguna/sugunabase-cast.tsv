@@ -1,0 +1,4 @@
+1.0.0		2026-09-20T08:16:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/suguna/sugunabase-cast/1.0.0/sugunabase-cast-1.0.0.jar returned status 404
+1.0.1		2026-09-21T11:51:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/suguna/sugunabase-cast/1.0.1/sugunabase-cast-1.0.1.jar returned status 404
+1.0.2		2026-09-22T12:16:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/suguna/sugunabase-cast/1.0.2/sugunabase-cast-1.0.2.jar returned status 404
+1.0.3		2026-09-22T12:37:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/suguna/sugunabase-cast/1.0.3/sugunabase-cast-1.0.3.jar returned status 404

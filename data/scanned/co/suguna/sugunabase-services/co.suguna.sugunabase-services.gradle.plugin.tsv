@@ -1,0 +1,2 @@
+1.0.0		2026-09-20T14:01:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/suguna/sugunabase-services/co.suguna.sugunabase-services.gradle.plugin/1.0.0/co.suguna.sugunabase-services.gradle.plugin-1.0.0.jar returned status 404
+1.0.1		2026-09-21T12:42:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/suguna/sugunabase-services/co.suguna.sugunabase-services.gradle.plugin/1.0.1/co.suguna.sugunabase-services.gradle.plugin-1.0.1.jar returned status 404

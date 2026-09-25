@@ -114,3 +114,4 @@
 7.1.1-1689	named	com.github.cafdataprocessing.workers.languagedetection	language-detection-cld2	2026-07-20T10:57:31Z	2.22.0
 2.0.0	named	com.mifiel	mifiel-api-client	2026-08-25T02:52:54Z	2.14.0
 2.4.2	named	io.openliberty.tools	liberty-langserver-lemminx	2026-08-31T06:16:07Z	2.20.0
+1.6.3	named	com.alibaba.hologres	hologres-connector-flink-base	2026-09-16T02:47:09Z	2.15.1
