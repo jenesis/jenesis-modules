@@ -109,3 +109,5 @@
 3.8.0-M4	named	org.eclipse.ditto	ditto-gateway-service	2025-08-05T08:08:17Z	2.0.17
 3.8.0-M4	named	org.eclipse.ditto	ditto-things-service	2025-08-05T08:08:17Z	2.0.17
 3.8.0-M4	named	org.eclipse.ditto	ditto-policies-service	2025-08-05T08:08:18Z	2.0.17
+2.1.0	named	com.rei.aether	aether-utils	2026-09-14T22:40:52Z	2.0.17
+2.1.1	named	com.rei.aether	aether-utils	2026-09-22T19:31:32Z	2.0.17

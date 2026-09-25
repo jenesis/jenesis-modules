@@ -1,0 +1,2 @@
+0.1.0		2026-09-22T17:31:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qualflare/qualflare-espresso/0.1.0/qualflare-espresso-0.1.0.jar returned status 404
+0.1.0-rc.1		2026-09-22T15:24:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qualflare/qualflare-espresso/0.1.0-rc.1/qualflare-espresso-0.1.0-rc.1.jar returned status 404

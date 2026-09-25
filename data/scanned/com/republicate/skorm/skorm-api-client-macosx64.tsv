@@ -18,6 +18,8 @@
 0.18	metadata	2026-06-09T21:15:33Z	
 0.19		2026-06-11T10:15:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-macosx64/0.19/skorm-api-client-macosx64-0.19.jar returned status 404
 0.19	metadata	2026-06-11T10:15:25Z	
+0.20		2026-09-21T10:01:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-macosx64/0.20/skorm-api-client-macosx64-0.20.jar returned status 404
+0.20	metadata	2026-09-21T10:01:07Z	
 0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-macosx64/0.4/skorm-api-client-macosx64-0.4.jar returned status 404
 0.4	metadata	2025-07-08T01:11:36Z	
 0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/skorm/skorm-api-client-macosx64/0.5/skorm-api-client-macosx64-0.5.jar returned status 404

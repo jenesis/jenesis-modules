@@ -1,0 +1,4 @@
+1.0.0		2026-09-14T08:05:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/github/1.0.0/github-1.0.0.jar returned status 404
+1.0.0	plain	2026-09-14T08:05:59Z	
+1.0.1		2026-09-14T09:46:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/github/1.0.1/github-1.0.1.jar returned status 404
+1.0.1	plain	2026-09-14T09:46:05Z	

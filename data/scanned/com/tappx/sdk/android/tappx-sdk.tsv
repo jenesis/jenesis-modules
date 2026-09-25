@@ -57,3 +57,4 @@
 4.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tappx/sdk/android/tappx-sdk/4.1.7/tappx-sdk-4.1.7.jar returned status 404
 4.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tappx/sdk/android/tappx-sdk/4.1.8/tappx-sdk-4.1.8.jar returned status 404
 4.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tappx/sdk/android/tappx-sdk/4.1.9/tappx-sdk-4.1.9.jar returned status 404
+4.2.0		2026-09-21T14:33:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tappx/sdk/android/tappx-sdk/4.2.0/tappx-sdk-4.2.0.jar returned status 404
