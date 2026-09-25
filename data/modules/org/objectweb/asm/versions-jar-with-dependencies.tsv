@@ -1072,3 +1072,5 @@ v7.0.81	named	com.codenameone	codenameone-parparvm	2022-09-02T04:31:32Z	9.1.0
 1.5.1	named	be.ugent.idlab.knows	idlab-functions-java	2026-08-19T11:36:57Z	9.7.1
 0.8.0	named	be.ugent.idlab.knows	MappingLoom	2026-08-19T12:44:18Z	9.7
 0.39.3	named	com.github.jnr	jnr-unixsocket	2026-08-20T18:27:59Z	9.10.1
+0.39.4	named	com.github.jnr	jnr-unixsocket	2026-09-15T17:20:26Z	9.10.1
+0.39.5	named	com.github.jnr	jnr-unixsocket	2026-09-15T18:12:27Z	9.10.1

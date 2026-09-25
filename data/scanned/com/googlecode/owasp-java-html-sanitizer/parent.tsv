@@ -26,3 +26,5 @@
 20260101.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/owasp-java-html-sanitizer/parent/20260101.1/parent-20260101.1.jar returned status 404
 20260102.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/owasp-java-html-sanitizer/parent/20260102.1/parent-20260102.1.jar returned status 404
 20260313.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/owasp-java-html-sanitizer/parent/20260313.1/parent-20260313.1.jar returned status 404
+20260921.1		2026-09-21T12:45:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/owasp-java-html-sanitizer/parent/20260921.1/parent-20260921.1.jar returned status 404
+20260922.1		2026-09-22T20:14:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/googlecode/owasp-java-html-sanitizer/parent/20260922.1/parent-20260922.1.jar returned status 404

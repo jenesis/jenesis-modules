@@ -3,4 +3,10 @@
 2.0.0-kotlin2.3		2026-09-11T16:26:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/interpreter-runtime-compose-macosarm64/2.0.0-kotlin2.3/interpreter-runtime-compose-macosarm64-2.0.0-kotlin2.3.jar returned status 404
 2.0.0-kotlin2.3	metadata	2026-09-11T16:26:03Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/interpreter-runtime-compose-macosarm64/2.0.1/interpreter-runtime-compose-macosarm64-2.0.1.jar returned status 404
+2.0.1	metadata	2026-09-16T00:50:56Z	
 2.0.1-kotlin2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/interpreter-runtime-compose-macosarm64/2.0.1-kotlin2.3/interpreter-runtime-compose-macosarm64-2.0.1-kotlin2.3.jar returned status 404
+2.0.1-kotlin2.3	metadata	2026-09-16T00:46:39Z	
+2.0.2		2026-09-21T03:11:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/interpreter-runtime-compose-macosarm64/2.0.2/interpreter-runtime-compose-macosarm64-2.0.2.jar returned status 404
+2.0.2	metadata	2026-09-21T03:11:10Z	
+2.0.2-kotlin2.3		2026-09-21T03:06:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/skydoves/compose/hotswan/interpreter-runtime-compose-macosarm64/2.0.2-kotlin2.3/interpreter-runtime-compose-macosarm64-2.0.2-kotlin2.3.jar returned status 404
+2.0.2-kotlin2.3	metadata	2026-09-21T03:06:08Z	
