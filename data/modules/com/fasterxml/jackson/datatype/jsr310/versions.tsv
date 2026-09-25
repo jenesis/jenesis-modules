@@ -1117,3 +1117,6 @@ vv1.2.0.1-1-gadc43b8-1-gf5bc75b	named	com.linkedin.iceberg	iceberg-spark-runtime
 26.1.0	named	org.apache.doris	spark-doris-connector-spark-3.3	2026-09-01T02:16:04Z	2.13.5
 26.1.0	named	org.apache.doris	spark-doris-connector-spark-3.5	2026-09-01T02:16:06Z	2.13.5
 1.53.0	named	io.openlineage	spark-extension-interfaces	2026-09-02T02:06:22Z	2.18.9
+1.2.0.25	named	com.linkedin.iceberg	iceberg-spark-runtime-3.1_2.12	2026-09-22T00:27:20Z	2.14.2
+1.5.2.22	named	com.linkedin.iceberg	iceberg-spark-runtime-3.5_2.12	2026-09-22T00:31:15Z	2.16.0
+1.5.2.22	named	com.linkedin.iceberg	iceberg-azure-bundle	2026-09-22T00:31:21Z	2.13.5
