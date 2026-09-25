@@ -1219,6 +1219,7 @@
 6.12.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minjson-js/6.12.26/minjson-js-6.12.26.jar returned status 404
 6.12.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minjson-js/6.12.27/minjson-js-6.12.27.jar returned status 404
 6.12.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minjson-js/6.12.28/minjson-js-6.12.28.jar returned status 404
+6.12.29		2026-09-21T20:14:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minjson-js/6.12.29/minjson-js-6.12.29.jar returned status 404
 6.12.3		2026-08-03T17:25:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minjson-js/6.12.3/minjson-js-6.12.3.jar returned status 404
 6.12.4		2026-08-04T17:08:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minjson-js/6.12.4/minjson-js-6.12.4.jar returned status 404
 6.12.5		2026-08-05T16:47:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/minjson-js/6.12.5/minjson-js-6.12.5.jar returned status 404

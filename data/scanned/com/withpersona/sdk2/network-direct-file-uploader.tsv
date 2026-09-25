@@ -1,3 +1,4 @@
 2.53.0		2026-09-04T00:25:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/network-direct-file-uploader/2.53.0/network-direct-file-uploader-2.53.0.jar returned status 404
 2.54.0		2026-09-09T00:04:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/network-direct-file-uploader/2.54.0/network-direct-file-uploader-2.54.0.jar returned status 404
 2.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/network-direct-file-uploader/2.55.0/network-direct-file-uploader-2.55.0.jar returned status 404
+2.56.0		2026-09-22T03:31:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/withpersona/sdk2/network-direct-file-uploader/2.56.0/network-direct-file-uploader-2.56.0.jar returned status 404

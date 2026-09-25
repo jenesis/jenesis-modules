@@ -1,0 +1,2 @@
+3.8.3		2026-09-15T09:01:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/core-ssl-impl/3.8.3/core-ssl-impl-3.8.3.jar returned status 404
+3.8.4		2026-09-22T12:11:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/core-ssl-impl/3.8.4/core-ssl-impl-3.8.4.jar returned status 404

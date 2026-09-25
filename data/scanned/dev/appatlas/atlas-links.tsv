@@ -1,0 +1,4 @@
+0.1.0		2026-09-16T05:36:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/appatlas/atlas-links/0.1.0/atlas-links-0.1.0.jar returned status 404
+0.1.1		2026-09-16T23:51:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/appatlas/atlas-links/0.1.1/atlas-links-0.1.1.jar returned status 404
+0.2.0		2026-09-18T04:16:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/appatlas/atlas-links/0.2.0/atlas-links-0.2.0.jar returned status 404
+0.3.0		2026-09-21T06:06:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/appatlas/atlas-links/0.3.0/atlas-links-0.3.0.jar returned status 404

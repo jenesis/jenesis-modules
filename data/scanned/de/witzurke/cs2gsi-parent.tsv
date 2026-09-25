@@ -1,0 +1,2 @@
+1.1.0		2026-09-19T23:51:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/witzurke/cs2gsi-parent/1.1.0/cs2gsi-parent-1.1.0.jar returned status 404
+1.2.0		2026-09-20T22:11:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/witzurke/cs2gsi-parent/1.2.0/cs2gsi-parent-1.2.0.jar returned status 404

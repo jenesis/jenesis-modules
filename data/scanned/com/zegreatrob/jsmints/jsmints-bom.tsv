@@ -1228,6 +1228,7 @@
 6.12.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/jsmints-bom/6.12.26/jsmints-bom-6.12.26.jar returned status 404
 6.12.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/jsmints-bom/6.12.27/jsmints-bom-6.12.27.jar returned status 404
 6.12.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/jsmints-bom/6.12.28/jsmints-bom-6.12.28.jar returned status 404
+6.12.29		2026-09-21T20:14:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/jsmints-bom/6.12.29/jsmints-bom-6.12.29.jar returned status 404
 6.12.3		2026-08-03T17:25:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/jsmints-bom/6.12.3/jsmints-bom-6.12.3.jar returned status 404
 6.12.4		2026-08-04T17:08:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/jsmints-bom/6.12.4/jsmints-bom-6.12.4.jar returned status 404
 6.12.5		2026-08-05T16:46:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/jsmints/jsmints-bom/6.12.5/jsmints-bom-6.12.5.jar returned status 404
