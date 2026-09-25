@@ -15,3 +15,4 @@
 2.1.7		2026-08-09T22:33:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrisimx/wsdkt-iossimulatorarm64/2.1.7/wsdkt-iossimulatorarm64-2.1.7.jar returned status 404
 2.1.7	metadata	2026-08-09T22:33:12Z	
 2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chrisimx/wsdkt-iossimulatorarm64/2.1.8/wsdkt-iossimulatorarm64-2.1.8.jar returned status 404
+2.1.8	metadata	2026-09-20T16:56:05Z	
