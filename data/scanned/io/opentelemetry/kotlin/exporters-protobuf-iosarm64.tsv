@@ -13,3 +13,4 @@
 0.7.0		2026-08-26T19:01:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/kotlin/exporters-protobuf-iosarm64/0.7.0/exporters-protobuf-iosarm64-0.7.0.jar returned status 404
 0.7.0	metadata	2026-08-26T19:01:13Z	
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/opentelemetry/kotlin/exporters-protobuf-iosarm64/0.8.0/exporters-protobuf-iosarm64-0.8.0.jar returned status 404
+0.8.0	metadata	2026-09-17T05:21:07Z	
