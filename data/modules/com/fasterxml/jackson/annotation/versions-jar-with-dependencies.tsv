@@ -5423,4 +5423,5 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 11.70.2	named	com.silanis.esl	esl-java-sdk	2026-09-17T22:21:03Z	2.18.2
 3.6.3.Final	named	io.debezium	debezium-connector-cassandra-5	2026-09-18T07:51:25Z	2.21
 7.3.0	named	org.biojava	biojava-aa-prop	2026-09-19T04:51:23Z	2.18.9
+7.2.3.26	named	com.kinetica	kinetica-jdbc	2026-09-21T04:21:00Z	2.22
 8.754.14	named	com.yahoo.vespa	config-application-package	2026-09-21T06:42:41Z	2.22

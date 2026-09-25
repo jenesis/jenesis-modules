@@ -7432,3 +7432,4 @@ v0.0.20	named	com.grafana	grafana-foundation-sdk	2026-09-09T13:04:54Z	2.19.1
 2.1.5	named	org.operaton.spin	operaton-spin-dataformat-all	2026-09-18T08:41:10Z	2.21.6
 2.2.0-RC1	named	org.operaton.spin	operaton-spin-dataformat-all	2026-09-18T12:36:25Z	2.21.6
 5.9	named	org.jboss.pnc.maven-manipulator	pom-manipulation-ext	2026-09-18T18:01:00Z	2.22.2
+1.2.0.25	named	com.linkedin.iceberg	iceberg-flink-runtime-1.16	2026-09-22T00:27:20Z	2.14.3

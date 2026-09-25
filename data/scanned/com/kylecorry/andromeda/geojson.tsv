@@ -31,3 +31,4 @@
 24.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/geojson/24.7.1/geojson-24.7.1.jar returned status 404
 24.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/geojson/24.8.0/geojson-24.8.0.jar returned status 404
 25.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/geojson/25.0.0/geojson-25.0.0.jar returned status 404
+25.1.0		2026-09-22T21:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kylecorry/andromeda/geojson/25.1.0/geojson-25.1.0.jar returned status 404

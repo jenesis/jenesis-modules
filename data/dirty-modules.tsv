@@ -661,3 +661,13 @@ com.qxotic.jam.vector
 com.qxotic.jam.scalar
 com.qxotic.jam.libjam
 com.qxotic.jam
+server
+com.pambrose.jev4k
+com.google.errorprone.annotations
+com.netflix.tools.jmh
+org.apache.commons.codec
+net.sf.jsqlparser
+com.lemmabase.lemma
+org.jetbrains.annotations
+com.intechcore.polarion.extension.timesheet
+com.imsweb.validation.ncfd
