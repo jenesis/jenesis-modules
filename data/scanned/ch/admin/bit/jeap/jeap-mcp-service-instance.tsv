@@ -5,3 +5,4 @@
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-mcp-service-instance/2.2.1/jeap-mcp-service-instance-2.2.1.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-mcp-service-instance/2.3.0/jeap-mcp-service-instance-2.3.0.jar returned status 404
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-mcp-service-instance/2.4.0/jeap-mcp-service-instance-2.4.0.jar returned status 404
+2.5.0		2026-09-23T21:51:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-mcp-service-instance/2.5.0/jeap-mcp-service-instance-2.5.0.jar returned status 404

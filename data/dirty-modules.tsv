@@ -912,3 +912,9 @@ fiftyone.devicedetection.hash.engine.onpremise
 fiftyone.devicedetection.cloud
 fiftyone.devicedetection
 codes.rafael.asmjdkbridge
+ch.sbb.polarion.extension.xml_repair
+ch.sbb.polarion.extension.pdf_exporter
+ch.sbb.polarion.extension.diff_tool
+com.sun.xml.txw2
+jetty.websocket.api
+ch.braincell.plantuml.vitruv

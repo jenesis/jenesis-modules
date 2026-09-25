@@ -14,6 +14,7 @@
 11.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-oauth-mock-server-parent/11.2.0/jeap-oauth-mock-server-parent-11.2.0.jar returned status 404
 11.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-oauth-mock-server-parent/11.2.1/jeap-oauth-mock-server-parent-11.2.1.jar returned status 404
 11.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-oauth-mock-server-parent/11.3.0/jeap-oauth-mock-server-parent-11.3.0.jar returned status 404
+11.4.0		2026-09-23T21:51:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-oauth-mock-server-parent/11.4.0/jeap-oauth-mock-server-parent-11.4.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-oauth-mock-server-parent/3.1.0/jeap-oauth-mock-server-parent-3.1.0.jar returned status 404
 3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-oauth-mock-server-parent/3.10.0/jeap-oauth-mock-server-parent-3.10.0.jar returned status 404
 3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-oauth-mock-server-parent/3.11.0/jeap-oauth-mock-server-parent-3.11.0.jar returned status 404

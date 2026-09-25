@@ -69,4 +69,6 @@
 1.2.2-rc4		2026-09-14T19:59:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-iossimulatorarm64/1.2.2-rc4/runtime-iossimulatorarm64-1.2.2-rc4.jar returned status 404
 1.2.2-rc4	metadata	2026-09-14T19:59:07Z	
 1.2.2-rc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-iossimulatorarm64/1.2.2-rc5/runtime-iossimulatorarm64-1.2.2-rc5.jar returned status 404
+1.2.2-rc5	metadata	2026-09-15T11:23:26Z	
 1.2.2-rc6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uniffi/runtime-iossimulatorarm64/1.2.2-rc6/runtime-iossimulatorarm64-1.2.2-rc6.jar returned status 404
+1.2.2-rc6	metadata	2026-09-16T21:32:21Z	
