@@ -32,6 +32,8 @@
 13.4.1	plain	2026-09-06T01:37:36Z	
 13.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/instagram-spring-boot-starter/13.4.2/instagram-spring-boot-starter-13.4.2.jar returned status 404
 13.4.2	plain	2026-09-06T02:30:06Z	
+14.0.0		2026-09-21T11:41:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/instagram-spring-boot-starter/14.0.0/instagram-spring-boot-starter-14.0.0.jar returned status 404
+14.0.0	plain	2026-09-21T11:41:34Z	
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/instagram-spring-boot-starter/2.0.0/instagram-spring-boot-starter-2.0.0.jar returned status 404
 2.0.0	plain	2026-04-06T17:00:14Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/instagram-spring-boot-starter/2.0.1/instagram-spring-boot-starter-2.0.1.jar returned status 404

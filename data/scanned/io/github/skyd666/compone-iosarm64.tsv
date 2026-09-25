@@ -33,3 +33,4 @@
 1.0-beta24		2026-05-24T12:33:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skyd666/compone-iosarm64/1.0-beta24/compone-iosarm64-1.0-beta24.jar returned status 404
 1.0-beta24	metadata	2026-05-24T12:33:35Z	
 1.0-beta25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/skyd666/compone-iosarm64/1.0-beta25/compone-iosarm64-1.0-beta25.jar returned status 404
+1.0-beta25	metadata	2026-09-15T16:40:56Z	

@@ -15,6 +15,7 @@
 0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-core/0.13.0/priv-core-0.13.0.jar returned status 404
 0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-core/0.14.0/priv-core-0.14.0.jar returned status 404
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-core/0.15.0/priv-core-0.15.0.jar returned status 404
+0.16.0		2026-09-21T04:56:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-core/0.16.0/priv-core-0.16.0.jar returned status 404
 0.2.0		2026-08-02T12:11:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-core/0.2.0/priv-core-0.2.0.jar returned status 404
 0.3.0		2026-08-02T18:39:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-core/0.3.0/priv-core-0.3.0.jar returned status 404
 0.3.1		2026-08-03T07:48:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-core/0.3.1/priv-core-0.3.1.jar returned status 404
