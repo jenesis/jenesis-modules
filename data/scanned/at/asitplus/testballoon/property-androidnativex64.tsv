@@ -10,6 +10,7 @@
 0.16.0		2026-07-20T05:57:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-androidnativex64/0.16.0/property-androidnativex64-0.16.0.jar returned status 404
 0.16.1		2026-09-14T15:12:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-androidnativex64/0.16.1/property-androidnativex64-0.16.1.jar returned status 404
 0.16.2		2026-09-15T04:22:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-androidnativex64/0.16.2/property-androidnativex64-0.16.2.jar returned status 404
+0.17.0		2026-09-18T18:43:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-androidnativex64/0.17.0/property-androidnativex64-0.17.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-androidnativex64/0.2.0/property-androidnativex64-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-androidnativex64/0.3.0/property-androidnativex64-0.3.0.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/testballoon/property-androidnativex64/0.3.1/property-androidnativex64-0.3.1.jar returned status 404

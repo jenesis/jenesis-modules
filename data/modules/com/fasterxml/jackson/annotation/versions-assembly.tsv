@@ -461,3 +461,9 @@ def544ccef5f753238ecc4adfc2eaa7d2fc36d53-0.0.91	named	ai.chronon	spark_uber_2.13
 0.0.113	named	ai.chronon	spark_embedded_2.13	2026-05-26T19:46:07Z	2.12.3
 0.0.113	named	ai.chronon	service_2.12	2026-05-26T19:46:28Z	2.10.0
 0.0.113	named	ai.chronon	service_2.13	2026-05-26T19:46:54Z	2.12.3
+0.0.115	named	ai.chronon	spark_uber_2.12	2026-09-23T22:47:38Z	2.10.0
+0.0.115	named	ai.chronon	spark_uber_2.13	2026-09-23T22:47:40Z	2.12.3
+0.0.115	named	ai.chronon	service_2.12	2026-09-23T22:47:41Z	2.10.0
+0.0.115	named	ai.chronon	service_2.13	2026-09-23T22:47:42Z	2.12.3
+0.0.115	named	ai.chronon	spark_embedded_2.12	2026-09-23T22:47:42Z	2.10.0
+0.0.115	named	ai.chronon	spark_embedded_2.13	2026-09-23T22:47:51Z	2.12.3
