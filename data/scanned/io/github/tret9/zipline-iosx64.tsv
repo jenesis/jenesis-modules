@@ -100,3 +100,7 @@
 1.28.0-composelive-hermes-0.7	metadata	2026-09-11T22:03:49Z	
 1.28.0-composelive-hermes-0.7-debuggable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-iosx64/1.28.0-composelive-hermes-0.7-debuggable/zipline-iosx64-1.28.0-composelive-hermes-0.7-debuggable.jar returned status 404
 1.28.0-composelive-hermes-0.7-debuggable	metadata	2026-09-11T22:37:20Z	
+1.28.0-composelive-hermes-0.8		2026-09-21T09:11:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-iosx64/1.28.0-composelive-hermes-0.8/zipline-iosx64-1.28.0-composelive-hermes-0.8.jar returned status 404
+1.28.0-composelive-hermes-0.8	metadata	2026-09-21T09:11:24Z	
+1.28.0-composelive-hermes-0.8-debuggable		2026-09-21T09:21:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-iosx64/1.28.0-composelive-hermes-0.8-debuggable/zipline-iosx64-1.28.0-composelive-hermes-0.8-debuggable.jar returned status 404
+1.28.0-composelive-hermes-0.8-debuggable	metadata	2026-09-21T09:21:17Z	

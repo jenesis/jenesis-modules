@@ -1,0 +1,4 @@
+1.0.1		2026-09-13T08:34:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-config/1.0.1/z-config-1.0.1.jar returned status 404
+1.0.2		2026-09-14T13:06:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-config/1.0.2/z-config-1.0.2.jar returned status 404
+1.0.4		2026-09-14T14:48:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-config/1.0.4/z-config-1.0.4.jar returned status 404
+1.0.7		2026-09-14T23:51:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-config/1.0.7/z-config-1.0.7.jar returned status 404

@@ -1,0 +1,4 @@
+4.1.0		2026-09-14T22:13:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tobsef/svgo-kt-macosx64/4.1.0/svgo-kt-macosx64-4.1.0.jar returned status 404
+4.1.0	metadata	2026-09-14T22:13:20Z	
+4.1.0.1		2026-09-16T07:44:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tobsef/svgo-kt-macosx64/4.1.0.1/svgo-kt-macosx64-4.1.0.1.jar returned status 404
+4.1.0.1	metadata	2026-09-16T07:44:59Z	
