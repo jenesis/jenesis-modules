@@ -1,0 +1,4 @@
+0.5.0		2026-09-17T16:06:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/respondkit/respondkit-compose/0.5.0/respondkit-compose-0.5.0.jar returned status 404
+0.5.1		2026-09-17T17:02:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/respondkit/respondkit-compose/0.5.1/respondkit-compose-0.5.1.jar returned status 404
+0.5.2		2026-09-19T02:05:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/respondkit/respondkit-compose/0.5.2/respondkit-compose-0.5.2.jar returned status 404
+0.5.3		2026-09-19T04:21:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/respondkit/respondkit-compose/0.5.3/respondkit-compose-0.5.3.jar returned status 404

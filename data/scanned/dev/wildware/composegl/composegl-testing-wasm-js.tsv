@@ -1,0 +1,2 @@
+0.5.0		2026-09-15T20:10:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/wildware/composegl/composegl-testing-wasm-js/0.5.0/composegl-testing-wasm-js-0.5.0.jar returned status 404
+0.6.0		2026-09-16T11:44:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/wildware/composegl/composegl-testing-wasm-js/0.6.0/composegl-testing-wasm-js-0.6.0.jar returned status 404

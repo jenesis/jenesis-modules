@@ -3,3 +3,4 @@
 2.1.0		2026-05-24T21:53:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jfronny/muscript/muscript-json-nojpms/2.1.0/muscript-json-nojpms-2.1.0.jar returned status 404
 2.1.0	nojpms	2026-05-24T21:53:00Z	
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jfronny/muscript/muscript-json-nojpms/2.1.1/muscript-json-nojpms-2.1.1.jar returned status 404
+2.1.1	nojpms	2026-09-14T21:26:26Z	
