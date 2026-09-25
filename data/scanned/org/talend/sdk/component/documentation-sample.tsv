@@ -172,3 +172,4 @@
 1.94.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/documentation-sample/1.94.0/documentation-sample-1.94.0.jar returned status 404
 1.95.0		2026-08-21T14:18:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/documentation-sample/1.95.0/documentation-sample-1.95.0.jar returned status 404
 1.95.2		2026-09-03T15:30:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/documentation-sample/1.95.2/documentation-sample-1.95.2.jar returned status 404
+1.95.3		2026-09-17T12:36:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/talend/sdk/component/documentation-sample/1.95.3/documentation-sample-1.95.3.jar returned status 404

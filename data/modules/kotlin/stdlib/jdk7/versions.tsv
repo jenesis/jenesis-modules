@@ -202,3 +202,5 @@
 2.4.20-RC3	named	org.jetbrains.kotlin	kotlin-stdlib-jdk7	2026-09-03T02:55:10Z	
 2.4.20	named	org.jetbrains.kotlin	kotlin-stdlib-jdk7	2026-09-08T02:19:29Z	
 2.9.2	named	io.pyroscope	agent	2026-09-09T10:54:18Z	
+2.0.4	named	org.octopusden.octopus.jira	octopus-jira-api-plugin	2026-09-16T15:47:09Z	
+2.1.0	named	org.octopusden.octopus.jira	octopus-jira-api-plugin	2026-09-17T12:59:56Z	

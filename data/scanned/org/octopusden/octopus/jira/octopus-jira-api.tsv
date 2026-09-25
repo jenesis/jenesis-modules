@@ -2,3 +2,5 @@
 2.0.1		2026-05-29T18:37:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octopusden/octopus/jira/octopus-jira-api/2.0.1/octopus-jira-api-2.0.1.jar returned status 404
 2.0.2		2026-06-02T16:53:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octopusden/octopus/jira/octopus-jira-api/2.0.2/octopus-jira-api-2.0.2.jar returned status 404
 2.0.3		2026-06-16T15:11:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octopusden/octopus/jira/octopus-jira-api/2.0.3/octopus-jira-api-2.0.3.jar returned status 404
+2.0.4		2026-09-16T15:47:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octopusden/octopus/jira/octopus-jira-api/2.0.4/octopus-jira-api-2.0.4.jar returned status 404
+2.1.0		2026-09-17T12:59:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/octopusden/octopus/jira/octopus-jira-api/2.1.0/octopus-jira-api-2.1.0.jar returned status 404

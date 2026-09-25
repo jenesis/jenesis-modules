@@ -5418,3 +5418,4 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 1.0.26	named	com.janeluo	luban-rds-bin	2026-09-13T09:45:05Z	2.13.5
 10.4.3-BETA-1	named	com.chartiq.finsemble	finsemble	2026-09-14T11:47:12Z	2.13.5
 10.4.3-BETA-2	named	com.chartiq.finsemble	finsemble	2026-09-14T21:08:39Z	2.13.5
+8.0.0	named	org.mock-server	mockserver-k8s-webhook	2026-09-15T08:51:17Z	2.22

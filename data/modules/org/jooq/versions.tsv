@@ -290,3 +290,6 @@
 3.21.8	named	org.jooq	jooq	2026-09-05T02:19:13Z	3.21.8
 3.20.19	named	org.jooq	jooq	2026-09-05T02:19:13Z	3.20.19
 3.19.38	named	org.jooq	jooq	2026-09-05T02:23:22Z	3.19.38
+0.1.0	named	org.kill-bill.billing.plugin.java	kintsugi-plugin	2026-09-17T12:12:22Z	3.15.12
+0.1.1	named	org.kill-bill.billing.plugin.java	kintsugi-plugin	2026-09-17T12:59:56Z	3.15.12
+0.1.2	named	org.kill-bill.billing.plugin.java	kintsugi-plugin	2026-09-17T13:04:09Z	3.15.12
