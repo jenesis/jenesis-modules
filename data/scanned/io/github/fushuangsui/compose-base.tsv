@@ -1,0 +1,2 @@
+1.0.0		2026-09-17T02:16:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fushuangsui/compose-base/1.0.0/compose-base-1.0.0.jar returned status 404
+1.0.1		2026-09-17T07:05:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fushuangsui/compose-base/1.0.1/compose-base-1.0.1.jar returned status 404

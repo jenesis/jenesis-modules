@@ -13,3 +13,5 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esimplified/android-sdk/2.1.0/android-sdk-2.1.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esimplified/android-sdk/3.0.0/android-sdk-3.0.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esimplified/android-sdk/3.1.0/android-sdk-3.1.0.jar returned status 404
+3.2.0		2026-09-21T09:18:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esimplified/android-sdk/3.2.0/android-sdk-3.2.0.jar returned status 404
+3.3.0		2026-09-21T15:06:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esimplified/android-sdk/3.3.0/android-sdk-3.3.0.jar returned status 404

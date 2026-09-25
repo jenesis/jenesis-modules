@@ -1,0 +1,4 @@
+9.4.21		2026-09-13T10:55:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/errysuprayogi/core/9.4.21/core-9.4.21.jar returned status 404
+9.4.22		2026-09-13T11:03:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/errysuprayogi/core/9.4.22/core-9.4.22.jar returned status 404
+9.4.23		2026-09-13T11:35:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/errysuprayogi/core/9.4.23/core-9.4.23.jar returned status 404
+9.4.24		2026-09-13T11:54:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/errysuprayogi/core/9.4.24/core-9.4.24.jar returned status 404

@@ -1,0 +1,6 @@
+0.0.1		2026-09-15T11:03:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/briangits/events/integration/serialization/serialization-json-iossimulatorarm64/0.0.1/serialization-json-iossimulatorarm64-0.0.1.jar returned status 404
+0.0.1	metadata	2026-09-15T11:03:00Z	
+0.0.2		2026-09-15T16:10:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/briangits/events/integration/serialization/serialization-json-iossimulatorarm64/0.0.2/serialization-json-iossimulatorarm64-0.0.2.jar returned status 404
+0.0.2	metadata	2026-09-15T16:10:54Z	
+0.0.3		2026-09-15T16:27:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/briangits/events/integration/serialization/serialization-json-iossimulatorarm64/0.0.3/serialization-json-iossimulatorarm64-0.0.3.jar returned status 404
+0.0.3	metadata	2026-09-15T16:27:43Z	
