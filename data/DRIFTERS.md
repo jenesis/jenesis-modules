@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-25. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-26. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -186,7 +186,7 @@ jul.to.slf4j  [explicit rule: owned by `org.slf4j`; 17 other group(s) rejected]
   A * org.slf4j                            2019-02..2026-09 2.0.19               |....================|
   R   net.finmath                          2025-11..2026-08 3.0.0                |.................===|
   ?   io.github.zhouzhoucoder              2026-07..2026-07 6.0                  |...................=|
-  ?   xyz.hldev.libra-common               2026-06..2026-06 1.0.1                |..................==|
+  ?   xyz.hldev.libra-common               2026-06..2026-06 1.0.1                |..................=.|
   R   de.codecentric                       2024-01..2026-02 3.3.0                |..............=====.|
   R   io.github.davincilll                 2025-12..2025-12 1.0.4                |.................=..|
     + 12 more: io.github.daone-dadp, io.kestra.plugin, io.github.tky0065, com.itxk.maven, io.github.srilathakarri, de.fraunhofer.iosb.ilt.faaast.registry, org.easypeelsecurity, io.github.tracedin, com.github.kaklakariada, com.tencent.cloud, org.conductoross, io.bdeploy
@@ -493,7 +493,7 @@ org.apache.commons.beanutils  [renamed `com.guicedee.services` -> `com.guicedee.
   ? * com.guicedee.services                2020-06..2022-02 1.2.2.1-jre17        |.......====.........|
   ?   com.guicedee.modules.services        2026-04..2026-09 2.2.3                |..................==|
   ?   org.wildfly                          2025-06..2026-08 41.0.1.Final         |.................===|
-  ?   io.github.stoyank7                   2026-06..2026-06 1.0.2                |...................=|
+  ?   io.github.stoyank7                   2026-06..2026-06 1.0.2                |..................==|
   ?   org.jvnet.jaxb                       2025-09..2026-06 2.0.16               |.................==.|
   ?   com.github.bld-commons               2026-01..2026-05 3.0.19               |..................=.|
     + 4 more: kg.apc, com.github.bordertech.wcomponents, commons-beanutils, org.onebusaway
@@ -1802,7 +1802,7 @@ io.opentelemetry.context  [owned by `io.opentelemetry`; 1 other group(s) shade t
   ?   io.vidocq.humboldt                   2026-06..2026-09 0.3.0                |..................==|
 org.neo4j.cypherdsl.core  [owned by `org.neo4j`; 0 other group(s) shade the name]
   ? * org.neo4j                            2020-07..2026-09 2025.3.3             |.......=============|
-  ?   org.neo4j.connectors                 2026-06..2026-07 6.0.0-s_2.13         |...................=|
+  ?   org.neo4j.connectors                 2026-06..2026-07 6.0.0-s_2.13         |..................==|
 org.bouncycastle.provider  [owned by `org.bouncycastle`; 89 other group(s) shade the name]
   A * org.bouncycastle                     2018-07..2026-09 1.86                 |...=================|
   ?   org.apache.knox                      2026-09..2026-09 3.0.0                |...................=|
