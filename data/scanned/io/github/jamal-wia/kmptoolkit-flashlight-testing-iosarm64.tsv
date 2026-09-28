@@ -10,3 +10,5 @@
 1.5.0	metadata	2026-09-14T04:15:59Z	
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-flashlight-testing-iosarm64/1.6.0/kmptoolkit-flashlight-testing-iosarm64-1.6.0.jar returned status 404
 1.6.0	metadata	2026-09-16T09:31:36Z	
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-flashlight-testing-iosarm64/1.7.1/kmptoolkit-flashlight-testing-iosarm64-1.7.1.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-flashlight-testing-iosarm64/1.8.0/kmptoolkit-flashlight-testing-iosarm64-1.8.0.jar returned status 404

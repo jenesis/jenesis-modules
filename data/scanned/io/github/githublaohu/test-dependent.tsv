@@ -1,1 +1,3 @@
+0.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/githublaohu/test-dependent/0.0.10/test-dependent-0.0.10.jar returned status 404
+0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/githublaohu/test-dependent/0.1.4/test-dependent-0.1.4.jar returned status 404
 1.0.8		2026-09-20T16:36:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/githublaohu/test-dependent/1.0.8/test-dependent-1.0.8.jar returned status 404
