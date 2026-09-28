@@ -31,3 +31,4 @@
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yidun/onePass/1.7.3/onePass-1.7.3.jar returned status 404
 1.7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yidun/onePass/1.7.3.1/onePass-1.7.3.1.jar returned status 404
 1.7.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yidun/onePass/1.7.3.2/onePass-1.7.3.2.jar returned status 404
+1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yidun/onePass/1.7.4/onePass-1.7.4.jar returned status 404

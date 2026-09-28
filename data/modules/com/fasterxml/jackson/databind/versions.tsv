@@ -4510,6 +4510,7 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.5.2.23	named	com.linkedin.iceberg	iceberg-flink-runtime-1.18	2026-09-23T06:26:19Z	2.14.3
 1.5.2.23	named	com.linkedin.iceberg	iceberg-hive-runtime	2026-09-23T06:26:19Z	2.14.3
 8.2.0.Beta4	named	org.wildfly.galleon-plugins	wildfly-galleon-plugins	2026-09-23T10:36:11Z	2.21.5
+1.0.2	named	io.github.kathukyabrian	airtel	2026-09-23T13:11:20Z	2.22.0
 1.2.1	named	org.apache.hudi	hudi-hadoop-mr-bundle	2026-09-24T08:55:18Z	2.15.2
 1.2.1	named	org.apache.hudi	hudi-hive-sync-bundle	2026-09-24T08:55:57Z	2.15.2
 1.2.1	named	org.apache.hudi	hudi-kafka-connect-bundle	2026-09-24T09:01:50Z	2.15.2
