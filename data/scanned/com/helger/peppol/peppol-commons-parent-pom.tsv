@@ -62,6 +62,7 @@
 12.8.0		2026-08-12T18:21:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol/peppol-commons-parent-pom/12.8.0/peppol-commons-parent-pom-12.8.0.jar returned status 404
 12.8.1		2026-08-19T13:52:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol/peppol-commons-parent-pom/12.8.1/peppol-commons-parent-pom-12.8.1.jar returned status 404
 12.9.0		2026-08-30T13:07:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol/peppol-commons-parent-pom/12.9.0/peppol-commons-parent-pom-12.9.0.jar returned status 404
+13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol/peppol-commons-parent-pom/13.0.0/peppol-commons-parent-pom-13.0.0.jar returned status 404
 8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol/peppol-commons-parent-pom/8.1.0/peppol-commons-parent-pom-8.1.0.jar returned status 404
 8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol/peppol-commons-parent-pom/8.1.1/peppol-commons-parent-pom-8.1.1.jar returned status 404
 8.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol/peppol-commons-parent-pom/8.1.2/peppol-commons-parent-pom-8.1.2.jar returned status 404
