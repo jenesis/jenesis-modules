@@ -1,2 +1,5 @@
 1.0.1		2026-09-21T07:06:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafichariri/inspector-stream-iosarm64/1.0.1/inspector-stream-iosarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2026-09-21T07:06:21Z	
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafichariri/inspector-stream-iosarm64/1.0.2/inspector-stream-iosarm64-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafichariri/inspector-stream-iosarm64/1.0.3/inspector-stream-iosarm64-1.0.3.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafichariri/inspector-stream-iosarm64/1.1.0/inspector-stream-iosarm64-1.1.0.jar returned status 404
