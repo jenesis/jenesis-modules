@@ -56,6 +56,7 @@
 51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/jboss-parent/51/jboss-parent-51.jar returned status 404
 52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/jboss-parent/52/jboss-parent-52.jar returned status 404
 53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/jboss-parent/53/jboss-parent-53.jar returned status 404
+54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/jboss-parent/54/jboss-parent-54.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/jboss-parent/6/jboss-parent-6.jar returned status 404
 6-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/jboss-parent/6-beta-1/jboss-parent-6-beta-1.jar returned status 404
 6-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/jboss-parent/6-beta-2/jboss-parent-6-beta-2.jar returned status 404
