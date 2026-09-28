@@ -490,3 +490,4 @@
 10	automatic	io.airlift	guice	2026-08-31T12:33:21Z	
 2.2.3	named	com.guicedee.modules.services	guice	2026-09-12T23:30:14Z	2.2.3
 7.0.1	automatic	com.carrotsearch.thirdparty.google.inject	guice-jdk25	2026-09-21T10:42:21Z	
+2.3.0	named	com.guicedee.modules.services	guice	2026-09-25T00:21:23Z	2.3.0

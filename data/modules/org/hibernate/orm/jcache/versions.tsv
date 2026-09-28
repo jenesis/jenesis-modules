@@ -853,5 +853,6 @@
 6.6.58.Final	automatic	org.hibernate.orm	hibernate-jcache	2026-09-20T00:21:04Z	
 7.4.10.Final	automatic	org.hibernate.orm	hibernate-jcache	2026-09-20T00:31:24Z	
 8.0.0.Beta2	automatic	org.hibernate.orm	hibernate-jcache	2026-09-23T21:06:58Z	
+2.3.0	named	com.guicedee.modules.services	hibernate-jcache	2026-09-25T00:21:23Z	2.3.0
 8.0.0.Beta3	automatic	org.hibernate.orm	hibernate-jcache	2026-09-25T17:31:17Z	
 7.4.11.Final	automatic	org.hibernate.orm	hibernate-jcache	2026-09-27T00:26:11Z	
