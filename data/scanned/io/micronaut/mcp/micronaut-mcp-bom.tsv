@@ -25,3 +25,4 @@
 1.0.0-RC1		2026-05-07T17:25:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/mcp/micronaut-mcp-bom/1.0.0-RC1/micronaut-mcp-bom-1.0.0-RC1.jar returned status 404
 1.1.0		2026-06-18T14:12:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/mcp/micronaut-mcp-bom/1.1.0/micronaut-mcp-bom-1.1.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/mcp/micronaut-mcp-bom/2.0.0/micronaut-mcp-bom-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/mcp/micronaut-mcp-bom/2.1.0/micronaut-mcp-bom-2.1.0.jar returned status 404

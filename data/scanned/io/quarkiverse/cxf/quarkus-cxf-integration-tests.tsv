@@ -130,6 +130,7 @@
 3.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.33.0/quarkus-cxf-integration-tests-3.33.0.jar returned status 404
 3.33.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.33.1/quarkus-cxf-integration-tests-3.33.1.jar returned status 404
 3.33.10		2026-08-22T11:47:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.33.10/quarkus-cxf-integration-tests-3.33.10.jar returned status 404
+3.33.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.33.11/quarkus-cxf-integration-tests-3.33.11.jar returned status 404
 3.33.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.33.2/quarkus-cxf-integration-tests-3.33.2.jar returned status 404
 3.33.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.33.3/quarkus-cxf-integration-tests-3.33.3.jar returned status 404
 3.33.4		2026-06-08T11:11:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.33.4/quarkus-cxf-integration-tests-3.33.4.jar returned status 404
@@ -147,6 +148,7 @@
 3.38.0.CR2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.38.0.CR2/quarkus-cxf-integration-tests-3.38.0.CR2.jar returned status 404
 3.39.0		2026-08-19T19:43:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.39.0/quarkus-cxf-integration-tests-3.39.0.jar returned status 404
 3.39.1		2026-08-22T11:16:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.39.1/quarkus-cxf-integration-tests-3.39.1.jar returned status 404
+3.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.40.0/quarkus-cxf-integration-tests-3.40.0.jar returned status 404
 3.40.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.40.0.CR1/quarkus-cxf-integration-tests-3.40.0.CR1.jar returned status 404
 3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.8.0/quarkus-cxf-integration-tests-3.8.0.jar returned status 404
 3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-integration-tests/3.8.1/quarkus-cxf-integration-tests-3.8.1.jar returned status 404
