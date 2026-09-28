@@ -58,4 +58,5 @@
 3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-server/3.8.1/mavsdk-server-3.8.1.jar returned status 404
 3.8.1-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-server/3.8.1-1/mavsdk-server-3.8.1-1.jar returned status 404
 3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-server/3.9.0/mavsdk-server-3.9.0.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-server/4.0.0/mavsdk-server-4.0.0.jar returned status 404
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-server/unspecified/mavsdk-server-unspecified.jar returned status 404
