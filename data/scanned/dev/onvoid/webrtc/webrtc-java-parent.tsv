@@ -8,6 +8,7 @@
 0.16.0		2026-08-24T11:40:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/onvoid/webrtc/webrtc-java-parent/0.16.0/webrtc-java-parent-0.16.0.jar returned status 404
 0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/onvoid/webrtc/webrtc-java-parent/0.17.0/webrtc-java-parent-0.17.0.jar returned status 404
 0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/onvoid/webrtc/webrtc-java-parent/0.18.0/webrtc-java-parent-0.18.0.jar returned status 404
+0.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/onvoid/webrtc/webrtc-java-parent/0.19.0/webrtc-java-parent-0.19.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/onvoid/webrtc/webrtc-java-parent/0.2.0/webrtc-java-parent-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/onvoid/webrtc/webrtc-java-parent/0.3.0/webrtc-java-parent-0.3.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/onvoid/webrtc/webrtc-java-parent/0.4.0/webrtc-java-parent-0.4.0.jar returned status 404

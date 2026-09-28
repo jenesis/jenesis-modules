@@ -3969,3 +3969,17 @@ dev.tachyonmcp.opentelemetry
 dev.tachyonmcp.spring.boot
 dev.tachyonmcp.kotlin
 dev.tachyonmcp.kotlin.ktschema
+dev.bitspark.bitwire
+dev.domaincentric.dca.buildingblocks
+dev.domaincentric.dca.archunit
+dev.hegel.lowlevel
+dev.hegel
+dev.hegel.jna
+webrtc.java
+dev.silenium.compose.gl
+dev.silenium.libs.gl
+dev.javai18n.core
+dev.javai18n.fx
+dev.javai18n.swing
+kotlinx.serialization.cbor
+dev.mohterbaord.util.unicodeslice
