@@ -64,3 +64,4 @@
 0.0.44	metadata	2026-09-21T10:01:08Z	
 0.0.45		2026-09-21T13:26:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mudrichenkoevgeny/shared-foundation-core-settings-iossimulatorarm64/0.0.45/shared-foundation-core-settings-iossimulatorarm64-0.0.45.jar returned status 404
 0.0.45	metadata	2026-09-21T13:26:11Z	
+0.0.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mudrichenkoevgeny/shared-foundation-core-settings-iossimulatorarm64/0.0.46/shared-foundation-core-settings-iossimulatorarm64-0.0.46.jar returned status 404
