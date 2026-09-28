@@ -13,3 +13,5 @@
 4.1.0.260809		2026-08-09T15:08:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-common/4.1.0.260809/nif-common-4.1.0.260809.jar returned status 404
 4.1.0.260810		2026-08-10T13:20:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-common/4.1.0.260810/nif-common-4.1.0.260810.jar returned status 404
 4.1.1		2026-08-25T03:42:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-common/4.1.1/nif-common-4.1.1.jar returned status 404
+4.1.1-20260921			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-common/4.1.1-20260921/nif-common-4.1.1-20260921.jar returned status 404
+4.1.1-20261001			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-common/4.1.1-20261001/nif-common-4.1.1-20261001.jar returned status 404

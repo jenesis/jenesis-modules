@@ -6,3 +6,5 @@
 4.1.0.060701		2026-07-01T05:12:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-cloud-plus/4.1.0.060701/nif-cloud-plus-4.1.0.060701.jar returned status 404
 4.1.0.060702		2026-07-01T11:02:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-cloud-plus/4.1.0.060702/nif-cloud-plus-4.1.0.060702.jar returned status 404
 4.1.1		2026-08-25T03:42:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-cloud-plus/4.1.1/nif-cloud-plus-4.1.1.jar returned status 404
+4.1.1-20260921			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-cloud-plus/4.1.1-20260921/nif-cloud-plus-4.1.1-20260921.jar returned status 404
+4.1.1-20261001			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/riemann/nif-cloud-plus/4.1.1-20261001/nif-cloud-plus-4.1.1-20261001.jar returned status 404
