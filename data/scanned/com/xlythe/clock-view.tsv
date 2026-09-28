@@ -12,3 +12,4 @@
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xlythe/clock-view/3.0.0/clock-view-3.0.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xlythe/clock-view/3.1.0/clock-view-3.1.0.jar returned status 404
 3.2.0		2026-09-20T21:21:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xlythe/clock-view/3.2.0/clock-view-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xlythe/clock-view/3.2.1/clock-view-3.2.1.jar returned status 404

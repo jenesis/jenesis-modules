@@ -7445,3 +7445,4 @@ v0.0.20	named	com.grafana	grafana-foundation-sdk	2026-09-09T13:04:54Z	2.19.1
 2.9.3.Final	named	org.wildfly.security	wildfly-elytron	2026-09-23T16:51:22Z	2.21.1
 2.9.4.Final	named	org.wildfly.security	wildfly-elytron	2026-09-24T08:22:41Z	2.21.7
 1.2.1	named	org.apache.hudi	hudi-integ-test-bundle	2026-09-24T09:04:12Z	2.15.2
+0.10.1	named	com.clickhouse.spark	clickhouse-spark-runtime-4.0_2.13	2026-09-24T15:15:42Z	2.18.2
