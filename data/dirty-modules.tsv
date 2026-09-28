@@ -3394,3 +3394,9 @@ io.fluxzero.devserver
 io.fluxzero.common
 io.fluxzero.testserver
 io.fluxzero.proxy
+io.quarkus.packaging.common
+io.smallrye.mutiny
+jakarta.annotation
+io.quarkus.arc
+io.quarkus.modular
+io.quarkus.commons.classloading
