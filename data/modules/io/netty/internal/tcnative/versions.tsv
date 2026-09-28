@@ -917,6 +917,7 @@
 4.50.0	named	com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-12	2026-09-22T22:16:13Z	2.0.81.Final
 4.50.0	named	com.azure.cosmos.spark	azure-cosmos-spark_3-5_2-13	2026-09-22T22:16:13Z	2.0.81.Final
 7.1.4	named	com.microsoft.azure.kusto	kusto-spark_4.0_2.13	2026-09-23T15:37:38Z	2.0.74.Final
+46.1.0	named	com.google.api-ads	google-ads-shadowjar	2026-09-23T22:05:03Z	2.0.75.Final
 4.140.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-23T23:51:38Z	2.0.72.Final
 4.140.6	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-24T02:11:33Z	2.0.72.Final
 4.150.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-25T12:11:27Z	2.0.72.Final

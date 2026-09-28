@@ -1123,6 +1123,8 @@ vv1.2.0.1-1-gadc43b8-1-gf5bc75b	named	com.linkedin.iceberg	iceberg-spark-runtime
 1.2.0.25	named	com.linkedin.iceberg	iceberg-spark-runtime-3.1_2.12	2026-09-22T00:27:20Z	2.14.2
 1.5.2.22	named	com.linkedin.iceberg	iceberg-spark-runtime-3.5_2.12	2026-09-22T00:31:15Z	2.16.0
 1.5.2.22	named	com.linkedin.iceberg	iceberg-azure-bundle	2026-09-22T00:31:21Z	2.13.5
+1.5.2.23	named	com.linkedin.iceberg	iceberg-spark-runtime-3.5_2.12	2026-09-23T06:26:19Z	2.16.0
+1.5.2.23	named	com.linkedin.iceberg	iceberg-azure-bundle	2026-09-23T06:26:22Z	2.13.5
 1.2.1	named	org.apache.hudi	hudi-spark3.5-bundle_2.13	2026-09-24T08:33:39Z	2.15.2
 1.2.1	named	org.apache.hudi	hudi-utilities-bundle_2.13	2026-09-24T08:33:59Z	2.15.2
 1.2.1	named	org.apache.hudi	hudi-spark3.3-bundle_2.12	2026-09-24T08:37:32Z	2.13.3
