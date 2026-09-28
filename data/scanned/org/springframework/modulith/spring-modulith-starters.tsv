@@ -82,3 +82,4 @@
 2.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith-starters/2.1.0-RC1/spring-modulith-starters-2.1.0-RC1.jar returned status 404
 2.1.1		2026-08-25T13:07:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith-starters/2.1.1/spring-modulith-starters-2.1.1.jar returned status 404
 2.2.0-M1		2026-08-25T16:06:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith-starters/2.2.0-M1/spring-modulith-starters-2.2.0-M1.jar returned status 404
+2.2.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/modulith/spring-modulith-starters/2.2.0-M2/spring-modulith-starters-2.2.0-M2.jar returned status 404

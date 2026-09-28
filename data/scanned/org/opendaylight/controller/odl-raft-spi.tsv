@@ -20,3 +20,5 @@
 13.0.3		2026-08-16T12:48:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-raft-spi/13.0.3/odl-raft-spi-13.0.3.jar returned status 404
 13.0.4		2026-08-23T15:29:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-raft-spi/13.0.4/odl-raft-spi-13.0.4.jar returned status 404
 13.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-raft-spi/13.0.5/odl-raft-spi-13.0.5.jar returned status 404
+14.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-raft-spi/14.0.0/odl-raft-spi-14.0.0.jar returned status 404
+14.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-raft-spi/14.0.1/odl-raft-spi-14.0.1.jar returned status 404

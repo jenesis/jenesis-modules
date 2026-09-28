@@ -37,6 +37,7 @@
 0.105.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie/0.105.7/nessie-0.105.7.jar returned status 404
 0.106.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie/0.106.0/nessie-0.106.0.jar returned status 404
 0.106.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie/0.106.1/nessie-0.106.1.jar returned status 404
+0.106.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie/0.106.2/nessie-0.106.2.jar returned status 404
 0.107.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie/0.107.0/nessie-0.107.0.jar returned status 404
 0.107.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie/0.107.1/nessie-0.107.1.jar returned status 404
 0.107.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie/0.107.2/nessie-0.107.2.jar returned status 404

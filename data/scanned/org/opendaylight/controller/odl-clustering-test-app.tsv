@@ -67,6 +67,8 @@
 13.0.3		2026-08-16T12:36:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-clustering-test-app/13.0.3/odl-clustering-test-app-13.0.3.jar returned status 404
 13.0.4		2026-08-23T15:17:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-clustering-test-app/13.0.4/odl-clustering-test-app-13.0.4.jar returned status 404
 13.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-clustering-test-app/13.0.5/odl-clustering-test-app-13.0.5.jar returned status 404
+14.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-clustering-test-app/14.0.0/odl-clustering-test-app-14.0.0.jar returned status 404
+14.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-clustering-test-app/14.0.1/odl-clustering-test-app-14.0.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-clustering-test-app/2.0.0/odl-clustering-test-app-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-clustering-test-app/2.0.1/odl-clustering-test-app-2.0.1.jar returned status 404
 2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/odl-clustering-test-app/2.0.10/odl-clustering-test-app-2.0.10.jar returned status 404
