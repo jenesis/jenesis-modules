@@ -3983,3 +3983,12 @@ dev.javai18n.fx
 dev.javai18n.swing
 kotlinx.serialization.cbor
 dev.mohterbaord.util.unicodeslice
+dev.agenor.runtime.llm
+dev.agenor.runtime
+dev.agenor.runtime.ext
+dev.agenor.runtime.scanning
+dev.agenor.tools
+dev.agenor.core
+dev.agenor.adapters
+dev.agenor.autoconfigure
+dev.agenor.adapters.persistence
