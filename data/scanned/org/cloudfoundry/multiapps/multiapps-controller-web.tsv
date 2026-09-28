@@ -366,3 +366,4 @@
 2.54.1	classes	2026-09-18T11:03:34Z	
 2.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudfoundry/multiapps/multiapps-controller-web/2.55.0/multiapps-controller-web-2.55.0.jar returned status 404
 2.55.0	classes	2026-09-15T12:46:36Z	
+2.56.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/cloudfoundry/multiapps/multiapps-controller-web/2.56.0/multiapps-controller-web-2.56.0.jar returned status 404
