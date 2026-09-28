@@ -50,7 +50,9 @@
 56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-parent/56/weld-parent-56.jar returned status 404
 57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-parent/57/weld-parent-57.jar returned status 404
 58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-parent/58/weld-parent-58.jar returned status 404
+59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-parent/59/weld-parent-59.jar returned status 404
 6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-parent/6/weld-parent-6.jar returned status 404
+60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-parent/60/weld-parent-60.jar returned status 404
 7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-parent/7/weld-parent-7.jar returned status 404
 8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-parent/8/weld-parent-8.jar returned status 404
 9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/weld/weld-parent/9/weld-parent-9.jar returned status 404
