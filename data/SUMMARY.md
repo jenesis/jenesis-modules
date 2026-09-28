@@ -4,7 +4,7 @@
 > _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-09-24 08:56:20 UTC_  
-_Current chunk started: 2026-09-25 04:49:14 UTC_  
+_Current chunk started: 2026-09-28 11:13:32 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 939_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 18 707 988 |
-| Non-module artifacts | 16 653 434 |
+| Total artifacts scanned | 18 772 233 |
+| Non-module artifacts | 16 709 253 |
 | Modular artifacts | 1 702 405 |
 | Total automatic modules | 1 329 572 |
 | Total named modules | 372 833 |
 | Total named modules with module-info version | 282 827 |
-| Distinct Maven artifacts | 698 789 |
-| Distinct module names | 42 641 |
+| Distinct Maven artifacts | 698 795 |
+| Distinct module names | 42 698 |
 | Distinct automatic modules | 22 593 |
 | Distinct named modules | 18 515 |
 | Distinct named modules with module-info version | 13 483 |
@@ -42,7 +42,7 @@ Of those, **246** rows (55 distinct values) carry a version key that is not a va
 
 ### Republished JVM modules
 
-**15** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, the `java --list-modules` set) have been republished on Maven Central under some coordinate, across **807** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.
+**15** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, the `java --list-modules` set) have been republished on Maven Central under some coordinate, across **809** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.
 
 ## Type breakdown
 
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 2 311 | 906 | 1 405 |
-| New version rows | 3 662 | 1 441 | 2 221 |
-| Non-modular artifacts | 12 112 | - | - |
+| Modules with a publication | 503 | 298 | 205 |
+| New version rows | 803 | 553 | 250 |
+| Non-modular artifacts | 4 972 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 111 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 969 (88.4%) |
 | 2026-07 | `█`&nbsp;3 538 (7.1%) | `▓▓`&nbsp;5 573 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
 | 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 687 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 737 (86.0%) |
-| 2026-09 | `█`&nbsp;3 245 (10.7%) | `▓▓`&nbsp;4 638 (15.3%) | `░░░░░░░`&nbsp;22 412 (74.0%) |
+| 2026-09 | `█`&nbsp;3 245 (11.3%) | `▓▓`&nbsp;4 638 (16.2%) | `░░░░░░░`&nbsp;20 731 (72.5%) |
 
 ## Naming patterns
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 3 896 279 |
-| Incorrectly indexed (mis-stamped 404s) | 3 893 609 |
-| Genuine artifact errors | 2 670 |
+| Total failed coordinates | 3 914 426 |
+| Incorrectly indexed (mis-stamped 404s) | 3 911 729 |
+| Genuine artifact errors | 2 697 |
 
 ### Top 25 genuine error messages
 
@@ -212,8 +212,8 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 | Error message | Count |
 |---|---:|
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
-| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 519 |
-| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 461 |
+| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 521 |
+| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 486 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
@@ -327,9 +327,9 @@ Module names that have been published under the most different groupIds across h
 | `org.apache.commons.lang3` | 75 |
 | `com.google.gson [-all]` | 72 |
 | `com.fasterxml.jackson.module.jaxb` | 67 |
+| `org.apache.commons.io` | 67 |
 | `org.yaml.snakeyaml` | 67 |
 | `org.apache.commons.codec` | 66 |
-| `org.apache.commons.io` | 66 |
 
 ## Top 25 modules updated in the last 7 days
 
