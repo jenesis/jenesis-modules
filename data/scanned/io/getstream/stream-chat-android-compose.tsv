@@ -174,6 +174,7 @@
 6.43.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/6.43.0/stream-chat-android-compose-6.43.0.jar returned status 404
 6.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/6.44.0/stream-chat-android-compose-6.44.0.jar returned status 404
 6.44.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/6.44.1/stream-chat-android-compose-6.44.1.jar returned status 404
+6.44.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/6.44.2/stream-chat-android-compose-6.44.2.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/6.5.0/stream-chat-android-compose-6.5.0.jar returned status 404
 6.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/6.5.1/stream-chat-android-compose-6.5.1.jar returned status 404
 6.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/6.5.2/stream-chat-android-compose-6.5.2.jar returned status 404
@@ -188,6 +189,7 @@
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/7.1.0/stream-chat-android-compose-7.1.0.jar returned status 404
 7.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/7.10.0/stream-chat-android-compose-7.10.0.jar returned status 404
 7.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/7.11.0/stream-chat-android-compose-7.11.0.jar returned status 404
+7.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/7.12.0/stream-chat-android-compose-7.12.0.jar returned status 404
 7.2.0		2026-05-22T16:34:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/7.2.0/stream-chat-android-compose-7.2.0.jar returned status 404
 7.3.0		2026-06-05T09:13:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/7.3.0/stream-chat-android-compose-7.3.0.jar returned status 404
 7.4.0		2026-06-16T14:17:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/getstream/stream-chat-android-compose/7.4.0/stream-chat-android-compose-7.4.0.jar returned status 404
