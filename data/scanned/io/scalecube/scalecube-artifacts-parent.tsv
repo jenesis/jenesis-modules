@@ -6,3 +6,4 @@
 0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-artifacts-parent/0.1.5/scalecube-artifacts-parent-0.1.5.jar returned status 404
 0.1.5.parallel-snapshot.rc1		2026-08-28T15:58:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-artifacts-parent/0.1.5.parallel-snapshot.rc1/scalecube-artifacts-parent-0.1.5.parallel-snapshot.rc1.jar returned status 404
 0.1.5.parallel-snapshot.rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-artifacts-parent/0.1.5.parallel-snapshot.rc2/scalecube-artifacts-parent-0.1.5.parallel-snapshot.rc2.jar returned status 404
+0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-artifacts-parent/0.1.6/scalecube-artifacts-parent-0.1.6.jar returned status 404
