@@ -44,6 +44,8 @@
 12.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.18.0/parent-12.18.0.jar returned status 404
 12.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.19.0/parent-12.19.0.jar returned status 404
 12.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.2.0/parent-12.2.0.jar returned status 404
+12.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.20.0/parent-12.20.0.jar returned status 404
+12.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.21.0/parent-12.21.0.jar returned status 404
 12.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.3.0/parent-12.3.0.jar returned status 404
 12.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.3.1/parent-12.3.1.jar returned status 404
 12.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/rune-common/parent/12.3.2/parent-12.3.2.jar returned status 404

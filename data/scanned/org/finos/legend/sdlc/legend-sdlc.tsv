@@ -282,8 +282,10 @@
 0.232.2		2026-08-24T21:24:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc/0.232.2/legend-sdlc-0.232.2.jar returned status 404
 0.232.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc/0.232.3/legend-sdlc-0.232.3.jar returned status 404
 0.232.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc/0.232.4/legend-sdlc-0.232.4.jar returned status 404
+0.232.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc/0.232.5/legend-sdlc-0.232.5.jar returned status 404
 0.233.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc/0.233.0/legend-sdlc-0.233.0.jar returned status 404
 0.233.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc/0.233.1/legend-sdlc-0.233.1.jar returned status 404
+0.233.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc/0.233.2/legend-sdlc-0.233.2.jar returned status 404
 0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc/0.24.0/legend-sdlc-0.24.0.jar returned status 404
 0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc/0.25.0/legend-sdlc-0.25.0.jar returned status 404
 0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc/0.26.0/legend-sdlc-0.26.0.jar returned status 404
