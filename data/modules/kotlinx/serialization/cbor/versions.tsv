@@ -32,3 +32,5 @@
 1.10.0	named	org.jetbrains.kotlinx	kotlinx-serialization-cbor-jvm	2026-01-21T10:20:42Z	
 1.11.0	named	org.jetbrains.kotlinx	kotlinx-serialization-cbor-jvm	2026-04-09T17:47:54Z	
 1.12.0-RC	named	org.jetbrains.kotlinx	kotlinx-serialization-cbor-jvm	2026-09-05T02:23:23Z	
+0.7.0	named	dev.sebastiano.spectre	spectre-agent-runtime	2026-09-22T10:15:04Z	
+0.7.1	named	dev.sebastiano.spectre	spectre-agent-runtime	2026-09-23T09:31:15Z	
