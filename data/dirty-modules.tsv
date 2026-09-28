@@ -3402,3 +3402,17 @@ io.quarkus.modular
 io.quarkus.commons.classloading
 io.quarkus.core
 io.quarkus.jlink.launcher
+io.quarkus.jlink
+io.quarkus.bootstrap.runner
+io.quarkus.dev.spi
+io.smallrye.common.ref
+org.wildfly.common
+io.smallrye.common.net
+quarkus.klass.change.agent
+io.quarkus.changeagent
+io.quarkus.launcher
+io.quarkus.qute
+io.quarkus.qute.generator
+io.quarkus.qute.debug
+io.telicent.jena.fuseki.kafka
+io.telicent.jena.kafka.connector
