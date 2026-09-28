@@ -8,3 +8,5 @@
 0.2.2	metadata	2026-09-14T02:02:53Z	
 0.2.3		2026-09-14T15:08:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/nomercy/nomercy-video-player-subtitles-libass-iosx64/0.2.3/nomercy-video-player-subtitles-libass-iosx64-0.2.3.jar returned status 404
 0.2.3	metadata	2026-09-14T15:08:04Z	
+0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/nomercy/nomercy-video-player-subtitles-libass-iosx64/0.2.4/nomercy-video-player-subtitles-libass-iosx64-0.2.4.jar returned status 404
+0.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tv/nomercy/nomercy-video-player-subtitles-libass-iosx64/0.2.6/nomercy-video-player-subtitles-libass-iosx64-0.2.6.jar returned status 404
