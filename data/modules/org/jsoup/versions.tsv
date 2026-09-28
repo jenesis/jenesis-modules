@@ -337,3 +337,4 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 2.1.25	named	io.get-coursier	coursier-util_2.13	2026-09-17T14:51:11Z	1.23.2
 2.1.25	named	io.get-coursier	coursier-util_3	2026-09-17T14:51:11Z	1.23.2
 2.1.14	named	io.get-coursier	lm-coursier-shaded_2.12	2026-09-18T17:29:11Z	1.23.2
+2.1.0-M2	named	org.scala-sbt	librarymanagement-coursier_3	2026-09-21T08:46:41Z	1.23.2
