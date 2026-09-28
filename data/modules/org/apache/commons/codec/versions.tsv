@@ -2088,3 +2088,13 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 2.55.0	named	software.amazon.awssdk	bundle	2026-09-17T20:46:01Z	1.17.1
 2.55.1	named	software.amazon.awssdk	bundle	2026-09-18T21:35:30Z	1.17.1
 2.55.1	named	software.amazon.awssdk	bundle-sdk	2026-09-18T21:35:36Z	1.17.1
+2.55.2	named	software.amazon.awssdk	bundle-sdk	2026-09-21T21:06:04Z	1.17.1
+2.55.2	named	software.amazon.awssdk	bundle	2026-09-21T21:06:11Z	1.17.1
+2.55.3	named	software.amazon.awssdk	bundle-sdk	2026-09-22T20:37:21Z	1.17.1
+2.55.3	named	software.amazon.awssdk	bundle	2026-09-22T20:37:29Z	1.17.1
+2.55.4	named	software.amazon.awssdk	bundle	2026-09-23T22:34:25Z	1.17.1
+2.55.4	named	software.amazon.awssdk	bundle-sdk	2026-09-23T22:34:25Z	1.17.1
+2.55.5	named	software.amazon.awssdk	bundle-sdk	2026-09-24T20:45:41Z	1.17.1
+2.55.5	named	software.amazon.awssdk	bundle	2026-09-24T20:45:56Z	1.17.1
+2.55.6	named	software.amazon.awssdk	bundle-sdk	2026-09-25T20:45:04Z	1.17.1
+2.55.6	named	software.amazon.awssdk	bundle	2026-09-25T20:45:13Z	1.17.1
