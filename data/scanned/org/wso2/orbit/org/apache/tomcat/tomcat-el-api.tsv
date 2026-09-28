@@ -9,6 +9,7 @@
 9.0.116.wso2v1		2026-04-02T08:54:18Z	
 9.0.117.wso2v1		2026-04-24T06:07:59Z	
 9.0.118.wso2v1		2026-05-22T04:47:05Z	
+9.0.122.wso2v1			
 9.0.21.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/tomcat/tomcat-el-api/9.0.21.wso2v1/tomcat-el-api-9.0.21.wso2v1.jar returned status 404
 9.0.22.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/tomcat/tomcat-el-api/9.0.22.wso2v1/tomcat-el-api-9.0.22.wso2v1.jar returned status 404
 9.0.24.wso2v1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/orbit/org/apache/tomcat/tomcat-el-api/9.0.24.wso2v1/tomcat-el-api-9.0.24.wso2v1.jar returned status 404

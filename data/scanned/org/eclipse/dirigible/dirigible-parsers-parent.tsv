@@ -141,5 +141,10 @@
 14.59.0		2026-09-18T09:33:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-parsers-parent/14.59.0/dirigible-parsers-parent-14.59.0.jar returned status 404
 14.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-parsers-parent/14.6.0/dirigible-parsers-parent-14.6.0.jar returned status 404
 14.60.0		2026-09-18T10:13:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-parsers-parent/14.60.0/dirigible-parsers-parent-14.60.0.jar returned status 404
+14.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-parsers-parent/14.61.0/dirigible-parsers-parent-14.61.0.jar returned status 404
+14.62.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-parsers-parent/14.62.0/dirigible-parsers-parent-14.62.0.jar returned status 404
+14.63.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-parsers-parent/14.63.0/dirigible-parsers-parent-14.63.0.jar returned status 404
+14.64.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-parsers-parent/14.64.0/dirigible-parsers-parent-14.64.0.jar returned status 404
+14.65.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-parsers-parent/14.65.0/dirigible-parsers-parent-14.65.0.jar returned status 404
 14.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-parsers-parent/14.8.0/dirigible-parsers-parent-14.8.0.jar returned status 404
 14.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/dirigible/dirigible-parsers-parent/14.9.0/dirigible-parsers-parent-14.9.0.jar returned status 404
