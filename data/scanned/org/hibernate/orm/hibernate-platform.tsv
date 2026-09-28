@@ -237,6 +237,7 @@
 7.4.0.Final		2026-05-26T18:39:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/7.4.0.Final/hibernate-platform-7.4.0.Final.jar returned status 404
 7.4.1.Final		2026-06-09T12:35:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/7.4.1.Final/hibernate-platform-7.4.1.Final.jar returned status 404
 7.4.10.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/7.4.10.Final/hibernate-platform-7.4.10.Final.jar returned status 404
+7.4.11.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/7.4.11.Final/hibernate-platform-7.4.11.Final.jar returned status 404
 7.4.2.Final		2026-06-21T00:27:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/7.4.2.Final/hibernate-platform-7.4.2.Final.jar returned status 404
 7.4.3.Final		2026-06-28T00:53:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/7.4.3.Final/hibernate-platform-7.4.3.Final.jar returned status 404
 7.4.4.Final		2026-07-05T00:50:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/7.4.4.Final/hibernate-platform-7.4.4.Final.jar returned status 404
@@ -247,3 +248,5 @@
 7.4.9.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/7.4.9.Final/hibernate-platform-7.4.9.Final.jar returned status 404
 8.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/8.0.0.Alpha1/hibernate-platform-8.0.0.Alpha1.jar returned status 404
 8.0.0.Beta1		2026-06-16T20:04:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/8.0.0.Beta1/hibernate-platform-8.0.0.Beta1.jar returned status 404
+8.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/8.0.0.Beta2/hibernate-platform-8.0.0.Beta2.jar returned status 404
+8.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-platform/8.0.0.Beta3/hibernate-platform-8.0.0.Beta3.jar returned status 404

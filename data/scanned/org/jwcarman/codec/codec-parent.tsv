@@ -1,4 +1,5 @@
 0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/codec/codec-parent/0.1.0/codec-parent-0.1.0.jar returned status 404
+0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/codec/codec-parent/0.10.0/codec-parent-0.10.0.jar returned status 404
 0.2.0		2026-08-24T03:58:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/codec/codec-parent/0.2.0/codec-parent-0.2.0.jar returned status 404
 0.3.0		2026-08-24T13:51:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/codec/codec-parent/0.3.0/codec-parent-0.3.0.jar returned status 404
 0.4.0		2026-08-24T15:18:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/codec/codec-parent/0.4.0/codec-parent-0.4.0.jar returned status 404
