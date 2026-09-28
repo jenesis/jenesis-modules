@@ -17,3 +17,4 @@
 3.7.0.Alpha2		2026-08-13T11:39:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/quarkus/debezium-quarkus-oracle-parent/3.7.0.Alpha2/debezium-quarkus-oracle-parent-3.7.0.Alpha2.jar returned status 404
 3.7.0.Beta1		2026-08-26T10:05:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/quarkus/debezium-quarkus-oracle-parent/3.7.0.Beta1/debezium-quarkus-oracle-parent-3.7.0.Beta1.jar returned status 404
 3.7.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/quarkus/debezium-quarkus-oracle-parent/3.7.0.Beta2/debezium-quarkus-oracle-parent-3.7.0.Beta2.jar returned status 404
+3.7.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/quarkus/debezium-quarkus-oracle-parent/3.7.0.CR1/debezium-quarkus-oracle-parent-3.7.0.CR1.jar returned status 404

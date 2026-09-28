@@ -10,3 +10,6 @@
 0.0.1-20251211-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/archai-nexus/boot-bom/0.0.1-20251211-beta/boot-bom-0.0.1-20251211-beta.jar returned status 404
 0.0.1-20260107-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/archai-nexus/boot-bom/0.0.1-20260107-beta/boot-bom-0.0.1-20260107-beta.jar returned status 404
 0.0.1-20260509-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/archai-nexus/boot-bom/0.0.1-20260509-beta/boot-bom-0.0.1-20260509-beta.jar returned status 404
+0.0.1-20260621-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/archai-nexus/boot-bom/0.0.1-20260621-beta/boot-bom-0.0.1-20260621-beta.jar returned status 404
+0.0.1-20260927-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/archai-nexus/boot-bom/0.0.1-20260927-beta/boot-bom-0.0.1-20260927-beta.jar returned status 404
+0.1.0-alpha.260927			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gitee/archai-nexus/boot-bom/0.1.0-alpha.260927/boot-bom-0.1.0-alpha.260927.jar returned status 404

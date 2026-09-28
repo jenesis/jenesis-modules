@@ -102,3 +102,4 @@
 1.7.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-tracing-bom/1.7.0-RC1/micrometer-tracing-bom-1.7.0-RC1.jar returned status 404
 1.7.1		2026-08-20T08:02:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-tracing-bom/1.7.1/micrometer-tracing-bom-1.7.1.jar returned status 404
 1.8.0-M1		2026-08-20T08:02:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-tracing-bom/1.8.0-M1/micrometer-tracing-bom-1.8.0-M1.jar returned status 404
+1.8.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-tracing-bom/1.8.0-M2/micrometer-tracing-bom-1.8.0-M2.jar returned status 404
