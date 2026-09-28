@@ -12,3 +12,5 @@
 3.0.1	metadata	2026-09-09T13:51:06Z	
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kunal26das/startup-iossimulatorarm64/4.0.0/startup-iossimulatorarm64-4.0.0.jar returned status 404
 4.0.0	metadata	2026-09-16T22:06:19Z	
+4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kunal26das/startup-iossimulatorarm64/4.0.1/startup-iossimulatorarm64-4.0.1.jar returned status 404
+4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kunal26das/startup-iossimulatorarm64/4.0.2/startup-iossimulatorarm64-4.0.2.jar returned status 404
