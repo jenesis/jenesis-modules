@@ -108,3 +108,5 @@
 7.7.0.202606012155-r	automatic	org.eclipse.jgit	org.eclipse.jgit	2026-06-10T08:31:04Z	
 7.7.1.202607240634-r	automatic	org.eclipse.jgit	org.eclipse.jgit	2026-07-26T00:11:44Z	
 7.8.0.202609011348-r	automatic	org.eclipse.jgit	org.eclipse.jgit	2026-09-08T06:11:06Z	
+7.8.0.202609011348-openl	automatic	org.openl.jgit	org.eclipse.jgit	2026-09-22T17:51:19Z	
+7.8.0.202609011348-openl2	automatic	org.openl.jgit	org.eclipse.jgit	2026-09-23T11:21:25Z	
