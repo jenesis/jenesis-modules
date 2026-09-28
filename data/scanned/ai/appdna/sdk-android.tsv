@@ -43,6 +43,8 @@
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/appdna/sdk-android/1.0.5/sdk-android-1.0.5.jar returned status 404
 1.0.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/appdna/sdk-android/1.0.50/sdk-android-1.0.50.jar returned status 404
 1.0.51		2026-09-23T21:51:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/appdna/sdk-android/1.0.51/sdk-android-1.0.51.jar returned status 404
+1.0.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/appdna/sdk-android/1.0.52/sdk-android-1.0.52.jar returned status 404
+1.0.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/appdna/sdk-android/1.0.53/sdk-android-1.0.53.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/appdna/sdk-android/1.0.6/sdk-android-1.0.6.jar returned status 404
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/appdna/sdk-android/1.0.7/sdk-android-1.0.7.jar returned status 404
 1.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/appdna/sdk-android/1.0.8/sdk-android-1.0.8.jar returned status 404
