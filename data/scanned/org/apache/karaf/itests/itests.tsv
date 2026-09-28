@@ -103,6 +103,7 @@
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/karaf/itests/itests/4.4.1/itests-4.4.1.jar returned status 404
 4.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/karaf/itests/itests/4.4.10/itests-4.4.10.jar returned status 404
 4.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/karaf/itests/itests/4.4.11/itests-4.4.11.jar returned status 404
+4.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/karaf/itests/itests/4.4.12/itests-4.4.12.jar returned status 404
 4.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/karaf/itests/itests/4.4.2/itests-4.4.2.jar returned status 404
 4.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/karaf/itests/itests/4.4.3/itests-4.4.3.jar returned status 404
 4.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/karaf/itests/itests/4.4.4/itests-4.4.4.jar returned status 404
