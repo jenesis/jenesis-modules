@@ -10,3 +10,4 @@
 1.0.7	metadata	2026-08-17T18:29:48Z	
 1.0.8		2026-08-18T03:01:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ali0092/sketchy-iossimulatorarm64/1.0.8/sketchy-iossimulatorarm64-1.0.8.jar returned status 404
 1.0.8	metadata	2026-08-18T03:01:40Z	
+1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ali0092/sketchy-iossimulatorarm64/1.0.9/sketchy-iossimulatorarm64-1.0.9.jar returned status 404
