@@ -286,6 +286,7 @@
 4.13.0-alpha.1		2026-06-23T20:46:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.13.0-alpha.1/gravitee-am-resource-4.13.0-alpha.1.jar returned status 404
 4.13.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.13.0-alpha.2/gravitee-am-resource-4.13.0-alpha.2.jar returned status 404
 4.13.0-alpha.3		2026-07-20T15:19:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.13.0-alpha.3/gravitee-am-resource-4.13.0-alpha.3.jar returned status 404
+4.13.0-alpha.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.13.0-alpha.4/gravitee-am-resource-4.13.0-alpha.4.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.2.0/gravitee-am-resource-4.2.0.jar returned status 404
 4.2.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.2.0-alpha.1/gravitee-am-resource-4.2.0-alpha.1.jar returned status 404
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.2.1/gravitee-am-resource-4.2.1.jar returned status 404
@@ -526,6 +527,7 @@
 4.8.4-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.8.4-alpha.1/gravitee-am-resource-4.8.4-alpha.1.jar returned status 404
 4.8.40		2026-06-16T09:56:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.8.40/gravitee-am-resource-4.8.40.jar returned status 404
 4.8.41		2026-06-26T12:25:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.8.41/gravitee-am-resource-4.8.41.jar returned status 404
+4.8.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.8.42/gravitee-am-resource-4.8.42.jar returned status 404
 4.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.8.5/gravitee-am-resource-4.8.5.jar returned status 404
 4.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.8.6/gravitee-am-resource-4.8.6.jar returned status 404
 4.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/gravitee/am/resource/gravitee-am-resource/4.8.7/gravitee-am-resource-4.8.7.jar returned status 404
