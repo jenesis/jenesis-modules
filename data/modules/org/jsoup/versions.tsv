@@ -338,3 +338,12 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 2.1.25	named	io.get-coursier	coursier-util_3	2026-09-17T14:51:11Z	1.23.2
 2.1.14	named	io.get-coursier	lm-coursier-shaded_2.12	2026-09-18T17:29:11Z	1.23.2
 2.1.0-M2	named	org.scala-sbt	librarymanagement-coursier_3	2026-09-21T08:46:41Z	1.23.2
+0.2.8	named	one.nextera.openat.javelle	javelle-cli	2026-09-21T13:56:28Z	1.23.1
+0.2.9	named	one.nextera.openat.javelle	javelle-cli	2026-09-23T19:21:11Z	1.23.1
+0.2.10	named	one.nextera.openat.javelle	javelle-cli	2026-09-24T04:21:34Z	1.23.1
+0.2.11	named	one.nextera.openat.javelle	javelle-cli	2026-09-24T13:31:01Z	1.23.1
+1.2.0	named	com.testzombie	testzombie-lib-java	2026-09-25T12:59:03Z	1.18.3
+0.2.12	named	one.nextera.openat.javelle	javelle-cli	2026-09-27T09:16:19Z	1.23.1
+0.2.13	named	one.nextera.openat.javelle	javelle-cli	2026-09-27T10:29:11Z	1.23.1
+0.2.14	named	one.nextera.openat.javelle	javelle-cli	2026-09-27T12:12:12Z	1.23.1
+0.2.15	named	one.nextera.openat.javelle	javelle-cli	2026-09-27T14:41:25Z	1.23.1

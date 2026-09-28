@@ -69,3 +69,5 @@
 5.0-M3	named	org.apache.cayenne	cayenne-mcp-server	2026-08-21T07:14:45Z	3.0.3
 1.49.6	named	ru.tinkoff.piapi	java-sdk-basic-example	2026-08-21T13:48:43Z	3.0.3
 2.10.0	named	org.opentripplanner	otp-shaded	2026-09-09T09:17:47Z	3.0.1
+3.1.7	named	tools.jackson.core	jackson-core	2026-09-21T23:36:12Z	3.1.7
+3.2.3	named	tools.jackson.core	jackson-core	2026-09-22T03:21:09Z	3.2.3
