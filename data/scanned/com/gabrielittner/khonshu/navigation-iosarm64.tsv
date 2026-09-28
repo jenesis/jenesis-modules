@@ -20,3 +20,4 @@
 0.36.1	metadata	2026-05-17T10:28:29Z	
 0.36.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gabrielittner/khonshu/navigation-iosarm64/0.36.2/navigation-iosarm64-0.36.2.jar returned status 404
 0.36.2	metadata	2026-05-17T11:17:23Z	
+0.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gabrielittner/khonshu/navigation-iosarm64/0.39.0/navigation-iosarm64-0.39.0.jar returned status 404

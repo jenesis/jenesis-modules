@@ -471,6 +471,7 @@
 0.30.0-rc.9	x86_64-pc-windows-msvc	2026-08-24T07:48:57Z	
 0.30.0-rc.9	x86_64-unknown-linux-gnu	2026-08-24T07:48:57Z	
 0.30.0-rc.9	x86_64-unknown-linux-musl	2026-08-24T07:48:57Z	
+0.31.0			
 0.31.0-alpha.2026081401		2026-08-14T21:49:41Z	
 0.31.0-alpha.2026081401	aarch64-apple-darwin	2026-08-14T21:49:41Z	
 0.31.0-alpha.2026081401	aarch64-unknown-linux-gnu	2026-08-14T21:49:41Z	
@@ -856,6 +857,7 @@
 0.31.0-rc.10	x86_64-pc-windows-msvc	2026-09-23T00:26:05Z	
 0.31.0-rc.10	x86_64-unknown-linux-gnu	2026-09-23T00:26:06Z	
 0.31.0-rc.10	x86_64-unknown-linux-musl	2026-09-23T00:26:05Z	
+0.31.0-rc.12			
 0.31.0-rc.2			
 0.31.0-rc.2	aarch64-apple-darwin	2026-09-09T03:21:46Z	
 0.31.0-rc.2	aarch64-unknown-linux-gnu	2026-09-09T03:21:46Z	
@@ -1131,3 +1133,5 @@
 0.32.0-beta.202609211821	x86_64-pc-windows-msvc	2026-09-22T01:56:54Z	
 0.32.0-beta.202609211821	x86_64-unknown-linux-gnu	2026-09-22T01:56:54Z	
 0.32.0-beta.202609211821	x86_64-unknown-linux-musl	2026-09-22T01:56:54Z	
+0.32.0-beta.202609221822			
+0.32.0-beta.202609241822			
