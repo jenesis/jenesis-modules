@@ -3400,3 +3400,5 @@ jakarta.annotation
 io.quarkus.arc
 io.quarkus.modular
 io.quarkus.commons.classloading
+io.quarkus.core
+io.quarkus.jlink.launcher
