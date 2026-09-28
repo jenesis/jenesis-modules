@@ -188,6 +188,8 @@
 12.44.0.RELEASE	plain	2026-09-02T12:07:05Z	
 12.45.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/keycloak-iam/12.45.0.RELEASE/keycloak-iam-12.45.0.RELEASE.jar returned status 404
 12.45.0.RELEASE	plain	2026-09-16T13:39:55Z	
+12.46.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/keycloak-iam/12.46.0.RELEASE/keycloak-iam-12.46.0.RELEASE.jar returned status 404
+12.47.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/keycloak-iam/12.47.0.RELEASE/keycloak-iam-12.47.0.RELEASE.jar returned status 404
 12.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/keycloak-iam/12.5.0.RELEASE/keycloak-iam-12.5.0.RELEASE.jar returned status 404
 12.5.0.RELEASE	plain	2024-11-22T15:58:25Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/keycloak-iam/12.5.1.RELEASE/keycloak-iam-12.5.1.RELEASE.jar returned status 404
@@ -354,6 +356,8 @@
 13.45.1.RELEASE	plain	2026-09-15T11:17:37Z	
 13.46.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/keycloak-iam/13.46.0.RELEASE/keycloak-iam-13.46.0.RELEASE.jar returned status 404
 13.46.0.RELEASE	plain	2026-09-16T13:39:55Z	
+13.47.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/keycloak-iam/13.47.0.RELEASE/keycloak-iam-13.47.0.RELEASE.jar returned status 404
+13.47.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/keycloak-iam/13.47.1.RELEASE/keycloak-iam-13.47.1.RELEASE.jar returned status 404
 13.5.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/keycloak-iam/13.5.0.RELEASE/keycloak-iam-13.5.0.RELEASE.jar returned status 404
 13.5.0.RELEASE	plain	2025-11-05T10:13:58Z	
 13.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/keycloak-iam/13.5.1.RELEASE/keycloak-iam-13.5.1.RELEASE.jar returned status 404
