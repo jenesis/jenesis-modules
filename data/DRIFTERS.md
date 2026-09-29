@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-09-28. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-09-29. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -667,7 +667,7 @@ com.fasterxml.jackson.annotation  [fork: keep `com.fasterxml.jackson.core`, `org
   ?   org.modeljars                        2026-08..2026-09 0.1.54               |...................=|
   R   com.kingsrook.qqq                    2025-12..2026-09 4.0.0                |..................==|
   R   ai.chronon                           2023-02..2026-09 0.0.115              |............========|
-  R   com.chartiq.finsemble                2025-06..2026-09 10.4.4-BETA-1        |.................===|
+  R   com.chartiq.finsemble                2025-06..2026-09 10.4.4-BETA-1        |................====|
   R   com.yahoo.vespa                      2022-06..2026-09 8.754.14             |...........=========|
     + 469 more: com.kinetica, com.kubling, org.biojava, org.jboss.pnc.maven-manipulator, ch.exense.step, io.debezium, com.silanis.esl, org.camunda.feel, com.aliyun.odps, com.duosecurity, com.taosdata.jdbc, org.mock-server, (+457 more)
 io.netty.internal.tcnative  [fork: keep `io.netty`, `org.finos.legend.engine` still publishes the name]
@@ -922,7 +922,7 @@ io.netty.codec.http  [fork: keep `io.netty`, `com.amazonaws` still publishes the
     + 6 more: com.liquibase.ext, org.apache.flink, com.xuxueli, org.eclipse.ditto, io.sapl, de.fraunhofer.iosb.ilt.faaast.service
 org.bouncycastle.pkix  [fork: keep `org.bouncycastle`, `com.github.toolarium` still publishes the name]
   A * org.bouncycastle                     2018-07..2026-09 1.86                 |...=================|
-  R   com.github.toolarium                 2023-12..2026-09 1.2.9                |..............======|
+  R   com.github.toolarium                 2023-12..2026-09 1.2.9                |.............=======|
   R   com.exasol                           2024-03..2026-09 26.2.9               |..............======|
   R   org.apache.inlong                    2025-11..2026-08 2.4.0                |.................===|
   R   com.alibaba.ververica                2022-10..2026-07 1.20-vvr-11.8.0-1-jdk11 |...........=========|
@@ -1006,7 +1006,7 @@ io.netty.codec.unused  [fork: keep `io.netty`, `io.github.oewntk` still publishe
   R   io.acryl                             2026-05..2026-07 1.6.0.16rc7          |..................==|
   R   com.arcadedb                         2025-07..2026-02 26.2.2               |.................==.|
   R   org.apache.ignite                    2025-10..2025-10 3.1.0                |.................=..|
-  R   de.bwaldvogel                        2025-06..2025-06 1.47.0               |.................=..|
+  R   de.bwaldvogel                        2025-06..2025-06 1.47.0               |................=...|
 org.apache.commons.compress  [fork: keep `org.apache.commons`, `com.alibaba.hologres` still publishes the name]
   A * org.apache.commons                   2017-10..2025-07 1.28.0               |.=================..|
   ?   com.alibaba.hologres                 2026-09..2026-09 1.6.3                |...................=|
@@ -1456,7 +1456,7 @@ org.apache.logging.log4j.slf4j2.impl  [fork: keep `org.apache.logging.log4j`, `o
   ?   org.beilstein                        2026-07..2026-08 1.5.0                |...................=|
   R   net.corda                            2024-07..2026-08 4.14.3               |...............=====|
   R   org.apache.tika                      2025-04..2026-07 3.3.2                |................====|
-  R   io.kroxylicious                      2024-12..2026-07 0.23.0               |................====|
+  R   io.kroxylicious                      2024-12..2026-07 0.23.0               |...............=====|
   R   io.github.alien-tools                2025-07..2025-07 0.2.0                |.................=..|
     + 2 more: xyz.gianlu.librespot, io.github.giis-uniovi
 org.signal.libsignal  [fork: keep `org.signal`, `io.github.wanggenlin` still publishes the name]
@@ -2736,7 +2736,7 @@ com.oracle.truffle.regex  [no clear owner; `org.graalvm.regex` is earliest and m
   ?   com.syncloop.middleware              2025-01..2025-01 1.7.1                |................=...|
 com.oracle.truffle.tools.profiler  [no clear owner; `org.graalvm.tools` is earliest and most recent]
   ? * org.graalvm.tools                    2018-10..2026-09 25.4.4.1.1           |...=================|
-  ?   com.orientechnologies                2025-12..2026-09 3.2.56               |..................==|
+  ?   com.orientechnologies                2025-12..2026-09 3.2.56               |.................===|
 com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most recent]
   ? * com.fasterxml.woodstox               2018-03..2026-08 7.2.2                |..==================|
   ?   gov.nih.ncats                        2022-01..2026-09 1.0.27               |..........==========|
