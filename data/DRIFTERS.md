@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-02. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-03. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -46,7 +46,7 @@ com.google.gson  [explicit rule: owned by `com.google.code.gson`; 544 other grou
     + 539 more: com.aliyun, io.quarkus, com.linkedin.iceberg, com.google.cloud.bigdataoss, ca.denisab85, org.biojava, org.operaton.bpm, io.github.lambdatest, org.apache.doris, org.eximeebpms.bpm, com.e6data, org.sonarsource.sonarlint.ls, (+527 more)
 kotlin.stdlib.jdk8  [explicit rule: owned by `org.jetbrains.kotlin`; 246 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2026-09 2.5.0-Beta1          |....================|
-  ?   io.github.graphdsl                   2026-07..2026-09 wire-hashing         |...................=|
+  ?   io.github.graphdsl                   2026-07..2026-09 wire-hashing         |..................==|
   R   com.google.genai                     2026-04..2026-09 1.73.0               |..................==|
   R   com.aliyun.odps                      2026-03..2026-09 3.10.14              |..................==|
   ?   eu.rekawek.coffeegb                  2026-07..2026-09 2.1.6                |...................=|
@@ -803,8 +803,8 @@ com.fasterxml.jackson.datatype.jsr310  [fork: keep `com.fasterxml.jackson.dataty
   R   org.apache.hudi                      2023-09..2026-09 1.2.1                |.............=======|
   R   com.linkedin.iceberg                 2025-09..2026-09 1.5.2.23             |.................===|
   ?   org.octopusden.octopus.reporting-service 2026-06..2026-09 2.0.7                |..................==|
-  ?   io.teknek.deliverance                2026-07..2026-09 0.0.16               |...................=|
-  R   io.openlineage                       2022-06..2026-09 1.53.0               |...........=========|
+  ?   io.teknek.deliverance                2026-07..2026-09 0.0.16               |..................==|
+  R   io.openlineage                       2022-06..2026-09 1.53.0               |..........==========|
     + 83 more: org.apache.doris, com.github.twitch4j, org.openapitools, cab.ml, org.apache.inlong, org.apache.xtable, org.octopusden.octopus.automation.teamcity, io.github.cloudstub, org.opencds.cqf.cql.ls, org.datap-rs, org.codelibs.fess, org.apache.gravitino, (+71 more)
 com.zaxxer.hikari  [fork: keep `com.zaxxer`, `org.apache.hudi` still publishes the name]
   A * com.zaxxer                           2018-01..2026-06 7.1.0                |..=================.|
@@ -1490,7 +1490,7 @@ org.snakeyaml.engine.v2  [fork: keep `org.snakeyaml`, `io.github.ethanz0x0` stil
   R   org.frankframework                   2025-01..2026-07 9.4.4                |................====|
   ?   io.github.baokhang83.mnemo           2026-07..2026-07 0.1.4                |...................=|
   ?   io.btrace                            2026-07..2026-07 0.26.2               |...................=|
-  ?   com.walmartlabs.concord.k8s          2026-06..2026-07 2.42.1               |..................==|
+  ?   com.walmartlabs.concord.k8s          2026-06..2026-07 2.42.1               |..................=.|
     + 29 more: com.datadoghq, org.wildfly.glow, org.apache.zeppelin, io.acryl, io.fabric8, io.strimzi, io.github.phompang, eu.koboo, io.dscope.camel, org.workflomics, org.sonarsource.iac, ch.framedev, (+17 more)
 org.bytedeco.pytorch.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
@@ -1791,7 +1791,7 @@ net.bytebuddy  [owned by `net.bytebuddy`; 131 other group(s) shade the name]
   R   de.gematik.test                      2024-08..2026-09 4.4.3                |...............=====|
   R   com.graphql-java                     2024-03..2026-08 24.4                 |..............======|
   R   pub.ihub.integration                 2024-04..2026-08 0.2.5                |..............======|
-  ?   com.mysticalrzc                      2026-06..2026-07 0.0.3                |..................==|
+  ?   com.mysticalrzc                      2026-06..2026-07 0.0.3                |..................=.|
     + 126 more: io.github.praveenkpandu, com.logitags, com.jcabi, org.lucee, dev.jorel, io.github.rocketbunny727, io.github.smallfast, net.aivory, ai.superstream, io.github.mlanett, com.appland, io.github.jlapugot.chronoguard, (+114 more)
 com.microsoft.onnxruntime  [owned by `com.microsoft.onnxruntime`; 1 other group(s) shade the name]
   ? * com.microsoft.onnxruntime            2020-06..2026-09 1.30.0               |.......=============|
