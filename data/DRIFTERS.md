@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-03. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-04. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -49,7 +49,7 @@ kotlin.stdlib.jdk8  [explicit rule: owned by `org.jetbrains.kotlin`; 246 other g
   ?   io.github.graphdsl                   2026-07..2026-09 wire-hashing         |..................==|
   R   com.google.genai                     2026-04..2026-09 1.73.0               |..................==|
   R   com.aliyun.odps                      2026-03..2026-09 3.10.14              |..................==|
-  ?   eu.rekawek.coffeegb                  2026-07..2026-09 2.1.6                |...................=|
+  ?   eu.rekawek.coffeegb                  2026-07..2026-09 2.1.6                |..................==|
   R   com.aliyun                           2026-01..2026-09 3.14.0               |..................==|
     + 241 more: io.github.infocusmodereal, org.apache.dolphinscheduler, io.github.prakhar998, net.corda, ai.realitydefender, com.newrelic.agent.android, org.apache.inlong, com.squareup, com.airbnb.viaduct, cn.ctyun, com.huaweicloud, org.octopusden.octopus.automation.teamcity, (+229 more)
 com.google.common.util.concurrent.internal  [explicit rule: owned by `com.google.guava`; 6 other group(s) rejected]
@@ -217,7 +217,7 @@ kotlin.stdlib.jdk7  [explicit rule: owned by `org.jetbrains.kotlin`; 23 other gr
   ?   io.github.zawarka03                  2026-07..2026-07 0.1.1                |...................=|
     + 18 more: me.bechberger, com.kroegerama.openapi-kgen, io.github.team-sneakymouse, com.seanshubin.code.structure, me.xcue, org.partiql, io.github.wadoon.key, org.btmonier, com.slothiesmooth, com.slothiesmooth.links-detektor, hu.bme.mit.theta, dev.nelmin.spigot, (+6 more)
 kotlinx.collections.immutable  [explicit rule: owned by `org.jetbrains`; 1 other group(s) rejected]
-  ? * org.jetbrains.kotlinx                2026-07..2026-08 0.5.2                |...................=|
+  ? * org.jetbrains.kotlinx                2026-07..2026-08 0.5.2                |..................==|
   ?   org.jetbrains.kotlin                 2026-07..2026-09 2.5.0-Beta1          |...................=|
   ?   com.salesforce.revoman               2026-08..2026-08 0.90.0               |...................=|
 kotlinx.serialization.protobuf  [explicit rule: owned by `org.jetbrains`; 1 other group(s) rejected]
@@ -300,7 +300,7 @@ org.objectweb.asm  [explicit rule: owned by `org.ow2.asm`; 166 other group(s) re
   R   com.github.jnr                       2019-10..2026-09 0.39.5               |.....===============|
   ?   io.spicelabs                         2026-06..2026-08 0.18.0               |..................==|
   R   be.ugent.idlab.knows                 2025-09..2026-08 0.8.0                |.................===|
-  ?   org.virtuslab                        2026-07..2026-08 0.1.0-M2             |...................=|
+  ?   org.virtuslab                        2026-07..2026-08 0.1.0-M2             |..................==|
     + 161 more: org.tiatesting, com.datadoghq, edu.berkeley.cs.jqf, org.apache.iotdb, org.glassfish.main.extras, com.my-oli, org.teavm, io.github.mitsumi-solutions-develop, org.apache.geaflow, org.noear, net.corda, com.microsoft.azure.kusto, (+149 more)
 kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other group(s) rejected]
   A * org.jetbrains.kotlinx                2021-09..2026-09 1.12.0-RC            |.........===========|
@@ -492,7 +492,7 @@ org.hibernate.orm.micrometer  [renamed `org.hibernate` -> `org.hibernate.orm` (l
 org.apache.commons.beanutils  [renamed `com.guicedee.services` -> `com.guicedee.modules.services` (latest 2.3.0)]
   ? * com.guicedee.services                2020-06..2022-02 1.2.2.1-jre17        |.......====.........|
   ?   com.guicedee.modules.services        2026-04..2026-09 2.3.0                |..................==|
-  ?   org.wildfly                          2025-06..2026-08 41.0.1.Final         |.................===|
+  ?   org.wildfly                          2025-06..2026-08 41.0.1.Final         |................====|
   ?   io.github.stoyank7                   2026-06..2026-06 1.0.2                |..................=.|
   ?   org.jvnet.jaxb                       2025-09..2026-06 2.0.16               |.................==.|
   ?   com.github.bld-commons               2026-01..2026-05 3.0.19               |..................=.|
@@ -864,7 +864,7 @@ jakarta.annotation  [fork: keep `jakarta.annotation`, `io.quarkus` still publish
     + 16 more: com.segment.analytics.java, io.github.n1ckl0sk0rtge, org.eclipse.ecsp, com.jcabi, com.affinidi.tdk, net.welen.jmole, de.fraunhofer.sit.sse.flowdroid, com.heroku, io.journify, io.github.mitsumi-solutions-develop, org.grails, be.vlaanderen.informatievlaanderen.vsds, (+4 more)
 com.fasterxml.aalto  [fork: keep `com.fasterxml`, `org.jetbrains.kotlin` still publishes the name]
   A * com.fasterxml                        2018-04..2026-05 1.4.0                |..=================.|
-  ?   org.jetbrains.kotlin                 2023-12..2026-09 2.5.0-Beta1          |..............======|
+  ?   org.jetbrains.kotlin                 2023-12..2026-09 2.5.0-Beta1          |.............=======|
   R   org.jetbrains.dokka                  2022-06..2023-03 1.8.10               |...........==.......|
 org.opentest4j  [fork: keep `org.opentest4j`, `org.jetbrains.kotlin` still publishes the name]
   A * org.opentest4j                       2017-07..2023-07 1.3.0                |.=============......|
@@ -1489,7 +1489,7 @@ org.snakeyaml.engine.v2  [fork: keep `org.snakeyaml`, `io.github.ethanz0x0` stil
   R   io.github.ethanz0x0                  2025-08..2026-08 2.0.4                |.................===|
   R   org.frankframework                   2025-01..2026-07 9.4.4                |................====|
   ?   io.github.baokhang83.mnemo           2026-07..2026-07 0.1.4                |...................=|
-  ?   io.btrace                            2026-07..2026-07 0.26.2               |...................=|
+  ?   io.btrace                            2026-07..2026-07 0.26.2               |..................=.|
   ?   com.walmartlabs.concord.k8s          2026-06..2026-07 2.42.1               |..................=.|
     + 29 more: com.datadoghq, org.wildfly.glow, org.apache.zeppelin, io.acryl, io.fabric8, io.strimzi, io.github.phompang, eu.koboo, io.dscope.camel, org.workflomics, org.sonarsource.iac, ch.framedev, (+17 more)
 org.bytedeco.pytorch.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
