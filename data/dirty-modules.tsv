@@ -3639,3 +3639,8 @@ dev.zio.zio.blocks.next.smithy
 dev.zio.zio.blocks.next.http.model.schema
 dev.zio.zio.blocks.next.config.yaml
 dev.zio.zio.blocks.next.telemetry
+dev.openfeature.sdk
+dev.openfeature.contrib.providers.gofeatureflag
+kotlinx.serialization.core
+no.elixir.crypt4gh
+ch.sbb.polarion.extension.pdf_exporter

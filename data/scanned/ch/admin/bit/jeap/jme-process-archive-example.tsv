@@ -6,3 +6,6 @@
 3.1.0		2026-09-23T05:36:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/3.1.0/jme-process-archive-example-3.1.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.0.0/jme-process-archive-example-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.1.0/jme-process-archive-example-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.2.0/jme-process-archive-example-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.3.0/jme-process-archive-example-4.3.0.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.5.0/jme-process-archive-example-4.5.0.jar returned status 404

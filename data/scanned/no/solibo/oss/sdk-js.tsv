@@ -179,6 +179,15 @@
 1.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.22.0/sdk-js-1.22.0.jar returned status 404
 1.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.22.1/sdk-js-1.22.1.jar returned status 404
 1.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.22.2/sdk-js-1.22.2.jar returned status 404
+1.22.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.22.3/sdk-js-1.22.3.jar returned status 404
+1.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.22.4/sdk-js-1.22.4.jar returned status 404
+1.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.26.0/sdk-js-1.26.0.jar returned status 404
+1.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.26.1/sdk-js-1.26.1.jar returned status 404
+1.26.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.26.2/sdk-js-1.26.2.jar returned status 404
+1.26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.26.3/sdk-js-1.26.3.jar returned status 404
+1.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.26.4/sdk-js-1.26.4.jar returned status 404
+1.26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.26.5/sdk-js-1.26.5.jar returned status 404
+1.26.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.26.6/sdk-js-1.26.6.jar returned status 404
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.4.1/sdk-js-1.4.1.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.4.2/sdk-js-1.4.2.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-js/1.4.3/sdk-js-1.4.3.jar returned status 404
