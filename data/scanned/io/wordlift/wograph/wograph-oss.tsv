@@ -1,3 +1,15 @@
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.10.0/wograph-oss-3.10.0.jar returned status 404
+3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.11.0/wograph-oss-3.11.0.jar returned status 404
+3.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.11.1/wograph-oss-3.11.1.jar returned status 404
+3.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.11.2/wograph-oss-3.11.2.jar returned status 404
+3.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.12.0/wograph-oss-3.12.0.jar returned status 404
+3.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.12.1/wograph-oss-3.12.1.jar returned status 404
+3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.13.0/wograph-oss-3.13.0.jar returned status 404
+3.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.13.1/wograph-oss-3.13.1.jar returned status 404
+3.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.13.2/wograph-oss-3.13.2.jar returned status 404
+3.13.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.13.3/wograph-oss-3.13.3.jar returned status 404
+3.13.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.13.4/wograph-oss-3.13.4.jar returned status 404
+3.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.14.0/wograph-oss-3.14.0.jar returned status 404
 3.5.15		2026-07-09T15:48:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.5.15/wograph-oss-3.5.15.jar returned status 404
 3.5.16		2026-07-09T16:35:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.5.16/wograph-oss-3.5.16.jar returned status 404
 3.5.17		2026-07-09T17:03:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.5.17/wograph-oss-3.5.17.jar returned status 404
@@ -23,3 +35,6 @@
 3.5.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.5.37/wograph-oss-3.5.37.jar returned status 404
 3.5.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.5.38/wograph-oss-3.5.38.jar returned status 404
 3.5.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.5.39/wograph-oss-3.5.39.jar returned status 404
+3.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.7.2/wograph-oss-3.7.2.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.8.0/wograph-oss-3.8.0.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wordlift/wograph/wograph-oss/3.9.0/wograph-oss-3.9.0.jar returned status 404
