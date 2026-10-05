@@ -1992,3 +1992,5 @@ com.anthropic.client.okhttp
 com.anthropic.googlecloud
 com.anthropic.foundry
 com.anthropic.aws
+com.graphqljava
+com.thinkery.leanctx
