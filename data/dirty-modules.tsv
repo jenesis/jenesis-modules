@@ -1994,3 +1994,6 @@ com.anthropic.foundry
 com.anthropic.aws
 com.graphqljava
 com.thinkery.leanctx
+net.sf.jsqlparser
+com.esotericsoftware.kryo
+com.esotericsoftware.kryo.kryo5
