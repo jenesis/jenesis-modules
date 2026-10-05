@@ -15,3 +15,6 @@
 13.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/karaf4-parent/13.0.5/karaf4-parent-13.0.5.jar returned status 404
 14.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/karaf4-parent/14.0.0/karaf4-parent-14.0.0.jar returned status 404
 14.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/karaf4-parent/14.0.1/karaf4-parent-14.0.1.jar returned status 404
+14.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/karaf4-parent/14.0.2/karaf4-parent-14.0.2.jar returned status 404
+14.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/karaf4-parent/14.0.3/karaf4-parent-14.0.3.jar returned status 404
+14.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/controller/karaf4-parent/14.0.4/karaf4-parent-14.0.4.jar returned status 404

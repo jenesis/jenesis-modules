@@ -80,4 +80,5 @@
 2.4.20-RC		2026-08-12T07:33:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-js-plain-objects/2.4.20-RC/kotlin-js-plain-objects-2.4.20-RC.jar returned status 404
 2.4.20-RC2		2026-08-26T06:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-js-plain-objects/2.4.20-RC2/kotlin-js-plain-objects-2.4.20-RC2.jar returned status 404
 2.4.20-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-js-plain-objects/2.4.20-RC3/kotlin-js-plain-objects-2.4.20-RC3.jar returned status 404
+2.4.21-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-js-plain-objects/2.4.21-RC/kotlin-js-plain-objects-2.4.21-RC.jar returned status 404
 2.5.0-Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin/kotlin-js-plain-objects/2.5.0-Beta1/kotlin-js-plain-objects-2.5.0-Beta1.jar returned status 404

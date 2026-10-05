@@ -104,3 +104,4 @@
 2025.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-cypher-dsl-codegen/2025.3.1/neo4j-cypher-dsl-codegen-2025.3.1.jar returned status 404
 2025.3.2		2026-09-04T14:46:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-cypher-dsl-codegen/2025.3.2/neo4j-cypher-dsl-codegen-2025.3.2.jar returned status 404
 2025.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-cypher-dsl-codegen/2025.3.3/neo4j-cypher-dsl-codegen-2025.3.3.jar returned status 404
+2025.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/neo4j-cypher-dsl-codegen/2025.3.4/neo4j-cypher-dsl-codegen-2025.3.4.jar returned status 404

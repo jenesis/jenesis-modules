@@ -37,4 +37,5 @@
 1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ff4j/ff4j-parent/1.9/ff4j-parent-1.9.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ff4j/ff4j-parent/2.0.0/ff4j-parent-2.0.0.jar returned status 404
 2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ff4j/ff4j-parent/2.1/ff4j-parent-2.1.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ff4j/ff4j-parent/3.0.0/ff4j-parent-3.0.0.jar returned status 404
 3.0.0-RC1		2026-08-04T00:59:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ff4j/ff4j-parent/3.0.0-RC1/ff4j-parent-3.0.0-RC1.jar returned status 404

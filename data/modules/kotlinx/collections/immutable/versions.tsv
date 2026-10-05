@@ -13,3 +13,5 @@
 2.4.20	named	org.jetbrains.kotlin	kotlin-power-assert-compiler-plugin-embeddable	2026-09-08T02:23:38Z	0.5.1
 2.5.0-Beta1	named	org.jetbrains.kotlin	kotlin-maven-power-assert	2026-09-23T07:02:29Z	0.5.1
 2.5.0-Beta1	named	org.jetbrains.kotlin	kotlin-power-assert-compiler-plugin-embeddable	2026-09-23T07:02:30Z	0.5.1
+2.4.21-RC	named	org.jetbrains.kotlin	kotlin-maven-power-assert	2026-09-30T09:19:10Z	0.5.1
+2.4.21-RC	named	org.jetbrains.kotlin	kotlin-power-assert-compiler-plugin-embeddable	2026-09-30T09:19:10Z	0.5.1
