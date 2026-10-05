@@ -12,3 +12,5 @@
 1.6.0	metadata	2026-09-16T09:31:37Z	
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-permission-testing-iosarm64/1.7.1/kmptoolkit-permission-testing-iosarm64-1.7.1.jar returned status 404
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-permission-testing-iosarm64/1.8.0/kmptoolkit-permission-testing-iosarm64-1.8.0.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-permission-testing-iosarm64/1.9.0/kmptoolkit-permission-testing-iosarm64-1.9.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-permission-testing-iosarm64/2.0.0/kmptoolkit-permission-testing-iosarm64-2.0.0.jar returned status 404

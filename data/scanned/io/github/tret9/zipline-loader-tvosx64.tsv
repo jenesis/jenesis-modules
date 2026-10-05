@@ -80,6 +80,7 @@
 1.28.0-composelive-0.9	metadata	2026-07-17T13:49:49Z	
 1.28.0-composelive-hermes-0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-tvosx64/1.28.0-composelive-hermes-0.1/zipline-loader-tvosx64-1.28.0-composelive-hermes-0.1.jar returned status 404
 1.28.0-composelive-hermes-0.1	metadata	2026-08-03T10:55:17Z	
+1.28.0-composelive-hermes-0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-tvosx64/1.28.0-composelive-hermes-0.10/zipline-loader-tvosx64-1.28.0-composelive-hermes-0.10.jar returned status 404
 1.28.0-composelive-hermes-0.2		2026-08-15T17:07:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-tvosx64/1.28.0-composelive-hermes-0.2/zipline-loader-tvosx64-1.28.0-composelive-hermes-0.2.jar returned status 404
 1.28.0-composelive-hermes-0.2	metadata	2026-08-15T17:07:40Z	
 1.28.0-composelive-hermes-0.3		2026-08-18T18:00:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-tvosx64/1.28.0-composelive-hermes-0.3/zipline-loader-tvosx64-1.28.0-composelive-hermes-0.3.jar returned status 404
@@ -104,3 +105,4 @@
 1.28.0-composelive-hermes-0.8	metadata	2026-09-21T09:11:24Z	
 1.28.0-composelive-hermes-0.8-debuggable		2026-09-21T09:21:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-tvosx64/1.28.0-composelive-hermes-0.8-debuggable/zipline-loader-tvosx64-1.28.0-composelive-hermes-0.8-debuggable.jar returned status 404
 1.28.0-composelive-hermes-0.8-debuggable	metadata	2026-09-21T09:21:17Z	
+1.28.0-composelive-hermes-0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-loader-tvosx64/1.28.0-composelive-hermes-0.9/zipline-loader-tvosx64-1.28.0-composelive-hermes-0.9.jar returned status 404

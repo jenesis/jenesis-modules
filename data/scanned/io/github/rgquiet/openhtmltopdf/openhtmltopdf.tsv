@@ -10,3 +10,6 @@
 1.0.20		2026-06-23T20:04:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rgquiet/openhtmltopdf/openhtmltopdf/1.0.20/openhtmltopdf-1.0.20.jar returned status 404
 1.0.21		2026-08-26T09:36:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rgquiet/openhtmltopdf/openhtmltopdf/1.0.21/openhtmltopdf-1.0.21.jar returned status 404
 1.0.22		2026-08-27T09:01:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rgquiet/openhtmltopdf/openhtmltopdf/1.0.22/openhtmltopdf-1.0.22.jar returned status 404
+1.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rgquiet/openhtmltopdf/openhtmltopdf/1.0.23/openhtmltopdf-1.0.23.jar returned status 404
+1.0.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rgquiet/openhtmltopdf/openhtmltopdf/1.0.24/openhtmltopdf-1.0.24.jar returned status 404
+1.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rgquiet/openhtmltopdf/openhtmltopdf/1.0.25/openhtmltopdf-1.0.25.jar returned status 404

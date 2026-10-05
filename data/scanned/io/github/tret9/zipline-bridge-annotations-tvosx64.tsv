@@ -30,6 +30,7 @@
 1.28.0-composelive-0.23	metadata	2026-09-10T23:24:42Z	
 1.28.0-composelive-0.23-profilable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-bridge-annotations-tvosx64/1.28.0-composelive-0.23-profilable/zipline-bridge-annotations-tvosx64-1.28.0-composelive-0.23-profilable.jar returned status 404
 1.28.0-composelive-0.23-profilable	metadata	2026-09-10T23:36:59Z	
+1.28.0-composelive-hermes-0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-bridge-annotations-tvosx64/1.28.0-composelive-hermes-0.10/zipline-bridge-annotations-tvosx64-1.28.0-composelive-hermes-0.10.jar returned status 404
 1.28.0-composelive-hermes-0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-bridge-annotations-tvosx64/1.28.0-composelive-hermes-0.6/zipline-bridge-annotations-tvosx64-1.28.0-composelive-hermes-0.6.jar returned status 404
 1.28.0-composelive-hermes-0.6	metadata	2026-09-08T15:51:56Z	
 1.28.0-composelive-hermes-0.6-debuggable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-bridge-annotations-tvosx64/1.28.0-composelive-hermes-0.6-debuggable/zipline-bridge-annotations-tvosx64-1.28.0-composelive-hermes-0.6-debuggable.jar returned status 404
@@ -42,3 +43,4 @@
 1.28.0-composelive-hermes-0.8	metadata	2026-09-21T09:11:23Z	
 1.28.0-composelive-hermes-0.8-debuggable		2026-09-21T09:21:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-bridge-annotations-tvosx64/1.28.0-composelive-hermes-0.8-debuggable/zipline-bridge-annotations-tvosx64-1.28.0-composelive-hermes-0.8-debuggable.jar returned status 404
 1.28.0-composelive-hermes-0.8-debuggable	metadata	2026-09-21T09:21:16Z	
+1.28.0-composelive-hermes-0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tret9/zipline-bridge-annotations-tvosx64/1.28.0-composelive-hermes-0.9/zipline-bridge-annotations-tvosx64-1.28.0-composelive-hermes-0.9.jar returned status 404
