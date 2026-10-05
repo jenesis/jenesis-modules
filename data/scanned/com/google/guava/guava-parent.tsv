@@ -186,5 +186,7 @@
 33.7.0-jre		2026-08-17T13:45:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.7.0-jre/guava-parent-33.7.0-jre.jar returned status 404
 33.7.1-android		2026-08-18T03:22:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.7.1-android/guava-parent-33.7.1-android.jar returned status 404
 33.7.1-jre		2026-08-18T03:33:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.7.1-jre/guava-parent-33.7.1-jre.jar returned status 404
+33.7.2-android			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.7.2-android/guava-parent-33.7.2-android.jar returned status 404
+33.7.2-jre			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/33.7.2-jre/guava-parent-33.7.2-jre.jar returned status 404
 r03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/guava/guava-parent/r03/guava-parent-r03.jar returned status 404
 r03	site	2010-04-26T13:04:39Z	
