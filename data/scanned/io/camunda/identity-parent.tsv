@@ -1,3 +1,4 @@
+8.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.10.0/identity-parent-8.10.0.jar returned status 404
 8.10.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.10.0-alpha1/identity-parent-8.10.0-alpha1.jar returned status 404
 8.10.0-alpha1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.10.0-alpha1-rc1/identity-parent-8.10.0-alpha1-rc1.jar returned status 404
 8.10.0-alpha1-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.10.0-alpha1-rc2/identity-parent-8.10.0-alpha1-rc2.jar returned status 404
@@ -16,6 +17,8 @@
 8.10.0-alpha5-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.10.0-alpha5-rc3/identity-parent-8.10.0-alpha5-rc3.jar returned status 404
 8.10.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.10.0-rc1/identity-parent-8.10.0-rc1.jar returned status 404
 8.10.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.10.0-rc2/identity-parent-8.10.0-rc2.jar returned status 404
+8.10.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.10.0-rc3/identity-parent-8.10.0-rc3.jar returned status 404
+8.10.1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.10.1-rc1/identity-parent-8.10.1-rc1.jar returned status 404
 8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.6.0/identity-parent-8.6.0.jar returned status 404
 8.6.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.6.0-alpha1/identity-parent-8.6.0-alpha1.jar returned status 404
 8.6.0-alpha1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.6.0-alpha1-rc1/identity-parent-8.6.0-alpha1-rc1.jar returned status 404
@@ -144,6 +147,7 @@
 8.7.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.7.39/identity-parent-8.7.39.jar returned status 404
 8.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.7.4/identity-parent-8.7.4.jar returned status 404
 8.7.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.7.41/identity-parent-8.7.41.jar returned status 404
+8.7.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.7.42/identity-parent-8.7.42.jar returned status 404
 8.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.7.5/identity-parent-8.7.5.jar returned status 404
 8.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.7.6/identity-parent-8.7.6.jar returned status 404
 8.7.6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.7.6-rc1/identity-parent-8.7.6-rc1.jar returned status 404
@@ -212,6 +216,7 @@
 8.8.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.8.37/identity-parent-8.8.37.jar returned status 404
 8.8.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.8.39/identity-parent-8.8.39.jar returned status 404
 8.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.8.4/identity-parent-8.8.4.jar returned status 404
+8.8.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.8.40/identity-parent-8.8.40.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.8.5/identity-parent-8.8.5.jar returned status 404
 8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.8.6/identity-parent-8.8.6.jar returned status 404
 8.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.8.7/identity-parent-8.8.7.jar returned status 404
@@ -249,6 +254,7 @@
 8.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.9.19/identity-parent-8.9.19.jar returned status 404
 8.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.9.2/identity-parent-8.9.2.jar returned status 404
 8.9.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.9.21/identity-parent-8.9.21.jar returned status 404
+8.9.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.9.22/identity-parent-8.9.22.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.9.3/identity-parent-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.9.4/identity-parent-8.9.4.jar returned status 404
 8.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/identity-parent/8.9.5/identity-parent-8.9.5.jar returned status 404

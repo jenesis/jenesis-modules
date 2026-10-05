@@ -5224,6 +5224,8 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 2.0.1	named	com.conaxgames	clibraries	2026-09-28T15:18:48Z	2.14.0
 6.0.1.79758	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-09-28T22:17:07Z	2.14.0
 3.0.18.4	named	com.ascentstream.pulsar	jclouds-shaded	2026-09-29T09:02:23Z	2.10.1
+3.40.1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-29T22:31:54Z	2.10
 3.0.18.5	named	com.ascentstream.pulsar	jclouds-shaded	2026-09-30T07:36:46Z	2.10.1
 6.0.2.79770	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-09-30T11:36:39Z	2.14.0
+4.0.0.Beta1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-30T17:48:15Z	2.10
 2.0.2	named	com.conaxgames	clibraries	2026-10-04T14:25:58Z	2.14.0

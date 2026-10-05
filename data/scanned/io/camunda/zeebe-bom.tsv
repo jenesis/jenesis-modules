@@ -113,6 +113,7 @@
 8.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.1.7/zeebe-bom-8.1.7.jar returned status 404
 8.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.1.8/zeebe-bom-8.1.8.jar returned status 404
 8.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.1.9/zeebe-bom-8.1.9.jar returned status 404
+8.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.10.0/zeebe-bom-8.10.0.jar returned status 404
 8.10.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.10.0-alpha1/zeebe-bom-8.10.0-alpha1.jar returned status 404
 8.10.0-alpha1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.10.0-alpha1-rc1/zeebe-bom-8.10.0-alpha1-rc1.jar returned status 404
 8.10.0-alpha1-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.10.0-alpha1-rc2/zeebe-bom-8.10.0-alpha1-rc2.jar returned status 404
@@ -131,6 +132,8 @@
 8.10.0-alpha5-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.10.0-alpha5-rc3/zeebe-bom-8.10.0-alpha5-rc3.jar returned status 404
 8.10.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.10.0-rc1/zeebe-bom-8.10.0-rc1.jar returned status 404
 8.10.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.10.0-rc2/zeebe-bom-8.10.0-rc2.jar returned status 404
+8.10.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.10.0-rc3/zeebe-bom-8.10.0-rc3.jar returned status 404
+8.10.1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.10.1-rc1/zeebe-bom-8.10.1-rc1.jar returned status 404
 8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.2.0/zeebe-bom-8.2.0.jar returned status 404
 8.2.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.2.0-alpha1/zeebe-bom-8.2.0-alpha1.jar returned status 404
 8.2.0-alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.2.0-alpha2/zeebe-bom-8.2.0-alpha2.jar returned status 404
@@ -383,6 +386,7 @@
 8.7.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.7.39/zeebe-bom-8.7.39.jar returned status 404
 8.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.7.4/zeebe-bom-8.7.4.jar returned status 404
 8.7.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.7.41/zeebe-bom-8.7.41.jar returned status 404
+8.7.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.7.42/zeebe-bom-8.7.42.jar returned status 404
 8.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.7.5/zeebe-bom-8.7.5.jar returned status 404
 8.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.7.6/zeebe-bom-8.7.6.jar returned status 404
 8.7.6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.7.6-rc1/zeebe-bom-8.7.6-rc1.jar returned status 404
@@ -451,6 +455,7 @@
 8.8.37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.8.37/zeebe-bom-8.8.37.jar returned status 404
 8.8.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.8.39/zeebe-bom-8.8.39.jar returned status 404
 8.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.8.4/zeebe-bom-8.8.4.jar returned status 404
+8.8.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.8.40/zeebe-bom-8.8.40.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.8.5/zeebe-bom-8.8.5.jar returned status 404
 8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.8.6/zeebe-bom-8.8.6.jar returned status 404
 8.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.8.7/zeebe-bom-8.8.7.jar returned status 404
@@ -488,6 +493,7 @@
 8.9.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.9.19/zeebe-bom-8.9.19.jar returned status 404
 8.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.9.2/zeebe-bom-8.9.2.jar returned status 404
 8.9.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.9.21/zeebe-bom-8.9.21.jar returned status 404
+8.9.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.9.22/zeebe-bom-8.9.22.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.9.3/zeebe-bom-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.9.4/zeebe-bom-8.9.4.jar returned status 404
 8.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/zeebe-bom/8.9.5/zeebe-bom-8.9.5.jar returned status 404

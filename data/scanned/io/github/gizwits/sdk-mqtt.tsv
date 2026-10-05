@@ -178,6 +178,8 @@
 1.4.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.4.10/sdk-mqtt-1.4.10.jar returned status 404
 1.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.4.11/sdk-mqtt-1.4.11.jar returned status 404
 1.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.4.12/sdk-mqtt-1.4.12.jar returned status 404
+1.4.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.4.13/sdk-mqtt-1.4.13.jar returned status 404
+1.4.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.4.14/sdk-mqtt-1.4.14.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.4.2/sdk-mqtt-1.4.2.jar returned status 404
 1.4.2-bololo			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.4.2-bololo/sdk-mqtt-1.4.2-bololo.jar returned status 404
 1.4.2-light			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk-mqtt/1.4.2-light/sdk-mqtt-1.4.2-light.jar returned status 404

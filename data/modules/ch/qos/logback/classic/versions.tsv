@@ -3615,6 +3615,7 @@
 3.7.0-snapshot.20260930.14844.0.vb9c09417	named	com.daml	codegen-js	2026-10-01T07:01:04Z	1.6.3
 3.7.0-snapshot.20260930.14844.0.vb9c09417	named	com.daml	codegen-java	2026-10-01T07:01:05Z	1.6.3
 3.7.0-snapshot.20260930.14844.0.vb9c09417	named	com.daml	codegen-jvm-main	2026-10-01T07:01:05Z	1.6.3
+0.3.10	named	io.camunda	camunda-7-to-8-diagram-converter-cli	2026-10-01T19:56:18Z	1.6.5
 3.7.0-snapshot.20261001.14847.0.v1d2b5696	named	com.daml	codegen-js	2026-10-02T06:21:48Z	1.6.3
 3.7.0-snapshot.20261001.14847.0.v1d2b5696	named	com.daml	codegen-java	2026-10-02T06:21:49Z	1.6.3
 3.7.0-snapshot.20261001.14847.0.v1d2b5696	named	com.daml	codegen-jvm-main	2026-10-02T06:21:49Z	1.6.3
