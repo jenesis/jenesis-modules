@@ -3,3 +3,4 @@
 8.4.2		2026-08-12T09:42:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appmetrica/analytics/analytics-product-flow/8.4.2/analytics-product-flow-8.4.2.jar returned status 404
 8.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appmetrica/analytics/analytics-product-flow/8.5.0/analytics-product-flow-8.5.0.jar returned status 404
 8.5.1		2026-08-13T12:44:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appmetrica/analytics/analytics-product-flow/8.5.1/analytics-product-flow-8.5.1.jar returned status 404
+8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/appmetrica/analytics/analytics-product-flow/8.6.0/analytics-product-flow-8.6.0.jar returned status 404

@@ -177,3 +177,4 @@
 3.7.0.Beta1		2026-08-26T07:15:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-build-parent/3.7.0.Beta1/debezium-build-parent-3.7.0.Beta1.jar returned status 404
 3.7.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-build-parent/3.7.0.Beta2/debezium-build-parent-3.7.0.Beta2.jar returned status 404
 3.7.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-build-parent/3.7.0.CR1/debezium-build-parent-3.7.0.CR1.jar returned status 404
+3.7.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/debezium/debezium-build-parent/3.7.0.Final/debezium-build-parent-3.7.0.Final.jar returned status 404

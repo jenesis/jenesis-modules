@@ -3,3 +3,4 @@
 11.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/nutrient/nutrient-android-sdk/11.6.2/nutrient-android-sdk-11.6.2.jar returned status 404
 11.6.3		2026-08-13T21:15:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/nutrient/nutrient-android-sdk/11.6.3/nutrient-android-sdk-11.6.3.jar returned status 404
 11.6.4		2026-08-24T13:33:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/nutrient/nutrient-android-sdk/11.6.4/nutrient-android-sdk-11.6.4.jar returned status 404
+11.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/nutrient/nutrient-android-sdk/11.7.0/nutrient-android-sdk-11.7.0.jar returned status 404

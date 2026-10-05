@@ -81,6 +81,9 @@
 4.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-in-app/4.21.0/messaging-in-app-4.21.0.jar returned status 404
 4.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-in-app/4.21.1/messaging-in-app-4.21.1.jar returned status 404
 4.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-in-app/4.22.0/messaging-in-app-4.22.0.jar returned status 404
+4.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-in-app/4.23.0/messaging-in-app-4.23.0.jar returned status 404
+4.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-in-app/4.23.1/messaging-in-app-4.23.1.jar returned status 404
+4.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-in-app/4.23.2/messaging-in-app-4.23.2.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-in-app/4.3.0/messaging-in-app-4.3.0.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-in-app/4.4.0/messaging-in-app-4.4.0.jar returned status 404
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/messaging-in-app/4.4.1/messaging-in-app-4.4.1.jar returned status 404
