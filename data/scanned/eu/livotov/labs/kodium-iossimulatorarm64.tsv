@@ -14,3 +14,4 @@
 1.0.0-beta-2	metadata	2026-04-23T08:19:18Z	
 1.0.0-beta-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/livotov/labs/kodium-iossimulatorarm64/1.0.0-beta-3/kodium-iossimulatorarm64-1.0.0-beta-3.jar returned status 404
 1.0.0-beta-3	metadata	2026-04-24T22:40:33Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/livotov/labs/kodium-iossimulatorarm64/1.1.0/kodium-iossimulatorarm64-1.1.0.jar returned status 404

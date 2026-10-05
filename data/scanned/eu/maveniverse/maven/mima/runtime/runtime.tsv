@@ -66,6 +66,8 @@
 2.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/2.4.7/runtime-2.4.7.jar returned status 404
 2.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/2.4.8/runtime-2.4.8.jar returned status 404
 2.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/2.4.9/runtime-2.4.9.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/3.0.0/runtime-3.0.0.jar returned status 404
 3.0.0-alpha-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/3.0.0-alpha-1/runtime-3.0.0-alpha-1.jar returned status 404
 3.0.0-alpha-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/3.0.0-alpha-2/runtime-3.0.0-alpha-2.jar returned status 404
 3.0.0-alpha-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/3.0.0-alpha-3/runtime-3.0.0-alpha-3.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/maveniverse/maven/mima/runtime/runtime/3.0.1/runtime-3.0.1.jar returned status 404

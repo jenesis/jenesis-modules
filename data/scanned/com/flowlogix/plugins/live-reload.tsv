@@ -13,3 +13,4 @@
 1.4.1		2026-08-22T23:21:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/plugins/live-reload/1.4.1/live-reload-1.4.1.jar returned status 404
 1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/plugins/live-reload/1.5/live-reload-1.5.jar returned status 404
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/plugins/live-reload/1.5.1/live-reload-1.5.1.jar returned status 404
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/plugins/live-reload/1.5.2/live-reload-1.5.2.jar returned status 404
