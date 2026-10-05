@@ -5,3 +5,4 @@
 0.50.2		2026-08-25T07:00:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose-wasm-js/0.50.2/sdds-uikit-compose-wasm-js-0.50.2.jar returned status 404
 0.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose-wasm-js/0.51.0/sdds-uikit-compose-wasm-js-0.51.0.jar returned status 404
 0.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose-wasm-js/0.52.0/sdds-uikit-compose-wasm-js-0.52.0.jar returned status 404
+0.53.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/salute-developers/sdds-uikit-compose-wasm-js/0.53.0/sdds-uikit-compose-wasm-js-0.53.0.jar returned status 404

@@ -120,6 +120,8 @@
 4.18.2-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/java-client-parent/4.18.2-rc1/java-client-parent-4.18.2-rc1.jar returned status 404
 4.18.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/java-client-parent/4.18.3/java-client-parent-4.18.3.jar returned status 404
 4.18.3-rc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/java-client-parent/4.18.3-rc/java-client-parent-4.18.3-rc.jar returned status 404
+4.18.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/java-client-parent/4.18.4/java-client-parent-4.18.4.jar returned status 404
+4.18.4-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/java-client-parent/4.18.4-rc1/java-client-parent-4.18.4-rc1.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/java-client-parent/4.2.0/java-client-parent-4.2.0.jar returned status 404
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/java-client-parent/4.2.1/java-client-parent-4.2.1.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/split/client/java-client-parent/4.3.0/java-client-parent-4.3.0.jar returned status 404
