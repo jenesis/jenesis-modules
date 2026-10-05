@@ -167,6 +167,7 @@
 121.1.115			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/121.1.115/webrtc-121.1.115.jar returned status 404
 121.1.116			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/121.1.116/webrtc-121.1.116.jar returned status 404
 121.1.117			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/121.1.117/webrtc-121.1.117.jar returned status 404
+121.1.118			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/121.1.118/webrtc-121.1.118.jar returned status 404
 121.1.94			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/121.1.94/webrtc-121.1.94.jar returned status 404
 121.1.95			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/121.1.95/webrtc-121.1.95.jar returned status 404
 121.1.96			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/121.1.96/webrtc-121.1.96.jar returned status 404
@@ -204,6 +205,7 @@
 145.0.115			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/145.0.115/webrtc-145.0.115.jar returned status 404
 145.0.116			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/145.0.116/webrtc-145.0.116.jar returned status 404
 145.0.117			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/145.0.117/webrtc-145.0.117.jar returned status 404
+145.0.118			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/145.0.118/webrtc-145.0.118.jar returned status 404
 84.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/84.0.0/webrtc-84.0.0.jar returned status 404
 84.0.0-alpha.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/84.0.0-alpha.33/webrtc-84.0.0-alpha.33.jar returned status 404
 84.0.0-alpha.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/webrtc/84.0.0-alpha.34/webrtc-84.0.0-alpha.34.jar returned status 404

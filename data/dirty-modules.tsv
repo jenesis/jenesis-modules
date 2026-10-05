@@ -1539,3 +1539,15 @@ com.opengamma.strata.collect
 com.opengamma.strata.market
 com.opengamma.strata.basics
 com.opengamma.strata.report
+fiftyone.pipeline.engines
+fiftyone.pipeline.engines.fiftyone
+fiftyone.devicedetection.cloud
+fiftyone.common
+fiftyone.devicedetection.shared
+fiftyone.caching
+fiftyone.devicedetection
+fiftyone.pipeline.core
+fiftyone.devicedetection.hash.engine.onpremise
+com.configdirector.openfeature
+com.configdirector
+com.google.googlejavaformat

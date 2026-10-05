@@ -1042,4 +1042,5 @@ RELEASE113	named	org.netbeans.external	asm-7.2	2020-02-21T16:30:24Z	7.2.0
 0.1.0-M2	named	org.virtuslab	sloth-agent	2026-08-10T14:17:07Z	9.7
 1.17.0	named	org.virtuslab.scala-cli	cliBootstrapped	2026-09-08T18:27:58Z	9.10.1
 1.17.1	named	org.virtuslab.scala-cli	cliBootstrapped	2026-09-17T15:36:15Z	9.10.1
+1.0.4.1	named	com.ibm.ta.sdk	ta-sdk-sample	2026-09-30T18:36:33Z	9.7.1
 0.16.0	named	org.teavm	teavm-relocated-libs-asm	2026-10-02T16:41:25Z	9.10.1
