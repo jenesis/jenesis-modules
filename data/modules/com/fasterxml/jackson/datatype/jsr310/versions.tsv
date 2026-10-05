@@ -1140,3 +1140,4 @@ vv1.2.0.1-1-gadc43b8-1-gf5bc75b	named	com.linkedin.iceberg	iceberg-spark-runtime
 1.2.1	named	org.apache.hudi	hudi-flink2.1-bundle	2026-09-24T09:18:52Z	2.15.2
 1.2.1	named	org.apache.hudi	hudi-spark4.0-bundle_2.13	2026-09-24T10:09:20Z	2.18.2
 1.2.1	named	org.apache.hudi	hudi-spark4.1-bundle_2.13	2026-09-24T10:09:59Z	2.20.0
+2.1.1	named	org.apache.knox	gateway-shell-release	2026-09-29T07:14:11Z	2.18.2

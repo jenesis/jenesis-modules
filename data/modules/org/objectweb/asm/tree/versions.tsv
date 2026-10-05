@@ -513,3 +513,4 @@ RELEASE113	named	org.netbeans.external	asm-tree-7.2	2020-02-21T16:30:27Z	7.2.0
 1.24.9	named	io.joynr.tools.generator	joynr-generator-standalone	2026-09-10T11:49:16Z	9.5
 1.24.10	named	io.joynr.tools.generator	joynr-generator-standalone	2026-09-15T10:48:16Z	9.5
 1.24.0-26w37	named	io.joynr.tools.generator	joynr-generator-standalone	2026-09-15T13:27:42Z	9.4
+0.16.0	named	org.teavm	teavm-relocated-libs-asm-tree	2026-10-02T16:41:25Z	9.10.1

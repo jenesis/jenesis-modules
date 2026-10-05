@@ -1067,8 +1067,14 @@
 6.0.34	named	io.digiexpress	thena-sql-client-annot-proc	2026-08-12T07:55:17Z	33.5.0-jre
 0.23.3	named	org.opendaylight.aaa	aaa-cli-jar	2026-08-12T22:09:02Z	33.6.0-jre
 5.29.0.35837	named	org.sonarsource.python	sonar-python-plugin	2026-08-13T13:13:37Z	33.6.0-jre
+2.6.7	named	org.apache.hbase	hbase-shaded-mapreduce	2026-08-14T19:07:05Z	33.4.8-jre
+2.6.7	named	org.apache.hbase	hbase-shaded-testing-util	2026-08-14T19:08:36Z	33.4.8-jre
+2.6.7-hadoop3	named	org.apache.hbase	hbase-shaded-mapreduce	2026-08-14T19:32:17Z	33.4.8-jre
+2.5.16	named	org.apache.hbase	hbase-shaded-testing-util	2026-08-14T21:02:44Z	33.4.8-jre
+2.5.16	named	org.apache.hbase	hbase-shaded-mapreduce	2026-08-14T21:08:25Z	33.4.8-jre
 1.7.0.4rc1	named	io.acryl	datahub-protobuf	2026-08-14T21:11:42Z	33.6.0-jre
 1.7.0.4	named	io.acryl	datahub-protobuf	2026-08-14T21:32:02Z	33.6.0-jre
+2.5.16-hadoop3	named	org.apache.hbase	hbase-shaded-mapreduce	2026-08-14T21:41:29Z	33.4.8-jre
 6.0.35	named	io.digiexpress	thena-sql-client-annot-proc	2026-08-17T11:40:16Z	33.5.0-jre
 33.7.0-android	automatic	com.google.guava	guava	2026-08-17T13:34:22Z	
 33.7.0-jre	named	com.google.guava	guava	2026-08-17T13:45:02Z	33.7.0-jre

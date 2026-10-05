@@ -29,3 +29,4 @@
 3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hisp/dhis/rules/rule-engine-native/3.8.0/rule-engine-native-3.8.0.jar returned status 404
 3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hisp/dhis/rules/rule-engine-native/3.8.1/rule-engine-native-3.8.1.jar returned status 404
 3.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hisp/dhis/rules/rule-engine-native/3.8.2/rule-engine-native-3.8.2.jar returned status 404
+3.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hisp/dhis/rules/rule-engine-native/3.8.3/rule-engine-native-3.8.3.jar returned status 404

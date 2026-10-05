@@ -332,9 +332,13 @@
 0.74.4	named	io.simpleishard	trino-file	2026-08-14T17:04:44Z	3.6.1
 0.74.4	named	ai.askamerica	askamerica-engine	2026-08-14T17:04:45Z	3.6.1
 0.74.4	named	io.simpleishard	govdata	2026-08-14T17:06:20Z	3.6.1
+2.6.7-hadoop3	named	org.apache.hbase	hbase-shaded-client	2026-08-14T19:30:03Z	3.6.1
+2.6.7-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2026-08-14T19:35:41Z	3.6.1
 0.75.0	named	io.simpleishard	govdata	2026-08-14T20:59:08Z	3.6.1
 0.75.0	named	io.simpleishard	trino-file	2026-08-14T21:04:29Z	3.6.1
 0.75.0	named	ai.askamerica	askamerica-engine	2026-08-14T21:04:37Z	3.6.1
+2.5.16-hadoop3	named	org.apache.hbase	hbase-shaded-testing-util	2026-08-14T21:33:47Z	3.6.1
+2.5.16-hadoop3	named	org.apache.hbase	hbase-shaded-client	2026-08-14T21:36:07Z	3.6.1
 0.76.0	named	io.simpleishard	govdata	2026-08-16T14:00:07Z	3.6.1
 0.76.0	named	ai.askamerica	askamerica-engine	2026-08-16T14:01:45Z	3.6.1
 0.76.0	named	io.simpleishard	trino-file	2026-08-16T14:06:04Z	3.6.1

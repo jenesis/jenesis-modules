@@ -5085,7 +5085,13 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 1.5.2.18	named	com.linkedin.iceberg	iceberg-gcp-bundle	2026-08-12T22:40:13Z	2.10.1
 8.39.0.46279	named	org.sonarsource.java	java-custom-rules-example	2026-08-13T13:49:40Z	2.14.0
 0.19.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-08-13T17:15:50Z	2.11.0
+2.6.7	named	org.apache.hbase	hbase-shaded-client	2026-08-14T19:00:19Z	2.13.2
+2.6.7	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-08-14T19:08:05Z	2.13.2
+2.6.7-hadoop3	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-08-14T19:24:39Z	2.13.2
+2.5.16	named	org.apache.hbase	hbase-shaded-client	2026-08-14T21:10:37Z	2.13.2
+2.5.16	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-08-14T21:12:30Z	2.13.2
 1.0.0-beta.20	named	dev.blitical	JigsawDB	2026-08-14T21:40:35Z	2.13.2
+2.5.16-hadoop3	named	org.apache.hbase	hbase-shaded-client-byo-hadoop	2026-08-14T21:40:51Z	2.13.2
 1.6.1	named	com.conaxgames	clibraries	2026-08-15T09:11:45Z	2.14.0
 11.9.0.86162	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-08-17T11:03:14Z	2.13.2
 11.9.0.86162	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-08-17T11:03:14Z	2.13.2

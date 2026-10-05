@@ -1263,3 +1263,10 @@ v0.24.1	named	io.kestra	kestra-api-client	2025-10-03T07:53:57Z	2.17.1
 2.21.7	named	com.fasterxml.jackson.jaxrs	jackson-jaxrs-json-provider	2026-09-21T19:16:08Z	2.21.7
 2.22.3	named	com.fasterxml.jackson.jaxrs	jackson-jaxrs-json-provider	2026-09-21T22:31:55Z	2.22.3
 1.2.1	named	org.apache.hudi	hudi-examples-k8s	2026-09-24T09:00:48Z	2.17.1
+0.8.0-beta.2	named	org.lance	lance-spark-bundle-4.0_2.13	2026-10-04T20:11:15Z	2.17.1
+0.8.0-beta.2	named	org.lance	lance-spark-bundle-4.2_2.13	2026-10-04T20:11:16Z	2.17.1
+0.8.0-beta.2	named	org.lance	lance-spark-bundle-3.4_2.13	2026-10-04T20:11:17Z	2.17.1
+0.8.0-beta.2	named	org.lance	lance-spark-bundle-3.5_2.12	2026-10-04T20:11:17Z	2.17.1
+0.8.0-beta.2	named	org.lance	lance-spark-bundle-3.4_2.12	2026-10-04T20:11:18Z	2.17.1
+0.8.0-beta.2	named	org.lance	lance-spark-bundle-3.5_2.13	2026-10-04T20:11:19Z	2.17.1
+0.8.0-beta.2	named	org.lance	lance-spark-bundle-4.1_2.13	2026-10-04T20:11:26Z	2.17.1

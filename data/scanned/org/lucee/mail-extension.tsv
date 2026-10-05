@@ -3,6 +3,7 @@
 1.1.0.1-ALPHA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mail-extension/1.1.0.1-ALPHA/mail-extension-1.1.0.1-ALPHA.jar returned status 404
 1.1.0.1-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mail-extension/1.1.0.1-BETA/mail-extension-1.1.0.1-BETA.jar returned status 404
 1.1.0.1-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mail-extension/1.1.0.1-RC/mail-extension-1.1.0.1-RC.jar returned status 404
+1.1.0.10-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mail-extension/1.1.0.10-RC/mail-extension-1.1.0.10-RC.jar returned status 404
 1.1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mail-extension/1.1.0.3/mail-extension-1.1.0.3.jar returned status 404
 1.1.0.3-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mail-extension/1.1.0.3-RC/mail-extension-1.1.0.3-RC.jar returned status 404
 1.1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mail-extension/1.1.0.4/mail-extension-1.1.0.4.jar returned status 404
