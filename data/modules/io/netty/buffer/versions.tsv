@@ -254,3 +254,7 @@
 1.18.3	named	org.opendaylight.jsonrpc	test-tool	2026-09-17T00:51:42Z	4.2.16.Final
 2.3.0-EXNESS-0.2	named	com.exness	flink-sql-jdbc-driver-bundle	2026-09-23T11:55:16Z	4.2.6.Final
 2.3.0-EXNESS-0.2.Final	named	com.exness	flink-sql-jdbc-driver-bundle	2026-09-23T14:31:02Z	4.2.6.Final
+1.12.0	named	org.apache.iceberg	iceberg-spark-runtime-3.5_2.12	2026-09-25T19:34:06Z	4.2.18.Final
+1.12.0	named	org.apache.iceberg	iceberg-spark-runtime-4.0_2.13	2026-09-25T19:34:34Z	4.2.18.Final
+1.12.0	named	org.apache.iceberg	iceberg-spark-runtime-4.1_2.13	2026-09-25T19:35:04Z	4.2.18.Final
+1.12.0	named	org.apache.iceberg	iceberg-spark-runtime-3.5_2.13	2026-09-25T19:36:23Z	4.2.18.Final

@@ -23,3 +23,5 @@
 8.0.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/grails/grails-hibernate5-bom/8.0.0-M4/grails-hibernate5-bom-8.0.0-M4.jar returned status 404
 8.0.0-M5		2026-08-02T23:13:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/grails/grails-hibernate5-bom/8.0.0-M5/grails-hibernate5-bom-8.0.0-M5.jar returned status 404
 8.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/grails/grails-hibernate5-bom/8.0.0-M6/grails-hibernate5-bom-8.0.0-M6.jar returned status 404
+8.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/grails/grails-hibernate5-bom/8.0.0-RC1/grails-hibernate5-bom-8.0.0-RC1.jar returned status 404
+8.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/grails/grails-hibernate5-bom/8.0.0-RC2/grails-hibernate5-bom-8.0.0-RC2.jar returned status 404

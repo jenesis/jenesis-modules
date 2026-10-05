@@ -1375,3 +1375,4 @@
 2.76.0	named	org.apache.beam	beam-sdks-java-core	2026-09-02T01:59:17Z	1.26.2
 2.76.0	named	org.apache.beam	beam-runners-direct-java	2026-09-02T01:59:19Z	1.26.2
 2.76.0	named	org.apache.beam	beam-sdks-java-transform-service	2026-09-02T02:01:34Z	1.26.2
+38.0.0	named	org.apache.druid.extensions	druid-protobuf-extensions	2026-09-24T07:58:55Z	1.28.0

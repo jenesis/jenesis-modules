@@ -48,3 +48,4 @@
 9.10.1.wso2v2	named	org.wso2.orbit.org.apache.solr	solr	2026-08-06T09:03:51Z	9.12.3
 10.5.1	named	org.apache.lucene	lucene-core	2026-08-12T11:27:37Z	10.5.1
 2.6.0	named	org.apache.jackrabbit	oak-run-elastic	2026-08-19T17:39:11Z	9.12.2
+10.5.2	named	org.apache.lucene	lucene-core	2026-10-03T20:58:22Z	10.5.2

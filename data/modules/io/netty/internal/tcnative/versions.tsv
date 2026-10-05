@@ -922,8 +922,10 @@
 4.140.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-23T23:51:38Z	2.0.72.Final
 2.78.0	named	com.google.api	gapic-generator-java	2026-09-23T23:53:55Z	2.0.75.Final
 4.140.6	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-24T02:11:33Z	2.0.72.Final
+1.3.1	named	org.apache.gravitino	gravitino-iceberg-gcp-bundle	2026-09-24T09:12:58Z	2.0.74.Final
 0.23.2	named	com.spotify.confidence	openfeature-provider-local	2026-09-24T14:26:36Z	2.0.72.Final
 4.150.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-25T12:11:27Z	2.0.72.Final
+1.12.0	named	org.apache.iceberg	iceberg-gcp-bundle	2026-09-25T19:24:36Z	2.0.75.Final
 4.143.4	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-29T01:31:31Z	2.0.72.Final
 4.143.6	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-01T10:41:06Z	2.0.72.Final
 4.143.7	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-03T02:12:24Z	2.0.72.Final
