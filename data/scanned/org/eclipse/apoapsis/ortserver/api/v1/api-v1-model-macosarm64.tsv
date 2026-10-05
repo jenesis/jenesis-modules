@@ -143,3 +143,4 @@
 0.92.0		2026-09-16T08:28:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/api/v1/api-v1-model-macosarm64/0.92.0/api-v1-model-macosarm64-0.92.0.jar returned status 404
 0.92.0	metadata	2026-09-16T08:28:33Z	
 0.93.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/api/v1/api-v1-model-macosarm64/0.93.0/api-v1-model-macosarm64-0.93.0.jar returned status 404
+0.94.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/api/v1/api-v1-model-macosarm64/0.94.0/api-v1-model-macosarm64-0.94.0.jar returned status 404

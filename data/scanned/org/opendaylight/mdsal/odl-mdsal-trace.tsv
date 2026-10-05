@@ -95,6 +95,7 @@
 16.0.6		2026-08-23T16:36:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-trace/16.0.6/odl-mdsal-trace-16.0.6.jar returned status 404
 17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-trace/17.0.0/odl-mdsal-trace-17.0.0.jar returned status 404
 17.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-trace/17.0.1/odl-mdsal-trace-17.0.1.jar returned status 404
+17.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-trace/17.0.2/odl-mdsal-trace-17.0.2.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-trace/2.0.0/odl-mdsal-trace-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-trace/2.0.1/odl-mdsal-trace-2.0.1.jar returned status 404
 2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/mdsal/odl-mdsal-trace/2.0.10/odl-mdsal-trace-2.0.10.jar returned status 404
