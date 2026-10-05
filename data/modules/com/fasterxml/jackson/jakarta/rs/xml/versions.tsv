@@ -66,3 +66,5 @@
 2.18.11	named	com.fasterxml.jackson.jakarta.rs	jackson-jakarta-rs-xml-provider	2026-09-21T01:16:19Z	2.18.11
 2.21.7	named	com.fasterxml.jackson.jakarta.rs	jackson-jakarta-rs-xml-provider	2026-09-21T19:41:30Z	2.21.7
 2.22.3	named	com.fasterxml.jackson.jakarta.rs	jackson-jakarta-rs-xml-provider	2026-09-21T22:36:33Z	2.22.3
+12.0-pre2	named	com.graphhopper	graphhopper-web	2026-09-29T12:36:51Z	2.21.4
+11.1	named	com.graphhopper	graphhopper-web	2026-09-29T13:11:34Z	2.19.2
