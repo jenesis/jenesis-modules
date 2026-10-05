@@ -31,6 +31,7 @@
 4.10.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/4.10.18/micronaut-parent-4.10.18.jar returned status 404
 4.10.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/4.10.19/micronaut-parent-4.10.19.jar returned status 404
 4.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/4.10.2/micronaut-parent-4.10.2.jar returned status 404
+4.10.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/4.10.20/micronaut-parent-4.10.20.jar returned status 404
 4.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/4.10.3/micronaut-parent-4.10.3.jar returned status 404
 4.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/4.10.4/micronaut-parent-4.10.4.jar returned status 404
 4.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/4.10.5/micronaut-parent-4.10.5.jar returned status 404
@@ -96,3 +97,4 @@
 5.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/5.1.4/micronaut-parent-5.1.4.jar returned status 404
 5.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/5.1.5/micronaut-parent-5.1.5.jar returned status 404
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/5.2.0/micronaut-parent-5.2.0.jar returned status 404
+5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micronaut/platform/micronaut-parent/5.2.1/micronaut-parent-5.2.1.jar returned status 404

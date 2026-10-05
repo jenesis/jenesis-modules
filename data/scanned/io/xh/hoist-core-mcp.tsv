@@ -32,3 +32,5 @@
 40.5.0	all	2026-08-13T19:01:53Z	
 41.0.0		2026-08-25T20:11:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xh/hoist-core-mcp/41.0.0/hoist-core-mcp-41.0.0.jar returned status 404
 41.0.0	all	2026-08-25T20:11:34Z	
+42.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xh/hoist-core-mcp/42.0.0/hoist-core-mcp-42.0.0.jar returned status 404
+42.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/xh/hoist-core-mcp/42.1.0/hoist-core-mcp-42.1.0.jar returned status 404
