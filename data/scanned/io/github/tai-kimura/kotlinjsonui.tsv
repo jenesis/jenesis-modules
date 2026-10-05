@@ -72,6 +72,10 @@
 2.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui/2.41.0/kotlinjsonui-2.41.0.jar returned status 404
 2.41.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui/2.41.1/kotlinjsonui-2.41.1.jar returned status 404
 2.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui/2.42.0/kotlinjsonui-2.42.0.jar returned status 404
+2.43.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui/2.43.0/kotlinjsonui-2.43.0.jar returned status 404
+2.43.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui/2.43.2/kotlinjsonui-2.43.2.jar returned status 404
+2.43.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui/2.43.3/kotlinjsonui-2.43.3.jar returned status 404
+2.43.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui/2.43.4/kotlinjsonui-2.43.4.jar returned status 404
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui/2.5.0/kotlinjsonui-2.5.0.jar returned status 404
 2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui/2.5.1/kotlinjsonui-2.5.1.jar returned status 404
 2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tai-kimura/kotlinjsonui/2.5.2/kotlinjsonui-2.5.2.jar returned status 404

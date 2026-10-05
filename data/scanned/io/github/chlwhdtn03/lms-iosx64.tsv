@@ -70,3 +70,6 @@
 1.4.5	metadata	2026-06-06T05:22:16Z	
 1.4.6		2026-06-17T03:33:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-iosx64/1.4.6/lms-iosx64-1.4.6.jar returned status 404
 1.4.6	metadata	2026-06-17T03:33:37Z	
+1.6.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-iosx64/1.6.10/lms-iosx64-1.6.10.jar returned status 404
+1.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-iosx64/1.6.11/lms-iosx64-1.6.11.jar returned status 404
+1.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/chlwhdtn03/lms-iosx64/1.6.12/lms-iosx64-1.6.12.jar returned status 404

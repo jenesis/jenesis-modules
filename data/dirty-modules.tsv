@@ -2185,3 +2185,15 @@ com.almasb.fxgl.all
 com.almasb.fxgl.scene
 com.almasb.fxgl.core
 com.almasb.fxgl.io
+org.graalvm.shadowed.xz
+io.github.sekelenao.flinkboot.test
+io.github.sekelenao.flinkboot.fluss
+io.github.sekelenao.flinkboot.kafka
+io.github.sekelenao.flinkboot.core
+io.github.gapplex.gxu
+io.github.dfa1.zstd
+io.github.dfa1.zstd.rfc9842
+graphql.java.tools
+io.github.openlogiclab.kafkapipeline
+io.github.doblon8.openpnp.capture
+io.github.kkollsga.kglite
