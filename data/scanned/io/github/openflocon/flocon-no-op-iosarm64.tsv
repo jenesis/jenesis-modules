@@ -62,3 +62,4 @@
 1.8.2	metadata	2026-05-12T09:59:46Z	
 1.8.3		2026-06-29T08:36:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openflocon/flocon-no-op-iosarm64/1.8.3/flocon-no-op-iosarm64-1.8.3.jar returned status 404
 1.8.3	metadata	2026-06-29T08:36:53Z	
+1.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/openflocon/flocon-no-op-iosarm64/1.9.5/flocon-no-op-iosarm64-1.9.5.jar returned status 404
