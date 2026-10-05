@@ -8,6 +8,7 @@
 5.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-advanced-scheduler/5.11.4/acra-advanced-scheduler-5.11.4.jar returned status 404
 5.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-advanced-scheduler/5.12.0/acra-advanced-scheduler-5.12.0.jar returned status 404
 5.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-advanced-scheduler/5.13.1/acra-advanced-scheduler-5.13.1.jar returned status 404
+5.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-advanced-scheduler/5.14.2/acra-advanced-scheduler-5.14.2.jar returned status 404
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-advanced-scheduler/5.2.1/acra-advanced-scheduler-5.2.1.jar returned status 404
 5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-advanced-scheduler/5.3.0/acra-advanced-scheduler-5.3.0.jar returned status 404
 5.3.0-rc01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/acra/acra-advanced-scheduler/5.3.0-rc01/acra-advanced-scheduler-5.3.0-rc01.jar returned status 404

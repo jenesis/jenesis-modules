@@ -129,6 +129,7 @@
 3.5.0		2025-05-30T07:19:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/3.5.0/spring-boot-admin-sample-war-3.5.0.jar returned status 404
 3.5.1		2025-06-27T18:29:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/3.5.1/spring-boot-admin-sample-war-3.5.1.jar returned status 404
 3.5.10		2026-07-17T06:56:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/3.5.10/spring-boot-admin-sample-war-3.5.10.jar returned status 404
+3.5.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/3.5.11/spring-boot-admin-sample-war-3.5.11.jar returned status 404
 3.5.2		2025-08-15T14:41:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/3.5.2/spring-boot-admin-sample-war-3.5.2.jar returned status 404
 3.5.3		2025-09-12T15:11:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/3.5.3/spring-boot-admin-sample-war-3.5.3.jar returned status 404
 3.5.4		2025-09-16T15:40:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/3.5.4/spring-boot-admin-sample-war-3.5.4.jar returned status 404
@@ -147,3 +148,4 @@
 4.1.0		2026-06-12T06:55:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/4.1.0/spring-boot-admin-sample-war-4.1.0.jar returned status 404
 4.1.1		2026-06-19T11:08:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/4.1.1/spring-boot-admin-sample-war-4.1.1.jar returned status 404
 4.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/4.1.2/spring-boot-admin-sample-war-4.1.2.jar returned status 404
+4.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/codecentric/spring-boot-admin-sample-war/4.1.3/spring-boot-admin-sample-war-4.1.3.jar returned status 404

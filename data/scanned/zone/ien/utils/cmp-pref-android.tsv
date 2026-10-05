@@ -51,3 +51,6 @@
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.5.0/cmp-pref-android-3.5.0.jar returned status 404
 3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.5.1/cmp-pref-android-3.5.1.jar returned status 404
 3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.5.2/cmp-pref-android-3.5.2.jar returned status 404
+3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.6.0/cmp-pref-android-3.6.0.jar returned status 404
+3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.6.1/cmp-pref-android-3.6.1.jar returned status 404
+3.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/utils/cmp-pref-android/3.6.3/cmp-pref-android-3.6.3.jar returned status 404
