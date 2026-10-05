@@ -1492,8 +1492,13 @@
 2.54.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.54.9/metric-publishers-2.54.9.jar returned status 404
 2.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.0/metric-publishers-2.55.0.jar returned status 404
 2.55.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.1/metric-publishers-2.55.1.jar returned status 404
+2.55.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.10/metric-publishers-2.55.10.jar returned status 404
+2.55.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.11/metric-publishers-2.55.11.jar returned status 404
 2.55.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.2/metric-publishers-2.55.2.jar returned status 404
 2.55.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.3/metric-publishers-2.55.3.jar returned status 404
 2.55.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.4/metric-publishers-2.55.4.jar returned status 404
 2.55.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.5/metric-publishers-2.55.5.jar returned status 404
 2.55.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.6/metric-publishers-2.55.6.jar returned status 404
+2.55.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.7/metric-publishers-2.55.7.jar returned status 404
+2.55.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.8/metric-publishers-2.55.8.jar returned status 404
+2.55.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/metric-publishers/2.55.9/metric-publishers-2.55.9.jar returned status 404
