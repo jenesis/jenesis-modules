@@ -210,6 +210,7 @@
 3.39.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/3.39.5/quarkus-bom-dev-ui-3.39.5.jar returned status 404
 3.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/3.40.0/quarkus-bom-dev-ui-3.40.0.jar returned status 404
 3.40.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/3.40.0.CR1/quarkus-bom-dev-ui-3.40.0.CR1.jar returned status 404
+3.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/3.40.1/quarkus-bom-dev-ui-3.40.1.jar returned status 404
 3.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/3.7.2/quarkus-bom-dev-ui-3.7.2.jar returned status 404
 3.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/3.7.3/quarkus-bom-dev-ui-3.7.3.jar returned status 404
 3.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/3.7.4/quarkus-bom-dev-ui-3.7.4.jar returned status 404
@@ -230,3 +231,4 @@
 3.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/3.9.3/quarkus-bom-dev-ui-3.9.3.jar returned status 404
 3.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/3.9.4/quarkus-bom-dev-ui-3.9.4.jar returned status 404
 3.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/3.9.5/quarkus-bom-dev-ui-3.9.5.jar returned status 404
+4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-bom-dev-ui/4.0.0.Beta1/quarkus-bom-dev-ui-4.0.0.Beta1.jar returned status 404

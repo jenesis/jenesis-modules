@@ -18,3 +18,5 @@
 3.39.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-jlink-parent/3.39.5/quarkus-jlink-parent-3.39.5.jar returned status 404
 3.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-jlink-parent/3.40.0/quarkus-jlink-parent-3.40.0.jar returned status 404
 3.40.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-jlink-parent/3.40.0.CR1/quarkus-jlink-parent-3.40.0.CR1.jar returned status 404
+3.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-jlink-parent/3.40.1/quarkus-jlink-parent-3.40.1.jar returned status 404
+4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-jlink-parent/4.0.0.Beta1/quarkus-jlink-parent-4.0.0.Beta1.jar returned status 404
