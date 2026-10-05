@@ -3329,4 +3329,5 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 3.2.0	named	org.openidentityplatform.commons.json-schema	cli	2026-09-29T07:46:38Z	2.0.17
 7.8.3	named	com.newrelic.agent.android	instrumentation	2026-09-29T13:21:49Z	2.0.4
 7.8.3	named	com.newrelic.agent.android	instrumentation-static	2026-09-29T13:21:49Z	2.0.4
+6.0.0	named	com.liquibase	liquibase-maven-plugin	2026-09-29T20:17:14Z	2.0.19
 2.0.3	named	org.open-metadata	elasticsearch-deps	2026-09-30T05:26:51Z	2.0.4

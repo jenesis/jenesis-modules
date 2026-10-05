@@ -10,3 +10,4 @@
 2.7.0	metadata	2023-02-09T12:36:45Z	
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bkahlert/kommons/kommons-kaomoji-macosx64/2.8.0/kommons-kaomoji-macosx64-2.8.0.jar returned status 404
 2.8.0	metadata	2023-03-05T15:34:58Z	
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/bkahlert/kommons/kommons-kaomoji-macosx64/3.0.0/kommons-kaomoji-macosx64-3.0.0.jar returned status 404

@@ -927,6 +927,7 @@
 4.150.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-25T12:11:27Z	2.0.72.Final
 1.12.0	named	org.apache.iceberg	iceberg-gcp-bundle	2026-09-25T19:24:36Z	2.0.75.Final
 4.143.4	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-09-29T01:31:31Z	2.0.72.Final
+6.0.0	named	com.liquibase.ext	liquibase-commercial-bigquery	2026-09-29T20:17:14Z	2.0.75.Final
 3.9.07	named	org.metricshub	metricshub-agent	2026-09-30T15:01:36Z	2.0.74.Final
 4.143.6	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-01T10:41:06Z	2.0.72.Final
 2.9.2	named	org.wso2.msf4j	msf4j-all	2026-10-01T16:14:39Z	2.0.84.Final

@@ -16,3 +16,5 @@
 1.0.250	metadata	2026-08-14T06:44:12Z	
 1.0.251		2026-08-24T09:59:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sportradar/mobile/epsilon/epsilon-string-iossimulatorarm64/1.0.251/epsilon-string-iossimulatorarm64-1.0.251.jar returned status 404
 1.0.251	metadata	2026-08-24T09:59:50Z	
+1.0.262			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sportradar/mobile/epsilon/epsilon-string-iossimulatorarm64/1.0.262/epsilon-string-iossimulatorarm64-1.0.262.jar returned status 404
+1.0.266			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sportradar/mobile/epsilon/epsilon-string-iossimulatorarm64/1.0.266/epsilon-string-iossimulatorarm64-1.0.266.jar returned status 404

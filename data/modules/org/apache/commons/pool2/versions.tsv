@@ -72,3 +72,4 @@
 5.2.2	named	com.liquibase.ext	liquibase-commercial-databricks	2026-08-12T14:18:31Z	2.13.1
 38.0.0	named	org.apache.druid.extensions.contrib	druid-redis-cache	2026-09-24T08:12:13Z	2.12.1
 2.1.9	named	org.apache.directory.api	api-ldap-client-all	2026-09-24T17:00:24Z	2.13.1
+6.0.0	named	com.liquibase.ext	liquibase-commercial-databricks	2026-09-29T20:17:14Z	2.13.1

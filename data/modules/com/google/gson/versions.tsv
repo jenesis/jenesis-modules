@@ -5222,4 +5222,6 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 10.35.0.4138	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-09-28T12:31:10Z	2.14.0
 10.35.0.4138	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-09-28T12:31:10Z	2.14.0
 6.0.1.79758	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-09-28T22:17:07Z	2.14.0
+3.0.18.4	named	com.ascentstream.pulsar	jclouds-shaded	2026-09-29T09:02:23Z	2.10.1
+3.0.18.5	named	com.ascentstream.pulsar	jclouds-shaded	2026-09-30T07:36:46Z	2.10.1
 6.0.2.79770	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-09-30T11:36:39Z	2.14.0
