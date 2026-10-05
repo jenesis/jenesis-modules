@@ -28,3 +28,4 @@
 0.5.0		2026-08-17T08:27:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lazygeniouz/acv/0.5.0/acv-0.5.0.jar returned status 404
 0.5.1		2026-08-17T11:08:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lazygeniouz/acv/0.5.1/acv-0.5.1.jar returned status 404
 0.5.2		2026-08-25T09:01:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lazygeniouz/acv/0.5.2/acv-0.5.2.jar returned status 404
+0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/lazygeniouz/acv/0.5.3/acv-0.5.3.jar returned status 404

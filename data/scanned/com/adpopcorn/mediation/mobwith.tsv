@@ -1,35 +1,72 @@
 1.0.100.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.100.0/mobwith-1.0.100.0.jar returned status 404
+1.0.100.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.100.1/mobwith-1.0.100.1.jar returned status 404
 1.0.101.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.101.0/mobwith-1.0.101.0.jar returned status 404
+1.0.101.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.101.1/mobwith-1.0.101.1.jar returned status 404
 1.0.102.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.102.0/mobwith-1.0.102.0.jar returned status 404
+1.0.102.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.102.1/mobwith-1.0.102.1.jar returned status 404
+1.0.103.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.103.0/mobwith-1.0.103.0.jar returned status 404
+1.0.104.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.104.0/mobwith-1.0.104.0.jar returned status 404
 1.0.67.0		2026-08-27T01:57:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.67.0/mobwith-1.0.67.0.jar returned status 404
+1.0.67.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.67.1/mobwith-1.0.67.1.jar returned status 404
 1.0.68.0		2026-08-27T01:58:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.68.0/mobwith-1.0.68.0.jar returned status 404
+1.0.68.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.68.1/mobwith-1.0.68.1.jar returned status 404
 1.0.69.0		2026-08-27T01:58:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.69.0/mobwith-1.0.69.0.jar returned status 404
+1.0.69.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.69.1/mobwith-1.0.69.1.jar returned status 404
 1.0.70.0		2026-08-27T01:58:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.70.0/mobwith-1.0.70.0.jar returned status 404
+1.0.70.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.70.1/mobwith-1.0.70.1.jar returned status 404
 1.0.71.0		2026-08-27T02:17:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.71.0/mobwith-1.0.71.0.jar returned status 404
+1.0.71.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.71.1/mobwith-1.0.71.1.jar returned status 404
 1.0.72.0		2026-08-27T02:17:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.72.0/mobwith-1.0.72.0.jar returned status 404
+1.0.72.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.72.1/mobwith-1.0.72.1.jar returned status 404
 1.0.73.0		2026-08-27T02:17:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.73.0/mobwith-1.0.73.0.jar returned status 404
+1.0.73.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.73.1/mobwith-1.0.73.1.jar returned status 404
 1.0.74.0		2026-08-27T02:18:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.74.0/mobwith-1.0.74.0.jar returned status 404
+1.0.74.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.74.1/mobwith-1.0.74.1.jar returned status 404
 1.0.75.0		2026-08-27T02:18:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.75.0/mobwith-1.0.75.0.jar returned status 404
+1.0.75.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.75.1/mobwith-1.0.75.1.jar returned status 404
 1.0.76.0		2026-08-27T02:19:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.76.0/mobwith-1.0.76.0.jar returned status 404
+1.0.76.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.76.1/mobwith-1.0.76.1.jar returned status 404
 1.0.77.0		2026-08-27T02:19:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.77.0/mobwith-1.0.77.0.jar returned status 404
+1.0.77.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.77.1/mobwith-1.0.77.1.jar returned status 404
 1.0.78.0		2026-08-27T02:19:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.78.0/mobwith-1.0.78.0.jar returned status 404
+1.0.78.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.78.1/mobwith-1.0.78.1.jar returned status 404
 1.0.79.0		2026-08-27T02:19:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.79.0/mobwith-1.0.79.0.jar returned status 404
+1.0.79.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.79.1/mobwith-1.0.79.1.jar returned status 404
 1.0.80.0		2026-08-27T02:19:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.80.0/mobwith-1.0.80.0.jar returned status 404
+1.0.80.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.80.1/mobwith-1.0.80.1.jar returned status 404
 1.0.81.0		2026-08-27T02:21:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.81.0/mobwith-1.0.81.0.jar returned status 404
+1.0.81.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.81.1/mobwith-1.0.81.1.jar returned status 404
 1.0.82.0		2026-08-27T02:22:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.82.0/mobwith-1.0.82.0.jar returned status 404
+1.0.82.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.82.1/mobwith-1.0.82.1.jar returned status 404
 1.0.83.0		2026-08-27T02:22:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.83.0/mobwith-1.0.83.0.jar returned status 404
+1.0.83.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.83.1/mobwith-1.0.83.1.jar returned status 404
 1.0.84.0		2026-08-27T01:57:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.84.0/mobwith-1.0.84.0.jar returned status 404
+1.0.84.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.84.1/mobwith-1.0.84.1.jar returned status 404
 1.0.86.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.86.0/mobwith-1.0.86.0.jar returned status 404
+1.0.86.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.86.1/mobwith-1.0.86.1.jar returned status 404
 1.0.87.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.87.0/mobwith-1.0.87.0.jar returned status 404
+1.0.87.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.87.1/mobwith-1.0.87.1.jar returned status 404
 1.0.88.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.88.0/mobwith-1.0.88.0.jar returned status 404
+1.0.88.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.88.1/mobwith-1.0.88.1.jar returned status 404
 1.0.89.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.89.0/mobwith-1.0.89.0.jar returned status 404
+1.0.89.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.89.1/mobwith-1.0.89.1.jar returned status 404
 1.0.90.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.90.0/mobwith-1.0.90.0.jar returned status 404
+1.0.90.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.90.1/mobwith-1.0.90.1.jar returned status 404
 1.0.91.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.91.0/mobwith-1.0.91.0.jar returned status 404
+1.0.91.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.91.1/mobwith-1.0.91.1.jar returned status 404
 1.0.92.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.92.0/mobwith-1.0.92.0.jar returned status 404
+1.0.92.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.92.1/mobwith-1.0.92.1.jar returned status 404
 1.0.93.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.93.0/mobwith-1.0.93.0.jar returned status 404
+1.0.93.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.93.1/mobwith-1.0.93.1.jar returned status 404
 1.0.94.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.94.0/mobwith-1.0.94.0.jar returned status 404
+1.0.94.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.94.1/mobwith-1.0.94.1.jar returned status 404
 1.0.95.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.95.0/mobwith-1.0.95.0.jar returned status 404
+1.0.95.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.95.1/mobwith-1.0.95.1.jar returned status 404
 1.0.96.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.96.0/mobwith-1.0.96.0.jar returned status 404
+1.0.96.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.96.1/mobwith-1.0.96.1.jar returned status 404
 1.0.97.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.97.0/mobwith-1.0.97.0.jar returned status 404
+1.0.97.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.97.1/mobwith-1.0.97.1.jar returned status 404
 1.0.98.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.98.0/mobwith-1.0.98.0.jar returned status 404
+1.0.98.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.98.1/mobwith-1.0.98.1.jar returned status 404
 1.0.99.0		2026-09-21T01:01:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.99.0/mobwith-1.0.99.0.jar returned status 404
+1.0.99.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adpopcorn/mediation/mobwith/1.0.99.1/mobwith-1.0.99.1.jar returned status 404
