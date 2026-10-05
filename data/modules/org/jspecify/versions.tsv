@@ -245,3 +245,7 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 0.3.8	named	io.camunda	camunda-7-to-8-diagram-converter-cli	2026-09-21T19:41:31Z	1.0.1
 2.0.2	named	org.dominokit	domino-rest-processor	2026-09-24T13:43:26Z	
 1.4.5	named	dev.zacsweers.metro	gradle-plugin	2026-09-24T16:22:57Z	1.0.1
+2.5.8	named	org.jboss.elemento	elemento-router-processor	2026-09-30T10:41:37Z	
+2.5.8	named	org.jboss.elemento	elemento-router-processor-cdi	2026-09-30T10:41:37Z	
+2.5.9	named	org.jboss.elemento	elemento-router-processor	2026-09-30T13:16:57Z	
+2.5.9	named	org.jboss.elemento	elemento-router-processor-cdi	2026-09-30T13:16:58Z	

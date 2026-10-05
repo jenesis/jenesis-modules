@@ -2105,3 +2105,4 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 2.55.5	named	software.amazon.awssdk	bundle	2026-09-24T20:45:56Z	1.17.1
 2.55.6	named	software.amazon.awssdk	bundle-sdk	2026-09-25T20:45:04Z	1.17.1
 2.55.6	named	software.amazon.awssdk	bundle	2026-09-25T20:45:13Z	1.17.1
+2.2.1	named	org.cibseven.community.keycloak	cibseven-keycloak-run	2026-09-28T16:31:56Z	1.18.0
