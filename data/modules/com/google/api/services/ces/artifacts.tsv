@@ -1,3 +1,4 @@
+v1-rev20260924-2.0.0	automatic	com.google.apis	google-api-services-ces
 v1-rev20260914-2.0.0	automatic	com.google.apis	google-api-services-ces
 v1-rev20260903-2.0.0	automatic	com.google.apis	google-api-services-ces
 v1-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-ces
@@ -17,6 +18,7 @@ v1-rev20260312-2.0.0	automatic	com.google.apis	google-api-services-ces
 v1-rev20260304-2.0.0	automatic	com.google.apis	google-api-services-ces
 v1-rev20260227-2.0.0	automatic	com.google.apis	google-api-services-ces
 v1-rev20260218-2.0.0	automatic	com.google.apis	google-api-services-ces
+v1beta-rev20260924-2.0.0	automatic	com.google.apis	google-api-services-ces
 v1beta-rev20260914-2.0.0	automatic	com.google.apis	google-api-services-ces
 v1beta-rev20260903-2.0.0	automatic	com.google.apis	google-api-services-ces
 v1beta-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-ces

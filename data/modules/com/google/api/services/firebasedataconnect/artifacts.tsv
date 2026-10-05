@@ -1,3 +1,4 @@
+v1-rev20260927-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect
 v1-rev20260726-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect
 v1-rev20260719-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect
 v1-rev20260531-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect
@@ -17,6 +18,7 @@ v1-rev20250803-2.0.0	automatic	com.google.apis	google-api-services-firebasedatac
 v1-rev20250706-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect
 v1-rev20250604-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect
 v1-rev20250323-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect
+v1beta-rev20260927-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect
 v1beta-rev20260726-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect
 v1beta-rev20260719-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect
 v1beta-rev20260531-2.0.0	automatic	com.google.apis	google-api-services-firebasedataconnect

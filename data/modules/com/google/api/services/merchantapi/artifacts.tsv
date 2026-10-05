@@ -12,6 +12,7 @@ reviews_v1beta-rev20250204-2.0.0	automatic	com.google.apis	google-api-services-m
 reviews_v1beta-rev20241119-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 reviews_v1beta-rev20241101-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 reviews_v1beta-rev20241022-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+reports_v1-rev20260921-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 reports_v1-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 reports_v1-rev20260715-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 reports_v1-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
@@ -22,6 +23,7 @@ reports_v1-rev20260202-2.0.0	automatic	com.google.apis	google-api-services-merch
 reports_v1-rev20260106-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 reports_v1-rev20250808-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 reports_v1-rev20250804-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+reports_v1beta-rev20260921-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 reports_v1beta-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 reports_v1beta-rev20260715-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 reports_v1beta-rev20260615-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
@@ -93,6 +95,7 @@ promotions_v1beta-rev20241101-2.0.0	automatic	com.google.apis	google-api-service
 promotions_v1beta-rev20241022-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 promotions_v1beta-rev20240827-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 promotions_v1beta-rev20240611-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+products_v1-rev20260921-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1-rev20260910-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1-rev20260903-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
@@ -125,6 +128,7 @@ products_v1-rev20251007-2.0.0	automatic	com.google.apis	google-api-services-merc
 products_v1-rev20251002-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1-rev20250811-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1-rev20250804-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+products_v1beta-rev20260921-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1beta-rev20260903-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1beta-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 products_v1beta-rev20260527-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
@@ -209,6 +213,7 @@ notifications_v1beta-rev20241022-2.0.0	automatic	com.google.apis	google-api-serv
 notifications_v1beta-rev20240930-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 notifications_v1beta-rev20240827-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 notifications_v1beta-rev20240611-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+loyaltycustomers_v1-rev20260921-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 loyaltycustomers_v1-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 loyaltycustomers_v1-rev20260805-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 lfp_v1-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
@@ -354,6 +359,8 @@ conversions_v1beta-rev20241023-2.0.0	automatic	com.google.apis	google-api-servic
 conversions_v1beta-rev20241001-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 conversions_v1beta-rev20240827-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 conversions_v1beta-rev20240611-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+accounts_v1-rev20260930-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+accounts_v1-rev20260924-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1-rev20260807-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1-rev20260722-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
@@ -382,6 +389,8 @@ accounts_v1-rev20250823-2.0.0	automatic	com.google.apis	google-api-services-merc
 accounts_v1-rev20250819-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1-rev20250811-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1-rev20250804-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+accounts_v1beta-rev20260930-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+accounts_v1beta-rev20260924-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1beta-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1beta-rev20260807-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1beta-rev20260722-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
