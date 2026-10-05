@@ -46,6 +46,7 @@
 4.6.0-alpha4		2026-04-10T11:50:38Z	
 4.6.0-beta		2026-04-28T14:34:10Z	
 4.6.0-m1		2026-02-06T08:01:19Z	
+4.7.0-beta			
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.transport/6.0.0/org.wso2.carbon.ei.tests.transport-6.0.0.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.transport/6.1.0/org.wso2.carbon.ei.tests.transport-6.1.0.jar returned status 404
 6.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/ei/org.wso2.carbon.ei.tests.transport/6.1.1/org.wso2.carbon.ei.tests.transport-6.1.1.jar returned status 404

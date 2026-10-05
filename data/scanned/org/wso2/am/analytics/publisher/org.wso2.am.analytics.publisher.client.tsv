@@ -127,6 +127,8 @@
 1.2.40	jar-with-dependencies	2026-08-11T07:55:30Z	
 1.2.42		2026-08-24T07:03:07Z	
 1.2.42	jar-with-dependencies	2026-08-24T07:03:09Z	
+1.2.43			
+1.2.44			
 1.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/analytics/publisher/org.wso2.am.analytics.publisher.client/1.2.5/org.wso2.am.analytics.publisher.client-1.2.5.jar returned status 404
 1.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/analytics/publisher/org.wso2.am.analytics.publisher.client/1.2.6/org.wso2.am.analytics.publisher.client-1.2.6.jar returned status 404
 1.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/am/analytics/publisher/org.wso2.am.analytics.publisher.client/1.2.7/org.wso2.am.analytics.publisher.client-1.2.7.jar returned status 404

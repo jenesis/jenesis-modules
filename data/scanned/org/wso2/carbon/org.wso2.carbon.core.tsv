@@ -198,6 +198,8 @@
 4.12.53			
 4.12.54			
 4.12.55			
+4.12.56			
+4.12.57			
 4.12.6		2026-02-27T10:11:55Z	
 4.12.7		2026-03-03T06:54:17Z	
 4.12.8		2026-03-09T09:33:14Z	
@@ -431,3 +433,4 @@
 5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.core/5.3.2/org.wso2.carbon.core-5.3.2.jar returned status 404
 5.3.3		2026-04-08T09:04:51Z	
 5.3.4		2026-05-13T03:39:50Z	
+5.3.5			

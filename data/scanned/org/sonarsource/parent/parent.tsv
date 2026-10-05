@@ -63,3 +63,4 @@
 85.0.0.3035			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/parent/parent/85.0.0.3035/parent-85.0.0.3035.jar returned status 404
 86.0.0.3040			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/parent/parent/86.0.0.3040/parent-86.0.0.3040.jar returned status 404
 87.0.0.3057			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/parent/parent/87.0.0.3057/parent-87.0.0.3057.jar returned status 404
+88.0.0.3367			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/parent/parent/88.0.0.3367/parent-88.0.0.3367.jar returned status 404

@@ -2,6 +2,7 @@
 4.10.1		2026-04-06T09:14:58Z	
 4.10.2		2026-04-07T09:11:40Z	
 4.10.3		2026-06-30T16:28:25Z	
+4.10.5			
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/registry/org.wso2.carbon.registry.event.ws/4.5.0/org.wso2.carbon.registry.event.ws-4.5.0.jar returned status 404
 4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/registry/org.wso2.carbon.registry.event.ws/4.5.1/org.wso2.carbon.registry.event.ws-4.5.1.jar returned status 404
 4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/registry/org.wso2.carbon.registry.event.ws/4.5.2/org.wso2.carbon.registry.event.ws-4.5.2.jar returned status 404
