@@ -1086,3 +1086,5 @@
 4.1.13	named	com.instaclustr	esop-core	2026-09-18T12:42:18Z	4.7.2
 4.1.13	named	com.instaclustr	esop-s3	2026-09-18T12:42:19Z	4.7.2
 8.0.0	named	io.fabric8	crd-generator-cli	2026-09-24T10:14:00Z	4.7.7
+26.7.5	named	org.keycloak	keycloak-admin-cli	2026-09-30T17:33:04Z	4.7.7
+26.8.0	named	org.keycloak	keycloak-admin-cli	2026-10-01T05:46:09Z	4.7.7
