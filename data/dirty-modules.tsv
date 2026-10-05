@@ -6,3 +6,11 @@ org.checkerframework.framework.test
 org.checkerframework.dataflow
 org.checkerframework.checker.util
 io.netty.internal.tcnative
+org.linguafranca.pwdb.kdbx
+org.linguafranca.pwdb.kdbx.simple
+org.linguafranca.pwdb.kdb
+org.linguafranca.pwdb.database
+org.linguafranca.pwdb.all
+org.linguafranca.pwdb.kdbx.jaxb
+org.linguafranca.pwdb.kdbx.dom
+org.linguafranca.pwdb.kdbx.jackson
