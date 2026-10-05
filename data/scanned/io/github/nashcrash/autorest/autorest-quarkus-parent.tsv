@@ -21,3 +21,4 @@
 1.5.6		2026-05-22T13:13:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nashcrash/autorest/autorest-quarkus-parent/1.5.6/autorest-quarkus-parent-1.5.6.jar returned status 404
 1.5.7		2026-05-22T14:14:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nashcrash/autorest/autorest-quarkus-parent/1.5.7/autorest-quarkus-parent-1.5.7.jar returned status 404
 1.5.8		2026-05-30T10:37:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nashcrash/autorest/autorest-quarkus-parent/1.5.8/autorest-quarkus-parent-1.5.8.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nashcrash/autorest/autorest-quarkus-parent/1.6.0/autorest-quarkus-parent-1.6.0.jar returned status 404

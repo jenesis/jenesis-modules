@@ -23,3 +23,5 @@
 7.0.0-jdk22plus			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/7.0.0-jdk22plus/tornado-7.0.0-jdk22plus.jar returned status 404
 7.0.1-jdk21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/7.0.1-jdk21/tornado-7.0.1-jdk21.jar returned status 404
 7.0.1-jdk22plus			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/7.0.1-jdk22plus/tornado-7.0.1-jdk22plus.jar returned status 404
+7.1.0-jdk21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/7.1.0-jdk21/tornado-7.1.0-jdk21.jar returned status 404
+7.1.0-jdk22plus			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/beehive-lab/tornado/7.1.0-jdk22plus/tornado-7.1.0-jdk22plus.jar returned status 404

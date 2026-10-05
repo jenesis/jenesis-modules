@@ -45,5 +45,6 @@
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/plugin-serialization-iossimulatorarm64/0.7.1/plugin-serialization-iossimulatorarm64-0.7.1.jar returned status 404
 0.7.1	metadata	2026-09-10T13:18:39Z	
 0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/plugin-serialization-iossimulatorarm64/0.7.2/plugin-serialization-iossimulatorarm64-0.7.2.jar returned status 404
+0.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/plugin-serialization-iossimulatorarm64/0.7.3/plugin-serialization-iossimulatorarm64-0.7.3.jar returned status 404
 unspecified			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pandulapeter/kubriko/plugin-serialization-iossimulatorarm64/unspecified/plugin-serialization-iossimulatorarm64-unspecified.jar returned status 404
 unspecified	metadata	2025-02-22T17:51:02Z	

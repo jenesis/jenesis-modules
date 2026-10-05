@@ -4,3 +4,4 @@
 0.2.0	metadata	2026-08-24T14:31:42Z	
 0.3.0		2026-08-24T15:48:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kmpbits/composure-core-iossimulatorarm64/0.3.0/composure-core-iossimulatorarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2026-08-24T15:48:06Z	
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kmpbits/composure-core-iossimulatorarm64/0.3.1/composure-core-iossimulatorarm64-0.3.1.jar returned status 404

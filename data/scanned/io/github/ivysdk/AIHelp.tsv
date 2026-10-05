@@ -24,3 +24,5 @@
 10.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ivysdk/AIHelp/10.0.8/AIHelp-10.0.8.jar returned status 404
 10.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ivysdk/AIHelp/10.0.9/AIHelp-10.0.9.jar returned status 404
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ivysdk/AIHelp/10.1.0/AIHelp-10.1.0.jar returned status 404
+10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ivysdk/AIHelp/10.1.1/AIHelp-10.1.1.jar returned status 404
+10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ivysdk/AIHelp/10.1.2/AIHelp-10.1.2.jar returned status 404

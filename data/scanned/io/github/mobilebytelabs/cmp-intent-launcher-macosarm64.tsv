@@ -58,6 +58,8 @@
 3.5.29	metadata	2026-09-21T04:21:00Z	
 3.5.3		2026-07-06T15:35:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-macosarm64/3.5.3/cmp-intent-launcher-macosarm64-3.5.3.jar returned status 404
 3.5.3	metadata	2026-07-06T15:35:28Z	
+3.5.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-macosarm64/3.5.30/cmp-intent-launcher-macosarm64-3.5.30.jar returned status 404
+3.5.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-macosarm64/3.5.31/cmp-intent-launcher-macosarm64-3.5.31.jar returned status 404
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-macosarm64/3.5.4/cmp-intent-launcher-macosarm64-3.5.4.jar returned status 404
 3.5.4	metadata	2026-07-15T17:39:17Z	
 3.5.5		2026-07-20T03:32:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-intent-launcher-macosarm64/3.5.5/cmp-intent-launcher-macosarm64-3.5.5.jar returned status 404

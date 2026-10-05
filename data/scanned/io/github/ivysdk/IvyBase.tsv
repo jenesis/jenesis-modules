@@ -31,3 +31,5 @@
 10.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ivysdk/IvyBase/10.0.8/IvyBase-10.0.8.jar returned status 404
 10.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ivysdk/IvyBase/10.0.9/IvyBase-10.0.9.jar returned status 404
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ivysdk/IvyBase/10.1.0/IvyBase-10.1.0.jar returned status 404
+10.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ivysdk/IvyBase/10.1.1/IvyBase-10.1.1.jar returned status 404
+10.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ivysdk/IvyBase/10.1.2/IvyBase-10.1.2.jar returned status 404

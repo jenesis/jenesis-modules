@@ -9,3 +9,4 @@
 1.6.0		2026-08-25T09:22:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devoracode/mybatis-plus-upsert-parent/1.6.0/mybatis-plus-upsert-parent-1.6.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devoracode/mybatis-plus-upsert-parent/1.6.1/mybatis-plus-upsert-parent-1.6.1.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devoracode/mybatis-plus-upsert-parent/1.7.0/mybatis-plus-upsert-parent-1.7.0.jar returned status 404
+1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/devoracode/mybatis-plus-upsert-parent/1.7.1/mybatis-plus-upsert-parent-1.7.1.jar returned status 404
