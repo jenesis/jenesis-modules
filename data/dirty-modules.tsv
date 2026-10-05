@@ -1,0 +1,8 @@
+simple.persist
+org.checkerframework.checker.qual
+com.google.errorprone.annotations
+org.checkerframework.javacutil
+org.checkerframework.framework.test
+org.checkerframework.dataflow
+org.checkerframework.checker.util
+io.netty.internal.tcnative

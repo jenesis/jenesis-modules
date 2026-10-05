@@ -5,3 +5,4 @@
 1.0.4		2026-08-04T18:02:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/refunds/1.0.4/refunds-1.0.4.jar returned status 404
 1.0.5		2026-08-21T07:25:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/refunds/1.0.5/refunds-1.0.5.jar returned status 404
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/refunds/1.0.6/refunds-1.0.6.jar returned status 404
+1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mx/com/velpay/refunds/1.0.7/refunds-1.0.7.jar returned status 404
