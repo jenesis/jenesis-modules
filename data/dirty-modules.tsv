@@ -3633,3 +3633,9 @@ dev.zio.zio.blocks.next.codegen
 dev.zio.zio.blocks.telemetry.otel
 dev.zio.zio.blocks.next.schema.bson
 dev.zio.zio.blocks.next.ringbuffer
+dev.zio.zio.blocks.next.datastar
+dev.zio.zio.blocks.next.endpoint
+dev.zio.zio.blocks.next.smithy
+dev.zio.zio.blocks.next.http.model.schema
+dev.zio.zio.blocks.next.config.yaml
+dev.zio.zio.blocks.next.telemetry
