@@ -4,3 +4,4 @@
 0.2.1		2026-06-17T08:37:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/ai/hawtio-ai-plugin-parent/0.2.1/hawtio-ai-plugin-parent-0.2.1.jar returned status 404
 0.2.2		2026-06-19T08:18:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/ai/hawtio-ai-plugin-parent/0.2.2/hawtio-ai-plugin-parent-0.2.2.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/ai/hawtio-ai-plugin-parent/0.3.0/hawtio-ai-plugin-parent-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hawt/ai/hawtio-ai-plugin-parent/0.3.1/hawtio-ai-plugin-parent-0.3.1.jar returned status 404

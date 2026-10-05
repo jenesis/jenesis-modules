@@ -1,1 +1,3 @@
 1.1.0		2026-08-09T02:20:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/krabka/krabka-streams-bom/1.1.0/krabka-streams-bom-1.1.0.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/krabka/krabka-streams-bom/1.4.1/krabka-streams-bom-1.4.1.jar returned status 404
+1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/krabka/krabka-streams-bom/1.4.2/krabka-streams-bom-1.4.2.jar returned status 404

@@ -73,6 +73,7 @@
 0.1.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-bom/0.1.41/scalecube-bom-0.1.41.jar returned status 404
 0.1.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-bom/0.1.42/scalecube-bom-0.1.42.jar returned status 404
 0.1.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-bom/0.1.43/scalecube-bom-0.1.43.jar returned status 404
+0.1.44.properties-config.rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-bom/0.1.44.properties-config.rc1/scalecube-bom-0.1.44.properties-config.rc1.jar returned status 404
 0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-bom/0.1.5/scalecube-bom-0.1.5.jar returned status 404
 0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-bom/0.1.6/scalecube-bom-0.1.6.jar returned status 404
 0.1.6.bump-dependencies.rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/scalecube/scalecube-bom/0.1.6.bump-dependencies.rc1/scalecube-bom-0.1.6.bump-dependencies.rc1.jar returned status 404
