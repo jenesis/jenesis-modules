@@ -4,7 +4,7 @@
 > _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-09-24 08:56:20 UTC_  
-_Current chunk started: 2026-09-28 11:13:32 UTC_  
+_Current chunk started: 2026-10-05 11:50:53 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 939_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 18 772 233 |
-| Non-module artifacts | 16 709 253 |
+| Total artifacts scanned | 18 846 725 |
+| Non-module artifacts | 16 775 021 |
 | Modular artifacts | 1 710 244 |
 | Total automatic modules | 1 335 919 |
 | Total named modules | 374 325 |
 | Total named modules with module-info version | 284 025 |
 | Distinct Maven artifacts | 698 795 |
-| Distinct module names | 42 698 |
+| Distinct module names | 42 743 |
 | Distinct automatic modules | 22 624 |
 | Distinct named modules | 18 541 |
 | Distinct named modules with module-info version | 13 504 |
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 4 323 | 1 187 | 3 136 |
-| New version rows | 8 536 | 2 026 | 6 510 |
-| Non-modular artifacts | 4 972 | - | - |
+| Modules with a publication | 0 | 0 | 0 |
+| New version rows | 0 | 0 | 0 |
+| Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -166,8 +166,8 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-05 | `█`&nbsp;3 441 (4.4%) | `▓▓`&nbsp;5 625 (7.2%) | `░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;69 006 (88.4%) |
 | 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 111 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 969 (88.4%) |
 | 2026-07 | `█`&nbsp;3 538 (7.1%) | `▓▓`&nbsp;5 573 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
-| 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 687 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 737 (86.0%) |
-| 2026-09 | `█`&nbsp;3 552 (11.8%) | `▓▓`&nbsp;5 892 (19.5%) | `░░░░░░░`&nbsp;20 731 (68.7%) |
+| 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 687 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 733 (86.0%) |
+| 2026-09 | `█`&nbsp;3 552 (12.1%) | `▓▓`&nbsp;5 892 (20.1%) | `░░░░░░░`&nbsp;19 802 (67.7%) |
 
 ## Naming patterns
 
@@ -175,7 +175,7 @@ How module names relate to their publishing groupId. "Competing groupIds" counts
 
 | Pattern | Modules |
 |---|---:|
-| Multiple competing groupIds in audit history | 4 307 |
+| Multiple competing groupIds in audit history | 4 312 |
 
 ### Leading dot-segments shared with the owning groupId
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 3 914 426 |
-| Incorrectly indexed (mis-stamped 404s) | 3 911 729 |
-| Genuine artifact errors | 2 697 |
+| Total failed coordinates | 3 941 941 |
+| Incorrectly indexed (mis-stamped 404s) | 3 939 233 |
+| Genuine artifact errors | 2 708 |
 
 ### Top 25 genuine error messages
 
@@ -212,8 +212,8 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 | Error message | Count |
 |---|---:|
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
-| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 521 |
-| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 486 |
+| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 524 |
+| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 494 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
@@ -307,10 +307,10 @@ Module names that have been published under the most different groupIds across h
 |---|---:|
 | `com.google.gson` | 311 |
 | `com.fasterxml.jackson.databind` | 272 |
-| `com.fasterxml.jackson.core` | 238 |
+| `com.fasterxml.jackson.core` | 239 |
 | `com.fasterxml.jackson.annotation [-jar-with-dependencies]` | 229 |
-| `com.fasterxml.jackson.annotation` | 188 |
-| `org.slf4j` | 188 |
+| `com.fasterxml.jackson.annotation` | 189 |
+| `org.slf4j` | 189 |
 | `org.apache.logging.log4j` | 183 |
 | `kotlin.stdlib` | 150 |
 | `kotlin.stdlib.jdk8` | 137 |
@@ -326,8 +326,8 @@ Module names that have been published under the most different groupIds across h
 | `com.fasterxml.jackson.core [-jar-with-dependencies]` | 75 |
 | `org.apache.commons.lang3` | 75 |
 | `com.google.gson [-all]` | 72 |
+| `org.apache.commons.io` | 68 |
 | `com.fasterxml.jackson.module.jaxb` | 67 |
-| `org.apache.commons.io` | 67 |
 | `org.yaml.snakeyaml` | 67 |
 | `org.apache.commons.codec` | 66 |
 
@@ -335,33 +335,7 @@ Module names that have been published under the most different groupIds across h
 
 Modules whose most recent publication landed in the 7-day window ending at the most recent tracked publication (same window as `Recent activity`, anchored to the freshest publication rather than now since the index lags up to a week), sorted newest first. Use this as a recency view; the count above (`Recent activity`) gives the totals while this table names which modules they were.
 
-| Module | Last publication |
-|---|---|
-| `org.codehaus.stax2` | 2026-09-27 19:36:50 UTC |
-| `lang.ktav` | 2026-09-27 19:31:44 UTC |
-| `io.github.brantunger.unruly.core` | 2026-09-27 19:16:31 UTC |
-| `io.github.brantunger.unruly` | 2026-09-27 19:16:30 UTC |
-| `io.github.brantunger.unruly.test` | 2026-09-27 19:16:30 UTC |
-| `org.meeuw.math` | 2026-09-27 18:06:31 UTC |
-| `org.meeuw.configuration` | 2026-09-27 18:06:30 UTC |
-| `org.meeuw.math.abstractalgebra.test` | 2026-09-27 18:06:30 UTC |
-| `org.meeuw.math.algebras` | 2026-09-27 18:06:30 UTC |
-| `org.meeuw.math.parser` | 2026-09-27 18:06:30 UTC |
-| `org.meeuw.math.shapes` | 2026-09-27 18:06:30 UTC |
-| `org.meeuw.math.statistics` | 2026-09-27 18:06:30 UTC |
-| `org.meeuw.physics` | 2026-09-27 18:06:30 UTC |
-| `org.meeuw.time` | 2026-09-27 18:06:30 UTC |
-| `com.druvu.lib.loader` | 2026-09-27 16:41:22 UTC |
-| `webrtc.java` | 2026-09-27 16:27:13 UTC |
-| `com.alianga.jkit` | 2026-09-27 16:16:48 UTC |
-| `com.alianga.jkit.curl.codegen` | 2026-09-27 16:16:48 UTC |
-| `com.alianga.jkit.notify` | 2026-09-27 16:16:48 UTC |
-| `com.alianga.jkit.notify.extra` | 2026-09-27 16:16:48 UTC |
-| `com.alianga.jkit.sql` | 2026-09-27 16:16:48 UTC |
-| `com.alianga.jkit.sql.auto` | 2026-09-27 16:16:48 UTC |
-| `com.alianga.jkit.sql.auto.spring.boot2` | 2026-09-27 16:16:48 UTC |
-| `com.alianga.jkit.sql.auto.spring.boot3` | 2026-09-27 16:16:48 UTC |
-| `org.simpleble` | 2026-09-27 16:11:48 UTC |
+_(none — no publications recorded within the last week)_
 
 ## Top 25 groupIds by average versions per module
 
