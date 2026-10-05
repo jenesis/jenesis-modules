@@ -250,6 +250,11 @@
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.0.1/slot-preview-runtime-wasm-js-3.0.1.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.0.3/slot-preview-runtime-wasm-js-3.0.3.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.1.0/slot-preview-runtime-wasm-js-3.1.0.jar returned status 404
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.10.0/slot-preview-runtime-wasm-js-3.10.0.jar returned status 404
+3.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.10.1/slot-preview-runtime-wasm-js-3.10.1.jar returned status 404
+3.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.11.0/slot-preview-runtime-wasm-js-3.11.0.jar returned status 404
+3.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.12.0/slot-preview-runtime-wasm-js-3.12.0.jar returned status 404
+3.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.13.2/slot-preview-runtime-wasm-js-3.13.2.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.2.0/slot-preview-runtime-wasm-js-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.3.0/slot-preview-runtime-wasm-js-3.3.0.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/slot-preview-runtime-wasm-js/3.4.0/slot-preview-runtime-wasm-js-3.4.0.jar returned status 404

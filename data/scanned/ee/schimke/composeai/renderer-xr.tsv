@@ -250,3 +250,4 @@
 1.8.0		2026-08-15T22:57:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-xr/1.8.0/renderer-xr-1.8.0.jar returned status 404
 1.9.0		2026-08-16T17:19:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-xr/1.9.0/renderer-xr-1.9.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-xr/2.0.0/renderer-xr-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-xr/2.0.1/renderer-xr-2.0.1.jar returned status 404
