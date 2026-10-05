@@ -20,3 +20,4 @@
 1.1.0-beta08		2026-08-15T15:50:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.1.0-beta08/embed-android-1.1.0-beta08.jar returned status 404
 1.1.0-beta09		2026-08-18T12:32:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.1.0-beta09/embed-android-1.1.0-beta09.jar returned status 404
 1.1.0-beta10		2026-08-18T13:25:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.1.0-beta10/embed-android-1.1.0-beta10.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/revrag/embed-android/1.2.0/embed-android-1.2.0.jar returned status 404

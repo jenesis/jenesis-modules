@@ -1,3 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-integrations/1.0.0/tachyon-integrations-1.0.0.jar returned status 404
 1.0.0-beta.21		2026-08-24T17:08:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-integrations/1.0.0-beta.21/tachyon-integrations-1.0.0-beta.21.jar returned status 404
 1.0.0-beta.22		2026-08-25T11:28:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-integrations/1.0.0-beta.22/tachyon-integrations-1.0.0-beta.22.jar returned status 404
 1.0.0-beta.23		2026-08-29T21:41:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-integrations/1.0.0-beta.23/tachyon-integrations-1.0.0-beta.23.jar returned status 404
@@ -8,3 +9,5 @@
 1.0.0-beta.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-integrations/1.0.0-beta.28/tachyon-integrations-1.0.0-beta.28.jar returned status 404
 1.0.0-beta.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-integrations/1.0.0-beta.30/tachyon-integrations-1.0.0-beta.30.jar returned status 404
 1.0.0-beta.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-integrations/1.0.0-beta.31/tachyon-integrations-1.0.0-beta.31.jar returned status 404
+1.0.0-beta.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-integrations/1.0.0-beta.32/tachyon-integrations-1.0.0-beta.32.jar returned status 404
+1.0.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tachyonmcp/tachyon-integrations/1.0.0-rc.1/tachyon-integrations-1.0.0-rc.1.jar returned status 404

@@ -18,3 +18,5 @@
 3.0.0-alpha.6		2026-06-09T08:35:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nextbillion/nav-offline-native/3.0.0-alpha.6/nav-offline-native-3.0.0-alpha.6.jar returned status 404
 3.0.0-alpha.7		2026-06-09T09:49:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nextbillion/nav-offline-native/3.0.0-alpha.7/nav-offline-native-3.0.0-alpha.7.jar returned status 404
 3.0.0-alpha.8		2026-06-10T07:34:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nextbillion/nav-offline-native/3.0.0-alpha.8/nav-offline-native-3.0.0-alpha.8.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nextbillion/nav-offline-native/3.0.1/nav-offline-native-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/nextbillion/nav-offline-native/3.0.2/nav-offline-native-3.0.2.jar returned status 404

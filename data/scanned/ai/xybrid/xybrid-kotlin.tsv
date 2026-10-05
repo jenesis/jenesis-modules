@@ -19,6 +19,7 @@
 0.1.2		2026-06-08T10:58:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/xybrid/xybrid-kotlin/0.1.2/xybrid-kotlin-0.1.2.jar returned status 404
 0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/xybrid/xybrid-kotlin/0.10.0/xybrid-kotlin-0.10.0.jar returned status 404
 0.10.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/xybrid/xybrid-kotlin/0.10.0-rc1/xybrid-kotlin-0.10.0-rc1.jar returned status 404
+0.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/xybrid/xybrid-kotlin/0.10.1/xybrid-kotlin-0.10.1.jar returned status 404
 0.2.0		2026-06-25T03:18:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/xybrid/xybrid-kotlin/0.2.0/xybrid-kotlin-0.2.0.jar returned status 404
 0.2.0-alpha		2026-06-19T18:07:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/xybrid/xybrid-kotlin/0.2.0-alpha/xybrid-kotlin-0.2.0-alpha.jar returned status 404
 0.2.0-rc1		2026-06-22T04:41:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/xybrid/xybrid-kotlin/0.2.0-rc1/xybrid-kotlin-0.2.0-rc1.jar returned status 404

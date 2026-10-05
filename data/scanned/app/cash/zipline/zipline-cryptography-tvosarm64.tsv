@@ -38,5 +38,6 @@
 1.26.0	metadata	2026-03-04T19:50:38Z	
 1.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/zipline/zipline-cryptography-tvosarm64/1.27.0/zipline-cryptography-tvosarm64-1.27.0.jar returned status 404
 1.27.0	metadata	2026-04-02T18:54:01Z	
+1.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/zipline/zipline-cryptography-tvosarm64/1.28.0/zipline-cryptography-tvosarm64-1.28.0.jar returned status 404
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/cash/zipline/zipline-cryptography-tvosarm64/1.9.0/zipline-cryptography-tvosarm64-1.9.0.jar returned status 404
 1.9.0	metadata	2024-04-11T20:10:38Z	
