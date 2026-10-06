@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-05. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-06. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -1138,7 +1138,7 @@ org.hsqldb  [fork: keep `org.hsqldb`, `io.synclite` still publishes the name]
   ?   io.synclite                          2026-07..2026-09 1.1.0                |...................=|
   R   com.github.massamany                 2025-08..2025-09 1.2.3                |.................=..|
   ?   ch.zizka.csvcruncher                 2021-11..2023-09 2.7.0                |.........=====......|
-  R   org.lucee                            2023-06..2023-06 2.7.2.jdk11          |............==......|
+  R   org.lucee                            2023-06..2023-06 2.7.2.jdk11          |............=.......|
 org.bytedeco.pytorch  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
   ?   io.github.mullerhai                  2026-07..2026-09 2.13.0-1.5.14-GA-1.10 |...................=|
@@ -1414,7 +1414,7 @@ org.bytedeco.javacpp.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerh
 org.bytedeco.javacpp.linux.ppc64le  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |...................=|
-  R   org.apache.tika                      2025-01..2025-06 3.2.1                |................==..|
+  R   org.apache.tika                      2025-01..2025-06 3.2.1                |................=...|
 org.bytedeco.javacpp.linux.riscv64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-06..2026-08 1.5.14               |.................===|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |...................=|
@@ -1564,7 +1564,7 @@ org.assertj.core  [fork: keep `org.assertj`, `io.gitlab.cupofcode` still publish
   ?   com.install4j                        2026-07..2026-07 13.0.1               |...................=|
   R   io.github.y-yabust                   2025-12..2025-12 0.1.0                |.................=..|
   R   io.github.algomaster99               2023-07..2025-01 0.14.1               |.............====...|
-  R   br.com.leverinfo                     2023-05..2023-12 0.2.0                |............===.....|
+  R   br.com.leverinfo                     2023-05..2023-12 0.2.0                |............==......|
     + 9 more: org.kie, com.accenture.testing.bdd, org.projectnessie, com.github.aro-tech, com.github.mizosoft.methanol, com.salesforce.dockerfile-image-update, org.robotframework, io.prestosql, io.prestosql.tempto
 jakarta.validation  [fork: keep `jakarta.validation`, `dev.getelements.elements` still publishes the name]
   A * jakarta.validation                   2020-02..2025-10 4.0.0-M1             |......============..|
@@ -1964,7 +1964,7 @@ org.mockbukkit.mockbukkit  [owned by `org.mockbukkit.mockbukkit`; 2 other group(
   R   com.mineplex.studio                  2024-11..2026-02 1.21.11-R0.1-43      |...............====.|
 com.azure.storage.common  [owned by `com.azure`; 2 other group(s) shade the name]
   A * com.azure                            2019-09..2026-08 12.34.1              |.....===============|
-  R   org.gaul                             2025-11..2026-07 3.3.0                |.................===|
+  R   org.gaul                             2025-11..2026-07 3.3.0                |.................==.|
   ?   org.tomitribe.s3proxy                2026-06..2026-06 3.0.1                |..................=.|
 org.bytedeco.pytorch.linux.x86_64.gpu  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
