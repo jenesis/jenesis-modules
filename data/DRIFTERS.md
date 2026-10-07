@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-06. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-07. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -508,7 +508,7 @@ org.apache.commons.compress  [renamed `org.apache.commons` -> `org.apache.druid.
   R   org.apache.druid.extensions          2024-02..2026-09 38.0.0               |..............======|
   ?   com.alibaba.hologres                 2026-09..2026-09 1.6.3                |...................=|
   ?   com.io7m.montarre                    2026-09..2026-09 1.0.0-beta0002       |...................=|
-  R   org.apache.beam                      2024-06..2026-09 2.76.0               |...............=====|
+  R   org.apache.beam                      2024-06..2026-09 2.76.0               |..............======|
   R   org.apache.parquet                   2024-11..2026-08 1.18.1               |...............=====|
     + 39 more: io.github.trethore, org.apache.grails, com.mobidevelop.robovm, com.google.cloud.flink, com.github.broadinstitute, com.alibaba.ververica, org.eclipse.tahu, com.codenameone, ink.icoding.codex, org.apache.flink, org.apache.pinot, com.theartos, (+27 more)
 org.hibernate.orm.jpamodelgen  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 6.6.58.Final)]
@@ -797,7 +797,7 @@ com.fasterxml.jackson.module.jaxb  [fork: keep `com.fasterxml.jackson.module`, `
   R   org.apache.dolphinscheduler          2025-03..2026-09 3.4.3                |................====|
     + 92 more: com.solacecoe.connectors, com.oceanbase, io.github.solven-eu.cleanthat, com.datastax.oss, io.cdap.cdap, com.facebook.presto.spark, com.rovio.ingest, org.apache.pulsar, com.ascentstream.pulsar, io.github.dodogeny, io.streamnative.connectors, org.apache.phoenix, (+80 more)
 org.apache.commons.pool2  [fork: keep `org.apache.commons`, `com.liquibase.ext` still publishes the name]
-  A * org.apache.commons                   2020-07..2025-12 2.13.1               |.......============.|
+  A * org.apache.commons                   2020-07..2025-12 2.13.1               |.......===========..|
   ?   com.liquibase.ext                    2026-06..2026-09 6.0.0                |..................==|
   R   org.apache.directory.api             2023-10..2026-09 2.1.9                |.............=======|
   R   org.apache.druid.extensions.contrib  2024-06..2026-09 38.0.0               |..............======|
@@ -1113,7 +1113,7 @@ org.threeten.extra  [fork: keep `org.threeten`, `fr.insee.trevas` still publishe
   R   org.apache.orc                       2020-01..2026-07 1.9.9                |......==============|
   R   org.yupana                           2022-01..2026-06 0.43.1               |..........=========.|
   R   org.liquibase.ext                    2023-11..2023-11 4.25.0               |.............=......|
-  R   com.netease.arctic                   2022-12..2022-12 0.4.0                |............=.......|
+  R   com.netease.arctic                   2022-12..2022-12 0.4.0                |...........=........|
 com.github.victools.jsonschema.generator  [fork: keep `com.github.victools`, `com.scivicslab` still publishes the name]
   A * com.github.victools                  2023-03..2026-02 5.0.0                |............=======.|
   ?   com.scivicslab                       2026-09..2026-09 4.1.0                |...................=|
@@ -1243,7 +1243,7 @@ org.bytedeco.tensorrt  [fork: keep `org.bytedeco`, `io.github.mullerhai` still p
 org.bytedeco.opencv.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 4.14.0-1.5.14-GA-1.0 |...................=|
-  R   io.github.extractpdf4j               2025-12..2026-07 2.2.0                |..................==|
+  R   io.github.extractpdf4j               2025-12..2026-07 2.2.0                |.................===|
   R   io.github.mehulimukherjee            2025-08..2025-09 0.1.1                |.................=..|
   R   us.ihmc                              2023-06..2023-06 4.7.0-1.5.9          |............=.......|
 org.bytedeco.opencv  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
@@ -1571,7 +1571,7 @@ jakarta.validation  [fork: keep `jakarta.validation`, `dev.getelements.elements`
   R   dev.getelements.elements             2025-03..2026-08 3.8.16               |................====|
   ?   com.meta-analyzer                    2026-06..2026-06 1.0.0                |..................=.|
   R   io.flux-capacitor                    2023-05..2024-06 0.943.0              |............====....|
-  R   org.pipservices                      2024-06..2024-06 1.0.0                |..............==....|
+  R   org.pipservices                      2024-06..2024-06 1.0.0                |..............=.....|
   R   no.nav.security                      2023-04..2023-11 3.2.0                |............==......|
     + 2 more: com.neko233, com.guicedee.services
 org.apache.arrow.flight.core  [fork: keep `org.apache.arrow`, `io.mishmash.stacks.patches` still publishes the name]
@@ -1828,7 +1828,7 @@ com.apollographql.apollo.gradle  [owned by `com.apollographql.apollo`; 1 other g
   ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.gradle.tasks  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
-  ? * com.apollographql.apollo             2025-06..2026-09 5.2.0                |.................===|
+  ? * com.apollographql.apollo             2025-06..2026-09 5.2.0                |................====|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.ast  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
   ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
@@ -1940,7 +1940,7 @@ org.eclipse.jetty.client  [owned by `org.eclipse.jetty`; 2 other group(s) shade 
   ?   ch.exense.step                       2026-06..2026-07 3.30.1               |..................==|
   R   org.exploit                          2024-10..2026-04 1.0.9                |...............====.|
 org.eclipse.jetty.compression.gzip  [owned by `org.eclipse.jetty.compression`; 1 other group(s) shade the name]
-  ? * org.eclipse.jetty.compression        2024-12..2026-09 12.1.13              |................====|
+  ? * org.eclipse.jetty.compression        2024-12..2026-09 12.1.13              |...............=====|
   ?   ch.exense.step                       2026-08..2026-08 3.30.3               |...................=|
 de.agilecoders.wicket.webjars  [owned by `de.agilecoders.wicket.webjars`; 1 other group(s) shade the name]
   ? * de.agilecoders.wicket.webjars        2023-10..2026-09 4.0.15               |.............=======|
@@ -2172,7 +2172,7 @@ r2dbc.postgresql  [owned by `io.r2dbc` (groupId minus TLD is the module prefix);
 roaringbitmap  [owned by `org.roaringbitmap` (groupId minus TLD is the module prefix); 3 other group(s) shade the name]
   A * org.roaringbitmap                    2023-09..2026-09 1.6.23               |.............=======|
   R   org.apache.celeborn                  2024-06..2026-08 0.7.0                |..............======|
-  ?   com.atomgraph.etl.csv                2026-06..2026-07 2.2.1                |..................==|
+  ?   com.atomgraph.etl.csv                2026-06..2026-07 2.2.1                |..................=.|
   R   org.bitlap                           2023-10..2023-10 1.0.1.0              |.............=......|
 osgi.core  [owned by `org.osgi` (groupId minus TLD is the module prefix); 2 other group(s) shade the name]
   ? * org.osgi                             2020-12..2020-12 8.0.0                |........=...........|
