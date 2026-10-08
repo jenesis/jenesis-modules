@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-07. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-08. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -388,7 +388,7 @@ jakarta.activation  [republished by `com.sun.activation` (still active); belongs
   R   com.eed3si9n                         2025-04..2026-09 0.9.7                |................====|
   R   com.typesafe.play                    2022-01..2026-09 2.2.18               |..........==========|
   R   org.playframework                    2023-09..2026-09 3.0.14               |.............=======|
-  R   com.github.xeroapi                   2025-06..2026-09 18.2.0               |.................===|
+  R   com.github.xeroapi                   2025-06..2026-09 18.2.0               |................====|
   R   com.cognite.spark.datasource         2022-01..2026-09 4.0.1248             |..........==========|
     + 40 more: org.tinystruct, net.anotheria, org.uma.jmetal, org.kill-bill.billing, com.helger.schematron, org.takes, jakarta.activation, org.hpccsystems, ch.exense.step, com.newrelic.labs, io.github.dimabarbul, org.opengis.cite, (+28 more)
 jakarta.mail  [republished by `com.sun.mail` (still active); belongs to `jakarta.mail`]
@@ -405,7 +405,7 @@ com.univapay.api  [republished by `io.sdks` (still active); belongs to `com.univ
 org.apache.commons.mail  [republished by `com.github.ppodgorsek.email` (still active); belongs to `org.apache.commons`]
   ? * com.github.ppodgorsek.email          2023-06..2023-06 2.0.0                |.............=......|
   ?   io.prophecy                          2024-08..2026-09 4.0.0-ml-9.6.0       |...............=====|
-  ?   org.apache.commons                   2023-12..2023-12 1.6.0                |..............=.....|
+  ?   org.apache.commons                   2023-12..2023-12 1.6.0                |.............=......|
 org.commonmark  [republished by `com.atlassian.commonmark` (still active); belongs to `org.commonmark`]
   R * com.atlassian.commonmark             2018-01..2021-01 0.17.0               |..=======...........|
   ?   org.apache.tika                      2026-08..2026-08 4.0.0                |...................=|
@@ -614,7 +614,7 @@ com.fasterxml.jackson.core  [fork: keep `com.fasterxml.jackson.core`, `org.incen
     + 411 more: io.deephaven, com.clickhouse.spark, org.apache.hudi, org.wildfly.security, org.apache.seatunnel, com.exness, com.linkedin.iceberg, org.jboss.pnc.maven-manipulator, org.operaton.spin, org.openidentityplatform.openam, org.apache.fluss, org.talend.sdk.component, (+399 more)
 com.fasterxml.jackson.dataformat.yaml  [fork: keep `com.fasterxml.jackson.dataformat`, `io.simpleishard` still publishes the name]
   A * com.fasterxml.jackson.dataformat     2017-10..2026-09 2.22.3               |.===================|
-  ?   io.simpleishard                      2026-07..2026-10 0.106.1              |...................=|
+  ?   io.simpleishard                      2026-07..2026-10 0.106.1              |..................==|
   R   dev.skyramp                          2025-02..2026-09 1.3.50               |................====|
   R   io.fabrikt                           2026-03..2026-09 27.14.0              |..................==|
   R   org.apiaddicts.apitools.dosonarapi   2025-01..2026-09 1.7.0-beta-1         |................====|
@@ -1110,7 +1110,7 @@ io.netty.tcnative.classes.openssl  [fork: keep `io.netty`, `io.vertx` still publ
 org.threeten.extra  [fork: keep `org.threeten`, `fr.insee.trevas` still publishes the name]
   A * org.threeten                         2018-01..2026-06 1.10.0               |..=================.|
   ?   fr.insee.trevas                      2026-08..2026-09 2.7.2                |...................=|
-  R   org.apache.orc                       2020-01..2026-07 1.9.9                |......==============|
+  R   org.apache.orc                       2020-01..2026-07 1.9.9                |......=============.|
   R   org.yupana                           2022-01..2026-06 0.43.1               |..........=========.|
   R   org.liquibase.ext                    2023-11..2023-11 4.25.0               |.............=......|
   R   com.netease.arctic                   2022-12..2022-12 0.4.0                |...........=........|
@@ -1653,7 +1653,7 @@ com.clickhouse.jdbc  [owned by `com.clickhouse`; 4 other group(s) shade the name
   R   io.kestra.plugin                     2022-04..2023-03 0.6.1                |..........===.......|
   R   ru.yandex.clickhouse                 2021-12..2021-12 0.3.2                |..........=.........|
 com.graphqljava  [owned by `com.graphql-java`; 3 other group(s) shade the name]
-  A * com.graphql-java                     2020-11..2026-10 0.0.0-2026-10-02T05-05-52-2d3ef90 |........============|
+  A * com.graphql-java                     2020-11..2026-10 0.0.0-2026-10-02T05-05-52-2d3ef90 |.......=============|
   ?   com.guicedee.modules.services        2026-07..2026-09 2.3.0                |...................=|
   R   com.liferay                          2025-05..2025-05 19.11.JAKARTA-LIFERAY-PATCHED-1 |................=...|
   R   io.github.my-workforce               2022-07..2023-07 19.6                 |...........===......|
@@ -2270,7 +2270,7 @@ tuweni.units  [owned by `org.apache.tuweni` (groupId minus two segments is the m
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............==......|
 dagger  [owned by `com.google.dagger` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
-  ? * com.google.dagger                    2021-06..2026-07 2.60.1               |.........===========|
+  ? * com.google.dagger                    2021-06..2026-07 2.60.1               |.........==========.|
   ?   io.github.licy5352.dagger            2022-02..2026-03 2.55-kim-rc1         |..........=========.|
   ?   me.gulya.dagger                      2025-08..2025-08 2.56.2-workaround10  |.................=..|
   ?   io.github.jbock-java                 2021-10..2022-03 2.41.2               |.........==.........|
