@@ -27,10 +27,13 @@ release:
     skipTag: false
     tagName: 'v{{projectVersion}}'
 
+checksum:
+  individual: true
+
 files:
   artifacts:
     - path: 'target/stage/maven/output/build/jenesis/build.jenesis.crawler/{{projectVersion}}/build.jenesis.crawler-{{projectVersion}}.jar'
-    - path: 'target/stage/maven/output/build/jenesis/build.jenesis.crawler/{{projectVersion}}/build.jenesis.crawler-{{projectVersion}}-sources.jar'
+    - path: 'target/stage/maven/output/build/jenesis/build.jenesis.crawler/{{projectVersion}}/build.jenesis.crawler-{{projectVersion}}.pom'
 
 deploy:
   maven:
