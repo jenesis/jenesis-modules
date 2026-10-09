@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-08. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-09. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -117,7 +117,7 @@ kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other g
 kotlin.reflect  [explicit rule: owned by `org.jetbrains.kotlin`; 67 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2026-09 2.4.21-RC            |....================|
   ?   com.utopia-rise                      2026-08..2026-09 1.0.0-rc1            |...................=|
-  ?   org.octopusden.octopus.infrastructure 2026-07..2026-07 3.0.8                |...................=|
+  ?   org.octopusden.octopus.infrastructure 2026-07..2026-07 3.0.8                |..................==|
   ?   io.github.barqdb.kotlin              2026-07..2026-07 4.1.0                |...................=|
   R   org.apache.pinot                     2025-09..2026-06 1.5.1                |.................==.|
   ?   io.github.rodrigotimoteo             2026-06..2026-06 0.1.0                |..................=.|
@@ -300,7 +300,7 @@ kotlinx.coroutines.core  [explicit rule: owned by `org.jetbrains`; 22 other grou
   A   org.jetbrains.intellij.deps.kotlinx  2025-09..2026-09 1.11.0-intellij-1    |.................===|
   A   org.jetbrains.dokka                  2024-10..2026-09 2.3.0-Beta           |...............=====|
   R   com.airbnb.viaduct                   2026-05..2026-08 2.0.0                |..................==|
-  R   com.eygraber                         2026-01..2026-08 0.1.7                |..................==|
+  R   com.eygraber                         2026-01..2026-08 0.1.7                |.................===|
     + 19 more: org.openprojectx.java.dns, ca.acendas, com.krillforge, org.openprojectx.hadoop.win, io.github.danbeldev, io.johnsonlee.kx, io.github.zimoyin, io.johnsonlee.exec, io.github.saumya-bhatt, io.realm.kotlin, com.rickbusarow.doks, io.sirix, (+7 more)
 kotlinx.coroutines.test.artifact_disambiguating_module  [explicit rule: owned by `org.jetbrains`; 0 other group(s) rejected]
   ? * org.jetbrains.kotlinx                2026-04..2026-05 1.11.0               |..................=.|
@@ -837,7 +837,7 @@ com.zaxxer.hikari  [fork: keep `com.zaxxer`, `io.github.yuku123` still publishes
   R   org.apache.dolphinscheduler          2025-03..2026-09 3.4.3                |................====|
     + 74 more: solutions.a2.oracle, io.github.kaleert, org.apache.inlong, org.kill-bill.billing, com.aliyun.schedulerx, org.quickfixj, work.noice, org.apache.kylin, io.github.deathgod7, io.higson, com.scalar-labs, org.apache.flink, (+62 more)
 org.apache.logging.log4j  [fork: keep `org.apache.logging.log4j`, `io.github.yuku123` still publishes the name]
-  A * org.apache.logging.log4j             2017-11..2026-07 2.25.5               |..==================|
+  A * org.apache.logging.log4j             2017-11..2026-07 2.25.5               |..=================.|
   ?   io.github.yuku123                    2026-09..2026-09 1.3.6                |...................=|
   R   dev.mauch                            2024-12..2026-09 3.4.4_0.34.1-prerelease28 |...............=====|
   R   com.ibm.galasa                       2026-02..2026-09 2.1.0                |..................==|
@@ -1081,7 +1081,7 @@ org.eclipse.jetty.security  [fork: keep `org.eclipse.jetty`, `io.debezium` still
   A * org.eclipse.jetty                    2018-11..2026-09 12.0.39              |....================|
   ?   io.debezium                          2026-07..2026-09 3.7.0.Beta2          |...................=|
   R   org.sonatype.nexus.common.components 2026-02..2026-09 3.95.4-01            |..................==|
-  ?   ch.exense.step                       2026-06..2026-07 3.30.1               |..................==|
+  ?   ch.exense.step                       2026-06..2026-07 3.30.1               |..................=.|
   R   org.sonatype.nexus.jetty             2025-09..2026-01 3.87.2-01            |.................==.|
 org.locationtech.jts  [fork: keep `org.locationtech.jts`, `org.datasyslab` still publishes the name]
   ? * org.locationtech.jts                 2018-06..2024-08 1.20.0               |...=============....|
@@ -1119,7 +1119,7 @@ com.github.victools.jsonschema.generator  [fork: keep `com.github.victools`, `co
   ?   com.scivicslab                       2026-09..2026-09 4.1.0                |...................=|
   R   org.drools                           2023-05..2026-03 10.2.0               |............=======.|
 org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `io.openems` still publishes the name]
-  A * org.apache.logging.log4j             2017-11..2026-07 2.25.5               |..==================|
+  A * org.apache.logging.log4j             2017-11..2026-07 2.25.5               |..=================.|
   R   io.openems                           2026-02..2026-09 3.4.0-openems.1      |..................==|
   R   com.ghgande                          2025-12..2026-09 3.4.0                |.................===|
   R   app.freerouting                      2026-05..2026-09 2.4.1                |..................==|
@@ -1493,7 +1493,7 @@ com.google.guice.extensions.throwingproviders  [fork: keep `com.google.inject.ex
   R   com.jwebmp.inject.extensions         2019-02..2019-08 0.68.0.1             |....==..............|
     + 1 more: org.sonatype.sisu.inject
 org.apache.logging.log4j.slf4j2.impl  [fork: keep `org.apache.logging.log4j`, `org.beilstein` still publishes the name]
-  A * org.apache.logging.log4j             2023-10..2026-07 2.25.5               |.............=======|
+  A * org.apache.logging.log4j             2023-10..2026-07 2.25.5               |.............======.|
   ?   org.beilstein                        2026-07..2026-08 1.5.0                |...................=|
   R   net.corda                            2024-07..2026-08 4.14.3               |...............=====|
   R   org.apache.tika                      2025-04..2026-07 3.3.2                |................====|
@@ -1685,7 +1685,7 @@ ch.qos.logback.core  [owned by `ch.qos.logback`; 35 other group(s) shade the nam
   A * ch.qos.logback                       2018-01..2026-09 1.6.5                |..==================|
   R   com.deltaproto                       2026-04..2026-09 1.7.0                |..................==|
   R   com.effacy.jui                       2024-12..2026-09 0.4.2                |................====|
-  ?   ch.exense.step                       2026-07..2026-08 3.30.3               |...................=|
+  ?   ch.exense.step                       2026-07..2026-08 3.30.3               |..................==|
   R   de.gematik.test                      2025-11..2026-08 4.4.2                |.................===|
   R   io.camunda                           2026-02..2026-08 0.2.8                |..................==|
     + 30 more: club.dawdler, com.yetanalytics, net.ladenthin, org.eclipse.hawkbit, io.smallrye.reactive, org.ton.ton4j, org.springframework.cloud, com.limemojito.oss.aws, io.spicelabs, com.expediagroup, org.chenile, org.jetbrains.kotlinx, (+18 more)
@@ -1781,7 +1781,7 @@ com.fasterxml.jackson.datatype.jdk8  [owned by `com.fasterxml.jackson.datatype`;
 com.fasterxml.jackson.module.paramnames  [owned by `com.fasterxml.jackson.module`; 11 other group(s) shade the name]
   A * com.fasterxml.jackson.module         2017-10..2026-09 2.22.3               |.===================|
   R   com.infobip                          2026-03..2026-08 4.0.0                |..................==|
-  ?   org.realityforge.proton              2026-06..2026-07 0.74                 |..................==|
+  ?   org.realityforge.proton              2026-06..2026-07 0.74                 |..................=.|
   ?   org.realityforge.sting               2026-06..2026-06 0.39                 |..................=.|
   ?   org.realityforge.router.fu           2026-06..2026-06 0.47                 |..................=.|
   ?   org.realityforge.react4j             2026-06..2026-06 0.226                |..................=.|
@@ -1937,7 +1937,7 @@ org.springdoc.openapi.webmvc.scalar  [owned by `org.springdoc`; 2 other group(s)
   R   io.github.lisi9988                   2025-12..2025-12 2.8.14               |.................=..|
 org.eclipse.jetty.client  [owned by `org.eclipse.jetty`; 2 other group(s) shade the name]
   A * org.eclipse.jetty                    2018-11..2026-09 12.0.39              |....================|
-  ?   ch.exense.step                       2026-06..2026-07 3.30.1               |..................==|
+  ?   ch.exense.step                       2026-06..2026-07 3.30.1               |..................=.|
   R   org.exploit                          2024-10..2026-04 1.0.9                |...............====.|
 org.eclipse.jetty.compression.gzip  [owned by `org.eclipse.jetty.compression`; 1 other group(s) shade the name]
   ? * org.eclipse.jetty.compression        2024-12..2026-09 12.1.13              |...............=====|
@@ -2750,7 +2750,7 @@ jcifs  [no clear owner; `org.codelibs` is earliest and most recent]
   ?   io.gitee.pickled_vegetables          2023-05..2023-05 2.2.0                |............=.......|
 org.freedesktop.dbus  [no clear owner; `com.github.hypfvieh` is earliest and most recent]
   ? * com.github.hypfvieh                  2021-03..2026-09 5.2.2                |........============|
-  ?   org.endlesssource.mediainterface     2026-02..2026-07 3.0.0                |..................==|
+  ?   org.endlesssource.mediainterface     2026-02..2026-07 3.0.0                |..................=.|
 net.sf.uadetector.core  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
   ? * com.jwebmp.jre11                     2018-11..2018-12 0.63.0.19            |....=...............|
   ?   com.guicedee.modules.services        2026-04..2026-09 2.3.0                |..................==|
