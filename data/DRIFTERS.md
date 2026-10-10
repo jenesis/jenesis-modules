@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-09. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-10. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -118,7 +118,7 @@ kotlin.reflect  [explicit rule: owned by `org.jetbrains.kotlin`; 67 other group(
   A * org.jetbrains.kotlin                 2019-01..2026-09 2.4.21-RC            |....================|
   ?   com.utopia-rise                      2026-08..2026-09 1.0.0-rc1            |...................=|
   ?   org.octopusden.octopus.infrastructure 2026-07..2026-07 3.0.8                |..................==|
-  ?   io.github.barqdb.kotlin              2026-07..2026-07 4.1.0                |...................=|
+  ?   io.github.barqdb.kotlin              2026-07..2026-07 4.1.0                |..................==|
   R   org.apache.pinot                     2025-09..2026-06 1.5.1                |.................==.|
   ?   io.github.rodrigotimoteo             2026-06..2026-06 0.1.0                |..................=.|
     + 62 more: com.airbnb.viaduct, io.github.abdullahkhan118, io.github.tobi-laa, io.github.kshulzh.kefir, io.github.xilinjia.krdb, io.github.snow1026, com.browserstack, com.simprints.realm.kotlin, org.pkl-lang, com.statsig, com.infomaniak.realm.kotlin, com.solapi, (+50 more)
@@ -400,7 +400,7 @@ jakarta.mail  [republished by `com.sun.mail` (still active); belongs to `jakarta
   R   com.randomnoun.db                    2022-10..2025-11 1.0.2                |...........=======..|
     + 7 more: org.eclipse.angus, jakarta.mail, org.camunda.bpm.extension, name.bychkov, io.gravitee.apim.rest.api.standalone, com.krux, com.guicedee.services
 com.univapay.api  [republished by `io.sdks` (still active); belongs to `com.univapay`]
-  ? * io.sdks                              2026-07..2026-09 1.0.3                |...................=|
+  ? * io.sdks                              2026-07..2026-09 1.0.3                |..................==|
   ?   com.univapay                         2026-08..2026-09 1.2.3                |...................=|
 org.apache.commons.mail  [republished by `com.github.ppodgorsek.email` (still active); belongs to `org.apache.commons`]
   ? * com.github.ppodgorsek.email          2023-06..2023-06 2.0.0                |.............=......|
@@ -810,7 +810,7 @@ io.netty.handler.proxy  [fork: keep `io.netty`, `io.kestra` still publishes the 
   R   org.apache.iceberg                   2026-05..2026-09 1.12.0               |..................==|
   ?   org.apache.gravitino                 2026-06..2026-09 1.3.1                |..................==|
   ?   io.neonbee                           2026-06..2026-09 0.37.36              |..................==|
-  R   io.micronaut.starter                 2025-06..2026-09 4.10.18              |.................===|
+  R   io.micronaut.starter                 2025-06..2026-09 4.10.18              |................====|
     + 7 more: com.facebook.presto, org.apache.grails, io.github.norby99, io.sirix, io.kestra.plugin, com.frog-development.consul-populate, io.kestra.storage
 com.fasterxml.jackson.datatype.jsr310  [fork: keep `com.fasterxml.jackson.datatype`, `org.apache.knox` still publishes the name]
   A * com.fasterxml.jackson.datatype       2017-10..2026-09 2.22.3               |.===================|
@@ -1062,7 +1062,7 @@ jakarta.ws.rs  [fork: keep `jakarta.ws.rs`, `nl.mirila.cli` still publishes the 
 com.nimbusds.jose.jwt  [fork: keep `com.nimbusds`, `com.vaadin` still publishes the name]
   A * com.nimbusds                         2020-08..2026-09 10.10                |.......=============|
   R   com.vaadin                           2025-07..2026-09 2.3.3                |.................===|
-  ?   org.ligoj.plugin                     2026-07..2026-07 2.0.0                |...................=|
+  ?   org.ligoj.plugin                     2026-07..2026-07 2.0.0                |..................=.|
   R   fish.payara.security.connectors      2024-05..2026-04 2.9.0                |..............=====.|
   R   org.bonitasoft.connectors            2026-04..2026-04 1.0.0-beta.1         |..................=.|
   R   org.apache.hadoop                    2026-03..2026-03 3.5.0                |..................=.|
@@ -1416,7 +1416,7 @@ org.bytedeco.javacpp.linux.ppc64le  [fork: keep `org.bytedeco`, `io.github.mulle
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |...................=|
   R   org.apache.tika                      2025-01..2025-06 3.2.1                |................=...|
 org.bytedeco.javacpp.linux.riscv64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-06..2026-08 1.5.14               |.................===|
+  ? * org.bytedeco                         2025-06..2026-08 1.5.14               |................====|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |...................=|
 org.bytedeco.javacpp.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
@@ -1503,7 +1503,7 @@ org.apache.logging.log4j.slf4j2.impl  [fork: keep `org.apache.logging.log4j`, `o
 org.signal.libsignal  [fork: keep `org.signal`, `io.github.wanggenlin` still publishes the name]
   A * org.signal                           2023-09..2025-11 0.86.5               |.............=====..|
   R   io.github.wanggenlin                 2026-02..2026-08 0.86.16              |..................==|
-  ?   com.securegroupchat                  2026-07..2026-07 0.96.3               |...................=|
+  ?   com.securegroupchat                  2026-07..2026-07 0.96.3               |..................=.|
 org.lwjgl.glfw  [fork: keep `org.lwjgl`, `io.github.lionblazer` still publishes the name]
   A * org.lwjgl                            2017-09..2026-08 3.4.3                |.===================|
   ?   io.github.lionblazer                 2026-08..2026-08 1.92.5.1             |...................=|
@@ -1850,7 +1850,7 @@ com.microsoft.onnxruntime  [owned by `com.microsoft.onnxruntime`; 1 other group(
   ?   io.github.eduramiba                  2026-06..2026-06 1.26.0               |..................=.|
 com.github.jknack.handlebars  [owned by `com.github.jknack`; 3 other group(s) shade the name]
   A * com.github.jknack                    2024-03..2026-09 4.5.5                |..............======|
-  R   me.bechberger                        2026-01..2026-08 0.1.2                |..................==|
+  R   me.bechberger                        2026-01..2026-08 0.1.2                |.................===|
   ?   org.openidentityplatform.openidm.tools 2026-07..2026-07 7.1.2                |...................=|
   R   org.craftercms                       2026-04..2026-04 4.6.0                |..................=.|
 org.neo4j.bolt.connection.routed  [owned by `org.neo4j.bolt`; 0 other group(s) shade the name]
