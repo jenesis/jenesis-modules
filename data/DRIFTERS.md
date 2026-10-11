@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-10. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-11. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -150,7 +150,7 @@ reactor.core  [explicit rule: owned by `io.projectreactor`; 1 other group(s) rej
   ? * io.projectreactor                    2019-09..2026-08 3.8.7                |.....===============|
   ?   com.guicedee.modules.services        2026-08..2026-09 2.3.0                |...................=|
 org.dataloader  [explicit rule: owned by `com.graphql-java`; 2 other group(s) rejected]
-  A * com.graphql-java                     2022-06..2026-08 0.0.0-2026-08-20T22-16-50-747a7de |...........=========|
+  A * com.graphql-java                     2022-06..2026-08 0.0.0-2026-08-20T22-16-50-747a7de |..........==========|
   ?   com.guicedee.modules.services        2026-07..2026-09 2.3.0                |...................=|
   R   com.liferay                          2025-05..2025-05 3.2.0.JAKARTA-LIFERAY-PATCHED-1 |................=...|
 scala.library  [explicit rule: owned by `org.scala-lang`; 3 other group(s) rejected]
@@ -936,7 +936,7 @@ org.apache.poi.poi  [fork: keep `org.apache.poi`, `com.guicedee.modules.services
   A * org.apache.poi                       2021-01..2025-11 5.5.1                |........==========..|
   R   com.guicedee.modules.services        2026-04..2026-09 2.3.0                |..................==|
   ?   ai.platon.pulsar                     2026-08..2026-08 4.14.0-rc.2          |...................=|
-  R   io.github.itgemini                   2024-12..2026-02 2.2.5                |................===.|
+  R   io.github.itgemini                   2024-12..2026-02 2.2.5                |...............====.|
   R   io.github.daichangya                 2025-12..2025-12 5.1.1                |.................=..|
   R   com.jsdiff                           2025-12..2025-12 5.1.0                |.................=..|
     + 14 more: io.gitee.tikadoc, io.github.geminit-it, io.github.mianalysis, com.liferay, com.crealytics, com.codoid.products, ch.exense.step.library, com.guicedee.services, io.github.rocketmadev, org.datakurator, org.lucee, io.github.weizhonzhen, (+2 more)
@@ -1465,7 +1465,7 @@ org.bytedeco.openblas.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mulle
   ?   io.github.mullerhai                  2026-07..2026-08 0.3.34-1.5.14-GA-1.0 |...................=|
   R   us.ihmc                              2023-06..2025-02 0.3.23-1.5.11-ihmc-2 |............=====...|
 org.apache.commons.beanutils2  [fork: keep `org.apache.commons`, `org.onebusaway` still publishes the name]
-  ? * org.apache.commons                   2024-12..2025-05 2.0.0-M2             |................=...|
+  ? * org.apache.commons                   2024-12..2025-05 2.0.0-M2             |...............==...|
   ?   org.onebusaway                       2025-05..2026-08 14.2.3               |................====|
   ?   com.github.bordertech.wcomponents    2025-12..2026-01 1.5.39               |.................==.|
 com.google.guice.extensions.servlet  [fork: keep `com.google.inject.extensions`, `io.airlift` still publishes the name]
@@ -1648,7 +1648,7 @@ io.opentelemetry.instrumentation_annotations  [owned by `io.opentelemetry.instru
   ?   io.vidocq.humboldt                   2026-06..2026-09 0.3.0                |..................==|
 com.clickhouse.jdbc  [owned by `com.clickhouse`; 4 other group(s) shade the name]
   A * com.clickhouse                       2021-12..2026-10 0.11.0-rc1           |..........==========|
-  ?   io.github.tridog                     2026-07..2026-07 0.7.3-2              |...................=|
+  ?   io.github.tridog                     2026-07..2026-07 0.7.3-2              |..................=.|
   R   org.apache.seatunnel                 2023-10..2024-10 1.0.2                |.............===....|
   R   io.kestra.plugin                     2022-04..2023-03 0.6.1                |..........===.......|
   R   ru.yandex.clickhouse                 2021-12..2021-12 0.3.2                |..........=.........|
@@ -1745,7 +1745,7 @@ org.graalvm.js  [owned by `org.graalvm.js`; 19 other group(s) shade the name]
 tools.jackson.databind  [owned by `tools.jackson.core`; 4 other group(s) shade the name]
   A * tools.jackson.core                   2025-03..2026-09 3.2.3                |................====|
   ?   de.codelix.commandapi                2026-08..2026-08 4.4.0                |...................=|
-  R   com.smartystreets.api                2026-01..2026-07 7.2.0                |..................==|
+  R   com.smartystreets.api                2026-01..2026-07 7.2.0                |..................=.|
   R   software.xdev.mockserver             2026-03..2026-03 2.0.4                |..................=.|
   R   io.github.koinsaari                  2025-11..2025-11 0.1.0                |.................=..|
 tools.jackson.core  [owned by `tools.jackson.core`; 28 other group(s) shade the name]
@@ -2294,13 +2294,13 @@ mosaic.tty.terminal  [owned by `com.jakewharton.mosaic` (groupId minus two segme
   ?   ee.schimke.composeai.mosaic          2026-05..2026-05 0.18.0-1             |..................=.|
 tucache.core  [owned by `co.tunan.tucache` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * co.tunan.tucache                     2024-02..2024-02 1.0.4.RELEASE        |..............=.....|
-  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |................===.|
+  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |...............====.|
 tucache.spring.boot.autoconfigure  [owned by `co.tunan.tucache` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * co.tunan.tucache                     2024-02..2024-02 1.0.4.RELEASE        |..............=.....|
-  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |................===.|
+  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |...............====.|
 tucache.spring.boot.starter  [owned by `co.tunan.tucache` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
   ? * co.tunan.tucache                     2024-02..2024-02 1.0.4.RELEASE        |..............=.....|
-  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |................===.|
+  ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |...............====.|
 glide.api  [owned by `software.amazon.glide` (groupId minus two segments is the module prefix); 2 other group(s) shade the name]
   ? * software.amazon.glide                2024-06..2024-06 0.4.3                |...............=....|
   ?   io.valkey                            2024-07..2025-10 2.1.1                |...............===..|
