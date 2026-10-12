@@ -2069,3 +2069,12 @@ com.synerset.unitility.quarkus
 com.synerset.unitility.jackson.legacy
 com.synerset.unitility.persistence
 com.synerset.unitility.spring
+com.vaadin.hilla.parser.utils
+com.vaadin.hilla.parser.plugins.model
+com.vaadin.hilla.parser.plugins.backbone
+com.vaadin.hilla.parser.core
+com.vaadin.hilla.parser.plugins.subtypes
+com.vaadin.hilla.runtime.transfertypes
+com.vaadin.hilla.parser.plugins.nonnull
+com.vaadin.hilla.parser.testutils
+com.vaadin.hilla.parser.plugins.transfertypes
