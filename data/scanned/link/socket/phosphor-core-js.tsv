@@ -6,3 +6,4 @@
 0.6.0		2026-05-31T04:09:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/phosphor-core-js/0.6.0/phosphor-core-js-0.6.0.jar returned status 404
 0.6.1		2026-06-01T03:19:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/phosphor-core-js/0.6.1/phosphor-core-js-0.6.1.jar returned status 404
 0.6.2		2026-06-01T04:08:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/phosphor-core-js/0.6.2/phosphor-core-js-0.6.2.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/phosphor-core-js/0.7.0/phosphor-core-js-0.7.0.jar returned status 404
