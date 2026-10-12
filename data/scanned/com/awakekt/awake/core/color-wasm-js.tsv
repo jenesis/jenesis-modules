@@ -1,3 +1,4 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0/color-wasm-js-0.1.0.jar returned status 404
 0.1.0-alpha.1		2026-09-12T11:21:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0-alpha.1/color-wasm-js-0.1.0-alpha.1.jar returned status 404
 0.1.0-alpha.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0-alpha.10/color-wasm-js-0.1.0-alpha.10.jar returned status 404
 0.1.0-alpha.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0-alpha.11/color-wasm-js-0.1.0-alpha.11.jar returned status 404
@@ -18,6 +19,7 @@
 0.1.0-rc.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0-rc.11/color-wasm-js-0.1.0-rc.11.jar returned status 404
 0.1.0-rc.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0-rc.12/color-wasm-js-0.1.0-rc.12.jar returned status 404
 0.1.0-rc.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0-rc.13/color-wasm-js-0.1.0-rc.13.jar returned status 404
+0.1.0-rc.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0-rc.14/color-wasm-js-0.1.0-rc.14.jar returned status 404
 0.1.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0-rc.2/color-wasm-js-0.1.0-rc.2.jar returned status 404
 0.1.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0-rc.3/color-wasm-js-0.1.0-rc.3.jar returned status 404
 0.1.0-rc.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/color-wasm-js/0.1.0-rc.6/color-wasm-js-0.1.0-rc.6.jar returned status 404
