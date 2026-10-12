@@ -4,7 +4,7 @@
 > _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-09-24 08:56:20 UTC_  
-_Current chunk started: 2026-10-05 11:50:53 UTC_  
+_Current chunk started: 2026-10-12 12:25:32 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 939_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 18 846 725 |
-| Non-module artifacts | 16 775 021 |
+| Total artifacts scanned | 18 907 894 |
+| Non-module artifacts | 16 829 073 |
 | Modular artifacts | 1 717 598 |
 | Total automatic modules | 1 341 353 |
 | Total named modules | 376 245 |
 | Total named modules with module-info version | 285 593 |
-| Distinct Maven artifacts | 698 795 |
-| Distinct module names | 42 743 |
+| Distinct Maven artifacts | 698 796 |
+| Distinct module names | 42 756 |
 | Distinct automatic modules | 22 655 |
 | Distinct named modules | 18 555 |
 | Distinct named modules with module-info version | 13 518 |
@@ -146,8 +146,8 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 3 370 | 981 | 2 389 |
-| New version rows | 7 062 | 1 878 | 5 184 |
+| Modules with a publication | 8 | 3 | 5 |
+| New version rows | 8 | 3 | 5 |
 | Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-06 | `█`&nbsp;3 472 (4.2%) | `▓▓`&nbsp;6 111 (7.4%) | `░░░░░░░░░░░░░░░░░░░░░░░░`&nbsp;72 969 (88.4%) |
 | 2026-07 | `█`&nbsp;3 538 (7.1%) | `▓▓`&nbsp;5 573 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
 | 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 687 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 733 (86.0%) |
-| 2026-09 | `█`&nbsp;3 661 (12.2%) | `▓▓`&nbsp;6 427 (21.5%) | `░░░░░░░`&nbsp;19 802 (66.2%) |
+| 2026-09 | `█`&nbsp;3 661 (12.3%) | `▓▓`&nbsp;6 427 (21.5%) | `░░░░░░`&nbsp;19 752 (66.2%) |
 
 ## Naming patterns
 
@@ -175,7 +175,7 @@ How module names relate to their publishing groupId. "Competing groupIds" counts
 
 | Pattern | Modules |
 |---|---:|
-| Multiple competing groupIds in audit history | 4 312 |
+| Multiple competing groupIds in audit history | 4 313 |
 
 ### Leading dot-segments shared with the owning groupId
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 3 941 941 |
-| Incorrectly indexed (mis-stamped 404s) | 3 939 233 |
-| Genuine artifact errors | 2 708 |
+| Total failed coordinates | 3 962 618 |
+| Incorrectly indexed (mis-stamped 404s) | 3 959 900 |
+| Genuine artifact errors | 2 718 |
 
 ### Top 25 genuine error messages
 
@@ -212,8 +212,8 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 | Error message | Count |
 |---|---:|
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
-| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 524 |
-| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 494 |
+| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 525 |
+| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 503 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
@@ -309,8 +309,8 @@ Module names that have been published under the most different groupIds across h
 | `com.fasterxml.jackson.databind` | 272 |
 | `com.fasterxml.jackson.core` | 239 |
 | `com.fasterxml.jackson.annotation [-jar-with-dependencies]` | 229 |
+| `org.slf4j` | 190 |
 | `com.fasterxml.jackson.annotation` | 189 |
-| `org.slf4j` | 189 |
 | `org.apache.logging.log4j` | 183 |
 | `kotlin.stdlib` | 150 |
 | `kotlin.stdlib.jdk8` | 137 |
@@ -345,23 +345,6 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 | `io.github.maxtrezzi.modelrack4j.provider.gemini` | 2026-10-04 20:31:24 UTC |
 | `io.github.maxtrezzi.modelrack4j.provider.glm` | 2026-10-04 20:31:24 UTC |
 | `io.github.maxtrezzi.modelrack4j.provider.openai` | 2026-10-04 20:31:24 UTC |
-| `io.murrdb.client` | 2026-10-04 20:11:10 UTC |
-| `com.github.copilot.java` | 2026-10-04 19:51:10 UTC |
-| `io.hron` | 2026-10-04 19:51:10 UTC |
-| `is.codion.framework.domain` | 2026-10-04 19:41:05 UTC |
-| `is.codion.framework.model` | 2026-10-04 19:41:05 UTC |
-| `is.codion.plugin.flatlaf.intellij.themes` | 2026-10-04 19:41:05 UTC |
-| `is.codion.plugin.log4j.proxy` | 2026-10-04 19:41:05 UTC |
-| `is.codion.plugin.logback.proxy` | 2026-10-04 19:41:05 UTC |
-| `is.codion.plugin.tomcat.pool` | 2026-10-04 19:41:05 UTC |
-| `is.codion.swing.common.model` | 2026-10-04 19:41:05 UTC |
-| `is.codion.swing.common.ui` | 2026-10-04 19:41:05 UTC |
-| `is.codion.swing.framework.model` | 2026-10-04 19:41:05 UTC |
-| `is.codion.swing.framework.ui` | 2026-10-04 19:41:05 UTC |
-| `is.codion.tools.generator.cli` | 2026-10-04 19:41:05 UTC |
-| `is.codion.tools.generator.domain` | 2026-10-04 19:41:05 UTC |
-| `is.codion.tools.generator.model` | 2026-10-04 19:41:05 UTC |
-| `is.codion.tools.generator.ui` | 2026-10-04 19:41:05 UTC |
 
 ## Top 25 groupIds by average versions per module
 
