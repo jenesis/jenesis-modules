@@ -232,5 +232,20 @@
 3.0-alpha.390			
 3.0-alpha.391			
 3.0-alpha.392			
+3.0-alpha.393			
+3.0-alpha.394			
+3.0-alpha.398			
+3.0-alpha.399			
+3.0-alpha.400			
+3.0-alpha.401			
+3.0-alpha.402			
+3.0-alpha.403			
+3.0-alpha.404			
+3.0-alpha.405			
+3.0-alpha.406			
+3.0-alpha.407			
+3.0-alpha.408			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/webflux-core/3.0-alpha.408/webflux-core-3.0-alpha.408.jar returned status 404
+3.0-alpha.410			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/webflux-core/3.0-alpha.410/webflux-core-3.0-alpha.410.jar returned status 404
+3.0-alpha.411			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/webflux-core/3.0-alpha.411/webflux-core-3.0-alpha.411.jar returned status 404
 3.0-alpha.98		2025-05-22T21:14:14Z	
 3.0-alpha.99		2025-05-22T21:25:50Z	

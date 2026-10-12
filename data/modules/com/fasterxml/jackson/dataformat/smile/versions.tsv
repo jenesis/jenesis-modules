@@ -362,3 +362,5 @@
 2.18.11	named	com.fasterxml.jackson.dataformat	jackson-dataformat-smile	2026-09-21T00:51:08Z	2.18.11
 2.21.7	named	com.fasterxml.jackson.dataformat	jackson-dataformat-smile	2026-09-21T17:56:27Z	2.21.7
 2.22.3	named	com.fasterxml.jackson.dataformat	jackson-dataformat-smile	2026-09-21T21:31:17Z	2.22.3
+42.6	named	io.deephaven	deephaven-extensions-validation-method-list	2026-10-05T22:06:51Z	2.22.3
+41.11	named	io.deephaven	deephaven-extensions-validation-method-list	2026-10-09T19:57:00Z	2.22.3
