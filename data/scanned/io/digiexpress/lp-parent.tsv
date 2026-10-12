@@ -14,7 +14,11 @@
 5.3.14		2026-06-30T07:37:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.14/lp-parent-5.3.14.jar returned status 404
 5.3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.15/lp-parent-5.3.15.jar returned status 404
 5.3.16		2026-09-21T15:48:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.16/lp-parent-5.3.16.jar returned status 404
+5.3.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.17/lp-parent-5.3.17.jar returned status 404
+5.3.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.18/lp-parent-5.3.18.jar returned status 404
+5.3.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.19/lp-parent-5.3.19.jar returned status 404
 5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.2/lp-parent-5.3.2.jar returned status 404
+5.3.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.20/lp-parent-5.3.20.jar returned status 404
 5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.3/lp-parent-5.3.3.jar returned status 404
 5.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.4/lp-parent-5.3.4.jar returned status 404
 5.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/5.3.5/lp-parent-5.3.5.jar returned status 404
@@ -49,6 +53,7 @@
 6.0.35		2026-08-17T11:40:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/6.0.35/lp-parent-6.0.35.jar returned status 404
 6.0.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/6.0.36/lp-parent-6.0.36.jar returned status 404
 6.0.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/6.0.38/lp-parent-6.0.38.jar returned status 404
+6.0.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/6.0.39/lp-parent-6.0.39.jar returned status 404
 6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/6.0.4/lp-parent-6.0.4.jar returned status 404
 6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/6.0.5/lp-parent-6.0.5.jar returned status 404
 6.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/lp-parent/6.0.6/lp-parent-6.0.6.jar returned status 404

@@ -1103,3 +1103,8 @@
 1.2610.0	named	org.talend.sdk.component.sample.feature	entrywitherror	2026-09-22T01:06:23Z	33.4.8-jre
 33.7.2-jre	named	com.google.guava	guava	2026-09-29T14:47:28Z	33.7.2-jre
 33.7.2-android	automatic	com.google.guava	guava	2026-09-29T14:47:28Z	
+5.3.17	named	io.digiexpress	thena-sql-client-annot-proc	2026-10-07T07:32:46Z	33.5.0-jre
+5.3.18	named	io.digiexpress	thena-sql-client-annot-proc	2026-10-07T08:41:19Z	33.5.0-jre
+5.3.19	named	io.digiexpress	thena-sql-client-annot-proc	2026-10-07T11:11:13Z	33.5.0-jre
+5.3.20	named	io.digiexpress	thena-sql-client-annot-proc	2026-10-07T12:41:26Z	33.5.0-jre
+6.0.39	named	io.digiexpress	thena-sql-client-annot-proc	2026-10-08T09:36:47Z	33.5.0-jre
