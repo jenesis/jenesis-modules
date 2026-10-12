@@ -1,6 +1,8 @@
 0.1.4		2026-08-04T06:39:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-browser-js/0.1.4/webview-browser-js-0.1.4.jar returned status 404
 0.2.0		2026-08-05T06:30:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-browser-js/0.2.0/webview-browser-js-0.2.0.jar returned status 404
 0.2.1		2026-08-06T04:46:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-browser-js/0.2.1/webview-browser-js-0.2.1.jar returned status 404
+0.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-browser-js/0.2.10/webview-browser-js-0.2.10.jar returned status 404
+0.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-browser-js/0.2.11/webview-browser-js-0.2.11.jar returned status 404
 0.2.2		2026-08-06T07:33:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-browser-js/0.2.2/webview-browser-js-0.2.2.jar returned status 404
 0.2.3		2026-08-06T10:17:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-browser-js/0.2.3/webview-browser-js-0.2.3.jar returned status 404
 0.2.4		2026-08-07T12:11:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-browser-js/0.2.4/webview-browser-js-0.2.4.jar returned status 404

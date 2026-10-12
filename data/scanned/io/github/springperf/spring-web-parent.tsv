@@ -16,3 +16,5 @@
 3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/springperf/spring-web-parent/3.2.4/spring-web-parent-3.2.4.jar returned status 404
 3.2.5		2026-08-24T10:41:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/springperf/spring-web-parent/3.2.5/spring-web-parent-3.2.5.jar returned status 404
 3.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/springperf/spring-web-parent/3.5.6/spring-web-parent-3.5.6.jar returned status 404
+3.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/springperf/spring-web-parent/3.5.7/spring-web-parent-3.5.7.jar returned status 404
+4.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/springperf/spring-web-parent/4.1.7/spring-web-parent-4.1.7.jar returned status 404
