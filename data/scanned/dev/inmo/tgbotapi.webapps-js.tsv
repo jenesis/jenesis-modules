@@ -108,6 +108,8 @@
 35.1.0		2026-07-01T12:26:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.webapps-js/35.1.0/tgbotapi.webapps-js-35.1.0.jar returned status 404
 36.0.0		2026-08-21T10:20:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.webapps-js/36.0.0/tgbotapi.webapps-js-36.0.0.jar returned status 404
 36.1.0		2026-08-21T19:35:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.webapps-js/36.1.0/tgbotapi.webapps-js-36.1.0.jar returned status 404
+37.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.webapps-js/37.0.0/tgbotapi.webapps-js-37.0.0.jar returned status 404
+37.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.webapps-js/37.1.0/tgbotapi.webapps-js-37.1.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.webapps-js/4.0.0/tgbotapi.webapps-js-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.webapps-js/4.1.0/tgbotapi.webapps-js-4.1.0.jar returned status 404
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/tgbotapi.webapps-js/4.1.1/tgbotapi.webapps-js-4.1.1.jar returned status 404

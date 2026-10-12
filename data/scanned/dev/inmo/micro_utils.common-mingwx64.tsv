@@ -128,4 +128,5 @@
 0.30.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.common-mingwx64/0.30.2/micro_utils.common-mingwx64-0.30.2.jar returned status 404
 0.31.0		2026-08-30T12:40:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.common-mingwx64/0.31.0/micro_utils.common-mingwx64-0.31.0.jar returned status 404
 0.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.common-mingwx64/0.31.1/micro_utils.common-mingwx64-0.31.1.jar returned status 404
+0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.common-mingwx64/0.32.0/micro_utils.common-mingwx64-0.32.0.jar returned status 404
 30.1.0		2026-08-12T08:20:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.common-mingwx64/30.1.0/micro_utils.common-mingwx64-30.1.0.jar returned status 404

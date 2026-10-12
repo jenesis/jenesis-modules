@@ -199,6 +199,7 @@
 0.30.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines.compose-js/0.30.2/micro_utils.coroutines.compose-js-0.30.2.jar returned status 404
 0.31.0		2026-08-30T12:40:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines.compose-js/0.31.0/micro_utils.coroutines.compose-js-0.31.0.jar returned status 404
 0.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines.compose-js/0.31.1/micro_utils.coroutines.compose-js-0.31.1.jar returned status 404
+0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines.compose-js/0.32.0/micro_utils.coroutines.compose-js-0.32.0.jar returned status 404
 0.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines.compose-js/0.9.11/micro_utils.coroutines.compose-js-0.9.11.jar returned status 404
 0.9.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines.compose-js/0.9.12/micro_utils.coroutines.compose-js-0.9.12.jar returned status 404
 0.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.coroutines.compose-js/0.9.13/micro_utils.coroutines.compose-js-0.9.13.jar returned status 404
