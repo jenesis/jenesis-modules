@@ -11,3 +11,4 @@
 4.0.0		2026-06-02T16:33:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/feature-parent/4.0.0/feature-parent-4.0.0.jar returned status 404
 4.0.1		2026-08-22T08:45:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/feature-parent/4.0.1/feature-parent-4.0.1.jar returned status 404
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/feature-parent/4.0.2/feature-parent-4.0.2.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/feature-parent/5.0.0/feature-parent-5.0.0.jar returned status 404

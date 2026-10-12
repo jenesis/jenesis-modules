@@ -659,3 +659,11 @@
 5.26.31	automatic	org.neo4j	cypher-parser-test	2026-09-22T09:15:34Z	
 5.26.31	automatic	org.neo4j	cypher-v25-parser-listener	2026-09-22T09:15:34Z	
 5.26.31	automatic	org.neo4j	cypher-v5-parser-listener	2026-09-22T09:15:34Z	
+5.26.32	automatic	org.neo4j	cypher-antlr-ast-common	2026-10-09T12:32:43Z	
+5.26.32	automatic	org.neo4j	cypher-antlr-common	2026-10-09T12:32:43Z	
+5.26.32	automatic	org.neo4j	cypher-parser-ast-common	2026-10-09T12:32:43Z	
+5.26.32	automatic	org.neo4j	cypher-parser-common	2026-10-09T12:32:43Z	
+5.26.32	automatic	org.neo4j	cypher-parser-factory	2026-10-09T12:32:43Z	
+5.26.32	automatic	org.neo4j	cypher-parser-test	2026-10-09T12:32:43Z	
+5.26.32	automatic	org.neo4j	cypher-v25-parser-listener	2026-10-09T12:32:43Z	
+5.26.32	automatic	org.neo4j	cypher-v5-parser-listener	2026-10-09T12:32:43Z	

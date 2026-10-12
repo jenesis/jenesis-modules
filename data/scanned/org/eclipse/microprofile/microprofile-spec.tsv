@@ -34,3 +34,5 @@
 7.0		2024-08-05T16:16:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-spec/7.0/microprofile-spec-7.0.jar returned status 404
 7.0-RC1		2024-07-16T21:00:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-spec/7.0-RC1/microprofile-spec-7.0-RC1.jar returned status 404
 7.1		2025-04-11T19:25:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-spec/7.1/microprofile-spec-7.1.jar returned status 404
+7.2-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-spec/7.2-RC2/microprofile-spec-7.2-RC2.jar returned status 404
+7.2-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/microprofile/microprofile-spec/7.2-RC3/microprofile-spec-7.2-RC3.jar returned status 404
