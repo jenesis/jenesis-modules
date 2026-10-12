@@ -49,6 +49,8 @@
 4.4.6.hyte-24470			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyte/platform/parent/4.4.6.hyte-24470/parent-4.4.6.hyte-24470.jar returned status 404
 4.4.6.hyte-24520			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyte/platform/parent/4.4.6.hyte-24520/parent-4.4.6.hyte-24520.jar returned status 404
 4.4.6.hyte-25140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyte/platform/parent/4.4.6.hyte-25140/parent-4.4.6.hyte-25140.jar returned status 404
+4.4.6.hyte-26400			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyte/platform/parent/4.4.6.hyte-26400/parent-4.4.6.hyte-26400.jar returned status 404
+4.4.6.hyte-26401			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyte/platform/parent/4.4.6.hyte-26401/parent-4.4.6.hyte-26401.jar returned status 404
 4.4.8.hyte-25322			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyte/platform/parent/4.4.8.hyte-25322/parent-4.4.8.hyte-25322.jar returned status 404
 4.4.8.hyte-25324			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyte/platform/parent/4.4.8.hyte-25324/parent-4.4.8.hyte-25324.jar returned status 404
 4.4.8.hyte-25341			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyte/platform/parent/4.4.8.hyte-25341/parent-4.4.8.hyte-25341.jar returned status 404

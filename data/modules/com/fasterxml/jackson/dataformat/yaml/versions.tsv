@@ -1612,3 +1612,5 @@
 0.106.1	named	io.simpleishard	trino-splunk	2026-10-04T15:36:33Z	2.21.5
 0.106.1	named	io.simpleishard	trino-calcite-base	2026-10-04T15:36:35Z	2.21.5
 0.106.1	named	io.simpleishard	trino-cloudops	2026-10-04T15:36:44Z	2.21.5
+27.15.0	named	io.fabrikt	fabrikt	2026-10-09T19:03:23Z	2.21.6
+28.0.0	named	io.fabrikt	fabrikt	2026-10-09T19:40:37Z	2.21.6
