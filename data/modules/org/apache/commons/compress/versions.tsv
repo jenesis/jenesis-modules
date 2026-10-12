@@ -1383,3 +1383,4 @@
 2.77.0	named	org.apache.beam	beam-sdks-java-io-messaging-expansion-service	2026-10-01T11:13:43Z	1.26.2
 2.77.0	named	org.apache.beam	beam-sdks-java-io-amazon-web-services2-expansion-service	2026-10-01T11:29:20Z	1.26.2
 2.77.0	named	org.apache.beam	beam-sdks-java-io-debezium-expansion-service	2026-10-01T11:30:09Z	1.26.2
+1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	java-ci-tools	2026-10-08T08:45:54Z	1.26.1
