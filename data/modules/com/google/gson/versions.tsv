@@ -5241,3 +5241,6 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.47.1	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-10-04T12:01:14Z	2.11.0
 0.47.2	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-10-04T14:17:09Z	2.11.0
 2.0.2	named	com.conaxgames	clibraries	2026-10-04T14:25:58Z	2.14.0
+12.1.0.87730	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-10-09T14:01:25Z	2.14.0
+12.1.0.87730	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-10-09T14:01:25Z	2.14.0
+6.1.0.79799	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-10-09T15:51:46Z	2.14.0

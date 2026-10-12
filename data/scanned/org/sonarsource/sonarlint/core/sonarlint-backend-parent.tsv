@@ -14,3 +14,4 @@
 12.0.0.87449			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/sonarlint/core/sonarlint-backend-parent/12.0.0.87449/sonarlint-backend-parent-12.0.0.87449.jar returned status 404
 12.0.1.87460			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/sonarlint/core/sonarlint-backend-parent/12.0.1.87460/sonarlint-backend-parent-12.0.1.87460.jar returned status 404
 12.0.2.87499			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/sonarlint/core/sonarlint-backend-parent/12.0.2.87499/sonarlint-backend-parent-12.0.2.87499.jar returned status 404
+12.1.0.87730			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/sonarlint/core/sonarlint-backend-parent/12.1.0.87730/sonarlint-backend-parent-12.1.0.87730.jar returned status 404
