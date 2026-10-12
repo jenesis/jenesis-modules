@@ -87,3 +87,4 @@ jedis-3.6.2	automatic	redis.clients	jedis	2021-07-15T09:57:18Z
 8.0.0	automatic	redis.clients	jedis	2026-08-10T09:52:42Z	
 8.0.1	automatic	redis.clients	jedis	2026-08-28T12:48:17Z	
 8.1.0-beta1	automatic	redis.clients	jedis	2026-09-01T09:22:52Z	
+8.0.2	automatic	redis.clients	jedis	2026-10-07T06:46:05Z	
