@@ -17,3 +17,4 @@
 3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/james-server-webadmin/3.8.1/james-server-webadmin-3.8.1.jar returned status 404
 3.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/james-server-webadmin/3.8.2/james-server-webadmin-3.8.2.jar returned status 404
 3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/james-server-webadmin/3.9.0/james-server-webadmin-3.9.0.jar returned status 404
+3.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/james/james-server-webadmin/3.9.1/james-server-webadmin-3.9.1.jar returned status 404

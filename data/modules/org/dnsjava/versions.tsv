@@ -553,6 +553,15 @@
 0.103.1	named	io.simpleishard	trino-file	2026-10-01T03:41:27Z	3.6.1
 0.103.1	named	ai.askamerica	askamerica-engine	2026-10-01T03:42:03Z	3.6.1
 0.103.1	named	io.simpleishard	govdata	2026-10-01T03:42:04Z	3.6.1
+2.77.0	named	org.apache.beam	beam-examples-multi-language	2026-10-01T09:45:46Z	3.6.1
+2.77.0	named	org.apache.beam	beam-runners-flink-1.19-job-server	2026-10-01T10:27:13Z	3.6.1
+2.77.0	named	org.apache.beam	beam-runners-flink-1.20-job-server	2026-10-01T10:29:35Z	3.6.1
+2.77.0	named	org.apache.beam	beam-runners-flink-2.0-job-server	2026-10-01T10:32:22Z	3.6.1
+2.77.0	named	org.apache.beam	beam-runners-flink-2.1-job-server	2026-10-01T10:34:24Z	3.6.1
+2.77.0	named	org.apache.beam	beam-runners-flink-2.2-job-server	2026-10-01T10:36:25Z	3.6.1
+2.77.0	named	org.apache.beam	beam-sdks-java-io-expansion-service	2026-10-01T11:04:49Z	3.6.1
+2.77.0	named	org.apache.beam	beam-sdks-java-extensions-sql-expansion-service	2026-10-01T11:23:41Z	3.6.1
+2.77.0	named	org.apache.beam	beam-sdks-java-extensions-sql-jdbc	2026-10-01T11:27:28Z	3.6.1
 0.104.0	named	ai.askamerica	askamerica-engine	2026-10-01T17:16:58Z	3.6.1
 0.104.0	named	io.simpleishard	govdata	2026-10-01T17:16:59Z	3.6.1
 0.104.0	named	io.simpleishard	trino-file	2026-10-01T17:22:30Z	3.6.1

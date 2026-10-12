@@ -1497,6 +1497,8 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 3.21.0	named	org.apache.commons	commons-lang3	2026-09-25T20:01:06Z	3.21.0
 3.23.0-Java8	named	com.equinor.neqsim	neqsim	2026-09-27T16:31:35Z	3.20.0
 3.23.0	named	com.equinor.neqsim	neqsim	2026-09-27T16:37:15Z	3.20.0
+3.7.0-1.20	named	org.apache.flink	flink-cdc-pipeline-connector-fluss	2026-09-29T02:56:42Z	3.18.0
+3.7.0-2.2	named	org.apache.flink	flink-cdc-pipeline-connector-fluss	2026-09-29T04:18:21Z	3.18.0
 3.0.18.4	named	com.ascentstream.pulsar	buildtools	2026-09-29T09:02:23Z	3.18.0
 8.3.0	named	com.sngular	scs-multiapi-maven-plugin	2026-09-29T13:16:28Z	3.18.0
 8.3.1	named	com.sngular	scs-multiapi-maven-plugin	2026-09-29T14:47:07Z	3.18.0
