@@ -1512,3 +1512,5 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 4.2.5	named	org.apache.pulsar	buildtools	2026-10-01T21:39:54Z	3.19.0
 1.28.0	named	no.entur	interface-protoc-plugin	2026-10-02T10:50:48Z	3.20.0
 1.29.0	named	no.entur	interface-protoc-plugin	2026-10-02T17:56:08Z	3.20.0
+3.26.39	named	com.ubs-hainer	filebridge-jdbc-driver	2026-10-05T08:11:06Z	3.19.0
+3.26.39-XHLP-5033	named	com.ubs-hainer	filebridge-jdbc-driver	2026-10-08T12:26:08Z	3.19.0
