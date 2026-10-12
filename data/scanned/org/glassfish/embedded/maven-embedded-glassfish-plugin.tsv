@@ -4,3 +4,5 @@
 4.1.1		2015-10-06T23:38:26Z	
 5.0		2018-08-31T10:50:09Z	
 5.1		2019-01-16T09:12:35Z	
+7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/embedded/maven-embedded-glassfish-plugin/7.0/maven-embedded-glassfish-plugin-7.0.jar returned status 404
+8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/glassfish/embedded/maven-embedded-glassfish-plugin/8.1/maven-embedded-glassfish-plugin-8.1.jar returned status 404
