@@ -1,3 +1,4 @@
+v2-rev20261001-2.0.0	automatic	com.google.apis	google-api-services-osconfig
 v2-rev20260611-2.0.0	automatic	com.google.apis	google-api-services-osconfig
 v2-rev20260507-2.0.0	automatic	com.google.apis	google-api-services-osconfig
 v2-rev20260423-2.0.0	automatic	com.google.apis	google-api-services-osconfig
@@ -8,6 +9,7 @@ v2-rev20250928-2.0.0	automatic	com.google.apis	google-api-services-osconfig
 v2-rev20250511-2.0.0	automatic	com.google.apis	google-api-services-osconfig
 v2-rev20250323-2.0.0	automatic	com.google.apis	google-api-services-osconfig
 v2-rev20250302-2.0.0	automatic	com.google.apis	google-api-services-osconfig
+v2beta-rev20261001-2.0.0	automatic	com.google.apis	google-api-services-osconfig
 v2beta-rev20260611-2.0.0	automatic	com.google.apis	google-api-services-osconfig
 v2beta-rev20260507-2.0.0	automatic	com.google.apis	google-api-services-osconfig
 v2beta-rev20260423-2.0.0	automatic	com.google.apis	google-api-services-osconfig
