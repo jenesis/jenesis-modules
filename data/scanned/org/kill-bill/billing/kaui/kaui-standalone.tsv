@@ -89,6 +89,7 @@
 4.0.3		2025-12-02T09:55:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/4.0.3/kaui-standalone-4.0.3.jar returned status 404
 4.0.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/4.0.30/kaui-standalone-4.0.30.jar returned status 404
 4.0.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/4.0.31/kaui-standalone-4.0.31.jar returned status 404
+4.0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/4.0.33/kaui-standalone-4.0.33.jar returned status 404
 4.0.4		2025-12-09T08:13:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/4.0.4/kaui-standalone-4.0.4.jar returned status 404
 4.0.5		2025-12-17T08:24:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/4.0.5/kaui-standalone-4.0.5.jar returned status 404
 4.0.6		2025-12-24T04:54:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/4.0.6/kaui-standalone-4.0.6.jar returned status 404
@@ -96,3 +97,4 @@
 4.0.8		2026-02-26T09:53:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/4.0.8/kaui-standalone-4.0.8.jar returned status 404
 4.0.9		2026-03-06T03:40:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/4.0.9/kaui-standalone-4.0.9.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/5.0.0/kaui-standalone-5.0.0.jar returned status 404
+5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kill-bill/billing/kaui/kaui-standalone/5.0.2/kaui-standalone-5.0.2.jar returned status 404
