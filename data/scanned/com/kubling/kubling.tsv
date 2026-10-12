@@ -49,3 +49,5 @@
 26.2-RC4	jdbc	2026-09-18T11:34:39Z	
 26.2-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kubling/kubling/26.2-RC5/kubling-26.2-RC5.jar returned status 404
 26.2-RC5	jdbc	2026-09-19T23:45:59Z	
+26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kubling/kubling/26.3/kubling-26.3.jar returned status 404
+26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kubling/kubling/26.4/kubling-26.4.jar returned status 404

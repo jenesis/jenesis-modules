@@ -941,6 +941,7 @@
 2.77.0	named	org.apache.beam	beam-sdks-java-io-snowflake-expansion-service	2026-10-01T11:34:02Z	2.0.75.Final
 2.9.2	named	org.wso2.msf4j	msf4j-all	2026-10-01T16:14:39Z	2.0.84.Final
 4.143.7	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-03T02:12:24Z	2.0.72.Final
+2.5.0	named	com.scalekit	scalekit-sdk-java	2026-10-05T08:05:58Z	2.0.72.Final
 4.1.14	named	com.instaclustr	esop-azure	2026-10-07T09:41:08Z	2.0.73.Final
 4.1.14	named	com.instaclustr	esop-gcp	2026-10-07T09:41:09Z	2.0.70.Final
 2.9.3	named	org.wso2.msf4j	msf4j-all	2026-10-08T09:07:56Z	2.0.84.Final
