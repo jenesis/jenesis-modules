@@ -23,4 +23,5 @@
 2.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jahir/Kuper/2.5.6/Kuper-2.5.6.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jahir/Kuper/2.6.0/Kuper-2.6.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jahir/Kuper/2.6.1/Kuper-2.6.1.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jahir/Kuper/2.7.0/Kuper-2.7.0.jar returned status 404
 228			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jahir/Kuper/228/Kuper-228.jar returned status 404
