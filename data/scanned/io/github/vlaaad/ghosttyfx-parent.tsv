@@ -39,3 +39,6 @@
 0.1.219		2026-08-15T19:38:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vlaaad/ghosttyfx-parent/0.1.219/ghosttyfx-parent-0.1.219.jar returned status 404
 0.1.221		2026-08-16T19:25:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vlaaad/ghosttyfx-parent/0.1.221/ghosttyfx-parent-0.1.221.jar returned status 404
 0.1.224		2026-08-29T10:07:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vlaaad/ghosttyfx-parent/0.1.224/ghosttyfx-parent-0.1.224.jar returned status 404
+0.1.230			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vlaaad/ghosttyfx-parent/0.1.230/ghosttyfx-parent-0.1.230.jar returned status 404
+0.1.236			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vlaaad/ghosttyfx-parent/0.1.236/ghosttyfx-parent-0.1.236.jar returned status 404
+0.1.237			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vlaaad/ghosttyfx-parent/0.1.237/ghosttyfx-parent-0.1.237.jar returned status 404

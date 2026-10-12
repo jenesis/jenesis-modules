@@ -1577,3 +1577,7 @@
 1.30.3	named	org.verapdf.apps	cli-arlington	2026-10-08T13:11:28Z	
 1.30.3	named	org.verapdf.apps	gui	2026-10-08T13:11:28Z	
 1.30.3	named	org.verapdf.apps	gui-arlington	2026-10-08T13:11:28Z	
+0.5.1-1-flink-1.17	named	io.github.cobble-project	cobble-flink-monitor	2026-10-11T17:02:08Z	
+0.5.1-1-flink-2.0	named	io.github.cobble-project	cobble-flink-monitor	2026-10-11T17:11:49Z	
+0.5.1-1-flink-1.19	named	io.github.cobble-project	cobble-flink-monitor	2026-10-11T17:11:49Z	
+0.5.1-1-flink-2.1	named	io.github.cobble-project	cobble-flink-monitor	2026-10-11T17:12:04Z	
