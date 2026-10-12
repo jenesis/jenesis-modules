@@ -377,6 +377,7 @@
 5.26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/build/community-build/5.26.3/community-build-5.26.3.jar returned status 404
 5.26.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/build/community-build/5.26.30/community-build-5.26.30.jar returned status 404
 5.26.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/build/community-build/5.26.31/community-build-5.26.31.jar returned status 404
+5.26.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/build/community-build/5.26.32/community-build-5.26.32.jar returned status 404
 5.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/build/community-build/5.26.4/community-build-5.26.4.jar returned status 404
 5.26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/build/community-build/5.26.5/community-build-5.26.5.jar returned status 404
 5.26.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/neo4j/build/community-build/5.26.6/community-build-5.26.6.jar returned status 404
