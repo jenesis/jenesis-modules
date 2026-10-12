@@ -5255,6 +5255,8 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	flink-connector-elasticsearch6	2026-10-08T08:56:10Z	2.11.0
 1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	flink-connector-elasticsearch7	2026-10-08T08:56:10Z	2.11.0
 1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-kafka	2026-10-08T09:01:08Z	2.11.0
+0.7.3	named	io.github.scalapb-json	protoc-lint-shaded_2.12	2026-10-08T11:11:16Z	2.8.9
+0.7.3	named	io.github.scalapb-json	protoc-lint-shaded_3	2026-10-08T11:11:16Z	2.8.9
 26.10.20.1	named	com.veracode.vosp.api.wrappers	vosp-api-wrappers-java	2026-10-09T12:55:55Z	2.9.1
 12.1.0.87730	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-10-09T14:01:25Z	2.14.0
 12.1.0.87730	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-10-09T14:01:25Z	2.14.0

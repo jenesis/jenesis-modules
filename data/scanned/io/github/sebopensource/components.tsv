@@ -51,3 +51,6 @@
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebopensource/components/1.5.0/components-1.5.0.jar returned status 404
 1.5.1		2026-08-11T12:06:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebopensource/components/1.5.1/components-1.5.1.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebopensource/components/1.6.0/components-1.6.0.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebopensource/components/1.7.0/components-1.7.0.jar returned status 404
+1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebopensource/components/1.8.0/components-1.8.0.jar returned status 404
+1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sebopensource/components/1.9.0/components-1.9.0.jar returned status 404
