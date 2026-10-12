@@ -4534,3 +4534,6 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 8.2.1.Final	named	org.wildfly.galleon-plugins	wildfly-galleon-plugins	2026-10-07T10:36:07Z	2.21.7
 2.3	named	us.abstracta.jmeter	jmeter-java-dsl-elasticsearch-listener	2026-10-07T16:30:43Z	2.13.0-rc1
 2.3	named	us.abstracta.jmeter	jmeter-java-dsl-cli	2026-10-07T16:30:44Z	2.13.0-rc1
+2	named	io.github.prabhnoor12	sentinel-agent	2026-10-09T11:16:05Z	2.18.3
+2	named	io.github.prabhnoor12	sentinel-cli	2026-10-09T11:16:05Z	2.18.3
+0.6.0	named	io.github.tomas-samek	tiko-kafka	2026-10-11T05:31:11Z	2.22.3
