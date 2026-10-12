@@ -11,3 +11,4 @@
 7.30.0		2026-08-15T18:51:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-positioning-wasm-js/7.30.0/ksensor-sensors-positioning-wasm-js-7.30.0.jar returned status 404
 7.51.0		2026-08-28T18:58:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-positioning-wasm-js/7.51.0/ksensor-sensors-positioning-wasm-js-7.51.0.jar returned status 404
 8.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-positioning-wasm-js/8.0.2/ksensor-sensors-positioning-wasm-js-8.0.2.jar returned status 404
+8.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensors-positioning-wasm-js/8.50.0/ksensor-sensors-positioning-wasm-js-8.50.0.jar returned status 404

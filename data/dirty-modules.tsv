@@ -2801,3 +2801,10 @@ io.github.auspis.fluentsql4j.plugin.postgresql
 io.github.auspis.fluentsql4j.core
 io.github.auspis.fluentsql4j.spi
 io.github.auspis.fluentsql4j.plugin.mysql
+graphql.java.tools
+io.github.classgraph
+io.github.lembergmax.justmath
+io.github.kkollsga.kglite
+io.github.dlbbld.ashlarchess
+io.github.zeytx.bankmasker
+io.github.zeytx.bankmasker.spring
