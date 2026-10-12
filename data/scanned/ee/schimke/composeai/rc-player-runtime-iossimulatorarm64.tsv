@@ -146,3 +146,6 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-runtime-iossimulatorarm64/2.1.0/rc-player-runtime-iossimulatorarm64-2.1.0.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-runtime-iossimulatorarm64/2.1.1/rc-player-runtime-iossimulatorarm64-2.1.1.jar returned status 404
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-runtime-iossimulatorarm64/2.1.2/rc-player-runtime-iossimulatorarm64-2.1.2.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-runtime-iossimulatorarm64/2.2.1/rc-player-runtime-iossimulatorarm64-2.2.1.jar returned status 404
+2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-runtime-iossimulatorarm64/2.5.0/rc-player-runtime-iossimulatorarm64-2.5.0.jar returned status 404
+2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-runtime-iossimulatorarm64/2.7.1/rc-player-runtime-iossimulatorarm64-2.7.1.jar returned status 404

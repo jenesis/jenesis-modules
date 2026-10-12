@@ -41,3 +41,5 @@
 5.8.1	release-sources	2024-10-25T10:56:45Z	
 5.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/co/mightymedia/adsyn2/5.8.2/adsyn2-5.8.2.jar returned status 404
 5.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/co/mightymedia/adsyn2/5.8.3/adsyn2-5.8.3.jar returned status 404
+5.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/co/mightymedia/adsyn2/5.8.4/adsyn2-5.8.4.jar returned status 404
+5.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/co/mightymedia/adsyn2/5.8.5/adsyn2-5.8.5.jar returned status 404

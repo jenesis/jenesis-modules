@@ -1233,3 +1233,11 @@ org.firebirdsql.jna
 org.firebirdsql.jaybird.chacha64
 roaringbitmap
 org.bpmnflow.core
+build.jenesis.launcher
+build.jenesis
+church.i18n.response
+church.i18n.response.model.jackson
+church.i18n.processing.exception
+church.i18n.resources.bundles
+church.i18n.response.spring.webmvc
+church.i18n.response.spring
