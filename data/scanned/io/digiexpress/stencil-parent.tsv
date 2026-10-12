@@ -86,7 +86,11 @@
 5.3.14		2026-06-30T07:37:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.14/stencil-parent-5.3.14.jar returned status 404
 5.3.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.15/stencil-parent-5.3.15.jar returned status 404
 5.3.16		2026-09-21T15:48:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.16/stencil-parent-5.3.16.jar returned status 404
+5.3.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.17/stencil-parent-5.3.17.jar returned status 404
+5.3.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.18/stencil-parent-5.3.18.jar returned status 404
+5.3.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.19/stencil-parent-5.3.19.jar returned status 404
 5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.2/stencil-parent-5.3.2.jar returned status 404
+5.3.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.20/stencil-parent-5.3.20.jar returned status 404
 5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.3/stencil-parent-5.3.3.jar returned status 404
 5.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.4/stencil-parent-5.3.4.jar returned status 404
 5.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/stencil-parent/5.3.5/stencil-parent-5.3.5.jar returned status 404
