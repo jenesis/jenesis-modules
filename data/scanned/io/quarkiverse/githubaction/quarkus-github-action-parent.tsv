@@ -17,6 +17,7 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/githubaction/quarkus-github-action-parent/2.1.0/quarkus-github-action-parent-2.1.0.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/githubaction/quarkus-github-action-parent/2.1.1/quarkus-github-action-parent-2.1.1.jar returned status 404
 2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/githubaction/quarkus-github-action-parent/2.10.0/quarkus-github-action-parent-2.10.0.jar returned status 404
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/githubaction/quarkus-github-action-parent/2.11.0/quarkus-github-action-parent-2.11.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/githubaction/quarkus-github-action-parent/2.2.0/quarkus-github-action-parent-2.2.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/githubaction/quarkus-github-action-parent/2.3.0/quarkus-github-action-parent-2.3.0.jar returned status 404
 2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/githubaction/quarkus-github-action-parent/2.3.1/quarkus-github-action-parent-2.3.1.jar returned status 404

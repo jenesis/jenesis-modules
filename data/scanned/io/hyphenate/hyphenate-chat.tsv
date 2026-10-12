@@ -66,6 +66,7 @@
 4.10.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.10.3.4/hyphenate-chat-4.10.3.4.jar returned status 404
 4.10.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.10.3.5/hyphenate-chat-4.10.3.5.jar returned status 404
 4.10.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.10.3.6/hyphenate-chat-4.10.3.6.jar returned status 404
+4.10.3.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.10.3.8/hyphenate-chat-4.10.3.8.jar returned status 404
 4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.11.0/hyphenate-chat-4.11.0.jar returned status 404
 4.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.12.0/hyphenate-chat-4.12.0.jar returned status 404
 4.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.13.0/hyphenate-chat-4.13.0.jar returned status 404
@@ -121,6 +122,7 @@
 4.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.5.1/hyphenate-chat-4.5.1.jar returned status 404
 4.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.5.2/hyphenate-chat-4.5.2.jar returned status 404
 4.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.5.3/hyphenate-chat-4.5.3.jar returned status 404
+4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.5.4/hyphenate-chat-4.5.4.jar returned status 404
 4.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.6.0/hyphenate-chat-4.6.0.jar returned status 404
 4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.6.1/hyphenate-chat-4.6.1.jar returned status 404
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/hyphenate/hyphenate-chat/4.7.0/hyphenate-chat-4.7.0.jar returned status 404

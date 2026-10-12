@@ -108,6 +108,7 @@
 3.33.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.33.12/quarkus-cxf-rt-ws-rm-parent-3.33.12.jar returned status 404
 3.33.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.33.13/quarkus-cxf-rt-ws-rm-parent-3.33.13.jar returned status 404
 3.33.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.33.14/quarkus-cxf-rt-ws-rm-parent-3.33.14.jar returned status 404
+3.33.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.33.15/quarkus-cxf-rt-ws-rm-parent-3.33.15.jar returned status 404
 3.33.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.33.2/quarkus-cxf-rt-ws-rm-parent-3.33.2.jar returned status 404
 3.33.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.33.3/quarkus-cxf-rt-ws-rm-parent-3.33.3.jar returned status 404
 3.33.4		2026-06-08T11:11:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.33.4/quarkus-cxf-rt-ws-rm-parent-3.33.4.jar returned status 404
@@ -129,6 +130,7 @@
 3.40.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.40.0.CR1/quarkus-cxf-rt-ws-rm-parent-3.40.0.CR1.jar returned status 404
 3.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.40.1/quarkus-cxf-rt-ws-rm-parent-3.40.1.jar returned status 404
 3.40.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.40.2/quarkus-cxf-rt-ws-rm-parent-3.40.2.jar returned status 404
+3.40.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.40.3/quarkus-cxf-rt-ws-rm-parent-3.40.3.jar returned status 404
 3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.8.0/quarkus-cxf-rt-ws-rm-parent-3.8.0.jar returned status 404
 3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.8.1/quarkus-cxf-rt-ws-rm-parent-3.8.1.jar returned status 404
 3.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.8.2/quarkus-cxf-rt-ws-rm-parent-3.8.2.jar returned status 404
@@ -138,3 +140,4 @@
 3.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.8.6/quarkus-cxf-rt-ws-rm-parent-3.8.6.jar returned status 404
 3.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.8.7/quarkus-cxf-rt-ws-rm-parent-3.8.7.jar returned status 404
 3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/3.9.0/quarkus-cxf-rt-ws-rm-parent-3.9.0.jar returned status 404
+4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/cxf/quarkus-cxf-rt-ws-rm-parent/4.0.0.Beta1/quarkus-cxf-rt-ws-rm-parent-4.0.0.Beta1.jar returned status 404
