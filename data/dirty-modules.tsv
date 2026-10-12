@@ -3005,3 +3005,4 @@ io.vertx.redis.client
 io.vertx.codegen.json
 io.vertx.serviceresolver
 io.vertx.config.consul
+io.nats.jnats
