@@ -4529,3 +4529,6 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 3.7.0-2.2	named	org.apache.flink	flink-cdc-pipeline-connector-hudi	2026-09-29T04:20:59Z	2.13.2
 8.2.0.Beta6	named	org.wildfly.galleon-plugins	wildfly-galleon-plugins	2026-10-01T10:30:39Z	2.21.6
 8.2.0.Beta5	named	org.wildfly.galleon-plugins	wildfly-galleon-plugins	2026-10-01T10:30:39Z	2.21.6
+8.2.0.Final	named	org.wildfly.galleon-plugins	wildfly-galleon-plugins	2026-10-05T10:31:43Z	2.21.6
+7.0.11.Final	named	org.jboss.galleon	galleon-cli	2026-10-06T09:26:05Z	2.21.6
+8.2.1.Final	named	org.wildfly.galleon-plugins	wildfly-galleon-plugins	2026-10-07T10:36:07Z	2.21.7
