@@ -18,3 +18,11 @@
 1.0.0.58-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.0.0.58-RC/quartz-extension-1.0.0.58-RC.jar returned status 404
 1.0.0.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.0.0.59/quartz-extension-1.0.0.59.jar returned status 404
 1.0.0.59-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.0.0.59-RC/quartz-extension-1.0.0.59-RC.jar returned status 404
+1.0.0.60-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.0.0.60-RC/quartz-extension-1.0.0.60-RC.jar returned status 404
+1.0.0.61-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.0.0.61-RC/quartz-extension-1.0.0.61-RC.jar returned status 404
+1.0.0.62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.0.0.62/quartz-extension-1.0.0.62.jar returned status 404
+1.0.0.62-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.0.0.62-RC/quartz-extension-1.0.0.62-RC.jar returned status 404
+1.0.0.63-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.0.0.63-RC/quartz-extension-1.0.0.63-RC.jar returned status 404
+1.1.0.0-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.1.0.0-BETA/quartz-extension-1.1.0.0-BETA.jar returned status 404
+1.1.0.1-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.1.0.1-BETA/quartz-extension-1.1.0.1-BETA.jar returned status 404
+1.1.0.2-BETA			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/quartz-extension/1.1.0.2-BETA/quartz-extension-1.1.0.2-BETA.jar returned status 404

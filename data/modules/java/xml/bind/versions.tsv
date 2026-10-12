@@ -1548,3 +1548,7 @@
 2.9.2	named	org.wso2.msf4j.samples	fatjar-interceptor-service	2026-10-01T16:21:31Z	
 2.9.2	named	org.wso2.msf4j	websocket-chatApp-sample	2026-10-01T16:22:18Z	
 2.9.2	named	org.wso2.msf4j.perftest.echo	wso2msf4j-echo-message	2026-10-01T16:22:29Z	
+1.30.3	named	org.verapdf.apps	cli	2026-10-08T13:11:28Z	
+1.30.3	named	org.verapdf.apps	cli-arlington	2026-10-08T13:11:28Z	
+1.30.3	named	org.verapdf.apps	gui	2026-10-08T13:11:28Z	
+1.30.3	named	org.verapdf.apps	gui-arlington	2026-10-08T13:11:28Z	

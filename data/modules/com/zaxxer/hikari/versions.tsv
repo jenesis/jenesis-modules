@@ -881,3 +881,11 @@ flink_1.19-1.0	named	com.oceanbase	flink-omt	2025-04-28T08:05:25Z	4.0.3
 1.2.1	named	org.apache.hudi	hudi-metaserver-server-bundle	2026-09-24T09:02:30Z	4.0.3
 1.0.3	named	io.github.yuku123	z-mist-sdk	2026-09-28T09:42:47Z	4.0.3
 1.0.4	named	io.github.yuku123	z-mist-sdk	2026-09-29T00:23:18Z	4.0.3
+3.7.0-1.20	named	org.apache.flink	flink-sql-connector-db2-cdc	2026-09-29T02:38:27Z	4.0.3
+3.7.0-1.20	named	org.apache.flink	flink-sql-connector-postgres-cdc	2026-09-29T02:42:03Z	4.0.3
+3.7.0-1.20	named	org.apache.flink	flink-cdc-pipeline-connector-postgres	2026-09-29T02:47:23Z	4.0.3
+3.7.0-1.20	named	org.apache.flink	flink-cdc-pipeline-connector-oracle	2026-09-29T02:53:59Z	4.0.3
+3.7.0-2.2	named	org.apache.flink	flink-sql-connector-db2-cdc	2026-09-29T03:57:55Z	4.0.3
+3.7.0-2.2	named	org.apache.flink	flink-sql-connector-postgres-cdc	2026-09-29T04:01:47Z	4.0.3
+3.7.0-2.2	named	org.apache.flink	flink-cdc-pipeline-connector-postgres	2026-09-29T04:07:17Z	4.0.3
+3.7.0-2.2	named	org.apache.flink	flink-cdc-pipeline-connector-oracle	2026-09-29T04:15:16Z	4.0.3
