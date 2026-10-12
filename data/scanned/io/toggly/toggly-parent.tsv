@@ -5,3 +5,6 @@
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toggly/toggly-parent/1.7.0/toggly-parent-1.7.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toggly/toggly-parent/2.0.0/toggly-parent-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toggly/toggly-parent/2.1.0/toggly-parent-2.1.0.jar returned status 404
+2.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toggly/toggly-parent/2.1.5/toggly-parent-2.1.5.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toggly/toggly-parent/2.2.0/toggly-parent-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/toggly/toggly-parent/2.2.1/toggly-parent-2.2.1.jar returned status 404

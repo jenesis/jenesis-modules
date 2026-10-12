@@ -187,5 +187,7 @@
 1.83.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/protoc-gen-grpc-java/1.83.0/protoc-gen-grpc-java-1.83.0.jar returned status 404
 1.83.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/protoc-gen-grpc-java/1.83.1/protoc-gen-grpc-java-1.83.1.jar returned status 404
 1.84.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/protoc-gen-grpc-java/1.84.0/protoc-gen-grpc-java-1.84.0.jar returned status 404
+1.84.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/protoc-gen-grpc-java/1.84.1/protoc-gen-grpc-java-1.84.1.jar returned status 404
+1.84.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/protoc-gen-grpc-java/1.84.2/protoc-gen-grpc-java-1.84.2.jar returned status 404
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/protoc-gen-grpc-java/1.9.0/protoc-gen-grpc-java-1.9.0.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/grpc/protoc-gen-grpc-java/1.9.1/protoc-gen-grpc-java-1.9.1.jar returned status 404
