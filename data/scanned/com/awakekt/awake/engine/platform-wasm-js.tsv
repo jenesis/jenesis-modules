@@ -1,3 +1,4 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0/platform-wasm-js-0.1.0.jar returned status 404
 0.1.0-alpha.1		2026-09-12T11:21:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-alpha.1/platform-wasm-js-0.1.0-alpha.1.jar returned status 404
 0.1.0-alpha.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-alpha.10/platform-wasm-js-0.1.0-alpha.10.jar returned status 404
 0.1.0-alpha.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-alpha.11/platform-wasm-js-0.1.0-alpha.11.jar returned status 404
@@ -18,8 +19,18 @@
 0.1.0-rc.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-rc.11/platform-wasm-js-0.1.0-rc.11.jar returned status 404
 0.1.0-rc.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-rc.12/platform-wasm-js-0.1.0-rc.12.jar returned status 404
 0.1.0-rc.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-rc.13/platform-wasm-js-0.1.0-rc.13.jar returned status 404
+0.1.0-rc.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-rc.14/platform-wasm-js-0.1.0-rc.14.jar returned status 404
 0.1.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-rc.2/platform-wasm-js-0.1.0-rc.2.jar returned status 404
 0.1.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-rc.3/platform-wasm-js-0.1.0-rc.3.jar returned status 404
 0.1.0-rc.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-rc.6/platform-wasm-js-0.1.0-rc.6.jar returned status 404
 0.1.0-rc.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-rc.8/platform-wasm-js-0.1.0-rc.8.jar returned status 404
 0.1.0-rc.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.1.0-rc.9/platform-wasm-js-0.1.0-rc.9.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.2.0/platform-wasm-js-0.2.0.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.4.0/platform-wasm-js-0.4.0.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.5.0/platform-wasm-js-0.5.0.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.6.0/platform-wasm-js-0.6.0.jar returned status 404
+0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.7.1/platform-wasm-js-0.7.1.jar returned status 404
+0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.8.2/platform-wasm-js-0.8.2.jar returned status 404
+0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.8.3/platform-wasm-js-0.8.3.jar returned status 404
+0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.8.4/platform-wasm-js-0.8.4.jar returned status 404
+0.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-wasm-js/0.8.5/platform-wasm-js-0.8.5.jar returned status 404
