@@ -19,6 +19,7 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/lambda/powertools-idempotency/2.1.0/powertools-idempotency-2.1.0.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/lambda/powertools-idempotency/2.1.1/powertools-idempotency-2.1.1.jar returned status 404
 2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/lambda/powertools-idempotency/2.10.0/powertools-idempotency-2.10.0.jar returned status 404
+2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/lambda/powertools-idempotency/2.11.0/powertools-idempotency-2.11.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/lambda/powertools-idempotency/2.2.0/powertools-idempotency-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/lambda/powertools-idempotency/2.2.1/powertools-idempotency-2.2.1.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/lambda/powertools-idempotency/2.3.0/powertools-idempotency-2.3.0.jar returned status 404

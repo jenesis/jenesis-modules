@@ -1058,3 +1058,4 @@
 2.18.11	named	com.fasterxml.jackson.dataformat	jackson-dataformat-cbor	2026-09-21T00:51:08Z	2.18.11
 2.21.7	named	com.fasterxml.jackson.dataformat	jackson-dataformat-cbor	2026-09-21T17:56:27Z	2.21.7
 2.22.3	named	com.fasterxml.jackson.dataformat	jackson-dataformat-cbor	2026-09-21T21:31:17Z	2.22.3
+2.0.1	named	software.amazon.glue	schema-registry-serde-msk-iam	2026-10-07T22:03:55Z	2.22.3

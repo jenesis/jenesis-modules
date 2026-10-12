@@ -1633,3 +1633,7 @@
 2.55.9	automatic	software.amazon.awssdk	dynamodb-enhanced	2026-09-30T21:09:46Z	
 2.55.10	automatic	software.amazon.awssdk	dynamodb-enhanced	2026-10-01T20:45:36Z	
 2.55.11	automatic	software.amazon.awssdk	dynamodb-enhanced	2026-10-02T20:56:37Z	
+2.11.0	automatic	software.amazon.lambda	powertools-idempotency-dynamodb	2026-10-06T15:21:19Z	
+2.55.12	automatic	software.amazon.awssdk	dynamodb-enhanced	2026-10-07T00:54:31Z	
+2.55.13	automatic	software.amazon.awssdk	dynamodb-enhanced	2026-10-08T20:44:15Z	
+2.55.14	automatic	software.amazon.awssdk	dynamodb-enhanced	2026-10-09T20:34:14Z	
