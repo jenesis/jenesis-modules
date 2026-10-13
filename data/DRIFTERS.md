@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-12. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-13. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -824,7 +824,7 @@ org.graalvm.truffle  [fork: keep `org.graalvm.truffle`, `ai.ravenroot` still pub
 org.openapitools.jackson.nullable  [fork: keep `org.openapitools`, `io.airlift` still publishes the name]
   A * org.openapitools                     2023-02..2026-09 0.2.12               |............========|
   R   io.airlift                           2026-04..2026-10 451                  |..................==|
-  ?   io.github.giis-uniovi                2026-07..2026-07 2.2.1                |...................=|
+  ?   io.github.giis-uniovi                2026-07..2026-07 2.2.1                |..................=.|
 io.netty.codec.http  [fork: keep `io.netty`, `com.amazonaws` still publishes the name]
   A * io.netty                             2017-12..2026-10 4.1.139.Final        |..==================|
   R   com.amazonaws                        2026-02..2026-10 2026.40.1            |..................==|
@@ -1058,7 +1058,7 @@ org.bouncycastle.pkix  [fork: keep `org.bouncycastle`, `com.github.toolarium` st
   R   com.exasol                           2024-03..2026-09 26.2.9               |..............======|
   R   org.apache.inlong                    2025-11..2026-08 2.4.0                |.................===|
   R   com.alibaba.ververica                2022-10..2026-07 1.20-vvr-11.8.0-1-jdk11 |...........=========|
-  ?   com.datarobot                        2026-07..2026-07 11.2.42              |..................==|
+  ?   com.datarobot                        2026-07..2026-07 11.2.42              |..................=.|
     + 58 more: com.github.melin, de.tk.opensource, org.apache.pinot, io.streamnative.connectors, org.hyperledger.fabric, org.finos.legend.engine, io.kestra.plugin, org.jetbrains, org.lucee, com.nhn.gameanvil, io.sermant, com.linecorp.armeria, (+46 more)
 org.apache.commons.text  [fork: keep `org.apache.commons`, `io.github.liquid-java` still publishes the name]
   A * org.apache.commons                   2018-03..2025-12 1.15.0               |..================..|
@@ -1714,7 +1714,7 @@ io.github.classgraph  [owned by `io.github.classgraph`; 73 other group(s) shade 
   ?   eu.europa.ted.eforms                 2026-09..2026-09 0.13.0               |...................=|
   R   software.amazon.glue                 2021-06..2026-09 2.0.0                |.........===========|
   R   org.dominokit                        2024-01..2026-07 1.0.3                |..............======|
-  R   com.datarobot                        2022-02..2026-07 11.2.42              |..........==========|
+  R   com.datarobot                        2022-02..2026-07 11.2.42              |..........=========.|
     + 78 more: dev.sixpack, tech.neander, org.finos.legend.sdlc, org.paramixel, org.javastro.vodsl, dev.getelements.elements.crossfire, com.netgrif, org.plumelib, com.google.tsunami, org.finos.legend.depot, io.github.api-ghost-agent, org.geneweaver, (+66 more)
 com.ethlo.time  [owned by `com.ethlo.time`; 1 other group(s) shade the name]
   ? * com.ethlo.time                       2023-06..2026-10 1.17.0               |.............=======|
@@ -1939,7 +1939,7 @@ org.neo4j.bolt.connection.routed  [owned by `org.neo4j.bolt`; 0 other group(s) s
 dev.tamboui.toolkit  [owned by `dev.tamboui`; 2 other group(s) shade the name]
   ? * dev.tamboui                          2026-02..2026-09 0.5.0                |..................==|
   ?   com.steeplesoft                      2026-08..2026-08 1.0.0                |...................=|
-  ?   dev.jbang                            2026-07..2026-07 0.141.0              |...................=|
+  ?   dev.jbang                            2026-07..2026-07 0.141.0              |..................==|
 io.vavr.test  [owned by `io.vavr`; 1 other group(s) shade the name]
   ? * io.vavr                              2017-11..2026-09 1.0.0                |..==================|
   ?   com.guizmaii                         2026-09..2026-09 1.0.1                |...................=|
@@ -2201,7 +2201,7 @@ r2dbc.postgresql  [owned by `io.r2dbc` (groupId minus TLD is the module prefix);
   A * io.r2dbc                             2019-11..2022-09 0.8.13.RELEASE       |......======........|
   R   org.postgresql                       2021-02..2026-09 1.1.3.RELEASE        |........============|
   ?   com.aliyun                           2026-08..2026-08 1.2.1                |...................=|
-  R   com.yugabyte                         2023-12..2026-04 1.1.0-yb-2           |..............=====.|
+  R   com.yugabyte                         2023-12..2026-04 1.1.0-yb-2           |.............======.|
 osgi.core  [owned by `org.osgi` (groupId minus TLD is the module prefix); 2 other group(s) shade the name]
   ? * org.osgi                             2020-12..2020-12 8.0.0                |........=...........|
   A   org.apache.karaf                     2022-04..2025-01 4.4.7                |..........=======...|
@@ -2330,7 +2330,7 @@ tucache.spring.boot.starter  [owned by `co.tunan.tucache` (groupId minus two seg
   ? * co.tunan.tucache                     2024-02..2024-02 1.0.4.RELEASE        |..............=.....|
   ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |...............====.|
 glide.api  [owned by `software.amazon.glide` (groupId minus two segments is the module prefix); 2 other group(s) shade the name]
-  ? * software.amazon.glide                2024-06..2024-06 0.4.3                |...............=....|
+  ? * software.amazon.glide                2024-06..2024-06 0.4.3                |..............==....|
   ?   io.valkey                            2024-07..2025-10 2.1.1                |...............===..|
   ?   io.github.gumpacg                    2024-08..2024-08 0.1.0                |...............=....|
 afterburner.fx  [owned by `com.dlsc.afterburner` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
@@ -2909,7 +2909,7 @@ lombok  [no clear owner; `org.projectlombok` is earliest and most recent]
   ?   net.polyv                            2020-09..2026-09 2.2.10               |.......=============|
   ?   io.github.valuya                     2026-07..2026-07 1.18.46.4            |...................=|
   ?   io.inji.certify.sunbirdrc            2026-03..2026-07 1.0.0-alpha.1        |..................==|
-  ?   net.dryuf                            2022-03..2026-07 1.2.0                |..........==========|
+  ?   net.dryuf                            2022-03..2026-07 1.2.0                |..........=========.|
     + 98 more: com.scanoss, io.mosip.esignet.plugin.sunbirdrc, org.eclipse.hawkbit, com.huaweicloud.dws, net.wirelabs, cn.fyupeng, io.github.alllexey123, io.mosip.esignet.sunbirdrc, io.mosip.certify.sunbirdrc, io.github.opentelekomcloud, io.github.version-pulse, org.qubership.automation, (+86 more)
 io.github.bucket4j.infinispan  [no clear owner; `com.github.vladimir-bukhtoyarov` is earliest and most recent]
   ? * com.github.vladimir-bukhtoyarov      2019-11..2024-04 8.0.1                |......=========.....|
