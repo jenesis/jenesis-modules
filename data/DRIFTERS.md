@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-13. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-14. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -662,7 +662,7 @@ ch.qos.logback.classic  [fork: keep `ch.qos.logback`, `com.daml` still publishes
     + 92 more: org.apache.iotdb, org.chenile, com.salesforce.cantor, org.apache.zookeeper, org.eclipse.kapua, net.anotheria, org.jboss.pnc.maven-manipulator, com.limemojito.oss.aws, top.yqingyu, org.alfasoftware, org.apache.sling, org.eclipse.ecsp, (+80 more)
 com.fasterxml.jackson.core  [fork: keep `com.fasterxml.jackson.core`, `io.deephaven` still publishes the name]
   A * com.fasterxml.jackson.core           2017-09..2026-09 2.22.3               |.===================|
-  R   io.deephaven                         2026-01..2026-10 41.11                |..................==|
+  R   io.deephaven                         2026-01..2026-10 41.11                |.................===|
   R   io.orqueio.spin                      2025-10..2026-10 2.0.7                |.................===|
   R   io.delta                             2024-05..2026-10 4.4.1                |..............======|
   R   org.finos.fluxnova.spin              2025-11..2026-10 2.0.5                |.................===|
@@ -771,7 +771,7 @@ org.opentest4j  [fork: keep `org.opentest4j`, `org.jetbrains.kotlin` still publi
   R   org.ndviet                           2026-04..2026-04 4.42.0               |..................=.|
     + 9 more: com.adobe.cq, io.pravega, org.caseine, io.github.origin-energy, com.hurence.logisland, io.github.thxno, io.github.osvalda, net.corda, com.github.tandronicus
 org.jctools.core  [fork: keep `org.jctools`, `io.monix` still publishes the name]
-  A * org.jctools                          2020-11..2026-08 4.0.7                |........============|
+  A * org.jctools                          2020-11..2026-08 4.0.7                |.......=============|
   ?   io.monix                             2026-08..2026-10 3.5.2                |...................=|
   R   net.kieker-monitoring                2024-09..2026-04 2.0.3                |...............====.|
   R   io.xdag                              2025-10..2025-12 0.1.6                |.................=..|
@@ -1079,7 +1079,7 @@ jakarta.ws.rs  [fork: keep `jakarta.ws.rs`, `nl.mirila.cli` still publishes the 
   ?   com.exasol                           2026-06..2026-09 5.7.5                |..................==|
   R   com.bluecirclesoft.open              2025-09..2026-08 1.11                 |.................===|
   R   org.jboss.narayana.lra               2024-12..2026-08 2.0.0.Final          |...............=====|
-  R   io.github.tblsoft.solr               2025-07..2026-06 4.7                  |.................==.|
+  R   io.github.tblsoft.solr               2025-07..2026-06 4.7                  |................===.|
     + 14 more: com.inteligr8.activiti, com.affinidi.tdk, me.chrissw-r1, com.biit-solutions, com.github.xeroapi, com.liferay, no.telenor.sdk, org.opengis.cite, com.documents4j, com.github.estuaryoss, com.jcabi, com.datadoghq, (+2 more)
 com.nimbusds.jose.jwt  [fork: keep `com.nimbusds`, `com.vaadin` still publishes the name]
   A * com.nimbusds                         2020-08..2026-09 10.10                |.......=============|
