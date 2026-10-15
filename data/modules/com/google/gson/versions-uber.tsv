@@ -75,3 +75,12 @@
 4.0.1	named	network.lightsail	stellar-sdk	2026-07-16T09:25:04Z	2.14.0
 1.20-vvr-11.8.0-1-jdk11	named	com.alibaba.ververica	ververica-connector-sls	2026-07-29T12:02:03Z	2.11.0
 5.0.0	named	network.lightsail	stellar-sdk	2026-09-01T09:29:47Z	2.14.0
+1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-continuous-odps	2026-10-08T08:16:22Z	2.11.0
+1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-odps	2026-10-08T08:16:23Z	2.11.0
+1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-datahub	2026-10-08T08:31:37Z	2.11.0
+1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-hologres	2026-10-08T08:31:37Z	2.11.0
+1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-mq	2026-10-08T08:31:37Z	2.11.0
+1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-mq5	2026-10-08T08:31:37Z	2.11.0
+1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-sls	2026-10-08T08:31:37Z	2.11.0
+1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-elasticsearch	2026-10-08T08:45:55Z	2.11.0
+1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-kafka	2026-10-08T09:01:08Z	2.11.0
