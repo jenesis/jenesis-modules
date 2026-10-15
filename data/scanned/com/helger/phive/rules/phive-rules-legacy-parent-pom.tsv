@@ -1,0 +1,2 @@
+4.6.0		2026-09-23T10:56:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/phive/rules/phive-rules-legacy-parent-pom/4.6.0/phive-rules-legacy-parent-pom-4.6.0.jar returned status 404
+4.6.1		2026-09-25T15:00:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/phive/rules/phive-rules-legacy-parent-pom/4.6.1/phive-rules-legacy-parent-pom-4.6.1.jar returned status 404
