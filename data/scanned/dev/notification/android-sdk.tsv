@@ -1,0 +1,2 @@
+0.1.0		2026-10-08T15:29:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/notification/android-sdk/0.1.0/android-sdk-0.1.0.jar returned status 404
+0.2.0		2026-10-09T11:51:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/notification/android-sdk/0.2.0/android-sdk-0.2.0.jar returned status 404
