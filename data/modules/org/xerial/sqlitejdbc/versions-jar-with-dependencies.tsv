@@ -174,3 +174,6 @@
 7.0.260	named	com.codenameone	codenameone-javase	2026-07-17T05:39:04Z	3.46.1.0
 7.0.260	named	com.codenameone	codenameone-javase-svg	2026-07-17T05:39:04Z	3.46.1.0
 5.0	named	int.esa.nmf.sdk	consumer-test-tool	2026-07-21T20:09:23Z	3.49.1.0
+5.1	named	int.esa.nmf	constellation-management-tool	2026-09-25T21:41:42Z	3.49.1.0
+5.1	named	int.esa.nmf.sdk	consumer-test-tool	2026-09-25T21:41:42Z	3.49.1.0
+5.1	named	int.esa.nmf	swarms-proxy	2026-09-25T21:41:43Z	3.49.1.0

@@ -5244,6 +5244,7 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.47.2	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-10-04T14:17:09Z	2.11.0
 2.0.2	named	com.conaxgames	clibraries	2026-10-04T14:25:58Z	2.14.0
 0.48.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-10-05T06:46:26Z	2.11.0
+2.14.0	named	hu.icellmobilsoft.coffee	coffee-grpc-protoc	2026-10-05T08:36:02Z	2.10
 0.48.1	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-10-05T15:09:55Z	2.11.0
 26.10.20.0	named	com.veracode.vosp.api.wrappers	vosp-api-wrappers-java	2026-10-07T12:27:16Z	2.9.1
 1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-continuous-odps	2026-10-08T08:16:23Z	2.11.0

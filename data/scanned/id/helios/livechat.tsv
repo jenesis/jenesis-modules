@@ -10,3 +10,4 @@
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/helios/livechat/1.1.0/livechat-1.1.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/helios/livechat/1.2.0/livechat-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/helios/livechat/1.2.1/livechat-1.2.1.jar returned status 404
+1.3.0		2026-10-07T06:21:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/id/helios/livechat/1.3.0/livechat-1.3.0.jar returned status 404

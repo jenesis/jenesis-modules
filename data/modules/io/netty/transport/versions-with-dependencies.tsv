@@ -5,3 +5,6 @@
 8.7.27	named	io.camunda.connector	connector-rabbitmq	2026-09-18T15:21:46Z	4.2.18.Final
 8.7.27	named	io.camunda.connector	connector-runtime-bundle-saas	2026-09-18T15:21:53Z	4.2.18.Final
 8.6.30	named	io.camunda.connector	connector-rabbitmq	2026-09-18T15:21:54Z	4.2.18.Final
+8.7.28	named	io.camunda.connector	connector-rabbitmq	2026-09-28T14:22:29Z	4.2.18.Final
+8.6.31	named	io.camunda.connector	connector-rabbitmq	2026-09-28T14:22:29Z	4.2.18.Final
+8.7.28	named	io.camunda.connector	connector-runtime-bundle-saas	2026-09-28T14:22:29Z	4.2.18.Final
