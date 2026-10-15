@@ -1,0 +1,2 @@
+0.3.0		2026-10-06T04:32:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/atlasauth/atlas-android/0.3.0/atlas-android-0.3.0.jar returned status 404
+0.4.0		2026-10-06T15:23:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/atlasauth/atlas-android/0.4.0/atlas-android-0.4.0.jar returned status 404

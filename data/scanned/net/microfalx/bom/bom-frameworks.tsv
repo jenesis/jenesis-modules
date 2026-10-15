@@ -11,3 +11,4 @@
 1.0.21		2026-06-27T15:10:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bom/bom-frameworks/1.0.21/bom-frameworks-1.0.21.jar returned status 404
 1.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bom/bom-frameworks/1.0.22/bom-frameworks-1.0.22.jar returned status 404
 1.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bom/bom-frameworks/1.0.23/bom-frameworks-1.0.23.jar returned status 404
+1.0.24		2026-09-27T23:11:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bom/bom-frameworks/1.0.24/bom-frameworks-1.0.24.jar returned status 404

@@ -1,1 +1,2 @@
 1.0-beta		2026-08-29T23:40:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/easybeans/easybeans-platform/1.0-beta/easybeans-platform-1.0-beta.jar returned status 404
+1.0.0		2026-09-28T12:27:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/easybeans/easybeans-platform/1.0.0/easybeans-platform-1.0.0.jar returned status 404
