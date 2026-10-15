@@ -11,3 +11,4 @@
 0.3.0-rc.8		2026-08-09T21:51:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/krwa/runtime-wasmtime-android-android/0.3.0-rc.8/runtime-wasmtime-android-android-0.3.0-rc.8.jar returned status 404
 0.3.0-rc.9		2026-08-12T14:46:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/krwa/runtime-wasmtime-android-android/0.3.0-rc.9/runtime-wasmtime-android-android-0.3.0-rc.9.jar returned status 404
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/krwa/runtime-wasmtime-android-android/0.3.1/runtime-wasmtime-android-android-0.3.1.jar returned status 404
+0.3.3		2026-10-05T13:36:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/shusek/krwa/runtime-wasmtime-android-android/0.3.3/runtime-wasmtime-android-android-0.3.3.jar returned status 404

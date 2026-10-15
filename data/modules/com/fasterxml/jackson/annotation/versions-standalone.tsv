@@ -99,3 +99,5 @@
 2.6.2	named	org.jolokia	jolokia-client-kubernetes	2026-09-02T07:39:22Z	2.22
 1.7.3	named	org.jolokia	jolokia-kubernetes	2026-09-02T10:38:11Z	2.19.0
 2.51.2	named	software.xdev.mockserver	server	2026-09-02T11:33:20Z	2.22
+2.52.0	named	software.xdev.mockserver	server	2026-09-22T10:18:40Z	2.22
+2.52.1	named	software.xdev.mockserver	server	2026-09-22T11:16:20Z	2.22
