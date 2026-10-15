@@ -1,0 +1,2 @@
+2.12.1-intuvance.1		2026-10-06T20:46:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/intuvance/initializer/2.12.1-intuvance.1/initializer-2.12.1-intuvance.1.jar returned status 404
+2.12.1-intuvance.2		2026-10-07T07:26:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/intuvance/initializer/2.12.1-intuvance.2/initializer-2.12.1-intuvance.2.jar returned status 404
