@@ -3,10 +3,18 @@
 1.0.0.1		2026-09-21T03:16:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iosarm64/1.0.0.1/ktech-audio-engine-iosarm64-1.0.0.1.jar returned status 404
 1.0.0.1	metadata	2026-09-21T03:16:22Z	
 1.0.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iosarm64/1.0.0.2/ktech-audio-engine-iosarm64-1.0.0.2.jar returned status 404
+1.0.0.2	metadata	2026-09-21T23:06:15Z	
 1.0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iosarm64/1.0.0.3/ktech-audio-engine-iosarm64-1.0.0.3.jar returned status 404
+1.0.0.3	metadata	2026-09-22T14:11:12Z	
 1.0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iosarm64/1.0.0.4/ktech-audio-engine-iosarm64-1.0.0.4.jar returned status 404
+1.0.0.4	metadata	2026-09-29T02:15:57Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iosarm64/1.1.0/ktech-audio-engine-iosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-10-05T23:16:43Z	
 1.1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iosarm64/1.1.0.1/ktech-audio-engine-iosarm64-1.1.0.1.jar returned status 404
+1.1.0.1	metadata	2026-10-06T16:26:17Z	
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iosarm64/1.2.0/ktech-audio-engine-iosarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-10-06T20:41:34Z	
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iosarm64/1.2.1/ktech-audio-engine-iosarm64-1.2.1.jar returned status 404
+1.2.1	metadata	2026-10-07T00:55:54Z	
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iosarm64/1.2.2/ktech-audio-engine-iosarm64-1.2.2.jar returned status 404
+1.2.2	metadata	2026-10-08T17:16:47Z	

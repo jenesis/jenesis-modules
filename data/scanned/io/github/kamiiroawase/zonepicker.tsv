@@ -1,0 +1,5 @@
+2.0.0		2026-10-03T14:02:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kamiiroawase/zonepicker/2.0.0/zonepicker-2.0.0.jar returned status 404
+2.1.0		2026-10-08T14:12:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kamiiroawase/zonepicker/2.1.0/zonepicker-2.1.0.jar returned status 404
+2.2.0		2026-10-08T15:19:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kamiiroawase/zonepicker/2.2.0/zonepicker-2.2.0.jar returned status 404
+2.3.0		2026-10-09T00:51:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kamiiroawase/zonepicker/2.3.0/zonepicker-2.3.0.jar returned status 404
+2.3.1		2026-10-09T02:06:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kamiiroawase/zonepicker/2.3.1/zonepicker-2.3.1.jar returned status 404

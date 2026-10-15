@@ -356,3 +356,4 @@
 15.7.0.wso2v1	named	org.wso2.orbit.org.openjdk.nashorn	nashorn-core	2026-09-23T05:55:11Z	7.3.1
 0.16.0	named	org.teavm	teavm-relocated-libs-asm-util	2026-10-02T16:41:25Z	9.10.1
 9.11	named	org.ow2.asm	asm-util	2026-10-04T14:02:12Z	9.11
+0.16.0-jr.1	named	io.github.jarrunner.teavm	teavm-relocated-libs-asm-util	2026-10-09T07:55:45Z	9.10.1

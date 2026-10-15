@@ -1,0 +1,2 @@
+1.0.0		2026-09-28T22:41:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joaonart/kotlinflow/1.0.0/kotlinflow-1.0.0.jar returned status 404
+1.0.1		2026-09-29T16:30:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/joaonart/kotlinflow/1.0.1/kotlinflow-1.0.1.jar returned status 404

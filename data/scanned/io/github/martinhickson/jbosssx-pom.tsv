@@ -1,0 +1,3 @@
+5.0.3.jakarta.bravura.1		2026-09-22T22:56:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/martinhickson/jbosssx-pom/5.0.3.jakarta.bravura.1/jbosssx-pom-5.0.3.jakarta.bravura.1.jar returned status 404
+5.2.1		2026-09-27T22:56:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/martinhickson/jbosssx-pom/5.2.1/jbosssx-pom-5.2.1.jar returned status 404
+5.2.2		2026-09-28T23:21:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/martinhickson/jbosssx-pom/5.2.2/jbosssx-pom-5.2.2.jar returned status 404

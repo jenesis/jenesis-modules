@@ -1,0 +1,5 @@
+0.2.0		2026-10-09T22:55:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lichtsinn/ageris-parent/0.2.0/ageris-parent-0.2.0.jar returned status 404
+0.3.0		2026-10-10T23:45:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lichtsinn/ageris-parent/0.3.0/ageris-parent-0.3.0.jar returned status 404
+0.4.0		2026-10-11T03:00:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lichtsinn/ageris-parent/0.4.0/ageris-parent-0.4.0.jar returned status 404
+0.5.0		2026-10-11T04:16:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lichtsinn/ageris-parent/0.5.0/ageris-parent-0.5.0.jar returned status 404
+0.6.0		2026-10-11T05:51:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lichtsinn/ageris-parent/0.6.0/ageris-parent-0.6.0.jar returned status 404
