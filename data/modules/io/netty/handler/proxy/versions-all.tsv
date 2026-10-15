@@ -36,3 +36,6 @@
 8.0.0-M5	named	org.apache.grails	grails-cli	2026-08-02T23:21:16Z	4.2.15.Final
 8.0.0-M6	named	org.apache.grails	grails-cli	2026-08-26T07:15:58Z	4.2.17.Final
 4.10.18	named	io.micronaut.starter	micronaut-cli	2026-09-11T19:12:24Z	4.2.18.Final
+8.0.0-RC1	named	org.apache.grails	grails-cli	2026-09-23T17:48:31Z	4.2.17.Final
+8.0.0-RC2	named	org.apache.grails	grails-cli	2026-09-29T22:23:16Z	4.2.17.Final
+8.0.0	named	org.apache.grails	grails-cli	2026-10-04T18:59:47Z	4.2.17.Final

@@ -1452,6 +1452,7 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 1.0.0	named	org.apache.fluss	fluss-client	2026-09-18T04:13:04Z	3.18.0
 1.0.0	named	org.apache.fluss	fluss-flink-1.20	2026-09-18T04:16:44Z	3.18.0
 1.0.0	named	org.apache.fluss	fluss-lake-lance	2026-09-18T04:18:31Z	3.18.0
+1.0.0	named	org.apache.fluss	fluss-flink-2.3	2026-09-18T04:24:37Z	3.18.0
 1.0.0	named	org.apache.fluss	fluss-flink-2.2	2026-09-18T04:25:13Z	3.18.0
 1.0.0	named	org.apache.fluss	fluss-flink-1.19	2026-09-18T04:25:53Z	3.18.0
 1.0.0	named	org.apache.fluss	fluss-flink-1.18	2026-09-18T04:26:33Z	3.18.0
@@ -1465,6 +1466,7 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 4.0.12.8	named	io.streamnative	buildtools	2026-09-20T02:36:57Z	3.19.0
 4.2.1.16	named	io.streamnative	buildtools	2026-09-20T02:51:12Z	3.19.0
 3.26.37	named	com.ubs-hainer	filebridge-jdbc-driver	2026-09-21T05:51:25Z	3.19.0
+1.0.0	named	org.apache.plc4x.extras	plc4j-plc4x-server	2026-09-22T19:05:26Z	3.20.0
 3.22.0-Java8	named	com.equinor.neqsim	neqsim	2026-09-23T07:02:27Z	3.20.0
 3.22.0	named	com.equinor.neqsim	neqsim	2026-09-23T07:02:27Z	3.20.0
 3.15.2	named	com.power4j.fist3	fist-jasypt-cli	2026-09-23T07:59:16Z	3.17.0

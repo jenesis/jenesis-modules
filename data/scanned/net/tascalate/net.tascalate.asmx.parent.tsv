@@ -1,6 +1,7 @@
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tascalate/net.tascalate.asmx.parent/7.0.0/net.tascalate.asmx.parent-7.0.0.jar returned status 404
 7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tascalate/net.tascalate.asmx.parent/7.0.1/net.tascalate.asmx.parent-7.0.1.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tascalate/net.tascalate.asmx.parent/7.1.0/net.tascalate.asmx.parent-7.1.0.jar returned status 404
+9.10.1		2026-09-28T17:06:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tascalate/net.tascalate.asmx.parent/9.10.1/net.tascalate.asmx.parent-9.10.1.jar returned status 404
 9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tascalate/net.tascalate.asmx.parent/9.2.0/net.tascalate.asmx.parent-9.2.0.jar returned status 404
 9.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tascalate/net.tascalate.asmx.parent/9.2.1/net.tascalate.asmx.parent-9.2.1.jar returned status 404
 9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/tascalate/net.tascalate.asmx.parent/9.3.0/net.tascalate.asmx.parent-9.3.0.jar returned status 404
