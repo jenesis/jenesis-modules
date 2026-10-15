@@ -1,6 +1,10 @@
 1.0.1		2026-09-21T07:06:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafichariri/inspector-model-iossimulatorarm64/1.0.1/inspector-model-iossimulatorarm64-1.0.1.jar returned status 404
 1.0.1	metadata	2026-09-21T07:06:20Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafichariri/inspector-model-iossimulatorarm64/1.0.2/inspector-model-iossimulatorarm64-1.0.2.jar returned status 404
+1.0.2	metadata	2026-09-22T05:26:43Z	
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafichariri/inspector-model-iossimulatorarm64/1.0.3/inspector-model-iossimulatorarm64-1.0.3.jar returned status 404
+1.0.3	metadata	2026-09-22T10:01:15Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafichariri/inspector-model-iossimulatorarm64/1.1.0/inspector-model-iossimulatorarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-09-24T16:22:58Z	
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shafichariri/inspector-model-iossimulatorarm64/1.2.0/inspector-model-iossimulatorarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-10-11T05:16:14Z	
