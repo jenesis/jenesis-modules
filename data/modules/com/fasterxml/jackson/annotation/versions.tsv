@@ -6598,3 +6598,7 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 0.1.56	named	org.modeljars	modeljars-cli	2026-10-11T02:05:57Z	2.22
 0.1.57	named	org.modeljars	modeljars-cli	2026-10-11T18:19:19Z	2.22
 4.1.0-RC.2	named	com.kingsrook.qqq	qqq-utility-lambdas	2026-10-11T18:43:16Z	2.21
+4.1.0-RC.3	named	com.kingsrook.qqq	qqq-utility-lambdas	2026-10-12T02:01:14Z	2.21
+21.0.2	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_2.13	2026-10-12T14:11:07Z	2.22
+21.0.2	named	com.gu.play-secret-rotation	aws-parameterstore-lambda_3	2026-10-12T14:11:07Z	2.22
+4.1.0-RC.4	named	com.kingsrook.qqq	qqq-utility-lambdas	2026-10-12T17:21:20Z	2.21

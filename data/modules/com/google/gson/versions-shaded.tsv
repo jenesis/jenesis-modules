@@ -6931,5 +6931,6 @@
 8.4.3	named	com.aliyun	polardb20170801	2026-09-23T17:26:32Z	2.11.0
 6.8.6	named	com.aliyun	waf_openapi20211001	2026-09-23T17:26:32Z	2.11.0
 2.13.0	named	com.aliyun	dataphin_public20230630	2026-09-23T17:26:34Z	2.11.0
+3.0.20	named	com.google.cloud.bigdataoss	gcs-connector	2026-09-23T19:24:07Z	2.10
 3.40.1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-29T22:31:54Z	2.10
 4.0.0.Beta1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-09-30T17:48:15Z	2.10
