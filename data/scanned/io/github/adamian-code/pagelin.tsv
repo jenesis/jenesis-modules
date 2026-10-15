@@ -1,0 +1,4 @@
+1.0.0		2026-09-28T18:42:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adamian-code/pagelin/1.0.0/pagelin-1.0.0.jar returned status 404
+1.0.1		2026-09-29T14:11:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adamian-code/pagelin/1.0.1/pagelin-1.0.1.jar returned status 404
+1.0.2		2026-09-30T21:47:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adamian-code/pagelin/1.0.2/pagelin-1.0.2.jar returned status 404
+1.0.3		2026-10-10T22:37:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adamian-code/pagelin/1.0.3/pagelin-1.0.3.jar returned status 404
