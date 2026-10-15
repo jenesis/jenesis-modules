@@ -1,0 +1,2 @@
+2.0.0		2026-10-10T00:01:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/javapackager/io.github.javapackager.gradle.plugin/2.0.0/io.github.javapackager.gradle.plugin-2.0.0.jar returned status 404
+2.0.0-rc1		2026-10-04T21:26:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/javapackager/io.github.javapackager.gradle.plugin/2.0.0-rc1/io.github.javapackager.gradle.plugin-2.0.0-rc1.jar returned status 404

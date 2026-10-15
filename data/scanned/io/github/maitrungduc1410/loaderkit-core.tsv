@@ -1,0 +1,4 @@
+1.0.0		2026-10-11T04:06:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maitrungduc1410/loaderkit-core/1.0.0/loaderkit-core-1.0.0.jar returned status 404
+1.0.0-rc.0		2026-10-07T14:54:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maitrungduc1410/loaderkit-core/1.0.0-rc.0/loaderkit-core-1.0.0-rc.0.jar returned status 404
+1.0.0-rc.1		2026-10-09T10:17:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maitrungduc1410/loaderkit-core/1.0.0-rc.1/loaderkit-core-1.0.0-rc.1.jar returned status 404
+1.0.0-rc.2		2026-10-09T15:47:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/maitrungduc1410/loaderkit-core/1.0.0-rc.2/loaderkit-core-1.0.0-rc.2.jar returned status 404
