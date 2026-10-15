@@ -47,6 +47,7 @@
 1.127.1			
 1.127.2			
 1.128.0			
+1.128.1		2026-10-01T00:01:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linkbreakers/linkbreakers-sdk/1.128.1/linkbreakers-sdk-1.128.1.jar returned status 404
 1.128.2			
 1.129.0			
 1.129.3			
@@ -88,6 +89,8 @@
 1.169.0			
 1.170.0			
 1.175.0			
+1.176.0		2026-10-12T16:41:22Z	
+1.176.2		2026-10-12T21:56:16Z	
 1.46.10		2026-04-20T18:52:24Z	
 1.46.13		2026-04-20T21:11:00Z	
 1.46.14		2026-04-22T16:13:28Z	

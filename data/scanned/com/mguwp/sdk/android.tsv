@@ -54,4 +54,12 @@
 1.4.3-snapshot	release-javadoc	2026-09-17T11:44:33Z	
 1.4.3-snapshot	release-sources	2026-09-17T11:44:33Z	
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mguwp/sdk/android/1.4.5/android-1.4.5.jar returned status 404
+1.4.5	debug-javadoc	2026-10-10T05:51:24Z	
+1.4.5	debug-sources	2026-10-10T05:51:23Z	
+1.4.5	release-javadoc	2026-10-10T05:51:24Z	
+1.4.5	release-sources	2026-10-10T05:51:24Z	
 1.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mguwp/sdk/android/1.4.6/android-1.4.6.jar returned status 404
+1.4.6	debug-javadoc	2026-10-10T10:26:00Z	
+1.4.6	debug-sources	2026-10-10T10:26:00Z	
+1.4.6	release-javadoc	2026-10-10T10:26:00Z	
+1.4.6	release-sources	2026-10-10T10:26:00Z	
