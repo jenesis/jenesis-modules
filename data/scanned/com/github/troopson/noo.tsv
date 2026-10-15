@@ -131,6 +131,10 @@
 3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/troopson/noo/3.0.5/noo-3.0.5.jar returned status 404
 3.0.5	plain	2026-03-24T07:57:18Z	
 3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/troopson/noo/3.0.6/noo-3.0.6.jar returned status 404
+3.0.6	plain	2026-10-09T09:51:03Z	
 3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/troopson/noo/3.0.7/noo-3.0.7.jar returned status 404
+3.0.7	plain	2026-10-10T07:31:15Z	
 3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/troopson/noo/3.0.8/noo-3.0.8.jar returned status 404
+3.0.8	plain	2026-10-10T10:05:58Z	
 3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/troopson/noo/3.0.9/noo-3.0.9.jar returned status 404
+3.0.9	plain	2026-10-11T04:56:03Z	

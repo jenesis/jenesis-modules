@@ -16,6 +16,8 @@
 1.0.0-alpha9	metadata	2023-01-31T10:28:18Z	
 1.1.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/aartikov/replica-algebra-iossimulatorarm64/1.1.0-alpha1/replica-algebra-iossimulatorarm64-1.1.0-alpha1.jar returned status 404
 1.1.0-alpha1	metadata	2023-10-19T10:34:10Z	
+1.10.0-alpha		2026-10-13T09:46:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/aartikov/replica-algebra-iossimulatorarm64/1.10.0-alpha/replica-algebra-iossimulatorarm64-1.10.0-alpha.jar returned status 404
+1.10.0-alpha	metadata	2026-10-13T09:46:46Z	
 1.2.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/aartikov/replica-algebra-iossimulatorarm64/1.2.0-alpha1/replica-algebra-iossimulatorarm64-1.2.0-alpha1.jar returned status 404
 1.2.0-alpha1	metadata	2024-01-13T15:56:05Z	
 1.2.1-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/aartikov/replica-algebra-iossimulatorarm64/1.2.1-alpha1/replica-algebra-iossimulatorarm64-1.2.1-alpha1.jar returned status 404
