@@ -21,19 +21,46 @@
 0.1.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.1.0-rc.1/jolt-iossimulatorarm64-0.1.0-rc.1.jar returned status 404
 0.1.0-rc.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.1.0-rc.11/jolt-iossimulatorarm64-0.1.0-rc.11.jar returned status 404
 0.1.0-rc.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.1.0-rc.12/jolt-iossimulatorarm64-0.1.0-rc.12.jar returned status 404
+0.1.0-rc.12	metadata	2026-10-04T09:41:55Z	
 0.1.0-rc.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.1.0-rc.13/jolt-iossimulatorarm64-0.1.0-rc.13.jar returned status 404
+0.1.0-rc.13	metadata	2026-10-04T15:51:09Z	
 0.1.0-rc.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.1.0-rc.14/jolt-iossimulatorarm64-0.1.0-rc.14.jar returned status 404
+0.1.0-rc.14	metadata	2026-10-05T05:16:08Z	
 0.1.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.1.0-rc.2/jolt-iossimulatorarm64-0.1.0-rc.2.jar returned status 404
+0.1.0-rc.2	metadata	2026-10-01T20:57:24Z	
 0.1.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.1.0-rc.3/jolt-iossimulatorarm64-0.1.0-rc.3.jar returned status 404
+0.1.0-rc.3	metadata	2026-10-02T06:50:57Z	
 0.1.0-rc.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.1.0-rc.6/jolt-iossimulatorarm64-0.1.0-rc.6.jar returned status 404
+0.1.0-rc.6	metadata	2026-10-02T18:36:49Z	
 0.1.0-rc.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.1.0-rc.8/jolt-iossimulatorarm64-0.1.0-rc.8.jar returned status 404
+0.1.0-rc.8	metadata	2026-10-03T11:41:57Z	
 0.1.0-rc.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.1.0-rc.9/jolt-iossimulatorarm64-0.1.0-rc.9.jar returned status 404
+0.1.0-rc.9	metadata	2026-10-03T14:02:13Z	
+0.10.0		2026-10-13T05:16:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.10.0/jolt-iossimulatorarm64-0.10.0.jar returned status 404
+0.10.0	metadata	2026-10-13T05:16:11Z	
+0.11.0		2026-10-13T09:56:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.11.0/jolt-iossimulatorarm64-0.11.0.jar returned status 404
+0.11.0	metadata	2026-10-13T09:56:09Z	
+0.11.1		2026-10-13T11:21:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.11.1/jolt-iossimulatorarm64-0.11.1.jar returned status 404
+0.11.1	metadata	2026-10-13T11:21:05Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.2.0/jolt-iossimulatorarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-10-06T14:20:15Z	
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.4.0/jolt-iossimulatorarm64-0.4.0.jar returned status 404
+0.4.0	metadata	2026-10-09T02:46:50Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.5.0/jolt-iossimulatorarm64-0.5.0.jar returned status 404
+0.5.0	metadata	2026-10-09T07:11:25Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.6.0/jolt-iossimulatorarm64-0.6.0.jar returned status 404
+0.6.0	metadata	2026-10-09T18:46:21Z	
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.7.1/jolt-iossimulatorarm64-0.7.1.jar returned status 404
+0.7.1	metadata	2026-10-10T10:06:01Z	
 0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.8.2/jolt-iossimulatorarm64-0.8.2.jar returned status 404
+0.8.2	metadata	2026-10-10T19:31:13Z	
 0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.8.3/jolt-iossimulatorarm64-0.8.3.jar returned status 404
+0.8.3	metadata	2026-10-11T07:16:10Z	
 0.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.8.4/jolt-iossimulatorarm64-0.8.4.jar returned status 404
+0.8.4	metadata	2026-10-11T15:02:47Z	
 0.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.8.5/jolt-iossimulatorarm64-0.8.5.jar returned status 404
+0.8.5	metadata	2026-10-11T16:51:02Z	
+0.8.6		2026-10-12T12:31:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.8.6/jolt-iossimulatorarm64-0.8.6.jar returned status 404
+0.8.6	metadata	2026-10-12T12:31:04Z	
+0.9.0		2026-10-12T21:56:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/backend/jolt-iossimulatorarm64/0.9.0/jolt-iossimulatorarm64-0.9.0.jar returned status 404
+0.9.0	metadata	2026-10-12T21:56:19Z	
