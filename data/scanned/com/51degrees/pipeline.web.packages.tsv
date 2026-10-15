@@ -105,6 +105,7 @@
 4.5.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.web.packages/4.5.41/pipeline.web.packages-4.5.41.jar returned status 404
 4.5.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.web.packages/4.5.42/pipeline.web.packages-4.5.42.jar returned status 404
 4.5.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.web.packages/4.5.43/pipeline.web.packages-4.5.43.jar returned status 404
+4.5.44		2026-10-12T09:46:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.web.packages/4.5.44/pipeline.web.packages-4.5.44.jar returned status 404
 4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.web.packages/4.5.5/pipeline.web.packages-4.5.5.jar returned status 404
 4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.web.packages/4.5.6/pipeline.web.packages-4.5.6.jar returned status 404
 4.5.7		2026-05-20T17:14:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/51degrees/pipeline.web.packages/4.5.7/pipeline.web.packages-4.5.7.jar returned status 404

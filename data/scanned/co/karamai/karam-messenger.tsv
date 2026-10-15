@@ -1,0 +1,2 @@
+0.1.0		2026-09-24T21:36:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/karamai/karam-messenger/0.1.0/karam-messenger-0.1.0.jar returned status 404
+0.2.0		2026-09-25T03:26:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/karamai/karam-messenger/0.2.0/karam-messenger-0.2.0.jar returned status 404

@@ -1,0 +1,7 @@
+0.5.0		2026-09-26T14:39:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aardarch/aardink-android/0.5.0/aardink-android-0.5.0.jar returned status 404
+0.6.0		2026-10-03T11:59:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aardarch/aardink-android/0.6.0/aardink-android-0.6.0.jar returned status 404
+0.6.0-rc1		2026-09-27T09:26:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aardarch/aardink-android/0.6.0-rc1/aardink-android-0.6.0-rc1.jar returned status 404
+0.6.0-rc2		2026-10-01T03:41:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aardarch/aardink-android/0.6.0-rc2/aardink-android-0.6.0-rc2.jar returned status 404
+0.6.0-rc3		2026-10-01T10:51:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aardarch/aardink-android/0.6.0-rc3/aardink-android-0.6.0-rc3.jar returned status 404
+0.6.1		2026-10-04T04:26:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aardarch/aardink-android/0.6.1/aardink-android-0.6.1.jar returned status 404
+0.6.2		2026-10-11T18:48:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aardarch/aardink-android/0.6.2/aardink-android-0.6.2.jar returned status 404
