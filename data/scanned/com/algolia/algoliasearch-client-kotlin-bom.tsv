@@ -105,6 +105,7 @@
 3.47.0		2026-08-18T12:51:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-client-kotlin-bom/3.47.0/algoliasearch-client-kotlin-bom-3.47.0.jar returned status 404
 3.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-client-kotlin-bom/3.49.0/algoliasearch-client-kotlin-bom-3.49.0.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-client-kotlin-bom/3.5.0/algoliasearch-client-kotlin-bom-3.5.0.jar returned status 404
+3.50.0		2026-10-12T15:14:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-client-kotlin-bom/3.50.0/algoliasearch-client-kotlin-bom-3.50.0.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-client-kotlin-bom/3.6.0/algoliasearch-client-kotlin-bom-3.6.0.jar returned status 404
 3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-client-kotlin-bom/3.6.1/algoliasearch-client-kotlin-bom-3.6.1.jar returned status 404
 3.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/algolia/algoliasearch-client-kotlin-bom/3.6.2/algoliasearch-client-kotlin-bom-3.6.2.jar returned status 404
