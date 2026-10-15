@@ -12,3 +12,5 @@
 2.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/pagopa/io/wallet/proximity/proximity/2.4.1/proximity-2.4.1.jar returned status 404
 2.4.2		2026-06-03T10:51:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/pagopa/io/wallet/proximity/proximity/2.4.2/proximity-2.4.2.jar returned status 404
 2.5.0		2026-06-05T14:27:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/pagopa/io/wallet/proximity/proximity/2.5.0/proximity-2.5.0.jar returned status 404
+2.5.1		2026-10-05T12:41:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/pagopa/io/wallet/proximity/proximity/2.5.1/proximity-2.5.1.jar returned status 404
+2.5.2		2026-10-05T13:51:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/pagopa/io/wallet/proximity/proximity/2.5.2/proximity-2.5.2.jar returned status 404

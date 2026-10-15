@@ -14,3 +14,4 @@
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/krzeminski/snakeyaml-engine-kmp-js/3.2.1/snakeyaml-engine-kmp-js-3.2.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/krzeminski/snakeyaml-engine-kmp-js/4.0.0/snakeyaml-engine-kmp-js-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/krzeminski/snakeyaml-engine-kmp-js/4.0.1/snakeyaml-engine-kmp-js-4.0.1.jar returned status 404
+5.0.0		2026-10-08T09:11:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/krzeminski/snakeyaml-engine-kmp-js/5.0.0/snakeyaml-engine-kmp-js-5.0.0.jar returned status 404
