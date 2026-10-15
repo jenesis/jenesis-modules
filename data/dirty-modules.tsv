@@ -640,3 +640,11 @@ io.jstach.rainbowgum.jbosslogging
 io.jstach.rainbowgum.micronaut5
 io.jstach.rainbowgum.helidon4
 io.github.zeytx.bankmasker.logging
+io.github.yuraburyakov.casttomarkdown.xlsx
+io.github.yuraburyakov.casttomarkdown.txt
+io.github.yuraburyakov.casttomarkdown.pdf
+io.github.yuraburyakov.casttomarkdown.html
+io.github.yuraburyakov.casttomarkdown.docx
+io.github.yuraburyakov.casttomarkdown.csv
+io.github.yuraburyakov.casttomarkdown
+com.fasterxml.jackson.datatype.jsr310

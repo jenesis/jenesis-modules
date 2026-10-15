@@ -1,0 +1,5 @@
+1.0.0		2026-09-28T14:42:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-boot-fleet/1.0.0/z-boot-fleet-1.0.0.jar returned status 404
+1.0.1		2026-09-29T07:07:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-boot-fleet/1.0.1/z-boot-fleet-1.0.1.jar returned status 404
+1.0.2		2026-10-03T09:00:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-boot-fleet/1.0.2/z-boot-fleet-1.0.2.jar returned status 404
+1.0.3		2026-10-06T05:38:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-boot-fleet/1.0.3/z-boot-fleet-1.0.3.jar returned status 404
+1.0.4		2026-10-06T10:26:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-boot-fleet/1.0.4/z-boot-fleet-1.0.4.jar returned status 404
