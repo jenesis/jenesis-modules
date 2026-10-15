@@ -12,3 +12,4 @@
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/virksomhetssertifikat-parent/4.0.5/virksomhetssertifikat-parent-4.0.5.jar returned status 404
 4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/virksomhetssertifikat-parent/4.0.6/virksomhetssertifikat-parent-4.0.6.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/virksomhetssertifikat-parent/4.1.0/virksomhetssertifikat-parent-4.1.0.jar returned status 404
+4.1.1		2026-10-09T08:36:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/virksomhetssertifikat-parent/4.1.1/virksomhetssertifikat-parent-4.1.1.jar returned status 404

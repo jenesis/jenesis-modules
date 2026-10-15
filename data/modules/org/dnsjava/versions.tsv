@@ -448,6 +448,7 @@
 1.0.0	named	org.apache.fluss	fluss-fs-gs	2026-09-18T04:22:36Z	3.6.1
 1.0.0	named	org.apache.fluss	fluss-fs-azure	2026-09-18T04:23:08Z	3.6.1
 1.0.0	named	org.apache.fluss	fluss-fs-obs	2026-09-18T04:23:37Z	3.6.1
+1.0.0	named	org.apache.fluss	fluss-fs-cos	2026-09-18T04:24:06Z	3.6.1
 0.94.0	named	io.simpleishard	trino-file	2026-09-18T15:51:19Z	3.6.1
 0.94.0	named	io.simpleishard	govdata	2026-09-18T15:51:28Z	3.6.1
 0.94.0	named	ai.askamerica	askamerica-engine	2026-09-18T15:57:23Z	3.6.1

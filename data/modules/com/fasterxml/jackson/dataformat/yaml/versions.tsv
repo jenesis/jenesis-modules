@@ -1457,6 +1457,7 @@
 0.96.0	named	io.simpleishard	trino-splunk	2026-09-22T02:51:18Z	2.21.5
 0.96.0	named	io.simpleishard	trino-calcite-base	2026-09-22T02:51:20Z	2.21.5
 0.96.0	named	io.simpleishard	trino-calcite	2026-09-22T02:51:28Z	2.21.5
+1.0.0	named	org.apache.plc4x.extras	plc4x-opcua-server	2026-09-22T19:05:22Z	2.22.1
 0.96.1	named	io.simpleishard	trino-calcite	2026-09-22T21:01:24Z	2.21.5
 0.96.1	named	io.simpleishard	trino-sharepoint	2026-09-22T21:01:25Z	2.21.5
 0.96.1	named	io.simpleishard	trino-calcite-base	2026-09-22T21:06:29Z	2.21.5

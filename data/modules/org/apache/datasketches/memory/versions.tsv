@@ -390,6 +390,8 @@
 3.0.0	named	org.apache.seatunnel	connector-paimon	2026-09-23T13:53:04Z	2.2.0
 1.12.0	named	org.apache.iceberg	iceberg-flink-runtime-1.20	2026-09-25T19:29:13Z	3.0.2
 1.12.0	named	org.apache.iceberg	iceberg-flink-runtime-2.1	2026-09-25T19:29:37Z	3.0.2
+1.12.0	named	org.apache.iceberg	iceberg-flink-runtime-2.2	2026-09-25T19:29:56Z	3.0.2
+1.12.0	named	org.apache.iceberg	iceberg-flink-runtime-2.3	2026-09-25T19:30:15Z	3.0.2
 3.7.0-1.20	named	org.apache.flink	flink-cdc-pipeline-connector-paimon	2026-09-29T02:50:27Z	2.2.0
 3.7.0-1.20	named	org.apache.flink	flink-cdc-pipeline-connector-iceberg	2026-09-29T02:55:35Z	3.0.2
 3.7.0-2.2	named	org.apache.flink	flink-cdc-pipeline-connector-paimon	2026-09-29T04:11:38Z	2.2.0
