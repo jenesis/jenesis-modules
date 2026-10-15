@@ -5459,3 +5459,5 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.754.14	named	com.yahoo.vespa	config-application-package	2026-09-21T06:42:41Z	2.22
 10.4.3	named	com.chartiq.finsemble	finsemble	2026-09-21T08:43:13Z	2.13.5
 10.4.4-BETA-1	named	com.chartiq.finsemble	finsemble	2026-09-21T14:26:30Z	2.13.5
+1.2.43	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-09-28T15:57:50Z	2.17.0
+1.2.44	named	org.wso2.am.analytics.publisher	org.wso2.am.analytics.publisher.client	2026-09-29T01:34:12Z	2.17.0

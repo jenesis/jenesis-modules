@@ -20,3 +20,8 @@
 11.0.6	named	org.opendaylight.controller	sal-dummy-distributed-datastore	2026-08-27T16:05:25Z	4.2.16.Final
 13.0.5	named	org.opendaylight.controller	sal-dummy-distributed-datastore	2026-08-27T16:12:23Z	4.2.16.Final
 12.0.8	named	org.opendaylight.controller	sal-dummy-distributed-datastore	2026-08-27T18:03:58Z	4.2.16.Final
+14.0.0	named	org.opendaylight.controller	sal-dummy-distributed-datastore	2026-09-22T15:02:40Z	4.2.18.Final
+14.0.1	named	org.opendaylight.controller	sal-dummy-distributed-datastore	2026-09-25T01:45:09Z	4.2.18.Final
+14.0.2	named	org.opendaylight.controller	sal-dummy-distributed-datastore	2026-09-30T08:38:43Z	4.2.18.Final
+14.0.3	named	org.opendaylight.controller	sal-dummy-distributed-datastore	2026-10-01T12:12:22Z	4.2.18.Final
+14.0.4	named	org.opendaylight.controller	sal-dummy-distributed-datastore	2026-10-03T11:29:35Z	4.2.18.Final
