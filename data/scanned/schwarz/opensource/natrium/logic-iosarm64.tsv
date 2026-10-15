@@ -1,2 +1,6 @@
 0.0.2-fork.1		2026-06-01T09:57:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/schwarz/opensource/natrium/logic-iosarm64/0.0.2-fork.1/logic-iosarm64-0.0.2-fork.1.jar returned status 404
 0.0.2-fork.1	metadata	2026-06-01T09:57:14Z	
+0.0.7-digits.2		2026-09-25T18:43:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/schwarz/opensource/natrium/logic-iosarm64/0.0.7-digits.2/logic-iosarm64-0.0.7-digits.2.jar returned status 404
+0.0.7-digits.2	metadata	2026-09-25T18:43:13Z	
+0.0.7-digits.3		2026-09-28T12:06:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/schwarz/opensource/natrium/logic-iosarm64/0.0.7-digits.3/logic-iosarm64-0.0.7-digits.3.jar returned status 404
+0.0.7-digits.3	metadata	2026-09-28T12:06:08Z	

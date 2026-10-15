@@ -62,3 +62,13 @@
 0.54.1	metadata	2026-09-07T21:28:02Z	
 0.55.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-core-macosarm64/0.55.0/skainet-transformers-core-macosarm64-0.55.0.jar returned status 404
 0.55.0	metadata	2026-09-11T17:43:50Z	
+0.56.0		2026-09-20T20:26:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-core-macosarm64/0.56.0/skainet-transformers-core-macosarm64-0.56.0.jar returned status 404
+0.56.0	metadata	2026-09-20T20:26:19Z	
+0.56.1		2026-09-21T18:56:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-core-macosarm64/0.56.1/skainet-transformers-core-macosarm64-0.56.1.jar returned status 404
+0.56.1	metadata	2026-09-21T18:56:35Z	
+0.56.2		2026-09-22T11:31:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-core-macosarm64/0.56.2/skainet-transformers-core-macosarm64-0.56.2.jar returned status 404
+0.56.2	metadata	2026-09-22T11:31:19Z	
+0.57.0		2026-09-25T16:50:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-core-macosarm64/0.57.0/skainet-transformers-core-macosarm64-0.57.0.jar returned status 404
+0.57.0	metadata	2026-09-25T16:50:08Z	
+0.57.1		2026-09-27T06:57:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/transformers/skainet-transformers-core-macosarm64/0.57.1/skainet-transformers-core-macosarm64-0.57.1.jar returned status 404
+0.57.1	metadata	2026-09-27T06:57:16Z	
