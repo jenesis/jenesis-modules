@@ -63,6 +63,10 @@
 0.6.3		2026-09-21T19:33:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/tuple-iosarm64/0.6.3/tuple-iosarm64-0.6.3.jar returned status 404
 0.6.3	metadata	2026-09-21T19:33:39Z	
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/tuple-iosarm64/0.7.0/tuple-iosarm64-0.7.0.jar returned status 404
+0.7.0	metadata	2026-10-02T18:56:53Z	
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/tuple-iosarm64/0.7.1/tuple-iosarm64-0.7.1.jar returned status 404
+0.7.1	metadata	2026-10-02T19:53:07Z	
 0.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/tuple-iosarm64/0.7.2/tuple-iosarm64-0.7.2.jar returned status 404
+0.7.2	metadata	2026-10-04T06:46:06Z	
 0.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bbasinsk/tuple-iosarm64/0.7.3/tuple-iosarm64-0.7.3.jar returned status 404
+0.7.3	metadata	2026-10-05T22:17:59Z	
