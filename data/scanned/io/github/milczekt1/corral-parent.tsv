@@ -1,0 +1,2 @@
+0.1.0		2026-09-30T19:17:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/milczekt1/corral-parent/0.1.0/corral-parent-0.1.0.jar returned status 404
+0.2.1		2026-10-02T12:31:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/milczekt1/corral-parent/0.2.1/corral-parent-0.2.1.jar returned status 404
