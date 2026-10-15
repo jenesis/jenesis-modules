@@ -1,0 +1,6 @@
+1.0.1		2026-09-24T12:01:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hlcaptain/symbols-core-android/1.0.1/symbols-core-android-1.0.1.jar returned status 404
+1.1.0		2026-09-29T13:28:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hlcaptain/symbols-core-android/1.1.0/symbols-core-android-1.1.0.jar returned status 404
+1.2.0		2026-09-29T20:46:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hlcaptain/symbols-core-android/1.2.0/symbols-core-android-1.2.0.jar returned status 404
+2.0.0		2026-09-30T15:06:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hlcaptain/symbols-core-android/2.0.0/symbols-core-android-2.0.0.jar returned status 404
+2.1.0		2026-10-04T11:46:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hlcaptain/symbols-core-android/2.1.0/symbols-core-android-2.1.0.jar returned status 404
+2.2.0		2026-10-05T23:16:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/hlcaptain/symbols-core-android/2.2.0/symbols-core-android-2.2.0.jar returned status 404

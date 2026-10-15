@@ -1,0 +1,4 @@
+0.6.7		2026-10-06T10:11:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/firebase/0.6.7/firebase-0.6.7.jar returned status 404
+0.7.0		2026-10-06T10:36:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/firebase/0.7.0/firebase-0.7.0.jar returned status 404
+0.7.1		2026-10-06T15:39:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/firebase/0.7.1/firebase-0.7.1.jar returned status 404
+0.7.2		2026-10-06T16:43:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/firebase/0.7.2/firebase-0.7.2.jar returned status 404
