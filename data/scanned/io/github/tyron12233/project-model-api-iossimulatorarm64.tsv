@@ -1,0 +1,4 @@
+3.0.0		2026-09-22T08:50:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tyron12233/project-model-api-iossimulatorarm64/3.0.0/project-model-api-iossimulatorarm64-3.0.0.jar returned status 404
+3.0.0	metadata	2026-09-22T08:50:49Z	
+3.1.0		2026-10-08T19:10:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tyron12233/project-model-api-iossimulatorarm64/3.1.0/project-model-api-iossimulatorarm64-3.1.0.jar returned status 404
+3.1.0	metadata	2026-10-08T19:10:54Z	

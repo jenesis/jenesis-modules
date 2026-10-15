@@ -1,0 +1,7 @@
+0.1.0		2026-09-29T06:36:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wimdeblauwe/shadleaf-parent/0.1.0/shadleaf-parent-0.1.0.jar returned status 404
+0.2.0		2026-09-29T18:53:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wimdeblauwe/shadleaf-parent/0.2.0/shadleaf-parent-0.2.0.jar returned status 404
+0.3.0		2026-09-30T07:56:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wimdeblauwe/shadleaf-parent/0.3.0/shadleaf-parent-0.3.0.jar returned status 404
+0.4.0		2026-10-01T07:01:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wimdeblauwe/shadleaf-parent/0.4.0/shadleaf-parent-0.4.0.jar returned status 404
+0.5.0		2026-10-01T13:30:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wimdeblauwe/shadleaf-parent/0.5.0/shadleaf-parent-0.5.0.jar returned status 404
+0.6.0		2026-10-02T06:11:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wimdeblauwe/shadleaf-parent/0.6.0/shadleaf-parent-0.6.0.jar returned status 404
+0.7.0		2026-10-02T14:21:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wimdeblauwe/shadleaf-parent/0.7.0/shadleaf-parent-0.7.0.jar returned status 404

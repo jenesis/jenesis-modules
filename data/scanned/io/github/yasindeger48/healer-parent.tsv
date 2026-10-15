@@ -1,0 +1,4 @@
+2.0.0		2026-09-26T21:41:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yasindeger48/healer-parent/2.0.0/healer-parent-2.0.0.jar returned status 404
+2.0.1		2026-09-27T08:41:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yasindeger48/healer-parent/2.0.1/healer-parent-2.0.1.jar returned status 404
+2.1.0		2026-09-27T10:08:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yasindeger48/healer-parent/2.1.0/healer-parent-2.1.0.jar returned status 404
+2.2.0		2026-09-27T11:31:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yasindeger48/healer-parent/2.2.0/healer-parent-2.2.0.jar returned status 404
