@@ -1,5 +1,8 @@
 0.1.0		2026-09-07T21:26:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/a2ui/a2ui-material3-macosarm64/0.1.0/a2ui-material3-macosarm64-0.1.0.jar returned status 404
 0.1.0	metadata	2026-09-07T21:26:11Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/a2ui/a2ui-material3-macosarm64/0.2.0/a2ui-material3-macosarm64-0.2.0.jar returned status 404
+0.2.0	metadata	2026-09-24T12:01:21Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/a2ui/a2ui-material3-macosarm64/0.2.1/a2ui-material3-macosarm64-0.2.1.jar returned status 404
+0.2.1	metadata	2026-09-25T06:26:08Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/ynagai/a2ui/a2ui-material3-macosarm64/0.3.0/a2ui-material3-macosarm64-0.3.0.jar returned status 404
+0.3.0	metadata	2026-09-26T00:26:57Z	

@@ -45,4 +45,9 @@
 1.57-31866c3		2025-05-28T09:24:04Z	
 1.57-31866c3	v57	2025-05-28T09:24:04Z	
 1.63-fa083c3			
+1.63-fa083c3	v63	2026-09-30T14:26:12Z	
+1.64-2ed3c33		2026-10-05T08:05:56Z	
+1.64-2ed3c33	v64	2026-10-05T08:05:56Z	
+1.65-73212ac		2026-10-07T07:06:27Z	
+1.65-73212ac	v65	2026-10-07T07:06:28Z	
 SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/bouncer-proto/SNAPSHOT/bouncer-proto-SNAPSHOT.jar returned status 404
