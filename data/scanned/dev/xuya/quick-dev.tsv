@@ -1,0 +1,2 @@
+0.4.0		2026-09-30T04:58:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/xuya/quick-dev/0.4.0/quick-dev-0.4.0.jar returned status 404
+0.5.0		2026-10-01T05:40:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/xuya/quick-dev/0.5.0/quick-dev-0.5.0.jar returned status 404
