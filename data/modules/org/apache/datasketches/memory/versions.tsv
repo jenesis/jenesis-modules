@@ -396,3 +396,11 @@
 3.7.0-1.20	named	org.apache.flink	flink-cdc-pipeline-connector-iceberg	2026-09-29T02:55:35Z	3.0.2
 3.7.0-2.2	named	org.apache.flink	flink-cdc-pipeline-connector-paimon	2026-09-29T04:11:38Z	2.2.0
 3.7.0-2.2	named	org.apache.flink	flink-cdc-pipeline-connector-iceberg	2026-09-29T04:17:02Z	3.0.2
+1.13.0-datastrato-read-restrictions.2	named	com.datastrato	iceberg-flink-runtime-1.20	2026-09-30T09:51:36Z	3.0.2
+1.13.0-datastrato-read-restrictions.2	named	com.datastrato	iceberg-flink-runtime-2.1	2026-09-30T09:51:37Z	3.0.2
+1.13.0-datastrato-read-restrictions.2	named	com.datastrato	iceberg-flink-runtime-2.2	2026-09-30T09:51:37Z	3.0.2
+1.13.0-datastrato-read-restrictions.2	named	com.datastrato	iceberg-flink-runtime-2.3	2026-09-30T09:51:37Z	3.0.2
+1.13.0	named	com.datastrato	experimental-iceberg-flink-runtime-1.20	2026-10-08T07:53:52Z	3.0.2
+1.13.0	named	com.datastrato	experimental-iceberg-flink-runtime-2.1	2026-10-08T07:53:52Z	3.0.2
+1.13.0	named	com.datastrato	experimental-iceberg-flink-runtime-2.2	2026-10-08T07:53:52Z	3.0.2
+1.13.0	named	com.datastrato	experimental-iceberg-flink-runtime-2.3	2026-10-08T07:53:52Z	3.0.2
