@@ -1,0 +1,3 @@
+0.1.0		2026-10-07T15:41:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/usetrace/trace-sdk-android/0.1.0/trace-sdk-android-0.1.0.jar returned status 404
+0.2.0		2026-10-08T13:11:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/usetrace/trace-sdk-android/0.2.0/trace-sdk-android-0.2.0.jar returned status 404
+0.2.1		2026-10-09T08:16:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/usetrace/trace-sdk-android/0.2.1/trace-sdk-android-0.2.1.jar returned status 404
