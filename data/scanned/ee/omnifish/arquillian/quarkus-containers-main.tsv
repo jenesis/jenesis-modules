@@ -1,0 +1,2 @@
+1.0.0		2026-10-03T22:41:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/omnifish/arquillian/quarkus-containers-main/1.0.0/quarkus-containers-main-1.0.0.jar returned status 404
+1.1.0		2026-10-07T22:32:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/omnifish/arquillian/quarkus-containers-main/1.1.0/quarkus-containers-main-1.1.0.jar returned status 404
