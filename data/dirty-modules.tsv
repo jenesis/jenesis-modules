@@ -1219,3 +1219,17 @@ com.sitepark.oparlclient
 com.github.luben.zstd_jni
 com.github.victools.jsonschema.generator
 com.rulescascade
+com.rabbitmq.client.credentials
+com.prestouniverse.pay
+com.powsybl.iidm.twopass.security.analysis
+com.pambrose.jev4k
+com.oracle.truffle.tools.profiler
+org.eclipse.jetty.http
+com.oicana.natives.windows.x86_64
+com.oicana.natives.macos.x86_64
+com.oicana.natives.macos.aarch64
+com.oicana.natives.linux.x86_64
+com.oicana.natives.linux.aarch64
+com.oicana
+com.odemehub
+com.nulabinc.vite4j

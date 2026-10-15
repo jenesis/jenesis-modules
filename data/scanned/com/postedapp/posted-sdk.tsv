@@ -1,0 +1,2 @@
+3.0.0		2026-09-29T12:22:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/postedapp/posted-sdk/3.0.0/posted-sdk-3.0.0.jar returned status 404
+4.0.0		2026-09-29T12:56:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/postedapp/posted-sdk/4.0.0/posted-sdk-4.0.0.jar returned status 404
