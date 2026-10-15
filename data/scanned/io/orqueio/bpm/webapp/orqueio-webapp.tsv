@@ -5,6 +5,7 @@
 1.0.10		2026-06-19T08:46:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/webapp/orqueio-webapp/1.0.10/orqueio-webapp-1.0.10.jar returned status 404
 1.0.10	classes	2026-06-19T08:46:18Z	
 1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/webapp/orqueio-webapp/1.0.11/orqueio-webapp-1.0.11.jar returned status 404
+1.0.11	classes	2026-10-07T10:06:22Z	
 1.0.2		2025-10-02T15:11:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/webapp/orqueio-webapp/1.0.2/orqueio-webapp-1.0.2.jar returned status 404
 1.0.2	classes	2025-10-02T15:11:53Z	
 1.0.3		2025-10-09T13:47:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/webapp/orqueio-webapp/1.0.3/orqueio-webapp-1.0.3.jar returned status 404
@@ -38,5 +39,6 @@
 2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/webapp/orqueio-webapp/2.0.6/orqueio-webapp-2.0.6.jar returned status 404
 2.0.6	classes	2026-07-14T14:30:42Z	
 2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/webapp/orqueio-webapp/2.0.7/orqueio-webapp-2.0.7.jar returned status 404
+2.0.7	classes	2026-10-07T11:03:04Z	
 2.1.0		2026-07-03T08:12:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/webapp/orqueio-webapp/2.1.0/orqueio-webapp-2.1.0.jar returned status 404
 2.1.0	classes	2026-07-03T08:12:37Z	

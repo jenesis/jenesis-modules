@@ -1,0 +1,7 @@
+4.0.0		2026-09-22T03:01:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-kotlin-android/4.0.0/mavsdk-kotlin-android-4.0.0.jar returned status 404
+4.0.1		2026-09-28T21:41:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-kotlin-android/4.0.1/mavsdk-kotlin-android-4.0.1.jar returned status 404
+4.0.2		2026-09-30T23:46:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-kotlin-android/4.0.2/mavsdk-kotlin-android-4.0.2.jar returned status 404
+4.0.3		2026-10-01T20:31:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-kotlin-android/4.0.3/mavsdk-kotlin-android-4.0.3.jar returned status 404
+4.0.4		2026-10-04T01:00:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-kotlin-android/4.0.4/mavsdk-kotlin-android-4.0.4.jar returned status 404
+4.0.5		2026-10-07T07:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-kotlin-android/4.0.5/mavsdk-kotlin-android-4.0.5.jar returned status 404
+4.0.6		2026-10-08T14:17:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mavsdk/mavsdk-kotlin-android/4.0.6/mavsdk-kotlin-android-4.0.6.jar returned status 404

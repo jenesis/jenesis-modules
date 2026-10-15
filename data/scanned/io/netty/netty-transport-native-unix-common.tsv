@@ -240,6 +240,11 @@
 4.1.138.Final	osx-aarch_64	2026-09-09T18:46:18Z	
 4.1.138.Final	osx-x86_64	2026-09-09T18:46:19Z	
 4.1.139.Final			
+4.1.139.Final	linux-aarch_64	2026-10-06T08:51:21Z	
+4.1.139.Final	linux-riscv64	2026-10-06T08:51:21Z	
+4.1.139.Final	linux-x86_64	2026-10-06T08:51:21Z	
+4.1.139.Final	osx-aarch_64	2026-10-06T08:51:21Z	
+4.1.139.Final	osx-x86_64	2026-10-06T08:51:21Z	
 4.1.14.Final		2017-08-02T14:44:40Z	
 4.1.14.Final	linux-x86_64	2017-08-02T13:33:34Z	
 4.1.14.Final	osx-x86_64	2017-08-02T14:44:36Z	
@@ -707,6 +712,11 @@
 4.2.18.Final	osx-aarch_64	2026-09-09T16:55:20Z	
 4.2.18.Final	osx-x86_64	2026-09-09T16:55:20Z	
 4.2.19.Final			
+4.2.19.Final	linux-aarch_64	2026-10-06T08:46:49Z	
+4.2.19.Final	linux-riscv64	2026-10-06T08:46:49Z	
+4.2.19.Final	linux-x86_64	2026-10-06T08:46:49Z	
+4.2.19.Final	osx-aarch_64	2026-10-06T08:46:49Z	
+4.2.19.Final	osx-x86_64	2026-10-06T08:46:49Z	
 4.2.2.Final		2025-06-05T06:31:15Z	
 4.2.2.Final	linux-aarch_64	2025-06-05T06:31:13Z	
 4.2.2.Final	linux-riscv64	2025-06-05T06:31:10Z	

@@ -1,0 +1,2 @@
+1.1-RELEASE		2026-10-08T03:36:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zbeboy/knife4j-simple/1.1-RELEASE/knife4j-simple-1.1-RELEASE.jar returned status 404
+1.2-RELEASE		2026-10-08T09:01:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/zbeboy/knife4j-simple/1.2-RELEASE/knife4j-simple-1.2-RELEASE.jar returned status 404

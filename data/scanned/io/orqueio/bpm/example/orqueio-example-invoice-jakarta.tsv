@@ -5,6 +5,7 @@
 1.0.10		2026-06-19T08:46:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice-jakarta/1.0.10/orqueio-example-invoice-jakarta-1.0.10.jar returned status 404
 1.0.10	classes	2026-06-19T08:46:16Z	
 1.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice-jakarta/1.0.11/orqueio-example-invoice-jakarta-1.0.11.jar returned status 404
+1.0.11	classes	2026-10-07T10:06:21Z	
 1.0.2		2025-10-02T15:11:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice-jakarta/1.0.2/orqueio-example-invoice-jakarta-1.0.2.jar returned status 404
 1.0.2	classes	2025-10-02T15:11:53Z	
 1.0.3		2025-10-09T13:47:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice-jakarta/1.0.3/orqueio-example-invoice-jakarta-1.0.3.jar returned status 404
@@ -38,5 +39,6 @@
 2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice-jakarta/2.0.6/orqueio-example-invoice-jakarta-2.0.6.jar returned status 404
 2.0.6	classes	2026-07-14T14:30:41Z	
 2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice-jakarta/2.0.7/orqueio-example-invoice-jakarta-2.0.7.jar returned status 404
+2.0.7	classes	2026-10-07T11:03:02Z	
 2.1.0		2026-07-03T08:12:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/orqueio/bpm/example/orqueio-example-invoice-jakarta/2.1.0/orqueio-example-invoice-jakarta-2.1.0.jar returned status 404
 2.1.0	classes	2026-07-03T08:12:36Z	
