@@ -1,0 +1,2 @@
+2.0.4		2026-10-08T03:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-judge/2.0.4/agentscope-extensions-judge-2.0.4.jar returned status 404
+2.1.0-BETA1		2026-10-08T12:31:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/agentscope/agentscope-extensions-judge/2.1.0-BETA1/agentscope-extensions-judge-2.1.0-BETA1.jar returned status 404

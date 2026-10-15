@@ -1,0 +1,2 @@
+2.0.0		2026-09-26T02:06:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/consentera/consent-sdk/2.0.0/consent-sdk-2.0.0.jar returned status 404
+2.1.0		2026-09-27T14:51:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/consentera/consent-sdk/2.1.0/consent-sdk-2.1.0.jar returned status 404

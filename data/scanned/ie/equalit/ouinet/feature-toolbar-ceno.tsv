@@ -100,3 +100,7 @@
 154.0.1		2026-08-26T18:25:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/feature-toolbar-ceno/154.0.1/feature-toolbar-ceno-154.0.1.jar returned status 404
 155.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/feature-toolbar-ceno/155.0/feature-toolbar-ceno-155.0.jar returned status 404
 155.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/feature-toolbar-ceno/155.0.1/feature-toolbar-ceno-155.0.1.jar returned status 404
+156.0		2026-09-22T10:51:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/feature-toolbar-ceno/156.0/feature-toolbar-ceno-156.0.jar returned status 404
+156.0.1		2026-09-23T13:31:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/feature-toolbar-ceno/156.0.1/feature-toolbar-ceno-156.0.1.jar returned status 404
+157.0		2026-09-30T17:10:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/feature-toolbar-ceno/157.0/feature-toolbar-ceno-157.0.jar returned status 404
+157.0.1		2026-10-07T11:03:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ie/equalit/ouinet/feature-toolbar-ceno/157.0.1/feature-toolbar-ceno-157.0.1.jar returned status 404

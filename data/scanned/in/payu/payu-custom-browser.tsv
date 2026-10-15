@@ -42,6 +42,7 @@
 7.15.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-custom-browser/7.15.6/payu-custom-browser-7.15.6.jar returned status 404
 7.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-custom-browser/7.16.0/payu-custom-browser-7.16.0.jar returned status 404
 7.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-custom-browser/7.16.1/payu-custom-browser-7.16.1.jar returned status 404
+7.16.11		2026-09-23T12:42:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-custom-browser/7.16.11/payu-custom-browser-7.16.11.jar returned status 404
 7.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-custom-browser/7.16.2/payu-custom-browser-7.16.2.jar returned status 404
 7.16.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-custom-browser/7.16.3/payu-custom-browser-7.16.3.jar returned status 404
 7.16.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-custom-browser/7.16.4/payu-custom-browser-7.16.4.jar returned status 404
