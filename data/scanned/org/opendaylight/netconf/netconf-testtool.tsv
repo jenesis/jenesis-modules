@@ -329,8 +329,20 @@
 11.0.2	scale-util	2026-08-28T09:08:14Z	
 11.0.2	stress-client	2026-08-28T09:08:16Z	
 12.0.0			
+12.0.0	executable	2026-09-25T12:18:45Z	
+12.0.0	rest-perf-client	2026-09-25T12:18:46Z	
+12.0.0	scale-util	2026-09-25T12:18:44Z	
+12.0.0	stress-client	2026-09-25T12:18:46Z	
 12.0.1			
+12.0.1	executable	2026-09-30T12:28:52Z	
+12.0.1	rest-perf-client	2026-09-30T12:28:53Z	
+12.0.1	scale-util	2026-09-30T12:28:54Z	
+12.0.1	stress-client	2026-09-30T12:28:54Z	
 12.0.2			
+12.0.2	executable	2026-10-03T15:48:46Z	
+12.0.2	rest-perf-client	2026-10-03T15:48:44Z	
+12.0.2	scale-util	2026-10-03T15:48:45Z	
+12.0.2	stress-client	2026-10-03T15:48:44Z	
 2.0.0		2021-07-04T09:01:56Z	
 2.0.0	executable	2021-07-04T09:01:57Z	
 2.0.0	rest-perf-client	2021-07-04T09:01:58Z	

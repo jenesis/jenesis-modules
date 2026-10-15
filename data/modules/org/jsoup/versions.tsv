@@ -361,6 +361,7 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 10.4.20261003	named	io.github.shafthq	shaft-cli	2026-10-03T22:17:17Z	1.23.1
 0.2.22	named	one.nextera.openat.javelle	javelle-cli	2026-10-06T07:42:59Z	1.23.1
 10.4.20261006	named	io.github.shafthq	shaft-cli	2026-10-06T09:01:20Z	1.23.2
+2.7.6.wso2v1	named	org.wso2.orbit.com.hubspot.jinjava	jinjava	2026-10-08T08:50:32Z	1.23.2
 10.4.20261009	named	io.github.shafthq	shaft-cli	2026-10-09T06:00:47Z	1.23.2
 0.2.23	named	one.nextera.openat.javelle	javelle-cli	2026-10-10T04:16:19Z	1.23.1
 0.2.24	named	one.nextera.openat.javelle	javelle-cli	2026-10-10T11:41:07Z	1.23.1

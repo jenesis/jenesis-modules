@@ -1,0 +1,5 @@
+1.0.0		2026-09-22T10:56:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wesantal/santali-calendar/1.0.0/santali-calendar-1.0.0.jar returned status 404
+1.0.1		2026-09-22T13:51:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wesantal/santali-calendar/1.0.1/santali-calendar-1.0.1.jar returned status 404
+1.0.2		2026-09-22T15:41:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wesantal/santali-calendar/1.0.2/santali-calendar-1.0.2.jar returned status 404
+1.0.3		2026-09-23T08:33:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wesantal/santali-calendar/1.0.3/santali-calendar-1.0.3.jar returned status 404
+1.0.4		2026-09-25T06:55:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wesantal/santali-calendar/1.0.4/santali-calendar-1.0.4.jar returned status 404

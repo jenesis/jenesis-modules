@@ -77,6 +77,7 @@
 0.106.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.106.1/nessie-catalog-format-iceberg-bench-0.106.1.jar returned status 404
 0.106.1	all	2026-01-05T12:57:39Z	
 0.106.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.106.2/nessie-catalog-format-iceberg-bench-0.106.2.jar returned status 404
+0.106.2	all	2026-09-22T14:57:52Z	
 0.107.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.107.0/nessie-catalog-format-iceberg-bench-0.107.0.jar returned status 404
 0.107.0	all	2026-01-28T17:31:46Z	
 0.107.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.107.1/nessie-catalog-format-iceberg-bench-0.107.1.jar returned status 404
@@ -106,6 +107,7 @@
 0.108.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.108.8/nessie-catalog-format-iceberg-bench-0.108.8.jar returned status 404
 0.108.8	all	2026-09-09T13:03:43Z	
 0.109.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.109.0/nessie-catalog-format-iceberg-bench-0.109.0.jar returned status 404
+0.109.0	all	2026-10-08T15:13:59Z	
 0.90.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.90.1/nessie-catalog-format-iceberg-bench-0.90.1.jar returned status 404
 0.90.1	all	2024-06-11T20:32:39Z	
 0.90.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/projectnessie/nessie/nessie-catalog-format-iceberg-bench/0.90.2/nessie-catalog-format-iceberg-bench-0.90.2.jar returned status 404
