@@ -1504,3 +1504,14 @@ be.imgn.gaia.core.testing
 be.imgn.gaia.core
 org.lz4.java
 org.apache.logging.log4j.core
+io.vertx.auth.common
+ai.spicyapi
+ai.shieldlabs
+com.fasterxml.jackson.dataformat.xml
+ai.knowthat.checkpoint.servlet
+ai.knowthat.checkpoint.servlet.shaded
+ai.knowthat.checkpoint.jdkhttpserver.shaded
+ai.cookwala.samples
+africa.mailhive
+ac.shard.api
+ac.pao.reports.web
