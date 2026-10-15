@@ -10,6 +10,8 @@
 0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/lyric/0.1.0/lyric-0.1.0.jar returned status 404
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/lyric/0.1.1/lyric-0.1.1.jar returned status 404
 0.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/lyric/0.1.10/lyric-0.1.10.jar returned status 404
+0.1.11-alpha.107		2026-10-11T20:26:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/lyric/0.1.11-alpha.107/lyric-0.1.11-alpha.107.jar returned status 404
+0.1.11-alpha.111		2026-10-12T01:16:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/lyric/0.1.11-alpha.111/lyric-0.1.11-alpha.111.jar returned status 404
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/lyric/0.1.2/lyric-0.1.2.jar returned status 404
 0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/lyric/0.1.4/lyric-0.1.4.jar returned status 404
 0.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/devtech/libs/lyric/0.1.5/lyric-0.1.5.jar returned status 404

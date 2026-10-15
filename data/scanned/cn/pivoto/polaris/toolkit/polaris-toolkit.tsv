@@ -47,6 +47,7 @@
 3.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.1.7/polaris-toolkit-3.1.7.jar returned status 404
 3.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.1.8/polaris-toolkit-3.1.8.jar returned status 404
 3.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.1.9/polaris-toolkit-3.1.9.jar returned status 404
+3.10.0		2026-10-12T11:06:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.10.0/polaris-toolkit-3.10.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.2.0/polaris-toolkit-3.2.0.jar returned status 404
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.2.1/polaris-toolkit-3.2.1.jar returned status 404
 3.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.3.1/polaris-toolkit-3.3.1.jar returned status 404
@@ -128,3 +129,6 @@
 3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.9.0/polaris-toolkit-3.9.0.jar returned status 404
 3.9.1		2026-09-01T00:59:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.9.1/polaris-toolkit-3.9.1.jar returned status 404
 3.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.9.2/polaris-toolkit-3.9.2.jar returned status 404
+3.9.3		2026-09-24T01:41:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.9.3/polaris-toolkit-3.9.3.jar returned status 404
+3.9.4		2026-09-30T08:11:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.9.4/polaris-toolkit-3.9.4.jar returned status 404
+3.9.5		2026-10-08T15:52:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/pivoto/polaris/toolkit/polaris-toolkit/3.9.5/polaris-toolkit-3.9.5.jar returned status 404
