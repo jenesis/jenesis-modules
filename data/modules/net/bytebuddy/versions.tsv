@@ -1631,3 +1631,4 @@ debug.1	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-03-13T15:01:48Z	1.12
 1.18.14-jdk5	named	net.bytebuddy	byte-buddy	2026-09-14T22:03:46Z	1.18.14-jdk5
 1.18.14	named	net.bytebuddy	byte-buddy	2026-09-14T22:10:16Z	1.18.14
 4.4.4	named	de.gematik.test	tiger-java-agent	2026-10-02T08:45:57Z	1.18.12-jdk5
+4.4.5	named	de.gematik.test	tiger-java-agent	2026-10-07T09:45:55Z	1.18.12-jdk5

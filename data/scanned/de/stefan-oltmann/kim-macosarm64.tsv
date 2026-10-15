@@ -37,4 +37,8 @@
 0.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/kim-macosarm64/0.42.0/kim-macosarm64-0.42.0.jar returned status 404
 0.42.0	metadata	2026-09-19T21:05:48Z	
 0.43.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/kim-macosarm64/0.43.0/kim-macosarm64-0.43.0.jar returned status 404
+0.43.0	metadata	2026-09-24T07:11:39Z	
 0.44.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/kim-macosarm64/0.44.0/kim-macosarm64-0.44.0.jar returned status 404
+0.44.0	metadata	2026-09-30T16:32:05Z	
+0.45.0		2026-10-07T20:51:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/kim-macosarm64/0.45.0/kim-macosarm64-0.45.0.jar returned status 404
+0.45.0	metadata	2026-10-07T20:51:24Z	
