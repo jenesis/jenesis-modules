@@ -1,0 +1,6 @@
+409.13.0		2026-09-25T08:22:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rodvar/kmp-tor/resource-geoip-iosx64/409.13.0/resource-geoip-iosx64-409.13.0.jar returned status 404
+409.13.0	metadata	2026-09-25T08:22:28Z	
+409.13.0-rc1		2026-09-25T06:26:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rodvar/kmp-tor/resource-geoip-iosx64/409.13.0-rc1/resource-geoip-iosx64-409.13.0-rc1.jar returned status 404
+409.13.0-rc1	metadata	2026-09-25T06:26:11Z	
+409.14.0		2026-10-08T07:46:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rodvar/kmp-tor/resource-geoip-iosx64/409.14.0/resource-geoip-iosx64-409.14.0.jar returned status 404
+409.14.0	metadata	2026-10-08T07:46:29Z	

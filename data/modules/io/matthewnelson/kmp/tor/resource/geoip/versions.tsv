@@ -16,3 +16,6 @@
 408.21.0	named	io.matthewnelson.kmp-tor	resource-geoip-jvm	2025-12-16T14:59:47Z	
 408.22.0	named	io.matthewnelson.kmp-tor	resource-geoip-jvm	2026-02-10T18:11:32Z	
 409.5.0	named	io.matthewnelson.kmp-tor	resource-geoip-jvm	2026-02-15T11:44:23Z	
+409.13.0-rc1	named	io.github.rodvar.kmp-tor	resource-geoip-jvm	2026-09-25T06:26:11Z	
+409.13.0	named	io.github.rodvar.kmp-tor	resource-geoip-jvm	2026-09-25T08:22:29Z	
+409.14.0	named	io.github.rodvar.kmp-tor	resource-geoip-jvm	2026-10-08T07:46:30Z	

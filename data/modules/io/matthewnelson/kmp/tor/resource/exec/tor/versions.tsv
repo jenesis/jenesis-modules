@@ -34,3 +34,9 @@
 408.22.0	named	io.matthewnelson.kmp-tor	resource-exec-tor-jvm	2026-02-10T18:11:31Z	
 409.5.0	named	io.matthewnelson.kmp-tor	resource-exec-tor-gpl-jvm	2026-02-15T11:44:19Z	
 409.5.0	named	io.matthewnelson.kmp-tor	resource-exec-tor-jvm	2026-02-15T11:44:23Z	
+409.13.0-rc1	named	io.github.rodvar.kmp-tor	resource-exec-tor-gpl-jvm	2026-09-25T06:26:10Z	
+409.13.0-rc1	named	io.github.rodvar.kmp-tor	resource-exec-tor-jvm	2026-09-25T06:26:10Z	
+409.13.0	named	io.github.rodvar.kmp-tor	resource-exec-tor-gpl-jvm	2026-09-25T08:22:27Z	
+409.13.0	named	io.github.rodvar.kmp-tor	resource-exec-tor-jvm	2026-09-25T08:22:28Z	
+409.14.0	named	io.github.rodvar.kmp-tor	resource-exec-tor-gpl-jvm	2026-10-08T07:46:29Z	
+409.14.0	named	io.github.rodvar.kmp-tor	resource-exec-tor-jvm	2026-10-08T07:46:29Z	
