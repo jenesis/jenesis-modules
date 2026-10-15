@@ -1,0 +1,3 @@
+3.9.3		2026-09-28T09:53:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/data-inventory-impl/3.9.3/data-inventory-impl-3.9.3.jar returned status 404
+3.9.4		2026-09-29T14:47:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/data-inventory-impl/3.9.4/data-inventory-impl-3.9.4.jar returned status 404
+3.9.5		2026-10-01T14:36:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/fintechsdk/data-inventory-impl/3.9.5/data-inventory-impl-3.9.5.jar returned status 404

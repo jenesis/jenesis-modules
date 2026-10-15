@@ -934,6 +934,7 @@
 1.2.0	named	io.github.ktestify	ktestify-cucumber	2026-09-29T18:11:23Z	2.0.81.Final
 6.0.0	named	com.liquibase.ext	liquibase-commercial-bigquery	2026-09-29T20:17:14Z	2.0.75.Final
 3.9.07	named	org.metricshub	metricshub-agent	2026-09-30T15:01:36Z	2.0.74.Final
+1.1.0	named	com.zonzonzon	common-cassandra	2026-09-30T16:32:08Z	2.0.72.Final
 47.0.0	named	com.google.api-ads	google-ads-shadowjar	2026-09-30T21:09:42Z	2.0.75.Final
 2.79.0	named	com.google.api	gapic-generator-java	2026-09-30T22:13:52Z	2.0.75.Final
 2.77.0	named	org.apache.beam	beam-runners-spark-3-job-server	2026-10-01T10:39:04Z	2.0.75.Final
@@ -943,6 +944,7 @@
 2.77.0	named	org.apache.beam	beam-sdks-java-io-google-cloud-platform-expansion-service	2026-10-01T11:31:38Z	2.0.75.Final
 2.77.0	named	org.apache.beam	beam-sdks-java-io-snowflake-expansion-service	2026-10-01T11:34:02Z	2.0.75.Final
 2.9.2	named	org.wso2.msf4j	msf4j-all	2026-10-01T16:14:39Z	2.0.84.Final
+1.1.1	named	com.zonzonzon	common-cassandra	2026-10-02T15:47:56Z	2.0.72.Final
 4.143.7	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-03T02:12:24Z	2.0.72.Final
 2.5.0	named	com.scalekit	scalekit-sdk-java	2026-10-05T08:05:58Z	2.0.72.Final
 4.1.14	named	com.instaclustr	esop-azure	2026-10-07T09:41:08Z	2.0.73.Final
