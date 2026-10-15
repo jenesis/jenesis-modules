@@ -1,0 +1,2 @@
+0.1.0		2026-10-07T12:36:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/amaljeevs/agentguard-parent/0.1.0/agentguard-parent-0.1.0.jar returned status 404
+0.2.0		2026-10-09T09:26:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/amaljeevs/agentguard-parent/0.2.0/agentguard-parent-0.2.0.jar returned status 404

@@ -5,3 +5,4 @@
 3.0.0		2026-09-13T03:36:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/apptolast/baselogin-iossimulatorarm64/3.0.0/baselogin-iossimulatorarm64-3.0.0.jar returned status 404
 3.0.0	metadata	2026-09-13T03:36:25Z	
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/apptolast/baselogin-iossimulatorarm64/3.0.2/baselogin-iossimulatorarm64-3.0.2.jar returned status 404
+3.0.2	metadata	2026-09-30T16:42:29Z	

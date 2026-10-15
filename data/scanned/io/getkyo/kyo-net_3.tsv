@@ -13,3 +13,18 @@
 1.0.0-RC6	linux-x86_64	2026-08-04T19:35:21Z	
 1.0.0-RC6	linux-x86_64-boringssl	2026-08-04T19:35:23Z	
 1.0.0-RC7			
+1.0.0-RC7	all-natives	2026-09-28T16:46:07Z	
+1.0.0-RC7	darwin-aarch64	2026-09-28T16:46:06Z	
+1.0.0-RC7	darwin-aarch64-boringssl	2026-09-28T16:46:06Z	
+1.0.0-RC7	darwin-x86_64	2026-09-28T16:46:06Z	
+1.0.0-RC7	darwin-x86_64-boringssl	2026-09-28T16:46:06Z	
+1.0.0-RC7	linux-aarch64	2026-09-28T16:46:06Z	
+1.0.0-RC7	linux-aarch64-boringssl	2026-09-28T16:46:07Z	
+1.0.0-RC7	linux-musl-aarch64	2026-09-28T16:46:06Z	
+1.0.0-RC7	linux-musl-aarch64-boringssl	2026-09-28T16:46:07Z	
+1.0.0-RC7	linux-musl-x86_64	2026-09-28T16:46:06Z	
+1.0.0-RC7	linux-musl-x86_64-boringssl	2026-09-28T16:46:07Z	
+1.0.0-RC7	linux-x86_64	2026-09-28T16:46:06Z	
+1.0.0-RC7	linux-x86_64-boringssl	2026-09-28T16:46:07Z	
+1.0.0-RC7	windows-aarch64	2026-09-28T16:46:06Z	
+1.0.0-RC7	windows-x86_64	2026-09-28T16:46:06Z	
