@@ -1,0 +1,2 @@
+0.1.0		2026-09-29T22:16:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/occlude/occlude-bom/0.1.0/occlude-bom-0.1.0.jar returned status 404
+0.2.0		2026-10-03T21:26:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/occlude/occlude-bom/0.2.0/occlude-bom-0.2.0.jar returned status 404

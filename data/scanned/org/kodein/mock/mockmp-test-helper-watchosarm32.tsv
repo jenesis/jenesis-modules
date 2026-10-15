@@ -87,4 +87,6 @@
 3.5.3-kt2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-test-helper-watchosarm32/3.5.3-kt2.3/mockmp-test-helper-watchosarm32-3.5.3-kt2.3.jar returned status 404
 3.5.3-kt2.3	metadata	2026-09-03T10:53:29Z	
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-test-helper-watchosarm32/3.5.4/mockmp-test-helper-watchosarm32-3.5.4.jar returned status 404
+3.5.4	metadata	2026-10-07T11:03:03Z	
 3.5.4-kt2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kodein/mock/mockmp-test-helper-watchosarm32/3.5.4-kt2.3/mockmp-test-helper-watchosarm32-3.5.4-kt2.3.jar returned status 404
+3.5.4-kt2.3	metadata	2026-10-07T11:47:45Z	
