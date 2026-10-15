@@ -1,0 +1,2 @@
+0.3.0		2026-09-23T07:13:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huahill/vadmin-parent/0.3.0/vadmin-parent-0.3.0.jar returned status 404
+0.4.0		2026-09-25T15:36:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huahill/vadmin-parent/0.4.0/vadmin-parent-0.4.0.jar returned status 404
