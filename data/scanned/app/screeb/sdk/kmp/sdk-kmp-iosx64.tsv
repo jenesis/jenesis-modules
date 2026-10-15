@@ -12,4 +12,8 @@
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/kmp/sdk-kmp-iosx64/4.4.1/sdk-kmp-iosx64-4.4.1.jar returned status 404
 4.4.1	metadata	2026-09-16T12:23:24Z	
 4.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/kmp/sdk-kmp-iosx64/4.4.2/sdk-kmp-iosx64-4.4.2.jar returned status 404
+4.4.2	metadata	2026-09-25T15:21:52Z	
 4.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/kmp/sdk-kmp-iosx64/4.4.3/sdk-kmp-iosx64-4.4.3.jar returned status 404
+4.4.3	metadata	2026-09-28T14:22:20Z	
+4.4.4		2026-10-12T15:36:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/screeb/sdk/kmp/sdk-kmp-iosx64/4.4.4/sdk-kmp-iosx64-4.4.4.jar returned status 404
+4.4.4	metadata	2026-10-12T15:36:24Z	

@@ -1502,3 +1502,5 @@ be.imgn.gaia.platform.testing
 be.imgn.gaia.platform
 be.imgn.gaia.core.testing
 be.imgn.gaia.core
+org.lz4.java
+org.apache.logging.log4j.core

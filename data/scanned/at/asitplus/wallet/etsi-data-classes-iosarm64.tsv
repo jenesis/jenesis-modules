@@ -6,3 +6,7 @@
 6.0.0-RC2	metadata	2026-06-23T12:52:21Z	
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/etsi-data-classes-iosarm64/7.0.0/etsi-data-classes-iosarm64-7.0.0.jar returned status 404
 7.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/etsi-data-classes-iosarm64/7.0.0-RC1/etsi-data-classes-iosarm64-7.0.0-RC1.jar returned status 404
+8.0.0		2026-10-01T08:50:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/etsi-data-classes-iosarm64/8.0.0/etsi-data-classes-iosarm64-8.0.0.jar returned status 404
+8.0.0	metadata	2026-10-01T08:50:04Z	
+8.0.0-RC1		2026-09-30T12:57:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/etsi-data-classes-iosarm64/8.0.0-RC1/etsi-data-classes-iosarm64-8.0.0-RC1.jar returned status 404
+8.0.0-RC1	metadata	2026-09-30T12:57:13Z	

@@ -1,0 +1,2 @@
+4.0.0		2026-09-25T14:52:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/mashlab/compose-auto-preview-annotations-android/4.0.0/compose-auto-preview-annotations-android-4.0.0.jar returned status 404
+4.1.0		2026-09-25T18:21:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/mashlab/compose-auto-preview-annotations-android/4.1.0/compose-auto-preview-annotations-android-4.1.0.jar returned status 404
