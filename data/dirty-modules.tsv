@@ -1393,3 +1393,10 @@ io.github.bucket4j.infinispan15
 io.github.bucket4j.ignite3
 io.github.bucket4j.coherence21
 io.github.bucket4j.cassandra
+com.azure.resourcemanager.weightsandbiases
+com.azure.resourcemanager.resources.templatespecs
+com.azure.resourcemanager.platformvalidation
+com.azure.resourcemanager.iothub
+com.azure.resourcemanager.dataprotection
+com.azure.resourcemanager.compute.workloadmanager
+com.azure.resourcemanager.commvaultcontentstore
