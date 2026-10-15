@@ -5,6 +5,9 @@
 0.0.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/discovery-mdns-android/0.0.14/discovery-mdns-android-0.0.14.jar returned status 404
 0.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/discovery-mdns-android/0.0.15/discovery-mdns-android-0.0.15.jar returned status 404
 0.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/discovery-mdns-android/0.0.16/discovery-mdns-android-0.0.16.jar returned status 404
+0.0.17		2026-09-28T08:31:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/discovery-mdns-android/0.0.17/discovery-mdns-android-0.0.17.jar returned status 404
+0.0.18		2026-10-06T12:01:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/discovery-mdns-android/0.0.18/discovery-mdns-android-0.0.18.jar returned status 404
+0.0.19		2026-10-07T14:57:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/discovery-mdns-android/0.0.19/discovery-mdns-android-0.0.19.jar returned status 404
 0.0.5		2026-07-21T09:49:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/discovery-mdns-android/0.0.5/discovery-mdns-android-0.0.5.jar returned status 404
 0.0.6		2026-07-21T11:35:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/discovery-mdns-android/0.0.6/discovery-mdns-android-0.0.6.jar returned status 404
 0.0.7		2026-08-03T09:00:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/energy/chargee/discovery-mdns-android/0.0.7/discovery-mdns-android-0.0.7.jar returned status 404
