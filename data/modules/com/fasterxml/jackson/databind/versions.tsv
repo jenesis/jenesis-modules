@@ -4514,6 +4514,9 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 3.0.0	named	org.apache.seatunnel	connector-kafka	2026-09-23T13:21:11Z	2.15.4
 3.0.0	named	org.apache.seatunnel	connector-hudi	2026-09-23T13:31:01Z	2.15.4
 3.0.0	named	org.apache.seatunnel	connector-datahub	2026-09-23T13:36:18Z	2.15.4
+3.0.0	named	org.apache.seatunnel	connector-salesforce	2026-09-23T13:41:08Z	2.15.4
+3.0.0	named	org.apache.seatunnel	connector-google-ads	2026-09-23T13:44:42Z	2.15.4
+3.0.0	named	org.apache.seatunnel	connector-facebook-ads	2026-09-23T13:45:02Z	2.15.4
 3.0.0	named	org.apache.seatunnel	connector-typesense	2026-09-23T13:57:35Z	2.14.1
 1.2.1	named	org.apache.hudi	hudi-hadoop-mr-bundle	2026-09-24T08:55:18Z	2.15.2
 1.2.1	named	org.apache.hudi	hudi-hive-sync-bundle	2026-09-24T08:55:57Z	2.15.2

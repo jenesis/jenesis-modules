@@ -39,5 +39,8 @@
 0.92.0		2026-09-16T08:28:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/snippetfindings/snippet-findings-api-model-macosx64/0.92.0/snippet-findings-api-model-macosx64-0.92.0.jar returned status 404
 0.92.0	metadata	2026-09-16T08:28:34Z	
 0.93.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/snippetfindings/snippet-findings-api-model-macosx64/0.93.0/snippet-findings-api-model-macosx64-0.93.0.jar returned status 404
+0.93.0	metadata	2026-09-23T05:11:34Z	
 0.94.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/snippetfindings/snippet-findings-api-model-macosx64/0.94.0/snippet-findings-api-model-macosx64-0.94.0.jar returned status 404
+0.94.0	metadata	2026-09-30T07:26:31Z	
 0.95.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/snippetfindings/snippet-findings-api-model-macosx64/0.95.0/snippet-findings-api-model-macosx64-0.95.0.jar returned status 404
+0.95.0	metadata	2026-10-09T07:06:10Z	
