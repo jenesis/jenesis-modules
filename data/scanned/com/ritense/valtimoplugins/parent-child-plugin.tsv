@@ -1,0 +1,4 @@
+1.0.0		2026-09-29T07:46:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/parent-child-plugin/1.0.0/parent-child-plugin-1.0.0.jar returned status 404
+1.0.0	plain	2026-09-29T07:46:36Z	
+1.0.1		2026-09-30T11:41:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimoplugins/parent-child-plugin/1.0.1/parent-child-plugin-1.0.1.jar returned status 404
+1.0.1	plain	2026-09-30T11:41:14Z	

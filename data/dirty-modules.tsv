@@ -1215,3 +1215,7 @@ com.steelreed.queryfence.junit5
 com.steelreed.queryfence.jdbc
 com.steelreed.queryfence.core
 com.sshtools.synergy.niofs
+com.sitepark.oparlclient
+com.github.luben.zstd_jni
+com.github.victools.jsonschema.generator
+com.rulescascade
