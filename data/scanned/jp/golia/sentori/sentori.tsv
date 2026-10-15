@@ -8,3 +8,5 @@
 1.7.1		2026-08-14T16:31:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/sentori/sentori/1.7.1/sentori-1.7.1.jar returned status 404
 1.7.2		2026-08-15T01:01:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/sentori/sentori/1.7.2/sentori-1.7.2.jar returned status 404
 2.0.0		2026-08-15T11:48:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/sentori/sentori/2.0.0/sentori-2.0.0.jar returned status 404
+2.0.2		2026-09-28T01:36:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/sentori/sentori/2.0.2/sentori-2.0.2.jar returned status 404
+2.1.0		2026-09-30T06:01:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/sentori/sentori/2.1.0/sentori-2.1.0.jar returned status 404

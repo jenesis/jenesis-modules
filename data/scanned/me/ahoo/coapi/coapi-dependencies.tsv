@@ -45,3 +45,6 @@
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/coapi/coapi-dependencies/2.1.0/coapi-dependencies-2.1.0.jar returned status 404
 2.1.1		2026-08-16T14:11:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/coapi/coapi-dependencies/2.1.1/coapi-dependencies-2.1.1.jar returned status 404
 2.2.0		2026-08-17T02:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/coapi/coapi-dependencies/2.2.0/coapi-dependencies-2.2.0.jar returned status 404
+2.3.0		2026-10-09T06:15:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/coapi/coapi-dependencies/2.3.0/coapi-dependencies-2.3.0.jar returned status 404
+3.0.0		2026-10-09T06:32:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/coapi/coapi-dependencies/3.0.0/coapi-dependencies-3.0.0.jar returned status 404
+3.1.0		2026-10-09T08:20:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/coapi/coapi-dependencies/3.1.0/coapi-dependencies-3.1.0.jar returned status 404

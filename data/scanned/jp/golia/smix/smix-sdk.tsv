@@ -32,6 +32,12 @@
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/1.0.9/smix-sdk-1.0.9.jar returned status 404
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/10.0.0/smix-sdk-10.0.0.jar returned status 404
 10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/10.1.0/smix-sdk-10.1.0.jar returned status 404
+11.0.0		2026-09-28T10:12:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/11.0.0/smix-sdk-11.0.0.jar returned status 404
+12.0.0		2026-09-30T21:18:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/12.0.0/smix-sdk-12.0.0.jar returned status 404
+12.1.0		2026-10-04T00:01:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/12.1.0/smix-sdk-12.1.0.jar returned status 404
+13.0.0		2026-10-10T03:36:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/13.0.0/smix-sdk-13.0.0.jar returned status 404
+13.1.0		2026-10-10T07:07:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/13.1.0/smix-sdk-13.1.0.jar returned status 404
+14.0.0		2026-10-10T21:05:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/14.0.0/smix-sdk-14.0.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/2.0.0/smix-sdk-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/2.1.0/smix-sdk-2.1.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/2.2.0/smix-sdk-2.2.0.jar returned status 404
