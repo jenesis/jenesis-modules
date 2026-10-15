@@ -1,0 +1,4 @@
+0.1.0		2026-09-29T12:26:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carlonzo/sarie/bridge/0.1.0/bridge-0.1.0.jar returned status 404
+0.1.1		2026-09-29T19:38:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carlonzo/sarie/bridge/0.1.1/bridge-0.1.1.jar returned status 404
+0.1.2		2026-10-01T12:30:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carlonzo/sarie/bridge/0.1.2/bridge-0.1.2.jar returned status 404
+0.1.3		2026-10-02T12:41:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/carlonzo/sarie/bridge/0.1.3/bridge-0.1.3.jar returned status 404

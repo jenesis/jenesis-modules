@@ -722,14 +722,137 @@
 0.20.2-nightly.20260923.a			
 0.20.2-nightly.20260924.a			
 0.20.2-nightly.20260925.a			
+0.20.2-nightly.20260925.a	natives-linux-aarch64	2026-09-26T08:16:34Z	
+0.20.2-nightly.20260925.a	natives-linux-aarch64-musl	2026-09-26T08:16:34Z	
+0.20.2-nightly.20260925.a	natives-linux-x86_64	2026-09-26T08:16:35Z	
+0.20.2-nightly.20260925.a	natives-linux-x86_64-musl	2026-09-26T08:16:34Z	
+0.20.2-nightly.20260925.a	natives-macos-aarch64	2026-09-26T08:16:35Z	
+0.20.2-nightly.20260925.a	natives-macos-x86_64	2026-09-26T08:16:35Z	
+0.20.2-nightly.20260925.a	natives-windows-aarch64	2026-09-26T08:16:34Z	
+0.20.2-nightly.20260925.a	natives-windows-x86_64	2026-09-26T08:16:35Z	
 0.20.2-nightly.20260927.a			
+0.20.2-nightly.20260927.a	natives-linux-aarch64	2026-09-28T08:57:50Z	
+0.20.2-nightly.20260927.a	natives-linux-aarch64-musl	2026-09-28T08:57:50Z	
+0.20.2-nightly.20260927.a	natives-linux-x86_64	2026-09-28T08:57:50Z	
+0.20.2-nightly.20260927.a	natives-linux-x86_64-musl	2026-09-28T08:57:50Z	
+0.20.2-nightly.20260927.a	natives-macos-aarch64	2026-09-28T08:57:50Z	
+0.20.2-nightly.20260927.a	natives-macos-x86_64	2026-09-28T08:57:50Z	
+0.20.2-nightly.20260927.a	natives-windows-aarch64	2026-09-28T08:57:50Z	
+0.20.2-nightly.20260927.a	natives-windows-x86_64	2026-09-28T08:57:52Z	
 0.20.2-nightly.20260929.a			
+0.20.2-nightly.20260929.a	natives-linux-aarch64	2026-09-30T08:26:04Z	
+0.20.2-nightly.20260929.a	natives-linux-aarch64-musl	2026-09-30T08:26:04Z	
+0.20.2-nightly.20260929.a	natives-linux-x86_64	2026-09-30T08:26:04Z	
+0.20.2-nightly.20260929.a	natives-linux-x86_64-musl	2026-09-30T08:26:04Z	
+0.20.2-nightly.20260929.a	natives-macos-aarch64	2026-09-30T08:26:04Z	
+0.20.2-nightly.20260929.a	natives-macos-x86_64	2026-09-30T08:26:05Z	
+0.20.2-nightly.20260929.a	natives-windows-aarch64	2026-09-30T08:26:04Z	
+0.20.2-nightly.20260929.a	natives-windows-x86_64	2026-09-30T08:26:04Z	
 0.20.2-nightly.20260930.a			
+0.20.2-nightly.20260930.a	natives-linux-aarch64	2026-10-01T08:35:56Z	
+0.20.2-nightly.20260930.a	natives-linux-aarch64-musl	2026-10-01T08:35:56Z	
+0.20.2-nightly.20260930.a	natives-linux-x86_64	2026-10-01T08:35:56Z	
+0.20.2-nightly.20260930.a	natives-linux-x86_64-musl	2026-10-01T08:35:56Z	
+0.20.2-nightly.20260930.a	natives-macos-aarch64	2026-10-01T08:35:56Z	
+0.20.2-nightly.20260930.a	natives-macos-x86_64	2026-10-01T08:35:56Z	
+0.20.2-nightly.20260930.a	natives-windows-aarch64	2026-10-01T08:35:56Z	
+0.20.2-nightly.20260930.a	natives-windows-x86_64	2026-10-01T08:35:56Z	
 0.20.2-nightly.20261001.a			
+0.20.2-nightly.20261001.a	natives-linux-aarch64	2026-10-02T08:30:52Z	
+0.20.2-nightly.20261001.a	natives-linux-aarch64-musl	2026-10-02T08:30:52Z	
+0.20.2-nightly.20261001.a	natives-linux-x86_64	2026-10-02T08:30:52Z	
+0.20.2-nightly.20261001.a	natives-linux-x86_64-musl	2026-10-02T08:30:52Z	
+0.20.2-nightly.20261001.a	natives-macos-aarch64	2026-10-02T08:30:52Z	
+0.20.2-nightly.20261001.a	natives-macos-x86_64	2026-10-02T08:30:52Z	
+0.20.2-nightly.20261001.a	natives-windows-aarch64	2026-10-02T08:30:53Z	
+0.20.2-nightly.20261001.a	natives-windows-x86_64	2026-10-02T08:30:53Z	
 0.20.2-nightly.20261004.a			
+0.20.2-nightly.20261004.a	natives-linux-aarch64	2026-10-05T08:51:11Z	
+0.20.2-nightly.20261004.a	natives-linux-aarch64-musl	2026-10-05T08:51:11Z	
+0.20.2-nightly.20261004.a	natives-linux-x86_64	2026-10-05T08:51:11Z	
+0.20.2-nightly.20261004.a	natives-linux-x86_64-musl	2026-10-05T08:51:11Z	
+0.20.2-nightly.20261004.a	natives-macos-aarch64	2026-10-05T08:51:11Z	
+0.20.2-nightly.20261004.a	natives-macos-x86_64	2026-10-05T08:51:11Z	
+0.20.2-nightly.20261004.a	natives-windows-aarch64	2026-10-05T08:51:11Z	
+0.20.2-nightly.20261004.a	natives-windows-x86_64	2026-10-05T08:51:11Z	
 0.20.2-nightly.20261006.a			
+0.20.2-nightly.20261006.a	natives-linux-aarch64	2026-10-07T08:30:53Z	
+0.20.2-nightly.20261006.a	natives-linux-aarch64-musl	2026-10-07T08:30:53Z	
+0.20.2-nightly.20261006.a	natives-linux-x86_64	2026-10-07T08:30:53Z	
+0.20.2-nightly.20261006.a	natives-linux-x86_64-musl	2026-10-07T08:30:53Z	
+0.20.2-nightly.20261006.a	natives-macos-aarch64	2026-10-07T08:30:53Z	
+0.20.2-nightly.20261006.a	natives-macos-x86_64	2026-10-07T08:30:53Z	
+0.20.2-nightly.20261006.a	natives-windows-aarch64	2026-10-07T08:30:53Z	
+0.20.2-nightly.20261006.a	natives-windows-x86_64	2026-10-07T08:30:53Z	
 0.20.2-nightly.20261006.b			
+0.20.2-nightly.20261006.b	natives-linux-aarch64	2026-10-07T20:16:16Z	
+0.20.2-nightly.20261006.b	natives-linux-aarch64-musl	2026-10-07T20:16:16Z	
+0.20.2-nightly.20261006.b	natives-linux-x86_64	2026-10-07T20:16:16Z	
+0.20.2-nightly.20261006.b	natives-linux-x86_64-musl	2026-10-07T20:16:16Z	
+0.20.2-nightly.20261006.b	natives-macos-aarch64	2026-10-07T20:16:17Z	
+0.20.2-nightly.20261006.b	natives-macos-x86_64	2026-10-07T20:16:17Z	
+0.20.2-nightly.20261006.b	natives-windows-aarch64	2026-10-07T20:16:16Z	
+0.20.2-nightly.20261006.b	natives-windows-x86_64	2026-10-07T20:16:16Z	
 0.20.2-nightly.20261006.c			
+0.20.2-nightly.20261006.c	natives-linux-aarch64	2026-10-07T21:51:22Z	
+0.20.2-nightly.20261006.c	natives-linux-aarch64-musl	2026-10-07T21:51:22Z	
+0.20.2-nightly.20261006.c	natives-linux-x86_64	2026-10-07T21:51:22Z	
+0.20.2-nightly.20261006.c	natives-linux-x86_64-musl	2026-10-07T21:51:22Z	
+0.20.2-nightly.20261006.c	natives-macos-aarch64	2026-10-07T21:51:22Z	
+0.20.2-nightly.20261006.c	natives-macos-x86_64	2026-10-07T21:51:22Z	
+0.20.2-nightly.20261006.c	natives-windows-aarch64	2026-10-07T21:51:22Z	
+0.20.2-nightly.20261006.c	natives-windows-x86_64	2026-10-07T21:51:22Z	
 0.21.0			
+0.21.0	natives-linux-aarch64	2026-10-08T19:01:20Z	
+0.21.0	natives-linux-aarch64-musl	2026-10-08T19:01:20Z	
+0.21.0	natives-linux-x86_64	2026-10-08T19:01:20Z	
+0.21.0	natives-linux-x86_64-musl	2026-10-08T19:01:20Z	
+0.21.0	natives-macos-aarch64	2026-10-08T19:01:20Z	
+0.21.0	natives-macos-x86_64	2026-10-08T19:01:20Z	
+0.21.0	natives-windows-aarch64	2026-10-08T19:01:20Z	
+0.21.0	natives-windows-x86_64	2026-10-08T19:01:20Z	
 0.21.1-nightly.20261008.a			
+0.21.1-nightly.20261008.a	natives-linux-aarch64	2026-10-09T08:26:03Z	
+0.21.1-nightly.20261008.a	natives-linux-aarch64-musl	2026-10-09T08:26:03Z	
+0.21.1-nightly.20261008.a	natives-linux-x86_64	2026-10-09T08:26:03Z	
+0.21.1-nightly.20261008.a	natives-linux-x86_64-musl	2026-10-09T08:26:03Z	
+0.21.1-nightly.20261008.a	natives-macos-aarch64	2026-10-09T08:26:03Z	
+0.21.1-nightly.20261008.a	natives-macos-x86_64	2026-10-09T08:26:03Z	
+0.21.1-nightly.20261008.a	natives-windows-aarch64	2026-10-09T08:26:03Z	
+0.21.1-nightly.20261008.a	natives-windows-x86_64	2026-10-09T08:26:03Z	
 0.21.1-nightly.20261009.a			
+0.21.1-nightly.20261009.a	natives-linux-aarch64	2026-10-10T08:20:53Z	
+0.21.1-nightly.20261009.a	natives-linux-aarch64-musl	2026-10-10T08:20:53Z	
+0.21.1-nightly.20261009.a	natives-linux-x86_64	2026-10-10T08:20:53Z	
+0.21.1-nightly.20261009.a	natives-linux-x86_64-musl	2026-10-10T08:20:53Z	
+0.21.1-nightly.20261009.a	natives-macos-aarch64	2026-10-10T08:20:54Z	
+0.21.1-nightly.20261009.a	natives-macos-x86_64	2026-10-10T08:20:53Z	
+0.21.1-nightly.20261009.a	natives-windows-aarch64	2026-10-10T08:20:53Z	
+0.21.1-nightly.20261009.a	natives-windows-x86_64	2026-10-10T08:20:53Z	
+0.22.0		2026-10-12T09:41:39Z	
+0.22.0	natives-linux-aarch64	2026-10-12T09:41:40Z	
+0.22.0	natives-linux-aarch64-musl	2026-10-12T09:41:39Z	
+0.22.0	natives-linux-x86_64	2026-10-12T09:41:39Z	
+0.22.0	natives-linux-x86_64-musl	2026-10-12T09:41:40Z	
+0.22.0	natives-macos-aarch64	2026-10-12T09:41:40Z	
+0.22.0	natives-macos-x86_64	2026-10-12T09:41:40Z	
+0.22.0	natives-windows-aarch64	2026-10-12T09:41:40Z	
+0.22.0	natives-windows-x86_64	2026-10-12T09:41:40Z	
+0.22.1		2026-10-12T22:31:40Z	
+0.22.1	natives-linux-aarch64	2026-10-12T22:31:40Z	
+0.22.1	natives-linux-aarch64-musl	2026-10-12T22:31:40Z	
+0.22.1	natives-linux-x86_64	2026-10-12T22:31:40Z	
+0.22.1	natives-linux-x86_64-musl	2026-10-12T22:31:40Z	
+0.22.1	natives-macos-aarch64	2026-10-12T22:31:40Z	
+0.22.1	natives-macos-x86_64	2026-10-12T22:31:40Z	
+0.22.1	natives-windows-aarch64	2026-10-12T22:31:40Z	
+0.22.1	natives-windows-x86_64	2026-10-12T22:31:41Z	
+0.22.2		2026-10-13T06:56:10Z	
+0.22.2	natives-linux-aarch64	2026-10-13T06:56:10Z	
+0.22.2	natives-linux-aarch64-musl	2026-10-13T06:56:10Z	
+0.22.2	natives-linux-x86_64	2026-10-13T06:56:10Z	
+0.22.2	natives-linux-x86_64-musl	2026-10-13T06:56:11Z	
+0.22.2	natives-macos-aarch64	2026-10-13T06:56:10Z	
+0.22.2	natives-macos-x86_64	2026-10-13T06:56:10Z	
+0.22.2	natives-windows-aarch64	2026-10-13T06:56:11Z	
+0.22.2	natives-windows-x86_64	2026-10-13T06:56:10Z	

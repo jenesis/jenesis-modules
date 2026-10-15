@@ -210,9 +210,11 @@
 1.12.0	named	org.apache.iceberg	iceberg-aws-bundle	2026-09-25T19:21:02Z	4.2.18.Final
 5.89.8	named	com.applitools	eyes-sdk-core-java5	2026-09-28T06:48:46Z	4.2.17.Final
 1.0.1	named	org.openjproxy	ojp-jdbc-driver	2026-09-29T17:56:23Z	4.2.18.Final
+1.13.0-datastrato-read-restrictions.2	named	com.datastrato	iceberg-aws-bundle	2026-09-30T09:51:38Z	4.2.18.Final
 5.89.9	named	com.applitools	eyes-sdk-core-java5	2026-10-01T09:07:47Z	4.2.17.Final
 4.2.19.Final	named	io.netty	netty-codec-http2	2026-10-06T08:46:49Z	4.2.19.Final
 4.1.139.Final	automatic	io.netty	netty-codec-http2	2026-10-06T08:51:20Z	
+1.13.0	named	com.datastrato	experimental-iceberg-aws-bundle	2026-10-08T07:53:53Z	4.2.18.Final
 1.1.0-RC1	named	org.openjproxy	ojp-jdbc-driver	2026-10-09T10:36:22Z	4.2.18.Final
 1.0.2-RC1	named	org.openjproxy	ojp-jdbc-driver	2026-10-09T10:50:57Z	4.2.18.Final
 1.0.2	named	org.openjproxy	ojp-jdbc-driver	2026-10-09T11:01:00Z	4.2.18.Final

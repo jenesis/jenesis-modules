@@ -933,6 +933,7 @@
 1.40.0	named	io.temporal	temporal-shaded	2026-09-29T14:11:45Z	2.0.72.Final
 1.2.0	named	io.github.ktestify	ktestify-cucumber	2026-09-29T18:11:23Z	2.0.81.Final
 6.0.0	named	com.liquibase.ext	liquibase-commercial-bigquery	2026-09-29T20:17:14Z	2.0.75.Final
+1.13.0-datastrato-read-restrictions.2	named	com.datastrato	iceberg-gcp-bundle	2026-09-30T09:51:38Z	2.0.75.Final
 3.9.07	named	org.metricshub	metricshub-agent	2026-09-30T15:01:36Z	2.0.74.Final
 1.1.0	named	com.zonzonzon	common-cassandra	2026-09-30T16:32:08Z	2.0.72.Final
 47.0.0	named	com.google.api-ads	google-ads-shadowjar	2026-09-30T21:09:42Z	2.0.75.Final
@@ -950,6 +951,7 @@
 4.1.14	named	com.instaclustr	esop-azure	2026-10-07T09:41:08Z	2.0.73.Final
 4.1.14	named	com.instaclustr	esop-gcp	2026-10-07T09:41:09Z	2.0.70.Final
 1.84.1	named	io.grpc	grpc-netty-shaded	2026-10-07T13:31:18Z	2.0.81.Final
+1.13.0	named	com.datastrato	experimental-iceberg-gcp-bundle	2026-10-08T07:53:53Z	2.0.75.Final
 2.9.3	named	org.wso2.msf4j	msf4j-all	2026-10-08T09:07:56Z	2.0.84.Final
 1.84.2	named	io.grpc	grpc-netty-shaded	2026-10-08T19:33:33Z	2.0.81.Final
 4.151.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-10T02:26:20Z	2.0.72.Final

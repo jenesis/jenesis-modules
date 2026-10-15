@@ -43,3 +43,4 @@
 3.4.2		2026-06-19T05:38:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doinglab/foodlens/FoodLensSDK-ui/3.4.2/FoodLensSDK-ui-3.4.2.jar returned status 404
 3.4.3		2026-06-22T07:10:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doinglab/foodlens/FoodLensSDK-ui/3.4.3/FoodLensSDK-ui-3.4.3.jar returned status 404
 3.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doinglab/foodlens/FoodLensSDK-ui/3.4.4/FoodLensSDK-ui-3.4.4.jar returned status 404
+3.4.5		2026-10-13T08:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/doinglab/foodlens/FoodLensSDK-ui/3.4.5/FoodLensSDK-ui-3.4.5.jar returned status 404

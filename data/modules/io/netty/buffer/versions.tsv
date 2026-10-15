@@ -259,5 +259,14 @@
 1.12.0	named	org.apache.iceberg	iceberg-spark-runtime-4.0_2.13	2026-09-25T19:34:34Z	4.2.18.Final
 1.12.0	named	org.apache.iceberg	iceberg-spark-runtime-4.1_2.13	2026-09-25T19:35:04Z	4.2.18.Final
 1.12.0	named	org.apache.iceberg	iceberg-spark-runtime-3.5_2.13	2026-09-25T19:36:23Z	4.2.18.Final
+1.13.0-datastrato-read-restrictions.1	named	com.datastrato	iceberg-spark-runtime-4.1_2.13	2026-09-30T08:41:34Z	4.2.18.Final
+1.13.0-datastrato-read-restrictions.2	named	com.datastrato	iceberg-spark-runtime-3.5_2.12	2026-09-30T09:51:37Z	4.2.18.Final
+1.13.0-datastrato-read-restrictions.2	named	com.datastrato	iceberg-spark-runtime-3.5_2.13	2026-09-30T09:51:37Z	4.2.18.Final
+1.13.0-datastrato-read-restrictions.2	named	com.datastrato	iceberg-spark-runtime-4.0_2.13	2026-09-30T09:51:37Z	4.2.18.Final
+1.13.0-datastrato-read-restrictions.2	named	com.datastrato	iceberg-spark-runtime-4.1_2.13	2026-09-30T09:51:37Z	4.2.18.Final
 4.2.19.Final	named	io.netty	netty-buffer	2026-10-06T08:46:48Z	4.2.19.Final
 4.1.139.Final	automatic	io.netty	netty-buffer	2026-10-06T08:51:20Z	
+1.13.0	named	com.datastrato	experimental-iceberg-spark-runtime-3.5_2.12	2026-10-08T07:53:52Z	4.2.18.Final
+1.13.0	named	com.datastrato	experimental-iceberg-spark-runtime-4.0_2.13	2026-10-08T07:53:52Z	4.2.18.Final
+1.13.0	named	com.datastrato	experimental-iceberg-spark-runtime-4.1_2.13	2026-10-08T07:53:52Z	4.2.18.Final
+1.13.0	named	com.datastrato	experimental-iceberg-spark-runtime-3.5_2.13	2026-10-08T07:53:53Z	4.2.18.Final
