@@ -12,6 +12,7 @@
 1.0.21		2026-06-27T15:10:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bom/bom-spring/1.0.21/bom-spring-1.0.21.jar returned status 404
 1.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bom/bom-spring/1.0.22/bom-spring-1.0.22.jar returned status 404
 1.0.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bom/bom-spring/1.0.23/bom-spring-1.0.23.jar returned status 404
+1.0.24		2026-09-27T23:11:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/microfalx/bom/bom-spring/1.0.24/bom-spring-1.0.24.jar returned status 404
 1.0.5		2025-01-07T13:16:04Z	
 1.0.6		2025-01-08T03:23:11Z	
 1.0.7		2025-01-11T22:03:12Z	

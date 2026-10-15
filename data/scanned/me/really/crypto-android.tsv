@@ -1,6 +1,10 @@
 0.2.0		2026-07-16T01:20:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/crypto-android/0.2.0/crypto-android-0.2.0.jar returned status 404
 0.3.0		2026-07-21T11:57:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/crypto-android/0.3.0/crypto-android-0.3.0.jar returned status 404
 0.3.1		2026-07-21T18:59:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/crypto-android/0.3.1/crypto-android-0.3.1.jar returned status 404
+0.3.10		2026-10-02T23:51:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/crypto-android/0.3.10/crypto-android-0.3.10.jar returned status 404
+0.3.11		2026-10-03T09:57:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/crypto-android/0.3.11/crypto-android-0.3.11.jar returned status 404
+0.3.12		2026-10-03T16:17:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/crypto-android/0.3.12/crypto-android-0.3.12.jar returned status 404
+0.3.13		2026-10-05T12:17:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/crypto-android/0.3.13/crypto-android-0.3.13.jar returned status 404
 0.3.2		2026-07-21T22:25:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/crypto-android/0.3.2/crypto-android-0.3.2.jar returned status 404
 0.3.3		2026-07-22T03:59:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/crypto-android/0.3.3/crypto-android-0.3.3.jar returned status 404
 0.3.4		2026-07-28T21:54:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/crypto-android/0.3.4/crypto-android-0.3.4.jar returned status 404
