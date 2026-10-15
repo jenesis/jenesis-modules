@@ -7,4 +7,6 @@
 1.0.3		2026-08-28T20:20:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/hypnoticcanvas/lib-iosarm64/1.0.3/lib-iosarm64-1.0.3.jar returned status 404
 1.0.3	metadata	2026-08-28T20:20:36Z	
 1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/hypnoticcanvas/lib-iosarm64/1.0.6/lib-iosarm64-1.0.6.jar returned status 404
+1.0.6	metadata	2026-09-24T17:28:45Z	
 1.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/hypnoticcanvas/lib-iosarm64/1.0.7/lib-iosarm64-1.0.7.jar returned status 404
+1.0.7	metadata	2026-09-24T19:06:12Z	

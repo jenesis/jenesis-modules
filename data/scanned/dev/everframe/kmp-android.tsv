@@ -1,0 +1,4 @@
+0.10.2		2026-09-30T08:31:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/everframe/kmp-android/0.10.2/kmp-android-0.10.2.jar returned status 404
+1.0.0		2026-10-01T14:21:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/everframe/kmp-android/1.0.0/kmp-android-1.0.0.jar returned status 404
+1.1.0		2026-10-08T09:57:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/everframe/kmp-android/1.1.0/kmp-android-1.1.0.jar returned status 404
+1.2.0		2026-10-12T06:26:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/everframe/kmp-android/1.2.0/kmp-android-1.2.0.jar returned status 404
