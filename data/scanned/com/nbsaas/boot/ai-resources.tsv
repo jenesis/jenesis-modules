@@ -1,0 +1,2 @@
+1.2.1-2025		2026-09-24T06:01:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/ai-resources/1.2.1-2025/ai-resources-1.2.1-2025.jar returned status 404
+1.2.2-2025		2026-09-30T08:26:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/nbsaas/boot/ai-resources/1.2.2-2025/ai-resources-1.2.2-2025.jar returned status 404

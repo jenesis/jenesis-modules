@@ -1,0 +1,2 @@
+0.1.0		2026-10-06T18:36:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/logyard4j/logyard-bom/0.1.0/logyard-bom-0.1.0.jar returned status 404
+0.1.0-rc.2		2026-10-06T17:21:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/logyard4j/logyard-bom/0.1.0-rc.2/logyard-bom-0.1.0-rc.2.jar returned status 404
