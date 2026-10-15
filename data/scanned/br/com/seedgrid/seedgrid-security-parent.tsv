@@ -24,3 +24,6 @@
 2026.08.29		2026-08-29T10:03:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-security-parent/2026.08.29/seedgrid-security-parent-2026.08.29.jar returned status 404
 2026.09.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-security-parent/2026.09.25/seedgrid-security-parent-2026.09.25.jar returned status 404
 2026.09.25-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-security-parent/2026.09.25-1/seedgrid-security-parent-2026.09.25-1.jar returned status 404
+2026.10.08		2026-10-08T17:42:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-security-parent/2026.10.08/seedgrid-security-parent-2026.10.08.jar returned status 404
+2026.10.09		2026-10-10T12:10:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-security-parent/2026.10.09/seedgrid-security-parent-2026.10.09.jar returned status 404
+2026.10.13		2026-10-13T20:11:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-security-parent/2026.10.13/seedgrid-security-parent-2026.10.13.jar returned status 404
