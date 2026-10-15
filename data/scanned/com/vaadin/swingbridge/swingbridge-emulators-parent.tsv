@@ -1,0 +1,2 @@
+1.0.0-beta1		2026-09-30T11:07:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/swingbridge/swingbridge-emulators-parent/1.0.0-beta1/swingbridge-emulators-parent-1.0.0-beta1.jar returned status 404
+1.0.0-rc1		2026-09-30T11:21:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/swingbridge/swingbridge-emulators-parent/1.0.0-rc1/swingbridge-emulators-parent-1.0.0-rc1.jar returned status 404
