@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-15. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-16. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -72,7 +72,7 @@ kotlin.reflect  [explicit rule: owned by `org.jetbrains.kotlin`; 67 other group(
   A * org.jetbrains.kotlin                 2019-01..2026-10 2.4.21               |....================|
   ?   com.utopia-rise                      2026-08..2026-10 1.0.0-rc2            |...................=|
   ?   org.octopusden.octopus.infrastructure 2026-07..2026-07 3.0.8                |..................==|
-  ?   io.github.barqdb.kotlin              2026-07..2026-07 4.1.0                |..................==|
+  ?   io.github.barqdb.kotlin              2026-07..2026-07 4.1.0                |..................=.|
   R   org.apache.pinot                     2025-09..2026-06 1.5.1                |.................==.|
   ?   io.github.rodrigotimoteo             2026-06..2026-06 0.1.0                |..................=.|
     + 62 more: com.airbnb.viaduct, io.github.abdullahkhan118, io.github.tobi-laa, io.github.kshulzh.kefir, io.github.xilinjia.krdb, io.github.snow1026, com.browserstack, com.simprints.realm.kotlin, org.pkl-lang, com.statsig, com.infomaniak.realm.kotlin, com.solapi, (+50 more)
@@ -138,7 +138,7 @@ kotlinx.collections.immutable  [explicit rule: owned by `org.jetbrains`; 1 other
   ?   com.salesforce.revoman               2026-08..2026-08 0.90.0               |...................=|
 kotlinx.serialization.protobuf  [explicit rule: owned by `org.jetbrains`; 1 other group(s) rejected]
   A * org.jetbrains.kotlinx                2021-09..2026-09 1.12.0-RC            |.........===========|
-  ?   org.jetbrains.kotlin                 2026-01..2026-10 2.4.21               |..................==|
+  ?   org.jetbrains.kotlin                 2026-01..2026-10 2.4.21               |.................===|
   R   org.danbrough.kotlinx                2022-09..2023-03 1.5.0                |...........==.......|
 com.google.common.util.concurrent.internal  [explicit rule: owned by `com.google.guava`; 9 other group(s) rejected]
   A * com.google.guava                     2023-10..2025-03 1.0.3                |.............====...|
@@ -920,7 +920,7 @@ org.yaml.snakeyaml  [fork: keep `org.yaml`, `com.huaweicloud.sdk` still publishe
   R   io.vertx                             2023-11..2026-10 4.5.35               |.............=======|
   ?   com.vunetsystems.tools.android       2026-10..2026-10 1.0.0-rc.1           |...................=|
   R   org.conductoross                     2026-03..2026-10 3.33.0-rc11          |..................==|
-  ?   com.deftdevs                         2026-07..2026-10 2.0.0                |...................=|
+  ?   com.deftdevs                         2026-07..2026-10 2.0.0                |..................==|
     + 84 more: io.github.psm8, io.github.spah1879, com.sparkutils, com.nvidia, io.github.autor3search, com.google.cloud, io.vertigo, com.arcmutate, org.wso2.carbon.secvault, dev.sophiawhite, org.htcom, org.apache.phoenix, (+72 more)
 org.openapitools.jackson.nullable  [fork: keep `org.openapitools`, `io.github.giis-uniovi` still publishes the name]
   A * org.openapitools                     2023-02..2026-09 0.2.12               |............========|
@@ -1785,7 +1785,7 @@ io.netty.transport  [owned by `io.netty`; 7 other group(s) shade the name]
   ?   io.camunda.connector                 2026-08..2026-09 8.7.28               |...................=|
   R   com.sportradar.unifiedodds.sdk       2026-02..2026-09 4.12.0               |..................==|
   ?   org.reactivemongo                    2026-08..2026-08 1.1.0-RC21.patch1    |...................=|
-  R   io.github.lukaszsamson               2026-04..2026-07 0.2.0                |..................==|
+  R   io.github.lukaszsamson               2026-04..2026-07 0.2.0                |..................=.|
     + 2 more: io.github.qbsstg, io.karatelabs
 io.netty.transport.epoll.linux.x86_64  [owned by `io.netty`; 4 other group(s) shade the name]
   A * io.netty                             2022-05..2026-10 4.1.139.Final        |..........==========|
@@ -2325,7 +2325,7 @@ tucache.spring.boot.starter  [owned by `co.tunan.tucache` (groupId minus two seg
   ? * co.tunan.tucache                     2024-02..2024-02 1.0.4.RELEASE        |..............=.....|
   ?   io.github.tri5m                      2024-12..2026-04 1.0.6                |...............====.|
 glide.api  [owned by `software.amazon.glide` (groupId minus two segments is the module prefix); 2 other group(s) shade the name]
-  ? * software.amazon.glide                2024-06..2024-06 0.4.3                |..............==....|
+  ? * software.amazon.glide                2024-06..2024-06 0.4.3                |..............=.....|
   ?   io.valkey                            2024-07..2025-10 2.1.1                |...............===..|
   ?   io.github.gumpacg                    2024-08..2024-08 0.1.0                |...............=....|
 afterburner.fx  [owned by `com.dlsc.afterburner` (groupId minus two segments is the module prefix); 1 other group(s) shade the name]
@@ -2504,7 +2504,7 @@ graphql.java.tools  [no clear owner; `com.graphql-java-kickstart` is earliest an
 com.jcraft.jsch  [no clear owner; `com.github.mwiede` is earliest and most recent]
   ? * com.github.mwiede                    2021-08..2026-10 2.28.8               |.........===========|
   ?   com.pesitwizard.connector            2026-02..2026-02 1.2.1                |..................=.|
-  ?   io.github.luigidemasi                2026-01..2026-01 2.27.7               |..................=.|
+  ?   io.github.luigidemasi                2026-01..2026-01 2.27.7               |.................=..|
   ?   com.opendatadsl                      2025-08..2026-01 1.1.29               |.................=..|
   ?   com.testingbot                       2025-08..2025-08 4.3                  |.................=..|
   ?   io.kestra.plugin                     2024-04..2025-03 0.20.1               |..............===...|
