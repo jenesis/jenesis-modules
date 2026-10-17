@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-16. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-17. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -594,7 +594,7 @@ org.apache.commons.dbcp2  [renamed `org.apache.commons` -> `org.apache.tomee` (l
   ?   org.ikasan                           2024-07..2024-07 1.0.0                |...............=....|
 bento.fx  [renamed `software.coley` -> `software.coley.bento-fx` (latest 0.16.0)]
   ? * software.coley                       2025-04..2026-01 0.15.1               |................==..|
-  ?   software.coley.bento-fx              2026-07..2026-07 0.16.0               |...................=|
+  ?   software.coley.bento-fx              2026-07..2026-07 0.16.0               |..................=.|
 com.peruncs.odbjca.api  [renamed `com.peruncs.odbjca` -> `com.peruncs` (latest 0.0.2)]
   ? * com.peruncs.odbjca                   2018-11..2018-11 0.0.1                |....=...............|
   ?   com.peruncs                          2018-11..2018-11 0.0.2                |....=...............|
@@ -797,7 +797,7 @@ org.apache.commons.compress  [fork: keep `org.apache.commons`, `io.spicelabs` st
 org.checkerframework.checker.qual  [fork: keep `org.checkerframework`, `io.valkyrja` still publishes the name]
   A * org.checkerframework                 2018-08..2026-10 4.3.1                |...=================|
   ?   io.valkyrja                          2026-07..2026-10 26.4.42              |...................=|
-  R   io.boxlang                           2026-01..2026-10 1.18.0               |..................==|
+  R   io.boxlang                           2026-01..2026-10 1.18.0               |.................===|
   R   io.vitess                            2024-10..2026-10 23.0.7               |...............=====|
   R   com.google.cloud                     2024-06..2026-09 3.49.0               |..............======|
   ?   org.jetbrains.kotlin                 2026-09..2026-09 2.5.0-Beta1          |...................=|
@@ -868,7 +868,7 @@ com.google.errorprone.annotations  [fork: keep `com.google.errorprone`, `org.che
 ch.qos.logback.core  [fork: keep `ch.qos.logback`, `org.ton.ton4j` still publishes the name]
   A * ch.qos.logback                       2018-01..2026-09 1.6.5                |..==================|
   R   org.ton.ton4j                        2025-11..2026-10 2.2.0                |.................===|
-  R   com.effacy.jui                       2024-12..2026-10 0.4.4                |................====|
+  R   com.effacy.jui                       2024-12..2026-10 0.4.4                |...............=====|
   R   com.deltaproto                       2026-04..2026-09 1.7.0                |..................==|
   ?   ch.exense.step                       2026-07..2026-08 3.30.3               |..................==|
   R   de.gematik.test                      2025-11..2026-08 4.4.2                |.................===|
@@ -1273,7 +1273,7 @@ ch.randelshofer.fastdoubleparser  [fork: keep `ch.randelshofer`, `org.jruby` sti
   ?   org.jruby                            2026-07..2026-09 10.1.2.0             |...................=|
   R   za.co.absa.spline.agent.spark        2023-06..2026-08 2.4.0                |.............=======|
   R   org.apache.inlong                    2023-10..2026-08 2.4.0                |.............=======|
-  R   com.clickzetta                       2024-08..2026-07 2.0.1                |...............=====|
+  R   com.clickzetta                       2024-08..2026-07 2.0.1                |...............====.|
   R   software.amazon.smithy.java          2026-05..2026-06 1.4.0                |..................=.|
     + 33 more: io.github.solven-eu.pepper, org.metafacture, org.jetbrains.kotlinx.dataframe, com.cjbooms, io.github.cmu-phil, io.github.hkarthik7, io.kestra.plugin, io.trino, org.apache.arrow, com.databricks, org.sonarsource.text, org.openrewrite, (+21 more)
 org.apache.commons.text  [fork: keep `org.apache.commons`, `io.github.liquid-java` still publishes the name]
@@ -2785,12 +2785,12 @@ org.apache.commons.beanutils  [no clear owner; `com.guicedee.services` is earlie
   ?   com.guicedee.modules.services        2026-04..2026-09 2.3.0                |..................==|
   ?   io.github.stoyank7                   2026-06..2026-06 1.0.2                |..................=.|
   ?   org.jvnet.jaxb                       2025-09..2026-06 2.0.16               |.................==.|
-  ?   com.github.bld-commons               2026-01..2026-05 3.0.19               |..................=.|
+  ?   com.github.bld-commons               2026-01..2026-05 3.0.19               |.................==.|
     + 4 more: kg.apc, com.github.bordertech.wcomponents, commons-beanutils, org.onebusaway
 jdk.internal.vm.compiler  [no clear owner; `org.graalvm.compiler` is earliest and most recent]
   ? * org.graalvm.compiler                 2018-10..2026-09 23.0.13.1.1          |...=================|
   ?   io.vertx                             2022-11..2026-10 4.5.35               |...........=========|
-  ?   org.linuxforhealth.fhir              2022-08..2022-12 5.1.1                |...........==.......|
+  ?   org.linuxforhealth.fhir              2022-08..2022-12 5.1.1                |...........=........|
 org.apache.commons.cli  [no clear owner; `commons-cli` is earliest and most recent]
   ? * commons-cli                          2023-10..2025-11 1.11.0               |.............=====..|
   ?   io.github.706412584                  2026-01..2026-10 1.5.0                |..................==|
