@@ -6,7 +6,7 @@
 ![last crawl](https://img.shields.io/github/last-commit/jenesis/jenesis-modules?path=data%2FSTATUS.md&display_timestamp=committer&label=last%20crawl)
 
 > ### [Jenesis](https://jenesis.build) - a modern Java build tool
-> _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
+> _Java-native config, everything the JDK provides built in, with `module-info.java` treated as a feature, not an afterthought._
 
 **A crawler that records the Java module name every modularised artifact on Maven Central declares**, and the
 catalogue it produces. For each module name, every published version is recorded with the Maven coordinates
