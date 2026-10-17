@@ -1,7 +1,7 @@
 # Module summary
 
 > ### [Jenesis](https://jenesis.build) - a modern Java build tool
-> _Java-native config, plugin-free, with `module-info.java` treated as a feature, not an afterthought._
+> _Java-native config, everything the JDK provides built in, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-10-14 07:15:21 UTC_  
 _Current chunk started: 2026-10-15 04:28:54 UTC_  
