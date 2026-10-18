@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-17. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-18. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -815,14 +815,14 @@ io.netty.codec.unused  [fork: keep `io.netty`, `com.github.marks-yag` still publ
   ?   com.github.marks-yag                 2026-09..2026-10 0.29.2               |...................=|
   ?   io.github.oewntk                     2026-09..2026-09 3.0.2                |...................=|
   R   io.acryl                             2026-05..2026-07 1.6.0.16rc7          |..................==|
-  R   com.arcadedb                         2025-07..2026-02 26.2.2               |.................==.|
+  R   com.arcadedb                         2025-07..2026-02 26.2.2               |................===.|
   R   org.apache.ignite                    2025-10..2025-10 3.1.0                |.................=..|
     + 1 more: de.bwaldvogel
 io.netty.buffer  [fork: keep `io.netty`, `com.github.marks-yag` still publishes the name]
   A * io.netty                             2017-12..2026-10 4.1.139.Final        |..==================|
   ?   com.github.marks-yag                 2026-09..2026-10 0.29.2               |...................=|
   ?   com.datastrato                       2026-09..2026-10 1.13.0               |...................=|
-  R   org.opendaylight.controller          2025-07..2026-10 14.0.4               |.................===|
+  R   org.opendaylight.controller          2025-07..2026-10 14.0.4               |................====|
   ?   io.krabka                            2026-08..2026-10 1.4.2                |...................=|
   R   org.apache.iceberg                   2025-04..2026-09 1.12.0               |................====|
     + 24 more: org.opendaylight.jsonrpc, org.apache.polaris, com.exness, top.shouldbe, net.neoforged.jst, org.opendaylight.bgpcep, org.opendaylight.netconf, ai.covia, org.apache.doris, io.github.technobasant, org.apache.kyuubi, org.apache.tika, (+12 more)
@@ -1071,7 +1071,7 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `app.free
   R   app.freerouting                      2026-05..2026-10 2.5.0                |..................==|
   R   io.openems                           2026-02..2026-09 3.4.0-openems.1      |..................==|
   R   com.ghgande                          2025-12..2026-09 3.4.0                |.................===|
-  ?   dk.dma.ais.lib                       2026-07..2026-07 2.8.7                |...................=|
+  ?   dk.dma.ais.lib                       2026-07..2026-07 2.8.7                |..................==|
   R   org.lucee                            2022-03..2026-06 2.26.0.0             |..........=========.|
     + 20 more: nl.tno.org.portico, org.beilstein, me.bechberger, com.kount, com.github.aquality-automation, com.github.bilderherunterlader, com.gemecosystem.gemjar, io.github.alien-tools, com.webforj, io.github.egonw, com.liferay, de.fraunhofer.iem, (+8 more)
 com.networknt.schema  [fork: keep `com.networknt`, `xyz.tcheeric` still publishes the name]
@@ -1663,7 +1663,7 @@ org.htmlunit.websocket.client  [owned by `org.htmlunit`; 1 other group(s) shade 
 org.htmlunit.cssparser  [owned by `org.htmlunit`; 2 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-10 5.6.0                |..................==|
   ?   com.nordstrom.ui-tools               2026-09..2026-09 4.48.0               |...................=|
-  ?   org.seleniumhq.selenium              2026-07..2026-07 4.46.0               |...................=|
+  ?   org.seleniumhq.selenium              2026-07..2026-07 4.46.0               |..................=.|
 org.hibernate.orm.community.dialects  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
   ? * org.hibernate.orm                    2022-05..2026-10 7.4.13.Final         |..........==========|
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
@@ -1744,7 +1744,7 @@ io.vertx.core  [owned by `io.vertx`; 6 other group(s) shade the name]
   ?   io.dekorate                          2026-09..2026-09 5.0.0                |...................=|
   ?   io.fabric8                           2026-09..2026-09 8.0.0                |...................=|
   ?   io.etcd                              2026-08..2026-08 0.8.7                |...................=|
-  ?   io.sirix                             2026-06..2026-07 1.0.0-beta7          |..................==|
+  ?   io.sirix                             2026-06..2026-07 1.0.0-beta7          |..................=.|
   R   io.github.crac.io.vertx              2023-08..2024-09 4.4.6.CRAC.0         |.............===....|
     + 1 more: one.gfw
 io.vertx.auth.common  [owned by `io.vertx`; 1 other group(s) shade the name]
@@ -2488,7 +2488,7 @@ java.xml.bind  [no clear owner; `javax.xml.bind` is earliest and most recent]
   ?   org.wso2.msf4j.samples               2026-05..2026-10 2.9.3                |..................==|
     + 185 more: org.wso2.msf4j.sample, eu.rssw.pct, org.metricshub, int.esa.ccsds.mo, org.apache.james, com.alibaba.dts.client, io.mosip.mock.sdk, com.yahoo.vespa, de.fraunhofer.iosb.ilt.FROST-Server, org.apache.paimon, com.aliyun.openservices.aiservice, io.inji.certify, (+173 more)
 net.jbock.compiler  [no clear owner; `com.github.h908714124` is earliest and most recent]
-  ? * com.github.h908714124                2018-11..2021-05 4.4.000              |....=====...........|
+  ? * com.github.h908714124                2018-11..2021-05 4.4.000              |...======...........|
   ?   io.github.jbock-java                 2021-06..2026-10 6.0.1                |.........===========|
 net.jbock  [no clear owner; `com.github.h908714124` is earliest and most recent]
   ? * com.github.h908714124                2017-10..2021-05 4.4                  |.========...........|
