@@ -3641,3 +3641,16 @@
 3.7.0-snapshot.20261009.14869.0.vbf965b99	named	com.daml	codegen-js	2026-10-10T07:40:43Z	1.6.3
 3.7.0-snapshot.20261009.14869.0.vbf965b99	named	com.daml	codegen-java	2026-10-10T07:40:44Z	1.6.3
 3.7.0-snapshot.20261009.14869.0.vbf965b99	named	com.daml	codegen-jvm-main	2026-10-10T07:40:44Z	1.6.3
+3.7.0-snapshot.20261015.14877.0.vddc0aedb	named	com.daml	codegen-js	2026-10-15T06:47:15Z	1.6.3
+3.7.0-snapshot.20261015.14877.0.vddc0aedb	named	com.daml	codegen-java	2026-10-15T06:47:16Z	1.6.3
+3.7.0-snapshot.20261015.14877.0.vddc0aedb	named	com.daml	codegen-jvm-main	2026-10-15T06:47:17Z	1.6.3
+3.7.0-snapshot.20261015.14878.0.vb5bd70a7	named	com.daml	codegen-js	2026-10-16T06:26:04Z	1.6.3
+3.7.0-snapshot.20261015.14878.0.vb5bd70a7	named	com.daml	codegen-java	2026-10-16T06:26:05Z	1.6.3
+3.7.0-snapshot.20261015.14878.0.vb5bd70a7	named	com.daml	codegen-jvm-main	2026-10-16T06:26:05Z	1.6.3
+3.8.0-snapshot.20261016.14879.0.v2694fb19	named	com.daml	codegen-js	2026-10-16T16:21:06Z	1.6.3
+3.8.0-snapshot.20261016.14879.0.v2694fb19	named	com.daml	codegen-java	2026-10-16T16:21:07Z	1.6.3
+3.8.0-snapshot.20261016.14879.0.v2694fb19	named	com.daml	codegen-jvm-main	2026-10-16T16:21:07Z	1.6.3
+2.10.7-adhoc.20261016.13211.0.v9bfbc015	named	com.daml	codegen-jvm-main	2026-10-16T16:31:20Z	1.6.3
+3.8.0-snapshot.20261016.14880.0.vf8354eb4	named	com.daml	codegen-js	2026-10-17T07:41:21Z	1.6.3
+3.8.0-snapshot.20261016.14880.0.vf8354eb4	named	com.daml	codegen-java	2026-10-17T07:41:22Z	1.6.3
+3.8.0-snapshot.20261016.14880.0.vf8354eb4	named	com.daml	codegen-jvm-main	2026-10-17T07:41:22Z	1.6.3

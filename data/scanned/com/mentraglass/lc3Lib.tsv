@@ -275,6 +275,14 @@
 3.2.1-dev.309		2026-09-22T00:31:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.2.1-dev.309/lc3Lib-3.2.1-dev.309.jar returned status 404
 3.2.1-dev.311		2026-09-22T01:16:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.2.1-dev.311/lc3Lib-3.2.1-dev.311.jar returned status 404
 3.2.1-dev.314		2026-09-22T02:11:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.2.1-dev.314/lc3Lib-3.2.1-dev.314.jar returned status 404
+3.3.0-beta.942			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-beta.942/lc3Lib-3.3.0-beta.942.jar returned status 404
+3.3.0-beta.954			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-beta.954/lc3Lib-3.3.0-beta.954.jar returned status 404
+3.3.0-beta.955			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-beta.955/lc3Lib-3.3.0-beta.955.jar returned status 404
+3.3.0-beta.959			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-beta.959/lc3Lib-3.3.0-beta.959.jar returned status 404
+3.3.0-beta.963			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-beta.963/lc3Lib-3.3.0-beta.963.jar returned status 404
+3.3.0-beta.967			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-beta.967/lc3Lib-3.3.0-beta.967.jar returned status 404
+3.3.0-beta.972			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-beta.972/lc3Lib-3.3.0-beta.972.jar returned status 404
+3.3.0-beta.983			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-beta.983/lc3Lib-3.3.0-beta.983.jar returned status 404
 3.3.0-dev.316		2026-09-22T04:36:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.316/lc3Lib-3.3.0-dev.316.jar returned status 404
 3.3.0-dev.317		2026-09-22T17:01:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.317/lc3Lib-3.3.0-dev.317.jar returned status 404
 3.3.0-dev.320		2026-09-22T18:11:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.320/lc3Lib-3.3.0-dev.320.jar returned status 404
@@ -568,3 +576,85 @@
 3.3.0-dev.846		2026-10-12T21:05:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.846/lc3Lib-3.3.0-dev.846.jar returned status 404
 3.3.0-dev.848		2026-10-12T21:46:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.848/lc3Lib-3.3.0-dev.848.jar returned status 404
 3.3.0-dev.849		2026-10-12T22:46:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.849/lc3Lib-3.3.0-dev.849.jar returned status 404
+3.3.0-dev.851			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.851/lc3Lib-3.3.0-dev.851.jar returned status 404
+3.3.0-dev.854			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.854/lc3Lib-3.3.0-dev.854.jar returned status 404
+3.3.0-dev.860			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.860/lc3Lib-3.3.0-dev.860.jar returned status 404
+3.3.0-dev.861			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.861/lc3Lib-3.3.0-dev.861.jar returned status 404
+3.3.0-dev.863			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.863/lc3Lib-3.3.0-dev.863.jar returned status 404
+3.3.0-dev.864			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.864/lc3Lib-3.3.0-dev.864.jar returned status 404
+3.3.0-dev.870			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.870/lc3Lib-3.3.0-dev.870.jar returned status 404
+3.3.0-dev.874			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.874/lc3Lib-3.3.0-dev.874.jar returned status 404
+3.3.0-dev.878			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.878/lc3Lib-3.3.0-dev.878.jar returned status 404
+3.3.0-dev.879			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.879/lc3Lib-3.3.0-dev.879.jar returned status 404
+3.3.0-dev.880			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.880/lc3Lib-3.3.0-dev.880.jar returned status 404
+3.3.0-dev.881			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.881/lc3Lib-3.3.0-dev.881.jar returned status 404
+3.3.0-dev.882			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.882/lc3Lib-3.3.0-dev.882.jar returned status 404
+3.3.0-dev.883			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.883/lc3Lib-3.3.0-dev.883.jar returned status 404
+3.3.0-dev.884			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.884/lc3Lib-3.3.0-dev.884.jar returned status 404
+3.3.0-dev.886			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.886/lc3Lib-3.3.0-dev.886.jar returned status 404
+3.3.0-dev.887			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.887/lc3Lib-3.3.0-dev.887.jar returned status 404
+3.3.0-dev.890			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.890/lc3Lib-3.3.0-dev.890.jar returned status 404
+3.3.0-dev.894			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.894/lc3Lib-3.3.0-dev.894.jar returned status 404
+3.3.0-dev.895			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.895/lc3Lib-3.3.0-dev.895.jar returned status 404
+3.3.0-dev.898			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.898/lc3Lib-3.3.0-dev.898.jar returned status 404
+3.3.0-dev.900			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.900/lc3Lib-3.3.0-dev.900.jar returned status 404
+3.3.0-dev.901			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.901/lc3Lib-3.3.0-dev.901.jar returned status 404
+3.3.0-dev.903			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.903/lc3Lib-3.3.0-dev.903.jar returned status 404
+3.3.0-dev.905			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.905/lc3Lib-3.3.0-dev.905.jar returned status 404
+3.3.0-dev.906			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.906/lc3Lib-3.3.0-dev.906.jar returned status 404
+3.3.0-dev.909			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.909/lc3Lib-3.3.0-dev.909.jar returned status 404
+3.3.0-dev.910			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.910/lc3Lib-3.3.0-dev.910.jar returned status 404
+3.3.0-dev.911			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.911/lc3Lib-3.3.0-dev.911.jar returned status 404
+3.3.0-dev.912			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.912/lc3Lib-3.3.0-dev.912.jar returned status 404
+3.3.0-dev.913			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.913/lc3Lib-3.3.0-dev.913.jar returned status 404
+3.3.0-dev.914			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.914/lc3Lib-3.3.0-dev.914.jar returned status 404
+3.3.0-dev.915			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.915/lc3Lib-3.3.0-dev.915.jar returned status 404
+3.3.0-dev.916			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.916/lc3Lib-3.3.0-dev.916.jar returned status 404
+3.3.0-dev.917			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.917/lc3Lib-3.3.0-dev.917.jar returned status 404
+3.3.0-dev.918			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.918/lc3Lib-3.3.0-dev.918.jar returned status 404
+3.3.0-dev.919			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.919/lc3Lib-3.3.0-dev.919.jar returned status 404
+3.3.0-dev.920			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.920/lc3Lib-3.3.0-dev.920.jar returned status 404
+3.3.0-dev.921			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.921/lc3Lib-3.3.0-dev.921.jar returned status 404
+3.3.0-dev.922			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.922/lc3Lib-3.3.0-dev.922.jar returned status 404
+3.3.0-dev.923			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.923/lc3Lib-3.3.0-dev.923.jar returned status 404
+3.3.0-dev.924			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.924/lc3Lib-3.3.0-dev.924.jar returned status 404
+3.3.0-dev.925			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.925/lc3Lib-3.3.0-dev.925.jar returned status 404
+3.3.0-dev.926			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.926/lc3Lib-3.3.0-dev.926.jar returned status 404
+3.3.0-dev.927			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.927/lc3Lib-3.3.0-dev.927.jar returned status 404
+3.3.0-dev.928			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.928/lc3Lib-3.3.0-dev.928.jar returned status 404
+3.3.0-dev.929			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.929/lc3Lib-3.3.0-dev.929.jar returned status 404
+3.3.0-dev.930			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.930/lc3Lib-3.3.0-dev.930.jar returned status 404
+3.3.0-dev.931			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.931/lc3Lib-3.3.0-dev.931.jar returned status 404
+3.3.0-dev.932			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.932/lc3Lib-3.3.0-dev.932.jar returned status 404
+3.3.0-dev.936			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.936/lc3Lib-3.3.0-dev.936.jar returned status 404
+3.3.0-dev.939			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.939/lc3Lib-3.3.0-dev.939.jar returned status 404
+3.3.0-dev.941			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.941/lc3Lib-3.3.0-dev.941.jar returned status 404
+3.3.0-dev.943			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.943/lc3Lib-3.3.0-dev.943.jar returned status 404
+3.3.0-dev.944			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.3.0-dev.944/lc3Lib-3.3.0-dev.944.jar returned status 404
+3.4.0-dev.945			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.945/lc3Lib-3.4.0-dev.945.jar returned status 404
+3.4.0-dev.947			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.947/lc3Lib-3.4.0-dev.947.jar returned status 404
+3.4.0-dev.948			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.948/lc3Lib-3.4.0-dev.948.jar returned status 404
+3.4.0-dev.949			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.949/lc3Lib-3.4.0-dev.949.jar returned status 404
+3.4.0-dev.950			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.950/lc3Lib-3.4.0-dev.950.jar returned status 404
+3.4.0-dev.951			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.951/lc3Lib-3.4.0-dev.951.jar returned status 404
+3.4.0-dev.953			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.953/lc3Lib-3.4.0-dev.953.jar returned status 404
+3.4.0-dev.956			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.956/lc3Lib-3.4.0-dev.956.jar returned status 404
+3.4.0-dev.957			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.957/lc3Lib-3.4.0-dev.957.jar returned status 404
+3.4.0-dev.960			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.960/lc3Lib-3.4.0-dev.960.jar returned status 404
+3.4.0-dev.965			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.965/lc3Lib-3.4.0-dev.965.jar returned status 404
+3.4.0-dev.966			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.966/lc3Lib-3.4.0-dev.966.jar returned status 404
+3.4.0-dev.971			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.971/lc3Lib-3.4.0-dev.971.jar returned status 404
+3.4.0-dev.973			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.973/lc3Lib-3.4.0-dev.973.jar returned status 404
+3.4.0-dev.975			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.975/lc3Lib-3.4.0-dev.975.jar returned status 404
+3.4.0-dev.977			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.977/lc3Lib-3.4.0-dev.977.jar returned status 404
+3.4.0-dev.978			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.978/lc3Lib-3.4.0-dev.978.jar returned status 404
+3.4.0-dev.979			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.979/lc3Lib-3.4.0-dev.979.jar returned status 404
+3.4.0-dev.980			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.980/lc3Lib-3.4.0-dev.980.jar returned status 404
+3.4.0-dev.981			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.981/lc3Lib-3.4.0-dev.981.jar returned status 404
+3.4.0-dev.982			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.982/lc3Lib-3.4.0-dev.982.jar returned status 404
+3.4.0-dev.984			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.984/lc3Lib-3.4.0-dev.984.jar returned status 404
+3.4.0-dev.986			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.986/lc3Lib-3.4.0-dev.986.jar returned status 404
+3.4.0-dev.987			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.987/lc3Lib-3.4.0-dev.987.jar returned status 404
+3.4.0-dev.988			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.988/lc3Lib-3.4.0-dev.988.jar returned status 404
+3.4.0-dev.989			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.989/lc3Lib-3.4.0-dev.989.jar returned status 404
+3.4.0-dev.990			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mentraglass/lc3Lib/3.4.0-dev.990/lc3Lib-3.4.0-dev.990.jar returned status 404

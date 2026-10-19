@@ -1,3 +1,25 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.0.1/carbon-integration-0.0.1.jar returned status 404
+0.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.0.11/carbon-integration-0.0.11.jar returned status 404
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.0.3/carbon-integration-0.0.3.jar returned status 404
+0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.0.4/carbon-integration-0.0.4.jar returned status 404
+0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.0.5/carbon-integration-0.0.5.jar returned status 404
+0.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.0.6/carbon-integration-0.0.6.jar returned status 404
+0.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.0.7/carbon-integration-0.0.7.jar returned status 404
+0.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.0.8/carbon-integration-0.0.8.jar returned status 404
+0.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.0.9/carbon-integration-0.0.9.jar returned status 404
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.1.0/carbon-integration-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.2.0/carbon-integration-0.2.0.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.3.0/carbon-integration-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.3.1/carbon-integration-0.3.1.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.4.0/carbon-integration-0.4.0.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/0.4.1/carbon-integration-0.4.1.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/1.0.0/carbon-integration-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/1.1.0/carbon-integration-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/1.1.1/carbon-integration-1.1.1.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/1.2.0/carbon-integration-1.2.0.jar returned status 404
+1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/1.2.1/carbon-integration-1.2.1.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/1.3.0/carbon-integration-1.3.0.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/1.4.0/carbon-integration-1.4.0.jar returned status 404
 1.5.0		2026-10-08T11:40:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/1.5.0/carbon-integration-1.5.0.jar returned status 404
 1.5.0-alpha.0		2026-10-08T00:40:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/1.5.0-alpha.0/carbon-integration-1.5.0-alpha.0.jar returned status 404
 1.5.0-alpha.1		2026-10-08T01:26:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zhibaocloud/carbon-integration/1.5.0-alpha.1/carbon-integration-1.5.0-alpha.1.jar returned status 404
