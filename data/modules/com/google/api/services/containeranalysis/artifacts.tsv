@@ -79,6 +79,7 @@ v1-rev20211203-1.32.1	automatic	com.google.apis	google-api-services-containerana
 v1-rev20211105-1.32.1	automatic	com.google.apis	google-api-services-containeranalysis
 v1-rev20211015-1.32.1	automatic	com.google.apis	google-api-services-containeranalysis
 v1-rev20210924-1.32.1	automatic	com.google.apis	google-api-services-containeranalysis
+v1beta1-rev20261002-2.0.0	automatic	com.google.apis	google-api-services-containeranalysis
 v1beta1-rev20260929-2.0.0	automatic	com.google.apis	google-api-services-containeranalysis
 v1beta1-rev20260918-2.0.0	automatic	com.google.apis	google-api-services-containeranalysis
 v1beta1-rev20260826-2.0.0	automatic	com.google.apis	google-api-services-containeranalysis
