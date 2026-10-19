@@ -99,3 +99,4 @@
 26.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-quarkus-dist/26.7.4/keycloak-quarkus-dist-26.7.4.jar returned status 404
 26.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-quarkus-dist/26.7.5/keycloak-quarkus-dist-26.7.5.jar returned status 404
 26.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-quarkus-dist/26.8.0/keycloak-quarkus-dist-26.8.0.jar returned status 404
+26.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/keycloak/keycloak-quarkus-dist/26.8.1/keycloak-quarkus-dist-26.8.1.jar returned status 404

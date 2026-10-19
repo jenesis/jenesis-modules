@@ -1517,6 +1517,10 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 1.29.0	named	no.entur	interface-protoc-plugin	2026-10-02T17:56:08Z	3.20.0
 3.26.39	named	com.ubs-hainer	filebridge-jdbc-driver	2026-10-05T08:11:06Z	3.19.0
 3.26.39-XHLP-5033	named	com.ubs-hainer	filebridge-jdbc-driver	2026-10-08T12:26:08Z	3.19.0
+2.1.0	named	org.apache.paimon	paimon-obs	2026-10-08T18:18:26Z	3.18.0
+2.1.0	named	org.apache.paimon	paimon-hadoop-uber	2026-10-08T18:22:41Z	3.18.0
+2.1.0	named	org.apache.paimon	paimon-obs-impl	2026-10-08T18:26:27Z	3.18.0
+2.1.0	named	org.apache.paimon	paimon-format	2026-10-08T18:29:44Z	3.18.0
 4.0.12.10	named	io.streamnative	buildtools	2026-10-11T02:15:51Z	3.19.0
 3.25.0-Java8	named	com.equinor.neqsim	neqsim	2026-10-13T09:16:04Z	3.20.0
 3.25.0	named	com.equinor.neqsim	neqsim	2026-10-13T09:21:22Z	3.21.0

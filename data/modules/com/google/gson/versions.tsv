@@ -5286,3 +5286,6 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 0.5.1-1-flink-2.1	named	io.github.cobble-project	cobble-flink-dist	2026-10-11T16:59:05Z	2.10.1
 0.5.1-1-flink-2.0	named	io.github.cobble-project	cobble-flink-dist	2026-10-11T16:59:06Z	2.10.1
 0.5.1-1-flink-1.17	named	io.github.cobble-project	cobble-flink-dist	2026-10-11T16:59:06Z	2.10.1
+12.1.1.87771	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-10-13T16:10:55Z	2.14.0
+12.1.1.87771	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-10-13T16:10:56Z	2.14.0
+6.1.1.79808	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-10-14T08:12:05Z	2.14.0
