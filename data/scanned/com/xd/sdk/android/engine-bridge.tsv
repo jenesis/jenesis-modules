@@ -8,3 +8,4 @@
 7.8.0		2026-08-07T03:48:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xd/sdk/android/engine-bridge/7.8.0/engine-bridge-7.8.0.jar returned status 404
 7.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xd/sdk/android/engine-bridge/7.9.0/engine-bridge-7.9.0.jar returned status 404
 7.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xd/sdk/android/engine-bridge/7.9.1/engine-bridge-7.9.1.jar returned status 404
+7.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/xd/sdk/android/engine-bridge/7.9.2/engine-bridge-7.9.2.jar returned status 404

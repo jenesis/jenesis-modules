@@ -35,3 +35,4 @@
 1.10.2-intellij-3	named	org.jetbrains.intellij.deps.kotlinx	kotlinx-coroutines-test-jvm	2026-09-08T14:23:24Z	
 1.10.2-intellij-4	named	org.jetbrains.intellij.deps.kotlinx	kotlinx-coroutines-test-jvm	2026-09-16T11:13:23Z	
 1.11.0-intellij-1	named	org.jetbrains.intellij.deps.kotlinx	kotlinx-coroutines-test-jvm	2026-09-18T15:29:29Z	
+3.0.0-rc.1	named	com.airbnb.viaduct	test-fixtures	2026-10-15T20:51:41Z	

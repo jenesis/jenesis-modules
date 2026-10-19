@@ -88,6 +88,7 @@
 0.21.0	metadata	2025-11-11T19:11:25Z	
 0.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codlab/lorcana-data-iossimulatorarm64/0.21.1/lorcana-data-iossimulatorarm64-0.21.1.jar returned status 404
 0.21.1	metadata	2026-01-08T00:56:48Z	
+0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codlab/lorcana-data-iossimulatorarm64/0.24.0/lorcana-data-iossimulatorarm64-0.24.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codlab/lorcana-data-iossimulatorarm64/0.3.0/lorcana-data-iossimulatorarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2024-02-21T22:29:27Z	
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/codlab/lorcana-data-iossimulatorarm64/0.3.2/lorcana-data-iossimulatorarm64-0.3.2.jar returned status 404
