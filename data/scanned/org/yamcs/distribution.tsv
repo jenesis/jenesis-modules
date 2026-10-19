@@ -66,6 +66,7 @@
 5.13.4		2026-08-07T12:12:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/yamcs/distribution/5.13.4/distribution-5.13.4.jar returned status 404
 5.13.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/yamcs/distribution/5.13.5/distribution-5.13.5.jar returned status 404
 5.13.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/yamcs/distribution/5.13.6/distribution-5.13.6.jar returned status 404
+5.13.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/yamcs/distribution/5.13.7/distribution-5.13.7.jar returned status 404
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/yamcs/distribution/5.2.0/distribution-5.2.0.jar returned status 404
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/yamcs/distribution/5.2.1/distribution-5.2.1.jar returned status 404
 5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/yamcs/distribution/5.2.2/distribution-5.2.2.jar returned status 404

@@ -543,6 +543,7 @@
 2026.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-cssom-core-js/2026.1.8/kotlin-cssom-core-js-2026.1.8.jar returned status 404
 2026.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-cssom-core-js/2026.1.9/kotlin-cssom-core-js-2026.1.9.jar returned status 404
 2026.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-cssom-core-js/2026.10.0/kotlin-cssom-core-js-2026.10.0.jar returned status 404
+2026.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-cssom-core-js/2026.10.1/kotlin-cssom-core-js-2026.10.1.jar returned status 404
 2026.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-cssom-core-js/2026.2.0/kotlin-cssom-core-js-2026.2.0.jar returned status 404
 2026.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-cssom-core-js/2026.2.1/kotlin-cssom-core-js-2026.2.1.jar returned status 404
 2026.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/kotlin-wrappers/kotlin-cssom-core-js/2026.2.10/kotlin-cssom-core-js-2026.2.10.jar returned status 404
