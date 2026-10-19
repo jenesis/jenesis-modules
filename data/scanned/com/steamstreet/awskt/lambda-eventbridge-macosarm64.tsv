@@ -4,6 +4,7 @@
 3.1.1	metadata	2026-09-25T00:01:31Z	
 3.1.11		2026-10-12T08:36:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/awskt/lambda-eventbridge-macosarm64/3.1.11/lambda-eventbridge-macosarm64-3.1.11.jar returned status 404
 3.1.11	metadata	2026-10-12T08:36:21Z	
+3.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/awskt/lambda-eventbridge-macosarm64/3.1.12/lambda-eventbridge-macosarm64-3.1.12.jar returned status 404
 3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/awskt/lambda-eventbridge-macosarm64/3.1.2/lambda-eventbridge-macosarm64-3.1.2.jar returned status 404
 3.1.2	metadata	2026-09-25T03:01:17Z	
 3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/awskt/lambda-eventbridge-macosarm64/3.1.3/lambda-eventbridge-macosarm64-3.1.3.jar returned status 404
