@@ -11,3 +11,4 @@
 0.9.9		2026-08-24T08:53:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cpsbiz/ssac3/0.9.9/ssac3-0.9.9.jar returned status 404
 1.0.0		2026-08-25T02:12:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cpsbiz/ssac3/1.0.0/ssac3-1.0.0.jar returned status 404
 1.0.1		2026-08-27T09:53:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cpsbiz/ssac3/1.0.1/ssac3-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cpsbiz/ssac3/1.0.2/ssac3-1.0.2.jar returned status 404

@@ -64,3 +64,4 @@
 0.15.69	metadata	2026-09-29T21:12:16Z	
 0.15.71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/syrou/reaktiv-test-navigation-macosarm64/0.15.71/reaktiv-test-navigation-macosarm64-0.15.71.jar returned status 404
 0.15.71	metadata	2026-10-08T06:26:56Z	
+0.15.72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/syrou/reaktiv-test-navigation-macosarm64/0.15.72/reaktiv-test-navigation-macosarm64-0.15.72.jar returned status 404
