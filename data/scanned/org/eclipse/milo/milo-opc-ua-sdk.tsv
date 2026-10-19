@@ -18,3 +18,4 @@
 1.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/milo/milo-opc-ua-sdk/1.1.6/milo-opc-ua-sdk-1.1.6.jar returned status 404
 1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/milo/milo-opc-ua-sdk/1.1.7/milo-opc-ua-sdk-1.1.7.jar returned status 404
 1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/milo/milo-opc-ua-sdk/1.1.8/milo-opc-ua-sdk-1.1.8.jar returned status 404
+1.2.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/milo/milo-opc-ua-sdk/1.2.0-RC1/milo-opc-ua-sdk-1.2.0-RC1.jar returned status 404

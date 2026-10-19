@@ -280,3 +280,16 @@ sonar.events.server
 org.sonar.server.spring
 org.simpleble
 org.apache.commons.beanutils2
+org.eclipse.yasson
+org.eclipse.milo.opcua.stack.encoding.json
+org.eclipse.milo.opcua.sdk.server
+org.eclipse.milo.opcua.sdk.dtd.manager
+org.eclipse.milo.opcua.sdk.core
+org.eclipse.milo.opcua.stack.core
+org.eclipse.milo.examples.client
+org.eclipse.milo.opcua.sdk.dtd.reader
+org.eclipse.milo.opcua.stack.transport
+org.eclipse.milo.opcua.sdk.client
+org.eclipse.milo.opcua.stack.encoding.xml
+org.eclipse.milo.examples.server
+org.eclipse.milo.opcua.sdk.dtd.core

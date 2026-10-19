@@ -8,3 +8,5 @@
 2026.03.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/keyple/keyple-java-bom/2026.03.16/keyple-java-bom-2026.03.16.jar returned status 404
 2026.03.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/keyple/keyple-java-bom/2026.03.19/keyple-java-bom-2026.03.19.jar returned status 404
 2026.09.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/keyple/keyple-java-bom/2026.09.29/keyple-java-bom-2026.09.29.jar returned status 404
+2026.10.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/keyple/keyple-java-bom/2026.10.13/keyple-java-bom-2026.10.13.jar returned status 404
+2026.10.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/keyple/keyple-java-bom/2026.10.14/keyple-java-bom-2026.10.14.jar returned status 404
