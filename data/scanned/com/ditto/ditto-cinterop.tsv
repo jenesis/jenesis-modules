@@ -115,6 +115,8 @@
 5.1.0-rc.1			
 5.1.0-rc.2		2026-08-05T23:17:03Z	
 5.1.0-rc.3		2026-08-13T12:16:09Z	
+5.1.1-experimental-cache-cap.2			
+5.1.1-experimental-cache-cap.3			
 5.2.0-dev-sdks-4505.20260717.7			
 5.2.0-dev-weekly.20260726.1866			
 5.2.0-dev-weekly.20260802.1991			
@@ -124,7 +126,10 @@
 5.2.0-dev-weekly.20260913.2457			
 5.2.0-experimental-ca-kmp-internal.1			
 5.2.0-experimental-ca-kmp-public.1			
+5.2.0-experimental-puro-workers.20261014.1			
 5.2.0-preview.1			
 5.2.0-preview.2			
 5.2.0-preview.3			
 5.2.0-preview.5			
+5.3.0-dev-test-puro.1			
+5.3.0-experimental-xcode263.3			

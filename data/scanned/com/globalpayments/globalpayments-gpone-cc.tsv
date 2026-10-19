@@ -2,3 +2,4 @@
 0.0.12_rc2		2026-08-27T14:38:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/globalpayments/globalpayments-gpone-cc/0.0.12_rc2/globalpayments-gpone-cc-0.0.12_rc2.jar returned status 404
 0.0.14_dr1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/globalpayments/globalpayments-gpone-cc/0.0.14_dr1/globalpayments-gpone-cc-0.0.14_dr1.jar returned status 404
 0.0.14_rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/globalpayments/globalpayments-gpone-cc/0.0.14_rc3/globalpayments-gpone-cc-0.0.14_rc3.jar returned status 404
+0.0.16_rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/globalpayments/globalpayments-gpone-cc/0.0.16_rc4/globalpayments-gpone-cc-0.0.16_rc4.jar returned status 404

@@ -694,6 +694,7 @@
 25.2.0-rc1		2026-06-17T16:06:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/25.2.0-rc1/vaadin-bom-25.2.0-rc1.jar returned status 404
 25.2.1		2026-06-26T13:00:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/25.2.1/vaadin-bom-25.2.1.jar returned status 404
 25.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/25.2.10/vaadin-bom-25.2.10.jar returned status 404
+25.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/25.2.11/vaadin-bom-25.2.11.jar returned status 404
 25.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/25.2.2/vaadin-bom-25.2.2.jar returned status 404
 25.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/25.2.3/vaadin-bom-25.2.3.jar returned status 404
 25.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/25.2.4/vaadin-bom-25.2.4.jar returned status 404
@@ -791,6 +792,7 @@
 7.7.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/7.7.52/vaadin-bom-7.7.52.jar returned status 404
 7.7.53		2026-06-17T11:13:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/7.7.53/vaadin-bom-7.7.53.jar returned status 404
 7.7.54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/7.7.54/vaadin-bom-7.7.54.jar returned status 404
+7.7.55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/7.7.55/vaadin-bom-7.7.55.jar returned status 404
 7.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/7.7.6/vaadin-bom-7.7.6.jar returned status 404
 7.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/7.7.7/vaadin-bom-7.7.7.jar returned status 404
 7.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/7.7.8/vaadin-bom-7.7.8.jar returned status 404
@@ -882,6 +884,7 @@
 8.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/8.31.1/vaadin-bom-8.31.1.jar returned status 404
 8.32.0		2026-08-17T12:57:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/8.32.0/vaadin-bom-8.32.0.jar returned status 404
 8.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/8.32.1/vaadin-bom-8.32.1.jar returned status 404
+8.32.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/8.32.2/vaadin-bom-8.32.2.jar returned status 404
 8.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/8.4.0/vaadin-bom-8.4.0.jar returned status 404
 8.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/8.4.1/vaadin-bom-8.4.1.jar returned status 404
 8.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-bom/8.4.2/vaadin-bom-8.4.2.jar returned status 404

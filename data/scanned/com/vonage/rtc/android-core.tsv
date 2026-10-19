@@ -323,3 +323,4 @@
 2.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/rtc/android-core/2.7.5/android-core-2.7.5.jar returned status 404
 2.7.5-snapshot.202610011214			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/rtc/android-core/2.7.5-snapshot.202610011214/android-core-2.7.5-snapshot.202610011214.jar returned status 404
 2.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/rtc/android-core/2.7.6/android-core-2.7.6.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/rtc/android-core/2.8.0/android-core-2.8.0.jar returned status 404
