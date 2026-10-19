@@ -377,6 +377,17 @@
 3.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.14.0/renderer-android-3.14.0.jar returned status 404
 3.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.14.1/renderer-android-3.14.1.jar returned status 404
 3.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.15.0/renderer-android-3.15.0.jar returned status 404
+3.15.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.15.4/renderer-android-3.15.4.jar returned status 404
+3.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.16.0/renderer-android-3.16.0.jar returned status 404
+3.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.16.1/renderer-android-3.16.1.jar returned status 404
+3.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.17.0/renderer-android-3.17.0.jar returned status 404
+3.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.17.1/renderer-android-3.17.1.jar returned status 404
+3.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.18.0/renderer-android-3.18.0.jar returned status 404
+3.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.18.1/renderer-android-3.18.1.jar returned status 404
+3.18.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.18.3/renderer-android-3.18.3.jar returned status 404
+3.18.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.18.6/renderer-android-3.18.6.jar returned status 404
+3.18.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.18.7/renderer-android-3.18.7.jar returned status 404
+3.18.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.18.8/renderer-android-3.18.8.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.2.0/renderer-android-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.3.0/renderer-android-3.3.0.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/renderer-android/3.4.0/renderer-android-3.4.0.jar returned status 404

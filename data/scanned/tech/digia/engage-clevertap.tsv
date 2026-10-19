@@ -6,3 +6,4 @@
 2.0.0		2026-05-29T09:01:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage-clevertap/2.0.0/engage-clevertap-2.0.0.jar returned status 404
 2.0.0-rc.2		2026-05-29T08:22:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage-clevertap/2.0.0-rc.2/engage-clevertap-2.0.0-rc.2.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage-clevertap/3.0.0/engage-clevertap-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/digia/engage-clevertap/3.0.1/engage-clevertap-3.0.1.jar returned status 404
