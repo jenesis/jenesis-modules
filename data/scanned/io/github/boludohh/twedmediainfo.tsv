@@ -1,1 +1,4 @@
 0.1.0		2026-10-07T10:06:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/boludohh/twedmediainfo/0.1.0/twedmediainfo-0.1.0.jar returned status 404
+0.2.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/boludohh/twedmediainfo/0.2.0-beta1/twedmediainfo-0.2.0-beta1.jar returned status 404
+0.2.0-beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/boludohh/twedmediainfo/0.2.0-beta2/twedmediainfo-0.2.0-beta2.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/boludohh/twedmediainfo/1.0.0/twedmediainfo-1.0.0.jar returned status 404
