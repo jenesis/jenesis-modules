@@ -1,3 +1,6 @@
 0.1.0		2026-09-22T11:21:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bahromzodabehruz27/device-signals-sdk/0.1.0/device-signals-sdk-0.1.0.jar returned status 404
 0.1.1		2026-09-22T12:56:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bahromzodabehruz27/device-signals-sdk/0.1.1/device-signals-sdk-0.1.1.jar returned status 404
 0.2.0		2026-10-10T18:25:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bahromzodabehruz27/device-signals-sdk/0.2.0/device-signals-sdk-0.2.0.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bahromzodabehruz27/device-signals-sdk/0.3.0/device-signals-sdk-0.3.0.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bahromzodabehruz27/device-signals-sdk/0.4.0/device-signals-sdk-0.4.0.jar returned status 404
+0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/bahromzodabehruz27/device-signals-sdk/0.4.1/device-signals-sdk-0.4.1.jar returned status 404

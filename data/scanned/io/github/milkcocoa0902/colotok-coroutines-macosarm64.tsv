@@ -14,3 +14,4 @@
 0.4.3	metadata	2026-08-08T09:03:52Z	
 0.5.0		2026-08-22T08:33:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/milkcocoa0902/colotok-coroutines-macosarm64/0.5.0/colotok-coroutines-macosarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-08-22T08:33:41Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/milkcocoa0902/colotok-coroutines-macosarm64/1.0.0/colotok-coroutines-macosarm64-1.0.0.jar returned status 404
