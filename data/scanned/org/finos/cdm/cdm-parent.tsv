@@ -224,6 +224,7 @@
 6.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.28.1/cdm-parent-6.28.1.jar returned status 404
 6.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.29.0/cdm-parent-6.29.0.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.3.0/cdm-parent-6.3.0.jar returned status 404
+6.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.30.0/cdm-parent-6.30.0.jar returned status 404
 6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.4.0/cdm-parent-6.4.0.jar returned status 404
 6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.5.0/cdm-parent-6.5.0.jar returned status 404
 6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/6.6.0/cdm-parent-6.6.0.jar returned status 404
@@ -365,7 +366,11 @@
 7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/7.3.0/cdm-parent-7.3.0.jar returned status 404
 7.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/7.4.0/cdm-parent-7.4.0.jar returned status 404
 7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/7.5.0/cdm-parent-7.5.0.jar returned status 404
+7.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/7.6.0/cdm-parent-7.6.0.jar returned status 404
+7.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/7.7.0/cdm-parent-7.7.0.jar returned status 404
 8.0.0-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/8.0.0-dev.1/cdm-parent-8.0.0-dev.1.jar returned status 404
+8.0.0-dev.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/8.0.0-dev.10/cdm-parent-8.0.0-dev.10.jar returned status 404
+8.0.0-dev.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/8.0.0-dev.11/cdm-parent-8.0.0-dev.11.jar returned status 404
 8.0.0-dev.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/8.0.0-dev.2/cdm-parent-8.0.0-dev.2.jar returned status 404
 8.0.0-dev.3		2026-08-07T11:48:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/8.0.0-dev.3/cdm-parent-8.0.0-dev.3.jar returned status 404
 8.0.0-dev.4		2026-08-21T16:14:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/cdm/cdm-parent/8.0.0-dev.4/cdm-parent-8.0.0-dev.4.jar returned status 404

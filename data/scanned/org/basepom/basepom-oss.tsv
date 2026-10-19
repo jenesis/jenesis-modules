@@ -51,3 +51,5 @@
 67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/basepom/basepom-oss/67/basepom-oss-67.jar returned status 404
 68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/basepom/basepom-oss/68/basepom-oss-68.jar returned status 404
 69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/basepom/basepom-oss/69/basepom-oss-69.jar returned status 404
+70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/basepom/basepom-oss/70/basepom-oss-70.jar returned status 404
+71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/basepom/basepom-oss/71/basepom-oss-71.jar returned status 404
