@@ -1667,6 +1667,7 @@
 0.109.1	named	io.simpleishard	trino-cloudops	2026-10-09T13:26:11Z	2.21.5
 27.15.0	named	io.fabrikt	fabrikt	2026-10-09T19:03:23Z	2.21.6
 28.0.0	named	io.fabrikt	fabrikt	2026-10-09T19:40:37Z	2.21.6
+1.0.2	named	org.incenp	kgcl-cli	2026-10-10T10:50:56Z	2.22.3
 0.109.2	named	io.simpleishard	trino-salesforce	2026-10-10T13:11:20Z	2.21.5
 0.109.2	named	io.simpleishard	trino-calcite	2026-10-10T13:40:57Z	2.21.5
 0.109.2	named	io.simpleishard	trino-calcite-base	2026-10-10T13:40:57Z	2.21.5
@@ -1691,3 +1692,6 @@
 0.109.5	named	io.simpleishard	trino-calcite-base	2026-10-11T00:31:08Z	2.21.5
 0.109.5	named	io.simpleishard	trino-sharepoint	2026-10-11T00:31:09Z	2.21.5
 0.109.5	named	io.simpleishard	trino-splunk	2026-10-11T00:31:09Z	2.21.5
+1.0.3	named	org.incenp	kgcl-cli	2026-10-14T20:31:05Z	2.22.3
+1.0.4	named	org.incenp	kgcl-cli	2026-10-17T10:52:24Z	2.22.3
+1.1.0	named	org.incenp	kgcl-cli	2026-10-17T11:11:08Z	2.22.3
