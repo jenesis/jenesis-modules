@@ -2,3 +2,4 @@
 1.0.0-rc.4		2026-08-28T15:55:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/flowwarden/flowwarden-bom/1.0.0-rc.4/flowwarden-bom-1.0.0-rc.4.jar returned status 404
 1.0.0-rc.5		2026-08-30T10:00:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/flowwarden/flowwarden-bom/1.0.0-rc.5/flowwarden-bom-1.0.0-rc.5.jar returned status 404
 1.0.0-rc.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/flowwarden/flowwarden-bom/1.0.0-rc.6/flowwarden-bom-1.0.0-rc.6.jar returned status 404
+1.0.0-rc.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/flowwarden/flowwarden-bom/1.0.0-rc.7/flowwarden-bom-1.0.0-rc.7.jar returned status 404
