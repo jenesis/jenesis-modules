@@ -1,1 +1,6 @@
+5.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/alternator/emr-dynamodb-connector/5.6.0/emr-dynamodb-connector-5.6.0.jar returned status 404
+5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/alternator/emr-dynamodb-connector/5.6.1/emr-dynamodb-connector-5.6.1.jar returned status 404
+5.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/alternator/emr-dynamodb-connector/5.7.0/emr-dynamodb-connector-5.7.0.jar returned status 404
+5.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/alternator/emr-dynamodb-connector/5.7.1/emr-dynamodb-connector-5.7.1.jar returned status 404
+5.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/alternator/emr-dynamodb-connector/5.8.0/emr-dynamodb-connector-5.8.0.jar returned status 404
 5.9.2		2026-10-06T13:11:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/alternator/emr-dynamodb-connector/5.9.2/emr-dynamodb-connector-5.9.2.jar returned status 404

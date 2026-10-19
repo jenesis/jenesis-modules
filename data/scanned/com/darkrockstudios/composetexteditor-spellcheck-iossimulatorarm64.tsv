@@ -106,3 +106,4 @@
 3.0.3	metadata	2026-10-05T09:26:11Z	
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-spellcheck-iossimulatorarm64/3.1.0/composetexteditor-spellcheck-iossimulatorarm64-3.1.0.jar returned status 404
 3.1.0	metadata	2026-10-09T17:11:26Z	
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-spellcheck-iossimulatorarm64/3.1.1/composetexteditor-spellcheck-iossimulatorarm64-3.1.1.jar returned status 404
