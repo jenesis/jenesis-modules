@@ -12,3 +12,4 @@
 0.1.1		2026-10-01T14:01:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/codriverlabs/scaleout-build-parent/0.1.1/scaleout-build-parent-0.1.1.jar returned status 404
 1.0.0		2026-10-01T19:46:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/codriverlabs/scaleout-build-parent/1.0.0/scaleout-build-parent-1.0.0.jar returned status 404
 1.0.1		2026-10-03T03:26:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/codriverlabs/scaleout-build-parent/1.0.1/scaleout-build-parent-1.0.1.jar returned status 404
+1.1.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/codriverlabs/scaleout-build-parent/1.1.0-rc2/scaleout-build-parent-1.1.0-rc2.jar returned status 404

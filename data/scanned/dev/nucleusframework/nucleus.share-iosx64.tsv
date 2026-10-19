@@ -28,3 +28,6 @@
 3.0.0-dev-202610102114	metadata	2026-10-10T21:31:13Z	
 3.0.0-dev-202610110853		2026-10-11T09:10:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/nucleus.share-iosx64/3.0.0-dev-202610110853/nucleus.share-iosx64-3.0.0-dev-202610110853.jar returned status 404
 3.0.0-dev-202610110853	metadata	2026-10-11T09:10:57Z	
+3.0.0-dev-202610121021			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/nucleus.share-iosx64/3.0.0-dev-202610121021/nucleus.share-iosx64-3.0.0-dev-202610121021.jar returned status 404
+3.0.0-dev-202610130543			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/nucleus.share-iosx64/3.0.0-dev-202610130543/nucleus.share-iosx64-3.0.0-dev-202610130543.jar returned status 404
+3.0.0-dev-202610132318			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/nucleus.share-iosx64/3.0.0-dev-202610132318/nucleus.share-iosx64-3.0.0-dev-202610132318.jar returned status 404

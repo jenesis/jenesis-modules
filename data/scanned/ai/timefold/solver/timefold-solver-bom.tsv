@@ -38,6 +38,7 @@
 1.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/1.32.0/timefold-solver-bom-1.32.0.jar returned status 404
 1.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/1.33.0/timefold-solver-bom-1.33.0.jar returned status 404
 1.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/1.34.0/timefold-solver-bom-1.34.0.jar returned status 404
+1.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/1.35.0/timefold-solver-bom-1.35.0.jar returned status 404
 1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/1.4.0/timefold-solver-bom-1.4.0.jar returned status 404
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/1.5.0/timefold-solver-bom-1.5.0.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/1.6.0/timefold-solver-bom-1.6.0.jar returned status 404
@@ -61,3 +62,4 @@
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/2.7.0/timefold-solver-bom-2.7.0.jar returned status 404
 2.7.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/2.7.0-rc-1/timefold-solver-bom-2.7.0-rc-1.jar returned status 404
 2.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/2.7.1/timefold-solver-bom-2.7.1.jar returned status 404
+2.8.0-rc-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/timefold/solver/timefold-solver-bom/2.8.0-rc-1/timefold-solver-bom-2.8.0-rc-1.jar returned status 404

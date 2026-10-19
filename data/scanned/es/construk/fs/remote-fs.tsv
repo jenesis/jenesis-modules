@@ -1,1 +1,2 @@
 0.1.0		2026-10-06T23:15:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/es/construk/fs/remote-fs/0.1.0/remote-fs-0.1.0.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/es/construk/fs/remote-fs/0.2.0/remote-fs-0.2.0.jar returned status 404
