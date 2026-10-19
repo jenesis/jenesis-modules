@@ -1166,3 +1166,6 @@ vv1.2.0.1-1-gadc43b8-1-gf5bc75b	named	com.linkedin.iceberg	iceberg-spark-runtime
 1.1.2	named	org.apache.hudi	hudi-examples-k8s	2026-10-17T07:49:32Z	2.15.2
 1.1.2	named	org.apache.hudi	hudi-spark3-bundle_2.12	2026-10-17T08:06:07Z	2.15.2
 1.1.2	named	org.apache.hudi	hudi-spark4.0-bundle_2.13	2026-10-17T10:15:56Z	2.18.2
+2.18.12	named	com.fasterxml.jackson.datatype	jackson-datatype-jsr310	2026-10-17T18:57:18Z	2.18.12
+2.21.8	named	com.fasterxml.jackson.datatype	jackson-datatype-jsr310	2026-10-17T20:41:06Z	2.21.8
+2.22.4	named	com.fasterxml.jackson.datatype	jackson-datatype-jsr310	2026-10-17T23:36:19Z	2.22.4

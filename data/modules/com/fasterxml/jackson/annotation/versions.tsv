@@ -6625,3 +6625,4 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 4.1.0-RC.19	named	com.kingsrook.qqq	qqq-utility-lambdas	2026-10-16T18:11:38Z	2.21
 4.1.0-RC.20	named	com.kingsrook.qqq	qqq-utility-lambdas	2026-10-17T15:42:12Z	2.21
 0.1.61	named	org.modeljars	modeljars-cli	2026-10-17T16:51:06Z	2.22
+2.18.12	named	com.fasterxml.jackson.core	jackson-annotations	2026-10-17T18:06:11Z	2.18.12

@@ -1695,3 +1695,6 @@
 1.0.3	named	org.incenp	kgcl-cli	2026-10-14T20:31:05Z	2.22.3
 1.0.4	named	org.incenp	kgcl-cli	2026-10-17T10:52:24Z	2.22.3
 1.1.0	named	org.incenp	kgcl-cli	2026-10-17T11:11:08Z	2.22.3
+2.18.12	named	com.fasterxml.jackson.dataformat	jackson-dataformat-yaml	2026-10-17T18:46:05Z	2.18.12
+2.21.8	named	com.fasterxml.jackson.dataformat	jackson-dataformat-yaml	2026-10-17T20:31:13Z	2.21.8
+2.22.4	named	com.fasterxml.jackson.dataformat	jackson-dataformat-yaml	2026-10-17T23:26:18Z	2.22.4

@@ -1300,3 +1300,6 @@ v0.24.1	named	io.kestra	kestra-api-client	2025-10-03T07:53:57Z	2.17.1
 1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	ververica-connector-mongodb	2026-10-08T09:06:11Z	2.14.3
 1.20-vvr-11.9.0-jdk11	named	com.alibaba.ververica	flink-connector-mongodb	2026-10-08T09:06:12Z	2.14.3
 4.0.14.0	named	com.ascentstream.pulsar	pulsar-functions-local-runner	2026-10-15T06:51:16Z	2.18.10
+2.18.12	named	com.fasterxml.jackson.jaxrs	jackson-jaxrs-json-provider	2026-10-17T19:12:44Z	2.18.12
+2.21.8	named	com.fasterxml.jackson.jaxrs	jackson-jaxrs-json-provider	2026-10-17T20:57:13Z	2.21.8
+2.22.4	named	com.fasterxml.jackson.jaxrs	jackson-jaxrs-json-provider	2026-10-17T23:45:56Z	2.22.4
