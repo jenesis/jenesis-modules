@@ -586,6 +586,8 @@
 5.1.0-rc.3	linux-x64	2026-08-13T12:16:09Z	
 5.1.0-rc.3	macos-arm64	2026-08-13T12:16:10Z	
 5.1.0-rc.3	windows-x64	2026-08-13T12:16:09Z	
+5.1.1-experimental-cache-cap.2			
+5.1.1-experimental-cache-cap.3			
 5.2.0-dev-sdks-4505.20260717.7			
 5.2.0-dev-sdks-4505.20260717.7	linux-arm64	2026-07-19T03:03:39Z	
 5.2.0-dev-sdks-4505.20260717.7	linux-x64	2026-07-19T03:03:39Z	
@@ -631,6 +633,7 @@
 5.2.0-experimental-ca-kmp-public.1	linux-x64	2026-09-11T15:32:56Z	
 5.2.0-experimental-ca-kmp-public.1	macos-arm64	2026-09-11T15:32:56Z	
 5.2.0-experimental-ca-kmp-public.1	windows-x64	2026-09-11T15:32:57Z	
+5.2.0-experimental-puro-workers.20261014.1			
 5.2.0-preview.1			
 5.2.0-preview.1	linux-arm64	2026-09-16T07:21:27Z	
 5.2.0-preview.1	linux-x64	2026-09-16T07:21:27Z	
@@ -651,3 +654,5 @@
 5.2.0-preview.5	linux-x64	2026-10-05T07:51:15Z	
 5.2.0-preview.5	macos-arm64	2026-10-05T07:51:15Z	
 5.2.0-preview.5	windows-x64	2026-10-05T07:51:15Z	
+5.3.0-dev-test-puro.1			
+5.3.0-experimental-xcode263.3			
