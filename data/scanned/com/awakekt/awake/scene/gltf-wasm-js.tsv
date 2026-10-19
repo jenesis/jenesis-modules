@@ -16,6 +16,13 @@
 0.10.0		2026-10-13T05:16:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.10.0/gltf-wasm-js-0.10.0.jar returned status 404
 0.11.0		2026-10-13T09:56:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.11.0/gltf-wasm-js-0.11.0.jar returned status 404
 0.11.1		2026-10-13T11:21:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.11.1/gltf-wasm-js-0.11.1.jar returned status 404
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.12.0/gltf-wasm-js-0.12.0.jar returned status 404
+0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.13.1/gltf-wasm-js-0.13.1.jar returned status 404
+0.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.13.2/gltf-wasm-js-0.13.2.jar returned status 404
+0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.14.0/gltf-wasm-js-0.14.0.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.15.0/gltf-wasm-js-0.15.0.jar returned status 404
+0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.16.0/gltf-wasm-js-0.16.0.jar returned status 404
+0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.17.0/gltf-wasm-js-0.17.0.jar returned status 404
 0.2.0		2026-10-06T14:20:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.2.0/gltf-wasm-js-0.2.0.jar returned status 404
 0.4.0		2026-10-09T02:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.4.0/gltf-wasm-js-0.4.0.jar returned status 404
 0.5.0		2026-10-09T07:11:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-wasm-js/0.5.0/gltf-wasm-js-0.5.0.jar returned status 404
