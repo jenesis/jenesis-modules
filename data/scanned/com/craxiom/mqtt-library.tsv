@@ -20,3 +20,4 @@
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/craxiom/mqtt-library/1.1.0/mqtt-library-1.1.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/craxiom/mqtt-library/1.2.0/mqtt-library-1.2.0.jar returned status 404
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/craxiom/mqtt-library/1.3.0/mqtt-library-1.3.0.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/craxiom/mqtt-library/2.0.0/mqtt-library-2.0.0.jar returned status 404

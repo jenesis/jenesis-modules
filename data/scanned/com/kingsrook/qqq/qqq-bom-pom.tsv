@@ -24,6 +24,22 @@
 4.0.0-RC.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.0.0-RC.2/qqq-bom-pom-4.0.0-RC.2.jar returned status 404
 4.0.0-RC.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.0.0-RC.3/qqq-bom-pom-4.0.0-RC.3.jar returned status 404
 4.1.0-RC.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.1/qqq-bom-pom-4.1.0-RC.1.jar returned status 404
+4.1.0-RC.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.10/qqq-bom-pom-4.1.0-RC.10.jar returned status 404
+4.1.0-RC.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.11/qqq-bom-pom-4.1.0-RC.11.jar returned status 404
+4.1.0-RC.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.12/qqq-bom-pom-4.1.0-RC.12.jar returned status 404
+4.1.0-RC.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.13/qqq-bom-pom-4.1.0-RC.13.jar returned status 404
+4.1.0-RC.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.14/qqq-bom-pom-4.1.0-RC.14.jar returned status 404
+4.1.0-RC.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.15/qqq-bom-pom-4.1.0-RC.15.jar returned status 404
+4.1.0-RC.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.16/qqq-bom-pom-4.1.0-RC.16.jar returned status 404
+4.1.0-RC.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.17/qqq-bom-pom-4.1.0-RC.17.jar returned status 404
+4.1.0-RC.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.18/qqq-bom-pom-4.1.0-RC.18.jar returned status 404
+4.1.0-RC.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.19/qqq-bom-pom-4.1.0-RC.19.jar returned status 404
 4.1.0-RC.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.2/qqq-bom-pom-4.1.0-RC.2.jar returned status 404
+4.1.0-RC.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.20/qqq-bom-pom-4.1.0-RC.20.jar returned status 404
 4.1.0-RC.3		2026-10-12T02:01:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.3/qqq-bom-pom-4.1.0-RC.3.jar returned status 404
 4.1.0-RC.4		2026-10-12T17:21:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.4/qqq-bom-pom-4.1.0-RC.4.jar returned status 404
+4.1.0-RC.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.5/qqq-bom-pom-4.1.0-RC.5.jar returned status 404
+4.1.0-RC.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.6/qqq-bom-pom-4.1.0-RC.6.jar returned status 404
+4.1.0-RC.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.7/qqq-bom-pom-4.1.0-RC.7.jar returned status 404
+4.1.0-RC.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.8/qqq-bom-pom-4.1.0-RC.8.jar returned status 404
+4.1.0-RC.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kingsrook/qqq/qqq-bom-pom/4.1.0-RC.9/qqq-bom-pom-4.1.0-RC.9.jar returned status 404
