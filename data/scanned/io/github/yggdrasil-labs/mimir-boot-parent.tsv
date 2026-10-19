@@ -6,3 +6,4 @@
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yggdrasil-labs/mimir-boot-parent/2.1.1/mimir-boot-parent-2.1.1.jar returned status 404
 2.2.0		2026-08-16T04:07:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yggdrasil-labs/mimir-boot-parent/2.2.0/mimir-boot-parent-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yggdrasil-labs/mimir-boot-parent/2.2.1/mimir-boot-parent-2.2.1.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yggdrasil-labs/mimir-boot-parent/2.3.0/mimir-boot-parent-2.3.0.jar returned status 404

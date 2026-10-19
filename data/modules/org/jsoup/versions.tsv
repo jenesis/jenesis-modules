@@ -374,6 +374,7 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 2.1.0-RC1	named	org.scala-sbt	librarymanagement-coursier_3	2026-10-11T10:21:18Z	1.23.2
 0.2.26	named	one.nextera.openat.javelle	javelle-cli	2026-10-11T19:14:44Z	1.23.1
 0.2.27	named	one.nextera.openat.javelle	javelle-cli	2026-10-13T02:01:37Z	1.23.1
+10.4.20261013	named	io.github.shafthq	shaft-cli	2026-10-13T20:52:08Z	1.23.2
 3.0.13-01	named	com.sonatype.clm	clm-maven-plugin	2026-10-14T17:06:12Z	1.23.2
 0.2.28	named	one.nextera.openat.javelle	javelle-cli	2026-10-17T17:16:45Z	1.23.1
 0.2.29	named	one.nextera.openat.javelle	javelle-cli	2026-10-17T17:30:56Z	1.23.1
