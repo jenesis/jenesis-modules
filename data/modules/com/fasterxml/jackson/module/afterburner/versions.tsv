@@ -227,3 +227,6 @@
 1.1.2	named	org.apache.hudi	hudi-timeline-server-bundle	2026-10-17T07:45:25Z	2.15.2
 1.1.2	named	org.apache.hudi	hudi-trino-bundle	2026-10-17T07:45:56Z	2.15.2
 1.1.2	named	org.apache.hudi	hudi-cli-bundle_2.12	2026-10-17T07:51:53Z	2.15.2
+2.18.12	named	com.fasterxml.jackson.module	jackson-module-afterburner	2026-10-17T18:41:08Z	2.18.12
+2.21.8	named	com.fasterxml.jackson.module	jackson-module-afterburner	2026-10-17T20:27:53Z	2.21.8
+2.22.4	named	com.fasterxml.jackson.module	jackson-module-afterburner	2026-10-17T23:26:18Z	2.22.4

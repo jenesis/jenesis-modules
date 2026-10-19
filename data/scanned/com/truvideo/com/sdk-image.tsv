@@ -60,6 +60,9 @@
 1.0.4-rc.106		2026-06-16T17:55:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.0.4-rc.106/sdk-image-1.0.4-rc.106.jar returned status 404
 1.0.4-rc.98		2026-06-12T20:38:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.0.4-rc.98/sdk-image-1.0.4-rc.98.jar returned status 404
 1.0.4-rc.99		2026-06-15T14:41:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.0.4-rc.99/sdk-image-1.0.4-rc.99.jar returned status 404
+1.0.4.1-beta.354			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.0.4.1-beta.354/sdk-image-1.0.4.1-beta.354.jar returned status 404
+1.0.4.1-beta.359			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.0.4.1-beta.359/sdk-image-1.0.4.1-beta.359.jar returned status 404
+1.0.4.1-rc.360			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.0.4.1-rc.360/sdk-image-1.0.4.1-rc.360.jar returned status 404
 1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.0.5/sdk-image-1.0.5.jar returned status 404
 1.0.5-beta.119		2026-07-02T16:44:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.0.5-beta.119/sdk-image-1.0.5-beta.119.jar returned status 404
 1.0.5-beta.120		2026-07-02T19:43:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.0.5-beta.120/sdk-image-1.0.5-beta.120.jar returned status 404
@@ -148,6 +151,7 @@
 1.1.2-beta.327			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.327/sdk-image-1.1.2-beta.327.jar returned status 404
 1.1.2-beta.332			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.332/sdk-image-1.1.2-beta.332.jar returned status 404
 1.1.2-beta.333			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.333/sdk-image-1.1.2-beta.333.jar returned status 404
+1.1.2-beta.334			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.334/sdk-image-1.1.2-beta.334.jar returned status 404
 1.1.2-beta.341			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.341/sdk-image-1.1.2-beta.341.jar returned status 404
 1.1.2-beta.342			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.342/sdk-image-1.1.2-beta.342.jar returned status 404
 1.1.2-beta.343			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.343/sdk-image-1.1.2-beta.343.jar returned status 404
@@ -155,6 +159,14 @@
 1.1.2-beta.348			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.348/sdk-image-1.1.2-beta.348.jar returned status 404
 1.1.2-beta.349			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.349/sdk-image-1.1.2-beta.349.jar returned status 404
 1.1.2-beta.351			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.351/sdk-image-1.1.2-beta.351.jar returned status 404
+1.1.2-beta.356			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.356/sdk-image-1.1.2-beta.356.jar returned status 404
+1.1.2-beta.357			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.357/sdk-image-1.1.2-beta.357.jar returned status 404
+1.1.2-beta.361			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.361/sdk-image-1.1.2-beta.361.jar returned status 404
+1.1.2-beta.362			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.362/sdk-image-1.1.2-beta.362.jar returned status 404
+1.1.2-beta.364			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.364/sdk-image-1.1.2-beta.364.jar returned status 404
+1.1.2-beta.365			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.365/sdk-image-1.1.2-beta.365.jar returned status 404
+1.1.2-beta.367			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.367/sdk-image-1.1.2-beta.367.jar returned status 404
+1.1.2-beta.368			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-beta.368/sdk-image-1.1.2-beta.368.jar returned status 404
 1.1.2-rc.242			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-rc.242/sdk-image-1.1.2-rc.242.jar returned status 404
 1.1.2-rc.307			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.2-rc.307/sdk-image-1.1.2-rc.307.jar returned status 404
 1.1.3-beta.296			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/truvideo/com/sdk-image/1.1.3-beta.296/sdk-image-1.1.3-beta.296.jar returned status 404

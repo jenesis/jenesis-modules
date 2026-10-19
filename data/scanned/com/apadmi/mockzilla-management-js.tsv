@@ -4,3 +4,4 @@
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apadmi/mockzilla-management-js/4.0.0/mockzilla-management-js-4.0.0.jar returned status 404
 4.0.0-alpha1		2026-07-08T07:39:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apadmi/mockzilla-management-js/4.0.0-alpha1/mockzilla-management-js-4.0.0-alpha1.jar returned status 404
 5.0.0		2026-10-13T11:05:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apadmi/mockzilla-management-js/5.0.0/mockzilla-management-js-5.0.0.jar returned status 404
+5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apadmi/mockzilla-management-js/5.0.1/mockzilla-management-js-5.0.1.jar returned status 404

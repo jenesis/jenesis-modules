@@ -4552,3 +4552,6 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 1.1.2	named	org.apache.hudi	hudi-hadoop-mr-bundle	2026-10-17T07:40:37Z	2.15.2
 1.1.2	named	org.apache.hudi	hudi-hive-sync-bundle	2026-10-17T07:41:43Z	2.15.2
 1.1.2	named	org.apache.hudi	hudi-kafka-connect-bundle	2026-10-17T07:51:10Z	2.15.2
+2.18.12	named	com.fasterxml.jackson.core	jackson-databind	2026-10-17T18:26:02Z	2.18.12
+2.21.8	named	com.fasterxml.jackson.core	jackson-databind	2026-10-17T20:16:54Z	2.21.8
+2.22.4	named	com.fasterxml.jackson.core	jackson-databind	2026-10-17T23:15:57Z	2.22.4

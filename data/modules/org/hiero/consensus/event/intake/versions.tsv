@@ -106,3 +106,6 @@
 0.78.0-rc.13	named	com.hedera.hashgraph	consensus-event-intake	2026-10-05T20:27:13Z	0.78.0-rc.13
 0.78.0-rc.15	named	com.hedera.hashgraph	consensus-event-intake	2026-10-07T02:20:55Z	0.78.0-rc.15
 0.78.1-rc.1	named	com.hedera.hashgraph	consensus-event-intake	2026-10-08T21:41:16Z	0.78.1-rc.1
+0.78.1	named	com.hedera.hashgraph	consensus-event-intake	2026-10-14T00:01:57Z	0.78.1
+0.80.0-alpha.2	named	com.hedera.hashgraph	consensus-event-intake	2026-10-15T16:32:47Z	0.80.0-alpha.2
+0.78.2	named	com.hedera.hashgraph	consensus-event-intake	2026-10-15T16:32:48Z	0.78.2
