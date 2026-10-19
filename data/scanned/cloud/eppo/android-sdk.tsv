@@ -32,6 +32,7 @@
 4.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/eppo/android-sdk/4.11.0/android-sdk-4.11.0.jar returned status 404
 4.11.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/eppo/android-sdk/4.11.1/android-sdk-4.11.1.jar returned status 404
 4.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/eppo/android-sdk/4.12.1/android-sdk-4.12.1.jar returned status 404
+4.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/eppo/android-sdk/4.12.2/android-sdk-4.12.2.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/eppo/android-sdk/4.2.0/android-sdk-4.2.0.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/eppo/android-sdk/4.3.0/android-sdk-4.3.0.jar returned status 404
 4.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/eppo/android-sdk/4.3.1/android-sdk-4.3.1.jar returned status 404

@@ -2131,3 +2131,9 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 3.3.3	named	org.apache.tika	tika-parser-scientific-package	2026-10-09T20:21:23Z	1.22.1
 2.55.14	named	software.amazon.awssdk	bundle	2026-10-09T20:34:27Z	1.17.1
 2.55.14	named	software.amazon.awssdk	bundle-sdk	2026-10-09T20:34:27Z	1.17.1
+2.55.15	named	software.amazon.awssdk	bundle-sdk	2026-10-12T20:34:22Z	1.17.1
+2.55.15	named	software.amazon.awssdk	bundle	2026-10-12T20:34:30Z	1.17.1
+2.55.16	named	software.amazon.awssdk	bundle-sdk	2026-10-13T20:45:26Z	1.17.1
+2.55.16	named	software.amazon.awssdk	bundle	2026-10-13T20:45:34Z	1.17.1
+2.56.0	named	software.amazon.awssdk	bundle-sdk	2026-10-14T20:34:13Z	1.17.1
+2.56.0	named	software.amazon.awssdk	bundle	2026-10-14T20:34:23Z	1.17.1
