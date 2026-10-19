@@ -202,6 +202,8 @@
 3.37.0		2026-08-28T16:55:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.37.0/sdk-3.37.0.jar returned status 404
 3.37.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.37.0-beta.1/sdk-3.37.0-beta.1.jar returned status 404
 3.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.38.0/sdk-3.38.0.jar returned status 404
+3.38.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.38.1/sdk-3.38.1.jar returned status 404
+3.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.39.0/sdk-3.39.0.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.4.0/sdk-3.4.0.jar returned status 404
 3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.4.1/sdk-3.4.1.jar returned status 404
 3.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.4.2/sdk-3.4.2.jar returned status 404
@@ -358,6 +360,7 @@
 3.9.8-beta.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.9.8-beta.8/sdk-3.9.8-beta.8.jar returned status 404
 3.9.8-beta.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.9.8-beta.9/sdk-3.9.8-beta.9.jar returned status 404
 3.9.9-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.9.9-beta.3/sdk-3.9.9-beta.3.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/4.0.0/sdk-4.0.0.jar returned status 404
 deleteme-dhjgblwvvjw			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/deleteme-dhjgblwvvjw/sdk-deleteme-dhjgblwvvjw.jar returned status 404
 deleteme-dhvbdlwv			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/deleteme-dhvbdlwv/sdk-deleteme-dhvbdlwv.jar returned status 404
 deleteme-dijwlbnavavava			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/deleteme-dijwlbnavavava/sdk-deleteme-dijwlbnavavava.jar returned status 404

@@ -364,7 +364,26 @@
 3.0-alpha.41		2024-09-07T04:22:55Z	
 3.0-alpha.410			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.410/core-3.0-alpha.410.jar returned status 404
 3.0-alpha.411			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.411/core-3.0-alpha.411.jar returned status 404
+3.0-alpha.412			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.412/core-3.0-alpha.412.jar returned status 404
+3.0-alpha.413			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.413/core-3.0-alpha.413.jar returned status 404
+3.0-alpha.414			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.414/core-3.0-alpha.414.jar returned status 404
+3.0-alpha.415			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.415/core-3.0-alpha.415.jar returned status 404
+3.0-alpha.416			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.416/core-3.0-alpha.416.jar returned status 404
+3.0-alpha.417			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.417/core-3.0-alpha.417.jar returned status 404
+3.0-alpha.418			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.418/core-3.0-alpha.418.jar returned status 404
+3.0-alpha.419			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.419/core-3.0-alpha.419.jar returned status 404
 3.0-alpha.42		2024-09-08T22:41:49Z	
+3.0-alpha.420			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.420/core-3.0-alpha.420.jar returned status 404
+3.0-alpha.421			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.421/core-3.0-alpha.421.jar returned status 404
+3.0-alpha.422			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.422/core-3.0-alpha.422.jar returned status 404
+3.0-alpha.423			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.423/core-3.0-alpha.423.jar returned status 404
+3.0-alpha.424			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.424/core-3.0-alpha.424.jar returned status 404
+3.0-alpha.425			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.425/core-3.0-alpha.425.jar returned status 404
+3.0-alpha.426			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.426/core-3.0-alpha.426.jar returned status 404
+3.0-alpha.427			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.427/core-3.0-alpha.427.jar returned status 404
+3.0-alpha.428			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.428/core-3.0-alpha.428.jar returned status 404
+3.0-alpha.429			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.429/core-3.0-alpha.429.jar returned status 404
+3.0-alpha.430			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-alpha.430/core-3.0-alpha.430.jar returned status 404
 3.0-alpha.46		2024-09-15T12:04:25Z	
 3.0-alpha.47		2024-09-18T20:38:50Z	
 3.0-alpha.48		2024-09-29T15:11:52Z	
@@ -412,4 +431,7 @@
 3.0-alpha.91		2025-01-13T17:39:01Z	
 3.0-alpha.98		2025-05-22T21:13:44Z	
 3.0-alpha.99		2025-05-22T21:25:50Z	
+3.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-beta.1/core-3.0-beta.1.jar returned status 404
+3.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-beta.2/core-3.0-beta.2.jar returned status 404
+3.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/core/3.0-beta.3/core-3.0-beta.3.jar returned status 404
 master		2023-12-07T11:32:06Z	
