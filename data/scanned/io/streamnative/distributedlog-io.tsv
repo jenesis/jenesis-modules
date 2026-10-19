@@ -31,4 +31,5 @@
 4.17.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/distributedlog-io/4.17.3.2/distributedlog-io-4.17.3.2.jar returned status 404
 4.17.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/distributedlog-io/4.17.3.3/distributedlog-io-4.17.3.3.jar returned status 404
 4.17.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/distributedlog-io/4.17.3.4/distributedlog-io-4.17.3.4.jar returned status 404
+4.18.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/distributedlog-io/4.18.1.2/distributedlog-io-4.18.1.2.jar returned status 404
 branch-4.14.7.1_d4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/distributedlog-io/branch-4.14.7.1_d4/distributedlog-io-branch-4.14.7.1_d4.jar returned status 404

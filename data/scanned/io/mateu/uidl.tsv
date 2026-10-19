@@ -250,6 +250,25 @@
 3.0-alpha.408			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.408/uidl-3.0-alpha.408.jar returned status 404
 3.0-alpha.410			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.410/uidl-3.0-alpha.410.jar returned status 404
 3.0-alpha.411			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.411/uidl-3.0-alpha.411.jar returned status 404
+3.0-alpha.412			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.412/uidl-3.0-alpha.412.jar returned status 404
+3.0-alpha.413			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.413/uidl-3.0-alpha.413.jar returned status 404
+3.0-alpha.414			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.414/uidl-3.0-alpha.414.jar returned status 404
+3.0-alpha.415			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.415/uidl-3.0-alpha.415.jar returned status 404
+3.0-alpha.416			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.416/uidl-3.0-alpha.416.jar returned status 404
+3.0-alpha.417			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.417/uidl-3.0-alpha.417.jar returned status 404
+3.0-alpha.418			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.418/uidl-3.0-alpha.418.jar returned status 404
+3.0-alpha.419			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.419/uidl-3.0-alpha.419.jar returned status 404
+3.0-alpha.420			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.420/uidl-3.0-alpha.420.jar returned status 404
+3.0-alpha.421			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.421/uidl-3.0-alpha.421.jar returned status 404
+3.0-alpha.422			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.422/uidl-3.0-alpha.422.jar returned status 404
+3.0-alpha.423			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.423/uidl-3.0-alpha.423.jar returned status 404
+3.0-alpha.424			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.424/uidl-3.0-alpha.424.jar returned status 404
+3.0-alpha.425			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.425/uidl-3.0-alpha.425.jar returned status 404
+3.0-alpha.426			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.426/uidl-3.0-alpha.426.jar returned status 404
+3.0-alpha.427			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.427/uidl-3.0-alpha.427.jar returned status 404
+3.0-alpha.428			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.428/uidl-3.0-alpha.428.jar returned status 404
+3.0-alpha.429			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.429/uidl-3.0-alpha.429.jar returned status 404
+3.0-alpha.430			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-alpha.430/uidl-3.0-alpha.430.jar returned status 404
 3.0-alpha.63		2024-11-09T18:23:53Z	
 3.0-alpha.64		2024-12-13T18:51:59Z	
 3.0-alpha.65		2024-12-13T20:51:40Z	
@@ -277,3 +296,6 @@
 3.0-alpha.91		2025-01-13T17:39:02Z	
 3.0-alpha.98		2025-05-22T21:13:59Z	
 3.0-alpha.99		2025-05-22T21:25:48Z	
+3.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-beta.1/uidl-3.0-beta.1.jar returned status 404
+3.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-beta.2/uidl-3.0-beta.2.jar returned status 404
+3.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/uidl/3.0-beta.3/uidl-3.0-beta.3.jar returned status 404
