@@ -3,3 +3,15 @@ org.applecommander.api
 org.agrona
 org.jspecify
 io.netty.internal.tcnative
+org.objectweb.asm
+org.objectweb.asm.commons
+org.objectweb.asm.util
+org.objectweb.asm.tree.analysis
+org.objectweb.asm.tree
+org.easyssf.receiver.jdbc
+org.easyssf.test
+org.easyssf.receiver.spring.boot.starter
+org.easyssf.receiver
+org.easyssf.core
+org.easyssf.test.conformance
+org.easyssf.receiver.spring.boot.autoconfigure
