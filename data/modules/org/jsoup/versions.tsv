@@ -363,9 +363,14 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 10.4.20261006	named	io.github.shafthq	shaft-cli	2026-10-06T09:01:20Z	1.23.2
 2.7.6.wso2v1	named	org.wso2.orbit.com.hubspot.jinjava	jinjava	2026-10-08T08:50:32Z	1.23.2
 10.4.20261009	named	io.github.shafthq	shaft-cli	2026-10-09T06:00:47Z	1.23.2
+3.3.3	named	org.apache.tika	tika-app	2026-10-09T21:29:36Z	1.23.2
+3.3.3	named	org.apache.tika	tika-eval-core	2026-10-09T21:33:04Z	1.23.2
+3.3.3	named	org.apache.tika	tika-server-eval	2026-10-09T21:33:29Z	1.23.2
+3.3.3	named	org.apache.tika	tika-eval-app	2026-10-09T21:35:51Z	1.23.2
 0.2.23	named	one.nextera.openat.javelle	javelle-cli	2026-10-10T04:16:19Z	1.23.1
 0.2.24	named	one.nextera.openat.javelle	javelle-cli	2026-10-10T11:41:07Z	1.23.1
 0.2.25	named	one.nextera.openat.javelle	javelle-cli	2026-10-10T18:25:53Z	1.23.1
 10.4.20261010	named	io.github.shafthq	shaft-cli	2026-10-10T19:50:52Z	1.23.2
 2.1.0-RC1	named	org.scala-sbt	librarymanagement-coursier_3	2026-10-11T10:21:18Z	1.23.2
 0.2.26	named	one.nextera.openat.javelle	javelle-cli	2026-10-11T19:14:44Z	1.23.1
+2.0.11	named	org.scala-sbt	librarymanagement-coursier_3	2026-10-18T03:31:13Z	1.23.2

@@ -218,3 +218,12 @@
 1.2.1	named	org.apache.hudi	hudi-utilities-slim-bundle_2.12	2026-09-24T08:58:12Z	2.15.2
 1.2.1	named	org.apache.hudi	hudi-timeline-server-bundle	2026-09-24T08:58:28Z	2.15.2
 1.2.1	named	org.apache.hudi	hudi-cli-bundle_2.12	2026-09-24T09:02:11Z	2.15.2
+1.1.2	named	org.apache.hudi	hudi-utilities-slim-bundle_2.13	2026-10-17T06:47:40Z	2.15.2
+1.1.2	named	org.apache.hudi	hudi-cli-bundle_2.13	2026-10-17T06:48:35Z	2.15.2
+1.1.2	named	org.apache.hudi	hudi-datahub-sync-bundle	2026-10-17T07:41:09Z	2.15.2
+1.1.2	named	org.apache.hudi	hudi-gcp-bundle	2026-10-17T07:42:33Z	2.15.2
+1.1.2	named	org.apache.hudi	hudi-presto-bundle	2026-10-17T07:44:33Z	2.15.2
+1.1.2	named	org.apache.hudi	hudi-utilities-slim-bundle_2.12	2026-10-17T07:44:57Z	2.15.2
+1.1.2	named	org.apache.hudi	hudi-timeline-server-bundle	2026-10-17T07:45:25Z	2.15.2
+1.1.2	named	org.apache.hudi	hudi-trino-bundle	2026-10-17T07:45:56Z	2.15.2
+1.1.2	named	org.apache.hudi	hudi-cli-bundle_2.12	2026-10-17T07:51:53Z	2.15.2
