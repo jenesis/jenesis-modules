@@ -2141,3 +2141,5 @@ io.github.chrisribble.ffm.ffmpeg.core
 io.github.chrisribble.ffm.ffmpeg.analyzer
 io.github.chrisribble.ffm.ffmpeg.decoder
 io.github.chrisribble.ffm.ffmpeg.bindings
+io.telicent.jena.fuseki.kafka
+io.telicent.jena.kafka.connector
