@@ -278,3 +278,5 @@ org.sonarsource.sonarqube.crypto
 org.sonar.db.testfixtures
 sonar.events.server
 org.sonar.server.spring
+org.simpleble
+org.apache.commons.beanutils2

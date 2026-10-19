@@ -2,3 +2,4 @@
 2.6.0		2025-03-31T19:29:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-federations-webapp/2.6.0/onebusaway-federations-webapp-2.6.0.jar returned status 404
 2.7.0		2026-01-22T04:47:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-federations-webapp/2.7.0/onebusaway-federations-webapp-2.7.0.jar returned status 404
 2.7.1		2026-02-08T05:36:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-federations-webapp/2.7.1/onebusaway-federations-webapp-2.7.1.jar returned status 404
+2.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/onebusaway/onebusaway-federations-webapp/2.7.2/onebusaway-federations-webapp-2.7.2.jar returned status 404
