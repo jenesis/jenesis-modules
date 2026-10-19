@@ -58,3 +58,4 @@
 1.4.0		2026-08-05T08:45:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/exposed/exposed-bom/1.4.0/exposed-bom-1.4.0.jar returned status 404
 1.5.0		2026-08-26T11:25:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/exposed/exposed-bom/1.5.0/exposed-bom-1.5.0.jar returned status 404
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/exposed/exposed-bom/1.5.1/exposed-bom-1.5.1.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jetbrains/exposed/exposed-bom/1.6.0/exposed-bom-1.6.0.jar returned status 404
