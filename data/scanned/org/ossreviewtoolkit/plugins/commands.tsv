@@ -190,3 +190,4 @@
 94.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/commands/94.2.0/commands-94.2.0.jar returned status 404
 95.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/commands/95.0.0/commands-95.0.0.jar returned status 404
 96.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/commands/96.0.0/commands-96.0.0.jar returned status 404
+97.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/commands/97.0.0/commands-97.0.0.jar returned status 404
