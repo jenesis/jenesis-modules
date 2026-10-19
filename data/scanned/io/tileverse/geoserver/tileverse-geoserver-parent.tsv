@@ -1,1 +1,5 @@
 1.0-RC2		2026-08-22T22:43:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/geoserver/tileverse-geoserver-parent/1.0-RC2/tileverse-geoserver-parent-1.0-RC2.jar returned status 404
+2.28.5-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/geoserver/tileverse-geoserver-parent/2.28.5-RC/tileverse-geoserver-parent-2.28.5-RC.jar returned status 404
+2.28.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/geoserver/tileverse-geoserver-parent/2.28.6/tileverse-geoserver-parent-2.28.6.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/geoserver/tileverse-geoserver-parent/3.0.1/tileverse-geoserver-parent-3.0.1.jar returned status 404
+3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/tileverse/geoserver/tileverse-geoserver-parent/3.0.2/tileverse-geoserver-parent-3.0.2.jar returned status 404

@@ -406,3 +406,4 @@ main-417			IOException: Tail request on https://maven-central.storage-download.g
 main-418			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/main-418/kork-bom-main-418.jar returned status 404
 main-419			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/main-419/kork-bom-main-419.jar returned status 404
 main-420			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/main-420/kork-bom-main-420.jar returned status 404
+main-422			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/kork/kork-bom/main-422/kork-bom-main-422.jar returned status 404

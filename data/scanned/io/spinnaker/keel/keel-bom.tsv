@@ -38,6 +38,7 @@
 2026.0-21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.0-21/keel-bom-2026.0-21.jar returned status 404
 2026.0-22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.0-22/keel-bom-2026.0-22.jar returned status 404
 2026.0-23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.0-23/keel-bom-2026.0-23.jar returned status 404
+2026.0-24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.0-24/keel-bom-2026.0-24.jar returned status 404
 2026.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.0.4/keel-bom-2026.0.4.jar returned status 404
 2026.1-10		2026-08-20T00:45:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.1-10/keel-bom-2026.1-10.jar returned status 404
 2026.1-11		2026-08-20T14:40:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.1-11/keel-bom-2026.1-11.jar returned status 404
@@ -54,6 +55,8 @@
 2026.1-22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.1-22/keel-bom-2026.1-22.jar returned status 404
 2026.1-23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.1-23/keel-bom-2026.1-23.jar returned status 404
 2026.1-24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.1-24/keel-bom-2026.1-24.jar returned status 404
+2026.1-25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.1-25/keel-bom-2026.1-25.jar returned status 404
+2026.1-26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.1-26/keel-bom-2026.1-26.jar returned status 404
 2026.1-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.1-5/keel-bom-2026.1-5.jar returned status 404
 2026.1-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.1-6/keel-bom-2026.1-6.jar returned status 404
 2026.1-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.1-7/keel-bom-2026.1-7.jar returned status 404
@@ -92,6 +95,8 @@
 2026.2-35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.2-35/keel-bom-2026.2-35.jar returned status 404
 2026.2-36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.2-36/keel-bom-2026.2-36.jar returned status 404
 2026.2-37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.2-37/keel-bom-2026.2-37.jar returned status 404
+2026.2-38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.2-38/keel-bom-2026.2-38.jar returned status 404
+2026.2-39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.2-39/keel-bom-2026.2-39.jar returned status 404
 2026.2-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.2-4/keel-bom-2026.2-4.jar returned status 404
 2026.2-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.2-5/keel-bom-2026.2-5.jar returned status 404
 2026.2-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.2-6/keel-bom-2026.2-6.jar returned status 404
@@ -123,6 +128,9 @@
 2026.3-24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.3-24/keel-bom-2026.3-24.jar returned status 404
 2026.3-25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.3-25/keel-bom-2026.3-25.jar returned status 404
 2026.3-26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.3-26/keel-bom-2026.3-26.jar returned status 404
+2026.3-27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.3-27/keel-bom-2026.3-27.jar returned status 404
+2026.3-28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.3-28/keel-bom-2026.3-28.jar returned status 404
+2026.3-29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.3-29/keel-bom-2026.3-29.jar returned status 404
 2026.3-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.3-3/keel-bom-2026.3-3.jar returned status 404
 2026.3-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.3-4/keel-bom-2026.3-4.jar returned status 404
 2026.3-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/2026.3-5/keel-bom-2026.3-5.jar returned status 404
@@ -309,3 +317,10 @@ main-417			IOException: Tail request on https://maven-central.storage-download.g
 main-418			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/main-418/keel-bom-main-418.jar returned status 404
 main-419			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/main-419/keel-bom-main-419.jar returned status 404
 main-420			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/main-420/keel-bom-main-420.jar returned status 404
+main-422			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/main-422/keel-bom-main-422.jar returned status 404
+main-424			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/main-424/keel-bom-main-424.jar returned status 404
+main-425			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/main-425/keel-bom-main-425.jar returned status 404
+main-426			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/main-426/keel-bom-main-426.jar returned status 404
+main-427			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/main-427/keel-bom-main-427.jar returned status 404
+main-428			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/main-428/keel-bom-main-428.jar returned status 404
+main-429			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/keel/keel-bom/main-429/keel-bom-main-429.jar returned status 404
