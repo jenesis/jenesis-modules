@@ -1,5 +1,7 @@
 0.1.1		2026-09-20T11:46:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/swithun-liu/mermaid-core-iosx64/0.1.1/mermaid-core-iosx64-0.1.1.jar returned status 404
 0.1.1	metadata	2026-09-20T11:46:38Z	
+0.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/swithun-liu/mermaid-core-iosx64/0.1.10/mermaid-core-iosx64-0.1.10.jar returned status 404
+0.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/swithun-liu/mermaid-core-iosx64/0.1.11/mermaid-core-iosx64-0.1.11.jar returned status 404
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/swithun-liu/mermaid-core-iosx64/0.1.2/mermaid-core-iosx64-0.1.2.jar returned status 404
 0.1.2	metadata	2026-09-22T11:41:11Z	
 0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/swithun-liu/mermaid-core-iosx64/0.1.6/mermaid-core-iosx64-0.1.6.jar returned status 404
@@ -8,3 +10,4 @@
 0.1.7	metadata	2026-09-24T11:11:04Z	
 0.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/swithun-liu/mermaid-core-iosx64/0.1.8/mermaid-core-iosx64-0.1.8.jar returned status 404
 0.1.8	metadata	2026-09-28T04:21:28Z	
+0.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/swithun-liu/mermaid-core-iosx64/0.1.9/mermaid-core-iosx64-0.1.9.jar returned status 404
