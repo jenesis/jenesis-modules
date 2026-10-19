@@ -954,6 +954,10 @@
 1.13.0	named	com.datastrato	experimental-iceberg-gcp-bundle	2026-10-08T07:53:53Z	2.0.75.Final
 2.9.3	named	org.wso2.msf4j	msf4j-all	2026-10-08T09:07:56Z	2.0.84.Final
 1.84.2	named	io.grpc	grpc-netty-shaded	2026-10-08T19:33:33Z	2.0.81.Final
+3.3.3	named	org.apache.tika	tika-fetcher-gcs	2026-10-09T21:00:02Z	2.0.81.Final
+3.3.3	named	org.apache.tika	tika-emitter-gcs	2026-10-09T21:02:05Z	2.0.81.Final
+3.3.3	named	org.apache.tika	tika-pipes-iterator-gcs	2026-10-09T21:04:08Z	2.0.81.Final
+3.3.3	named	org.apache.tika	tika-grpc	2026-10-09T21:05:44Z	2.0.81.Final
 4.151.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-10T02:26:20Z	2.0.72.Final
 1.2.1	named	io.github.ktestify	ktestify-cucumber	2026-10-11T15:12:07Z	2.0.81.Final
 4.143.8	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-11T18:03:43Z	2.0.72.Final

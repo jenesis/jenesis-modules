@@ -3339,6 +3339,10 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 2.0.4	named	org.open-metadata	elasticsearch-deps	2026-10-06T06:41:32Z	2.0.4
 0.1.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-10-08T07:46:27Z	2.0.16
 2.0.5	named	org.open-metadata	elasticsearch-deps	2026-10-08T16:08:19Z	2.0.4
+3.3.3	named	org.apache.tika	tika-emitter-opensearch	2026-10-09T21:01:51Z	2.0.20
+3.3.3	named	org.apache.tika	tika-pipes-iterator-kafka	2026-10-09T21:03:40Z	2.0.20
+3.3.3	named	org.apache.tika	tika-async-cli	2026-10-09T21:05:22Z	2.0.20
+3.3.3	named	org.apache.tika	tika-server-client	2026-10-09T21:32:42Z	2.0.20
 0.6.0	named	io.github.tomas-samek	tiko-mcp	2026-10-11T05:31:11Z	2.0.9
 1.5.0	named	io.github.mraysmit	raftlog-demo	2026-10-11T08:16:06Z	2.0.12
 0.19.1	named	io.testomat	java-reporter-core	2026-10-11T14:05:58Z	2.0.9

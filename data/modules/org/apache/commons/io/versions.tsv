@@ -1065,4 +1065,11 @@
 1.0.2	named	io.github.dawnuu	aabresguard-core	2026-10-07T09:10:59Z	2.18.0
 2.4.0	named	com.networknt	codegen-cli	2026-10-07T22:22:16Z	2.18.0
 1.145.0	named	no.entur	schema2proto-lib	2026-10-09T09:36:20Z	2.22.0
+3.3.3	named	org.apache.tika	tika-pipes-iterator-csv	2026-10-09T21:02:49Z	2.22.0
 2.4.1	named	com.networknt	codegen-cli	2026-10-11T22:56:02Z	2.18.0
+1.1.2	named	org.apache.hudi	hudi-aws-bundle	2026-10-17T07:42:09Z	2.14.0
+1.1.2	named	org.apache.hudi	hudi-flink1.17-bundle	2026-10-17T08:11:12Z	2.14.0
+1.1.2	named	org.apache.hudi	hudi-flink1.18-bundle	2026-10-17T08:16:04Z	2.14.0
+1.1.2	named	org.apache.hudi	hudi-flink1.19-bundle	2026-10-17T08:21:00Z	2.14.0
+1.1.2	named	org.apache.hudi	hudi-flink1.20-bundle	2026-10-17T08:25:53Z	2.14.0
+1.1.2	named	org.apache.hudi	hudi-flink2.0-bundle	2026-10-17T10:15:04Z	2.14.0

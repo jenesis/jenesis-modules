@@ -360,3 +360,6 @@
 2026.40.1	named	com.amazonaws	athena-postgresql	2026-10-06T11:26:41Z	4.2.17.Final
 2026.40.1	named	com.amazonaws	athena-redshift	2026-10-06T11:26:41Z	4.2.17.Final
 2026.40.1	named	com.amazonaws	athena-oracle	2026-10-06T11:26:42Z	4.2.17.Final
+3.3.3	named	org.apache.tika	tika-fetcher-s3	2026-10-09T20:27:47Z	4.2.18.Final
+3.3.3	named	org.apache.tika	tika-emitter-s3	2026-10-09T21:01:11Z	4.2.18.Final
+3.3.3	named	org.apache.tika	tika-pipes-iterator-s3	2026-10-09T21:03:23Z	4.2.18.Final

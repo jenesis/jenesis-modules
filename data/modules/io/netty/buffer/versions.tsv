@@ -270,3 +270,5 @@
 1.13.0	named	com.datastrato	experimental-iceberg-spark-runtime-4.0_2.13	2026-10-08T07:53:52Z	4.2.18.Final
 1.13.0	named	com.datastrato	experimental-iceberg-spark-runtime-4.1_2.13	2026-10-08T07:53:52Z	4.2.18.Final
 1.13.0	named	com.datastrato	experimental-iceberg-spark-runtime-3.5_2.13	2026-10-08T07:53:53Z	4.2.18.Final
+3.3.3	named	org.apache.tika	tika-emitter-solr	2026-10-09T21:01:38Z	4.2.18.Final
+3.3.3	named	org.apache.tika	tika-pipes-iterator-solr	2026-10-09T21:03:53Z	4.2.18.Final

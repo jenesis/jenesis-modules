@@ -21,6 +21,8 @@
 5.0-beta20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/publishservicejetty/5.0-beta20/publishservicejetty-5.0-beta20.jar returned status 404
 5.0-beta21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/publishservicejetty/5.0-beta21/publishservicejetty-5.0-beta21.jar returned status 404
 5.0-beta22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/publishservicejetty/5.0-beta22/publishservicejetty-5.0-beta22.jar returned status 404
+5.0-beta23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/publishservicejetty/5.0-beta23/publishservicejetty-5.0-beta23.jar returned status 404
+5.0-beta24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/publishservicejetty/5.0-beta24/publishservicejetty-5.0-beta24.jar returned status 404
 5.0-beta3		2026-06-09T13:49:05Z	
 5.0-beta3	test-fixtures	2026-06-09T13:49:04Z	
 5.0-beta4		2026-06-12T14:50:09Z	
