@@ -1859,3 +1859,17 @@ com.google.errorprone.annotations
 com.salesforce.revoman
 com.tencent.bqlog
 com.stripe
+com.anthropic
+com.anthropic.foundry
+com.anthropic.vertex
+com.anthropic.bedrock
+com.anthropic.core
+com.anthropic.client.okhttp
+com.anthropic.googlecloud
+com.anthropic.aws
+jonix.onix3
+jonix.common
+jonix.onix2
+jonix.json
+jonix.xml
+jonix
