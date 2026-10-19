@@ -945,4 +945,6 @@
 7.4.11.Final	automatic	org.hibernate.orm	hibernate-core	2026-09-27T00:26:12Z	
 7.4.12.Final	automatic	org.hibernate.orm	hibernate-core	2026-10-04T00:26:10Z	
 7.4.13.Final	automatic	org.hibernate.orm	hibernate-core	2026-10-11T00:37:07Z	
+2.4.0	named	com.guicedee.modules.services	hibernate-core	2026-10-14T21:01:26Z	2.4.0
+2.4.1	named	com.guicedee.modules.services	hibernate-core	2026-10-16T13:21:11Z	2.4.1
 6.6.59.Final	automatic	org.hibernate.orm	hibernate-core	2026-10-18T00:26:28Z	

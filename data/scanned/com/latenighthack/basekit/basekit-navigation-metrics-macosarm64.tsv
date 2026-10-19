@@ -2,3 +2,5 @@
 0.3.1	metadata	2026-10-09T22:22:27Z	
 0.4.0		2026-10-12T14:11:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/latenighthack/basekit/basekit-navigation-metrics-macosarm64/0.4.0/basekit-navigation-metrics-macosarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2026-10-12T14:11:08Z	
+0.4.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/latenighthack/basekit/basekit-navigation-metrics-macosarm64/0.4.11/basekit-navigation-metrics-macosarm64-0.4.11.jar returned status 404
+0.4.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/latenighthack/basekit/basekit-navigation-metrics-macosarm64/0.4.12/basekit-navigation-metrics-macosarm64-0.4.12.jar returned status 404
