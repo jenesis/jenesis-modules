@@ -2,3 +2,5 @@
 0.1.1		2026-09-20T03:56:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gudcks0305/jev-java/0.1.1/jev-java-0.1.1.jar returned status 404
 0.2.0		2026-09-21T14:41:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gudcks0305/jev-java/0.2.0/jev-java-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gudcks0305/jev-java/0.3.0/jev-java-0.3.0.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gudcks0305/jev-java/0.4.0/jev-java-0.4.0.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gudcks0305/jev-java/0.5.0/jev-java-0.5.0.jar returned status 404

@@ -18,3 +18,4 @@
 4.0.2	metadata	2026-09-25T13:46:01Z	
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kunal26das/startup-macosarm64/4.0.3/startup-macosarm64-4.0.3.jar returned status 404
 4.0.3	metadata	2026-10-08T21:50:56Z	
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kunal26das/startup-macosarm64/4.0.4/startup-macosarm64-4.0.4.jar returned status 404
