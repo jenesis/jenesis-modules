@@ -20,3 +20,6 @@
 1.4.1	automatic	org.apache.pekko	pekko-http-testkit-munit_2.12	2026-09-06T10:32:14Z	
 2.0.0-M2	automatic	org.apache.pekko	pekko-http-testkit-munit_3	2026-10-03T11:09:02Z	
 2.0.0-M2	automatic	org.apache.pekko	pekko-http-testkit-munit_2.13	2026-10-03T11:09:14Z	
+1.4.2	automatic	org.apache.pekko	pekko-http-testkit-munit_3	2026-10-10T23:43:19Z	
+1.4.2	automatic	org.apache.pekko	pekko-http-testkit-munit_2.12	2026-10-10T23:43:29Z	
+1.4.2	automatic	org.apache.pekko	pekko-http-testkit-munit_2.13	2026-10-10T23:43:34Z	

@@ -546,3 +546,4 @@
 4.7.3-dev02+7c11d86	metadata	2026-10-08T19:56:19Z	
 4.7.3-dev03+3198bdc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iosarm64/4.7.3-dev03+3198bdc/maven-central-portal-kotlin-api-iosarm64-4.7.3-dev03+3198bdc.jar returned status 404
 4.7.3-dev03+3198bdc	metadata	2026-10-08T23:41:19Z	
+4.7.3-dev04+3c54236			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iosarm64/4.7.3-dev04+3c54236/maven-central-portal-kotlin-api-iosarm64-4.7.3-dev04+3c54236.jar returned status 404
