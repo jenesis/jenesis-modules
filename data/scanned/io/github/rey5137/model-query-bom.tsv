@@ -6,3 +6,4 @@
 0.6.0		2026-10-08T10:17:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rey5137/model-query-bom/0.6.0/model-query-bom-0.6.0.jar returned status 404
 0.7.0		2026-10-09T09:36:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rey5137/model-query-bom/0.7.0/model-query-bom-0.7.0.jar returned status 404
 0.8.0		2026-10-09T14:41:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rey5137/model-query-bom/0.8.0/model-query-bom-0.8.0.jar returned status 404
+0.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rey5137/model-query-bom/0.9.0/model-query-bom-0.9.0.jar returned status 404

@@ -1,2 +1,3 @@
 1.0.0		2026-10-10T01:06:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ferreirovskizz/wintechlib/1.0.0/wintechlib-1.0.0.jar returned status 404
 1.0.1		2026-10-10T02:11:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ferreirovskizz/wintechlib/1.0.1/wintechlib-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ferreirovskizz/wintechlib/1.0.2/wintechlib-1.0.2.jar returned status 404

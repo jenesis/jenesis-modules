@@ -983,3 +983,7 @@ edge	named	com.purbon.kafka.topology	julie-ops-cli	2022-07-29T14:46:42Z	4.8.21
 2.0.0	named	software.amazon.glue	schema-registry-serde-msk-iam	2026-09-15T15:35:25Z	
 4.8.196	named	io.github.classgraph	classgraph	2026-09-23T10:36:10Z	
 4.8.197	named	io.github.classgraph	classgraph	2026-10-07T10:36:04Z	
+4.8.198	named	io.github.classgraph	classgraph	2026-10-12T05:11:05Z	
+4.8.199	named	io.github.classgraph	classgraph	2026-10-13T03:51:21Z	
+5.0.0	named	io.github.classgraph	classgraph	2026-10-13T04:21:02Z	5.0.0
+6.0.0	named	io.github.classgraph	classgraph	2026-10-13T04:26:23Z	6.0.0
