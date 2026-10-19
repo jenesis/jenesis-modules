@@ -10,3 +10,5 @@
 0.1.5	metadata	2026-09-23T21:11:22Z	
 0.1.6		2026-10-06T07:21:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gg/team/energy/map-iossimulatorarm64/0.1.6/map-iossimulatorarm64-0.1.6.jar returned status 404
 0.1.6	metadata	2026-10-06T07:21:48Z	
+0.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gg/team/energy/map-iossimulatorarm64/0.1.7/map-iossimulatorarm64-0.1.7.jar returned status 404
+0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/gg/team/energy/map-iossimulatorarm64/0.2.0/map-iossimulatorarm64-0.2.0.jar returned status 404
