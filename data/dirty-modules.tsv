@@ -637,3 +637,16 @@ org.primefaces.extensions
 org.primefaces
 com.fasterxml.jackson.dataformat.xml
 org.ekrich.sconfig
+build.jenesis.launcher
+build.jenesis
+church.i18n.response.spring.webmvc
+church.i18n.processing.exception
+church.i18n.resources.bundles
+church.i18n.response
+church.i18n.response.spring
+church.i18n.response.model.jackson
+tech.kwik.samples
+tech.kwik.h09
+tech.kwik.qlog
+tech.kwik.core
+software.amazon.awssdk.services.elasticloadbalancingv2
