@@ -79,3 +79,4 @@
 2.9.0		2026-08-11T11:55:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/quinoa/quarkus-quinoa-parent/2.9.0/quarkus-quinoa-parent-2.9.0.jar returned status 404
 2.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/quinoa/quarkus-quinoa-parent/2.9.1/quarkus-quinoa-parent-2.9.1.jar returned status 404
 2.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/quinoa/quarkus-quinoa-parent/2.9.2/quarkus-quinoa-parent-2.9.2.jar returned status 404
+2.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/quinoa/quarkus-quinoa-parent/2.9.3/quarkus-quinoa-parent-2.9.3.jar returned status 404

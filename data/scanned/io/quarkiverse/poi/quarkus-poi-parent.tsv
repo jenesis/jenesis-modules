@@ -24,3 +24,4 @@
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/poi/quarkus-poi-parent/2.2.0/quarkus-poi-parent-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/poi/quarkus-poi-parent/2.2.1/quarkus-poi-parent-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/poi/quarkus-poi-parent/2.2.2/quarkus-poi-parent-2.2.2.jar returned status 404
+3.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/poi/quarkus-poi-parent/3.0.0.Beta1/quarkus-poi-parent-3.0.0.Beta1.jar returned status 404
