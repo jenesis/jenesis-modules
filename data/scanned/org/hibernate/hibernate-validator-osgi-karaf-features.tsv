@@ -1,3 +1,26 @@
+5.2.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.2.0.Beta1/hibernate-validator-osgi-karaf-features-5.2.0.Beta1.jar returned status 404
+5.2.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.2.0.CR1/hibernate-validator-osgi-karaf-features-5.2.0.CR1.jar returned status 404
+5.2.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.2.0.Final/hibernate-validator-osgi-karaf-features-5.2.0.Final.jar returned status 404
+5.2.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.2.1.Final/hibernate-validator-osgi-karaf-features-5.2.1.Final.jar returned status 404
+5.2.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.2.2.Final/hibernate-validator-osgi-karaf-features-5.2.2.Final.jar returned status 404
+5.2.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.2.3.Final/hibernate-validator-osgi-karaf-features-5.2.3.Final.jar returned status 404
+5.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.2.4.Final/hibernate-validator-osgi-karaf-features-5.2.4.Final.jar returned status 404
+5.2.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.2.5.Final/hibernate-validator-osgi-karaf-features-5.2.5.Final.jar returned status 404
+5.3.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.3.0.Alpha1/hibernate-validator-osgi-karaf-features-5.3.0.Alpha1.jar returned status 404
+5.3.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.3.0.CR1/hibernate-validator-osgi-karaf-features-5.3.0.CR1.jar returned status 404
+5.3.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.3.0.Final/hibernate-validator-osgi-karaf-features-5.3.0.Final.jar returned status 404
+5.3.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.3.1.Final/hibernate-validator-osgi-karaf-features-5.3.1.Final.jar returned status 404
+5.3.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.3.2.Final/hibernate-validator-osgi-karaf-features-5.3.2.Final.jar returned status 404
+5.3.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.3.3.Final/hibernate-validator-osgi-karaf-features-5.3.3.Final.jar returned status 404
+5.3.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.3.4.Final/hibernate-validator-osgi-karaf-features-5.3.4.Final.jar returned status 404
+5.3.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.3.5.Final/hibernate-validator-osgi-karaf-features-5.3.5.Final.jar returned status 404
+5.3.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.3.6.Final/hibernate-validator-osgi-karaf-features-5.3.6.Final.jar returned status 404
+5.4.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.4.0.Beta1/hibernate-validator-osgi-karaf-features-5.4.0.Beta1.jar returned status 404
+5.4.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.4.0.CR1/hibernate-validator-osgi-karaf-features-5.4.0.CR1.jar returned status 404
+5.4.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.4.0.Final/hibernate-validator-osgi-karaf-features-5.4.0.Final.jar returned status 404
+5.4.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.4.1.Final/hibernate-validator-osgi-karaf-features-5.4.1.Final.jar returned status 404
+5.4.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.4.2.Final/hibernate-validator-osgi-karaf-features-5.4.2.Final.jar returned status 404
+5.4.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/hibernate-validator-osgi-karaf-features/5.4.3.Final/hibernate-validator-osgi-karaf-features-5.4.3.Final.jar returned status 404
 6.0.0.Alpha1		2017-02-15T16:32:36Z	
 6.0.0.Alpha2		2017-03-30T15:57:21Z	
 6.0.0.Beta1		2017-05-11T11:45:17Z	
@@ -50,6 +73,7 @@
 6.2.3.Final		2022-03-03T09:37:52Z	
 6.2.4.Final		2022-08-04T10:15:32Z	
 6.2.5.Final		2022-09-12T14:20:30Z	
+6.2.6.Final			
 7.0.0.Alpha1		2020-03-25T14:13:29Z	
 7.0.0.Alpha2		2020-05-13T16:00:59Z	
 7.0.0.Alpha3		2020-05-26T16:53:34Z	
