@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-19. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-20. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -603,7 +603,7 @@ mutable.alignment  [renamed `io.github.beast2-dev` -> `io.github.compevol` (late
   ?   io.github.compevol                   2026-08..2026-08 0.1.1                |...................=|
 org.apache.commons.dbcp2  [renamed `org.apache.commons` -> `org.apache.tomee` (latest 10.2.0)]
   ? * org.apache.commons                   2023-08..2025-12 2.14.0               |.............=====..|
-  ?   org.apache.tomee                     2023-12..2026-07 10.2.0               |.............=======|
+  ?   org.apache.tomee                     2023-12..2026-07 10.2.0               |.............======.|
   ?   org.apache.meecrowave                2025-10..2025-10 2.0.0                |.................=..|
   ?   net.ontopia                          2025-04..2025-07 5.5.2                |................=...|
   ?   org.apache.openjpa                   2024-09..2025-05 4.1.1                |...............==...|
@@ -693,8 +693,8 @@ ch.qos.logback.classic  [fork: keep `ch.qos.logback`, `com.daml` still publishes
     + 92 more: org.alfasoftware, ch.exense.step, org.commonjava.atlas, org.apache.iotdb, com.salesforce.cantor, org.apache.zookeeper, org.eclipse.kapua, net.anotheria, org.jboss.pnc.maven-manipulator, com.limemojito.oss.aws, top.yqingyu, org.apache.sling, (+80 more)
 org.jspecify  [fork: keep `org.jspecify`, `org.finos.fluxnova.bpm.qa` still publishes the name]
   A * org.jspecify                         2021-07..2026-07 1.0.1                |.........===========|
-  ?   org.finos.fluxnova.bpm.qa            2026-07..2026-10 3.1.0                |...................=|
-  ?   org.finos.fluxnova.bpm               2026-07..2026-10 3.1.0                |...................=|
+  ?   org.finos.fluxnova.bpm.qa            2026-07..2026-10 3.1.0                |..................==|
+  ?   org.finos.fluxnova.bpm               2026-07..2026-10 3.1.0                |..................==|
   ?   io.microservices.tools.canvas        2026-10..2026-10 0.15.0.RELEASE       |...................=|
   ?   fr.inria.gforge.spoon                2026-08..2026-10 11.5.1-beta-13       |...................=|
   ?   com.zonzonzon                        2026-10..2026-10 1.1.3                |...................=|
@@ -902,7 +902,7 @@ org.bouncycastle.pkix  [fork: keep `org.bouncycastle`, `com.exasol` still publis
 com.sun.istack.runtime  [fork: keep `com.sun.istack`, `berlin.yuna` still publishes the name]
   A * com.sun.istack                       2018-08..2023-04 4.2.0                |...==========.......|
   ?   berlin.yuna                          2026-09..2026-10 2026.10.12           |...................=|
-  R   com.intuit.quickbooks-online         2025-10..2026-07 6.5.5                |.................===|
+  R   com.intuit.quickbooks-online         2025-10..2026-07 6.5.5                |.................==.|
   R   com.github.target365                 2026-04..2026-05 1.9.1                |..................=.|
   R   pro.verron.office-stamper            2026-04..2026-04 3.3                  |..................=.|
   R   io.github.hongjinqiu                 2026-02..2026-02 1.0.6                |..................=.|
@@ -1030,7 +1030,7 @@ org.apache.logging.log4j  [fork: keep `org.apache.logging.log4j`, `com.alibaba.v
   A * org.apache.logging.log4j             2017-11..2026-07 2.25.5               |..=================.|
   R   com.alibaba.ververica                2020-08..2026-10 1.20-vvr-11.9.0-jdk11 |.......=============|
   ?   io.github.yuku123                    2026-09..2026-09 1.3.6                |...................=|
-  R   dev.mauch                            2024-12..2026-09 3.4.4_0.34.1-prerelease28 |...............=====|
+  R   dev.mauch                            2024-12..2026-09 3.3.4_0.34.1-prerelease29 |...............=====|
   R   com.ibm.galasa                       2026-02..2026-09 2.1.0                |..................==|
   R   org.apache.seatunnel                 2022-03..2026-09 3.0.0                |..........==========|
     + 330 more: io.github.liangqinxin, dk.dma.ais.lib, org.springframework.cloud, com.mobius-software.protocols.sip, io.github.beehive-lab, com.alibaba.dts.client, io.kroxylicious, org.lucee, com.nqadmin.swingset.demo, com.vaimee, org.apache.hudi, io.github.zhouzhoucoder, (+318 more)
@@ -1119,7 +1119,7 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `app.free
   R   app.freerouting                      2026-05..2026-10 2.5.0                |..................==|
   R   io.openems                           2026-02..2026-09 3.4.0-openems.1      |..................==|
   R   com.ghgande                          2025-12..2026-09 3.4.0                |.................===|
-  ?   dk.dma.ais.lib                       2026-07..2026-07 2.8.7                |..................==|
+  ?   dk.dma.ais.lib                       2026-07..2026-07 2.8.7                |..................=.|
   R   org.lucee                            2022-03..2026-06 2.26.0.0             |..........=========.|
     + 20 more: nl.tno.org.portico, org.beilstein, me.bechberger, com.kount, com.github.aquality-automation, com.github.bilderherunterlader, com.gemecosystem.gemjar, io.github.alien-tools, com.webforj, io.github.egonw, com.liferay, de.fraunhofer.iem, (+8 more)
 com.networknt.schema  [fork: keep `com.networknt`, `xyz.tcheeric` still publishes the name]
@@ -1235,7 +1235,7 @@ org.osgi.framework  [fork: keep `org.osgi`, `org.apache.karaf` still publishes t
 ch.randelshofer.fastdoubleparser  [fork: keep `ch.randelshofer`, `org.jruby` still publishes the name]
   A * ch.randelshofer                      2022-11..2024-11 2.0.1                |...........=====....|
   ?   org.jruby                            2026-07..2026-09 10.1.2.0             |...................=|
-  R   za.co.absa.spline.agent.spark        2023-06..2026-08 2.4.0                |.............=======|
+  R   za.co.absa.spline.agent.spark        2023-06..2026-08 2.4.0                |............========|
   R   org.apache.inlong                    2023-10..2026-08 2.4.0                |.............=======|
   R   com.clickzetta                       2024-08..2026-07 2.0.1                |...............====.|
   R   software.amazon.smithy.java          2026-05..2026-06 1.4.0                |..................=.|
@@ -1745,7 +1745,7 @@ org.flywaydb.core  [owned by `org.flywaydb`; 4 other group(s) shade the name]
   A * org.flywaydb                         2017-12..2026-10 13.10.3              |..==================|
   ?   io.github.wu9007                     2026-08..2026-08 9.9.9                |...................=|
   R   io.github.coolbeevip                 2023-03..2026-01 9.15.2.5             |............=======.|
-  R   io.gitee.gbase8s                     2025-01..2025-01 6.5.7                |................=...|
+  R   io.gitee.gbase8s                     2025-01..2025-01 6.5.7                |...............=....|
   A   org.flywaydb.enterprise              2020-04..2022-07 9.0.0                |......======........|
   R   io.github.linceln                    2021-07..2021-08 5.0.8                |.........=..........|
     + 1 more: org.flywaydb.pro
@@ -1819,7 +1819,7 @@ io.github.humbleui.skija.windows.x64  [owned by `io.github.humbleui`; 1 other gr
 org.seleniumhq.selenium.api  [owned by `org.seleniumhq.selenium`; 3 other group(s) shade the name]
   A * org.seleniumhq.selenium              2019-09..2026-10 4.51.0               |.....===============|
   ?   com.github.aquality-automation       2026-08..2026-08 7.5.0                |...................=|
-  R   com.github.saikrishna321             2023-12..2024-01 14.0.4               |..............=.....|
+  R   com.github.saikrishna321             2023-12..2024-01 14.0.4               |.............==.....|
   R   ru.sbtqa.tag.pagefactory             2022-09..2023-08 21.0.1               |...........===......|
 org.seleniumhq.selenium.grid  [owned by `org.seleniumhq.selenium`; 1 other group(s) shade the name]
   ? * org.seleniumhq.selenium              2019-09..2026-10 4.51.0               |.....===============|
