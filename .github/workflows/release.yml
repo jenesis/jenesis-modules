@@ -73,6 +73,15 @@ jobs:
                -Djenesis.project.metadata=project.properties \
                build/jenesis/Make.java stage
 
+      - name: Tag the released commit
+        env:
+          TAG: v${{ steps.version.outputs.version }}
+        run: |
+          if [ "$(git rev-parse -q --verify "refs/tags/$TAG^{commit}")" != "$(git rev-parse HEAD)" ]; then
+            git tag "$TAG"
+            git push origin "refs/tags/$TAG"
+          fi
+
       - name: JReleaser deploy
         uses: jreleaser/release-action@90ac653bb9c79d11179e65d81499f3f34527dcd5 # 2.5.0
         with:
