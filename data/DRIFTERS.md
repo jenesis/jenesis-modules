@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-20. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-21. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -14,7 +14,7 @@ Generated 2026-10-20. A module *drifts* when more than one groupId publishes the
 | unclassified | 349 | 7 |
 | **total** | **920** | **3011** |
 
-The table covers all **3931** multi-owner modules (of **40336** modules scanned).
+The table covers all **3931** multi-owner modules (of **40341** modules scanned).
 
 Timeline axis spans 2017-01 .. 2026-10 (today). Per group: decision `A`=allowed `R`=rejected `?`=undecided, `*`=current owner, then the publication range, latest version, and a `=` activity bar across the axis.
 
@@ -1176,7 +1176,7 @@ com.samskivert.jmustache  [fork: keep `com.samskivert`, `dev.getelements.element
   A * com.samskivert                       2019-07..2023-11 1.16                 |.....=========......|
   ?   dev.getelements.elements             2026-08..2026-09 3.9.0-rc-11          |...................=|
   R   io.swagger.codegen.v3                2022-02..2023-02 3.0.41               |..........===.......|
-  R   io.garam                             2020-11..2020-11 0.4                  |........=...........|
+  R   io.garam                             2020-11..2020-11 0.4                  |.......=............|
 io.netty.internal.tcnative.openssl.linux.x86_64  [fork: keep `io.netty`, `io.camunda.connector` still publishes the name]
   A * io.netty                             2022-05..2026-09 2.0.84.Final         |..........==========|
   ?   io.camunda.connector                 2026-06..2026-09 8.7.28               |..................==|
@@ -1786,10 +1786,10 @@ org.jline.terminal.jni  [owned by `org.jline`; 1 other group(s) shade the name]
   ?   fish.payara.extras                   2026-08..2026-09 7.2026.9             |...................=|
 org.htmlunit  [owned by `org.htmlunit`; 1 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-10 5.6.0                |..................==|
-  ?   com.nordstrom.ui-tools               2026-07..2026-07 4.46.0               |...................=|
+  ?   com.nordstrom.ui-tools               2026-07..2026-07 4.46.0               |..................=.|
 org.htmlunit.cyberneko  [owned by `org.htmlunit`; 2 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-10 5.6.0                |..................==|
-  ?   com.nordstrom.ui-tools               2026-07..2026-07 4.45.0               |...................=|
+  ?   com.nordstrom.ui-tools               2026-07..2026-07 4.45.0               |..................=.|
   ?   org.seleniumhq.selenium              2026-06..2026-06 4.45.0               |..................=.|
 org.htmlunit.websocket.client  [owned by `org.htmlunit`; 1 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-10 5.6.0                |..................==|
@@ -1907,7 +1907,7 @@ org.opendaylight.mdsal.dom.api  [owned by `org.opendaylight.mdsal`; 0 other grou
   ? * org.opendaylight.mdsal               2019-07..2026-10 17.0.2               |.....===============|
   ?   org.opendaylight.netconf             2026-09..2026-09 12.0.1               |...................=|
 com.clickhouse.jdbc  [owned by `com.clickhouse`; 4 other group(s) shade the name]
-  A * com.clickhouse                       2021-12..2026-10 0.11.0-rc1           |..........==========|
+  A * com.clickhouse                       2021-12..2026-10 0.11.0-rc1           |.........===========|
   ?   io.github.tridog                     2026-07..2026-07 0.7.3-2              |..................=.|
   R   org.apache.seatunnel                 2023-10..2024-10 1.0.2                |.............===....|
   R   io.kestra.plugin                     2022-04..2023-03 0.6.1                |..........===.......|

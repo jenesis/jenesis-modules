@@ -20,23 +20,23 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 19 024 335 |
+| Total artifacts scanned | 19 024 371 |
 | Non-module artifacts | 16 935 730 |
-| Modular artifacts | 1 731 758 |
+| Modular artifacts | 1 731 794 |
 | Total automatic modules | 1 350 346 |
-| Total named modules | 381 412 |
-| Total named modules with module-info version | 289 626 |
-| Distinct Maven artifacts | 707 531 |
-| Distinct module names | 44 005 |
+| Total named modules | 381 448 |
+| Total named modules with module-info version | 289 662 |
+| Distinct Maven artifacts | 707 536 |
+| Distinct module names | 44 010 |
 | Distinct automatic modules | 23 222 |
-| Distinct named modules | 19 236 |
-| Distinct named modules with module-info version | 14 135 |
+| Distinct named modules | 19 241 |
+| Distinct named modules with module-info version | 14 140 |
 | Distinct groupIds publishing modules | 5 710 |
-| Most recent tracked publication | 2026-10-18 23:31:11 UTC |
+| Most recent tracked publication | 2026-10-20 21:42:59 UTC |
 
 ## Resolved catalogue size
 
-Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **368 167** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
+Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **368 203** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
 
 Of those, **246** rows (55 distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.
 
@@ -50,7 +50,7 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
-| Named | 19 236 | 381 411 |
+| Named | 19 241 | 381 447 |
 | Automatic | 23 222 | 1 350 346 |
 
 ## Classifiers
@@ -92,7 +92,7 @@ Counts canonical **named publications** (one count per published JAR, not per di
 
 | Publication category | Publications |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 283 926 |
+| `module-info` version matches the Maven coordinate version | 283 962 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 5 700 |
 | `module-info` declared no version (Maven coordinate version is the only reference) | 60 209 |
 
@@ -100,7 +100,7 @@ Same breakdown but counted once per **canonical module**, against the latest nam
 
 | Module category (by latest canonical named row) | Modules |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 12 377 |
+| `module-info` version matches the Maven coordinate version | 12 382 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 211 |
 | `module-info` declared no version (Maven coordinate version is the only reference) | 4 514 |
 
@@ -108,8 +108,8 @@ Each row describes what the **version-mismatch filter** (drop every named row wh
 
 | Module version filtering impact | Module names |
 |---|---:|
-| Canonical modules with at least one named row (in scope) | 17 251 |
-| Filter keeps every named row: `modules.tsv` is unchanged | 16 624 |
+| Canonical modules with at least one named row (in scope) | 17 256 |
+| Filter keeps every named row: `modules.tsv` is unchanged | 16 629 |
 | Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 516 |
 | Filter drops every named row: `modules.tsv` is removed entirely | 111 |
 | Filter drops the module's current top row: "latest" shifts to an older Maven version (or vanishes if fully lost) | 211 |
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 2 415 | 772 | 1 643 |
-| New version rows | 4 686 | 1 499 | 3 187 |
-| Non-modular artifacts | 1 063 | - | - |
+| Modules with a publication | 2 153 | 699 | 1 454 |
+| New version rows | 3 162 | 1 252 | 1 910 |
+| Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-07 | `█`&nbsp;3 538 (7.1%) | `▓▓`&nbsp;5 573 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
 | 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 687 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 733 (86.0%) |
 | 2026-09 | `█`&nbsp;3 866 (10.6%) | `▓▓`&nbsp;6 679 (18.4%) | `░░░░░░░░`&nbsp;25 826 (71.0%) |
-| 2026-10 | `█`&nbsp;2 451 (14.2%) | `▓`&nbsp;4 511 (26.2%) | `░░░`&nbsp;10 248 (59.5%) |
+| 2026-10 | `█`&nbsp;2 456 (14.3%) | `▓`&nbsp;4 511 (26.2%) | `░░░`&nbsp;10 243 (59.5%) |
 
 ## Naming patterns
 
@@ -185,7 +185,7 @@ For each canonical (no-classifier) module that resolved to an owner (implicit or
 |---:|---:|
 | 0 | 9 081 |
 | 1 | 1 196 |
-| 2 | 12 621 |
+| 2 | 12 626 |
 | 3 | 13 624 |
 | 4 | 2 496 |
 | 5 | 358 |
@@ -337,31 +337,31 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 
 | Module | Last publication |
 |---|---|
-| `build.jenesis.plugin.pitest` | 2026-10-18 23:31:11 UTC |
-| `build.jenesis.plugin.pmd` | 2026-10-18 23:31:11 UTC |
-| `build.jenesis.plugin.protoc` | 2026-10-18 23:31:11 UTC |
-| `build.jenesis.plugin.revapi` | 2026-10-18 23:31:11 UTC |
-| `build.jenesis.plugin.scala` | 2026-10-18 23:31:11 UTC |
-| `build.jenesis.plugin.scalafmt` | 2026-10-18 23:31:11 UTC |
-| `build.jenesis.plugin.scalastyle` | 2026-10-18 23:31:11 UTC |
-| `build.jenesis.plugin.spotbugs` | 2026-10-18 23:31:11 UTC |
-| `build.jenesis.plugin.wsimport` | 2026-10-18 23:31:11 UTC |
-| `build.jenesis.plugin.xjc` | 2026-10-18 23:31:11 UTC |
-| `build.jenesis.plugin.antlr` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.avro` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.checkstyle` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.codenarc` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.detekt` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.eclipse` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.forbiddenapis` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.googlejavaformat` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.groovy` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.harness` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.jacoco` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.japicmp` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.jreleaser` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.kotlin` | 2026-10-18 23:31:10 UTC |
-| `build.jenesis.plugin.ksp` | 2026-10-18 23:31:10 UTC |
+| `build.jenesis.plugin.forbiddenapis` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.googlejavaformat` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.gradleplugin` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.groovy` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.harness` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.jacoco` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.japicmp` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.jreleaser` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.kotlin` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.ksp` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.ktfmt` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.ktlint` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.mavenplugin` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.openapi` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.openrewrite` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.palantir` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.pitest` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.pmd` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.protoc` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.revapi` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.scala` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.scalafmt` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.scalastyle` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.spotbugs` | 2026-10-20 21:42:59 UTC |
+| `build.jenesis.plugin.wsimport` | 2026-10-20 21:42:59 UTC |
 
 ## Top 25 groupIds by average versions per module
 
