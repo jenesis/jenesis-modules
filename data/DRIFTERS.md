@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-21. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-22. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -55,7 +55,7 @@ org.objectweb.asm.util  [explicit rule: owned by `org.ow2.asm`; 20 other group(s
   R   io.camunda                           2025-09..2026-10 8.7.43               |.................===|
   R   org.teavm                            2023-03..2026-10 0.16.0               |............========|
   ?   org.wso2.orbit.org.openjdk.nashorn   2026-09..2026-09 15.7.0.wso2v1        |...................=|
-  R   io.jactl                             2023-04..2026-07 2.9.2                |............========|
+  R   io.jactl                             2023-04..2026-07 2.9.2                |............=======.|
     + 15 more: com.vmlens, com.webforj, io.joynr.tools.generator, io.joern, com.rookout, io.btrace, com.codacy, org.soot-oss, org.activecomponents.jadex, com.github.luxlang, org.geneweaver, com.github.pxav.kelp, (+3 more)
 org.objectweb.asm.tree  [explicit rule: owned by `org.ow2.asm`; 21 other group(s) rejected]
   A * org.ow2.asm                          2017-07..2026-10 9.11.1               |.===================|
@@ -1989,19 +1989,19 @@ org.springdoc.openapi.webflux.ui  [owned by `org.springdoc`; 2 other group(s) sh
 org.springdoc.openapi.webmvc.core  [owned by `org.springdoc`; 2 other group(s) shade the name]
   A * org.springdoc                        2020-12..2026-09 3.1.1                |........============|
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
-  R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |.................=..|
+  R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |................==..|
 org.springdoc.openapi.ai.common  [owned by `org.springdoc`; 1 other group(s) shade the name]
   ? * org.springdoc                        2026-04..2026-09 3.1.1                |..................==|
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
 org.springdoc.openapi.common  [owned by `org.springdoc`; 2 other group(s) shade the name]
   A * org.springdoc                        2020-12..2026-09 3.1.1                |........============|
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
-  R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |.................=..|
+  R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |................==..|
 org.springdoc.openapi.ui  [owned by `org.springdoc`; 3 other group(s) shade the name]
   A * org.springdoc                        2020-12..2026-09 3.1.1                |........============|
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   ?   io.github.branislavmalo              2026-08..2026-08 3.1.0-jackson3       |...................=|
-  R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |.................=..|
+  R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |................==..|
 org.springdoc.openapi.webflux.ai  [owned by `org.springdoc`; 1 other group(s) shade the name]
   ? * org.springdoc                        2026-04..2026-09 3.1.1                |..................==|
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
