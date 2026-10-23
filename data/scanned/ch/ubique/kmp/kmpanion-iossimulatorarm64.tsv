@@ -12,3 +12,5 @@
 0.0.6	metadata	2026-09-28T13:36:22Z	
 2026.10.06		2026-10-06T20:21:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/kmp/kmpanion-iossimulatorarm64/2026.10.06/kmpanion-iossimulatorarm64-2026.10.06.jar returned status 404
 2026.10.06	metadata	2026-10-06T20:21:33Z	
+2026.10.14		2026-10-14T09:52:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/kmp/kmpanion-iossimulatorarm64/2026.10.14/kmpanion-iossimulatorarm64-2026.10.14.jar returned status 404
+2026.10.14	metadata	2026-10-14T09:52:44Z	

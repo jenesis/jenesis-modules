@@ -1,2 +1,3 @@
 2.9.15.03231			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/fancysdk/2.9.15.03231/fancysdk-2.9.15.03231.jar returned status 404
 2.9.15.06021		2026-06-16T09:15:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/fancysdk/2.9.15.06021/fancysdk-2.9.15.06021.jar returned status 404
+3.0.20.10131		2026-10-14T02:16:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/fancysdk/3.0.20.10131/fancysdk-3.0.20.10131.jar returned status 404

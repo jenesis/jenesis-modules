@@ -56,6 +56,10 @@
 9.0.0		2026-09-23T23:51:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/9.0.0/jme-monitor-example-9.0.0.jar returned status 404
 9.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/9.1.0/jme-monitor-example-9.1.0.jar returned status 404
 9.10.0		2026-10-12T23:36:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/9.10.0/jme-monitor-example-9.10.0.jar returned status 404
+9.11.0		2026-10-14T23:36:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/9.11.0/jme-monitor-example-9.11.0.jar returned status 404
+9.12.0		2026-10-15T23:40:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/9.12.0/jme-monitor-example-9.12.0.jar returned status 404
+9.13.0		2026-10-20T06:58:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/9.13.0/jme-monitor-example-9.13.0.jar returned status 404
+9.14.0		2026-10-21T23:38:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/9.14.0/jme-monitor-example-9.14.0.jar returned status 404
 9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/9.2.0/jme-monitor-example-9.2.0.jar returned status 404
 9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/9.3.0/jme-monitor-example-9.3.0.jar returned status 404
 9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-monitor-example/9.5.0/jme-monitor-example-9.5.0.jar returned status 404

@@ -17,3 +17,4 @@
 5.2.2.0.10141			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/beizi/5.2.2.0.10141/beizi-5.2.2.0.10141.jar returned status 404
 5.3.0.3.03231			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/beizi/5.3.0.3.03231/beizi-5.3.0.3.03231.jar returned status 404
 5.3.0.3.06021		2026-06-16T09:09:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/beizi/5.3.0.3.06021/beizi-5.3.0.3.06021.jar returned status 404
+5.6.1.7.10131		2026-10-14T02:11:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/adapter/beizi/5.6.1.7.10131/beizi-5.6.1.7.10131.jar returned status 404
