@@ -7,6 +7,10 @@
 3.2.1		2026-10-09T02:06:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kamiiroawase/nexttime-iosarm64/3.2.1/nexttime-iosarm64-3.2.1.jar returned status 404
 3.2.1	metadata	2026-10-09T02:06:38Z	
 3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kamiiroawase/nexttime-iosarm64/3.2.2/nexttime-iosarm64-3.2.2.jar returned status 404
+3.2.2	metadata	2026-10-17T18:41:08Z	
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kamiiroawase/nexttime-iosarm64/4.0.0/nexttime-iosarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-10-18T01:56:57Z	
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kamiiroawase/nexttime-iosarm64/4.1.0/nexttime-iosarm64-4.1.0.jar returned status 404
+4.1.0	metadata	2026-10-18T04:16:30Z	
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kamiiroawase/nexttime-iosarm64/4.2.0/nexttime-iosarm64-4.2.0.jar returned status 404
+4.2.0	metadata	2026-10-18T05:16:18Z	
