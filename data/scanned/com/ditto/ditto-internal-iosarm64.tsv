@@ -106,6 +106,8 @@
 5.0.3	metadata	2026-07-22T11:50:06Z	
 5.0.3-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.0.3-rc.1/ditto-internal-iosarm64-5.0.3-rc.1.jar returned status 404
 5.0.3-rc.1	metadata	2026-07-15T13:09:33Z	
+5.0.4-experimental-presence-hot-restart.1		2026-10-20T02:12:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.0.4-experimental-presence-hot-restart.1/ditto-internal-iosarm64-5.0.4-experimental-presence-hot-restart.1.jar returned status 404
+5.0.4-experimental-presence-hot-restart.1	metadata	2026-10-20T02:12:04Z	
 5.0.4-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.0.4-rc.1/ditto-internal-iosarm64-5.0.4-rc.1.jar returned status 404
 5.0.4-rc.1	metadata	2026-09-08T19:15:23Z	
 5.0.4-rc.2		2026-09-14T17:36:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.0.4-rc.2/ditto-internal-iosarm64-5.0.4-rc.2.jar returned status 404
@@ -233,7 +235,11 @@
 5.1.0-rc.3		2026-08-13T12:16:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.1.0-rc.3/ditto-internal-iosarm64-5.1.0-rc.3.jar returned status 404
 5.1.0-rc.3	metadata	2026-08-13T12:16:09Z	
 5.1.1-experimental-cache-cap.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.1.1-experimental-cache-cap.2/ditto-internal-iosarm64-5.1.1-experimental-cache-cap.2.jar returned status 404
+5.1.1-experimental-cache-cap.2	metadata	2026-10-16T11:01:10Z	
 5.1.1-experimental-cache-cap.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.1.1-experimental-cache-cap.3/ditto-internal-iosarm64-5.1.1-experimental-cache-cap.3.jar returned status 404
+5.1.1-experimental-cache-cap.3	metadata	2026-10-16T17:36:27Z	
+5.1.1-rc.1		2026-10-20T05:11:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.1.1-rc.1/ditto-internal-iosarm64-5.1.1-rc.1.jar returned status 404
+5.1.1-rc.1	metadata	2026-10-20T05:11:42Z	
 5.2.0-dev-sdks-4505.20260717.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.2.0-dev-sdks-4505.20260717.7/ditto-internal-iosarm64-5.2.0-dev-sdks-4505.20260717.7.jar returned status 404
 5.2.0-dev-sdks-4505.20260717.7	metadata	2026-07-19T03:03:38Z	
 5.2.0-dev-weekly.20260726.1866			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.2.0-dev-weekly.20260726.1866/ditto-internal-iosarm64-5.2.0-dev-weekly.20260726.1866.jar returned status 404
@@ -253,6 +259,7 @@
 5.2.0-experimental-ca-kmp-public.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.2.0-experimental-ca-kmp-public.1/ditto-internal-iosarm64-5.2.0-experimental-ca-kmp-public.1.jar returned status 404
 5.2.0-experimental-ca-kmp-public.1	metadata	2026-09-11T15:32:57Z	
 5.2.0-experimental-puro-workers.20261014.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.2.0-experimental-puro-workers.20261014.1/ditto-internal-iosarm64-5.2.0-experimental-puro-workers.20261014.1.jar returned status 404
+5.2.0-experimental-puro-workers.20261014.1	metadata	2026-10-14T11:06:27Z	
 5.2.0-preview.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.2.0-preview.1/ditto-internal-iosarm64-5.2.0-preview.1.jar returned status 404
 5.2.0-preview.1	metadata	2026-09-16T07:21:26Z	
 5.2.0-preview.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.2.0-preview.2/ditto-internal-iosarm64-5.2.0-preview.2.jar returned status 404
@@ -261,5 +268,11 @@
 5.2.0-preview.3	metadata	2026-09-28T23:36:12Z	
 5.2.0-preview.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.2.0-preview.5/ditto-internal-iosarm64-5.2.0-preview.5.jar returned status 404
 5.2.0-preview.5	metadata	2026-10-05T07:51:14Z	
+5.2.0-rc.1		2026-10-21T05:32:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.2.0-rc.1/ditto-internal-iosarm64-5.2.0-rc.1.jar returned status 404
+5.2.0-rc.1	metadata	2026-10-21T05:32:00Z	
 5.3.0-dev-test-puro.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.3.0-dev-test-puro.1/ditto-internal-iosarm64-5.3.0-dev-test-puro.1.jar returned status 404
+5.3.0-dev-test-puro.1	metadata	2026-10-14T20:06:23Z	
+5.3.0-dev-weekly.20261019.2871		2026-10-20T06:58:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.3.0-dev-weekly.20261019.2871/ditto-internal-iosarm64-5.3.0-dev-weekly.20261019.2871.jar returned status 404
+5.3.0-dev-weekly.20261019.2871	metadata	2026-10-20T06:58:03Z	
 5.3.0-experimental-xcode263.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iosarm64/5.3.0-experimental-xcode263.3/ditto-internal-iosarm64-5.3.0-experimental-xcode263.3.jar returned status 404
+5.3.0-experimental-xcode263.3	metadata	2026-10-16T10:46:13Z	

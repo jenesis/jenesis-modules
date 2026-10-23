@@ -117,3 +117,4 @@
 1.6.3	named	com.alibaba.hologres	hologres-connector-flink-base	2026-09-16T02:47:09Z	2.15.1
 2.0.45	named	org.bidib.jbidib	jbidibc-pi4j-tools	2026-09-29T17:56:23Z	2.22.0
 2.1.0	named	com.mifiel	mifiel-api-client	2026-10-11T05:51:02Z	2.14.0
+7.2.0-1711	named	com.github.cafdataprocessing.workers.languagedetection	language-detection-cld2	2026-10-20T19:11:57Z	2.22.0
