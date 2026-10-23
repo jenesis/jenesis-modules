@@ -46,6 +46,7 @@
 14.14.5		2026-08-11T09:05:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/14.14.5/vaadin-crud-flow-parent-14.14.5.jar returned status 404
 14.14.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/14.14.6/vaadin-crud-flow-parent-14.14.6.jar returned status 404
 14.14.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/14.14.7/vaadin-crud-flow-parent-14.14.7.jar returned status 404
+14.14.8		2026-10-19T06:22:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/14.14.8/vaadin-crud-flow-parent-14.14.8.jar returned status 404
 14.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/14.4.2/vaadin-crud-flow-parent-14.4.2.jar returned status 404
 14.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/14.4.3/vaadin-crud-flow-parent-14.4.3.jar returned status 404
 14.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/14.4.4/vaadin-crud-flow-parent-14.4.4.jar returned status 404
@@ -304,6 +305,7 @@
 23.6.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/23.6.14/vaadin-crud-flow-parent-23.6.14.jar returned status 404
 23.6.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/23.6.15/vaadin-crud-flow-parent-23.6.15.jar returned status 404
 23.6.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/23.6.16/vaadin-crud-flow-parent-23.6.16.jar returned status 404
+23.6.17		2026-10-19T06:22:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/23.6.17/vaadin-crud-flow-parent-23.6.17.jar returned status 404
 23.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/23.6.2/vaadin-crud-flow-parent-23.6.2.jar returned status 404
 23.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/23.6.3/vaadin-crud-flow-parent-23.6.3.jar returned status 404
 23.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/23.6.4/vaadin-crud-flow-parent-23.6.4.jar returned status 404
@@ -351,6 +353,7 @@
 24.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.10.1/vaadin-crud-flow-parent-24.10.1.jar returned status 404
 24.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.10.10/vaadin-crud-flow-parent-24.10.10.jar returned status 404
 24.10.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.10.11/vaadin-crud-flow-parent-24.10.11.jar returned status 404
+24.10.12		2026-10-19T06:22:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.10.12/vaadin-crud-flow-parent-24.10.12.jar returned status 404
 24.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.10.2/vaadin-crud-flow-parent-24.10.2.jar returned status 404
 24.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.10.3/vaadin-crud-flow-parent-24.10.3.jar returned status 404
 24.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.10.4/vaadin-crud-flow-parent-24.10.4.jar returned status 404
@@ -411,6 +414,7 @@
 24.4.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.4.22/vaadin-crud-flow-parent-24.4.22.jar returned status 404
 24.4.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.4.24/vaadin-crud-flow-parent-24.4.24.jar returned status 404
 24.4.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.4.25/vaadin-crud-flow-parent-24.4.25.jar returned status 404
+24.4.26		2026-10-19T06:32:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.4.26/vaadin-crud-flow-parent-24.4.26.jar returned status 404
 24.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.4.3/vaadin-crud-flow-parent-24.4.3.jar returned status 404
 24.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.4.4/vaadin-crud-flow-parent-24.4.4.jar returned status 404
 24.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.4.5/vaadin-crud-flow-parent-24.4.5.jar returned status 404
@@ -455,6 +459,7 @@
 24.7.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.7.14/vaadin-crud-flow-parent-24.7.14.jar returned status 404
 24.7.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.7.15/vaadin-crud-flow-parent-24.7.15.jar returned status 404
 24.7.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.7.16/vaadin-crud-flow-parent-24.7.16.jar returned status 404
+24.7.17		2026-10-19T06:22:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.7.17/vaadin-crud-flow-parent-24.7.17.jar returned status 404
 24.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.7.2/vaadin-crud-flow-parent-24.7.2.jar returned status 404
 24.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.7.3/vaadin-crud-flow-parent-24.7.3.jar returned status 404
 24.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.7.4/vaadin-crud-flow-parent-24.7.4.jar returned status 404
@@ -502,6 +507,7 @@
 24.9.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.9.21/vaadin-crud-flow-parent-24.9.21.jar returned status 404
 24.9.22		2026-09-21T11:41:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.9.22/vaadin-crud-flow-parent-24.9.22.jar returned status 404
 24.9.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.9.23/vaadin-crud-flow-parent-24.9.23.jar returned status 404
+24.9.24		2026-10-19T06:22:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.9.24/vaadin-crud-flow-parent-24.9.24.jar returned status 404
 24.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.9.3/vaadin-crud-flow-parent-24.9.3.jar returned status 404
 24.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.9.4/vaadin-crud-flow-parent-24.9.4.jar returned status 404
 24.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/24.9.5/vaadin-crud-flow-parent-24.9.5.jar returned status 404
@@ -576,3 +582,4 @@
 25.3.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/25.3.0-rc1/vaadin-crud-flow-parent-25.3.0-rc1.jar returned status 404
 25.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/25.3.1/vaadin-crud-flow-parent-25.3.1.jar returned status 404
 25.3.2		2026-10-12T08:11:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/25.3.2/vaadin-crud-flow-parent-25.3.2.jar returned status 404
+25.3.3		2026-10-19T06:37:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-crud-flow-parent/25.3.3/vaadin-crud-flow-parent-25.3.3.jar returned status 404
