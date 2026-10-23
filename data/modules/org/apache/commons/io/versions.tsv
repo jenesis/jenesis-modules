@@ -1076,3 +1076,4 @@
 1.1.2	named	org.apache.hudi	hudi-flink1.20-bundle	2026-10-17T08:25:53Z	2.14.0
 1.1.2	named	org.apache.hudi	hudi-flink2.0-bundle	2026-10-17T10:15:04Z	2.14.0
 3.2.2	named	org.utplsql	utplsql-maven-plugin	2026-10-17T22:51:26Z	2.22.0
+1.146.0	named	no.entur	schema2proto-lib	2026-10-19T03:11:21Z	2.22.0

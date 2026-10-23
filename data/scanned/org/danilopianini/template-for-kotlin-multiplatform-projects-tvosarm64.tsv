@@ -451,7 +451,9 @@
 0.3.15-dev02+610ed21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-tvosarm64/0.3.15-dev02+610ed21/template-for-kotlin-multiplatform-projects-tvosarm64-0.3.15-dev02+610ed21.jar returned status 404
 0.3.15-dev02+610ed21	metadata	2026-10-08T22:15:50Z	
 0.3.15-dev03+aef5f1a			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-tvosarm64/0.3.15-dev03+aef5f1a/template-for-kotlin-multiplatform-projects-tvosarm64-0.3.15-dev03+aef5f1a.jar returned status 404
+0.3.15-dev03+aef5f1a	metadata	2026-10-15T05:55:59Z	
 0.3.15-dev05+b68e545			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-tvosarm64/0.3.15-dev05+b68e545/template-for-kotlin-multiplatform-projects-tvosarm64-0.3.15-dev05+b68e545.jar returned status 404
+0.3.15-dev05+b68e545	metadata	2026-10-18T13:01:29Z	
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-tvosarm64/0.3.2/template-for-kotlin-multiplatform-projects-tvosarm64-0.3.2.jar returned status 404
 0.3.2	metadata	2025-08-14T13:18:40Z	
 0.3.2-dev01+b3b533f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-tvosarm64/0.3.2-dev01+b3b533f/template-for-kotlin-multiplatform-projects-tvosarm64-0.3.2-dev01+b3b533f.jar returned status 404

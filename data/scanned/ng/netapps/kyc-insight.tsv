@@ -8,4 +8,7 @@
 1.0.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ng/netapps/kyc-insight/1.0.36/kyc-insight-1.0.36.jar returned status 404
 1.0.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ng/netapps/kyc-insight/1.0.38/kyc-insight-1.0.38.jar returned status 404
 1.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ng/netapps/kyc-insight/1.0.40/kyc-insight-1.0.40.jar returned status 404
+1.0.41		2026-10-11T08:06:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ng/netapps/kyc-insight/1.0.41/kyc-insight-1.0.41.jar returned status 404
+1.0.42		2026-10-11T23:46:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ng/netapps/kyc-insight/1.0.42/kyc-insight-1.0.42.jar returned status 404
+1.0.43		2026-10-15T01:50:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ng/netapps/kyc-insight/1.0.43/kyc-insight-1.0.43.jar returned status 404
 1.0.5		2026-05-30T20:33:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ng/netapps/kyc-insight/1.0.5/kyc-insight-1.0.5.jar returned status 404

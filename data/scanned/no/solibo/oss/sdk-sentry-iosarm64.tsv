@@ -60,6 +60,10 @@
 1.28.0	metadata	2026-10-08T21:16:17Z	
 1.28.1		2026-10-08T22:55:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.28.1/sdk-sentry-iosarm64-1.28.1.jar returned status 404
 1.28.1	metadata	2026-10-08T22:55:53Z	
+1.28.10		2026-10-12T21:46:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.28.10/sdk-sentry-iosarm64-1.28.10.jar returned status 404
+1.28.10	metadata	2026-10-12T21:46:03Z	
+1.28.11		2026-10-12T23:21:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.28.11/sdk-sentry-iosarm64-1.28.11.jar returned status 404
+1.28.11	metadata	2026-10-12T23:21:12Z	
 1.28.2		2026-10-09T18:26:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.28.2/sdk-sentry-iosarm64-1.28.2.jar returned status 404
 1.28.2	metadata	2026-10-09T18:26:06Z	
 1.28.3		2026-10-09T20:56:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.28.3/sdk-sentry-iosarm64-1.28.3.jar returned status 404
@@ -68,3 +72,27 @@
 1.28.4	metadata	2026-10-10T00:06:11Z	
 1.28.5		2026-10-10T11:21:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.28.5/sdk-sentry-iosarm64-1.28.5.jar returned status 404
 1.28.5	metadata	2026-10-10T11:21:05Z	
+1.28.6		2026-10-12T11:06:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.28.6/sdk-sentry-iosarm64-1.28.6.jar returned status 404
+1.28.6	metadata	2026-10-12T11:06:07Z	
+1.28.7		2026-10-12T14:01:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.28.7/sdk-sentry-iosarm64-1.28.7.jar returned status 404
+1.28.7	metadata	2026-10-12T14:01:11Z	
+1.28.8		2026-10-12T18:41:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.28.8/sdk-sentry-iosarm64-1.28.8.jar returned status 404
+1.28.8	metadata	2026-10-12T18:41:57Z	
+1.28.9		2026-10-12T20:36:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.28.9/sdk-sentry-iosarm64-1.28.9.jar returned status 404
+1.28.9	metadata	2026-10-12T20:36:06Z	
+1.29.0		2026-10-13T11:45:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.29.0/sdk-sentry-iosarm64-1.29.0.jar returned status 404
+1.29.0	metadata	2026-10-13T11:45:57Z	
+1.29.1		2026-10-13T15:16:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.29.1/sdk-sentry-iosarm64-1.29.1.jar returned status 404
+1.29.1	metadata	2026-10-13T15:16:20Z	
+1.29.2		2026-10-14T15:57:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.29.2/sdk-sentry-iosarm64-1.29.2.jar returned status 404
+1.29.2	metadata	2026-10-14T15:57:27Z	
+1.29.3		2026-10-14T17:52:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.29.3/sdk-sentry-iosarm64-1.29.3.jar returned status 404
+1.29.3	metadata	2026-10-14T17:52:23Z	
+1.30.0		2026-10-14T23:56:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.30.0/sdk-sentry-iosarm64-1.30.0.jar returned status 404
+1.30.0	metadata	2026-10-14T23:56:23Z	
+1.31.0		2026-10-15T15:57:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.31.0/sdk-sentry-iosarm64-1.31.0.jar returned status 404
+1.31.0	metadata	2026-10-15T15:57:16Z	
+1.32.0		2026-10-15T21:26:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.32.0/sdk-sentry-iosarm64-1.32.0.jar returned status 404
+1.32.0	metadata	2026-10-15T21:26:12Z	
+1.32.1		2026-10-16T14:06:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-sentry-iosarm64/1.32.1/sdk-sentry-iosarm64-1.32.1.jar returned status 404
+1.32.1	metadata	2026-10-16T14:06:27Z	

@@ -141,3 +141,4 @@
 2.0.11	named	org.apache.iotdb	trigger-example	2026-09-07T16:21:30Z	1.5.6-3
 1.1.4	named	org.apache.tsfile	tsfile	2026-09-10T02:47:22Z	1.5.6-3
 2.0.7	named	com.scylladb	scylla-cdc-source-connector	2026-09-30T15:59:29Z	1.5.6-10
+2.5.0	named	org.apache.tsfile	tsfile	2026-10-10T15:26:06Z	1.5.6-3
