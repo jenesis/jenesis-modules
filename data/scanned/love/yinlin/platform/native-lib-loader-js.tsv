@@ -6,3 +6,4 @@
 3.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/yinlin/platform/native-lib-loader-js/3.5.5/native-lib-loader-js-3.5.5.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/yinlin/platform/native-lib-loader-js/3.6.0/native-lib-loader-js-3.6.0.jar returned status 404
 3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/yinlin/platform/native-lib-loader-js/3.6.1/native-lib-loader-js-3.6.1.jar returned status 404
+3.7.0		2026-10-18T05:46:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/yinlin/platform/native-lib-loader-js/3.7.0/native-lib-loader-js-3.7.0.jar returned status 404

@@ -209,3 +209,7 @@
 5.0.0		2026-08-18T11:51:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/5.0.0/cosec-bom-5.0.0.jar returned status 404
 5.1.0		2026-08-18T13:11:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/5.1.0/cosec-bom-5.1.0.jar returned status 404
 5.2.0		2026-08-21T07:36:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/5.2.0/cosec-bom-5.2.0.jar returned status 404
+6.0.0		2026-10-11T04:11:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/6.0.0/cosec-bom-6.0.0.jar returned status 404
+6.0.1		2026-10-11T09:31:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/6.0.1/cosec-bom-6.0.1.jar returned status 404
+6.0.2		2026-10-11T12:01:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/6.0.2/cosec-bom-6.0.2.jar returned status 404
+6.1.0		2026-10-13T00:36:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/6.1.0/cosec-bom-6.1.0.jar returned status 404

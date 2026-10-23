@@ -38,6 +38,17 @@
 13.0.0		2026-10-10T03:36:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/13.0.0/smix-sdk-13.0.0.jar returned status 404
 13.1.0		2026-10-10T07:07:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/13.1.0/smix-sdk-13.1.0.jar returned status 404
 14.0.0		2026-10-10T21:05:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/14.0.0/smix-sdk-14.0.0.jar returned status 404
+14.1.0		2026-10-11T14:46:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/14.1.0/smix-sdk-14.1.0.jar returned status 404
+14.1.1		2026-10-11T19:21:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/14.1.1/smix-sdk-14.1.1.jar returned status 404
+14.2.0		2026-10-12T03:56:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/14.2.0/smix-sdk-14.2.0.jar returned status 404
+15.0.0		2026-10-12T13:11:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/15.0.0/smix-sdk-15.0.0.jar returned status 404
+15.0.1		2026-10-12T17:21:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/15.0.1/smix-sdk-15.0.1.jar returned status 404
+15.1.0		2026-10-13T08:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/15.1.0/smix-sdk-15.1.0.jar returned status 404
+16.0.0		2026-10-13T18:41:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/16.0.0/smix-sdk-16.0.0.jar returned status 404
+16.1.0		2026-10-13T23:47:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/16.1.0/smix-sdk-16.1.0.jar returned status 404
+16.2.0		2026-10-14T15:21:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/16.2.0/smix-sdk-16.2.0.jar returned status 404
+16.3.0		2026-10-18T14:26:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/16.3.0/smix-sdk-16.3.0.jar returned status 404
+16.3.1		2026-10-19T05:36:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/16.3.1/smix-sdk-16.3.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/2.0.0/smix-sdk-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/2.1.0/smix-sdk-2.1.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-sdk/2.2.0/smix-sdk-2.2.0.jar returned status 404

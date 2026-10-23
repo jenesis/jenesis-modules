@@ -6,3 +6,4 @@
 3.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/yinlin/compose/components/rich-text-wasm-js/3.5.5/rich-text-wasm-js-3.5.5.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/yinlin/compose/components/rich-text-wasm-js/3.6.0/rich-text-wasm-js-3.6.0.jar returned status 404
 3.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/yinlin/compose/components/rich-text-wasm-js/3.6.1/rich-text-wasm-js-3.6.1.jar returned status 404
+3.7.0		2026-10-18T05:45:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/yinlin/compose/components/rich-text-wasm-js/3.7.0/rich-text-wasm-js-3.7.0.jar returned status 404
