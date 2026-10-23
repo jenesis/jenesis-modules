@@ -35,6 +35,7 @@
 0.14.1		2026-10-13T13:11:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-iossimulatorarm64/0.14.1/kmp-ble-iossimulatorarm64-0.14.1.jar returned status 404
 0.14.1	metadata	2026-10-13T13:11:13Z	
 0.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-iossimulatorarm64/0.14.2/kmp-ble-iossimulatorarm64-0.14.2.jar returned status 404
+0.14.2	metadata	2026-10-16T10:01:05Z	
 0.3.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-iossimulatorarm64/0.3.13/kmp-ble-iossimulatorarm64-0.3.13.jar returned status 404
 0.3.13	metadata	2026-04-05T18:58:27Z	
 0.3.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atruedev/kmp-ble-iossimulatorarm64/0.3.14/kmp-ble-iossimulatorarm64-0.3.14.jar returned status 404

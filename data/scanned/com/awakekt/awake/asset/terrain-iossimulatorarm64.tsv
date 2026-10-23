@@ -59,12 +59,23 @@
 0.11.1		2026-10-13T11:21:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.11.1/terrain-iossimulatorarm64-0.11.1.jar returned status 404
 0.11.1	metadata	2026-10-13T11:21:04Z	
 0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.12.0/terrain-iossimulatorarm64-0.12.0.jar returned status 404
+0.12.0	metadata	2026-10-14T00:36:14Z	
 0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.13.1/terrain-iossimulatorarm64-0.13.1.jar returned status 404
+0.13.1	metadata	2026-10-16T03:52:55Z	
 0.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.13.2/terrain-iossimulatorarm64-0.13.2.jar returned status 404
+0.13.2	metadata	2026-10-16T14:49:50Z	
 0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.14.0/terrain-iossimulatorarm64-0.14.0.jar returned status 404
+0.14.0	metadata	2026-10-17T00:31:47Z	
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.15.0/terrain-iossimulatorarm64-0.15.0.jar returned status 404
+0.15.0	metadata	2026-10-17T04:16:20Z	
 0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.16.0/terrain-iossimulatorarm64-0.16.0.jar returned status 404
+0.16.0	metadata	2026-10-17T18:46:09Z	
 0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.17.0/terrain-iossimulatorarm64-0.17.0.jar returned status 404
+0.17.0	metadata	2026-10-18T08:31:13Z	
+0.18.0		2026-10-19T18:27:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.18.0/terrain-iossimulatorarm64-0.18.0.jar returned status 404
+0.18.0	metadata	2026-10-19T18:27:51Z	
+0.19.0		2026-10-20T01:27:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.19.0/terrain-iossimulatorarm64-0.19.0.jar returned status 404
+0.19.0	metadata	2026-10-20T01:27:21Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.2.0/terrain-iossimulatorarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2026-10-06T14:20:15Z	
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/terrain-iossimulatorarm64/0.4.0/terrain-iossimulatorarm64-0.4.0.jar returned status 404
