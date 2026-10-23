@@ -33,3 +33,5 @@
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manojmallick/gavio-parent/2.7.0/gavio-parent-2.7.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manojmallick/gavio-parent/3.0.0/gavio-parent-3.0.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manojmallick/gavio-parent/3.1.0/gavio-parent-3.1.0.jar returned status 404
+3.2.0		2026-10-19T06:06:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manojmallick/gavio-parent/3.2.0/gavio-parent-3.2.0.jar returned status 404
+3.2.1		2026-10-19T23:07:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manojmallick/gavio-parent/3.2.1/gavio-parent-3.2.1.jar returned status 404
