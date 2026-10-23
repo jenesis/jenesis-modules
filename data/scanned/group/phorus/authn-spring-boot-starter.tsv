@@ -4,3 +4,7 @@
 1.0.1	plain	2026-04-20T19:02:49Z	
 1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/group/phorus/authn-spring-boot-starter/1.0.2/authn-spring-boot-starter-1.0.2.jar returned status 404
 1.0.2	plain	2026-05-07T08:42:19Z	
+2.0.0		2026-10-14T18:33:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/group/phorus/authn-spring-boot-starter/2.0.0/authn-spring-boot-starter-2.0.0.jar returned status 404
+2.0.0	plain	2026-10-14T18:33:55Z	
+2.0.1		2026-10-16T22:06:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/group/phorus/authn-spring-boot-starter/2.0.1/authn-spring-boot-starter-2.0.1.jar returned status 404
+2.0.1	plain	2026-10-16T22:06:18Z	

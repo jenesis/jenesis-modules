@@ -3,3 +3,5 @@
 0.4.4		2026-06-29T19:58:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/rules/dlgpe/0.4.4/dlgpe-0.4.4.jar returned status 404
 0.4.6		2026-06-29T20:22:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/rules/dlgpe/0.4.6/dlgpe-0.4.6.jar returned status 404
 0.5.0		2026-06-30T06:52:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/rules/dlgpe/0.5.0/dlgpe-0.5.0.jar returned status 404
+0.6.0		2026-10-15T11:21:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/rules/dlgpe/0.6.0/dlgpe-0.6.0.jar returned status 404
+0.7.0		2026-10-18T11:57:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/rules/dlgpe/0.7.0/dlgpe-0.7.0.jar returned status 404

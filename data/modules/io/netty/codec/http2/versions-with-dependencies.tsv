@@ -23,3 +23,5 @@
 8.6.31	named	io.camunda.connector	spring-boot-starter-camunda-connectors	2026-09-28T14:22:26Z	4.2.18.Final
 8.7.28	named	io.camunda.connector	spring-boot-starter-camunda-connectors	2026-09-28T14:22:27Z	4.2.18.Final
 8.7.28	named	io.camunda.connector	connector-runtime-application	2026-09-28T14:22:31Z	4.2.18.Final
+8.6.32	named	io.camunda.connector	spring-boot-starter-camunda-connectors	2026-10-16T13:41:22Z	4.2.19.Final
+8.6.32	named	io.camunda.connector	connector-runtime-application	2026-10-16T13:41:23Z	4.2.19.Final

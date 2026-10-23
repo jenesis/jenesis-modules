@@ -36,3 +36,5 @@
 2.3.0-alpha.5	metadata	2026-10-07T07:51:09Z	
 2.3.0-alpha.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-raise-ktor-server-watchosarm64/2.3.0-alpha.6/arrow-raise-ktor-server-watchosarm64-2.3.0-alpha.6.jar returned status 404
 2.3.0-alpha.6	metadata	2026-10-08T11:21:06Z	
+2.3.0-alpha.7		2026-10-19T12:37:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-raise-ktor-server-watchosarm64/2.3.0-alpha.7/arrow-raise-ktor-server-watchosarm64-2.3.0-alpha.7.jar returned status 404
+2.3.0-alpha.7	metadata	2026-10-19T12:37:10Z	
