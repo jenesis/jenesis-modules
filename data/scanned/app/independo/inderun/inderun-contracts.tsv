@@ -15,4 +15,10 @@
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-contracts/0.3.2/inderun-contracts-0.3.2.jar returned status 404
 0.3.2-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-contracts/0.3.2-dev.1/inderun-contracts-0.3.2-dev.1.jar returned status 404
 0.3.2-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-contracts/0.3.2-rc.1/inderun-contracts-0.3.2-rc.1.jar returned status 404
+0.3.3		2026-10-20T18:03:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-contracts/0.3.3/inderun-contracts-0.3.3.jar returned status 404
 0.3.3-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-contracts/0.3.3-rc.1/inderun-contracts-0.3.3-rc.1.jar returned status 404
+0.3.3-rc.2		2026-10-20T17:49:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-contracts/0.3.3-rc.2/inderun-contracts-0.3.3-rc.2.jar returned status 404
+0.4.0		2026-10-21T13:29:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-contracts/0.4.0/inderun-contracts-0.4.0.jar returned status 404
+0.4.0-rc.1		2026-10-21T10:21:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-contracts/0.4.0-rc.1/inderun-contracts-0.4.0-rc.1.jar returned status 404
+0.4.0-rc.2		2026-10-21T11:42:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-contracts/0.4.0-rc.2/inderun-contracts-0.4.0-rc.2.jar returned status 404
+0.5.0-rc.1		2026-10-21T16:53:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/independo/inderun/inderun-contracts/0.5.0-rc.1/inderun-contracts-0.5.0-rc.1.jar returned status 404

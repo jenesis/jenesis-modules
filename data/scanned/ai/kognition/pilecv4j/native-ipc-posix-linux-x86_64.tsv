@@ -1,2 +1,4 @@
 1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kognition/pilecv4j/native-ipc-posix-linux-x86_64/1.0/native-ipc-posix-linux-x86_64-1.0.jar returned status 404
 1.0	bin	2023-02-26T03:41:31Z	
+1.1.4		2026-10-20T11:26:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kognition/pilecv4j/native-ipc-posix-linux-x86_64/1.1.4/native-ipc-posix-linux-x86_64-1.1.4.jar returned status 404
+1.1.4	bin	2026-10-20T11:26:41Z	

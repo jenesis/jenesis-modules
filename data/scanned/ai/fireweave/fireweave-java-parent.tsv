@@ -1,2 +1,4 @@
 0.1.0		2026-08-18T06:37:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/fireweave/fireweave-java-parent/0.1.0/fireweave-java-parent-0.1.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/fireweave/fireweave-java-parent/2.3.0/fireweave-java-parent-2.3.0.jar returned status 404
+3.0.0		2026-10-22T15:09:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/fireweave/fireweave-java-parent/3.0.0/fireweave-java-parent-3.0.0.jar returned status 404
+3.0.0-rc.2		2026-10-22T15:02:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/fireweave/fireweave-java-parent/3.0.0-rc.2/fireweave-java-parent-3.0.0-rc.2.jar returned status 404

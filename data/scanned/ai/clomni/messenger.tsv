@@ -4,3 +4,4 @@
 1.0.3		2026-10-10T14:21:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/clomni/messenger/1.0.3/messenger-1.0.3.jar returned status 404
 1.0.4		2026-10-12T11:45:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/clomni/messenger/1.0.4/messenger-1.0.4.jar returned status 404
 1.0.5		2026-10-13T12:15:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/clomni/messenger/1.0.5/messenger-1.0.5.jar returned status 404
+1.0.6		2026-10-19T11:53:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/clomni/messenger/1.0.6/messenger-1.0.6.jar returned status 404
