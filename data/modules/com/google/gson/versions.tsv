@@ -5309,3 +5309,4 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 1.0.1	named	io.mapsmessaging	canbus-core	2026-10-18T09:01:15Z	2.13.2
 0.60.1	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-10-18T14:46:13Z	2.11.0
 0.60.2	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-10-18T17:10:54Z	2.11.0
+3.40.1.1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-10-19T09:12:32Z	2.10

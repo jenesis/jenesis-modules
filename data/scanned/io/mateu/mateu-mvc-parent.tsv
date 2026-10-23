@@ -23,3 +23,7 @@
 3.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/mateu-mvc-parent/3.0-beta.1/mateu-mvc-parent-3.0-beta.1.jar returned status 404
 3.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/mateu-mvc-parent/3.0-beta.2/mateu-mvc-parent-3.0-beta.2.jar returned status 404
 3.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/mateu-mvc-parent/3.0-beta.3/mateu-mvc-parent-3.0-beta.3.jar returned status 404
+3.0-beta.4		2026-10-19T08:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/mateu-mvc-parent/3.0-beta.4/mateu-mvc-parent-3.0-beta.4.jar returned status 404
+3.0-beta.5		2026-10-19T09:58:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/mateu-mvc-parent/3.0-beta.5/mateu-mvc-parent-3.0-beta.5.jar returned status 404
+3.0-beta.6		2026-10-19T13:13:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/mateu-mvc-parent/3.0-beta.6/mateu-mvc-parent-3.0-beta.6.jar returned status 404
+3.0-beta.7		2026-10-19T15:27:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/mateu-mvc-parent/3.0-beta.7/mateu-mvc-parent-3.0-beta.7.jar returned status 404

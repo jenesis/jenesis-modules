@@ -13,4 +13,8 @@
 0.109.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/cache-macosx64/0.109.0/cache-macosx64-0.109.0.jar returned status 404
 0.109.0	metadata	2026-09-28T12:20:37Z	
 0.110.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/cache-macosx64/0.110.0/cache-macosx64-0.110.0.jar returned status 404
+0.110.0	metadata	2026-10-18T16:42:09Z	
 0.111.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/cache-macosx64/0.111.0/cache-macosx64-0.111.0.jar returned status 404
+0.111.0	metadata	2026-10-18T17:36:01Z	
+0.112.0		2026-10-19T09:45:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/ultra/cache-macosx64/0.112.0/cache-macosx64-0.112.0.jar returned status 404
+0.112.0	metadata	2026-10-19T09:45:23Z	
