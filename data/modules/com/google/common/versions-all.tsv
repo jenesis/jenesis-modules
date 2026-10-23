@@ -251,4 +251,8 @@ cf08dc5.dirty	named	dev.vortex	vortex-jni	2025-04-17T14:41:39Z	33.4.8-jre
 7.0.0-alpha.1	named	org.conductoross	conductor-client	2026-08-27T19:30:00Z	33.6.0-jre
 6.0.1	named	org.conductoross	conductor-client	2026-09-04T23:51:24Z	33.6.0-jre
 0.1.1	named	io.github.mahmoudimus	microproxy-starlark	2026-10-09T21:41:08Z	33.4.8-jre
+0.2.0	named	io.github.mahmoudimus	microproxy-starlark	2026-10-12T18:10:58Z	33.4.8-jre
+0.3.0	named	io.github.mahmoudimus	microproxy-starlark	2026-10-13T14:41:30Z	33.4.8-jre
+0.4.0	named	io.github.mahmoudimus	microproxy-starlark	2026-10-16T21:08:41Z	33.4.8-jre
 6.0.2	named	org.conductoross	conductor-client	2026-10-16T22:16:11Z	33.6.0-jre
+0.5.0	named	io.github.mahmoudimus	microproxy-starlark	2026-10-18T23:36:17Z	33.4.8-jre

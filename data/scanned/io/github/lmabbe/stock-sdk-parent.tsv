@@ -1,0 +1,2 @@
+2.0.0		2026-10-14T19:40:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lmabbe/stock-sdk-parent/2.0.0/stock-sdk-parent-2.0.0.jar returned status 404
+2.0.1		2026-10-15T16:42:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lmabbe/stock-sdk-parent/2.0.1/stock-sdk-parent-2.0.1.jar returned status 404
