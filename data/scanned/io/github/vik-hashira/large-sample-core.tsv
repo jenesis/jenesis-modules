@@ -12,3 +12,5 @@
 10.9.16			
 10.9.17			
 10.9.19		2026-10-07T10:58:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/large-sample-core/10.9.19/large-sample-core-10.9.19.jar returned status 404
+10.9.21		2026-10-19T08:42:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/large-sample-core/10.9.21/large-sample-core-10.9.21.jar returned status 404
+10.9.22		2026-10-19T08:54:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vik-hashira/large-sample-core/10.9.22/large-sample-core-10.9.22.jar returned status 404

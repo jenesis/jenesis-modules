@@ -31,3 +31,4 @@
 4.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inugami/monitoring/inugami_monitoring/4.2.4/inugami_monitoring-4.2.4.jar returned status 404
 4.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inugami/monitoring/inugami_monitoring/4.2.5/inugami_monitoring-4.2.5.jar returned status 404
 4.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inugami/monitoring/inugami_monitoring/4.2.6/inugami_monitoring-4.2.6.jar returned status 404
+5.0.0		2026-10-19T05:02:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inugami/monitoring/inugami_monitoring/5.0.0/inugami_monitoring-5.0.0.jar returned status 404
