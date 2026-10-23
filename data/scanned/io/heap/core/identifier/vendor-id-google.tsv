@@ -32,3 +32,4 @@
 0.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/core/identifier/vendor-id-google/0.9.4/vendor-id-google-0.9.4.jar returned status 404
 0.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/core/identifier/vendor-id-google/0.9.5/vendor-id-google-0.9.5.jar returned status 404
 0.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/core/identifier/vendor-id-google/0.9.6/vendor-id-google-0.9.6.jar returned status 404
+0.9.7		2026-10-19T14:31:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/heap/core/identifier/vendor-id-google/0.9.7/vendor-id-google-0.9.7.jar returned status 404

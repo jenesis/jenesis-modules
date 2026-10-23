@@ -7,6 +7,7 @@
 0.12.1		2026-08-25T06:50:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-memory-macosarm64/0.12.1/maryk-memory-macosarm64-0.12.1.jar returned status 404
 0.12.1	metadata	2026-08-25T06:50:07Z	
 0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-memory-macosarm64/0.13.0/maryk-memory-macosarm64-0.13.0.jar returned status 404
+0.13.0	metadata	2026-10-13T15:25:54Z	
 0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-memory-macosarm64/0.2/maryk-memory-macosarm64-0.2.jar returned status 404
 0.2	metadata	2023-12-10T19:42:56Z	
 0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/maryk-memory-macosarm64/0.3/maryk-memory-macosarm64-0.3.jar returned status 404
