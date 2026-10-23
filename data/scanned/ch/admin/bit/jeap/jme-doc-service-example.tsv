@@ -33,6 +33,8 @@
 6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-doc-service-example/6.6.0/jme-doc-service-example-6.6.0.jar returned status 404
 7.0.0		2026-09-23T06:26:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-doc-service-example/7.0.0/jme-doc-service-example-7.0.0.jar returned status 404
 8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-doc-service-example/8.1.0/jme-doc-service-example-8.1.0.jar returned status 404
+8.12.0		2026-10-18T23:41:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-doc-service-example/8.12.0/jme-doc-service-example-8.12.0.jar returned status 404
+8.14.0		2026-10-22T05:26:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-doc-service-example/8.14.0/jme-doc-service-example-8.14.0.jar returned status 404
 8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-doc-service-example/8.2.0/jme-doc-service-example-8.2.0.jar returned status 404
 8.6.0		2026-10-06T23:51:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-doc-service-example/8.6.0/jme-doc-service-example-8.6.0.jar returned status 404
 8.8.0		2026-10-12T09:06:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-doc-service-example/8.8.0/jme-doc-service-example-8.8.0.jar returned status 404

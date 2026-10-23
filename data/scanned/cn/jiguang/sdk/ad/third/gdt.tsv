@@ -26,3 +26,4 @@
 4.680.1550			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/gdt/4.680.1550/gdt-4.680.1550.jar returned status 404
 4.690.1560			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/gdt/4.690.1560/gdt-4.690.1560.jar returned status 404
 4.701.1571		2026-10-13T09:36:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/gdt/4.701.1571/gdt-4.701.1571.jar returned status 404
+4.710.1580		2026-10-14T07:47:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/jiguang/sdk/ad/third/gdt/4.710.1580/gdt-4.710.1580.jar returned status 404
