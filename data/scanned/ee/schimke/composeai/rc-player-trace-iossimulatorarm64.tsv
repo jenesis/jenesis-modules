@@ -149,7 +149,9 @@
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-iossimulatorarm64/2.1.2/rc-player-trace-iossimulatorarm64-2.1.2.jar returned status 404
 2.1.2	metadata	2026-10-03T10:06:12Z	
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-iossimulatorarm64/2.11.0/rc-player-trace-iossimulatorarm64-2.11.0.jar returned status 404
+2.11.0	metadata	2026-10-12T19:26:03Z	
 2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-iossimulatorarm64/2.12.0/rc-player-trace-iossimulatorarm64-2.12.0.jar returned status 404
+2.12.0	metadata	2026-10-12T21:05:54Z	
 2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-iossimulatorarm64/2.13.0/rc-player-trace-iossimulatorarm64-2.13.0.jar returned status 404
 2.13.0	metadata	2026-10-16T08:12:06Z	
 2.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-iossimulatorarm64/2.13.1/rc-player-trace-iossimulatorarm64-2.13.1.jar returned status 404
