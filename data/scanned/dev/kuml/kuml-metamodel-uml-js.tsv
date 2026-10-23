@@ -43,3 +43,5 @@
 0.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-uml-js/0.54.0/kuml-metamodel-uml-js-0.54.0.jar returned status 404
 0.54.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-uml-js/0.54.1/kuml-metamodel-uml-js-0.54.1.jar returned status 404
 0.55.0		2026-10-09T23:16:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-uml-js/0.55.0/kuml-metamodel-uml-js-0.55.0.jar returned status 404
+0.55.1		2026-10-12T12:46:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-uml-js/0.55.1/kuml-metamodel-uml-js-0.55.1.jar returned status 404
+0.55.2		2026-10-17T21:16:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kuml/kuml-metamodel-uml-js/0.55.2/kuml-metamodel-uml-js-0.55.2.jar returned status 404
