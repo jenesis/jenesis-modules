@@ -1,0 +1,2 @@
+3.4.6.Final		2026-10-18T01:11:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/reactive/hibernate-reactive-platform/3.4.6.Final/hibernate-reactive-platform-3.4.6.Final.jar returned status 404
+4.5.11.Final		2026-10-18T01:11:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/reactive/hibernate-reactive-platform/4.5.11.Final/hibernate-reactive-platform-4.5.11.Final.jar returned status 404

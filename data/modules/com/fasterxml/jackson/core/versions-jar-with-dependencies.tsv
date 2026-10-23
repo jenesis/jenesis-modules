@@ -1571,3 +1571,4 @@ stable	named	com.graphhopper	graphhopper-tools	2020-09-30T16:00:00Z	2.10.3
 1.6.3	named	com.alibaba.hologres	hologres-connector-spark-base	2026-09-16T02:47:08Z	2.17.2
 1.2.0.1-RC	named	org.lucee	quartz-redis-jobstore	2026-10-07T20:06:05Z	2.11.1
 2.0.0.0-RC	named	org.lucee	quartz-redis-jobstore	2026-10-09T13:00:53Z	2.11.1
+2.0.0.1-RC	named	org.lucee	quartz-redis-jobstore	2026-10-14T22:32:17Z	2.11.1
