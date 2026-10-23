@@ -5,3 +5,6 @@
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frikit/krandom-bom/2.4.0/krandom-bom-2.4.0.jar returned status 404
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frikit/krandom-bom/2.5.0/krandom-bom-2.5.0.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frikit/krandom-bom/2.6.0/krandom-bom-2.6.0.jar returned status 404
+2.7.0		2026-10-19T16:21:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frikit/krandom-bom/2.7.0/krandom-bom-2.7.0.jar returned status 404
+2.8.0		2026-10-19T20:02:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frikit/krandom-bom/2.8.0/krandom-bom-2.8.0.jar returned status 404
+2.9.0		2026-10-19T23:03:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/frikit/krandom-bom/2.9.0/krandom-bom-2.9.0.jar returned status 404

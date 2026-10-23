@@ -1068,6 +1068,8 @@
 3.3.3	named	org.apache.tika	tika-pipes-iterator-csv	2026-10-09T21:02:49Z	2.22.0
 2.4.1	named	com.networknt	codegen-cli	2026-10-11T22:56:02Z	2.18.0
 1.0.3	named	io.github.dawnuu	aabresguard-core	2026-10-13T13:42:00Z	2.18.0
+1.1.0	named	io.github.dawnuu	andresguard-core	2026-10-14T11:21:16Z	2.18.0
+1.1.1	named	io.github.dawnuu	andresguard-core	2026-10-16T03:22:46Z	2.18.0
 4.18.1.2	named	io.streamnative	distributedlog-core-shaded	2026-10-17T03:26:29Z	2.19.0
 1.1.2	named	org.apache.hudi	hudi-aws-bundle	2026-10-17T07:42:09Z	2.14.0
 1.1.2	named	org.apache.hudi	hudi-flink1.17-bundle	2026-10-17T08:11:12Z	2.14.0

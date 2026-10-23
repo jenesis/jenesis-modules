@@ -1,0 +1,2 @@
+5.0.0		2026-10-13T04:21:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/classgraph/classgraph-parent/5.0.0/classgraph-parent-5.0.0.jar returned status 404
+6.0.0		2026-10-13T04:26:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/classgraph/classgraph-parent/6.0.0/classgraph-parent-6.0.0.jar returned status 404

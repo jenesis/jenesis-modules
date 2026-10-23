@@ -130,6 +130,7 @@
 6.0.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/digiexpress-bom/6.0.39/digiexpress-bom-6.0.39.jar returned status 404
 6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/digiexpress-bom/6.0.4/digiexpress-bom-6.0.4.jar returned status 404
 6.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/digiexpress-bom/6.0.40/digiexpress-bom-6.0.40.jar returned status 404
+6.0.41		2026-10-19T14:41:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/digiexpress-bom/6.0.41/digiexpress-bom-6.0.41.jar returned status 404
 6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/digiexpress-bom/6.0.5/digiexpress-bom-6.0.5.jar returned status 404
 6.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/digiexpress-bom/6.0.6/digiexpress-bom-6.0.6.jar returned status 404
 6.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/digiexpress-bom/6.0.7/digiexpress-bom-6.0.7.jar returned status 404
