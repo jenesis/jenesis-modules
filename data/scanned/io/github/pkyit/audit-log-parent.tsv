@@ -1,0 +1,3 @@
+1.0.0		2026-10-16T15:44:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pkyit/audit-log-parent/1.0.0/audit-log-parent-1.0.0.jar returned status 404
+1.0.1		2026-10-16T17:56:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pkyit/audit-log-parent/1.0.1/audit-log-parent-1.0.1.jar returned status 404
+1.0.2		2026-10-16T18:41:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pkyit/audit-log-parent/1.0.2/audit-log-parent-1.0.2.jar returned status 404
