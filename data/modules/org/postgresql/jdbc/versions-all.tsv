@@ -22,3 +22,5 @@
 42.7.3-yb-5	automatic	com.yugabyte	jdbc-yugabytedb	2026-09-08T11:48:08Z	
 42.7.3-yb-6	automatic	com.yugabyte	jdbc-yugabytedb	2026-09-15T06:16:15Z	
 42.7.3-yb-7	automatic	com.yugabyte	jdbc-yugabytedb	2026-09-28T04:06:26Z	
+42.7.11.2	automatic	com.enterprisedb	edb-pge-jdbc	2026-10-19T03:11:20Z	
+42.7.14.1	automatic	com.enterprisedb	edb-pge-jdbc	2026-10-21T16:27:02Z	

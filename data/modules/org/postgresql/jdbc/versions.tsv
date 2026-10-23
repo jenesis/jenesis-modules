@@ -151,3 +151,5 @@
 42.7.14	automatic	org.postgresql	postgresql	2026-10-07T21:41:11Z	
 2.4.0	named	com.guicedee.modules.services	postgresql	2026-10-14T21:01:26Z	2.4.0
 2.4.1	named	com.guicedee.modules.services	postgresql	2026-10-16T13:21:11Z	2.4.1
+42.7.11.2	automatic	com.enterprisedb	edb-pge-jdbc	2026-10-19T03:11:20Z	
+42.7.14.1	automatic	com.enterprisedb	edb-pge-jdbc	2026-10-21T16:27:02Z	

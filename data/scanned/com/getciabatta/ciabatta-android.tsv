@@ -1,0 +1,3 @@
+0.1.0		2026-10-19T13:46:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getciabatta/ciabatta-android/0.1.0/ciabatta-android-0.1.0.jar returned status 404
+0.1.1		2026-10-19T21:07:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getciabatta/ciabatta-android/0.1.1/ciabatta-android-0.1.1.jar returned status 404
+0.1.2		2026-10-20T16:12:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getciabatta/ciabatta-android/0.1.2/ciabatta-android-0.1.2.jar returned status 404

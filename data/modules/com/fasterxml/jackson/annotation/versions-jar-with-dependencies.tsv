@@ -5474,5 +5474,10 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.763.13	named	com.yahoo.vespa	config-application-package	2026-10-05T02:12:14Z	2.22
 1.0.11	named	io.orqueio.bpm	orqueio-engine-rest	2026-10-07T10:06:22Z	2.20
 2.0.7	named	io.orqueio.bpm	orqueio-engine-rest	2026-10-07T11:03:03Z	2.20
+10.5.0-BETA-1	named	com.chartiq.finsemble	finsemble	2026-10-14T07:27:21Z	2.18.11
+10.5.0	named	com.chartiq.finsemble	finsemble	2026-10-14T11:11:02Z	2.18.11
 9.0.0	named	org.mock-server	mockserver-k8s-webhook	2026-10-15T21:21:43Z	2.22
+10.5.1-BETA-1	named	com.chartiq.finsemble	finsemble	2026-10-16T04:02:10Z	2.18.11
+10.5.1-BETA-2	named	com.chartiq.finsemble	finsemble	2026-10-20T07:41:55Z	2.18.11
+10.5.0-BETA-3	named	com.chartiq.finsemble	finsemble	2026-10-20T08:41:36Z	2.18.11
 1.5.4	named	com.github.egonw	jqudt	2026-10-20T10:52:10Z	2.22
