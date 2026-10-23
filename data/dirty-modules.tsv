@@ -460,3 +460,11 @@ org.dnsjava
 io.quarkus.qute.generator
 io.quarkus.qute.debug
 io.quarkus.qute
+io.smallrye.common.net
+org.wildfly.common
+io.smallrye.common.ref
+io.quarkus.packaging.common
+io.quarkus.modular
+io.quarkus.jlink.launcher
+io.quarkus.jlink
+io.quarkus.launcher
