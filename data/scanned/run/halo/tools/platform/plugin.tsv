@@ -11,3 +11,4 @@
 2.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/plugin/2.24.0/plugin-2.24.0.jar returned status 404
 2.25.0		2026-06-12T08:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/plugin/2.25.0/plugin-2.25.0.jar returned status 404
 2.26.0		2026-08-14T13:43:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/plugin/2.26.0/plugin-2.26.0.jar returned status 404
+2.27.0		2026-10-15T09:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/run/halo/tools/platform/plugin/2.27.0/plugin-2.27.0.jar returned status 404

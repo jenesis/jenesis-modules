@@ -67,3 +67,5 @@ software.amazon.awssdk.thirdparty.slf4j
 software.amazon.awssdk.thirdparty.jackson.dataformat.cbor
 software.amazon.awssdk.thirdparty.jackson.core
 software.amazon.awssdk.services.sagemakertrainingsessionruntime
+com.fasterxml.jackson.datatype.jdk8
+sh.basaltic.sdk

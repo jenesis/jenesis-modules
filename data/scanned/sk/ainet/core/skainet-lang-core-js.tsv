@@ -53,7 +53,11 @@
 0.54.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.54.0/skainet-lang-core-js-0.54.0.jar returned status 404
 0.56.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.56.0/skainet-lang-core-js-0.56.0.jar returned status 404
 0.57.0		2026-09-24T13:43:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.57.0/skainet-lang-core-js-0.57.0.jar returned status 404
+0.58.0		2026-10-12T22:07:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.58.0/skainet-lang-core-js-0.58.0.jar returned status 404
+0.59.0		2026-10-14T20:11:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.59.0/skainet-lang-core-js-0.59.0.jar returned status 404
 0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.6.3/skainet-lang-core-js-0.6.3.jar returned status 404
+0.60.0		2026-10-15T21:11:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.60.0/skainet-lang-core-js-0.60.0.jar returned status 404
+0.61.0		2026-10-16T21:01:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.61.0/skainet-lang-core-js-0.61.0.jar returned status 404
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.7.0/skainet-lang-core-js-0.7.0.jar returned status 404
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.7.1/skainet-lang-core-js-0.7.1.jar returned status 404
 0.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-lang-core-js/0.8.3/skainet-lang-core-js-0.8.3.jar returned status 404
