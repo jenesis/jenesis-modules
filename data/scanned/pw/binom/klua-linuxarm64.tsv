@@ -2,3 +2,4 @@
 0.1.7		2026-09-20T13:11:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pw/binom/klua-linuxarm64/0.1.7/klua-linuxarm64-0.1.7.jar returned status 404
 0.2.0		2026-09-29T07:41:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pw/binom/klua-linuxarm64/0.2.0/klua-linuxarm64-0.2.0.jar returned status 404
 0.2.1		2026-09-30T12:37:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pw/binom/klua-linuxarm64/0.2.1/klua-linuxarm64-0.2.1.jar returned status 404
+0.3.0		2026-10-11T00:10:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/pw/binom/klua-linuxarm64/0.3.0/klua-linuxarm64-0.3.0.jar returned status 404
