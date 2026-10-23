@@ -1,0 +1,2 @@
+0.1.0		2026-10-17T10:00:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/alexlin7/bancho/bancho-parent/0.1.0/bancho-parent-0.1.0.jar returned status 404
+0.1.1		2026-10-17T14:41:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cc/alexlin7/bancho/bancho-parent/0.1.1/bancho-parent-0.1.1.jar returned status 404

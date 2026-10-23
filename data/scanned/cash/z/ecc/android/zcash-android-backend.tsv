@@ -47,3 +47,4 @@
 2.7.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cash/z/ecc/android/zcash-android-backend/2.7.0-rc.2/zcash-android-backend-2.7.0-rc.2.jar returned status 404
 2.7.0-rc.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cash/z/ecc/android/zcash-android-backend/2.7.0-rc.4/zcash-android-backend-2.7.0-rc.4.jar returned status 404
 3.0.0		2026-08-25T23:24:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cash/z/ecc/android/zcash-android-backend/3.0.0/zcash-android-backend-3.0.0.jar returned status 404
+4.0.0		2026-10-15T15:52:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cash/z/ecc/android/zcash-android-backend/4.0.0/zcash-android-backend-4.0.0.jar returned status 404
