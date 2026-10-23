@@ -90,6 +90,7 @@
 14.14.5		2026-08-11T10:38:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/14.14.5/vaadin-archetypes-14.14.5.jar returned status 404
 14.14.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/14.14.6/vaadin-archetypes-14.14.6.jar returned status 404
 14.14.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/14.14.7/vaadin-archetypes-14.14.7.jar returned status 404
+14.14.8		2026-10-19T12:13:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/14.14.8/vaadin-archetypes-14.14.8.jar returned status 404
 14.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/14.2.0/vaadin-archetypes-14.2.0.jar returned status 404
 14.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/14.2.2/vaadin-archetypes-14.2.2.jar returned status 404
 14.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/14.2.3/vaadin-archetypes-14.2.3.jar returned status 404
@@ -349,6 +350,7 @@
 23.6.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/23.6.14/vaadin-archetypes-23.6.14.jar returned status 404
 23.6.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/23.6.15/vaadin-archetypes-23.6.15.jar returned status 404
 23.6.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/23.6.16/vaadin-archetypes-23.6.16.jar returned status 404
+23.6.17		2026-10-19T12:01:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/23.6.17/vaadin-archetypes-23.6.17.jar returned status 404
 23.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/23.6.2/vaadin-archetypes-23.6.2.jar returned status 404
 23.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/23.6.3/vaadin-archetypes-23.6.3.jar returned status 404
 23.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/23.6.4/vaadin-archetypes-23.6.4.jar returned status 404
@@ -393,6 +395,7 @@
 24.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.10.1/vaadin-archetypes-24.10.1.jar returned status 404
 24.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.10.10/vaadin-archetypes-24.10.10.jar returned status 404
 24.10.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.10.11/vaadin-archetypes-24.10.11.jar returned status 404
+24.10.12		2026-10-19T13:21:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.10.12/vaadin-archetypes-24.10.12.jar returned status 404
 24.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.10.3/vaadin-archetypes-24.10.3.jar returned status 404
 24.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.10.4/vaadin-archetypes-24.10.4.jar returned status 404
 24.10.6		2026-05-21T13:32:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.10.6/vaadin-archetypes-24.10.6.jar returned status 404
@@ -449,6 +452,7 @@
 24.4.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.4.21/vaadin-archetypes-24.4.21.jar returned status 404
 24.4.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.4.22/vaadin-archetypes-24.4.22.jar returned status 404
 24.4.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.4.25/vaadin-archetypes-24.4.25.jar returned status 404
+24.4.26		2026-10-20T07:51:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.4.26/vaadin-archetypes-24.4.26.jar returned status 404
 24.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.4.3/vaadin-archetypes-24.4.3.jar returned status 404
 24.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.4.4/vaadin-archetypes-24.4.4.jar returned status 404
 24.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.4.5/vaadin-archetypes-24.4.5.jar returned status 404
@@ -495,6 +499,7 @@
 24.7.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.7.14/vaadin-archetypes-24.7.14.jar returned status 404
 24.7.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.7.15/vaadin-archetypes-24.7.15.jar returned status 404
 24.7.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.7.16/vaadin-archetypes-24.7.16.jar returned status 404
+24.7.17		2026-10-20T07:51:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.7.17/vaadin-archetypes-24.7.17.jar returned status 404
 24.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.7.2/vaadin-archetypes-24.7.2.jar returned status 404
 24.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.7.3/vaadin-archetypes-24.7.3.jar returned status 404
 24.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.7.4/vaadin-archetypes-24.7.4.jar returned status 404
@@ -537,6 +542,7 @@
 24.9.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.9.21/vaadin-archetypes-24.9.21.jar returned status 404
 24.9.22		2026-09-21T13:56:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.9.22/vaadin-archetypes-24.9.22.jar returned status 404
 24.9.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.9.23/vaadin-archetypes-24.9.23.jar returned status 404
+24.9.24		2026-10-19T13:17:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.9.24/vaadin-archetypes-24.9.24.jar returned status 404
 24.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.9.3/vaadin-archetypes-24.9.3.jar returned status 404
 24.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.9.4/vaadin-archetypes-24.9.4.jar returned status 404
 24.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/24.9.5/vaadin-archetypes-24.9.5.jar returned status 404
@@ -583,6 +589,7 @@
 25.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/25.3.0/vaadin-archetypes-25.3.0.jar returned status 404
 25.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/25.3.1/vaadin-archetypes-25.3.1.jar returned status 404
 25.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/25.3.2/vaadin-archetypes-25.3.2.jar returned status 404
+25.3.3		2026-10-20T07:56:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/25.3.3/vaadin-archetypes-25.3.3.jar returned status 404
 7.7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/7.7.10/vaadin-archetypes-7.7.10.jar returned status 404
 7.7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/7.7.11/vaadin-archetypes-7.7.11.jar returned status 404
 7.7.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-archetypes/7.7.12/vaadin-archetypes-7.7.12.jar returned status 404
