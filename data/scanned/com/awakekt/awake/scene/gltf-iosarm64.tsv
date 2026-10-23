@@ -35,12 +35,23 @@
 0.11.1		2026-10-13T11:21:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.11.1/gltf-iosarm64-0.11.1.jar returned status 404
 0.11.1	metadata	2026-10-13T11:21:09Z	
 0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.12.0/gltf-iosarm64-0.12.0.jar returned status 404
+0.12.0	metadata	2026-10-14T00:36:19Z	
 0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.13.1/gltf-iosarm64-0.13.1.jar returned status 404
+0.13.1	metadata	2026-10-16T03:53:00Z	
 0.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.13.2/gltf-iosarm64-0.13.2.jar returned status 404
+0.13.2	metadata	2026-10-16T14:49:56Z	
 0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.14.0/gltf-iosarm64-0.14.0.jar returned status 404
+0.14.0	metadata	2026-10-17T00:31:52Z	
 0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.15.0/gltf-iosarm64-0.15.0.jar returned status 404
+0.15.0	metadata	2026-10-17T04:16:25Z	
 0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.16.0/gltf-iosarm64-0.16.0.jar returned status 404
+0.16.0	metadata	2026-10-17T18:46:14Z	
 0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.17.0/gltf-iosarm64-0.17.0.jar returned status 404
+0.17.0	metadata	2026-10-18T08:31:18Z	
+0.18.0		2026-10-19T18:27:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.18.0/gltf-iosarm64-0.18.0.jar returned status 404
+0.18.0	metadata	2026-10-19T18:27:57Z	
+0.19.0		2026-10-20T01:27:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.19.0/gltf-iosarm64-0.19.0.jar returned status 404
+0.19.0	metadata	2026-10-20T01:27:27Z	
 0.2.0		2026-10-06T14:20:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.2.0/gltf-iosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2026-10-06T14:20:31Z	
 0.4.0		2026-10-09T02:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/gltf-iosarm64/0.4.0/gltf-iosarm64-0.4.0.jar returned status 404
