@@ -1,0 +1,4 @@
+0.10.0		2026-10-18T09:56:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linroid/ketch/metalink-iossimulatorarm64/0.10.0/metalink-iossimulatorarm64-0.10.0.jar returned status 404
+0.10.0	metadata	2026-10-18T09:56:51Z	
+0.10.1		2026-10-20T10:11:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/linroid/ketch/metalink-iossimulatorarm64/0.10.1/metalink-iossimulatorarm64-0.10.1.jar returned status 404
+0.10.1	metadata	2026-10-20T10:11:42Z	

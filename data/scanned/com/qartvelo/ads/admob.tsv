@@ -4,3 +4,4 @@
 0.5.0		2026-10-09T10:25:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qartvelo/ads/admob/0.5.0/admob-0.5.0.jar returned status 404
 0.5.1		2026-10-09T11:32:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qartvelo/ads/admob/0.5.1/admob-0.5.1.jar returned status 404
 0.6.0		2026-10-10T03:51:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qartvelo/ads/admob/0.6.0/admob-0.6.0.jar returned status 404
+0.6.1		2026-10-20T04:46:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/qartvelo/ads/admob/0.6.1/admob-0.6.1.jar returned status 404
