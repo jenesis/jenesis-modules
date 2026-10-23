@@ -458,3 +458,4 @@
 3.0.0	named	org.hl7.fhir.publisher	org.hl7.fhir.publisher.cli	2026-10-08T04:06:33Z	
 3.0.1	named	org.hl7.fhir.publisher	org.hl7.fhir.publisher.cli	2026-10-15T17:21:23Z	
 0.5.0-beta-2026-10-17	named	io.youtrackdb	youtrackdb-jmh-ldbc	2026-10-17T09:26:30Z	
+2.0.6	named	ca.ibodrov.concord	testcontainers-concord-shaded	2026-10-21T15:17:19Z	
