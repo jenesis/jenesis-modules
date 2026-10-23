@@ -42,3 +42,5 @@
 0.44.0	metadata	2026-09-30T16:32:04Z	
 0.45.0		2026-10-07T20:51:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/kim-iosarm64/0.45.0/kim-iosarm64-0.45.0.jar returned status 404
 0.45.0	metadata	2026-10-07T20:51:24Z	
+0.46.0		2026-10-16T16:06:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/stefan-oltmann/kim-iosarm64/0.46.0/kim-iosarm64-0.46.0.jar returned status 404
+0.46.0	metadata	2026-10-16T16:06:42Z	

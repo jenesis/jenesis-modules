@@ -6,3 +6,6 @@
 0.9.5		2026-10-07T23:11:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/esj-bom/0.9.5/esj-bom-0.9.5.jar returned status 404
 0.9.6		2026-10-08T20:32:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/esj-bom/0.9.6/esj-bom-0.9.6.jar returned status 404
 0.9.7		2026-10-10T19:21:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/esj-bom/0.9.7/esj-bom-0.9.7.jar returned status 404
+0.9.8		2026-10-14T01:06:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/esj-bom/0.9.8/esj-bom-0.9.8.jar returned status 404
+1.0.0-rc.2		2026-10-16T19:42:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/esj-bom/1.0.0-rc.2/esj-bom-1.0.0-rc.2.jar returned status 404
+1.0.0-rc.4		2026-10-18T15:31:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/esj-bom/1.0.0-rc.4/esj-bom-1.0.0-rc.4.jar returned status 404
