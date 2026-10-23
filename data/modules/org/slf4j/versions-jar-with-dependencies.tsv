@@ -533,3 +533,4 @@
 2.0.11	named	org.apache.iotdb	udf-example	2026-09-07T16:21:38Z	2.0.9
 10.0.1	named	org.tango-controls	JTangoServer	2026-09-17T09:04:26Z	2.0.9
 3.9.1	named	org.apache.james	james-server-rate-limiter	2026-09-25T13:52:37Z	2.0.17
+2.20.3	named	com.google.cloud.bigtable	bigtable-hbase-1.x-tools	2026-10-20T21:04:13Z	2.0.16
