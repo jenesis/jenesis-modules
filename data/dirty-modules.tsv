@@ -891,3 +891,17 @@ dev.zio.zio.managed
 dev.zio.zio.macros
 dev.zio.zio.internal.macros
 dev.zio.zio.concurrent
+dev.tamboui.widgets
+dev.tamboui.tui
+dev.tamboui.toolkit.markdown
+dev.tamboui.toolkit
+dev.tamboui.processor
+dev.tamboui.picocli
+dev.tamboui.panama.backend
+dev.tamboui.markdown
+dev.tamboui.jline_three.backend
+dev.tamboui.image
+dev.tamboui.css
+dev.tamboui.core
+dev.tamboui.annotations
+dev.tamboui.aesh.backend

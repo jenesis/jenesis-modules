@@ -31,6 +31,7 @@
 0.7.12		2026-07-21T02:06:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/yorkie/yorkie-android/0.7.12/yorkie-android-0.7.12.jar returned status 404
 0.7.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/yorkie/yorkie-android/0.7.14/yorkie-android-0.7.14.jar returned status 404
 0.7.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/yorkie/yorkie-android/0.7.15/yorkie-android-0.7.15.jar returned status 404
+0.7.25		2026-10-20T02:12:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/yorkie/yorkie-android/0.7.25/yorkie-android-0.7.25.jar returned status 404
 0.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/yorkie/yorkie-android/0.7.5/yorkie-android-0.7.5.jar returned status 404
 0.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/yorkie/yorkie-android/0.7.6/yorkie-android-0.7.6.jar returned status 404
 0.7.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/yorkie/yorkie-android/0.7.7/yorkie-android-0.7.7.jar returned status 404

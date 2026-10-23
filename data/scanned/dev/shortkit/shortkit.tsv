@@ -66,3 +66,5 @@
 0.2.90			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shortkit/shortkit/0.2.90/shortkit-0.2.90.jar returned status 404
 0.2.91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shortkit/shortkit/0.2.91/shortkit-0.2.91.jar returned status 404
 0.2.92		2026-10-06T21:01:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shortkit/shortkit/0.2.92/shortkit-0.2.92.jar returned status 404
+0.2.93		2026-10-13T03:11:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shortkit/shortkit/0.2.93/shortkit-0.2.93.jar returned status 404
+0.2.94		2026-10-16T21:08:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/shortkit/shortkit/0.2.94/shortkit-0.2.94.jar returned status 404
