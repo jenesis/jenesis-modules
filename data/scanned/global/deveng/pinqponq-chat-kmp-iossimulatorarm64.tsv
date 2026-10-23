@@ -46,3 +46,7 @@
 2.2.13	metadata	2026-10-05T10:31:42Z	
 2.2.14		2026-10-07T07:26:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/pinqponq-chat-kmp-iossimulatorarm64/2.2.14/pinqponq-chat-kmp-iossimulatorarm64-2.2.14.jar returned status 404
 2.2.14	metadata	2026-10-07T07:26:51Z	
+2.2.15		2026-10-19T17:36:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/pinqponq-chat-kmp-iossimulatorarm64/2.2.15/pinqponq-chat-kmp-iossimulatorarm64-2.2.15.jar returned status 404
+2.2.15	metadata	2026-10-19T17:36:55Z	
+2.2.16		2026-10-19T20:46:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/pinqponq-chat-kmp-iossimulatorarm64/2.2.16/pinqponq-chat-kmp-iossimulatorarm64-2.2.16.jar returned status 404
+2.2.16	metadata	2026-10-19T20:46:19Z	

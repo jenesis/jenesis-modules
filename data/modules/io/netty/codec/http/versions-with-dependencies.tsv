@@ -94,3 +94,9 @@
 8.6.31	named	io.camunda.connector	connector-runtime-bundle-saas	2026-09-28T14:22:27Z	4.2.18.Final
 8.7.28	named	io.camunda.connector	connector-aws-sagemaker	2026-09-28T14:22:31Z	4.2.18.Final
 8.7.28	named	io.camunda.connector	connector-aws-sqs	2026-09-28T14:22:35Z	4.2.18.Final
+8.6.32	named	io.camunda.connector	connector-aws-bedrock	2026-10-16T13:41:20Z	4.2.19.Final
+8.6.32	named	io.camunda.connector	connector-aws-eventbridge	2026-10-16T13:41:20Z	4.2.19.Final
+8.6.32	named	io.camunda.connector	connector-aws-lambda	2026-10-16T13:41:20Z	4.2.19.Final
+8.6.32	named	io.camunda.connector	connector-aws-sns	2026-10-16T13:41:20Z	4.2.19.Final
+8.6.32	named	io.camunda.connector	connector-aws-sqs	2026-10-16T13:41:20Z	4.2.19.Final
+8.6.32	named	io.camunda.connector	connector-runtime-bundle-saas	2026-10-16T13:41:25Z	4.2.19.Final

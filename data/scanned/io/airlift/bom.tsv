@@ -255,3 +255,4 @@
 449			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/bom/449/bom-449.jar returned status 404
 450			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/bom/450/bom-450.jar returned status 404
 451			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/bom/451/bom-451.jar returned status 404
+452		2026-10-18T20:06:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/airlift/bom/452/bom-452.jar returned status 404

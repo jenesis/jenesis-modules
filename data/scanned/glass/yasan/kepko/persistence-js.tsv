@@ -38,3 +38,4 @@
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/persistence-js/1.7.0/persistence-js-1.7.0.jar returned status 404
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/persistence-js/1.7.1/persistence-js-1.7.1.jar returned status 404
 1.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/persistence-js/1.7.2/persistence-js-1.7.2.jar returned status 404
+1.8.0		2026-10-18T18:57:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/persistence-js/1.8.0/persistence-js-1.8.0.jar returned status 404

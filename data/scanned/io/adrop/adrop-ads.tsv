@@ -88,6 +88,7 @@
 1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads/1.13.0/adrop-ads-1.13.0.jar returned status 404
 1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads/1.14.0/adrop-ads-1.14.0.jar returned status 404
 1.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads/1.15.0/adrop-ads-1.15.0.jar returned status 404
+1.16.0		2026-10-19T05:02:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads/1.16.0/adrop-ads-1.16.0.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads/1.2.0/adrop-ads-1.2.0.jar returned status 404
 1.2.0-alpha.mmtalk			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads/1.2.0-alpha.mmtalk/adrop-ads-1.2.0-alpha.mmtalk.jar returned status 404
 1.2.0-alpha.mmtalk.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads/1.2.0-alpha.mmtalk.1/adrop-ads-1.2.0-alpha.mmtalk.1.jar returned status 404
