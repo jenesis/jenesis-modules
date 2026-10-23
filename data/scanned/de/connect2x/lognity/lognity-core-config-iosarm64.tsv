@@ -28,3 +28,5 @@
 2.1.0	metadata	2026-06-02T09:27:28Z	
 2.2.0		2026-06-18T14:43:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/lognity/lognity-core-config-iosarm64/2.2.0/lognity-core-config-iosarm64-2.2.0.jar returned status 404
 2.2.0	metadata	2026-06-18T14:44:01Z	
+2.4.0		2026-10-14T12:51:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/connect2x/lognity/lognity-core-config-iosarm64/2.4.0/lognity-core-config-iosarm64-2.4.0.jar returned status 404
+2.4.0	metadata	2026-10-14T12:51:07Z	
