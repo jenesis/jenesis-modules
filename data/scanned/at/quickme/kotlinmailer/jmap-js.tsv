@@ -1,0 +1,2 @@
+2.0.0		2026-10-20T14:28:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/quickme/kotlinmailer/jmap-js/2.0.0/jmap-js-2.0.0.jar returned status 404
+2.0.0-alpha3		2026-10-19T10:17:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/quickme/kotlinmailer/jmap-js/2.0.0-alpha3/jmap-js-2.0.0-alpha3.jar returned status 404

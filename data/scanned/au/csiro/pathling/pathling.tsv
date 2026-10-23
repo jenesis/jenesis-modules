@@ -1,3 +1,4 @@
+10.0.0		2026-10-21T05:42:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/au/csiro/pathling/pathling/10.0.0/pathling-10.0.0.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/au/csiro/pathling/pathling/5.1.0/pathling-5.1.0.jar returned status 404
 5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/au/csiro/pathling/pathling/5.1.1/pathling-5.1.1.jar returned status 404
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/au/csiro/pathling/pathling/5.2.0/pathling-5.2.0.jar returned status 404

@@ -17,3 +17,4 @@
 3.5.0		2026-09-24T02:01:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/emo/3.5.0/emo-3.5.0.jar returned status 404
 3.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/emo/3.6.0/emo-3.6.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/emo/4.0.0/emo-4.0.0.jar returned status 404
+4.1.0		2026-10-19T18:38:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/desertant/emo/4.1.0/emo-4.1.0.jar returned status 404
