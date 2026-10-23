@@ -213,4 +213,6 @@
 0.139.0	named	com.google.cloud	google-cloud-nio	2026-09-30T21:43:59Z	2.0.75.Final
 2026.10.01.201111-ad9f619	named	app.cash.backfila	service	2026-10-01T20:31:24Z	2.0.72.Final
 26.10.1	named	com.arcadedb	arcadedb-grpcw	2026-10-05T20:03:52Z	2.0.81.Final
+26.10.2	named	com.arcadedb	arcadedb-ha-raft	2026-10-15T17:47:47Z	2.0.78.Final
+26.10.2	named	com.arcadedb	arcadedb-grpcw	2026-10-15T17:47:48Z	2.0.81.Final
 2.20.3	named	com.google.cloud.bigtable	bigtable-beam-import	2026-10-20T21:04:14Z	2.0.75.Final

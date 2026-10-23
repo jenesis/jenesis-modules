@@ -6,6 +6,7 @@
 1.16.0		2026-09-21T21:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsamurai/storyly/storyly-retailmedia/1.16.0/storyly-retailmedia-1.16.0.jar returned status 404
 1.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsamurai/storyly/storyly-retailmedia/1.17.0/storyly-retailmedia-1.17.0.jar returned status 404
 1.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsamurai/storyly/storyly-retailmedia/1.17.1/storyly-retailmedia-1.17.1.jar returned status 404
+1.17.2		2026-10-21T12:02:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsamurai/storyly/storyly-retailmedia/1.17.2/storyly-retailmedia-1.17.2.jar returned status 404
 1.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsamurai/storyly/storyly-retailmedia/1.8.0/storyly-retailmedia-1.8.0.jar returned status 404
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsamurai/storyly/storyly-retailmedia/1.8.1/storyly-retailmedia-1.8.1.jar returned status 404
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/appsamurai/storyly/storyly-retailmedia/1.8.2/storyly-retailmedia-1.8.2.jar returned status 404
