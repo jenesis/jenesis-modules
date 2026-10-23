@@ -104,8 +104,16 @@
 0.56.0	metadata	2026-09-20T18:06:19Z	
 0.57.0		2026-09-24T13:43:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-dag-iosarm64/0.57.0/skainet-compile-dag-iosarm64-0.57.0.jar returned status 404
 0.57.0	metadata	2026-09-24T13:43:28Z	
+0.58.0		2026-10-12T22:07:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-dag-iosarm64/0.58.0/skainet-compile-dag-iosarm64-0.58.0.jar returned status 404
+0.58.0	metadata	2026-10-12T22:07:12Z	
+0.59.0		2026-10-14T20:11:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-dag-iosarm64/0.59.0/skainet-compile-dag-iosarm64-0.59.0.jar returned status 404
+0.59.0	metadata	2026-10-14T20:11:39Z	
 0.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-dag-iosarm64/0.6.3/skainet-compile-dag-iosarm64-0.6.3.jar returned status 404
 0.6.3	metadata	2026-01-02T10:40:01Z	
+0.60.0		2026-10-15T21:11:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-dag-iosarm64/0.60.0/skainet-compile-dag-iosarm64-0.60.0.jar returned status 404
+0.60.0	metadata	2026-10-15T21:11:13Z	
+0.61.0		2026-10-16T21:01:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-dag-iosarm64/0.61.0/skainet-compile-dag-iosarm64-0.61.0.jar returned status 404
+0.61.0	metadata	2026-10-16T21:01:29Z	
 0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-dag-iosarm64/0.7.0/skainet-compile-dag-iosarm64-0.7.0.jar returned status 404
 0.7.0	metadata	2026-01-14T06:13:16Z	
 0.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-compile-dag-iosarm64/0.7.1/skainet-compile-dag-iosarm64-0.7.1.jar returned status 404

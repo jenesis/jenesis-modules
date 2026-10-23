@@ -1,0 +1,4 @@
+0.58.0		2026-10-12T22:07:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-frontend-core-linuxx64/0.58.0/skainet-frontend-core-linuxx64-0.58.0.jar returned status 404
+0.59.0		2026-10-14T20:11:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-frontend-core-linuxx64/0.59.0/skainet-frontend-core-linuxx64-0.59.0.jar returned status 404
+0.60.0		2026-10-15T21:11:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-frontend-core-linuxx64/0.60.0/skainet-frontend-core-linuxx64-0.60.0.jar returned status 404
+0.61.0		2026-10-16T21:01:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-frontend-core-linuxx64/0.61.0/skainet-frontend-core-linuxx64-0.61.0.jar returned status 404
