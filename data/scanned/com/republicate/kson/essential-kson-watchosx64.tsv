@@ -9,6 +9,9 @@
 2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kson/essential-kson-watchosx64/2.15/essential-kson-watchosx64-2.15.jar returned status 404
 2.15	metadata	2026-07-23T16:24:18Z	
 2.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kson/essential-kson-watchosx64/2.16/essential-kson-watchosx64-2.16.jar returned status 404
+2.16	metadata	2026-10-17T15:01:08Z	
+2.17		2026-10-20T11:46:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kson/essential-kson-watchosx64/2.17/essential-kson-watchosx64-2.17.jar returned status 404
+2.17	metadata	2026-10-20T11:46:44Z	
 2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kson/essential-kson-watchosx64/2.6/essential-kson-watchosx64-2.6.jar returned status 404
 2.6	metadata	2024-12-29T11:53:32Z	
 2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/republicate/kson/essential-kson-watchosx64/2.7/essential-kson-watchosx64-2.7.jar returned status 404
