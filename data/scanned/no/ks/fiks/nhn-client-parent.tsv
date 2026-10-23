@@ -21,3 +21,4 @@
 1.9.1		2026-09-16T12:39:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/nhn-client-parent/1.9.1/nhn-client-parent-1.9.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/nhn-client-parent/2.0.0/nhn-client-parent-2.0.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/nhn-client-parent/3.0.0/nhn-client-parent-3.0.0.jar returned status 404
+4.0.0		2026-10-15T11:26:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/ks/fiks/nhn-client-parent/4.0.0/nhn-client-parent-4.0.0.jar returned status 404

@@ -6,6 +6,7 @@
 0.0.14-alpha		2026-10-05T17:31:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/rotterdam/verbonden/verbonden/0.0.14-alpha/verbonden-0.0.14-alpha.jar returned status 404
 0.0.15-alpha		2026-10-06T11:39:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/rotterdam/verbonden/verbonden/0.0.15-alpha/verbonden-0.0.15-alpha.jar returned status 404
 0.0.16-alpha		2026-10-08T16:57:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/rotterdam/verbonden/verbonden/0.0.16-alpha/verbonden-0.0.16-alpha.jar returned status 404
+0.0.17-alpha		2026-10-13T13:00:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/rotterdam/verbonden/verbonden/0.0.17-alpha/verbonden-0.0.17-alpha.jar returned status 404
 0.0.2-alpha		2026-08-31T19:46:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/rotterdam/verbonden/verbonden/0.0.2-alpha/verbonden-0.0.2-alpha.jar returned status 404
 0.0.3-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/rotterdam/verbonden/verbonden/0.0.3-alpha/verbonden-0.0.3-alpha.jar returned status 404
 0.0.4-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/rotterdam/verbonden/verbonden/0.0.4-alpha/verbonden-0.0.4-alpha.jar returned status 404

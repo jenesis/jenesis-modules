@@ -90,3 +90,5 @@
 2.2.0		2026-09-30T09:38:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/pass/common/lib/2.2.0/lib-2.2.0.jar returned status 404
 2.2.1		2026-10-02T14:21:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/pass/common/lib/2.2.1/lib-2.2.1.jar returned status 404
 2.2.2		2026-10-09T09:56:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/pass/common/lib/2.2.2/lib-2.2.2.jar returned status 404
+2.3.1		2026-10-14T10:57:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/pass/common/lib/2.3.1/lib-2.3.1.jar returned status 404
+2.3.2		2026-10-14T14:21:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/pass/common/lib/2.3.2/lib-2.3.2.jar returned status 404

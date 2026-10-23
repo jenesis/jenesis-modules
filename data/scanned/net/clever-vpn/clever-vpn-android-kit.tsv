@@ -6,3 +6,5 @@
 2.1.3		2026-05-26T03:32:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/clever-vpn/clever-vpn-android-kit/2.1.3/clever-vpn-android-kit-2.1.3.jar returned status 404
 2.1.4		2026-06-26T05:47:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/clever-vpn/clever-vpn-android-kit/2.1.4/clever-vpn-android-kit-2.1.4.jar returned status 404
 2.1.5		2026-09-23T08:51:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/clever-vpn/clever-vpn-android-kit/2.1.5/clever-vpn-android-kit-2.1.5.jar returned status 404
+2.1.6		2026-10-12T15:25:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/clever-vpn/clever-vpn-android-kit/2.1.6/clever-vpn-android-kit-2.1.6.jar returned status 404
+2.1.7		2026-10-17T02:36:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/clever-vpn/clever-vpn-android-kit/2.1.7/clever-vpn-android-kit-2.1.7.jar returned status 404
