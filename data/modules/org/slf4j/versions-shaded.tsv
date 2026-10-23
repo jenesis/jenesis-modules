@@ -413,3 +413,4 @@
 1.52.5	named	com.erudika	para-email-ses	2026-10-01T09:36:40Z	2.0.18
 1.52.4	named	com.erudika	para-storage-s3	2026-10-01T09:36:40Z	2.0.18
 1.43.1	named	com.erudika	para-dao-cassandra	2026-10-01T10:05:57Z	2.0.18
+2.20.3	named	com.google.cloud.bigtable	bigtable-hbase-1.x-mapreduce	2026-10-20T21:04:13Z	2.0.16

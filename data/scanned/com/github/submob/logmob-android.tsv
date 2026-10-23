@@ -17,3 +17,5 @@
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/logmob-android/3.0.1/logmob-android-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/logmob-android/3.0.2/logmob-android-3.0.2.jar returned status 404
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/logmob-android/3.0.3/logmob-android-3.0.3.jar returned status 404
+3.0.4		2026-10-19T20:57:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/logmob-android/3.0.4/logmob-android-3.0.4.jar returned status 404
+3.0.5		2026-10-20T20:03:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/logmob-android/3.0.5/logmob-android-3.0.5.jar returned status 404

@@ -40,3 +40,5 @@
 5.19.0	named	net.java.dev.jna	jna-platform-jpms	2026-06-02T16:37:44Z	5.19.0
 5.19.1	automatic	net.java.dev.jna	jna-platform	2026-06-12T16:48:57Z	
 5.19.1	named	net.java.dev.jna	jna-platform-jpms	2026-06-12T16:48:57Z	5.19.1
+2.4.0	named	com.guicedee.modules.services	jna-platform-bridge	2026-10-14T21:01:25Z	2.4.0
+2.4.1	named	com.guicedee.modules.services	jna-platform-bridge	2026-10-16T13:21:11Z	2.4.1
