@@ -16,3 +16,7 @@
 1.13.0-alpha09	metadata	2026-09-28T18:25:49Z	
 1.13.0-alpha10		2026-10-04T23:11:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/androidx/navigation3/navigation3-runtime-macosx64/1.13.0-alpha10/navigation3-runtime-macosx64-1.13.0-alpha10.jar returned status 404
 1.13.0-alpha10	metadata	2026-10-04T23:11:05Z	
+1.13.0-alpha11		2026-10-17T11:31:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/androidx/navigation3/navigation3-runtime-macosx64/1.13.0-alpha11/navigation3-runtime-macosx64-1.13.0-alpha11.jar returned status 404
+1.13.0-alpha11	metadata	2026-10-17T11:31:09Z	
+1.13.0-alpha12		2026-10-19T17:17:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/androidx/navigation3/navigation3-runtime-macosx64/1.13.0-alpha12/navigation3-runtime-macosx64-1.13.0-alpha12.jar returned status 404
+1.13.0-alpha12	metadata	2026-10-19T17:17:02Z	

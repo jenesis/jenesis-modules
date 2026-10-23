@@ -10,6 +10,8 @@
 3.7.14	metadata	2026-10-06T12:21:46Z	
 3.7.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-mesh-macosarm64/3.7.15/blue-falcon-plugin-mesh-macosarm64-3.7.15.jar returned status 404
 3.7.15	metadata	2026-10-08T17:51:09Z	
+3.7.16		2026-10-17T04:41:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-mesh-macosarm64/3.7.16/blue-falcon-plugin-mesh-macosarm64-3.7.16.jar returned status 404
+3.7.16	metadata	2026-10-17T04:41:22Z	
 3.7.5		2026-09-09T11:17:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-mesh-macosarm64/3.7.5/blue-falcon-plugin-mesh-macosarm64-3.7.5.jar returned status 404
 3.7.5	metadata	2026-09-09T11:17:50Z	
 3.7.6		2026-09-09T13:54:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bluefalcon/blue-falcon-plugin-mesh-macosarm64/3.7.6/blue-falcon-plugin-mesh-macosarm64-3.7.6.jar returned status 404
