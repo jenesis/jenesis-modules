@@ -118,3 +118,5 @@
 2.0.9		2026-09-22T16:25:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/test-solve-js/2.0.9/test-solve-js-2.0.9.jar returned status 404
 3.0.0		2026-10-04T15:21:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/test-solve-js/3.0.0/test-solve-js-3.0.0.jar returned status 404
 3.0.1		2026-10-05T06:31:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/test-solve-js/3.0.1/test-solve-js-3.0.1.jar returned status 404
+3.0.2		2026-10-17T22:46:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/test-solve-js/3.0.2/test-solve-js-3.0.2.jar returned status 404
+3.0.3		2026-10-18T10:46:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/test-solve-js/3.0.3/test-solve-js-3.0.3.jar returned status 404

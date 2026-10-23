@@ -13,3 +13,4 @@
 0.0.8		2026-08-17T17:11:35Z	
 0.0.8	fat	2026-08-17T17:11:35Z	InvalidModuleDescriptorException: Package io.spicelabs.ancho.shaded.bytebuddy.build missing from ModulePackages class file attribute
 0.0.9			
+0.0.9	fat	2026-10-12T12:05:57Z	InvalidModuleDescriptorException: Package io.spicelabs.ancho.shaded.bytebuddy.build missing from ModulePackages class file attribute

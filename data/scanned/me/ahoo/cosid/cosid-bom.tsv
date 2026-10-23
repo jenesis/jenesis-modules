@@ -213,3 +213,11 @@
 3.1.0		2026-06-22T04:06:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/3.1.0/cosid-bom-3.1.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/3.2.0/cosid-bom-3.2.0.jar returned status 404
 3.2.1		2026-08-17T02:01:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/3.2.1/cosid-bom-3.2.1.jar returned status 404
+3.3.0		2026-10-11T11:46:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/3.3.0/cosid-bom-3.3.0.jar returned status 404
+3.4.1		2026-10-11T23:31:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/3.4.1/cosid-bom-3.4.1.jar returned status 404
+4.0.0		2026-10-12T09:51:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/4.0.0/cosid-bom-4.0.0.jar returned status 404
+4.0.0-M1		2026-10-12T01:11:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/4.0.0-M1/cosid-bom-4.0.0-M1.jar returned status 404
+4.0.0-RC1		2026-10-12T04:21:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/4.0.0-RC1/cosid-bom-4.0.0-RC1.jar returned status 404
+4.0.0-RC2		2026-10-12T07:56:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/4.0.0-RC2/cosid-bom-4.0.0-RC2.jar returned status 404
+4.0.1		2026-10-12T13:36:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/4.0.1/cosid-bom-4.0.1.jar returned status 404
+4.0.2		2026-10-12T23:41:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosid/cosid-bom/4.0.2/cosid-bom-4.0.2.jar returned status 404

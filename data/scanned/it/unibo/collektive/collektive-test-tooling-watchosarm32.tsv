@@ -114,3 +114,5 @@
 28.3.5-dev05+984adcd1	metadata	2026-10-08T01:46:45Z	
 28.3.5-dev0b+92a5b8c5		2026-10-09T00:46:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-watchosarm32/28.3.5-dev0b+92a5b8c5/collektive-test-tooling-watchosarm32-28.3.5-dev0b+92a5b8c5.jar returned status 404
 28.3.5-dev0b+92a5b8c5	metadata	2026-10-09T00:46:30Z	
+28.3.5-dev0g+0fc79b73		2026-10-15T02:21:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-test-tooling-watchosarm32/28.3.5-dev0g+0fc79b73/collektive-test-tooling-watchosarm32-28.3.5-dev0g+0fc79b73.jar returned status 404
+28.3.5-dev0g+0fc79b73	metadata	2026-10-15T02:21:07Z	
