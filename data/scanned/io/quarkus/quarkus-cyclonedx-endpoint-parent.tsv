@@ -24,4 +24,5 @@
 3.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-cyclonedx-endpoint-parent/3.40.0/quarkus-cyclonedx-endpoint-parent-3.40.0.jar returned status 404
 3.40.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-cyclonedx-endpoint-parent/3.40.0.CR1/quarkus-cyclonedx-endpoint-parent-3.40.0.CR1.jar returned status 404
 3.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-cyclonedx-endpoint-parent/3.40.1/quarkus-cyclonedx-endpoint-parent-3.40.1.jar returned status 404
+3.40.1.1		2026-10-19T09:12:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-cyclonedx-endpoint-parent/3.40.1.1/quarkus-cyclonedx-endpoint-parent-3.40.1.1.jar returned status 404
 4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-cyclonedx-endpoint-parent/4.0.0.Beta1/quarkus-cyclonedx-endpoint-parent-4.0.0.Beta1.jar returned status 404

@@ -29,6 +29,8 @@
 0.11.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-prismjs-js/0.11.5/addons-prismjs-js-0.11.5.jar returned status 404
 0.110.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-prismjs-js/0.110.0/addons-prismjs-js-0.110.0.jar returned status 404
 0.111.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-prismjs-js/0.111.0/addons-prismjs-js-0.111.0.jar returned status 404
+0.112.0		2026-10-19T09:45:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-prismjs-js/0.112.0/addons-prismjs-js-0.112.0.jar returned status 404
+0.113.0		2026-10-19T11:43:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-prismjs-js/0.113.0/addons-prismjs-js-0.113.0.jar returned status 404
 0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-prismjs-js/0.12.0/addons-prismjs-js-0.12.0.jar returned status 404
 0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-prismjs-js/0.13.0/addons-prismjs-js-0.13.0.jar returned status 404
 0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/peekandpoke/kraft/addons-prismjs-js/0.13.1/addons-prismjs-js-0.13.1.jar returned status 404

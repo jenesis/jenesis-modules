@@ -24,6 +24,8 @@
 0.0.2	metadata	2026-04-14T14:02:37Z	
 0.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/modusense/modusense-core-iosarm64/0.0.20/modusense-core-iosarm64-0.0.20.jar returned status 404
 0.0.20	metadata	2026-08-08T13:18:43Z	
+0.0.22		2026-10-19T05:51:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/modusense/modusense-core-iosarm64/0.0.22/modusense-core-iosarm64-0.0.22.jar returned status 404
+0.0.22	metadata	2026-10-19T05:51:53Z	
 0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/modusense/modusense-core-iosarm64/0.0.3/modusense-core-iosarm64-0.0.3.jar returned status 404
 0.0.3	metadata	2026-04-16T05:01:55Z	
 0.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/modusense/modusense-core-iosarm64/0.0.4/modusense-core-iosarm64-0.0.4.jar returned status 404
