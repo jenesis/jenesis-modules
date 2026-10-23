@@ -1,3 +1,4 @@
 2.0.0		2026-09-24T12:01:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tappgo/tapp-widgets/2.0.0/tapp-widgets-2.0.0.jar returned status 404
 2.1.0		2026-10-04T13:56:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tappgo/tapp-widgets/2.1.0/tapp-widgets-2.1.0.jar returned status 404
 2.1.1		2026-10-11T09:16:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tappgo/tapp-widgets/2.1.1/tapp-widgets-2.1.1.jar returned status 404
+2.2.0		2026-10-19T08:36:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tappgo/tapp-widgets/2.2.0/tapp-widgets-2.2.0.jar returned status 404

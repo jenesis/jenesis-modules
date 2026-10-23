@@ -62,6 +62,8 @@
 0.1.2-alpha1	metadata	2026-07-18T22:06:27Z	
 0.2.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-compose-presentation-iossimulatorarm64/0.2.0-alpha1/ui-compose-presentation-iossimulatorarm64-0.2.0-alpha1.jar returned status 404
 0.2.0-alpha1	metadata	2026-08-02T09:04:38Z	
+0.2.0-alpha10		2026-10-20T07:27:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-compose-presentation-iossimulatorarm64/0.2.0-alpha10/ui-compose-presentation-iossimulatorarm64-0.2.0-alpha10.jar returned status 404
+0.2.0-alpha10	metadata	2026-10-20T07:27:05Z	
 0.2.0-alpha2		2026-08-06T07:12:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-compose-presentation-iossimulatorarm64/0.2.0-alpha2/ui-compose-presentation-iossimulatorarm64-0.2.0-alpha2.jar returned status 404
 0.2.0-alpha2	metadata	2026-08-06T07:12:29Z	
 0.2.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-compose-presentation-iossimulatorarm64/0.2.0-alpha4/ui-compose-presentation-iossimulatorarm64-0.2.0-alpha4.jar returned status 404
@@ -73,4 +75,6 @@
 0.2.0-alpha7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-compose-presentation-iossimulatorarm64/0.2.0-alpha7/ui-compose-presentation-iossimulatorarm64-0.2.0-alpha7.jar returned status 404
 0.2.0-alpha7	metadata	2026-10-04T09:57:46Z	
 0.2.0-alpha8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-compose-presentation-iossimulatorarm64/0.2.0-alpha8/ui-compose-presentation-iossimulatorarm64-0.2.0-alpha8.jar returned status 404
+0.2.0-alpha8	metadata	2026-10-16T17:46:08Z	
 0.2.0-alpha9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ribads/synapse/ui-compose-presentation-iossimulatorarm64/0.2.0-alpha9/ui-compose-presentation-iossimulatorarm64-0.2.0-alpha9.jar returned status 404
+0.2.0-alpha9	metadata	2026-10-17T13:51:25Z	

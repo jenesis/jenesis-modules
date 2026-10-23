@@ -1,5 +1,6 @@
 3.1.11		2026-10-12T08:36:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/awskt/aws-sts-macosarm64/3.1.11/aws-sts-macosarm64-3.1.11.jar returned status 404
 3.1.11	metadata	2026-10-12T08:36:18Z	
 3.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/awskt/aws-sts-macosarm64/3.1.12/aws-sts-macosarm64-3.1.12.jar returned status 404
+3.1.12	metadata	2026-10-13T23:51:29Z	
 3.1.5		2026-09-27T07:41:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/steamstreet/awskt/aws-sts-macosarm64/3.1.5/aws-sts-macosarm64-3.1.5.jar returned status 404
 3.1.5	metadata	2026-09-27T07:41:43Z	

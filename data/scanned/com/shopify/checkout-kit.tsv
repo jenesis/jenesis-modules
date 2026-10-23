@@ -11,3 +11,4 @@
 4.0.0-alpha.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shopify/checkout-kit/4.0.0-alpha.6/checkout-kit-4.0.0-alpha.6.jar returned status 404
 4.0.0-alpha.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shopify/checkout-kit/4.0.0-alpha.7/checkout-kit-4.0.0-alpha.7.jar returned status 404
 4.0.0-alpha.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shopify/checkout-kit/4.0.0-alpha.8/checkout-kit-4.0.0-alpha.8.jar returned status 404
+4.0.0-alpha.9		2026-10-19T08:21:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shopify/checkout-kit/4.0.0-alpha.9/checkout-kit-4.0.0-alpha.9.jar returned status 404
