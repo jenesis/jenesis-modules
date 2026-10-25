@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-24. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-25. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -191,7 +191,7 @@ kotlin.stdlib.jdk7  [explicit rule: owned by `org.jetbrains.kotlin`; 23 other gr
     + 18 more: io.github.zawarka03, com.kroegerama.openapi-kgen, io.github.team-sneakymouse, com.seanshubin.code.structure, me.xcue, org.partiql, io.github.wadoon.key, org.btmonier, com.slothiesmooth, com.slothiesmooth.links-detektor, hu.bme.mit.theta, dev.nelmin.spigot, (+6 more)
 kotlinx.collections.immutable  [explicit rule: owned by `org.jetbrains`; 1 other group(s) rejected]
   ? * org.jetbrains.kotlinx                2026-07..2026-08 0.5.2                |..................==|
-  ?   org.jetbrains.kotlin                 2026-07..2026-10 2.4.21               |...................=|
+  ?   org.jetbrains.kotlin                 2026-07..2026-10 2.4.21               |..................==|
   ?   com.salesforce.revoman               2026-08..2026-08 0.90.0               |...................=|
 kotlinx.serialization.protobuf  [explicit rule: owned by `org.jetbrains`; 1 other group(s) rejected]
   A * org.jetbrains.kotlinx                2021-09..2026-09 1.12.0-RC            |.........===========|
@@ -417,7 +417,7 @@ com.univapay.api  [republished by `io.sdks` (still active); belongs to `com.univ
   ? * io.sdks                              2026-07..2026-09 1.0.3                |..................==|
   ?   com.univapay                         2026-08..2026-09 1.2.3                |...................=|
 org.apache.commons.mail  [republished by `com.github.ppodgorsek.email` (still active); belongs to `org.apache.commons`]
-  ? * com.github.ppodgorsek.email          2023-06..2023-06 2.0.0                |.............=......|
+  ? * com.github.ppodgorsek.email          2023-06..2023-06 2.0.0                |............=.......|
   ?   io.prophecy                          2024-08..2026-09 4.0.0-ml-9.6.0       |...............=====|
   ?   org.apache.commons                   2023-12..2023-12 1.6.0                |.............=......|
 ```
@@ -883,7 +883,7 @@ org.snakeyaml.engine.v2  [fork: keep `org.snakeyaml`, `org.frankframework` still
   R   org.frankframework                   2025-01..2026-10 9.4.5                |...............=====|
   ?   io.btrace                            2026-07..2026-10 0.29.0               |..................==|
   R   io.github.ethanz0x0                  2025-08..2026-08 2.0.4                |.................===|
-  ?   io.github.baokhang83.mnemo           2026-07..2026-07 0.1.4                |...................=|
+  ?   io.github.baokhang83.mnemo           2026-07..2026-07 0.1.4                |..................==|
   ?   com.walmartlabs.concord.k8s          2026-06..2026-07 2.42.1               |..................=.|
     + 29 more: com.datadoghq, org.wildfly.glow, org.apache.zeppelin, io.acryl, io.fabric8, io.strimzi, io.github.phompang, eu.koboo, io.dscope.camel, org.workflomics, org.sonarsource.iac, ch.framedev, (+17 more)
 io.netty.handler  [fork: keep `io.netty`, `io.camunda.connector` still publishes the name]
@@ -1082,7 +1082,7 @@ net.bytebuddy.agent  [fork: keep `net.bytebuddy`, `co.elastic.apm` still publish
     + 15 more: me.bechberger, cn.langpy, com.leanxcale, com.zto.fire, software.amazon.disco, com.nerdvision, com.idea-aedi, org.openstreetmap.atlas, com.netsensia.rivalchess, com.github.liuzhengyang, com.securenative.java, com.amazonaws, (+3 more)
 com.ethlo.time  [fork: keep `com.ethlo.time`, `io.github.adorsys-gis` still publishes the name]
   ? * com.ethlo.time                       2023-06..2026-10 1.17.0               |.............=======|
-  ?   io.github.adorsys-gis                2026-07..2026-10 1.4.1                |...................=|
+  ?   io.github.adorsys-gis                2026-07..2026-10 1.4.1                |..................==|
 org.junit.jupiter.params  [fork: keep `org.junit.jupiter`, `org.uma.jmetal` still publishes the name]
   ? * org.junit.jupiter                    2017-07..2026-08 6.1.3                |.===================|
   ?   org.uma.jmetal                       2026-09..2026-10 2.5                  |...................=|
@@ -1428,7 +1428,7 @@ org.osgi.framework  [fork: keep `org.osgi`, `org.apache.karaf` still publishes t
   ?   org.apache.karaf                     2025-08..2026-09 4.4.12               |.................===|
 ch.randelshofer.fastdoubleparser  [fork: keep `ch.randelshofer`, `org.jruby` still publishes the name]
   A * ch.randelshofer                      2022-11..2024-11 2.0.1                |...........=====....|
-  ?   org.jruby                            2026-07..2026-09 10.1.2.0             |...................=|
+  ?   org.jruby                            2026-07..2026-09 10.1.2.0             |..................==|
   R   za.co.absa.spline.agent.spark        2023-06..2026-08 2.4.0                |............========|
   R   org.apache.inlong                    2023-10..2026-08 2.4.0                |.............=======|
   R   com.clickzetta                       2024-08..2026-07 2.0.1                |...............====.|
@@ -1929,7 +1929,7 @@ org.eclipse.jetty.security  [owned by `org.eclipse.jetty`; 4 other group(s) shad
   ?   io.debezium                          2026-07..2026-09 3.7.0.Final          |...................=|
   R   org.sonatype.nexus.common.components 2026-02..2026-09 3.95.4-01            |..................==|
   ?   ch.exense.step                       2026-06..2026-07 3.30.1               |..................=.|
-  R   org.sonatype.nexus.jetty             2025-09..2026-01 3.87.2-01            |.................==.|
+  R   org.sonatype.nexus.jetty             2025-09..2026-01 3.87.2-01            |.................=..|
 org.eclipse.jetty.compression.gzip  [owned by `org.eclipse.jetty.compression`; 1 other group(s) shade the name]
   ? * org.eclipse.jetty.compression        2024-12..2026-10 12.1.14              |...............=====|
   ?   ch.exense.step                       2026-08..2026-08 3.30.3               |...................=|
@@ -1949,7 +1949,7 @@ com.h2database  [owned by `com.h2database`; 4 other group(s) shade the name]
   R   net.xdob.h2db                        2022-06..2023-02 2.1.1                |...........==.......|
   R   org.lucee                            2023-01..2023-01 2.1.214.0001L        |............=.......|
 org.eclipse.microprofile.config  [owned by `org.eclipse.microprofile.config`; 1 other group(s) shade the name]
-  ? * org.eclipse.microprofile.config      2026-01..2026-09 3.1.2                |..................==|
+  ? * org.eclipse.microprofile.config      2026-01..2026-09 3.1.2                |.................===|
   ?   io.vidocq.ravel                      2026-05..2026-09 0.3.0                |..................==|
 com.apollographql.apollo.tooling  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
   ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
@@ -1987,7 +1987,7 @@ org.opendaylight.yangtools.yang.model.export  [owned by `org.opendaylight.yangto
 com.github.jknack.handlebars  [owned by `com.github.jknack`; 3 other group(s) shade the name]
   A * com.github.jknack                    2024-03..2026-09 4.5.5                |..............======|
   R   me.bechberger                        2026-01..2026-08 0.1.2                |.................===|
-  ?   org.openidentityplatform.openidm.tools 2026-07..2026-07 7.1.2                |...................=|
+  ?   org.openidentityplatform.openidm.tools 2026-07..2026-07 7.1.2                |..................=.|
   R   org.craftercms                       2026-04..2026-04 4.6.0                |..................=.|
 io.vavr.test  [owned by `io.vavr`; 1 other group(s) shade the name]
   ? * io.vavr                              2017-11..2026-09 1.0.0                |..==================|
