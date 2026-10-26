@@ -25,4 +25,6 @@
 5.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/ws/spring-ws-bom/5.0.0-RC1/spring-ws-bom-5.0.0-RC1.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/ws/spring-ws-bom/5.0.1/spring-ws-bom-5.0.1.jar returned status 404
 5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/ws/spring-ws-bom/5.0.2/spring-ws-bom-5.0.2.jar returned status 404
+5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/ws/spring-ws-bom/5.0.3/spring-ws-bom-5.0.3.jar returned status 404
 5.1.0-M1		2026-09-24T08:01:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/ws/spring-ws-bom/5.1.0-M1/spring-ws-bom-5.1.0-M1.jar returned status 404
+5.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/ws/spring-ws-bom/5.1.0-RC1/spring-ws-bom-5.1.0-RC1.jar returned status 404
