@@ -58,3 +58,4 @@
 5.0.0-alpha.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/bubbl/sdk/bubbl-sdk/5.0.0-alpha.4/bubbl-sdk-5.0.0-alpha.4.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/bubbl/sdk/bubbl-sdk/5.0.1/bubbl-sdk-5.0.1.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/bubbl/sdk/bubbl-sdk/5.1.0/bubbl-sdk-5.1.0.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/bubbl/sdk/bubbl-sdk/5.2.0/bubbl-sdk-5.2.0.jar returned status 404
