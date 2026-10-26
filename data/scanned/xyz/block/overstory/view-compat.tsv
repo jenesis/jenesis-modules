@@ -1,3 +1,4 @@
 0.1.0		2026-10-07T14:54:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/overstory/view-compat/0.1.0/view-compat-0.1.0.jar returned status 404
 0.2.0		2026-10-07T19:01:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/overstory/view-compat/0.2.0/view-compat-0.2.0.jar returned status 404
 0.3.0		2026-10-14T15:17:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/overstory/view-compat/0.3.0/view-compat-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/block/overstory/view-compat/0.3.1/view-compat-0.3.1.jar returned status 404

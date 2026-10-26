@@ -78,3 +78,5 @@
 0.22.1		2026-10-16T08:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/python-js/0.22.1/python-js-0.22.1.jar returned status 404
 0.22.2		2026-10-19T07:26:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/python-js/0.22.2/python-js-0.22.2.jar returned status 404
 0.22.3		2026-10-20T12:37:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/python-js/0.22.3/python-js-0.22.3.jar returned status 404
+0.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/python-js/0.22.4/python-js-0.22.4.jar returned status 404
+0.22.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/python-js/0.22.5/python-js-0.22.5.jar returned status 404

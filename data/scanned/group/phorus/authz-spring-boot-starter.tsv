@@ -1,2 +1,4 @@
 1.0.0		2026-10-19T10:57:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/group/phorus/authz-spring-boot-starter/1.0.0/authz-spring-boot-starter-1.0.0.jar returned status 404
 1.0.0	plain	2026-10-19T10:57:02Z	
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/group/phorus/authz-spring-boot-starter/1.0.1/authz-spring-boot-starter-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/group/phorus/authz-spring-boot-starter/1.0.2/authz-spring-boot-starter-1.0.2.jar returned status 404

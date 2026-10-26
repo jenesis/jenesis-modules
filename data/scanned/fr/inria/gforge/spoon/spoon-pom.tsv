@@ -132,6 +132,7 @@
 11.5.1-beta-12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-12/spoon-pom-11.5.1-beta-12.jar returned status 404
 11.5.1-beta-13		2026-10-11T05:37:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-13/spoon-pom-11.5.1-beta-13.jar returned status 404
 11.5.1-beta-14		2026-10-18T04:16:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-14/spoon-pom-11.5.1-beta-14.jar returned status 404
+11.5.1-beta-15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-15/spoon-pom-11.5.1-beta-15.jar returned status 404
 11.5.1-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-2/spoon-pom-11.5.1-beta-2.jar returned status 404
 11.5.1-beta-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-3/spoon-pom-11.5.1-beta-3.jar returned status 404
 11.5.1-beta-4		2026-08-09T02:21:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/gforge/spoon/spoon-pom/11.5.1-beta-4/spoon-pom-11.5.1-beta-4.jar returned status 404

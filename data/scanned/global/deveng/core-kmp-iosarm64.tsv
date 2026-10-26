@@ -120,6 +120,16 @@
 1.7.118	metadata	2026-10-18T21:46:16Z	
 1.7.119		2026-10-20T07:21:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.119/core-kmp-iosarm64-1.7.119.jar returned status 404
 1.7.119	metadata	2026-10-20T07:21:45Z	
+1.7.120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.120/core-kmp-iosarm64-1.7.120.jar returned status 404
+1.7.121			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.121/core-kmp-iosarm64-1.7.121.jar returned status 404
+1.7.122			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.122/core-kmp-iosarm64-1.7.122.jar returned status 404
+1.7.123			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.123/core-kmp-iosarm64-1.7.123.jar returned status 404
+1.7.124			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.124/core-kmp-iosarm64-1.7.124.jar returned status 404
+1.7.125			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.125/core-kmp-iosarm64-1.7.125.jar returned status 404
+1.7.126			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.126/core-kmp-iosarm64-1.7.126.jar returned status 404
+1.7.127			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.127/core-kmp-iosarm64-1.7.127.jar returned status 404
+1.7.128			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.128/core-kmp-iosarm64-1.7.128.jar returned status 404
+1.7.129			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.129/core-kmp-iosarm64-1.7.129.jar returned status 404
 1.7.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.43/core-kmp-iosarm64-1.7.43.jar returned status 404
 1.7.43	metadata	2026-03-15T19:40:51Z	
 1.7.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/global/deveng/core-kmp-iosarm64/1.7.44/core-kmp-iosarm64-1.7.44.jar returned status 404

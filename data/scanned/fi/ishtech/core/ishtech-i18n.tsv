@@ -6,3 +6,4 @@
 5.0.0		2025-11-02T20:02:53Z	
 5.1.0		2026-06-02T11:41:10Z	
 5.2.0		2026-06-29T08:32:49Z	
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fi/ishtech/core/ishtech-i18n/5.3.0/ishtech-i18n-5.3.0.jar returned status 404

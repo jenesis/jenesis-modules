@@ -4,3 +4,4 @@
 0.4.1	metadata	2026-10-15T09:06:25Z	
 0.5.0		2026-10-15T14:35:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wang/harlon/eventbase-kmp-iossimulatorarm64/0.5.0/eventbase-kmp-iossimulatorarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-10-15T14:35:10Z	
+0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/wang/harlon/eventbase-kmp-iossimulatorarm64/0.5.1/eventbase-kmp-iossimulatorarm64-0.5.1.jar returned status 404

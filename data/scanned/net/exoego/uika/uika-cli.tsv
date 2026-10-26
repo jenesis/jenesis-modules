@@ -2,11 +2,17 @@
 0.0.2		2026-07-12T04:31:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.0.2/uika-cli-0.0.2.jar returned status 404
 0.0.3		2026-07-12T23:41:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.0.3/uika-cli-0.0.3.jar returned status 404
 0.1.0		2026-07-14T05:17:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.1.0/uika-cli-0.1.0.jar returned status 404
+0.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.10.0/uika-cli-0.10.0.jar returned status 404
 0.10.0	jvm	2026-09-23T11:55:15Z	
+0.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.11.0/uika-cli-0.11.0.jar returned status 404
 0.11.0	jvm	2026-09-27T13:18:31Z	
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.12.0/uika-cli-0.12.0.jar returned status 404
 0.12.0	jvm	2026-09-29T07:56:40Z	
+0.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.12.1/uika-cli-0.12.1.jar returned status 404
 0.12.1	jvm	2026-10-03T13:26:14Z	
+0.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.12.2/uika-cli-0.12.2.jar returned status 404
 0.12.2	jvm	2026-10-12T07:41:10Z	
+0.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.12.3/uika-cli-0.12.3.jar returned status 404
 0.12.3	jvm	2026-10-13T07:35:56Z	
 0.2.0		2026-07-14T14:05:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.2.0/uika-cli-0.2.0.jar returned status 404
 0.3.0		2026-07-15T06:18:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/exoego/uika/uika-cli/0.3.0/uika-cli-0.3.0.jar returned status 404

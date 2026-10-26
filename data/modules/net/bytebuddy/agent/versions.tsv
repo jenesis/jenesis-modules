@@ -594,3 +594,5 @@
 1.18.15	named	net.bytebuddy	byte-buddy-agent	2026-10-13T09:21:21Z	1.18.15
 1.57.1	named	co.elastic.apm	apm-agent-attach	2026-10-15T12:31:06Z	1.18.14-jdk5
 1.57.1	named	co.elastic.apm	apm-agent-attach-cli	2026-10-15T12:31:06Z	1.18.14-jdk5
+1.18.16-jdk5	named	net.bytebuddy	byte-buddy-agent	2026-10-23T12:06:58Z	1.18.16-jdk5
+1.18.16	named	net.bytebuddy	byte-buddy-agent	2026-10-23T13:52:00Z	1.18.16

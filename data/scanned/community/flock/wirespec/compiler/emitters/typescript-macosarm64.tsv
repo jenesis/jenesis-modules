@@ -102,3 +102,5 @@
 0.22.2	metadata	2026-10-19T07:26:54Z	
 0.22.3		2026-10-20T12:37:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/typescript-macosarm64/0.22.3/typescript-macosarm64-0.22.3.jar returned status 404
 0.22.3	metadata	2026-10-20T12:37:07Z	
+0.22.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/typescript-macosarm64/0.22.4/typescript-macosarm64-0.22.4.jar returned status 404
+0.22.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/emitters/typescript-macosarm64/0.22.5/typescript-macosarm64-0.22.5.jar returned status 404
