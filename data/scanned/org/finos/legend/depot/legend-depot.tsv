@@ -118,6 +118,7 @@
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.0.4/legend-depot-2.0.4.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.1.0/legend-depot-2.1.0.jar returned status 404
 2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.10.0/legend-depot-2.10.0.jar returned status 404
+2.100.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.100.0/legend-depot-2.100.0.jar returned status 404
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.11.0/legend-depot-2.11.0.jar returned status 404
 2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.12.0/legend-depot-2.12.0.jar returned status 404
 2.12.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.12.1/legend-depot-2.12.1.jar returned status 404
@@ -245,3 +246,4 @@
 2.98.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.98.0/legend-depot-2.98.0.jar returned status 404
 2.98.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.98.1/legend-depot-2.98.1.jar returned status 404
 2.98.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.98.2/legend-depot-2.98.2.jar returned status 404
+2.99.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/depot/legend-depot/2.99.0/legend-depot-2.99.0.jar returned status 404
