@@ -88,3 +88,8 @@
 0.60.0	metadata	2026-10-15T21:11:16Z	
 0.61.0		2026-10-16T21:01:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iosarm64/0.61.0/skainet-io-iree-params-iosarm64-0.61.0.jar returned status 404
 0.61.0	metadata	2026-10-16T21:01:31Z	
+0.62.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iosarm64/0.62.0/skainet-io-iree-params-iosarm64-0.62.0.jar returned status 404
+0.62.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iosarm64/0.62.1/skainet-io-iree-params-iosarm64-0.62.1.jar returned status 404
+0.62.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iosarm64/0.62.2/skainet-io-iree-params-iosarm64-0.62.2.jar returned status 404
+0.62.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iosarm64/0.62.3/skainet-io-iree-params-iosarm64-0.62.3.jar returned status 404
+0.62.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/sk/ainet/core/skainet-io-iree-params-iosarm64/0.62.4/skainet-io-iree-params-iosarm64-0.62.4.jar returned status 404

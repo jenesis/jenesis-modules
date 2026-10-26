@@ -4967,3 +4967,6 @@ me.ahoo.simba.spring.redis
 me.ahoo.simba.redis
 me.ahoo.simba.zookeeper
 me.lemire.integercompression
+nl.basjes.parse.useragent
+nl.gn0s1s.pekko.versioncheck
+nl.gn0s1s.jackson.versioncheck
