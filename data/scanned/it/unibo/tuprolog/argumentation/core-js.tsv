@@ -28,6 +28,9 @@
 0.17.0		2026-10-13T22:41:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.17.0/core-js-0.17.0.jar returned status 404
 0.17.1		2026-10-18T01:31:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.17.1/core-js-0.17.1.jar returned status 404
 0.17.2		2026-10-18T02:21:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.17.2/core-js-0.17.2.jar returned status 404
+0.17.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.17.4/core-js-0.17.4.jar returned status 404
+0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.18.0/core-js-0.18.0.jar returned status 404
+0.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.18.1/core-js-0.18.1.jar returned status 404
 0.2.0		2021-03-01T15:48:39Z	
 0.2.1		2021-03-05T12:21:46Z	
 0.2.2		2021-03-14T21:17:58Z	

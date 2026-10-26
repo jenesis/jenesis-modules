@@ -1,3 +1,20 @@
+1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.5.1/parchment-1.5.1.jar returned status 404
+1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.5.2/parchment-1.5.2.jar returned status 404
+1.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.5.4/parchment-1.5.4.jar returned status 404
+1.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.5.5/parchment-1.5.5.jar returned status 404
+1.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.5.6/parchment-1.5.6.jar returned status 404
+1.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.5.8/parchment-1.5.8.jar returned status 404
+1.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.5.9/parchment-1.5.9.jar returned status 404
+1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.6.0/parchment-1.6.0.jar returned status 404
+1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.6.1/parchment-1.6.1.jar returned status 404
+1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.6.2/parchment-1.6.2.jar returned status 404
+1.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.6.3/parchment-1.6.3.jar returned status 404
+1.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.6.4/parchment-1.6.4.jar returned status 404
+1.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.6.5/parchment-1.6.5.jar returned status 404
+1.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.6.6/parchment-1.6.6.jar returned status 404
+1.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.6.7/parchment-1.6.7.jar returned status 404
+1.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.6.8/parchment-1.6.8.jar returned status 404
+1.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/1.6.9/parchment-1.6.9.jar returned status 404
 2.0.0		2026-09-16T14:48:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/2.0.0/parchment-2.0.0.jar returned status 404
 2.1.0		2026-09-16T19:16:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/2.1.0/parchment-2.1.0.jar returned status 404
 2.2.0		2026-09-17T13:48:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/mobi/parchment/parchment/2.2.0/parchment-2.2.0.jar returned status 404
