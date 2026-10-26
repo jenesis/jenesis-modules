@@ -51,6 +51,7 @@
 3.0.0.Alpha3	automatic	org.wildfly.plugins	wildfly-plugin-core
 3.0.0.Alpha2	automatic	org.wildfly.plugins	wildfly-plugin-core
 3.0.0.Alpha1	automatic	org.wildfly.plugins	wildfly-plugin-core
+2.1.1.Final	automatic	org.wildfly.plugins	wildfly-plugin-tools
 2.1.0.Final	automatic	org.wildfly.plugins	wildfly-plugin-core
 2.1.0.Beta1	automatic	org.wildfly.plugins	wildfly-plugin-core
 2.0.2.Final	automatic	org.wildfly.plugins	wildfly-plugin-core

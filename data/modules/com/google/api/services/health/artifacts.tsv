@@ -1,3 +1,4 @@
+v4-rev20261016-2.0.0	automatic	com.google.apis	google-api-services-health
 v4-rev20261007-2.0.0	automatic	com.google.apis	google-api-services-health
 v4-rev20261002-2.0.0	automatic	com.google.apis	google-api-services-health
 v4-rev20260929-2.0.0	automatic	com.google.apis	google-api-services-health
@@ -29,6 +30,7 @@ v4-rev20260503-2.0.0	automatic	com.google.apis	google-api-services-health
 v4-rev20260430-2.0.0	automatic	com.google.apis	google-api-services-health
 v4-rev20260416-2.0.0	automatic	com.google.apis	google-api-services-health
 v4-rev20260405-2.0.0	automatic	com.google.apis	google-api-services-health
+v4beta-rev20261019-2.0.0	automatic	com.google.apis	google-api-services-health
 v4beta-rev20261013-2.0.0	automatic	com.google.apis	google-api-services-health
 v4beta-rev20261007-2.0.0	automatic	com.google.apis	google-api-services-health
 v4beta-rev20261002-2.0.0	automatic	com.google.apis	google-api-services-health
