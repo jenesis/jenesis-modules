@@ -6,3 +6,6 @@
 1.0.273	metadata	2026-10-08T11:29:49Z	
 1.0.275		2026-10-09T07:36:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sportradar/mobile/epsilon/epsilon-integrity-check-iossimulatorarm64/1.0.275/epsilon-integrity-check-iossimulatorarm64-1.0.275.jar returned status 404
 1.0.275	metadata	2026-10-09T07:36:20Z	
+1.0.276			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sportradar/mobile/epsilon/epsilon-integrity-check-iossimulatorarm64/1.0.276/epsilon-integrity-check-iossimulatorarm64-1.0.276.jar returned status 404
+1.0.279			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sportradar/mobile/epsilon/epsilon-integrity-check-iossimulatorarm64/1.0.279/epsilon-integrity-check-iossimulatorarm64-1.0.279.jar returned status 404
+1.0.281			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sportradar/mobile/epsilon/epsilon-integrity-check-iossimulatorarm64/1.0.281/epsilon-integrity-check-iossimulatorarm64-1.0.281.jar returned status 404
