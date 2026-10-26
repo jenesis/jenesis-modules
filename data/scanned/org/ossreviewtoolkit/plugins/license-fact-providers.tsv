@@ -74,3 +74,5 @@
 95.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/license-fact-providers/95.0.0/license-fact-providers-95.0.0.jar returned status 404
 96.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/license-fact-providers/96.0.0/license-fact-providers-96.0.0.jar returned status 404
 97.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/license-fact-providers/97.0.0/license-fact-providers-97.0.0.jar returned status 404
+97.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/license-fact-providers/97.1.0/license-fact-providers-97.1.0.jar returned status 404
+97.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/license-fact-providers/97.2.0/license-fact-providers-97.2.0.jar returned status 404

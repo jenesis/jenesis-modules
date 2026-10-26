@@ -183,3 +183,5 @@
 95.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/advisors/95.0.0/advisors-95.0.0.jar returned status 404
 96.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/advisors/96.0.0/advisors-96.0.0.jar returned status 404
 97.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/advisors/97.0.0/advisors-97.0.0.jar returned status 404
+97.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/advisors/97.1.0/advisors-97.1.0.jar returned status 404
+97.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ossreviewtoolkit/plugins/advisors/97.2.0/advisors-97.2.0.jar returned status 404
