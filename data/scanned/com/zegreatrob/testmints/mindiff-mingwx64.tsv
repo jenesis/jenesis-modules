@@ -405,6 +405,7 @@
 12.6.59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/mindiff-mingwx64/12.6.59/mindiff-mingwx64-12.6.59.jar returned status 404
 12.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/mindiff-mingwx64/12.6.6/mindiff-mingwx64-12.6.6.jar returned status 404
 12.6.60		2026-10-19T20:12:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/mindiff-mingwx64/12.6.60/mindiff-mingwx64-12.6.60.jar returned status 404
+12.6.61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/mindiff-mingwx64/12.6.61/mindiff-mingwx64-12.6.61.jar returned status 404
 12.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/mindiff-mingwx64/12.6.7/mindiff-mingwx64-12.6.7.jar returned status 404
 12.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/mindiff-mingwx64/12.6.8/mindiff-mingwx64-12.6.8.jar returned status 404
 12.6.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/mindiff-mingwx64/12.6.9/mindiff-mingwx64-12.6.9.jar returned status 404

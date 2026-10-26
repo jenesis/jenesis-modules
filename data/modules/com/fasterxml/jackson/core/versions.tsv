@@ -7498,6 +7498,9 @@ v0.0.21	named	com.grafana	grafana-foundation-sdk	2026-10-16T13:12:41Z	2.19.1
 2.22.4	named	com.fasterxml.jackson.core	jackson-core	2026-10-17T23:11:24Z	2.22.4
 42.7	named	io.deephaven	deephaven-oidc-authentication-provider	2026-10-19T20:12:14Z	2.14.0
 1.14.5	named	com.ratepay.sdk	ratepay-sdk-core	2026-10-20T14:48:11Z	2.22.1
+1.15.0	named	com.ratepay.sdk	ratepay-sdk-core	2026-10-21T09:57:01Z	2.22.1
+1.15.1	named	com.ratepay.sdk	ratepay-sdk-core	2026-10-21T14:26:42Z	2.22.1
+0.10.2	named	com.clickhouse.spark	clickhouse-spark-runtime-4.0_2.13	2026-10-22T13:06:52Z	2.18.2
 5.10	named	org.jboss.pnc.maven-manipulator	pom-manipulation-ext	2026-10-22T18:56:21Z	2.22.3
 2.1.6	named	org.operaton.spin	operaton-spin-dataformat-all	2026-10-23T10:22:35Z	2.21.8
 2.2.0	named	org.operaton.spin	operaton-spin-dataformat-all	2026-10-23T10:27:10Z	2.22.4
