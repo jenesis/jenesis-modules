@@ -81,3 +81,5 @@
 3.0.1		2026-10-05T06:27:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/full-js/3.0.1/full-js-3.0.1.jar returned status 404
 3.0.2		2026-10-17T22:46:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/full-js/3.0.2/full-js-3.0.2.jar returned status 404
 3.0.3		2026-10-18T10:40:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/full-js/3.0.3/full-js-3.0.3.jar returned status 404
+3.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/full-js/3.0.4/full-js-3.0.4.jar returned status 404
+3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/full-js/3.0.5/full-js-3.0.5.jar returned status 404
