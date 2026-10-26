@@ -4,3 +4,4 @@
 1.2.0.7		2026-08-04T13:28:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cleveradssolutions/monetrix/1.2.0.7/monetrix-1.2.0.7.jar returned status 404
 1.3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cleveradssolutions/monetrix/1.3.0.0/monetrix-1.3.0.0.jar returned status 404
 1.4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cleveradssolutions/monetrix/1.4.0.2/monetrix-1.4.0.2.jar returned status 404
+1.4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/cleveradssolutions/monetrix/1.4.0.5/monetrix-1.4.0.5.jar returned status 404
