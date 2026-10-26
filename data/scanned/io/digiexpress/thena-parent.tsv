@@ -91,6 +91,7 @@
 5.3.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/5.3.19/thena-parent-5.3.19.jar returned status 404
 5.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/5.3.2/thena-parent-5.3.2.jar returned status 404
 5.3.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/5.3.20/thena-parent-5.3.20.jar returned status 404
+5.3.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/5.3.21/thena-parent-5.3.21.jar returned status 404
 5.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/5.3.3/thena-parent-5.3.3.jar returned status 404
 5.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/5.3.4/thena-parent-5.3.4.jar returned status 404
 5.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/5.3.5/thena-parent-5.3.5.jar returned status 404
@@ -129,6 +130,8 @@
 6.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/6.0.4/thena-parent-6.0.4.jar returned status 404
 6.0.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/6.0.40/thena-parent-6.0.40.jar returned status 404
 6.0.41		2026-10-19T14:41:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/6.0.41/thena-parent-6.0.41.jar returned status 404
+6.0.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/6.0.42/thena-parent-6.0.42.jar returned status 404
+6.0.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/6.0.43/thena-parent-6.0.43.jar returned status 404
 6.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/6.0.5/thena-parent-6.0.5.jar returned status 404
 6.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/6.0.6/thena-parent-6.0.6.jar returned status 404
 6.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/digiexpress/thena-parent/6.0.7/thena-parent-6.0.7.jar returned status 404

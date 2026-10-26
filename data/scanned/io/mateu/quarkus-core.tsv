@@ -269,9 +269,16 @@
 3.0-alpha.98		2025-05-22T21:14:28Z	
 3.0-alpha.99		2025-05-22T21:25:45Z	
 3.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.1/quarkus-core-3.0-beta.1.jar returned status 404
+3.0-beta.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.10/quarkus-core-3.0-beta.10.jar returned status 404
+3.0-beta.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.11/quarkus-core-3.0-beta.11.jar returned status 404
+3.0-beta.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.12/quarkus-core-3.0-beta.12.jar returned status 404
+3.0-beta.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.13/quarkus-core-3.0-beta.13.jar returned status 404
+3.0-beta.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.14/quarkus-core-3.0-beta.14.jar returned status 404
 3.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.2/quarkus-core-3.0-beta.2.jar returned status 404
 3.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.3/quarkus-core-3.0-beta.3.jar returned status 404
 3.0-beta.4		2026-10-19T08:58:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.4/quarkus-core-3.0-beta.4.jar returned status 404
 3.0-beta.5		2026-10-19T09:58:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.5/quarkus-core-3.0-beta.5.jar returned status 404
 3.0-beta.6		2026-10-19T13:13:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.6/quarkus-core-3.0-beta.6.jar returned status 404
 3.0-beta.7		2026-10-19T15:27:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.7/quarkus-core-3.0-beta.7.jar returned status 404
+3.0-beta.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.8/quarkus-core-3.0-beta.8.jar returned status 404
+3.0-beta.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/quarkus-core/3.0-beta.9/quarkus-core-3.0-beta.9.jar returned status 404
