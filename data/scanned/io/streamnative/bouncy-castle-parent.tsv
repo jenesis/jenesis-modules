@@ -820,6 +820,7 @@
 4.0.12.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.0.12.8/bouncy-castle-parent-4.0.12.8.jar returned status 404
 4.0.12.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.0.12.9/bouncy-castle-parent-4.0.12.9.jar returned status 404
 4.0.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.0.14.1/bouncy-castle-parent-4.0.14.1.jar returned status 404
+4.0.14.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.0.14.2/bouncy-castle-parent-4.0.14.2.jar returned status 404
 4.0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.0.3.1/bouncy-castle-parent-4.0.3.1.jar returned status 404
 4.0.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.0.4.2/bouncy-castle-parent-4.0.4.2.jar returned status 404
 4.0.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.0.4.3/bouncy-castle-parent-4.0.4.3.jar returned status 404
@@ -904,6 +905,7 @@
 4.2.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.2.1.8/bouncy-castle-parent-4.2.1.8.jar returned status 404
 4.2.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.2.1.9/bouncy-castle-parent-4.2.1.9.jar returned status 404
 4.2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.2.5.1/bouncy-castle-parent-4.2.5.1.jar returned status 404
+4.2.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/4.2.5.2/bouncy-castle-parent-4.2.5.2.jar returned status 404
 master-rc-daily			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/master-rc-daily/bouncy-castle-parent-master-rc-daily.jar returned status 404
 v2.8.0-rc-202106091140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/v2.8.0-rc-202106091140/bouncy-castle-parent-v2.8.0-rc-202106091140.jar returned status 404
 v2.8.0-rc-202106121853			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/streamnative/bouncy-castle-parent/v2.8.0-rc-202106121853/bouncy-castle-parent-v2.8.0-rc-202106121853.jar returned status 404

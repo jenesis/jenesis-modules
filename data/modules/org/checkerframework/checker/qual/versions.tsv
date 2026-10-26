@@ -1293,6 +1293,7 @@
 2.10.7-adhoc.20261016.13211.0.v9bfbc015	named	com.daml	ledger-api-test-tool-1.14	2026-10-16T16:31:22Z	
 2.10.7-adhoc.20261016.13211.0.v9bfbc015	named	com.daml	ledger-api-test-tool-1.15	2026-10-16T16:31:22Z	
 2.10.7-adhoc.20261016.13211.0.v9bfbc015	named	com.daml	ledger-api-test-tool-1.dev	2026-10-16T16:31:23Z	
+26.4.44	named	io.valkyrja	sindri	2026-10-19T19:19:45Z	
 2.10.7-snapshot.20261020.13209.0.vfcd518de	named	com.daml	codegen-scala-main	2026-10-20T12:27:00Z	
 2.10.7-snapshot.20261020.13209.0.vfcd518de	named	com.daml	codegen-java	2026-10-20T12:27:01Z	
 2.10.7-snapshot.20261020.13209.0.vfcd518de	named	com.daml	ledger-api-test-tool	2026-10-20T12:27:02Z	
@@ -1300,3 +1301,7 @@
 2.10.7-snapshot.20261020.13209.0.vfcd518de	named	com.daml	ledger-api-test-tool-1.15	2026-10-20T12:27:02Z	
 2.10.7-snapshot.20261020.13209.0.vfcd518de	named	com.daml	ledger-api-test-tool-1.dev	2026-10-20T12:27:02Z	
 2.5.0-Beta2	named	org.jetbrains.kotlin	kotlin-build-tools-impl	2026-10-21T08:46:53Z	
+26.4.45	named	io.valkyrja	sindri	2026-10-21T18:07:05Z	
+26.5.0	named	io.valkyrja	sindri	2026-10-23T03:32:39Z	
+26.5.1	named	io.valkyrja	sindri	2026-10-23T17:57:07Z	
+26.5.2	named	io.valkyrja	sindri	2026-10-24T16:37:01Z	
