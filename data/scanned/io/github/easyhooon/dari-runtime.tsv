@@ -7,3 +7,5 @@
 2.2.1		2026-10-16T00:45:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-runtime/2.2.1/dari-runtime-2.2.1.jar returned status 404
 2.5.0		2026-10-18T06:30:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-runtime/2.5.0/dari-runtime-2.5.0.jar returned status 404
 2.6.0		2026-10-19T09:58:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-runtime/2.6.0/dari-runtime-2.6.0.jar returned status 404
+2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-runtime/2.7.0/dari-runtime-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-runtime/2.8.0/dari-runtime-2.8.0.jar returned status 404
