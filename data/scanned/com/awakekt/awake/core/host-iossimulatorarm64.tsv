@@ -78,6 +78,12 @@
 0.19.0	metadata	2026-10-20T01:27:23Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/host-iossimulatorarm64/0.2.0/host-iossimulatorarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2026-10-06T14:20:19Z	
+0.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/host-iossimulatorarm64/0.20.0/host-iossimulatorarm64-0.20.0.jar returned status 404
+0.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/host-iossimulatorarm64/0.21.0/host-iossimulatorarm64-0.21.0.jar returned status 404
+0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/host-iossimulatorarm64/0.22.0/host-iossimulatorarm64-0.22.0.jar returned status 404
+0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/host-iossimulatorarm64/0.23.0/host-iossimulatorarm64-0.23.0.jar returned status 404
+0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/host-iossimulatorarm64/0.24.0/host-iossimulatorarm64-0.24.0.jar returned status 404
+0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/host-iossimulatorarm64/0.25.0/host-iossimulatorarm64-0.25.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/host-iossimulatorarm64/0.4.0/host-iossimulatorarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2026-10-09T02:46:53Z	
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/host-iossimulatorarm64/0.5.0/host-iossimulatorarm64-0.5.0.jar returned status 404

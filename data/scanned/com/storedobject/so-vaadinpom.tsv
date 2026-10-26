@@ -1,5 +1,7 @@
 24.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/storedobject/so-vaadinpom/24.10.0/so-vaadinpom-24.10.0.jar returned status 404
 24.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/storedobject/so-vaadinpom/24.10.10/so-vaadinpom-24.10.10.jar returned status 404
 24.10.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/storedobject/so-vaadinpom/24.10.7/so-vaadinpom-24.10.7.jar returned status 404
+24.10.7-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/storedobject/so-vaadinpom/24.10.7-1/so-vaadinpom-24.10.7-1.jar returned status 404
+24.10.7-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/storedobject/so-vaadinpom/24.10.7-2/so-vaadinpom-24.10.7-2.jar returned status 404
 24.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/storedobject/so-vaadinpom/24.9.8/so-vaadinpom-24.9.8.jar returned status 404
 25.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/storedobject/so-vaadinpom/25.0.2/so-vaadinpom-25.0.2.jar returned status 404
