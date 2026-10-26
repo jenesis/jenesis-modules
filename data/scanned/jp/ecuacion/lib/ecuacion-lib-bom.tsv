@@ -3,3 +3,6 @@
 16.0.0-rc.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/ecuacion/lib/ecuacion-lib-bom/16.0.0-rc.11/ecuacion-lib-bom-16.0.0-rc.11.jar returned status 404
 16.0.0-rc.9		2026-08-08T12:42:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/ecuacion/lib/ecuacion-lib-bom/16.0.0-rc.9/ecuacion-lib-bom-16.0.0-rc.9.jar returned status 404
 16.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/ecuacion/lib/ecuacion-lib-bom/16.1.0/ecuacion-lib-bom-16.1.0.jar returned status 404
+16.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/ecuacion/lib/ecuacion-lib-bom/16.2.0/ecuacion-lib-bom-16.2.0.jar returned status 404
+16.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/ecuacion/lib/ecuacion-lib-bom/16.3.0/ecuacion-lib-bom-16.3.0.jar returned status 404
+16.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/ecuacion/lib/ecuacion-lib-bom/16.3.1/ecuacion-lib-bom-16.3.1.jar returned status 404

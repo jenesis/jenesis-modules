@@ -1,2 +1,3 @@
 0.0.1		2026-10-21T07:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/haigle/dwagger/dwagger/0.0.1/dwagger-0.0.1.jar returned status 404
 0.0.2		2026-10-21T09:27:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/haigle/dwagger/dwagger/0.0.2/dwagger-0.0.2.jar returned status 404
+0.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/haigle/dwagger/dwagger/0.0.3/dwagger-0.0.3.jar returned status 404
