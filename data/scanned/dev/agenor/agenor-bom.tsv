@@ -2,3 +2,4 @@
 0.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/agenor/agenor-bom/0.35.0/agenor-bom-0.35.0.jar returned status 404
 0.36.0		2026-10-07T11:03:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/agenor/agenor-bom/0.36.0/agenor-bom-0.36.0.jar returned status 404
 0.37.0		2026-10-14T22:36:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/agenor/agenor-bom/0.37.0/agenor-bom-0.37.0.jar returned status 404
+0.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/agenor/agenor-bom/0.38.0/agenor-bom-0.38.0.jar returned status 404
