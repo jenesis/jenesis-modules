@@ -31,3 +31,4 @@
 2.3.0-alpha.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-eval-wasm-js/2.3.0-alpha.5/arrow-eval-wasm-js-2.3.0-alpha.5.jar returned status 404
 2.3.0-alpha.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-eval-wasm-js/2.3.0-alpha.6/arrow-eval-wasm-js-2.3.0-alpha.6.jar returned status 404
 2.3.0-alpha.7		2026-10-19T12:37:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-eval-wasm-js/2.3.0-alpha.7/arrow-eval-wasm-js-2.3.0-alpha.7.jar returned status 404
+2.3.0-alpha.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-eval-wasm-js/2.3.0-alpha.8/arrow-eval-wasm-js-2.3.0-alpha.8.jar returned status 404
