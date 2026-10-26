@@ -12,3 +12,4 @@
 3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/module/jackson-module-jsonSchema-parent/3.2.1/jackson-module-jsonSchema-parent-3.2.1.jar returned status 404
 3.2.2		2026-08-14T21:50:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/module/jackson-module-jsonSchema-parent/3.2.2/jackson-module-jsonSchema-parent-3.2.2.jar returned status 404
 3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/module/jackson-module-jsonSchema-parent/3.2.3/jackson-module-jsonSchema-parent-3.2.3.jar returned status 404
+3.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jackson/module/jackson-module-jsonSchema-parent/3.2.4/jackson-module-jsonSchema-parent-3.2.4.jar returned status 404
