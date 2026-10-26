@@ -4,7 +4,7 @@
 > _Java-native config, everything the JDK provides built in, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-10-22 16:29:55 UTC_  
-_Current chunk started: 2026-10-23 04:40:02 UTC_  
+_Current chunk started: 2026-10-26 10:29:39 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 941_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 19 067 733 |
-| Non-module artifacts | 16 976 462 |
+| Total artifacts scanned | 19 124 321 |
+| Non-module artifacts | 17 023 222 |
 | Modular artifacts | 1 733 786 |
 | Total automatic modules | 1 351 577 |
 | Total named modules | 382 209 |
 | Total named modules with module-info version | 290 245 |
-| Distinct Maven artifacts | 711 308 |
-| Distinct module names | 44 340 |
+| Distinct Maven artifacts | 711 309 |
+| Distinct module names | 44 358 |
 | Distinct automatic modules | 23 444 |
 | Distinct named modules | 19 342 |
 | Distinct named modules with module-info version | 14 203 |
@@ -42,7 +42,7 @@ Of those, **246** rows (55 distinct values) carry a version key that is not a va
 
 ### Republished JVM modules
 
-**15** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, the `java --list-modules` set) have been republished on Maven Central under some coordinate, across **827** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.
+**15** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, the `java --list-modules` set) have been republished on Maven Central under some coordinate, across **831** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.
 
 ## Type breakdown
 
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 1 998 | 884 | 1 114 |
-| New version rows | 2 895 | 1 431 | 1 464 |
-| Non-modular artifacts | 12 633 | - | - |
+| Modules with a publication | 650 | 294 | 356 |
+| New version rows | 872 | 448 | 424 |
+| Non-modular artifacts | 4 912 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-07 | `█`&nbsp;3 538 (7.1%) | `▓▓`&nbsp;5 573 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
 | 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 687 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 734 (86.0%) |
 | 2026-09 | `█`&nbsp;3 866 (10.6%) | `▓▓`&nbsp;6 679 (18.4%) | `░░░░░░░░`&nbsp;25 827 (71.0%) |
-| 2026-10 | `█`&nbsp;2 733 (8.6%) | `▓▓`&nbsp;5 109 (16.1%) | `░░░░░░░░`&nbsp;23 957 (75.3%) |
+| 2026-10 | `█`&nbsp;2 733 (9.3%) | `▓▓`&nbsp;5 109 (17.3%) | `░░░░░░░`&nbsp;21 635 (73.4%) |
 
 ## Naming patterns
 
@@ -175,7 +175,7 @@ How module names relate to their publishing groupId. "Competing groupIds" counts
 
 | Pattern | Modules |
 |---|---:|
-| Multiple competing groupIds in audit history | 4 351 |
+| Multiple competing groupIds in audit history | 4 352 |
 
 ### Leading dot-segments shared with the owning groupId
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 4 019 940 |
-| Incorrectly indexed (mis-stamped 404s) | 4 017 068 |
-| Genuine artifact errors | 2 872 |
+| Total failed coordinates | 4 044 054 |
+| Incorrectly indexed (mis-stamped 404s) | 4 040 860 |
+| Genuine artifact errors | 3 194 |
 
 ### Top 25 genuine error messages
 
@@ -211,9 +211,9 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 
 | Error message | Count |
 |---|---:|
-| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 652 |
+| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 972 |
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
-| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 530 |
+| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 532 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
@@ -306,11 +306,11 @@ Module names that have been published under the most different groupIds across h
 | Module | Distinct groupIds |
 |---|---:|
 | `com.google.gson` | 313 |
-| `com.fasterxml.jackson.databind` | 276 |
+| `com.fasterxml.jackson.databind` | 277 |
 | `com.fasterxml.jackson.core` | 241 |
 | `com.fasterxml.jackson.annotation [-jar-with-dependencies]` | 231 |
+| `org.slf4j` | 191 |
 | `com.fasterxml.jackson.annotation` | 190 |
-| `org.slf4j` | 190 |
 | `org.apache.logging.log4j` | 183 |
 | `kotlin.stdlib` | 154 |
 | `kotlin.stdlib.jdk8` | 137 |
