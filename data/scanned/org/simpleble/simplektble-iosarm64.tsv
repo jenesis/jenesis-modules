@@ -1,3 +1,26 @@
+1.2.1-dev100			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev100/simplektble-iosarm64-1.2.1-dev100.jar returned status 404
+1.2.1-dev103			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev103/simplektble-iosarm64-1.2.1-dev103.jar returned status 404
+1.2.1-dev104			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev104/simplektble-iosarm64-1.2.1-dev104.jar returned status 404
+1.2.1-dev105			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev105/simplektble-iosarm64-1.2.1-dev105.jar returned status 404
+1.2.1-dev106			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev106/simplektble-iosarm64-1.2.1-dev106.jar returned status 404
+1.2.1-dev114			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev114/simplektble-iosarm64-1.2.1-dev114.jar returned status 404
+1.2.1-dev115			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev115/simplektble-iosarm64-1.2.1-dev115.jar returned status 404
+1.2.1-dev116			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev116/simplektble-iosarm64-1.2.1-dev116.jar returned status 404
+1.2.1-dev121			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev121/simplektble-iosarm64-1.2.1-dev121.jar returned status 404
+1.2.1-dev122			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev122/simplektble-iosarm64-1.2.1-dev122.jar returned status 404
+1.2.1-dev124			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev124/simplektble-iosarm64-1.2.1-dev124.jar returned status 404
+1.2.1-dev125			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev125/simplektble-iosarm64-1.2.1-dev125.jar returned status 404
+1.2.1-dev126			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev126/simplektble-iosarm64-1.2.1-dev126.jar returned status 404
+1.2.1-dev129			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev129/simplektble-iosarm64-1.2.1-dev129.jar returned status 404
+1.2.1-dev131			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev131/simplektble-iosarm64-1.2.1-dev131.jar returned status 404
+1.2.1-dev132			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev132/simplektble-iosarm64-1.2.1-dev132.jar returned status 404
+1.2.1-dev135			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev135/simplektble-iosarm64-1.2.1-dev135.jar returned status 404
+1.2.1-dev136			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev136/simplektble-iosarm64-1.2.1-dev136.jar returned status 404
+1.2.1-dev137			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev137/simplektble-iosarm64-1.2.1-dev137.jar returned status 404
+1.2.1-dev140			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev140/simplektble-iosarm64-1.2.1-dev140.jar returned status 404
+1.2.1-dev145			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev145/simplektble-iosarm64-1.2.1-dev145.jar returned status 404
+1.2.1-dev153			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev153/simplektble-iosarm64-1.2.1-dev153.jar returned status 404
+1.2.1-dev165			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev165/simplektble-iosarm64-1.2.1-dev165.jar returned status 404
 1.2.1-dev90		2026-10-17T20:27:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev90/simplektble-iosarm64-1.2.1-dev90.jar returned status 404
 1.2.1-dev90	metadata	2026-10-17T20:27:53Z	
 1.2.1-dev94		2026-10-17T21:56:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simplektble-iosarm64/1.2.1-dev94/simplektble-iosarm64-1.2.1-dev94.jar returned status 404
