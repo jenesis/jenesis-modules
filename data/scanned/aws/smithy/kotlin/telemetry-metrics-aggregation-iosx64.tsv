@@ -2,3 +2,4 @@
 1.7.11	metadata	2026-09-18T20:57:10Z	
 1.7.12		2026-10-21T17:13:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/telemetry-metrics-aggregation-iosx64/1.7.12/telemetry-metrics-aggregation-iosx64-1.7.12.jar returned status 404
 1.7.12	metadata	2026-10-21T17:13:32Z	
+1.7.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/telemetry-metrics-aggregation-iosx64/1.7.13/telemetry-metrics-aggregation-iosx64-1.7.13.jar returned status 404

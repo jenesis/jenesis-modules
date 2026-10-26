@@ -1311,3 +1311,9 @@
 13.10.3	automatic	org.flywaydb	flyway-command-mcp	2026-10-15T14:42:37Z	
 13.10.3	automatic	org.flywaydb	flyway-command-test-connection	2026-10-15T14:42:37Z	
 13.10.3	automatic	org.flywaydb	flyway-locations-s3	2026-10-15T14:42:37Z	
+13.11.0	automatic	org.flywaydb	flyway-command-mcp	2026-10-21T14:37:11Z	
+13.11.0	automatic	org.flywaydb	flyway-command-test-connection	2026-10-21T14:37:11Z	
+13.11.0	automatic	org.flywaydb	flyway-locations-s3	2026-10-21T14:37:12Z	
+13.11.1	automatic	org.flywaydb	flyway-command-mcp	2026-10-21T16:18:07Z	
+13.11.1	automatic	org.flywaydb	flyway-command-test-connection	2026-10-21T16:18:07Z	
+13.11.1	automatic	org.flywaydb	flyway-locations-s3	2026-10-21T16:18:07Z	

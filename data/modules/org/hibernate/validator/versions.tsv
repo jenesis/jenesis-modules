@@ -550,3 +550,5 @@
 9.2.0.Beta1	named	org.hibernate.validator	hibernate-validator	2026-10-13T14:21:56Z	9.2.0.Beta1
 2.4.0	named	com.guicedee.modules.services	hibernate-validator	2026-10-14T21:01:25Z	2.4.0
 2.4.1	named	com.guicedee.modules.services	hibernate-validator	2026-10-16T13:21:11Z	2.4.1
+7.0.6.Final	automatic	org.hibernate.validator	hibernate-validator	2026-10-19T21:02:42Z	
+7.0.7.Final	automatic	org.hibernate.validator	hibernate-validator	2026-10-25T15:07:04Z	

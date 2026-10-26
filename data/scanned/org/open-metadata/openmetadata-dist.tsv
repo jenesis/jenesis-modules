@@ -201,4 +201,5 @@
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/2.0.3/openmetadata-dist-2.0.3.jar returned status 404
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/2.0.4/openmetadata-dist-2.0.4.jar returned status 404
 2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/2.0.5/openmetadata-dist-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/2.0.6/openmetadata-dist-2.0.6.jar returned status 404
 DEMO_BETA1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-dist/DEMO_BETA1/openmetadata-dist-DEMO_BETA1.jar returned status 404
