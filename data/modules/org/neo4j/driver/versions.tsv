@@ -254,3 +254,4 @@
 6.3.0	named	org.neo4j.driver	neo4j-java-driver-all	2026-09-23T16:07:07Z	6.3.0
 6.1.0-s_2.13	named	org.neo4j.connectors	spark	2026-10-02T11:17:02Z	6.3.0
 6.1.1-s_2.13	named	org.neo4j.connectors	spark	2026-10-14T15:06:02Z	6.3.0
+6.1.2-s_2.13	named	org.neo4j.connectors	spark	2026-10-22T16:43:08Z	6.3.0
