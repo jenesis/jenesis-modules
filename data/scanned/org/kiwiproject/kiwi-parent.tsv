@@ -86,6 +86,7 @@
 3.0.43		2026-08-16T20:00:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/kiwi-parent/3.0.43/kiwi-parent-3.0.43.jar returned status 404
 3.0.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/kiwi-parent/3.0.44/kiwi-parent-3.0.44.jar returned status 404
 3.0.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/kiwi-parent/3.0.45/kiwi-parent-3.0.45.jar returned status 404
+3.0.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/kiwi-parent/3.0.46/kiwi-parent-3.0.46.jar returned status 404
 3.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/kiwi-parent/3.0.5/kiwi-parent-3.0.5.jar returned status 404
 3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/kiwi-parent/3.0.6/kiwi-parent-3.0.6.jar returned status 404
 3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/kiwiproject/kiwi-parent/3.0.7/kiwi-parent-3.0.7.jar returned status 404

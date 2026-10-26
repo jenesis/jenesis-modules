@@ -61,6 +61,8 @@
 4.0.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/byteman/byteman-root/4.0.25/byteman-root-4.0.25.jar returned status 404
 4.0.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/byteman/byteman-root/4.0.26/byteman-root-4.0.26.jar returned status 404
 4.0.27		2026-06-15T16:02:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/byteman/byteman-root/4.0.27/byteman-root-4.0.27.jar returned status 404
+4.0.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/byteman/byteman-root/4.0.28/byteman-root-4.0.28.jar returned status 404
+4.0.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/byteman/byteman-root/4.0.28.1/byteman-root-4.0.28.1.jar returned status 404
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/byteman/byteman-root/4.0.3/byteman-root-4.0.3.jar returned status 404
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/byteman/byteman-root/4.0.4/byteman-root-4.0.4.jar returned status 404
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/byteman/byteman-root/4.0.5/byteman-root-4.0.5.jar returned status 404

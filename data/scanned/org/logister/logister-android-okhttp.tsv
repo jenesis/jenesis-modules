@@ -1,2 +1,3 @@
 0.6.0		2026-09-24T22:21:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/logister/logister-android-okhttp/0.6.0/logister-android-okhttp-0.6.0.jar returned status 404
 0.6.1		2026-09-28T18:16:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/logister/logister-android-okhttp/0.6.1/logister-android-okhttp-0.6.1.jar returned status 404
+0.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/logister/logister-android-okhttp/0.7.0/logister-android-okhttp-0.7.0.jar returned status 404

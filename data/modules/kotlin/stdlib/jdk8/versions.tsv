@@ -1943,5 +1943,6 @@ wire-hashing	named	io.github.graphdsl	graphdsl-gradle-plugin	2026-09-25T18:21:16
 3.10.16	named	com.aliyun.odps	odps-jdbc	2026-10-20T10:32:05Z	
 3.0.0-rc.2	named	com.airbnb.viaduct	buildtime	2026-10-20T23:11:52Z	
 3.0.0-rc.2	named	com.airbnb.viaduct	javaapi-buildtime	2026-10-20T23:11:52Z	
+2.5.0-Beta2	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-10-21T08:46:54Z	
 3.0.0	named	com.airbnb.viaduct	buildtime	2026-10-21T16:02:15Z	
 3.0.0	named	com.airbnb.viaduct	javaapi-buildtime	2026-10-21T16:02:16Z	
