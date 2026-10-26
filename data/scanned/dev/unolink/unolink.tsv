@@ -2,3 +2,4 @@
 0.1.1		2026-10-15T13:05:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/unolink/unolink/0.1.1/unolink-0.1.1.jar returned status 404
 0.2.0		2026-10-19T15:02:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/unolink/unolink/0.2.0/unolink-0.2.0.jar returned status 404
 0.2.1		2026-10-19T16:06:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/unolink/unolink/0.2.1/unolink-0.2.1.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/unolink/unolink/0.3.0/unolink-0.3.0.jar returned status 404

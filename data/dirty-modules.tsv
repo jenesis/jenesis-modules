@@ -4751,3 +4751,12 @@ dev.cronwatch.servlet
 dev.cronwatch.spring
 dev.cronwatch
 dev.resteasy.providers.jackson
+dev.agenor.autoconfigure
+dev.agenor.runtime.scanning
+dev.agenor.runtime.llm
+dev.agenor.runtime
+dev.agenor.core
+dev.agenor.runtime.ext
+dev.agenor.tools
+dev.agenor.adapters
+dev.agenor.adapters.persistence
