@@ -12,6 +12,7 @@
 1.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads-backfill/1.14.0/adrop-ads-backfill-1.14.0.jar returned status 404
 1.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads-backfill/1.15.0/adrop-ads-backfill-1.15.0.jar returned status 404
 1.16.0		2026-10-19T05:21:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads-backfill/1.16.0/adrop-ads-backfill-1.16.0.jar returned status 404
+1.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads-backfill/1.16.1/adrop-ads-backfill-1.16.1.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads-backfill/1.7.0/adrop-ads-backfill-1.7.0.jar returned status 404
 1.7.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads-backfill/1.7.0-alpha02/adrop-ads-backfill-1.7.0-alpha02.jar returned status 404
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/adrop/adrop-ads-backfill/1.7.1/adrop-ads-backfill-1.7.1.jar returned status 404

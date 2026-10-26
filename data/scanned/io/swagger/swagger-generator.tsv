@@ -59,6 +59,7 @@
 2.4.50		2025-11-24T13:09:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/swagger-generator/2.4.50/swagger-generator-2.4.50.jar returned status 404
 2.4.51		2026-03-12T10:28:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/swagger-generator/2.4.51/swagger-generator-2.4.51.jar returned status 404
 2.4.52		2026-04-15T13:43:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/swagger-generator/2.4.52/swagger-generator-2.4.52.jar returned status 404
+2.4.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/swagger-generator/2.4.53/swagger-generator-2.4.53.jar returned status 404
 2.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/swagger-generator/2.4.6/swagger-generator-2.4.6.jar returned status 404
 2.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/swagger-generator/2.4.7/swagger-generator-2.4.7.jar returned status 404
 2.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/swagger/swagger-generator/2.4.8/swagger-generator-2.4.8.jar returned status 404

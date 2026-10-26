@@ -302,6 +302,7 @@
 2.2.39.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.2.39.Final/undertow-parent-2.2.39.Final.jar returned status 404
 2.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.2.4.Final/undertow-parent-2.2.4.Final.jar returned status 404
 2.2.40.Final		2026-06-27T01:30:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.2.40.Final/undertow-parent-2.2.40.Final.jar returned status 404
+2.2.41.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.2.41.Final/undertow-parent-2.2.41.Final.jar returned status 404
 2.2.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.2.5.Final/undertow-parent-2.2.5.Final.jar returned status 404
 2.2.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.2.6.Final/undertow-parent-2.2.6.Final.jar returned status 404
 2.2.7.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.2.7.Final/undertow-parent-2.2.7.Final.jar returned status 404
@@ -330,6 +331,7 @@
 2.3.24.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.3.24.Final/undertow-parent-2.3.24.Final.jar returned status 404
 2.3.25.Final		2026-06-27T01:30:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.3.25.Final/undertow-parent-2.3.25.Final.jar returned status 404
 2.3.26.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.3.26.Final/undertow-parent-2.3.26.Final.jar returned status 404
+2.3.27.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.3.27.Final/undertow-parent-2.3.27.Final.jar returned status 404
 2.3.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.3.3.Final/undertow-parent-2.3.3.Final.jar returned status 404
 2.3.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.3.4.Final/undertow-parent-2.3.4.Final.jar returned status 404
 2.3.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/undertow/undertow-parent/2.3.5.Final/undertow-parent-2.3.5.Final.jar returned status 404
