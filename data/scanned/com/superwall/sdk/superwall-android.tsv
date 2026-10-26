@@ -115,3 +115,4 @@
 2.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-android/2.8.5/superwall-android-2.8.5.jar returned status 404
 2.8.6		2026-10-19T14:26:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-android/2.8.6/superwall-android-2.8.6.jar returned status 404
 2.8.7		2026-10-19T16:46:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-android/2.8.7/superwall-android-2.8.7.jar returned status 404
+2.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-android/2.8.8/superwall-android-2.8.8.jar returned status 404
