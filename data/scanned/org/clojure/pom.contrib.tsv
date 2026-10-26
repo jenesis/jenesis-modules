@@ -33,3 +33,4 @@
 1.4.2		2026-07-02T13:45:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/clojure/pom.contrib/1.4.2/pom.contrib-1.4.2.jar returned status 404
 1.4.3		2026-07-02T15:07:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/clojure/pom.contrib/1.4.3/pom.contrib-1.4.3.jar returned status 404
 1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/clojure/pom.contrib/1.4.4/pom.contrib-1.4.4.jar returned status 404
+1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/clojure/pom.contrib/1.4.5/pom.contrib-1.4.5.jar returned status 404

@@ -153,6 +153,8 @@
 4.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.28.0/cq-4.28.0.jar returned status 404
 4.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.28.1/cq-4.28.1.jar returned status 404
 4.28.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.28.3/cq-4.28.3.jar returned status 404
+4.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.29.0/cq-4.29.0.jar returned status 404
+4.29.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.29.1/cq-4.29.1.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.3.0/cq-4.3.0.jar returned status 404
 4.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.4.0/cq-4.4.0.jar returned status 404
 4.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/l2x6/cq/cq/4.4.1/cq-4.4.1.jar returned status 404
