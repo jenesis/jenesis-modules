@@ -30,3 +30,5 @@
 4.1.0	metadata	2026-10-01T03:41:22Z	
 4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-datetime-iosarm64/4.1.1/format-datetime-iosarm64-4.1.1.jar returned status 404
 4.1.1	metadata	2026-10-14T22:25:02Z	
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-datetime-iosarm64/4.2.0/format-datetime-iosarm64-4.2.0.jar returned status 404
+4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/aughtone/format-datetime-iosarm64/4.2.1/format-datetime-iosarm64-4.2.1.jar returned status 404

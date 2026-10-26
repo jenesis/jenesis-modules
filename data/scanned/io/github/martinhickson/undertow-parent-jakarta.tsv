@@ -1,1 +1,2 @@
 2.2.19-bravura-14		2026-10-09T02:46:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/martinhickson/undertow-parent-jakarta/2.2.19-bravura-14/undertow-parent-jakarta-2.2.19-bravura-14.jar returned status 404
+2.2.19-bravura-15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/martinhickson/undertow-parent-jakarta/2.2.19-bravura-15/undertow-parent-jakarta-2.2.19-bravura-15.jar returned status 404
