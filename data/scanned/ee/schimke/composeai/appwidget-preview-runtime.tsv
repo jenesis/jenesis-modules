@@ -339,6 +339,7 @@
 2.61.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/appwidget-preview-runtime/2.61.2/appwidget-preview-runtime-2.61.2.jar returned status 404
 2.69.3		2026-10-19T21:56:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/appwidget-preview-runtime/2.69.3/appwidget-preview-runtime-2.69.3.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/appwidget-preview-runtime/2.7.0/appwidget-preview-runtime-2.7.0.jar returned status 404
+2.72.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/appwidget-preview-runtime/2.72.0/appwidget-preview-runtime-2.72.0.jar returned status 404
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/appwidget-preview-runtime/2.8.0/appwidget-preview-runtime-2.8.0.jar returned status 404
 2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/appwidget-preview-runtime/2.8.1/appwidget-preview-runtime-2.8.1.jar returned status 404
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/appwidget-preview-runtime/2.9.0/appwidget-preview-runtime-2.9.0.jar returned status 404
