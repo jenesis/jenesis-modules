@@ -148,6 +148,8 @@
 4.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/arsceneview/4.6.1/arsceneview-4.6.1.jar returned status 404
 4.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/arsceneview/4.6.2/arsceneview-4.6.2.jar returned status 404
 4.60.0		2026-10-19T11:57:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/arsceneview/4.60.0/arsceneview-4.60.0.jar returned status 404
+4.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/arsceneview/4.61.0/arsceneview-4.61.0.jar returned status 404
+4.62.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/arsceneview/4.62.0/arsceneview-4.62.0.jar returned status 404
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/arsceneview/4.7.0/arsceneview-4.7.0.jar returned status 404
 4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/arsceneview/4.8.0/arsceneview-4.8.0.jar returned status 404
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/arsceneview/4.9.0/arsceneview-4.9.0.jar returned status 404
