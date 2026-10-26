@@ -24,6 +24,7 @@
 10.24.0.33043			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/10.24.0.33043/javascript-10.24.0.33043.jar returned status 404
 10.25.0.33900			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/10.25.0.33900/javascript-10.25.0.33900.jar returned status 404
 10.26.0.35551			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/10.26.0.35551/javascript-10.26.0.35551.jar returned status 404
+10.26.1.46360			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/10.26.1.46360/javascript-10.26.1.46360.jar returned status 404
 10.3.0.21893			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/10.3.0.21893/javascript-10.3.0.21893.jar returned status 404
 10.3.1.21905			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/10.3.1.21905/javascript-10.3.1.21905.jar returned status 404
 10.3.2.22047			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/10.3.2.22047/javascript-10.3.2.22047.jar returned status 404
@@ -46,6 +47,7 @@
 11.7.1.36988			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/11.7.1.36988/javascript-11.7.1.36988.jar returned status 404
 11.8.0.37897			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/11.8.0.37897/javascript-11.8.0.37897.jar returned status 404
 11.8.1.44439		2026-08-20T15:09:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/11.8.1.44439/javascript-11.8.1.44439.jar returned status 404
+11.8.2.46362			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/11.8.2.46362/javascript-11.8.2.46362.jar returned status 404
 12.0.0.38664			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/12.0.0.38664/javascript-12.0.0.38664.jar returned status 404
 12.1.0.39434			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/12.1.0.39434/javascript-12.1.0.39434.jar returned status 404
 12.2.0.39785			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/12.2.0.39785/javascript-12.2.0.39785.jar returned status 404
@@ -64,6 +66,8 @@
 13.9.0.44793			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/13.9.0.44793/javascript-13.9.0.44793.jar returned status 404
 14.0.0.46108			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/14.0.0.46108/javascript-14.0.0.46108.jar returned status 404
 14.1.0.46226			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/14.1.0.46226/javascript-14.1.0.46226.jar returned status 404
+14.2.0.46309			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/14.2.0.46309/javascript-14.2.0.46309.jar returned status 404
+14.3.0.46350			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/14.3.0.46350/javascript-14.3.0.46350.jar returned status 404
 2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/2.10/javascript-2.10.jar returned status 404
 2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/2.11/javascript-2.11.jar returned status 404
 2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/javascript/javascript/2.12/javascript-2.12.jar returned status 404

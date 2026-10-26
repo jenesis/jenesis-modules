@@ -122,5 +122,6 @@
 8.42.0.47616			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/it-java-plugin-plugins/8.42.0.47616/it-java-plugin-plugins-8.42.0.47616.jar returned status 404
 8.43.0.47668			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/it-java-plugin-plugins/8.43.0.47668/it-java-plugin-plugins-8.43.0.47668.jar returned status 404
 8.44.0.48651			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/it-java-plugin-plugins/8.44.0.48651/it-java-plugin-plugins-8.44.0.48651.jar returned status 404
+8.45.0.59462			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/it-java-plugin-plugins/8.45.0.59462/it-java-plugin-plugins-8.45.0.59462.jar returned status 404
 8.9.3.40165			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/it-java-plugin-plugins/8.9.3.40165/it-java-plugin-plugins-8.9.3.40165.jar returned status 404
 8.9.4.40912			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/java/it-java-plugin-plugins/8.9.4.40912/it-java-plugin-plugins-8.9.4.40912.jar returned status 404
