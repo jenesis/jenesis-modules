@@ -1069,6 +1069,7 @@
 2.4.1	named	com.networknt	codegen-cli	2026-10-11T22:56:02Z	2.18.0
 1.0.3	named	io.github.dawnuu	aabresguard-core	2026-10-13T13:42:00Z	2.18.0
 1.1.0	named	io.github.dawnuu	andresguard-core	2026-10-14T11:21:16Z	2.18.0
+1.22.25	named	org.apache.jackrabbit	oak-run	2026-10-15T15:45:42Z	2.21.0
 1.1.1	named	io.github.dawnuu	andresguard-core	2026-10-16T03:22:46Z	2.18.0
 4.18.1.2	named	io.streamnative	distributedlog-core-shaded	2026-10-17T03:26:29Z	2.19.0
 1.1.2	named	org.apache.hudi	hudi-aws-bundle	2026-10-17T07:42:09Z	2.14.0
@@ -1078,5 +1079,6 @@
 1.1.2	named	org.apache.hudi	hudi-flink1.20-bundle	2026-10-17T08:25:53Z	2.14.0
 0.5.0-beta-2026-10-17	named	io.youtrackdb	youtrackdb-embedded	2026-10-17T09:26:29Z	2.22.0
 1.1.2	named	org.apache.hudi	hudi-flink2.0-bundle	2026-10-17T10:15:04Z	2.14.0
+4.18.2	named	org.apache.distributedlog	distributedlog-core-shaded	2026-10-17T16:52:10Z	2.19.0
 3.2.2	named	org.utplsql	utplsql-maven-plugin	2026-10-17T22:51:26Z	2.22.0
 1.146.0	named	no.entur	schema2proto-lib	2026-10-19T03:11:21Z	2.22.0

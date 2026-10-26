@@ -431,3 +431,4 @@
 2.1.0	named	org.apache.paimon	paimon-spark-3.5_2.12	2026-10-08T18:28:41Z	2.2.0
 2.1.0	named	org.apache.paimon	paimon-spark-3.4_2.12	2026-10-08T18:28:58Z	2.2.0
 2.1.0	named	org.apache.paimon	paimon-spark3-common_2.12	2026-10-08T18:29:14Z	2.2.0
+4.1.0	named	org.apache.doris	hive-catalog-shade	2026-10-15T03:38:33Z	2.2.0

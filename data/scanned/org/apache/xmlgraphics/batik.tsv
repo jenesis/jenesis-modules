@@ -8,4 +8,5 @@
 1.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/xmlgraphics/batik/1.17/batik-1.17.jar returned status 404
 1.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/xmlgraphics/batik/1.18/batik-1.18.jar returned status 404
 1.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/xmlgraphics/batik/1.19/batik-1.19.jar returned status 404
+1.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/xmlgraphics/batik/1.20/batik-1.20.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/xmlgraphics/batik/1.9.1/batik-1.9.1.jar returned status 404
