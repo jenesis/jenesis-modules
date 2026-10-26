@@ -1948,3 +1948,4 @@ wire-hashing	named	io.github.graphdsl	graphdsl-gradle-plugin	2026-09-25T18:21:16
 3.0.0	named	com.airbnb.viaduct	javaapi-buildtime	2026-10-21T16:02:16Z	
 7.8.4	named	com.newrelic.agent.android	agent-gradle-plugin	2026-10-22T14:42:29Z	
 7.8.4	named	com.newrelic.agent.android	agent-gradle-plugin-static	2026-10-22T14:42:29Z	
+1.79.0	named	com.google.genai	google-genai	2026-10-23T00:45:13Z	

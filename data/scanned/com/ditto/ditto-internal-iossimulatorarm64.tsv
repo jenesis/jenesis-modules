@@ -270,6 +270,7 @@
 5.2.0-preview.5	metadata	2026-10-05T07:51:14Z	
 5.2.0-rc.1		2026-10-21T05:32:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iossimulatorarm64/5.2.0-rc.1/ditto-internal-iossimulatorarm64-5.2.0-rc.1.jar returned status 404
 5.2.0-rc.1	metadata	2026-10-21T05:32:00Z	
+5.2.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iossimulatorarm64/5.2.0-rc.2/ditto-internal-iossimulatorarm64-5.2.0-rc.2.jar returned status 404
 5.3.0-dev-test-puro.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iossimulatorarm64/5.3.0-dev-test-puro.1/ditto-internal-iossimulatorarm64-5.3.0-dev-test-puro.1.jar returned status 404
 5.3.0-dev-test-puro.1	metadata	2026-10-14T20:06:23Z	
 5.3.0-dev-weekly.20261019.2871		2026-10-20T06:58:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/ditto-internal-iossimulatorarm64/5.3.0-dev-weekly.20261019.2871/ditto-internal-iossimulatorarm64-5.3.0-dev-weekly.20261019.2871.jar returned status 404

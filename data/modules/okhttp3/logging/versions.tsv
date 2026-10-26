@@ -105,3 +105,5 @@ main	named	com.ibm.cloud	continuous-delivery-examples	2026-06-04T19:57:35Z
 0.30.0	named	com.ibm.cloud	is-examples	2026-09-10T13:47:46Z	
 6.0.7	named	com.ibm.cloud	code-engine-examples	2026-09-15T08:26:38Z	
 6.0.9	named	com.ibm.cloud	code-engine-examples	2026-10-21T07:32:09Z	
+5.5.1	named	com.squareup.okhttp3	logging-interceptor	2026-10-22T02:47:15Z	
+4.12.1	automatic	com.squareup.okhttp3	logging-interceptor	2026-10-22T12:28:05Z	
