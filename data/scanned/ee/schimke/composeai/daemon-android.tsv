@@ -365,6 +365,19 @@
 3.20.0		2026-10-19T15:36:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.20.0/daemon-android-3.20.0.jar returned status 404
 3.20.1		2026-10-19T19:09:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.20.1/daemon-android-3.20.1.jar returned status 404
 3.21.0		2026-10-19T20:37:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.21.0/daemon-android-3.21.0.jar returned status 404
+3.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.21.1/daemon-android-3.21.1.jar returned status 404
+3.21.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.21.2/daemon-android-3.21.2.jar returned status 404
+3.21.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.21.3/daemon-android-3.21.3.jar returned status 404
+3.21.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.21.4/daemon-android-3.21.4.jar returned status 404
+3.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.22.0/daemon-android-3.22.0.jar returned status 404
+3.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.23.0/daemon-android-3.23.0.jar returned status 404
+3.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.24.0/daemon-android-3.24.0.jar returned status 404
+3.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.24.1/daemon-android-3.24.1.jar returned status 404
+3.24.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.24.2/daemon-android-3.24.2.jar returned status 404
+3.24.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.24.3/daemon-android-3.24.3.jar returned status 404
+3.24.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.24.4/daemon-android-3.24.4.jar returned status 404
+3.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.25.0/daemon-android-3.25.0.jar returned status 404
+3.25.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.25.1/daemon-android-3.25.1.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.3.0/daemon-android-3.3.0.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.4.0/daemon-android-3.4.0.jar returned status 404
 3.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/daemon-android/3.4.1/daemon-android-3.4.1.jar returned status 404

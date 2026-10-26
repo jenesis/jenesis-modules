@@ -1812,3 +1812,12 @@ org.json
 io.netty.handler
 roaringbitmap
 codegen
+build.jenesis.launcher
+sh.basaltic.sdk
+church.i18n.response
+church.i18n.response.spring.webmvc
+church.i18n.resources.bundles
+church.i18n.response.model.jackson
+church.i18n.processing.exception
+church.i18n.response.spring
+cz.skyba.taglib
