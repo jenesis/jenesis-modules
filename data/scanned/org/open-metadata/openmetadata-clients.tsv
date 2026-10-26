@@ -202,4 +202,5 @@
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-clients/2.0.3/openmetadata-clients-2.0.3.jar returned status 404
 2.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-clients/2.0.4/openmetadata-clients-2.0.4.jar returned status 404
 2.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-clients/2.0.5/openmetadata-clients-2.0.5.jar returned status 404
+2.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-clients/2.0.6/openmetadata-clients-2.0.6.jar returned status 404
 DEMO_BETA1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/open-metadata/openmetadata-clients/DEMO_BETA1/openmetadata-clients-DEMO_BETA1.jar returned status 404

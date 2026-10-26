@@ -209,3 +209,4 @@
 3.3.3	named	org.apache.tika	tika-fetcher-microsoft-graph	2026-10-09T21:00:40Z	4.2.18.Final
 3.3.3	named	org.apache.tika	tika-emitter-az-blob	2026-10-09T21:02:21Z	4.2.18.Final
 3.3.3	named	org.apache.tika	tika-pipes-iterator-az-blob	2026-10-09T21:04:25Z	4.2.18.Final
+5.2.0	named	org.openidentityplatform.opendj	opendj-embedded-server-examples	2026-10-21T15:42:02Z	4.2.18.Final

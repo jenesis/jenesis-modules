@@ -7499,3 +7499,5 @@ v0.0.21	named	com.grafana	grafana-foundation-sdk	2026-10-16T13:12:41Z	2.19.1
 42.7	named	io.deephaven	deephaven-oidc-authentication-provider	2026-10-19T20:12:14Z	2.14.0
 1.14.5	named	com.ratepay.sdk	ratepay-sdk-core	2026-10-20T14:48:11Z	2.22.1
 5.10	named	org.jboss.pnc.maven-manipulator	pom-manipulation-ext	2026-10-22T18:56:21Z	2.22.3
+2.1.6	named	org.operaton.spin	operaton-spin-dataformat-all	2026-10-23T10:22:35Z	2.21.8
+2.2.0	named	org.operaton.spin	operaton-spin-dataformat-all	2026-10-23T10:27:10Z	2.22.4

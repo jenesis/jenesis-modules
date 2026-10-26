@@ -1,6 +1,7 @@
 17.7.6-20260815		2026-08-15T01:57:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/17.7.6-20260815/anyline-data-dialect-ai-17.7.6-20260815.jar returned status 404
 17.7.6-20260930			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/17.7.6-20260930/anyline-data-dialect-ai-17.7.6-20260930.jar returned status 404
 17.7.6-20261010			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/17.7.6-20261010/anyline-data-dialect-ai-17.7.6-20261010.jar returned status 404
+17.7.6-20261020			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/17.7.6-20261020/anyline-data-dialect-ai-17.7.6-20261020.jar returned status 404
 8.7.2-20251010			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/8.7.2-20251010/anyline-data-dialect-ai-8.7.2-20251010.jar returned status 404
 8.7.2-20251011			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/8.7.2-20251011/anyline-data-dialect-ai-8.7.2-20251011.jar returned status 404
 8.7.2-20251111			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/8.7.2-20251111/anyline-data-dialect-ai-8.7.2-20251111.jar returned status 404
@@ -116,4 +117,5 @@
 8.7.6-20260815		2026-08-15T01:48:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/8.7.6-20260815/anyline-data-dialect-ai-8.7.6-20260815.jar returned status 404
 8.7.6-20260930			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/8.7.6-20260930/anyline-data-dialect-ai-8.7.6-20260930.jar returned status 404
 8.7.6-20261010			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/8.7.6-20261010/anyline-data-dialect-ai-8.7.6-20261010.jar returned status 404
+8.7.6-20261020			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/8.7.6-20261020/anyline-data-dialect-ai-8.7.6-20261020.jar returned status 404
 9.7.6-20260806		2026-08-06T03:19:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/anyline/anyline-data-dialect-ai/9.7.6-20260806/anyline-data-dialect-ai-9.7.6-20260806.jar returned status 404
