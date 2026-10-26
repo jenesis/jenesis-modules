@@ -1,1 +1,4 @@
 23751		2026-10-20T21:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/mt-mods/basic_materials/23751/basic_materials-23751.jar returned status 404
+23751.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/mt-mods/basic_materials/23751.1/basic_materials-23751.1.jar returned status 404
+38908			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/mt-mods/basic_materials/38908/basic_materials-38908.jar returned status 404
+38908.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/mt-mods/basic_materials/38908.1/basic_materials-38908.1.jar returned status 404

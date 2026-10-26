@@ -4,6 +4,7 @@
 2.10.0		2026-10-18T23:41:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-spring-modulith-example/2.10.0/jme-spring-modulith-example-2.10.0.jar returned status 404
 2.11.0		2026-10-20T07:07:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-spring-modulith-example/2.11.0/jme-spring-modulith-example-2.11.0.jar returned status 404
 2.12.0		2026-10-22T05:26:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-spring-modulith-example/2.12.0/jme-spring-modulith-example-2.12.0.jar returned status 404
+2.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-spring-modulith-example/2.13.0/jme-spring-modulith-example-2.13.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-spring-modulith-example/2.2.0/jme-spring-modulith-example-2.2.0.jar returned status 404
 2.3.0		2026-10-05T23:45:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-spring-modulith-example/2.3.0/jme-spring-modulith-example-2.3.0.jar returned status 404
 2.4.0		2026-10-06T23:51:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-spring-modulith-example/2.4.0/jme-spring-modulith-example-2.4.0.jar returned status 404

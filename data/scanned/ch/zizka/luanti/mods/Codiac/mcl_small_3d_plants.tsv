@@ -1,1 +1,2 @@
 35229		2026-10-20T21:32:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Codiac/mcl_small_3d_plants/35229/mcl_small_3d_plants-35229.jar returned status 404
+35229.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Codiac/mcl_small_3d_plants/35229.1/mcl_small_3d_plants-35229.1.jar returned status 404

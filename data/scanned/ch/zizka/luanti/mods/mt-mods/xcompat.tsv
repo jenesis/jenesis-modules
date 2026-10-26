@@ -1,1 +1,4 @@
 35043		2026-10-20T21:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/mt-mods/xcompat/35043/xcompat-35043.jar returned status 404
+35043.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/mt-mods/xcompat/35043.1/xcompat-35043.1.jar returned status 404
+38678			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/mt-mods/xcompat/38678/xcompat-38678.jar returned status 404
+38678.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/mt-mods/xcompat/38678.1/xcompat-38678.1.jar returned status 404

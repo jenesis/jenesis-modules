@@ -1,1 +1,2 @@
 33232		2026-10-22T07:07:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/apercy/savoia_s21/33232/savoia_s21-33232.jar returned status 404
+33232.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/apercy/savoia_s21/33232.1/savoia_s21-33232.1.jar returned status 404

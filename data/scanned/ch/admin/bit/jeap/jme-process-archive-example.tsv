@@ -11,6 +11,7 @@
 4.13.0		2026-10-18T23:36:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.13.0/jme-process-archive-example-4.13.0.jar returned status 404
 4.14.0		2026-10-20T06:58:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.14.0/jme-process-archive-example-4.14.0.jar returned status 404
 4.15.0		2026-10-22T05:26:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.15.0/jme-process-archive-example-4.15.0.jar returned status 404
+4.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.16.0/jme-process-archive-example-4.16.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.2.0/jme-process-archive-example-4.2.0.jar returned status 404
 4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.3.0/jme-process-archive-example-4.3.0.jar returned status 404
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-archive-example/4.5.0/jme-process-archive-example-4.5.0.jar returned status 404

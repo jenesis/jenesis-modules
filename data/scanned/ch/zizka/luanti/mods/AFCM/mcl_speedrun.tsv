@@ -1,1 +1,2 @@
 11927		2026-10-22T07:07:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/AFCM/mcl_speedrun/11927/mcl_speedrun-11927.jar returned status 404
+11927.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/AFCM/mcl_speedrun/11927.1/mcl_speedrun-11927.1.jar returned status 404

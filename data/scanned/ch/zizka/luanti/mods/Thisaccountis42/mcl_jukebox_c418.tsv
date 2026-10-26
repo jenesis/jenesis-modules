@@ -1,1 +1,2 @@
 16485		2026-10-20T21:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Thisaccountis42/mcl_jukebox_c418/16485/mcl_jukebox_c418-16485.jar returned status 404
+16485.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Thisaccountis42/mcl_jukebox_c418/16485.1/mcl_jukebox_c418-16485.1.jar returned status 404

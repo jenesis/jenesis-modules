@@ -1,1 +1,2 @@
 27926		2026-10-20T21:36:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/SFENCE/church/27926/church-27926.jar returned status 404
+27926.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/SFENCE/church/27926.1/church-27926.1.jar returned status 404

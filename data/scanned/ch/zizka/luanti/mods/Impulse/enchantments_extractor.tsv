@@ -1,1 +1,2 @@
 22596		2026-10-20T21:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Impulse/enchantments_extractor/22596/enchantments_extractor-22596.jar returned status 404
+22596.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Impulse/enchantments_extractor/22596.1/enchantments_extractor-22596.1.jar returned status 404

@@ -1,1 +1,2 @@
 30151		2026-10-20T21:36:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Calinou/moreores/30151/moreores-30151.jar returned status 404
+30151.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Calinou/moreores/30151.1/moreores-30151.1.jar returned status 404
