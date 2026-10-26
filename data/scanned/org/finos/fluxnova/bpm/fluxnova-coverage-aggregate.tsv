@@ -1,1 +1,2 @@
 3.1.0		2026-10-16T18:06:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/fluxnova-coverage-aggregate/3.1.0/fluxnova-coverage-aggregate-3.1.0.jar returned status 404
+3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/fluxnova/bpm/fluxnova-coverage-aggregate/3.1.1/fluxnova-coverage-aggregate-3.1.1.jar returned status 404

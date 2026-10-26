@@ -1,0 +1,12 @@
+org.springdoc.openapi.ui
+org.springdoc.openapi.common
+org.springdoc.openapi.webmvc.scalar
+org.springdoc.openapi.webflux.ui
+org.springdoc.openapi.webflux.core
+org.springdoc.openapi.webmvc.ai
+org.springdoc.openapi.webflux.scalar
+org.springdoc.openapi.ai.common
+org.springdoc.openapi.webmvc.core
+org.springdoc.openapi.webflux.ai
+org.applecommander.api
+org.jspecify

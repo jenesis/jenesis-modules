@@ -424,3 +424,9 @@
 0.234.0	shaded	2026-10-01T20:31:25Z	
 0.235.0			
 0.235.0	shaded	2026-10-13T21:29:44Z	
+0.235.1			
+0.235.2			
+0.235.3			
+0.236.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc-server-fs/0.236.0/legend-sdlc-server-fs-0.236.0.jar returned status 404
+0.237.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc-server-fs/0.237.0/legend-sdlc-server-fs-0.237.0.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/sdlc/legend-sdlc-server-fs/1.0.0/legend-sdlc-server-fs-1.0.0.jar returned status 404
