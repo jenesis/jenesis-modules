@@ -86,3 +86,4 @@
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/symphony/bdk/symphony-bdk-bom/4.0.1/symphony-bdk-bom-4.0.1.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/symphony/bdk/symphony-bdk-bom/4.1.0/symphony-bdk-bom-4.1.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/symphony/bdk/symphony-bdk-bom/4.2.0/symphony-bdk-bom-4.2.0.jar returned status 404
+4.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/symphony/bdk/symphony-bdk-bom/4.3.0/symphony-bdk-bom-4.3.0.jar returned status 404
