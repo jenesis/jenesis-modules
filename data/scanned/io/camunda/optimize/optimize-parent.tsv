@@ -25,6 +25,8 @@
 8.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.10.3/optimize-parent-8.10.3.jar returned status 404
 8.10.3-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.10.3-rc1/optimize-parent-8.10.3-rc1.jar returned status 404
 8.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.10.4/optimize-parent-8.10.4.jar returned status 404
+8.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.10.5/optimize-parent-8.10.5.jar returned status 404
+8.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.10.6/optimize-parent-8.10.6.jar returned status 404
 8.7.0-alpha3-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.7.0-alpha3-rc1/optimize-parent-8.7.0-alpha3-rc1.jar returned status 404
 8.7.0-alpha3-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.7.0-alpha3-rc2/optimize-parent-8.7.0-alpha3-rc2.jar returned status 404
 8.7.0-alpha3-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.7.0-alpha3-rc3/optimize-parent-8.7.0-alpha3-rc3.jar returned status 404
@@ -67,6 +69,8 @@
 8.8.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.8.40/optimize-parent-8.8.40.jar returned status 404
 8.8.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.8.41/optimize-parent-8.8.41.jar returned status 404
 8.8.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.8.42/optimize-parent-8.8.42.jar returned status 404
+8.8.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.8.43/optimize-parent-8.8.43.jar returned status 404
+8.8.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.8.44/optimize-parent-8.8.44.jar returned status 404
 8.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.0/optimize-parent-8.9.0.jar returned status 404
 8.9.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.0-alpha1/optimize-parent-8.9.0-alpha1.jar returned status 404
 8.9.0-alpha1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.0-alpha1.1/optimize-parent-8.9.0-alpha1.1.jar returned status 404
@@ -99,6 +103,8 @@
 8.9.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.22/optimize-parent-8.9.22.jar returned status 404
 8.9.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.23/optimize-parent-8.9.23.jar returned status 404
 8.9.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.24/optimize-parent-8.9.24.jar returned status 404
+8.9.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.25/optimize-parent-8.9.25.jar returned status 404
+8.9.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.26/optimize-parent-8.9.26.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.3/optimize-parent-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.4/optimize-parent-8.9.4.jar returned status 404
 8.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/optimize-parent/8.9.5/optimize-parent-8.9.5.jar returned status 404

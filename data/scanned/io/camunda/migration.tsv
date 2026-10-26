@@ -71,6 +71,8 @@
 8.8.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/migration/8.8.40/migration-8.8.40.jar returned status 404
 8.8.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/migration/8.8.41/migration-8.8.41.jar returned status 404
 8.8.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/migration/8.8.42/migration-8.8.42.jar returned status 404
+8.8.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/migration/8.8.43/migration-8.8.43.jar returned status 404
+8.8.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/migration/8.8.44/migration-8.8.44.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/migration/8.8.5/migration-8.8.5.jar returned status 404
 8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/migration/8.8.6/migration-8.8.6.jar returned status 404
 8.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/migration/8.8.7/migration-8.8.7.jar returned status 404

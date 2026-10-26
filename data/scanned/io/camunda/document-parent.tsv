@@ -25,6 +25,8 @@
 8.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.10.3/document-parent-8.10.3.jar returned status 404
 8.10.3-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.10.3-rc1/document-parent-8.10.3-rc1.jar returned status 404
 8.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.10.4/document-parent-8.10.4.jar returned status 404
+8.10.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.10.5/document-parent-8.10.5.jar returned status 404
+8.10.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.10.6/document-parent-8.10.6.jar returned status 404
 8.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.0/document-parent-8.6.0.jar returned status 404
 8.6.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.0-rc1/document-parent-8.6.0-rc1.jar returned status 404
 8.6.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.0-rc2/document-parent-8.6.0-rc2.jar returned status 404
@@ -69,6 +71,8 @@
 8.6.38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.38/document-parent-8.6.38.jar returned status 404
 8.6.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.39/document-parent-8.6.39.jar returned status 404
 8.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.4/document-parent-8.6.4.jar returned status 404
+8.6.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.40/document-parent-8.6.40.jar returned status 404
+8.6.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.41/document-parent-8.6.41.jar returned status 404
 8.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.5/document-parent-8.6.5.jar returned status 404
 8.6.5-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.5-rc1/document-parent-8.6.5-rc1.jar returned status 404
 8.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.6.6/document-parent-8.6.6.jar returned status 404
@@ -139,6 +143,7 @@
 8.7.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.7.41/document-parent-8.7.41.jar returned status 404
 8.7.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.7.42/document-parent-8.7.42.jar returned status 404
 8.7.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.7.43/document-parent-8.7.43.jar returned status 404
+8.7.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.7.44/document-parent-8.7.44.jar returned status 404
 8.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.7.5/document-parent-8.7.5.jar returned status 404
 8.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.7.6/document-parent-8.7.6.jar returned status 404
 8.7.6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.7.6-rc1/document-parent-8.7.6-rc1.jar returned status 404
@@ -210,6 +215,8 @@
 8.8.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.8.40/document-parent-8.8.40.jar returned status 404
 8.8.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.8.41/document-parent-8.8.41.jar returned status 404
 8.8.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.8.42/document-parent-8.8.42.jar returned status 404
+8.8.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.8.43/document-parent-8.8.43.jar returned status 404
+8.8.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.8.44/document-parent-8.8.44.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.8.5/document-parent-8.8.5.jar returned status 404
 8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.8.6/document-parent-8.8.6.jar returned status 404
 8.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.8.7/document-parent-8.8.7.jar returned status 404
@@ -250,6 +257,8 @@
 8.9.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.9.22/document-parent-8.9.22.jar returned status 404
 8.9.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.9.23/document-parent-8.9.23.jar returned status 404
 8.9.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.9.24/document-parent-8.9.24.jar returned status 404
+8.9.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.9.25/document-parent-8.9.25.jar returned status 404
+8.9.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.9.26/document-parent-8.9.26.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.9.3/document-parent-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.9.4/document-parent-8.9.4.jar returned status 404
 8.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/document-parent/8.9.5/document-parent-8.9.5.jar returned status 404
