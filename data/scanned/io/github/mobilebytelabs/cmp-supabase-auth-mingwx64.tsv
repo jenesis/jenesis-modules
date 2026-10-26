@@ -3,3 +3,4 @@
 0.2.0		2026-10-01T19:11:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-supabase-auth-mingwx64/0.2.0/cmp-supabase-auth-mingwx64-0.2.0.jar returned status 404
 0.3.0		2026-10-03T09:51:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-supabase-auth-mingwx64/0.3.0/cmp-supabase-auth-mingwx64-0.3.0.jar returned status 404
 0.3.1		2026-10-03T11:31:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-supabase-auth-mingwx64/0.3.1/cmp-supabase-auth-mingwx64-0.3.1.jar returned status 404
+0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-supabase-auth-mingwx64/0.3.2/cmp-supabase-auth-mingwx64-0.3.2.jar returned status 404

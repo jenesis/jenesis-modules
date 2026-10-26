@@ -8,6 +8,7 @@
 0.2.10	metadata	2026-10-09T18:11:24Z	
 0.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-ios-iosx64/0.2.11/webview-ios-iosx64-0.2.11.jar returned status 404
 0.2.11	metadata	2026-10-10T02:00:56Z	
+0.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-ios-iosx64/0.2.12/webview-ios-iosx64-0.2.12.jar returned status 404
 0.2.2		2026-08-06T07:33:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-ios-iosx64/0.2.2/webview-ios-iosx64-0.2.2.jar returned status 404
 0.2.2	metadata	2026-08-06T07:33:54Z	
 0.2.3		2026-08-06T10:17:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/generalio/multiweb/webview-ios-iosx64/0.2.3/webview-ios-iosx64-0.2.3.jar returned status 404
