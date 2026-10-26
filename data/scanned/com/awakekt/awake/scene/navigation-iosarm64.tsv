@@ -22,6 +22,12 @@
 0.18.0	metadata	2026-10-19T18:27:57Z	
 0.19.0		2026-10-20T01:27:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/navigation-iosarm64/0.19.0/navigation-iosarm64-0.19.0.jar returned status 404
 0.19.0	metadata	2026-10-20T01:27:27Z	
+0.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/navigation-iosarm64/0.20.0/navigation-iosarm64-0.20.0.jar returned status 404
+0.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/navigation-iosarm64/0.21.0/navigation-iosarm64-0.21.0.jar returned status 404
+0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/navigation-iosarm64/0.22.0/navigation-iosarm64-0.22.0.jar returned status 404
+0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/navigation-iosarm64/0.23.0/navigation-iosarm64-0.23.0.jar returned status 404
+0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/navigation-iosarm64/0.24.0/navigation-iosarm64-0.24.0.jar returned status 404
+0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/navigation-iosarm64/0.25.0/navigation-iosarm64-0.25.0.jar returned status 404
 0.4.0		2026-10-09T02:47:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/navigation-iosarm64/0.4.0/navigation-iosarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2026-10-09T02:47:03Z	
 0.5.0		2026-10-09T07:11:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/navigation-iosarm64/0.5.0/navigation-iosarm64-0.5.0.jar returned status 404

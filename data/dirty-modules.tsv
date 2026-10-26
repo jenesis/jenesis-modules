@@ -2903,3 +2903,5 @@ com.aayushatharva.brotli4j.linux.riscv64
 com.aayushatharva.brotli4j.linux.x86_64
 com.aayushatharva.brotli4j.linux.armv7
 org.jsoup
+com.kaiwudb.jdbc
+net.sf.jsqlparser
