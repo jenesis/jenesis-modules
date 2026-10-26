@@ -108,3 +108,5 @@
 4.2.4	automatic	org.apache.cxf	cxf-rt-rs-security-jose	2026-10-01T16:32:06Z	
 4.1.9	automatic	org.apache.cxf	cxf-rt-rs-security-jose	2026-10-01T17:54:12Z	
 3.6.13	automatic	org.apache.cxf	cxf-rt-rs-security-jose	2026-10-01T19:10:14Z	
+4.2.4-gov4j-1	automatic	org.gov4j.thirdparty.org.apache.cxf	cxf-rt-rs-security-jose	2026-10-19T17:11:53Z	
+3.6.13-gov4j-1	automatic	org.gov4j.thirdparty.org.apache.cxf	cxf-rt-rs-security-jose	2026-10-19T17:11:53Z	
