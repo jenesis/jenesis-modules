@@ -6605,6 +6605,7 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 4.2.2	named	com.snowflake	snowflake-kafka-connector	2026-10-12T21:00:40Z	2.22
 4.1.0-RC.5	named	com.kingsrook.qqq	qqq-utility-lambdas	2026-10-13T15:36:09Z	2.21
 4.1.0-RC.6	named	com.kingsrook.qqq	qqq-utility-lambdas	2026-10-14T03:06:00Z	2.21
+2.8.0	named	org.apache.jackrabbit	oak-run-elastic	2026-10-14T21:07:28Z	2.21
 4.1.0-RC.7	named	com.kingsrook.qqq	qqq-utility-lambdas	2026-10-14T21:12:31Z	2.21
 4.1.0-RC.8	named	com.kingsrook.qqq	qqq-utility-lambdas	2026-10-15T02:06:00Z	2.21
 4.1.0-RC.9	named	com.kingsrook.qqq	qqq-utility-lambdas	2026-10-15T06:31:01Z	2.21
