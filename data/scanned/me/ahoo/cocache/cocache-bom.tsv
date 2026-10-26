@@ -96,3 +96,12 @@
 5.2.0		2026-10-12T14:51:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/5.2.0/cocache-bom-5.2.0.jar returned status 404
 5.3.0		2026-10-12T22:36:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/5.3.0/cocache-bom-5.3.0.jar returned status 404
 5.4.0		2026-10-13T00:31:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/5.4.0/cocache-bom-5.4.0.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/6.0.0/cocache-bom-6.0.0.jar returned status 404
+6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/6.1.0/cocache-bom-6.1.0.jar returned status 404
+6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/6.3.0/cocache-bom-6.3.0.jar returned status 404
+6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/6.3.1/cocache-bom-6.3.1.jar returned status 404
+6.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/6.4.0/cocache-bom-6.4.0.jar returned status 404
+6.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/6.4.1/cocache-bom-6.4.1.jar returned status 404
+6.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/6.5.0/cocache-bom-6.5.0.jar returned status 404
+6.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/6.6.0/cocache-bom-6.6.0.jar returned status 404
+6.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cocache/cocache-bom/6.7.0/cocache-bom-6.7.0.jar returned status 404

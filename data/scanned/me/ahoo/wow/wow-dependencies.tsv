@@ -45,6 +45,7 @@
 1.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/1.9.8/wow-dependencies-1.9.8.jar returned status 404
 1.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/1.9.9/wow-dependencies-1.9.9.jar returned status 404
 10.0.0-alpha.3		2026-10-15T08:06:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/10.0.0-alpha.3/wow-dependencies-10.0.0-alpha.3.jar returned status 404
+10.0.0-alpha.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/10.0.0-alpha.4/wow-dependencies-10.0.0-alpha.4.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/2.0.0/wow-dependencies-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/2.0.1/wow-dependencies-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/wow-dependencies/2.0.2/wow-dependencies-2.0.2.jar returned status 404
