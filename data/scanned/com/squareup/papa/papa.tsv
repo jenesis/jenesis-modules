@@ -21,6 +21,7 @@
 0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/papa/papa/0.33/papa-0.33.jar returned status 404
 0.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/papa/papa/0.34/papa-0.34.jar returned status 404
 0.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/papa/papa/0.35/papa-0.35.jar returned status 404
+0.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/papa/papa/0.36/papa-0.36.jar returned status 404
 0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/papa/papa/0.5/papa-0.5.jar returned status 404
 0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/papa/papa/0.6/papa-0.6.jar returned status 404
 0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/papa/papa/0.7/papa-0.7.jar returned status 404

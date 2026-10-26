@@ -458,3 +458,5 @@ accounts_v1-rev20260930-2.0.0	automatic	com.google.apis	google-api-services-merc
 accounts_v1beta-rev20260930-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-10-03T01:26:15Z	
 products_v1-rev20261002-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-10-07T01:13:20Z	
 products_v1-rev20261012-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-10-15T01:25:12Z	
+accounts_v1-rev20261021-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-10-25T01:14:04Z	
+accounts_v1beta-rev20261021-2.0.0	automatic	com.google.apis	google-api-services-merchantapi	2026-10-25T01:14:04Z	

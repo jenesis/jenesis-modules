@@ -5325,3 +5325,4 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 6.2.0.79823	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-10-23T16:08:03Z	2.14.0
 11.10.1.86404	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-10-23T18:13:25Z	2.13.2
 11.10.1.86404	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-10-23T18:13:25Z	2.13.2
+2.15.0	named	com.google.code.gson	gson	2026-10-24T01:23:38Z	2.15.0
