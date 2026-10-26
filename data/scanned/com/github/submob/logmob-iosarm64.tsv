@@ -22,3 +22,6 @@
 3.0.4	metadata	2026-10-19T20:57:26Z	
 3.0.5		2026-10-20T20:03:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/logmob-iosarm64/3.0.5/logmob-iosarm64-3.0.5.jar returned status 404
 3.0.5	metadata	2026-10-20T20:03:13Z	
+3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/logmob-iosarm64/3.0.6/logmob-iosarm64-3.0.6.jar returned status 404
+3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/logmob-iosarm64/3.0.7/logmob-iosarm64-3.0.7.jar returned status 404
+3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/logmob-iosarm64/3.0.8/logmob-iosarm64-3.0.8.jar returned status 404

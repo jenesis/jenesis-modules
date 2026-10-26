@@ -222,6 +222,7 @@
 66.207.0-v202610011812			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/seeq/seeq-platform/66.207.0-v202610011812/seeq-platform-66.207.0-v202610011812.jar returned status 404
 66.208.1-v202610051947			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/seeq/seeq-platform/66.208.1-v202610051947/seeq-platform-66.208.1-v202610051947.jar returned status 404
 66.209.1-v202610072137			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/seeq/seeq-platform/66.209.1-v202610072137/seeq-platform-66.209.1-v202610072137.jar returned status 404
+66.216.0-v202610231914			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/seeq/seeq-platform/66.216.0-v202610231914/seeq-platform-66.216.0-v202610231914.jar returned status 404
 66.41.1-v202508261900			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/seeq/seeq-platform/66.41.1-v202508261900/seeq-platform-66.41.1-v202508261900.jar returned status 404
 66.41.2-v202508271853			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/seeq/seeq-platform/66.41.2-v202508271853/seeq-platform-66.41.2-v202508271853.jar returned status 404
 66.43.0-v202509021614			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/seeq/seeq-platform/66.43.0-v202509021614/seeq-platform-66.43.0-v202509021614.jar returned status 404
