@@ -156,6 +156,7 @@
 2.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/didomi/sdk/android/2.51.0/android-2.51.0.jar returned status 404
 2.51.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/didomi/sdk/android/2.51.1/android-2.51.1.jar returned status 404
 2.52.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/didomi/sdk/android/2.52.0/android-2.52.0.jar returned status 404
+2.52.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/didomi/sdk/android/2.52.1/android-2.52.1.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/didomi/sdk/android/2.6.0/android-2.6.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/didomi/sdk/android/2.6.1/android-2.6.1.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/didomi/sdk/android/2.7.0/android-2.7.0.jar returned status 404
