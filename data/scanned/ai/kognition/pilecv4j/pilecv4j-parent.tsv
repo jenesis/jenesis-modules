@@ -1,1 +1,4 @@
+0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kognition/pilecv4j/pilecv4j-parent/0.16/pilecv4j-parent-0.16.jar returned status 404
+0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kognition/pilecv4j/pilecv4j-parent/0.17/pilecv4j-parent-0.17.jar returned status 404
+1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kognition/pilecv4j/pilecv4j-parent/1.0/pilecv4j-parent-1.0.jar returned status 404
 1.1.4		2026-10-20T01:22:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/kognition/pilecv4j/pilecv4j-parent/1.1.4/pilecv4j-parent-1.1.4.jar returned status 404
