@@ -33,3 +33,7 @@
 25.0.4.1.1	named	org.graalvm.truffle	truffle-compiler	2026-09-15T11:41:19Z	
 23.1.12.1.1	named	org.graalvm.truffle	truffle-compiler	2026-09-15T11:41:19Z	
 25.4.4.1.1	named	org.graalvm.truffle	truffle-compiler	2026-09-22T15:57:16Z	
+25.0.5	named	org.graalvm.truffle	truffle-compiler	2026-10-20T12:12:27Z	
+23.1.13	named	org.graalvm.truffle	truffle-compiler	2026-10-20T12:12:27Z	
+25.0.5.0.2	named	org.graalvm.truffle	truffle-compiler	2026-10-22T10:36:38Z	
+23.1.13.0.2	named	org.graalvm.truffle	truffle-compiler	2026-10-22T10:36:39Z	
