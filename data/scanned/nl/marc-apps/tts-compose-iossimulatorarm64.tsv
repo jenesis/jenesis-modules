@@ -1,3 +1,4 @@
+0.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/marc-apps/tts-compose-iossimulatorarm64/0.0.1/tts-compose-iossimulatorarm64-0.0.1.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/marc-apps/tts-compose-iossimulatorarm64/3.0.0/tts-compose-iossimulatorarm64-3.0.0.jar returned status 404
 3.0.0	metadata	2025-04-20T15:21:31Z	
 3.0.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/marc-apps/tts-compose-iossimulatorarm64/3.0.0-alpha.1/tts-compose-iossimulatorarm64-3.0.0-alpha.1.jar returned status 404
@@ -18,3 +19,4 @@
 3.0.1-alpha.1	metadata	2025-05-24T15:26:58Z	
 4.0.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/marc-apps/tts-compose-iossimulatorarm64/4.0.0-alpha.1/tts-compose-iossimulatorarm64-4.0.0-alpha.1.jar returned status 404
 4.0.0-alpha.1	metadata	2025-10-20T18:30:42Z	
+4.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/marc-apps/tts-compose-iossimulatorarm64/4.0.0-beta.1/tts-compose-iossimulatorarm64-4.0.0-beta.1.jar returned status 404

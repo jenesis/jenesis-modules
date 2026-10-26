@@ -1,3 +1,4 @@
 0.1.0		2026-10-20T15:05:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/africa/milsat/loci/loci-map-android/0.1.0/loci-map-android-0.1.0.jar returned status 404
 0.2.0		2026-10-22T07:21:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/africa/milsat/loci/loci-map-android/0.2.0/loci-map-android-0.2.0.jar returned status 404
 0.3.0		2026-10-22T08:23:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/africa/milsat/loci/loci-map-android/0.3.0/loci-map-android-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/africa/milsat/loci/loci-map-android/0.3.1/loci-map-android-0.3.1.jar returned status 404
