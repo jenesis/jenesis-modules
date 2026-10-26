@@ -5313,3 +5313,4 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 2.0.4	named	com.conaxgames	clibraries	2026-10-18T23:11:29Z	2.14.0
 ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 3.40.1.1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-10-19T09:12:32Z	2.10
+3.0.0.8	named	org.lucee	debugger-agent	2026-10-19T19:19:45Z	2.14.0
