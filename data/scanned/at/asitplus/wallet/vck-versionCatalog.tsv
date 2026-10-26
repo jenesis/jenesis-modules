@@ -44,5 +44,8 @@
 6.0.0-RC2		2026-06-23T12:52:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-versionCatalog/6.0.0-RC2/vck-versionCatalog-6.0.0-RC2.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-versionCatalog/7.0.0/vck-versionCatalog-7.0.0.jar returned status 404
 7.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-versionCatalog/7.0.0-RC1/vck-versionCatalog-7.0.0-RC1.jar returned status 404
+7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-versionCatalog/7.0.1/vck-versionCatalog-7.0.1.jar returned status 404
 8.0.0		2026-10-01T08:50:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-versionCatalog/8.0.0/vck-versionCatalog-8.0.0.jar returned status 404
 8.0.0-RC1		2026-09-30T12:57:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-versionCatalog/8.0.0-RC1/vck-versionCatalog-8.0.0-RC1.jar returned status 404
+9.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-versionCatalog/9.0.0-RC1/vck-versionCatalog-9.0.0-RC1.jar returned status 404
+9.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-versionCatalog/9.0.0-RC2/vck-versionCatalog-9.0.0-RC2.jar returned status 404

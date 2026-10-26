@@ -1,1 +1,2 @@
 10.0.0-alpha.3		2026-10-15T08:06:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/me.ahoo.wow.gradle.plugin/10.0.0-alpha.3/me.ahoo.wow.gradle.plugin-10.0.0-alpha.3.jar returned status 404
+10.0.0-alpha.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/wow/me.ahoo.wow.gradle.plugin/10.0.0-alpha.4/me.ahoo.wow.gradle.plugin-10.0.0-alpha.4.jar returned status 404

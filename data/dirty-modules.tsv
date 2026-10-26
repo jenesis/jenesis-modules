@@ -4957,3 +4957,13 @@ net.pincette.jwt
 net.pincette.kafka.json
 net.pincette.jes
 ognl
+edu.hm.hafner.coverage
+edu.hm.hafner.codingstyle
+jakarta.ws.rs
+me.ahoo.simba.jdbc
+me.ahoo.simba.spring.boot.starter
+me.ahoo.simba.core
+me.ahoo.simba.spring.redis
+me.ahoo.simba.redis
+me.ahoo.simba.zookeeper
+me.lemire.integercompression
