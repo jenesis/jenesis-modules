@@ -8,3 +8,6 @@
 0.8.0-rc3	metadata	2026-10-18T13:51:30Z	
 0.8.0-rc4		2026-10-20T02:52:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/apdelrahman1911/p2p-core-iosarm64/0.8.0-rc4/p2p-core-iosarm64-0.8.0-rc4.jar returned status 404
 0.8.0-rc4	metadata	2026-10-20T02:52:08Z	
+0.8.0-rc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/apdelrahman1911/p2p-core-iosarm64/0.8.0-rc5/p2p-core-iosarm64-0.8.0-rc5.jar returned status 404
+0.8.0-rc6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/apdelrahman1911/p2p-core-iosarm64/0.8.0-rc6/p2p-core-iosarm64-0.8.0-rc6.jar returned status 404
+0.8.0-rc7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/apdelrahman1911/p2p-core-iosarm64/0.8.0-rc7/p2p-core-iosarm64-0.8.0-rc7.jar returned status 404

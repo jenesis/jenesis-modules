@@ -4,6 +4,8 @@
 8.10.0-alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.10.0-alpha3/connectors-parent-8.10.0-alpha3.jar returned status 404
 8.10.0-alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.10.0-alpha4/connectors-parent-8.10.0-alpha4.jar returned status 404
 8.10.0-alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.10.0-alpha5/connectors-parent-8.10.0-alpha5.jar returned status 404
+8.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.10.1/connectors-parent-8.10.1.jar returned status 404
+8.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.10.2/connectors-parent-8.10.2.jar returned status 404
 8.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.3.1/connectors-parent-8.3.1.jar returned status 404
 8.3.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.3.10/connectors-parent-8.3.10.jar returned status 404
 8.3.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.3.11/connectors-parent-8.3.11.jar returned status 404
@@ -99,6 +101,8 @@
 8.6.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.6.30/connectors-parent-8.6.30.jar returned status 404
 8.6.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.6.31/connectors-parent-8.6.31.jar returned status 404
 8.6.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.6.32/connectors-parent-8.6.32.jar returned status 404
+8.6.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.6.33/connectors-parent-8.6.33.jar returned status 404
+8.6.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.6.34/connectors-parent-8.6.34.jar returned status 404
 8.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.6.5/connectors-parent-8.6.5.jar returned status 404
 8.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.6.6/connectors-parent-8.6.6.jar returned status 404
 8.6.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.6.7/connectors-parent-8.6.7.jar returned status 404
@@ -128,7 +132,9 @@
 8.7.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.7.25/connectors-parent-8.7.25.jar returned status 404
 8.7.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.7.27/connectors-parent-8.7.27.jar returned status 404
 8.7.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.7.28/connectors-parent-8.7.28.jar returned status 404
+8.7.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.7.29/connectors-parent-8.7.29.jar returned status 404
 8.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.7.3/connectors-parent-8.7.3.jar returned status 404
+8.7.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.7.30/connectors-parent-8.7.30.jar returned status 404
 8.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.7.4/connectors-parent-8.7.4.jar returned status 404
 8.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.7.5/connectors-parent-8.7.5.jar returned status 404
 8.7.5-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.7.5-rc1/connectors-parent-8.7.5-rc1.jar returned status 404
@@ -159,6 +165,8 @@
 8.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.8.2/connectors-parent-8.8.2.jar returned status 404
 8.8.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.8.21/connectors-parent-8.8.21.jar returned status 404
 8.8.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.8.22/connectors-parent-8.8.22.jar returned status 404
+8.8.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.8.23/connectors-parent-8.8.23.jar returned status 404
+8.8.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.8.24/connectors-parent-8.8.24.jar returned status 404
 8.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.8.3/connectors-parent-8.8.3.jar returned status 404
 8.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.8.4/connectors-parent-8.8.4.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.8.5/connectors-parent-8.8.5.jar returned status 404
@@ -178,6 +186,8 @@
 8.9.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.9.13/connectors-parent-8.9.13.jar returned status 404
 8.9.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.9.14/connectors-parent-8.9.14.jar returned status 404
 8.9.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.9.15/connectors-parent-8.9.15.jar returned status 404
+8.9.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.9.16/connectors-parent-8.9.16.jar returned status 404
+8.9.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.9.17/connectors-parent-8.9.17.jar returned status 404
 8.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.9.2/connectors-parent-8.9.2.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.9.3/connectors-parent-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/connector/connectors-parent/8.9.4/connectors-parent-8.9.4.jar returned status 404
