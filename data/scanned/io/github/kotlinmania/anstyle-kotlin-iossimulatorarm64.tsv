@@ -4,3 +4,4 @@
 0.1.4	metadata	2026-05-01T10:28:46Z	
 0.1.5		2026-05-19T16:25:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotlinmania/anstyle-kotlin-iossimulatorarm64/0.1.5/anstyle-kotlin-iossimulatorarm64-0.1.5.jar returned status 404
 0.1.5	metadata	2026-05-19T16:25:11Z	
+0.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kotlinmania/anstyle-kotlin-iossimulatorarm64/0.1.6/anstyle-kotlin-iossimulatorarm64-0.1.6.jar returned status 404

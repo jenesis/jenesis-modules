@@ -34,3 +34,4 @@
 1.5.4	metadata	2026-10-19T14:16:53Z	
 1.5.5		2026-10-19T20:46:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iossimulatorarm64/1.5.5/ktech-audio-engine-iossimulatorarm64-1.5.5.jar returned status 404
 1.5.5	metadata	2026-10-19T20:46:18Z	
+1.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kronos1993/ktech-audio-engine-iossimulatorarm64/1.5.6/ktech-audio-engine-iossimulatorarm64-1.5.6.jar returned status 404

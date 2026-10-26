@@ -5,3 +5,7 @@
 0.1.4		2026-09-29T05:38:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-agent/0.1.4/z-agent-0.1.4.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-agent/1.0.0/z-agent-1.0.0.jar returned status 404
 1.0.1		2026-10-18T23:51:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-agent/1.0.1/z-agent-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-agent/1.0.2/z-agent-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-agent/1.0.3/z-agent-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-agent/1.0.4/z-agent-1.0.4.jar returned status 404
+1.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-agent/1.0.5/z-agent-1.0.5.jar returned status 404

@@ -4,3 +4,5 @@
 1.0.17		2026-10-03T15:01:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-util-all/1.0.17/z-util-all-1.0.17.jar returned status 404
 1.0.20		2026-10-09T08:00:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-util-all/1.0.20/z-util-all-1.0.20.jar returned status 404
 1.0.21		2026-10-10T08:20:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-util-all/1.0.21/z-util-all-1.0.21.jar returned status 404
+1.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-util-all/1.2.10/z-util-all-1.2.10.jar returned status 404
+1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-util-all/1.2.9/z-util-all-1.2.9.jar returned status 404

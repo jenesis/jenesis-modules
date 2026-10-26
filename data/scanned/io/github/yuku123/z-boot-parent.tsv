@@ -8,3 +8,4 @@
 1.0.26		2026-10-06T10:31:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-boot-parent/1.0.26/z-boot-parent-1.0.26.jar returned status 404
 1.1.0		2026-10-08T13:11:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-boot-parent/1.1.0/z-boot-parent-1.1.0.jar returned status 404
 1.1.1		2026-10-10T12:01:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-boot-parent/1.1.1/z-boot-parent-1.1.1.jar returned status 404
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/yuku123/z-boot-parent/1.1.2/z-boot-parent-1.1.2.jar returned status 404
