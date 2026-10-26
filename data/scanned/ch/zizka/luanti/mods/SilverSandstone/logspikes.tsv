@@ -1,1 +1,2 @@
 23088		2026-10-20T21:36:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/SilverSandstone/logspikes/23088/logspikes-23088.jar returned status 404
+23088.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/SilverSandstone/logspikes/23088.1/logspikes-23088.1.jar returned status 404

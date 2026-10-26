@@ -1,1 +1,2 @@
 36144		2026-10-20T21:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/cheapie/areasprotector/36144/areasprotector-36144.jar returned status 404
+36144.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/cheapie/areasprotector/36144.1/areasprotector-36144.1.jar returned status 404

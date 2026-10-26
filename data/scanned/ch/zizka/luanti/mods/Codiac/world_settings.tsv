@@ -1,1 +1,2 @@
 32157		2026-10-20T21:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Codiac/world_settings/32157/world_settings-32157.jar returned status 404
+32157.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Codiac/world_settings/32157.1/world_settings-32157.1.jar returned status 404

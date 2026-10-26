@@ -1,1 +1,2 @@
 24717		2026-10-20T21:36:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/cora/mcla_goldberg/24717/mcla_goldberg-24717.jar returned status 404
+24717.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/cora/mcla_goldberg/24717.1/mcla_goldberg-24717.1.jar returned status 404

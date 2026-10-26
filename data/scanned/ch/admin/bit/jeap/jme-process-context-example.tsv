@@ -79,6 +79,7 @@
 23.18.0		2026-10-20T06:58:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-context-example/23.18.0/jme-process-context-example-23.18.0.jar returned status 404
 23.19.0		2026-10-22T05:26:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-context-example/23.19.0/jme-process-context-example-23.19.0.jar returned status 404
 23.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-context-example/23.2.0/jme-process-context-example-23.2.0.jar returned status 404
+23.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-context-example/23.20.0/jme-process-context-example-23.20.0.jar returned status 404
 23.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-context-example/23.3.0/jme-process-context-example-23.3.0.jar returned status 404
 23.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-context-example/23.4.0/jme-process-context-example-23.4.0.jar returned status 404
 23.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-process-context-example/23.6.0/jme-process-context-example-23.6.0.jar returned status 404

@@ -217,6 +217,23 @@
 1.31.0		2026-10-15T15:57:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.31.0/home-api-android-1.31.0.jar returned status 404
 1.32.0		2026-10-15T21:26:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.32.0/home-api-android-1.32.0.jar returned status 404
 1.32.1		2026-10-16T14:06:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.32.1/home-api-android-1.32.1.jar returned status 404
+1.32.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.32.2/home-api-android-1.32.2.jar returned status 404
+1.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.33.0/home-api-android-1.33.0.jar returned status 404
+1.33.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.33.1/home-api-android-1.33.1.jar returned status 404
+1.33.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.33.2/home-api-android-1.33.2.jar returned status 404
+1.33.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.33.3/home-api-android-1.33.3.jar returned status 404
+1.33.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.33.4/home-api-android-1.33.4.jar returned status 404
+1.33.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.33.5/home-api-android-1.33.5.jar returned status 404
+1.33.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.33.6/home-api-android-1.33.6.jar returned status 404
+1.33.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.33.7/home-api-android-1.33.7.jar returned status 404
+1.33.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.33.8/home-api-android-1.33.8.jar returned status 404
+1.33.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.33.9/home-api-android-1.33.9.jar returned status 404
+1.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.34.0/home-api-android-1.34.0.jar returned status 404
+1.35.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.35.0/home-api-android-1.35.0.jar returned status 404
+1.36.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.36.0/home-api-android-1.36.0.jar returned status 404
+1.36.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.36.1/home-api-android-1.36.1.jar returned status 404
+1.36.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.36.2/home-api-android-1.36.2.jar returned status 404
+1.36.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.36.3/home-api-android-1.36.3.jar returned status 404
 1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.4.1/home-api-android-1.4.1.jar returned status 404
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.4.2/home-api-android-1.4.2.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/home-api-android/1.4.3/home-api-android-1.4.3.jar returned status 404

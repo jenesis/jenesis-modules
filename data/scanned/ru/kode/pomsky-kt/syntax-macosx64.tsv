@@ -12,3 +12,4 @@
 0.17.0	metadata	2026-04-11T09:54:33Z	
 0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/kode/pomsky-kt/syntax-macosx64/0.18.0/syntax-macosx64-0.18.0.jar returned status 404
 0.18.0	metadata	2026-04-11T10:14:53Z	
+0.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ru/kode/pomsky-kt/syntax-macosx64/0.19.0/syntax-macosx64-0.19.0.jar returned status 404

@@ -1,1 +1,2 @@
 31800		2026-10-22T07:11:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/SkyBuilder1717/hardcore_mode/31800/hardcore_mode-31800.jar returned status 404
+31800.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/SkyBuilder1717/hardcore_mode/31800.1/hardcore_mode-31800.1.jar returned status 404

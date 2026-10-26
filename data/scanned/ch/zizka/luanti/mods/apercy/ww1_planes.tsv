@@ -1,1 +1,2 @@
 29326		2026-10-22T07:11:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/apercy/ww1_planes/29326/ww1_planes-29326.jar returned status 404
+29326.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/apercy/ww1_planes/29326.1/ww1_planes-29326.1.jar returned status 404

@@ -1,1 +1,2 @@
 39498		2026-10-22T07:07:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/SaKeL/deathstats/39498/deathstats-39498.jar returned status 404
+39498.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/SaKeL/deathstats/39498.1/deathstats-39498.1.jar returned status 404
