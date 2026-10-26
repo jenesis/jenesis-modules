@@ -170,3 +170,7 @@
 3.9.05	named	org.metricshub	metricshub-jdbc-extension	2026-08-13T09:20:32Z	3.5.8
 3.9.06	named	org.metricshub	metricshub-jdbc-extension	2026-08-14T09:25:52Z	3.5.8
 3.9.07	named	org.metricshub	metricshub-jdbc-extension	2026-09-30T15:01:33Z	3.5.8
+3.3.7	named	org.mariadb.jdbc	mariadb-java-client	2026-10-21T16:58:42Z	3.3.7
+3.4.5	named	org.mariadb.jdbc	mariadb-java-client	2026-10-21T17:28:04Z	3.4.5
+3.5.11	named	org.mariadb.jdbc	mariadb-java-client	2026-10-21T17:48:59Z	3.5.11
+4.0.0	named	org.mariadb.jdbc	mariadb-java-client	2026-10-21T18:02:24Z	4.0.0
