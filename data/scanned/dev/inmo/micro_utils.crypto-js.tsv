@@ -200,6 +200,7 @@
 0.31.0		2026-08-30T12:40:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.crypto-js/0.31.0/micro_utils.crypto-js-0.31.0.jar returned status 404
 0.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.crypto-js/0.31.1/micro_utils.crypto-js-0.31.1.jar returned status 404
 0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.crypto-js/0.32.0/micro_utils.crypto-js-0.32.0.jar returned status 404
+0.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.crypto-js/0.32.1/micro_utils.crypto-js-0.32.1.jar returned status 404
 0.4.24		2021-02-06T05:12:14Z	
 0.4.25		2021-02-11T09:31:29Z	
 0.4.26		2021-02-21T15:53:49Z	

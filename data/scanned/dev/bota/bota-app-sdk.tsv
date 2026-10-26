@@ -11,6 +11,7 @@
 2.0.0-beta.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bota/bota-app-sdk/2.0.0-beta.18/bota-app-sdk-2.0.0-beta.18.jar returned status 404
 2.0.0-beta.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bota/bota-app-sdk/2.0.0-beta.19/bota-app-sdk-2.0.0-beta.19.jar returned status 404
 2.0.0-beta.2		2026-09-25T02:16:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bota/bota-app-sdk/2.0.0-beta.2/bota-app-sdk-2.0.0-beta.2.jar returned status 404
+2.0.0-beta.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bota/bota-app-sdk/2.0.0-beta.20/bota-app-sdk-2.0.0-beta.20.jar returned status 404
 2.0.0-beta.3		2026-09-27T16:57:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bota/bota-app-sdk/2.0.0-beta.3/bota-app-sdk-2.0.0-beta.3.jar returned status 404
 2.0.0-beta.4		2026-09-27T21:56:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bota/bota-app-sdk/2.0.0-beta.4/bota-app-sdk-2.0.0-beta.4.jar returned status 404
 2.0.0-beta.5		2026-09-28T23:59:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/bota/bota-app-sdk/2.0.0-beta.5/bota-app-sdk-2.0.0-beta.5.jar returned status 404

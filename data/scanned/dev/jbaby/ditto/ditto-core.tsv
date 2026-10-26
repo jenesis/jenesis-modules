@@ -2,3 +2,4 @@
 0.4.0		2026-10-05T11:46:02Z	
 0.4.1		2026-10-05T13:31:09Z	
 0.5.0		2026-10-06T13:35:54Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jbaby/ditto/ditto-core/0.6.0/ditto-core-0.6.0.jar returned status 404

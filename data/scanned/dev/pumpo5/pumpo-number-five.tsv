@@ -18,6 +18,9 @@
 0.8.117		2026-10-12T06:00:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/pumpo5/pumpo-number-five/0.8.117/pumpo-number-five-0.8.117.jar returned status 404
 0.8.118		2026-10-18T17:40:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/pumpo5/pumpo-number-five/0.8.118/pumpo-number-five-0.8.118.jar returned status 404
 0.8.119		2026-10-19T19:09:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/pumpo5/pumpo-number-five/0.8.119/pumpo-number-five-0.8.119.jar returned status 404
+0.8.120			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/pumpo5/pumpo-number-five/0.8.120/pumpo-number-five-0.8.120.jar returned status 404
+0.8.121			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/pumpo5/pumpo-number-five/0.8.121/pumpo-number-five-0.8.121.jar returned status 404
+0.8.122			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/pumpo5/pumpo-number-five/0.8.122/pumpo-number-five-0.8.122.jar returned status 404
 0.8.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/pumpo5/pumpo-number-five/0.8.39/pumpo-number-five-0.8.39.jar returned status 404
 0.8.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/pumpo5/pumpo-number-five/0.8.40/pumpo-number-five-0.8.40.jar returned status 404
 0.8.40-SNAPSHOT-KAFKA-HEADER			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/pumpo5/pumpo-number-five/0.8.40-SNAPSHOT-KAFKA-HEADER/pumpo-number-five-0.8.40-SNAPSHOT-KAFKA-HEADER.jar returned status 404

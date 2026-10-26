@@ -198,6 +198,7 @@
 0.31.0		2026-08-30T12:40:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.serialization.typed_serializer-js/0.31.0/micro_utils.serialization.typed_serializer-js-0.31.0.jar returned status 404
 0.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.serialization.typed_serializer-js/0.31.1/micro_utils.serialization.typed_serializer-js-0.31.1.jar returned status 404
 0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.serialization.typed_serializer-js/0.32.0/micro_utils.serialization.typed_serializer-js-0.32.0.jar returned status 404
+0.32.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/inmo/micro_utils.serialization.typed_serializer-js/0.32.1/micro_utils.serialization.typed_serializer-js-0.32.1.jar returned status 404
 0.4.35		2021-04-16T15:43:30Z	
 0.4.36		2021-04-20T20:59:30Z	
 0.5.0		2021-05-18T09:48:45Z	
