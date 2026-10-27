@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-26. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-27. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -783,7 +783,7 @@ net.bytebuddy  [fork: keep `net.bytebuddy`, `org.lucee` still publishes the name
 org.tukaani.xz  [fork: keep `org.tukaani`, `org.sonarsource.javascript` still publishes the name]
   A * org.tukaani                          2018-01..2026-03 1.12                 |..=================.|
   R   org.sonarsource.javascript           2023-09..2026-10 14.3.0.46350         |.............=======|
-  R   org.incenp                           2024-07..2026-10 0.3.0                |...............=====|
+  R   org.incenp                           2024-07..2026-10 0.3.0                |..............======|
   R   de.m3y.parquet                       2025-01..2026-09 1.18.1               |................====|
   ?   io.github.treebolic                  2026-09..2026-09 4.2-1                |...................=|
   R   org.apache.syncope.fit               2025-11..2026-09 4.0.8                |.................===|
@@ -1229,7 +1229,7 @@ io.netty.codec.unused  [fork: keep `io.netty`, `com.github.marks-yag` still publ
   A * io.netty                             2024-10..2026-10 4.2.19.Final         |...............=====|
   ?   com.github.marks-yag                 2026-09..2026-10 0.29.2               |...................=|
   ?   io.github.oewntk                     2026-09..2026-09 3.0.2                |...................=|
-  R   io.acryl                             2026-05..2026-07 1.6.0.16rc7          |..................==|
+  R   io.acryl                             2026-05..2026-07 1.6.0.16rc7          |..................=.|
   R   com.arcadedb                         2025-07..2026-02 26.2.2               |................===.|
   R   org.apache.ignite                    2025-10..2025-10 3.1.0                |.................=..|
     + 1 more: de.bwaldvogel
@@ -1469,7 +1469,7 @@ org.bytedeco.openblas.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai
   A * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 0.3.34-1.5.14-GA-1.0 |...................=|
   R   us.ihmc                              2023-06..2023-06 0.3.23-1.5.9         |............=.......|
-  R   de.uni-mannheim.informatik.dws.melt  2022-06..2022-06 3.3                  |...........=........|
+  R   de.uni-mannheim.informatik.dws.melt  2022-06..2022-06 3.3                  |..........=.........|
 org.bytedeco.numpy  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 2.5.1-1.5.14-GA-1.0  |...................=|
@@ -2076,7 +2076,7 @@ org.eclipse.jgit.pgm  [owned by `org.eclipse.jgit`; 1 other group(s) shade the n
 org.apache.bcel  [owned by `org.apache.bcel`; 5 other group(s) shade the name]
   A * org.apache.bcel                      2017-09..2026-09 6.13.0               |.===================|
   ?   io.spicelabs                         2026-08..2026-08 0.17.4               |...................=|
-  R   com.github.spotbugs                  2024-10..2026-07 4.7.0                |...............=====|
+  R   com.github.spotbugs                  2024-10..2026-07 4.7.0                |...............====.|
   R   com.github.kwart.jd                  2025-10..2025-10 1.3.0-beta-1         |.................=..|
   R   org.checkerframework.annotatedlib    2018-02..2020-10 6.5.0                |..======............|
   R   org.checkerframework                 2018-02..2018-02 0.0.1                |..=.................|
@@ -2109,7 +2109,7 @@ org.bytedeco.tritonserver.platform  [owned by `org.bytedeco`; 1 other group(s) s
   ?   io.github.mullerhai                  2026-08..2026-08 2.70.0-1.5.14-beta-08 |...................=|
 org.junit.jupiter.engine  [owned by `org.junit.jupiter`; 10 other group(s) shade the name]
   A * org.junit.jupiter                    2017-07..2026-08 6.1.3                |.===================|
-  ?   io.github.rpost                      2026-07..2026-07 6.0.0-M2             |...................=|
+  ?   io.github.rpost                      2026-07..2026-07 6.0.0-M2             |..................=.|
   R   org.apache.tika                      2024-07..2026-06 4.0.0-beta-1         |...............====.|
   R   com.janeluo                          2026-04..2026-04 1.0.0                |..................=.|
   R   org.eclipse.pass                     2023-06..2024-01 1.3.0                |.............==.....|
