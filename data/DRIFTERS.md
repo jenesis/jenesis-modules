@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-27. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-28. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -792,7 +792,7 @@ com.fasterxml.jackson.core  [fork: keep `com.fasterxml.jackson.core`, `org.opera
   A * com.fasterxml.jackson.core           2017-09..2026-10 2.22.4               |.===================|
   R   org.operaton.spin                    2024-10..2026-10 2.2.0                |...............=====|
   R   org.jboss.pnc.maven-manipulator      2025-11..2026-10 5.10                 |.................===|
-  R   com.clickhouse.spark                 2026-01..2026-10 0.10.2               |..................==|
+  R   com.clickhouse.spark                 2026-01..2026-10 0.10.2               |.................===|
   ?   com.ratepay.sdk                      2026-10..2026-10 1.15.1               |...................=|
   R   io.deephaven                         2026-01..2026-10 42.7                 |.................===|
     + 414 more: org.apache.hudi, com.grafana, org.cadenzaflow.spin, org.lucee, org.apache.jackrabbit, com.scylladb, com.algolia, org.apache.kylin, org.apache.paimon, com.arize, io.orqueio.spin, tech.streamfusion, (+402 more)
@@ -863,7 +863,7 @@ info.picocli  [fork: keep `info.picocli`, `com.bioinceptionlabs` still publishes
   ?   com.julien-dubois.bootui             2026-09..2026-10 2.1.0                |...................=|
     + 167 more: org.keycloak, org.apache.tika, io.spicelabs, com.instaclustr, io.github.ruixuqi, io.github.pgdro, ru.curs, io.fabric8, com.fathzer, io.github.shps951023, run.endive, org.dcache.nfs4j, (+155 more)
 com.ethlo.time  [fork: keep `com.ethlo.time`, `io.github.adorsys-gis` still publishes the name]
-  ? * com.ethlo.time                       2023-06..2026-10 1.17.0               |.............=======|
+  ? * com.ethlo.time                       2023-06..2026-10 1.17.0               |............========|
   ?   io.github.adorsys-gis                2026-07..2026-10 1.4.2                |..................==|
 tools.jackson.core  [fork: keep `tools.jackson.core`, `com.zonzonzon` still publishes the name]
   A * tools.jackson.core                   2025-03..2026-10 3.2.4                |................====|
@@ -2242,7 +2242,7 @@ koog.spring.ai.v2.starter.model.chat.jvm  [owned by `ai.koog` (groupId minus TLD
   ? * ai.koog                              2026-07..2026-09 1.3.0-beta           |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-10 1.3.0-beta-kroog.2   |...................=|
 koog.spring.boot.starter.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
-  ? * ai.koog                              2025-07..2026-09 1.3.0-beta           |.................===|
+  ? * ai.koog                              2025-07..2026-09 1.3.0-beta           |................====|
   ?   com.kreoh.kroog                      2026-08..2026-10 1.3.0-beta-kroog.2   |...................=|
 koog.agents.additions.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-05..2026-09 1.3.0-beta           |..................==|
@@ -2726,7 +2726,7 @@ org.apache.commons.fileupload  [no clear owner; `com.jwebmp.jre11` is earliest a
     + 2 more: com.jwebmp.jpms.commons, com.jwebmp
 org.apache.commons.cli  [no clear owner; `commons-cli` is earliest and most recent]
   ? * commons-cli                          2023-10..2025-11 1.11.0               |.............=====..|
-  ?   io.github.706412584                  2026-01..2026-10 1.5.3                |..................==|
+  ?   io.github.706412584                  2026-01..2026-10 1.5.3                |.................===|
   ?   org.apache.james                     2025-09..2026-09 3.9.1                |.................===|
   ?   com.legsem.legstar                   2025-12..2026-09 2.1.5                |.................===|
   ?   org.apache.meecrowave                2025-10..2026-08 2.1.1                |.................===|
@@ -3017,7 +3017,7 @@ prompt.executor.anthropic.client.jvm  [no clear owner; `ai.koog` is earliest and
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-10 1.3.0-kroog.2        |...................=|
 prompt.executor.bedrock.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-07..2026-09 1.3.0                |.................===|
+  ? * ai.koog                              2025-07..2026-09 1.3.0                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-10 1.3.0-kroog.2        |...................=|
 prompt.executor.cached.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
@@ -3080,7 +3080,7 @@ prompt.xml.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-10 1.3.0-kroog.2        |...................=|
 rag.base.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-07..2026-09 1.3.0                |.................===|
+  ? * ai.koog                              2025-07..2026-09 1.3.0                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-10 1.3.0-kroog.2        |...................=|
 rag.vector.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-04..2026-09 1.3.0-beta           |..................==|
@@ -3155,13 +3155,13 @@ agents.features.memory.jvm  [no clear owner; `ai.koog` is earliest and most rece
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-10 1.3.0-kroog.2        |...................=|
 agents.features.opentelemetry.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-07..2026-09 1.3.0                |.................===|
+  ? * ai.koog                              2025-07..2026-09 1.3.0                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-10 1.3.0-kroog.2        |...................=|
 agents.features.persistence.jdbc.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-09 1.3.0                |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-10 1.3.0-kroog.2        |...................=|
 agents.features.snapshot.jvm  [no clear owner; `ai.koog` is earliest and most recent]
-  ? * ai.koog                              2025-07..2026-09 1.3.0                |.................===|
+  ? * ai.koog                              2025-07..2026-09 1.3.0                |................====|
   ?   com.kreoh.kroog                      2026-08..2026-10 1.3.0-kroog.2        |...................=|
 agents.features.sql.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-09..2026-09 1.3.0                |.................===|
