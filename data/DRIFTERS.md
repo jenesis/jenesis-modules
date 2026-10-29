@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-28. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-29. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -212,7 +212,7 @@ reactor.core  [explicit rule: owned by `io.projectreactor`; 1 other group(s) rej
   ?   com.guicedee.modules.services        2026-08..2026-10 2.4.1                |...................=|
 org.dataloader  [explicit rule: owned by `com.graphql-java`; 2 other group(s) rejected]
   A * com.graphql-java                     2022-06..2026-10 0.0.0-2026-10-22T03-40-18-82a721b |..........==========|
-  ?   com.guicedee.modules.services        2026-07..2026-10 2.4.1                |...................=|
+  ?   com.guicedee.modules.services        2026-07..2026-10 2.4.1                |..................==|
   R   com.liferay                          2025-05..2025-05 3.2.0.JAKARTA-LIFERAY-PATCHED-1 |................=...|
 kotlinx.coroutines.core  [explicit rule: owned by `org.jetbrains`; 22 other group(s) rejected]
   A * org.jetbrains.kotlinx                2023-03..2026-05 1.11.0               |............=======.|
@@ -987,7 +987,7 @@ com.github.librepdf.openpdf  [fork: keep `com.github.librepdf`, `com.guicedee.mo
   A * com.github.librepdf                  2018-09..2026-05 3.0.5                |...================.|
   R   com.guicedee.modules.services        2026-04..2026-10 2.4.1                |..................==|
   ?   io.github.icarius4iu                 2026-06..2026-06 0.1.0                |..................=.|
-  R   net.ioze                             2026-01..2026-01 1.0.9                |..................=.|
+  R   net.ioze                             2026-01..2026-01 1.0.9                |.................=..|
   R   org.computate                        2023-11..2024-02 2.0.2                |.............==.....|
   R   io.github.darkxanter                 2023-10..2023-10 1.3.31               |.............=......|
     + 2 more: com.github.kwart.jsign, com.guicedee.services
@@ -1015,7 +1015,7 @@ org.mongodb.driver.reactivestreams  [fork: keep `org.mongodb`, `com.guicedee.mod
   ?   com.guicedee.modules.services        2026-08..2026-10 2.4.1                |...................=|
 org.reactivestreams  [fork: keep `org.reactivestreams`, `com.guicedee.modules.services` still publishes the name]
   A * org.reactivestreams                  2017-12..2022-05 1.0.4                |..=========.........|
-  ?   com.guicedee.modules.services        2026-07..2026-10 2.4.1                |...................=|
+  ?   com.guicedee.modules.services        2026-07..2026-10 2.4.1                |..................==|
   R   dev.ikm.jpms                         2024-01..2024-08 1.0.3-r6             |..............==....|
 com.google.guice.extensions.assistedinject  [fork: keep `com.google.inject.extensions`, `com.guicedee.modules.services` still publishes the name]
   A * com.google.inject.extensions         2018-02..2023-05 7.0.0                |..===========.......|
@@ -1205,7 +1205,7 @@ org.bouncycastle.pkix  [fork: keep `org.bouncycastle`, `com.exasol` still publis
 org.apache.commons.beanutils2  [fork: keep `org.apache.commons`, `org.onebusaway` still publishes the name]
   ? * org.apache.commons                   2024-12..2025-05 2.0.0-M2             |...............==...|
   ?   org.onebusaway                       2025-05..2026-10 15.0.0               |................====|
-  ?   com.github.bordertech.wcomponents    2025-12..2026-01 1.5.39               |.................==.|
+  ?   com.github.bordertech.wcomponents    2025-12..2026-01 1.5.39               |.................=..|
 org.signal.libsignal  [fork: keep `org.signal`, `io.github.wanggenlin` still publishes the name]
   A * org.signal                           2023-09..2025-11 0.86.5               |.............=====..|
   R   io.github.wanggenlin                 2026-02..2026-10 0.87.7               |..................==|
@@ -1222,7 +1222,7 @@ org.xerial.sqlitejdbc  [fork: keep `org.xerial`, `org.apache.tika` still publish
   R   org.apache.tika                      2023-01..2026-10 3.3.3                |............========|
   ?   int.esa.nmf                          2026-09..2026-09 5.1                  |...................=|
   ?   int.esa.nmf.sdk                      2026-07..2026-09 5.1                  |..................==|
-  R   io.github.treebolic                  2024-07..2026-09 4.2-1                |...............=====|
+  R   io.github.treebolic                  2024-07..2026-09 4.2-1                |..............======|
   ?   tech.molecules                       2026-08..2026-08 0.3.6                |...................=|
     + 21 more: dev.mintychochip, com.codenameone, at.hugob.plugin.library, io.github.zhyt1985, com.clapbxt, dev.aga.sqlite, io.toxicity.sqlite-mc, io.github.frame-dev, org.apache.sedona, nz.co.gregs, app.cash.sqldelight, io.github.pacocarlesimo, (+9 more)
 io.netty.codec.unused  [fork: keep `io.netty`, `com.github.marks-yag` still publishes the name]
@@ -1742,7 +1742,7 @@ com.aayushatharva.brotli4j  [owned by `com.aayushatharva.brotli4j`; 2 other grou
   R   org.apache.orc                       2024-11..2026-01 2.1.4                |...............===..|
 com.graphqljava  [owned by `com.graphql-java`; 3 other group(s) shade the name]
   A * com.graphql-java                     2020-11..2026-10 0.0.0-2026-10-24T03-57-47-9423eb8 |.......=============|
-  ?   com.guicedee.modules.services        2026-07..2026-10 2.4.1                |...................=|
+  ?   com.guicedee.modules.services        2026-07..2026-10 2.4.1                |..................==|
   R   com.liferay                          2025-05..2025-05 19.11.JAKARTA-LIFERAY-PATCHED-1 |................=...|
   R   io.github.my-workforce               2022-07..2023-07 19.6                 |...........===......|
 io.opentelemetry.instrumentation_annotations  [owned by `io.opentelemetry.instrumentation`; 1 other group(s) shade the name]
@@ -2557,7 +2557,7 @@ org.dnsjava  [no clear owner; `dnsjava` is earliest and most recent]
   ?   ai.askamerica                        2026-07..2026-10 0.111.1              |...................=|
   ?   org.apache.paimon                    2026-04..2026-10 2.1.0                |..................==|
   ?   com.testingbot                       2026-10..2026-10 5.0                  |...................=|
-  ?   org.apache.beam                      2025-01..2026-10 2.77.0               |................====|
+  ?   org.apache.beam                      2025-01..2026-10 2.77.0               |...............=====|
     + 22 more: com.helger.peppol.mcp, org.apache.fluss, org.apache.knox, io.github.littleproxy, org.apache.hbase, org.apache.avro, io.jikkou, ai.platon.gora, org.apache.phoenix, com.alibaba.polardbx, org.apache.pinot, de.m3y.hadoop.hdfs.hfsa, (+10 more)
 flying.saucer.pdf  [no clear owner; `org.xhtmlrenderer` is earliest and most recent]
   ? * org.xhtmlrenderer                    2024-09..2026-10 9.13.4               |...............=====|
