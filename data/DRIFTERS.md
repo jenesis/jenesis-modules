@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-10-30. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-10-31. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -624,7 +624,7 @@ org.apache.commons.dbcp2  [renamed `org.apache.commons` -> `org.apache.tomee` (l
   ?   org.apache.meecrowave                2025-10..2025-10 2.0.0                |.................=..|
   ?   net.ontopia                          2025-04..2025-07 5.5.2                |................=...|
   ?   org.apache.openjpa                   2024-09..2025-05 4.1.1                |...............==...|
-  ?   org.ikasan                           2024-07..2024-07 1.0.0                |...............=....|
+  ?   org.ikasan                           2024-07..2024-07 1.0.0                |..............=.....|
 bento.fx  [renamed `software.coley` -> `software.coley.bento-fx` (latest 0.16.0)]
   ? * software.coley                       2025-04..2026-01 0.15.1               |................==..|
   ?   software.coley.bento-fx              2026-07..2026-07 0.16.0               |..................=.|
@@ -702,7 +702,7 @@ org.apache.commons.text  [fork: keep `org.apache.commons`, `io.github.liquid-jav
     + 19 more: com.vmlens, ru.biosoft.diagrams, io.github.venkateshamurthy, dev.jbang, io.github.davidwhitlock.joy, io.github.pro4d, org.bidib.com.github.markusbernhardt, fr.lirmm.graphik, io.github.noeltoy, io.github.mderevyankoaqa, com.salesforce.functions, org.opendaylight.aaa, (+7 more)
 org.checkerframework.checker.qual  [fork: keep `org.checkerframework`, `io.valkyrja` still publishes the name]
   A * org.checkerframework                 2018-08..2026-10 4.3.1                |...=================|
-  ?   io.valkyrja                          2026-07..2026-10 26.5.2               |...................=|
+  ?   io.valkyrja                          2026-07..2026-10 26.5.2               |..................==|
   ?   org.jetbrains.kotlin                 2026-09..2026-10 2.5.0-Beta2          |...................=|
   R   com.daml                             2024-09..2026-10 2.10.7-snapshot.20261020.13209.0.vfcd518de |...............=====|
   ?   org.docshare                         2026-10..2026-10 2026.10.18           |...................=|
@@ -876,7 +876,7 @@ tools.jackson.core  [fork: keep `tools.jackson.core`, `com.zonzonzon` still publ
 com.fasterxml.aalto  [fork: keep `com.fasterxml`, `org.jetbrains.kotlin` still publishes the name]
   A * com.fasterxml                        2018-04..2026-05 1.4.0                |..=================.|
   ?   org.jetbrains.kotlin                 2023-12..2026-10 2.5.0-Beta2          |.............=======|
-  R   org.jetbrains.dokka                  2022-06..2023-03 1.8.10               |...........==.......|
+  R   org.jetbrains.dokka                  2022-06..2023-03 1.8.10               |..........===.......|
 org.opentest4j  [fork: keep `org.opentest4j`, `org.jetbrains.kotlin` still publishes the name]
   A * org.opentest4j                       2017-07..2023-07 1.3.0                |.=============......|
   ?   org.jetbrains.kotlin                 2026-07..2026-10 2.5.0-Beta2          |..................==|
@@ -1114,7 +1114,7 @@ com.hazelcast.core  [fork: keep `com.hazelcast`, `io.github.sharding-db` still p
 org.apache.commons.compress  [fork: keep `org.apache.commons`, `io.spicelabs` still publishes the name]
   A * org.apache.commons                   2017-10..2025-07 1.28.0               |.=================..|
   ?   io.spicelabs                         2026-10..2026-10 1.9.11               |...................=|
-  R   org.onebusaway                       2026-01..2026-10 2.7.2                |..................==|
+  R   org.onebusaway                       2026-01..2026-10 2.7.2                |.................===|
   R   com.alibaba.ververica                2025-08..2026-10 1.20-vvr-11.9.0-jdk11 |.................===|
   R   com.mobidevelop.robovm               2024-02..2026-10 3.0.0                |..............======|
   R   org.apache.beam                      2024-06..2026-10 2.77.0               |..............======|
@@ -1280,7 +1280,7 @@ org.jctools.core  [fork: keep `org.jctools`, `io.monix` still publishes the name
   ?   io.monix                             2026-08..2026-10 3.5.2                |...................=|
   R   net.kieker-monitoring                2024-09..2026-04 2.0.3                |...............====.|
   R   io.xdag                              2025-10..2025-12 0.1.6                |.................=..|
-  R   io.github.shangor                    2025-07..2025-08 1.1.3                |.................=..|
+  R   io.github.shangor                    2025-07..2025-08 1.1.3                |................==..|
   R   io.actor4j                           2025-06..2025-06 2.4.0-beta.3         |................=...|
     + 1 more: io.github.jponge.jct
 net.bis5.mattermost4j.core  [fork: keep `net.bis5.mattermost4j`, `io.github.ug23` still publishes the name]
@@ -1441,11 +1441,11 @@ org.bytedeco.cuda.redist  [fork: keep `org.bytedeco`, `io.github.mullerhai` stil
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
 org.bytedeco.cuda  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
-  ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |................=...|
 org.bytedeco.cuda.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
-  ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.ffmpeg.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 8.1.2-1.5.14-GA-1.0  |..................==|
@@ -1556,11 +1556,11 @@ org.bytedeco.cpython.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mull
   R   us.ihmc                              2025-02..2025-02 3.11.3-1.5.11-ihmc-2 |................=...|
 org.bytedeco.cuda.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2020-04..2026-08 13.3-9.25-1.5.14     |......==============|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |................=...|
 org.bytedeco.cuda.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |................=...|
 org.bytedeco.ffmpeg.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
@@ -1630,7 +1630,7 @@ org.bytedeco.cpython.macosx.arm64  [fork: keep `org.bytedeco`, `io.github.muller
   ?   io.github.mullerhai                  2026-07..2026-08 3.14.7-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |................=...|
 org.bytedeco.ffmpeg.android.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
@@ -2032,34 +2032,34 @@ com.h2database  [owned by `com.h2database`; 4 other group(s) shade the name]
   R   net.xdob.h2db                        2022-06..2023-02 2.1.1                |...........==.......|
   R   org.lucee                            2023-01..2023-01 2.1.214.0001L        |............=.......|
 com.apollographql.apollo.tooling  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
-  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
+  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |..............======|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.runtime  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
-  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
+  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |..............======|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.cache.normalized.api  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
-  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
+  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |..............======|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.mpp  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
-  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
+  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |..............======|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.gradle  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
-  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
+  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |..............======|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.gradle.tasks  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
   ? * com.apollographql.apollo             2025-06..2026-09 5.2.0                |................====|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.ast  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
-  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
+  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |..............======|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.compiler  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
-  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
+  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |..............======|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.api  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
-  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
+  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |..............======|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 com.apollographql.apollo.annotations  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
-  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |...............=====|
+  ? * com.apollographql.apollo             2024-07..2026-09 5.2.0                |..............======|
   ?   no.beint.apollo                      2026-09..2026-09 5.1.0-beint.2        |...................=|
 org.opendaylight.yangtools.yang.model.export  [owned by `org.opendaylight.yangtools`; 0 other group(s) shade the name]
   ? * org.opendaylight.yangtools           2019-04..2026-09 16.1.0               |....================|
@@ -2112,7 +2112,7 @@ org.junit.jupiter.engine  [owned by `org.junit.jupiter`; 10 other group(s) shade
   ?   io.github.rpost                      2026-07..2026-07 6.0.0-M2             |..................=.|
   R   org.apache.tika                      2024-07..2026-06 4.0.0-beta-1         |...............====.|
   R   com.janeluo                          2026-04..2026-04 1.0.0                |..................=.|
-  R   org.eclipse.pass                     2023-06..2024-01 1.3.0                |.............==.....|
+  R   org.eclipse.pass                     2023-06..2024-01 1.3.0                |............===.....|
   R   com.quantego                         2023-11..2023-11 0.6.5                |.............=......|
     + 6 more: com.salesforce.kafka.test, com.trendyol, org.caseine, org.eclipse.rdf4j, com.github.jnr, org.junit.platform
 org.bytedeco.cuda.redist.cudnn.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
@@ -2553,8 +2553,8 @@ _Showing the 200 most recently active of 350. For the full list, emit the SetOwn
 ```
 org.dnsjava  [no clear owner; `dnsjava` is earliest and most recent]
   ? * dnsjava                              2019-05..2026-10 3.7.0                |.....===============|
-  ?   io.simpleishard                      2026-07..2026-10 0.121.7              |...................=|
-  ?   ai.askamerica                        2026-07..2026-10 0.111.1              |...................=|
+  ?   io.simpleishard                      2026-07..2026-10 0.121.7              |..................==|
+  ?   ai.askamerica                        2026-07..2026-10 0.111.1              |..................==|
   ?   org.apache.paimon                    2026-04..2026-10 2.1.0                |..................==|
   ?   com.testingbot                       2026-10..2026-10 5.0                  |...................=|
   ?   org.apache.beam                      2025-01..2026-10 2.77.0               |...............=====|
