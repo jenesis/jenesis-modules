@@ -361,6 +361,8 @@
 3.9.8-beta.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.9.8-beta.9/sdk-3.9.8-beta.9.jar returned status 404
 3.9.9-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/3.9.9-beta.3/sdk-3.9.9-beta.3.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/4.0.0/sdk-4.0.0.jar returned status 404
+4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/4.1.0/sdk-4.1.0.jar returned status 404
+4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/4.2.0/sdk-4.2.0.jar returned status 404
 deleteme-dhjgblwvvjw			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/deleteme-dhjgblwvvjw/sdk-deleteme-dhjgblwvvjw.jar returned status 404
 deleteme-dhvbdlwv			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/deleteme-dhvbdlwv/sdk-deleteme-dhvbdlwv.jar returned status 404
 deleteme-dijwlbnavavava			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/radar/sdk/deleteme-dijwlbnavavava/sdk-deleteme-dijwlbnavavava.jar returned status 404
