@@ -1850,3 +1850,17 @@ run.endive.build.time.compiler
 run.endive.compiler
 run.endive.codegen
 no.elixir.crypt4gh
+org.apache.commons.io
+cafe.jeffrey.jfr.events.spring
+cafe.jeffrey.jfr.events.mybatis
+cafe.jeffrey.jfr.events.spring.boot
+cafe.jeffrey.jfr.events.trace
+cafe.jeffrey.jfr.events.trace.threadlocal
+cafe.jeffrey.jfr.events.jdbc.datasource
+cafe.jeffrey.jfr.events.grpc.interceptor
+cafe.jeffrey.jfr.events.trace.scopedvalue
+cafe.jeffrey.jfr.events.jdbc.hikari
+cafe.jeffrey.jfr.events.servlet
+cafe.jeffrey.jfr.events
+ch.rasc.hibppasswords.query
+ch.sbb.polarion.extension.api_extender

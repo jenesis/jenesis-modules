@@ -71,6 +71,11 @@
 16.1.1		2026-10-20T15:33:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/16.1.1/jeap-archrepo-instance-16.1.1.jar returned status 404
 16.1.2		2026-10-21T08:17:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/16.1.2/jeap-archrepo-instance-16.1.2.jar returned status 404
 16.2.0		2026-10-22T05:26:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/16.2.0/jeap-archrepo-instance-16.2.0.jar returned status 404
+17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/17.0.0/jeap-archrepo-instance-17.0.0.jar returned status 404
+17.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/17.1.0/jeap-archrepo-instance-17.1.0.jar returned status 404
+17.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/17.2.0/jeap-archrepo-instance-17.2.0.jar returned status 404
+17.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/17.3.0/jeap-archrepo-instance-17.3.0.jar returned status 404
+17.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/17.3.1/jeap-archrepo-instance-17.3.1.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/2.0.0/jeap-archrepo-instance-2.0.0.jar returned status 404
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/2.1.0/jeap-archrepo-instance-2.1.0.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-archrepo-instance/2.1.1/jeap-archrepo-instance-2.1.1.jar returned status 404
