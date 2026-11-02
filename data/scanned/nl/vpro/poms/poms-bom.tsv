@@ -115,6 +115,8 @@
 8.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-bom/8.15.1/poms-bom-8.15.1.jar returned status 404
 8.16.0		2026-10-02T14:26:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-bom/8.16.0/poms-bom-8.16.0.jar returned status 404
 8.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-bom/8.16.1/poms-bom-8.16.1.jar returned status 404
+8.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-bom/8.17.0/poms-bom-8.17.0.jar returned status 404
+8.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-bom/8.17.1/poms-bom-8.17.1.jar returned status 404
 8.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-bom/8.2.0/poms-bom-8.2.0.jar returned status 404
 8.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-bom/8.2.1/poms-bom-8.2.1.jar returned status 404
 8.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/vpro/poms/poms-bom/8.2.2/poms-bom-8.2.2.jar returned status 404

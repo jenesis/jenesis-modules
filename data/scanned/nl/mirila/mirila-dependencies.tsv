@@ -16,6 +16,7 @@
 3.16.3		2026-10-02T14:31:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/mirila-dependencies/3.16.3/mirila-dependencies-3.16.3.jar returned status 404
 3.17.0		2026-10-06T15:51:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/mirila-dependencies/3.17.0/mirila-dependencies-3.17.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/mirila-dependencies/3.2.0/mirila-dependencies-3.2.0.jar returned status 404
+3.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/mirila-dependencies/3.20.0/mirila-dependencies-3.20.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/mirila-dependencies/3.3.0/mirila-dependencies-3.3.0.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/mirila-dependencies/3.5.0/mirila-dependencies-3.5.0.jar returned status 404
 3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/mirila/mirila-dependencies/3.5.1/mirila-dependencies-3.5.1.jar returned status 404

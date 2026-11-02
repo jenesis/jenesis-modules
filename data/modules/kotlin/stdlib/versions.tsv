@@ -2530,3 +2530,5 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 3.0.0	named	com.airbnb.viaduct	javaapi-api	2026-10-21T16:02:15Z	
 0.0.14	named	se.liu.research.hefquin	hefquin-cli	2026-10-22T12:46:22Z	
 1.1.0	named	de.darkatra.injector	kotlin-dll-injector-application	2026-10-24T19:57:23Z	
+0.1.44	named	org.jetbrains	marketplace-zip-signer-cli	2026-10-30T11:20:03Z	
+0.1.45	named	org.jetbrains	marketplace-zip-signer-cli	2026-10-30T16:27:30Z	

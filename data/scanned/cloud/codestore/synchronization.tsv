@@ -1,3 +1,4 @@
 1.0		2022-06-02T07:31:15Z	
 1.0.1		2022-06-11T08:58:09Z	
 1.1.0		2023-11-01T10:52:22Z	
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/codestore/synchronization/1.1.1/synchronization-1.1.1.jar returned status 404

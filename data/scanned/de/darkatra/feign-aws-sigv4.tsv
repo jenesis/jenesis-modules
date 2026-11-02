@@ -58,3 +58,4 @@
 5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/5.0.2/feign-aws-sigv4-5.0.2.jar returned status 404
 5.0.3		2026-10-05T22:31:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/5.0.3/feign-aws-sigv4-5.0.3.jar returned status 404
 5.0.4		2026-10-17T15:22:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/5.0.4/feign-aws-sigv4-5.0.4.jar returned status 404
+5.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/darkatra/feign-aws-sigv4/5.0.5/feign-aws-sigv4-5.0.5.jar returned status 404

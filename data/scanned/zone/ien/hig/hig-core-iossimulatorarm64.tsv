@@ -34,3 +34,6 @@
 27.0.1-alpha04	metadata	2026-10-12T10:20:55Z	
 27.0.1-alpha05		2026-10-13T03:06:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.0.1-alpha05/hig-core-iossimulatorarm64-27.0.1-alpha05.jar returned status 404
 27.0.1-alpha05	metadata	2026-10-13T03:06:16Z	
+27.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.2.0/hig-core-iossimulatorarm64-27.2.0.jar returned status 404
+27.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.2.1/hig-core-iossimulatorarm64-27.2.1.jar returned status 404
+27.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.2.2/hig-core-iossimulatorarm64-27.2.2.jar returned status 404
