@@ -2154,3 +2154,8 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 2.57.3	named	software.amazon.awssdk	bundle-sdk	2026-10-22T20:35:28Z	1.17.1
 2.57.3	named	software.amazon.awssdk	bundle	2026-10-22T20:35:34Z	1.17.1
 2.2.0	named	org.operaton.bpm.extension	operaton-keycloak-run	2026-10-26T09:21:41Z	1.23.0
+2.57.4	named	software.amazon.awssdk	bundle-sdk	2026-10-26T20:34:03Z	1.17.1
+2.57.5	named	software.amazon.awssdk	bundle-sdk	2026-10-27T20:43:55Z	1.17.1
+2.57.6	named	software.amazon.awssdk	bundle-sdk	2026-10-28T20:34:20Z	1.17.1
+2.57.7	named	software.amazon.awssdk	bundle-sdk	2026-10-29T20:34:28Z	1.17.1
+2.57.8	named	software.amazon.awssdk	bundle-sdk	2026-10-30T20:37:45Z	1.17.1

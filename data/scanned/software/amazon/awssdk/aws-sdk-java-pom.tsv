@@ -1796,6 +1796,11 @@
 2.57.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.1/aws-sdk-java-pom-2.57.1.jar returned status 404
 2.57.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.2/aws-sdk-java-pom-2.57.2.jar returned status 404
 2.57.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.3/aws-sdk-java-pom-2.57.3.jar returned status 404
+2.57.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.4/aws-sdk-java-pom-2.57.4.jar returned status 404
+2.57.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.5/aws-sdk-java-pom-2.57.5.jar returned status 404
+2.57.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.6/aws-sdk-java-pom-2.57.6.jar returned status 404
+2.57.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.7/aws-sdk-java-pom-2.57.7.jar returned status 404
+2.57.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.8/aws-sdk-java-pom-2.57.8.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.6.0/aws-sdk-java-pom-2.6.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.6.1/aws-sdk-java-pom-2.6.1.jar returned status 404
 2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.6.2/aws-sdk-java-pom-2.6.2.jar returned status 404
