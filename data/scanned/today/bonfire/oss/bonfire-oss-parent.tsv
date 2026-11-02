@@ -11,3 +11,6 @@
 1.1.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/today/bonfire/oss/bonfire-oss-parent/1.1.7/bonfire-oss-parent-1.1.7.jar returned status 404
 1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/today/bonfire/oss/bonfire-oss-parent/1.1.8/bonfire-oss-parent-1.1.8.jar returned status 404
 1.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/today/bonfire/oss/bonfire-oss-parent/1.1.9/bonfire-oss-parent-1.1.9.jar returned status 404
+2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/today/bonfire/oss/bonfire-oss-parent/2.0.0/bonfire-oss-parent-2.0.0.jar returned status 404
+2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/today/bonfire/oss/bonfire-oss-parent/2.1.0/bonfire-oss-parent-2.1.0.jar returned status 404
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/today/bonfire/oss/bonfire-oss-parent/2.1.1/bonfire-oss-parent-2.1.1.jar returned status 404

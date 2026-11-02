@@ -30,3 +30,4 @@
 1.0.8	metadata	2026-09-03T06:25:38Z	
 1.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/imgui/imgui-kmp-macosx64/1.0.9/imgui-kmp-macosx64-1.0.9.jar returned status 404
 1.0.9	metadata	2026-09-03T16:38:37Z	
+1.93.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/imgui/imgui-kmp-macosx64/1.93.0.1/imgui-kmp-macosx64-1.93.0.1.jar returned status 404

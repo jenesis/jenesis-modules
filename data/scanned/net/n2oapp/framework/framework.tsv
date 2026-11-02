@@ -317,6 +317,7 @@
 7.27.39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.27.39/framework-7.27.39.jar returned status 404
 7.27.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.27.4/framework-7.27.4.jar returned status 404
 7.27.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.27.40/framework-7.27.40.jar returned status 404
+7.27.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.27.41/framework-7.27.41.jar returned status 404
 7.27.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.27.5/framework-7.27.5.jar returned status 404
 7.27.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.27.6/framework-7.27.6.jar returned status 404
 7.27.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.27.7/framework-7.27.7.jar returned status 404
@@ -336,6 +337,7 @@
 7.28.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.28.20/framework-7.28.20.jar returned status 404
 7.28.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.28.22/framework-7.28.22.jar returned status 404
 7.28.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.28.23/framework-7.28.23.jar returned status 404
+7.28.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.28.24/framework-7.28.24.jar returned status 404
 7.28.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.28.3/framework-7.28.3.jar returned status 404
 7.28.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.28.4/framework-7.28.4.jar returned status 404
 7.28.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/n2oapp/framework/framework/7.28.5/framework-7.28.5.jar returned status 404

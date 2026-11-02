@@ -5335,5 +5335,6 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 11.10.1.86404	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-10-23T18:13:25Z	2.13.2
 2.15.0	named	com.google.code.gson	gson	2026-10-24T01:23:38Z	2.15.0
 4.3.0	named	org.apache.spark	spark-connect_2.13	2026-10-27T03:33:33Z	2.13.2
+2.15.0	named	hu.icellmobilsoft.coffee	coffee-grpc-protoc	2026-10-29T08:42:36Z	2.10
 8.46.0.59609	named	org.sonarsource.java	java-custom-rules-example	2026-10-29T14:12:43Z	2.15.0
 8.46.0.59609	named	org.sonarsource.java	sonar-java-plugin	2026-10-29T14:12:44Z	2.15.0

@@ -22,3 +22,4 @@
 1.6.5_csj			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/qingin/game-sdk-core/1.6.5_csj/game-sdk-core-1.6.5_csj.jar returned status 404
 1.6.9_csj			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/qingin/game-sdk-core/1.6.9_csj/game-sdk-core-1.6.9_csj.jar returned status 404
 1.7.1_csj		2026-08-24T08:25:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/qingin/game-sdk-core/1.7.1_csj/game-sdk-core-1.7.1_csj.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/qingin/game-sdk-core/3.0.0/game-sdk-core-3.0.0.jar returned status 404

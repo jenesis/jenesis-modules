@@ -2977,6 +2977,7 @@
 2026.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openhft/chronicle-bom/2026.24/chronicle-bom-2026.24.jar returned status 404
 2026.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openhft/chronicle-bom/2026.25/chronicle-bom-2026.25.jar returned status 404
 2026.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openhft/chronicle-bom/2026.26/chronicle-bom-2026.26.jar returned status 404
+2026.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openhft/chronicle-bom/2026.28/chronicle-bom-2026.28.jar returned status 404
 2026.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openhft/chronicle-bom/2026.3/chronicle-bom-2026.3.jar returned status 404
 2026.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openhft/chronicle-bom/2026.4/chronicle-bom-2026.4.jar returned status 404
 2026.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/openhft/chronicle-bom/2026.5/chronicle-bom-2026.5.jar returned status 404
