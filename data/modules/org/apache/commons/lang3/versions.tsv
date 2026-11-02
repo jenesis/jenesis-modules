@@ -1541,3 +1541,7 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 3.26.41-1	named	com.ubs-hainer	filebridge-jdbc-driver	2026-10-22T15:17:42Z	3.19.0
 4.2.5.2	named	io.streamnative	buildtools	2026-10-22T19:36:22Z	3.19.0
 3.21.0-1	automatic	de.knightsoft-net	gwt-commons-lang3	2026-10-23T17:52:00Z	
+1.55.0	named	io.openlineage	openlineage-sql-java	2026-10-29T15:09:57Z	3.18.0
+1.55.0	named	io.openlineage	openlineage-flink	2026-10-29T15:16:36Z	3.18.0
+1.55.0	named	io.openlineage	openlineage-spark_2.12	2026-10-29T15:36:41Z	3.18.0
+1.55.0	named	io.openlineage	openlineage-spark_2.13	2026-10-29T15:41:14Z	3.18.0

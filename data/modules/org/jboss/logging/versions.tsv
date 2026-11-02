@@ -483,3 +483,4 @@
 2.0.0-RC6	named	io.appform.ranger	ranger-server	2026-08-25T03:38:33Z	3.6.1.Final
 1.5.28.Final	named	org.jboss.ironjacamar	ironjacamar-as	2026-08-26T16:29:54Z	3.6.3.Final
 1.5.28.Final	named	org.jboss.ironjacamar	ironjacamar-validator-cli	2026-08-26T16:29:54Z	3.6.3.Final
+4.0.0.Beta2	named	io.quarkus	quarkus-grpc-cli	2026-10-28T18:19:14Z	3.6.3.Final

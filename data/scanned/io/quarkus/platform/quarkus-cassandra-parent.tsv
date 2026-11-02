@@ -368,3 +368,4 @@
 3.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cassandra-parent/3.9.4/quarkus-cassandra-parent-3.9.4.jar returned status 404
 3.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cassandra-parent/3.9.5/quarkus-cassandra-parent-3.9.5.jar returned status 404
 4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cassandra-parent/4.0.0.Beta1/quarkus-cassandra-parent-4.0.0.Beta1.jar returned status 404
+4.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-cassandra-parent/4.0.0.Beta2/quarkus-cassandra-parent-4.0.0.Beta2.jar returned status 404

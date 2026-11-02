@@ -8,6 +8,7 @@
 123.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/threema/webrtc-android/123.0.0/webrtc-android-123.0.0.jar returned status 404
 134.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/threema/webrtc-android/134.0.0/webrtc-android-134.0.0.jar returned status 404
 144.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/threema/webrtc-android/144.0.0/webrtc-android-144.0.0.jar returned status 404
+149.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/threema/webrtc-android/149.0.0/webrtc-android-149.0.0.jar returned status 404
 84.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/threema/webrtc-android/84.2.1/webrtc-android-84.2.1.jar returned status 404
 91.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/threema/webrtc-android/91.0.0/webrtc-android-91.0.0.jar returned status 404
 91.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/threema/webrtc-android/91.0.1/webrtc-android-91.0.1.jar returned status 404

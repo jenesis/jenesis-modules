@@ -1935,3 +1935,4 @@
 0.121.7	named	io.simpleishard	trino-salesforce	2026-10-25T14:57:23Z	2.21.5
 0.121.7	named	io.simpleishard	trino-calcite	2026-10-25T14:57:24Z	2.21.5
 0.121.7	named	io.simpleishard	trino-cloudops	2026-10-25T15:02:28Z	2.21.5
+1.55.0	named	io.openlineage	openlineage-hive	2026-10-29T15:16:35Z	2.18.11

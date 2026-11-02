@@ -514,3 +514,4 @@
 3.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-jdbc-mssql-parent/3.9.4/quarkus-jdbc-mssql-parent-3.9.4.jar returned status 404
 3.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-jdbc-mssql-parent/3.9.5/quarkus-jdbc-mssql-parent-3.9.5.jar returned status 404
 4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-jdbc-mssql-parent/4.0.0.Beta1/quarkus-jdbc-mssql-parent-4.0.0.Beta1.jar returned status 404
+4.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/quarkus-jdbc-mssql-parent/4.0.0.Beta2/quarkus-jdbc-mssql-parent-4.0.0.Beta2.jar returned status 404
