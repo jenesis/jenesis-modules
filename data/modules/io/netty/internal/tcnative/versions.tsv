@@ -988,4 +988,6 @@
 2.2.2	named	org.apache.ozone	ozone-filesystem-shaded	2026-10-26T18:09:53Z	2.0.84.Final
 4.151.8	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-27T10:18:19Z	2.0.72.Final
 4.152.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-27T12:52:33Z	2.0.72.Final
+2.6.27	named	io.milvus	milvus-sdk-java	2026-10-28T02:57:03Z	2.0.74.Final
+3.0.12	named	io.milvus	milvus-sdk-java	2026-10-28T03:07:19Z	2.0.74.Final
 5.0.3	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-28T22:57:11Z	2.0.72.Final
