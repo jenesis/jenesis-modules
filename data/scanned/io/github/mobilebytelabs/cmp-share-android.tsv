@@ -30,6 +30,11 @@
 3.5.3		2026-07-06T15:21:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.3/cmp-share-android-3.5.3.jar returned status 404
 3.5.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.30/cmp-share-android-3.5.30.jar returned status 404
 3.5.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.31/cmp-share-android-3.5.31.jar returned status 404
+3.5.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.32/cmp-share-android-3.5.32.jar returned status 404
+3.5.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.33/cmp-share-android-3.5.33.jar returned status 404
+3.5.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.34/cmp-share-android-3.5.34.jar returned status 404
+3.5.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.35/cmp-share-android-3.5.35.jar returned status 404
+3.5.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.36/cmp-share-android-3.5.36.jar returned status 404
 3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.4/cmp-share-android-3.5.4.jar returned status 404
 3.5.5		2026-07-20T03:40:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.5/cmp-share-android-3.5.5.jar returned status 404
 3.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-share-android/3.5.6/cmp-share-android-3.5.6.jar returned status 404
