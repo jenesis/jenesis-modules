@@ -24,3 +24,4 @@
 1.27.2-CUSTOM	metadata	2026-02-21T19:35:13Z	
 1.27.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shabinder/zipline-iosx64/1.27.3/zipline-iosx64-1.27.3.jar returned status 404
 1.27.3	metadata	2026-09-03T10:24:20Z	
+1.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shabinder/zipline-iosx64/1.28.1/zipline-iosx64-1.28.1.jar returned status 404

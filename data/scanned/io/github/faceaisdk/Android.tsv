@@ -511,3 +511,7 @@
 2026.09.30.yobellchat1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.09.30.yobellchat1/Android-2026.09.30.yobellchat1.jar returned status 404
 2026.10.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.10.01/Android-2026.10.01.jar returned status 404
 2026.10.01.APEC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.10.01.APEC/Android-2026.10.01.APEC.jar returned status 404
+2026.10.01.beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.10.01.beta/Android-2026.10.01.beta.jar returned status 404
+2026.10.01.techwx			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.10.01.techwx/Android-2026.10.01.techwx.jar returned status 404
+2026.10.29.meiju			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.10.29.meiju/Android-2026.10.29.meiju.jar returned status 404
+2026.10.29.techwx			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/faceaisdk/Android/2026.10.29.techwx/Android-2026.10.29.techwx.jar returned status 404
