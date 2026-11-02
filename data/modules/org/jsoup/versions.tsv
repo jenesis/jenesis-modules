@@ -417,3 +417,9 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 0.121.5	named	ai.askamerica	askamerica-engine	2026-10-24T18:27:08Z	1.23.2
 0.121.6	named	ai.askamerica	askamerica-engine	2026-10-25T12:41:55Z	1.23.2
 0.121.7	named	ai.askamerica	askamerica-engine	2026-10-25T14:57:36Z	1.23.2
+0.4.0	named	org.apache.flink	flink-agents-dist-flink-2.3	2026-10-26T03:17:18Z	1.21.2
+0.4.0	named	org.apache.flink	flink-agents-dist-common	2026-10-26T03:23:10Z	1.21.2
+0.4.0	named	org.apache.flink	flink-agents-dist-flink-1.20	2026-10-26T03:30:08Z	1.21.2
+0.4.0	named	org.apache.flink	flink-agents-dist-flink-2.0	2026-10-26T03:36:56Z	1.21.2
+0.4.0	named	org.apache.flink	flink-agents-dist-flink-2.1	2026-10-26T03:43:42Z	1.21.2
+0.4.0	named	org.apache.flink	flink-agents-dist-flink-2.2	2026-10-26T03:50:07Z	1.21.2

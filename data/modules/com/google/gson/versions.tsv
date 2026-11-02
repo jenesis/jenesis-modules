@@ -5314,6 +5314,9 @@ v1.0.0-beta.13	named	dev.blitical	JigsawDB	2026-05-24T17:06:34Z	2.13.2
 ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 3.40.1.1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-10-19T09:12:32Z	2.10
 3.0.0.8	named	org.lucee	debugger-agent	2026-10-19T19:19:45Z	2.14.0
+4.0.5	named	org.apache.spark	spark-connect-client-jvm_2.13	2026-10-21T16:50:33Z	2.11.0
+4.2.1	named	org.apache.spark	spark-connect_2.13	2026-10-21T21:28:33Z	2.13.2
+4.1.4	named	org.apache.spark	spark-connect_2.13	2026-10-22T11:51:59Z	2.11.0
 2.2.0.0-RC1	named	com.tencent.polaris	polaris-all	2026-10-22T12:03:38Z	2.9.0
 0.64.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-10-22T13:02:40Z	2.11.0
 8.45.0.59462	named	org.sonarsource.java	java-custom-rules-example	2026-10-22T13:34:15Z	2.14.0
@@ -5331,3 +5334,4 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 11.10.1.86404	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-10-23T18:13:25Z	2.13.2
 11.10.1.86404	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-10-23T18:13:25Z	2.13.2
 2.15.0	named	com.google.code.gson	gson	2026-10-24T01:23:38Z	2.15.0
+4.3.0	named	org.apache.spark	spark-connect_2.13	2026-10-27T03:33:33Z	2.13.2

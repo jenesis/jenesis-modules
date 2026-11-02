@@ -3359,6 +3359,9 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 2.0.6	named	org.open-metadata	elasticsearch-deps	2026-10-21T05:32:01Z	2.0.4
 5.2.0	named	org.openidentityplatform.opendj	opendj-ldap-sdk-examples	2026-10-21T15:42:01Z	2.0.17
 16.1.4	named	org.openidentityplatform.openam	openam-installtools	2026-10-22T06:56:57Z	2.0.17
+6.4.0	named	org.apache.activemq	activemq-all	2026-10-22T10:19:44Z	2.0.20
+6.3.3	named	org.apache.activemq	activemq-all	2026-10-22T11:20:17Z	2.0.20
+5.19.12	named	org.apache.activemq	activemq-all	2026-10-22T12:05:23Z	2.0.20
 7.8.4	named	com.newrelic.agent.android	instrumentation	2026-10-22T14:42:29Z	2.0.4
 7.8.4	named	com.newrelic.agent.android	instrumentation-static	2026-10-22T14:42:29Z	2.0.4
 0.5.10	named	org.logevents	logevents-config-demo	2026-10-25T16:27:42Z	2.0.17
@@ -3366,5 +3369,6 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 0.5.11	named	org.logevents	logevents-config-demo	2026-10-25T18:17:45Z	2.0.20
 0.5.11	named	org.logevents	logevents-smtp-demo	2026-10-25T18:17:45Z	2.0.20
 2.0.7	named	org.open-metadata	elasticsearch-deps	2026-10-27T07:47:45Z	2.0.4
+2.19.7.0	named	org.opensearch	opensearch-job-scheduler-spi	2026-10-28T00:34:38Z	2.0.17
 2.1.0	named	org.open-metadata	elasticsearch-deps	2026-10-28T07:32:37Z	2.0.4
 2.1.0-rc1	named	org.open-metadata	elasticsearch-deps	2026-10-28T11:24:14Z	2.0.4
