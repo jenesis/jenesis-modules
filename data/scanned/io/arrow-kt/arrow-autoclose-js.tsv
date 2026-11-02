@@ -27,6 +27,7 @@
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.2.2/arrow-autoclose-js-2.2.2.jar returned status 404
 2.2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.2.2.1/arrow-autoclose-js-2.2.2.1.jar returned status 404
 2.2.3		2026-06-04T07:48:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.2.3/arrow-autoclose-js-2.2.3.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.3.0/arrow-autoclose-js-2.3.0.jar returned status 404
 2.3.0-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.3.0-alpha.1/arrow-autoclose-js-2.3.0-alpha.1.jar returned status 404
 2.3.0-alpha.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.3.0-alpha.2/arrow-autoclose-js-2.3.0-alpha.2.jar returned status 404
 2.3.0-alpha.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.3.0-alpha.3/arrow-autoclose-js-2.3.0-alpha.3.jar returned status 404
@@ -35,3 +36,4 @@
 2.3.0-alpha.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.3.0-alpha.6/arrow-autoclose-js-2.3.0-alpha.6.jar returned status 404
 2.3.0-alpha.7		2026-10-19T12:37:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.3.0-alpha.7/arrow-autoclose-js-2.3.0-alpha.7.jar returned status 404
 2.3.0-alpha.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.3.0-alpha.8/arrow-autoclose-js-2.3.0-alpha.8.jar returned status 404
+2.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/arrow-kt/arrow-autoclose-js/2.3.0.1/arrow-autoclose-js-2.3.0.1.jar returned status 404
