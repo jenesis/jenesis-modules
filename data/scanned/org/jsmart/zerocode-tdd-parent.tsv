@@ -46,3 +46,4 @@
 1.4.3		2026-05-26T21:28:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jsmart/zerocode-tdd-parent/1.4.3/zerocode-tdd-parent-1.4.3.jar returned status 404
 1.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jsmart/zerocode-tdd-parent/1.4.4/zerocode-tdd-parent-1.4.4.jar returned status 404
 1.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jsmart/zerocode-tdd-parent/1.4.5/zerocode-tdd-parent-1.4.5.jar returned status 404
+1.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jsmart/zerocode-tdd-parent/1.4.6/zerocode-tdd-parent-1.4.6.jar returned status 404

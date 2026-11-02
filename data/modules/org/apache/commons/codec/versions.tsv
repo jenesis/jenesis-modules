@@ -2153,3 +2153,4 @@ mavenFixUp	named	com.ibm.cloud	continuous-delivery-examples	2026-03-09T17:03:04Z
 0.10.2	named	com.clickhouse.spark	clickhouse-spark-runtime-3.5_2.12	2026-10-22T13:06:53Z	1.17.2
 2.57.3	named	software.amazon.awssdk	bundle-sdk	2026-10-22T20:35:28Z	1.17.1
 2.57.3	named	software.amazon.awssdk	bundle	2026-10-22T20:35:34Z	1.17.1
+2.2.0	named	org.operaton.bpm.extension	operaton-keycloak-run	2026-10-26T09:21:41Z	1.23.0
