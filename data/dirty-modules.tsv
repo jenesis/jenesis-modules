@@ -223,3 +223,4 @@ org.hiero.block.node.backfill
 org.hiero.block.node.cloud.storage.expanded
 org.hiero.block.node.roster.bootstrap.tss
 org.cicirello.chips_n_salsa
+io.netty.internal.tcnative
