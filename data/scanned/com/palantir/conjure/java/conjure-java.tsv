@@ -339,3 +339,6 @@
 8.94.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/java/conjure-java/8.94.0-rc1/conjure-java-8.94.0-rc1.jar returned status 404
 8.95.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/java/conjure-java/8.95.0/conjure-java-8.95.0.jar returned status 404
 8.96.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/java/conjure-java/8.96.0/conjure-java-8.96.0.jar returned status 404
+8.97.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/java/conjure-java/8.97.0/conjure-java-8.97.0.jar returned status 404
+8.98.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/java/conjure-java/8.98.0/conjure-java-8.98.0.jar returned status 404
+8.99.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/palantir/conjure/java/conjure-java/8.99.0/conjure-java-8.99.0.jar returned status 404
