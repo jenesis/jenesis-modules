@@ -142,3 +142,6 @@
 6.15.1	named	org.neo4j	neo4j-jdbc	2026-09-30T08:01:02Z	6.15.1
 6.15.1	named	org.neo4j	neo4j-jdbc-bundle	2026-09-30T08:01:02Z	6.15.1
 6.15.1	named	org.neo4j	neo4j-jdbc-full-bundle	2026-09-30T08:01:02Z	6.15.1
+6.15.2	named	org.neo4j	neo4j-jdbc	2026-10-30T17:31:13Z	6.15.2
+6.15.2	named	org.neo4j	neo4j-jdbc-bundle	2026-10-30T17:31:13Z	6.15.2
+6.15.2	named	org.neo4j	neo4j-jdbc-full-bundle	2026-10-30T17:31:14Z	6.15.2
