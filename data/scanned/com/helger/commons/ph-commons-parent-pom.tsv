@@ -71,3 +71,4 @@
 12.5.0		2026-09-21T12:16:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/commons/ph-commons-parent-pom/12.5.0/ph-commons-parent-pom-12.5.0.jar returned status 404
 12.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/commons/ph-commons-parent-pom/12.5.1/ph-commons-parent-pom-12.5.1.jar returned status 404
 12.5.2		2026-10-20T20:07:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/commons/ph-commons-parent-pom/12.5.2/ph-commons-parent-pom-12.5.2.jar returned status 404
+12.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/commons/ph-commons-parent-pom/12.5.3/ph-commons-parent-pom-12.5.3.jar returned status 404

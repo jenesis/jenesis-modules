@@ -329,4 +329,6 @@
 1.5.7-22	named	com.github.luben	zstd-jni	2026-10-06T22:27:02Z	1.5.7-22
 1.5.7-23	named	com.github.luben	zstd-jni	2026-10-10T23:10:58Z	1.5.7-23
 1.5.7-24	named	com.github.luben	zstd-jni	2026-10-18T12:50:59Z	1.5.7-24
+3.5.5	named	com.snowflake	snowflake-kafka-connector	2026-10-26T22:21:26Z	1.5.6-4
 1.5.7-25	named	com.github.luben	zstd-jni	2026-10-28T02:27:14Z	1.5.7-25
+3.5.6	named	com.snowflake	snowflake-kafka-connector	2026-10-28T22:47:19Z	1.5.6-4
