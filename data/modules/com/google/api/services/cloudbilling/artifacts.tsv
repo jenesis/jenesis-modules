@@ -1,3 +1,4 @@
+v1-rev20260901-2.9.2	automatic	com.google.apis	google-api-services-cloudbilling
 v1-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-cloudbilling
 v1-rev20241011-2.0.0	automatic	com.google.apis	google-api-services-cloudbilling
 v1-rev20240517-2.0.0	automatic	com.google.apis	google-api-services-cloudbilling
@@ -60,6 +61,7 @@ v1-rev20190702-1.29.2	automatic	com.google.apis	google-api-services-cloudbilling
 v1-rev20190702-1.28.0	automatic	com.google.apis	google-api-services-cloudbilling
 v1-rev20190413-1.30.1	automatic	com.google.apis	google-api-services-cloudbilling
 v1-rev20190413-1.29.2	automatic	com.google.apis	google-api-services-cloudbilling
+v1beta-rev20260320-2.9.2	automatic	com.google.apis	google-api-services-cloudbilling
 v1beta-rev20260320-2.0.0	automatic	com.google.apis	google-api-services-cloudbilling
 v1beta-rev20250711-2.0.0	automatic	com.google.apis	google-api-services-cloudbilling
 v1beta-rev20241106-2.0.0	automatic	com.google.apis	google-api-services-cloudbilling

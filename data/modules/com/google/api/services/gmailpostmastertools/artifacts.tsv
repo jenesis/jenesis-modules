@@ -1,6 +1,8 @@
+v2-rev20260623-2.9.2	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v2-rev20260623-2.0.0	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v2-rev20260512-2.0.0	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v2-rev20260209-2.0.0	automatic	com.google.apis	google-api-services-gmailpostmastertools
+v1-rev20250529-2.9.2	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v1-rev20250529-2.0.0	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v1-rev20250528-2.0.0	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v1-rev20250325-2.0.0	automatic	com.google.apis	google-api-services-gmailpostmastertools
@@ -9,6 +11,7 @@ v1-rev20210112-2.0.0	automatic	com.google.apis	google-api-services-gmailpostmast
 v1-rev20210112-1.32.1	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v1-rev20210112-1.31.5	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v1-rev20210112-1.31.0	automatic	com.google.apis	google-api-services-gmailpostmastertools
+v1beta1-rev20250529-2.9.2	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v1beta1-rev20250529-2.0.0	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v1beta1-rev20250528-2.0.0	automatic	com.google.apis	google-api-services-gmailpostmastertools
 v1beta1-rev20250325-2.0.0	automatic	com.google.apis	google-api-services-gmailpostmastertools

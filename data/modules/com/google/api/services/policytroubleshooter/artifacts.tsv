@@ -1,4 +1,6 @@
+v3-rev20260111-2.9.2	automatic	com.google.apis	google-api-services-policytroubleshooter
 v3-rev20260111-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
+v3beta-rev20261025-2.9.2	automatic	com.google.apis	google-api-services-policytroubleshooter
 v3beta-rev20261018-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
 v3beta-rev20260628-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
 v3beta-rev20260623-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
@@ -7,6 +9,7 @@ v3beta-rev20260503-2.0.0	automatic	com.google.apis	google-api-services-policytro
 v3beta-rev20260426-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
 v3beta-rev20260329-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
 v3beta-rev20260111-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
+v1-rev20240121-2.9.2	automatic	com.google.apis	google-api-services-policytroubleshooter
 v1-rev20240121-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
 v1-rev20231217-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
 v1-rev20230806-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
@@ -39,6 +42,7 @@ v1-rev20200120-1.28.0	automatic	com.google.apis	google-api-services-policytroubl
 v1-rev20191206-1.30.3	automatic	com.google.apis	google-api-services-policytroubleshooter
 v1-rev20191206-1.29.2	automatic	com.google.apis	google-api-services-policytroubleshooter
 v1-rev20191206-1.28.0	automatic	com.google.apis	google-api-services-policytroubleshooter
+v1beta-rev20240121-2.9.2	automatic	com.google.apis	google-api-services-policytroubleshooter
 v1beta-rev20240121-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
 v1beta-rev20231217-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter
 v1beta-rev20230806-2.0.0	automatic	com.google.apis	google-api-services-policytroubleshooter

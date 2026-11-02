@@ -1,3 +1,4 @@
+v1-rev20260925-2.9.2	automatic	com.google.apis	google-api-services-artifactregistry
 v1-rev20260925-2.0.0	automatic	com.google.apis	google-api-services-artifactregistry
 v1-rev20260822-2.0.0	automatic	com.google.apis	google-api-services-artifactregistry
 v1-rev20260702-2.0.0	automatic	com.google.apis	google-api-services-artifactregistry
@@ -89,6 +90,7 @@ v1-rev20210324-1.31.0	automatic	com.google.apis	google-api-services-artifactregi
 v1-rev20210302-1.31.0	automatic	com.google.apis	google-api-services-artifactregistry
 v1-rev20201215-1.31.0	automatic	com.google.apis	google-api-services-artifactregistry
 v1-rev20201203-1.31.0	automatic	com.google.apis	google-api-services-artifactregistry
+v1beta2-rev20260522-2.9.2	automatic	com.google.apis	google-api-services-artifactregistry
 v1beta2-rev20260522-2.0.0	automatic	com.google.apis	google-api-services-artifactregistry
 v1beta2-rev20260320-2.0.0	automatic	com.google.apis	google-api-services-artifactregistry
 v1beta2-rev20260206-2.0.0	automatic	com.google.apis	google-api-services-artifactregistry
@@ -160,6 +162,7 @@ v1beta2-rev20201215-1.31.0	automatic	com.google.apis	google-api-services-artifac
 v1beta2-rev20201203-1.31.0	automatic	com.google.apis	google-api-services-artifactregistry
 v1beta2-rev20201107-1.31.0	automatic	com.google.apis	google-api-services-artifactregistry
 v1beta2-rev20201107-1.30.10	automatic	com.google.apis	google-api-services-artifactregistry
+v1beta1-rev20260522-2.9.2	automatic	com.google.apis	google-api-services-artifactregistry
 v1beta1-rev20260522-2.0.0	automatic	com.google.apis	google-api-services-artifactregistry
 v1beta1-rev20260320-2.0.0	automatic	com.google.apis	google-api-services-artifactregistry
 v1beta1-rev20260206-2.0.0	automatic	com.google.apis	google-api-services-artifactregistry

@@ -1,3 +1,4 @@
+v1-rev20260424-2.9.2	automatic	com.google.apis	google-api-services-managedidentities
 v1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-managedidentities
 v1-rev20260414-2.0.0	automatic	com.google.apis	google-api-services-managedidentities
 v1-rev20260202-2.0.0	automatic	com.google.apis	google-api-services-managedidentities
@@ -43,6 +44,7 @@ v1-rev20200415-1.30.9	automatic	com.google.apis	google-api-services-managedident
 v1-rev20200326-1.30.9	automatic	com.google.apis	google-api-services-managedidentities
 v1-rev20200219-1.30.9	automatic	com.google.apis	google-api-services-managedidentities
 v1-rev20200219-1.30.8	automatic	com.google.apis	google-api-services-managedidentities
+v1beta1-rev20260424-2.9.2	automatic	com.google.apis	google-api-services-managedidentities
 v1beta1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-managedidentities
 v1beta1-rev20260414-2.0.0	automatic	com.google.apis	google-api-services-managedidentities
 v1beta1-rev20260202-2.0.0	automatic	com.google.apis	google-api-services-managedidentities
@@ -89,6 +91,7 @@ v1beta1-rev20200415-1.30.9	automatic	com.google.apis	google-api-services-managed
 v1beta1-rev20200326-1.30.9	automatic	com.google.apis	google-api-services-managedidentities
 v1beta1-rev20200219-1.30.9	automatic	com.google.apis	google-api-services-managedidentities
 v1beta1-rev20200219-1.30.8	automatic	com.google.apis	google-api-services-managedidentities
+v1alpha1-rev20260424-2.9.2	automatic	com.google.apis	google-api-services-managedidentities
 v1alpha1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-managedidentities
 v1alpha1-rev20260414-2.0.0	automatic	com.google.apis	google-api-services-managedidentities
 v1alpha1-rev20260202-2.0.0	automatic	com.google.apis	google-api-services-managedidentities

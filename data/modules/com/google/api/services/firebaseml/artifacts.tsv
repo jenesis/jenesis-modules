@@ -1,3 +1,5 @@
+v2beta-rev20261025-2.9.2	automatic	com.google.apis	google-api-services-firebaseml
+v2beta-rev20261018-2.9.2	automatic	com.google.apis	google-api-services-firebaseml
 v2beta-rev20261018-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
 v2beta-rev20261011-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
 v2beta-rev20261004-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
@@ -105,6 +107,7 @@ v2beta-rev20240429-2.0.0	automatic	com.google.apis	google-api-services-firebasem
 v2beta-rev20240425-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
 v2beta-rev20240419-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
 v2beta-rev20240405-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
+v1-rev20251116-2.9.2	automatic	com.google.apis	google-api-services-firebaseml
 v1-rev20251116-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
 v1-rev20250929-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
 v1-rev20241117-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
@@ -120,6 +123,7 @@ v1-rev20200803-1.31.0	automatic	com.google.apis	google-api-services-firebaseml
 v1-rev20200803-1.30.10	automatic	com.google.apis	google-api-services-firebaseml
 v1-rev20200519-1.30.10	automatic	com.google.apis	google-api-services-firebaseml
 v1-rev20200519-1.30.9	automatic	com.google.apis	google-api-services-firebaseml
+v1beta2-rev20230802-2.9.2	automatic	com.google.apis	google-api-services-firebaseml
 v1beta2-rev20230802-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
 v1beta2-rev20220321-2.0.0	automatic	com.google.apis	google-api-services-firebaseml
 v1beta2-rev20220321-1.32.1	automatic	com.google.apis	google-api-services-firebaseml

@@ -1,3 +1,4 @@
+v1-rev20251113-2.9.2	automatic	com.google.apis	google-api-services-runtimeconfig
 v1-rev20251113-2.0.0	automatic	com.google.apis	google-api-services-runtimeconfig
 v1-rev20241219-2.0.0	automatic	com.google.apis	google-api-services-runtimeconfig
 v1-rev20240227-2.0.0	automatic	com.google.apis	google-api-services-runtimeconfig
@@ -17,6 +18,7 @@ v1-rev20200211-1.30.8	automatic	com.google.apis	google-api-services-runtimeconfi
 v1-rev20190603-1.30.8	automatic	com.google.apis	google-api-services-runtimeconfig
 v1-rev20190603-1.30.1	automatic	com.google.apis	google-api-services-runtimeconfig
 v1-rev20190603-1.29.2	automatic	com.google.apis	google-api-services-runtimeconfig
+v1beta1-rev20240227-2.9.2	automatic	com.google.apis	google-api-services-runtimeconfig
 v1beta1-rev20240227-2.0.0	automatic	com.google.apis	google-api-services-runtimeconfig
 v1beta1-rev20231222-2.0.0	automatic	com.google.apis	google-api-services-runtimeconfig
 v1beta1-rev20230803-2.0.0	automatic	com.google.apis	google-api-services-runtimeconfig

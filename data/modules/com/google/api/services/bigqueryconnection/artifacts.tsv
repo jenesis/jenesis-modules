@@ -1,3 +1,4 @@
+v1-rev20260922-2.9.2	automatic	com.google.apis	google-api-services-bigqueryconnection
 v1-rev20260922-2.0.0	automatic	com.google.apis	google-api-services-bigqueryconnection
 v1-rev20260804-2.0.0	automatic	com.google.apis	google-api-services-bigqueryconnection
 v1-rev20260601-2.0.0	automatic	com.google.apis	google-api-services-bigqueryconnection
@@ -7,6 +8,7 @@ v1-rev20240418-2.0.0	automatic	com.google.apis	google-api-services-bigqueryconne
 v1-rev20240323-2.0.0	automatic	com.google.apis	google-api-services-bigqueryconnection
 v1-rev20240124-2.0.0	automatic	com.google.apis	google-api-services-bigqueryconnection
 v1-rev20240106-2.0.0	automatic	com.google.apis	google-api-services-bigqueryconnection
+v1beta1-rev20240124-2.9.2	automatic	com.google.apis	google-api-services-bigqueryconnection
 v1beta1-rev20240124-2.0.0	automatic	com.google.apis	google-api-services-bigqueryconnection
 v1beta1-rev20240106-2.0.0	automatic	com.google.apis	google-api-services-bigqueryconnection
 v1beta1-rev20230806-2.0.0	automatic	com.google.apis	google-api-services-bigqueryconnection

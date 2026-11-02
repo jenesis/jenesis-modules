@@ -1,3 +1,4 @@
+v2-rev20260904-2.9.2	automatic	com.google.apis	google-api-services-cloudbuild
 v2-rev20260904-2.0.0	automatic	com.google.apis	google-api-services-cloudbuild
 v2-rev20260511-2.0.0	automatic	com.google.apis	google-api-services-cloudbuild
 v2-rev20260323-2.0.0	automatic	com.google.apis	google-api-services-cloudbuild
@@ -38,6 +39,8 @@ v2-rev20231011-2.0.0	automatic	com.google.apis	google-api-services-cloudbuild
 v2-rev20230920-2.0.0	automatic	com.google.apis	google-api-services-cloudbuild
 v2-rev20230907-2.0.0	automatic	com.google.apis	google-api-services-cloudbuild
 v2-rev20230811-2.0.0	automatic	com.google.apis	google-api-services-cloudbuild
+v1-rev20261025-2.9.2	automatic	com.google.apis	google-api-services-cloudbuild
+v1-rev20261010-2.9.2	automatic	com.google.apis	google-api-services-cloudbuild
 v1-rev20261010-2.0.0	automatic	com.google.apis	google-api-services-cloudbuild
 v1-rev20260918-2.0.0	automatic	com.google.apis	google-api-services-cloudbuild
 v1-rev20260814-2.0.0	automatic	com.google.apis	google-api-services-cloudbuild
