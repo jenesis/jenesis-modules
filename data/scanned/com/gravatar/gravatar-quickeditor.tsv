@@ -5,3 +5,4 @@
 2.5.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gravatar/gravatar-quickeditor/2.5.0-rc2/gravatar-quickeditor-2.5.0-rc2.jar returned status 404
 2.5.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gravatar/gravatar-quickeditor/2.5.0-rc3/gravatar-quickeditor-2.5.0-rc3.jar returned status 404
 2.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gravatar/gravatar-quickeditor/2.5.1/gravatar-quickeditor-2.5.1.jar returned status 404
+2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/gravatar/gravatar-quickeditor/2.6.0/gravatar-quickeditor-2.6.0.jar returned status 404

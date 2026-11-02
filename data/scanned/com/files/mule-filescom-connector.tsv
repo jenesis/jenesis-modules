@@ -118,14 +118,58 @@
 1.1.1-RC33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC33/mule-filescom-connector-1.1.1-RC33.jar returned status 404
 1.1.1-RC34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC34/mule-filescom-connector-1.1.1-RC34.jar returned status 404
 1.1.1-RC35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC35/mule-filescom-connector-1.1.1-RC35.jar returned status 404
+1.1.1-RC36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC36/mule-filescom-connector-1.1.1-RC36.jar returned status 404
+1.1.1-RC37			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC37/mule-filescom-connector-1.1.1-RC37.jar returned status 404
+1.1.1-RC38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC38/mule-filescom-connector-1.1.1-RC38.jar returned status 404
+1.1.1-RC39			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC39/mule-filescom-connector-1.1.1-RC39.jar returned status 404
 1.1.1-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC4/mule-filescom-connector-1.1.1-RC4.jar returned status 404
 1.1.1-RC4	mule-plugin	2026-10-16T22:46:26Z	
+1.1.1-RC40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC40/mule-filescom-connector-1.1.1-RC40.jar returned status 404
+1.1.1-RC41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC41/mule-filescom-connector-1.1.1-RC41.jar returned status 404
+1.1.1-RC42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC42/mule-filescom-connector-1.1.1-RC42.jar returned status 404
+1.1.1-RC43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC43/mule-filescom-connector-1.1.1-RC43.jar returned status 404
+1.1.1-RC44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC44/mule-filescom-connector-1.1.1-RC44.jar returned status 404
+1.1.1-RC45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC45/mule-filescom-connector-1.1.1-RC45.jar returned status 404
+1.1.1-RC46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC46/mule-filescom-connector-1.1.1-RC46.jar returned status 404
+1.1.1-RC47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC47/mule-filescom-connector-1.1.1-RC47.jar returned status 404
+1.1.1-RC48			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC48/mule-filescom-connector-1.1.1-RC48.jar returned status 404
+1.1.1-RC49			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC49/mule-filescom-connector-1.1.1-RC49.jar returned status 404
 1.1.1-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC5/mule-filescom-connector-1.1.1-RC5.jar returned status 404
 1.1.1-RC5	mule-plugin	2026-10-17T02:21:12Z	
+1.1.1-RC50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC50/mule-filescom-connector-1.1.1-RC50.jar returned status 404
+1.1.1-RC51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC51/mule-filescom-connector-1.1.1-RC51.jar returned status 404
+1.1.1-RC52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC52/mule-filescom-connector-1.1.1-RC52.jar returned status 404
+1.1.1-RC53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC53/mule-filescom-connector-1.1.1-RC53.jar returned status 404
+1.1.1-RC54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC54/mule-filescom-connector-1.1.1-RC54.jar returned status 404
+1.1.1-RC55			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC55/mule-filescom-connector-1.1.1-RC55.jar returned status 404
+1.1.1-RC56			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC56/mule-filescom-connector-1.1.1-RC56.jar returned status 404
+1.1.1-RC57			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC57/mule-filescom-connector-1.1.1-RC57.jar returned status 404
+1.1.1-RC58			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC58/mule-filescom-connector-1.1.1-RC58.jar returned status 404
+1.1.1-RC59			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC59/mule-filescom-connector-1.1.1-RC59.jar returned status 404
 1.1.1-RC6		2026-10-19T11:43:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC6/mule-filescom-connector-1.1.1-RC6.jar returned status 404
 1.1.1-RC6	mule-plugin	2026-10-19T11:43:12Z	
+1.1.1-RC60			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC60/mule-filescom-connector-1.1.1-RC60.jar returned status 404
+1.1.1-RC61			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC61/mule-filescom-connector-1.1.1-RC61.jar returned status 404
+1.1.1-RC62			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC62/mule-filescom-connector-1.1.1-RC62.jar returned status 404
+1.1.1-RC63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC63/mule-filescom-connector-1.1.1-RC63.jar returned status 404
+1.1.1-RC64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC64/mule-filescom-connector-1.1.1-RC64.jar returned status 404
+1.1.1-RC65			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC65/mule-filescom-connector-1.1.1-RC65.jar returned status 404
+1.1.1-RC66			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC66/mule-filescom-connector-1.1.1-RC66.jar returned status 404
+1.1.1-RC67			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC67/mule-filescom-connector-1.1.1-RC67.jar returned status 404
+1.1.1-RC68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC68/mule-filescom-connector-1.1.1-RC68.jar returned status 404
+1.1.1-RC69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC69/mule-filescom-connector-1.1.1-RC69.jar returned status 404
 1.1.1-RC7		2026-10-19T17:03:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC7/mule-filescom-connector-1.1.1-RC7.jar returned status 404
 1.1.1-RC7	mule-plugin	2026-10-19T17:03:21Z	
+1.1.1-RC70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC70/mule-filescom-connector-1.1.1-RC70.jar returned status 404
+1.1.1-RC71			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC71/mule-filescom-connector-1.1.1-RC71.jar returned status 404
+1.1.1-RC72			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC72/mule-filescom-connector-1.1.1-RC72.jar returned status 404
+1.1.1-RC73			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC73/mule-filescom-connector-1.1.1-RC73.jar returned status 404
+1.1.1-RC74			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC74/mule-filescom-connector-1.1.1-RC74.jar returned status 404
+1.1.1-RC75			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC75/mule-filescom-connector-1.1.1-RC75.jar returned status 404
+1.1.1-RC76			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC76/mule-filescom-connector-1.1.1-RC76.jar returned status 404
+1.1.1-RC77			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC77/mule-filescom-connector-1.1.1-RC77.jar returned status 404
+1.1.1-RC78			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC78/mule-filescom-connector-1.1.1-RC78.jar returned status 404
+1.1.1-RC79			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC79/mule-filescom-connector-1.1.1-RC79.jar returned status 404
 1.1.1-RC8		2026-10-21T16:58:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC8/mule-filescom-connector-1.1.1-RC8.jar returned status 404
 1.1.1-RC8	mule-plugin	2026-10-21T16:58:42Z	
 1.1.1-RC9		2026-10-21T17:57:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/files/mule-filescom-connector/1.1.1-RC9/mule-filescom-connector-1.1.1-RC9.jar returned status 404
