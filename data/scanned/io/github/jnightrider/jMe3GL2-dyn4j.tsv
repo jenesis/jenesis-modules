@@ -1,2 +1,5 @@
 3.1.1		2026-06-30T03:45:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jnightrider/jMe3GL2-dyn4j/3.1.1/jMe3GL2-dyn4j-3.1.1.jar returned status 404
 3.1.1	dyn4j	2026-06-30T03:45:55Z	
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jnightrider/jMe3GL2-dyn4j/3.2.0/jMe3GL2-dyn4j-3.2.0.jar returned status 404
+3.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jnightrider/jMe3GL2-dyn4j/3.2.1/jMe3GL2-dyn4j-3.2.1.jar returned status 404
+3.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jnightrider/jMe3GL2-dyn4j/3.2.2/jMe3GL2-dyn4j-3.2.2.jar returned status 404

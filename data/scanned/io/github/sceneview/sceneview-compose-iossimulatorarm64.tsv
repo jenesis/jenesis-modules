@@ -66,3 +66,6 @@
 4.60.0	metadata	2026-10-19T11:57:50Z	
 4.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iossimulatorarm64/4.61.0/sceneview-compose-iossimulatorarm64-4.61.0.jar returned status 404
 4.62.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iossimulatorarm64/4.62.0/sceneview-compose-iossimulatorarm64-4.62.0.jar returned status 404
+4.63.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iossimulatorarm64/4.63.0/sceneview-compose-iossimulatorarm64-4.63.0.jar returned status 404
+4.64.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iossimulatorarm64/4.64.0/sceneview-compose-iossimulatorarm64-4.64.0.jar returned status 404
+4.65.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-compose-iossimulatorarm64/4.65.0/sceneview-compose-iossimulatorarm64-4.65.0.jar returned status 404

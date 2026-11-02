@@ -167,6 +167,8 @@
 1.9.21		2026-08-14T06:04:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/1.9.21/nstationsdk-1.9.21.jar returned status 404
 1.9.22		2026-08-14T08:55:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/1.9.22/nstationsdk-1.9.22.jar returned status 404
 1.9.23		2026-08-26T07:12:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/1.9.23/nstationsdk-1.9.23.jar returned status 404
+1.9.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/1.9.24/nstationsdk-1.9.24.jar returned status 404
+1.9.24-kt1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/1.9.24-kt1/nstationsdk-1.9.24-kt1.jar returned status 404
 1.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/1.9.3/nstationsdk-1.9.3.jar returned status 404
 1.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/1.9.4/nstationsdk-1.9.4.jar returned status 404
 1.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/nasmedia-tech/nstationsdk/1.9.5/nstationsdk-1.9.5.jar returned status 404

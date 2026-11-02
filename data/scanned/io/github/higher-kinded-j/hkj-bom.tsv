@@ -11,3 +11,4 @@
 0.4.7		2026-06-26T18:05:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/higher-kinded-j/hkj-bom/0.4.7/hkj-bom-0.4.7.jar returned status 404
 0.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/higher-kinded-j/hkj-bom/0.4.8/hkj-bom-0.4.8.jar returned status 404
 0.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/higher-kinded-j/hkj-bom/0.4.9/hkj-bom-0.4.9.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/higher-kinded-j/hkj-bom/0.5.0/hkj-bom-0.5.0.jar returned status 404
