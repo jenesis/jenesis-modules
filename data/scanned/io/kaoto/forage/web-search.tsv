@@ -6,3 +6,4 @@
 1.6.0		2026-08-25T14:39:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kaoto/forage/web-search/1.6.0/web-search-1.6.0.jar returned status 404
 1.6.1		2026-09-21T09:55:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kaoto/forage/web-search/1.6.1/web-search-1.6.1.jar returned status 404
 1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kaoto/forage/web-search/1.6.2/web-search-1.6.2.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kaoto/forage/web-search/1.7.0/web-search-1.7.0.jar returned status 404
