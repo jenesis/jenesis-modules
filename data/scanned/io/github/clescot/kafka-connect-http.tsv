@@ -398,6 +398,12 @@
 0.8.175			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.175/kafka-connect-http-0.8.175.jar returned status 404
 0.8.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.18/kafka-connect-http-0.8.18.jar returned status 404
 0.8.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.19/kafka-connect-http-0.8.19.jar returned status 404
+0.8.190			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.190/kafka-connect-http-0.8.190.jar returned status 404
+0.8.191			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.191/kafka-connect-http-0.8.191.jar returned status 404
+0.8.192			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.192/kafka-connect-http-0.8.192.jar returned status 404
+0.8.193			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.193/kafka-connect-http-0.8.193.jar returned status 404
+0.8.194			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.194/kafka-connect-http-0.8.194.jar returned status 404
+0.8.195			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.195/kafka-connect-http-0.8.195.jar returned status 404
 0.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.2/kafka-connect-http-0.8.2.jar returned status 404
 0.8.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.20/kafka-connect-http-0.8.20.jar returned status 404
 0.8.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/clescot/kafka-connect-http/0.8.21/kafka-connect-http-0.8.21.jar returned status 404
