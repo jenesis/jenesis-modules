@@ -95,3 +95,5 @@
 8.0.0-RC1	metadata	2026-09-30T12:57:13Z	
 9.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-iossimulatorarm64/9.0.0-RC1/vck-iossimulatorarm64-9.0.0-RC1.jar returned status 404
 9.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-iossimulatorarm64/9.0.0-RC2/vck-iossimulatorarm64-9.0.0-RC2.jar returned status 404
+9.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-iossimulatorarm64/9.0.0-RC3/vck-iossimulatorarm64-9.0.0-RC3.jar returned status 404
+9.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/vck-iossimulatorarm64/9.0.0-RC4/vck-iossimulatorarm64-9.0.0-RC4.jar returned status 404

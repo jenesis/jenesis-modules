@@ -13,3 +13,5 @@
 8.0.0-RC1	metadata	2026-09-30T12:57:12Z	
 9.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/etsi-data-classes-iossimulatorarm64/9.0.0-RC1/etsi-data-classes-iossimulatorarm64-9.0.0-RC1.jar returned status 404
 9.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/etsi-data-classes-iossimulatorarm64/9.0.0-RC2/etsi-data-classes-iossimulatorarm64-9.0.0-RC2.jar returned status 404
+9.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/etsi-data-classes-iossimulatorarm64/9.0.0-RC3/etsi-data-classes-iossimulatorarm64-9.0.0-RC3.jar returned status 404
+9.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/at/asitplus/wallet/etsi-data-classes-iossimulatorarm64/9.0.0-RC4/etsi-data-classes-iossimulatorarm64-9.0.0-RC4.jar returned status 404
