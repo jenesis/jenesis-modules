@@ -28,3 +28,4 @@
 0.32		2026-07-15T09:12:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/illuin/data-pipeline-parent/0.32/data-pipeline-parent-0.32.jar returned status 404
 0.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/illuin/data-pipeline-parent/0.33/data-pipeline-parent-0.33.jar returned status 404
 0.33.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/illuin/data-pipeline-parent/0.33.1/data-pipeline-parent-0.33.1.jar returned status 404
+0.33.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/illuin/data-pipeline-parent/0.33.2/data-pipeline-parent-0.33.2.jar returned status 404
