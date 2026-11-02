@@ -4420,3 +4420,12 @@ com.infomaximum.platform
 org.jetbrains.annotations
 com.cedarsoftware.io
 com.cedarsoftware.util
+com.aidocing
+fiftyone.devicedetection
+fiftyone.devicedetection.hash.engine.onpremise
+fiftyone.devicedetection.shared
+fiftyone.devicedetection.cloud
+org.tukaani.xz
+com.danipa.sdk
+com.rejment.jhttp
+com.finoniq.docql
