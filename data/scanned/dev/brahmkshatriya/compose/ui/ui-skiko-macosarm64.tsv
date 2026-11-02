@@ -20,3 +20,4 @@
 1.13.0-alpha11	metadata	2026-10-17T11:31:13Z	
 1.13.0-alpha12		2026-10-19T17:17:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/compose/ui/ui-skiko-macosarm64/1.13.0-alpha12/ui-skiko-macosarm64-1.13.0-alpha12.jar returned status 404
 1.13.0-alpha12	metadata	2026-10-19T17:17:07Z	
+1.13.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/brahmkshatriya/compose/ui/ui-skiko-macosarm64/1.13.0-beta01/ui-skiko-macosarm64-1.13.0-beta01.jar returned status 404
