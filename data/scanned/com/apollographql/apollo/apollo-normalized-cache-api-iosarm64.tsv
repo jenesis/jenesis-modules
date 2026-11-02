@@ -28,6 +28,7 @@
 4.4.2	metadata	2026-03-16T18:37:23Z	
 4.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo/apollo-normalized-cache-api-iosarm64/4.4.3/apollo-normalized-cache-api-iosarm64-4.4.3.jar returned status 404
 4.4.3	metadata	2026-04-07T09:16:29Z	
+4.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo/apollo-normalized-cache-api-iosarm64/4.4.4/apollo-normalized-cache-api-iosarm64-4.4.4.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo/apollo-normalized-cache-api-iosarm64/5.0.0/apollo-normalized-cache-api-iosarm64-5.0.0.jar returned status 404
 5.0.0	metadata	2026-05-12T17:12:51Z	
 5.0.0-alpha.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/apollographql/apollo/apollo-normalized-cache-api-iosarm64/5.0.0-alpha.0/apollo-normalized-cache-api-iosarm64-5.0.0-alpha.0.jar returned status 404
