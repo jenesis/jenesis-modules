@@ -1095,3 +1095,5 @@
 4.7.7-jdk21	named	io.xpipe	picocli	2026-10-14T22:06:19Z	4.7.7-jdk21
 15.0.19	named	org.primefaces	primefaces-cli	2026-10-16T13:52:48Z	4.7.6
 16.0.1	named	org.primefaces	primefaces-cli	2026-10-16T14:21:14Z	4.7.7
+1.2.0	named	run.endive	build-time-compiler-cli-experimental	2026-10-30T14:45:35Z	4.7.7
+1.2.0	named	run.endive	cli-experimental	2026-10-30T14:45:35Z	4.7.7

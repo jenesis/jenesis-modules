@@ -20,3 +20,4 @@
 2.1.0-alpha03	metadata	2026-09-30T20:54:10Z	
 2.1.0-alpha04		2026-10-07T08:21:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/synchronization/synchronization-core-datastore-iosarm64/2.1.0-alpha04/synchronization-core-datastore-iosarm64-2.1.0-alpha04.jar returned status 404
 2.1.0-alpha04	metadata	2026-10-07T08:21:10Z	
+2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/synchronization/synchronization-core-datastore-iosarm64/2.1.1/synchronization-core-datastore-iosarm64-2.1.1.jar returned status 404

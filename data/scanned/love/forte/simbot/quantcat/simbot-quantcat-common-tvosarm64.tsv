@@ -86,6 +86,8 @@
 4.8.0	metadata	2024-11-22T08:24:06Z	
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/quantcat/simbot-quantcat-common-tvosarm64/4.9.0/simbot-quantcat-common-tvosarm64-4.9.0.jar returned status 404
 4.9.0	metadata	2024-12-03T13:12:22Z	
+5.0.0-Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/quantcat/simbot-quantcat-common-tvosarm64/5.0.0-Alpha1/simbot-quantcat-common-tvosarm64-5.0.0-Alpha1.jar returned status 404
+5.0.0-Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/quantcat/simbot-quantcat-common-tvosarm64/5.0.0-Alpha2/simbot-quantcat-common-tvosarm64-5.0.0-Alpha2.jar returned status 404
 5.0.0-Preview1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/quantcat/simbot-quantcat-common-tvosarm64/5.0.0-Preview1/simbot-quantcat-common-tvosarm64-5.0.0-Preview1.jar returned status 404
 5.0.0-Preview1	metadata	2026-01-09T16:48:39Z	
 5.0.0-Preview2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/quantcat/simbot-quantcat-common-tvosarm64/5.0.0-Preview2/simbot-quantcat-common-tvosarm64-5.0.0-Preview2.jar returned status 404

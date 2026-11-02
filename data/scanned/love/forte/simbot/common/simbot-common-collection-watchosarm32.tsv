@@ -86,6 +86,8 @@
 4.8.0	metadata	2024-11-22T08:12:24Z	
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/common/simbot-common-collection-watchosarm32/4.9.0/simbot-common-collection-watchosarm32-4.9.0.jar returned status 404
 4.9.0	metadata	2024-12-03T13:08:20Z	
+5.0.0-Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/common/simbot-common-collection-watchosarm32/5.0.0-Alpha1/simbot-common-collection-watchosarm32-5.0.0-Alpha1.jar returned status 404
+5.0.0-Alpha2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/common/simbot-common-collection-watchosarm32/5.0.0-Alpha2/simbot-common-collection-watchosarm32-5.0.0-Alpha2.jar returned status 404
 5.0.0-Preview1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/common/simbot-common-collection-watchosarm32/5.0.0-Preview1/simbot-common-collection-watchosarm32-5.0.0-Preview1.jar returned status 404
 5.0.0-Preview1	metadata	2026-01-09T16:49:10Z	
 5.0.0-Preview2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/love/forte/simbot/common/simbot-common-collection-watchosarm32/5.0.0-Preview2/simbot-common-collection-watchosarm32-5.0.0-Preview2.jar returned status 404

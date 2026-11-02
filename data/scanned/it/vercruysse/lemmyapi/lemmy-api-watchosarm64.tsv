@@ -20,3 +20,4 @@
 0.6.0-beta.6	metadata	2026-08-16T14:05:21Z	
 0.6.0-beta.7		2026-08-16T16:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-watchosarm64/0.6.0-beta.7/lemmy-api-watchosarm64-0.6.0-beta.7.jar returned status 404
 0.6.0-beta.7	metadata	2026-08-16T16:36:35Z	
+1.0.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-watchosarm64/1.0.0-rc.1/lemmy-api-watchosarm64-1.0.0-rc.1.jar returned status 404

@@ -1,4 +1,5 @@
 0.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-js/0.4.1/lemmy-api-js-0.4.1.jar returned status 404
+0.4.2-v1patch			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-js/0.4.2-v1patch/lemmy-api-js-0.4.2-v1patch.jar returned status 404
 0.5.0-alpha.1		2026-05-24T23:55:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-js/0.5.0-alpha.1/lemmy-api-js-0.5.0-alpha.1.jar returned status 404
 0.5.0-alpha.2		2026-05-25T19:07:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-js/0.5.0-alpha.2/lemmy-api-js-0.5.0-alpha.2.jar returned status 404
 0.5.0-alpha.3		2026-05-25T19:45:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-js/0.5.0-alpha.3/lemmy-api-js-0.5.0-alpha.3.jar returned status 404
@@ -9,3 +10,4 @@
 0.6.0-beta.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-js/0.6.0-beta.3/lemmy-api-js-0.6.0-beta.3.jar returned status 404
 0.6.0-beta.6		2026-08-16T14:05:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-js/0.6.0-beta.6/lemmy-api-js-0.6.0-beta.6.jar returned status 404
 0.6.0-beta.7		2026-08-16T16:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-js/0.6.0-beta.7/lemmy-api-js-0.6.0-beta.7.jar returned status 404
+1.0.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-js/1.0.0-rc.1/lemmy-api-js-1.0.0-rc.1.jar returned status 404
