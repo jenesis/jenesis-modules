@@ -3399,3 +3399,10 @@ io.vidocq.humboldt.sdk.metric
 io.vidocq.humboldt.rest
 io.opentelemetry.api
 io.vidocq.humboldt.exporter.otlp.http
+arrow.fx.coroutines
+arrow.optics.ksp.plugin
+arrow.optics.compiler.plugin
+arrow.raise.ktor.server
+arrow.collectors
+arrow.platform
+arrow.core.jackson2

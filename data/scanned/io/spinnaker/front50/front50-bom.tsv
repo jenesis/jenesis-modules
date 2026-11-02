@@ -122,6 +122,8 @@
 2026.2-41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.2-41/front50-bom-2026.2-41.jar returned status 404
 2026.2-42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.2-42/front50-bom-2026.2-42.jar returned status 404
 2026.2-43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.2-43/front50-bom-2026.2-43.jar returned status 404
+2026.2-44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.2-44/front50-bom-2026.2-44.jar returned status 404
+2026.2-45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.2-45/front50-bom-2026.2-45.jar returned status 404
 2026.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.2.3/front50-bom-2026.2.3.jar returned status 404
 2026.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.2.4/front50-bom-2026.2.4.jar returned status 404
 2026.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.2.5/front50-bom-2026.2.5.jar returned status 404
@@ -154,6 +156,8 @@
 2026.3-32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3-32/front50-bom-2026.3-32.jar returned status 404
 2026.3-33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3-33/front50-bom-2026.3-33.jar returned status 404
 2026.3-34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3-34/front50-bom-2026.3-34.jar returned status 404
+2026.3-35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3-35/front50-bom-2026.3-35.jar returned status 404
+2026.3-36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3-36/front50-bom-2026.3-36.jar returned status 404
 2026.3-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3-4/front50-bom-2026.3-4.jar returned status 404
 2026.3-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3-5/front50-bom-2026.3-5.jar returned status 404
 2026.3-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3-6/front50-bom-2026.3-6.jar returned status 404
@@ -163,6 +167,7 @@
 2026.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3.0/front50-bom-2026.3.0.jar returned status 404
 2026.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3.1/front50-bom-2026.3.1.jar returned status 404
 2026.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.3.2/front50-bom-2026.3.2.jar returned status 404
+2026.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/2026.4.0/front50-bom-2026.4.0.jar returned status 404
 main-239		2026-06-16T20:33:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-239/front50-bom-main-239.jar returned status 404
 main-241		2026-06-17T03:25:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-241/front50-bom-main-241.jar returned status 404
 main-272			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-272/front50-bom-main-272.jar returned status 404
@@ -335,4 +340,9 @@ main-440			IOException: Tail request on https://maven-central.storage-download.g
 main-441			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-441/front50-bom-main-441.jar returned status 404
 main-442			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-442/front50-bom-main-442.jar returned status 404
 main-443			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-443/front50-bom-main-443.jar returned status 404
+main-444			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-444/front50-bom-main-444.jar returned status 404
+main-445			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-445/front50-bom-main-445.jar returned status 404
+main-446			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-446/front50-bom-main-446.jar returned status 404
+main-447			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-447/front50-bom-main-447.jar returned status 404
+main-448			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/main-448/front50-bom-main-448.jar returned status 404
 version-0.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/spinnaker/front50/front50-bom/version-0.27.1/front50-bom-version-0.27.1.jar returned status 404
