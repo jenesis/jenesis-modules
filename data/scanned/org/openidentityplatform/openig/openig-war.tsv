@@ -16,3 +16,4 @@
 6.0.2		2026-02-05T07:46:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openig/openig-war/6.0.2/openig-war-6.0.2.jar returned status 404
 6.1.0		2026-03-25T07:35:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openig/openig-war/6.1.0/openig-war-6.1.0.jar returned status 404
 6.1.1		2026-06-19T16:33:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openig/openig-war/6.1.1/openig-war-6.1.1.jar returned status 404
+6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openidentityplatform/openig/openig-war/6.2.0/openig-war-6.2.0.jar returned status 404
