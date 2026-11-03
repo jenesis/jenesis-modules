@@ -146,14 +146,24 @@ const MODES = {
     documentation: { tsv: "modules", filenameSuffix: "-javadoc", extension: "jar" },
 };
 
+// Plain HTTP stays answered, as a client decides itself whether it accepts it: the build tool
+// refuses an http:// remote unless jenesis.repository.insecure allows one. A browser that has
+// seen this header keeps to HTTPS.
+const HSTS = "max-age=31536000";
+
 export default {
     async fetch(request, env) {
+        let response;
         try {
-            return await handleRequest(request, env);
+            response = await handleRequest(request, env);
         } catch (error) {
             console.error("worker error", error);
-            return textResponse(500, "Internal Server Error\n");
+            response = textResponse(500, "Internal Server Error\n");
         }
+        if (new URL(request.url).protocol === "https:") {
+            response.headers.set("Strict-Transport-Security", HSTS);
+        }
+        return response;
     },
 };
 
