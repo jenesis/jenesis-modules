@@ -97,14 +97,14 @@ async function call(path, { files = {}, env = ENV, method = "GET", headers = {},
     }
 }
 
-test("a request over plain HTTP is refused with 403 naming its HTTPS address, before the module is looked up", async () => {
-    const response = await call("/module/org.slf4j/org.slf4j.jar", {
-        origin: "http://worker.test",
-        files: { "org/slf4j/modules.tsv": { status: 500 } },
-    });
-    assert.equal(response.status, 403);
-    assert.equal(await response.text(), "This service answers over HTTPS only: https://worker.test/module/org.slf4j/org.slf4j.jar\n");
-    assert.equal(response.headers.get("Location"), null);
+test("a request over plain HTTP is still answered, without the HTTPS-only header", async () => {
+    const response = await call("/module/org.slf4j/org.slf4j.jar", { origin: "http://worker.test" });
+    assert.equal(response.status, 302);
+    assert.equal(
+        response.headers.get("Location"),
+        "https://maven.test/org/slf4j/slf4j-api/2.0.10/slf4j-api-2.0.10.jar",
+    );
+    assert.equal(response.headers.get("Strict-Transport-Security"), null);
 });
 
 test("every answer over HTTPS tells clients to keep to HTTPS for a year", async () => {

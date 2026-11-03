@@ -146,18 +146,13 @@ const MODES = {
     documentation: { tsv: "modules", filenameSuffix: "-javadoc", extension: "jar" },
 };
 
-// A request over plain HTTP is refused rather than answered or upgraded: an upgrade would
-// itself travel in plain text, and a redirect answered on port 80 could be rewritten on
-// the way to point anywhere.
+// Plain HTTP stays answered, as a client decides itself whether it accepts it: the build tool
+// refuses an http:// remote unless jenesis.repository.insecure allows one. A browser that has
+// seen this header keeps to HTTPS.
 const HSTS = "max-age=31536000";
 
 export default {
     async fetch(request, env) {
-        const url = new URL(request.url);
-        if (url.protocol !== "https:") {
-            url.protocol = "https:";
-            return textResponse(403, `This service answers over HTTPS only: ${url.href}\n`);
-        }
         let response;
         try {
             response = await handleRequest(request, env);
@@ -165,7 +160,9 @@ export default {
             console.error("worker error", error);
             response = textResponse(500, "Internal Server Error\n");
         }
-        response.headers.set("Strict-Transport-Security", HSTS);
+        if (new URL(request.url).protocol === "https:") {
+            response.headers.set("Strict-Transport-Security", HSTS);
+        }
         return response;
     },
 };
