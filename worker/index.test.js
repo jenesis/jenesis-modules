@@ -74,7 +74,7 @@ const sampleVersions = (...rows) =>
  * FIXTURES, then to a 404, so most tests only declare what differs. `headers` are request
  * headers, which is how a caller opts in to pre-releases or names a repository.
  */
-async function call(path, { files = {}, env = ENV, method = "GET", headers = {} } = {}) {
+async function call(path, { files = {}, env = ENV, method = "GET", headers = {}, origin = "https://worker.test" } = {}) {
     const saved = globalThis.fetch;
     globalThis.fetch = async (url) => {
         const u = String(url);
@@ -90,12 +90,29 @@ async function call(path, { files = {}, env = ENV, method = "GET", headers = {} 
         return new Response("not found", { status: 404 });
     };
     try {
-        const request = new Request("https://worker.test" + path, { method, headers });
+        const request = new Request(origin + path, { method, headers });
         return await worker.fetch(request, env);
     } finally {
         globalThis.fetch = saved;
     }
 }
+
+test("a request over plain HTTP is refused with 403 naming its HTTPS address, before the module is looked up", async () => {
+    const response = await call("/module/org.slf4j/org.slf4j.jar", {
+        origin: "http://worker.test",
+        files: { "org/slf4j/modules.tsv": { status: 500 } },
+    });
+    assert.equal(response.status, 403);
+    assert.equal(await response.text(), "This service answers over HTTPS only: https://worker.test/module/org.slf4j/org.slf4j.jar\n");
+    assert.equal(response.headers.get("Location"), null);
+});
+
+test("every answer over HTTPS tells clients to keep to HTTPS for a year", async () => {
+    for (const path of ["/", "/module/org.slf4j/org.slf4j.jar", "/nothing/here"]) {
+        const response = await call(path);
+        assert.equal(response.headers.get("Strict-Transport-Security"), "max-age=31536000", path);
+    }
+});
 
 test("root path redirects to the default home", async () => {
     const response = await call("/", { env: {} });

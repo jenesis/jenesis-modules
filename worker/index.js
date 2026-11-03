@@ -146,14 +146,27 @@ const MODES = {
     documentation: { tsv: "modules", filenameSuffix: "-javadoc", extension: "jar" },
 };
 
+// A request over plain HTTP is refused rather than answered or upgraded: an upgrade would
+// itself travel in plain text, and a redirect answered on port 80 could be rewritten on
+// the way to point anywhere.
+const HSTS = "max-age=31536000";
+
 export default {
     async fetch(request, env) {
+        const url = new URL(request.url);
+        if (url.protocol !== "https:") {
+            url.protocol = "https:";
+            return textResponse(403, `This service answers over HTTPS only: ${url.href}\n`);
+        }
+        let response;
         try {
-            return await handleRequest(request, env);
+            response = await handleRequest(request, env);
         } catch (error) {
             console.error("worker error", error);
-            return textResponse(500, "Internal Server Error\n");
+            response = textResponse(500, "Internal Server Error\n");
         }
+        response.headers.set("Strict-Transport-Security", HSTS);
+        return response;
     },
 };
 
