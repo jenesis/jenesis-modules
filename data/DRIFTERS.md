@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-03. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-04. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -50,7 +50,7 @@ org.dataloader  [explicit rule: owned by `com.graphql-java`; 2 other group(s) re
   R   com.liferay                          2025-05..2025-05 3.2.0.JAKARTA-LIFERAY-PATCHED-1 |................=...|
 kotlinx.serialization.json  [explicit rule: owned by `org.jetbrains`; 37 other group(s) rejected]
   A * org.jetbrains.kotlinx                2021-09..2026-10 1.12.0               |.........===========|
-  R   com.google.devtools.ksp              2024-07..2026-10 2.3.13               |...............=====|
+  R   com.google.devtools.ksp              2024-07..2026-10 2.3.13               |..............======|
   ?   dev.sebastiano.spectre               2026-09..2026-09 0.6.0                |...................=|
   R   ch.ubique.uniffi                     2025-07..2026-07 1.0.16               |................===.|
   R   com.emergetools                      2026-05..2026-05 4.4.1                |..................=.|
@@ -266,7 +266,7 @@ kotlin.reflect  [explicit rule: owned by `org.jetbrains.kotlin`; 68 other group(
 kotlinx.collections.immutable  [explicit rule: owned by `org.jetbrains`; 1 other group(s) rejected]
   ? * org.jetbrains.kotlinx                2026-07..2026-08 0.5.2                |..................==|
   ?   org.jetbrains.kotlin                 2026-07..2026-10 2.5.0-Beta2          |..................==|
-  ?   com.salesforce.revoman               2026-08..2026-08 0.90.0               |...................=|
+  ?   com.salesforce.revoman               2026-08..2026-08 0.90.0               |..................=.|
 kotlinx.serialization.protobuf  [explicit rule: owned by `org.jetbrains`; 1 other group(s) rejected]
   A * org.jetbrains.kotlinx                2021-09..2026-10 1.12.0               |.........===========|
   ?   org.jetbrains.kotlin                 2026-01..2026-10 2.5.0-Beta2          |.................===|
@@ -407,7 +407,7 @@ com.sun.xml.bind  [republished by `org.glassfish.jaxb` (still active); belongs t
     + 32 more: com.exasol, com.intuit.quickbooks-online, com.google.tsunami, io.github.azagniotov, com.liferay, org.opengis.cite, org.duracloud, edu.iris.dmc, br.com.swconsultoria, one.gfw, org.xtce, com.github.cafapi, (+20 more)
 jakarta.mail  [republished by `com.sun.mail` (still active); belongs to `jakarta.mail`]
   R * com.sun.mail                         2018-11..2025-07 2.0.2                |....==============..|
-  ?   org.tinystruct                       2026-08..2026-09 1.7.32               |...................=|
+  ?   org.tinystruct                       2026-08..2026-09 1.7.32               |..................==|
   R   io.github.noeltoy                    2024-10..2026-08 1.2                  |...............=====|
   ?   org.cibseven.community.mail          2026-08..2026-08 2.2.0                |...................=|
   ?   org.apache.manifoldcf                2026-07..2026-07 2.31                 |..................=.|
@@ -1398,7 +1398,7 @@ jakarta.json  [fork: keep `jakarta.json`, `com.arangodb` still publishes the nam
   A * jakarta.json                         2020-01..2023-10 2.1.3                |......========......|
   R   com.arangodb                         2025-08..2026-09 1.10.0               |.................===|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
-  R   org.eclipse.parsson                  2021-06..2026-05 1.1.9                |.........==========.|
+  R   org.eclipse.parsson                  2021-06..2026-05 1.1.9                |........===========.|
   R   io.github.qudtlib                    2026-02..2026-02 7.2.0                |..................=.|
   R   io.quarkus                           2024-10..2025-02 3.18.4               |...............==...|
     + 9 more: org.openpreservation.jhove, zone.cogni.semanticz, com.exasol, io.github.changebooks, com.atomgraph.etl.csv, org.avaje.experiment, org.spdx, org.glassfish, com.mparticle
@@ -1409,7 +1409,7 @@ jakarta.inject  [fork: keep `jakarta.inject`, `com.google.gerrit` still publishe
   A * jakarta.inject                       2020-04..2021-10 2.0.1                |......====..........|
   R   com.google.gerrit                    2023-10..2026-09 3.13.10              |.............=======|
   R   io.joynr.java.core                   2026-01..2026-09 1.24.10              |.................===|
-  R   io.github.jolt-community.jolt        2025-09..2026-08 1.3.0                |.................===|
+  R   io.github.jolt-community.jolt        2025-09..2026-08 1.3.0                |.................==.|
   ?   org.kill-bill.billing                2026-06..2026-07 0.42.2               |..................=.|
   ?   org.openidentityplatform.openig      2026-06..2026-06 6.1.1                |..................=.|
     + 13 more: dev.getelements.elements, it.netgrid, network.sloud.hytale, com.uchicom, com.google.tsunami, io.github.avistotelecom, org.apache.opennlp, com.google.template, io.github.openfeign.querydsl, org.reploop, com.guicedee.services, io.github.jbock-java, (+1 more)
@@ -1496,7 +1496,7 @@ org.bytedeco.cuda.redist  [fork: keep `org.bytedeco`, `io.github.mullerhai` stil
 org.bytedeco.cuda  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
-  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |................=...|
+  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............==...|
 org.bytedeco.cuda.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
@@ -1611,11 +1611,11 @@ org.bytedeco.cpython.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mull
 org.bytedeco.cuda.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2020-04..2026-08 13.3-9.25-1.5.14     |......==============|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
-  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |................=...|
+  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............==...|
 org.bytedeco.cuda.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
-  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |................=...|
+  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............==...|
 org.bytedeco.ffmpeg.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 8.1.2-1.5.14-GA-1.0  |..................==|
@@ -2909,7 +2909,7 @@ org.bukkit  [no clear owner; `com.uroria.curepur` is earliest and most recent]
   ?   com.uroria                           2024-07..2024-07 1.21-R0.1            |...............=....|
 net.jbock.compiler  [no clear owner; `com.github.h908714124` is earliest and most recent]
   ? * com.github.h908714124                2018-11..2021-05 4.4.000              |...======...........|
-  ?   io.github.jbock-java                 2021-06..2026-10 6.1.1                |.........===========|
+  ?   io.github.jbock-java                 2021-06..2026-10 6.1.1                |........============|
 net.jbock  [no clear owner; `com.github.h908714124` is earliest and most recent]
   ? * com.github.h908714124                2017-10..2021-05 4.4                  |.========...........|
   ?   io.github.jbock-java                 2021-06..2026-10 6.1                  |........============|
@@ -2949,7 +2949,7 @@ jpms_dss_specs_xmlers  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest
   ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-10 6.5.1                |.............=======|
   ?   org.digidoc4j.dss                    2024-02..2025-11 6.2.d4j.1            |..............====..|
 jpms_dss_validation  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
-  ? * eu.europa.ec.joinup.sd-dss           2024-07..2026-10 6.5.1                |...............=====|
+  ? * eu.europa.ec.joinup.sd-dss           2024-07..2026-10 6.5.1                |..............======|
   ?   org.digidoc4j.dss                    2025-11..2025-11 6.2.d4j.1            |.................=..|
 jpms_dss_xades  [no clear owner; `org.digidoc4j.dss` is earliest and most recent]
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
@@ -3111,7 +3111,7 @@ jpms_dss_enumerations  [no clear owner; `org.digidoc4j.dss` is earliest and most
   ? * org.digidoc4j.dss                    2019-12..2025-11 6.2.d4j.1            |......============..|
   ?   eu.europa.ec.joinup.sd-dss           2022-10..2026-10 6.5.1                |...........=========|
 jpms_dss_evidence_record_asn1  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
-  ? * eu.europa.ec.joinup.sd-dss           2024-07..2026-10 6.5.1                |...............=====|
+  ? * eu.europa.ec.joinup.sd-dss           2024-07..2026-10 6.5.1                |..............======|
   ?   org.digidoc4j.dss                    2025-11..2025-11 6.2.d4j.1            |.................=..|
 jpms_dss_evidence_record_common  [no clear owner; `eu.europa.ec.joinup.sd-dss` is earliest and most recent]
   ? * eu.europa.ec.joinup.sd-dss           2023-11..2026-10 6.5.1                |.............=======|
