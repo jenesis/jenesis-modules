@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-04. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-05. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -104,7 +104,7 @@ com.google.common  [explicit rule: owned by `com.google.guava`; 79 other group(s
 jul.to.slf4j  [explicit rule: owned by `org.slf4j`; 18 other group(s) rejected]
   A * org.slf4j                            2019-02..2026-09 2.0.20               |....================|
   ?   com.zonzonzon                        2026-09..2026-10 1.1.5                |...................=|
-  R   net.finmath                          2025-11..2026-08 3.0.0                |.................===|
+  R   net.finmath                          2025-11..2026-08 3.0.0                |.................==.|
   ?   io.github.zhouzhoucoder              2026-07..2026-07 6.0                  |..................=.|
   ?   xyz.hldev.libra-common               2026-06..2026-06 1.0.1                |..................=.|
   R   de.codecentric                       2024-01..2026-02 3.3.0                |..............=====.|
@@ -122,7 +122,7 @@ okhttp3  [explicit rule: owned by `com.squareup.okhttp3`; 10 other group(s) reje
   ?   com.huaweicloud                      2026-10..2026-10 3.26.9               |...................=|
   ?   com.arcadedb                         2026-09..2026-10 26.10.2              |...................=|
   R   org.eclipse.csi                      2026-03..2026-09 0.8.3                |..................==|
-  R   com.squareup.wire                    2026-01..2026-08 6.4.7                |..................==|
+  R   com.squareup.wire                    2026-01..2026-08 6.4.7                |.................===|
     + 5 more: org.testcontainers, io.github.mashanshui, com.huanli233.okhttp3-compat, io.github.sunny-chung, com.datadoghq.okhttp3
 com.google.common.util.concurrent.internal  [explicit rule: owned by `com.google.guava`; 10 other group(s) rejected]
   A * com.google.guava                     2023-10..2025-03 1.0.3                |.............====...|
@@ -287,7 +287,7 @@ kotlinx.serialization.cbor  [explicit rule: owned by `org.jetbrains`; 3 other gr
 kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other group(s) rejected]
   A * org.jetbrains.kotlinx                2021-09..2026-10 1.12.0               |.........===========|
   ?   lol.simeon                           2026-06..2026-10 1.4.0                |..................==|
-  R   dev.robocode.tankroyale              2026-01..2026-10 1.4.0                |..................==|
+  R   dev.robocode.tankroyale              2026-01..2026-10 1.4.0                |.................===|
   R   io.github.oewntk                     2024-05..2026-09 3.0.2                |..............======|
   R   dev.sebastiano.spectre               2026-05..2026-08 0.5.0                |..................==|
   R   love.forte.plugin.suspend-transform  2025-04..2026-06 2.4.0-0.14.0         |................===.|
@@ -345,7 +345,7 @@ kotlinx.coroutines.slf4j  [explicit rule: owned by `org.jetbrains`; 5 other grou
   ?   io.github.erenalpaslan               2026-08..2026-08 0.2.0                |...................=|
   R   jp.co.gahojin.thrifty                2025-02..2025-05 4.6.3                |................=...|
   R   io.github.vooft                      2024-09..2025-02 0.5.4                |...............==...|
-  R   dev.suresh.kmp                       2024-06..2024-07 0.15.0               |..............==....|
+  R   dev.suresh.kmp                       2024-06..2024-07 0.15.0               |..............=.....|
     + 1 more: xyz.block
 imgui.app  [explicit rule: owned by `io.github.spair`; 1 other group(s) rejected]
   ? * io.github.spair                      2022-12..2026-07 1.92.7.1             |...........========.|
@@ -1007,7 +1007,7 @@ org.apache.commons.collections4  [fork: keep `org.apache.commons`, `com.guicedee
   R   com.guicedee.modules.services        2026-04..2026-10 2.4.2                |..................==|
   ?   org.apache.directory.api             2026-05..2026-09 2.1.9                |..................==|
   R   io.github.qudtlib                    2024-12..2025-10 7.1.1                |...............===..|
-  R   de.jball                             2025-07..2025-07 0.9.0                |.................=..|
+  R   de.jball                             2025-07..2025-07 0.9.0                |................=...|
   R   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
     + 1 more: com.jwebmp.jpms.commons
 org.apache.poi.poi  [fork: keep `org.apache.poi`, `com.guicedee.modules.services` still publishes the name]
@@ -1022,7 +1022,7 @@ org.apache.commons.text  [fork: keep `org.apache.commons`, `io.github.liquid-jav
   A * org.apache.commons                   2018-03..2025-12 1.15.0               |..================..|
   ?   io.github.liquid-java                2026-09..2026-10 0.0.36               |...................=|
   ?   de.fraunhofer.iosb.ilt.FROST-Server  2026-07..2026-07 2.8.0                |..................=.|
-  R   org.bonitasoft.engine.data           2026-01..2026-06 11.1.0               |..................=.|
+  R   org.bonitasoft.engine.data           2026-01..2026-06 11.1.0               |.................==.|
   R   com.telamin.fluxtion                 2026-05..2026-06 1.0.9                |..................=.|
   ?   net.officefloor.tutorial             2026-06..2026-06 4.0.0                |..................=.|
     + 19 more: com.vmlens, ru.biosoft.diagrams, io.github.venkateshamurthy, dev.jbang, io.github.davidwhitlock.joy, io.github.pro4d, org.bidib.com.github.markusbernhardt, fr.lirmm.graphik, io.github.noeltoy, io.github.mderevyankoaqa, com.salesforce.functions, org.opendaylight.aaa, (+7 more)
@@ -1112,7 +1112,7 @@ com.zaxxer.hikari  [fork: keep `com.zaxxer`, `org.apache.hudi` still publishes t
   A * com.zaxxer                           2018-01..2026-06 7.1.0                |..=================.|
   R   org.apache.hudi                      2023-02..2026-10 1.1.2                |............========|
   R   org.apache.kylin                     2024-09..2026-10 5.0.5                |...............=====|
-  R   io.github.kaleert                    2026-01..2026-10 1.2.3                |..................==|
+  R   io.github.kaleert                    2026-01..2026-10 1.2.3                |.................===|
   R   org.finos.legend.depot               2025-06..2026-10 2.98.2               |................====|
   R   org.apache.flink                     2024-05..2026-09 3.7.0-2.2            |..............======|
     + 74 more: io.github.yuku123, org.kill-bill.billing, org.apache.seatunnel, solutions.a2.oracle, org.apache.dolphinscheduler, org.apache.inlong, com.aliyun.schedulerx, org.quickfixj, work.noice, io.github.deathgod7, io.higson, com.scalar-labs, (+62 more)
@@ -1152,7 +1152,7 @@ com.formdev.flatlaf  [fork: keep `com.formdev`, `com.suckatcoding` still publish
   A * com.formdev                          2019-10..2026-07 3.7.2                |.....==============.|
   R   com.suckatcoding                     2025-11..2026-10 1.23.1               |.................===|
   R   dev.robocode.tankroyale              2026-05..2026-10 1.4.0                |..................==|
-  ?   eu.rekawek.coffeegb                  2026-08..2026-10 2.1.7                |...................=|
+  ?   eu.rekawek.coffeegb                  2026-08..2026-10 2.1.7                |..................==|
   ?   org.graphper                         2026-08..2026-09 1.5.5                |...................=|
   R   ca.corbett                           2025-05..2026-06 3.0.0                |................===.|
     + 4 more: de.florianreuth, de.florianmichael, io.github.harvardpl, com.github.sundev79.MineBootFramework
@@ -1377,7 +1377,7 @@ org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `app.free
 io.smallrye.common.annotation  [fork: keep `io.smallrye.common`, `org.tinystruct` still publishes the name]
   A * io.smallrye.common                   2022-05..2026-09 2.21.1               |..........==========|
   ?   org.tinystruct                       2026-10..2026-10 1.1.0                |...................=|
-  R   io.quarkus                           2024-11..2025-07 3.25.0               |...............===..|
+  R   io.quarkus                           2024-11..2025-07 3.25.0               |...............==...|
   R   dev.ikm.jpms                         2024-01..2024-08 1.8.0-r5             |..............==....|
   R   ch.nerdin                            2023-03..2023-03 1.0.0-alpha2         |............=.......|
   R   com.abavilla                         2022-10..2022-10 1.0.147              |...........=........|
@@ -1517,7 +1517,7 @@ org.bytedeco.cpython  [fork: keep `org.bytedeco`, `io.github.mullerhai` still pu
 org.bytedeco.javacpp.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
   ?   io.github.mullerhai                  2026-07..2026-09 1.5.14-GA-1.0        |..................==|
-  R   org.apache.tika                      2024-07..2024-10 3.0.0                |...............=....|
+  R   org.apache.tika                      2024-07..2024-10 3.0.0                |..............==....|
   R   us.ihmc                              2023-06..2023-06 1.5.9                |............=.......|
 org.bytedeco.openblas.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....================|
@@ -2006,7 +2006,7 @@ io.netty.transport.epoll.linux.x86_64  [owned by `io.netty`; 4 other group(s) sh
   A * io.netty                             2022-05..2026-10 4.1.139.Final        |..........==========|
   R   org.apache.storm                     2025-05..2026-09 3.1.0                |................====|
   ?   io.camunda.connector                 2026-06..2026-08 8.7.23               |..................==|
-  R   com.atscale.opensource               2026-01..2026-01 1.14                 |..................=.|
+  R   com.atscale.opensource               2026-01..2026-01 1.14                 |.................=..|
   R   org.readutf.orchestrator             2025-02..2025-02 2.0.0                |................=...|
 org.tinylog.api.slf4j  [owned by `org.tinylog`; 1 other group(s) shade the name]
   ? * org.tinylog                          2019-07..2026-10 2.8.1                |.....===============|
@@ -2091,7 +2091,7 @@ org.bytedeco.tritonserver.platform  [owned by `org.bytedeco`; 1 other group(s) s
 org.junit.jupiter.engine  [owned by `org.junit.jupiter`; 10 other group(s) shade the name]
   A * org.junit.jupiter                    2017-07..2026-08 6.1.3                |.===================|
   ?   io.github.rpost                      2026-07..2026-07 6.0.0-M2             |..................=.|
-  R   org.apache.tika                      2024-07..2026-06 4.0.0-beta-1         |...............====.|
+  R   org.apache.tika                      2024-07..2026-06 4.0.0-beta-1         |..............=====.|
   R   com.janeluo                          2026-04..2026-04 1.0.0                |..................=.|
   R   org.eclipse.pass                     2023-06..2024-01 1.3.0                |............===.....|
   R   com.quantego                         2023-11..2023-11 0.6.5                |.............=......|
