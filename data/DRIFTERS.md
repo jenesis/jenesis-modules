@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-05. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-06. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -709,7 +709,7 @@ org.graalvm.js  [fork: keep `org.graalvm.js`, `io.youtrackdb` still publishes th
   ?   io.youtrackdb                        2026-10..2026-10 0.5.0-beta-2026-10-31 |...................=|
   R   ca.ibodrov.concord                   2023-10..2026-10 2.0.6                |.............=======|
   R   org.hl7.fhir.publisher               2025-02..2026-10 3.0.1                |................====|
-  R   de.caluga                            2026-01..2026-10 6.3.14               |..................==|
+  R   de.caluga                            2026-01..2026-10 6.3.14               |.................===|
   R   io.vertx                             2026-05..2026-10 5.1.10               |..................==|
     + 15 more: lat.sofis.biobpm, com.walmartlabs.concord.runtime.v2, com.walmartlabs.concord, com.walmartlabs.concord.k8s, com.walmartlabs.concord.runtime.v1, org.cibseven.bpm, dev.ybrig.ck8s.cli, org.noear, io.hyperfoil.tools, com.soartech, io.github.neofreko, org.graphwalker, (+3 more)
 org.apache.commons.lang3  [fork: keep `org.apache.commons`, `com.equinor.neqsim` still publishes the name]
@@ -1098,7 +1098,7 @@ com.fasterxml.jackson.dataformat.smile  [fork: keep `com.fasterxml.jackson.dataf
   R   org.opensearch.migrations.snapshots  2026-04..2026-10 0.3.4.0              |..................==|
   R   com.netflix.spectator                2021-10..2025-08 1.8.17               |.........=========..|
   R   io.acryl                             2024-01..2025-06 1.1.0.3rc1           |..............===...|
-  R   org.apache.hudi                      2024-07..2024-07 1.0.0-beta2          |...............=....|
+  R   org.apache.hudi                      2024-07..2024-07 1.0.0-beta2          |..............=.....|
     + 3 more: org.pipservices, com.hazelcast.jet, io.trino
 com.google.j2objc.annotations  [fork: keep `com.google.j2objc`, `de.arbeitsagentur.opdt` still publishes the name]
   A * com.google.j2objc                    2024-03..2025-08 3.1                  |..............====..|
@@ -1449,19 +1449,19 @@ org.bytedeco.pytorch  [fork: keep `org.bytedeco`, `io.github.mullerhai` still pu
   ?   io.github.mullerhai                  2026-07..2026-09 2.13.0-1.5.14-GA-1.10 |..................==|
 org.bytedeco.cuda.redist.cublas  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cudnn  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusparse  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.nvcomp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusolver  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.npp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
@@ -1470,10 +1470,10 @@ org.bytedeco.cuda.redist.nccl  [fork: keep `org.bytedeco`, `io.github.mullerhai`
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.pytorch.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
-  ?   io.github.mullerhai                  2026-08..2026-09 2.13.0-1.5.14-GA-1.10 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 2.13.0-1.5.14-GA-1.10 |..................==|
 org.bytedeco.cuda.redist.nccl.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.nccl.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
@@ -1496,7 +1496,7 @@ org.bytedeco.cuda.redist  [fork: keep `org.bytedeco`, `io.github.mullerhai` stil
 org.bytedeco.cuda  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
-  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............==...|
+  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............=....|
 org.bytedeco.cuda.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
@@ -1507,7 +1507,7 @@ org.bytedeco.ffmpeg.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` 
 org.bytedeco.ffmpeg  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 8.1.2-1.5.14-GA-1.0  |..................==|
-  R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |............=====...|
+  R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |............====....|
   R   com.github.javacpp-nogpl             2020-09..2020-09 4.3.1-1.5.4          |.......=............|
 org.bytedeco.cpython  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....================|
@@ -1533,7 +1533,7 @@ org.bytedeco.numpy.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` s
 org.bytedeco.javacpp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 1.5.14               |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 1.5.14-GA-1.0        |..................==|
-  R   us.ihmc                              2023-06..2025-01 1.5.11-ihmc-2        |............=====...|
+  R   us.ihmc                              2023-06..2025-01 1.5.11-ihmc-2        |............====....|
   R   ai.polus.utils                       2024-06..2024-06 2.0.7                |..............=.....|
   R   com.github.vinhkhuc                  2023-05..2023-05 0.5                  |............=.......|
   R   com.alibaba.alink                    2021-10..2022-10 0.2.0-0.6            |.........===........|
@@ -1544,7 +1544,7 @@ org.bytedeco.openblas  [fork: keep `org.bytedeco`, `io.github.mullerhai` still p
   R   us.ihmc                              2023-06..2025-02 0.3.23-1.5.11-ihmc-2 |............=====...|
 org.bytedeco.tensorrt  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 11.2-1.5.14          |....================|
-  ?   io.github.mullerhai                  2026-08..2026-09 11.2-1.5.14-GA-1.0   |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 11.2-1.5.14-GA-1.0   |..................==|
 org.bytedeco.opencv.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
   ?   io.github.mullerhai                  2026-07..2026-09 4.14.0-1.5.14-GA-1.0 |..................==|
@@ -1557,7 +1557,7 @@ org.bytedeco.opencv  [fork: keep `org.bytedeco`, `io.github.mullerhai` still pub
   R   us.ihmc                              2023-06..2025-02 4.7.0-1.5.11-ihmc-2  |............=====...|
 org.bytedeco.tritonserver  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2022-02..2026-08 2.71.0-1.5.14        |..........==========|
-  ?   io.github.mullerhai                  2026-08..2026-09 2.71.0-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 2.71.0-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.npp.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
@@ -1566,28 +1566,28 @@ org.bytedeco.cuda.redist.npp.windows.x86_64  [fork: keep `org.bytedeco`, `io.git
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusparse.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusparse.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusolver.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusolver.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cudnn.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cudnn.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cublas.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cublas.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
@@ -1611,11 +1611,11 @@ org.bytedeco.cpython.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mull
 org.bytedeco.cuda.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2020-04..2026-08 13.3-9.25-1.5.14     |......==============|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
-  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............==...|
+  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............=....|
 org.bytedeco.cuda.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
-  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............==...|
+  R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............=....|
 org.bytedeco.ffmpeg.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
   ?   io.github.mullerhai                  2026-07..2026-08 8.1.2-1.5.14-GA-1.0  |..................==|
@@ -1899,7 +1899,7 @@ com.clickhouse.jdbc  [owned by `com.clickhouse`; 4 other group(s) shade the name
 tools.jackson.databind  [owned by `tools.jackson.core`; 4 other group(s) shade the name]
   A * tools.jackson.core                   2025-03..2026-10 3.2.4                |................====|
   ?   de.codelix.commandapi                2026-08..2026-08 4.4.0                |...................=|
-  R   com.smartystreets.api                2026-01..2026-07 7.2.0                |..................=.|
+  R   com.smartystreets.api                2026-01..2026-07 7.2.0                |.................==.|
   R   software.xdev.mockserver             2026-03..2026-03 2.0.4                |..................=.|
   R   io.github.koinsaari                  2025-11..2025-11 0.1.0                |.................=..|
 org.hibernate.orm.enhance.maven.plugin  [owned by `org.hibernate.orm.tooling`; 1 other group(s) shade the name]
@@ -2037,7 +2037,7 @@ org.opendaylight.mdsal.dom.api  [owned by `org.opendaylight.mdsal`; 0 other grou
   ? * org.opendaylight.mdsal               2019-07..2026-10 17.0.2               |.....===============|
   ?   org.opendaylight.netconf             2026-09..2026-09 12.0.1               |...................=|
 com.azure.http.netty  [owned by `com.azure`; 1 other group(s) shade the name]
-  ? * com.azure                            2019-11..2026-09 1.16.8               |......==============|
+  ? * com.azure                            2019-11..2026-09 1.16.8               |.....===============|
   ?   io.lakefs                            2026-06..2026-09 0.25.0               |..................==|
 com.apollographql.apollo.gradle.tasks  [owned by `com.apollographql.apollo`; 1 other group(s) shade the name]
   ? * com.apollographql.apollo             2025-06..2026-09 5.2.0                |................====|
@@ -2069,25 +2069,25 @@ io.github.pdvrieze.testutil  [owned by `io.github.pdvrieze.xmlutil`; 0 other gro
   ?   io.github.pdvrieze                   2026-06..2026-06 1.0.0-rc3            |..................=.|
 org.bytedeco.pytorch.linux.x86_64.gpu  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
-  ?   io.github.mullerhai                  2026-08..2026-08 2.13.0-1.5.14-beta-08.01 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 2.13.0-1.5.14-beta-08.01 |..................==|
 org.bytedeco.tensorrt.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2021-07..2026-08 11.2-1.5.14          |.........===========|
-  ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |..................=.|
 org.bytedeco.tensorrt.linux.x86_64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2019-04..2026-08 11.2-1.5.14          |....================|
-  ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |..................=.|
 org.bytedeco.tensorrt.platform  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2019-04..2026-08 11.2-1.5.14          |....================|
-  ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |..................=.|
 org.bytedeco.tensorrt.windows.x86_64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2020-04..2026-08 11.2-1.5.14          |......==============|
-  ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |..................=.|
 org.bytedeco.tritonserver.linux.x86_64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2022-02..2026-08 2.71.0-1.5.14        |..........==========|
-  ?   io.github.mullerhai                  2026-08..2026-08 2.70.0-1.5.14-beta-08 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 2.70.0-1.5.14-beta-08 |..................=.|
 org.bytedeco.tritonserver.platform  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2022-02..2026-08 2.71.0-1.5.14        |..........==========|
-  ?   io.github.mullerhai                  2026-08..2026-08 2.70.0-1.5.14-beta-08 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 2.70.0-1.5.14-beta-08 |..................=.|
 org.junit.jupiter.engine  [owned by `org.junit.jupiter`; 10 other group(s) shade the name]
   A * org.junit.jupiter                    2017-07..2026-08 6.1.3                |.===================|
   ?   io.github.rpost                      2026-07..2026-07 6.0.0-M2             |..................=.|
@@ -2098,46 +2098,46 @@ org.junit.jupiter.engine  [owned by `org.junit.jupiter`; 10 other group(s) shade
     + 6 more: com.salesforce.kafka.test, com.trendyol, org.caseine, org.eclipse.rdf4j, com.github.jnr, org.junit.platform
 org.bytedeco.cuda.redist.cudnn.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.cudnn  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................==|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.cusolver  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................==|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.cusolver.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.cublas  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................==|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.cublas.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.npp  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................==|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.npp.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.nccl  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................==|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.nccl.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................==|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.cusparse  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................==|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.cusparse.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |...................=|
+  ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.nvcomp  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................==|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.nvcomp.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
-  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................==|
+  ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.apache.jena.base  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...================.|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
