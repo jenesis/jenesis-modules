@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-06. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-07. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -415,7 +415,7 @@ jakarta.mail  [republished by `com.sun.mail` (still active); belongs to `jakarta
     + 7 more: org.eclipse.angus, jakarta.mail, org.camunda.bpm.extension, name.bychkov, io.gravitee.apim.rest.api.standalone, com.krux, com.guicedee.services
 com.univapay.api  [republished by `io.sdks` (still active); belongs to `com.univapay`]
   ? * io.sdks                              2026-07..2026-09 1.0.3                |..................==|
-  ?   com.univapay                         2026-08..2026-09 1.2.3                |...................=|
+  ?   com.univapay                         2026-08..2026-09 1.2.3                |..................==|
 org.apache.commons.mail  [republished by `com.github.ppodgorsek.email` (still active); belongs to `org.apache.commons`]
   ? * com.github.ppodgorsek.email          2023-06..2023-06 2.0.0                |............=.......|
   ?   io.prophecy                          2024-08..2026-09 4.0.0-ml-9.6.0       |...............=====|
@@ -584,7 +584,7 @@ org.apache.datasketches.memory  [renamed `org.apache.datasketches` -> `org.apach
   A   org.apache.doris                     2024-10..2026-10 4.1.0                |...............=====|
   A   org.apache.paimon                    2024-09..2026-10 2.1.0                |...............=====|
   ?   com.datastrato                       2026-09..2026-10 1.13.0               |...................=|
-  A   org.apache.flink                     2025-01..2026-09 3.7.0-2.2            |................====|
+  A   org.apache.flink                     2025-01..2026-09 3.7.0-2.2            |...............=====|
   A   org.apache.iceberg                   2024-07..2026-09 1.12.0               |...............=====|
     + 10 more: org.apache.seatunnel, org.apache.pinot, com.facebook.presto, org.apache.fluss, io.github.pl-buiquang, com.alibaba.fluss, uk.gov.gchq.gaffer, io.kestra.plugin, org.locationtech.geomesa, com.gelerion.spark.sketches
 com.querydsl.sql.json  [renamed `io.github.openfeign.querydsl` -> `io.github.weir2010` (latest 8.0)]
@@ -810,7 +810,7 @@ org.apache.xmlgraphics.fop.events  [fork: keep `org.apache.xmlgraphics`, `org.do
 io.netty.internal.tcnative  [fork: keep `io.netty`, `com.google.api-ads` still publishes the name]
   A * io.netty                             2021-10..2026-09 2.0.84.Final         |.........===========|
   R   com.google.api-ads                   2025-08..2026-10 48.1.0               |.................===|
-  R   org.finos.legend.engine              2026-01..2026-10 5.0.3                |..................==|
+  R   org.finos.legend.engine              2026-01..2026-10 5.0.3                |.................===|
   ?   io.milvus                            2026-10..2026-10 3.0.12               |...................=|
   R   com.google.api                       2025-06..2026-10 2.80.0               |................====|
   R   org.apache.ozone                     2025-12..2026-10 2.2.2                |.................===|
@@ -901,7 +901,7 @@ jakarta.ws.rs  [fork: keep `jakarta.ws.rs`, `nl.mirila.cli` still publishes the 
   R   com.bluecirclesoft.open              2025-09..2026-08 1.11                 |.................===|
     + 14 more: com.inteligr8.activiti, com.affinidi.tdk, me.chrissw-r1, com.biit-solutions, com.github.xeroapi, com.liferay, no.telenor.sdk, org.opengis.cite, com.documents4j, com.github.estuaryoss, com.jcabi, com.datadoghq, (+2 more)
 codes.rafael.asmjdkbridge  [fork: keep `codes.rafael.asmjdkbridge`, `co.hyperprobe` still publishes the name]
-  ? * codes.rafael.asmjdkbridge            2025-01..2026-10 0.0.14               |................====|
+  ? * codes.rafael.asmjdkbridge            2025-01..2026-10 0.0.14               |...............=====|
   ?   co.hyperprobe                        2026-07..2026-10 1.2.32-1             |..................==|
 io.netty.handler.proxy  [fork: keep `io.netty`, `io.kestra` still publishes the name]
   A * io.netty                             2017-12..2026-10 4.1.139.Final        |..==================|
@@ -939,7 +939,7 @@ com.h2database  [fork: keep `com.h2database`, `io.vidocq.runtime.extensions.modu
   A * com.h2database                       2019-02..2026-09 2.5.252              |....================|
   ?   io.vidocq.runtime.extensions.module.repackaged 2026-08..2026-10 0.4.0-RC1            |...................=|
   R   ai.platon.pulsar                     2026-01..2026-01 1.4.197              |.................=..|
-  R   net.xdob.h2db                        2022-06..2023-02 2.1.1                |...........==.......|
+  R   net.xdob.h2db                        2022-06..2023-02 2.1.1                |..........===.......|
   R   org.lucee                            2023-01..2023-01 2.1.214.0001L        |............=.......|
 com.networknt.schema  [fork: keep `com.networknt`, `org.apache.flink` still publishes the name]
   A * com.networknt                        2023-04..2026-10 2.0.8                |............========|
@@ -1157,15 +1157,15 @@ com.formdev.flatlaf  [fork: keep `com.formdev`, `com.suckatcoding` still publish
   R   ca.corbett                           2025-05..2026-06 3.0.0                |................===.|
     + 4 more: de.florianreuth, de.florianmichael, io.github.harvardpl, com.github.sundev79.MineBootFramework
 org.codehaus.janino  [fork: keep `org.codehaus.janino`, `io.github.digitalgust` still publishes the name]
-  ? * org.codehaus.janino                  2023-07..2024-02 3.1.12               |.............==.....|
+  ? * org.codehaus.janino                  2023-07..2024-02 3.1.12               |............===.....|
   ?   io.github.digitalgust                2026-10..2026-10 4.0.0                |...................=|
   ?   io.github.janino-lts                 2026-10..2026-10 3.1.20               |...................=|
 org.codehaus.commons.compiler  [fork: keep `org.codehaus.janino`, `io.github.digitalgust` still publishes the name]
-  ? * org.codehaus.janino                  2023-07..2024-02 3.1.12               |.............==.....|
+  ? * org.codehaus.janino                  2023-07..2024-02 3.1.12               |............===.....|
   ?   io.github.digitalgust                2026-10..2026-10 4.0.0                |...................=|
   ?   io.github.janino-lts                 2026-10..2026-10 3.1.20               |...................=|
 org.codehaus.commons.compiler.jdk  [fork: keep `org.codehaus.janino`, `io.github.digitalgust` still publishes the name]
-  ? * org.codehaus.janino                  2023-07..2024-02 3.1.12               |.............==.....|
+  ? * org.codehaus.janino                  2023-07..2024-02 3.1.12               |............===.....|
   ?   io.github.digitalgust                2026-10..2026-10 4.0.0                |...................=|
   ?   io.github.janino-lts                 2026-10..2026-10 3.1.20               |...................=|
 org.htmlunit.corejs  [fork: keep `org.htmlunit`, `com.nordstrom.ui-tools` still publishes the name]
@@ -1947,7 +1947,7 @@ org.apache.commons.jexl3  [owned by `org.apache.commons`; 1 other group(s) shade
   ? * org.apache.commons                   2024-06..2026-10 3.7.1                |..............======|
   ?   org.hotrodorm.hotrod                 2025-07..2026-10 5.1.26               |................====|
 org.jgroups  [owned by `org.jgroups`; 1 other group(s) shade the name]
-  ? * org.jgroups                          2022-12..2026-10 5.5.8.Final          |............========|
+  ? * org.jgroups                          2022-12..2026-10 5.5.8.Final          |...........=========|
   ?   io.github.martinhickson              2026-09..2026-09 5.3.18-bravura-3     |...................=|
 org.threeten.extra  [owned by `org.threeten`; 5 other group(s) shade the name]
   A * org.threeten                         2018-01..2026-10 1.11.0               |..==================|
@@ -2802,7 +2802,7 @@ bus.starter  [no clear owner; `org.miaixz` is earliest and most recent]
   ?   io.github.rassafel                   2025-07..2025-07 0.0.1                |................=...|
 bus.spring  [no clear owner; `io.github.rassafel` is earliest and most recent]
   ? * io.github.rassafel                   2026-04..2026-04 0.0.4                |..................=.|
-  ?   org.miaixz                           2026-08..2026-10 8.8.30               |...................=|
+  ?   org.miaixz                           2026-08..2026-10 8.8.30               |..................==|
 com.oracle.truffle.regex  [no clear owner; `org.graalvm.regex` is earliest and most recent]
   ? * org.graalvm.regex                    2018-10..2026-10 23.0.14.0.3          |...=================|
   ?   org.noear                            2024-09..2025-07 1.9.6                |...............==...|
