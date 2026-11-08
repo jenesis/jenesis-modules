@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-07. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-08. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -81,7 +81,7 @@ kotlin.stdlib.jdk8  [explicit rule: owned by `org.jetbrains.kotlin`; 246 other g
   A * org.jetbrains.kotlin                 2019-01..2026-10 2.5.0-Beta2          |....================|
   R   com.newrelic.agent.android           2024-09..2026-10 7.8.5                |...............=====|
   R   com.google.genai                     2026-04..2026-10 1.80.0               |..................==|
-  R   com.airbnb.viaduct                   2026-01..2026-10 3.0.0                |..................==|
+  R   com.airbnb.viaduct                   2026-01..2026-10 3.0.0                |.................===|
   R   com.aliyun.odps                      2026-03..2026-10 3.10.16              |..................==|
   ?   eu.rekawek.coffeegb                  2026-07..2026-10 2.1.7                |..................==|
     + 241 more: com.cyberark, io.github.graphdsl, org.apache.seatunnel, com.aliyun, io.github.infocusmodereal, org.apache.dolphinscheduler, io.github.prakhar998, net.corda, ai.realitydefender, org.apache.inlong, com.squareup, cn.ctyun, (+229 more)
@@ -1120,7 +1120,7 @@ com.github.benmanes.caffeine  [fork: keep `com.github.ben-manes.caffeine`, `org.
   A * com.github.ben-manes.caffeine        2017-12..2026-10 3.3.1                |..==================|
   R   org.openprovenance.prov              2024-10..2026-10 2.2.5                |...............=====|
   R   net.wirelabs                         2026-02..2026-08 1.4.6                |..................==|
-  R   com.janeluo                          2026-03..2026-08 1.0.15               |..................==|
+  R   com.janeluo                          2026-03..2026-08 1.0.15               |..................=.|
   R   io.zeebe.redis                       2025-05..2026-07 8.9.2                |................===.|
   ?   org.kill-bill.billing                2026-06..2026-07 0.42.2               |..................=.|
     + 16 more: nl.basjes.parse.useragent, org.apache.tinkerpop, com.google.errorprone, io.pebbletemplates, org.odftoolkit, io.tileverse.pmtiles, org.opengis.cite, nl.goodbytes.xmpp.xep, org.igniterealtime.whack, be.vlaanderen.informatievlaanderen.ldes.ldio, com.aerospike, com.gitlab.cdc-java.office, (+4 more)
@@ -1981,22 +1981,22 @@ org.htmlunit.cssparser  [owned by `org.htmlunit`; 2 other group(s) shade the nam
   ?   com.nordstrom.ui-tools               2026-09..2026-09 4.48.0               |...................=|
   ?   org.seleniumhq.selenium              2026-07..2026-07 4.46.0               |..................=.|
 io.github.humbleui.skija.android.arm64  [owned by `io.github.humbleui`; 1 other group(s) shade the name]
-  ? * io.github.humbleui                   2026-01..2026-10 0.143.18             |..................==|
+  ? * io.github.humbleui                   2026-01..2026-10 0.143.18             |.................===|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 io.github.humbleui.skija.android.x64  [owned by `io.github.humbleui`; 1 other group(s) shade the name]
-  ? * io.github.humbleui                   2026-01..2026-10 0.143.18             |..................==|
+  ? * io.github.humbleui                   2026-01..2026-10 0.143.18             |.................===|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 io.github.humbleui.skija.linux.arm64  [owned by `io.github.humbleui`; 1 other group(s) shade the name]
   ? * io.github.humbleui                   2025-11..2026-10 0.143.18             |.................===|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 io.github.humbleui.skija.linux.x64  [owned by `io.github.humbleui`; 1 other group(s) shade the name]
-  ? * io.github.humbleui                   2022-12..2026-10 0.143.18             |............========|
+  ? * io.github.humbleui                   2022-12..2026-10 0.143.18             |...........=========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 io.github.humbleui.skija.windows.arm64  [owned by `io.github.humbleui`; 1 other group(s) shade the name]
   ? * io.github.humbleui                   2026-05..2026-10 0.143.18             |..................==|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 io.github.humbleui.skija.windows.x64  [owned by `io.github.humbleui`; 1 other group(s) shade the name]
-  ? * io.github.humbleui                   2022-12..2026-10 0.143.18             |............========|
+  ? * io.github.humbleui                   2022-12..2026-10 0.143.18             |...........=========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 com.azure.storage.common  [owned by `com.azure`; 2 other group(s) shade the name]
   A * com.azure                            2019-09..2026-10 12.35.0              |.....===============|
@@ -2005,7 +2005,7 @@ com.azure.storage.common  [owned by `com.azure`; 2 other group(s) shade the name
 io.netty.transport.epoll.linux.x86_64  [owned by `io.netty`; 4 other group(s) shade the name]
   A * io.netty                             2022-05..2026-10 4.1.139.Final        |..........==========|
   R   org.apache.storm                     2025-05..2026-09 3.1.0                |................====|
-  ?   io.camunda.connector                 2026-06..2026-08 8.7.23               |..................==|
+  ?   io.camunda.connector                 2026-06..2026-08 8.7.23               |..................=.|
   R   com.atscale.opensource               2026-01..2026-01 1.14                 |.................=..|
   R   org.readutf.orchestrator             2025-02..2025-02 2.0.0                |................=...|
 org.tinylog.api.slf4j  [owned by `org.tinylog`; 1 other group(s) shade the name]
@@ -3177,7 +3177,7 @@ com.ctc.wstx  [no clear owner; `com.fasterxml.woodstox` is earliest and most rec
   ? * com.fasterxml.woodstox               2018-03..2026-09 7.3.0                |..==================|
   ?   com.twilio.sdk                       2026-08..2026-10 13.1.0               |...................=|
   ?   org.uma.jmetal                       2025-12..2026-10 7.8                  |.................===|
-  ?   org.bidib.jbidib                     2021-12..2026-09 2.0.45               |..........==========|
+  ?   org.bidib.jbidib                     2021-12..2026-09 2.0.45               |.........===========|
   ?   gov.nih.ncats                        2022-01..2026-09 1.0.27               |..........==========|
   ?   org.apache.bigtop.itest              2026-07..2026-07 3.6.0                |..................=.|
     + 19 more: org.hpccsystems, com.backpackcloud, com.liferay.portal, de.fraunhofer.iosb.ilt.FROST-Server, com.ibm.jsonata4java, se.signatureservice.support, com.liferay, net.pincette, org.opengis.cite, org.immregistries, com.testdroid, org.sonarsource.slang, (+7 more)
