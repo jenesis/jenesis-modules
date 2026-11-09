@@ -126,3 +126,7 @@
 4.5.35	automatic	io.vertx	vertx-core	2026-10-07T13:31:20Z	
 5.1.10	named	io.vertx	vertx-core	2026-10-07T14:16:04Z	5.1.10
 5.2.2	named	io.vertx	vertx-core	2026-10-21T12:08:22Z	5.2.2
+5.2.3	named	io.vertx	vertx-core	2026-11-03T09:41:16Z	5.2.3
+4.5.36	automatic	io.vertx	vertx-core	2026-11-03T09:50:20Z	
+4.0.0.Beta3	named	io.quarkus	quarkus-grpc-cli	2026-11-04T15:00:07Z	5.2.3
+4.0.0.Beta3	named	io.quarkus	quarkus-tls-registry-cli	2026-11-04T15:00:16Z	5.2.3

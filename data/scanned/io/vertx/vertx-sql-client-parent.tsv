@@ -106,6 +106,7 @@
 4.5.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/4.5.33/vertx-sql-client-parent-4.5.33.jar returned status 404
 4.5.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/4.5.34/vertx-sql-client-parent-4.5.34.jar returned status 404
 4.5.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/4.5.35/vertx-sql-client-parent-4.5.35.jar returned status 404
+4.5.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/4.5.36/vertx-sql-client-parent-4.5.36.jar returned status 404
 4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/4.5.4/vertx-sql-client-parent-4.5.4.jar returned status 404
 4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/4.5.5/vertx-sql-client-parent-4.5.5.jar returned status 404
 4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/4.5.6/vertx-sql-client-parent-4.5.6.jar returned status 404
@@ -147,3 +148,4 @@
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/5.2.0/vertx-sql-client-parent-5.2.0.jar returned status 404
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/5.2.1/vertx-sql-client-parent-5.2.1.jar returned status 404
 5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/5.2.2/vertx-sql-client-parent-5.2.2.jar returned status 404
+5.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-sql-client-parent/5.2.3/vertx-sql-client-parent-5.2.3.jar returned status 404

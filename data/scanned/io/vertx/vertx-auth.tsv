@@ -139,6 +139,7 @@
 4.5.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/4.5.33/vertx-auth-4.5.33.jar returned status 404
 4.5.34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/4.5.34/vertx-auth-4.5.34.jar returned status 404
 4.5.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/4.5.35/vertx-auth-4.5.35.jar returned status 404
+4.5.36			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/4.5.36/vertx-auth-4.5.36.jar returned status 404
 4.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/4.5.4/vertx-auth-4.5.4.jar returned status 404
 4.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/4.5.5/vertx-auth-4.5.5.jar returned status 404
 4.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/4.5.6/vertx-auth-4.5.6.jar returned status 404
@@ -180,3 +181,4 @@
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/5.2.0/vertx-auth-5.2.0.jar returned status 404
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/5.2.1/vertx-auth-5.2.1.jar returned status 404
 5.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/5.2.2/vertx-auth-5.2.2.jar returned status 404
+5.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vertx/vertx-auth/5.2.3/vertx-auth-5.2.3.jar returned status 404

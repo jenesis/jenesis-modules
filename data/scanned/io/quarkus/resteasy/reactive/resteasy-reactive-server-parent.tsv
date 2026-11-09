@@ -432,3 +432,4 @@
 3.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/resteasy/reactive/resteasy-reactive-server-parent/3.9.5/resteasy-reactive-server-parent-3.9.5.jar returned status 404
 4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/resteasy/reactive/resteasy-reactive-server-parent/4.0.0.Beta1/resteasy-reactive-server-parent-4.0.0.Beta1.jar returned status 404
 4.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/resteasy/reactive/resteasy-reactive-server-parent/4.0.0.Beta2/resteasy-reactive-server-parent-4.0.0.Beta2.jar returned status 404
+4.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/resteasy/reactive/resteasy-reactive-server-parent/4.0.0.Beta3/resteasy-reactive-server-parent-4.0.0.Beta3.jar returned status 404

@@ -10,3 +10,5 @@
 6.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-fault-tolerance-bom/6.9.4/smallrye-fault-tolerance-bom-6.9.4.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-fault-tolerance-bom/7.0.0/smallrye-fault-tolerance-bom-7.0.0.jar returned status 404
 7.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-fault-tolerance-bom/7.0.0-RC1/smallrye-fault-tolerance-bom-7.0.0-RC1.jar returned status 404
+7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-fault-tolerance-bom/7.1.0/smallrye-fault-tolerance-bom-7.1.0.jar returned status 404
+7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/smallrye/smallrye-fault-tolerance-bom/7.1.1/smallrye-fault-tolerance-bom-7.1.1.jar returned status 404
