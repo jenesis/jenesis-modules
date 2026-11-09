@@ -7513,5 +7513,6 @@ v0.0.22	named	com.grafana	grafana-foundation-sdk	2026-10-29T15:09:56Z	2.19.1
 6.0.1	named	com.liquibase.ext	liquibase-commercial-mongodb	2026-11-03T17:41:32Z	2.22.4
 42.8	named	io.deephaven	deephaven-oidc-authentication-provider	2026-11-03T19:41:18Z	2.14.0
 1.16.1	named	com.ratepay.sdk	ratepay-sdk-core	2026-11-04T11:39:58Z	2.22.4
+0.300	named	com.facebook.presto	presto-jdbc	2026-11-04T18:55:13Z	2.18.9
 2.2.1	named	org.operaton.spin	operaton-spin-dataformat-all	2026-11-07T12:29:44Z	2.22.4
 2.23.0	named	com.fasterxml.jackson.core	jackson-core	2026-11-08T00:15:03Z	2.23.0
