@@ -31,3 +31,4 @@
 0.30.2		2026-08-26T07:46:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/eudi/eudi-lib-android-wallet-core/0.30.2/eudi-lib-android-wallet-core-0.30.2.jar returned status 404
 0.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/eudi/eudi-lib-android-wallet-core/0.31.0/eudi-lib-android-wallet-core-0.31.0.jar returned status 404
 0.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/eudi/eudi-lib-android-wallet-core/0.31.1/eudi-lib-android-wallet-core-0.31.1.jar returned status 404
+0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/europa/ec/eudi/eudi-lib-android-wallet-core/0.32.0/eudi-lib-android-wallet-core-0.32.0.jar returned status 404

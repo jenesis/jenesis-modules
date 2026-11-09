@@ -16,6 +16,10 @@
 0.14.0	metadata	2026-10-21T14:17:54Z	
 0.14.1		2026-10-21T16:58:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.14.1/inapp-kmp-compose-iossimulatorarm64-0.14.1.jar returned status 404
 0.14.1	metadata	2026-10-21T16:58:43Z	
+0.14.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.14.10/inapp-kmp-compose-iossimulatorarm64-0.14.10.jar returned status 404
+0.14.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.14.11/inapp-kmp-compose-iossimulatorarm64-0.14.11.jar returned status 404
+0.14.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.14.12/inapp-kmp-compose-iossimulatorarm64-0.14.12.jar returned status 404
+0.14.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.14.13/inapp-kmp-compose-iossimulatorarm64-0.14.13.jar returned status 404
 0.14.3		2026-10-21T20:13:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.14.3/inapp-kmp-compose-iossimulatorarm64-0.14.3.jar returned status 404
 0.14.3	metadata	2026-10-21T20:13:01Z	
 0.14.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.14.4/inapp-kmp-compose-iossimulatorarm64-0.14.4.jar returned status 404
@@ -24,5 +28,8 @@
 0.14.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.14.7/inapp-kmp-compose-iossimulatorarm64-0.14.7.jar returned status 404
 0.14.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.14.8/inapp-kmp-compose-iossimulatorarm64-0.14.8.jar returned status 404
 0.14.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.14.9/inapp-kmp-compose-iossimulatorarm64-0.14.9.jar returned status 404
+0.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.15.0/inapp-kmp-compose-iossimulatorarm64-0.15.0.jar returned status 404
+0.15.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.15.1/inapp-kmp-compose-iossimulatorarm64-0.15.1.jar returned status 404
+0.15.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.15.2/inapp-kmp-compose-iossimulatorarm64-0.15.2.jar returned status 404
 0.9.0		2026-10-15T07:06:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/graine/inapp-kmp-compose-iossimulatorarm64/0.9.0/inapp-kmp-compose-iossimulatorarm64-0.9.0.jar returned status 404
 0.9.0	metadata	2026-10-15T07:06:05Z	
