@@ -4,7 +4,7 @@
 > _Java-native config, everything the JDK provides built in, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-10-22 16:29:55 UTC_  
-_Current chunk started: 2026-11-02 12:50:55 UTC_  
+_Current chunk started: 2026-11-09 13:20:25 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 941_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 19 182 217 |
-| Non-module artifacts | 17 072 861 |
+| Total artifacts scanned | 19 239 524 |
+| Non-module artifacts | 17 123 727 |
 | Modular artifacts | 1 750 726 |
 | Total automatic modules | 1 364 588 |
 | Total named modules | 386 138 |
 | Total named modules with module-info version | 292 977 |
-| Distinct Maven artifacts | 711 317 |
-| Distinct module names | 44 459 |
+| Distinct Maven artifacts | 711 319 |
+| Distinct module names | 44 566 |
 | Distinct automatic modules | 23 487 |
 | Distinct named modules | 19 418 |
 | Distinct named modules with module-info version | 14 283 |
@@ -42,7 +42,7 @@ Of those, **248** rows (56 distinct values) carry a version key that is not a va
 
 ### Republished JVM modules
 
-**15** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, the `java --list-modules` set) have been republished on Maven Central under some coordinate, across **833** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.
+**15** module names that ship inside the JDK itself (`java.*` / `jdk.*` platform modules such as `java.sql`, `jdk.unsupported`, the `java --list-modules` set) have been republished on Maven Central under some coordinate, across **835** publication rows. They are excluded from the resolved module-version space entirely: the JVM always provides these modules, so no Maven artifact can be resolved as one (the platform's own copy is found first on the module path and shadows anything supplied externally). Such names stay in the `versions.tsv` audit log and remain fetchable as plain coordinates via `artifacts.tsv`, but get no `modules.tsv`. Legacy Java EE modules removed from the JDK (JEP 320: `java.xml.bind`, `java.transaction`, ...) are not counted here - they are absent from a modern JVM and resolve normally - and JavaFX (`javafx.*`) is not a JDK module either.
 
 ## Type breakdown
 
@@ -146,8 +146,8 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 4 196 | 1 419 | 2 777 |
-| New version rows | 7 439 | 1 979 | 5 460 |
+| Modules with a publication | 2 | 2 | 0 |
+| New version rows | 2 | 2 | 0 |
 | Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-07 | `█`&nbsp;3 538 (7.1%) | `▓▓`&nbsp;5 573 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
 | 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 688 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 733 (86.0%) |
 | 2026-09 | `█`&nbsp;3 866 (10.6%) | `▓▓`&nbsp;6 679 (18.4%) | `░░░░░░░░`&nbsp;25 827 (71.0%) |
-| 2026-10 | `█`&nbsp;3 979 (12.6%) | `▓▓▓`&nbsp;7 625 (24.1%) | `░░░░░░░`&nbsp;20 002 (63.3%) |
+| 2026-10 | `█`&nbsp;3 979 (12.6%) | `▓▓▓`&nbsp;7 625 (24.1%) | `░░░░░░░`&nbsp;19 997 (63.3%) |
 
 ## Naming patterns
 
@@ -175,7 +175,7 @@ How module names relate to their publishing groupId. "Competing groupIds" counts
 
 | Pattern | Modules |
 |---|---:|
-| Multiple competing groupIds in audit history | 4 353 |
+| Multiple competing groupIds in audit history | 4 354 |
 
 ### Leading dot-segments shared with the owning groupId
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 4 068 534 |
-| Incorrectly indexed (mis-stamped 404s) | 4 065 270 |
-| Genuine artifact errors | 3 264 |
+| Total failed coordinates | 4 093 829 |
+| Incorrectly indexed (mis-stamped 404s) | 4 090 506 |
+| Genuine artifact errors | 3 323 |
 
 ### Top 25 genuine error messages
 
@@ -211,9 +211,9 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 
 | Error message | Count |
 |---|---:|
-| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 1 039 |
+| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 1 095 |
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
-| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 535 |
+| `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 538 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
 | `InvalidModuleDescriptorException: this_class should be module-info` | 246 |
 | `InvalidModuleDescriptorException: <CLASS>: unnamed package` | 156 |
@@ -309,7 +309,7 @@ Module names that have been published under the most different groupIds across h
 | `com.fasterxml.jackson.databind` | 278 |
 | `com.fasterxml.jackson.core` | 241 |
 | `com.fasterxml.jackson.annotation [-jar-with-dependencies]` | 231 |
-| `org.slf4j` | 191 |
+| `org.slf4j` | 192 |
 | `com.fasterxml.jackson.annotation` | 190 |
 | `org.apache.logging.log4j` | 183 |
 | `kotlin.stdlib` | 154 |
@@ -327,7 +327,7 @@ Module names that have been published under the most different groupIds across h
 | `org.apache.commons.lang3` | 76 |
 | `com.google.gson [-all]` | 72 |
 | `org.apache.commons.io` | 69 |
-| `org.yaml.snakeyaml` | 68 |
+| `org.yaml.snakeyaml` | 69 |
 | `com.fasterxml.jackson.module.jaxb` | 67 |
 | `org.apache.commons.codec` | 67 |
 
@@ -339,29 +339,6 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 |---|---|
 | `build.jenesis.plugin.spotless` | 2026-11-01 21:55:09 UTC |
 | `org.openpatch.scratch` | 2026-11-01 20:39:53 UTC |
-| `build.jenesis` | 2026-11-01 20:04:53 UTC |
-| `app.photofox.vipsffm` | 2026-11-01 19:50:11 UTC |
-| `com.github.ajalt.colormath` | 2026-11-01 19:30:37 UTC |
-| `org.safere` | 2026-11-01 19:10:04 UTC |
-| `io.github.aglibs.lathe.server` | 2026-11-01 18:55:06 UTC |
-| `io.github.aglibs.lathe.core` | 2026-11-01 18:55:05 UTC |
-| `be.imgn.inject` | 2026-11-01 18:49:47 UTC |
-| `be.imgn.inject.processor` | 2026-11-01 18:49:47 UTC |
-| `io.github.kkollsga.kglite` | 2026-11-01 18:30:01 UTC |
-| `io.qameta.allure.cucumber8jvm` | 2026-11-01 18:00:22 UTC |
-| `io.github.markusaugust.streamlord.analysis` | 2026-11-01 17:40:12 UTC |
-| `io.github.markusaugust.streamlord.core` | 2026-11-01 17:40:12 UTC |
-| `io.github.markusaugust.streamlord.html` | 2026-11-01 17:40:12 UTC |
-| `io.github.markusaugust.streamlord.ktor` | 2026-11-01 17:40:12 UTC |
-| `io.github.markusaugust.streamlord.spring` | 2026-11-01 17:40:12 UTC |
-| `io.github.markusaugust.streamlord.test` | 2026-11-01 17:40:12 UTC |
-| `io.github.markusaugust.streamlord.html.pro` | 2026-11-01 17:40:11 UTC |
-| `io.github.markusaugust.streamlord.json.jackson` | 2026-11-01 17:40:11 UTC |
-| `io.github.markusaugust.streamlord.json.jackson2` | 2026-11-01 17:40:11 UTC |
-| `io.github.markusaugust.streamlord.json.kotlinx` | 2026-11-01 17:40:11 UTC |
-| `be.imgn.gaia.core` | 2026-11-01 17:24:29 UTC |
-| `be.imgn.gaia.core.testing` | 2026-11-01 17:24:29 UTC |
-| `be.imgn.gaia.memfs` | 2026-11-01 17:24:29 UTC |
 
 ## Top 25 groupIds by average versions per module
 
