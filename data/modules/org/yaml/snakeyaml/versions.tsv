@@ -1394,3 +1394,5 @@ ain	named	org.conductoross	conductor-os-persistence-v3	2026-10-27T17:47:33Z	2.6
 0.2.2-BINARY	named	com.sparkutils	quality_testshade_18.3.dbr_4.1_2.13	2026-11-01T19:36:02Z	2.0
 0.2.2-BINARY	named	com.sparkutils	quality_testshade_17.3.dbr_4.0_2.13	2026-11-01T19:36:03Z	2.0
 0.2.2-BINARY	named	com.sparkutils	quality_connect_testshade_4.1.0.oss_4.1_2.13	2026-11-01T19:36:06Z	2.0
+3.34.0-rc2	named	org.conductoross	conductor-os-persistence-v2	2026-11-05T05:56:49Z	2.6
+3.34.0-rc2	named	org.conductoross	conductor-os-persistence-v3	2026-11-05T05:56:49Z	2.6

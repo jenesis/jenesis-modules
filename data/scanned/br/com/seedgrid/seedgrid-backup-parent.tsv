@@ -7,3 +7,8 @@
 2026.10.08		2026-10-08T18:32:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-backup-parent/2026.10.08/seedgrid-backup-parent-2026.10.08.jar returned status 404
 2026.10.09		2026-10-10T12:16:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-backup-parent/2026.10.09/seedgrid-backup-parent-2026.10.09.jar returned status 404
 2026.10.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-backup-parent/2026.10.22/seedgrid-backup-parent-2026.10.22.jar returned status 404
+2026.11.01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-backup-parent/2026.11.01/seedgrid-backup-parent-2026.11.01.jar returned status 404
+2026.11.02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-backup-parent/2026.11.02/seedgrid-backup-parent-2026.11.02.jar returned status 404
+2026.11.03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-backup-parent/2026.11.03/seedgrid-backup-parent-2026.11.03.jar returned status 404
+2026.11.04			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-backup-parent/2026.11.04/seedgrid-backup-parent-2026.11.04.jar returned status 404
+2026.11.05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/br/com/seedgrid/seedgrid-backup-parent/2026.11.05/seedgrid-backup-parent-2026.11.05.jar returned status 404
