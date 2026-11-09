@@ -34,6 +34,7 @@
 3.10.0		2025-11-07T19:17:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/edelta/edelta.target/3.10.0/edelta.target-3.10.0.jar returned status 404
 3.11.0		2025-12-16T18:39:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/edelta/edelta.target/3.11.0/edelta.target-3.11.0.jar returned status 404
 3.12.0		2026-04-14T16:36:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/edelta/edelta.target/3.12.0/edelta.target-3.12.0.jar returned status 404
+3.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/edelta/edelta.target/3.13.0/edelta.target-3.13.0.jar returned status 404
 3.2.0		2023-10-25T18:30:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/edelta/edelta.target/3.2.0/edelta.target-3.2.0.jar returned status 404
 3.3.0		2023-12-12T10:00:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/edelta/edelta.target/3.3.0/edelta.target-3.3.0.jar returned status 404
 3.4.0		2024-06-25T15:23:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lorenzobettini/edelta/edelta.target/3.4.0/edelta.target-3.4.0.jar returned status 404
