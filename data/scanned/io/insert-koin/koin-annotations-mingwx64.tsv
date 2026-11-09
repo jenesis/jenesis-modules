@@ -49,3 +49,4 @@
 4.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/insert-koin/koin-annotations-mingwx64/4.2.1/koin-annotations-mingwx64-4.2.1.jar returned status 404
 4.2.1-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/insert-koin/koin-annotations-mingwx64/4.2.1-RC1/koin-annotations-mingwx64-4.2.1-RC1.jar returned status 404
 4.2.2		2026-06-15T07:42:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/insert-koin/koin-annotations-mingwx64/4.2.2/koin-annotations-mingwx64-4.2.2.jar returned status 404
+4.3.0-Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/insert-koin/koin-annotations-mingwx64/4.3.0-Beta1/koin-annotations-mingwx64-4.3.0-Beta1.jar returned status 404

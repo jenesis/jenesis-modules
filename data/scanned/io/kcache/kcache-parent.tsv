@@ -33,3 +33,5 @@
 5.2.4		2026-08-29T00:04:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kcache/kcache-parent/5.2.4/kcache-parent-5.2.4.jar returned status 404
 5.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kcache/kcache-parent/5.2.5/kcache-parent-5.2.5.jar returned status 404
 5.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kcache/kcache-parent/5.2.6/kcache-parent-5.2.6.jar returned status 404
+5.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kcache/kcache-parent/5.2.7/kcache-parent-5.2.7.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kcache/kcache-parent/5.3.0/kcache-parent-5.3.0.jar returned status 404

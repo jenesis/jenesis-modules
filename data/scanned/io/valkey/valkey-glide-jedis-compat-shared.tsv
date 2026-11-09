@@ -6,3 +6,6 @@
 2.6.0-rc1	osx-aarch_64	2026-10-16T19:26:16Z	
 2.6.0-rc1	osx-x86_64	2026-10-16T19:26:16Z	
 2.6.0-rc1	windows-x86_64	2026-10-16T19:26:16Z	
+2.6.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/valkey/valkey-glide-jedis-compat-shared/2.6.0-rc2/valkey-glide-jedis-compat-shared-2.6.0-rc2.jar returned status 404
+2.6.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/valkey/valkey-glide-jedis-compat-shared/2.6.0-rc3/valkey-glide-jedis-compat-shared-2.6.0-rc3.jar returned status 404
+2.6.0-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/valkey/valkey-glide-jedis-compat-shared/2.6.0-rc4/valkey-glide-jedis-compat-shared-2.6.0-rc4.jar returned status 404
