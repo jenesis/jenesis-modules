@@ -997,6 +997,7 @@
 2.0.85.Final	named	io.netty	netty-tcnative-boringssl-static	2026-11-02T09:20:00Z	2.0.85.Final
 4.152.3	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-02T21:20:24Z	2.0.72.Final
 5.0.4	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-03T12:04:41Z	2.0.72.Final
+6.0.1	named	com.liquibase.ext	liquibase-commercial-bigquery	2026-11-03T17:41:33Z	2.0.75.Final
 5.0.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-05T05:46:30Z	2.0.72.Final
 2.81.0	named	com.google.api	gapic-generator-java	2026-11-05T18:15:52Z	2.0.75.Final
 2.82.0	named	com.google.api	gapic-generator-java	2026-11-06T17:56:28Z	2.0.75.Final

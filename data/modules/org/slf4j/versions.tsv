@@ -3378,6 +3378,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 7.8.5	named	com.newrelic.agent.android	instrumentation	2026-10-29T18:46:52Z	2.0.4
 7.8.5	named	com.newrelic.agent.android	instrumentation-static	2026-10-29T18:46:52Z	2.0.4
 0.5.2	named	io.github.adorsys-gis	keycloak-token-status-plugin	2026-11-02T15:26:04Z	2.0.18
+6.0.1	named	com.liquibase	liquibase-maven-plugin	2026-11-03T17:41:31Z	2.0.19
 0.3.45	named	io.continual	continualMetricsDropWiz	2026-11-05T22:41:59Z	2.0.17
 0.3.45	named	io.continual	continualIamAuth0	2026-11-05T22:42:00Z	2.0.17
 1.2611.1	named	org.talend.sdk.component.sample.feature	checkpointruntime	2026-11-06T14:27:04Z	2.0.7

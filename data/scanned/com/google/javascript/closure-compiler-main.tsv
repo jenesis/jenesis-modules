@@ -219,3 +219,6 @@ v20261021			IOException: Tail request on https://maven-central.storage-download.
 v20261025			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/javascript/closure-compiler-main/v20261025/closure-compiler-main-v20261025.jar returned status 404
 v20261026			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/javascript/closure-compiler-main/v20261026/closure-compiler-main-v20261026.jar returned status 404
 v20261028			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/javascript/closure-compiler-main/v20261028/closure-compiler-main-v20261028.jar returned status 404
+v20261102			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/javascript/closure-compiler-main/v20261102/closure-compiler-main-v20261102.jar returned status 404
+v20261103			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/javascript/closure-compiler-main/v20261103/closure-compiler-main-v20261103.jar returned status 404
+v20261104			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/javascript/closure-compiler-main/v20261104/closure-compiler-main-v20261104.jar returned status 404
