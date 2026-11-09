@@ -449,4 +449,6 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 10.4.20261031	named	io.github.shafthq	shaft-cli	2026-10-31T09:11:35Z	1.23.2
 10.4.20261101	named	io.github.shafthq	shaft-cli	2026-11-01T15:09:45Z	1.23.2
 10.4.20261102	named	io.github.shafthq	shaft-cli	2026-11-01T18:01:20Z	1.23.2
+1.24.1	named	org.jsoup	jsoup	2026-11-03T03:40:51Z	1.24.1
+2.1.0-RC3	named	org.scala-sbt	librarymanagement-coursier_3	2026-11-05T06:35:10Z	1.23.2
 2.3.0	named	org.jetbrains.dokka	analysis-kotlin-symbols	2026-11-05T14:05:08Z	1.23.2

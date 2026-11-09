@@ -11,3 +11,6 @@
 4.1.0			
 5.0.0			
 5.0.1			
+5.1.0			
+5.1.1			
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/mongo4s/mongo4s-rapid_3/6.0.0/mongo4s-rapid_3-6.0.0.jar returned status 404

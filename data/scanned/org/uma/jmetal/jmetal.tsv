@@ -34,6 +34,8 @@
 6.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/uma/jmetal/jmetal/6.9.4/jmetal-6.9.4.jar returned status 404
 7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/uma/jmetal/jmetal/7.0/jmetal-7.0.jar returned status 404
 7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/uma/jmetal/jmetal/7.1/jmetal-7.1.jar returned status 404
+7.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/uma/jmetal/jmetal/7.10/jmetal-7.10.jar returned status 404
+7.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/uma/jmetal/jmetal/7.11/jmetal-7.11.jar returned status 404
 7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/uma/jmetal/jmetal/7.2/jmetal-7.2.jar returned status 404
 7.3		2026-05-25T09:42:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/uma/jmetal/jmetal/7.3/jmetal-7.3.jar returned status 404
 7.4		2026-06-12T08:56:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/uma/jmetal/jmetal/7.4/jmetal-7.4.jar returned status 404

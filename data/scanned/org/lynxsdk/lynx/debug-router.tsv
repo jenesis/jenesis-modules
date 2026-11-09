@@ -11,4 +11,6 @@
 0.0.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/debug-router/0.0.17/debug-router-0.0.17.jar returned status 404
 0.0.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/debug-router/0.0.18/debug-router-0.0.18.jar returned status 404
 0.0.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/debug-router/0.0.20/debug-router-0.0.20.jar returned status 404
+0.0.21-alpha.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/debug-router/0.0.21-alpha.1/debug-router-0.0.21-alpha.1.jar returned status 404
+0.0.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/debug-router/0.0.22/debug-router-0.0.22.jar returned status 404
 0.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lynxsdk/lynx/debug-router/0.0.5/debug-router-0.0.5.jar returned status 404
