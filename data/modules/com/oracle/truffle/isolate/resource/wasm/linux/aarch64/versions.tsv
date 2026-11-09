@@ -16,3 +16,5 @@
 25.0.5	named	org.graalvm.wasm	wasm-isolate-linux-aarch64	2026-10-20T12:12:29Z	
 25.0.5.0.2	named	org.graalvm.wasm	wasm-isolate-linux-aarch64	2026-10-22T10:36:42Z	
 25.0.5.0.3	named	org.graalvm.wasm	wasm-isolate-linux-aarch64	2026-10-26T17:49:25Z	
+25.5.5.0.3	named	org.graalvm.wasm	wasm-isolate-linux-aarch64	2026-11-03T14:40:46Z	
+25.5.5.0.3	named	org.graalvm.wasm	wasm-isolate-linux-aarch64-community	2026-11-03T14:40:46Z	
