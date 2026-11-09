@@ -3792,3 +3792,6 @@ com.pdfjet
 com.kindgi.pack
 com.kindgi.client
 com.kindgi.models
+com.google.i18n.phonenumbers.prefixmapper
+com.google.i18n.phonenumbers.libphonenumber
+owasp.java.html.sanitizer
