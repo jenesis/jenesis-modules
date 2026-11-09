@@ -1,3 +1,4 @@
+v2-rev20261029-2.9.2	automatic	com.google.apis	google-api-services-cloudfunctions
 v2-rev20260424-2.9.2	automatic	com.google.apis	google-api-services-cloudfunctions
 v2-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-cloudfunctions
 v2-rev20260324-2.0.0	automatic	com.google.apis	google-api-services-cloudfunctions
@@ -57,6 +58,7 @@ v2-rev20220707-2.0.0	automatic	com.google.apis	google-api-services-cloudfunction
 v2-rev20220707-1.32.1	automatic	com.google.apis	google-api-services-cloudfunctions
 v2-rev20220509-1.32.1	automatic	com.google.apis	google-api-services-cloudfunctions
 v2-rev20220428-1.32.1	automatic	com.google.apis	google-api-services-cloudfunctions
+v2beta-rev20261029-2.9.2	automatic	com.google.apis	google-api-services-cloudfunctions
 v2beta-rev20260424-2.9.2	automatic	com.google.apis	google-api-services-cloudfunctions
 v2beta-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-cloudfunctions
 v2beta-rev20260324-2.0.0	automatic	com.google.apis	google-api-services-cloudfunctions
@@ -124,6 +126,7 @@ v2beta-rev20220331-1.32.1	automatic	com.google.apis	google-api-services-cloudfun
 v2beta-rev20220317-1.32.1	automatic	com.google.apis	google-api-services-cloudfunctions
 v2beta-rev20220218-1.32.1	automatic	com.google.apis	google-api-services-cloudfunctions
 v2beta-rev20220203-1.32.1	automatic	com.google.apis	google-api-services-cloudfunctions
+v2alpha-rev20261029-2.9.2	automatic	com.google.apis	google-api-services-cloudfunctions
 v2alpha-rev20260424-2.9.2	automatic	com.google.apis	google-api-services-cloudfunctions
 v2alpha-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-cloudfunctions
 v2alpha-rev20260324-2.0.0	automatic	com.google.apis	google-api-services-cloudfunctions
@@ -191,6 +194,7 @@ v2alpha-rev20220331-1.32.1	automatic	com.google.apis	google-api-services-cloudfu
 v2alpha-rev20220317-1.32.1	automatic	com.google.apis	google-api-services-cloudfunctions
 v2alpha-rev20220218-1.32.1	automatic	com.google.apis	google-api-services-cloudfunctions
 v2alpha-rev20220203-1.32.1	automatic	com.google.apis	google-api-services-cloudfunctions
+v1-rev20261029-2.9.2	automatic	com.google.apis	google-api-services-cloudfunctions
 v1-rev20260424-2.9.2	automatic	com.google.apis	google-api-services-cloudfunctions
 v1-rev20260424-2.0.0	automatic	com.google.apis	google-api-services-cloudfunctions
 v1-rev20260324-2.0.0	automatic	com.google.apis	google-api-services-cloudfunctions

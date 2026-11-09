@@ -330,6 +330,7 @@ inventories_v1beta-rev20241101-2.0.0	automatic	com.google.apis	google-api-servic
 inventories_v1beta-rev20241022-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 inventories_v1beta-rev20240827-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 inventories_v1beta-rev20240611-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+datasources_v1-rev20261104-2.9.2	automatic	com.google.apis	google-api-services-merchantapi
 datasources_v1-rev20260901-2.9.2	automatic	com.google.apis	google-api-services-merchantapi
 datasources_v1-rev20260901-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 datasources_v1-rev20260719-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
@@ -389,6 +390,7 @@ conversions_v1beta-rev20241023-2.0.0	automatic	com.google.apis	google-api-servic
 conversions_v1beta-rev20241001-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 conversions_v1beta-rev20240827-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 conversions_v1beta-rev20240611-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+accounts_v1-rev20261103-2.9.2	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1-rev20261021-2.9.2	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1-rev20261021-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1-rev20260930-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
@@ -421,6 +423,7 @@ accounts_v1-rev20250823-2.0.0	automatic	com.google.apis	google-api-services-merc
 accounts_v1-rev20250819-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1-rev20250811-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1-rev20250804-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
+accounts_v1beta-rev20261103-2.9.2	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1beta-rev20261021-2.9.2	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1beta-rev20261021-2.0.0	automatic	com.google.apis	google-api-services-merchantapi
 accounts_v1beta-rev20260930-2.0.0	automatic	com.google.apis	google-api-services-merchantapi

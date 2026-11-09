@@ -1,3 +1,4 @@
+v1-rev20261028-2.9.2	automatic	com.google.apis	google-api-services-ftp
 v1-rev20261021-2.9.2	automatic	com.google.apis	google-api-services-ftp
 v1-rev20260909-2.9.2	automatic	com.google.apis	google-api-services-ftp
 v1-rev20260909-2.0.0	automatic	com.google.apis	google-api-services-ftp
@@ -5,6 +6,7 @@ v1-rev20260815-2.0.0	automatic	com.google.apis	google-api-services-ftp
 v1-rev20260805-2.0.0	automatic	com.google.apis	google-api-services-ftp
 v1-rev20260729-2.0.0	automatic	com.google.apis	google-api-services-ftp
 v1-rev20260722-2.0.0	automatic	com.google.apis	google-api-services-ftp
+v1alpha-rev20261028-2.9.2	automatic	com.google.apis	google-api-services-ftp
 v1alpha-rev20261021-2.9.2	automatic	com.google.apis	google-api-services-ftp
 v1alpha-rev20260909-2.9.2	automatic	com.google.apis	google-api-services-ftp
 v1alpha-rev20260909-2.0.0	automatic	com.google.apis	google-api-services-ftp
