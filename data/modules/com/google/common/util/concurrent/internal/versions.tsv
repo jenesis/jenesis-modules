@@ -17,5 +17,7 @@
 0.24.4	named	org.opendaylight.aaa	aaa-cli-jar	2026-10-03T13:46:59Z	1.0.3
 1.13.0	named	com.datastrato	experimental-iceberg-bundled-guava	2026-10-08T07:53:51Z	1.0.3
 2.51.0	named	com.google.errorprone	error_prone_refaster	2026-10-22T09:12:07Z	1.0.3
+4.1.15	named	com.instaclustr	esop-core	2026-11-03T10:35:26Z	1.0.3
+4.1.15	named	com.instaclustr	esop-s3	2026-11-03T10:35:27Z	1.0.3
 2.7.2	named	org.apache.shenyu	shenyu-spring-boot-starter-sync-data-apollo	2026-11-04T16:09:11Z	1.0.3
 2.7.2	named	org.apache.shenyu	shenyu-registry-apollo	2026-11-04T16:10:44Z	1.0.3

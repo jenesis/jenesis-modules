@@ -1,3 +1,4 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0/neton-database-linuxx64-1.0.0.jar returned status 404
 1.0.0-beta1		2026-08-16T12:50:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta1/neton-database-linuxx64-1.0.0-beta1.jar returned status 404
 1.0.0-beta10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta10/neton-database-linuxx64-1.0.0-beta10.jar returned status 404
 1.0.0-beta11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta11/neton-database-linuxx64-1.0.0-beta11.jar returned status 404
@@ -16,6 +17,7 @@
 1.0.0-beta23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta23/neton-database-linuxx64-1.0.0-beta23.jar returned status 404
 1.0.0-beta24		2026-10-20T10:17:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta24/neton-database-linuxx64-1.0.0-beta24.jar returned status 404
 1.0.0-beta25		2026-10-20T11:57:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta25/neton-database-linuxx64-1.0.0-beta25.jar returned status 404
+1.0.0-beta26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta26/neton-database-linuxx64-1.0.0-beta26.jar returned status 404
 1.0.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta3/neton-database-linuxx64-1.0.0-beta3.jar returned status 404
 1.0.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta4/neton-database-linuxx64-1.0.0-beta4.jar returned status 404
 1.0.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta5/neton-database-linuxx64-1.0.0-beta5.jar returned status 404
@@ -23,3 +25,5 @@
 1.0.0-beta7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta7/neton-database-linuxx64-1.0.0-beta7.jar returned status 404
 1.0.0-beta8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta8/neton-database-linuxx64-1.0.0-beta8.jar returned status 404
 1.0.0-beta9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.0.0-beta9/neton-database-linuxx64-1.0.0-beta9.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.1.0/neton-database-linuxx64-1.1.0.jar returned status 404
+1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-database-linuxx64/1.1.1/neton-database-linuxx64-1.1.1.jar returned status 404

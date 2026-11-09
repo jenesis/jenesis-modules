@@ -1,3 +1,4 @@
+0.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/0.1.0/neton-ai-linuxx64-0.1.0.jar returned status 404
 1.0.0-beta1		2026-08-16T12:50:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/1.0.0-beta1/neton-ai-linuxx64-1.0.0-beta1.jar returned status 404
 1.0.0-beta10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/1.0.0-beta10/neton-ai-linuxx64-1.0.0-beta10.jar returned status 404
 1.0.0-beta11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/1.0.0-beta11/neton-ai-linuxx64-1.0.0-beta11.jar returned status 404
@@ -16,6 +17,7 @@
 1.0.0-beta23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/1.0.0-beta23/neton-ai-linuxx64-1.0.0-beta23.jar returned status 404
 1.0.0-beta24		2026-10-20T10:17:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/1.0.0-beta24/neton-ai-linuxx64-1.0.0-beta24.jar returned status 404
 1.0.0-beta25		2026-10-20T11:57:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/1.0.0-beta25/neton-ai-linuxx64-1.0.0-beta25.jar returned status 404
+1.0.0-beta26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/1.0.0-beta26/neton-ai-linuxx64-1.0.0-beta26.jar returned status 404
 1.0.0-beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/1.0.0-beta3/neton-ai-linuxx64-1.0.0-beta3.jar returned status 404
 1.0.0-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/1.0.0-beta4/neton-ai-linuxx64-1.0.0-beta4.jar returned status 404
 1.0.0-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/neton-ai-linuxx64/1.0.0-beta5/neton-ai-linuxx64-1.0.0-beta5.jar returned status 404
