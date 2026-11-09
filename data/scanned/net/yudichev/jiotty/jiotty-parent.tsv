@@ -26,3 +26,5 @@
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/yudichev/jiotty/jiotty-parent/2.2.2/jiotty-parent-2.2.2.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/yudichev/jiotty/jiotty-parent/2.3.0/jiotty-parent-2.3.0.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/yudichev/jiotty/jiotty-parent/2.6.0/jiotty-parent-2.6.0.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/yudichev/jiotty/jiotty-parent/3.8.0/jiotty-parent-3.8.0.jar returned status 404
+3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/yudichev/jiotty/jiotty-parent/3.8.1/jiotty-parent-3.8.1.jar returned status 404

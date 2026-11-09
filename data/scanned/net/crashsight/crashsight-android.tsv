@@ -10,6 +10,7 @@
 4.2.14.987			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/crashsight/crashsight-android/4.2.14.987/crashsight-android-4.2.14.987.jar returned status 404
 4.2.9.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/crashsight/crashsight-android/4.2.9.14/crashsight-android-4.2.9.14.jar returned status 404
 4.3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/crashsight/crashsight-android/4.3.1.1/crashsight-android-4.3.1.1.jar returned status 404
+4.3.14.1107			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/crashsight/crashsight-android/4.3.14.1107/crashsight-android-4.3.14.1107.jar returned status 404
 4.3.3.996			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/crashsight/crashsight-android/4.3.3.996/crashsight-android-4.3.3.996.jar returned status 404
 4.3.3.998			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/crashsight/crashsight-android/4.3.3.998/crashsight-android-4.3.3.998.jar returned status 404
 4.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/crashsight/crashsight-android/4.3.5/crashsight-android-4.3.5.jar returned status 404
