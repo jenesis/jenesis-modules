@@ -345,3 +345,4 @@
 3.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-amazon-services-parent/3.9.4/quarkus-amazon-services-parent-3.9.4.jar returned status 404
 3.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-amazon-services-parent/3.9.5/quarkus-amazon-services-parent-3.9.5.jar returned status 404
 4.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-amazon-services-parent/4.0.0.Beta2/quarkus-amazon-services-parent-4.0.0.Beta2.jar returned status 404
+4.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/platform/quarkus-amazon-services-parent/4.0.0.Beta3/quarkus-amazon-services-parent-4.0.0.Beta3.jar returned status 404

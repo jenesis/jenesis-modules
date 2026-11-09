@@ -70,4 +70,7 @@
 2.75.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/screen-model-wasm-js/2.75.0/screen-model-wasm-js-2.75.0.jar returned status 404
 2.8.0		2026-09-11T05:35:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/screen-model-wasm-js/2.8.0/screen-model-wasm-js-2.8.0.jar returned status 404
 2.8.1		2026-09-11T07:32:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/screen-model-wasm-js/2.8.1/screen-model-wasm-js-2.8.1.jar returned status 404
+2.85.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/screen-model-wasm-js/2.85.0/screen-model-wasm-js-2.85.0.jar returned status 404
+2.86.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/screen-model-wasm-js/2.86.0/screen-model-wasm-js-2.86.0.jar returned status 404
+2.88.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/screen-model-wasm-js/2.88.0/screen-model-wasm-js-2.88.0.jar returned status 404
 2.9.0		2026-09-11T11:38:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/screen-model-wasm-js/2.9.0/screen-model-wasm-js-2.9.0.jar returned status 404

@@ -111,7 +111,10 @@
 13.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.25.0/jeap-server-sent-events-13.25.0.jar returned status 404
 13.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.26.0/jeap-server-sent-events-13.26.0.jar returned status 404
 13.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.27.0/jeap-server-sent-events-13.27.0.jar returned status 404
+13.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.28.0/jeap-server-sent-events-13.28.0.jar returned status 404
+13.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.29.0/jeap-server-sent-events-13.29.0.jar returned status 404
 13.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.3.0/jeap-server-sent-events-13.3.0.jar returned status 404
+13.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.30.0/jeap-server-sent-events-13.30.0.jar returned status 404
 13.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.4.0/jeap-server-sent-events-13.4.0.jar returned status 404
 13.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.5.0/jeap-server-sent-events-13.5.0.jar returned status 404
 13.6.0		2026-09-22T07:06:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jeap-server-sent-events/13.6.0/jeap-server-sent-events-13.6.0.jar returned status 404

@@ -49,6 +49,7 @@
 3.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-preview-daemon-bom/3.27.0/compose-preview-daemon-bom-3.27.0.jar returned status 404
 3.27.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-preview-daemon-bom/3.27.1/compose-preview-daemon-bom-3.27.1.jar returned status 404
 3.27.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-preview-daemon-bom/3.27.2/compose-preview-daemon-bom-3.27.2.jar returned status 404
+3.27.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-preview-daemon-bom/3.27.3/compose-preview-daemon-bom-3.27.3.jar returned status 404
 3.6.0		2026-09-16T10:46:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-preview-daemon-bom/3.6.0/compose-preview-daemon-bom-3.6.0.jar returned status 404
 3.6.1		2026-09-16T14:42:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-preview-daemon-bom/3.6.1/compose-preview-daemon-bom-3.6.1.jar returned status 404
 3.7.0		2026-09-16T14:52:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-preview-daemon-bom/3.7.0/compose-preview-daemon-bom-3.7.0.jar returned status 404

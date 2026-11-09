@@ -59,3 +59,4 @@
 8.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme/jme-integration-test/8.7.0/jme-integration-test-8.7.0.jar returned status 404
 8.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme/jme-integration-test/8.7.1/jme-integration-test-8.7.1.jar returned status 404
 8.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme/jme-integration-test/8.7.2/jme-integration-test-8.7.2.jar returned status 404
+8.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme/jme-integration-test/8.8.0/jme-integration-test-8.8.0.jar returned status 404

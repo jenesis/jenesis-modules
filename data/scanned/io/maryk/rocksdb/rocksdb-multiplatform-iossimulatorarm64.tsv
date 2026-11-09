@@ -24,6 +24,8 @@
 10.5.5.1	metadata	2026-04-03T10:11:49Z	
 10.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-iossimulatorarm64/10.6.2/rocksdb-multiplatform-iossimulatorarm64-10.6.2.jar returned status 404
 10.6.2	metadata	2026-04-03T10:51:33Z	
+11.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-iossimulatorarm64/11.8.1/rocksdb-multiplatform-iossimulatorarm64-11.8.1.jar returned status 404
+11.8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-iossimulatorarm64/11.8.1.1/rocksdb-multiplatform-iossimulatorarm64-11.8.1.1.jar returned status 404
 9.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-iossimulatorarm64/9.10.0/rocksdb-multiplatform-iossimulatorarm64-9.10.0.jar returned status 404
 9.10.0	metadata	2025-02-14T13:40:08Z	
 9.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/rocksdb/rocksdb-multiplatform-iossimulatorarm64/9.10.1/rocksdb-multiplatform-iossimulatorarm64-9.10.1.jar returned status 404

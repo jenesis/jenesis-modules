@@ -45,7 +45,13 @@
 9.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.18.0/jme-swagger-example-9.18.0.jar returned status 404
 9.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.19.0/jme-swagger-example-9.19.0.jar returned status 404
 9.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.19.1/jme-swagger-example-9.19.1.jar returned status 404
+9.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.19.2/jme-swagger-example-9.19.2.jar returned status 404
 9.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.2.0/jme-swagger-example-9.2.0.jar returned status 404
+9.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.20.0/jme-swagger-example-9.20.0.jar returned status 404
+9.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.21.0/jme-swagger-example-9.21.0.jar returned status 404
+9.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.22.0/jme-swagger-example-9.22.0.jar returned status 404
+9.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.24.0/jme-swagger-example-9.24.0.jar returned status 404
+9.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.25.0/jme-swagger-example-9.25.0.jar returned status 404
 9.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.3.0/jme-swagger-example-9.3.0.jar returned status 404
 9.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.5.0/jme-swagger-example-9.5.0.jar returned status 404
 9.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-swagger-example/9.5.1/jme-swagger-example-9.5.1.jar returned status 404

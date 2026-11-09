@@ -2152,3 +2152,8 @@ cz.skyba.taglib
 org.apache.commons.io
 ch.digitalfondue.jfiveparse
 ch.sbb.polarion.extension.pdf_exporter
+com.shinyhut.vernacular
+io.thenativeweb.eventsourcingdb
+io.thenativeweb.eventsourcingdb.springboot
+io.thenativeweb.eventsourcingdb.testcontainers
+io.quarkus.core
