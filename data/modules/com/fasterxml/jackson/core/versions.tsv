@@ -7507,8 +7507,11 @@ v0.0.21	named	com.grafana	grafana-foundation-sdk	2026-10-16T13:12:41Z	2.19.1
 4.1.10-1.0.4	named	com.instaclustr	cassandra-lucene-index-plugin	2026-10-26T15:42:25Z	2.18.9
 v0.0.22	named	com.grafana	grafana-foundation-sdk	2026-10-29T15:09:56Z	2.19.1
 4.1.12-1.0.1	named	com.instaclustr	cassandra-lucene-index-plugin	2026-10-29T16:58:39Z	2.18.9
+1.15.2	named	com.ratepay.sdk	ratepay-sdk-core	2026-10-30T12:26:02Z	2.22.1
 1.2.5	named	org.cadenzaflow.spin	cadenzaflow-spin-dataformat-all	2026-10-30T12:45:28Z	2.21.7
+1.16.0	named	com.ratepay.sdk	ratepay-sdk-core	2026-11-03T09:14:28Z	2.22.4
 6.0.1	named	com.liquibase.ext	liquibase-commercial-mongodb	2026-11-03T17:41:32Z	2.22.4
 42.8	named	io.deephaven	deephaven-oidc-authentication-provider	2026-11-03T19:41:18Z	2.14.0
+1.16.1	named	com.ratepay.sdk	ratepay-sdk-core	2026-11-04T11:39:58Z	2.22.4
 2.2.1	named	org.operaton.spin	operaton-spin-dataformat-all	2026-11-07T12:29:44Z	2.22.4
 2.23.0	named	com.fasterxml.jackson.core	jackson-core	2026-11-08T00:15:03Z	2.23.0

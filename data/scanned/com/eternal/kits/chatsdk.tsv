@@ -47,6 +47,8 @@
 0.70.3		2026-09-23T08:51:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/0.70.3/chatsdk-0.70.3.jar returned status 404
 0.70.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/0.70.4/chatsdk-0.70.4.jar returned status 404
 0.70.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/0.70.5/chatsdk-0.70.5.jar returned status 404
+0.70.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/0.70.6/chatsdk-0.70.6.jar returned status 404
+0.70.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/0.70.7/chatsdk-0.70.7.jar returned status 404
 3000			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/3000/chatsdk-3000.jar returned status 404
 3001			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/3001/chatsdk-3001.jar returned status 404
 3002			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/3002/chatsdk-3002.jar returned status 404
@@ -74,4 +76,5 @@
 90914			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/90914/chatsdk-90914.jar returned status 404
 90915		2026-10-12T12:11:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/90915/chatsdk-90915.jar returned status 404
 90916			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/90916/chatsdk-90916.jar returned status 404
+90917			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/90917/chatsdk-90917.jar returned status 404
 99992			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/eternal/kits/chatsdk/99992/chatsdk-99992.jar returned status 404

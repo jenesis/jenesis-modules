@@ -449,6 +449,7 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 10.4.20261031	named	io.github.shafthq	shaft-cli	2026-10-31T09:11:35Z	1.23.2
 10.4.20261101	named	io.github.shafthq	shaft-cli	2026-11-01T15:09:45Z	1.23.2
 10.4.20261102	named	io.github.shafthq	shaft-cli	2026-11-01T18:01:20Z	1.23.2
+1.3.1	named	com.testzombie	testzombie-lib-java	2026-11-02T10:03:43Z	1.23.2
 0.15.0	named	io.github.algomaster99	runtime-class-interceptor	2026-11-02T16:02:16Z	1.22.1
 0.15.0	named	io.github.algomaster99	watchdog-agent	2026-11-02T16:02:16Z	1.22.1
 0.15.0	named	io.github.algomaster99	classfile-fingerprint	2026-11-02T16:02:17Z	1.22.1

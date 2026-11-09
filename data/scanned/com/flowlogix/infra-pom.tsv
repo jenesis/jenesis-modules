@@ -51,6 +51,8 @@
 145			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/infra-pom/145/infra-pom-145.jar returned status 404
 146			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/infra-pom/146/infra-pom-146.jar returned status 404
 147			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/infra-pom/147/infra-pom-147.jar returned status 404
+148			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/infra-pom/148/infra-pom-148.jar returned status 404
+149			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/infra-pom/149/infra-pom-149.jar returned status 404
 15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/infra-pom/15/infra-pom-15.jar returned status 404
 16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/infra-pom/16/infra-pom-16.jar returned status 404
 17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flowlogix/infra-pom/17/infra-pom-17.jar returned status 404
