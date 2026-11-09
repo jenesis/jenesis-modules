@@ -91,6 +91,7 @@
 8.7.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.7.42/spring-boot-starter-camunda-test-pom-8.7.42.jar returned status 404
 8.7.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.7.43/spring-boot-starter-camunda-test-pom-8.7.43.jar returned status 404
 8.7.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.7.44/spring-boot-starter-camunda-test-pom-8.7.44.jar returned status 404
+8.7.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.7.45/spring-boot-starter-camunda-test-pom-8.7.45.jar returned status 404
 8.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.7.5/spring-boot-starter-camunda-test-pom-8.7.5.jar returned status 404
 8.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.7.6/spring-boot-starter-camunda-test-pom-8.7.6.jar returned status 404
 8.7.6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.7.6-rc1/spring-boot-starter-camunda-test-pom-8.7.6-rc1.jar returned status 404
@@ -163,6 +164,8 @@
 8.8.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.8.42/spring-boot-starter-camunda-test-pom-8.8.42.jar returned status 404
 8.8.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.8.43/spring-boot-starter-camunda-test-pom-8.8.43.jar returned status 404
 8.8.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.8.44/spring-boot-starter-camunda-test-pom-8.8.44.jar returned status 404
+8.8.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.8.45/spring-boot-starter-camunda-test-pom-8.8.45.jar returned status 404
+8.8.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.8.46/spring-boot-starter-camunda-test-pom-8.8.46.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.8.5/spring-boot-starter-camunda-test-pom-8.8.5.jar returned status 404
 8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.8.6/spring-boot-starter-camunda-test-pom-8.8.6.jar returned status 404
 8.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.8.7/spring-boot-starter-camunda-test-pom-8.8.7.jar returned status 404
@@ -205,6 +208,8 @@
 8.9.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.9.24/spring-boot-starter-camunda-test-pom-8.9.24.jar returned status 404
 8.9.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.9.25/spring-boot-starter-camunda-test-pom-8.9.25.jar returned status 404
 8.9.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.9.26/spring-boot-starter-camunda-test-pom-8.9.26.jar returned status 404
+8.9.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.9.27/spring-boot-starter-camunda-test-pom-8.9.27.jar returned status 404
+8.9.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.9.28/spring-boot-starter-camunda-test-pom-8.9.28.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.9.3/spring-boot-starter-camunda-test-pom-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.9.4/spring-boot-starter-camunda-test-pom-8.9.4.jar returned status 404
 8.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/spring-boot-starter-camunda-test-pom/8.9.5/spring-boot-starter-camunda-test-pom-8.9.5.jar returned status 404

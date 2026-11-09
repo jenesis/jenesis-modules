@@ -76,6 +76,7 @@
 8.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.6.4/tasklist-parent-8.6.4.jar returned status 404
 8.6.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.6.40/tasklist-parent-8.6.40.jar returned status 404
 8.6.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.6.41/tasklist-parent-8.6.41.jar returned status 404
+8.6.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.6.42/tasklist-parent-8.6.42.jar returned status 404
 8.6.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.6.5/tasklist-parent-8.6.5.jar returned status 404
 8.6.5-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.6.5-rc1/tasklist-parent-8.6.5-rc1.jar returned status 404
 8.6.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.6.6/tasklist-parent-8.6.6.jar returned status 404
@@ -147,6 +148,7 @@
 8.7.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.7.42/tasklist-parent-8.7.42.jar returned status 404
 8.7.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.7.43/tasklist-parent-8.7.43.jar returned status 404
 8.7.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.7.44/tasklist-parent-8.7.44.jar returned status 404
+8.7.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.7.45/tasklist-parent-8.7.45.jar returned status 404
 8.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.7.5/tasklist-parent-8.7.5.jar returned status 404
 8.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.7.6/tasklist-parent-8.7.6.jar returned status 404
 8.7.6-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.7.6-rc1/tasklist-parent-8.7.6-rc1.jar returned status 404
@@ -220,6 +222,8 @@
 8.8.42			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.8.42/tasklist-parent-8.8.42.jar returned status 404
 8.8.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.8.43/tasklist-parent-8.8.43.jar returned status 404
 8.8.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.8.44/tasklist-parent-8.8.44.jar returned status 404
+8.8.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.8.45/tasklist-parent-8.8.45.jar returned status 404
+8.8.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.8.46/tasklist-parent-8.8.46.jar returned status 404
 8.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.8.5/tasklist-parent-8.8.5.jar returned status 404
 8.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.8.6/tasklist-parent-8.8.6.jar returned status 404
 8.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.8.7/tasklist-parent-8.8.7.jar returned status 404
@@ -262,6 +266,8 @@
 8.9.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.9.24/tasklist-parent-8.9.24.jar returned status 404
 8.9.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.9.25/tasklist-parent-8.9.25.jar returned status 404
 8.9.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.9.26/tasklist-parent-8.9.26.jar returned status 404
+8.9.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.9.27/tasklist-parent-8.9.27.jar returned status 404
+8.9.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.9.28/tasklist-parent-8.9.28.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.9.3/tasklist-parent-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.9.4/tasklist-parent-8.9.4.jar returned status 404
 8.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/tasklist-parent/8.9.5/tasklist-parent-8.9.5.jar returned status 404
