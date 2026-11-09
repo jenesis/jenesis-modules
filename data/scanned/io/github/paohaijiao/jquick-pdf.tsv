@@ -28,3 +28,5 @@
 4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/paohaijiao/jquick-pdf/4.5.0/jquick-pdf-4.5.0.jar returned status 404
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/paohaijiao/jquick-pdf/4.7.0/jquick-pdf-4.7.0.jar returned status 404
 4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/paohaijiao/jquick-pdf/4.8.0/jquick-pdf-4.8.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/paohaijiao/jquick-pdf/5.0.0/jquick-pdf-5.0.0.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/paohaijiao/jquick-pdf/5.1.0/jquick-pdf-5.1.0.jar returned status 404

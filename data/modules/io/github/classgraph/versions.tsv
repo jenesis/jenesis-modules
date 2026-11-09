@@ -989,3 +989,6 @@ edge	named	com.purbon.kafka.topology	julie-ops-cli	2022-07-29T14:46:42Z	4.8.21
 6.0.0	named	io.github.classgraph	classgraph	2026-10-13T04:26:23Z	6.0.0
 5.0.1	named	io.github.classgraph	classgraph	2026-10-28T07:27:35Z	5.0.1
 6.0.1	named	io.github.classgraph	classgraph	2026-10-28T07:43:27Z	6.0.1
+4.8.200	named	io.github.classgraph	classgraph	2026-11-05T21:19:45Z	
+5.0.2	named	io.github.classgraph	classgraph	2026-11-05T22:14:45Z	5.0.2
+6.0.2	named	io.github.classgraph	classgraph	2026-11-05T22:30:09Z	6.0.2

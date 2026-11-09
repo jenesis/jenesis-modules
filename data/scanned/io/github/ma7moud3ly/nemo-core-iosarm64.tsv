@@ -1,3 +1,4 @@
 1.1.0		2026-10-10T03:36:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ma7moud3ly/nemo-core-iosarm64/1.1.0/nemo-core-iosarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-10-10T03:36:24Z	
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ma7moud3ly/nemo-core-iosarm64/2.0.0/nemo-core-iosarm64-2.0.0.jar returned status 404
+2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ma7moud3ly/nemo-core-iosarm64/2.0.1/nemo-core-iosarm64-2.0.1.jar returned status 404
