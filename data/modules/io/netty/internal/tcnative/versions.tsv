@@ -993,6 +993,8 @@
 3.0.12	named	io.milvus	milvus-sdk-java	2026-10-28T03:07:19Z	2.0.74.Final
 5.0.3	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-28T22:57:11Z	2.0.72.Final
 48.1.0	named	com.google.api-ads	google-ads-shadowjar	2026-10-29T20:47:46Z	2.0.75.Final
+2.0.85.Final	named	io.netty	netty-tcnative	2026-11-02T09:20:00Z	2.0.85.Final
+2.0.85.Final	named	io.netty	netty-tcnative-boringssl-static	2026-11-02T09:20:00Z	2.0.85.Final
 4.152.3	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-02T21:20:24Z	2.0.72.Final
 5.0.4	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-03T12:04:41Z	2.0.72.Final
 5.0.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-05T05:46:30Z	2.0.72.Final

@@ -227,6 +227,8 @@
 5.90.0	named	com.applitools	eyes-sdk-core-java5	2026-10-25T15:57:20Z	4.2.17.Final
 4.3.0	named	org.apache.spark	spark-connect-client-jvm_2.13	2026-10-27T03:35:06Z	4.2.13.Final
 1.0.4	named	org.openjproxy	ojp-jdbc-driver	2026-10-31T21:20:39Z	4.2.18.Final
+4.2.20.Final	named	io.netty	netty-codec-http2	2026-11-02T18:46:19Z	4.2.20.Final
+4.1.140.Final	automatic	io.netty	netty-codec-http2	2026-11-02T19:27:08Z	
 1.0.5-RC1	named	org.openjproxy	ojp-jdbc-driver	2026-11-06T16:50:33Z	4.2.18.Final
 1.0.5-RC1	named	org.openjproxy	ojp-server	2026-11-06T16:50:34Z	4.2.18.Final
 1.0.6	named	org.openjproxy	ojp-jdbc-driver	2026-11-06T18:05:37Z	4.2.18.Final

@@ -162,3 +162,5 @@
 1.1.0-RC22	named	org.reactivemongo	reactivemongo-shaded-native-linux-x86-64	2026-10-13T14:41:30Z	4.2.19.Final
 1.1.0-RC22	named	org.reactivemongo	reactivemongo-shaded-native-osx-aarch-64	2026-10-13T14:41:30Z	4.2.19.Final
 1.1.0-RC22	named	org.reactivemongo	reactivemongo-shaded-native-osx-x86-64	2026-10-13T14:41:30Z	4.2.19.Final
+4.2.20.Final	named	io.netty	netty-transport-native-unix-common	2026-11-02T18:46:20Z	4.2.20.Final
+4.1.140.Final	automatic	io.netty	netty-transport-native-unix-common	2026-11-02T19:27:09Z	
