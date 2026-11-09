@@ -4,3 +4,4 @@
 4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/connectorio-oss/4/connectorio-oss-4.jar returned status 404
 5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/connectorio-oss/5/connectorio-oss-5.jar returned status 404
 6		2026-05-31T19:23:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/connectorio-oss/6/connectorio-oss-6.jar returned status 404
+7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/connectorio/connectorio-oss/7/connectorio-oss-7.jar returned status 404

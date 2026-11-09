@@ -1171,4 +1171,5 @@ vv1.2.0.1-1-gadc43b8-1-gf5bc75b	named	com.linkedin.iceberg	iceberg-spark-runtime
 2.21.8	named	com.fasterxml.jackson.datatype	jackson-datatype-jsr310	2026-10-17T20:41:06Z	2.21.8
 2.22.4	named	com.fasterxml.jackson.datatype	jackson-datatype-jsr310	2026-10-17T23:36:19Z	2.22.4
 1.55.0	named	io.openlineage	spark-extension-interfaces	2026-10-29T15:09:56Z	2.18.11
+7.27.0	named	org.openapitools	openapi-generator-cli	2026-11-02T06:24:58Z	2.22.1
 5.0.0	named	org.opencds.cqf.cql.ls	cql-ls-server	2026-11-05T12:46:44Z	2.18.6
