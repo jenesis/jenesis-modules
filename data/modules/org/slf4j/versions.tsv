@@ -3339,6 +3339,7 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 2.0.4	named	org.open-metadata	elasticsearch-deps	2026-10-06T06:41:32Z	2.0.4
 0.1.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-10-08T07:46:27Z	2.0.16
 2.0.5	named	org.open-metadata	elasticsearch-deps	2026-10-08T16:08:19Z	2.0.4
+3.7.0	named	org.apache.uima	uima-bnd-plugin	2026-10-08T16:39:31Z	2.0.18
 3.3.3	named	org.apache.tika	tika-emitter-opensearch	2026-10-09T21:01:51Z	2.0.20
 3.3.3	named	org.apache.tika	tika-pipes-iterator-kafka	2026-10-09T21:03:40Z	2.0.20
 3.3.3	named	org.apache.tika	tika-async-cli	2026-10-09T21:05:22Z	2.0.20
