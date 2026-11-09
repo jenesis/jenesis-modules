@@ -5,3 +5,4 @@
 3.30.0-beta		2026-07-26T20:28:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libevent-ios/3.30.0-beta/libevent-ios-3.30.0-beta.jar returned status 404
 3.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libevent-ios/3.31.0/libevent-ios-3.31.0.jar returned status 404
 3.31.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libevent-ios/3.31.0-beta/libevent-ios-3.31.0-beta.jar returned status 404
+3.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/libevent-ios/3.31.1/libevent-ios-3.31.1.jar returned status 404

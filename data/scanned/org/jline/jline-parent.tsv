@@ -96,3 +96,4 @@
 4.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jline/jline-parent/4.4.6/jline-parent-4.4.6.jar returned status 404
 4.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jline/jline-parent/4.4.7/jline-parent-4.4.7.jar returned status 404
 4.4.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jline/jline-parent/4.4.8/jline-parent-4.4.8.jar returned status 404
+4.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jline/jline-parent/4.5.0/jline-parent-4.5.0.jar returned status 404

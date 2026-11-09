@@ -5,4 +5,5 @@
 3.30.0-beta		2026-07-26T20:28:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/3.30.0-beta/oonimkall-ios-3.30.0-beta.jar returned status 404
 3.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/3.31.0/oonimkall-ios-3.31.0.jar returned status 404
 3.31.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/3.31.0-beta/oonimkall-ios-3.31.0-beta.jar returned status 404
+3.31.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/3.31.1/oonimkall-ios-3.31.1.jar returned status 404
 b1687ec8		2026-07-19T12:34:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ooni/oonimkall-ios/b1687ec8/oonimkall-ios-b1687ec8.jar returned status 404

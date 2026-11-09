@@ -49,6 +49,7 @@
 2025.1.4			
 2026.0.0-M1			
 2026.0.0-RC1			
+2026.0.0-RC2			
 Hoxton.SR10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-starter-docs/Hoxton.SR10/spring-cloud-starter-docs-Hoxton.SR10.jar returned status 404
 Hoxton.SR11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-starter-docs/Hoxton.SR11/spring-cloud-starter-docs-Hoxton.SR11.jar returned status 404
 Hoxton.SR12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/cloud/spring-cloud-starter-docs/Hoxton.SR12/spring-cloud-starter-docs-Hoxton.SR12.jar returned status 404

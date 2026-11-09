@@ -99,6 +99,7 @@
 1.2.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/conditional/auth/functions/org.wso2.carbon.identity.conditional.auth.functions.choreo/1.2.9/org.wso2.carbon.identity.conditional.auth.functions.choreo-1.2.9.jar returned status 404
 1.3.0		2026-02-12T15:34:02Z	
 1.3.1		2026-03-04T08:00:58Z	
+1.3.10			
 1.3.2		2026-03-18T07:44:33Z	
 1.3.3		2026-03-28T04:28:17Z	
 1.3.4		2026-04-30T20:07:29Z	
@@ -106,3 +107,4 @@
 1.3.6			
 1.3.7			
 1.3.8			
+1.3.9			

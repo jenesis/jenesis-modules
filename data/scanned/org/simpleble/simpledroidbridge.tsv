@@ -103,3 +103,10 @@
 1.3.1-dev.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.3.1-dev.22/simpledroidbridge-1.3.1-dev.22.jar returned status 404
 1.3.1-dev.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.3.1-dev.25/simpledroidbridge-1.3.1-dev.25.jar returned status 404
 1.3.1-dev.35			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.3.1-dev.35/simpledroidbridge-1.3.1-dev.35.jar returned status 404
+1.3.1-dev.40			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.3.1-dev.40/simpledroidbridge-1.3.1-dev.40.jar returned status 404
+1.3.1-dev.41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.3.1-dev.41/simpledroidbridge-1.3.1-dev.41.jar returned status 404
+1.3.1-dev.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.3.1-dev.43/simpledroidbridge-1.3.1-dev.43.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.4.0/simpledroidbridge-1.4.0.jar returned status 404
+1.4.0-dev.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.4.0-dev.46/simpledroidbridge-1.4.0-dev.46.jar returned status 404
+1.4.1-dev.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.4.1-dev.1/simpledroidbridge-1.4.1-dev.1.jar returned status 404
+1.4.1-dev.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/simpleble/simpledroidbridge/1.4.1-dev.2/simpledroidbridge-1.4.1-dev.2.jar returned status 404
