@@ -30,5 +30,6 @@
 3.3.25060601			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iussoft/iussoft-platefrom-parent/3.3.25060601/iussoft-platefrom-parent-3.3.25060601.jar returned status 404
 3.3.25090901			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iussoft/iussoft-platefrom-parent/3.3.25090901/iussoft-platefrom-parent-3.3.25090901.jar returned status 404
 3.3.25100901			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iussoft/iussoft-platefrom-parent/3.3.25100901/iussoft-platefrom-parent-3.3.25100901.jar returned status 404
+3.3.25120101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iussoft/iussoft-platefrom-parent/3.3.25120101/iussoft-platefrom-parent-3.3.25120101.jar returned status 404
 3.3.3-RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iussoft/iussoft-platefrom-parent/3.3.3-RELEASE/iussoft-platefrom-parent-3.3.3-RELEASE.jar returned status 404
 3.4.240100101			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/iussoft/iussoft-platefrom-parent/3.4.240100101/iussoft-platefrom-parent-3.4.240100101.jar returned status 404

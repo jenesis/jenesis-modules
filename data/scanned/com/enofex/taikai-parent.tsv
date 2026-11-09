@@ -1,3 +1,4 @@
 0.1.0		2024-06-06T16:44:13Z	
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enofex/taikai-parent/2.6.0/taikai-parent-2.6.0.jar returned status 404
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enofex/taikai-parent/2.7.0/taikai-parent-2.7.0.jar returned status 404
+2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enofex/taikai-parent/2.8.0/taikai-parent-2.8.0.jar returned status 404

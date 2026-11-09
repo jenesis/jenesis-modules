@@ -1,6 +1,9 @@
 0.12.1		2026-09-01T21:54:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/silenium/libs/gl/natives/android/0.12.1/android-0.12.1.jar returned status 404
 0.12.1	debug-sources	2026-09-01T21:54:56Z	
 0.12.1	release-sources	2026-09-01T21:54:56Z	
+0.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/silenium/libs/gl/natives/android/0.12.2/android-0.12.2.jar returned status 404
 0.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/silenium/libs/gl/natives/android/0.13.0/android-0.13.0.jar returned status 404
 0.13.0	debug-sources	2026-09-26T21:46:17Z	
 0.13.0	release-sources	2026-09-26T21:46:17Z	
+0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/silenium/libs/gl/natives/android/0.13.1/android-0.13.1.jar returned status 404
+0.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/silenium/libs/gl/natives/android/0.14.0/android-0.14.0.jar returned status 404

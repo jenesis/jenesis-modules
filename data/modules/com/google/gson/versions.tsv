@@ -5351,7 +5351,13 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 0.72.2	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-10-30T18:36:48Z	2.11.0
 2.0.6	named	com.conaxgames	clibraries	2026-10-31T10:25:21Z	2.14.0
 0.73.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-11-01T19:20:12Z	2.11.0
+0.74.0	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-11-02T05:50:00Z	2.11.0
+0.74.1	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-11-03T04:20:13Z	2.11.0
+0.74.2-alpha-20261103085712	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-11-03T09:41:12Z	2.11.0
+0.74.2-alpha-20261103103706	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-11-03T11:05:36Z	2.11.0
 4.0.1	named	tools.vitruv	tools.vitruv.dsls.reactions.ide	2026-11-03T11:19:51Z	2.15.0
+0.74.2-alpha-20261103135001	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-11-03T15:30:07Z	2.11.0
+0.75.0-alpha-20261104040244	named	dev.frontseat.maven.extensions	maven-deploy-extension	2026-11-04T04:55:17Z	2.11.0
 4.0.0.Beta3	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-04T15:00:07Z	2.10
 2.7.2	named	org.apache.shenyu	shenyu-admin-listener-apollo	2026-11-04T16:12:05Z	2.13.2
 12.3.0.87938	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-11-05T16:01:30Z	2.15.0

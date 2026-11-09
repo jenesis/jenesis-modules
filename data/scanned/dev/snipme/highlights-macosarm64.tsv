@@ -20,3 +20,4 @@
 1.0.0	metadata	2024-11-01T20:08:22Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/snipme/highlights-macosarm64/1.1.0/highlights-macosarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2025-09-02T05:51:29Z	
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/snipme/highlights-macosarm64/1.2.0/highlights-macosarm64-1.2.0.jar returned status 404
