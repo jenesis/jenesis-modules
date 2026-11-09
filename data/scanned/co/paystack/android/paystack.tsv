@@ -8,3 +8,5 @@
 3.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/paystack/android/paystack/3.3.2/paystack-3.3.2.jar returned status 404
 3.3.2-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/paystack/android/paystack/3.3.2-alpha01/paystack-3.3.2-alpha01.jar returned status 404
 3.3.2-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/paystack/android/paystack/3.3.2-alpha02/paystack-3.3.2-alpha02.jar returned status 404
+3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/paystack/android/paystack/3.5.0/paystack-3.5.0.jar returned status 404
+3.5.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/co/paystack/android/paystack/3.5.0-alpha01/paystack-3.5.0-alpha01.jar returned status 404

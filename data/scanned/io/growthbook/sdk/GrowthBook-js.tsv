@@ -1,5 +1,7 @@
 1.1.63			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-js/1.1.63/GrowthBook-js-1.1.63.jar returned status 404
 1.1.64			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-js/1.1.64/GrowthBook-js-1.1.64.jar returned status 404
+10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-js/10.0.0/GrowthBook-js-10.0.0.jar returned status 404
+10.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-js/10.1.0/GrowthBook-js-10.1.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-js/2.0.0/GrowthBook-js-2.0.0.jar returned status 404
 2.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-js/2.0.0-alpha/GrowthBook-js-2.0.0-alpha.jar returned status 404
 3.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/growthbook/sdk/GrowthBook-js/3.0.0-alpha/GrowthBook-js-3.0.0-alpha.jar returned status 404

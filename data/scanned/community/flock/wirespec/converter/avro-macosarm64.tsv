@@ -118,3 +118,6 @@
 0.22.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/avro-macosarm64/0.22.5/avro-macosarm64-0.22.5.jar returned status 404
 0.22.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/avro-macosarm64/0.22.6/avro-macosarm64-0.22.6.jar returned status 404
 0.22.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/avro-macosarm64/0.22.7/avro-macosarm64-0.22.7.jar returned status 404
+0.22.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/avro-macosarm64/0.22.8/avro-macosarm64-0.22.8.jar returned status 404
+0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/avro-macosarm64/0.23.0/avro-macosarm64-0.23.0.jar returned status 404
+0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/avro-macosarm64/0.23.1/avro-macosarm64-0.23.1.jar returned status 404

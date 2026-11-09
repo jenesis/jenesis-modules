@@ -1120,4 +1120,6 @@
 4.1.4	named	org.apache.spark	spark-network-common_2.13	2026-10-22T11:53:25Z	33.4.8-jre
 5.3.21	named	io.digiexpress	thena-sql-client-annot-proc	2026-10-23T11:17:21Z	33.5.0-jre
 4.3.0	named	org.apache.spark	spark-network-common_2.13	2026-10-27T03:34:29Z	33.6.0-jre
+6.0.44	named	io.digiexpress	thena-sql-client-annot-proc	2026-11-05T10:39:49Z	33.5.0-jre
+5.3.22	named	io.digiexpress	thena-sql-client-annot-proc	2026-11-05T18:19:54Z	33.5.0-jre
 1.2611.1	named	org.talend.sdk.component.sample.feature	entrywitherror	2026-11-06T14:27:05Z	33.4.8-jre

@@ -1,3 +1,4 @@
+1.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inji/vcverifier-aar/1.10.0/vcverifier-aar-1.10.0.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inji/vcverifier-aar/1.7.0/vcverifier-aar-1.7.0.jar returned status 404
 1.7.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inji/vcverifier-aar/1.7.0-RC1/vcverifier-aar-1.7.0-RC1.jar returned status 404
 1.7.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/inji/vcverifier-aar/1.7.0-RC2/vcverifier-aar-1.7.0-RC2.jar returned status 404
