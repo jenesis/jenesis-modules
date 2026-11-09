@@ -30,6 +30,8 @@
 3.11.5.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.7/scylla-driver-parent-3.11.5.7.jar returned status 404
 3.11.5.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.8/scylla-driver-parent-3.11.5.8.jar returned status 404
 3.11.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.11.5.9/scylla-driver-parent-3.11.5.9.jar returned status 404
+3.12.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.12.1.0/scylla-driver-parent-3.12.1.0.jar returned status 404
+3.13.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.13.0.0/scylla-driver-parent-3.13.0.0.jar returned status 404
 3.7.1-scylla-0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.7.1-scylla-0/scylla-driver-parent-3.7.1-scylla-0.jar returned status 404
 3.7.1-scylla-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.7.1-scylla-1/scylla-driver-parent-3.7.1-scylla-1.jar returned status 404
 3.7.1-scylla-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/scylladb/scylla-driver-parent/3.7.1-scylla-2/scylla-driver-parent-3.7.1-scylla-2.jar returned status 404
