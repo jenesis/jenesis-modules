@@ -53,6 +53,7 @@
 16.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/db-scheduler-parent/16.8.0/db-scheduler-parent-16.8.0.jar returned status 404
 16.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/db-scheduler-parent/16.8.1/db-scheduler-parent-16.8.1.jar returned status 404
 16.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/db-scheduler-parent/16.9.0/db-scheduler-parent-16.9.0.jar returned status 404
+17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/db-scheduler-parent/17.0.0/db-scheduler-parent-17.0.0.jar returned status 404
 6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/db-scheduler-parent/6.0/db-scheduler-parent-6.0.jar returned status 404
 6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/db-scheduler-parent/6.1/db-scheduler-parent-6.1.jar returned status 404
 6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/db-scheduler-parent/6.2/db-scheduler-parent-6.2.jar returned status 404

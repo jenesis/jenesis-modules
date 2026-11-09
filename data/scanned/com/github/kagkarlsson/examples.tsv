@@ -53,6 +53,7 @@
 16.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/examples/16.8.0/examples-16.8.0.jar returned status 404
 16.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/examples/16.8.1/examples-16.8.1.jar returned status 404
 16.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/examples/16.9.0/examples-16.9.0.jar returned status 404
+17.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/examples/17.0.0/examples-17.0.0.jar returned status 404
 6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/examples/6.0/examples-6.0.jar returned status 404
 6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/examples/6.1/examples-6.1.jar returned status 404
 6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/kagkarlsson/examples/6.2/examples-6.2.jar returned status 404

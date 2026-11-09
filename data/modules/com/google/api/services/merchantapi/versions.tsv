@@ -490,3 +490,6 @@ reports_v1-rev20261026-2.9.2	automatic	com.google.apis	google-api-services-merch
 reports_v1beta-rev20261026-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-10-29T01:25:46Z	
 promotions_v1-rev20261026-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-10-29T01:25:46Z	
 promotions_v1beta-rev20261026-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-10-29T01:25:46Z	
+accounts_v1beta-rev20261103-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-06T15:18:26Z	
+accounts_v1-rev20261103-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-06T15:18:27Z	
+datasources_v1-rev20261104-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-07T01:26:21Z	
