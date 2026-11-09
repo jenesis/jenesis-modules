@@ -5355,3 +5355,4 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 2.7.2	named	org.apache.shenyu	shenyu-admin-listener-apollo	2026-11-04T16:12:05Z	2.13.2
 12.3.0.87938	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-11-05T16:01:30Z	2.15.0
 12.3.0.87938	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-11-05T16:01:30Z	2.15.0
+2.2.1	named	org.operaton.bpm	operaton-engine	2026-11-07T12:29:43Z	2.14.0

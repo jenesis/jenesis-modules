@@ -39,3 +39,4 @@
 25.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graalvm/polyglot/lsp-community/25.2.4/lsp-community-25.2.4.jar returned status 404
 25.3.4.1		2026-08-23T21:48:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graalvm/polyglot/lsp-community/25.3.4.1/lsp-community-25.3.4.1.jar returned status 404
 25.4.4.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graalvm/polyglot/lsp-community/25.4.4.1.1/lsp-community-25.4.4.1.1.jar returned status 404
+25.5.5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graalvm/polyglot/lsp-community/25.5.5.0.3/lsp-community-25.5.5.0.3.jar returned status 404

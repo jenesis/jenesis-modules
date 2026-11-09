@@ -266,3 +266,7 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 1.5.1	named	dev.zacsweers.metro	gradle-plugin	2026-10-29T17:13:57Z	1.0.1
 2.14.3	named	net.flectone	packeteventsmodern-api	2026-10-29T20:40:18Z	
 1.1.6	named	com.zonzonzon	common-caffeine	2026-10-31T07:31:51Z	
+2.5.11	named	org.jboss.elemento	elemento-router-processor	2026-11-03T13:15:09Z	
+2.5.11	named	org.jboss.elemento	elemento-router-processor-cdi	2026-11-03T13:15:09Z	
+2.5.12	named	org.jboss.elemento	elemento-router-processor	2026-11-03T16:15:11Z	
+2.5.12	named	org.jboss.elemento	elemento-router-processor-cdi	2026-11-03T16:15:11Z	
