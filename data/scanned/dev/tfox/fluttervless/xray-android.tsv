@@ -2,6 +2,8 @@
 26.10.21-protect1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tfox/fluttervless/xray-android/26.10.21-protect1/xray-android-26.10.21-protect1.jar returned status 404
 26.10.29-protect1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tfox/fluttervless/xray-android/26.10.29-protect1/xray-android-26.10.29-protect1.jar returned status 404
 26.10.29-protect3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tfox/fluttervless/xray-android/26.10.29-protect3/xray-android-26.10.29-protect3.jar returned status 404
+26.10.31-protect1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tfox/fluttervless/xray-android/26.10.31-protect1/xray-android-26.10.31-protect1.jar returned status 404
+26.10.31-protect2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tfox/fluttervless/xray-android/26.10.31-protect2/xray-android-26.10.31-protect2.jar returned status 404
 26.6.1		2026-06-02T22:40:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tfox/fluttervless/xray-android/26.6.1/xray-android-26.6.1.jar returned status 404
 26.6.1.1		2026-06-02T23:54:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tfox/fluttervless/xray-android/26.6.1.1/xray-android-26.6.1.1.jar returned status 404
 26.6.22		2026-06-23T00:20:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/tfox/fluttervless/xray-android/26.6.22/xray-android-26.6.22.jar returned status 404
