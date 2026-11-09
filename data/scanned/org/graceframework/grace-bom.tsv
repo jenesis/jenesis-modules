@@ -80,4 +80,6 @@
 2024.2.0-M1		2026-06-30T23:47:59Z	
 2024.2.0-M2			
 2024.2.0-RC1			
+2024.2.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/grace-bom/2024.2.0-RC2/grace-bom-2024.2.0-RC2.jar returned status 404
 2025.0.0-M1			
+2025.0.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/graceframework/grace-bom/2025.0.0-M2/grace-bom-2025.0.0-M2.jar returned status 404
