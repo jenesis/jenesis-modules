@@ -94,10 +94,17 @@
 0.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.32.0/platform-iossimulatorarm64-0.32.0.jar returned status 404
 0.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.33.0/platform-iossimulatorarm64-0.33.0.jar returned status 404
 0.37.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.37.1/platform-iossimulatorarm64-0.37.1.jar returned status 404
+0.38.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.38.0/platform-iossimulatorarm64-0.38.0.jar returned status 404
 0.38.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.38.0-rc.1/platform-iossimulatorarm64-0.38.0-rc.1.jar returned status 404
 0.38.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.38.0-rc.2/platform-iossimulatorarm64-0.38.0-rc.2.jar returned status 404
+0.38.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.38.0-rc.3/platform-iossimulatorarm64-0.38.0-rc.3.jar returned status 404
+0.38.0-rc.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.38.0-rc.4/platform-iossimulatorarm64-0.38.0-rc.4.jar returned status 404
+0.39.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.39.0/platform-iossimulatorarm64-0.39.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.4.0/platform-iossimulatorarm64-0.4.0.jar returned status 404
 0.4.0	metadata	2026-10-09T02:46:57Z	
+0.40.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.40.0/platform-iossimulatorarm64-0.40.0.jar returned status 404
+0.41.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.41.0/platform-iossimulatorarm64-0.41.0.jar returned status 404
+0.42.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.42.0/platform-iossimulatorarm64-0.42.0.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.5.0/platform-iossimulatorarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-10-09T07:11:28Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/engine/platform-iossimulatorarm64/0.6.0/platform-iossimulatorarm64-0.6.0.jar returned status 404
