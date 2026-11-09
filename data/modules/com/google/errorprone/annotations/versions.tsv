@@ -528,3 +528,6 @@
 4.0.5	named	org.apache.spark	spark-connect_2.13	2026-10-21T16:50:46Z	2.36.0
 0.4.12	named	com.salesforce.multicloudj	multicloudj-examples	2026-10-21T21:15:22Z	2.31.0
 2.51.0	named	com.google.errorprone	error_prone_annotations	2026-10-22T09:12:07Z	2.51.0
+4.4.0	named	org.checkerframework	dataflow-errorprone	2026-11-02T19:32:12Z	2.51.0
+4.4.0	named	org.checkerframework	dataflow-nullaway	2026-11-02T19:32:12Z	2.51.0
+4.4.0	named	org.checkerframework	dataflow-shaded	2026-11-02T19:32:12Z	2.51.0
