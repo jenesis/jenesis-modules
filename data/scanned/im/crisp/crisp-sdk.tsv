@@ -39,3 +39,4 @@
 2.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/crisp/crisp-sdk/2.0.7/crisp-sdk-2.0.7.jar returned status 404
 2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/crisp/crisp-sdk/2.0.8/crisp-sdk-2.0.8.jar returned status 404
 2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/crisp/crisp-sdk/2.0.9/crisp-sdk-2.0.9.jar returned status 404
+3.0.0beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/im/crisp/crisp-sdk/3.0.0beta1/crisp-sdk-3.0.0beta1.jar returned status 404
