@@ -10,3 +10,4 @@
 3.2.4		2026-10-16T07:41:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/rules/integraal/3.2.4/integraal-3.2.4.jar returned status 404
 3.2.5		2026-10-19T12:13:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/rules/integraal/3.2.5/integraal-3.2.5.jar returned status 404
 3.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/rules/integraal/3.2.6/integraal-3.2.6.jar returned status 404
+3.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/inria/rules/integraal/3.2.7/integraal-3.2.7.jar returned status 404

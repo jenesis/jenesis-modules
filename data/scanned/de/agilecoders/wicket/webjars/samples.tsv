@@ -35,3 +35,5 @@
 4.0.13		2025-10-03T08:21:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/agilecoders/wicket/webjars/samples/4.0.13/samples-4.0.13.jar returned status 404
 4.0.14		2025-12-22T12:41:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/agilecoders/wicket/webjars/samples/4.0.14/samples-4.0.14.jar returned status 404
 4.0.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/agilecoders/wicket/webjars/samples/4.0.15/samples-4.0.15.jar returned status 404
+4.0.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/agilecoders/wicket/webjars/samples/4.0.16/samples-4.0.16.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/agilecoders/wicket/webjars/samples/5.0.0/samples-5.0.0.jar returned status 404

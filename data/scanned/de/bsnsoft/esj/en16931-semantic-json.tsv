@@ -9,3 +9,5 @@
 0.9.8		2026-10-14T01:06:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/en16931-semantic-json/0.9.8/en16931-semantic-json-0.9.8.jar returned status 404
 1.0.0-rc.2		2026-10-16T19:42:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/en16931-semantic-json/1.0.0-rc.2/en16931-semantic-json-1.0.0-rc.2.jar returned status 404
 1.0.0-rc.4		2026-10-18T15:31:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/en16931-semantic-json/1.0.0-rc.4/en16931-semantic-json-1.0.0-rc.4.jar returned status 404
+1.0.0-rc.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/en16931-semantic-json/1.0.0-rc.5/en16931-semantic-json-1.0.0-rc.5.jar returned status 404
+1.0.0-rc.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/bsnsoft/esj/en16931-semantic-json/1.0.0-rc.6/en16931-semantic-json-1.0.0-rc.6.jar returned status 404

@@ -1,1 +1,8 @@
 2.1.1		2025-09-29T19:48:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/mines-stetienne/ci/sparql-generate/sparql-generate-server/2.1.1/sparql-generate-server-2.1.1.jar returned status 404
+2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/mines-stetienne/ci/sparql-generate/sparql-generate-server/2.2.0/sparql-generate-server-2.2.0.jar returned status 404
+2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/mines-stetienne/ci/sparql-generate/sparql-generate-server/2.2.1/sparql-generate-server-2.2.1.jar returned status 404
+2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/mines-stetienne/ci/sparql-generate/sparql-generate-server/2.2.2/sparql-generate-server-2.2.2.jar returned status 404
+2.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/mines-stetienne/ci/sparql-generate/sparql-generate-server/2.2.3/sparql-generate-server-2.2.3.jar returned status 404
+2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/mines-stetienne/ci/sparql-generate/sparql-generate-server/2.2.4/sparql-generate-server-2.2.4.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/mines-stetienne/ci/sparql-generate/sparql-generate-server/2.3.0/sparql-generate-server-2.3.0.jar returned status 404
+2.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/fr/mines-stetienne/ci/sparql-generate/sparql-generate-server/2.3.1/sparql-generate-server-2.3.1.jar returned status 404
