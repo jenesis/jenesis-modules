@@ -998,4 +998,6 @@
 4.152.3	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-02T21:20:24Z	2.0.72.Final
 5.0.4	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-03T12:04:41Z	2.0.72.Final
 5.0.5	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-05T05:46:30Z	2.0.72.Final
+2.81.0	named	com.google.api	gapic-generator-java	2026-11-05T18:15:52Z	2.0.75.Final
+2.82.0	named	com.google.api	gapic-generator-java	2026-11-06T17:56:28Z	2.0.75.Final
 2.33.0	named	net.hironico	hironico-minisql-dist	2026-11-06T21:50:41Z	2.0.74.Final
