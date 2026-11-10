@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-09. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-10. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -325,7 +325,7 @@ org.objectweb.asm.tree.analysis  [explicit rule: owned by `org.ow2.asm`; 17 othe
 com.sun.xml.txw2  [explicit rule: owned by `org.glassfish.jaxb`; 9 other group(s) rejected]
   A * org.glassfish.jaxb                   2018-07..2026-05 4.0.9                |...================.|
   R   org.uma.jmetal                       2025-12..2026-10 7.8                  |.................===|
-  ?   ch.exense.step                       2026-08..2026-09 3.30.4               |...................=|
+  ?   ch.exense.step                       2026-08..2026-09 3.30.4               |..................==|
   R   io.github.jeff-tian                  2026-02..2026-02 2.4.1                |..................=.|
   R   ai.starlake                          2022-04..2025-05 1.3.5                |..........=======...|
   R   com.jordansamhi                      2024-08..2024-08 1.1.8                |...............=....|
@@ -1035,7 +1035,7 @@ com.fasterxml.aalto  [fork: keep `com.fasterxml`, `org.jetbrains.kotlin` still p
   ?   org.jetbrains.kotlin                 2023-12..2026-10 2.5.0-Beta2          |.............=======|
   R   org.jetbrains.dokka                  2022-06..2023-03 1.8.10               |..........===.......|
 org.opentest4j  [fork: keep `org.opentest4j`, `org.jetbrains.kotlin` still publishes the name]
-  A * org.opentest4j                       2017-07..2023-07 1.3.0                |.=============......|
+  A * org.opentest4j                       2017-07..2023-07 1.3.0                |.============.......|
   ?   org.jetbrains.kotlin                 2026-07..2026-10 2.5.0-Beta2          |..................==|
   ?   com.eatthepath                       2026-08..2026-08 1.0.0                |...................=|
   R   org.tiatesting                       2024-12..2026-08 0.1.19               |...............====.|
@@ -1084,10 +1084,10 @@ io.netty.internal.tcnative.openssl.linux.x86_64  [fork: keep `io.netty`, `io.cam
   R   com.azure.cosmos.spark               2026-02..2026-09 4.50.0               |..................==|
   R   io.smallrye                          2026-04..2026-09 0.2.3+tcnative-2.0.84.Final |..................==|
   R   org.apache.iotdb                     2026-04..2026-09 2.0.11               |..................==|
-  ?   com.solacecoe.connectors             2026-08..2026-08 4.0.0                |...................=|
+  ?   com.solacecoe.connectors             2026-08..2026-08 4.0.0                |..................=.|
     + 6 more: io.zipkin.dependencies, com.danielflower.apprunner, io.karatelabs, io.opentelemetry.javaagent, com.github.emc-mongoose, io.servicetalk
 org.junit.jupiter.params  [fork: keep `org.junit.jupiter`, `org.uma.jmetal` still publishes the name]
-  ? * org.junit.jupiter                    2017-07..2026-08 6.1.3                |.===================|
+  ? * org.junit.jupiter                    2017-07..2026-08 6.1.3                |.==================.|
   ?   org.uma.jmetal                       2026-09..2026-10 2.5                  |...................=|
   ?   io.github.lightdataframe             2026-09..2026-10 1.1.0                |...................=|
 com.nimbusds.jose.jwt  [fork: keep `com.nimbusds`, `com.vaadin` still publishes the name]
@@ -1198,7 +1198,7 @@ org.signal.libsignal  [fork: keep `org.signal`, `io.github.wanggenlin` still pub
   R   io.github.wanggenlin                 2026-02..2026-10 0.87.7               |..................==|
   ?   com.securegroupchat                  2026-07..2026-07 0.96.3               |..................=.|
 org.bytedeco.javacpp.ios.arm64  [fork: keep `org.bytedeco`, `org.apache.tika` still publishes the name]
-  A * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
+  A * org.bytedeco                         2020-04..2026-08 1.5.14               |......=============.|
   R   org.apache.tika                      2025-08..2026-10 3.3.3                |.................===|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |..................==|
 org.eclipse.jetty.xml  [fork: keep `org.eclipse.jetty`, `org.apache.tika` still publishes the name]
@@ -1293,7 +1293,7 @@ org.bouncycastle.lts.prov  [fork: keep `org.bouncycastle`, `org.apache.seatunnel
   R   org.brylex                           2026-05..2026-05 0.2                  |..................=.|
   R   io.kestra.plugin                     2025-06..2025-08 0.24.0               |................==..|
 org.osgi.framework  [fork: keep `org.osgi`, `org.apache.karaf` still publishes the name]
-  ? * org.osgi                             2020-12..2020-12 1.10.0               |........=...........|
+  ? * org.osgi                             2020-12..2020-12 1.10.0               |.......=............|
   ?   org.apache.karaf                     2025-08..2026-09 4.4.12               |.................===|
 com.microsoft.credentialstorage  [fork: keep `com.microsoft`, `io.alapierre` still publishes the name]
   ? * com.microsoft                        2022-05..2024-09 1.0.3                |..........======....|
@@ -1314,90 +1314,90 @@ org.bytedeco.pytorch  [fork: keep `org.bytedeco`, `io.github.mullerhai` still pu
   ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
   ?   io.github.mullerhai                  2026-07..2026-09 2.13.0-1.5.14-GA-1.10 |..................==|
 org.bytedeco.cuda.redist.cublas  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cudnn  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusparse  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.nvcomp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusolver  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.npp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.nccl  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.pytorch.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
   ?   io.github.mullerhai                  2026-08..2026-09 2.13.0-1.5.14-GA-1.10 |..................==|
 org.bytedeco.cuda.redist.nccl.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.nccl.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.nvcomp.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.nvcomp.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cpython.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....================|
+  A * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 3.14.7-1.5.14-GA-1.0 |..................==|
   R   cn.wangshuyi                         2023-10..2023-10 3.10.2-1.5.7         |.............=......|
 org.bytedeco.cuda.platform.redist  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2020-09..2026-08 13.3-9.25-1.5.14     |.......=============|
+  ? * org.bytedeco                         2020-09..2026-08 13.3-9.25-1.5.14     |.......============.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
+  A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............=....|
 org.bytedeco.cuda.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
+  ? * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.ffmpeg.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
+  A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 8.1.2-1.5.14-GA-1.0  |..................==|
   R   us.ihmc                              2023-06..2023-06 6.0-1.5.9            |............=.......|
 org.bytedeco.ffmpeg  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
+  A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 8.1.2-1.5.14-GA-1.0  |..................==|
   R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |............====....|
   R   com.github.javacpp-nogpl             2020-09..2020-09 4.3.1-1.5.4          |.......=............|
 org.bytedeco.cpython  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....================|
+  A * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 3.14.7-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-02..2025-02 3.11.3-1.5.11-ihmc-2 |................=...|
   R   cn.wangshuyi                         2023-10..2023-10 3.10.13-1.5.7.2      |.............=......|
 org.bytedeco.javacpp.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
+  A * org.bytedeco                         2020-04..2026-08 1.5.14               |......=============.|
   ?   io.github.mullerhai                  2026-07..2026-09 1.5.14-GA-1.0        |..................==|
   R   org.apache.tika                      2024-07..2024-10 3.0.0                |..............==....|
   R   us.ihmc                              2023-06..2023-06 1.5.9                |............=.......|
 org.bytedeco.openblas.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....================|
+  A * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 0.3.34-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2023-06..2023-06 0.3.23-1.5.9         |............=.......|
   R   de.uni-mannheim.informatik.dws.melt  2022-06..2022-06 3.3                  |..........=.........|
 org.bytedeco.numpy  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....================|
+  ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 2.5.1-1.5.14-GA-1.0  |..................==|
 org.bytedeco.numpy.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....================|
+  ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 2.5.1-1.5.14-GA-1.0  |..................==|
 org.bytedeco.javacpp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 1.5.14               |....================|
+  A * org.bytedeco                         2019-04..2026-08 1.5.14               |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 1.5.14-GA-1.0        |..................==|
   R   us.ihmc                              2023-06..2025-01 1.5.11-ihmc-2        |............====....|
   R   ai.polus.utils                       2024-06..2024-06 2.0.7                |..............=.....|
@@ -1405,177 +1405,177 @@ org.bytedeco.javacpp  [fork: keep `org.bytedeco`, `io.github.mullerhai` still pu
   R   com.alibaba.alink                    2021-10..2022-10 0.2.0-0.6            |.........===........|
     + 5 more: cn.langpy, org.flinkextended, org.deeplearning4j, org.nd4j, io.github.carschno
 org.bytedeco.openblas  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....================|
+  A * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 0.3.34-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2023-06..2025-02 0.3.23-1.5.11-ihmc-2 |............=====...|
 org.bytedeco.tensorrt  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 11.2-1.5.14          |....================|
+  ? * org.bytedeco                         2019-04..2026-08 11.2-1.5.14          |....===============.|
   ?   io.github.mullerhai                  2026-08..2026-09 11.2-1.5.14-GA-1.0   |..................==|
 org.bytedeco.opencv.platform  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
+  A * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 4.14.0-1.5.14-GA-1.0 |..................==|
   R   io.github.extractpdf4j               2025-12..2026-07 2.2.0                |.................==.|
   R   io.github.mehulimukherjee            2025-08..2025-09 0.1.1                |.................=..|
   R   us.ihmc                              2023-06..2023-06 4.7.0-1.5.9          |............=.......|
 org.bytedeco.opencv  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
+  A * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-09 4.14.0-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2023-06..2025-02 4.7.0-1.5.11-ihmc-2  |............=====...|
 org.bytedeco.tritonserver  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2022-02..2026-08 2.71.0-1.5.14        |..........==========|
+  ? * org.bytedeco                         2022-02..2026-08 2.71.0-1.5.14        |..........=========.|
   ?   io.github.mullerhai                  2026-08..2026-09 2.71.0-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.npp.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.npp.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusparse.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusparse.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusolver.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cusolver.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cudnn.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cudnn.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cublas.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.cublas.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.redist.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cpython.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-11..2026-08 3.14.7-1.5.14        |.....===============|
+  A * org.bytedeco                         2019-11..2026-08 3.14.7-1.5.14        |.....==============.|
   ?   io.github.mullerhai                  2026-07..2026-08 3.14.7-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-02..2025-02 3.11.3-1.5.11-ihmc-2 |................=...|
 org.bytedeco.cpython.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....================|
+  ? * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 3.14.7-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cpython.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....================|
+  A * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 3.14.7-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-02..2025-02 3.11.3-1.5.11-ihmc-2 |................=...|
 org.bytedeco.cuda.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2020-04..2026-08 13.3-9.25-1.5.14     |......==============|
+  A * org.bytedeco                         2020-04..2026-08 13.3-9.25-1.5.14     |......=============.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............=....|
 org.bytedeco.cuda.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
+  A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............=....|
 org.bytedeco.ffmpeg.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
+  ? * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 8.1.2-1.5.14-GA-1.0  |..................==|
 org.bytedeco.javacpp.android.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
+  ? * org.bytedeco                         2020-04..2026-08 1.5.14               |......=============.|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |..................==|
 org.bytedeco.javacpp.macosx.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2021-03..2026-08 1.5.14               |........============|
+  ? * org.bytedeco                         2021-03..2026-08 1.5.14               |........===========.|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |..................==|
 org.bytedeco.javacpp.windows.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2026-02..2026-08 1.5.14               |..................==|
+  ? * org.bytedeco                         2026-02..2026-08 1.5.14               |..................=.|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |..................==|
 org.bytedeco.numpy.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....================|
+  ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 2.5.1-1.5.14-GA-1.0  |..................==|
 org.bytedeco.numpy.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....================|
+  ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 2.5.1-1.5.14-GA-1.0  |..................==|
 org.bytedeco.numpy.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....================|
+  ? * org.bytedeco                         2019-04..2026-08 2.5.1-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 2.5.1-1.5.14-GA-1.0  |..................==|
 org.bytedeco.openblas.android.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-10..2026-08 0.3.34-1.5.14        |.....===============|
+  ? * org.bytedeco                         2019-10..2026-08 0.3.34-1.5.14        |.....==============.|
   ?   io.github.mullerhai                  2026-07..2026-08 0.3.34-1.5.14-GA-1.0 |..................==|
 org.bytedeco.openblas.android.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-10..2026-08 0.3.34-1.5.14        |.....===============|
+  ? * org.bytedeco                         2019-10..2026-08 0.3.34-1.5.14        |.....==============.|
   ?   io.github.mullerhai                  2026-07..2026-08 0.3.34-1.5.14-GA-1.0 |..................==|
 org.bytedeco.openblas.ios.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-10..2026-08 0.3.34-1.5.14        |.....===============|
+  ? * org.bytedeco                         2019-10..2026-08 0.3.34-1.5.14        |.....==============.|
   ?   io.github.mullerhai                  2026-07..2026-08 0.3.34-1.5.14-GA-1.0 |..................==|
 org.bytedeco.openblas.macosx.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2022-02..2026-08 0.3.34-1.5.14        |..........==========|
+  ? * org.bytedeco                         2022-02..2026-08 0.3.34-1.5.14        |..........=========.|
   ?   io.github.mullerhai                  2026-07..2026-08 0.3.34-1.5.14-GA-1.0 |..................==|
 org.bytedeco.openblas.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....================|
+  ? * org.bytedeco                         2019-04..2026-08 0.3.34-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 0.3.34-1.5.14-GA-1.0 |..................==|
 org.bytedeco.opencv.android.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
+  ? * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 4.14.0-1.5.14-GA-1.0 |..................==|
 org.bytedeco.opencv.android.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
+  ? * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 4.14.0-1.5.14-GA-1.0 |..................==|
 org.bytedeco.opencv.ios.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
+  ? * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 4.14.0-1.5.14-GA-1.0 |..................==|
 org.bytedeco.opencv.ios.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
+  ? * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 4.14.0-1.5.14-GA-1.0 |..................==|
 org.bytedeco.opencv.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-07..2026-08 4.14.0-1.5.14        |.....===============|
+  A * org.bytedeco                         2019-07..2026-08 4.14.0-1.5.14        |.....==============.|
   ?   io.github.mullerhai                  2026-07..2026-08 4.14.0-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-01..2025-02 4.7.0-1.5.11-ihmc-2  |...............==...|
 org.bytedeco.opencv.macosx.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2022-02..2026-08 4.14.0-1.5.14        |..........==========|
+  ? * org.bytedeco                         2022-02..2026-08 4.14.0-1.5.14        |..........=========.|
   ?   io.github.mullerhai                  2026-07..2026-08 4.14.0-1.5.14-GA-1.0 |..................==|
 org.bytedeco.opencv.macosx.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....================|
+  ? * org.bytedeco                         2019-04..2026-08 4.14.0-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 4.14.0-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cpython.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....================|
+  A * org.bytedeco                         2019-04..2026-08 3.14.7-1.5.14        |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 3.14.7-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-02..2025-02 3.11.3-1.5.11-ihmc-2 |................=...|
   R   cn.wangshuyi                         2023-10..2023-10 3.10.13-1.5.7.2      |.............=......|
 org.bytedeco.cpython.macosx.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2024-11..2026-08 3.14.7-1.5.14        |...............=====|
+  ? * org.bytedeco                         2024-11..2026-08 3.14.7-1.5.14        |...............====.|
   ?   io.github.mullerhai                  2026-07..2026-08 3.14.7-1.5.14-GA-1.0 |..................==|
 org.bytedeco.cuda.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....================|
+  A * org.bytedeco                         2019-04..2026-08 13.3-9.25-1.5.14     |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.25-1.5.14-GA-1.0 |..................==|
   R   us.ihmc                              2025-01..2025-01 12.6-9.5-1.5.11-ihmc-2 |...............=....|
 org.bytedeco.ffmpeg.android.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
+  ? * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 8.1.2-1.5.14-GA-1.0  |..................==|
 org.bytedeco.ffmpeg.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-07..2026-08 8.1.2-1.5.14         |.....===============|
+  A * org.bytedeco                         2019-07..2026-08 8.1.2-1.5.14         |.....==============.|
   ?   io.github.mullerhai                  2026-07..2026-08 8.1.2-1.5.14-GA-1.0  |..................==|
   R   us.ihmc                              2025-01..2025-01 7.1-1.5.11-ihmc-2    |...............=....|
 org.bytedeco.ffmpeg.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
+  A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 8.1.2-1.5.14-GA-1.0  |..................==|
   R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |............====....|
   R   com.github.javacpp-nogpl             2020-09..2020-09 4.3.1-1.5.4          |.......=............|
 org.bytedeco.ffmpeg.windows.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....================|
+  A * org.bytedeco                         2019-04..2026-08 8.1.2-1.5.14         |....===============.|
   ?   io.github.mullerhai                  2026-07..2026-08 8.1.2-1.5.14-GA-1.0  |..................==|
   R   us.ihmc                              2023-06..2025-01 7.1-1.5.11-ihmc-2    |............====....|
 org.bytedeco.javacpp.android.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
+  ? * org.bytedeco                         2020-04..2026-08 1.5.14               |......=============.|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |..................==|
 org.bytedeco.javacpp.ios.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
+  ? * org.bytedeco                         2020-04..2026-08 1.5.14               |......=============.|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |..................==|
 org.bytedeco.javacpp.linux.arm64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  A * org.bytedeco                         2020-04..2026-08 1.5.14               |......==============|
+  A * org.bytedeco                         2020-04..2026-08 1.5.14               |......=============.|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |..................==|
   R   us.ihmc                              2025-01..2025-01 1.5.11-ihmc-2        |...............=....|
 ```
@@ -1635,7 +1635,7 @@ com.fasterxml.jackson.jakarta.rs.json  [owned by `com.fasterxml.jackson.jakarta.
   R   org.apache.tika                      2023-12..2026-10 3.3.3                |.............=======|
   R   ch.exense.step                       2022-10..2026-09 3.30.4               |...........=========|
   R   ch.exense.step.library               2023-08..2026-08 1.0.32               |.............=======|
-  ?   com.inteligr8.activiti               2026-06..2026-08 1.4.1-aps-v26.2      |..................==|
+  ?   com.inteligr8.activiti               2026-06..2026-08 1.4.1-aps-v26.2      |..................=.|
   R   com.phonepe.sentinel-ai              2026-05..2026-05 1.1.2-SOLARIS-rc0    |..................=.|
     + 13 more: org.eclipse.tractusx.edc, org.ow2.petals.samples.rest.edm, dev.getelements.elements, org.eclipse.edc.huawei, org.eclipse.edc.aws, org.eclipse.edc, io.nflow, com.brightsparklabs, io.trino.gateway, com.snehasishroy, com.smoketurner.dropwizard, org.kiwiproject, (+1 more)
 com.fasterxml.jackson.jaxrs.json  [owned by `com.fasterxml.jackson.jaxrs`; 60 other group(s) shade the name]
@@ -1869,7 +1869,7 @@ io.netty.common  [owned by `io.netty`; 10 other group(s) shade the name]
   A * io.netty                             2017-12..2026-11 4.1.140.Final        |..==================|
   R   org.frankframework                   2026-04..2026-10 10.2.1               |..................==|
   R   org.opendaylight.netconf             2026-04..2026-10 12.0.2               |..................==|
-  ?   io.gravitee.singularitee             2026-08..2026-09 1.6.0                |...................=|
+  ?   io.gravitee.singularitee             2026-08..2026-09 1.6.0                |..................==|
   R   io.quarkiverse.roq                   2026-04..2026-04 2.1.0.CR1            |..................=.|
   R   com.scylladb                         2025-12..2026-03 1.3.11               |.................==.|
     + 5 more: org.apache.arrow, com.github.tonivade, de.codecentric, com.google.cloud, software.amazon.jdbc
@@ -2104,7 +2104,7 @@ org.eclipse.jetty.security  [owned by `org.eclipse.jetty`; 4 other group(s) shad
   R   org.sonatype.nexus.jetty             2025-09..2026-01 3.87.2-01            |.................=..|
 org.eclipse.jetty.compression.gzip  [owned by `org.eclipse.jetty.compression`; 1 other group(s) shade the name]
   ? * org.eclipse.jetty.compression        2024-12..2026-10 12.1.14              |...............=====|
-  ?   ch.exense.step                       2026-08..2026-08 3.30.3               |...................=|
+  ?   ch.exense.step                       2026-08..2026-08 3.30.3               |..................==|
 org.opendaylight.mdsal.dom.api  [owned by `org.opendaylight.mdsal`; 0 other group(s) shade the name]
   ? * org.opendaylight.mdsal               2019-07..2026-10 17.0.2               |.....===============|
   ?   org.opendaylight.netconf             2026-09..2026-09 12.0.1               |...................=|
@@ -2135,27 +2135,27 @@ io.github.pdvrieze.testutil  [owned by `io.github.pdvrieze.xmlutil`; 0 other gro
   ?   io.github.pdvrieze                   2026-06..2026-06 1.0.0-rc3            |..................=.|
 org.bytedeco.pytorch.linux.x86_64.gpu  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
-  ?   io.github.mullerhai                  2026-08..2026-08 2.13.0-1.5.14-beta-08.01 |..................==|
+  ?   io.github.mullerhai                  2026-08..2026-08 2.13.0-1.5.14-beta-08.01 |..................=.|
 org.bytedeco.tensorrt.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2021-07..2026-08 11.2-1.5.14          |.........===========|
+  ? * org.bytedeco                         2021-07..2026-08 11.2-1.5.14          |.........==========.|
   ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |..................=.|
 org.bytedeco.tensorrt.linux.x86_64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2019-04..2026-08 11.2-1.5.14          |....================|
+  ? * org.bytedeco                         2019-04..2026-08 11.2-1.5.14          |....===============.|
   ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |..................=.|
 org.bytedeco.tensorrt.platform  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2019-04..2026-08 11.2-1.5.14          |....================|
+  ? * org.bytedeco                         2019-04..2026-08 11.2-1.5.14          |....===============.|
   ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |..................=.|
 org.bytedeco.tensorrt.windows.x86_64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2020-04..2026-08 11.2-1.5.14          |......==============|
+  ? * org.bytedeco                         2020-04..2026-08 11.2-1.5.14          |......=============.|
   ?   io.github.mullerhai                  2026-08..2026-08 11.1-1.5.14-beta-08  |..................=.|
 org.bytedeco.tritonserver.linux.x86_64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2022-02..2026-08 2.71.0-1.5.14        |..........==========|
+  ? * org.bytedeco                         2022-02..2026-08 2.71.0-1.5.14        |..........=========.|
   ?   io.github.mullerhai                  2026-08..2026-08 2.70.0-1.5.14-beta-08 |..................=.|
 org.bytedeco.tritonserver.platform  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2022-02..2026-08 2.71.0-1.5.14        |..........==========|
+  ? * org.bytedeco                         2022-02..2026-08 2.71.0-1.5.14        |..........=========.|
   ?   io.github.mullerhai                  2026-08..2026-08 2.70.0-1.5.14-beta-08 |..................=.|
 org.junit.jupiter.engine  [owned by `org.junit.jupiter`; 10 other group(s) shade the name]
-  A * org.junit.jupiter                    2017-07..2026-08 6.1.3                |.===================|
+  A * org.junit.jupiter                    2017-07..2026-08 6.1.3                |.==================.|
   ?   io.github.rpost                      2026-07..2026-07 6.0.0-M2             |..................=.|
   R   org.apache.tika                      2024-07..2026-06 4.0.0-beta-1         |..............=====.|
   R   com.janeluo                          2026-04..2026-04 1.0.0                |..................=.|
@@ -2163,46 +2163,46 @@ org.junit.jupiter.engine  [owned by `org.junit.jupiter`; 10 other group(s) shade
   R   com.quantego                         2023-11..2023-11 0.6.5                |.............=......|
     + 6 more: com.salesforce.kafka.test, com.trendyol, org.caseine, org.eclipse.rdf4j, com.github.jnr, org.junit.platform
 org.bytedeco.cuda.redist.cudnn.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.cudnn  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.cusolver  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.cusolver.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.cublas  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.cublas.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.npp  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.npp.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.nccl  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.nccl.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.cusparse  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.cusparse.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-08..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.platform.redist.nvcomp  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.bytedeco.cuda.redist.nvcomp.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................===|
+  ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-08 13.3-9.24-1.5.14-beta-08 |..................=.|
 org.apache.jena.base  [owned by `org.apache.jena`; 1 other group(s) shade the name]
   ? * org.apache.jena                      2018-06..2026-08 6.2.0                |...================.|
@@ -2282,46 +2282,46 @@ The dominant owner's groupId with its top-level domain dropped is the module-nam
 ```
 koog.agents.additions.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-05..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.agents.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 koog.ktor.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2025-08..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.ai.common.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-04..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.ai.starter.chat.memory.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-04..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.ai.starter.model.chat.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-03..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.ai.starter.model.embedding.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-03..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.ai.starter.vector.store.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-04..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.ai.v2.common.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-07..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.ai.v2.starter.chat.memory.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-07..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.ai.v2.starter.model.chat.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-07..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.ai.v2.starter.model.embedding.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-07..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.ai.v2.starter.vector.store.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2026-07..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 koog.spring.boot.starter.jvm  [owned by `ai.koog` (groupId minus TLD is the module prefix); 1 other group(s) shade the name]
   ? * ai.koog                              2025-07..2026-09 1.3.0-beta           |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 roaringbitmap  [owned by `org.roaringbitmap` (groupId minus TLD is the module prefix); 3 other group(s) shade the name]
   A * org.roaringbitmap                    2023-09..2026-10 1.6.29               |.............=======|
   R   org.apache.celeborn                  2024-06..2026-08 0.7.0                |..............======|
@@ -2333,8 +2333,8 @@ r2dbc.postgresql  [owned by `io.r2dbc` (groupId minus TLD is the module prefix);
   ?   com.aliyun                           2026-08..2026-08 1.2.1                |..................=.|
   R   com.yugabyte                         2023-12..2026-04 1.1.0-yb-2           |.............======.|
 osgi.core  [owned by `org.osgi` (groupId minus TLD is the module prefix); 2 other group(s) shade the name]
-  ? * org.osgi                             2020-12..2020-12 8.0.0                |........=...........|
-  A   org.apache.karaf                     2022-04..2025-01 4.4.7                |..........=======...|
+  ? * org.osgi                             2020-12..2020-12 8.0.0                |.......=............|
+  A   org.apache.karaf                     2022-04..2025-01 4.4.7                |..........======....|
   A   org.apache.felix.atomos              2021-02..2021-02 8.0.0                |........=...........|
 ```
 
@@ -2666,220 +2666,220 @@ org.apache.commons.codec  [no clear owner; `commons-codec` is earliest and most 
     + 81 more: com.mirakl, io.gitlab.cupofcode, org.apache.jackrabbit, org.apache.tika, com.alibaba.ververica, software.amazon.glue, io.prophecy, edu.stanford.protege, org.cibseven.community.keycloak, org.apache.druid.extensions.contrib, cn.ctyun, com.ibm.cloud, (+69 more)
 prompt.executor.bedrock.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-07..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.executor.openai.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.model.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 rag.base.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-07..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 rag.vector.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-04..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 serialization.jackson.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-09 1.3.0                |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 skills.jvm  [no clear owner; `com.kreoh.kroog` is earliest and most recent]
   ? * com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
   ?   ai.koog                              2026-08..2026-09 1.3.0-beta           |...................=|
 a2a.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 a2a.core.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 a2a.server.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 a2a.transport.core.jsonrpc.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 a2a.transport.server.jsonrpc.http.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.cli.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-07..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.core.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.ext.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0-beta           |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.features.a2a.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.features.a2a.core.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.features.a2a.server.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.features.acp.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-12..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.features.chat.history.aws.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-04..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.features.chat.history.jdbc.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-09 1.3.0                |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.features.chat.memory.sql.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-09 1.3.0                |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.features.event.handler.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.features.longterm.memory.aws.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-05..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.features.longterm.memory.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.features.memory.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.features.opentelemetry.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-07..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.features.persistence.jdbc.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-09 1.3.0                |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.features.snapshot.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-07..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.features.sql.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-09..2026-09 1.3.0                |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.features.tokenizer.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-06..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.features.trace.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.mcp.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0-beta           |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.mcp.metadata.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-09 1.3.0                |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.mcp.server.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-09..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.planner.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-12..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 agents.test.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.tools.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 agents.utils.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 embeddings.base.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 embeddings.llm.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 http.client.core.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0                |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 http.client.java.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-09 1.3.0                |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 http.client.ktor.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0                |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 http.client.okhttp.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-09 1.3.0                |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 http.client.spring.webclient.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-07..2026-09 1.3.0                |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 koog.bedrock.agentcore.runtime.jvm  [no clear owner; `com.kreoh.kroog` is earliest and most recent]
   ? * com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
   ?   ai.koog                              2026-08..2026-09 1.3.0-beta           |...................=|
 prompt.cache.files.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.cache.model.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.cache.redis.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0-beta           |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 prompt.executor.anthropic.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.executor.cached.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.executor.clients.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.executor.dashscope.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 prompt.executor.deepseek.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-08..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 prompt.executor.google.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0-beta           |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 prompt.executor.litert.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-05..2026-09 1.3.0-beta           |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 prompt.executor.llms.all.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0-beta           |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 prompt.executor.mistralai.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 prompt.executor.model.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.executor.ollama.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.executor.openai.client.base.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-09..2026-09 1.3.0                |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.executor.openrouter.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.llm.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.markdown.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.processor.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-12..2026-09 1.3.0                |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.structure.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.tokenizer.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-06..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 prompt.xml.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 serialization.core.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2026-03..2026-09 1.3.0                |..................==|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 utils.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-09..2026-09 1.3.0                |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 a2a.transport.client.jsonrpc.http.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
-  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 vault.java.driver  [no clear owner; `com.bettercloud` is earliest and most recent]
   ? * com.bettercloud                      2019-06..2019-12 5.1.0                |.....==.............|
   ?   io.github.jopenlibs                  2022-10..2026-11 7.0.0                |...........=========|
