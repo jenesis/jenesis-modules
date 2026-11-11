@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-10. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-11. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -211,7 +211,7 @@ kotlin.stdlib  [explicit rule: owned by `org.jetbrains.kotlin`; 238 other group(
   A * org.jetbrains.kotlin                 2019-01..2026-10 2.5.0-Beta2          |....================|
   R   com.tidbcloud                        2026-05..2026-11 0.4.10               |..................==|
   R   org.jetbrains                        2021-02..2026-10 0.1.45               |........============|
-  R   com.nhncloud.android                 2025-07..2026-10 1.3.1                |.................===|
+  R   com.nhncloud.android                 2025-07..2026-10 1.3.1                |................====|
   R   de.darkatra.injector                 2025-03..2026-10 1.1.0                |................====|
   ?   se.liu.research.hefquin              2026-08..2026-10 0.0.14               |...................=|
     + 233 more: com.airbnb.viaduct, ca.acendas, com.bynder, io.github.ghosthack, gg.ginco.hytest, com.google.cloud.pubsub.flink, io.github.fjossinet.rnartist, com.hiyowa, dev.robocode.tankroyale, su.seaf.archtool, org.apache.seatunnel, io.github.yuku123, (+221 more)
@@ -239,7 +239,7 @@ kotlinx.serialization.json  [explicit rule: owned by `org.jetbrains`; 37 other g
     + 33 more: com.github.skydoves, io.github.ruxbit.ksp, dev.mtctx.library, io.github.adokky, co.touchlab.skie, com.hadisatrio.libs.android, io.portone, com.pinterest.ktlint, community.flock.wirespec.plugin.cli, io.johnsonlee.kx, io.johnsonlee.exec, io.specmatic, (+21 more)
 scala.library  [explicit rule: owned by `org.scala-lang`; 3 other group(s) rejected]
   A * org.scala-lang                       2018-03..2026-10 3.10.1-RC2           |..==================|
-  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |...................=|
+  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |..................==|
   ?   ch.epfl.lara                         2026-06..2026-09 3.10.1-RC1-bin-20260903-e1f9361-NIGHTLY |..................==|
   R   com.github.xuwei-k                   2021-01..2021-01 2.13.3-bin-1ca7d14   |........=...........|
 kotlin.stdlib.jdk7  [explicit rule: owned by `org.jetbrains.kotlin`; 23 other group(s) rejected]
@@ -269,7 +269,7 @@ okhttp3  [explicit rule: owned by `com.squareup.okhttp3`; 10 other group(s) reje
 kotlin.reflect  [explicit rule: owned by `org.jetbrains.kotlin`; 68 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2026-10 2.5.0-Beta2          |....================|
   ?   io.microservices.tools.canvas        2026-10..2026-10 0.15.0.RELEASE       |...................=|
-  ?   com.utopia-rise                      2026-08..2026-10 1.0.0-rc3            |...................=|
+  ?   com.utopia-rise                      2026-08..2026-10 1.0.0-rc3            |..................==|
   ?   org.octopusden.octopus.infrastructure 2026-07..2026-07 3.0.8                |..................=.|
   ?   io.github.barqdb.kotlin              2026-07..2026-07 4.1.0                |..................=.|
   R   org.apache.pinot                     2025-09..2026-06 1.5.1                |.................==.|
@@ -983,7 +983,7 @@ io.netty.handler.proxy  [fork: keep `io.netty`, `io.kestra` still publishes the 
   R   org.apache.iceberg                   2026-05..2026-09 1.12.0               |..................==|
     + 8 more: org.apache.gravitino, io.micronaut.starter, com.facebook.presto, io.github.norby99, io.sirix, io.kestra.plugin, com.frog-development.consul-populate, io.kestra.storage
 org.springdoc.openapi.ui  [fork: keep `org.springdoc`, `io.github.branislavmalo` still publishes the name]
-  A * org.springdoc                        2020-12..2026-10 2.10.0               |........============|
+  A * org.springdoc                        2020-12..2026-10 2.10.0               |.......=============|
   ?   io.github.branislavmalo              2026-08..2026-11 3.2.0-jackson3       |...................=|
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |................==..|
@@ -1311,7 +1311,7 @@ org.hsqldb  [fork: keep `org.hsqldb`, `io.synclite` still publishes the name]
   ?   ch.zizka.csvcruncher                 2021-11..2023-09 2.7.0                |.........=====......|
   R   org.lucee                            2023-06..2023-06 2.7.2.jdk11          |............=.......|
 org.bytedeco.pytorch  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
+  ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........==========.|
   ?   io.github.mullerhai                  2026-07..2026-09 2.13.0-1.5.14-GA-1.10 |..................==|
 org.bytedeco.cuda.redist.cublas  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
@@ -1335,7 +1335,7 @@ org.bytedeco.cuda.redist.nccl  [fork: keep `org.bytedeco`, `io.github.mullerhai`
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
   ?   io.github.mullerhai                  2026-07..2026-09 13.3-9.25-1.5.14-GA-1.0 |..................==|
 org.bytedeco.pytorch.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
-  ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
+  ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........==========.|
   ?   io.github.mullerhai                  2026-08..2026-09 2.13.0-1.5.14-GA-1.10 |..................==|
 org.bytedeco.cuda.redist.nccl.linux.x86_64  [fork: keep `org.bytedeco`, `io.github.mullerhai` still publishes the name]
   ? * org.bytedeco                         2025-10..2026-08 13.3-9.25-1.5.14     |.................==.|
@@ -1994,11 +1994,11 @@ ch.qos.logback.core  [owned by `ch.qos.logback`; 35 other group(s) shade the nam
   R   de.gematik.test                      2025-11..2026-08 4.4.2                |.................===|
     + 30 more: io.camunda, club.dawdler, com.yetanalytics, net.ladenthin, org.eclipse.hawkbit, io.smallrye.reactive, org.springframework.cloud, com.limemojito.oss.aws, io.spicelabs, com.expediagroup, org.chenile, org.jetbrains.kotlinx, (+18 more)
 org.springdoc.openapi.common  [owned by `org.springdoc`; 2 other group(s) shade the name]
-  A * org.springdoc                        2020-12..2026-10 2.10.0               |........============|
+  A * org.springdoc                        2020-12..2026-10 2.10.0               |.......=============|
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |................==..|
 org.springdoc.openapi.webflux.core  [owned by `org.springdoc`; 2 other group(s) shade the name]
-  A * org.springdoc                        2020-12..2026-10 2.10.0               |........============|
+  A * org.springdoc                        2020-12..2026-10 2.10.0               |.......=============|
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-08..2025-12 2.8.14               |.................=..|
 org.springdoc.openapi.webflux.scalar  [owned by `org.springdoc`; 2 other group(s) shade the name]
@@ -2006,11 +2006,11 @@ org.springdoc.openapi.webflux.scalar  [owned by `org.springdoc`; 2 other group(s
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-12..2025-12 2.8.14               |.................=..|
 org.springdoc.openapi.webflux.ui  [owned by `org.springdoc`; 2 other group(s) shade the name]
-  A * org.springdoc                        2020-12..2026-10 2.10.0               |........============|
+  A * org.springdoc                        2020-12..2026-10 2.10.0               |.......=============|
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-08..2025-12 2.8.14               |.................=..|
 org.springdoc.openapi.webmvc.core  [owned by `org.springdoc`; 2 other group(s) shade the name]
-  A * org.springdoc                        2020-12..2026-10 2.10.0               |........============|
+  A * org.springdoc                        2020-12..2026-10 2.10.0               |.......=============|
   ?   io.github.vpelikh                    2026-06..2026-08 5.1.0                |..................==|
   R   io.github.lisi9988                   2025-07..2025-12 2.8.14               |................==..|
 org.springdoc.openapi.webmvc.scalar  [owned by `org.springdoc`; 2 other group(s) shade the name]
@@ -2134,7 +2134,7 @@ io.github.pdvrieze.testutil  [owned by `io.github.pdvrieze.xmlutil`; 0 other gro
   ? * io.github.pdvrieze.xmlutil           2025-07..2026-08 1.0.2.1              |.................===|
   ?   io.github.pdvrieze                   2026-06..2026-06 1.0.0-rc3            |..................=.|
 org.bytedeco.pytorch.linux.x86_64.gpu  [owned by `org.bytedeco`; 1 other group(s) shade the name]
-  ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........===========|
+  ? * org.bytedeco                         2021-08..2026-08 2.13.0-1.5.14        |.........==========.|
   ?   io.github.mullerhai                  2026-08..2026-08 2.13.0-1.5.14-beta-08.01 |..................=.|
 org.bytedeco.tensorrt.linux.arm64  [owned by `org.bytedeco`; 1 other group(s) shade the name]
   ? * org.bytedeco                         2021-07..2026-08 11.2-1.5.14          |.........==========.|
@@ -2328,7 +2328,7 @@ roaringbitmap  [owned by `org.roaringbitmap` (groupId minus TLD is the module pr
   ?   com.atomgraph.etl.csv                2026-06..2026-07 2.2.1                |..................=.|
   R   org.bitlap                           2023-10..2023-10 1.0.1.0              |.............=......|
 r2dbc.postgresql  [owned by `io.r2dbc` (groupId minus TLD is the module prefix); 3 other group(s) shade the name]
-  A * io.r2dbc                             2019-11..2022-09 0.8.13.RELEASE       |......======........|
+  A * io.r2dbc                             2019-11..2022-09 0.8.13.RELEASE       |.....=======........|
   R   org.postgresql                       2021-02..2026-09 1.1.3.RELEASE        |........============|
   ?   com.aliyun                           2026-08..2026-08 1.2.1                |..................=.|
   R   com.yugabyte                         2023-12..2026-04 1.1.0-yb-2           |.............======.|
@@ -2948,13 +2948,13 @@ net.sf.jsqlparser  [no clear owner; `com.github.jsqlparser` is earliest and most
   ?   ai.starlake                          2024-09..2024-10 1.3.0                |...............=....|
 org.scala.lang.scala3.library  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2021-06..2026-10 3.10.1-RC2           |.........===========|
-  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |...................=|
+  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |..................==|
 org.scala.lang.scala3.presentation.compiler  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2023-07..2026-10 3.10.1-RC2           |.............=======|
-  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |...................=|
+  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |..................==|
 org.scala.lang.scala3.interfaces  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2021-06..2026-10 3.10.1-RC2           |.........===========|
-  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |...................=|
+  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |..................==|
 org.bukkit  [no clear owner; `com.uroria.curepur` is earliest and most recent]
   ? * com.uroria.curepur                   2024-07..2024-07 1.21-R0.1            |...............=....|
   ?   com.620cloud.server                  2026-06..2026-10 26.3.build.374-stable |..................==|
@@ -2994,20 +2994,20 @@ okhttp  [no clear owner; `build.buf` is earliest and most recent]
   ?   com.connectrpc                       2023-09..2026-10 0.10.0               |.............=======|
 org.scala.lang.scala3.compiler  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2021-06..2026-10 3.3.9                |.........===========|
-  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |...................=|
+  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |..................==|
   ?   com.michaelpollmeier                 2022-10..2022-11 3.2.2-RC1-bin-20221101-d84007c-NIGHTLY+1-extensible-repl |...........=........|
 org.scala.lang.scala3.sbt.bridge  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2021-06..2026-10 3.3.9                |.........===========|
-  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |...................=|
+  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |..................==|
 org.scala.lang.scala3.staging  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2021-06..2026-10 3.3.9                |.........===========|
-  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |...................=|
+  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |..................==|
 org.scala.lang.scala3.tasty.inspector  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2021-06..2026-10 3.3.9                |.........===========|
-  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |...................=|
+  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |..................==|
 org.scala.lang.tasty.core  [no clear owner; `org.scala-lang` is earliest and most recent]
   ? * org.scala-lang                       2021-06..2026-10 3.3.9                |.........===========|
-  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |...................=|
+  ?   dev.propensive                       2026-08..2026-10 3.9.1-dev-p20        |..................==|
 com.drew.metadata  [no clear owner; `com.github.dalet-oss` is earliest and most recent]
   ? * com.github.dalet-oss                 2024-03..2024-03 0.0.6                |..............=.....|
   ?   com.drewnoakes                       2026-04..2026-10 2.22.0               |..................==|
