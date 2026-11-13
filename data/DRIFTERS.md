@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-12. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-13. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -499,7 +499,7 @@ app.oreshkov.clikit.testing  [renamed `app.oreshkov.delva` -> `app.oreshkov.clik
   ?   app.oreshkov.clikit                  2026-10..2026-11 0.4.0                |...................=|
 io.ekbatan.graalvm  [renamed `io.github.zyraz-io` -> `io.github.ekbatan-io` (latest 1.1.3)]
   ? * io.github.zyraz-io                   2026-05..2026-08 1.0.0                |..................=.|
-  ?   io.github.ekbatan-io                 2026-08..2026-11 1.1.3                |...................=|
+  ?   io.github.ekbatan-io                 2026-08..2026-11 1.1.3                |..................==|
 org.commonmark  [relocated `com.atlassian.commonmark` -> `org.commonmark` (latest 0.32.0)]
   R * com.atlassian.commonmark             2018-01..2021-01 0.17.0               |..=======...........|
   A   org.commonmark                       2021-01..2026-11 0.32.0               |........============|
@@ -571,7 +571,7 @@ org.apache.datasketches.memory  [renamed `org.apache.datasketches` -> `org.apach
   A   org.apache.paimon                    2024-09..2026-10 2.1.0                |...............=====|
   ?   com.datastrato                       2026-09..2026-10 1.13.0               |...................=|
   A   org.apache.flink                     2025-01..2026-09 3.7.0-2.2            |...............=====|
-  A   org.apache.iceberg                   2024-07..2026-09 1.12.0               |...............=====|
+  A   org.apache.iceberg                   2024-07..2026-09 1.12.0               |..............======|
     + 10 more: org.apache.seatunnel, org.apache.pinot, com.facebook.presto, org.apache.fluss, io.github.pl-buiquang, com.alibaba.fluss, uk.gov.gchq.gaffer, io.kestra.plugin, org.locationtech.geomesa, com.gelerion.spark.sketches
 com.querydsl.sql.json  [renamed `io.github.openfeign.querydsl` -> `io.github.weir2010` (latest 8.0)]
   ? * io.github.openfeign.querydsl         2024-08..2026-09 7.7                  |...............=====|
@@ -581,15 +581,15 @@ com.aliyun.polardb2.jdbc  [renamed `com.aliyun.polardb2` -> `com.aliyun` (latest
   ?   com.aliyun                           2026-07..2026-10 42.5.7.0.16.2        |..................==|
 io.github.humbleui.skija.macos.x64  [renamed `io.github.humbleui.skija` -> `io.github.humbleui` (latest 0.143.18)]
   A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |.........=..........|
-  A   io.github.humbleui                   2021-12..2026-10 0.143.18             |..........==========|
+  A   io.github.humbleui                   2021-12..2026-10 0.143.18             |.........===========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 io.github.humbleui.skija.macos.arm64  [renamed `io.github.humbleui.skija` -> `io.github.humbleui` (latest 0.143.18)]
   A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |.........=..........|
-  A   io.github.humbleui                   2021-12..2026-10 0.143.18             |..........==========|
+  A   io.github.humbleui                   2021-12..2026-10 0.143.18             |.........===========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 io.github.humbleui.skija.shared  [renamed `io.github.humbleui.skija` -> `io.github.humbleui` (latest 0.143.18)]
   A * io.github.humbleui.skija             2021-11..2021-11 0.96.0               |.........=..........|
-  A   io.github.humbleui                   2021-12..2026-10 0.143.18             |..........==========|
+  A   io.github.humbleui                   2021-12..2026-10 0.143.18             |.........===========|
   ?   com.behemiron.engine                 2026-06..2026-06 0.143.17             |..................=.|
 org.opendaylight.yangtools.rfc6536.model.api  [renamed `org.opendaylight.yangtools` -> `org.opendaylight.netconf` (latest 12.0.2)]
   ? * org.opendaylight.yangtools           2019-04..2026-09 16.1.0               |....================|
@@ -1277,7 +1277,7 @@ com.samskivert.jmustache  [fork: keep `com.samskivert`, `dev.getelements.element
   R   io.swagger.codegen.v3                2022-02..2023-02 3.0.41               |..........===.......|
   R   io.garam                             2020-11..2020-11 0.4                  |.......=............|
 org.seleniumhq.selenium.devtools_v151  [fork: keep `org.seleniumhq.selenium`, `com.github.aquality-automation` still publishes the name]
-  ? * org.seleniumhq.selenium              2026-08..2026-09 4.49.0               |...................=|
+  ? * org.seleniumhq.selenium              2026-08..2026-09 4.49.0               |..................==|
   ?   com.github.aquality-automation       2026-08..2026-09 4.26.0               |...................=|
 jakarta.inject  [fork: keep `jakarta.inject`, `com.google.gerrit` still publishes the name]
   A * jakarta.inject                       2020-04..2021-10 2.0.1                |......====..........|
@@ -1830,7 +1830,7 @@ io.netty.codec.http  [owned by `io.netty`; 11 other group(s) shade the name]
   ?   io.camunda.connector                 2026-06..2026-10 8.6.32               |..................==|
   R   org.apache.tika                      2026-03..2026-10 3.3.3                |..................==|
   R   dev.zio                              2025-05..2026-09 3.11.6               |................====|
-  ?   io.github.shafthq                    2026-07..2026-08 10.3.20260806        |..................==|
+  ?   io.github.shafthq                    2026-07..2026-08 10.3.20260806        |..................=.|
     + 6 more: com.liquibase.ext, org.apache.flink, com.xuxueli, org.eclipse.ditto, io.sapl, de.fraunhofer.iosb.ilt.faaast.service
 io.netty.handler  [owned by `io.netty`; 13 other group(s) shade the name]
   A * io.netty                             2017-12..2026-11 4.1.140.Final        |..==================|
@@ -2324,7 +2324,7 @@ koog.spring.boot.starter.jvm  [owned by `ai.koog` (groupId minus TLD is the modu
   ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
 roaringbitmap  [owned by `org.roaringbitmap` (groupId minus TLD is the module prefix); 3 other group(s) shade the name]
   A * org.roaringbitmap                    2023-09..2026-10 1.6.29               |.............=======|
-  R   org.apache.celeborn                  2024-06..2026-08 0.7.0                |..............======|
+  R   org.apache.celeborn                  2024-06..2026-08 0.7.0                |..............=====.|
   ?   com.atomgraph.etl.csv                2026-06..2026-07 2.2.1                |..................=.|
   R   org.bitlap                           2023-10..2023-10 1.0.1.0              |.............=......|
 r2dbc.postgresql  [owned by `io.r2dbc` (groupId minus TLD is the module prefix); 3 other group(s) shade the name]
