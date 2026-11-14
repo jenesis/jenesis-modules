@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-13. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-14. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -1028,7 +1028,7 @@ jakarta.annotation  [fork: keep `jakarta.annotation`, `io.github.n1ckl0sk0rtge` 
     + 19 more: org.apache.james, se.swedenconnect.keycloak, org.apache.iotdb, com.intuit.quickbooks-online, com.segment.analytics.java, org.eclipse.ecsp, com.jcabi, com.affinidi.tdk, net.welen.jmole, de.fraunhofer.sit.sse.flowdroid, com.heroku, io.journify, (+7 more)
 org.mockbukkit.mockbukkit  [fork: keep `org.mockbukkit.mockbukkit`, `com.620cloud.server` still publishes the name]
   A * org.mockbukkit.mockbukkit            2024-11..2026-10 4.117.0              |...............=====|
-  ?   com.620cloud.server                  2026-08..2026-10 26.3-50              |...................=|
+  ?   com.620cloud.server                  2026-08..2026-10 26.3-50              |..................==|
   R   com.mineplex.studio                  2024-11..2026-02 1.21.11-R0.1-43      |...............====.|
 com.fasterxml.aalto  [fork: keep `com.fasterxml`, `org.jetbrains.kotlin` still publishes the name]
   A * com.fasterxml                        2018-04..2026-05 1.4.0                |..=================.|
@@ -1634,7 +1634,7 @@ com.fasterxml.jackson.jakarta.rs.json  [owned by `com.fasterxml.jackson.jakarta.
   A * com.fasterxml.jackson.jakarta.rs     2021-07..2026-11 2.23.0               |.........===========|
   R   org.apache.tika                      2023-12..2026-10 3.3.3                |.............=======|
   R   ch.exense.step                       2022-10..2026-09 3.30.4               |...........=========|
-  R   ch.exense.step.library               2023-08..2026-08 1.0.32               |.............=======|
+  R   ch.exense.step.library               2023-08..2026-08 1.0.32               |.............======.|
   ?   com.inteligr8.activiti               2026-06..2026-08 1.4.1-aps-v26.2      |..................=.|
   R   com.phonepe.sentinel-ai              2026-05..2026-05 1.1.2-SOLARIS-rc0    |..................=.|
     + 13 more: org.eclipse.tractusx.edc, org.ow2.petals.samples.rest.edm, dev.getelements.elements, org.eclipse.edc.huawei, org.eclipse.edc.aws, org.eclipse.edc, io.nflow, com.brightsparklabs, io.trino.gateway, com.snehasishroy, com.smoketurner.dropwizard, org.kiwiproject, (+1 more)
@@ -1697,7 +1697,7 @@ com.fasterxml.jackson.dataformat.cbor  [owned by `com.fasterxml.jackson.dataform
   R   net.snowflake                        2023-06..2026-10 4.4.6                |............========|
   ?   software.amazon.glue                 2026-10..2026-10 2.0.1                |...................=|
   R   org.apache.dolphinscheduler          2025-03..2026-09 3.4.3                |................====|
-  R   org.eclipse.ditto                    2022-03..2026-08 1.2.3                |..........==========|
+  R   org.eclipse.ditto                    2022-03..2026-08 1.2.3                |..........=========.|
   R   com.amazonaws                        2020-09..2025-12 1.12.797             |.......===========..|
     + 18 more: org.apache.jackrabbit, software.amazon.neptune, org.elasticsearch.plugin, com.hazelcast.jet, org.duracloud, org.alluxio, org.apache.beam, com.liferay.portal, io.kestra.plugin, org.apache.flink, edu.internet2.middleware.grouper, org.apache.pinot, (+6 more)
 com.fasterxml.jackson.dataformat.smile  [owned by `com.fasterxml.jackson.dataformat`; 8 other group(s) shade the name]
@@ -1902,7 +1902,7 @@ io.netty.tcnative.classes.openssl  [owned by `io.netty`; 5 other group(s) shade 
   A * io.netty                             2022-03..2026-11 2.0.85.Final         |..........==========|
   ?   io.vertx                             2026-06..2026-10 4.5.35               |..................==|
   ?   io.fabric8                           2026-06..2026-09 7.9.0                |..................==|
-  R   org.neo4j.driver                     2024-11..2026-08 4.4.27               |...............=====|
+  R   org.neo4j.driver                     2024-11..2026-08 4.4.27               |...............====.|
   R   io.kestra.plugin                     2024-10..2025-06 0.23.0               |...............==...|
   R   eu.michael-simons.neo4j              2024-10..2025-06 2.17.4               |...............==...|
 net.bytebuddy  [owned by `net.bytebuddy`; 134 other group(s) shade the name]
@@ -1980,7 +1980,7 @@ org.mozilla.rhino  [owned by `org.mozilla`; 5 other group(s) shade the name]
   R   org.mock-server                      2026-05..2026-10 9.0.0                |..................==|
   ?   io.github.jarrunner.teavm            2026-10..2026-10 0.16.0-jr.1          |...................=|
   ?   org.teavm                            2026-10..2026-10 0.16.0               |...................=|
-  R   org.bidib.com.github.markusbernhardt 2026-02..2026-02 2.0.0                |..................=.|
+  R   org.bidib.com.github.markusbernhardt 2026-02..2026-02 2.0.0                |.................=..|
   R   org.meeuw                            2025-12..2025-12 1.0                  |.................=..|
 com.microsoft.onnxruntime  [owned by `com.microsoft.onnxruntime`; 1 other group(s) shade the name]
   ? * com.microsoft.onnxruntime            2020-06..2026-10 1.31.1               |.......=============|
@@ -2125,7 +2125,7 @@ org.mavai.punit.examples  [owned by `org.mavai`; 1 other group(s) shade the name
   ?   org.javai                            2026-05..2026-05 0.6.99               |..................=.|
 org.apache.bcel  [owned by `org.apache.bcel`; 5 other group(s) shade the name]
   A * org.apache.bcel                      2017-09..2026-09 6.13.0               |.===================|
-  ?   io.spicelabs                         2026-08..2026-08 0.17.4               |...................=|
+  ?   io.spicelabs                         2026-08..2026-08 0.17.4               |..................==|
   R   com.github.spotbugs                  2024-10..2026-07 4.7.0                |...............====.|
   R   com.github.kwart.jd                  2025-10..2025-10 1.3.0-beta-1         |.................=..|
   R   org.checkerframework.annotatedlib    2018-02..2020-10 6.5.0                |..======............|
@@ -2683,7 +2683,7 @@ serialization.jackson.jvm  [no clear owner; `ai.koog` is earliest and most recen
   ? * ai.koog                              2026-03..2026-09 1.3.0                |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 skills.jvm  [no clear owner; `com.kreoh.kroog` is earliest and most recent]
-  ? * com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ? * com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
   ?   ai.koog                              2026-08..2026-09 1.3.0-beta           |...................=|
 a2a.client.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-10..2026-09 1.3.0-beta           |.................===|
@@ -2803,7 +2803,7 @@ http.client.spring.webclient.jvm  [no clear owner; `ai.koog` is earliest and mos
   ? * ai.koog                              2026-07..2026-09 1.3.0                |..................==|
   ?   com.kreoh.kroog                      2026-08..2026-11 1.3.0-kroog.4        |..................==|
 koog.bedrock.agentcore.runtime.jvm  [no clear owner; `com.kreoh.kroog` is earliest and most recent]
-  ? * com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |...................=|
+  ? * com.kreoh.kroog                      2026-08..2026-11 1.3.0-beta-kroog.4   |..................==|
   ?   ai.koog                              2026-08..2026-09 1.3.0-beta           |...................=|
 prompt.cache.files.jvm  [no clear owner; `ai.koog` is earliest and most recent]
   ? * ai.koog                              2025-05..2026-09 1.3.0                |................====|
