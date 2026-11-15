@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-14. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-15. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -409,7 +409,7 @@ jakarta.mail  [republished by `com.sun.mail` (still active); belongs to `jakarta
   R * com.sun.mail                         2018-11..2025-07 2.0.2                |....=============...|
   ?   org.tinystruct                       2026-08..2026-09 1.7.32               |..................==|
   R   io.github.noeltoy                    2024-10..2026-08 1.2                  |...............=====|
-  ?   org.cibseven.community.mail          2026-08..2026-08 2.2.0                |...................=|
+  ?   org.cibseven.community.mail          2026-08..2026-08 2.2.0                |..................=.|
   ?   org.apache.manifoldcf                2026-07..2026-07 2.31                 |..................=.|
   R   com.randomnoun.db                    2022-10..2025-11 1.0.2                |...........=======..|
     + 7 more: org.eclipse.angus, jakarta.mail, org.camunda.bpm.extension, name.bychkov, io.gravitee.apim.rest.api.standalone, com.krux, com.guicedee.services
@@ -1001,7 +1001,7 @@ org.jetbrains.annotations  [fork: keep `org.jetbrains`, `com.microsoft.azure.kus
 com.thoughtworks.qdox  [fork: keep `com.thoughtworks.qdox`, `com.github.shalousun` still publishes the name]
   A * com.thoughtworks.qdox                2017-08..2024-11 2.2.0                |.===============....|
   ?   com.github.shalousun                 2026-10..2026-10 2.2.0                |...................=|
-  R   com.ly.smart-doc                     2024-01..2024-01 2.0.3.4              |..............=.....|
+  R   com.ly.smart-doc                     2024-01..2024-01 2.0.3.4              |.............=......|
 org.apache.logging.log4j  [fork: keep `org.apache.logging.log4j`, `dev.mauch` still publishes the name]
   A * org.apache.logging.log4j             2017-11..2026-07 2.25.5               |..=================.|
   R   dev.mauch                            2024-12..2026-10 3.3.4_0.34.1-prerelease37 |...............=====|
@@ -1951,7 +1951,7 @@ com.apollographql.apollo.annotations  [owned by `com.apollographql.apollo`; 1 ot
 org.seleniumhq.selenium.api  [owned by `org.seleniumhq.selenium`; 3 other group(s) shade the name]
   A * org.seleniumhq.selenium              2019-09..2026-10 4.52.0               |.....===============|
   ?   com.github.aquality-automation       2026-08..2026-08 7.5.0                |...................=|
-  R   com.github.saikrishna321             2023-12..2024-01 14.0.4               |.............==.....|
+  R   com.github.saikrishna321             2023-12..2024-01 14.0.4               |.............=......|
   R   ru.sbtqa.tag.pagefactory             2022-09..2023-08 21.0.1               |...........===......|
 org.seleniumhq.selenium.grid  [owned by `org.seleniumhq.selenium`; 1 other group(s) shade the name]
   ? * org.seleniumhq.selenium              2019-09..2026-10 4.52.0               |.....===============|
@@ -2099,7 +2099,7 @@ org.eclipse.jetty.http2.common  [owned by `org.eclipse.jetty.http2`; 1 other gro
 org.eclipse.jetty.security  [owned by `org.eclipse.jetty`; 4 other group(s) shade the name]
   A * org.eclipse.jetty                    2018-11..2026-10 12.0.40              |...=================|
   ?   io.debezium                          2026-07..2026-09 3.7.0.Final          |..................==|
-  R   org.sonatype.nexus.common.components 2026-02..2026-09 3.95.4-01            |..................==|
+  R   org.sonatype.nexus.common.components 2026-02..2026-09 3.95.4-01            |.................===|
   ?   ch.exense.step                       2026-06..2026-07 3.30.1               |..................=.|
   R   org.sonatype.nexus.jetty             2025-09..2026-01 3.87.2-01            |.................=..|
 org.eclipse.jetty.compression.gzip  [owned by `org.eclipse.jetty.compression`; 1 other group(s) shade the name]
@@ -2125,7 +2125,7 @@ org.mavai.punit.examples  [owned by `org.mavai`; 1 other group(s) shade the name
   ?   org.javai                            2026-05..2026-05 0.6.99               |..................=.|
 org.apache.bcel  [owned by `org.apache.bcel`; 5 other group(s) shade the name]
   A * org.apache.bcel                      2017-09..2026-09 6.13.0               |.===================|
-  ?   io.spicelabs                         2026-08..2026-08 0.17.4               |..................==|
+  ?   io.spicelabs                         2026-08..2026-08 0.17.4               |..................=.|
   R   com.github.spotbugs                  2024-10..2026-07 4.7.0                |...............====.|
   R   com.github.kwart.jd                  2025-10..2025-10 1.3.0-beta-1         |.................=..|
   R   org.checkerframework.annotatedlib    2018-02..2020-10 6.5.0                |..======............|
@@ -2359,72 +2359,72 @@ zertjsse  [owned by `com.ibm.zertjsse` (groupId minus two segments is the module
   ?   com.ibm.semeru-zjavasecurity         2026-05..2026-09 11.0.32.0            |..................==|
 tuweni.bytes  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.concurrent  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.concurrent_coroutines  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.config  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.crypto  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.devp2p  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.io  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.junit  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.kademlia  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.net  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.rlp  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.ssz  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.toml  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 tuweni.units  [owned by `org.apache.tuweni` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
   ? * org.apache.tuweni                    2022-03..2022-11 2.3.1                |..........==........|
-  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................====|
+  ?   io.consensys.tuweni                  2025-02..2026-08 2.8.0                |................===.|
   ?   io.consensys.protocols               2025-02..2025-02 2.6.0                |................=...|
   ?   io.tmio                              2023-05..2023-07 2.4.2                |............=.......|
 dagger  [owned by `com.google.dagger` (groupId minus two segments is the module prefix); 3 other group(s) shade the name]
