@@ -34,6 +34,7 @@
 1.11.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.11.10/langchain4j-bom-1.11.10.jar returned status 404
 1.11.11		2026-08-11T14:33:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.11.11/langchain4j-bom-1.11.11.jar returned status 404
 1.11.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.11.12/langchain4j-bom-1.11.12.jar returned status 404
+1.11.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.11.13/langchain4j-bom-1.11.13.jar returned status 404
 1.11.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.11.4/langchain4j-bom-1.11.4.jar returned status 404
 1.11.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.11.5/langchain4j-bom-1.11.5.jar returned status 404
 1.11.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.11.6/langchain4j-bom-1.11.6.jar returned status 404
@@ -63,6 +64,7 @@
 1.19.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.19.3/langchain4j-bom-1.19.3.jar returned status 404
 1.19.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.19.4/langchain4j-bom-1.19.4.jar returned status 404
 1.19.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.19.5/langchain4j-bom-1.19.5.jar returned status 404
+1.19.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.19.6/langchain4j-bom-1.19.6.jar returned status 404
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.2.0/langchain4j-bom-1.2.0.jar returned status 404
 1.2.1		2026-06-15T13:00:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.2.1/langchain4j-bom-1.2.1.jar returned status 404
 1.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/langchain4j/langchain4j-bom/1.20.0/langchain4j-bom-1.20.0.jar returned status 404

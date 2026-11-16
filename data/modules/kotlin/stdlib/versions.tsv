@@ -2534,3 +2534,5 @@ unspecified	named	dev.robocode.tankroyale	robocode-tankroyale-server	2026-04-05T
 0.1.44	named	org.jetbrains	marketplace-zip-signer-cli	2026-10-30T11:20:03Z	
 0.1.45	named	org.jetbrains	marketplace-zip-signer-cli	2026-10-30T16:27:30Z	
 0.4.10	named	com.tidbcloud	lake-jdbc	2026-11-04T10:44:51Z	
+0.2.0	named	dev.bmcreations	protovalidate-protoc-plugin	2026-11-11T01:50:50Z	
+0.2.0	named	dev.bmcreations	protovalidate-protoc-plugin-buf	2026-11-11T01:50:50Z	

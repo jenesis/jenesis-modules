@@ -11,3 +11,4 @@
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jdtech/mpv/libmpv/0.5.0/libmpv-0.5.0.jar returned status 404
 0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jdtech/mpv/libmpv/0.5.1/libmpv-0.5.1.jar returned status 404
 1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jdtech/mpv/libmpv/1.0.0/libmpv-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jdtech/mpv/libmpv/1.1.0/libmpv-1.1.0.jar returned status 404

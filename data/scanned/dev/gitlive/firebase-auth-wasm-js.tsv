@@ -1,1 +1,2 @@
 3.0.0-alpha02		2026-09-03T01:57:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-auth-wasm-js/3.0.0-alpha02/firebase-auth-wasm-js-3.0.0-alpha02.jar returned status 404
+3.0.0-beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/gitlive/firebase-auth-wasm-js/3.0.0-beta1/firebase-auth-wasm-js-3.0.0-beta1.jar returned status 404
