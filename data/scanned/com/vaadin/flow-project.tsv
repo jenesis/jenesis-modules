@@ -350,6 +350,8 @@
 24.10.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.10.14/flow-project-24.10.14.jar returned status 404
 24.10.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.10.15/flow-project-24.10.15.jar returned status 404
 24.10.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.10.16/flow-project-24.10.16.jar returned status 404
+24.10.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.10.17/flow-project-24.10.17.jar returned status 404
+24.10.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.10.18/flow-project-24.10.18.jar returned status 404
 24.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.10.2/flow-project-24.10.2.jar returned status 404
 24.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.10.3/flow-project-24.10.3.jar returned status 404
 24.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.10.4/flow-project-24.10.4.jar returned status 404
@@ -410,6 +412,7 @@
 24.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.4.2/flow-project-24.4.2.jar returned status 404
 24.4.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.4.20/flow-project-24.4.20.jar returned status 404
 24.4.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.4.21/flow-project-24.4.21.jar returned status 404
+24.4.22			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.4.22/flow-project-24.4.22.jar returned status 404
 24.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.4.3/flow-project-24.4.3.jar returned status 404
 24.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.4.4/flow-project-24.4.4.jar returned status 404
 24.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.4.5/flow-project-24.4.5.jar returned status 404
@@ -461,7 +464,9 @@
 24.7.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.7.16/flow-project-24.7.16.jar returned status 404
 24.7.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.7.17/flow-project-24.7.17.jar returned status 404
 24.7.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.7.18/flow-project-24.7.18.jar returned status 404
+24.7.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.7.19/flow-project-24.7.19.jar returned status 404
 24.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.7.2/flow-project-24.7.2.jar returned status 404
+24.7.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.7.20/flow-project-24.7.20.jar returned status 404
 24.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.7.3/flow-project-24.7.3.jar returned status 404
 24.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.7.4/flow-project-24.7.4.jar returned status 404
 24.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.7.5/flow-project-24.7.5.jar returned status 404
@@ -516,6 +521,8 @@
 24.9.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.9.29/flow-project-24.9.29.jar returned status 404
 24.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.9.3/flow-project-24.9.3.jar returned status 404
 24.9.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.9.30/flow-project-24.9.30.jar returned status 404
+24.9.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.9.31/flow-project-24.9.31.jar returned status 404
+24.9.32			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.9.32/flow-project-24.9.32.jar returned status 404
 24.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.9.4/flow-project-24.9.4.jar returned status 404
 24.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.9.5/flow-project-24.9.5.jar returned status 404
 24.9.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/24.9.6/flow-project-24.9.6.jar returned status 404
@@ -585,6 +592,8 @@
 25.2.13		2026-10-12T09:56:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.2.13/flow-project-25.2.13.jar returned status 404
 25.2.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.2.14/flow-project-25.2.14.jar returned status 404
 25.2.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.2.15/flow-project-25.2.15.jar returned status 404
+25.2.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.2.16/flow-project-25.2.16.jar returned status 404
+25.2.17			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.2.17/flow-project-25.2.17.jar returned status 404
 25.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.2.2/flow-project-25.2.2.jar returned status 404
 25.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.2.3/flow-project-25.2.3.jar returned status 404
 25.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.2.4/flow-project-25.2.4.jar returned status 404
@@ -603,6 +612,9 @@
 25.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.3.2/flow-project-25.3.2.jar returned status 404
 25.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.3.3/flow-project-25.3.3.jar returned status 404
 25.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.3.4/flow-project-25.3.4.jar returned status 404
+25.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.3.5/flow-project-25.3.5.jar returned status 404
+25.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.3.6/flow-project-25.3.6.jar returned status 404
+25.3.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/25.3.7/flow-project-25.3.7.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/3.0.0/flow-project-3.0.0.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/3.0.1/flow-project-3.0.1.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/flow-project/3.0.2/flow-project-3.0.2.jar returned status 404
