@@ -14,6 +14,9 @@
 2.1.0-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.1.0-beta.2/superwall-compose-2.1.0-beta.2.jar returned status 404
 2.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.1.1/superwall-compose-2.1.1.jar returned status 404
 2.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.1.2/superwall-compose-2.1.2.jar returned status 404
+2.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.10.0/superwall-compose-2.10.0.jar returned status 404
+2.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.10.1/superwall-compose-2.10.1.jar returned status 404
+2.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.10.2/superwall-compose-2.10.2.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.2.0/superwall-compose-2.2.0.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.2.2/superwall-compose-2.2.2.jar returned status 404
 2.2.2-debuggable			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.2.2-debuggable/superwall-compose-2.2.2-debuggable.jar returned status 404
@@ -76,3 +79,4 @@
 2.8.6		2026-10-19T14:26:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.8.6/superwall-compose-2.8.6.jar returned status 404
 2.8.7		2026-10-19T16:46:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.8.7/superwall-compose-2.8.7.jar returned status 404
 2.8.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.8.8/superwall-compose-2.8.8.jar returned status 404
+2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/superwall/sdk/superwall-compose/2.9.0/superwall-compose-2.9.0.jar returned status 404
