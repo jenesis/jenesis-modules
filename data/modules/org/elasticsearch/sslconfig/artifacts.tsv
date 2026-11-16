@@ -55,6 +55,7 @@
 9.0.0	named	org.elasticsearch	elasticsearch-ssl-config
 9.0.0-rc1	named	org.elasticsearch	elasticsearch-ssl-config
 9.0.0-beta1	named	org.elasticsearch	elasticsearch-ssl-config
+8.19.25	named	org.elasticsearch	elasticsearch-ssl-config
 8.19.24	named	org.elasticsearch	elasticsearch-ssl-config
 8.19.23	named	org.elasticsearch	elasticsearch-ssl-config
 8.19.22	named	org.elasticsearch	elasticsearch-ssl-config
