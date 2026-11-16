@@ -1796,6 +1796,8 @@
 2.57.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.1/aws-sdk-java-pom-2.57.1.jar returned status 404
 2.57.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.10/aws-sdk-java-pom-2.57.10.jar returned status 404
 2.57.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.11/aws-sdk-java-pom-2.57.11.jar returned status 404
+2.57.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.12/aws-sdk-java-pom-2.57.12.jar returned status 404
+2.57.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.13/aws-sdk-java-pom-2.57.13.jar returned status 404
 2.57.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.2/aws-sdk-java-pom-2.57.2.jar returned status 404
 2.57.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.3/aws-sdk-java-pom-2.57.3.jar returned status 404
 2.57.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.4/aws-sdk-java-pom-2.57.4.jar returned status 404
@@ -1804,6 +1806,9 @@
 2.57.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.7/aws-sdk-java-pom-2.57.7.jar returned status 404
 2.57.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.8/aws-sdk-java-pom-2.57.8.jar returned status 404
 2.57.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.57.9/aws-sdk-java-pom-2.57.9.jar returned status 404
+2.58.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.58.0/aws-sdk-java-pom-2.58.0.jar returned status 404
+2.59.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.59.0/aws-sdk-java-pom-2.59.0.jar returned status 404
+2.59.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.59.1/aws-sdk-java-pom-2.59.1.jar returned status 404
 2.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.6.0/aws-sdk-java-pom-2.6.0.jar returned status 404
 2.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.6.1/aws-sdk-java-pom-2.6.1.jar returned status 404
 2.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.6.2/aws-sdk-java-pom-2.6.2.jar returned status 404
