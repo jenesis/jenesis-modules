@@ -4,7 +4,7 @@
 > _Java-native config, everything the JDK provides built in, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-10-22 16:29:55 UTC_  
-_Current chunk started: 2026-11-09 13:20:25 UTC_  
+_Current chunk started: 2026-11-16 13:07:38 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 941_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 19 239 524 |
-| Non-module artifacts | 17 123 727 |
+| Total artifacts scanned | 19 295 610 |
+| Non-module artifacts | 17 173 316 |
 | Modular artifacts | 1 756 588 |
 | Total automatic modules | 1 368 476 |
 | Total named modules | 388 112 |
 | Total named modules with module-info version | 294 647 |
-| Distinct Maven artifacts | 711 319 |
-| Distinct module names | 44 566 |
+| Distinct Maven artifacts | 711 329 |
+| Distinct module names | 44 667 |
 | Distinct automatic modules | 23 584 |
 | Distinct named modules | 19 428 |
 | Distinct named modules with module-info version | 14 292 |
@@ -146,8 +146,8 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 3 607 | 1 338 | 2 269 |
-| New version rows | 5 689 | 1 873 | 3 816 |
+| Modules with a publication | 0 | 0 | 0 |
+| New version rows | 0 | 0 | 0 |
 | Non-modular artifacts | 0 | - | - |
 
 ## Monthly publications by type (last 12 months)
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-07 | `█`&nbsp;3 538 (7.1%) | `▓▓`&nbsp;5 573 (11.2%) | `░░░░░░░░░░░░░`&nbsp;40 606 (81.7%) |
 | 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 688 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 733 (86.0%) |
 | 2026-09 | `█`&nbsp;3 866 (10.6%) | `▓▓`&nbsp;6 679 (18.4%) | `░░░░░░░░`&nbsp;25 827 (71.0%) |
-| 2026-10 | `█`&nbsp;3 981 (12.6%) | `▓▓▓`&nbsp;7 625 (24.1%) | `░░░░░░░`&nbsp;19 997 (63.3%) |
+| 2026-10 | `█`&nbsp;3 981 (12.6%) | `▓▓▓`&nbsp;7 625 (24.2%) | `░░░░░░░`&nbsp;19 955 (63.2%) |
 
 ## Naming patterns
 
@@ -175,7 +175,7 @@ How module names relate to their publishing groupId. "Competing groupIds" counts
 
 | Pattern | Modules |
 |---|---:|
-| Multiple competing groupIds in audit history | 4 354 |
+| Multiple competing groupIds in audit history | 4 364 |
 
 ### Leading dot-segments shared with the owning groupId
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 4 093 829 |
-| Incorrectly indexed (mis-stamped 404s) | 4 090 506 |
-| Genuine artifact errors | 3 323 |
+| Total failed coordinates | 4 120 639 |
+| Incorrectly indexed (mis-stamped 404s) | 4 117 258 |
+| Genuine artifact errors | 3 381 |
 
 ### Top 25 genuine error messages
 
@@ -211,7 +211,7 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 
 | Error message | Count |
 |---|---:|
-| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 1 095 |
+| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 1 153 |
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
 | `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 538 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
@@ -335,33 +335,7 @@ Module names that have been published under the most different groupIds across h
 
 Modules whose most recent publication landed in the 7-day window ending at the most recent tracked publication (same window as `Recent activity`, anchored to the freshest publication rather than now since the index lags up to a week), sorted newest first. Use this as a recency view; the count above (`Recent activity`) gives the totals while this table names which modules they were.
 
-| Module | Last publication |
-|---|---|
-| `org.lolaf.ringos` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.clib` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.rb.all` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.rb.methodhandle` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.rb.unsafe` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.rb.unsafe11` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.timer` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.unsafe` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.unsafe.all` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.unsafe.j11` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.unsafe.j15` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.unsafe.j25` | 2026-11-08 20:38:01 UTC |
-| `org.lolaf.ringos.unsafe.j25.provider` | 2026-11-08 20:38:01 UTC |
-| `dev.tamboui.annotations` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.core` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.css` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.image` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.jline_three.backend` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.markdown` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.panama.backend` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.picocli` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.processor` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.toolkit` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.toolkit.markdown` | 2026-11-08 20:09:56 UTC |
-| `dev.tamboui.tui` | 2026-11-08 20:09:56 UTC |
+_(none — no publications recorded within the last week)_
 
 ## Top 25 groupIds by average versions per module
 
