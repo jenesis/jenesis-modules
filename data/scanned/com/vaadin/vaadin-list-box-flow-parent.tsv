@@ -48,6 +48,7 @@
 14.14.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/14.14.6/vaadin-list-box-flow-parent-14.14.6.jar returned status 404
 14.14.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/14.14.7/vaadin-list-box-flow-parent-14.14.7.jar returned status 404
 14.14.8		2026-10-19T06:22:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/14.14.8/vaadin-list-box-flow-parent-14.14.8.jar returned status 404
+14.14.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/14.14.9/vaadin-list-box-flow-parent-14.14.9.jar returned status 404
 14.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/14.4.3/vaadin-list-box-flow-parent-14.4.3.jar returned status 404
 14.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/14.4.4/vaadin-list-box-flow-parent-14.4.4.jar returned status 404
 14.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/14.5.0/vaadin-list-box-flow-parent-14.5.0.jar returned status 404
@@ -308,6 +309,8 @@
 23.6.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/23.6.15/vaadin-list-box-flow-parent-23.6.15.jar returned status 404
 23.6.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/23.6.16/vaadin-list-box-flow-parent-23.6.16.jar returned status 404
 23.6.17		2026-10-19T06:22:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/23.6.17/vaadin-list-box-flow-parent-23.6.17.jar returned status 404
+23.6.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/23.6.18/vaadin-list-box-flow-parent-23.6.18.jar returned status 404
+23.6.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/23.6.19/vaadin-list-box-flow-parent-23.6.19.jar returned status 404
 23.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/23.6.2/vaadin-list-box-flow-parent-23.6.2.jar returned status 404
 23.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/23.6.3/vaadin-list-box-flow-parent-23.6.3.jar returned status 404
 23.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/23.6.4/vaadin-list-box-flow-parent-23.6.4.jar returned status 404
@@ -356,6 +359,8 @@
 24.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.10.10/vaadin-list-box-flow-parent-24.10.10.jar returned status 404
 24.10.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.10.11/vaadin-list-box-flow-parent-24.10.11.jar returned status 404
 24.10.12		2026-10-19T06:22:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.10.12/vaadin-list-box-flow-parent-24.10.12.jar returned status 404
+24.10.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.10.13/vaadin-list-box-flow-parent-24.10.13.jar returned status 404
+24.10.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.10.14/vaadin-list-box-flow-parent-24.10.14.jar returned status 404
 24.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.10.2/vaadin-list-box-flow-parent-24.10.2.jar returned status 404
 24.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.10.3/vaadin-list-box-flow-parent-24.10.3.jar returned status 404
 24.10.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.10.4/vaadin-list-box-flow-parent-24.10.4.jar returned status 404
@@ -417,6 +422,8 @@
 24.4.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.4.24/vaadin-list-box-flow-parent-24.4.24.jar returned status 404
 24.4.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.4.25/vaadin-list-box-flow-parent-24.4.25.jar returned status 404
 24.4.26		2026-10-19T06:32:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.4.26/vaadin-list-box-flow-parent-24.4.26.jar returned status 404
+24.4.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.4.27/vaadin-list-box-flow-parent-24.4.27.jar returned status 404
+24.4.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.4.28/vaadin-list-box-flow-parent-24.4.28.jar returned status 404
 24.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.4.3/vaadin-list-box-flow-parent-24.4.3.jar returned status 404
 24.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.4.4/vaadin-list-box-flow-parent-24.4.4.jar returned status 404
 24.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.4.5/vaadin-list-box-flow-parent-24.4.5.jar returned status 404
@@ -462,6 +469,8 @@
 24.7.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.7.15/vaadin-list-box-flow-parent-24.7.15.jar returned status 404
 24.7.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.7.16/vaadin-list-box-flow-parent-24.7.16.jar returned status 404
 24.7.17		2026-10-19T06:22:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.7.17/vaadin-list-box-flow-parent-24.7.17.jar returned status 404
+24.7.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.7.18/vaadin-list-box-flow-parent-24.7.18.jar returned status 404
+24.7.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.7.19/vaadin-list-box-flow-parent-24.7.19.jar returned status 404
 24.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.7.2/vaadin-list-box-flow-parent-24.7.2.jar returned status 404
 24.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.7.3/vaadin-list-box-flow-parent-24.7.3.jar returned status 404
 24.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.7.4/vaadin-list-box-flow-parent-24.7.4.jar returned status 404
@@ -510,6 +519,8 @@
 24.9.22		2026-09-21T11:41:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.9.22/vaadin-list-box-flow-parent-24.9.22.jar returned status 404
 24.9.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.9.23/vaadin-list-box-flow-parent-24.9.23.jar returned status 404
 24.9.24		2026-10-19T06:22:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.9.24/vaadin-list-box-flow-parent-24.9.24.jar returned status 404
+24.9.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.9.25/vaadin-list-box-flow-parent-24.9.25.jar returned status 404
+24.9.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.9.26/vaadin-list-box-flow-parent-24.9.26.jar returned status 404
 24.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.9.3/vaadin-list-box-flow-parent-24.9.3.jar returned status 404
 24.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.9.4/vaadin-list-box-flow-parent-24.9.4.jar returned status 404
 24.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/24.9.5/vaadin-list-box-flow-parent-24.9.5.jar returned status 404
@@ -570,6 +581,7 @@
 25.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.2.10/vaadin-list-box-flow-parent-25.2.10.jar returned status 404
 25.2.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.2.11/vaadin-list-box-flow-parent-25.2.11.jar returned status 404
 25.2.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.2.12/vaadin-list-box-flow-parent-25.2.12.jar returned status 404
+25.2.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.2.13/vaadin-list-box-flow-parent-25.2.13.jar returned status 404
 25.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.2.2/vaadin-list-box-flow-parent-25.2.2.jar returned status 404
 25.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.2.3/vaadin-list-box-flow-parent-25.2.3.jar returned status 404
 25.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.2.4/vaadin-list-box-flow-parent-25.2.4.jar returned status 404
@@ -586,6 +598,8 @@
 25.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.3.1/vaadin-list-box-flow-parent-25.3.1.jar returned status 404
 25.3.2		2026-10-12T08:11:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.3.2/vaadin-list-box-flow-parent-25.3.2.jar returned status 404
 25.3.3		2026-10-19T06:37:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.3.3/vaadin-list-box-flow-parent-25.3.3.jar returned status 404
+25.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.3.4/vaadin-list-box-flow-parent-25.3.4.jar returned status 404
+25.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/25.3.5/vaadin-list-box-flow-parent-25.3.5.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/3.0.0/vaadin-list-box-flow-parent-3.0.0.jar returned status 404
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/3.1.0/vaadin-list-box-flow-parent-3.1.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vaadin/vaadin-list-box-flow-parent/4.0.0/vaadin-list-box-flow-parent-4.0.0.jar returned status 404

@@ -2926,3 +2926,8 @@ com.ijpay.xpay
 com.thediscordlist.discord4j
 com.thediscordlist.jda
 com.vaadin.hilla.parser.plugins.backbone
+com.vaadin.hilla.parser.plugins.nonnull
+io.opentelemetry.javaagent
+com.vaadin.hilla.parser.plugins.transfertypes
+com.vaadin.hilla.parser.core
+com.vaadin.hilla.parser.testutils
