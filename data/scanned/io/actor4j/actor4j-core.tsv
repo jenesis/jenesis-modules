@@ -4,3 +4,4 @@
 2.4.0-beta.1		2025-06-10T12:34:22Z	
 2.4.0-beta.2		2025-06-11T09:59:08Z	
 2.4.0-beta.3		2025-06-17T14:54:40Z	
+2.5.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/actor4j/actor4j-core/2.5.0-beta.1/actor4j-core-2.5.0-beta.1.jar returned status 404

@@ -18,3 +18,5 @@
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/geofence/5.0.1/geofence-5.0.1.jar returned status 404
 5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/geofence/5.0.2/geofence-5.0.2.jar returned status 404
 5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/geofence/5.0.3/geofence-5.0.3.jar returned status 404
+5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/geofence/5.1.0/geofence-5.1.0.jar returned status 404
+5.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/customer/android/geofence/5.1.1/geofence-5.1.1.jar returned status 404

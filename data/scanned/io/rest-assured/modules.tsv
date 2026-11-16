@@ -46,3 +46,4 @@
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rest-assured/modules/6.1.0/modules-6.1.0.jar returned status 404
 6.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rest-assured/modules/6.2.0/modules-6.2.0.jar returned status 404
 6.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rest-assured/modules/6.3.0/modules-6.3.0.jar returned status 404
+7.0.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/rest-assured/modules/7.0.0-RC1/modules-7.0.0-RC1.jar returned status 404
