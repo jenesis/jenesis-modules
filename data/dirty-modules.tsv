@@ -1631,3 +1631,4 @@ kotlin.metadata.jvm
 kotlin.test
 kotlin.reflect
 kotlin.test.junit5
+javafx.extensions
