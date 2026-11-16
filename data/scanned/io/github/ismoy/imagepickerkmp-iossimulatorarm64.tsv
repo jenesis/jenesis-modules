@@ -76,3 +76,4 @@
 1.1.6	metadata	2026-08-25T14:44:16Z	
 1.1.7		2026-08-29T04:52:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ismoy/imagepickerkmp-iossimulatorarm64/1.1.7/imagepickerkmp-iossimulatorarm64-1.1.7.jar returned status 404
 1.1.7	metadata	2026-08-29T04:52:57Z	
+1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ismoy/imagepickerkmp-iossimulatorarm64/1.1.8/imagepickerkmp-iossimulatorarm64-1.1.8.jar returned status 404

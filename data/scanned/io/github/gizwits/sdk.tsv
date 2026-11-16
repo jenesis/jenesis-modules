@@ -186,6 +186,7 @@
 1.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk/1.4.2/sdk-1.4.2.jar returned status 404
 1.4.2-bololo			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk/1.4.2-bololo/sdk-1.4.2-bololo.jar returned status 404
 1.4.2-light			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk/1.4.2-light/sdk-1.4.2-light.jar returned status 404
+1.4.20			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk/1.4.20/sdk-1.4.20.jar returned status 404
 1.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk/1.4.3/sdk-1.4.3.jar returned status 404
 1.4.3-bololo			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk/1.4.3-bololo/sdk-1.4.3-bololo.jar returned status 404
 1.4.3-light			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gizwits/sdk/1.4.3-light/sdk-1.4.3-light.jar returned status 404

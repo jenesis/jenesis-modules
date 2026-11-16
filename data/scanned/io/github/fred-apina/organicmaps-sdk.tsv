@@ -2,3 +2,4 @@
 0.1.1		2026-07-16T00:33:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fred-apina/organicmaps-sdk/0.1.1/organicmaps-sdk-0.1.1.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fred-apina/organicmaps-sdk/0.2.0/organicmaps-sdk-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fred-apina/organicmaps-sdk/0.3.0/organicmaps-sdk-0.3.0.jar returned status 404
+0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fred-apina/organicmaps-sdk/0.3.1/organicmaps-sdk-0.3.1.jar returned status 404
