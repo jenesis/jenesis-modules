@@ -52,6 +52,7 @@
 10.2.22		2026-08-06T07:41:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/10.2.22/bamboo-specs-parent-10.2.22.jar returned status 404
 10.2.23			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/10.2.23/bamboo-specs-parent-10.2.23.jar returned status 404
 10.2.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/10.2.24/bamboo-specs-parent-10.2.24.jar returned status 404
+10.2.25			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/10.2.25/bamboo-specs-parent-10.2.25.jar returned status 404
 10.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/10.2.3/bamboo-specs-parent-10.2.3.jar returned status 404
 10.2.3-m01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/10.2.3-m01/bamboo-specs-parent-10.2.3-m01.jar returned status 404
 10.2.3-m03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/10.2.3-m03/bamboo-specs-parent-10.2.3-m03.jar returned status 404
@@ -93,6 +94,7 @@
 12.1.10		2026-08-07T08:15:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/12.1.10/bamboo-specs-parent-12.1.10.jar returned status 404
 12.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/12.1.11/bamboo-specs-parent-12.1.11.jar returned status 404
 12.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/12.1.12/bamboo-specs-parent-12.1.12.jar returned status 404
+12.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/12.1.13/bamboo-specs-parent-12.1.13.jar returned status 404
 12.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/12.1.2/bamboo-specs-parent-12.1.2.jar returned status 404
 12.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/12.1.3/bamboo-specs-parent-12.1.3.jar returned status 404
 12.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/12.1.5/bamboo-specs-parent-12.1.5.jar returned status 404
@@ -102,6 +104,9 @@
 12.1.9		2026-06-24T08:26:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/12.1.9/bamboo-specs-parent-12.1.9.jar returned status 404
 13.0.0-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/13.0.0-rc1/bamboo-specs-parent-13.0.0-rc1.jar returned status 404
 13.0.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/13.0.0-rc2/bamboo-specs-parent-13.0.0-rc2.jar returned status 404
+13.0.1-m01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/13.0.1-m01/bamboo-specs-parent-13.0.1-m01.jar returned status 404
+13.0.1-m02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/13.0.1-m02/bamboo-specs-parent-13.0.1-m02.jar returned status 404
+13.0.1-m03			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/13.0.1-m03/bamboo-specs-parent-13.0.1-m03.jar returned status 404
 5.16.33			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/5.16.33/bamboo-specs-parent-5.16.33.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/6.0.0/bamboo-specs-parent-6.0.0.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/atlassian/bamboo/bamboo-specs-parent/6.0.1/bamboo-specs-parent-6.0.1.jar returned status 404
