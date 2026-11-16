@@ -226,6 +226,7 @@
 2.1.0-BETA-38			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/stargate/stargate/2.1.0-BETA-38/stargate-2.1.0-BETA-38.jar returned status 404
 2.1.0-BETA-39		2026-06-15T18:18:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/stargate/stargate/2.1.0-BETA-39/stargate-2.1.0-BETA-39.jar returned status 404
 2.1.0-BETA-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/stargate/stargate/2.1.0-BETA-4/stargate-2.1.0-BETA-4.jar returned status 404
+2.1.0-BETA-41			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/stargate/stargate/2.1.0-BETA-41/stargate-2.1.0-BETA-41.jar returned status 404
 2.1.0-BETA-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/stargate/stargate/2.1.0-BETA-5/stargate-2.1.0-BETA-5.jar returned status 404
 2.1.0-BETA-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/stargate/stargate/2.1.0-BETA-6/stargate-2.1.0-BETA-6.jar returned status 404
 2.1.0-BETA-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/stargate/stargate/2.1.0-BETA-7/stargate-2.1.0-BETA-7.jar returned status 404

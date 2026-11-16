@@ -6,3 +6,5 @@
 0.7.6		2025-11-26T13:32:58Z	
 0.7.7		2025-11-26T14:47:17Z	
 0.7.8		2025-12-06T05:04:05Z	
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/seonwkim/spring-boot-starter-actor-metrics/1.0.0/spring-boot-starter-actor-metrics-1.0.0.jar returned status 404
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/seonwkim/spring-boot-starter-actor-metrics/1.1.0/spring-boot-starter-actor-metrics-1.1.0.jar returned status 404

@@ -2,3 +2,6 @@
 0.4.0		2026-08-13T03:12:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esafak/kotlintsgen/versions-platform/0.4.0/versions-platform-0.4.0.jar returned status 404
 0.4.1		2026-08-13T14:01:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esafak/kotlintsgen/versions-platform/0.4.1/versions-platform-0.4.1.jar returned status 404
 0.4.2		2026-08-20T15:43:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esafak/kotlintsgen/versions-platform/0.4.2/versions-platform-0.4.2.jar returned status 404
+0.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esafak/kotlintsgen/versions-platform/0.4.3/versions-platform-0.4.3.jar returned status 404
+0.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esafak/kotlintsgen/versions-platform/0.4.4/versions-platform-0.4.4.jar returned status 404
+0.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/esafak/kotlintsgen/versions-platform/0.4.5/versions-platform-0.4.5.jar returned status 404

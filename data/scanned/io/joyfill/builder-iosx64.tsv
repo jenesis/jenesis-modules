@@ -64,6 +64,7 @@
 2.0.0-RC2	metadata	2025-09-20T04:47:33Z	
 2.0.0-RC3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/builder-iosx64/2.0.0-RC3/builder-iosx64-2.0.0-RC3.jar returned status 404
 2.0.0-RC3	metadata	2025-09-24T01:49:01Z	
+2.0.0-RC34			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/builder-iosx64/2.0.0-RC34/builder-iosx64-2.0.0-RC34.jar returned status 404
 2.0.0-RC4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/builder-iosx64/2.0.0-RC4/builder-iosx64-2.0.0-RC4.jar returned status 404
 2.0.0-RC4	metadata	2025-09-25T16:10:42Z	
 2.0.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/joyfill/builder-iosx64/2.0.0-RC5/builder-iosx64-2.0.0-RC5.jar returned status 404

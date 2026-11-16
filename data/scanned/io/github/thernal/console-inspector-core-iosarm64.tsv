@@ -4,3 +4,6 @@
 0.3.0	metadata	2026-10-05T19:47:36Z	
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-inspector-core-iosarm64/0.3.1/console-inspector-core-iosarm64-0.3.1.jar returned status 404
 0.3.1	metadata	2026-10-18T16:42:09Z	
+1.0.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-inspector-core-iosarm64/1.0.0-rc.1/console-inspector-core-iosarm64-1.0.0-rc.1.jar returned status 404
+1.0.0-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-inspector-core-iosarm64/1.0.0-rc.2/console-inspector-core-iosarm64-1.0.0-rc.2.jar returned status 404
+1.0.0-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/thernal/console-inspector-core-iosarm64/1.0.0-rc.3/console-inspector-core-iosarm64-1.0.0-rc.3.jar returned status 404

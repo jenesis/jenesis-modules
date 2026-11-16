@@ -8,3 +8,5 @@
 7.3.75	metadata	2026-06-12T18:35:43Z	
 7.3.79		2026-08-21T12:42:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/foundationdb/foundationdb-multiplatform-macosx64/7.3.79/foundationdb-multiplatform-macosx64-7.3.79.jar returned status 404
 7.3.79	metadata	2026-08-21T12:42:07Z	
+7.3.81			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/foundationdb/foundationdb-multiplatform-macosx64/7.3.81/foundationdb-multiplatform-macosx64-7.3.81.jar returned status 404
+7.3.81.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/maryk/foundationdb/foundationdb-multiplatform-macosx64/7.3.81.1/foundationdb-multiplatform-macosx64-7.3.81.1.jar returned status 404
