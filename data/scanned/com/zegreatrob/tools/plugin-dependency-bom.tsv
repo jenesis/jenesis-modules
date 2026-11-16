@@ -79,6 +79,7 @@
 3.6.24			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.6.24/plugin-dependency-bom-3.6.24.jar returned status 404
 3.6.25		2026-10-19T20:20:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.6.25/plugin-dependency-bom-3.6.25.jar returned status 404
 3.6.26		2026-10-19T21:56:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.6.26/plugin-dependency-bom-3.6.26.jar returned status 404
+3.6.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.6.27/plugin-dependency-bom-3.6.27.jar returned status 404
 3.6.3		2026-08-04T02:30:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.6.3/plugin-dependency-bom-3.6.3.jar returned status 404
 3.6.4		2026-08-04T02:42:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.6.4/plugin-dependency-bom-3.6.4.jar returned status 404
 3.6.5		2026-08-04T12:06:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.6.5/plugin-dependency-bom-3.6.5.jar returned status 404
@@ -86,3 +87,20 @@
 3.6.7		2026-08-04T13:00:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.6.7/plugin-dependency-bom-3.6.7.jar returned status 404
 3.6.8		2026-08-04T13:18:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.6.8/plugin-dependency-bom-3.6.8.jar returned status 404
 3.6.9		2026-08-04T13:40:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.6.9/plugin-dependency-bom-3.6.9.jar returned status 404
+3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.7.0/plugin-dependency-bom-3.7.0.jar returned status 404
+3.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.7.1/plugin-dependency-bom-3.7.1.jar returned status 404
+3.7.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.7.2/plugin-dependency-bom-3.7.2.jar returned status 404
+3.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.7.3/plugin-dependency-bom-3.7.3.jar returned status 404
+3.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.7.4/plugin-dependency-bom-3.7.4.jar returned status 404
+3.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.8.0/plugin-dependency-bom-3.8.0.jar returned status 404
+3.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.8.1/plugin-dependency-bom-3.8.1.jar returned status 404
+3.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.8.2/plugin-dependency-bom-3.8.2.jar returned status 404
+3.8.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.8.3/plugin-dependency-bom-3.8.3.jar returned status 404
+3.8.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.8.4/plugin-dependency-bom-3.8.4.jar returned status 404
+3.8.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.8.5/plugin-dependency-bom-3.8.5.jar returned status 404
+3.8.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.8.6/plugin-dependency-bom-3.8.6.jar returned status 404
+3.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.8.7/plugin-dependency-bom-3.8.7.jar returned status 404
+3.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.9.0/plugin-dependency-bom-3.9.0.jar returned status 404
+3.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.9.1/plugin-dependency-bom-3.9.1.jar returned status 404
+3.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.9.2/plugin-dependency-bom-3.9.2.jar returned status 404
+3.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/plugin-dependency-bom/3.9.3/plugin-dependency-bom-3.9.3.jar returned status 404

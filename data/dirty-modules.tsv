@@ -2738,3 +2738,5 @@ buralotech.identifier.spring
 net.sf.jsqlparser
 org.javacc.core
 org.javacc.generator.java
+jakarta.activation
+com.dslplatform.json

@@ -52,6 +52,7 @@
 5.0.2-rc.1		2026-06-17T20:44:28Z	
 5.0.3		2026-07-22T11:50:05Z	
 5.0.3-rc.1			
+5.0.4			
 5.0.4-experimental-presence-hot-restart.1		2026-10-20T02:12:04Z	
 5.0.4-rc.1			
 5.0.4-rc.2		2026-09-14T17:36:21Z	
@@ -119,6 +120,9 @@
 5.1.1-experimental-cache-cap.2			
 5.1.1-experimental-cache-cap.3			
 5.1.1-rc.1		2026-10-20T05:11:42Z	
+5.1.1-rc.2			
+5.1.1-rc.3			
+5.2.0			
 5.2.0-dev-sdks-4505.20260717.7			
 5.2.0-dev-weekly.20260726.1866			
 5.2.0-dev-weekly.20260802.1991			
@@ -128,6 +132,7 @@
 5.2.0-dev-weekly.20260913.2457			
 5.2.0-experimental-ca-kmp-internal.1			
 5.2.0-experimental-ca-kmp-public.1			
+5.2.0-experimental-hot-restart-callbacks.1			
 5.2.0-experimental-puro-workers.20261014.1			
 5.2.0-preview.1			
 5.2.0-preview.2			
@@ -137,4 +142,12 @@
 5.2.0-rc.2			
 5.3.0-dev-test-puro.1			
 5.3.0-dev-weekly.20261019.2871		2026-10-20T06:58:03Z	
+5.3.0-dev-weekly.20261025.2948			
+5.3.0-dev-weekly.20261101.3031			
+5.3.0-dev-weekly.20261115.3216			
+5.3.0-experimental-flutter-hot-restart.1			
+5.3.0-experimental-flutter-hot-restart.3			
+5.3.0-experimental-flutter-spm.1			
+5.3.0-experimental-internal-npmjs.1			
 5.3.0-experimental-xcode263.3			
+5.3.0-preview.1			

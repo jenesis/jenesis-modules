@@ -94,6 +94,9 @@
 5.1.1-experimental-cache-cap.3	metadata	2026-10-16T17:36:27Z	
 5.1.1-rc.1		2026-10-20T05:11:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.1.1-rc.1/util-iosarm64-5.1.1-rc.1.jar returned status 404
 5.1.1-rc.1	metadata	2026-10-20T05:11:42Z	
+5.1.1-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.1.1-rc.2/util-iosarm64-5.1.1-rc.2.jar returned status 404
+5.1.1-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.1.1-rc.3/util-iosarm64-5.1.1-rc.3.jar returned status 404
+5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.2.0/util-iosarm64-5.2.0.jar returned status 404
 5.2.0-dev-sdks-4505.20260717.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.2.0-dev-sdks-4505.20260717.7/util-iosarm64-5.2.0-dev-sdks-4505.20260717.7.jar returned status 404
 5.2.0-dev-sdks-4505.20260717.7	metadata	2026-07-19T03:03:39Z	
 5.2.0-dev-weekly.20260726.1866			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.2.0-dev-weekly.20260726.1866/util-iosarm64-5.2.0-dev-weekly.20260726.1866.jar returned status 404
@@ -112,6 +115,7 @@
 5.2.0-experimental-ca-kmp-internal.1	metadata	2026-09-11T15:33:20Z	
 5.2.0-experimental-ca-kmp-public.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.2.0-experimental-ca-kmp-public.1/util-iosarm64-5.2.0-experimental-ca-kmp-public.1.jar returned status 404
 5.2.0-experimental-ca-kmp-public.1	metadata	2026-09-11T15:32:57Z	
+5.2.0-experimental-hot-restart-callbacks.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.2.0-experimental-hot-restart-callbacks.1/util-iosarm64-5.2.0-experimental-hot-restart-callbacks.1.jar returned status 404
 5.2.0-experimental-puro-workers.20261014.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.2.0-experimental-puro-workers.20261014.1/util-iosarm64-5.2.0-experimental-puro-workers.20261014.1.jar returned status 404
 5.2.0-experimental-puro-workers.20261014.1	metadata	2026-10-14T11:06:27Z	
 5.2.0-preview.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.2.0-preview.1/util-iosarm64-5.2.0-preview.1.jar returned status 404
@@ -129,5 +133,13 @@
 5.3.0-dev-test-puro.1	metadata	2026-10-14T20:06:23Z	
 5.3.0-dev-weekly.20261019.2871		2026-10-20T06:58:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.3.0-dev-weekly.20261019.2871/util-iosarm64-5.3.0-dev-weekly.20261019.2871.jar returned status 404
 5.3.0-dev-weekly.20261019.2871	metadata	2026-10-20T06:58:04Z	
+5.3.0-dev-weekly.20261025.2948			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.3.0-dev-weekly.20261025.2948/util-iosarm64-5.3.0-dev-weekly.20261025.2948.jar returned status 404
+5.3.0-dev-weekly.20261101.3031			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.3.0-dev-weekly.20261101.3031/util-iosarm64-5.3.0-dev-weekly.20261101.3031.jar returned status 404
+5.3.0-dev-weekly.20261115.3216			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.3.0-dev-weekly.20261115.3216/util-iosarm64-5.3.0-dev-weekly.20261115.3216.jar returned status 404
+5.3.0-experimental-flutter-hot-restart.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.3.0-experimental-flutter-hot-restart.1/util-iosarm64-5.3.0-experimental-flutter-hot-restart.1.jar returned status 404
+5.3.0-experimental-flutter-hot-restart.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.3.0-experimental-flutter-hot-restart.3/util-iosarm64-5.3.0-experimental-flutter-hot-restart.3.jar returned status 404
+5.3.0-experimental-flutter-spm.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.3.0-experimental-flutter-spm.1/util-iosarm64-5.3.0-experimental-flutter-spm.1.jar returned status 404
+5.3.0-experimental-internal-npmjs.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.3.0-experimental-internal-npmjs.1/util-iosarm64-5.3.0-experimental-internal-npmjs.1.jar returned status 404
 5.3.0-experimental-xcode263.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.3.0-experimental-xcode263.3/util-iosarm64-5.3.0-experimental-xcode263.3.jar returned status 404
 5.3.0-experimental-xcode263.3	metadata	2026-10-16T10:46:13Z	
+5.3.0-preview.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditto/util-iosarm64/5.3.0-preview.1/util-iosarm64-5.3.0-preview.1.jar returned status 404

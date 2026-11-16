@@ -271,6 +271,7 @@
 5.0.3-rc.1	linux-x64	2026-07-15T13:09:33Z	
 5.0.3-rc.1	macos-arm64	2026-07-15T13:09:34Z	
 5.0.3-rc.1	windows-x64	2026-07-15T13:09:34Z	
+5.0.4			
 5.0.4-experimental-presence-hot-restart.1		2026-10-20T02:12:03Z	
 5.0.4-experimental-presence-hot-restart.1	linux-arm64	2026-10-20T02:12:04Z	
 5.0.4-experimental-presence-hot-restart.1	linux-x64	2026-10-20T02:12:04Z	
@@ -606,6 +607,9 @@
 5.1.1-rc.1	linux-x64	2026-10-20T05:11:43Z	
 5.1.1-rc.1	macos-arm64	2026-10-20T05:11:43Z	
 5.1.1-rc.1	windows-x64	2026-10-20T05:11:43Z	
+5.1.1-rc.2			
+5.1.1-rc.3			
+5.2.0			
 5.2.0-dev-sdks-4505.20260717.7			
 5.2.0-dev-sdks-4505.20260717.7	linux-arm64	2026-07-19T03:03:39Z	
 5.2.0-dev-sdks-4505.20260717.7	linux-x64	2026-07-19T03:03:39Z	
@@ -651,6 +655,7 @@
 5.2.0-experimental-ca-kmp-public.1	linux-x64	2026-09-11T15:32:56Z	
 5.2.0-experimental-ca-kmp-public.1	macos-arm64	2026-09-11T15:32:56Z	
 5.2.0-experimental-ca-kmp-public.1	windows-x64	2026-09-11T15:32:57Z	
+5.2.0-experimental-hot-restart-callbacks.1			
 5.2.0-experimental-puro-workers.20261014.1			
 5.2.0-experimental-puro-workers.20261014.1	linux-arm64	2026-10-14T11:06:28Z	
 5.2.0-experimental-puro-workers.20261014.1	linux-x64	2026-10-14T11:06:28Z	
@@ -692,8 +697,16 @@
 5.3.0-dev-weekly.20261019.2871	linux-x64	2026-10-20T06:58:15Z	
 5.3.0-dev-weekly.20261019.2871	macos-arm64	2026-10-20T06:58:04Z	
 5.3.0-dev-weekly.20261019.2871	windows-x64	2026-10-20T06:58:04Z	
+5.3.0-dev-weekly.20261025.2948			
+5.3.0-dev-weekly.20261101.3031			
+5.3.0-dev-weekly.20261115.3216			
+5.3.0-experimental-flutter-hot-restart.1			
+5.3.0-experimental-flutter-hot-restart.3			
+5.3.0-experimental-flutter-spm.1			
+5.3.0-experimental-internal-npmjs.1			
 5.3.0-experimental-xcode263.3			
 5.3.0-experimental-xcode263.3	linux-arm64	2026-10-16T10:46:14Z	
 5.3.0-experimental-xcode263.3	linux-x64	2026-10-16T10:46:13Z	
 5.3.0-experimental-xcode263.3	macos-arm64	2026-10-16T10:46:14Z	
 5.3.0-experimental-xcode263.3	windows-x64	2026-10-16T10:46:14Z	
+5.3.0-preview.1			
