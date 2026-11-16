@@ -138,6 +138,7 @@
 36.7.0		2026-07-30T11:55:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/payment-iap-presentation/36.7.0/payment-iap-presentation-36.7.0.jar returned status 404
 36.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/payment-iap-presentation/36.7.1/payment-iap-presentation-36.7.1.jar returned status 404
 36.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/payment-iap-presentation/36.8.0/payment-iap-presentation-36.8.0.jar returned status 404
+36.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/payment-iap-presentation/36.8.1/payment-iap-presentation-36.8.1.jar returned status 404
 9.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/payment-iap-presentation/9.0.0/payment-iap-presentation-9.0.0.jar returned status 404
 9.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/payment-iap-presentation/9.0.1/payment-iap-presentation-9.0.1.jar returned status 404
 9.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/payment-iap-presentation/9.0.2/payment-iap-presentation-9.0.2.jar returned status 404

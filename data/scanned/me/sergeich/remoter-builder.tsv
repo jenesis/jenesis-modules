@@ -1,1 +1,2 @@
 3.0.0-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/sergeich/remoter-builder/3.0.0-alpha/remoter-builder-3.0.0-alpha.jar returned status 404
+3.0.0-beta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/sergeich/remoter-builder/3.0.0-beta/remoter-builder-3.0.0-beta.jar returned status 404

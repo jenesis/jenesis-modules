@@ -138,6 +138,7 @@
 36.7.0		2026-07-30T11:55:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/report-data/36.7.0/report-data-36.7.0.jar returned status 404
 36.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/report-data/36.7.1/report-data-36.7.1.jar returned status 404
 36.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/report-data/36.8.0/report-data-36.8.0.jar returned status 404
+36.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/report-data/36.8.1/report-data-36.8.1.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/report-data/4.1.0/report-data-4.1.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/report-data/5.0.0/report-data-5.0.0.jar returned status 404
 5.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/core/report-data/5.0.1/report-data-5.0.1.jar returned status 404

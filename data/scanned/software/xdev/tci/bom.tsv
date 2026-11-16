@@ -51,3 +51,4 @@
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/tci/bom/4.7.0/bom-4.7.0.jar returned status 404
 4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/tci/bom/4.8.0/bom-4.8.0.jar returned status 404
 4.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/tci/bom/4.8.1/bom-4.8.1.jar returned status 404
+4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/xdev/tci/bom/4.9.0/bom-4.9.0.jar returned status 404
