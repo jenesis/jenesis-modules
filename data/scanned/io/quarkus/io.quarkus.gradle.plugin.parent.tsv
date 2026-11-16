@@ -289,6 +289,7 @@
 3.33.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.33.3.3/io.quarkus.gradle.plugin.parent-3.33.3.3.jar returned status 404
 3.33.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.33.4/io.quarkus.gradle.plugin.parent-3.33.4.jar returned status 404
 3.33.4.1		2026-10-19T08:36:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.33.4.1/io.quarkus.gradle.plugin.parent-3.33.4.1.jar returned status 404
+3.33.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.33.4.2/io.quarkus.gradle.plugin.parent-3.33.4.2.jar returned status 404
 3.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.34.0/io.quarkus.gradle.plugin.parent-3.34.0.jar returned status 404
 3.34.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.34.0.CR1/io.quarkus.gradle.plugin.parent-3.34.0.CR1.jar returned status 404
 3.34.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.34.1/io.quarkus.gradle.plugin.parent-3.34.1.jar returned status 404
@@ -336,6 +337,7 @@
 3.40.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.40.0.CR1/io.quarkus.gradle.plugin.parent-3.40.0.CR1.jar returned status 404
 3.40.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.40.1/io.quarkus.gradle.plugin.parent-3.40.1.jar returned status 404
 3.40.1.1		2026-10-19T09:12:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.40.1.1/io.quarkus.gradle.plugin.parent-3.40.1.1.jar returned status 404
+3.40.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.40.1.2/io.quarkus.gradle.plugin.parent-3.40.1.2.jar returned status 404
 3.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.5.0/io.quarkus.gradle.plugin.parent-3.5.0.jar returned status 404
 3.5.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.5.0.CR1/io.quarkus.gradle.plugin.parent-3.5.0.CR1.jar returned status 404
 3.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/3.5.1/io.quarkus.gradle.plugin.parent-3.5.1.jar returned status 404
@@ -378,3 +380,4 @@
 4.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/4.0.0.Beta1/io.quarkus.gradle.plugin.parent-4.0.0.Beta1.jar returned status 404
 4.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/4.0.0.Beta2/io.quarkus.gradle.plugin.parent-4.0.0.Beta2.jar returned status 404
 4.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/4.0.0.Beta3/io.quarkus.gradle.plugin.parent-4.0.0.Beta3.jar returned status 404
+4.0.0.CR1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkus/io.quarkus.gradle.plugin.parent/4.0.0.CR1/io.quarkus.gradle.plugin.parent-4.0.0.CR1.jar returned status 404

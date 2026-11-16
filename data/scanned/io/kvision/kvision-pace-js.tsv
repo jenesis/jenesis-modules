@@ -1,3 +1,4 @@
+10.0.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-pace-js/10.0.0-RC/kvision-pace-js-10.0.0-RC.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-pace-js/7.0.0/kvision-pace-js-7.0.0.jar returned status 404
 7.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-pace-js/7.0.1/kvision-pace-js-7.0.1.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-pace-js/7.1.0/kvision-pace-js-7.1.0.jar returned status 404

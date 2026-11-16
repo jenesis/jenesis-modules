@@ -1,3 +1,4 @@
+10.0.0-RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-material-js/10.0.0-RC/kvision-material-js-10.0.0-RC.jar returned status 404
 7.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-material-js/7.5.0/kvision-material-js-7.5.0.jar returned status 404
 7.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-material-js/7.5.1/kvision-material-js-7.5.1.jar returned status 404
 8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-material-js/8.0.0/kvision-material-js-8.0.0.jar returned status 404
