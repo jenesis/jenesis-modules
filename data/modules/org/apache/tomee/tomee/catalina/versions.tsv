@@ -69,3 +69,7 @@
 11.0.0-M1	automatic	org.apache.tomee	tomee-catalina	2026-06-11T09:15:00Z	
 10.2.0	automatic	org.apache.tomee	tomee-bootstrap	2026-07-18T02:29:02Z	
 10.2.0	automatic	org.apache.tomee	tomee-catalina	2026-07-18T02:29:06Z	
+11.0.0-M2	automatic	org.apache.tomee	tomee-bootstrap	2026-11-04T10:02:15Z	
+11.0.0-M2	automatic	org.apache.tomee	tomee-catalina	2026-11-04T10:02:44Z	
+10.3.0	automatic	org.apache.tomee	tomee-bootstrap	2026-11-04T12:35:20Z	
+10.3.0	automatic	org.apache.tomee	tomee-catalina	2026-11-04T12:35:44Z	

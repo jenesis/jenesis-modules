@@ -3382,6 +3382,16 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 0.3.45	named	io.continual	continualMetricsDropWiz	2026-11-05T22:41:59Z	2.0.17
 0.3.45	named	io.continual	continualIamAuth0	2026-11-05T22:42:00Z	2.0.17
 1.2611.1	named	org.talend.sdk.component.sample.feature	checkpointruntime	2026-11-06T14:27:04Z	2.0.7
+3.2.0	named	org.apache.storm	flux-core	2026-11-07T19:48:20Z	2.0.20
+3.2.0	named	org.apache.storm	flux-examples	2026-11-07T19:48:37Z	2.0.20
+3.2.0	named	org.apache.storm	storm-starter	2026-11-07T19:50:45Z	2.0.20
+3.2.0	named	org.apache.storm	storm-loadgen	2026-11-07T19:52:36Z	2.0.20
+3.2.0	named	org.apache.storm	storm-redis-examples	2026-11-07T19:52:59Z	2.0.20
+3.2.0	named	org.apache.storm	storm-kafka-client-examples	2026-11-07T19:53:20Z	2.0.20
+3.2.0	named	org.apache.storm	storm-jdbc-examples	2026-11-07T19:54:10Z	2.0.20
+3.2.0	named	org.apache.storm	storm-hdfs-examples	2026-11-07T19:54:33Z	2.0.20
+3.2.0	named	org.apache.storm	storm-iceberg-examples	2026-11-07T19:56:31Z	2.0.20
+3.2.0	named	org.apache.storm	storm-perf	2026-11-07T19:59:24Z	2.0.20
 0.26.0	named	ml.combust.mleap	mleap-databricks-runtime_2.13	2026-11-09T19:03:16Z	2.0.6
 0.3.46	named	io.continual	continualIamAuth0	2026-11-11T23:57:16Z	2.0.17
 0.3.46	named	io.continual	continualMetricsDropWiz	2026-11-11T23:57:16Z	2.0.17

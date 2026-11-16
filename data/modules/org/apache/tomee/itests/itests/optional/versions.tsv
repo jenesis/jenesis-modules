@@ -37,3 +37,9 @@
 10.2.0	automatic	org.apache.tomee.itests	opt-lib	2026-07-18T02:28:51Z	
 10.2.0	automatic	org.apache.tomee.itests	opt-app	2026-07-18T02:28:52Z	
 10.2.0	automatic	org.apache.tomee.itests	opt-3rdparty	2026-07-18T02:28:54Z	
+11.0.0-M2	automatic	org.apache.tomee.itests	opt-3rdparty	2026-11-04T10:05:29Z	
+11.0.0-M2	automatic	org.apache.tomee.itests	opt-lib	2026-11-04T10:05:31Z	
+11.0.0-M2	automatic	org.apache.tomee.itests	opt-app	2026-11-04T10:05:32Z	
+10.3.0	automatic	org.apache.tomee.itests	opt-3rdparty	2026-11-04T12:38:28Z	
+10.3.0	automatic	org.apache.tomee.itests	opt-lib	2026-11-04T12:38:29Z	
+10.3.0	automatic	org.apache.tomee.itests	opt-app	2026-11-04T12:38:31Z	
