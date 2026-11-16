@@ -1563,3 +1563,4 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 2.4.0	named	io.github.luo-zhan	transform-spring-boot-starter	2026-11-07T07:59:58Z	3.18.0
 3.22.0	named	org.apache.commons	commons-lang3	2026-11-08T14:10:59Z	3.22.0
 3.18.0-3.0.1	named	org.apache.seatunnel	seatunnel-shade-commons-lang3	2026-11-10T04:44:31Z	3.18.0
+3.1	named	org.polypheny	polypheny-jdbc-driver	2026-11-14T22:01:03Z	3.18.0

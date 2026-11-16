@@ -1954,3 +1954,4 @@ wire-hashing	named	io.github.graphdsl	graphdsl-gradle-plugin	2026-09-25T18:21:16
 7.8.5	named	com.newrelic.agent.android	agent-gradle-plugin-static	2026-10-29T18:46:52Z	
 2.1.8	named	eu.rekawek.coffeegb	coffee-gb-cli	2026-11-02T10:29:40Z	
 2.0.0	named	com.google.genai	google-genai	2026-11-06T03:17:25Z	
+2.5.0-RC	named	org.jetbrains.kotlin	kotlin-stdlib-jdk8	2026-11-11T08:15:08Z	

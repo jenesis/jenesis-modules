@@ -215,6 +215,7 @@
 6.2.18.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/6.2.18.Final/providers-pom-6.2.18.Final.jar returned status 404
 6.2.19.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/6.2.19.Final/providers-pom-6.2.19.Final.jar returned status 404
 6.2.2.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/6.2.2.Final/providers-pom-6.2.2.Final.jar returned status 404
+6.2.20.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/6.2.20.Final/providers-pom-6.2.20.Final.jar returned status 404
 6.2.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/6.2.3.Final/providers-pom-6.2.3.Final.jar returned status 404
 6.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/6.2.4.Final/providers-pom-6.2.4.Final.jar returned status 404
 6.2.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/6.2.5.Final/providers-pom-6.2.5.Final.jar returned status 404
@@ -234,3 +235,5 @@
 7.0.3.Final		2026-08-04T01:04:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/7.0.3.Final/providers-pom-7.0.3.Final.jar returned status 404
 7.0.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/7.0.4.Final/providers-pom-7.0.4.Final.jar returned status 404
 7.0.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/7.0.5.Final/providers-pom-7.0.5.Final.jar returned status 404
+7.0.6.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/7.0.6.Final/providers-pom-7.0.6.Final.jar returned status 404
+8.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/resteasy/providers-pom/8.0.0.Alpha1/providers-pom-8.0.0.Alpha1.jar returned status 404
