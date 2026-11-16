@@ -86,7 +86,11 @@
 0.174.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.174.0/databricks-sdk-parent-0.174.0.jar returned status 404
 0.175.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.175.0/databricks-sdk-parent-0.175.0.jar returned status 404
 0.176.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.176.0/databricks-sdk-parent-0.176.0.jar returned status 404
+0.177.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.177.0/databricks-sdk-parent-0.177.0.jar returned status 404
+0.178.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.178.0/databricks-sdk-parent-0.178.0.jar returned status 404
+0.179.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.179.0/databricks-sdk-parent-0.179.0.jar returned status 404
 0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.18.0/databricks-sdk-parent-0.18.0.jar returned status 404
+0.180.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.180.0/databricks-sdk-parent-0.180.0.jar returned status 404
 0.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.19.0/databricks-sdk-parent-0.19.0.jar returned status 404
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.2.0/databricks-sdk-parent-0.2.0.jar returned status 404
 0.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/databricks/databricks-sdk-parent/0.20.0/databricks-sdk-parent-0.20.0.jar returned status 404
