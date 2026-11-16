@@ -2,3 +2,4 @@
 1.0.1		2026-02-05T17:58:41Z	
 1.1.0		2026-05-10T16:50:03Z	
 1.1.1			
+1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/org.wso2.carbon.securevault.aws/1.1.2/org.wso2.carbon.securevault.aws-1.1.2.jar returned status 404
