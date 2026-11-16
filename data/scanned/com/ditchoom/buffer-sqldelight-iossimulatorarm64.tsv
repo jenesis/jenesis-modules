@@ -62,6 +62,8 @@
 6.30.0	metadata	2026-08-13T22:03:56Z	
 6.30.1		2026-08-13T22:53:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-sqldelight-iossimulatorarm64/6.30.1/buffer-sqldelight-iossimulatorarm64-6.30.1.jar returned status 404
 6.30.1	metadata	2026-08-13T22:54:03Z	
+6.30.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-sqldelight-iossimulatorarm64/6.30.10/buffer-sqldelight-iossimulatorarm64-6.30.10.jar returned status 404
+6.30.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-sqldelight-iossimulatorarm64/6.30.11/buffer-sqldelight-iossimulatorarm64-6.30.11.jar returned status 404
 6.30.2		2026-08-14T21:06:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-sqldelight-iossimulatorarm64/6.30.2/buffer-sqldelight-iossimulatorarm64-6.30.2.jar returned status 404
 6.30.2	metadata	2026-08-14T21:06:23Z	
 6.30.3		2026-08-14T21:41:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-sqldelight-iossimulatorarm64/6.30.3/buffer-sqldelight-iossimulatorarm64-6.30.3.jar returned status 404
@@ -76,6 +78,7 @@
 6.30.7	metadata	2026-08-28T17:58:42Z	
 6.30.8		2026-08-28T20:10:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-sqldelight-iossimulatorarm64/6.30.8/buffer-sqldelight-iossimulatorarm64-6.30.8.jar returned status 404
 6.30.8	metadata	2026-08-28T20:10:53Z	
+6.30.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-sqldelight-iossimulatorarm64/6.30.9/buffer-sqldelight-iossimulatorarm64-6.30.9.jar returned status 404
 6.6.1		2026-07-06T18:28:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-sqldelight-iossimulatorarm64/6.6.1/buffer-sqldelight-iossimulatorarm64-6.6.1.jar returned status 404
 6.6.1	metadata	2026-07-06T18:27:56Z	
 6.7.0		2026-07-06T17:41:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-sqldelight-iossimulatorarm64/6.7.0/buffer-sqldelight-iossimulatorarm64-6.7.0.jar returned status 404

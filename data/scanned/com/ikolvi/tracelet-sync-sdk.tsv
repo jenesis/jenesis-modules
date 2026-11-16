@@ -62,6 +62,7 @@
 3.8.0-beta		2026-08-06T12:28:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikolvi/tracelet-sync-sdk/3.8.0-beta/tracelet-sync-sdk-3.8.0-beta.jar returned status 404
 3.8.0-beta.2		2026-08-06T23:12:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikolvi/tracelet-sync-sdk/3.8.0-beta.2/tracelet-sync-sdk-3.8.0-beta.2.jar returned status 404
 3.8.1		2026-08-11T01:08:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikolvi/tracelet-sync-sdk/3.8.1/tracelet-sync-sdk-3.8.1.jar returned status 404
+3.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikolvi/tracelet-sync-sdk/3.8.10/tracelet-sync-sdk-3.8.10.jar returned status 404
 3.8.2		2026-08-11T20:16:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikolvi/tracelet-sync-sdk/3.8.2/tracelet-sync-sdk-3.8.2.jar returned status 404
 3.8.3		2026-08-12T14:40:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikolvi/tracelet-sync-sdk/3.8.3/tracelet-sync-sdk-3.8.3.jar returned status 404
 3.8.4		2026-08-13T14:52:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ikolvi/tracelet-sync-sdk/3.8.4/tracelet-sync-sdk-3.8.4.jar returned status 404
