@@ -7,3 +7,4 @@
 1.1.0		2026-08-28T20:53:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/clinic/felt/embeddedcare/1.1.0/embeddedcare-1.1.0.jar returned status 404
 1.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/clinic/felt/embeddedcare/1.1.1/embeddedcare-1.1.1.jar returned status 404
 1.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/clinic/felt/embeddedcare/1.1.2/embeddedcare-1.1.2.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/clinic/felt/embeddedcare/1.2.0/embeddedcare-1.2.0.jar returned status 404

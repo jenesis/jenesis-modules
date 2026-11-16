@@ -21,5 +21,8 @@
 2.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-android/2.24.0/rc-player-trace-android-2.24.0.jar returned status 404
 2.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-android/2.25.0/rc-player-trace-android-2.25.0.jar returned status 404
 2.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-android/2.26.0/rc-player-trace-android-2.26.0.jar returned status 404
+2.33.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-android/2.33.0/rc-player-trace-android-2.33.0.jar returned status 404
 2.5.0		2026-10-10T18:11:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-android/2.5.0/rc-player-trace-android-2.5.0.jar returned status 404
 2.8.0		2026-10-12T00:01:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-android/2.8.0/rc-player-trace-android-2.8.0.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-android/3.0.0/rc-player-trace-android-3.0.0.jar returned status 404
+3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-android/3.2.0/rc-player-trace-android-3.2.0.jar returned status 404

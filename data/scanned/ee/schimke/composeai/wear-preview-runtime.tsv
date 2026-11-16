@@ -275,3 +275,6 @@
 2.87.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/wear-preview-runtime/2.87.0/wear-preview-runtime-2.87.0.jar returned status 404
 2.88.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/wear-preview-runtime/2.88.0/wear-preview-runtime-2.88.0.jar returned status 404
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/wear-preview-runtime/2.9.0/wear-preview-runtime-2.9.0.jar returned status 404
+2.90.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/wear-preview-runtime/2.90.0/wear-preview-runtime-2.90.0.jar returned status 404
+2.90.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/wear-preview-runtime/2.90.1/wear-preview-runtime-2.90.1.jar returned status 404
+2.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/wear-preview-runtime/2.91.0/wear-preview-runtime-2.91.0.jar returned status 404
