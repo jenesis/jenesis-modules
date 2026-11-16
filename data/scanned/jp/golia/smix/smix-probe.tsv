@@ -31,3 +31,5 @@
 23.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-probe/23.4.0/smix-probe-23.4.0.jar returned status 404
 23.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-probe/23.5.0/smix-probe-23.5.0.jar returned status 404
 24.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-probe/24.0.0/smix-probe-24.0.0.jar returned status 404
+25.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-probe/25.0.0/smix-probe-25.0.0.jar returned status 404
+25.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/jp/golia/smix/smix-probe/25.1.0/smix-probe-25.1.0.jar returned status 404
