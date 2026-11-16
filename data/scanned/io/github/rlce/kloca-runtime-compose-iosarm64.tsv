@@ -6,3 +6,6 @@
 0.2.0	metadata	2026-09-07T09:58:06Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rlce/kloca-runtime-compose-iosarm64/0.2.1/kloca-runtime-compose-iosarm64-0.2.1.jar returned status 404
 0.2.1	metadata	2026-09-07T23:41:26Z	
+0.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rlce/kloca-runtime-compose-iosarm64/0.2.2/kloca-runtime-compose-iosarm64-0.2.2.jar returned status 404
+0.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rlce/kloca-runtime-compose-iosarm64/0.2.3/kloca-runtime-compose-iosarm64-0.2.3.jar returned status 404
+0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rlce/kloca-runtime-compose-iosarm64/0.2.4/kloca-runtime-compose-iosarm64-0.2.4.jar returned status 404

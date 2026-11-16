@@ -168,3 +168,4 @@
 2.9.3		2026-09-27T22:41:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/brantunger/unruly-engine-bom/2.9.3/unruly-engine-bom-2.9.3.jar returned status 404
 2.9.4		2026-09-28T16:08:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/brantunger/unruly-engine-bom/2.9.4/unruly-engine-bom-2.9.4.jar returned status 404
 2.9.5		2026-09-28T16:45:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/brantunger/unruly-engine-bom/2.9.5/unruly-engine-bom-2.9.5.jar returned status 404
+3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/brantunger/unruly-engine-bom/3.0.0/unruly-engine-bom-3.0.0.jar returned status 404
