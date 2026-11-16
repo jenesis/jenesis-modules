@@ -4593,3 +4593,4 @@ master-rc-daily	named	io.streamnative	pulsar-client-2x-shaded	2023-02-08T12:24:5
 3.1.1	named	com.debugbundle	debugbundle-java-agent	2026-11-06T14:14:50Z	2.19.0
 0.5.0-beta-2026-11-07	named	io.youtrackdb	gremlin-shaded	2026-11-07T10:14:43Z	2.15.2
 2.23.0	named	com.fasterxml.jackson.core	jackson-databind	2026-11-08T00:35:21Z	2.23.0
+0.5.0-beta-2026-11-14	named	io.youtrackdb	gremlin-shaded	2026-11-14T10:29:49Z	2.15.2

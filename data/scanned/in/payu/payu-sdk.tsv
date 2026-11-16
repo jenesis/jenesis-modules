@@ -53,6 +53,7 @@
 7.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-sdk/7.12.3/payu-sdk-7.12.3.jar returned status 404
 7.12.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-sdk/7.12.8/payu-sdk-7.12.8.jar returned status 404
 7.12.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-sdk/7.12.9/payu-sdk-7.12.9.jar returned status 404
+7.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-sdk/7.13.0/payu-sdk-7.13.0.jar returned status 404
 7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-sdk/7.2.0/payu-sdk-7.2.0.jar returned status 404
 7.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-sdk/7.2.1/payu-sdk-7.2.1.jar returned status 404
 7.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/in/payu/payu-sdk/7.3.1/payu-sdk-7.3.1.jar returned status 404

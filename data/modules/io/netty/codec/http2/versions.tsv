@@ -235,3 +235,4 @@
 1.0.6	named	org.openjproxy	ojp-server	2026-11-06T18:05:39Z	4.2.18.Final
 1.1.0-RC3	named	org.openjproxy	ojp-jdbc-driver	2026-11-06T19:14:31Z	4.2.18.Final
 1.1.0-RC3	named	org.openjproxy	ojp-server	2026-11-06T19:14:32Z	4.2.18.Final
+0.8.8	named	io.etcd	jetcd-ctl	2026-11-09T07:25:18Z	4.2.16.Final

@@ -13,3 +13,4 @@
 1.6.0		2026-10-09T17:11:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cx/ada/messaging-android/1.6.0/messaging-android-1.6.0.jar returned status 404
 1.6.1		2026-10-20T15:47:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cx/ada/messaging-android/1.6.1/messaging-android-1.6.1.jar returned status 404
 1.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cx/ada/messaging-android/1.6.2/messaging-android-1.6.2.jar returned status 404
+1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cx/ada/messaging-android/1.7.0/messaging-android-1.7.0.jar returned status 404
