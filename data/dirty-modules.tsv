@@ -12,3 +12,15 @@ de.cuioss.sheriff.token.quarkus.integration.tests
 de.cuioss.sheriff.token.client
 com.google.j2objc.annotations
 it.unibo.alchemist
+build.jenesis.plugin.pitest
+build.jenesis.plugin.jacoco
+build.jenesis
+farm.query.vgi
+org.apache.felix.framework
+dev.domaincentric.dca.archunit
+com.google.gson
+com.fasterxml.jackson.dataformat.yaml
+dev.hegel
+dev.hegel.jna
+dev.hegel.lowlevel
+dev.kaiquebt.anycall
