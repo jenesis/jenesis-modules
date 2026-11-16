@@ -218,3 +218,14 @@
 21.23.0.0	automatic	com.oracle.database.jdbc.debug	ojdbc8dms_g	2026-08-20T09:06:38Z	
 21.23.0.0	automatic	com.oracle.database.observability	ojdbc11dms	2026-08-20T09:06:38Z	
 21.23.0.0	automatic	com.oracle.database.observability	ojdbc8dms	2026-08-20T09:06:38Z	
+23.26.4.0.0	automatic	com.oracle.database.jdbc	ojdbc11	2026-10-29T17:53:23Z	
+21.24.0.0	automatic	com.oracle.database.jdbc	ojdbc11	2026-10-29T17:53:23Z	
+23.26.4.0.0	automatic	com.oracle.database.jdbc	ojdbc17	2026-10-29T17:53:23Z	
+23.26.4.0.0	automatic	com.oracle.database.jdbc	ojdbc8	2026-10-29T17:53:23Z	
+21.24.0.0	automatic	com.oracle.database.jdbc	ojdbc8	2026-10-29T17:53:23Z	
+21.24.0.0	automatic	com.oracle.database.jdbc.debug	ojdbc11_g	2026-10-29T17:53:23Z	
+21.24.0.0	automatic	com.oracle.database.jdbc.debug	ojdbc11dms_g	2026-10-29T17:53:23Z	
+21.24.0.0	automatic	com.oracle.database.jdbc.debug	ojdbc8_g	2026-10-29T17:53:23Z	
+21.24.0.0	automatic	com.oracle.database.jdbc.debug	ojdbc8dms_g	2026-10-29T17:53:23Z	
+21.24.0.0	automatic	com.oracle.database.observability	ojdbc11dms	2026-10-29T17:53:23Z	
+21.24.0.0	automatic	com.oracle.database.observability	ojdbc8dms	2026-10-29T17:53:23Z	
