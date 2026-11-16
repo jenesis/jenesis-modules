@@ -1009,6 +1009,7 @@
 2.82.0	named	com.google.api	gapic-generator-java	2026-11-06T17:56:28Z	2.0.75.Final
 2.33.0	named	net.hironico	hironico-minisql-dist	2026-11-06T21:50:41Z	2.0.74.Final
 0.4.15	named	com.salesforce.multicloudj	multicloudj-examples	2026-11-07T00:30:18Z	2.0.75.Final
+0.23.4	named	com.spotify.confidence	openfeature-provider-local	2026-11-09T17:15:15Z	2.0.72.Final
 5.0.6	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-09T19:25:19Z	2.0.72.Final
 5.3.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-14T04:55:19Z	2.0.72.Final
 5.3.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-15T02:35:07Z	2.0.72.Final

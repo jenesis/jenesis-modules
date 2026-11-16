@@ -6656,6 +6656,7 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 2.23	named	com.fasterxml.jackson.core	jackson-annotations	2026-11-07T23:58:49Z	2.23
 0.1.77	named	org.modeljars	modeljars-cli	2026-11-08T19:56:18Z	2.22
 1.2.0	named	io.synclite	synclite	2026-11-09T07:25:20Z	2.21
+4.0.15	named	com.heroku	heroku-jvm-application-deployer	2026-11-10T10:00:07Z	2.22
 0.1.78	named	org.modeljars	modeljars-cli	2026-11-11T02:05:25Z	2.22
 0.1.20	named	io.github.cdy-codey	codey-console	2026-11-11T03:01:00Z	2.18.2
 3.2.0	named	io.antmedia.plugin	media-push	2026-11-13T01:15:16Z	2.21

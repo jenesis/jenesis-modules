@@ -388,6 +388,8 @@
 1.4.0	named	io.github.n1ckl0sk0rtge	app-bootstrap-core	2026-10-22T07:31:50Z	3.0.0
 3.40.1.2	named	io.quarkus	quarkus-grpc-cli	2026-11-09T11:40:00Z	3.0.0
 3.33.4.2	named	io.quarkus	quarkus-grpc-cli	2026-11-09T11:40:00Z	3.0.0
+10.1.61.0	named	com.heroku	webapp-runner	2026-11-09T16:01:28Z	2.1
+10.1.61.0	named	com.heroku	webapp-runner-main	2026-11-09T16:01:28Z	2.1
 11.0.29	named	org.apache.tomcat	tomcat-annotations-api	2026-11-09T19:45:15Z	3.0
 10.1.62	named	org.apache.tomcat	tomcat-annotations-api	2026-11-10T14:21:09Z	2.1
 1.2.0	named	org.eclipse.hawkbit	hawkbit-repository-jpa-init	2026-11-10T15:41:08Z	3.0.0
