@@ -159,3 +159,7 @@
 3.13.0	automatic	com.couchbase.client	scala-client_2.12	2026-10-13T05:01:01Z	
 3.13.0	automatic	com.couchbase.client	scala-client_2.13	2026-10-13T05:01:01Z	
 3.13.0	automatic	com.couchbase.client	scala-client_3	2026-10-13T05:01:01Z	
+3.11.4	automatic	com.couchbase.client	scala-client_2.12	2026-11-10T22:25:31Z	
+3.13.1	automatic	com.couchbase.client	scala-client_2.12	2026-11-10T23:01:11Z	
+3.13.1	automatic	com.couchbase.client	scala-client_3	2026-11-10T23:01:11Z	
+3.13.1	automatic	com.couchbase.client	scala-client_2.13	2026-11-10T23:10:18Z	
