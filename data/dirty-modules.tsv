@@ -24,3 +24,4 @@ dev.hegel
 dev.hegel.jna
 dev.hegel.lowlevel
 dev.kaiquebt.anycall
+org.slf4j.zio
