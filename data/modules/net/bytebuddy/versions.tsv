@@ -1644,3 +1644,4 @@ debug.1	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-03-13T15:01:48Z	1.12
 4.5.0	named	de.gematik.test	tiger-java-agent	2026-10-28T15:44:11Z	1.18.12-jdk5
 1.18.17-jdk5	named	net.bytebuddy	byte-buddy	2026-11-01T20:25:35Z	1.18.17-jdk5
 1.18.17	named	net.bytebuddy	byte-buddy	2026-11-01T20:29:59Z	1.18.17
+5.6.15.22-RC	named	org.lucee	hibernate-extension	2026-11-15T16:58:01Z	1.12.18

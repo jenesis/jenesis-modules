@@ -1221,3 +1221,9 @@ release-4.114.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-s
 1.86	automatic	org.bouncycastle	bcpkix-debug-jdk14	2026-09-11T07:36:57Z	
 1.2.9	named	com.github.toolarium	toolarium-jwebserver	2026-09-21T08:55:59Z	
 26.2.10	named	com.exasol	exasol-jdbc	2026-10-13T05:01:01Z	
+1.87	named	org.bouncycastle	bcpkix-jdk18on	2026-11-11T10:24:46Z	
+1.87	named	org.bouncycastle	bcpkix-debug-jdk18on	2026-11-12T01:57:18Z	
+1.87	automatic	org.bouncycastle	bcpkix-debug-jdk15to18	2026-11-12T08:01:09Z	
+1.87	automatic	org.bouncycastle	bcpkix-jdk15to18	2026-11-12T08:01:09Z	
+1.87	automatic	org.bouncycastle	bcpkix-debug-jdk14	2026-11-12T10:14:59Z	
+1.87	automatic	org.bouncycastle	bcpkix-jdk14	2026-11-12T10:14:59Z	

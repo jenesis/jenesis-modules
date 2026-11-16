@@ -1279,3 +1279,9 @@
 3.0.0	named	org.apache.seatunnel	connector-web3j	2026-09-23T13:54:34Z	
 1.4.0.RELEASE	named	io.gitee.maluole	com.penghu.openapisdk	2026-10-28T02:52:24Z	
 3.3.50	named	org.terracotta	angela-agent	2026-11-04T12:37:11Z	
+1.87	named	org.bouncycastle	bcprov-jdk18on	2026-11-11T10:24:46Z	
+1.87	named	org.bouncycastle	bcprov-debug-jdk18on	2026-11-12T01:57:19Z	
+1.87	automatic	org.bouncycastle	bcprov-debug-jdk15to18	2026-11-12T08:01:09Z	
+1.87	automatic	org.bouncycastle	bcprov-jdk15to18	2026-11-12T08:01:10Z	
+1.87	automatic	org.bouncycastle	bcprov-debug-jdk14	2026-11-12T10:14:59Z	
+1.87	automatic	org.bouncycastle	bcprov-jdk14	2026-11-12T10:15:00Z	

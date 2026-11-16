@@ -122,3 +122,11 @@
 1.86.2	named	org.bouncycastle	bctls-debug-jdk18on	2026-10-07T16:15:49Z	
 1.86.1	named	org.bouncycastle	bctls-debug-jdk18on	2026-10-07T16:15:49Z	
 1.86.2	named	org.bouncycastle	bctls-jdk18on	2026-10-07T16:15:49Z	
+1.87	named	org.bouncycastle	bctls-jdk18on	2026-11-11T10:24:46Z	
+1.87	named	org.bouncycastle	bctls-klog-jdk18on	2026-11-11T10:24:46Z	
+1.87	named	org.bouncycastle	bctls-debug-jdk18on	2026-11-12T01:57:18Z	
+1.87	named	org.bouncycastle	bctls-klog-debug-jdk18on	2026-11-12T01:57:18Z	
+1.87	automatic	org.bouncycastle	bctls-debug-jdk15to18	2026-11-12T08:01:09Z	
+1.87	automatic	org.bouncycastle	bctls-jdk15to18	2026-11-12T08:01:10Z	
+1.87	automatic	org.bouncycastle	bctls-debug-jdk14	2026-11-12T10:14:59Z	
+1.87	automatic	org.bouncycastle	bctls-jdk14	2026-11-12T10:14:59Z	

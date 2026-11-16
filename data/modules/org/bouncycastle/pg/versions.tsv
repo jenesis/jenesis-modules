@@ -193,3 +193,9 @@
 1.86	automatic	org.bouncycastle	bcpg-debug-jdk15to18	2026-09-11T08:12:12Z	
 1.86	automatic	org.bouncycastle	bcpg-jdk14	2026-09-11T08:12:43Z	
 1.86	automatic	org.bouncycastle	bcpg-debug-jdk14	2026-09-11T08:13:27Z	
+1.87	named	org.bouncycastle	bcpg-jdk18on	2026-11-11T10:24:46Z	
+1.87	named	org.bouncycastle	bcpg-debug-jdk18on	2026-11-12T01:57:18Z	
+1.87	automatic	org.bouncycastle	bcpg-debug-jdk15to18	2026-11-12T08:01:08Z	
+1.87	automatic	org.bouncycastle	bcpg-jdk15to18	2026-11-12T08:01:09Z	
+1.87	automatic	org.bouncycastle	bcpg-debug-jdk14	2026-11-12T10:14:59Z	
+1.87	automatic	org.bouncycastle	bcpg-jdk14	2026-11-12T10:14:59Z	

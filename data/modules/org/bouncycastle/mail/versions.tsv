@@ -241,3 +241,13 @@
 1.86	automatic	org.bouncycastle	bcjmail-jdk15to18	2026-09-11T08:18:01Z	
 1.86	automatic	org.bouncycastle	bcjmail-debug-jdk15to18	2026-09-11T08:20:23Z	
 2.73.13	named	org.bouncycastle	bcjmail-lts8on	2026-09-21T10:06:53Z	
+1.87	named	org.bouncycastle	bcjmail-jdk18on	2026-11-11T10:24:46Z	
+1.87	named	org.bouncycastle	bcmail-jdk18on	2026-11-11T10:24:46Z	
+1.87	named	org.bouncycastle	bcjmail-debug-jdk18on	2026-11-12T01:57:18Z	
+1.87	named	org.bouncycastle	bcmail-debug-jdk18on	2026-11-12T01:57:18Z	
+1.87	automatic	org.bouncycastle	bcjmail-debug-jdk15to18	2026-11-12T08:01:08Z	
+1.87	automatic	org.bouncycastle	bcmail-debug-jdk15to18	2026-11-12T08:01:08Z	
+1.87	automatic	org.bouncycastle	bcmail-jdk15to18	2026-11-12T08:01:08Z	
+1.87	automatic	org.bouncycastle	bcjmail-jdk15to18	2026-11-12T08:01:09Z	
+1.87	automatic	org.bouncycastle	bcmail-debug-jdk14	2026-11-12T10:14:59Z	
+1.87	automatic	org.bouncycastle	bcmail-jdk14	2026-11-12T10:14:59Z	

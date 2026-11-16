@@ -5367,5 +5367,10 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 2.0.7	named	com.conaxgames	clibraries	2026-11-06T16:05:29Z	2.14.0
 2.2.1	named	org.operaton.bpm	operaton-engine	2026-11-07T12:29:43Z	2.14.0
 3.40.1.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-09T11:40:07Z	2.10
+6.3.0.79979	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-11-09T13:27:20Z	2.15.0
+10.34.1.4477	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-11-10T14:44:50Z	2.14.0
+10.34.1.4477	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-11-10T14:44:50Z	2.14.0
+10.36.0.15337	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-11-11T10:13:09Z	2.15.0
+10.36.0.15337	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-11-11T10:13:09Z	2.15.0
 4.0.0.CR1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-11T12:30:17Z	2.10
 1.1.0	named	dev.uebelacker.babeli	babeli-cli	2026-11-13T21:40:15Z	2.15.0

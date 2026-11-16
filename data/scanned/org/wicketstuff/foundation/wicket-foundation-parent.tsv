@@ -15,6 +15,7 @@
 10.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/foundation/wicket-foundation-parent/10.8.0/wicket-foundation-parent-10.8.0.jar returned status 404
 10.9.1		2026-05-24T05:07:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/foundation/wicket-foundation-parent/10.9.1/wicket-foundation-parent-10.9.1.jar returned status 404
 10.9.2		2026-05-30T06:16:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/foundation/wicket-foundation-parent/10.9.2/wicket-foundation-parent-10.9.2.jar returned status 404
+11.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/foundation/wicket-foundation-parent/11.0.0/wicket-foundation-parent-11.0.0.jar returned status 404
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/foundation/wicket-foundation-parent/7.0.0/wicket-foundation-parent-7.0.0.jar returned status 404
 7.0.0-M6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/foundation/wicket-foundation-parent/7.0.0-M6/wicket-foundation-parent-7.0.0-M6.jar returned status 404
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wicketstuff/foundation/wicket-foundation-parent/7.1.0/wicket-foundation-parent-7.1.0.jar returned status 404
