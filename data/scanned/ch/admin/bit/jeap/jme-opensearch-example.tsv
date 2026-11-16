@@ -21,6 +21,11 @@
 2.2.0		2026-10-05T23:45:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.2.0/jme-opensearch-example-2.2.0.jar returned status 404
 2.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.20.0/jme-opensearch-example-2.20.0.jar returned status 404
 2.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.21.0/jme-opensearch-example-2.21.0.jar returned status 404
+2.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.22.0/jme-opensearch-example-2.22.0.jar returned status 404
+2.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.23.0/jme-opensearch-example-2.23.0.jar returned status 404
+2.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.24.0/jme-opensearch-example-2.24.0.jar returned status 404
+2.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.25.0/jme-opensearch-example-2.25.0.jar returned status 404
+2.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.26.0/jme-opensearch-example-2.26.0.jar returned status 404
 2.4.0		2026-10-08T23:41:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.4.0/jme-opensearch-example-2.4.0.jar returned status 404
 2.5.0		2026-10-11T23:37:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.5.0/jme-opensearch-example-2.5.0.jar returned status 404
 2.6.0		2026-10-12T23:36:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-opensearch-example/2.6.0/jme-opensearch-example-2.6.0.jar returned status 404

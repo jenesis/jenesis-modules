@@ -7518,3 +7518,4 @@ v0.0.22	named	com.grafana	grafana-foundation-sdk	2026-10-29T15:09:56Z	2.19.1
 2.2.1	named	org.operaton.spin	operaton-spin-dataformat-all	2026-11-07T12:29:44Z	2.22.4
 2.23.0	named	com.fasterxml.jackson.core	jackson-core	2026-11-08T00:15:03Z	2.23.0
 42.9	named	io.deephaven	deephaven-oidc-authentication-provider	2026-11-11T21:36:03Z	2.14.0
+3.2.11	named	org.wso2.am.microgw	org.wso2.micro.gateway.cli	2026-11-12T17:55:27Z	2.16.2
