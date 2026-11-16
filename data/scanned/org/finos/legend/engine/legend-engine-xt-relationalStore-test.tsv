@@ -184,5 +184,8 @@
 5.0.3			
 5.0.4			
 5.0.5			
+5.0.6			
+5.3.0			
+5.3.1			
 release-4.114.0		2025-12-09T02:46:12Z	
 release-4.96.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/finos/legend/engine/legend-engine-xt-relationalStore-test/release-4.96.3/legend-engine-xt-relationalStore-test-release-4.96.3.jar returned status 404
