@@ -94,3 +94,5 @@
 7.0.7.Final	automatic	org.hibernate.validator	hibernate-validator-test-utils	2026-10-25T15:07:04Z	
 9.1.6.Final	named	org.hibernate.validator	hibernate-validator-test-utils	2026-11-01T15:14:28Z	9.1.6.Final
 9.0.3.Final	named	org.hibernate.validator	hibernate-validator-test-utils	2026-11-01T15:14:28Z	9.0.3.Final
+9.2.0.CR1	named	org.hibernate.validator	hibernate-validator-test-utils	2026-11-10T23:15:05Z	9.2.0.CR1
+9.2.0.CR2	named	org.hibernate.validator	hibernate-validator-test-utils	2026-11-11T17:21:16Z	9.2.0.CR2

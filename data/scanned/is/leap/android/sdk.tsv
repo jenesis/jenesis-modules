@@ -123,3 +123,4 @@
 2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/leap/android/sdk/2.2.5/sdk-2.2.5.jar returned status 404
 2.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/leap/android/sdk/2.2.6/sdk-2.2.6.jar returned status 404
 2.2.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/leap/android/sdk/2.2.7/sdk-2.2.7.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/is/leap/android/sdk/2.3.0/sdk-2.3.0.jar returned status 404

@@ -15,3 +15,4 @@
 1.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/prismacapacity/cryptoshred/1.1.8/cryptoshred-1.1.8.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/prismacapacity/cryptoshred/2.0.0/cryptoshred-2.0.0.jar returned status 404
 3.0.0		2026-06-01T13:30:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/prismacapacity/cryptoshred/3.0.0/cryptoshred-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/prismacapacity/cryptoshred/3.0.1/cryptoshred-3.0.1.jar returned status 404

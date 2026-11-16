@@ -867,3 +867,5 @@
 2.5.0	named	com.guicedee.modules.services	hibernate-jcache	2026-11-02T18:29:48Z	2.5.0
 7.4.15.Final	automatic	org.hibernate.orm	hibernate-jcache	2026-11-06T14:05:26Z	
 2.5.1	named	com.guicedee.modules.services	hibernate-jcache	2026-11-08T19:04:46Z	2.5.1
+8.0.0.CR1	automatic	org.hibernate.orm	hibernate-jcache	2026-11-12T18:49:52Z	
+7.4.16.Final	automatic	org.hibernate.orm	hibernate-jcache	2026-11-15T00:34:48Z	
