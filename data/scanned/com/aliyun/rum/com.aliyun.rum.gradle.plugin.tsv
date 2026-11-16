@@ -101,3 +101,6 @@
 2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/com.aliyun.rum.gradle.plugin/2.3.3/com.aliyun.rum.gradle.plugin-2.3.3.jar returned status 404
 2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/com.aliyun.rum.gradle.plugin/2.3.4/com.aliyun.rum.gradle.plugin-2.3.4.jar returned status 404
 2.3.4-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/com.aliyun.rum.gradle.plugin/2.3.4-beta.1/com.aliyun.rum.gradle.plugin-2.3.4-beta.1.jar returned status 404
+2.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/com.aliyun.rum.gradle.plugin/2.3.5/com.aliyun.rum.gradle.plugin-2.3.5.jar returned status 404
+2.3.5-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/com.aliyun.rum.gradle.plugin/2.3.5-beta.1/com.aliyun.rum.gradle.plugin-2.3.5-beta.1.jar returned status 404
+2.3.6-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/aliyun/rum/com.aliyun.rum.gradle.plugin/2.3.6-beta.1/com.aliyun.rum.gradle.plugin-2.3.6-beta.1.jar returned status 404

@@ -33,3 +33,5 @@
 1.0.20261102094701			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/service/payments/platform-bom/1.0.20261102094701/platform-bom-1.0.20261102094701.jar returned status 404
 1.0.20261102094923			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/service/payments/platform-bom/1.0.20261102094923/platform-bom-1.0.20261102094923.jar returned status 404
 1.0.20261102112207			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/service/payments/platform-bom/1.0.20261102112207/platform-bom-1.0.20261102112207.jar returned status 404
+1.0.20261109103241			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/service/payments/platform-bom/1.0.20261109103241/platform-bom-1.0.20261109103241.jar returned status 404
+1.0.20261109103459			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/service/payments/platform-bom/1.0.20261109103459/platform-bom-1.0.20261109103459.jar returned status 404
