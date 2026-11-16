@@ -313,6 +313,7 @@
 3.0-beta.50			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/annotation-processor-webflux/3.0-beta.50/annotation-processor-webflux-3.0-beta.50.jar returned status 404
 3.0-beta.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/annotation-processor-webflux/3.0-beta.51/annotation-processor-webflux-3.0-beta.51.jar returned status 404
 3.0-beta.52			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/annotation-processor-webflux/3.0-beta.52/annotation-processor-webflux-3.0-beta.52.jar returned status 404
+3.0-beta.53			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/annotation-processor-webflux/3.0-beta.53/annotation-processor-webflux-3.0-beta.53.jar returned status 404
 3.0-beta.6		2026-10-19T13:13:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/annotation-processor-webflux/3.0-beta.6/annotation-processor-webflux-3.0-beta.6.jar returned status 404
 3.0-beta.7		2026-10-19T15:27:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/annotation-processor-webflux/3.0-beta.7/annotation-processor-webflux-3.0-beta.7.jar returned status 404
 3.0-beta.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/annotation-processor-webflux/3.0-beta.8/annotation-processor-webflux-3.0-beta.8.jar returned status 404
