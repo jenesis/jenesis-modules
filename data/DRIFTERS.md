@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-17. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-18. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -50,7 +50,7 @@ kotlinx.serialization.core  [explicit rule: owned by `org.jetbrains`; 28 other g
   ?   lol.simeon                           2026-06..2026-10 1.4.0                |..................==|
   R   dev.robocode.tankroyale              2026-01..2026-10 1.4.0                |.................===|
   R   io.github.oewntk                     2024-05..2026-09 3.0.2                |..............======|
-  R   dev.sebastiano.spectre               2026-05..2026-08 0.5.0                |..................==|
+  R   dev.sebastiano.spectre               2026-05..2026-08 0.5.0                |..................=.|
     + 23 more: io.github.wangbax, com.squareup.wire, org.ldemetrios, io.github.lumamontes, dev.zacsweers.metro, io.typst, io.availe, dev.oglass, io.github.lexa-diky, com.toasttab.expediter, io.johnsonlee.exec, io.specmatic, (+11 more)
 com.google.gson  [explicit rule: owned by `com.google.code.gson`; 547 other group(s) rejected]
   A * com.google.code.gson                 2019-10..2026-10 2.15.0               |.....===============|
@@ -413,7 +413,7 @@ com.sun.xml.bind  [republished by `org.glassfish.jaxb` (still active); belongs t
 jakarta.mail  [republished by `com.sun.mail` (still active); belongs to `jakarta.mail`]
   R * com.sun.mail                         2018-11..2025-07 2.0.2                |....=============...|
   ?   org.tinystruct                       2026-08..2026-09 1.7.32               |..................==|
-  R   io.github.noeltoy                    2024-10..2026-08 1.2                  |...............=====|
+  R   io.github.noeltoy                    2024-10..2026-08 1.2                  |...............====.|
   ?   org.cibseven.community.mail          2026-08..2026-08 2.2.0                |..................=.|
   ?   org.apache.manifoldcf                2026-07..2026-07 2.31                 |..................=.|
   R   com.randomnoun.db                    2022-10..2025-11 1.0.2                |...........=======..|
@@ -814,7 +814,7 @@ org.jsoup  [fork: keep `org.jsoup`, `io.github.shafthq` still publishes the name
 io.netty.codec.http2  [fork: keep `io.netty`, `com.applitools` still publishes the name]
   A * io.netty                             2017-12..2026-11 4.1.140.Final        |..==================|
   R   com.applitools                       2026-05..2026-11 5.92.4               |..................==|
-  ?   org.openjproxy                       2026-08..2026-11 1.0.7                |...................=|
+  ?   org.openjproxy                       2026-08..2026-11 1.0.7                |..................==|
   R   io.etcd                              2025-11..2026-11 0.8.8                |.................===|
   R   org.apache.spark                     2025-10..2026-10 4.3.0                |.................===|
   ?   io.camunda.connector                 2026-06..2026-10 8.6.32               |..................==|
@@ -1066,9 +1066,9 @@ org.apache.xmlgraphics.fop.util  [fork: keep `org.apache.xmlgraphics`, `org.docx
 com.googlecode.javaewah  [fork: keep `com.googlecode.javaewah`, `io.github.baokhang83.blastradius` still publishes the name]
   A * com.googlecode.javaewah              2023-03..2023-03 1.2.3                |............=.......|
   ?   io.github.baokhang83.blastradius     2026-07..2026-11 0.4.0                |..................==|
-  R   org.meyvn                            2023-07..2026-05 1.9.4                |.............======.|
+  R   org.meyvn                            2023-07..2026-05 1.9.4                |............=======.|
   R   org.liquibase.ext                    2024-02..2025-01 0.4.0                |..............===...|
-  R   io.kestra.plugin                     2023-07..2024-08 0.17.2               |.............===....|
+  R   io.kestra.plugin                     2023-07..2024-08 0.17.2               |............====....|
 com.h2database  [fork: keep `com.h2database`, `io.vidocq.runtime.extensions.module.repackaged` still publishes the name]
   A * com.h2database                       2019-02..2026-09 2.5.252              |....================|
   ?   io.vidocq.runtime.extensions.module.repackaged 2026-08..2026-11 0.4.0-RC2            |...................=|
@@ -1169,7 +1169,7 @@ org.slf4j.simple  [fork: keep `org.slf4j`, `de.uniks` still publishes the name]
   R   io.github.huaweicloud                2023-08..2026-10 1.2.0                |.............=======|
   R   eu.maveniverse.maven.plugins         2024-05..2026-02 0.15.4               |..............=====.|
   R   io.btrace                            2025-12..2026-02 0.14.0               |.................==.|
-  R   dev.neovoxel.jarflow                 2025-10..2026-02 2.1.0                |.................==.|
+  R   dev.neovoxel.jarflow                 2025-10..2026-02 2.1.0                |.................=..|
     + 24 more: io.github.mario-bezerra, com.vajrapulse, no.elixir, com.mineplex.studio.sdk, se.bjurr.gitchangelog, io.github.eschizoid, cz.o2.proxima, dev.lukebemish, io.github.lizhi404, io.opentelemetry.contrib, io.github.qsy7.java.examples, net.mamoe, (+12 more)
 com.sun.istack.runtime  [fork: keep `com.sun.istack`, `berlin.yuna` still publishes the name]
   A * com.sun.istack                       2018-08..2023-04 4.2.0                |...==========.......|
@@ -1355,7 +1355,7 @@ io.smallrye.common.annotation  [fork: keep `io.smallrye.common`, `org.tinystruct
   R   com.abavilla                         2022-10..2022-10 1.0.147              |...........=........|
 com.samskivert.jmustache  [fork: keep `com.samskivert`, `dev.getelements.elements` still publishes the name]
   A * com.samskivert                       2019-07..2023-11 1.16                 |.....=========......|
-  ?   dev.getelements.elements             2026-08..2026-09 3.9.0-rc-11          |...................=|
+  ?   dev.getelements.elements             2026-08..2026-09 3.9.0-rc-11          |..................==|
   R   io.swagger.codegen.v3                2022-02..2023-02 3.0.41               |..........===.......|
   R   io.garam                             2020-11..2020-11 0.4                  |.......=............|
 org.seleniumhq.selenium.devtools_v151  [fork: keep `org.seleniumhq.selenium`, `com.github.aquality-automation` still publishes the name]
@@ -1376,7 +1376,7 @@ org.bouncycastle.lts.prov  [fork: keep `org.bouncycastle`, `org.apache.seatunnel
   R   io.kestra.plugin                     2025-06..2025-08 0.24.0               |................==..|
 org.osgi.framework  [fork: keep `org.osgi`, `org.apache.karaf` still publishes the name]
   ? * org.osgi                             2020-12..2020-12 1.10.0               |.......=............|
-  ?   org.apache.karaf                     2025-08..2026-09 4.4.12               |.................===|
+  ?   org.apache.karaf                     2025-08..2026-09 4.4.12               |................====|
 com.microsoft.credentialstorage  [fork: keep `com.microsoft`, `io.alapierre` still publishes the name]
   ? * com.microsoft                        2022-05..2024-09 1.0.3                |..........======....|
   ?   io.alapierre                         2026-09..2026-09 1.0.4                |...................=|
