@@ -1,0 +1,5 @@
+0.14.0		2026-10-18T11:32:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/migrax/org.migrax.gradle.plugin/0.14.0/org.migrax.gradle.plugin-0.14.0.jar returned status 404
+0.15.0		2026-10-19T08:26:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/migrax/org.migrax.gradle.plugin/0.15.0/org.migrax.gradle.plugin-0.15.0.jar returned status 404
+0.16.0		2026-10-19T14:21:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/migrax/org.migrax.gradle.plugin/0.16.0/org.migrax.gradle.plugin-0.16.0.jar returned status 404
+0.17.0		2026-10-22T16:34:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/migrax/org.migrax.gradle.plugin/0.17.0/org.migrax.gradle.plugin-0.17.0.jar returned status 404
+0.17.1		2026-10-25T10:02:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/migrax/org.migrax.gradle.plugin/0.17.1/org.migrax.gradle.plugin-0.17.1.jar returned status 404

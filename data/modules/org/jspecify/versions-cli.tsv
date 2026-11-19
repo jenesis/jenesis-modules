@@ -4,3 +4,5 @@
 0.33.0	named	org.occurrent	occurrent-eventstore-mongodb-position-backfill	2026-08-16T15:09:35Z	
 0.1.0	named	org.souther-lang	souther-wasm-compiler	2026-10-15T15:07:14Z	
 0.4.1	named	org.souther-lang	souther-wasm-compiler	2026-10-22T11:32:56Z	
+0.34.0	named	org.occurrent	occurrent-eventstore-mongodb-position-backfill	2026-10-23T10:17:38Z	
+0.34.0	named	org.occurrent	occurrent-eventstore-mongodb-update-event-repair	2026-10-23T10:17:38Z	

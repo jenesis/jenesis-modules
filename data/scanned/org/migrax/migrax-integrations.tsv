@@ -1,0 +1,2 @@
+0.14.0		2026-10-18T11:32:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/migrax/migrax-integrations/0.14.0/migrax-integrations-0.14.0.jar returned status 404
+0.15.0		2026-10-19T08:26:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/migrax/migrax-integrations/0.15.0/migrax-integrations-0.15.0.jar returned status 404

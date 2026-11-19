@@ -1,0 +1,2 @@
+6.3.2.0-1		2026-11-07T07:35:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/praisenter/ndi/6.3.2.0-1/ndi-6.3.2.0-1.jar returned status 404
+6.3.2.0-2		2026-11-11T14:15:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/praisenter/ndi/6.3.2.0-2/ndi-6.3.2.0-2.jar returned status 404

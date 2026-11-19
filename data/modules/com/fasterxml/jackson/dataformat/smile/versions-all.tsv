@@ -28,3 +28,5 @@
 0.3.3.9	named	org.opensearch.migrations.snapshots	SearchSnapshotExtractor	2026-10-02T19:29:09Z	2.22.3
 0.3.4.0	named	org.opensearch.migrations.snapshots	RfsCommon	2026-10-16T19:25:08Z	2.22.3
 0.3.4.0	named	org.opensearch.migrations.snapshots	SearchSnapshotExtractor	2026-10-16T19:25:09Z	2.22.3
+0.3.4.1	named	org.opensearch.migrations.snapshots	RfsCommon	2026-11-10T22:36:23Z	2.22.3
+0.3.4.1	named	org.opensearch.migrations.snapshots	SearchSnapshotExtractor	2026-11-10T22:36:24Z	2.22.3
