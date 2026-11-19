@@ -1439,3 +1439,16 @@ com.sursolver
 com.stripe
 stirling.software.officeconvert.optimize
 stirling.software.officeconvert.lineart
+com.standardapplied.scimsql
+com.standardapplied.helios.testing
+com.standardapplied.helios.skills
+com.standardapplied.helios.session
+com.standardapplied.helios.runtime
+com.standardapplied.helios.repl
+com.standardapplied.helios.persistence
+com.standardapplied.helios.openai
+com.standardapplied.helios.onnx
+com.standardapplied.helios.gemini
+com.standardapplied.helios.core
+com.standardapplied.helios.anthropic
+kotlin.stdlib.jdk8

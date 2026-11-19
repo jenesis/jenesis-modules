@@ -152,4 +152,10 @@
 7.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-runtime-macosarm64/7.1.0/wire-runtime-macosarm64-7.1.0.jar returned status 404
 7.1.0	metadata	2026-09-28T15:05:46Z	
 7.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-runtime-macosarm64/7.1.1/wire-runtime-macosarm64-7.1.1.jar returned status 404
+7.1.1	metadata	2026-10-27T12:52:21Z	
 7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-runtime-macosarm64/7.1.2/wire-runtime-macosarm64-7.1.2.jar returned status 404
+7.1.2	metadata	2026-10-27T20:02:19Z	
+7.2.0		2026-11-10T18:55:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-runtime-macosarm64/7.2.0/wire-runtime-macosarm64-7.2.0.jar returned status 404
+7.2.0	metadata	2026-11-10T18:55:21Z	
+7.2.1		2026-11-12T11:44:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-runtime-macosarm64/7.2.1/wire-runtime-macosarm64-7.2.1.jar returned status 404
+7.2.1	metadata	2026-11-12T11:44:56Z	
