@@ -1,3 +1,4 @@
+v3-rev20261106-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
 v3-rev20261018-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
 v3-rev20261018-2.0.0	automatic	com.google.apis	google-api-services-dialogflow
 v3-rev20260929-2.0.0	automatic	com.google.apis	google-api-services-dialogflow
@@ -95,6 +96,7 @@ v3-rev20211112-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
 v3-rev20211022-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
 v3-rev20211015-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
 v3-rev20211007-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
+v3beta1-rev20261106-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
 v3beta1-rev20261018-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
 v3beta1-rev20261018-2.0.0	automatic	com.google.apis	google-api-services-dialogflow
 v3beta1-rev20260929-2.0.0	automatic	com.google.apis	google-api-services-dialogflow
@@ -195,6 +197,7 @@ v3beta1-rev20211112-1.32.1	automatic	com.google.apis	google-api-services-dialogf
 v3beta1-rev20211022-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
 v3beta1-rev20211015-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
 v3beta1-rev20211007-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
+v2-rev20261106-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
 v2-rev20261101-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
 v2-rev20261027-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
 v2-rev20261018-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
@@ -268,6 +271,7 @@ v2-rev20211105-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
 v2-rev20211022-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
 v2-rev20211015-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
 v2-rev20210918-1.32.1	automatic	com.google.apis	google-api-services-dialogflow
+v2beta1-rev20261106-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
 v2beta1-rev20261101-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
 v2beta1-rev20261027-2.9.2	automatic	com.google.apis	google-api-services-dialogflow
 v2beta1-rev20261018-2.9.2	automatic	com.google.apis	google-api-services-dialogflow

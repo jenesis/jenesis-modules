@@ -1,3 +1,4 @@
+v1-rev20261106-2.9.2	automatic	com.google.apis	google-api-services-aiplatform
 v1-rev20261028-2.9.2	automatic	com.google.apis	google-api-services-aiplatform
 v1-rev20261012-2.9.2	automatic	com.google.apis	google-api-services-aiplatform
 v1-rev20261012-2.0.0	automatic	com.google.apis	google-api-services-aiplatform
@@ -130,6 +131,7 @@ v1-rev20230908-2.0.0	automatic	com.google.apis	google-api-services-aiplatform
 v1-rev20230812-2.0.0	automatic	com.google.apis	google-api-services-aiplatform
 v1-rev20230809-2.0.0	automatic	com.google.apis	google-api-services-aiplatform
 v1-rev20230727-2.0.0	automatic	com.google.apis	google-api-services-aiplatform
+v1beta1-rev20261106-2.9.2	automatic	com.google.apis	google-api-services-aiplatform
 v1beta1-rev20261028-2.9.2	automatic	com.google.apis	google-api-services-aiplatform
 v1beta1-rev20261012-2.9.2	automatic	com.google.apis	google-api-services-aiplatform
 v1beta1-rev20250902-2.0.0	automatic	com.google.apis	google-api-services-aiplatform

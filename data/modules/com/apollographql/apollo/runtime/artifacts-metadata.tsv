@@ -12,6 +12,7 @@
 5.0.0-alpha.2	automatic	com.apollographql.apollo	apollo-runtime-macosarm64
 5.0.0-alpha.1	automatic	com.apollographql.apollo	apollo-runtime-watchosarm32
 5.0.0-alpha.0	automatic	com.apollographql.apollo	apollo-runtime-iosx64
+4.4.4	automatic	com.apollographql.apollo	apollo-runtime-iosarm64
 4.4.3	automatic	com.apollographql.apollo	apollo-runtime-iosarm64
 4.4.2	automatic	com.apollographql.apollo	apollo-runtime-macosx64
 4.4.1	automatic	com.apollographql.apollo	apollo-runtime-tvosx64
