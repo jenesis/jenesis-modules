@@ -272,6 +272,10 @@
 5.0.3-rc.1	macos-arm64	2026-07-15T13:09:34Z	
 5.0.3-rc.1	windows-x64	2026-07-15T13:09:34Z	
 5.0.4			
+5.0.4	linux-arm64	2026-11-10T17:31:29Z	
+5.0.4	linux-x64	2026-11-10T17:31:29Z	
+5.0.4	macos-arm64	2026-11-10T17:31:29Z	
+5.0.4	windows-x64	2026-11-10T17:31:29Z	
 5.0.4-experimental-presence-hot-restart.1		2026-10-20T02:12:03Z	
 5.0.4-experimental-presence-hot-restart.1	linux-arm64	2026-10-20T02:12:04Z	
 5.0.4-experimental-presence-hot-restart.1	linux-x64	2026-10-20T02:12:04Z	
@@ -608,8 +612,20 @@
 5.1.1-rc.1	macos-arm64	2026-10-20T05:11:43Z	
 5.1.1-rc.1	windows-x64	2026-10-20T05:11:43Z	
 5.1.1-rc.2			
+5.1.1-rc.2	linux-arm64	2026-10-26T20:47:39Z	
+5.1.1-rc.2	linux-x64	2026-10-26T20:47:39Z	
+5.1.1-rc.2	macos-arm64	2026-10-26T20:47:39Z	
+5.1.1-rc.2	windows-x64	2026-10-26T20:47:39Z	
 5.1.1-rc.3			
+5.1.1-rc.3	linux-arm64	2026-11-05T20:22:12Z	
+5.1.1-rc.3	linux-x64	2026-11-05T20:22:12Z	
+5.1.1-rc.3	macos-arm64	2026-11-05T20:22:12Z	
+5.1.1-rc.3	windows-x64	2026-11-05T20:22:13Z	
 5.2.0			
+5.2.0	linux-arm64	2026-10-27T18:07:35Z	
+5.2.0	linux-x64	2026-10-27T18:07:35Z	
+5.2.0	macos-arm64	2026-10-27T18:07:35Z	
+5.2.0	windows-x64	2026-10-27T18:07:35Z	
 5.2.0-dev-sdks-4505.20260717.7			
 5.2.0-dev-sdks-4505.20260717.7	linux-arm64	2026-07-19T03:03:39Z	
 5.2.0-dev-sdks-4505.20260717.7	linux-x64	2026-07-19T03:03:39Z	
@@ -656,6 +672,10 @@
 5.2.0-experimental-ca-kmp-public.1	macos-arm64	2026-09-11T15:32:56Z	
 5.2.0-experimental-ca-kmp-public.1	windows-x64	2026-09-11T15:32:57Z	
 5.2.0-experimental-hot-restart-callbacks.1			
+5.2.0-experimental-hot-restart-callbacks.1	linux-arm64	2026-11-06T03:25:04Z	
+5.2.0-experimental-hot-restart-callbacks.1	linux-x64	2026-11-06T03:25:04Z	
+5.2.0-experimental-hot-restart-callbacks.1	macos-arm64	2026-11-06T03:25:04Z	
+5.2.0-experimental-hot-restart-callbacks.1	windows-x64	2026-11-06T03:25:04Z	
 5.2.0-experimental-puro-workers.20261014.1			
 5.2.0-experimental-puro-workers.20261014.1	linux-arm64	2026-10-14T11:06:28Z	
 5.2.0-experimental-puro-workers.20261014.1	linux-x64	2026-10-14T11:06:28Z	
@@ -687,6 +707,10 @@
 5.2.0-rc.1	macos-arm64	2026-10-21T05:32:01Z	
 5.2.0-rc.1	windows-x64	2026-10-21T05:32:01Z	
 5.2.0-rc.2			
+5.2.0-rc.2	linux-arm64	2026-10-22T13:39:31Z	
+5.2.0-rc.2	linux-x64	2026-10-22T13:39:31Z	
+5.2.0-rc.2	macos-arm64	2026-10-22T13:39:31Z	
+5.2.0-rc.2	windows-x64	2026-10-22T13:39:31Z	
 5.3.0-dev-test-puro.1			
 5.3.0-dev-test-puro.1	linux-arm64	2026-10-14T20:06:24Z	
 5.3.0-dev-test-puro.1	linux-x64	2026-10-14T20:06:24Z	
@@ -698,6 +722,9 @@
 5.3.0-dev-weekly.20261019.2871	macos-arm64	2026-10-20T06:58:04Z	
 5.3.0-dev-weekly.20261019.2871	windows-x64	2026-10-20T06:58:04Z	
 5.3.0-dev-weekly.20261025.2948			
+5.3.0-dev-weekly.20261025.2948	linux-arm64	2026-10-26T11:47:21Z	
+5.3.0-dev-weekly.20261025.2948	linux-x64	2026-10-26T11:47:21Z	
+5.3.0-dev-weekly.20261025.2948	macos-arm64	2026-10-26T11:47:21Z	
 5.3.0-dev-weekly.20261025.2948	windows-x64	2026-10-26T11:47:21Z	
 5.3.0-dev-weekly.20261101.3031			
 5.3.0-dev-weekly.20261101.3031	linux-arm64	2026-11-01T15:35:46Z	

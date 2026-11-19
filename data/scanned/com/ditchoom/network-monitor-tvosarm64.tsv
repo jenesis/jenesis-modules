@@ -99,18 +99,31 @@
 4.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.23.0/network-monitor-tvosarm64-4.23.0.jar returned status 404
 4.23.0	metadata	2026-10-11T14:56:23Z	
 4.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.23.1/network-monitor-tvosarm64-4.23.1.jar returned status 404
+4.23.1	metadata	2026-11-02T08:54:26Z	
 4.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.24.0/network-monitor-tvosarm64-4.24.0.jar returned status 404
+4.24.0	metadata	2026-11-02T10:37:17Z	
 4.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.25.0/network-monitor-tvosarm64-4.25.0.jar returned status 404
+4.25.0	metadata	2026-11-06T23:15:36Z	
 4.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.26.0/network-monitor-tvosarm64-4.26.0.jar returned status 404
+4.26.0	metadata	2026-11-07T03:31:57Z	
 4.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.27.0/network-monitor-tvosarm64-4.27.0.jar returned status 404
+4.27.0	metadata	2026-11-08T01:41:24Z	
 4.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.28.0/network-monitor-tvosarm64-4.28.0.jar returned status 404
+4.28.0	metadata	2026-11-10T15:55:21Z	
 4.28.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.28.1/network-monitor-tvosarm64-4.28.1.jar returned status 404
+4.28.1	metadata	2026-11-11T00:01:11Z	
 4.28.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.28.2/network-monitor-tvosarm64-4.28.2.jar returned status 404
+4.28.2	metadata	2026-11-11T04:39:55Z	
 4.28.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.28.3/network-monitor-tvosarm64-4.28.3.jar returned status 404
+4.28.3	metadata	2026-11-11T10:05:35Z	
 4.28.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.28.4/network-monitor-tvosarm64-4.28.4.jar returned status 404
+4.28.4	metadata	2026-11-11T13:59:58Z	
 4.28.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.28.5/network-monitor-tvosarm64-4.28.5.jar returned status 404
+4.28.5	metadata	2026-11-11T15:12:55Z	
 4.28.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.28.6/network-monitor-tvosarm64-4.28.6.jar returned status 404
+4.28.6	metadata	2026-11-11T20:05:37Z	
 4.29.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.29.0/network-monitor-tvosarm64-4.29.0.jar returned status 404
+4.29.0	metadata	2026-11-12T00:30:12Z	
 4.3.0		2026-08-10T19:48:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.3.0/network-monitor-tvosarm64-4.3.0.jar returned status 404
 4.3.0	metadata	2026-08-10T19:48:57Z	
 4.3.1		2026-08-11T06:09:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.3.1/network-monitor-tvosarm64-4.3.1.jar returned status 404
@@ -118,6 +131,7 @@
 4.3.2		2026-08-12T00:09:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.3.2/network-monitor-tvosarm64-4.3.2.jar returned status 404
 4.3.2	metadata	2026-08-12T00:09:09Z	
 4.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.30.0/network-monitor-tvosarm64-4.30.0.jar returned status 404
+4.30.0	metadata	2026-11-12T14:01:48Z	
 4.4.0		2026-08-12T14:18:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.4.0/network-monitor-tvosarm64-4.4.0.jar returned status 404
 4.4.0	metadata	2026-08-12T14:18:18Z	
 4.4.1		2026-08-12T18:03:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/network-monitor-tvosarm64/4.4.1/network-monitor-tvosarm64-4.4.1.jar returned status 404

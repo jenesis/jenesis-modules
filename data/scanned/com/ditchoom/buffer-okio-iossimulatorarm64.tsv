@@ -63,7 +63,9 @@
 6.30.1		2026-08-13T22:53:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-okio-iossimulatorarm64/6.30.1/buffer-okio-iossimulatorarm64-6.30.1.jar returned status 404
 6.30.1	metadata	2026-08-13T22:54:03Z	
 6.30.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-okio-iossimulatorarm64/6.30.10/buffer-okio-iossimulatorarm64-6.30.10.jar returned status 404
+6.30.10	metadata	2026-11-09T23:09:58Z	
 6.30.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-okio-iossimulatorarm64/6.30.11/buffer-okio-iossimulatorarm64-6.30.11.jar returned status 404
+6.30.11	metadata	2026-11-10T18:30:19Z	
 6.30.2		2026-08-14T21:06:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-okio-iossimulatorarm64/6.30.2/buffer-okio-iossimulatorarm64-6.30.2.jar returned status 404
 6.30.2	metadata	2026-08-14T21:06:28Z	
 6.30.3		2026-08-14T21:41:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-okio-iossimulatorarm64/6.30.3/buffer-okio-iossimulatorarm64-6.30.3.jar returned status 404
@@ -79,6 +81,9 @@
 6.30.8		2026-08-28T20:10:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-okio-iossimulatorarm64/6.30.8/buffer-okio-iossimulatorarm64-6.30.8.jar returned status 404
 6.30.8	metadata	2026-08-28T20:10:53Z	
 6.30.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-okio-iossimulatorarm64/6.30.9/buffer-okio-iossimulatorarm64-6.30.9.jar returned status 404
+6.30.9	metadata	2026-11-06T23:40:12Z	
+6.31.0		2026-11-16T18:28:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-okio-iossimulatorarm64/6.31.0/buffer-okio-iossimulatorarm64-6.31.0.jar returned status 404
+6.31.0	metadata	2026-11-16T18:28:27Z	
 6.6.0		2026-07-06T07:08:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-okio-iossimulatorarm64/6.6.0/buffer-okio-iossimulatorarm64-6.6.0.jar returned status 404
 6.6.0	metadata	2026-07-06T07:08:56Z	
 6.6.1		2026-07-06T18:27:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-okio-iossimulatorarm64/6.6.1/buffer-okio-iossimulatorarm64-6.6.1.jar returned status 404
