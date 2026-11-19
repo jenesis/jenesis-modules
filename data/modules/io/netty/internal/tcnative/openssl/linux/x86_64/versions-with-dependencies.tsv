@@ -167,6 +167,8 @@
 8.6.32	named	io.camunda.connector	connector-sendgrid	2026-10-16T13:41:24Z	2.0.84.Final
 8.6.32	named	io.camunda.connector	connector-graphql	2026-10-16T13:41:25Z	2.0.84.Final
 8.6.32	named	io.camunda.connector	connector-webhook	2026-10-16T13:41:25Z	2.0.84.Final
+8.6.33	named	io.camunda.connector	connector-automationanywhere	2026-10-20T09:07:01Z	2.0.84.Final
+8.6.33	named	io.camunda.connector	connector-aws-dynamodb	2026-10-20T09:07:01Z	2.0.84.Final
 8.6.33	named	io.camunda.connector	connector-aws-sagemaker	2026-10-20T09:07:01Z	2.0.84.Final
 8.6.33	named	io.camunda.connector	connector-aws-textract	2026-10-20T09:07:01Z	2.0.84.Final
 8.6.33	named	io.camunda.connector	connector-email	2026-10-20T09:07:01Z	2.0.84.Final
@@ -182,6 +184,8 @@
 8.6.33	named	io.camunda.connector	connector-sendgrid	2026-10-20T09:07:02Z	2.0.84.Final
 8.6.33	named	io.camunda.connector	connector-slack	2026-10-20T09:07:02Z	2.0.84.Final
 8.6.33	named	io.camunda.connector	connector-webhook	2026-10-20T09:07:03Z	2.0.84.Final
+8.6.33	named	io.camunda.connector	connector-aws-base	2026-10-20T09:07:04Z	2.0.84.Final
+8.7.29	named	io.camunda.connector	connector-automationanywhere	2026-10-20T09:34:28Z	2.0.84.Final
 8.7.29	named	io.camunda.connector	connector-box	2026-10-20T09:34:28Z	2.0.84.Final
 8.7.29	named	io.camunda.connector	connector-email	2026-10-20T09:34:28Z	2.0.84.Final
 8.7.29	named	io.camunda.connector	connector-google-base	2026-10-20T09:34:28Z	2.0.84.Final
@@ -197,12 +201,15 @@
 8.7.29	named	io.camunda.connector	connector-sendgrid	2026-10-20T09:34:33Z	2.0.84.Final
 8.7.29	named	io.camunda.connector	connector-kafka	2026-10-20T09:34:41Z	2.0.84.Final
 8.7.29	named	io.camunda.connector	connector-soap	2026-10-20T09:34:41Z	2.0.84.Final
+8.6.34	named	io.camunda.connector	connector-automationanywhere	2026-10-22T13:06:53Z	2.0.84.Final
+8.6.34	named	io.camunda.connector	connector-aws-base	2026-10-22T13:06:53Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-aws-textract	2026-10-22T13:06:53Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-email	2026-10-22T13:06:53Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-google-base	2026-10-22T13:06:53Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-google-sheets	2026-10-22T13:06:53Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-http-polling	2026-10-22T13:06:53Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-jdbc	2026-10-22T13:06:53Z	2.0.84.Final
+8.6.34	named	io.camunda.connector	connector-aws-dynamodb	2026-10-22T13:06:54Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-graphql	2026-10-22T13:06:54Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-http-json	2026-10-22T13:06:54Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-kafka	2026-10-22T13:06:54Z	2.0.84.Final
@@ -212,6 +219,7 @@
 8.6.34	named	io.camunda.connector	connector-http-base	2026-10-22T13:07:02Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-slack	2026-10-22T13:07:05Z	2.0.84.Final
 8.6.34	named	io.camunda.connector	connector-webhook	2026-10-22T13:07:06Z	2.0.84.Final
+8.7.30	named	io.camunda.connector	connector-automationanywhere	2026-10-22T14:02:49Z	2.0.84.Final
 8.7.30	named	io.camunda.connector	connector-email	2026-10-22T14:02:49Z	2.0.84.Final
 8.7.30	named	io.camunda.connector	connector-box	2026-10-22T14:02:50Z	2.0.84.Final
 8.7.30	named	io.camunda.connector	connector-google-base	2026-10-22T14:02:50Z	2.0.84.Final
@@ -227,6 +235,10 @@
 8.7.30	named	io.camunda.connector	connector-kafka	2026-10-22T14:02:52Z	2.0.84.Final
 8.7.30	named	io.camunda.connector	connector-sendgrid	2026-10-22T14:02:57Z	2.0.84.Final
 8.7.30	named	io.camunda.connector	connector-slack	2026-10-22T14:03:02Z	2.0.84.Final
+8.6.35	named	io.camunda.connector	connector-aws-base	2026-11-02T15:42:02Z	2.0.84.Final
+8.7.31	named	io.camunda.connector	connector-automationanywhere	2026-11-02T15:42:03Z	2.0.84.Final
+8.6.35	named	io.camunda.connector	connector-automationanywhere	2026-11-02T15:42:03Z	2.0.84.Final
+8.6.35	named	io.camunda.connector	connector-aws-dynamodb	2026-11-02T15:42:03Z	2.0.84.Final
 8.7.31	named	io.camunda.connector	connector-email	2026-11-02T15:42:04Z	2.0.84.Final
 8.7.31	named	io.camunda.connector	connector-google-base	2026-11-02T15:42:04Z	2.0.84.Final
 8.6.35	named	io.camunda.connector	connector-google-base	2026-11-02T15:42:04Z	2.0.84.Final
@@ -257,6 +269,10 @@
 8.7.31	named	io.camunda.connector	connector-kafka	2026-11-02T15:42:19Z	2.0.84.Final
 8.7.31	named	io.camunda.connector	connector-http-json	2026-11-02T15:42:20Z	2.0.84.Final
 8.7.31	named	io.camunda.connector	connector-box	2026-11-02T15:42:21Z	2.0.84.Final
+8.7.32	named	io.camunda.connector	connector-automationanywhere	2026-11-06T09:00:14Z	2.0.85.Final
+8.6.36	named	io.camunda.connector	connector-automationanywhere	2026-11-06T09:00:14Z	2.0.85.Final
+8.6.36	named	io.camunda.connector	connector-aws-base	2026-11-06T09:00:14Z	2.0.85.Final
+8.6.36	named	io.camunda.connector	connector-aws-dynamodb	2026-11-06T09:00:14Z	2.0.85.Final
 8.6.36	named	io.camunda.connector	connector-email	2026-11-06T09:00:14Z	2.0.85.Final
 8.6.36	named	io.camunda.connector	connector-aws-sagemaker	2026-11-06T09:00:15Z	2.0.85.Final
 8.6.36	named	io.camunda.connector	connector-aws-textract	2026-11-06T09:00:15Z	2.0.85.Final

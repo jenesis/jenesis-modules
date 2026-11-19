@@ -417,3 +417,5 @@
 1.6.0	named	org.apache.pinot	pinot-yammer	2026-10-22T22:53:02Z	2.0.19
 1.6.0	named	org.apache.pinot	pinot-confluent-avro	2026-10-22T23:12:31Z	2.0.19
 1.6.0	named	org.apache.pinot	pinot-dropwizard	2026-10-22T23:32:11Z	2.0.19
+1.1.0	named	info.unterrainer.commons	jre-utils	2026-10-23T10:37:42Z	2.0.17
+1.2.0	named	info.unterrainer.commons	jre-utils	2026-10-23T10:51:51Z	2.0.17

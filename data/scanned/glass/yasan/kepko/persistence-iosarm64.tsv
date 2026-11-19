@@ -81,4 +81,6 @@
 1.8.0		2026-10-18T18:57:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/persistence-iosarm64/1.8.0/persistence-iosarm64-1.8.0.jar returned status 404
 1.8.0	metadata	2026-10-18T18:57:20Z	
 1.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/persistence-iosarm64/1.8.1/persistence-iosarm64-1.8.1.jar returned status 404
+1.8.1	metadata	2026-10-28T21:17:25Z	
 1.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/glass/yasan/kepko/persistence-iosarm64/1.8.2/persistence-iosarm64-1.8.2.jar returned status 404
+1.8.2	metadata	2026-11-12T06:01:19Z	
