@@ -1,0 +1,4 @@
+2.0.0		2026-11-08T20:38:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/avasilev/taskcomm-bom/2.0.0/taskcomm-bom-2.0.0.jar returned status 404
+2.0.1		2026-11-10T14:11:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/avasilev/taskcomm-bom/2.0.1/taskcomm-bom-2.0.1.jar returned status 404
+2.0.2		2026-11-11T23:57:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/avasilev/taskcomm-bom/2.0.2/taskcomm-bom-2.0.2.jar returned status 404
+2.1.0		2026-11-12T03:40:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/avasilev/taskcomm-bom/2.1.0/taskcomm-bom-2.1.0.jar returned status 404

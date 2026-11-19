@@ -35,9 +35,16 @@
 27.0.1-alpha05		2026-10-13T03:06:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.0.1-alpha05/hig-core-iossimulatorarm64-27.0.1-alpha05.jar returned status 404
 27.0.1-alpha05	metadata	2026-10-13T03:06:16Z	
 27.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.2.0/hig-core-iossimulatorarm64-27.2.0.jar returned status 404
+27.2.0	metadata	2026-10-27T14:08:10Z	
 27.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.2.1/hig-core-iossimulatorarm64-27.2.1.jar returned status 404
+27.2.1	metadata	2026-10-27T15:44:03Z	
 27.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.2.2/hig-core-iossimulatorarm64-27.2.2.jar returned status 404
+27.2.2	metadata	2026-10-28T13:38:27Z	
 27.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.2.3/hig-core-iossimulatorarm64-27.2.3.jar returned status 404
+27.2.3	metadata	2026-11-05T08:55:02Z	
 27.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.2.4/hig-core-iossimulatorarm64-27.2.4.jar returned status 404
+27.2.4	metadata	2026-11-06T13:51:36Z	
 27.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.2.5/hig-core-iossimulatorarm64-27.2.5.jar returned status 404
+27.2.5	metadata	2026-11-07T16:29:47Z	
 27.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/zone/ien/hig/hig-core-iossimulatorarm64/27.2.6/hig-core-iossimulatorarm64-27.2.6.jar returned status 404
+27.2.6	metadata	2026-11-08T01:36:04Z	
