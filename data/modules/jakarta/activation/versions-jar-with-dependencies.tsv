@@ -1844,3 +1844,9 @@
 7.7	named	org.uma.jmetal	jmetal-core	2026-10-05T10:51:44Z	
 1.6.0	named	com.newrelic.labs	otel-mule4-observability-agent	2026-10-07T11:03:01Z	
 7.8	named	org.uma.jmetal	jmetal-core	2026-10-13T10:26:03Z	
+1.1.10	named	org.tinystruct	tinystruct-netty-http-server	2026-10-25T15:07:04Z	2.1.4
+1.1.11	named	org.tinystruct	tinystruct-netty-http-server	2026-10-26T16:46:56Z	2.1.4
+7.9	named	org.uma.jmetal	jmetal-core	2026-10-28T16:51:39Z	
+7.10	named	org.uma.jmetal	jmetal-core	2026-11-03T15:41:35Z	
+7.11	named	org.uma.jmetal	jmetal-core	2026-11-05T17:30:24Z	
+1.1.12	named	org.tinystruct	tinystruct-netty-http-server	2026-11-08T15:30:00Z	2.1.4

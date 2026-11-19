@@ -5487,3 +5487,8 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 3.9.7	named	com.aliyun.odps	odps-jdbc	2026-10-20T10:22:26Z	2.21
 1.5.4	named	com.github.egonw	jqudt	2026-10-20T10:52:10Z	2.22
 1.1.1	named	com.arinits.nullguard	nullguard-cli	2026-10-21T18:23:31Z	2.16.1
+7.0.8	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-21T23:57:11Z	2.22
+7.0.9	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-23T22:17:22Z	2.22
+7.0.10	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-26T01:38:00Z	2.22
+7.0.11	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-26T13:19:31Z	2.22
+7.0.12	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-11-01T04:40:08Z	2.22

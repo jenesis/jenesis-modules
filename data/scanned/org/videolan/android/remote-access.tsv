@@ -1,0 +1,3 @@
+0.25.0		2026-10-21T06:37:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/videolan/android/remote-access/0.25.0/remote-access-0.25.0.jar returned status 404
+0.26.0		2026-10-29T08:08:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/videolan/android/remote-access/0.26.0/remote-access-0.26.0.jar returned status 404
+0.27.0		2026-11-03T11:47:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/videolan/android/remote-access/0.27.0/remote-access-0.27.0.jar returned status 404

@@ -1,0 +1,2 @@
+1.0.0-beta01		2026-10-23T02:03:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tasks/etebase-android/1.0.0-beta01/etebase-android-1.0.0-beta01.jar returned status 404
+1.0.0-beta02		2026-10-23T07:57:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/tasks/etebase-android/1.0.0-beta02/etebase-android-1.0.0-beta02.jar returned status 404

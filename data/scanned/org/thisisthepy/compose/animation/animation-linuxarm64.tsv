@@ -1,0 +1,2 @@
+1.11.1-ext.1		2026-10-24T12:26:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thisisthepy/compose/animation/animation-linuxarm64/1.11.1-ext.1/animation-linuxarm64-1.11.1-ext.1.jar returned status 404
+1.11.1-ext.2		2026-10-24T23:57:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thisisthepy/compose/animation/animation-linuxarm64/1.11.1-ext.2/animation-linuxarm64-1.11.1-ext.2.jar returned status 404

@@ -1,0 +1,2 @@
+1.11.1-ext.1		2026-10-24T12:26:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thisisthepy/compose/desktop/desktop-jvm-macos-arm64/1.11.1-ext.1/desktop-jvm-macos-arm64-1.11.1-ext.1.jar returned status 404
+1.11.1-ext.2		2026-10-24T23:57:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thisisthepy/compose/desktop/desktop-jvm-macos-arm64/1.11.1-ext.2/desktop-jvm-macos-arm64-1.11.1-ext.2.jar returned status 404
