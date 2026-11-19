@@ -7,4 +7,6 @@
 0.0.5		2026-09-29T07:07:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/schwarz/opensource/natrium/natrium-core-iossimulatorarm64/0.0.5/natrium-core-iossimulatorarm64-0.0.5.jar returned status 404
 0.0.5	metadata	2026-09-29T07:07:45Z	
 0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/schwarz/opensource/natrium/natrium-core-iossimulatorarm64/0.1.1/natrium-core-iossimulatorarm64-0.1.1.jar returned status 404
+0.1.1	metadata	2026-11-10T15:41:07Z	
 0.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/schwarz/opensource/natrium/natrium-core-iossimulatorarm64/0.1.2/natrium-core-iossimulatorarm64-0.1.2.jar returned status 404
+0.1.2	metadata	2026-11-11T14:50:10Z	

@@ -368,3 +368,4 @@
 1.4.2	named	io.krabka	krabka-streams-coordination	2026-10-03T09:41:46Z	2.21.2
 0.1.2	named	com.arize	openinference-instrumentation-adk-java	2026-10-07T20:31:50Z	2.17.0
 4.45.0	named	com.algolia	algoliasearch	2026-10-12T15:00:56Z	2.15.2
+2.4.0	named	software.amazon.msk	aws-msk-iam-auth	2026-11-10T23:47:20Z	2.22.1

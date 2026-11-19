@@ -108,3 +108,4 @@
 3.9.1	named	org.apache.james	james-server-guice-custom-mailets	2026-09-25T13:57:17Z	3.0.0
 1.1.9	named	org.tinystruct	tinystruct-tomcat-server	2026-10-02T09:11:38Z	3.0
 2.62.0	named	com.datadoghq	datadog-api-client	2026-10-13T12:36:11Z	2.1.0
+0.7.1	named	se.swedenconnect.keycloak	pkcs11	2026-10-19T09:58:37Z	3.0.0
