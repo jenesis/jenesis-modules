@@ -34,3 +34,4 @@
 5.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/geofence/5.4.0/geofence-5.4.0.jar returned status 404
 6.0.0		2026-07-07T08:45:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/geofence/6.0.0/geofence-6.0.0.jar returned status 404
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/geofence/6.1.0/geofence-6.1.0.jar returned status 404
+6.1.1		2026-11-16T06:44:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/moengage/geofence/6.1.1/geofence-6.1.1.jar returned status 404
