@@ -1,0 +1,2 @@
+0.2.0		2026-11-14T19:40:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/topaz/quarkus-topaz-security-parent/0.2.0/quarkus-topaz-security-parent-0.2.0.jar returned status 404
+0.2.1		2026-11-14T21:54:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/topaz/quarkus-topaz-security-parent/0.2.1/quarkus-topaz-security-parent-0.2.1.jar returned status 404

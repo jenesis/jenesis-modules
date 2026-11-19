@@ -1,0 +1,4 @@
+0.1.0-alpha.1		2026-10-24T00:06:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zanswer/zpo/providers/meta/0.1.0-alpha.1/meta-0.1.0-alpha.1.jar returned status 404
+0.1.0-alpha.2		2026-10-26T06:56:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zanswer/zpo/providers/meta/0.1.0-alpha.2/meta-0.1.0-alpha.2.jar returned status 404
+0.1.0-alpha.3		2026-11-01T22:05:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zanswer/zpo/providers/meta/0.1.0-alpha.3/meta-0.1.0-alpha.3.jar returned status 404
+0.2.0-alpha.1		2026-11-03T04:40:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zanswer/zpo/providers/meta/0.2.0-alpha.1/meta-0.2.0-alpha.1.jar returned status 404

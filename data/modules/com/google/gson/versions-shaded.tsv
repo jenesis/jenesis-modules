@@ -7067,3 +7067,8 @@
 4.3.0	named	com.aliyun	dms20250414	2026-10-21T17:36:31Z	2.11.0
 3.7.5	named	com.aliyun	nas20170626	2026-10-21T17:36:31Z	2.11.0
 9.0.2	named	com.aliyun	polardb20170801	2026-10-21T17:36:31Z	2.11.0
+4.0.0.Beta2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-10-28T18:19:14Z	2.10
+4.0.0.Beta3	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-04T15:00:07Z	2.10
+3.40.1.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-09T11:40:00Z	2.10
+3.33.4.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-09T11:40:00Z	2.10
+4.0.0.CR1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-11T12:30:17Z	2.10

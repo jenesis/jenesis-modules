@@ -1,4 +1,11 @@
 2.6.0			
+2.6.0	linux-aarch_64	2026-11-10T21:39:55Z	
+2.6.0	linux-x86_64	2026-11-10T21:39:54Z	
+2.6.0	linux_musl_aarch64	2026-11-10T21:39:54Z	
+2.6.0	linux_musl_x86_64	2026-11-10T21:39:55Z	
+2.6.0	osx-aarch_64	2026-11-10T21:39:54Z	
+2.6.0	osx-x86_64	2026-11-10T21:39:54Z	
+2.6.0	windows-x86_64	2026-11-10T21:39:55Z	
 2.6.0-rc1		2026-10-16T19:26:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/valkey/valkey-glide-jedis-compat-shared/2.6.0-rc1/valkey-glide-jedis-compat-shared-2.6.0-rc1.jar returned status 404
 2.6.0-rc1	linux-aarch_64	2026-10-16T19:26:16Z	
 2.6.0-rc1	linux-x86_64	2026-10-16T19:26:16Z	
@@ -8,6 +15,34 @@
 2.6.0-rc1	osx-x86_64	2026-10-16T19:26:16Z	
 2.6.0-rc1	windows-x86_64	2026-10-16T19:26:16Z	
 2.6.0-rc2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/valkey/valkey-glide-jedis-compat-shared/2.6.0-rc2/valkey-glide-jedis-compat-shared-2.6.0-rc2.jar returned status 404
+2.6.0-rc2	linux-aarch_64	2026-11-02T23:49:47Z	
+2.6.0-rc2	linux-x86_64	2026-11-02T23:49:47Z	
+2.6.0-rc2	linux_musl_aarch64	2026-11-02T23:49:47Z	
+2.6.0-rc2	linux_musl_x86_64	2026-11-02T23:49:47Z	
+2.6.0-rc2	osx-aarch_64	2026-11-02T23:49:47Z	
+2.6.0-rc2	osx-x86_64	2026-11-02T23:49:47Z	
+2.6.0-rc2	windows-x86_64	2026-11-02T23:49:47Z	
 2.6.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/valkey/valkey-glide-jedis-compat-shared/2.6.0-rc3/valkey-glide-jedis-compat-shared-2.6.0-rc3.jar returned status 404
+2.6.0-rc3	linux-aarch_64	2026-11-05T05:56:49Z	
+2.6.0-rc3	linux-x86_64	2026-11-05T05:56:49Z	
+2.6.0-rc3	linux_musl_aarch64	2026-11-05T05:56:49Z	
+2.6.0-rc3	linux_musl_x86_64	2026-11-05T05:56:49Z	
+2.6.0-rc3	osx-aarch_64	2026-11-05T05:56:49Z	
+2.6.0-rc3	osx-x86_64	2026-11-05T05:56:49Z	
+2.6.0-rc3	windows-x86_64	2026-11-05T05:56:49Z	
 2.6.0-rc4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/valkey/valkey-glide-jedis-compat-shared/2.6.0-rc4/valkey-glide-jedis-compat-shared-2.6.0-rc4.jar returned status 404
+2.6.0-rc4	linux-aarch_64	2026-11-05T23:20:12Z	
+2.6.0-rc4	linux-x86_64	2026-11-05T23:20:12Z	
+2.6.0-rc4	linux_musl_aarch64	2026-11-05T23:20:12Z	
+2.6.0-rc4	linux_musl_x86_64	2026-11-05T23:20:12Z	
+2.6.0-rc4	osx-aarch_64	2026-11-05T23:20:12Z	
+2.6.0-rc4	osx-x86_64	2026-11-05T23:20:12Z	
+2.6.0-rc4	windows-x86_64	2026-11-05T23:20:12Z	
 2.6.0-rc5			
+2.6.0-rc5	linux-aarch_64	2026-11-10T01:54:55Z	
+2.6.0-rc5	linux-x86_64	2026-11-10T01:54:55Z	
+2.6.0-rc5	linux_musl_aarch64	2026-11-10T01:54:55Z	
+2.6.0-rc5	linux_musl_x86_64	2026-11-10T01:54:56Z	
+2.6.0-rc5	osx-aarch_64	2026-11-10T01:54:55Z	
+2.6.0-rc5	osx-x86_64	2026-11-10T01:54:55Z	
+2.6.0-rc5	windows-x86_64	2026-11-10T01:54:55Z	

@@ -1,0 +1,2 @@
+1.0.0		2026-11-11T17:16:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/yupiik/hop/junit/hop-junit-documentation/1.0.0/hop-junit-documentation-1.0.0.jar returned status 404
+1.0.1		2026-11-12T14:31:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/yupiik/hop/junit/hop-junit-documentation/1.0.1/hop-junit-documentation-1.0.1.jar returned status 404

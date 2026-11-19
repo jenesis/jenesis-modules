@@ -1,0 +1,4 @@
+0.1.0-alpha.1		2026-10-24T00:06:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zanswer/zpo/zpo-bom/0.1.0-alpha.1/zpo-bom-0.1.0-alpha.1.jar returned status 404
+0.1.0-alpha.2		2026-10-26T06:56:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zanswer/zpo/zpo-bom/0.1.0-alpha.2/zpo-bom-0.1.0-alpha.2.jar returned status 404
+0.1.0-alpha.3		2026-11-01T22:05:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zanswer/zpo/zpo-bom/0.1.0-alpha.3/zpo-bom-0.1.0-alpha.3.jar returned status 404
+0.2.0-alpha.1		2026-11-03T03:59:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/zanswer/zpo/zpo-bom/0.2.0-alpha.1/zpo-bom-0.2.0-alpha.1.jar returned status 404

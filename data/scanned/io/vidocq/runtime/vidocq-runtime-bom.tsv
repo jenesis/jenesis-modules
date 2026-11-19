@@ -1,0 +1,2 @@
+0.4.0-RC1		2026-10-26T06:32:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vidocq/runtime/vidocq-runtime-bom/0.4.0-RC1/vidocq-runtime-bom-0.4.0-RC1.jar returned status 404
+0.4.0-RC2		2026-11-06T01:16:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/vidocq/runtime/vidocq-runtime-bom/0.4.0-RC2/vidocq-runtime-bom-0.4.0-RC2.jar returned status 404

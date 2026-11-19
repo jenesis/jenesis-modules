@@ -1,0 +1,2 @@
+0.5.0		2026-10-22T08:19:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/splithub/splithub/0.5.0/splithub-0.5.0.jar returned status 404
+0.5.1		2026-10-26T10:23:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/splithub/splithub/0.5.1/splithub-0.5.1.jar returned status 404

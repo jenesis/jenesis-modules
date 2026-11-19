@@ -1,0 +1,2 @@
+3.0.0		2026-11-10T14:07:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wisetrack/sdk/core-tools/3.0.0/core-tools-3.0.0.jar returned status 404
+3.1.0		2026-11-14T10:04:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/wisetrack/sdk/core-tools/3.1.0/core-tools-3.1.0.jar returned status 404
