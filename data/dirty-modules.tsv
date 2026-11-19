@@ -967,3 +967,4 @@ org.openverify.sdk
 feign.webflux
 feign.jaxrs
 feign.api
+io.github.onblog.limiter
