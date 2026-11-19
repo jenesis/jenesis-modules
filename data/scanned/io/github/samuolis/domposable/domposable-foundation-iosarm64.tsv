@@ -27,37 +27,67 @@
 0.15.4		2026-10-19T19:23:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.15.4/domposable-foundation-iosarm64-0.15.4.jar returned status 404
 0.15.4	metadata	2026-10-19T19:23:55Z	
 0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.16.0/domposable-foundation-iosarm64-0.16.0.jar returned status 404
+0.16.0	metadata	2026-10-20T05:27:10Z	
 0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.17.0/domposable-foundation-iosarm64-0.17.0.jar returned status 404
+0.17.0	metadata	2026-10-20T10:42:25Z	
 0.17.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.17.1/domposable-foundation-iosarm64-0.17.1.jar returned status 404
+0.17.1	metadata	2026-10-20T15:21:40Z	
 0.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.18.0/domposable-foundation-iosarm64-0.18.0.jar returned status 404
+0.18.0	metadata	2026-10-20T22:32:17Z	
 0.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.18.1/domposable-foundation-iosarm64-0.18.1.jar returned status 404
+0.18.1	metadata	2026-10-21T20:58:45Z	
 0.19.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.19.0/domposable-foundation-iosarm64-0.19.0.jar returned status 404
+0.19.0	metadata	2026-10-22T06:36:53Z	
 0.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.19.1/domposable-foundation-iosarm64-0.19.1.jar returned status 404
+0.19.1	metadata	2026-10-22T12:28:07Z	
 0.19.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.19.2/domposable-foundation-iosarm64-0.19.2.jar returned status 404
+0.19.2	metadata	2026-10-22T14:11:58Z	
 0.19.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.19.3/domposable-foundation-iosarm64-0.19.3.jar returned status 404
+0.19.3	metadata	2026-10-22T22:46:57Z	
 0.19.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.19.4/domposable-foundation-iosarm64-0.19.4.jar returned status 404
+0.19.4	metadata	2026-10-23T02:41:55Z	
 0.2.0		2026-10-12T04:41:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.2.0/domposable-foundation-iosarm64-0.2.0.jar returned status 404
 0.2.0	metadata	2026-10-12T04:41:46Z	
 0.20.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.20.0/domposable-foundation-iosarm64-0.20.0.jar returned status 404
+0.20.0	metadata	2026-10-23T06:32:55Z	
 0.20.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.20.1/domposable-foundation-iosarm64-0.20.1.jar returned status 404
+0.20.1	metadata	2026-10-23T11:47:41Z	
 0.20.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.20.2/domposable-foundation-iosarm64-0.20.2.jar returned status 404
+0.20.2	metadata	2026-10-23T14:57:28Z	
 0.20.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.20.3/domposable-foundation-iosarm64-0.20.3.jar returned status 404
+0.20.3	metadata	2026-10-24T07:47:12Z	
 0.21.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.21.0/domposable-foundation-iosarm64-0.21.0.jar returned status 404
+0.21.0	metadata	2026-10-24T20:32:47Z	
 0.22.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.22.0/domposable-foundation-iosarm64-0.22.0.jar returned status 404
+0.22.0	metadata	2026-10-25T13:37:38Z	
 0.22.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.22.1/domposable-foundation-iosarm64-0.22.1.jar returned status 404
+0.22.1	metadata	2026-10-25T16:47:46Z	
 0.22.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.22.2/domposable-foundation-iosarm64-0.22.2.jar returned status 404
+0.22.2	metadata	2026-10-25T20:52:18Z	
 0.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.23.0/domposable-foundation-iosarm64-0.23.0.jar returned status 404
+0.23.0	metadata	2026-10-26T06:22:06Z	
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.23.1/domposable-foundation-iosarm64-0.23.1.jar returned status 404
+0.23.1	metadata	2026-10-26T17:28:02Z	
 0.24.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.24.0/domposable-foundation-iosarm64-0.24.0.jar returned status 404
+0.24.0	metadata	2026-10-26T21:05:13Z	
 0.24.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.24.1/domposable-foundation-iosarm64-0.24.1.jar returned status 404
+0.24.1	metadata	2026-10-27T20:24:05Z	
 0.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.25.0/domposable-foundation-iosarm64-0.25.0.jar returned status 404
+0.25.0	metadata	2026-10-27T22:27:13Z	
 0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.26.0/domposable-foundation-iosarm64-0.26.0.jar returned status 404
+0.26.0	metadata	2026-10-29T06:29:25Z	
 0.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.26.1/domposable-foundation-iosarm64-0.26.1.jar returned status 404
+0.26.1	metadata	2026-10-30T08:08:45Z	
 0.26.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.26.2/domposable-foundation-iosarm64-0.26.2.jar returned status 404
+0.26.2	metadata	2026-10-31T06:10:41Z	
 0.26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.26.3/domposable-foundation-iosarm64-0.26.3.jar returned status 404
+0.26.3	metadata	2026-11-02T18:15:02Z	
 0.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.26.4/domposable-foundation-iosarm64-0.26.4.jar returned status 404
+0.26.4	metadata	2026-11-04T06:25:35Z	
 0.26.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.26.5/domposable-foundation-iosarm64-0.26.5.jar returned status 404
+0.26.5	metadata	2026-11-04T22:40:12Z	
 0.26.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.26.6/domposable-foundation-iosarm64-0.26.6.jar returned status 404
+0.26.6	metadata	2026-11-08T14:30:14Z	
 0.3.0		2026-10-12T15:36:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.3.0/domposable-foundation-iosarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2026-10-12T15:36:25Z	
 0.4.0		2026-10-13T05:46:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-foundation-iosarm64/0.4.0/domposable-foundation-iosarm64-0.4.0.jar returned status 404
