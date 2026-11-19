@@ -1,0 +1,3 @@
+0.5.0		2026-10-24T01:27:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shepherdyun/shepherd-parent/0.5.0/shepherd-parent-0.5.0.jar returned status 404
+0.5.0-RC1		2026-10-24T00:31:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shepherdyun/shepherd-parent/0.5.0-RC1/shepherd-parent-0.5.0-RC1.jar returned status 404
+0.5.1		2026-11-05T03:16:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/shepherdyun/shepherd-parent/0.5.1/shepherd-parent-0.5.1.jar returned status 404

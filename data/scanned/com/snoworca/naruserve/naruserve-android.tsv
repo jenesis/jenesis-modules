@@ -1,0 +1,3 @@
+0.10.0		2026-10-28T21:32:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/snoworca/naruserve/naruserve-android/0.10.0/naruserve-android-0.10.0.jar returned status 404
+0.11.0		2026-11-09T04:55:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/snoworca/naruserve/naruserve-android/0.11.0/naruserve-android-0.11.0.jar returned status 404
+0.9.0		2026-10-27T06:27:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/snoworca/naruserve/naruserve-android/0.9.0/naruserve-android-0.9.0.jar returned status 404

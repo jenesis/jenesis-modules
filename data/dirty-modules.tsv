@@ -1452,3 +1452,17 @@ com.standardapplied.helios.gemini
 com.standardapplied.helios.core
 com.standardapplied.helios.anthropic
 kotlin.stdlib.jdk8
+org.apache.datasketches.memory
+com.skycong.httprawlog
+com.skanavi.javaguard.tun
+com.skanavi.javaguard.server
+com.skanavi.javaguard.proxy
+com.skanavi.javaguard.netstack
+com.skanavi.javaguard.crypto
+com.skanavi.javaguard.core
+com.skanavi.javaguard.config
+com.skanavi.javaguard.cli
+com.sitegoose.analytics
+com.simbachain.vdr
+org.checkerframework.checker.qual
+com.signwell.sdk

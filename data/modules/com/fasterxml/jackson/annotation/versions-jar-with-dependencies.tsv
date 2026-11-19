@@ -5490,11 +5490,13 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 1.1.1	named	com.arinits.nullguard	nullguard-cli	2026-10-21T18:23:31Z	2.16.1
 7.0.8	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-21T23:57:11Z	2.22
 4.0.0	named	io.orangebeard	java-client	2026-10-23T18:17:25Z	2.22
+11.71.0	named	com.silanis.esl	esl-java-sdk	2026-10-23T18:38:10Z	2.18.2
 7.0.9	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-23T22:17:22Z	2.22
 7.0.10	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-26T01:38:00Z	2.22
 7.0.11	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-26T13:19:31Z	2.22
 9.2.0	named	org.mock-server	mockserver-k8s-webhook	2026-10-26T21:42:23Z	2.22
 8.778.45	named	com.yahoo.vespa	config-application-package	2026-10-27T06:17:10Z	2.22
+7.4.0	named	com.smartystreets.api	smartystreets-java-sdk	2026-10-29T16:33:15Z	2.21
 7.0.12	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-11-01T04:40:08Z	2.22
 8.781.11	named	com.yahoo.vespa	config-application-package	2026-11-02T03:20:04Z	2.22
 0.25.3	named	io.github.astonbitecode	j4rs	2026-11-02T10:03:43Z	2.22
