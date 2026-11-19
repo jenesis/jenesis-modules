@@ -10,7 +10,9 @@
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/scopemob-iosarm64/3.0.1/scopemob-iosarm64-3.0.1.jar returned status 404
 3.0.1	metadata	2026-10-04T07:41:05Z	
 3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/scopemob-iosarm64/3.0.10/scopemob-iosarm64-3.0.10.jar returned status 404
+3.0.10	metadata	2026-11-05T20:26:35Z	
 3.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/scopemob-iosarm64/3.0.11/scopemob-iosarm64-3.0.11.jar returned status 404
+3.0.11	metadata	2026-11-07T16:56:12Z	
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/scopemob-iosarm64/3.0.2/scopemob-iosarm64-3.0.2.jar returned status 404
 3.0.2	metadata	2026-10-11T06:56:20Z	
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/scopemob-iosarm64/3.0.3/scopemob-iosarm64-3.0.3.jar returned status 404
@@ -24,4 +26,6 @@
 3.0.7		2026-10-20T20:03:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/scopemob-iosarm64/3.0.7/scopemob-iosarm64-3.0.7.jar returned status 404
 3.0.7	metadata	2026-10-20T20:03:13Z	
 3.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/scopemob-iosarm64/3.0.8/scopemob-iosarm64-3.0.8.jar returned status 404
+3.0.8	metadata	2026-10-27T21:47:26Z	
 3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/scopemob-iosarm64/3.0.9/scopemob-iosarm64-3.0.9.jar returned status 404
+3.0.9	metadata	2026-11-02T18:20:47Z	

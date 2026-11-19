@@ -10,7 +10,9 @@
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/parsermob-iossimulatorarm64/2.0.1/parsermob-iossimulatorarm64-2.0.1.jar returned status 404
 2.0.1	metadata	2026-10-04T07:41:05Z	
 2.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/parsermob-iossimulatorarm64/2.0.10/parsermob-iossimulatorarm64-2.0.10.jar returned status 404
+2.0.10	metadata	2026-11-05T20:26:35Z	
 2.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/parsermob-iossimulatorarm64/2.0.11/parsermob-iossimulatorarm64-2.0.11.jar returned status 404
+2.0.11	metadata	2026-11-07T16:56:12Z	
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/parsermob-iossimulatorarm64/2.0.2/parsermob-iossimulatorarm64-2.0.2.jar returned status 404
 2.0.2	metadata	2026-10-11T06:56:20Z	
 2.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/parsermob-iossimulatorarm64/2.0.3/parsermob-iossimulatorarm64-2.0.3.jar returned status 404
@@ -24,4 +26,6 @@
 2.0.7		2026-10-20T20:12:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/parsermob-iossimulatorarm64/2.0.7/parsermob-iossimulatorarm64-2.0.7.jar returned status 404
 2.0.7	metadata	2026-10-20T20:12:19Z	
 2.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/parsermob-iossimulatorarm64/2.0.8/parsermob-iossimulatorarm64-2.0.8.jar returned status 404
+2.0.8	metadata	2026-10-27T21:47:26Z	
 2.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/submob/parsermob-iossimulatorarm64/2.0.9/parsermob-iossimulatorarm64-2.0.9.jar returned status 404
+2.0.9	metadata	2026-11-02T18:15:00Z	

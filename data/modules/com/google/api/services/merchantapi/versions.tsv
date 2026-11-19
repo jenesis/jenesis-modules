@@ -493,3 +493,17 @@ promotions_v1beta-rev20261026-2.9.2	automatic	com.google.apis	google-api-service
 accounts_v1beta-rev20261103-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-06T15:18:26Z	
 accounts_v1-rev20261103-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-06T15:18:27Z	
 datasources_v1-rev20261104-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-07T01:26:21Z	
+products_v1-rev20261106-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-09T01:35:35Z	
+reports_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+quota_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+promotions_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+products_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+ordertracking_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+notifications_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+loyaltycustomers_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+lfp_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+issueresolution_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+inventories_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+datasources_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+conversions_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	
+accounts_v1-rev20261110-2.9.2	automatic	com.google.apis	google-api-services-merchantapi	2026-11-14T01:26:17Z	

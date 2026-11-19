@@ -1,0 +1,3 @@
+4.0.6		2026-11-11T12:30:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-compiler-linuxarm64/4.0.6/native-kt-core-compiler-linuxarm64-4.0.6.jar returned status 404
+4.0.7		2026-11-14T18:39:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-compiler-linuxarm64/4.0.7/native-kt-core-compiler-linuxarm64-4.0.7.jar returned status 404
+4.0.8		2026-11-15T10:10:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-compiler-linuxarm64/4.0.8/native-kt-core-compiler-linuxarm64-4.0.8.jar returned status 404

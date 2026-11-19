@@ -985,6 +985,7 @@
 5.0.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-24T04:41:26Z	2.0.72.Final
 4.151.7	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-24T08:02:41Z	2.0.72.Final
 4.152.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-24T13:42:11Z	2.0.72.Final
+1.0.0	named	com.graftcode	graftcode-gateway-sdk	2026-10-26T11:20:08Z	2.0.70.Final
 2.2.2	named	org.apache.ozone	ozone-filesystem-shaded	2026-10-26T18:09:53Z	2.0.84.Final
 4.151.8	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-27T10:18:19Z	2.0.72.Final
 4.152.2	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-10-27T12:52:33Z	2.0.72.Final
@@ -1014,6 +1015,15 @@
 7.1.6	named	com.microsoft.azure.kusto	kusto-spark_4.0_2.13	2026-11-09T09:40:12Z	2.0.85.Final
 0.23.4	named	com.spotify.confidence	openfeature-provider-local	2026-11-09T17:15:15Z	2.0.72.Final
 5.0.6	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-09T19:25:19Z	2.0.72.Final
+5.2.0	named	com.google.appengine	runtime-impl-jetty12	2026-11-11T08:07:36Z	2.0.81.Final
+5.2.0	named	com.google.appengine	runtime-impl-jetty121	2026-11-11T08:07:36Z	2.0.81.Final
+48.2.0	named	com.google.api-ads	google-ads-shadowjar	2026-11-11T22:16:29Z	2.0.75.Final
+1.5.1	named	com.google.cloud.spark.spanner	spark-3.1-spanner	2026-11-12T23:36:24Z	2.0.81.Final
+1.5.1	named	com.google.cloud.spark.spanner	spark-3.3-spanner	2026-11-12T23:36:24Z	2.0.81.Final
+1.5.1	named	com.google.cloud.spark.spanner	spark-3.5-spanner	2026-11-12T23:36:24Z	2.0.81.Final
+1.5.1	named	com.google.cloud.spark.spanner	spark-4.0-spanner	2026-11-12T23:36:24Z	2.0.81.Final
+1.5.1	named	com.google.cloud.spark.spanner	spark-3.2-spanner	2026-11-12T23:36:25Z	2.0.81.Final
+1.5.1	named	com.google.cloud.spark.spanner	spark-4.1-spanner	2026-11-12T23:36:25Z	2.0.81.Final
 0.4.16	named	com.salesforce.multicloudj	multicloudj-examples	2026-11-13T02:39:58Z	2.0.75.Final
 5.3.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-14T04:55:19Z	2.0.72.Final
 5.3.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-15T02:35:07Z	2.0.72.Final

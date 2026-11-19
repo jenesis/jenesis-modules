@@ -261,3 +261,6 @@ v20261028			InvalidModuleDescriptorException: Package com.google.gson.stream mis
 v20261102			InvalidModuleDescriptorException: Package com.google.gson.stream missing from ModulePackages class file attribute
 v20261103			InvalidModuleDescriptorException: Package com.google.gson.stream missing from ModulePackages class file attribute
 v20261104			InvalidModuleDescriptorException: Package com.google.gson.stream missing from ModulePackages class file attribute
+v20261108		2026-11-09T17:06:55Z	InvalidModuleDescriptorException: Package com.google.gson.stream missing from ModulePackages class file attribute
+v20261109		2026-11-10T20:22:32Z	InvalidModuleDescriptorException: Package com.google.gson.stream missing from ModulePackages class file attribute
+v20261112		2026-11-16T17:36:06Z	InvalidModuleDescriptorException: Package com.google.gson.stream missing from ModulePackages class file attribute

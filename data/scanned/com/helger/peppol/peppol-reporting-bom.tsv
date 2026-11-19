@@ -1,0 +1,2 @@
+4.4.2		2026-11-15T13:40:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol/peppol-reporting-bom/4.4.2/peppol-reporting-bom-4.4.2.jar returned status 404
+4.5.0		2026-11-16T11:26:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/peppol/peppol-reporting-bom/4.5.0/peppol-reporting-bom-4.5.0.jar returned status 404

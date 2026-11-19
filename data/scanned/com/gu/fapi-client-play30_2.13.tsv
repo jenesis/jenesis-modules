@@ -167,6 +167,9 @@
 47.0.0-PREVIEW.ec-bump-capiVersion.2026-10-29T1339.1716cc91			
 47.0.1			
 47.1.0			
+47.2.1		2026-11-10T17:19:26Z	
+47.2.2		2026-11-12T09:20:00Z	
+47.2.2-PREVIEW.abremove-flexible-special.2026-11-11T1001.b8e1c850		2026-11-11T10:13:09Z	
 5.0.0		2024-02-23T16:48:51Z	
 5.0.0-PREVIEW.prevent-runtime-incompatibility-with-early-semver-content-api-scala-client.2024-01-25T1557.dc2a96be		2024-01-25T16:02:19Z	
 5.0.0-PREVIEW.prevent-runtime-incompatibility-with-early-semver-content-api-scala-client.2024-01-25T1802.fd2cdc6a		2024-01-25T18:07:06Z	
