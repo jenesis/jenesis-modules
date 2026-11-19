@@ -34,3 +34,8 @@
 0.49.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/net/server-ktor-android/0.49.0/server-ktor-android-0.49.0.jar returned status 404
 0.50.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/net/server-ktor-android/0.50.0/server-ktor-android-0.50.0.jar returned status 404
 0.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/net/server-ktor-android/0.51.0/server-ktor-android-0.51.0.jar returned status 404
+0.52.0		2026-11-15T22:54:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/net/server-ktor-android/0.52.0/server-ktor-android-0.52.0.jar returned status 404
+0.53.0		2026-11-16T08:00:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/net/server-ktor-android/0.53.0/server-ktor-android-0.53.0.jar returned status 404
+0.54.0		2026-11-16T13:07:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/net/server-ktor-android/0.54.0/server-ktor-android-0.54.0.jar returned status 404
+0.55.0		2026-11-16T20:11:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/net/server-ktor-android/0.55.0/server-ktor-android-0.55.0.jar returned status 404
+0.56.0		2026-11-17T09:45:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/net/server-ktor-android/0.56.0/server-ktor-android-0.56.0.jar returned status 404
