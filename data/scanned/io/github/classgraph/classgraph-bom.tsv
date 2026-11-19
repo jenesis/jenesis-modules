@@ -1,0 +1,4 @@
+5.0.1		2026-10-28T07:27:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/classgraph/classgraph-bom/5.0.1/classgraph-bom-5.0.1.jar returned status 404
+5.0.2		2026-11-05T22:14:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/classgraph/classgraph-bom/5.0.2/classgraph-bom-5.0.2.jar returned status 404
+6.0.1		2026-10-28T07:43:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/classgraph/classgraph-bom/6.0.1/classgraph-bom-6.0.1.jar returned status 404
+6.0.2		2026-11-05T22:30:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/classgraph/classgraph-bom/6.0.2/classgraph-bom-6.0.2.jar returned status 404
