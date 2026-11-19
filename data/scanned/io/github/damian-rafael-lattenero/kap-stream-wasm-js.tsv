@@ -1,0 +1,4 @@
+5.0.0		2026-11-03T22:05:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/damian-rafael-lattenero/kap-stream-wasm-js/5.0.0/kap-stream-wasm-js-5.0.0.jar returned status 404
+5.1.0		2026-11-04T01:30:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/damian-rafael-lattenero/kap-stream-wasm-js/5.1.0/kap-stream-wasm-js-5.1.0.jar returned status 404
+5.2.0		2026-11-08T14:45:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/damian-rafael-lattenero/kap-stream-wasm-js/5.2.0/kap-stream-wasm-js-5.2.0.jar returned status 404
+5.2.1		2026-11-08T15:10:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/damian-rafael-lattenero/kap-stream-wasm-js/5.2.1/kap-stream-wasm-js-5.2.1.jar returned status 404

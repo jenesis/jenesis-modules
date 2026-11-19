@@ -11,3 +11,4 @@
 1.1.5		2026-09-09T12:58:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/elianfabian/kproxyable-runtime-iosarm64/1.1.5/kproxyable-runtime-iosarm64-1.1.5.jar returned status 404
 1.1.5	metadata	2026-09-09T12:58:11Z	
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/elianfabian/kproxyable-runtime-iosarm64/2.0.0/kproxyable-runtime-iosarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-11-12T20:44:50Z	

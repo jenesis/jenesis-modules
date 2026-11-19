@@ -1,0 +1,2 @@
+1.0.0		2026-10-29T14:56:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gamemainloop/deeploop-analytics-sdk/1.0.0/deeploop-analytics-sdk-1.0.0.jar returned status 404
+1.0.1		2026-10-30T14:01:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gamemainloop/deeploop-analytics-sdk/1.0.1/deeploop-analytics-sdk-1.0.1.jar returned status 404

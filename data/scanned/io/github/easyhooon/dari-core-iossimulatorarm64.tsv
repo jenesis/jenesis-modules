@@ -19,7 +19,12 @@
 2.6.0		2026-10-19T09:58:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-core-iossimulatorarm64/2.6.0/dari-core-iossimulatorarm64-2.6.0.jar returned status 404
 2.6.0	metadata	2026-10-19T09:58:36Z	
 2.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-core-iossimulatorarm64/2.7.0/dari-core-iossimulatorarm64-2.7.0.jar returned status 404
+2.7.0	metadata	2026-10-20T04:26:56Z	
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-core-iossimulatorarm64/2.8.0/dari-core-iossimulatorarm64-2.8.0.jar returned status 404
+2.8.0	metadata	2026-10-22T02:37:02Z	
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-core-iossimulatorarm64/2.9.0/dari-core-iossimulatorarm64-2.9.0.jar returned status 404
+2.9.0	metadata	2026-10-27T02:52:07Z	
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-core-iossimulatorarm64/3.0.0/dari-core-iossimulatorarm64-3.0.0.jar returned status 404
+3.0.0	metadata	2026-10-29T13:28:26Z	
 3.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/easyhooon/dari-core-iossimulatorarm64/3.7.0/dari-core-iossimulatorarm64-3.7.0.jar returned status 404
+3.7.0	metadata	2026-11-15T13:00:15Z	

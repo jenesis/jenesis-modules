@@ -1,0 +1,2 @@
+0.1.0		2026-10-24T10:52:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fellow99/node-bridge/0.1.0/node-bridge-0.1.0.jar returned status 404
+0.2.0		2026-10-25T11:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fellow99/node-bridge/0.2.0/node-bridge-0.2.0.jar returned status 404

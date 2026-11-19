@@ -1,0 +1,4 @@
+0.1.0		2026-11-02T15:26:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dharaneesh-srinivasan/columnwire-parent/0.1.0/columnwire-parent-0.1.0.jar returned status 404
+0.1.1		2026-11-02T17:15:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dharaneesh-srinivasan/columnwire-parent/0.1.1/columnwire-parent-0.1.1.jar returned status 404
+0.1.2		2026-11-02T17:19:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dharaneesh-srinivasan/columnwire-parent/0.1.2/columnwire-parent-0.1.2.jar returned status 404
+0.2.0		2026-11-03T16:49:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dharaneesh-srinivasan/columnwire-parent/0.2.0/columnwire-parent-0.2.0.jar returned status 404

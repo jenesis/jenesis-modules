@@ -1,0 +1,5 @@
+18.20.4		2026-10-24T10:16:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fellow99/node-runtime/18.20.4/node-runtime-18.20.4.jar returned status 404
+22.23.4		2026-11-01T06:15:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fellow99/node-runtime/22.23.4/node-runtime-22.23.4.jar returned status 404
+24.2.0		2026-10-25T10:52:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fellow99/node-runtime/24.2.0/node-runtime-24.2.0.jar returned status 404
+24.22.1		2026-10-27T16:43:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fellow99/node-runtime/24.22.1/node-runtime-24.22.1.jar returned status 404
+26.13.0		2026-11-01T07:25:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/fellow99/node-runtime/26.13.0/node-runtime-26.13.0.jar returned status 404

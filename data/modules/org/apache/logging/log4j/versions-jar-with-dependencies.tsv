@@ -1302,4 +1302,5 @@ v2.2	named	net.sf.automatic-report-generator	xls-generator	2022-06-13T19:56:49Z	
 1.1.17	named	com.alibaba.dts.client	dts-uniform-subscribe-sdk-api	2026-07-14T10:32:30Z	2.17.1
 5.0.3	named	org.springframework.cloud	spring-cloud-build-docs	2026-08-20T13:52:17Z	2.25.5
 1.2.0	named	org.wordinator	wordinator	2026-10-10T19:40:06Z	2.24.3
+2.0.8	named	io.github.egonw	nanojava	2026-10-21T06:32:04Z	2.26.0
 5.0.4	named	org.springframework.cloud	spring-cloud-build-docs	2026-10-22T13:02:41Z	2.25.5
