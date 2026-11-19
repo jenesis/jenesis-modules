@@ -1,0 +1,6 @@
+1.1.0		2026-10-27T17:47:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jantursky/stipple-components-iosarm64/1.1.0/stipple-components-iosarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-10-27T17:47:32Z	
+1.1.2		2026-10-28T22:22:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jantursky/stipple-components-iosarm64/1.1.2/stipple-components-iosarm64-1.1.2.jar returned status 404
+1.1.2	metadata	2026-10-28T22:22:13Z	
+1.2.0		2026-11-07T15:45:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jantursky/stipple-components-iosarm64/1.2.0/stipple-components-iosarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-11-07T15:45:40Z	

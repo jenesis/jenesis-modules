@@ -11,4 +11,7 @@
 1.0.2	test-fixtures	2026-07-05T11:07:15Z	
 1.0.2	test-fixtures-sources	2026-07-05T11:07:15Z	
 1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/fixtures/1.1.0/fixtures-1.1.0.jar returned status 404
+1.1.0	plain	2026-11-03T15:58:04Z	
+1.1.0	test-fixtures	2026-11-03T15:58:04Z	
+1.1.0	test-fixtures-sources	2026-11-03T15:58:04Z	
 1.2.0			

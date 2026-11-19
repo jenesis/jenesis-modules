@@ -1,0 +1,4 @@
+2.0.0-alpha01		2026-11-04T23:10:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/javierpe/dynamic-pages-iosarm64/2.0.0-alpha01/dynamic-pages-iosarm64-2.0.0-alpha01.jar returned status 404
+2.0.0-alpha01	metadata	2026-11-04T23:10:00Z	
+2.0.0-alpha02		2026-11-05T03:05:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/javierpe/dynamic-pages-iosarm64/2.0.0-alpha02/dynamic-pages-iosarm64-2.0.0-alpha02.jar returned status 404
+2.0.0-alpha02	metadata	2026-11-05T03:05:43Z	

@@ -1,0 +1,2 @@
+1.6.1		2026-10-30T14:31:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jichuo1/lumen-controls/1.6.1/lumen-controls-1.6.1.jar returned status 404
+1.6.2		2026-11-11T08:45:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jichuo1/lumen-controls/1.6.2/lumen-controls-1.6.2.jar returned status 404

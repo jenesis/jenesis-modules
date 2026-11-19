@@ -16,11 +16,35 @@
 1.0.3	test-fixtures-sources	2026-08-14T09:40:23Z	
 2.0.0			
 2.0.0-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/2.0.0-beta-1/jwt-security-2.0.0-beta-1.jar returned status 404
+2.0.0-beta-1	plain	2026-11-03T14:05:00Z	
+2.0.0-beta-1	test-fixtures	2026-11-03T14:05:00Z	
+2.0.0-beta-1	test-fixtures-sources	2026-11-03T14:05:00Z	
 2.0.0-beta-2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/2.0.0-beta-2/jwt-security-2.0.0-beta-2.jar returned status 404
+2.0.0-beta-2	plain	2026-11-03T14:21:06Z	
+2.0.0-beta-2	test-fixtures	2026-11-03T14:21:07Z	
+2.0.0-beta-2	test-fixtures-sources	2026-11-03T14:21:07Z	
 2.0.0-beta-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/2.0.0-beta-3/jwt-security-2.0.0-beta-3.jar returned status 404
+2.0.0-beta-3	plain	2026-11-04T12:00:07Z	
+2.0.0-beta-3	test-fixtures	2026-11-04T12:00:07Z	
+2.0.0-beta-3	test-fixtures-sources	2026-11-04T12:00:07Z	
 2.0.0-beta-4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/2.0.0-beta-4/jwt-security-2.0.0-beta-4.jar returned status 404
+2.0.0-beta-4	plain	2026-11-04T17:46:16Z	
+2.0.0-beta-4	test-fixtures	2026-11-04T17:46:16Z	
+2.0.0-beta-4	test-fixtures-sources	2026-11-04T17:46:16Z	
 2.0.0-beta-5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/2.0.0-beta-5/jwt-security-2.0.0-beta-5.jar returned status 404
+2.0.0-beta-5	plain	2026-11-04T18:10:07Z	
+2.0.0-beta-5	test-fixtures	2026-11-04T18:10:07Z	
+2.0.0-beta-5	test-fixtures-sources	2026-11-04T18:10:07Z	
 2.0.0-beta-6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/2.0.0-beta-6/jwt-security-2.0.0-beta-6.jar returned status 404
+2.0.0-beta-6	plain	2026-11-05T20:26:35Z	
+2.0.0-beta-6	test-fixtures	2026-11-05T20:26:35Z	
+2.0.0-beta-6	test-fixtures-sources	2026-11-05T20:26:35Z	
 2.0.0-beta-7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/2.0.0-beta-7/jwt-security-2.0.0-beta-7.jar returned status 404
+2.0.0-beta-7	plain	2026-11-06T09:12:05Z	
+2.0.0-beta-7	test-fixtures	2026-11-06T09:12:05Z	
+2.0.0-beta-7	test-fixtures-sources	2026-11-06T09:12:05Z	
 2.0.0-beta-8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/2.0.0-beta-8/jwt-security-2.0.0-beta-8.jar returned status 404
+2.0.0-beta-8	plain	2026-11-09T08:29:48Z	
+2.0.0-beta-8	test-fixtures	2026-11-09T08:29:48Z	
+2.0.0-beta-8	test-fixtures-sources	2026-11-09T08:29:48Z	
 2.0.1			
