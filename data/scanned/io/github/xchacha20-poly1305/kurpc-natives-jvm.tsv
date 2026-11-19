@@ -6,6 +6,30 @@
 0.1.0	windows-aarch64	2026-10-06T14:38:57Z	
 0.1.0	windows-x86_64	2026-10-06T14:38:57Z	
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xchacha20-poly1305/kurpc-natives-jvm/0.2.0/kurpc-natives-jvm-0.2.0.jar returned status 404
+0.2.0	linux-aarch64	2026-10-25T05:47:55Z	
+0.2.0	linux-x86_64	2026-10-25T05:47:55Z	
+0.2.0	macos-aarch64	2026-10-25T05:47:55Z	
+0.2.0	macos-x86_64	2026-10-25T05:47:55Z	
+0.2.0	windows-aarch64	2026-10-25T05:47:55Z	
+0.2.0	windows-x86_64	2026-10-25T05:47:55Z	
 0.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xchacha20-poly1305/kurpc-natives-jvm/0.2.1/kurpc-natives-jvm-0.2.1.jar returned status 404
+0.2.1	linux-aarch64	2026-11-04T10:35:34Z	
+0.2.1	linux-x86_64	2026-11-04T10:35:34Z	
+0.2.1	macos-aarch64	2026-11-04T10:35:34Z	
+0.2.1	macos-x86_64	2026-11-04T10:35:34Z	
+0.2.1	windows-aarch64	2026-11-04T10:35:34Z	
+0.2.1	windows-x86_64	2026-11-04T10:35:34Z	
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xchacha20-poly1305/kurpc-natives-jvm/0.3.0/kurpc-natives-jvm-0.3.0.jar returned status 404
+0.3.0	linux-aarch64	2026-11-10T13:53:37Z	
+0.3.0	linux-x86_64	2026-11-10T13:53:37Z	
+0.3.0	macos-aarch64	2026-11-10T13:53:37Z	
+0.3.0	macos-x86_64	2026-11-10T13:53:37Z	
+0.3.0	windows-aarch64	2026-11-10T13:53:37Z	
+0.3.0	windows-x86_64	2026-11-10T13:53:36Z	
 0.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/xchacha20-poly1305/kurpc-natives-jvm/0.3.1/kurpc-natives-jvm-0.3.1.jar returned status 404
+0.3.1	linux-aarch64	2026-11-13T07:34:50Z	
+0.3.1	linux-x86_64	2026-11-13T07:34:50Z	
+0.3.1	macos-aarch64	2026-11-13T07:34:50Z	
+0.3.1	macos-x86_64	2026-11-13T07:34:50Z	
+0.3.1	windows-aarch64	2026-11-13T07:34:50Z	
+0.3.1	windows-x86_64	2026-11-13T07:34:50Z	

@@ -1,0 +1,3 @@
+1.0.5		2026-10-29T06:52:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wutangnailao/amplitude-analytics-kmp-android/1.0.5/amplitude-analytics-kmp-android-1.0.5.jar returned status 404
+1.0.6		2026-10-29T15:09:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wutangnailao/amplitude-analytics-kmp-android/1.0.6/amplitude-analytics-kmp-android-1.0.6.jar returned status 404
+1.1.0		2026-11-07T12:15:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/wutangnailao/amplitude-analytics-kmp-android/1.1.0/amplitude-analytics-kmp-android-1.1.0.jar returned status 404

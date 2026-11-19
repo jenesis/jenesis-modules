@@ -1,0 +1,17 @@
+0.0.1		2026-10-27T01:46:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/0.0.1/engine-0.0.1.jar returned status 404
+0.0.2		2026-10-27T06:13:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/0.0.2/engine-0.0.2.jar returned status 404
+0.0.3		2026-10-27T07:47:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/0.0.3/engine-0.0.3.jar returned status 404
+0.0.4		2026-10-27T15:44:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/0.0.4/engine-0.0.4.jar returned status 404
+0.0.5		2026-10-28T04:37:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/0.0.5/engine-0.0.5.jar returned status 404
+0.0.6		2026-10-28T15:17:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/0.0.6/engine-0.0.6.jar returned status 404
+0.0.7		2026-10-29T05:37:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/0.0.7/engine-0.0.7.jar returned status 404
+0.0.8		2026-10-29T07:46:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/0.0.8/engine-0.0.8.jar returned status 404
+1.0.0		2026-10-29T12:42:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/1.0.0/engine-1.0.0.jar returned status 404
+1.0.1		2026-10-30T02:17:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/1.0.1/engine-1.0.1.jar returned status 404
+1.0.2		2026-11-05T07:30:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/1.0.2/engine-1.0.2.jar returned status 404
+1.0.2-0		2026-11-05T01:20:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/1.0.2-0/engine-1.0.2-0.jar returned status 404
+1.0.3		2026-11-06T07:24:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/1.0.3/engine-1.0.3.jar returned status 404
+1.0.4		2026-11-08T23:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/1.0.4/engine-1.0.4.jar returned status 404
+1.0.5		2026-11-12T10:30:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/1.0.5/engine-1.0.5.jar returned status 404
+1.0.6		2026-11-13T09:38:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/1.0.6/engine-1.0.6.jar returned status 404
+1.0.7		2026-11-15T07:16:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/engine/1.0.7/engine-1.0.7.jar returned status 404

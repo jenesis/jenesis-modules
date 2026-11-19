@@ -1,0 +1,7 @@
+0.1.0		2026-11-01T09:14:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/violateer/doc-template-parent/0.1.0/doc-template-parent-0.1.0.jar returned status 404
+0.1.1		2026-11-02T12:41:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/violateer/doc-template-parent/0.1.1/doc-template-parent-0.1.1.jar returned status 404
+0.1.2		2026-11-04T08:10:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/violateer/doc-template-parent/0.1.2/doc-template-parent-0.1.2.jar returned status 404
+0.2.0		2026-11-06T06:01:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/violateer/doc-template-parent/0.2.0/doc-template-parent-0.2.0.jar returned status 404
+0.2.1		2026-11-10T00:50:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/violateer/doc-template-parent/0.2.1/doc-template-parent-0.2.1.jar returned status 404
+0.3.0		2026-11-12T03:45:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/violateer/doc-template-parent/0.3.0/doc-template-parent-0.3.0.jar returned status 404
+0.3.0.1		2026-11-12T06:16:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/violateer/doc-template-parent/0.3.0.1/doc-template-parent-0.3.0.1.jar returned status 404
