@@ -83,4 +83,12 @@
 2.18.12	named	com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2026-10-17T18:46:05Z	2.18.12
 2.21.8	named	com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2026-10-17T20:31:13Z	2.21.8
 2.22.4	named	com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2026-10-17T23:26:18Z	2.22.4
+0.2	named	io.github.leasegate	bwgate	2026-10-21T12:42:25Z	2.21.2
+0.2	named	io.github.leasegate	gitgate-cli	2026-10-21T12:42:25Z	2.21.2
+0.2	named	io.github.leasegate	gitgate-app	2026-10-21T12:42:26Z	2.21.2
+0.2	named	io.github.leasegate	sshgate	2026-10-21T12:42:26Z	2.21.2
+0.3	named	io.github.leasegate	bwgate	2026-11-04T03:59:27Z	2.21.2
+0.3	named	io.github.leasegate	gitgate-app	2026-11-04T03:59:27Z	2.21.2
+0.3	named	io.github.leasegate	gitgate-cli	2026-11-04T03:59:27Z	2.21.2
+0.3	named	io.github.leasegate	sshgate	2026-11-04T03:59:27Z	2.21.2
 2.23.0	named	com.fasterxml.jackson.dataformat	jackson-dataformat-toml	2026-11-08T01:05:22Z	2.23.0

@@ -1,0 +1,2 @@
+1.1.0		2026-11-14T08:04:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/midasvo/libmpv/1.1.0/libmpv-1.1.0.jar returned status 404
+1.2.0		2026-11-15T07:35:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/midasvo/libmpv/1.2.0/libmpv-1.2.0.jar returned status 404

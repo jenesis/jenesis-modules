@@ -227,3 +227,5 @@
 4.2.0-RC1	automatic	org.springframework.data	spring-data-jpa	2026-10-22T08:32:04Z	
 4.1.2	automatic	org.springframework.data	spring-data-jpa	2026-10-22T08:32:04Z	
 4.0.8	automatic	org.springframework.data	spring-data-jpa	2026-10-22T08:32:04Z	
+3.5.13-ltslab.1	automatic	io.github.ltslab	spring-data-jpa	2026-10-27T23:57:07Z	
+3.5.13-ltslab.2	automatic	io.github.ltslab	spring-data-jpa	2026-10-29T06:12:04Z	

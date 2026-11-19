@@ -1,0 +1,2 @@
+0.1.0		2026-11-08T01:25:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manug243/compose-skeleton-android/0.1.0/compose-skeleton-android-0.1.0.jar returned status 404
+1.0.0-rc1		2026-11-13T11:27:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/manug243/compose-skeleton-android/1.0.0-rc1/compose-skeleton-android-1.0.0-rc1.jar returned status 404

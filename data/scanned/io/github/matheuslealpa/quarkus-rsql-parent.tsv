@@ -1,0 +1,6 @@
+1.0.0		2026-10-28T16:43:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheuslealpa/quarkus-rsql-parent/1.0.0/quarkus-rsql-parent-1.0.0.jar returned status 404
+1.0.0-RC1		2026-10-27T13:53:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheuslealpa/quarkus-rsql-parent/1.0.0-RC1/quarkus-rsql-parent-1.0.0-RC1.jar returned status 404
+1.0.0-RC2		2026-10-27T18:18:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheuslealpa/quarkus-rsql-parent/1.0.0-RC2/quarkus-rsql-parent-1.0.0-RC2.jar returned status 404
+1.0.1		2026-10-28T17:07:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheuslealpa/quarkus-rsql-parent/1.0.1/quarkus-rsql-parent-1.0.1.jar returned status 404
+1.0.2		2026-10-28T19:14:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheuslealpa/quarkus-rsql-parent/1.0.2/quarkus-rsql-parent-1.0.2.jar returned status 404
+1.1.0		2026-11-01T16:41:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/matheuslealpa/quarkus-rsql-parent/1.1.0/quarkus-rsql-parent-1.1.0.jar returned status 404

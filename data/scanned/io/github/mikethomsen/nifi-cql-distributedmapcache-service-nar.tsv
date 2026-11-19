@@ -1,0 +1,2 @@
+1.0.0		2026-10-31T02:10:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mikethomsen/nifi-cql-distributedmapcache-service-nar/1.0.0/nifi-cql-distributedmapcache-service-nar-1.0.0.jar returned status 404
+1.0.1		2026-11-06T19:39:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mikethomsen/nifi-cql-distributedmapcache-service-nar/1.0.1/nifi-cql-distributedmapcache-service-nar-1.0.1.jar returned status 404
