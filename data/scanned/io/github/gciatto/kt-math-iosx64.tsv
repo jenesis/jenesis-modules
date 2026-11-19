@@ -1,0 +1,4 @@
+2.1.1		2026-11-03T22:34:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gciatto/kt-math-iosx64/2.1.1/kt-math-iosx64-2.1.1.jar returned status 404
+2.1.1	metadata	2026-11-03T22:34:51Z	
+2.1.2		2026-11-04T00:31:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/gciatto/kt-math-iosx64/2.1.2/kt-math-iosx64-2.1.2.jar returned status 404
+2.1.2	metadata	2026-11-04T00:31:33Z	

@@ -1,0 +1,2 @@
+0.5.0		2026-11-05T10:10:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/icher-g/sqm-parent/0.5.0/sqm-parent-0.5.0.jar returned status 404
+0.5.1		2026-11-07T18:09:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/icher-g/sqm-parent/0.5.1/sqm-parent-0.5.1.jar returned status 404

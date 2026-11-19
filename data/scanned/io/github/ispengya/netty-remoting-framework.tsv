@@ -1,0 +1,4 @@
+0.1.0		2026-10-27T13:41:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ispengya/netty-remoting-framework/0.1.0/netty-remoting-framework-0.1.0.jar returned status 404
+0.2.0		2026-10-28T15:09:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ispengya/netty-remoting-framework/0.2.0/netty-remoting-framework-0.2.0.jar returned status 404
+0.2.1		2026-10-31T15:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ispengya/netty-remoting-framework/0.2.1/netty-remoting-framework-0.2.1.jar returned status 404
+0.2.2		2026-10-31T15:04:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ispengya/netty-remoting-framework/0.2.2/netty-remoting-framework-0.2.2.jar returned status 404

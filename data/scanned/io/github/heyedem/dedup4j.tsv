@@ -1,0 +1,2 @@
+0.1.0		2026-10-20T11:46:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/heyedem/dedup4j/0.1.0/dedup4j-0.1.0.jar returned status 404
+1.0.0		2026-11-08T23:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/heyedem/dedup4j/1.0.0/dedup4j-1.0.0.jar returned status 404

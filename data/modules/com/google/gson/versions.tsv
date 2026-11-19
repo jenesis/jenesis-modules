@@ -5366,6 +5366,7 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 12.3.0.87938	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-11-05T16:01:30Z	2.15.0
 1.5.2.24	named	com.linkedin.iceberg	iceberg-gcp-bundle	2026-11-05T21:30:19Z	2.10.1
 2.0.7	named	com.conaxgames	clibraries	2026-11-06T16:05:29Z	2.14.0
+0.1.0	named	io.github.iamsanjaymalakar	arodnap-rlpatcher	2026-11-07T01:20:06Z	2.10.1
 2.2.1	named	org.operaton.bpm	operaton-engine	2026-11-07T12:29:43Z	2.14.0
 3.40.1.2	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-09T11:40:07Z	2.10
 6.3.0.79979	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-11-09T13:27:20Z	2.15.0

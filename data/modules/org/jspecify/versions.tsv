@@ -272,6 +272,7 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 2.5.12	named	org.jboss.elemento	elemento-router-processor	2026-11-03T16:15:11Z	
 2.5.12	named	org.jboss.elemento	elemento-router-processor-cdi	2026-11-03T16:15:11Z	
 4.3.0	named	com.snowflake	snowflake-kafka-connector	2026-11-04T20:09:43Z	1.0.1
+0.1.0	named	io.github.iamsanjaymalakar	arodnap-rlfixer	2026-11-07T01:20:07Z	
 8.10.2	named	io.camunda	camunda-7-to-8-diagram-converter-cli	2026-11-10T13:29:54Z	1.0.1
 0.12	named	org.treblereel.j2cl.processors	processors	2026-11-11T03:39:45Z	
 2.1.10	named	eu.rekawek.coffeegb	coffee-gb-cli	2026-11-11T18:45:18Z	1.0.1
