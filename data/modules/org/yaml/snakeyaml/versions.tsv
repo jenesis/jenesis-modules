@@ -1399,6 +1399,8 @@ ain	named	org.conductoross	conductor-os-persistence-v3	2026-10-27T17:47:33Z	2.6
 3.3.1	named	com.vunetsystems.tools.android	gradle-plugin	2026-11-03T02:31:44Z	2.2
 26.10.1	named	com.nvidia	rapids-4-spark-tools_2.12	2026-11-03T09:29:51Z	2.0
 4.5.36	named	io.vertx	vertx-web-api-contract	2026-11-03T09:50:22Z	2.0
+0.0.2	named	com.aerospike	aerospike-chronon-assembly_2.12	2026-11-03T23:25:10Z	2.4
+0.0.2	named	com.aerospike	aerospike-chronon-assembly_2.13	2026-11-03T23:25:10Z	2.4
 3.34.0-rc2	named	org.conductoross	conductor-os-persistence-v2	2026-11-05T05:56:49Z	2.6
 3.34.0-rc2	named	org.conductoross	conductor-os-persistence-v3	2026-11-05T05:56:49Z	2.6
 1.7.3	named	com.arcmutate	base	2026-11-05T10:20:03Z	2.1

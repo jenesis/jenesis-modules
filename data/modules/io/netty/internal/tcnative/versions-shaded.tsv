@@ -231,6 +231,8 @@
 0.140.0	named	com.google.cloud	google-cloud-nio	2026-10-27T22:24:54Z	2.0.75.Final
 4.0.9	named	com.google.cloud.bigdataoss	gcs-connector	2026-10-28T11:04:50Z	2.0.75.Final
 2.21.0	named	com.google.cloud.bigtable	bigtable-beam-import	2026-10-28T17:07:43Z	2.0.75.Final
+26.11.1	named	com.arcadedb	arcadedb-grpcw	2026-11-04T21:23:00Z	2.0.81.Final
+26.11.1	named	com.arcadedb	arcadedb-ha-raft	2026-11-04T21:23:00Z	2.0.78.Final
 0.141.0	named	com.google.cloud	google-cloud-nio	2026-11-05T17:36:51Z	2.0.75.Final
 0.142.0	named	com.google.cloud	google-cloud-nio	2026-11-06T17:17:30Z	2.0.75.Final
 3.1.22	named	com.google.cloud.bigdataoss	gcs-connector	2026-11-11T15:36:07Z	2.0.81.Final

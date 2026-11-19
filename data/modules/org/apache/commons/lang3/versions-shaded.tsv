@@ -70,3 +70,6 @@
 5.1.9	named	io.vertx	vertx-web-templ-handlebars	2026-10-07T13:17:07Z	3.20.0
 5.2.2	named	io.vertx	vertx-web-templ-handlebars	2026-10-21T12:08:28Z	3.20.0
 5.2.3	named	io.vertx	vertx-web-templ-handlebars	2026-11-03T09:41:21Z	3.20.0
+1.0.0-1.20	named	com.aliyun.odps	flink-connector-maxcompute	2026-11-09T06:50:08Z	3.18.0
+1.0.0-1.17	named	com.aliyun.odps	flink-connector-maxcompute	2026-11-09T06:50:08Z	3.18.0
+1.0.0-1.16	named	com.aliyun.odps	flink-connector-maxcompute	2026-11-09T06:50:08Z	3.18.0
