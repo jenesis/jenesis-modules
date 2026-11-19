@@ -1,0 +1,2 @@
+1.7.0		2026-11-12T01:43:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/isaacudy/udytils/urpc-protocol-js/1.7.0/urpc-protocol-js-1.7.0.jar returned status 404
+1.7.1		2026-11-12T03:06:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/isaacudy/udytils/urpc-protocol-js/1.7.1/urpc-protocol-js-1.7.1.jar returned status 404

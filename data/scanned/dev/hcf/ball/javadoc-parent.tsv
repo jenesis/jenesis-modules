@@ -17,3 +17,4 @@
 2025.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hcf/ball/javadoc-parent/2025.0.0/javadoc-parent-2025.0.0.jar returned status 404
 2025.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hcf/ball/javadoc-parent/2025.0.1/javadoc-parent-2025.0.1.jar returned status 404
 2025.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hcf/ball/javadoc-parent/2025.0.2/javadoc-parent-2025.0.2.jar returned status 404
+2026.0.0		2026-11-16T02:40:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/hcf/ball/javadoc-parent/2026.0.0/javadoc-parent-2026.0.0.jar returned status 404
