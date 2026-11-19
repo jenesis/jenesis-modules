@@ -1,0 +1,4 @@
+5.0.14-kt.1		2026-10-20T16:36:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shijianjs/ktjs-iconify-tools-js/5.0.14-kt.1/ktjs-iconify-tools-js-5.0.14-kt.1.jar returned status 404
+5.0.14-kt.3		2026-10-21T11:01:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shijianjs/ktjs-iconify-tools-js/5.0.14-kt.3/ktjs-iconify-tools-js-5.0.14-kt.3.jar returned status 404
+5.0.14-kt.5		2026-10-30T10:26:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shijianjs/ktjs-iconify-tools-js/5.0.14-kt.5/ktjs-iconify-tools-js-5.0.14-kt.5.jar returned status 404
+5.0.14-kt.6		2026-11-09T08:09:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shijianjs/ktjs-iconify-tools-js/5.0.14-kt.6/ktjs-iconify-tools-js-5.0.14-kt.6.jar returned status 404

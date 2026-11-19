@@ -1,0 +1,4 @@
+1.0.0		2026-11-09T11:14:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sosauce/nekobites/1.0.0/nekobites-1.0.0.jar returned status 404
+1.1.0		2026-11-09T18:39:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sosauce/nekobites/1.1.0/nekobites-1.1.0.jar returned status 404
+1.1.1		2026-11-09T19:19:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sosauce/nekobites/1.1.1/nekobites-1.1.1.jar returned status 404
+1.1.2		2026-11-09T19:36:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sosauce/nekobites/1.1.2/nekobites-1.1.2.jar returned status 404
