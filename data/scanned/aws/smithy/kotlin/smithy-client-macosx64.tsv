@@ -73,7 +73,15 @@
 1.7.12		2026-10-21T17:13:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-macosx64/1.7.12/smithy-client-macosx64-1.7.12.jar returned status 404
 1.7.12	metadata	2026-10-21T17:13:31Z	
 1.7.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-macosx64/1.7.13/smithy-client-macosx64-1.7.13.jar returned status 404
+1.7.13	metadata	2026-10-22T20:20:51Z	
 1.7.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-macosx64/1.7.14/smithy-client-macosx64-1.7.14.jar returned status 404
+1.7.14	metadata	2026-11-04T21:33:44Z	
+1.7.15		2026-11-09T19:38:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-macosx64/1.7.15/smithy-client-macosx64-1.7.15.jar returned status 404
+1.7.15	metadata	2026-11-09T19:38:21Z	
+1.7.16		2026-11-10T22:36:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-macosx64/1.7.16/smithy-client-macosx64-1.7.16.jar returned status 404
+1.7.16	metadata	2026-11-10T22:36:33Z	
+1.7.17		2026-11-17T02:16:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-macosx64/1.7.17/smithy-client-macosx64-1.7.17.jar returned status 404
+1.7.17	metadata	2026-11-17T02:16:49Z	
 1.7.2		2026-07-08T19:14:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-macosx64/1.7.2/smithy-client-macosx64-1.7.2.jar returned status 404
 1.7.2	metadata	2026-07-08T19:14:57Z	
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/smithy-client-macosx64/1.7.3/smithy-client-macosx64-1.7.3.jar returned status 404

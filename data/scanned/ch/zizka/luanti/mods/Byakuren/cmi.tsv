@@ -1,0 +1,2 @@
+612		2026-10-22T20:09:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Byakuren/cmi/612/cmi-612.jar returned status 404
+612.1		2026-10-22T21:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Byakuren/cmi/612.1/cmi-612.1.jar returned status 404

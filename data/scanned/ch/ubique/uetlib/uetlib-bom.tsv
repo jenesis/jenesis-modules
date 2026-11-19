@@ -1,0 +1,2 @@
+2026.11.0		2026-11-03T15:20:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uetlib/uetlib-bom/2026.11.0/uetlib-bom-2026.11.0.jar returned status 404
+2026.11.0-alpha.1		2026-11-03T12:54:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/ubique/uetlib/uetlib-bom/2026.11.0-alpha.1/uetlib-bom-2026.11.0-alpha.1.jar returned status 404

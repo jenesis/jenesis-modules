@@ -64,6 +64,7 @@
 16.30.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-bptest-example/16.30.0/jme-bptest-example-16.30.0.jar returned status 404
 16.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-bptest-example/16.31.0/jme-bptest-example-16.31.0.jar returned status 404
 16.32.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-bptest-example/16.32.0/jme-bptest-example-16.32.0.jar returned status 404
+16.33.0		2026-11-16T00:30:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-bptest-example/16.33.0/jme-bptest-example-16.33.0.jar returned status 404
 16.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-bptest-example/16.5.0/jme-bptest-example-16.5.0.jar returned status 404
 16.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-bptest-example/16.6.0/jme-bptest-example-16.6.0.jar returned status 404
 16.7.0		2026-10-05T23:25:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-bptest-example/16.7.0/jme-bptest-example-16.7.0.jar returned status 404
