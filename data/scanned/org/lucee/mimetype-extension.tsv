@@ -1,0 +1,2 @@
+1.0.0.0-BETA		2026-10-23T10:17:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mimetype-extension/1.0.0.0-BETA/mimetype-extension-1.0.0.0-BETA.jar returned status 404
+1.0.0.1-BETA		2026-10-30T15:16:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/mimetype-extension/1.0.0.1-BETA/mimetype-extension-1.0.0.1-BETA.jar returned status 404

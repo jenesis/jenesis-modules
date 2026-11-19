@@ -1,0 +1,4 @@
+0.1		2026-10-21T11:42:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/ant-manipulator/ant-manipulator-parent/0.1/ant-manipulator-parent-0.1.jar returned status 404
+0.2		2026-10-21T20:13:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/ant-manipulator/ant-manipulator-parent/0.2/ant-manipulator-parent-0.2.jar returned status 404
+0.3		2026-10-21T20:13:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/ant-manipulator/ant-manipulator-parent/0.3/ant-manipulator-parent-0.3.jar returned status 404
+0.4		2026-11-03T10:35:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jboss/pnc/ant-manipulator/ant-manipulator-parent/0.4/ant-manipulator-parent-0.4.jar returned status 404

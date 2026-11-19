@@ -1,0 +1,2 @@
+2.1		2026-11-05T22:46:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jtools/doccomparator-parent/2.1/doccomparator-parent-2.1.jar returned status 404
+3.0		2026-11-06T05:24:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jtools/doccomparator-parent/3.0/doccomparator-parent-3.0.jar returned status 404

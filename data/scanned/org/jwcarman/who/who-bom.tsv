@@ -1,0 +1,5 @@
+0.12.0		2026-11-08T03:07:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/who/who-bom/0.12.0/who-bom-0.12.0.jar returned status 404
+0.13.0		2026-11-09T00:50:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/who/who-bom/0.13.0/who-bom-0.13.0.jar returned status 404
+0.14.0		2026-11-11T02:00:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/who/who-bom/0.14.0/who-bom-0.14.0.jar returned status 404
+0.15.0		2026-11-13T19:45:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/who/who-bom/0.15.0/who-bom-0.15.0.jar returned status 404
+0.16.0		2026-11-13T21:46:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jwcarman/who/who-bom/0.16.0/who-bom-0.16.0.jar returned status 404

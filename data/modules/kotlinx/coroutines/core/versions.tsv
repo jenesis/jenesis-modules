@@ -85,7 +85,9 @@
 2.4.20-0.15.0	named	love.forte.plugin.suspend-transform	suspend-transform-plugin-embeddable	2026-09-19T16:11:38Z	
 3.0.0-rc.1	named	com.airbnb.viaduct	javaapi-runtime	2026-10-15T20:51:41Z	
 3.0.0-rc.2	named	com.airbnb.viaduct	javaapi-runtime	2026-10-20T23:11:52Z	
+2.5.0-Beta2	named	org.jetbrains.kotlin	kotlin-analysis-api-intellij-implementation-components	2026-10-21T08:46:53Z	
 3.0.0	named	com.airbnb.viaduct	javaapi-runtime	2026-10-21T16:02:15Z	
 0.14.1	named	org.scip-code	scip-kotlin-analysis	2026-11-05T09:51:18Z	
 2.3.0	named	org.jetbrains.dokka	dokka-cli	2026-11-05T14:05:05Z	
+2.5.0-RC	named	org.jetbrains.kotlin	kotlin-analysis-api-intellij-implementation-components	2026-11-11T08:15:06Z	
 0.14.2	named	org.scip-code	scip-kotlin-analysis	2026-11-12T09:20:01Z	
