@@ -176,7 +176,17 @@
 7.2.1	named	org.graylog2	graylog2-server	2026-10-19T12:06:54Z	1.23.1
 7.0.15	named	org.graylog2	graylog2-server	2026-10-19T12:06:58Z	1.21.2
 7.1.11	named	org.graylog2	graylog2-server	2026-10-19T12:07:05Z	1.22.1
+0.236.0	named	org.finos.legend.sdlc	legend-sdlc-server	2026-10-19T12:50:28Z	1.22.2
+0.235.1	named	org.finos.legend.sdlc	legend-sdlc-server-fs	2026-10-19T20:12:14Z	1.22.2
+0.235.1	named	org.finos.legend.sdlc	legend-sdlc-server	2026-10-19T20:12:15Z	1.22.2
+0.235.2	named	org.finos.legend.sdlc	legend-sdlc-server	2026-10-21T12:22:18Z	1.22.2
+0.235.2	named	org.finos.legend.sdlc	legend-sdlc-server-fs	2026-10-21T12:22:18Z	1.22.2
+0.237.0	named	org.finos.legend.sdlc	legend-sdlc-server	2026-10-22T21:56:56Z	1.22.2
+0.235.3	named	org.finos.legend.sdlc	legend-sdlc-server	2026-10-24T10:32:31Z	1.22.2
+0.235.3	named	org.finos.legend.sdlc	legend-sdlc-server-fs	2026-10-24T10:32:31Z	1.22.2
+0.237.1	named	org.finos.legend.sdlc	legend-sdlc-server	2026-10-28T02:13:03Z	1.22.2
 4.0.0	named	org.jboss.pnc.bacon	cli	2026-11-02T22:44:42Z	1.23.2
+0.237.2	named	org.finos.legend.sdlc	legend-sdlc-server	2026-11-03T07:10:01Z	1.22.2
 7.2.2	named	org.graylog2	graylog2-server	2026-11-04T13:20:11Z	1.23.1
 7.0.16	named	org.graylog2	graylog2-server	2026-11-04T13:20:12Z	1.21.2
 7.1.12	named	org.graylog2	graylog2-server	2026-11-04T13:20:35Z	1.22.1
