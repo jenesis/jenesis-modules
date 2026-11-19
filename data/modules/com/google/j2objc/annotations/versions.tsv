@@ -170,4 +170,5 @@
 7.0.0	named	org.fcrepo	fcrepo-upgrade-utils	2026-10-01T15:35:26Z	3.0.0
 6.2.0	named	de.arbeitsagentur.opdt	keycloak-cassandra-extension	2026-10-19T09:24:53Z	3.0.0
 6.2.1	named	de.arbeitsagentur.opdt	keycloak-cassandra-extension	2026-11-04T22:40:11Z	3.0.0
+2026.0.0	named	org.devlive.metaforge	metaforge-shaded-ydb	2026-11-11T00:30:28Z	3.0.0
 6.2.2	named	de.arbeitsagentur.opdt	keycloak-cassandra-extension	2026-11-11T14:19:52Z	3.0.0

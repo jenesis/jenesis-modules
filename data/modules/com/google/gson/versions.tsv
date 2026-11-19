@@ -5372,6 +5372,7 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 1.0.3	named	nl.trusttech	digital-credentials-verifier	2026-11-09T14:57:54Z	2.10.1
 10.34.1.4477	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-11-10T14:44:50Z	2.14.0
 10.34.1.4477	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-11-10T14:44:50Z	2.14.0
+2026.0.0	named	org.devlive.metaforge	metaforge-shaded-pinot	2026-11-11T00:30:33Z	2.10.1
 10.36.0.15337	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-11-11T10:13:09Z	2.15.0
 10.36.0.15337	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-11-11T10:13:09Z	2.15.0
 4.0.0.CR1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-11T12:30:17Z	2.10
