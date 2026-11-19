@@ -17,3 +17,7 @@
 2.1.3		2026-06-09T10:29:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zerobounce/android/zerobouncesdk/2.1.3/zerobouncesdk-2.1.3.jar returned status 404
 2.1.4		2026-08-14T00:57:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zerobounce/android/zerobouncesdk/2.1.4/zerobouncesdk-2.1.4.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zerobounce/android/zerobouncesdk/2.2.0/zerobouncesdk-2.2.0.jar returned status 404
+2.3.0		2026-11-11T19:31:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zerobounce/android/zerobouncesdk/2.3.0/zerobouncesdk-2.3.0.jar returned status 404
+3.0.0		2026-11-11T22:00:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zerobounce/android/zerobouncesdk/3.0.0/zerobouncesdk-3.0.0.jar returned status 404
+3.1.0		2026-11-14T18:06:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zerobounce/android/zerobouncesdk/3.1.0/zerobouncesdk-3.1.0.jar returned status 404
+3.1.1		2026-11-14T22:01:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zerobounce/android/zerobouncesdk/3.1.1/zerobouncesdk-3.1.1.jar returned status 404

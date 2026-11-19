@@ -1,0 +1,2 @@
+5.2.2		2026-10-22T21:39:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zodl/android/zcash-android-sdk-slipstream/5.2.2/zcash-android-sdk-slipstream-5.2.2.jar returned status 404
+6.0.0		2026-10-30T20:00:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zodl/android/zcash-android-sdk-slipstream/6.0.0/zcash-android-sdk-slipstream-6.0.0.jar returned status 404

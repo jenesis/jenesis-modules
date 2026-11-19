@@ -5494,7 +5494,9 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 7.0.10	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-26T01:38:00Z	2.22
 7.0.11	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-26T13:19:31Z	2.22
 9.2.0	named	org.mock-server	mockserver-k8s-webhook	2026-10-26T21:42:23Z	2.22
+8.778.45	named	com.yahoo.vespa	config-application-package	2026-10-27T06:17:10Z	2.22
 7.0.12	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-11-01T04:40:08Z	2.22
+8.781.11	named	com.yahoo.vespa	config-application-package	2026-11-02T03:20:04Z	2.22
 0.25.3	named	io.github.astonbitecode	j4rs	2026-11-02T10:03:43Z	2.22
 1.5	named	io.github.vdaburon	junit-reporter-kpi-compare-jmeter-report-csv	2026-11-04T10:15:06Z	2.22
 1.6	named	io.github.vdaburon	junit-reporter-kpi-from-jmeter-dashboard-stats	2026-11-04T11:00:13Z	2.22
@@ -5509,3 +5511,4 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 1.3.0	named	io.github.vishalmysore	tools4ai	2026-11-08T14:10:36Z	2.16.2
 3.6.4.Final	named	io.debezium	debezium-connector-cassandra-5	2026-11-10T09:24:49Z	2.21
 4.0.25	named	io.github.techelliiptica	merv-client-api	2026-11-13T13:06:01Z	2.15.2
+8.788.13	named	com.yahoo.vespa	config-application-package	2026-11-16T03:14:56Z	2.22
