@@ -9,4 +9,6 @@
 1.0.4		2026-05-23T17:20:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/n7ghtm4r3/equinoxmisc-lazy-pagination-compose-ops-iosarm64/1.0.4/equinoxmisc-lazy-pagination-compose-ops-iosarm64-1.0.4.jar returned status 404
 1.0.4	metadata	2026-05-23T17:20:11Z	
 1.0.5-rc.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/n7ghtm4r3/equinoxmisc-lazy-pagination-compose-ops-iosarm64/1.0.5-rc.5/equinoxmisc-lazy-pagination-compose-ops-iosarm64-1.0.5-rc.5.jar returned status 404
+1.0.5-rc.5	metadata	2026-10-31T14:26:34Z	
 1.0.5-rc.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/n7ghtm4r3/equinoxmisc-lazy-pagination-compose-ops-iosarm64/1.0.5-rc.6/equinoxmisc-lazy-pagination-compose-ops-iosarm64-1.0.5-rc.6.jar returned status 404
+1.0.5-rc.6	metadata	2026-11-01T10:50:02Z	

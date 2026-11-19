@@ -1,0 +1,2 @@
+1.0.0		2026-11-04T20:46:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/narcisbodea/smstunnel-java-parent/1.0.0/smstunnel-java-parent-1.0.0.jar returned status 404
+1.1.0		2026-11-15T14:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/narcisbodea/smstunnel-java-parent/1.1.0/smstunnel-java-parent-1.1.0.jar returned status 404

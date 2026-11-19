@@ -3,3 +3,4 @@
 0.9.1		2026-06-04T05:57:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/n-hass/ktor-native-tls-iossimulatorarm64/0.9.1/ktor-native-tls-iossimulatorarm64-0.9.1.jar returned status 404
 0.9.1	metadata	2026-06-04T05:57:13Z	
 0.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/n-hass/ktor-native-tls-iossimulatorarm64/0.9.2/ktor-native-tls-iossimulatorarm64-0.9.2.jar returned status 404
+0.9.2	metadata	2026-10-30T11:20:04Z	
