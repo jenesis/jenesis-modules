@@ -1,0 +1,2 @@
+1.0.0		2026-10-26T00:52:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/privatusanalytics/privatus-analytics-parent/1.0.0/privatus-analytics-parent-1.0.0.jar returned status 404
+1.0.1		2026-10-26T07:52:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/privatusanalytics/privatus-analytics-parent/1.0.1/privatus-analytics-parent-1.0.1.jar returned status 404

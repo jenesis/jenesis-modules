@@ -1,2 +1,6 @@
+1.0.0		2026-11-03T10:55:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/postedapp/posted-sdk/1.0.0/posted-sdk-1.0.0.jar returned status 404
+1.0.1		2026-11-04T20:59:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/postedapp/posted-sdk/1.0.1/posted-sdk-1.0.1.jar returned status 404
 3.0.0		2026-09-29T12:22:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/postedapp/posted-sdk/3.0.0/posted-sdk-3.0.0.jar returned status 404
 4.0.0		2026-09-29T12:56:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/postedapp/posted-sdk/4.0.0/posted-sdk-4.0.0.jar returned status 404
+4.0.1		2026-11-04T21:22:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/postedapp/posted-sdk/4.0.1/posted-sdk-4.0.1.jar returned status 404
+4.0.2		2026-11-10T12:13:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/postedapp/posted-sdk/4.0.2/posted-sdk-4.0.2.jar returned status 404

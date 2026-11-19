@@ -5,4 +5,6 @@
 4.0.2-3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/openssl-macosx64/4.0.2-3/openssl-macosx64-4.0.2-3.jar returned status 404
 4.0.2-3	metadata	2026-10-15T18:41:24Z	
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/openssl-macosx64/4.1.0/openssl-macosx64-4.1.0.jar returned status 404
+4.1.0	metadata	2026-11-08T20:09:56Z	
 4.1.0-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/netonstream/openssl-macosx64/4.1.0-1/openssl-macosx64-4.1.0-1.jar returned status 404
+4.1.0-1	metadata	2026-11-08T21:44:48Z	
