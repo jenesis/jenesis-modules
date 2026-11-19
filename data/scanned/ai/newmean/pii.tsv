@@ -1,0 +1,7 @@
+1.0.0		2026-10-31T16:25:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/newmean/pii/1.0.0/pii-1.0.0.jar returned status 404
+1.2.0		2026-11-02T05:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/newmean/pii/1.2.0/pii-1.2.0.jar returned status 404
+1.4.0		2026-11-03T08:30:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/newmean/pii/1.4.0/pii-1.4.0.jar returned status 404
+1.4.1		2026-11-04T04:39:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/newmean/pii/1.4.1/pii-1.4.1.jar returned status 404
+1.5.0		2026-11-10T05:24:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/newmean/pii/1.5.0/pii-1.5.0.jar returned status 404
+1.6.0		2026-11-16T09:19:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/newmean/pii/1.6.0/pii-1.6.0.jar returned status 404
+1.6.1		2026-11-17T13:16:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/newmean/pii/1.6.1/pii-1.6.1.jar returned status 404

@@ -47,3 +47,4 @@
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/sync/1.2.0/sync-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/sync/1.2.1/sync-1.2.1.jar returned status 404
 1.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/sync/1.2.2/sync-1.2.2.jar returned status 404
+1.2.3		2026-11-17T22:11:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sqlite/sync/1.2.3/sync-1.2.3.jar returned status 404
