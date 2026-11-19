@@ -1,0 +1,4 @@
+0.2.2		2026-10-25T08:02:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/revsnai/ffm-sqlite-parent/0.2.2/ffm-sqlite-parent-0.2.2.jar returned status 404
+0.2.4		2026-10-25T19:56:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/revsnai/ffm-sqlite-parent/0.2.4/ffm-sqlite-parent-0.2.4.jar returned status 404
+0.2.5		2026-10-28T08:17:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/revsnai/ffm-sqlite-parent/0.2.5/ffm-sqlite-parent-0.2.5.jar returned status 404
+0.2.7		2026-10-29T12:12:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/revsnai/ffm-sqlite-parent/0.2.7/ffm-sqlite-parent-0.2.7.jar returned status 404

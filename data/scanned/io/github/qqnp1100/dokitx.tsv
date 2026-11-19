@@ -1,0 +1,4 @@
+3.7.12		2026-10-26T09:57:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qqnp1100/dokitx/3.7.12/dokitx-3.7.12.jar returned status 404
+3.7.13		2026-10-27T09:58:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qqnp1100/dokitx/3.7.13/dokitx-3.7.13.jar returned status 404
+3.7.14		2026-10-28T02:17:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qqnp1100/dokitx/3.7.14/dokitx-3.7.14.jar returned status 404
+3.7.15		2026-10-29T07:02:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qqnp1100/dokitx/3.7.15/dokitx-3.7.15.jar returned status 404

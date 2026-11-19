@@ -1,0 +1,7 @@
+0.17.10		2026-10-31T13:45:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-evdev/0.17.10/priv-evdev-0.17.10.jar returned status 404
+0.17.11		2026-11-01T14:25:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-evdev/0.17.11/priv-evdev-0.17.11.jar returned status 404
+0.17.9		2026-10-28T11:57:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-evdev/0.17.9/priv-evdev-0.17.9.jar returned status 404
+0.18.0		2026-11-06T22:32:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-evdev/0.18.0/priv-evdev-0.18.0.jar returned status 404
+0.19.0		2026-11-11T08:15:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-evdev/0.19.0/priv-evdev-0.19.0.jar returned status 404
+0.20.0		2026-11-11T10:24:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-evdev/0.20.0/priv-evdev-0.20.0.jar returned status 404
+0.21.0		2026-11-12T04:10:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-evdev/0.21.0/priv-evdev-0.21.0.jar returned status 404

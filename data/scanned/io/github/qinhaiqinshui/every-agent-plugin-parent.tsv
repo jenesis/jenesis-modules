@@ -1,0 +1,3 @@
+1.6.0		2026-10-21T14:26:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qinhaiqinshui/every-agent-plugin-parent/1.6.0/every-agent-plugin-parent-1.6.0.jar returned status 404
+1.7.0		2026-10-26T03:17:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qinhaiqinshui/every-agent-plugin-parent/1.7.0/every-agent-plugin-parent-1.7.0.jar returned status 404
+1.8.0		2026-11-02T09:15:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qinhaiqinshui/every-agent-plugin-parent/1.8.0/every-agent-plugin-parent-1.8.0.jar returned status 404

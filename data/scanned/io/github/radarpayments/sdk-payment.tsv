@@ -1,0 +1,8 @@
+3.0.14-rc.1		2026-10-22T14:38:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/radarpayments/sdk-payment/3.0.14-rc.1/sdk-payment-3.0.14-rc.1.jar returned status 404
+3.1.0		2026-10-27T14:30:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/radarpayments/sdk-payment/3.1.0/sdk-payment-3.1.0.jar returned status 404
+3.1.0-rc.1		2026-10-27T13:28:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/radarpayments/sdk-payment/3.1.0-rc.1/sdk-payment-3.1.0-rc.1.jar returned status 404
+3.1.1		2026-11-02T13:41:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/radarpayments/sdk-payment/3.1.1/sdk-payment-3.1.1.jar returned status 404
+4.0.0-beta.1		2026-11-09T22:20:33Z	
+4.0.0-beta.2		2026-11-11T13:20:09Z	
+4.0.0-beta.3		2026-11-11T16:45:05Z	
+4.0.0-beta.4		2026-11-11T20:14:18Z	
