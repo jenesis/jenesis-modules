@@ -819,3 +819,15 @@ io.lumoauth.spring
 io.lumoauth
 io.lpdf
 com.azure.http.netty
+com.networknt.schema
+io.joshuasalcedo.webview4j.devtools
+io.joshuasalcedo.webview4j
+io.hibira.spring
+io.hibira
+org.apache.commons.configuration2
+io.zmux.shaping.machine
+io.zmux.quic
+io.zmux.http
+io.github.dzdcache.spring
+io.github.dzdcache.core
+com.fasterxml.jackson.datatype.jdk8

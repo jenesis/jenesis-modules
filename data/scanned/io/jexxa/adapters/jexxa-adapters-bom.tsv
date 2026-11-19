@@ -1,0 +1,2 @@
+5.0.0-RC1		2026-11-08T08:45:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/adapters/jexxa-adapters-bom/5.0.0-RC1/jexxa-adapters-bom-5.0.0-RC1.jar returned status 404
+5.0.0-RC2		2026-11-12T12:25:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/adapters/jexxa-adapters-bom/5.0.0-RC2/jexxa-adapters-bom-5.0.0-RC2.jar returned status 404
