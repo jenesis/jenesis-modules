@@ -1,0 +1,4 @@
+0.1.0		2026-11-02T06:15:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conciergesdk/concierge/0.1.0/concierge-0.1.0.jar returned status 404
+0.1.1		2026-11-02T09:25:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conciergesdk/concierge/0.1.1/concierge-0.1.1.jar returned status 404
+0.1.2		2026-11-02T16:15:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conciergesdk/concierge/0.1.2/concierge-0.1.2.jar returned status 404
+0.1.3		2026-11-02T21:05:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/conciergesdk/concierge/0.1.3/concierge-0.1.3.jar returned status 404

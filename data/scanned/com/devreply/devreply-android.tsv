@@ -1,1 +1,3 @@
 0.5.0		2026-09-30T14:47:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devreply/devreply-android/0.5.0/devreply-android-0.5.0.jar returned status 404
+0.5.1		2026-11-10T22:31:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devreply/devreply-android/0.5.1/devreply-android-0.5.1.jar returned status 404
+0.6.0		2026-11-11T16:05:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/devreply/devreply-android/0.6.0/devreply-android-0.6.0.jar returned status 404

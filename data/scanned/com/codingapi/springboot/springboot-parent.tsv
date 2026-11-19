@@ -47,6 +47,9 @@
 1.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/1.5.9/springboot-parent-1.5.9.jar returned status 404
 17.3.0		2026-08-18T13:06:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/17.3.0/springboot-parent-17.3.0.jar returned status 404
 17.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/17.3.1/springboot-parent-17.3.1.jar returned status 404
+17.3.2		2026-11-10T11:49:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/17.3.2/springboot-parent-17.3.2.jar returned status 404
+17.3.3		2026-11-16T15:38:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/17.3.3/springboot-parent-17.3.3.jar returned status 404
+17.3.4		2026-11-17T01:15:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/17.3.4/springboot-parent-17.3.4.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/2.0.0/springboot-parent-2.0.0.jar returned status 404
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/2.0.1/springboot-parent-2.0.1.jar returned status 404
 2.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/2.0.2/springboot-parent-2.0.2.jar returned status 404
@@ -335,3 +338,6 @@
 3.4.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/3.4.9/springboot-parent-3.4.9.jar returned status 404
 8.2.0		2026-08-18T13:02:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/8.2.0/springboot-parent-8.2.0.jar returned status 404
 8.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/8.2.1/springboot-parent-8.2.1.jar returned status 404
+8.2.2		2026-11-10T12:16:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/8.2.2/springboot-parent-8.2.2.jar returned status 404
+8.2.3		2026-11-16T15:38:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/8.2.3/springboot-parent-8.2.3.jar returned status 404
+8.2.4		2026-11-17T01:19:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/codingapi/springboot/springboot-parent/8.2.4/springboot-parent-8.2.4.jar returned status 404

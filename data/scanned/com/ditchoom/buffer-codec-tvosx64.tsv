@@ -145,7 +145,9 @@
 6.30.1		2026-08-13T22:54:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-tvosx64/6.30.1/buffer-codec-tvosx64-6.30.1.jar returned status 404
 6.30.1	metadata	2026-08-13T22:54:03Z	
 6.30.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-tvosx64/6.30.10/buffer-codec-tvosx64-6.30.10.jar returned status 404
+6.30.10	metadata	2026-11-09T23:09:55Z	
 6.30.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-tvosx64/6.30.11/buffer-codec-tvosx64-6.30.11.jar returned status 404
+6.30.11	metadata	2026-11-10T18:30:16Z	
 6.30.2		2026-08-14T21:06:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-tvosx64/6.30.2/buffer-codec-tvosx64-6.30.2.jar returned status 404
 6.30.2	metadata	2026-08-14T21:06:23Z	
 6.30.3		2026-08-14T21:41:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-tvosx64/6.30.3/buffer-codec-tvosx64-6.30.3.jar returned status 404
@@ -161,6 +163,9 @@
 6.30.8		2026-08-28T20:10:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-tvosx64/6.30.8/buffer-codec-tvosx64-6.30.8.jar returned status 404
 6.30.8	metadata	2026-08-28T20:10:49Z	
 6.30.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-tvosx64/6.30.9/buffer-codec-tvosx64-6.30.9.jar returned status 404
+6.30.9	metadata	2026-11-06T23:40:09Z	
+6.31.0		2026-11-16T18:28:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-tvosx64/6.31.0/buffer-codec-tvosx64-6.31.0.jar returned status 404
+6.31.0	metadata	2026-11-16T18:28:24Z	
 6.4.0		2026-07-05T01:07:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-tvosx64/6.4.0/buffer-codec-tvosx64-6.4.0.jar returned status 404
 6.4.0	metadata	2026-07-05T01:07:19Z	
 6.5.0		2026-07-05T23:04:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ditchoom/buffer-codec-tvosx64/6.5.0/buffer-codec-tvosx64-6.5.0.jar returned status 404
