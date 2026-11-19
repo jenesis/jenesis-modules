@@ -20,6 +20,7 @@
 1.8.2		2026-07-20T20:33:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/kmp/kaiteki/kaiteki-paging-android/1.8.2/kaiteki-paging-android-1.8.2.jar returned status 404
 1.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/kmp/kaiteki/kaiteki-paging-android/1.9.0/kaiteki-paging-android-1.9.0.jar returned status 404
 1.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/kmp/kaiteki/kaiteki-paging-android/1.9.1/kaiteki-paging-android-1.9.1.jar returned status 404
+1.9.10		2026-11-06T16:44:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/kmp/kaiteki/kaiteki-paging-android/1.9.10/kaiteki-paging-android-1.9.10.jar returned status 404
 1.9.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/kmp/kaiteki/kaiteki-paging-android/1.9.2/kaiteki-paging-android-1.9.2.jar returned status 404
 1.9.3		2026-08-05T21:03:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/kmp/kaiteki/kaiteki-paging-android/1.9.3/kaiteki-paging-android-1.9.3.jar returned status 404
 1.9.4		2026-08-11T22:11:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/kroegerama/kmp/kaiteki/kaiteki-paging-android/1.9.4/kaiteki-paging-android-1.9.4.jar returned status 404

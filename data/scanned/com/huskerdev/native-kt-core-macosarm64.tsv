@@ -9,8 +9,20 @@
 3.0.4		2026-10-02T09:51:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-macosarm64/3.0.4/native-kt-core-macosarm64-3.0.4.jar returned status 404
 3.0.4	metadata	2026-10-02T09:51:04Z	
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-macosarm64/4.0.0/native-kt-core-macosarm64-4.0.0.jar returned status 404
+4.0.0	metadata	2026-10-28T12:27:36Z	
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-macosarm64/4.0.1/native-kt-core-macosarm64-4.0.1.jar returned status 404
+4.0.1	metadata	2026-10-28T13:51:11Z	
 4.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-macosarm64/4.0.2/native-kt-core-macosarm64-4.0.2.jar returned status 404
+4.0.2	metadata	2026-10-31T16:58:06Z	
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-macosarm64/4.0.3/native-kt-core-macosarm64-4.0.3.jar returned status 404
+4.0.3	metadata	2026-10-31T21:54:57Z	
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-macosarm64/4.0.4/native-kt-core-macosarm64-4.0.4.jar returned status 404
+4.0.4	metadata	2026-11-01T10:50:02Z	
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-macosarm64/4.0.5/native-kt-core-macosarm64-4.0.5.jar returned status 404
+4.0.5	metadata	2026-11-01T16:20:08Z	
+4.0.6		2026-11-11T10:45:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-macosarm64/4.0.6/native-kt-core-macosarm64-4.0.6.jar returned status 404
+4.0.6	metadata	2026-11-11T10:45:06Z	
+4.0.7		2026-11-14T18:39:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-macosarm64/4.0.7/native-kt-core-macosarm64-4.0.7.jar returned status 404
+4.0.7	metadata	2026-11-14T18:39:47Z	
+4.0.8		2026-11-15T10:10:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-macosarm64/4.0.8/native-kt-core-macosarm64-4.0.8.jar returned status 404
+4.0.8	metadata	2026-11-15T10:10:30Z	

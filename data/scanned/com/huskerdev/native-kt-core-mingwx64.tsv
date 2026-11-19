@@ -9,3 +9,6 @@
 4.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-mingwx64/4.0.3/native-kt-core-mingwx64-4.0.3.jar returned status 404
 4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-mingwx64/4.0.4/native-kt-core-mingwx64-4.0.4.jar returned status 404
 4.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-mingwx64/4.0.5/native-kt-core-mingwx64-4.0.5.jar returned status 404
+4.0.6		2026-11-11T10:45:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-mingwx64/4.0.6/native-kt-core-mingwx64-4.0.6.jar returned status 404
+4.0.7		2026-11-14T18:39:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-mingwx64/4.0.7/native-kt-core-mingwx64-4.0.7.jar returned status 404
+4.0.8		2026-11-15T10:10:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/huskerdev/native-kt-core-mingwx64/4.0.8/native-kt-core-mingwx64-4.0.8.jar returned status 404
