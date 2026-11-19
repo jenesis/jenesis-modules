@@ -5495,6 +5495,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 7.0.11	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-26T13:19:31Z	2.22
 9.2.0	named	org.mock-server	mockserver-k8s-webhook	2026-10-26T21:42:23Z	2.22
 7.0.12	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-11-01T04:40:08Z	2.22
+0.25.3	named	io.github.astonbitecode	j4rs	2026-11-02T10:03:43Z	2.22
 1.5	named	io.github.vdaburon	junit-reporter-kpi-compare-jmeter-report-csv	2026-11-04T10:15:06Z	2.22
 1.6	named	io.github.vdaburon	junit-reporter-kpi-from-jmeter-dashboard-stats	2026-11-04T11:00:13Z	2.22
 1.9	named	io.github.vdaburon	junit-reporter-kpi-from-jmeter-report-csv	2026-11-04T12:27:23Z	2.22

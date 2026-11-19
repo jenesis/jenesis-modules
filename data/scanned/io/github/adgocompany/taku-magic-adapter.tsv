@@ -1,0 +1,3 @@
+0.0.78.1.0		2026-11-02T14:55:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adgocompany/taku-magic-adapter/0.0.78.1.0/taku-magic-adapter-0.0.78.1.0.jar returned status 404
+0.0.78.1.1		2026-11-03T03:29:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adgocompany/taku-magic-adapter/0.0.78.1.1/taku-magic-adapter-0.0.78.1.1.jar returned status 404
+0.0.78.1.2		2026-11-04T09:21:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/adgocompany/taku-magic-adapter/0.0.78.1.2/taku-magic-adapter-0.0.78.1.2.jar returned status 404
