@@ -11,3 +11,4 @@
 1.0.0-beta08			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/ktx/1.0.0-beta08/ktx-1.0.0-beta08.jar returned status 404
 1.0.0-beta09			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/ktx/1.0.0-beta09/ktx-1.0.0-beta09.jar returned status 404
 1.0.0-beta10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/ktx/1.0.0-beta10/ktx-1.0.0-beta10.jar returned status 404
+1.0.0-beta11		2026-11-16T22:35:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/bumptech/glide/ktx/1.0.0-beta11/ktx-1.0.0-beta11.jar returned status 404
