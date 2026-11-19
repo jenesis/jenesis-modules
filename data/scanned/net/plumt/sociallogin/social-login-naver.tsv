@@ -1,0 +1,3 @@
+0.0.1		2026-11-03T04:20:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/plumt/sociallogin/social-login-naver/0.0.1/social-login-naver-0.0.1.jar returned status 404
+0.0.2		2026-11-07T15:45:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/plumt/sociallogin/social-login-naver/0.0.2/social-login-naver-0.0.2.jar returned status 404
+0.2.0		2026-11-10T23:25:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/plumt/sociallogin/social-login-naver/0.2.0/social-login-naver-0.2.0.jar returned status 404

@@ -67,5 +67,11 @@
 1.4.1		2026-07-20T15:37:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/asrr/core/1.4.1/core-1.4.1.jar returned status 404
 1.4.1	plain	2026-07-20T15:37:30Z	
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/asrr/core/1.5.0/core-1.5.0.jar returned status 404
+1.5.0	plain	2026-10-27T22:02:15Z	
+1.5.0	test-fixtures	2026-10-27T22:02:14Z	
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/asrr/core/1.6.0/core-1.6.0.jar returned status 404
+1.6.0	plain	2026-10-27T22:37:19Z	
+1.6.0	test-fixtures	2026-10-27T22:37:19Z	
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/asrr/core/1.7.0/core-1.7.0.jar returned status 404
+1.7.0	plain	2026-10-27T22:42:13Z	
+1.7.0	test-fixtures	2026-10-27T22:42:13Z	

@@ -71,3 +71,26 @@
 5.1.0	vulkan-linux-x86-64	2026-08-29T23:25:14Z	
 5.1.0	vulkan-windows-x86-64	2026-08-29T23:25:13Z	
 6.0.0			
+6.0.0	cpu-android-aarch64	2026-10-26T02:32:12Z	
+6.0.0	cpu-android-x86-64	2026-10-26T02:32:12Z	
+6.0.0	cpu-linux-aarch64	2026-10-26T02:32:13Z	
+6.0.0	cpu-linux-s390x	2026-10-26T02:32:12Z	
+6.0.0	cpu-linux-x86-64	2026-10-26T02:32:13Z	
+6.0.0	cpu-windows-aarch64	2026-10-26T02:32:12Z	
+6.0.0	cpu-windows-x86-64	2026-10-26T02:32:12Z	
+6.0.0	cuda13-linux-x86-64	2026-10-26T02:32:15Z	
+6.0.0	cuda13-windows-x86-64	2026-10-26T02:32:15Z	
+6.0.0	metal-macos-aarch64	2026-10-26T02:32:12Z	
+6.0.0	opencl-android-aarch64	2026-10-26T02:32:12Z	
+6.0.0	opencl-windows-aarch64	2026-10-26T02:32:12Z	
+6.0.0	opencl-windows-x86-64	2026-10-26T02:32:12Z	
+6.0.0	openvino-linux-x86-64	2026-10-26T02:32:12Z	
+6.0.0	openvino-windows-x86-64	2026-10-26T02:32:12Z	
+6.0.0	rocm-linux-x86-64	2026-10-26T02:32:14Z	
+6.0.0	rocm-windows-x86-64	2026-10-26T02:32:13Z	
+6.0.0	sycl-linux-x86-64	2026-10-26T02:32:12Z	
+6.0.0	sycl-windows-x86-64	2026-10-26T02:32:12Z	
+6.0.0	vulkan-linux-aarch64	2026-10-26T02:32:12Z	
+6.0.0	vulkan-linux-x86-64	2026-10-26T02:32:12Z	
+6.0.0	vulkan-windows-aarch64	2026-10-26T02:32:12Z	
+6.0.0	vulkan-windows-x86-64	2026-10-26T02:32:12Z	
