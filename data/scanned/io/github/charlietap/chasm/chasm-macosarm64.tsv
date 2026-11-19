@@ -105,4 +105,6 @@
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/chasm-macosarm64/2.2.0/chasm-macosarm64-2.2.0.jar returned status 404
 2.2.0	metadata	2026-10-14T18:51:27Z	
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/chasm-macosarm64/2.3.0/chasm-macosarm64-2.3.0.jar returned status 404
+2.3.0	metadata	2026-10-21T21:09:19Z	
 2.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/charlietap/chasm/chasm-macosarm64/2.4.0/chasm-macosarm64-2.4.0.jar returned status 404
+2.4.0	metadata	2026-11-08T21:44:50Z	

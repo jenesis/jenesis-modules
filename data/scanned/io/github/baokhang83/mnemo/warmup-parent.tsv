@@ -1,0 +1,5 @@
+0.1.0		2026-11-09T20:41:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/baokhang83/mnemo/warmup-parent/0.1.0/warmup-parent-0.1.0.jar returned status 404
+0.2.0		2026-11-10T11:14:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/baokhang83/mnemo/warmup-parent/0.2.0/warmup-parent-0.2.0.jar returned status 404
+0.2.5		2026-11-11T03:55:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/baokhang83/mnemo/warmup-parent/0.2.5/warmup-parent-0.2.5.jar returned status 404
+0.3.0-beta.1		2026-11-14T18:59:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/baokhang83/mnemo/warmup-parent/0.3.0-beta.1/warmup-parent-0.3.0-beta.1.jar returned status 404
+0.3.0-beta.2		2026-11-14T19:17:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/baokhang83/mnemo/warmup-parent/0.3.0-beta.2/warmup-parent-0.3.0-beta.2.jar returned status 404
