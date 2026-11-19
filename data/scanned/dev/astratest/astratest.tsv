@@ -1,0 +1,2 @@
+0.1.0		2026-11-05T09:04:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/astratest/astratest/0.1.0/astratest-0.1.0.jar returned status 404
+0.1.1		2026-11-09T13:27:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/astratest/astratest/0.1.1/astratest-0.1.1.jar returned status 404

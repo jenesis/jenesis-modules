@@ -1,0 +1,2 @@
+1.0.0		2026-11-12T13:25:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/eitco/cicd/agentskills/agent-skills-skills/1.0.0/agent-skills-skills-1.0.0.jar returned status 404
+1.0.1		2026-11-12T14:12:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/eitco/cicd/agentskills/agent-skills-skills/1.0.1/agent-skills-skills-1.0.1.jar returned status 404
