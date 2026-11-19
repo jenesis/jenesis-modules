@@ -5489,6 +5489,7 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 9.1.0	named	org.mock-server	mockserver-k8s-webhook	2026-10-21T07:26:44Z	2.22
 1.1.1	named	com.arinits.nullguard	nullguard-cli	2026-10-21T18:23:31Z	2.16.1
 7.0.8	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-21T23:57:11Z	2.22
+4.0.0	named	io.orangebeard	java-client	2026-10-23T18:17:25Z	2.22
 7.0.9	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-23T22:17:22Z	2.22
 7.0.10	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-26T01:38:00Z	2.22
 7.0.11	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-10-26T13:19:31Z	2.22

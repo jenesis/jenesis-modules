@@ -305,3 +305,6 @@ RELEASE113	named	org.netbeans.external	asm-commons-7.2	2020-02-21T16:30:26Z	7.2.
 9.11.1	named	org.ow2.asm	asm-commons	2026-10-17T14:04:44Z	9.11.1
 4.4.4	named	com.apollographql.apollo	apollo-gradle-plugin	2026-10-29T17:14:05Z	9.5
 8.1.1	named	org.copper-engine	copper-performance-test	2026-11-03T17:05:25Z	9.10.1
+1.0.0-M1	named	io.micronaut.scala	micronaut-inject-scala_3.10.1	2026-11-12T07:34:54Z	9.10.1
+1.0.0-M1	named	io.micronaut.scala	micronaut-inject-scala_3.3.9	2026-11-12T07:34:54Z	9.10.1
+1.0.0-M1	named	io.micronaut.scala	micronaut-inject-scala_3.9.0	2026-11-12T07:34:54Z	9.10.1

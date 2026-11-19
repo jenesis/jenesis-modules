@@ -1,0 +1,9 @@
+2.35.0		2026-10-24T13:22:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/builtin-workers/2.35.0/builtin-workers-2.35.0.jar returned status 404
+2.36.0		2026-10-24T16:52:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/builtin-workers/2.36.0/builtin-workers-2.36.0.jar returned status 404
+2.37.0		2026-10-26T13:42:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/builtin-workers/2.37.0/builtin-workers-2.37.0.jar returned status 404
+2.38.0		2026-11-08T23:01:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/builtin-workers/2.38.0/builtin-workers-2.38.0.jar returned status 404
+2.38.1		2026-11-09T07:34:48Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/builtin-workers/2.38.1/builtin-workers-2.38.1.jar returned status 404
+2.39.0		2026-11-13T17:20:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/builtin-workers/2.39.0/builtin-workers-2.39.0.jar returned status 404
+2.40.0		2026-11-13T22:50:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/builtin-workers/2.40.0/builtin-workers-2.40.0.jar returned status 404
+2.41.0		2026-11-14T11:04:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/builtin-workers/2.41.0/builtin-workers-2.41.0.jar returned status 404
+2.42.0		2026-11-14T23:57:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/mateu/workflow/builtin-workers/2.42.0/builtin-workers-2.42.0.jar returned status 404
