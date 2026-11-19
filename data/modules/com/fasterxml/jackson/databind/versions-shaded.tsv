@@ -217,8 +217,11 @@ v0.3.2	named	net.lukemcomber	genetics	2025-10-11T21:43:21Z	2.15.2
 5.0.3	named	org.finos.legend.engine	legend-engine-xt-snowflake-m2mudf-plan-executor	2026-10-28T22:57:13Z	2.21.8
 0.5.0-beta-2026-10-31	named	io.youtrackdb	gremlin-driver	2026-10-31T09:36:34Z	2.15.2
 5.0.4	named	org.finos.legend.engine	legend-engine-xt-snowflake-m2mudf-plan-executor	2026-11-03T12:04:44Z	2.21.8
+0.4.0	named	dev.zarr	zarr-java	2026-11-03T16:45:39Z	2.21.7
 5.0.5	named	org.finos.legend.engine	legend-engine-xt-snowflake-m2mudf-plan-executor	2026-11-05T05:46:33Z	2.21.8
+0.5.0	named	dev.zarr	zarr-java	2026-11-05T11:04:41Z	2.21.7
 0.5.0-beta-2026-11-07	named	io.youtrackdb	gremlin-driver	2026-11-07T10:14:44Z	2.15.2
+0.6.0	named	dev.zarr	zarr-java	2026-11-07T16:25:14Z	2.21.7
 5.0.6	named	org.finos.legend.engine	legend-engine-xt-snowflake-m2mudf-plan-executor	2026-11-09T19:25:21Z	2.21.8
 5.3.0	named	org.finos.legend.engine	legend-engine-xt-snowflake-m2mudf-plan-executor	2026-11-14T04:55:18Z	2.21.8
 0.5.0-beta-2026-11-14	named	io.youtrackdb	gremlin-driver	2026-11-14T10:29:49Z	2.15.2

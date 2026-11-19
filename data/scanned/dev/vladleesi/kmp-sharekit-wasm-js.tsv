@@ -1,0 +1,4 @@
+0.2.0		2026-11-03T00:20:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vladleesi/kmp-sharekit-wasm-js/0.2.0/kmp-sharekit-wasm-js-0.2.0.jar returned status 404
+0.3.1		2026-11-12T23:22:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vladleesi/kmp-sharekit-wasm-js/0.3.1/kmp-sharekit-wasm-js-0.3.1.jar returned status 404
+0.4.0		2026-11-12T23:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vladleesi/kmp-sharekit-wasm-js/0.4.0/kmp-sharekit-wasm-js-0.4.0.jar returned status 404
+0.5.0		2026-11-13T00:06:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vladleesi/kmp-sharekit-wasm-js/0.5.0/kmp-sharekit-wasm-js-0.5.0.jar returned status 404

@@ -65,5 +65,7 @@
 1.58-419fe9c			
 1.58-419fe9c	v58	2026-07-10T08:07:57Z	
 1.60-215bbc6			
+1.60-215bbc6	v60	2026-10-23T08:33:24Z	
 1.61-111f800			
+1.61-111f800	v61	2026-10-23T11:47:40Z	
 SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/disputes-proto/SNAPSHOT/disputes-proto-SNAPSHOT.jar returned status 404
