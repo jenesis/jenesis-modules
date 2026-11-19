@@ -1,0 +1,3 @@
+2.0.15		2026-10-22T11:46:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ankur2233/test/large-zip-test/2.0.15/large-zip-test-2.0.15.jar returned status 404
+2.0.15	part1	2026-10-22T11:46:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ankur2233/test/large-zip-test/2.0.15/large-zip-test-2.0.15-part1.jar returned status 404
+2.0.15	part2	2026-10-22T11:46:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ankur2233/test/large-zip-test/2.0.15/large-zip-test-2.0.15-part2.jar returned status 404

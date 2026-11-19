@@ -216,3 +216,13 @@
 26.10.2	named	com.arcadedb	arcadedb-ha-raft	2026-10-15T17:47:47Z	2.0.78.Final
 26.10.2	named	com.arcadedb	arcadedb-grpcw	2026-10-15T17:47:48Z	2.0.81.Final
 2.20.3	named	com.google.cloud.bigtable	bigtable-beam-import	2026-10-20T21:04:14Z	2.0.75.Final
+1.6.0	named	org.apache.pinot	pinot-common	2026-10-22T22:47:18Z	2.0.84.Final
+1.6.0	named	org.apache.pinot	pinot-java-client	2026-10-22T23:00:23Z	2.0.84.Final
+1.6.0	named	org.apache.pinot	pinot-jdbc-client	2026-10-22T23:04:48Z	2.0.81.Final
+1.6.0	named	org.apache.pinot	pinot-adls	2026-10-22T23:19:38Z	2.0.84.Final
+1.6.0	named	org.apache.pinot	pinot-gcs	2026-10-22T23:20:36Z	2.0.81.Final
+1.6.0	named	org.apache.pinot	pinot-kafka-base	2026-10-22T23:23:54Z	2.0.84.Final
+1.6.0	named	org.apache.pinot	pinot-kafka-3.0	2026-10-22T23:24:30Z	2.0.84.Final
+1.6.0	named	org.apache.pinot	pinot-kafka-4.0	2026-10-22T23:26:11Z	2.0.84.Final
+1.6.0	named	org.apache.pinot	pinot-kinesis	2026-10-22T23:27:31Z	2.0.84.Final
+1.6.0	named	org.apache.pinot	pinot-distribution	2026-10-22T23:48:41Z	2.0.81.Final

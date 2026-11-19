@@ -1,0 +1,5 @@
+0.8.0		2026-10-30T09:45:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aksw/jena/proxy/jena-proxy-parent/0.8.0/jena-proxy-parent-0.8.0.jar returned status 404
+0.8.1		2026-10-30T10:42:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aksw/jena/proxy/jena-proxy-parent/0.8.1/jena-proxy-parent-0.8.1.jar returned status 404
+0.8.2		2026-11-02T15:20:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aksw/jena/proxy/jena-proxy-parent/0.8.2/jena-proxy-parent-0.8.2.jar returned status 404
+0.8.4		2026-11-12T01:43:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aksw/jena/proxy/jena-proxy-parent/0.8.4/jena-proxy-parent-0.8.4.jar returned status 404
+0.8.6		2026-11-12T01:43:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aksw/jena/proxy/jena-proxy-parent/0.8.6/jena-proxy-parent-0.8.6.jar returned status 404
