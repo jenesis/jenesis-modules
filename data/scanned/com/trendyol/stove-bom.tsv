@@ -22,3 +22,5 @@
 0.27.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trendyol/stove-bom/0.27.3/stove-bom-0.27.3.jar returned status 404
 0.27.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trendyol/stove-bom/0.27.4/stove-bom-0.27.4.jar returned status 404
 0.27.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trendyol/stove-bom/0.27.5/stove-bom-0.27.5.jar returned status 404
+0.27.6		2026-10-26T11:39:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trendyol/stove-bom/0.27.6/stove-bom-0.27.6.jar returned status 404
+0.28.0		2026-11-13T10:03:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/trendyol/stove-bom/0.28.0/stove-bom-0.28.0.jar returned status 404

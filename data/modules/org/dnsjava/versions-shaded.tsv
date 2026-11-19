@@ -11,3 +11,5 @@
 5.0	named	com.testingbot	TestingBotTunnel	2026-10-02T10:36:17Z	3.6.5
 1.6.0	named	org.apache.pinot	pinot-orc	2026-10-22T23:15:48Z	3.6.5
 1.6.0	named	org.apache.pinot	pinot-parquet	2026-10-22T23:17:00Z	3.6.5
+5.1	named	com.testingbot	TestingBotTunnel	2026-10-27T13:07:19Z	3.6.5
+5.2	named	com.testingbot	TestingBotTunnel	2026-11-10T15:25:51Z	3.7.1

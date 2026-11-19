@@ -177,6 +177,9 @@
 23.23.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/ml-core-default/23.23.0/ml-core-default-23.23.0.jar returned status 404
 23.24.0		2026-10-19T19:09:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/ml-core-default/23.24.0/ml-core-default-23.24.0.jar returned status 404
 23.25.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/ml-core-default/23.25.0/ml-core-default-23.25.0.jar returned status 404
+23.25.1		2026-10-26T20:28:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/ml-core-default/23.25.1/ml-core-default-23.25.1.jar returned status 404
+23.25.2		2026-11-04T22:51:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/ml-core-default/23.25.2/ml-core-default-23.25.2.jar returned status 404
+23.26.0		2026-11-09T20:01:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/ml-core-default/23.26.0/ml-core-default-23.26.0.jar returned status 404
 23.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/ml-core-default/23.3.0/ml-core-default-23.3.0.jar returned status 404
 23.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/ml-core-default/23.4.0/ml-core-default-23.4.0.jar returned status 404
 23.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/stripe/ml-core-default/23.5.0/ml-core-default-23.5.0.jar returned status 404

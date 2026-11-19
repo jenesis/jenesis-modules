@@ -1,0 +1,2 @@
+1.0.0		2026-11-05T09:51:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toktasoft/image-crop/1.0.0/image-crop-1.0.0.jar returned status 404
+1.0.1		2026-11-05T17:35:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/toktasoft/image-crop/1.0.1/image-crop-1.0.1.jar returned status 404
