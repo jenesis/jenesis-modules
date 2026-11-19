@@ -1,0 +1,2 @@
+0.1.0		2026-11-08T03:07:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/feddy/feddy/0.1.0/feddy-0.1.0.jar returned status 404
+0.1.1		2026-11-11T08:50:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/feddy/feddy/0.1.1/feddy-0.1.1.jar returned status 404

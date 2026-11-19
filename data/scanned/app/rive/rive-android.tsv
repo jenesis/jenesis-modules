@@ -77,6 +77,7 @@
 11.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/rive/rive-android/11.16.0/rive-android-11.16.0.jar returned status 404
 11.16.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/rive/rive-android/11.16.1/rive-android-11.16.1.jar returned status 404
 11.16.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/rive/rive-android/11.16.2/rive-android-11.16.2.jar returned status 404
+11.16.3		2026-11-11T03:16:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/rive/rive-android/11.16.3/rive-android-11.16.3.jar returned status 404
 11.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/rive/rive-android/11.2.0/rive-android-11.2.0.jar returned status 404
 11.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/rive/rive-android/11.2.1/rive-android-11.2.1.jar returned status 404
 11.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/rive/rive-android/11.3.0/rive-android-11.3.0.jar returned status 404

@@ -1976,3 +1976,8 @@ be.imgn.toml.processor
 be.imgn.toml
 be.imgn.gaia.processor
 codegen
+org.lz4.java
+app.oreshkov.delva.serialization
+app.oreshkov.delva
+app.keve.kflm.spoonaptadapter
+app.hookbase

@@ -1,0 +1,2 @@
+4.0.1-1		2026-11-17T16:41:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/f3d/libf3d/4.0.1-1/libf3d-4.0.1-1.jar returned status 404
+4.0.1-2		2026-11-17T19:35:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/f3d/libf3d/4.0.1-2/libf3d-4.0.1-2.jar returned status 404
