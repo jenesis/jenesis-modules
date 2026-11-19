@@ -1,0 +1,2 @@
+34297		2026-10-22T20:09:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/SFENCE/power_generators/34297/power_generators-34297.jar returned status 404
+34297.1		2026-10-23T09:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/SFENCE/power_generators/34297.1/power_generators-34297.1.jar returned status 404

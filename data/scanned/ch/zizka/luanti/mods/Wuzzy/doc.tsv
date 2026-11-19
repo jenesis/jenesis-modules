@@ -1,0 +1,2 @@
+37512		2026-10-22T20:09:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Wuzzy/doc/37512/doc-37512.jar returned status 404
+37512.1		2026-10-22T21:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Wuzzy/doc/37512.1/doc-37512.1.jar returned status 404

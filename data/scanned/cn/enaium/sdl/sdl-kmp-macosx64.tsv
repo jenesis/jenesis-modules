@@ -27,4 +27,6 @@
 1.0.9		2026-08-20T13:41:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/sdl/sdl-kmp-macosx64/1.0.9/sdl-kmp-macosx64-1.0.9.jar returned status 404
 1.0.9	metadata	2026-08-20T13:41:53Z	
 3.4.18.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/sdl/sdl-kmp-macosx64/3.4.18.1/sdl-kmp-macosx64-3.4.18.1.jar returned status 404
+3.4.18.1	metadata	2026-10-29T16:43:54Z	
 3.4.18.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/sdl/sdl-kmp-macosx64/3.4.18.2/sdl-kmp-macosx64-3.4.18.2.jar returned status 404
+3.4.18.2	metadata	2026-11-14T07:55:18Z	

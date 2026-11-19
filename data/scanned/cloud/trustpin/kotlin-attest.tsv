@@ -1,0 +1,4 @@
+7.0.0		2026-10-28T07:02:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/trustpin/kotlin-attest/7.0.0/kotlin-attest-7.0.0.jar returned status 404
+7.0.1		2026-10-30T18:31:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/trustpin/kotlin-attest/7.0.1/kotlin-attest-7.0.1.jar returned status 404
+7.1.0		2026-11-01T19:45:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/trustpin/kotlin-attest/7.1.0/kotlin-attest-7.1.0.jar returned status 404
+7.1.1		2026-11-02T23:00:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cloud/trustpin/kotlin-attest/7.1.1/kotlin-attest-7.1.1.jar returned status 404

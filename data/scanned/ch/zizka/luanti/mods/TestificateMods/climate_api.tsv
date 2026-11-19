@@ -1,0 +1,2 @@
+27649		2026-10-22T20:09:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/TestificateMods/climate_api/27649/climate_api-27649.jar returned status 404
+27649.1		2026-10-22T21:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/TestificateMods/climate_api/27649.1/climate_api-27649.1.jar returned status 404

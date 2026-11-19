@@ -1,0 +1,2 @@
+333		2026-10-22T20:09:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Wuzzy/central_message/333/central_message-333.jar returned status 404
+333.1		2026-10-22T21:08:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Wuzzy/central_message/333.1/central_message-333.1.jar returned status 404

@@ -19,4 +19,6 @@
 1.5.0		2026-06-16T11:09:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/6tail/tyme4kt-iossimulatorarm64/1.5.0/tyme4kt-iossimulatorarm64-1.5.0.jar returned status 404
 1.5.0	metadata	2026-06-16T11:09:31Z	
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/6tail/tyme4kt-iossimulatorarm64/1.5.1/tyme4kt-iossimulatorarm64-1.5.1.jar returned status 404
+1.5.1	metadata	2026-11-07T12:55:54Z	
 1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/6tail/tyme4kt-iossimulatorarm64/1.5.2/tyme4kt-iossimulatorarm64-1.5.2.jar returned status 404
+1.5.2	metadata	2026-11-07T13:15:09Z	

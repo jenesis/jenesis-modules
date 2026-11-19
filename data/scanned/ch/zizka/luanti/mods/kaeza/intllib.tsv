@@ -1,0 +1,2 @@
+13148		2026-10-22T20:09:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/kaeza/intllib/13148/intllib-13148.jar returned status 404
+13148.1		2026-10-22T21:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/kaeza/intllib/13148.1/intllib-13148.1.jar returned status 404

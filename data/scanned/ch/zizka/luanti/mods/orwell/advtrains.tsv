@@ -1,0 +1,2 @@
+36169		2026-10-22T20:09:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/orwell/advtrains/36169/advtrains-36169.jar returned status 404
+36169.1		2026-10-23T09:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/orwell/advtrains/36169.1/advtrains-36169.1.jar returned status 404

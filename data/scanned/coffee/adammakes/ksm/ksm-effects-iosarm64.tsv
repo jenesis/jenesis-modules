@@ -1,0 +1,4 @@
+2.0.0		2026-10-22T23:03:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/coffee/adammakes/ksm/ksm-effects-iosarm64/2.0.0/ksm-effects-iosarm64-2.0.0.jar returned status 404
+2.0.0	metadata	2026-10-22T23:03:09Z	
+2.1.0		2026-11-05T20:01:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/coffee/adammakes/ksm/ksm-effects-iosarm64/2.1.0/ksm-effects-iosarm64-2.1.0.jar returned status 404
+2.1.0	metadata	2026-11-05T20:01:07Z	

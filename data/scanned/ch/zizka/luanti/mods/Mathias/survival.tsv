@@ -1,0 +1,2 @@
+37525		2026-10-22T20:09:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Mathias/survival/37525/survival-37525.jar returned status 404
+37525.1		2026-10-22T21:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/Mathias/survival/37525.1/survival-37525.1.jar returned status 404

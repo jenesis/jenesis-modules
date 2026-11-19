@@ -1,0 +1,2 @@
+37183		2026-10-22T20:09:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/FaceDeer/personal_log/37183/personal_log-37183.jar returned status 404
+37183.1		2026-10-22T21:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/FaceDeer/personal_log/37183.1/personal_log-37183.1.jar returned status 404

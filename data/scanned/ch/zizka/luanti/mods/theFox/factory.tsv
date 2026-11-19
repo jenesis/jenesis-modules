@@ -1,0 +1,2 @@
+22737		2026-10-22T20:09:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/theFox/factory/22737/factory-22737.jar returned status 404
+22737.1		2026-10-23T09:32:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/theFox/factory/22737.1/factory-22737.1.jar returned status 404

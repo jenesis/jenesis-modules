@@ -1,0 +1,2 @@
+39610		2026-10-22T20:09:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/TenPlus1/ethereal/39610/ethereal-39610.jar returned status 404
+39610.1		2026-10-22T21:08:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/zizka/luanti/mods/TenPlus1/ethereal/39610.1/ethereal-39610.1.jar returned status 404
