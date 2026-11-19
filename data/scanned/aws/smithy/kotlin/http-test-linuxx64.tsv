@@ -37,6 +37,9 @@
 1.7.12		2026-10-21T17:13:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-test-linuxx64/1.7.12/http-test-linuxx64-1.7.12.jar returned status 404
 1.7.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-test-linuxx64/1.7.13/http-test-linuxx64-1.7.13.jar returned status 404
 1.7.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-test-linuxx64/1.7.14/http-test-linuxx64-1.7.14.jar returned status 404
+1.7.15		2026-11-09T19:38:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-test-linuxx64/1.7.15/http-test-linuxx64-1.7.15.jar returned status 404
+1.7.16		2026-11-10T22:36:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-test-linuxx64/1.7.16/http-test-linuxx64-1.7.16.jar returned status 404
+1.7.17		2026-11-17T02:16:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-test-linuxx64/1.7.17/http-test-linuxx64-1.7.17.jar returned status 404
 1.7.2		2026-07-08T19:14:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-test-linuxx64/1.7.2/http-test-linuxx64-1.7.2.jar returned status 404
 1.7.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-test-linuxx64/1.7.3/http-test-linuxx64-1.7.3.jar returned status 404
 1.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/aws/smithy/kotlin/http-test-linuxx64/1.7.4/http-test-linuxx64-1.7.4.jar returned status 404
