@@ -1,0 +1,9 @@
+1.1.0		2026-10-21T07:55:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-live/1.1.0/sendbird-live-1.1.0.jar returned status 404
+1.1.1		2026-10-21T07:55:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-live/1.1.1/sendbird-live-1.1.1.jar returned status 404
+1.1.2		2026-10-21T07:54:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-live/1.1.2/sendbird-live-1.1.2.jar returned status 404
+1.2.0		2026-10-21T07:54:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-live/1.2.0/sendbird-live-1.2.0.jar returned status 404
+1.2.0-beta.1		2026-10-21T07:54:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-live/1.2.0-beta.1/sendbird-live-1.2.0-beta.1.jar returned status 404
+1.2.1		2026-10-21T07:54:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-live/1.2.1/sendbird-live-1.2.1.jar returned status 404
+1.2.6		2026-10-21T07:54:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-live/1.2.6/sendbird-live-1.2.6.jar returned status 404
+1.2.7		2026-10-21T07:55:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-live/1.2.7/sendbird-live-1.2.7.jar returned status 404
+1.2.8		2026-10-21T07:55:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-live/1.2.8/sendbird-live-1.2.8.jar returned status 404

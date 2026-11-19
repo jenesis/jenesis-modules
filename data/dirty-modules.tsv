@@ -1466,3 +1466,13 @@ com.sitegoose.analytics
 com.simbachain.vdr
 org.checkerframework.checker.qual
 com.signwell.sdk
+com.fasterxml.jackson.module.jaxb
+com.github.victools.jsonschema.generator
+com.scalar.db.nativejdbc
+com.saga_it.webrtc.natives.windows.x86_64
+com.saga_it.webrtc.natives.windows.aarch64
+com.saga_it.webrtc.natives.macos.x86_64
+com.saga_it.webrtc.natives.macos.aarch64
+com.saga_it.webrtc.natives.linux.x86_64
+com.saga_it.webrtc.natives.linux.aarch64
+com.rulescascade
