@@ -11,3 +11,6 @@
 1.2.0_5		2026-07-06T09:41:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/brotli-libbrotlicommon-watchosx64/1.2.0_5/brotli-libbrotlicommon-watchosx64-1.2.0_5.jar returned status 404
 1.2.0_5	metadata	2026-07-06T09:41:49Z	
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/brotli-libbrotlicommon-watchosx64/1.2.1/brotli-libbrotlicommon-watchosx64-1.2.1.jar returned status 404
+1.2.1	metadata	2026-10-24T09:37:56Z	
+1.2.1_1		2026-11-15T22:15:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ensody/nativebuilds/brotli-libbrotlicommon-watchosx64/1.2.1_1/brotli-libbrotlicommon-watchosx64-1.2.1_1.jar returned status 404
+1.2.1_1	metadata	2026-11-15T22:15:49Z	

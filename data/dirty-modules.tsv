@@ -1861,3 +1861,14 @@ com.exceptionless.log4j2
 com.exceptionless.jul
 com.exceptionless.core
 com.evalship.tinyeval
+com.eorscope.employercosts
+com.ensemblu.axiom.warp.sqlserver.driver
+com.ensemblu.axiom.warp.sqlite.driver
+com.ensemblu.axiom.warp.postgresql.driver
+com.ensemblu.axiom.warp.oracle.driver
+com.ensemblu.axiom.warp.mysql.driver
+com.ensemblu.axiom.telemetry
+com.ecuafact.sdk
+com.dlsc.gemsfx.showcase
+com.dlsc.gemsfx.demo
+com.dlsc.gemsfx
