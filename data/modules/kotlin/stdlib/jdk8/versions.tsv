@@ -1968,4 +1968,6 @@ wire-hashing	named	io.github.graphdsl	graphdsl-gradle-plugin	2026-09-25T18:21:16
 0.1.10	named	ai.realitydefender	realitydefender-sdk	2026-11-16T20:11:15Z	
 2.4.0	named	com.google.genai	google-genai	2026-11-17T01:56:12Z	
 1.0.3	named	cn.ctyun	ctyun-java-sdk-rds220220714	2026-11-17T08:21:00Z	
+2.5.0	named	com.google.genai	google-genai	2026-11-18T07:36:09Z	
 4.12.13	named	net.corda	corda-opentelemetry-driver	2026-11-18T12:22:38Z	
+2.6.0	named	com.google.genai	google-genai	2026-11-18T22:26:18Z	

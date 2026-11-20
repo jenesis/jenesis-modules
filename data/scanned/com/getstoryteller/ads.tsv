@@ -30,3 +30,4 @@
 12.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getstoryteller/ads/12.2.0/ads-12.2.0.jar returned status 404
 12.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getstoryteller/ads/12.2.1/ads-12.2.1.jar returned status 404
 12.2.2		2026-11-16T13:24:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getstoryteller/ads/12.2.2/ads-12.2.2.jar returned status 404
+12.2.3		2026-11-19T07:51:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/getstoryteller/ads/12.2.3/ads-12.2.3.jar returned status 404

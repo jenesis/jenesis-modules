@@ -537,3 +537,4 @@
 3.1.0	named	org.apache.seatunnel	seatunnel-transforms-v2	2026-11-14T14:24:14Z	2.28.0
 3.1.0	named	org.apache.seatunnel	connector-google-analytics4	2026-11-14T17:58:52Z	2.38.0
 3.1.0	named	org.apache.seatunnel	connector-google-bigtable	2026-11-14T18:05:20Z	2.26.1
+2.53.0	named	com.google.errorprone	error_prone_annotations	2026-11-18T11:16:18Z	2.53.0

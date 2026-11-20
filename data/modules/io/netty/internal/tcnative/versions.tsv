@@ -1044,4 +1044,13 @@
 3.0.13	named	io.milvus	milvus-sdk-java	2026-11-17T07:21:12Z	2.0.74.Final
 2.6.28	named	io.milvus	milvus-sdk-java	2026-11-17T07:39:56Z	2.0.74.Final
 6.0.2	named	com.liquibase.ext	liquibase-commercial-bigquery	2026-11-17T15:41:19Z	2.0.75.Final
+2.83.0	named	com.google.api	gapic-generator-java	2026-11-17T17:08:15Z	2.0.81.Final
 5.4.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-17T22:00:00Z	2.0.72.Final
+1.5.1	named	com.graftcode	graftcode-gateway-sdk	2026-11-18T08:56:21Z	2.0.84.Final
+1.6.0	named	com.google.cloud.spark.spanner	spark-3.1-spanner	2026-11-18T22:16:00Z	2.0.81.Final
+1.6.0	named	com.google.cloud.spark.spanner	spark-3.2-spanner	2026-11-18T22:16:00Z	2.0.81.Final
+1.6.0	named	com.google.cloud.spark.spanner	spark-3.3-spanner	2026-11-18T22:16:00Z	2.0.81.Final
+1.6.0	named	com.google.cloud.spark.spanner	spark-3.5-spanner	2026-11-18T22:16:00Z	2.0.81.Final
+1.6.0	named	com.google.cloud.spark.spanner	spark-4.0-spanner	2026-11-18T22:16:00Z	2.0.81.Final
+1.6.0	named	com.google.cloud.spark.spanner	spark-4.1-spanner	2026-11-18T22:16:00Z	2.0.81.Final
+1.6.0	named	com.google.cloud.spark.spanner	spark-4.2-spanner	2026-11-18T22:16:00Z	2.0.81.Final
