@@ -77,6 +77,7 @@
 27.0.0			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
 27.0.0-M1			
 27.0.1			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
+27.0.2		2026-11-19T09:58:43Z	InvalidModuleDescriptorException: Unsupported major.minor version 71.0
 3.0.0		2022-07-26T00:53:05Z	
 3.0.0-M1		2022-02-12T07:37:13Z	
 3.0.0-M2		2022-05-06T17:42:19Z	
@@ -103,6 +104,7 @@
 3.2.20		2026-08-18T16:40:22Z	
 3.2.21			
 3.2.22			
+3.2.23		2026-11-19T09:58:43Z	
 3.2.3		2023-10-26T15:09:40Z	
 3.2.4		2023-11-30T22:08:12Z	
 3.2.5		2023-12-19T00:31:10Z	
@@ -172,3 +174,4 @@
 4.5.4		2026-08-28T18:27:55Z	
 4.5.5			
 4.5.6			
+4.5.7		2026-11-19T09:58:44Z	

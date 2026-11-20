@@ -10,3 +10,4 @@
 1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/knish/knishio-client-kotlin-android/1.5.2/knishio-client-kotlin-android-1.5.2.jar returned status 404
 1.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/knish/knishio-client-kotlin-android/1.6.0/knishio-client-kotlin-android-1.6.0.jar returned status 404
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/knish/knishio-client-kotlin-android/1.6.1/knishio-client-kotlin-android-1.6.1.jar returned status 404
+1.7.0		2026-11-19T10:08:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/knish/knishio-client-kotlin-android/1.7.0/knishio-client-kotlin-android-1.7.0.jar returned status 404
