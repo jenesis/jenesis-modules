@@ -6663,3 +6663,5 @@ master-rc-daily	named	io.streamnative	pulsar-functions-runtime-all	2023-02-08T12
 3.2.0	named	io.antmedia.plugin	media-push	2026-11-13T01:15:16Z	2.21
 0.1.79	named	org.modeljars	modeljars-cli	2026-11-14T23:00:04Z	2.22
 0.1.80	named	org.modeljars	modeljars-cli	2026-11-15T05:45:04Z	2.22
+0.1.21	named	io.github.cdy-codey	codey-console	2026-11-16T04:16:32Z	2.18.2
+0.1.22	named	io.github.cdy-codey	codey-console	2026-11-18T03:25:42Z	2.18.2

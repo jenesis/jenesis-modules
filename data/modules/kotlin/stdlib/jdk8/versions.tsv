@@ -1963,6 +1963,8 @@ wire-hashing	named	io.github.graphdsl	graphdsl-gradle-plugin	2026-09-25T18:21:16
 3.1.0	named	org.apache.seatunnel	connector-influxdb	2026-11-14T17:51:33Z	
 3.1.0	named	org.apache.seatunnel	connector-slack	2026-11-14T17:59:53Z	
 3.1.0	named	org.apache.seatunnel	connector-websocket	2026-11-14T18:15:28Z	
+2.9.0	named	io.github.falllazy	lazychat	2026-11-15T14:40:30Z	
+2.10.0	named	io.github.falllazy	lazychat	2026-11-15T19:25:26Z	
 0.1.10	named	ai.realitydefender	realitydefender-sdk	2026-11-16T20:11:15Z	
 2.4.0	named	com.google.genai	google-genai	2026-11-17T01:56:12Z	
 1.0.3	named	cn.ctyun	ctyun-java-sdk-rds220220714	2026-11-17T08:21:00Z	

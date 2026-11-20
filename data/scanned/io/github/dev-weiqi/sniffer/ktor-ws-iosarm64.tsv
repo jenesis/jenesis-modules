@@ -60,3 +60,5 @@
 0.7.2	metadata	2026-10-06T16:43:27Z	
 0.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/ktor-ws-iosarm64/0.8.0/ktor-ws-iosarm64-0.8.0.jar returned status 404
 0.8.0	metadata	2026-11-05T04:59:32Z	
+0.9.0		2026-11-19T09:38:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/dev-weiqi/sniffer/ktor-ws-iosarm64/0.9.0/ktor-ws-iosarm64-0.9.0.jar returned status 404
+0.9.0	metadata	2026-11-19T09:38:32Z	

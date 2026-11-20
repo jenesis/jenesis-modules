@@ -1,0 +1,2 @@
+1.1.0-filters		2026-11-19T09:36:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cd16d/libmpv/1.1.0-filters/libmpv-1.1.0-filters.jar returned status 404
+1.1.0-filters.2		2026-11-19T09:36:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/cd16d/libmpv/1.1.0-filters.2/libmpv-1.1.0-filters.2.jar returned status 404
