@@ -7533,3 +7533,4 @@ v0.0.22	named	com.grafana	grafana-foundation-sdk	2026-10-29T15:09:56Z	2.19.1
 1.17.0	named	com.ratepay.sdk	ratepay-sdk-core	2026-11-12T14:16:52Z	2.22.4
 3.2.11	named	org.wso2.am.microgw	org.wso2.micro.gateway.cli	2026-11-12T17:55:27Z	2.16.2
 3.2.12	named	org.wso2.am.microgw	org.wso2.micro.gateway.cli	2026-11-16T09:51:45Z	2.16.2
+0.8.17	named	org.metabit.platform.support.config	mconfigtools	2026-11-16T16:45:00Z	2.18.12

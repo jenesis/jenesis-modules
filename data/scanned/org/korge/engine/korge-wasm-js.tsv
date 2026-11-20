@@ -1,0 +1,2 @@
+7.0.0-alpha1		2026-11-19T11:20:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/korge/engine/korge-wasm-js/7.0.0-alpha1/korge-wasm-js-7.0.0-alpha1.jar returned status 404
+v7.0.0-alpha1		2026-11-19T11:20:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/korge/engine/korge-wasm-js/v7.0.0-alpha1/korge-wasm-js-v7.0.0-alpha1.jar returned status 404
