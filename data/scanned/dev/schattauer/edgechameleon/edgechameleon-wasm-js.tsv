@@ -1,3 +1,4 @@
 0.1.0		2026-11-03T12:49:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/schattauer/edgechameleon/edgechameleon-wasm-js/0.1.0/edgechameleon-wasm-js-0.1.0.jar returned status 404
 0.2.0		2026-11-03T14:21:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/schattauer/edgechameleon/edgechameleon-wasm-js/0.2.0/edgechameleon-wasm-js-0.2.0.jar returned status 404
 0.3.0		2026-11-04T22:40:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/schattauer/edgechameleon/edgechameleon-wasm-js/0.3.0/edgechameleon-wasm-js-0.3.0.jar returned status 404
+0.3.1		2026-11-19T09:01:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/schattauer/edgechameleon/edgechameleon-wasm-js/0.3.1/edgechameleon-wasm-js-0.3.1.jar returned status 404

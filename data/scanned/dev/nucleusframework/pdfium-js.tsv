@@ -20,3 +20,4 @@
 158.0.8125.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/pdfium-js/158.0.8125.0/pdfium-js-158.0.8125.0.jar returned status 404
 159.0.8138.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/pdfium-js/159.0.8138.0/pdfium-js-159.0.8138.0.jar returned status 404
 159.0.8152.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/pdfium-js/159.0.8152.0/pdfium-js-159.0.8152.0.jar returned status 404
+160.0.8165.0		2026-11-19T09:00:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/nucleusframework/pdfium-js/160.0.8165.0/pdfium-js-160.0.8165.0.jar returned status 404

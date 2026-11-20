@@ -3,3 +3,4 @@
 0.2.2		2026-11-12T23:49:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/filmstrip/filmstrip-testing-wasm-js/0.2.2/filmstrip-testing-wasm-js-0.2.2.jar returned status 404
 0.3.0		2026-11-13T18:50:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/filmstrip/filmstrip-testing-wasm-js/0.3.0/filmstrip-testing-wasm-js-0.3.0.jar returned status 404
 0.4.0		2026-11-16T02:20:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/filmstrip/filmstrip-testing-wasm-js/0.4.0/filmstrip-testing-wasm-js-0.4.0.jar returned status 404
+0.5.0		2026-11-19T08:58:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/jordond/filmstrip/filmstrip-testing-wasm-js/0.5.0/filmstrip-testing-wasm-js-0.5.0.jar returned status 404

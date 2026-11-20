@@ -51,3 +51,4 @@
 1.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/runtime-wasm-wasi/1.5.0/runtime-wasm-wasi-1.5.0.jar returned status 404
 1.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/runtime-wasm-wasi/1.5.1/runtime-wasm-wasi-1.5.1.jar returned status 404
 1.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/runtime-wasm-wasi/1.5.2/runtime-wasm-wasi-1.5.2.jar returned status 404
+1.6.0		2026-11-19T09:01:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/zacsweers/metro/runtime-wasm-wasi/1.6.0/runtime-wasm-wasi-1.6.0.jar returned status 404
