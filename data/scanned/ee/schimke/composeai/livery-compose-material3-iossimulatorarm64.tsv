@@ -10,6 +10,10 @@
 0.15.0	metadata	2026-11-15T12:05:27Z	
 0.16.0		2026-11-15T16:04:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/livery-compose-material3-iossimulatorarm64/0.16.0/livery-compose-material3-iossimulatorarm64-0.16.0.jar returned status 404
 0.16.0	metadata	2026-11-15T16:04:54Z	
+0.19.0		2026-11-19T09:16:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/livery-compose-material3-iossimulatorarm64/0.19.0/livery-compose-material3-iossimulatorarm64-0.19.0.jar returned status 404
+0.19.0	metadata	2026-11-19T09:16:39Z	
+0.20.0		2026-11-19T09:16:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/livery-compose-material3-iossimulatorarm64/0.20.0/livery-compose-material3-iossimulatorarm64-0.20.0.jar returned status 404
+0.20.0	metadata	2026-11-19T09:16:39Z	
 0.5.0		2026-11-07T22:56:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/livery-compose-material3-iossimulatorarm64/0.5.0/livery-compose-material3-iossimulatorarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-11-07T22:56:03Z	
 0.8.0		2026-11-09T14:35:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/livery-compose-material3-iossimulatorarm64/0.8.0/livery-compose-material3-iossimulatorarm64-0.8.0.jar returned status 404

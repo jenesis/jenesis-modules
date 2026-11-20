@@ -52,3 +52,9 @@
 3.5.3	metadata	2026-11-15T14:25:09Z	
 3.6.0		2026-11-15T17:59:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-3d-iossimulatorarm64/3.6.0/rc-player-3d-iossimulatorarm64-3.6.0.jar returned status 404
 3.6.0	metadata	2026-11-15T17:59:57Z	
+3.6.1		2026-11-19T09:17:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-3d-iossimulatorarm64/3.6.1/rc-player-3d-iossimulatorarm64-3.6.1.jar returned status 404
+3.6.1	metadata	2026-11-19T09:17:13Z	
+3.7.0		2026-11-19T09:17:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-3d-iossimulatorarm64/3.7.0/rc-player-3d-iossimulatorarm64-3.7.0.jar returned status 404
+3.7.0	metadata	2026-11-19T09:17:13Z	
+3.8.0		2026-11-19T09:17:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-3d-iossimulatorarm64/3.8.0/rc-player-3d-iossimulatorarm64-3.8.0.jar returned status 404
+3.8.0	metadata	2026-11-19T09:17:14Z	

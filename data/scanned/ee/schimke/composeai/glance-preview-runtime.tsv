@@ -351,3 +351,5 @@
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/glance-preview-runtime/2.9.0/glance-preview-runtime-2.9.0.jar returned status 404
 2.90.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/glance-preview-runtime/2.90.1/glance-preview-runtime-2.90.1.jar returned status 404
 2.91.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/glance-preview-runtime/2.91.0/glance-preview-runtime-2.91.0.jar returned status 404
+2.95.1		2026-11-19T09:16:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/glance-preview-runtime/2.95.1/glance-preview-runtime-2.95.1.jar returned status 404
+2.98.0		2026-11-19T09:16:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/glance-preview-runtime/2.98.0/glance-preview-runtime-2.98.0.jar returned status 404

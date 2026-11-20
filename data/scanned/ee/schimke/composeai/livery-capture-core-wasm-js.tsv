@@ -4,3 +4,5 @@
 0.14.0		2026-11-14T18:55:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/livery-capture-core-wasm-js/0.14.0/livery-capture-core-wasm-js-0.14.0.jar returned status 404
 0.15.0		2026-11-15T12:05:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/livery-capture-core-wasm-js/0.15.0/livery-capture-core-wasm-js-0.15.0.jar returned status 404
 0.16.0		2026-11-15T16:04:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/livery-capture-core-wasm-js/0.16.0/livery-capture-core-wasm-js-0.16.0.jar returned status 404
+0.19.0		2026-11-19T09:16:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/livery-capture-core-wasm-js/0.19.0/livery-capture-core-wasm-js-0.19.0.jar returned status 404
+0.20.0		2026-11-19T09:16:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/livery-capture-core-wasm-js/0.20.0/livery-capture-core-wasm-js-0.20.0.jar returned status 404
