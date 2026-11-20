@@ -6,3 +6,6 @@
 2.3.0-beta05			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/flows-js/2.3.0-beta05/flows-js-2.3.0-beta05.jar returned status 404
 2.4.0-Beta01		2026-11-02T03:05:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/flows-js/2.4.0-Beta01/flows-js-2.4.0-Beta01.jar returned status 404
 2.4.0-Beta02		2026-11-12T21:00:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/flows-js/2.4.0-Beta02/flows-js-2.4.0-Beta02.jar returned status 404
+2.4.0-Beta03		2026-11-19T07:46:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/flows-js/2.4.0-Beta03/flows-js-2.4.0-Beta03.jar returned status 404
+2.4.0-Beta04		2026-11-19T07:46:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/flows-js/2.4.0-Beta04/flows-js-2.4.0-Beta04.jar returned status 404
+2.4.0-Beta05		2026-11-19T07:46:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/flows-js/2.4.0-Beta05/flows-js-2.4.0-Beta05.jar returned status 404

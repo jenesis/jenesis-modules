@@ -34,3 +34,9 @@
 2.4.0-Beta01	metadata	2026-11-02T03:05:29Z	
 2.4.0-Beta02		2026-11-12T21:00:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/annotations-iosarm64/2.4.0-Beta02/annotations-iosarm64-2.4.0-Beta02.jar returned status 404
 2.4.0-Beta02	metadata	2026-11-12T21:00:29Z	
+2.4.0-Beta03		2026-11-19T07:46:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/annotations-iosarm64/2.4.0-Beta03/annotations-iosarm64-2.4.0-Beta03.jar returned status 404
+2.4.0-Beta03	metadata	2026-11-19T07:46:23Z	
+2.4.0-Beta04		2026-11-19T07:46:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/annotations-iosarm64/2.4.0-Beta04/annotations-iosarm64-2.4.0-Beta04.jar returned status 404
+2.4.0-Beta04	metadata	2026-11-19T07:46:24Z	
+2.4.0-Beta05		2026-11-19T07:46:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/dshatz/kni/annotations-iosarm64/2.4.0-Beta05/annotations-iosarm64-2.4.0-Beta05.jar returned status 404
+2.4.0-Beta05	metadata	2026-11-19T07:46:24Z	
