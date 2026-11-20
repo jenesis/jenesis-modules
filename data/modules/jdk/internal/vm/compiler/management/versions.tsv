@@ -101,3 +101,6 @@
 23.1.13.0.3	named	org.graalvm.compiler	compiler-management	2026-10-26T17:49:21Z	
 21.3.20.0.3	named	org.graalvm.compiler	compiler-management	2026-10-26T17:49:21Z	
 23.0.14.0.3	named	org.graalvm.compiler	compiler-management	2026-10-27T20:02:18Z	
+21.3.20.1	named	org.graalvm.compiler	compiler-management	2026-11-17T13:21:00Z	
+23.1.13.1	named	org.graalvm.compiler	compiler-management	2026-11-17T13:21:01Z	
+23.0.14.1	named	org.graalvm.compiler	compiler-management	2026-11-17T13:21:01Z	
