@@ -3,3 +3,4 @@
 0.45.1		2026-08-19T16:14:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nostrdevkit/nostr-sdk-kmp-iosarm64/0.45.1/nostr-sdk-kmp-iosarm64-0.45.1.jar returned status 404
 0.45.1	metadata	2026-08-19T16:14:21Z	
 0.45.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/nostrdevkit/nostr-sdk-kmp-iosarm64/0.45.2/nostr-sdk-kmp-iosarm64-0.45.2.jar returned status 404
+0.45.2	metadata	2026-11-19T11:29:25Z	

@@ -1,1 +1,2 @@
 1.0.0.34410		2026-11-10T11:57:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/sonarqube/global-bom/1.0.0.34410/global-bom-1.0.0.34410.jar returned status 404
+1.1.0.37030		2026-11-19T11:34:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/sonarsource/sonarqube/global-bom/1.1.0.37030/global-bom-1.1.0.37030.jar returned status 404

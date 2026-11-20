@@ -473,3 +473,4 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 0.17.1	named	io.github.algomaster99	runtime-class-interceptor	2026-11-11T19:25:57Z	1.22.1
 0.17.1	named	io.github.algomaster99	watchdog-agent	2026-11-11T19:25:57Z	1.22.1
 10.4.20261112	named	io.github.shafthq	shaft-cli	2026-11-12T09:40:10Z	1.24.1
+2.1.0	named	org.scala-sbt	librarymanagement-coursier_3	2026-11-16T06:21:11Z	1.23.2
