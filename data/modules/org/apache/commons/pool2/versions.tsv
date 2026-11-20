@@ -75,3 +75,4 @@
 6.0.0	named	com.liquibase.ext	liquibase-commercial-databricks	2026-09-29T20:17:14Z	2.13.1
 6.0.1	named	com.liquibase.ext	liquibase-commercial-databricks	2026-11-03T17:41:32Z	2.13.1
 39.0.0	named	org.apache.druid.extensions.contrib	druid-redis-cache	2026-11-06T20:42:37Z	2.13.1
+6.0.2	named	com.liquibase.ext	liquibase-commercial-databricks	2026-11-17T15:41:19Z	2.13.1

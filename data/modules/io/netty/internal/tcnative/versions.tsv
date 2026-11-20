@@ -1043,4 +1043,5 @@
 2.34.0	named	net.hironico	hironico-minisql-dist	2026-11-17T00:10:26Z	2.0.74.Final
 3.0.13	named	io.milvus	milvus-sdk-java	2026-11-17T07:21:12Z	2.0.74.Final
 2.6.28	named	io.milvus	milvus-sdk-java	2026-11-17T07:39:56Z	2.0.74.Final
+6.0.2	named	com.liquibase.ext	liquibase-commercial-bigquery	2026-11-17T15:41:19Z	2.0.75.Final
 5.4.0	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-17T22:00:00Z	2.0.72.Final

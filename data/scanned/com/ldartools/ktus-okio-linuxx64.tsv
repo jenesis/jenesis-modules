@@ -4,3 +4,5 @@
 1.0.0_beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ldartools/ktus-okio-linuxx64/1.0.0_beta1/ktus-okio-linuxx64-1.0.0_beta1.jar returned status 404
 1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ldartools/ktus-okio-linuxx64/1.0.1/ktus-okio-linuxx64-1.0.1.jar returned status 404
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ldartools/ktus-okio-linuxx64/1.0.3/ktus-okio-linuxx64-1.0.3.jar returned status 404
+1.1.0		2026-11-19T08:13:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ldartools/ktus-okio-linuxx64/1.1.0/ktus-okio-linuxx64-1.1.0.jar returned status 404
+1.2.1		2026-11-19T08:13:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ldartools/ktus-okio-linuxx64/1.2.1/ktus-okio-linuxx64-1.2.1.jar returned status 404

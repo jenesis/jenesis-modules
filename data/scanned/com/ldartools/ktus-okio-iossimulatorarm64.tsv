@@ -10,3 +10,7 @@
 1.0.1	metadata	2026-02-21T00:33:51Z	
 1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ldartools/ktus-okio-iossimulatorarm64/1.0.3/ktus-okio-iossimulatorarm64-1.0.3.jar returned status 404
 1.0.3	metadata	2026-02-24T17:19:39Z	
+1.1.0		2026-11-19T08:13:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ldartools/ktus-okio-iossimulatorarm64/1.1.0/ktus-okio-iossimulatorarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-11-19T08:13:02Z	
+1.2.1		2026-11-19T08:13:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ldartools/ktus-okio-iossimulatorarm64/1.2.1/ktus-okio-iossimulatorarm64-1.2.1.jar returned status 404
+1.2.1	metadata	2026-11-19T08:13:03Z	

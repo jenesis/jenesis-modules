@@ -2,3 +2,4 @@
 0.1.6		2026-10-31T19:46:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/necessarysdk/necessary/0.1.6/necessary-0.1.6.jar returned status 404
 0.1.7		2026-11-04T13:25:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/necessarysdk/necessary/0.1.7/necessary-0.1.7.jar returned status 404
 0.1.8		2026-11-12T09:40:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/necessarysdk/necessary/0.1.8/necessary-0.1.8.jar returned status 404
+0.1.9		2026-11-19T08:17:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/necessarysdk/necessary/0.1.9/necessary-0.1.9.jar returned status 404
