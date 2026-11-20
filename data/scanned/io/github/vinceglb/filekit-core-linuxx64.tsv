@@ -1,3 +1,4 @@
 0.15.0		2026-08-08T21:40:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vinceglb/filekit-core-linuxx64/0.15.0/filekit-core-linuxx64-0.15.0.jar returned status 404
 0.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vinceglb/filekit-core-linuxx64/0.16.0/filekit-core-linuxx64-0.16.0.jar returned status 404
 0.17.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vinceglb/filekit-core-linuxx64/0.17.0/filekit-core-linuxx64-0.17.0.jar returned status 404
+0.17.1		2026-11-19T09:54:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/vinceglb/filekit-core-linuxx64/0.17.1/filekit-core-linuxx64-0.17.1.jar returned status 404

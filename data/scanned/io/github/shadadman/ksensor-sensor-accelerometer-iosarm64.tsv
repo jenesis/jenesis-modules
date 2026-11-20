@@ -1,3 +1,5 @@
+10.0.0		2026-11-19T09:51:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensor-accelerometer-iosarm64/10.0.0/ksensor-sensor-accelerometer-iosarm64-10.0.0.jar returned status 404
+10.0.0	metadata	2026-11-19T09:51:37Z	
 9.40.0		2026-11-04T08:30:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensor-accelerometer-iosarm64/9.40.0/ksensor-sensor-accelerometer-iosarm64-9.40.0.jar returned status 404
 9.40.0	metadata	2026-11-04T08:30:16Z	
 9.85.0		2026-11-10T07:25:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/shadadman/ksensor-sensor-accelerometer-iosarm64/9.85.0/ksensor-sensor-accelerometer-iosarm64-9.85.0.jar returned status 404

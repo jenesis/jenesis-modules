@@ -1,3 +1,5 @@
+0.1.0		2026-11-19T09:51:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/structured-coroutines-runtime-iosx64/0.1.0/structured-coroutines-runtime-iosx64-0.1.0.jar returned status 404
+0.1.0	metadata	2026-11-19T09:51:10Z	
 0.1.0-ALPHA01		2026-11-01T18:00:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/structured-coroutines-runtime-iosx64/0.1.0-ALPHA01/structured-coroutines-runtime-iosx64-0.1.0-ALPHA01.jar returned status 404
 0.1.0-ALPHA01	metadata	2026-11-01T18:00:22Z	
 0.1.0-ALPHA02		2026-11-02T23:19:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/structured-coroutines-runtime-iosx64/0.1.0-ALPHA02/structured-coroutines-runtime-iosx64-0.1.0-ALPHA02.jar returned status 404

@@ -1,3 +1,5 @@
+1.0.10		2026-11-19T09:54:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/controls/1.0.10/controls-1.0.10.jar returned status 404
+1.0.11		2026-11-19T09:54:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/controls/1.0.11/controls-1.0.11.jar returned status 404
 1.0.2		2026-11-05T07:30:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/controls/1.0.2/controls-1.0.2.jar returned status 404
 1.0.2-0		2026-11-05T01:20:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/controls/1.0.2-0/controls-1.0.2-0.jar returned status 404
 1.0.3		2026-11-06T07:24:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/controls/1.0.3/controls-1.0.3.jar returned status 404
@@ -5,3 +7,5 @@
 1.0.5		2026-11-12T10:30:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/controls/1.0.5/controls-1.0.5.jar returned status 404
 1.0.6		2026-11-13T09:38:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/controls/1.0.6/controls-1.0.6.jar returned status 404
 1.0.7		2026-11-15T07:16:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/controls/1.0.7/controls-1.0.7.jar returned status 404
+1.0.8		2026-11-19T09:54:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/controls/1.0.8/controls-1.0.8.jar returned status 404
+1.0.9		2026-11-19T09:54:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/webview-native-ui/controls/1.0.9/controls-1.0.9.jar returned status 404
