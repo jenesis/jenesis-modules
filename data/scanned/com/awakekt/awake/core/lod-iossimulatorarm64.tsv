@@ -52,3 +52,7 @@
 0.55.0	metadata	2026-11-16T20:11:22Z	
 0.56.0		2026-11-17T09:45:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/lod-iossimulatorarm64/0.56.0/lod-iossimulatorarm64-0.56.0.jar returned status 404
 0.56.0	metadata	2026-11-17T09:45:16Z	
+0.57.0		2026-11-19T07:28:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/lod-iossimulatorarm64/0.57.0/lod-iossimulatorarm64-0.57.0.jar returned status 404
+0.57.0	metadata	2026-11-19T07:28:37Z	
+0.57.1		2026-11-19T07:28:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/core/lod-iossimulatorarm64/0.57.1/lod-iossimulatorarm64-0.57.1.jar returned status 404
+0.57.1	metadata	2026-11-19T07:28:37Z	
