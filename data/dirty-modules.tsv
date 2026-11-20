@@ -3649,3 +3649,6 @@ uetlib.geo
 ch.qos.logback.access.tomcat
 ch.qos.logback.access.jetty
 ch.qos.logback.access.common
+am.ik.yavi
+JSQLFormatter.JSQLTranspiler.main
+ai.fireweave.sdk

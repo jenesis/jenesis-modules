@@ -17,6 +17,7 @@
 0.1.0-rc.25		2026-11-16T12:42:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sekyro/sekyro-bom/0.1.0-rc.25/sekyro-bom-0.1.0-rc.25.jar returned status 404
 0.1.0-rc.26		2026-11-16T17:59:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sekyro/sekyro-bom/0.1.0-rc.26/sekyro-bom-0.1.0-rc.26.jar returned status 404
 0.1.0-rc.27		2026-11-16T20:05:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sekyro/sekyro-bom/0.1.0-rc.27/sekyro-bom-0.1.0-rc.27.jar returned status 404
+0.1.0-rc.28		2026-11-19T06:36:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sekyro/sekyro-bom/0.1.0-rc.28/sekyro-bom-0.1.0-rc.28.jar returned status 404
 0.1.0-rc.3		2026-10-28T13:51:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sekyro/sekyro-bom/0.1.0-rc.3/sekyro-bom-0.1.0-rc.3.jar returned status 404
 0.1.0-rc.4		2026-10-31T02:46:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sekyro/sekyro-bom/0.1.0-rc.4/sekyro-bom-0.1.0-rc.4.jar returned status 404
 0.1.0-rc.5		2026-10-31T19:20:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/sekyro/sekyro-bom/0.1.0-rc.5/sekyro-bom-0.1.0-rc.5.jar returned status 404
