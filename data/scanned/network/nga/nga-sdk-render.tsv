@@ -1,3 +1,5 @@
 0.1.0-rc.1		2026-11-07T23:15:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/nga/nga-sdk-render/0.1.0-rc.1/nga-sdk-render-0.1.0-rc.1.jar returned status 404
 0.1.0-rc.2		2026-11-09T23:40:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/nga/nga-sdk-render/0.1.0-rc.2/nga-sdk-render-0.1.0-rc.2.jar returned status 404
 0.1.0-rc.3		2026-11-11T06:39:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/nga/nga-sdk-render/0.1.0-rc.3/nga-sdk-render-0.1.0-rc.3.jar returned status 404
+0.1.0-rc.4		2026-11-19T10:29:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/nga/nga-sdk-render/0.1.0-rc.4/nga-sdk-render-0.1.0-rc.4.jar returned status 404
+0.1.0-rc.5		2026-11-19T10:29:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/network/nga/nga-sdk-render/0.1.0-rc.5/nga-sdk-render-0.1.0-rc.5.jar returned status 404

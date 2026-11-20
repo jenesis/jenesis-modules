@@ -486,7 +486,10 @@
 0.169.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/mail/common/lib/0.169.44/lib-0.169.44.jar returned status 404
 0.169.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/mail/common/lib/0.169.45/lib-0.169.45.jar returned status 404
 0.169.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/mail/common/lib/0.169.46/lib-0.169.46.jar returned status 404
+0.169.47		2026-11-19T10:27:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/mail/common/lib/0.169.47/lib-0.169.47.jar returned status 404
+0.169.49		2026-11-19T10:27:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/mail/common/lib/0.169.49/lib-0.169.49.jar returned status 404
 0.169.5		2026-08-04T12:40:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/mail/common/lib/0.169.5/lib-0.169.5.jar returned status 404
+0.169.50		2026-11-19T10:27:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/mail/common/lib/0.169.50/lib-0.169.50.jar returned status 404
 0.169.6		2026-08-05T16:04:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/mail/common/lib/0.169.6/lib-0.169.6.jar returned status 404
 0.169.7		2026-08-06T12:33:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/mail/common/lib/0.169.7/lib-0.169.7.jar returned status 404
 0.169.8		2026-08-07T10:58:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/mail/common/lib/0.169.8/lib-0.169.8.jar returned status 404

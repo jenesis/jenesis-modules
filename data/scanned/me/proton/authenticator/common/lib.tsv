@@ -60,3 +60,4 @@
 2.3.2		2026-10-14T14:21:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/authenticator/common/lib/2.3.2/lib-2.3.2.jar returned status 404
 2.3.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/authenticator/common/lib/2.3.3/lib-2.3.3.jar returned status 404
 2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/authenticator/common/lib/2.3.4/lib-2.3.4.jar returned status 404
+2.3.5		2026-11-19T10:27:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/proton/authenticator/common/lib/2.3.5/lib-2.3.5.jar returned status 404

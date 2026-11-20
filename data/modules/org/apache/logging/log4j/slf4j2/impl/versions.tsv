@@ -44,3 +44,5 @@
 4.13.4	named	net.corda	corda-tools-network-bootstrapper	2026-08-26T15:06:43Z	2.25.5
 4.14.3	named	net.corda	corda-tools-network-bootstrapper	2026-08-26T15:11:55Z	2.25.5
 4.14.3	named	net.corda	corda-tools-blob-inspector	2026-08-26T15:11:56Z	2.25.5
+4.12.13	named	net.corda	corda-tools-blob-inspector	2026-11-18T12:22:39Z	2.25.5
+4.12.13	named	net.corda	corda-tools-network-bootstrapper	2026-11-18T12:22:42Z	2.25.5

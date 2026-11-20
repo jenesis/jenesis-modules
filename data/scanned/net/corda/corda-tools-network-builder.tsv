@@ -34,6 +34,7 @@
 4.12.11	all	2026-05-07T15:18:46Z	
 4.12.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/corda/corda-tools-network-builder/4.12.12/corda-tools-network-builder-4.12.12.jar returned status 404
 4.12.12	all	2026-08-26T15:00:10Z	
+4.12.13	all	2026-11-19T10:29:33Z	
 4.12.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/corda/corda-tools-network-builder/4.12.2/corda-tools-network-builder-4.12.2.jar returned status 404
 4.12.2	all	2024-11-13T18:12:14Z	
 4.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/corda/corda-tools-network-builder/4.12.3/corda-tools-network-builder-4.12.3.jar returned status 404
