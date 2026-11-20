@@ -1,3 +1,5 @@
 0.2.0		2026-11-09T04:39:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/malefic/parz/bom/0.2.0/bom-0.2.0.jar returned status 404
 0.3.0		2026-11-09T04:39:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/malefic/parz/bom/0.3.0/bom-0.3.0.jar returned status 404
 0.3.1		2026-11-09T05:20:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/malefic/parz/bom/0.3.1/bom-0.3.1.jar returned status 404
+0.3.2		2026-11-19T12:05:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/malefic/parz/bom/0.3.2/bom-0.3.2.jar returned status 404
+0.4.0		2026-11-19T12:05:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/malefic/parz/bom/0.4.0/bom-0.4.0.jar returned status 404

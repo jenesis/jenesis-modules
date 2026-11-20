@@ -11,3 +11,6 @@
 0.7.3		2026-08-13T00:45:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-websocket-macosarm64/0.7.3/kuilt-websocket-macosarm64-0.7.3.jar returned status 404
 0.7.3	metadata	2026-08-13T00:45:52Z	
 0.7.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-websocket-macosarm64/0.7.4/kuilt-websocket-macosarm64-0.7.4.jar returned status 404
+0.7.4	metadata	2026-11-19T12:05:36Z	
+0.7.5		2026-11-19T12:05:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-websocket-macosarm64/0.7.5/kuilt-websocket-macosarm64-0.7.5.jar returned status 404
+0.7.5	metadata	2026-11-19T12:05:36Z	

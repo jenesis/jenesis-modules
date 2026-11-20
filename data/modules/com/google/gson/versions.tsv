@@ -5378,5 +5378,7 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 10.36.0.15337	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-11-11T10:13:09Z	2.15.0
 4.0.0.CR1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-11T12:30:17Z	2.10
 1.1.0	named	dev.uebelacker.babeli	babeli-cli	2026-11-13T21:40:15Z	2.15.0
+4.0.2	named	tools.vitruv	tools.vitruv.dsls.reactions.ide	2026-11-15T22:27:23Z	2.15.0
+4.0.2	named	tools.vitruv	tools.vitruv.vitruvocl.languageserver	2026-11-16T12:57:25Z	2.15.0
 2.6.0	named	com.exaroton	api	2026-11-17T11:40:02Z	2.12.1
 2.0.8	named	com.conaxgames	clibraries	2026-11-17T14:34:44Z	2.14.0
