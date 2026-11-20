@@ -46,3 +46,5 @@
 6.1.0	plain	2026-10-29T14:09:20Z	
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/media-spring-boot-starter/7.0.0/media-spring-boot-starter-7.0.0.jar returned status 404
 7.0.0	plain	2026-10-29T17:31:55Z	
+7.1.0		2026-11-19T09:49:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/media-spring-boot-starter/7.1.0/media-spring-boot-starter-7.1.0.jar returned status 404
+7.1.0	plain	2026-11-19T09:49:14Z	

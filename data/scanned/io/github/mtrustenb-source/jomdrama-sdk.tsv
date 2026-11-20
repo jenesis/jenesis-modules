@@ -8,3 +8,4 @@
 13.0.20261112			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mtrustenb-source/jomdrama-sdk/13.0.20261112/jomdrama-sdk-13.0.20261112.jar returned status 404
 13.0.20261112.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mtrustenb-source/jomdrama-sdk/13.0.20261112.1/jomdrama-sdk-13.0.20261112.1.jar returned status 404
 13.0.20261113			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mtrustenb-source/jomdrama-sdk/13.0.20261113/jomdrama-sdk-13.0.20261113.jar returned status 404
+13.0.20261114		2026-11-19T09:47:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mtrustenb-source/jomdrama-sdk/13.0.20261114/jomdrama-sdk-13.0.20261114.jar returned status 404

@@ -88,3 +88,4 @@
 3.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pytgcalls/ntgcalls/3.0.6/ntgcalls-3.0.6.jar returned status 404
 3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pytgcalls/ntgcalls/3.0.7/ntgcalls-3.0.7.jar returned status 404
 3.1.0-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pytgcalls/ntgcalls/3.1.0-alpha01/ntgcalls-3.1.0-alpha01.jar returned status 404
+3.1.0-beta01		2026-11-19T09:49:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pytgcalls/ntgcalls/3.1.0-beta01/ntgcalls-3.1.0-beta01.jar returned status 404

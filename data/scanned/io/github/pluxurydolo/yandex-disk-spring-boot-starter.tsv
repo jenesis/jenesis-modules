@@ -16,6 +16,8 @@
 1.6.0	plain	2026-03-16T18:09:56Z	
 10.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/yandex-disk-spring-boot-starter/10.0.0/yandex-disk-spring-boot-starter-10.0.0.jar returned status 404
 10.0.0	plain	2026-10-29T17:36:22Z	
+10.1.0		2026-11-19T09:49:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/yandex-disk-spring-boot-starter/10.1.0/yandex-disk-spring-boot-starter-10.1.0.jar returned status 404
+10.1.0	plain	2026-11-19T09:49:15Z	
 2.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/yandex-disk-spring-boot-starter/2.0.1/yandex-disk-spring-boot-starter-2.0.1.jar returned status 404
 2.0.1	plain	2026-03-22T01:38:57Z	
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/pluxurydolo/yandex-disk-spring-boot-starter/2.1.0/yandex-disk-spring-boot-starter-2.1.0.jar returned status 404
