@@ -116,6 +116,8 @@
 12.5.0.RELEASE	plain	2024-11-22T15:58:57Z	
 12.5.1.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/logging/12.5.1.RELEASE/logging-12.5.1.RELEASE.jar returned status 404
 12.5.1.RELEASE	plain	2024-12-11T07:34:23Z	
+12.50.0.RELEASE		2026-11-19T08:30:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/logging/12.50.0.RELEASE/logging-12.50.0.RELEASE.jar returned status 404
+12.50.0.RELEASE	plain	2026-11-19T08:30:50Z	
 12.6.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/logging/12.6.0.RELEASE/logging-12.6.0.RELEASE.jar returned status 404
 12.6.0.RELEASE	plain	2024-12-20T18:10:48Z	
 12.6.1.1.RC			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/logging/12.6.1.1.RC/logging-12.6.1.1.RC.jar returned status 404
@@ -310,6 +312,10 @@
 13.53.0.RELEASE	plain	2026-11-04T14:32:38Z	
 13.54.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/logging/13.54.0.RELEASE/logging-13.54.0.RELEASE.jar returned status 404
 13.54.0.RELEASE	plain	2026-11-11T13:50:17Z	
+13.55.0.RELEASE		2026-11-19T08:30:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/logging/13.55.0.RELEASE/logging-13.55.0.RELEASE.jar returned status 404
+13.55.0.RELEASE	plain	2026-11-19T08:30:50Z	
+13.55.1.RELEASE		2026-11-19T08:30:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/logging/13.55.1.RELEASE/logging-13.55.1.RELEASE.jar returned status 404
+13.55.1.RELEASE	plain	2026-11-19T08:30:50Z	
 13.6.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/logging/13.6.0.RELEASE/logging-13.6.0.RELEASE.jar returned status 404
 13.6.0.RELEASE	plain	2025-11-26T16:34:47Z	
 13.7.0.RELEASE			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/ritense/valtimo/logging/13.7.0.RELEASE/logging-13.7.0.RELEASE.jar returned status 404

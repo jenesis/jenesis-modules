@@ -57,3 +57,5 @@
 1.4.2-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.4.2-beta4/offerwall-1.4.2-beta4.jar returned status 404
 1.5.1-beta4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.5.1-beta4/offerwall-1.5.1-beta4.jar returned status 404
 1.5.1-beta5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.5.1-beta5/offerwall-1.5.1-beta5.jar returned status 404
+1.5.1-beta6		2026-11-19T08:28:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.5.1-beta6/offerwall-1.5.1-beta6.jar returned status 404
+1.5.1-beta7		2026-11-19T08:28:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/pubscale/sdkone/offerwall/1.5.1-beta7/offerwall-1.5.1-beta7.jar returned status 404

@@ -75,3 +75,4 @@
 7.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-runtime-mingwx64/7.1.2/wire-runtime-mingwx64-7.1.2.jar returned status 404
 7.2.0		2026-11-10T18:55:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-runtime-mingwx64/7.2.0/wire-runtime-mingwx64-7.2.0.jar returned status 404
 7.2.1		2026-11-12T11:44:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-runtime-mingwx64/7.2.1/wire-runtime-mingwx64-7.2.1.jar returned status 404
+7.2.2		2026-11-19T08:36:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/squareup/wire/wire-runtime-mingwx64/7.2.2/wire-runtime-mingwx64-7.2.2.jar returned status 404
