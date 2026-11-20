@@ -1,2 +1,4 @@
 1.0.0		2026-10-23T10:37:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/parse/parse-ktor-iossimulatorarm64/1.0.0/parse-ktor-iossimulatorarm64-1.0.0.jar returned status 404
 1.0.0	metadata	2026-10-23T10:37:42Z	
+1.1.0		2026-11-19T12:03:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/studio/lunabee/parse/parse-ktor-iossimulatorarm64/1.1.0/parse-ktor-iossimulatorarm64-1.1.0.jar returned status 404
+1.1.0	metadata	2026-11-19T12:03:11Z	
