@@ -6,3 +6,5 @@
 1.7.1	metadata	2026-11-09T09:31:09Z	
 1.7.2		2026-11-13T04:14:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-macosarm64/1.7.2/markdown-parser-macosarm64-1.7.2.jar returned status 404
 1.7.2	metadata	2026-11-13T04:14:51Z	
+1.7.3		2026-11-19T09:42:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/huarangmeng/markdown-parser-macosarm64/1.7.3/markdown-parser-macosarm64-1.7.3.jar returned status 404
+1.7.3	metadata	2026-11-19T09:42:42Z	

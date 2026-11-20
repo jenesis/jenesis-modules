@@ -1,2 +1,4 @@
 5.0.0		2026-11-14T16:05:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-files-testing-iosarm64/5.0.0/kmptoolkit-files-testing-iosarm64-5.0.0.jar returned status 404
 5.0.0	metadata	2026-11-14T16:05:08Z	
+6.0.0		2026-11-19T09:43:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jamal-wia/kmptoolkit-files-testing-iosarm64/6.0.0/kmptoolkit-files-testing-iosarm64-6.0.0.jar returned status 404
+6.0.0	metadata	2026-11-19T09:43:11Z	

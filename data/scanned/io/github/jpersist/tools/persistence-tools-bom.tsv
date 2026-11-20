@@ -1,3 +1,4 @@
 3.0.0		2026-10-28T09:40:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpersist/tools/persistence-tools-bom/3.0.0/persistence-tools-bom-3.0.0.jar returned status 404
 3.1.0		2026-11-06T23:40:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpersist/tools/persistence-tools-bom/3.1.0/persistence-tools-bom-3.1.0.jar returned status 404
 4.0.0		2026-11-12T08:35:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpersist/tools/persistence-tools-bom/4.0.0/persistence-tools-bom-4.0.0.jar returned status 404
+4.1.0		2026-11-19T09:44:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jpersist/tools/persistence-tools-bom/4.1.0/persistence-tools-bom-4.1.0.jar returned status 404

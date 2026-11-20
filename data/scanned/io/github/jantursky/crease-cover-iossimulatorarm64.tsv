@@ -8,3 +8,5 @@
 1.4.0	metadata	2026-11-09T17:24:53Z	
 1.4.1		2026-11-09T18:39:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jantursky/crease-cover-iossimulatorarm64/1.4.1/crease-cover-iossimulatorarm64-1.4.1.jar returned status 404
 1.4.1	metadata	2026-11-09T18:39:55Z	
+1.5.0		2026-11-19T09:43:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jantursky/crease-cover-iossimulatorarm64/1.5.0/crease-cover-iossimulatorarm64-1.5.0.jar returned status 404
+1.5.0	metadata	2026-11-19T09:43:34Z	

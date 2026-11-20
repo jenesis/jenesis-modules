@@ -1,2 +1,4 @@
 0.0.5		2026-10-15T15:37:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ledgerhq/core-kmp-utils-iosarm64/0.0.5/core-kmp-utils-iosarm64-0.0.5.jar returned status 404
 0.0.5	metadata	2026-10-15T15:37:00Z	
+0.1.0		2026-11-19T09:45:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/ledgerhq/core-kmp-utils-iosarm64/0.1.0/core-kmp-utils-iosarm64-0.1.0.jar returned status 404
+0.1.0	metadata	2026-11-19T09:45:25Z	

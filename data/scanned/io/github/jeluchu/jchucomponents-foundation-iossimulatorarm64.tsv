@@ -30,3 +30,5 @@
 3.0.0-alpha25	metadata	2026-10-28T14:14:14Z	
 3.0.0-alpha26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jeluchu/jchucomponents-foundation-iossimulatorarm64/3.0.0-alpha26/jchucomponents-foundation-iossimulatorarm64-3.0.0-alpha26.jar returned status 404
 3.0.0-alpha26	metadata	2026-11-02T20:00:03Z	
+3.0.0-alpha29		2026-11-19T09:43:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/jeluchu/jchucomponents-foundation-iossimulatorarm64/3.0.0-alpha29/jchucomponents-foundation-iossimulatorarm64-3.0.0-alpha29.jar returned status 404
+3.0.0-alpha29	metadata	2026-11-19T09:43:47Z	

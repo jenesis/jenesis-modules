@@ -1646,3 +1646,4 @@ debug.1	named	com.groupcdg.pitest	pitest-kotlin-plugin	2023-03-13T15:01:48Z	1.12
 1.18.17	named	net.bytebuddy	byte-buddy	2026-11-01T20:29:59Z	1.18.17
 24.5	named	com.graphql-java	graphql-java-agent	2026-11-13T10:56:43Z	1.17.5
 5.6.15.22-RC	named	org.lucee	hibernate-extension	2026-11-15T16:58:01Z	1.12.18
+1.2.0	named	io.github.maksoud13	agent-module	2026-11-15T20:45:07Z	1.14.18

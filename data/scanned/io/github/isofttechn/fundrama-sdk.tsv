@@ -1,0 +1,3 @@
+6.0.0		2026-11-19T09:43:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/isofttechn/fundrama-sdk/6.0.0/fundrama-sdk-6.0.0.jar returned status 404
+6.0.1		2026-11-19T09:43:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/isofttechn/fundrama-sdk/6.0.1/fundrama-sdk-6.0.1.jar returned status 404
+6.0.2		2026-11-19T09:43:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/isofttechn/fundrama-sdk/6.0.2/fundrama-sdk-6.0.2.jar returned status 404
