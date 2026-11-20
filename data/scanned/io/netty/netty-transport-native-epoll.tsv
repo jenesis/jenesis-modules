@@ -282,6 +282,10 @@
 4.1.140.Final	linux-aarch_64	2026-11-02T19:27:09Z	
 4.1.140.Final	linux-riscv64	2026-11-02T19:27:09Z	
 4.1.140.Final	linux-x86_64	2026-11-02T19:27:09Z	
+4.1.141.Final		2026-11-19T10:12:24Z	
+4.1.141.Final	linux-aarch_64	2026-11-19T10:12:24Z	
+4.1.141.Final	linux-riscv64	2026-11-19T10:12:24Z	
+4.1.141.Final	linux-x86_64	2026-11-19T10:12:24Z	
 4.1.15.Final		2017-08-24T15:50:08Z	
 4.1.15.Final	linux-x86_64	2017-08-24T15:50:12Z	
 4.1.16.Final		2017-09-25T04:44:43Z	
@@ -614,6 +618,10 @@
 4.2.20.Final	linux-aarch_64	2026-11-02T18:46:20Z	
 4.2.20.Final	linux-riscv64	2026-11-02T18:46:20Z	
 4.2.20.Final	linux-x86_64	2026-11-02T18:46:20Z	
+4.2.21.Final		2026-11-19T10:12:24Z	
+4.2.21.Final	linux-aarch_64	2026-11-19T10:12:24Z	
+4.2.21.Final	linux-riscv64	2026-11-19T10:12:24Z	
+4.2.21.Final	linux-x86_64	2026-11-19T10:12:24Z	
 4.2.3.Final		2025-07-14T18:52:32Z	
 4.2.3.Final	linux-aarch_64	2025-07-14T18:52:33Z	
 4.2.3.Final	linux-riscv64	2025-07-14T18:52:34Z	

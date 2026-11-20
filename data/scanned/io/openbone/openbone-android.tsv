@@ -3,3 +3,6 @@
 0.4.1		2026-11-12T05:30:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openbone/openbone-android/0.4.1/openbone-android-0.4.1.jar returned status 404
 0.4.2		2026-11-12T08:55:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openbone/openbone-android/0.4.2/openbone-android-0.4.2.jar returned status 404
 0.4.3		2026-11-13T15:16:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openbone/openbone-android/0.4.3/openbone-android-0.4.3.jar returned status 404
+0.4.4		2026-11-19T10:12:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openbone/openbone-android/0.4.4/openbone-android-0.4.4.jar returned status 404
+0.4.5		2026-11-19T10:12:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openbone/openbone-android/0.4.5/openbone-android-0.4.5.jar returned status 404
+0.4.6		2026-11-19T10:12:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/openbone/openbone-android/0.4.6/openbone-android-0.4.6.jar returned status 404

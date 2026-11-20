@@ -1036,6 +1036,8 @@
 3.1.0	named	org.apache.seatunnel	connector-azure-queue-storage	2026-11-14T17:59:37Z	2.0.78.Final
 3.1.0	named	org.apache.seatunnel	connector-bigquery	2026-11-14T18:13:21Z	2.0.72.Final
 5.3.1	named	org.finos.legend.engine	legend-engine-xt-relationalStore-spanner-jdbc-shaded	2026-11-15T02:35:07Z	2.0.72.Final
+2.0.86.Final	named	io.netty	netty-tcnative	2026-11-16T13:31:26Z	2.0.86.Final
+2.0.86.Final	named	io.netty	netty-tcnative-boringssl-static	2026-11-16T13:31:26Z	2.0.86.Final
 1.41.0	named	io.temporal	temporal-shaded	2026-11-16T21:10:15Z	2.0.72.Final
 1.41.1	named	io.temporal	temporal-shaded	2026-11-16T23:35:42Z	2.0.72.Final
 2.34.0	named	net.hironico	hironico-minisql-dist	2026-11-17T00:10:26Z	2.0.74.Final

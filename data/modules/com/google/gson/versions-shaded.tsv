@@ -7301,3 +7301,4 @@
 7.7.2	named	com.aliyun	eventbridge20200401	2026-11-17T17:56:17Z	2.11.0
 8.4.1	named	com.aliyun	vpc20160428	2026-11-17T17:56:17Z	2.11.0
 1.10.0	named	com.aliyun	winnexo20260512	2026-11-17T17:56:17Z	2.11.0
+4.0.0	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-18T11:46:19Z	2.10

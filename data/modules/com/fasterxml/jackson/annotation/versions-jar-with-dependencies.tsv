@@ -5534,3 +5534,4 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 8.788.13	named	com.yahoo.vespa	config-application-package	2026-11-16T03:14:56Z	2.22
 7.2.3.31	named	com.kinetica	kinetica-jdbc	2026-11-16T04:16:32Z	2.22
 7.2.3.32	named	com.kinetica	kinetica-jdbc	2026-11-16T15:46:48Z	2.22
+2.1.1	named	io.orqueio.bpm	orqueio-engine-rest	2026-11-17T09:36:05Z	2.20

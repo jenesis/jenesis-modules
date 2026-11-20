@@ -51,3 +51,4 @@
 8.62.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-distribution/8.62.0/sentry-android-distribution-8.62.0.jar returned status 404
 8.63.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-distribution/8.63.0/sentry-android-distribution-8.63.0.jar returned status 404
 8.64.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-distribution/8.64.0/sentry-android-distribution-8.64.0.jar returned status 404
+8.65.0		2026-11-19T10:19:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sentry/sentry-android-distribution/8.65.0/sentry-android-distribution-8.65.0.jar returned status 404

@@ -216,3 +216,5 @@
 4.1.140.Final	automatic	io.netty	netty-handler	2026-11-02T19:27:09Z	
 3.2.0	named	org.apache.storm	storm-kafka-migration	2026-11-07T19:42:50Z	4.2.19.Final
 1.2.8	named	io.github.ktestify	ktestify-cucumber	2026-11-09T21:35:55Z	4.2.19.Final
+4.2.21.Final	named	io.netty	netty-handler	2026-11-16T17:39:50Z	4.2.21.Final
+4.1.141.Final	automatic	io.netty	netty-handler	2026-11-16T18:24:21Z	
