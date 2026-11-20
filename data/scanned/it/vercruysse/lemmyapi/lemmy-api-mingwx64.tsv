@@ -11,3 +11,6 @@
 0.6.0-beta.6		2026-08-16T14:05:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-mingwx64/0.6.0-beta.6/lemmy-api-mingwx64-0.6.0-beta.6.jar returned status 404
 0.6.0-beta.7		2026-08-16T16:36:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-mingwx64/0.6.0-beta.7/lemmy-api-mingwx64-0.6.0-beta.7.jar returned status 404
 1.0.0-rc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-mingwx64/1.0.0-rc.1/lemmy-api-mingwx64-1.0.0-rc.1.jar returned status 404
+1.0.0-rc.2		2026-11-19T10:25:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-mingwx64/1.0.0-rc.2/lemmy-api-mingwx64-1.0.0-rc.2.jar returned status 404
+1.0.0-rc.3		2026-11-19T10:25:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-mingwx64/1.0.0-rc.3/lemmy-api-mingwx64-1.0.0-rc.3.jar returned status 404
+1.0.0-rc.4		2026-11-19T10:25:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/vercruysse/lemmyapi/lemmy-api-mingwx64/1.0.0-rc.4/lemmy-api-mingwx64-1.0.0-rc.4.jar returned status 404

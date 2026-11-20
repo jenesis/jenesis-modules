@@ -791,7 +791,14 @@
 28.3.8-dev02+2d12399b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/28.3.8-dev02+2d12399b/collektive-dsl-watchosarm64-28.3.8-dev02+2d12399b.jar returned status 404
 28.3.8-dev02+2d12399b	metadata	2026-11-09T17:39:59Z	
 29.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/29.0.0/collektive-dsl-watchosarm64-29.0.0.jar returned status 404
+29.0.0	metadata	2026-11-19T10:23:41Z	
 29.0.1-dev01+2d8feaa6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/29.0.1-dev01+2d8feaa6/collektive-dsl-watchosarm64-29.0.1-dev01+2d8feaa6.jar returned status 404
+29.0.1-dev01+2d8feaa6	metadata	2026-11-19T10:23:41Z	
 29.0.1-dev02+64a51d54			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/29.0.1-dev02+64a51d54/collektive-dsl-watchosarm64-29.0.1-dev02+64a51d54.jar returned status 404
+29.0.1-dev02+64a51d54	metadata	2026-11-19T10:23:41Z	
 29.0.1-dev02+a2e6f9c9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/29.0.1-dev02+a2e6f9c9/collektive-dsl-watchosarm64-29.0.1-dev02+a2e6f9c9.jar returned status 404
+29.0.1-dev02+a2e6f9c9	metadata	2026-11-19T10:23:41Z	
 29.0.1-dev03+cb604785			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/29.0.1-dev03+cb604785/collektive-dsl-watchosarm64-29.0.1-dev03+cb604785.jar returned status 404
+29.0.1-dev03+cb604785	metadata	2026-11-19T10:23:41Z	
+30.0.0		2026-11-19T10:23:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/collektive/collektive-dsl-watchosarm64/30.0.0/collektive-dsl-watchosarm64-30.0.0.jar returned status 404
+30.0.0	metadata	2026-11-19T10:23:41Z	

@@ -1577,3 +1577,4 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 3.1.0	named	org.apache.seatunnel	connector-sensorsdata	2026-11-14T18:10:15Z	3.18.0
 3.1.0	named	org.apache.seatunnel	seatunnel-edge-agent-starter	2026-11-14T18:18:11Z	3.18.0
 3.1	named	org.polypheny	polypheny-jdbc-driver	2026-11-14T22:01:03Z	3.18.0
+2.1.49	named	io.swagger.parser.v3	swagger-parser-cli	2026-11-17T12:34:54Z	3.20.0

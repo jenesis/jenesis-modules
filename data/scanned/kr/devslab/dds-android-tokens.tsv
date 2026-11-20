@@ -1,5 +1,7 @@
 0.10.0		2026-11-14T15:29:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/devslab/dds-android-tokens/0.10.0/dds-android-tokens-0.10.0.jar returned status 404
 0.10.1		2026-11-14T16:34:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/devslab/dds-android-tokens/0.10.1/dds-android-tokens-0.10.1.jar returned status 404
+0.11.0		2026-11-19T10:25:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/devslab/dds-android-tokens/0.11.0/dds-android-tokens-0.11.0.jar returned status 404
+0.11.1		2026-11-19T10:25:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/devslab/dds-android-tokens/0.11.1/dds-android-tokens-0.11.1.jar returned status 404
 0.2.0		2026-11-10T15:31:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/devslab/dds-android-tokens/0.2.0/dds-android-tokens-0.2.0.jar returned status 404
 0.2.1		2026-11-10T16:29:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/devslab/dds-android-tokens/0.2.1/dds-android-tokens-0.2.1.jar returned status 404
 0.3.0		2026-11-10T18:10:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/kr/devslab/dds-android-tokens/0.3.0/dds-android-tokens-0.3.0.jar returned status 404
