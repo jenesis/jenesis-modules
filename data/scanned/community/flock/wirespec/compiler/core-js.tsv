@@ -142,6 +142,7 @@
 0.23.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-js/0.23.5/core-js-0.23.5.jar returned status 404
 0.23.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-js/0.23.6/core-js-0.23.6.jar returned status 404
 0.23.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-js/0.23.7/core-js-0.23.7.jar returned status 404
+0.23.8		2026-11-19T08:51:18Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-js/0.23.8/core-js-0.23.8.jar returned status 404
 0.8.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-js/0.8.10/core-js-0.8.10.jar returned status 404
 0.8.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-js/0.8.11/core-js-0.8.11.jar returned status 404
 0.8.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/compiler/core-js/0.8.13/core-js-0.8.13.jar returned status 404

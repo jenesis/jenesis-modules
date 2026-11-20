@@ -138,3 +138,7 @@
 12.7.4	metadata	2026-11-13T20:25:23Z	
 12.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/mindiff-iosarm64/12.7.5/mindiff-iosarm64-12.7.5.jar returned status 404
 12.7.5	metadata	2026-11-13T21:46:28Z	
+12.7.6		2026-11-19T08:45:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/mindiff-iosarm64/12.7.6/mindiff-iosarm64-12.7.6.jar returned status 404
+12.7.6	metadata	2026-11-19T08:45:29Z	
+12.7.7		2026-11-19T08:45:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/mindiff-iosarm64/12.7.7/mindiff-iosarm64-12.7.7.jar returned status 404
+12.7.7	metadata	2026-11-19T08:45:29Z	

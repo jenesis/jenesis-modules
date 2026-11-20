@@ -1,3 +1,5 @@
 0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yonatankarp/ff4k-bom/0.2.0/ff4k-bom-0.2.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yonatankarp/ff4k-bom/0.3.0/ff4k-bom-0.3.0.jar returned status 404
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yonatankarp/ff4k-bom/0.4.0/ff4k-bom-0.4.0.jar returned status 404
+0.4.1		2026-11-19T08:43:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yonatankarp/ff4k-bom/0.4.1/ff4k-bom-0.4.1.jar returned status 404
+0.4.2		2026-11-19T08:43:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yonatankarp/ff4k-bom/0.4.2/ff4k-bom-0.4.2.jar returned status 404

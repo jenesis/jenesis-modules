@@ -10,3 +10,4 @@
 0.23.5		2026-11-10T11:30:40Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/extensions/extensions-linuxx64/0.23.5/extensions-linuxx64-0.23.5.jar returned status 404
 0.23.6		2026-11-11T19:20:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/extensions/extensions-linuxx64/0.23.6/extensions-linuxx64-0.23.6.jar returned status 404
 0.23.7		2026-11-12T16:48:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/extensions/extensions-linuxx64/0.23.7/extensions-linuxx64-0.23.7.jar returned status 404
+0.23.8		2026-11-19T08:51:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/extensions/extensions-linuxx64/0.23.8/extensions-linuxx64-0.23.8.jar returned status 404

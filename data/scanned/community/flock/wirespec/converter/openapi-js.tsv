@@ -142,6 +142,7 @@
 0.23.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-js/0.23.5/openapi-js-0.23.5.jar returned status 404
 0.23.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-js/0.23.6/openapi-js-0.23.6.jar returned status 404
 0.23.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-js/0.23.7/openapi-js-0.23.7.jar returned status 404
+0.23.8		2026-11-19T08:51:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-js/0.23.8/openapi-js-0.23.8.jar returned status 404
 0.8.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-js/0.8.45/openapi-js-0.8.45.jar returned status 404
 0.8.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-js/0.8.46/openapi-js-0.8.46.jar returned status 404
 0.8.51			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/openapi-js/0.8.51/openapi-js-0.8.51.jar returned status 404

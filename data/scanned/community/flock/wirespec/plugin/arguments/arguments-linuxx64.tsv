@@ -142,6 +142,7 @@
 0.23.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-linuxx64/0.23.5/arguments-linuxx64-0.23.5.jar returned status 404
 0.23.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-linuxx64/0.23.6/arguments-linuxx64-0.23.6.jar returned status 404
 0.23.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-linuxx64/0.23.7/arguments-linuxx64-0.23.7.jar returned status 404
+0.23.8		2026-11-19T08:51:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-linuxx64/0.23.8/arguments-linuxx64-0.23.8.jar returned status 404
 0.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-linuxx64/0.9.10/arguments-linuxx64-0.9.10.jar returned status 404
 0.9.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-linuxx64/0.9.15/arguments-linuxx64-0.9.15.jar returned status 404
 0.9.18			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/plugin/arguments/arguments-linuxx64/0.9.18/arguments-linuxx64-0.9.18.jar returned status 404
