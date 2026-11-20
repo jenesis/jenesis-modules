@@ -435,3 +435,4 @@
 1.13.0-spiral.1	named	com.spiraldb	iceberg-flink-runtime-2.3	2026-11-06T17:40:36Z	3.0.2
 1.13.0-spiral.1	named	com.spiraldb	iceberg-flink-runtime-1.20	2026-11-06T17:40:37Z	3.0.2
 1.13.0-spiral.1	named	com.spiraldb	iceberg-flink-runtime-2.2	2026-11-06T17:40:37Z	3.0.2
+3.1.0	named	org.apache.seatunnel	connector-paimon	2026-11-14T18:06:33Z	2.2.0

@@ -1,0 +1,5 @@
+1.0.0		2026-11-19T10:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/noncrypto-hash-kt-wasm-js/1.0.0/noncrypto-hash-kt-wasm-js-1.0.0.jar returned status 404
+1.1.0		2026-11-19T10:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/noncrypto-hash-kt-wasm-js/1.1.0/noncrypto-hash-kt-wasm-js-1.1.0.jar returned status 404
+1.1.1		2026-11-19T10:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/noncrypto-hash-kt-wasm-js/1.1.1/noncrypto-hash-kt-wasm-js-1.1.1.jar returned status 404
+1.2.0		2026-11-19T10:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/noncrypto-hash-kt-wasm-js/1.2.0/noncrypto-hash-kt-wasm-js-1.2.0.jar returned status 404
+1.2.1		2026-11-19T10:54:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/noncrypto-hash-kt-wasm-js/1.2.1/noncrypto-hash-kt-wasm-js-1.2.1.jar returned status 404

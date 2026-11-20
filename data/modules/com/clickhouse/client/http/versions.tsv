@@ -98,3 +98,4 @@
 0.11.0	named	com.clickhouse	clickhouse-http-client	2026-10-21T08:23:21Z	0.11.0
 0.11.1	named	com.clickhouse	clickhouse-http-client	2026-11-09T20:29:52Z	0.11.1
 0.11.2	named	com.clickhouse	clickhouse-http-client	2026-11-14T00:45:02Z	0.11.2
+3.1.0	named	org.apache.seatunnel	connector-clickhouse	2026-11-14T15:58:30Z	0.3.2-patch11

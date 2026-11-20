@@ -337,3 +337,5 @@
 2.2.0	named	cc.xiangshan	firtool-resolver_2.13	2026-11-12T07:14:39Z	1.5.5-10
 1.5.7-27	named	com.github.luben	zstd-jni	2026-11-14T01:59:47Z	1.5.7-27
 1.5.7-28	named	com.github.luben	zstd-jni	2026-11-14T02:30:22Z	1.5.7-28
+2.2.0	named	org.chipsalliance	firtool-resolver_2.12	2026-11-18T04:19:57Z	1.5.5-10
+2.2.0	named	org.chipsalliance	firtool-resolver_2.13	2026-11-18T04:19:57Z	1.5.5-10

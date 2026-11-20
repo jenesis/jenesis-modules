@@ -1564,4 +1564,16 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 3.22.0	named	org.apache.commons	commons-lang3	2026-11-08T14:10:59Z	3.22.0
 3.18.0-3.0.1	named	org.apache.seatunnel	seatunnel-shade-commons-lang3	2026-11-10T04:44:31Z	3.18.0
 8.4.1	named	com.sngular	scs-multiapi-maven-plugin	2026-11-13T12:50:03Z	3.18.0
+3.1.0	named	org.apache.seatunnel	seatunnel-flink-starter-common	2026-11-14T14:27:16Z	3.18.0
+3.1.0	named	org.apache.seatunnel	seatunnel-flink-13-starter	2026-11-14T14:46:20Z	3.18.0
+3.1.0	named	org.apache.seatunnel	seatunnel-flink-15-starter	2026-11-14T14:47:22Z	3.18.0
+3.1.0	named	org.apache.seatunnel	seatunnel-flink-20-starter	2026-11-14T14:52:08Z	3.18.0
+3.1.0	named	org.apache.seatunnel	seatunnel-starter	2026-11-14T15:38:50Z	3.18.0
+3.1.0	named	org.apache.seatunnel	connector-kudu	2026-11-14T17:45:33Z	3.18.0
+3.1.0	named	org.apache.seatunnel	connector-starrocks	2026-11-14T17:56:26Z	3.18.0
+3.1.0	named	org.apache.seatunnel	connector-hbase	2026-11-14T18:04:51Z	3.18.0
+3.1.0	named	org.apache.seatunnel	connector-rocketmq	2026-11-14T18:05:54Z	3.18.0
+3.1.0	named	org.apache.seatunnel	connector-milvus	2026-11-14T18:07:44Z	3.18.0
+3.1.0	named	org.apache.seatunnel	connector-sensorsdata	2026-11-14T18:10:15Z	3.18.0
+3.1.0	named	org.apache.seatunnel	seatunnel-edge-agent-starter	2026-11-14T18:18:11Z	3.18.0
 3.1	named	org.polypheny	polypheny-jdbc-driver	2026-11-14T22:01:03Z	3.18.0

@@ -617,3 +617,4 @@
 4.8.3-dev06+6a2c65b			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iosarm64/4.8.3-dev06+6a2c65b/maven-central-portal-kotlin-api-iosarm64-4.8.3-dev06+6a2c65b.jar returned status 404
 4.8.3-dev06+6a2c65b	metadata	2026-11-11T02:39:45Z	
 4.8.3-dev07+9fe5bc5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/maven-central-portal-kotlin-api-iosarm64/4.8.3-dev07+9fe5bc5/maven-central-portal-kotlin-api-iosarm64-4.8.3-dev07+9fe5bc5.jar returned status 404
+4.8.3-dev07+9fe5bc5	metadata	2026-11-19T10:52:42Z	
