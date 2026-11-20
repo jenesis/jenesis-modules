@@ -531,3 +531,6 @@
 8.7.32	named	io.camunda.connector	connector-google-gemini	2026-11-06T09:00:18Z	2.0.75.Final
 8.7.32	named	io.camunda.connector	connector-runtime-bundle	2026-11-06T09:00:19Z	2.0.85.Final
 8.6.36	named	io.camunda.connector	connector-runtime-bundle	2026-11-06T09:00:20Z	2.0.75.Final
+8.7.33	named	io.camunda.connector	connector-google-gemini	2026-11-18T14:14:32Z	2.0.75.Final
+8.6.37	named	io.camunda.connector	connector-runtime-bundle	2026-11-18T14:14:33Z	2.0.81.Final
+8.7.33	named	io.camunda.connector	connector-runtime-bundle	2026-11-18T14:14:35Z	2.0.85.Final

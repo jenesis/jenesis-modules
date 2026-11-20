@@ -57,6 +57,7 @@
 8.8.44			
 8.8.45			
 8.8.46			
+8.8.47		2026-11-19T09:23:53Z	
 8.9.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-process-test-spring-boot-4/8.9.1/camunda-process-test-spring-boot-4-8.9.1.jar returned status 404
 8.9.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-process-test-spring-boot-4/8.9.10/camunda-process-test-spring-boot-4-8.9.10.jar returned status 404
 8.9.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/camunda-process-test-spring-boot-4/8.9.11/camunda-process-test-spring-boot-4-8.9.11.jar returned status 404

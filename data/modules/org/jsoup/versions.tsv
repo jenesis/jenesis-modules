@@ -483,3 +483,5 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 0.17.4	named	io.github.algomaster99	classfile-fingerprint	2026-11-18T17:00:07Z	1.22.1
 0.17.4	named	io.github.algomaster99	runtime-class-interceptor	2026-11-18T17:00:07Z	1.22.1
 0.17.4	named	io.github.algomaster99	watchdog-agent	2026-11-18T17:00:07Z	1.22.1
+2.1.27	named	io.get-coursier	coursier-util_2.13	2026-11-18T17:50:11Z	1.24.1
+2.1.27	named	io.get-coursier	coursier-util_3	2026-11-18T17:50:11Z	1.24.1
