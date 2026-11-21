@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-20. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-21. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -214,7 +214,7 @@ feign.gson  [explicit rule: owned by `io.github.openfeign`; 2 other group(s) rej
   R   com.appdynamics                      2025-10..2025-10 25.08.1524           |.................=..|
 reactor.core  [explicit rule: owned by `io.projectreactor`; 2 other group(s) rejected]
   ? * io.projectreactor                    2019-09..2026-10 3.8.8                |.....===============|
-  ?   com.guicedee.modules.services        2026-08..2026-11 2.5.1                |...................=|
+  ?   com.guicedee.modules.services        2026-08..2026-11 2.5.1                |..................==|
   ?   io.github.ltslab                     2026-10..2026-10 3.7.19-ltslab.1      |...................=|
 com.sun.jna.platform  [explicit rule: owned by `net.java.dev.jna`; 2 other group(s) rejected]
   A * net.java.dev.jna                     2018-10..2026-06 5.19.1               |...================.|
@@ -228,7 +228,7 @@ com.sun.xml.txw2  [explicit rule: owned by `org.glassfish.jaxb`; 9 other group(s
   A * org.glassfish.jaxb                   2018-07..2026-05 4.0.9                |...================.|
   R   org.uma.jmetal                       2025-12..2026-11 7.11                 |.................===|
   ?   ch.exense.step                       2026-08..2026-09 3.30.4               |..................==|
-  R   io.github.jeff-tian                  2026-02..2026-02 2.4.1                |..................=.|
+  R   io.github.jeff-tian                  2026-02..2026-02 2.4.1                |.................=..|
   R   ai.starlake                          2022-04..2025-05 1.3.5                |..........=======...|
   R   com.jordansamhi                      2024-08..2024-08 1.1.8                |...............=....|
     + 4 more: org.soot-oss, com.yotpo, cn.lzgabel.jaxb, org.apache.servicemix.bundles
@@ -1047,7 +1047,7 @@ io.vertx.core  [fork: keep `io.vertx`, `io.quarkus` still publishes the name]
 org.yaml.snakeyaml  [fork: keep `org.yaml`, `com.google.errorprone` still publishes the name]
   A * org.yaml                             2019-02..2026-08 2.7                  |....================|
   ?   com.google.errorprone                2026-11..2026-11 2.53.0               |...................=|
-  R   com.huaweicloud.sdk                  2024-01..2026-11 3.1.224              |..............======|
+  R   com.huaweicloud.sdk                  2024-01..2026-11 3.1.224              |.............=======|
   ?   io.github.psm8                       2026-09..2026-11 0.5.0                |...................=|
   R   com.nvidia                           2023-04..2026-11 26.10.2              |............========|
   R   com.arcmutate                        2024-01..2026-11 1.7.3                |.............=======|
@@ -1238,7 +1238,7 @@ org.bouncycastle.lts.prov  [fork: keep `org.bouncycastle`, `org.apache.seatunnel
   A * org.bouncycastle                     2023-06..2026-09 2.73.13              |............========|
   ?   org.apache.seatunnel                 2026-09..2026-11 3.1.0                |...................=|
   R   org.brylex                           2026-05..2026-05 0.2                  |..................=.|
-  R   io.kestra.plugin                     2025-06..2025-08 0.24.0               |................==..|
+  R   io.kestra.plugin                     2025-06..2025-08 0.24.0               |................=...|
 org.bouncycastle.provider  [fork: keep `org.bouncycastle`, `org.apache.seatunnel` still publishes the name]
   A * org.bouncycastle                     2018-07..2026-11 1.87                 |...=================|
   R   org.apache.seatunnel                 2024-07..2026-11 3.1.0                |...............=====|
@@ -1378,7 +1378,7 @@ com.fasterxml.aalto  [fork: keep `com.fasterxml`, `org.jetbrains.kotlin` still p
 org.opentest4j  [fork: keep `org.opentest4j`, `org.jetbrains.kotlin` still publishes the name]
   A * org.opentest4j                       2017-07..2023-07 1.3.0                |.============.......|
   ?   org.jetbrains.kotlin                 2026-07..2026-11 2.5.0-RC             |..................==|
-  ?   com.eatthepath                       2026-08..2026-08 1.0.0                |...................=|
+  ?   com.eatthepath                       2026-08..2026-08 1.0.0                |..................=.|
   R   org.tiatesting                       2024-12..2026-08 0.1.19               |...............====.|
   R   berlin.yuna                          2025-11..2026-06 2026.06.1562143      |.................==.|
   R   org.ndviet                           2026-04..2026-04 4.42.0               |..................=.|
@@ -1463,10 +1463,10 @@ com.github.librepdf.openpdf  [fork: keep `com.github.librepdf`, `com.guicedee.mo
     + 2 more: com.github.kwart.jsign, com.guicedee.services
 org.mongodb.driver.core  [fork: keep `org.mongodb`, `com.guicedee.modules.services` still publishes the name]
   ? * org.mongodb                          2018-04..2026-10 5.14.0               |..==================|
-  ?   com.guicedee.modules.services        2026-08..2026-11 2.5.1                |...................=|
+  ?   com.guicedee.modules.services        2026-08..2026-11 2.5.1                |..................==|
 org.mongodb.driver.reactivestreams  [fork: keep `org.mongodb`, `com.guicedee.modules.services` still publishes the name]
   ? * org.mongodb                          2020-01..2026-10 5.14.0               |......==============|
-  ?   com.guicedee.modules.services        2026-08..2026-11 2.5.1                |...................=|
+  ?   com.guicedee.modules.services        2026-08..2026-11 2.5.1                |..................==|
 org.reactivestreams  [fork: keep `org.reactivestreams`, `com.guicedee.modules.services` still publishes the name]
   A * org.reactivestreams                  2017-12..2022-05 1.0.4                |..=========.........|
   ?   com.guicedee.modules.services        2026-07..2026-11 2.5.1                |..................==|
@@ -1521,10 +1521,10 @@ org.apache.poi.poi  [fork: keep `org.apache.poi`, `com.guicedee.modules.services
     + 15 more: com.jsdiff, io.gitee.tikadoc, io.github.geminit-it, io.github.mianalysis, com.liferay, com.crealytics, com.codoid.products, ch.exense.step.library, com.guicedee.services, io.github.rocketmadev, org.datakurator, org.lucee, (+3 more)
 org.mongodb.bson  [fork: keep `org.mongodb`, `com.guicedee.modules.services` still publishes the name]
   ? * org.mongodb                          2018-04..2026-10 5.14.0               |..==================|
-  ?   com.guicedee.modules.services        2026-08..2026-11 2.5.1                |...................=|
+  ?   com.guicedee.modules.services        2026-08..2026-11 2.5.1                |..................==|
 org.mongodb.bson.record.codec  [fork: keep `org.mongodb`, `com.guicedee.modules.services` still publishes the name]
   ? * org.mongodb                          2022-04..2026-10 5.14.0               |..........==========|
-  ?   com.guicedee.modules.services        2026-08..2026-11 2.5.1                |...................=|
+  ?   com.guicedee.modules.services        2026-08..2026-11 2.5.1                |..................==|
 dev.dirs  [fork: keep `dev.dirs`, `io.get-coursier.util` still publishes the name]
   ? * dev.dirs                             2020-06..2021-04 26                   |.......==...........|
   ?   io.get-coursier.util                 2026-11..2026-11 0.2.0                |...................=|
@@ -1561,7 +1561,7 @@ com.googlecode.javaewah  [fork: keep `com.googlecode.javaewah`, `io.github.baokh
   A * com.googlecode.javaewah              2023-03..2023-03 1.2.3                |............=.......|
   ?   io.github.baokhang83.blastradius     2026-07..2026-11 0.4.0                |..................==|
   R   org.meyvn                            2023-07..2026-05 1.9.4                |............=======.|
-  R   org.liquibase.ext                    2024-02..2025-01 0.4.0                |..............===...|
+  R   org.liquibase.ext                    2024-02..2025-01 0.4.0                |..............==....|
   R   io.kestra.plugin                     2023-07..2024-08 0.17.2               |............====....|
 com.h2database  [fork: keep `com.h2database`, `io.vidocq.runtime.extensions.module.repackaged` still publishes the name]
   A * com.h2database                       2019-02..2026-09 2.5.252              |....================|
@@ -2118,7 +2118,7 @@ org.apache.tomcat.embed.core  [owned by `org.apache.tomcat.embed`; 11 other grou
   ?   org.tinystruct                       2026-10..2026-11 1.1.12               |...................=|
   R   com.heroku                           2020-09..2026-10 10.1.60.0            |.......=============|
   R   io.github.haiphamcoder               2025-09..2026-03 1.0.8                |.................==.|
-  R   io.github.huangchengsir              2024-11..2026-02 1.0.5                |...............====.|
+  R   io.github.huangchengsir              2024-11..2026-02 1.0.5                |...............===..|
   R   io.github.typecoh                    2025-07..2025-07 1.0.2                |................=...|
     + 6 more: com.talenteca, io.github.crac.org.apache.tomcat.embed, com.codedx, de.gematik.test, su.boleyn.oj, org.ops4j.pax.tipi
 org.eclipse.jetty.http  [owned by `org.eclipse.jetty`; 2 other group(s) shade the name]
@@ -2183,7 +2183,7 @@ com.fasterxml.jackson.datatype.jdk8  [owned by `com.fasterxml.jackson.datatype`;
     + 35 more: org.octopusden.octopus.cvevalidationservice, org.octopusden.octopus.automation.cve, org.ic4j, org.apache.grails, io.github.tansuasici, ai.onehouse, com.atlan, io.github.demiourgoi, io.kestra.plugin, com.tencent.cloud, hu.webarticum.miniconnect, io.openlineage, (+23 more)
 com.fasterxml.jackson.module.paramnames  [owned by `com.fasterxml.jackson.module`; 11 other group(s) shade the name]
   A * com.fasterxml.jackson.module         2017-10..2026-11 2.23.0               |.===================|
-  R   com.infobip                          2026-03..2026-08 4.0.0                |..................==|
+  R   com.infobip                          2026-03..2026-08 4.0.0                |..................=.|
   ?   org.realityforge.proton              2026-06..2026-07 0.74                 |..................=.|
   ?   org.realityforge.sting               2026-06..2026-06 0.39                 |..................=.|
   ?   org.realityforge.router.fu           2026-06..2026-06 0.47                 |..................=.|
@@ -3310,15 +3310,15 @@ aopalliance  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
   ?   com.jwebmp.thirdparty                2019-04..2019-08 0.68.0.1             |....==..............|
   ?   com.jwebmp                           2019-01..2019-04 0.66.0.1             |....=...............|
 cache.annotations.ri.common  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most recent]
-  ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |.....=..............|
+  ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |....==..............|
   ?   com.guicedee.modules.services        2026-04..2026-11 2.5.1                |..................==|
   ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
 cache.annotations.ri.guice  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most recent]
-  ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |.....=..............|
+  ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |....==..............|
   ?   com.guicedee.modules.services        2026-04..2026-11 2.5.1                |..................==|
   ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
 cache.api  [no clear owner; `com.jwebmp.thirdparty.jcache` is earliest and most recent]
-  ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |.....=..............|
+  ? * com.jwebmp.thirdparty.jcache         2019-05..2019-08 0.68.0.1             |....==..............|
   ?   com.guicedee.modules.services        2026-04..2026-11 2.5.1                |..................==|
   ?   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
 org.apache.commons.fileupload  [no clear owner; `com.jwebmp.jre11` is earliest and most recent]
