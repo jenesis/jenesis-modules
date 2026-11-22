@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-21. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-22. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -647,50 +647,50 @@ org.hibernate.orm.core  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 
   A * org.hibernate                        2018-01..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2018-12..2026-11 7.4.16.Final         |....================|
   R   com.guicedee.modules.services        2026-04..2026-11 2.5.1                |..................==|
-  R   org.beangle.hibernate                2020-06..2026-11 7.4.14.Final         |.......=============|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  R   org.beangle.hibernate                2020-06..2026-11 7.4.14.Final         |......==============|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
   R   io.github.vmodi001                   2026-03..2026-03 5.6.16.Final         |..................=.|
     + 2 more: com.liferay, com.guicedee.services
 org.hibernate.orm.spatial  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.16.Final)]
   A * org.hibernate                        2018-01..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2021-10..2026-11 7.4.16.Final         |.........===========|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.testing  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.16.Final)]
   A * org.hibernate                        2018-01..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2018-12..2026-11 7.4.16.Final         |....================|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.agroal  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.16.Final)]
   A * org.hibernate                        2018-02..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2018-12..2026-11 7.4.16.Final         |....================|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.c3p0  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.16.Final)]
   A * org.hibernate                        2018-01..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2018-12..2026-11 7.4.16.Final         |....================|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
   R   com.guicedee.modules.services        2026-04..2026-04 2.0.0-RC10           |..................=.|
   R   com.guicedee.services                2020-07..2022-02 1.2.2.1-jre17        |.......====.........|
 org.hibernate.orm.envers  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.16.Final)]
   A * org.hibernate                        2018-01..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2019-11..2026-11 7.4.16.Final         |.....===============|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.graalvm  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.16.Final)]
   A * org.hibernate                        2020-02..2023-02 5.6.15.Final         |......=======.......|
   A   org.hibernate.orm                    2020-04..2026-11 7.4.16.Final         |......==============|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.hikaricp  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.16.Final)]
   A * org.hibernate                        2018-01..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2018-12..2026-11 7.4.16.Final         |....================|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.jcache  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.16.Final)]
   A * org.hibernate                        2018-01..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2019-11..2026-11 7.4.16.Final         |.....===============|
   R   com.guicedee.modules.services        2026-04..2026-11 2.5.1                |..................==|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
   R   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
 org.hibernate.orm.micrometer  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.16.Final)]
   A * org.hibernate                        2020-12..2023-02 5.6.15.Final         |........=====.......|
   A   org.hibernate.orm                    2021-03..2026-11 7.4.16.Final         |........============|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.apache.datasketches.memory  [renamed `org.apache.datasketches` -> `org.apache.seatunnel` (latest 3.1.0)]
   A * org.apache.datasketches              2021-09..2024-10 3.0.2                |.........=======....|
   A   org.apache.seatunnel                 2025-09..2026-11 3.1.0                |.................===|
@@ -753,7 +753,7 @@ org.apache.wicket.metrics  [renamed `org.apache.wicket.experimental.wicket9` -> 
 org.commonmark  [relocated `com.atlassian.commonmark` -> `org.commonmark` (latest 0.32.0)]
   R * com.atlassian.commonmark             2018-01..2021-01 0.17.0               |..=======...........|
   A   org.commonmark                       2021-01..2026-11 0.32.0               |........============|
-  ?   org.apache.tika                      2026-08..2026-09 4.1.0                |...................=|
+  ?   org.apache.tika                      2026-08..2026-09 4.1.0                |..................==|
   R   com.qainsights                       2026-05..2026-05 0.0.1                |..................=.|
   R   se.alipsa.gmd                        2025-09..2025-09 3.0.1                |.................=..|
   R   org.lucee                            2024-05..2024-05 0.22.0               |..............=.....|
@@ -786,16 +786,16 @@ io.akki.test.coroutines  [renamed `io.github.octofleet` -> `io.github.wordyarc` 
 org.hibernate.orm.jpamodelgen  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 6.6.59.Final)]
   A * org.hibernate                        2018-01..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2018-12..2026-10 6.6.59.Final         |....================|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
   R   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
 org.hibernate.orm.proxool  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 6.6.59.Final)]
   A * org.hibernate                        2018-01..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2018-12..2026-10 6.6.59.Final         |....================|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.vibur  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 6.6.59.Final)]
   A * org.hibernate                        2018-01..2026-06 5.3.39.Final         |..=================.|
   A   org.hibernate.orm                    2018-12..2026-10 6.6.59.Final         |....================|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 dev.langchain4j.cdi.mcp.server  [renamed `dev.langchain4j.cdi.mcp` -> `dev.langchain4j.cdi` (latest 1.5.1)]
   ? * dev.langchain4j.cdi.mcp              2026-10..2026-10 1.5.0                |...................=|
   ?   dev.langchain4j.cdi                  2026-10..2026-10 1.5.1                |...................=|
@@ -966,8 +966,8 @@ ch.qos.logback.core  [fork: keep `ch.qos.logback`, `com.expediagroup` still publ
     + 30 more: de.gematik.test, io.camunda, club.dawdler, com.yetanalytics, net.ladenthin, org.eclipse.hawkbit, io.smallrye.reactive, org.springframework.cloud, com.limemojito.oss.aws, io.spicelabs, org.chenile, org.jetbrains.kotlinx, (+18 more)
 jakarta.json  [fork: keep `jakarta.json`, `io.github.qudtlib` still publishes the name]
   A * jakarta.json                         2020-01..2026-11 2.2.0-M1             |......==============|
-  R   io.github.qudtlib                    2026-02..2026-11 7.3.0                |..................==|
-  R   com.arangodb                         2025-08..2026-09 1.10.0               |.................===|
+  R   io.github.qudtlib                    2026-02..2026-11 7.3.0                |.................===|
+  R   com.arangodb                         2025-08..2026-09 1.10.0               |................====|
   ?   com.vaimee                           2026-06..2026-06 4.3.2                |..................=.|
   R   org.eclipse.parsson                  2021-06..2026-05 1.1.9                |........===========.|
   R   io.quarkus                           2024-10..2025-02 3.18.4               |...............==...|
@@ -992,7 +992,7 @@ io.netty.internal.tcnative.openssl.linux.x86_64  [fork: keep `io.netty`, `io.cam
   A * io.netty                             2022-05..2026-11 2.0.86.Final         |..........==========|
   ?   io.camunda.connector                 2026-06..2026-11 8.7.33               |..................==|
   R   io.smallrye                          2026-04..2026-11 0.2.3+tcnative-2.0.85.Final |..................==|
-  R   com.azure.cosmos.spark               2026-02..2026-09 4.50.0               |..................==|
+  R   com.azure.cosmos.spark               2026-02..2026-09 4.50.0               |.................===|
   R   org.apache.iotdb                     2026-04..2026-09 2.0.11               |..................==|
   ?   com.solacecoe.connectors             2026-08..2026-08 4.0.0                |..................=.|
     + 6 more: io.zipkin.dependencies, com.danielflower.apprunner, io.karatelabs, io.opentelemetry.javaagent, com.github.emc-mongoose, io.servicetalk
@@ -1032,7 +1032,7 @@ org.apache.commons.lang3  [fork: keep `org.apache.commons`, `de.knightsoft-net` 
   A * org.apache.commons                   2017-06..2026-11 3.22.0               |.===================|
   R   de.knightsoft-net                    2017-07..2026-11 3.22.0-0             |.===================|
   ?   com.liquibase.ext                    2026-06..2026-11 6.0.2                |..................==|
-  R   io.swagger.parser.v3                 2024-01..2026-11 2.1.49               |..............======|
+  R   io.swagger.parser.v3                 2024-01..2026-11 2.1.49               |.............=======|
   R   com.ubs-hainer                       2025-11..2026-11 3.26.45              |.................===|
   R   org.polypheny                        2024-05..2026-11 3.1                  |..............======|
     + 110 more: org.apache.seatunnel, com.sngular, com.aliyun.odps, io.github.luo-zhan, io.streamnative, com.jcabi, org.apache.tomee, com.equinor.neqsim, io.vertx, io.openlineage, edu.kit.kastel.sdq, org.frankframework, (+98 more)
@@ -1089,7 +1089,7 @@ com.fasterxml.jackson.dataformat.smile  [fork: keep `com.fasterxml.jackson.dataf
   R   org.opensearch.migrations.snapshots  2026-04..2026-11 0.3.4.2              |..................==|
   ?   io.deephaven                         2026-10..2026-11 41.12                |...................=|
   ?   org.apache.pinot                     2026-10..2026-10 1.6.0                |...................=|
-  R   com.netflix.spectator                2021-10..2025-08 1.8.17               |.........=========..|
+  R   com.netflix.spectator                2021-10..2025-08 1.8.17               |.........========...|
   R   io.acryl                             2024-01..2025-06 1.1.0.3rc1           |..............===...|
     + 4 more: org.apache.hudi, org.pipservices, com.hazelcast.jet, io.trino
 io.netty.handler.proxy  [fork: keep `io.netty`, `io.kestra` still publishes the name]
@@ -1618,7 +1618,7 @@ com.thoughtworks.qdox  [fork: keep `com.thoughtworks.qdox`, `com.github.shalousu
   ?   com.github.shalousun                 2026-10..2026-10 2.2.0                |...................=|
   R   com.ly.smart-doc                     2024-01..2024-01 2.0.3.4              |.............=......|
 org.codehaus.plexus.interpolation  [fork: keep `org.codehaus.plexus`, `org.pipelineframework` still publishes the name]
-  A * org.codehaus.plexus                  2025-11..2026-08 1.30.0               |.................===|
+  A * org.codehaus.plexus                  2025-11..2026-08 1.30.0               |.................==.|
   ?   org.pipelineframework                2026-10..2026-10 26.10.1              |...................=|
   R   me.chrissw-r1                        2025-11..2025-12 1.2.5                |.................=..|
 org.update4j  [fork: keep `org.update4j`, `de.rpgframework` still publishes the name]
@@ -1710,7 +1710,7 @@ org.signal.libsignal  [fork: keep `org.signal`, `io.github.wanggenlin` still pub
   ?   com.securegroupchat                  2026-07..2026-07 0.96.3               |..................=.|
 org.bytedeco.javacpp.ios.arm64  [fork: keep `org.bytedeco`, `org.apache.tika` still publishes the name]
   A * org.bytedeco                         2020-04..2026-08 1.5.14               |......=============.|
-  R   org.apache.tika                      2025-08..2026-10 3.3.3                |.................===|
+  R   org.apache.tika                      2025-08..2026-10 3.3.3                |................====|
   ?   io.github.mullerhai                  2026-07..2026-08 1.5.14-GA-1.0        |..................==|
 org.teavm.jso  [fork: keep `org.teavm`, `io.github.jarrunner.teavm` still publishes the name]
   A * org.teavm                            2022-04..2026-10 0.16.0               |..........==========|
@@ -2066,16 +2066,16 @@ org.junit.jupiter.params  [owned by `org.junit.jupiter`; 2 other group(s) shade 
   ?   io.github.lightdataframe             2026-09..2026-10 1.1.0                |...................=|
 org.hibernate.orm.community.dialects  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
   ? * org.hibernate.orm                    2022-05..2026-11 7.4.16.Final         |..........==========|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.vector  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
   ? * org.hibernate.orm                    2023-11..2026-11 7.4.16.Final         |.............=======|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.ant  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
   ? * org.hibernate.orm                    2021-10..2026-11 7.4.16.Final         |.........===========|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.jfr  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
   ? * org.hibernate.orm                    2023-11..2026-11 7.4.16.Final         |.............=======|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 com.clickhouse.jdbc  [owned by `com.clickhouse`; 4 other group(s) shade the name]
   A * com.clickhouse                       2021-12..2026-11 0.11.2               |.........===========|
   ?   io.github.tridog                     2026-07..2026-07 0.7.3-2              |..................=.|
@@ -2087,7 +2087,7 @@ com.microsoft.onnxruntime  [owned by `com.microsoft.onnxruntime`; 1 other group(
   ?   io.github.eduramiba                  2026-06..2026-06 1.26.0               |..................=.|
 org.hibernate.orm.ucp  [owned by `org.hibernate.orm`; 1 other group(s) shade the name]
   ? * org.hibernate.orm                    2024-03..2026-11 8.0.0.CR1            |..............======|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.flywaydb.core  [owned by `org.flywaydb`; 4 other group(s) shade the name]
   A * org.flywaydb                         2017-12..2026-11 13.12.2              |..==================|
   ?   io.github.wu9007                     2026-08..2026-08 9.9.9                |...................=|
@@ -2098,7 +2098,7 @@ org.flywaydb.core  [owned by `org.flywaydb`; 4 other group(s) shade the name]
     + 1 more: org.flywaydb.pro
 org.jline.terminal.jni  [owned by `org.jline`; 1 other group(s) shade the name]
   ? * org.jline                            2023-10..2026-11 4.7.0                |.............=======|
-  ?   fish.payara.extras                   2026-08..2026-11 7.2026.11            |...................=|
+  ?   fish.payara.extras                   2026-08..2026-11 7.2026.11            |..................==|
 org.bouncycastle.pkix  [owned by `org.bouncycastle`; 63 other group(s) shade the name]
   A * org.bouncycastle                     2018-07..2026-11 1.87                 |...=================|
   R   org.jetbrains                        2021-03..2026-10 0.1.45               |........============|
@@ -2317,7 +2317,7 @@ com.aayushatharva.brotli4j  [owned by `com.aayushatharva.brotli4j`; 2 other grou
   R   org.apache.orc                       2024-11..2026-01 2.1.4                |...............===..|
 org.hibernate.orm.enhance.maven.plugin  [owned by `org.hibernate.orm.tooling`; 1 other group(s) shade the name]
   ? * org.hibernate.orm.tooling            2022-05..2026-10 6.6.59.Final         |..........==========|
-  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |...................=|
+  ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.jgroups  [owned by `org.jgroups`; 1 other group(s) shade the name]
   ? * org.jgroups                          2022-12..2026-10 5.5.8.Final          |...........=========|
   ?   io.github.martinhickson              2026-09..2026-09 5.3.18-bravura-3     |...................=|
