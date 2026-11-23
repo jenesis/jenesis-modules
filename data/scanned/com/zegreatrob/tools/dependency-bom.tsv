@@ -425,3 +425,4 @@
 3.9.4		2026-11-19T08:45:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/dependency-bom/3.9.4/dependency-bom-3.9.4.jar returned status 404
 3.9.5		2026-11-19T08:45:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/dependency-bom/3.9.5/dependency-bom-3.9.5.jar returned status 404
 3.9.6		2026-11-19T08:45:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/dependency-bom/3.9.6/dependency-bom-3.9.6.jar returned status 404
+3.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/tools/dependency-bom/3.9.7/dependency-bom-3.9.7.jar returned status 404

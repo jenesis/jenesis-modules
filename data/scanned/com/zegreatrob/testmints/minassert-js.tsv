@@ -428,6 +428,8 @@
 12.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/minassert-js/12.7.5/minassert-js-12.7.5.jar returned status 404
 12.7.6		2026-11-19T08:45:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/minassert-js/12.7.6/minassert-js-12.7.6.jar returned status 404
 12.7.7		2026-11-19T08:45:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/minassert-js/12.7.7/minassert-js-12.7.7.jar returned status 404
+12.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/minassert-js/12.7.8/minassert-js-12.7.8.jar returned status 404
+12.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/minassert-js/12.7.9/minassert-js-12.7.9.jar returned status 404
 3.2.24		2021-02-28T16:48:04Z	
 3.2.25		2021-02-28T17:09:41Z	
 3.2.26		2021-02-28T17:31:49Z	

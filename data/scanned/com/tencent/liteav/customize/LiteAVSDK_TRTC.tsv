@@ -84,6 +84,7 @@
 13.0.0.19668			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.0.0.19668/LiteAVSDK_TRTC-13.0.0.19668.jar returned status 404
 13.0.0.19680			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.0.0.19680/LiteAVSDK_TRTC-13.0.0.19680.jar returned status 404
 13.1.0.19887			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.1.0.19887/LiteAVSDK_TRTC-13.1.0.19887.jar returned status 404
+13.2.0.20070			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.2.0.20070/LiteAVSDK_TRTC-13.2.0.20070.jar returned status 404
 13.3.0.20211		2026-06-24T08:45:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.3.0.20211/LiteAVSDK_TRTC-13.3.0.20211.jar returned status 404
 13.3.0.20213		2026-06-26T13:32:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.3.0.20213/LiteAVSDK_TRTC-13.3.0.20213.jar returned status 404
 13.3.0.20217		2026-07-03T12:12:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.3.0.20217/LiteAVSDK_TRTC-13.3.0.20217.jar returned status 404
@@ -93,6 +94,7 @@
 13.3.0.20228		2026-09-21T06:31:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.3.0.20228/LiteAVSDK_TRTC-13.3.0.20228.jar returned status 404
 13.3.0.20232			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.3.0.20232/LiteAVSDK_TRTC-13.3.0.20232.jar returned status 404
 13.3.0.20233			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.3.0.20233/LiteAVSDK_TRTC-13.3.0.20233.jar returned status 404
+13.3.0.20246			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.3.0.20246/LiteAVSDK_TRTC-13.3.0.20246.jar returned status 404
 13.3.0.20255			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.3.0.20255/LiteAVSDK_TRTC-13.3.0.20255.jar returned status 404
 13.3.0.20256		2026-06-16T10:04:50Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.3.0.20256/LiteAVSDK_TRTC-13.3.0.20256.jar returned status 404
 13.3.0.20257		2026-05-20T08:07:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.3.0.20257/LiteAVSDK_TRTC-13.3.0.20257.jar returned status 404
@@ -104,6 +106,7 @@
 13.5.0.20685			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.5.0.20685/LiteAVSDK_TRTC-13.5.0.20685.jar returned status 404
 13.5.0.20686			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.5.0.20686/LiteAVSDK_TRTC-13.5.0.20686.jar returned status 404
 13.5.0.20689			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.5.0.20689/LiteAVSDK_TRTC-13.5.0.20689.jar returned status 404
+13.5.0.20692			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/13.5.0.20692/LiteAVSDK_TRTC-13.5.0.20692.jar returned status 404
 9.4.2922			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/9.4.2922/LiteAVSDK_TRTC-9.4.2922.jar returned status 404
 9.5.11169			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/9.5.11169/LiteAVSDK_TRTC-9.5.11169.jar returned status 404
 9.5.21815			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/liteav/customize/LiteAVSDK_TRTC/9.5.21815/LiteAVSDK_TRTC-9.5.21815.jar returned status 404

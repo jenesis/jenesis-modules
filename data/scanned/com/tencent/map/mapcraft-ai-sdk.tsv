@@ -46,6 +46,7 @@
 3.1.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.13/mapcraft-ai-sdk-3.1.13.jar returned status 404
 3.1.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.14/mapcraft-ai-sdk-3.1.14.jar returned status 404
 3.1.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.15/mapcraft-ai-sdk-3.1.15.jar returned status 404
+3.1.16			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.16/mapcraft-ai-sdk-3.1.16.jar returned status 404
 3.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.2/mapcraft-ai-sdk-3.1.2.jar returned status 404
 3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.3/mapcraft-ai-sdk-3.1.3.jar returned status 404
 3.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.4/mapcraft-ai-sdk-3.1.4.jar returned status 404
@@ -62,4 +63,6 @@
 3.1.7.1.7		2026-10-12T12:05:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.7.1.7/mapcraft-ai-sdk-3.1.7.1.7.jar returned status 404
 3.1.7.1.8		2026-10-20T12:12:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.7.1.8/mapcraft-ai-sdk-3.1.7.1.8.jar returned status 404
 3.1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.8/mapcraft-ai-sdk-3.1.8.jar returned status 404
+3.1.8.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.8.1.0/mapcraft-ai-sdk-3.1.8.1.0.jar returned status 404
+3.1.8.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.8.1.1/mapcraft-ai-sdk-3.1.8.1.1.jar returned status 404
 3.1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/tencent/map/mapcraft-ai-sdk/3.1.9/mapcraft-ai-sdk-3.1.9.jar returned status 404

@@ -414,3 +414,5 @@
 12.7.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-js/12.7.5/action-annotation-js-12.7.5.jar returned status 404
 12.7.6		2026-11-19T08:45:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-js/12.7.6/action-annotation-js-12.7.6.jar returned status 404
 12.7.7		2026-11-19T08:45:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-js/12.7.7/action-annotation-js-12.7.7.jar returned status 404
+12.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-js/12.7.8/action-annotation-js-12.7.8.jar returned status 404
+12.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/action-annotation-js/12.7.9/action-annotation-js-12.7.9.jar returned status 404

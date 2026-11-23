@@ -2,3 +2,4 @@
 1.0.1-alpha		2025-09-12T12:21:14Z	
 1.0.2		2025-09-23T10:00:51Z	
 1.0.3		2025-10-30T09:09:57Z	
+1.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/choicely/sdk/android-map/1.1.0/android-map-1.1.0.jar returned status 404

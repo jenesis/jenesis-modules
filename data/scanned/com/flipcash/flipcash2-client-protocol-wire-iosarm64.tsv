@@ -2,3 +2,4 @@
 0.26.0	metadata	2026-11-11T17:21:16Z	
 0.27.0		2026-11-17T03:30:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipcash/flipcash2-client-protocol-wire-iosarm64/0.27.0/flipcash2-client-protocol-wire-iosarm64-0.27.0.jar returned status 404
 0.27.0	metadata	2026-11-17T03:30:23Z	
+0.28.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/flipcash/flipcash2-client-protocol-wire-iosarm64/0.28.0/flipcash2-client-protocol-wire-iosarm64-0.28.0.jar returned status 404

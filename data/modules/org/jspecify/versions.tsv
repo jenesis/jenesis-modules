@@ -286,3 +286,6 @@ v20240317	named	com.google.javascript	closure-compiler	2024-03-19T00:14:48Z	0.2.
 4.3.1	named	com.snowflake	snowflake-kafka-connector	2026-11-12T22:26:26Z	1.0.1
 1.1.12	named	com.zonzonzon	common-caffeine	2026-11-14T09:35:07Z	
 1.6.0	named	dev.zacsweers.metro	gradle-plugin	2026-11-16T15:46:49Z	1.0.1
+4.4.0	named	com.snowflake	snowflake-kafka-connector	2026-11-19T21:25:22Z	1.0.1
+1.1.0	named	com.vertispan.tsdefs	jsinterop-ts-defs-doclet	2026-11-20T00:10:50Z	
+1.1.0	named	com.vertispan.tsdefs	jsinterop-ts-defs-processor	2026-11-20T00:10:50Z	

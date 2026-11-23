@@ -157,6 +157,8 @@
 2.11.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mesibo/api/mesibo/2.11.0/mesibo-2.11.0.jar returned status 404
 2.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mesibo/api/mesibo/2.12.0/mesibo-2.12.0.jar returned status 404
 2.12.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mesibo/api/mesibo/2.12.3/mesibo-2.12.3.jar returned status 404
+2.15.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mesibo/api/mesibo/2.15.0/mesibo-2.15.0.jar returned status 404
+2.16.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mesibo/api/mesibo/2.16.0/mesibo-2.16.0.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mesibo/api/mesibo/2.2.0/mesibo-2.2.0.jar returned status 404
 2.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mesibo/api/mesibo/2.2.1/mesibo-2.2.1.jar returned status 404
 2.2.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/mesibo/api/mesibo/2.2.2/mesibo-2.2.2.jar returned status 404

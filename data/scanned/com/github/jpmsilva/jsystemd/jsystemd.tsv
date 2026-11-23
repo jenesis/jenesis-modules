@@ -8,3 +8,4 @@
 3.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jpmsilva/jsystemd/jsystemd/3.1.0/jsystemd-3.1.0.jar returned status 404
 3.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jpmsilva/jsystemd/jsystemd/3.1.1/jsystemd-3.1.1.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jpmsilva/jsystemd/jsystemd/4.0.0/jsystemd-4.0.0.jar returned status 404
+5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/github/jpmsilva/jsystemd/jsystemd/5.0.0/jsystemd-5.0.0.jar returned status 404

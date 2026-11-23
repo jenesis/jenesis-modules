@@ -142,3 +142,5 @@
 12.7.6	metadata	2026-11-19T08:45:27Z	
 12.7.7		2026-11-19T08:45:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/minassert-macosarm64/12.7.7/minassert-macosarm64-12.7.7.jar returned status 404
 12.7.7	metadata	2026-11-19T08:45:27Z	
+12.7.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/minassert-macosarm64/12.7.8/minassert-macosarm64-12.7.8.jar returned status 404
+12.7.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/zegreatrob/testmints/minassert-macosarm64/12.7.9/minassert-macosarm64-12.7.9.jar returned status 404
