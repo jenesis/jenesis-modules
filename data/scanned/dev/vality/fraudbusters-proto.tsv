@@ -24,4 +24,5 @@
 1.137-e01057a	v137	2026-11-02T16:43:00Z	
 1.138-f41fd7d			
 1.138-f41fd7d	v138	2026-11-09T13:45:27Z	
+1.139-a082dea			
 SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/fraudbusters-proto/SNAPSHOT/fraudbusters-proto-SNAPSHOT.jar returned status 404

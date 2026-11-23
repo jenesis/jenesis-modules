@@ -2,3 +2,4 @@
 0.96.0		2026-11-11T00:01:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rubentxu/pipelinek/pipelinek-sdk-bom/0.96.0/pipelinek-sdk-bom-0.96.0.jar returned status 404
 0.97.0		2026-11-11T17:16:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rubentxu/pipelinek/pipelinek-sdk-bom/0.97.0/pipelinek-sdk-bom-0.97.0.jar returned status 404
 0.98.0		2026-11-13T20:45:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rubentxu/pipelinek/pipelinek-sdk-bom/0.98.0/pipelinek-sdk-bom-0.98.0.jar returned status 404
+0.99.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/rubentxu/pipelinek/pipelinek-sdk-bom/0.99.0/pipelinek-sdk-bom-0.99.0.jar returned status 404
