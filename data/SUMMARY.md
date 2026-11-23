@@ -4,7 +4,7 @@
 > _Java-native config, everything the JDK provides built in, with `module-info.java` treated as a feature, not an afterthought._
 
 _Index timestamp: 2026-11-19 13:11:43 UTC_  
-_Current chunk started: 2026-11-20 07:02:59 UTC_  
+_Current chunk started: 2026-11-23 15:17:54 UTC_  
 _Index chain id: `1318453614498`_  
 _Last applied index chunk: 943_  
 
@@ -20,14 +20,14 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 19 451 744 |
-| Non-module artifacts | 17 316 960 |
+| Total artifacts scanned | 19 477 388 |
+| Non-module artifacts | 17 337 581 |
 | Modular artifacts | 1 772 652 |
 | Total automatic modules | 1 378 911 |
 | Total named modules | 393 741 |
 | Total named modules with module-info version | 298 232 |
-| Distinct Maven artifacts | 727 744 |
-| Distinct module names | 46 069 |
+| Distinct Maven artifacts | 727 746 |
+| Distinct module names | 46 105 |
 | Distinct automatic modules | 24 556 |
 | Distinct named modules | 19 933 |
 | Distinct named modules with module-info version | 14 662 |
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 4 762 | 1 665 | 3 097 |
-| New version rows | 8 253 | 2 527 | 5 726 |
-| Non-modular artifacts | 30 307 | - | - |
+| Modules with a publication | 3 462 | 1 267 | 2 195 |
+| New version rows | 5 422 | 1 887 | 3 535 |
+| Non-modular artifacts | 24 803 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 688 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 733 (86.0%) |
 | 2026-09 | `█`&nbsp;3 866 (10.6%) | `▓▓`&nbsp;6 679 (18.4%) | `░░░░░░░░`&nbsp;25 827 (71.0%) |
 | 2026-10 | `█`&nbsp;4 275 (10.2%) | `▓▓▓`&nbsp;7 940 (18.9%) | `░░░░░░░░░░`&nbsp;29 725 (70.9%) |
-| 2026-11 | `█`&nbsp;3 271 (7.4%) | `▓▓`&nbsp;5 343 (12.1%) | `░░░░░░░░░░░░`&nbsp;35 552 (80.5%) |
+| 2026-11 | `█`&nbsp;3 271 (7.6%) | `▓▓`&nbsp;5 343 (12.4%) | `░░░░░░░░░░░`&nbsp;34 366 (80.0%) |
 
 ## Naming patterns
 
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 4 167 377 |
-| Incorrectly indexed (mis-stamped 404s) | 4 163 769 |
-| Genuine artifact errors | 3 608 |
+| Total failed coordinates | 4 182 892 |
+| Incorrectly indexed (mis-stamped 404s) | 4 179 265 |
+| Genuine artifact errors | 3 627 |
 
 ### Top 25 genuine error messages
 
@@ -211,7 +211,7 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 
 | Error message | Count |
 |---|---:|
-| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 1 376 |
+| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 1 395 |
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
 | `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 542 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
@@ -327,8 +327,8 @@ Module names that have been published under the most different groupIds across h
 | `org.apache.commons.lang3` | 76 |
 | `com.google.gson [-all]` | 72 |
 | `io.netty.internal.tcnative` | 70 |
+| `org.apache.commons.io` | 70 |
 | `org.yaml.snakeyaml` | 70 |
-| `org.apache.commons.io` | 69 |
 | `com.fasterxml.jackson.module.jaxb` | 67 |
 
 ## Top 25 modules updated in the last 7 days

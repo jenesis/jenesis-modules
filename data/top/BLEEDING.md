@@ -92,10 +92,10 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~45~~ | ~~org.jetbrains.kotlinx:kotlinx-coroutines-bom 🚩~~ | ~~-~~ | ~~2020-11-27~~ | ~~6,4~~ | ~~-~~ | ~~1.4.2-native-mt~~ | ~~-~~ | ~~13~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~761~~ | ~~805,7 🔺~~ | ~~85,2 🔺~~ | ~~41,7 🔺~~ | ~~🔺 files, size, releases~~ |
 | 46 | com.google.code.gson:gson | com.google.gson ✳️ | 2026-04-23 | 18,3 | 7,1 | 2.14.0 | 2.14.0 | 44 | 17 | 1 | 2 | 1 | 24,0 | 0,9 | 0,1 | - |
 | 47 | org.apache.httpcomponents:httpclient 🚩 | org.apache.httpcomponents.httpclient ⚙️ | 2022-11-30 | 19,3 | 8,4 | 4.5.14 | 4.5.14 | 55 | 9 | 0 | 0 |  |  |  |  |  |
-| ~~48~~ | ~~org.apache.maven:maven-artifact~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~102~~ | ~~3~~ | ~~6~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~48~~ | ~~org.apache.maven:maven-artifact~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~102~~ | ~~4~~ | ~~6~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
 | 49 | org.jetbrains.kotlin:kotlin-stdlib-jdk7 | kotlin.stdlib.jdk7 🏷️ | 2026-08-26 | 9,0 | 6,3 | 2.4.20-RC2 | 2.4.20-RC2 | 186 | 165 | 24 | 34 | 184 | 3534,7 🔺 | 517,1 🔺 | 3,1 | 🔺 files, size |
-| ~~50~~ | ~~org.apache.maven:maven-model~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~103~~ | ~~3~~ | ~~6~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
-| ~~51~~ | ~~org.apache.maven:maven-plugin-api~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~102~~ | ~~3~~ | ~~6~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~50~~ | ~~org.apache.maven:maven-model~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~103~~ | ~~4~~ | ~~6~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~51~~ | ~~org.apache.maven:maven-plugin-api~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~102~~ | ~~4~~ | ~~6~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
 | 52 | org.jetbrains.kotlin:kotlin-stdlib-jdk8 | kotlin.stdlib.jdk8 🏷️ | 2026-08-26 | 9,0 | 6,3 | 2.4.20-RC2 | 2.4.20-RC2 | 186 | 165 | 24 | 34 | 184 | 3534,7 🔺 | 517,1 🔺 | 3,1 | 🔺 files, size |
 | ~~53~~ | ~~org.springframework.boot:spring-boot-dependencies~~ | ~~-~~ | ~~2026-08-20~~ | ~~11,0~~ | ~~-~~ | ~~4.0.8~~ | ~~-~~ | ~~7~~ | ~~0~~ | ~~3~~ | ~~0~~ | ~~333~~ | ~~3998,9 🔺~~ | ~~75,7 🔺~~ | ~~2,8~~ | ~~🔺 files, size~~ |
 | 54 | org.apache.httpcomponents:httpcomponents-client |  |  |  |  |  |  | 0 | 0 | 0 | 0 |  |  |  |  |  |
@@ -108,17 +108,17 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 61 | org.jetbrains.kotlin:kotlin-stdlib-common |  | 2026-08-26 | 9,7 |  | 2.4.20-RC2 |  | 204 | 0 | 24 | 0 | 184 | 3534,7 🔺 | 517,1 🔺 | 3,1 | 🔺 files, size |
 | ~~62~~ | ~~net.bytebuddy:byte-buddy-parent~~ | ~~-~~ | ~~2026-10-13~~ | ~~0,5~~ | ~~-~~ | ~~1.18.15~~ | ~~-~~ | ~~10~~ | ~~0~~ | ~~10~~ | ~~0~~ | ~~9~~ | ~~207,3~~ | ~~68,1 🔺~~ | ~~1,7~~ | ~~🔺 size~~ |
 | 63 | com.google.j2objc:j2objc-annotations ⚠️ | com.google.j2objc.annotations ✳️ | 2025-08-14 | 11,4 | 2,7 | 3.1 | 3.1 | 7 | 2 | 0 | 0 |  |  |  |  |  |
-| ~~64~~ | ~~org.apache.maven:maven-repository-metadata~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~92~~ | ~~3~~ | ~~6~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~64~~ | ~~org.apache.maven:maven-repository-metadata~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~92~~ | ~~4~~ | ~~6~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
 | 65 | com.fasterxml.jackson.datatype:jackson-datatype-jsr310 | com.fasterxml.jackson.datatype.jsr310 ✳️ | 2026-09-21 | 13,6 | 9,1 | 2.22.3 | 2.22.3 | 175 | 105 | 19 | 23 | 23 | 619,6 🔺 | 5,1 | 1,9 | 🔺 files |
 | ~~66~~ | ~~io.micrometer:micrometer-bom~~ | ~~-~~ | ~~2026-08-20~~ | ~~0,4~~ | ~~-~~ | ~~1.16.7~~ | ~~-~~ | ~~6~~ | ~~0~~ | ~~6~~ | ~~0~~ | ~~42~~ | ~~695,6 🔺~~ | ~~24,4 🔺~~ | ~~3,8~~ | ~~🔺 files, size~~ |
 | 67 | org.junit.platform:junit-platform-commons | org.junit.platform.commons ✳️ | 2026-08-07 | 10,4 | 9,4 | 6.1.3 | 6.1.3 | 112 | 110 | 9 | 11 | 15 | 460,0 | 20,4 | 0,8 | - |
-| ~~68~~ | ~~org.apache.maven:maven-settings~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~101~~ | ~~3~~ | ~~6~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~68~~ | ~~org.apache.maven:maven-settings~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~101~~ | ~~4~~ | ~~6~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
 | ~~69~~ | ~~org.apache.httpcomponents:httpcomponents-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | ~~70~~ | ~~org.codehaus.plexus:plexus-component-annotations ⚠️~~ | ~~-~~ | ~~2023-12-24~~ | ~~19,1~~ | ~~-~~ | ~~2.2.0~~ | ~~-~~ | ~~52~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~27~~ | ~~52,4~~ | ~~0,9~~ | ~~2,8~~ | ~~-~~ |
 | ~~71~~ | ~~org.mockito:mockito-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~21~~ | ~~346,7~~ | ~~12,2~~ | ~~0,5~~ | ~~-~~ |
 | 72 | org.jetbrains:annotations | org.jetbrains.annotations 🏷️ | 2026-02-18 | 12,9 | 8,2 | 26.1.0 | 26.1.0 | 24 | 20 | 1 | 1 | 19 | 334,1 | 19,6 | 1,8 | - |
 | ~~73~~ | ~~org.jetbrains.kotlin:kotlin-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~184~~ | ~~3534,7 🔺~~ | ~~517,1 🔺~~ | ~~3,1~~ | ~~🔺 files, size~~ |
-| ~~74~~ | ~~org.apache.maven:maven-core~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~103~~ | ~~3~~ | ~~6~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~74~~ | ~~org.apache.maven:maven-core~~ | ~~-~~ | ~~2026-07-30~~ | ~~20,5~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~103~~ | ~~4~~ | ~~6~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
 | ~~75~~ | ~~org.infinispan:infinispan-bom~~ | ~~-~~ | ~~2026-07-01~~ | ~~0,5~~ | ~~-~~ | ~~16.0.14~~ | ~~-~~ | ~~5~~ | ~~0~~ | ~~5~~ | ~~0~~ | ~~131~~ | ~~1744,1 🔺~~ | ~~132,9 🔺~~ | ~~3,4~~ | ~~🔺 files, size~~ |
 | ~~76~~ | ~~org.infinispan:infinispan-build-configuration-parent~~ | ~~-~~ | ~~2026-07-01~~ | ~~0,5~~ | ~~-~~ | ~~16.0.14~~ | ~~-~~ | ~~5~~ | ~~0~~ | ~~5~~ | ~~0~~ | ~~131~~ | ~~1744,1 🔺~~ | ~~132,9 🔺~~ | ~~3,4~~ | ~~🔺 files, size~~ |
 | 77 | org.junit.platform:junit-platform-engine | org.junit.platform.engine ✳️ | 2026-08-07 | 10,4 | 9,4 | 6.1.3 | 6.1.3 | 112 | 110 | 9 | 11 | 15 | 460,0 | 20,4 | 0,8 | - |
@@ -207,7 +207,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 160 | com.google.cloud:native-image-shared-config |  |  |  |  |  |  | 0 | 0 | 0 | 0 | 409 | 196,7 🔺 | 21,3 🔺 | 57,1 🔺 | 🔺 files, size, releases |
 | 161 | io.netty:netty-codec-http2 | io.netty.codec.http2 ✳️ | 2026-11-19 | 11,7 | 8,9 | 4.2.21.Final | 4.2.21.Final | 177 | 156 | 17 | 27 | 67 | 839,9 🔺 | 34,7 🔺 | 3,3 | 🔺 files, size |
 | ~~162~~ | ~~org.springframework.boot:spring-boot-starter-parent~~ | ~~-~~ | ~~2026-08-20~~ | ~~0,2~~ | ~~-~~ | ~~4.0.8~~ | ~~-~~ | ~~3~~ | ~~0~~ | ~~3~~ | ~~0~~ | ~~333~~ | ~~3998,9 🔺~~ | ~~75,7 🔺~~ | ~~2,8~~ | ~~🔺 files, size~~ |
-| ~~163~~ | ~~org.apache.maven:maven-model-builder~~ | ~~-~~ | ~~2026-07-30~~ | ~~17,0~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~79~~ | ~~3~~ | ~~6~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~163~~ | ~~org.apache.maven:maven-model-builder~~ | ~~-~~ | ~~2026-07-30~~ | ~~17,0~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~79~~ | ~~4~~ | ~~6~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
 | 164 | org.junit.jupiter:junit-jupiter | org.junit.jupiter ✳️ | 2026-08-07 | 7,9 | 7,9 | 6.1.3 | 6.1.3 | 86 | 88 | 9 | 11 | 5 | 227,8 | 11,2 | 0,8 | - |
 | 165 | net.java.dev.jna:jna-platform | com.sun.jna.platform ⚙️ | 2026-06-12 | 13,4 | 8,1 | 5.19.1 | 5.19.1 | 34 | 24 | 2 | 2 | 4 | 102,0 | 55,7 | 0,2 | - |
 | 166 | joda-time:joda-time | org.joda.time ⚙️ | 2026-10-28 | 21,3 | 8,5 | 2.15.1 | 2.15.1 | 69 | 35 | 6 | 6 | 1 | 42,0 | 5,6 | 0,5 | - |
@@ -215,7 +215,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 168 | org.apache.commons:commons-text | org.apache.commons.text ✳️ | 2025-12-04 | 9,8 | 8,7 | 1.15.0 | 1.15.0 | 18 | 14 | 1 | 1 | 36 | 56,3 | 3,6 | 2,4 | - |
 | 169 | commons-lang:commons-lang 🚩 |  | 2011-01-16 | 21,6 |  | 2.6 |  | 11 | 0 | 0 | 0 |  |  |  |  |  |
 | 170 | org.tukaani:xz | org.tukaani.xz 🏷️ | 2026-03-01 | 15,1 | 8,9 | 1.12 | 1.12 | 13 | 5 | 2 | 2 | 1 | 40,0 | 0,6 | 0,2 | - |
-| ~~171~~ | ~~org.apache.maven:maven-settings-builder~~ | ~~-~~ | ~~2026-07-30~~ | ~~16,3~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~73~~ | ~~3~~ | ~~6~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~171~~ | ~~org.apache.maven:maven-settings-builder~~ | ~~-~~ | ~~2026-07-30~~ | ~~16,3~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~73~~ | ~~4~~ | ~~6~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
 | ~~172~~ | ~~org.hamcrest:hamcrest-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | 173 | org.ow2.asm:asm-analysis | org.objectweb.asm.tree.analysis ✳️ | 2026-05-23 | 15,0 | 9,3 | 9.10.1 | 9.10.1 | 45 | 35 | 3 | 5 | 7 | 243,3 | 2,2 | 0,3 | - |
 | 174 | org.springframework:spring-web | spring.web ⚙️ | 2026-08-20 | 20,9 | 9,1 | 7.1.0-M1 | 7.1.0-M1 | 339 | 201 | 16 | 20 | 26 | 480,5 | 107,8 🔺 | 1,3 | 🔺 size |
@@ -226,10 +226,10 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | ~~179~~ | ~~io.rest-assured:rest-assured-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~20~~ | ~~213,0~~ | ~~5,0~~ | ~~0,3~~ | ~~-~~ |
 | ~~180~~ | ~~org.springframework.cloud:spring-cloud-dependencies-parent~~ | ~~-~~ | ~~2026-08-20~~ | ~~0,4~~ | ~~-~~ | ~~5.0.3~~ | ~~-~~ | ~~3~~ | ~~0~~ | ~~3~~ | ~~0~~ | ~~238~~ | ~~893,6 🔺~~ | ~~121,2 🔺~~ | ~~2,8~~ | ~~🔺 files, size~~ |
 | 181 | org.springframework.boot:spring-boot-autoconfigure | spring.boot.autoconfigure ⚙️ | 2026-08-20 | 12,6 | 8,7 | 4.0.8 | 4.0.8 | 293 | 233 | 28 | 33 | 333 | 3998,9 🔺 | 75,7 🔺 | 2,8 | 🔺 files, size |
-| 182 | ch.qos.logback:logback-core | ch.qos.logback.core ✳️ | 2026-08-14 | 20,2 | 8,8 | 1.6.3 | 1.6.3 | 170 | 97 | 18 | 25 | 8 | 79,5 | 8,2 | 1,7 | - |
+| 182 | ch.qos.logback:logback-core | ch.qos.logback.core ✳️ | 2026-08-14 | 20,2 | 8,8 | 1.6.3 | 1.6.3 | 170 | 98 | 18 | 26 | 8 | 79,5 | 8,2 | 1,7 | - |
 | 183 | org.objenesis:objenesis | org.objenesis ⚙️ | 2026-01-26 | 19,5 | 8,1 | 3.5 | 3.5 | 20 | 7 | 1 | 2 | 4 | 96,0 | 1,2 | 0,1 | - |
 | ~~184~~ | ~~io.rsocket:rsocket-bom 🚩~~ | ~~-~~ | ~~2019-08-30~~ | ~~7,2~~ | ~~-~~ | ~~1.0.0-RC3~~ | ~~-~~ | ~~1~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| 185 | ch.qos.logback:logback-classic | ch.qos.logback.classic ✳️ | 2026-08-14 | 20,2 | 8,8 | 1.6.3 | 1.6.3 | 170 | 97 | 18 | 25 | 8 | 79,5 | 8,2 | 1,7 | - |
+| 185 | ch.qos.logback:logback-classic | ch.qos.logback.classic ✳️ | 2026-08-14 | 20,2 | 8,8 | 1.6.3 | 1.6.3 | 170 | 98 | 18 | 26 | 8 | 79,5 | 8,2 | 1,7 | - |
 | ~~186~~ | ~~org.apache.maven.shared:maven-filtering~~ | ~~-~~ | ~~2026-06-30~~ | ~~18,3~~ | ~~-~~ | ~~3.5.1~~ | ~~-~~ | ~~19~~ | ~~0~~ | ~~2~~ | ~~0~~ | ~~3~~ | ~~29,0~~ | ~~0,7~~ | ~~0,4~~ | ~~-~~ |
 | 187 | io.netty:netty-handler-proxy | io.netty.handler.proxy ⚙️ | 2026-11-19 | 11,7 | 8,9 | 4.1.141.Final | 4.1.141.Final | 177 | 156 | 17 | 27 | 67 | 839,9 🔺 | 34,7 🔺 | 3,3 | 🔺 files, size |
 | 188 | org.springframework.boot:spring-boot-starter | spring.boot.starter ⚙️ | 2026-08-20 | 12,6 | 8,7 | 4.0.8 | 4.0.8 | 293 | 233 | 28 | 33 | 333 | 3998,9 🔺 | 75,7 🔺 | 2,8 | 🔺 files, size |
@@ -368,10 +368,10 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 321 | io.netty:netty-transport-classes-epoll | io.netty.transport.classes.epoll ⚙️ | 2026-11-19 | 5,0 | 5,0 | 4.1.141.Final | 4.1.141.Final | 94 | 104 | 17 | 27 | 67 | 839,9 🔺 | 34,7 🔺 | 3,3 | 🔺 files, size |
 | 322 | io.grpc:grpc-protobuf | io.grpc.protobuf ⚙️ | 2026-08-14 | 11,5 | 3,2 | 1.82.4 | 1.82.4 | 192 | 56 | 10 | 21 | 37 | 737,5 | 252,2 🔺 | 0,9 | 🔺 size |
 | 323 | org.assertj:assertj-core | org.assertj.core ✳️ | 2026-01-24 | 13,7 | 8,5 | 3.27.7 | 3.27.7 | 82 | 44 | 1 | 1 | 6 | 31,0 | 5,4 | 0,5 | - |
-| ~~324~~ | ~~org.apache.maven.resolver:maven-resolver-util~~ | ~~org.apache.maven.resolver.util ✳️~~ | ~~2026-08-20~~ | ~~9,8~~ | ~~9,4~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~78~~ | ~~10~~ | ~~14~~ | ~~29~~ | ~~416,8~~ | ~~15,8~~ | ~~1,1~~ | ~~-~~ |
+| ~~324~~ | ~~org.apache.maven.resolver:maven-resolver-util~~ | ~~org.apache.maven.resolver.util ✳️~~ | ~~2026-08-20~~ | ~~9,8~~ | ~~9,4~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~79~~ | ~~10~~ | ~~15~~ | ~~29~~ | ~~416,8~~ | ~~15,8~~ | ~~1,1~~ | ~~-~~ |
 | 325 | org.springframework.boot:spring-boot-starter-test | spring.boot.starter.test ⚙️ | 2026-08-20 | 12,6 | 8,7 | 4.0.8 | 4.0.8 | 293 | 233 | 28 | 33 | 333 | 3998,9 🔺 | 75,7 🔺 | 2,8 | 🔺 files, size |
 | ~~326~~ | ~~org.apache.maven.shared:maven-dependency-tree ⚠️~~ | ~~-~~ | ~~2024-05-26~~ | ~~19,9~~ | ~~-~~ | ~~3.3.0~~ | ~~-~~ | ~~14~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~3~~ | ~~29,0~~ | ~~0,7~~ | ~~0,4~~ | ~~-~~ |
-| ~~327~~ | ~~org.apache.maven.resolver:maven-resolver-api~~ | ~~org.apache.maven.resolver ✳️~~ | ~~2026-08-20~~ | ~~9,8~~ | ~~9,4~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~78~~ | ~~10~~ | ~~14~~ | ~~29~~ | ~~416,8~~ | ~~15,8~~ | ~~1,1~~ | ~~-~~ |
+| ~~327~~ | ~~org.apache.maven.resolver:maven-resolver-api~~ | ~~org.apache.maven.resolver ✳️~~ | ~~2026-08-20~~ | ~~9,8~~ | ~~9,4~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~79~~ | ~~10~~ | ~~15~~ | ~~29~~ | ~~416,8~~ | ~~15,8~~ | ~~1,1~~ | ~~-~~ |
 | 328 | org.springframework.boot:spring-boot-test-autoconfigure | spring.boot.test.autoconfigure ⚙️ | 2026-08-20 | 10,3 | 8,7 | 4.0.8 | 4.0.8 | 259 | 233 | 28 | 33 | 333 | 3998,9 🔺 | 75,7 🔺 | 2,8 | 🔺 files, size |
 | ~~329~~ | ~~org.apache.groovy:groovy-bom~~ | ~~-~~ | ~~2026-08-24~~ | ~~0,4~~ | ~~-~~ | ~~6.0.0-beta-3~~ | ~~-~~ | ~~7~~ | ~~0~~ | ~~7~~ | ~~0~~ | ~~43~~ | ~~2192,7 🔺~~ | ~~104,1 🔺~~ | ~~1,9~~ | ~~🔺 files, size~~ |
 | ~~330~~ | ~~org.sonatype.sisu.inject:guice-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
@@ -753,14 +753,14 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 706 | backport-util-concurrent:backport-util-concurrent 🚩 |  | 2007-11-11 | 21,3 |  | 3.1 |  | 7 | 0 | 0 | 0 |  |  |  |  |  |
 | 707 | io.projectreactor.netty:reactor-netty-core | reactor.netty.core ⚙️ | 2026-10-22 | 6,1 | 6,1 | 1.3.8 | 1.3.8 | 120 | 120 | 17 | 17 | 5 | 163,4 | 6,2 | 1,4 | - |
 | ~~708~~ | ~~org.jboss:jboss-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~709~~ | ~~org.apache.maven:maven-compat~~ | ~~-~~ | ~~2026-07-30~~ | ~~17,9~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~83~~ | ~~3~~ | ~~6~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~709~~ | ~~org.apache.maven:maven-compat~~ | ~~-~~ | ~~2026-07-30~~ | ~~17,9~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~83~~ | ~~4~~ | ~~6~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
 | ~~710~~ | ~~net.minidev:minidev-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | 711 | com.fasterxml.jackson.jaxrs:jackson-jaxrs-providers |  | 2026-09-21 | 0,5 |  | 2.22.3 |  | 12 | 0 | 12 | 0 | 7 | 253,3 | 1,0 | 1,9 | - |
-| 712 | org.hibernate.orm:hibernate-core | org.hibernate.orm.core ⚙️ | 2026-08-23 | 8,0 | 8,0 | 7.4.6.Final | 7.4.6.Final | 270 | 297 | 96 | 123 | 26 | 415,9 🔺 | 94,2 🔺 | 8,3 🔺 | 🔺 files, size, releases |
+| 712 | org.hibernate.orm:hibernate-core | org.hibernate.orm.core ⚙️ | 2026-08-23 | 8,0 | 8,0 | 7.4.6.Final | 7.4.6.Final | 270 | 299 | 96 | 125 | 26 | 415,9 🔺 | 94,2 🔺 | 8,3 🔺 | 🔺 files, size, releases |
 | 713 | info.picocli:picocli ⚠️ | info.picocli ✳️ | 2025-04-19 | 9,6 | 9,1 | 4.7.7 | 4.7.7 | 86 | 73 | 0 | 0 |  |  |  |  |  |
 | 714 | org.apache.xbean:xbean |  |  |  |  |  |  | 0 | 0 | 0 | 0 | 12 | 224,0 | 5,3 | 0,3 | - |
 | 715 | org.jetbrains.kotlinx:kotlinx-coroutines-jdk8 | kotlinx.coroutines.jdk8 🏷️ | 2026-05-07 | 9,2 | 3,7 | 1.11.0 | 1.11.0 | 118 | 20 | 3 | 3 | 761 | 805,7 🔺 | 85,2 🔺 | 41,7 🔺 | 🔺 files, size, releases |
-| 716 | com.googlecode.libphonenumber:libphonenumber | com.google.i18n.phonenumbers.libphonenumber ⚙️ | 2026-11-04 | 15,7 | 1,9 | 9.0.43 | 9.0.43 | 314 | 48 | 25 | 25 | 6 | 41,2 | 11,1 | 5,1 | - |
+| 716 | com.googlecode.libphonenumber:libphonenumber | com.google.i18n.phonenumbers.libphonenumber ⚙️ | 2026-11-04 | 15,7 | 1,9 | 9.0.43 | 9.0.43 | 314 | 49 | 25 | 26 | 6 | 41,2 | 11,1 | 5,1 | - |
 | 717 | org.eclipse.jetty:jetty-xml | org.eclipse.jetty.xml ✳️ | 2026-09-04 | 17,6 | 8,0 | 12.0.39 | 12.0.39 | 439 | 185 | 16 | 22 | 55 | 991,3 🔺 | 80,5 🔺 | 2,0 | 🔺 files, size |
 | 718 | org.apache.zookeeper:zookeeper |  | 2026-10-22 | 16,7 |  | 3.9.7 |  | 58 | 0 | 6 | 0 | 8 | 137,3 | 25,4 | 0,5 | - |
 | 719 | org.antlr:antlr-runtime 🚩 |  | 2022-04-10 | 19,4 |  | 3.5.3 |  | 18 | 0 | 0 | 0 |  |  |  |  |  |
@@ -783,7 +783,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 736 | commons-chain:commons-chain 🚩 |  | 2008-05-29 | 21,0 |  | 1.2 |  | 3 | 0 | 0 | 0 |  |  |  |  |  |
 | 737 | org.apache.xbean:xbean-reflect | org.apache.xbean.reflect ⚙️ | 2026-08-02 | 20,8 | 9,0 | 5.0.0 | 5.0.0 | 63 | 27 | 3 | 4 | 12 | 224,0 | 5,3 | 0,3 | - |
 | 738 | org.springframework.retry:spring-retry | spring.retry ⚙️ | 2026-06-08 | 15,3 | 0,4 | 2.0.13 | 2.0.13 | 35 | 1 | 1 | 1 | 1 | 16,0 | 1,0 | 0,1 | - |
-| ~~739~~ | ~~org.apache.maven:maven-builder-support~~ | ~~-~~ | ~~2026-07-30~~ | ~~11,7~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~58~~ | ~~3~~ | ~~6~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~739~~ | ~~org.apache.maven:maven-builder-support~~ | ~~-~~ | ~~2026-07-30~~ | ~~11,7~~ | ~~-~~ | ~~4.0.0-rc-6~~ | ~~-~~ | ~~58~~ | ~~4~~ | ~~6~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
 | 740 | com.squareup.okhttp3:okhttp-urlconnection | okhttp3.urlconnection 🏷️ | 2026-08-16 | 10,9 | 8,7 | 5.5.0 | 5.5.0 | 108 | 90 | 2 | 4 | 18 | 332,5 | 8,7 | 0,3 | - |
 | 741 | jakarta.servlet:jakarta.servlet-api | jakarta.servlet ✳️ | 2026-05-18 | 7,8 | 7,2 | 6.2.0-M2 | 6.2.0-M2 | 12 | 11 | 1 | 1 | 1 | 36,0 | 1,7 | 0,1 | - |
 | 742 | org.apache.geronimo.genesis:genesis-java5-flava |  |  |  |  |  |  | 0 | 0 | 0 | 0 |  |  |  |  |  |
@@ -909,10 +909,10 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 862 | org.antlr:ST4 🚩 |  | 2022-09-02 | 15,4 |  | 4.3.4 |  | 13 | 0 | 0 | 0 |  |  |  |  |  |
 | 863 | org.springdoc:springdoc-openapi-starter-common | org.springdoc.openapi.common ⚙️ | 2026-09-06 | 4,8 | 4,8 | 3.1.1 | 3.1.1 | 48 | 52 | 9 | 13 | 12 | 168,6 | 4,8 | 0,8 | - |
 | 864 | com.googlecode.concurrent-trees:concurrent-trees 🚩 |  | 2017-07-14 | 14,4 |  | 2.6.1 |  | 10 | 0 | 0 | 0 |  |  |  |  |  |
-| ~~865~~ | ~~org.apache.maven.resolver:maven-resolver-spi~~ | ~~org.apache.maven.resolver.spi ✳️~~ | ~~2026-08-20~~ | ~~9,8~~ | ~~9,4~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~78~~ | ~~10~~ | ~~14~~ | ~~29~~ | ~~416,8~~ | ~~15,8~~ | ~~1,1~~ | ~~-~~ |
+| ~~865~~ | ~~org.apache.maven.resolver:maven-resolver-spi~~ | ~~org.apache.maven.resolver.spi ✳️~~ | ~~2026-08-20~~ | ~~9,8~~ | ~~9,4~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~79~~ | ~~10~~ | ~~15~~ | ~~29~~ | ~~416,8~~ | ~~15,8~~ | ~~1,1~~ | ~~-~~ |
 | 866 | org.springframework.boot:spring-boot-devtools | spring.boot.devtools ⚙️ | 2026-08-20 | 11,0 | 8,7 | 4.0.8 | 4.0.8 | 268 | 233 | 28 | 33 | 333 | 3998,9 🔺 | 75,7 🔺 | 2,8 | 🔺 files, size |
 | 867 | org.jetbrains.kotlin:kotlin-util-klib-metadata |  | 2026-08-26 | 7,0 |  | 2.4.20-RC2 |  | 160 | 0 | 24 | 0 | 184 | 3534,7 🔺 | 517,1 🔺 | 3,1 | 🔺 files, size |
-| ~~868~~ | ~~org.apache.maven.resolver:maven-resolver-impl~~ | ~~org.apache.maven.resolver.impl ⚙️~~ | ~~2026-08-20~~ | ~~9,8~~ | ~~9,4~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~78~~ | ~~10~~ | ~~14~~ | ~~29~~ | ~~416,8~~ | ~~15,8~~ | ~~1,1~~ | ~~-~~ |
+| ~~868~~ | ~~org.apache.maven.resolver:maven-resolver-impl~~ | ~~org.apache.maven.resolver.impl ⚙️~~ | ~~2026-08-20~~ | ~~9,8~~ | ~~9,4~~ | ~~2.0.22~~ | ~~2.0.22~~ | ~~75~~ | ~~79~~ | ~~10~~ | ~~15~~ | ~~29~~ | ~~416,8~~ | ~~15,8~~ | ~~1,1~~ | ~~-~~ |
 | 869 | commons-fileupload:commons-fileupload ⚠️ | org.apache.commons.fileupload ✳️ | 2025-06-05 | 21,0 | 1,5 | 1.6.0 | 1.6.0 | 15 | 1 | 0 | 0 |  |  |  |  |  |
 | 870 | com.google.api:gax-grpc |  | 2026-11-19 | 9,6 |  | 2.91.0 |  | 233 | 0 | 23 | 0 | 5 | 46,9 | 26,9 🔺 | 4,0 | 🔺 size |
 | 871 | org.conscrypt:conscrypt-openjdk-uber | org.conscrypt ⚙️ | 2026-08-24 | 9,7 | 8,0 | 2.7-alpha | 2.7-alpha | 42 | 23 | 8 | 13 | 3 | 80,3 | 17,8 | 1,1 | - |
@@ -924,7 +924,7 @@ Read every one of these as a **best case**. Central applies a limit to an organi
 | 877 | org.junit.vintage:junit-vintage-engine | org.junit.vintage.engine ✳️ | 2026-08-07 | 10,4 | 9,4 | 6.1.3 | 6.1.3 | 112 | 110 | 9 | 11 | 1 | 45,6 | 2,1 | 0,8 | - |
 | 878 | javax.ws.rs:javax.ws.rs-api 🚩 | java.ws.rs 🏷️ | 2018-08-24 | 14,8 | 9,4 | 2.1.1 | 2.1.1 | 32 | 3 | 0 | 0 |  |  |  |  |  |
 | ~~879~~ | ~~org.sonarsource.scanner.api:sonar-scanner-api-parent~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~880~~ | ~~org.apache.maven:maven-resolver-provider~~ | ~~-~~ | ~~2026-09-21~~ | ~~9,7~~ | ~~-~~ | ~~4.0.0-rc-7~~ | ~~-~~ | ~~56~~ | ~~3~~ | ~~7~~ | ~~3~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
+| ~~880~~ | ~~org.apache.maven:maven-resolver-provider~~ | ~~-~~ | ~~2026-09-21~~ | ~~9,7~~ | ~~-~~ | ~~4.0.0-rc-7~~ | ~~-~~ | ~~56~~ | ~~4~~ | ~~7~~ | ~~4~~ | ~~35~~ | ~~302,1~~ | ~~10,7~~ | ~~0,7~~ | ~~-~~ |
 | ~~881~~ | ~~com.google.cloud:libraries-bom~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~0~~ | ~~409~~ | ~~196,7 🔺~~ | ~~21,3 🔺~~ | ~~57,1 🔺~~ | ~~🔺 files, size, releases~~ |
 | 882 | org.glassfish.hk2:hk2-api | org.glassfish.hk2.api ⚙️ | 2026-08-17 | 15,4 | 6,5 | 4.0.2 | 4.0.2 | 271 | 19 | 4 | 5 | 74 | 2077,5 | 20,4 | 0,3 | - |
 | 883 | org.scala-sbt:util-interface |  | 2026-11-19 | 11,2 |  | 2.1.0 |  | 205 | 0 | 36 | 0 | 111 | 692,0 🔺 | 62,8 🔺 | 4,3 | 🔺 files, size |
