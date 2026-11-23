@@ -52,6 +52,7 @@
 13.31.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-jwe-scs/13.31.0/jme-jwe-scs-13.31.0.jar returned status 404
 13.32.0		2026-11-16T00:49:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-jwe-scs/13.32.0/jme-jwe-scs-13.32.0.jar returned status 404
 13.33.0		2026-11-17T00:22:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-jwe-scs/13.33.0/jme-jwe-scs-13.33.0.jar returned status 404
+13.34.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-jwe-scs/13.34.0/jme-jwe-scs-13.34.0.jar returned status 404
 13.4.0		2026-10-05T05:56:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-jwe-scs/13.4.0/jme-jwe-scs-13.4.0.jar returned status 404
 13.5.0		2026-10-05T23:31:09Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-jwe-scs/13.5.0/jme-jwe-scs-13.5.0.jar returned status 404
 13.6.0		2026-10-06T23:29:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ch/admin/bit/jeap/jme-jwe-scs/13.6.0/jme-jwe-scs-13.6.0.jar returned status 404

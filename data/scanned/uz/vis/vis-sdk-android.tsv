@@ -1,2 +1,4 @@
 1.0.0		2026-11-19T12:05:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uz/vis/vis-sdk-android/1.0.0/vis-sdk-android-1.0.0.jar returned status 404
 1.0.1		2026-11-19T12:05:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uz/vis/vis-sdk-android/1.0.1/vis-sdk-android-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uz/vis/vis-sdk-android/1.0.2/vis-sdk-android-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uz/vis/vis-sdk-android/1.0.3/vis-sdk-android-1.0.3.jar returned status 404

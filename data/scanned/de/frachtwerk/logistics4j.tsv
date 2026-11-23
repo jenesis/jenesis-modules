@@ -1,2 +1,6 @@
 0.1.0		2026-11-13T13:54:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/frachtwerk/logistics4j/0.1.0/logistics4j-0.1.0.jar returned status 404
 0.2.0		2026-11-13T16:36:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/frachtwerk/logistics4j/0.2.0/logistics4j-0.2.0.jar returned status 404
+0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/frachtwerk/logistics4j/0.3.0/logistics4j-0.3.0.jar returned status 404
+0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/frachtwerk/logistics4j/0.4.0/logistics4j-0.4.0.jar returned status 404
+0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/frachtwerk/logistics4j/0.5.0/logistics4j-0.5.0.jar returned status 404
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/frachtwerk/logistics4j/0.6.0/logistics4j-0.6.0.jar returned status 404

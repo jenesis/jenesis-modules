@@ -8,3 +8,4 @@
 0.7.4	metadata	2026-11-19T12:05:02Z	
 0.7.5		2026-11-19T12:05:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-gossip-test-iossimulatorarm64/0.7.5/kuilt-gossip-test-iossimulatorarm64-0.7.5.jar returned status 404
 0.7.5	metadata	2026-11-19T12:05:02Z	
+0.7.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/us/tractat/kuilt/kuilt-gossip-test-iossimulatorarm64/0.7.6/kuilt-gossip-test-iossimulatorarm64-0.7.6.jar returned status 404
