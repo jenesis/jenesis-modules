@@ -9,6 +9,8 @@
 0.1.0		2026-10-14T02:11:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dataplat/dataplat-framework/0.1.0/dataplat-framework-0.1.0.jar returned status 404
 0.1.1		2026-10-14T07:11:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dataplat/dataplat-framework/0.1.1/dataplat-framework-0.1.1.jar returned status 404
 0.1.10		2026-11-17T03:30:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dataplat/dataplat-framework/0.1.10/dataplat-framework-0.1.10.jar returned status 404
+0.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dataplat/dataplat-framework/0.1.11/dataplat-framework-0.1.11.jar returned status 404
+0.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dataplat/dataplat-framework/0.1.12/dataplat-framework-0.1.12.jar returned status 404
 0.1.2		2026-10-17T00:01:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dataplat/dataplat-framework/0.1.2/dataplat-framework-0.1.2.jar returned status 404
 0.1.3		2026-10-21T08:36:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dataplat/dataplat-framework/0.1.3/dataplat-framework-0.1.3.jar returned status 404
 0.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/dataplat/dataplat-framework/0.1.4/dataplat-framework-0.1.4.jar returned status 404

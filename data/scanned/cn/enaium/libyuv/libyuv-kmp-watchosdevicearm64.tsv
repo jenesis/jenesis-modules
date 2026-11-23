@@ -4,3 +4,5 @@
 1.1.0	metadata	2026-11-05T13:24:43Z	
 1.2.0		2026-11-05T15:47:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/libyuv/libyuv-kmp-watchosdevicearm64/1.2.0/libyuv-kmp-watchosdevicearm64-1.2.0.jar returned status 404
 1.2.0	metadata	2026-11-05T15:47:23Z	
+1.2.1-fixed.keaq6eLd2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/libyuv/libyuv-kmp-watchosdevicearm64/1.2.1-fixed.keaq6eLd2/libyuv-kmp-watchosdevicearm64-1.2.1-fixed.keaq6eLd2.jar returned status 404
+1.2.1-rolling.keaq6eLd2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/libyuv/libyuv-kmp-watchosdevicearm64/1.2.1-rolling.keaq6eLd2/libyuv-kmp-watchosdevicearm64-1.2.1-rolling.keaq6eLd2.jar returned status 404

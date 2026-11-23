@@ -4,3 +4,4 @@
 1.0.1	metadata	2026-09-10T12:08:41Z	
 1.0.2		2026-09-14T16:41:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/rnnoise/rnnoise-kmp-tvosarm64/1.0.2/rnnoise-kmp-tvosarm64-1.0.2.jar returned status 404
 1.0.2	metadata	2026-09-14T16:41:12Z	
+1.0.2-fixed.0.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/cn/enaium/rnnoise/rnnoise-kmp-tvosarm64/1.0.2-fixed.0.2.0/rnnoise-kmp-tvosarm64-1.0.2-fixed.0.2.0.jar returned status 404
