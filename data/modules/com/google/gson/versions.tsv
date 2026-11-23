@@ -5389,5 +5389,6 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 12.4.0.88193	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-11-19T16:14:51Z	2.15.0
 12.4.0.88193	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-11-19T16:14:52Z	2.15.0
 6.4.0.80007	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-11-19T17:00:13Z	2.15.0
+2.2.2	named	org.operaton.bpm	operaton-engine	2026-11-20T06:41:48Z	2.14.0
 10.37.0.15768	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-11-20T09:40:48Z	2.15.0
 10.37.0.15768	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-11-20T09:40:48Z	2.15.0

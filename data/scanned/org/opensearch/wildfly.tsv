@@ -63,6 +63,7 @@
 3.0.0-alpha1		2025-03-19T00:57:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/wildfly/3.0.0-alpha1/wildfly-3.0.0-alpha1.jar returned status 404
 3.0.0-beta1		2025-04-23T03:36:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/wildfly/3.0.0-beta1/wildfly-3.0.0-beta1.jar returned status 404
 3.1.0		2025-06-24T21:12:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/wildfly/3.1.0/wildfly-3.1.0.jar returned status 404
+3.10.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/wildfly/3.10.0/wildfly-3.10.0.jar returned status 404
 3.2.0		2025-08-19T22:56:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/wildfly/3.2.0/wildfly-3.2.0.jar returned status 404
 3.3.0		2025-10-14T22:06:49Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/wildfly/3.3.0/wildfly-3.3.0.jar returned status 404
 3.3.1		2025-10-22T19:29:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opensearch/wildfly/3.3.1/wildfly-3.3.1.jar returned status 404

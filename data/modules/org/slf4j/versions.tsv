@@ -3408,4 +3408,5 @@ v0.0.1	named	com.ibm.cloud	drautomation-sdk-examples	2026-01-16T07:36:30Z	2.0.16
 2.2.0	named	io.modelcontextprotocol.sdk	client-modern	2026-11-13T18:25:06Z	2.0.20
 2.0.0-dae.1	named	io.github.davidarthurcole.daetekt	detekt-rules-ktlint-wrapper	2026-11-13T22:11:10Z	2.0.20
 0.7.0	named	io.github.tomas-samek	tiko-mcp	2026-11-16T14:43:10Z	2.0.9
+2.0.12	named	org.apache.iotdb	library-udf	2026-11-17T09:53:44Z	2.0.9
 6.0.2	named	com.liquibase	liquibase-maven-plugin	2026-11-17T15:41:18Z	2.0.20

@@ -1581,3 +1581,4 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 2.1.49	named	io.swagger.parser.v3	swagger-parser-cli	2026-11-17T12:34:54Z	3.20.0
 6.0.2	named	com.liquibase.ext	liquibase-commercial-cassandra	2026-11-17T15:41:19Z	3.21.0
 3.22.0-0	automatic	de.knightsoft-net	gwt-commons-lang3	2026-11-18T12:14:18Z	
+3.2	named	org.polypheny	polypheny-jdbc-driver	2026-11-21T16:59:48Z	3.18.0

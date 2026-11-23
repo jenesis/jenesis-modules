@@ -29,3 +29,4 @@
 2.12.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jspwiki/jspwiki-war/2.12.4/jspwiki-war-2.12.4.jar returned status 404
 2.12.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jspwiki/jspwiki-war/2.12.5/jspwiki-war-2.12.5.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jspwiki/jspwiki-war/3.0.0/jspwiki-war-3.0.0.jar returned status 404
+3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/jspwiki/jspwiki-war/3.0.1/jspwiki-war-3.0.1.jar returned status 404

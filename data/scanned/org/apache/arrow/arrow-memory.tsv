@@ -42,6 +42,7 @@
 18.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-memory/18.3.0/arrow-memory-18.3.0.jar returned status 404
 19.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-memory/19.0.0/arrow-memory-19.0.0.jar returned status 404
 2.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-memory/2.0.0/arrow-memory-2.0.0.jar returned status 404
+20.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-memory/20.0.0/arrow-memory-20.0.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-memory/3.0.0/arrow-memory-3.0.0.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-memory/4.0.0/arrow-memory-4.0.0.jar returned status 404
 4.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/arrow/arrow-memory/4.0.1/arrow-memory-4.0.1.jar returned status 404
