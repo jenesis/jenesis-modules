@@ -1,1 +1,2 @@
 0.1.0		2026-11-10T11:37:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/sonify/quarkus-sonify-parent/0.1.0/quarkus-sonify-parent-0.1.0.jar returned status 404
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/sonify/quarkus-sonify-parent/1.0.0/quarkus-sonify-parent-1.0.0.jar returned status 404

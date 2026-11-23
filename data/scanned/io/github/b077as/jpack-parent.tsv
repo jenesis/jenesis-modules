@@ -1,3 +1,4 @@
 0.1.0		2026-11-11T21:46:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/b077as/jpack-parent/0.1.0/jpack-parent-0.1.0.jar returned status 404
 0.1.1		2026-11-11T23:43:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/b077as/jpack-parent/0.1.1/jpack-parent-0.1.1.jar returned status 404
 0.1.2		2026-11-12T18:14:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/b077as/jpack-parent/0.1.2/jpack-parent-0.1.2.jar returned status 404
+0.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/b077as/jpack-parent/0.1.3/jpack-parent-0.1.3.jar returned status 404

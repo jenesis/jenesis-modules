@@ -32,3 +32,4 @@
 2.3.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/loggingsentry/quarkus-logging-sentry-parent/2.3.4/quarkus-logging-sentry-parent-2.3.4.jar returned status 404
 2.3.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/loggingsentry/quarkus-logging-sentry-parent/2.3.5/quarkus-logging-sentry-parent-2.3.5.jar returned status 404
 2.3.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/loggingsentry/quarkus-logging-sentry-parent/2.3.6/quarkus-logging-sentry-parent-2.3.6.jar returned status 404
+4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/quarkiverse/loggingsentry/quarkus-logging-sentry-parent/4.0.0/quarkus-logging-sentry-parent-4.0.0.jar returned status 404
