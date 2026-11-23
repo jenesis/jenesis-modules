@@ -1,1 +1,3 @@
 1.0.0-alpha01		2026-11-14T08:34:45Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otacon/peekniko/client-core-android/1.0.0-alpha01/client-core-android-1.0.0-alpha01.jar returned status 404
+1.0.0-alpha02			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otacon/peekniko/client-core-android/1.0.0-alpha02/client-core-android-1.0.0-alpha02.jar returned status 404
+1.0.0-beta01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otacon/peekniko/client-core-android/1.0.0-beta01/client-core-android-1.0.0-beta01.jar returned status 404

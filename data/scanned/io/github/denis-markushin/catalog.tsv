@@ -17,3 +17,4 @@
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/catalog/5.0.0/catalog-5.0.0.jar returned status 404
 5.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/catalog/5.1.0/catalog-5.1.0.jar returned status 404
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/catalog/5.2.0/catalog-5.2.0.jar returned status 404
+5.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/denis-markushin/catalog/5.3.0/catalog-5.3.0.jar returned status 404

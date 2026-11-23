@@ -1,7 +1,9 @@
+1.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rapidai/rapid-doc-ort/1.23.2/rapid-doc-ort-1.23.2.jar returned status 404
 1.23.2	linux-x86_64	2026-11-06T02:31:02Z	
 1.23.2	macos-aarch64	2026-11-06T02:31:02Z	
 1.23.2	macos-x86_64	2026-11-06T02:31:02Z	
 1.23.2	windows-x86_64	2026-11-06T02:31:02Z	
+1.23.2-rapiddoc.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/rapidai/rapid-doc-ort/1.23.2-rapiddoc.1/rapid-doc-ort-1.23.2-rapiddoc.1.jar returned status 404
 1.23.2-rapiddoc.1	linux-aarch64	2026-11-06T10:50:50Z	
 1.23.2-rapiddoc.1	linux-x86_64	2026-11-06T10:50:49Z	
 1.23.2-rapiddoc.1	macos-aarch64	2026-11-06T10:50:50Z	

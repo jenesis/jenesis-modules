@@ -485,4 +485,10 @@ interface-v1.0.29	named	io.get-coursier	coursier-util_2.12	2026-09-16T12:03:15Z	
 0.17.4	named	io.github.algomaster99	watchdog-agent	2026-11-18T17:00:07Z	1.22.1
 2.1.27	named	io.get-coursier	coursier-util_2.13	2026-11-18T17:50:11Z	1.24.1
 2.1.27	named	io.get-coursier	coursier-util_3	2026-11-18T17:50:11Z	1.24.1
+0.17.5	named	io.github.algomaster99	runtime-class-interceptor	2026-11-20T14:26:48Z	1.22.1
+0.17.5	named	io.github.algomaster99	watchdog-agent	2026-11-20T14:26:48Z	1.22.1
+0.17.5	named	io.github.algomaster99	classfile-fingerprint	2026-11-20T14:26:49Z	1.22.1
 10.4.20261121	named	io.github.shafthq	shaft-cli	2026-11-21T13:05:59Z	1.24.1
+0.17.6	named	io.github.algomaster99	runtime-class-interceptor	2026-11-22T09:20:03Z	1.22.1
+0.17.6	named	io.github.algomaster99	watchdog-agent	2026-11-22T09:20:03Z	1.22.1
+0.17.6	named	io.github.algomaster99	classfile-fingerprint	2026-11-22T09:20:04Z	1.22.1

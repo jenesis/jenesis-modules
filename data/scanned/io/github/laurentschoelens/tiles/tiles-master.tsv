@@ -1,4 +1,6 @@
 10		2026-10-23T12:57:41Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/laurentschoelens/tiles/tiles-master/10/tiles-master-10.jar returned status 404
 10.1		2026-10-23T13:51:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/laurentschoelens/tiles/tiles-master/10.1/tiles-master-10.1.jar returned status 404
+10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/laurentschoelens/tiles/tiles-master/10.2/tiles-master-10.2.jar returned status 404
+10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/laurentschoelens/tiles/tiles-master/10.3/tiles-master-10.3.jar returned status 404
 8		2026-10-23T12:27:26Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/laurentschoelens/tiles/tiles-master/8/tiles-master-8.jar returned status 404
 9		2026-10-23T12:37:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/laurentschoelens/tiles/tiles-master/9/tiles-master-9.jar returned status 404

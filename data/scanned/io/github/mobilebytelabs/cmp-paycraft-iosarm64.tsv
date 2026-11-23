@@ -68,6 +68,8 @@
 2.5.3	metadata	2026-11-10T09:42:08Z	
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-iosarm64/3.0.0/cmp-paycraft-iosarm64-3.0.0.jar returned status 404
 3.0.0	metadata	2026-11-10T11:57:38Z	
+3.0.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-iosarm64/3.0.10/cmp-paycraft-iosarm64-3.0.10.jar returned status 404
+3.0.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-iosarm64/3.0.11/cmp-paycraft-iosarm64-3.0.11.jar returned status 404
 3.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-iosarm64/3.0.2/cmp-paycraft-iosarm64-3.0.2.jar returned status 404
 3.0.2	metadata	2026-11-12T10:50:30Z	
 3.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mobilebytelabs/cmp-paycraft-iosarm64/3.0.3/cmp-paycraft-iosarm64-3.0.3.jar returned status 404

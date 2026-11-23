@@ -1,2 +1,5 @@
+1.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/simukappu/coherence-tools/1.0.0/coherence-tools-1.0.0.jar returned status 404
+1.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/simukappu/coherence-tools/1.0.1/coherence-tools-1.0.1.jar returned status 404
+1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/simukappu/coherence-tools/1.0.2/coherence-tools-1.0.2.jar returned status 404
 1.1.0		2026-10-28T13:12:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/simukappu/coherence-tools/1.1.0/coherence-tools-1.1.0.jar returned status 404
 1.2.0		2026-11-15T06:29:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/simukappu/coherence-tools/1.2.0/coherence-tools-1.2.0.jar returned status 404

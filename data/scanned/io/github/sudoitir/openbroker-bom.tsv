@@ -1,6 +1,7 @@
 0.1.0		2026-10-20T12:51:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sudoitir/openbroker-bom/0.1.0/openbroker-bom-0.1.0.jar returned status 404
 0.10.0		2026-11-02T11:32:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sudoitir/openbroker-bom/0.10.0/openbroker-bom-0.10.0.jar returned status 404
 0.11.0		2026-11-12T18:44:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sudoitir/openbroker-bom/0.11.0/openbroker-bom-0.11.0.jar returned status 404
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sudoitir/openbroker-bom/0.12.0/openbroker-bom-0.12.0.jar returned status 404
 0.2.0		2026-10-21T11:56:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sudoitir/openbroker-bom/0.2.0/openbroker-bom-0.2.0.jar returned status 404
 0.3.0		2026-10-27T10:57:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sudoitir/openbroker-bom/0.3.0/openbroker-bom-0.3.0.jar returned status 404
 0.4.0		2026-10-27T18:07:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sudoitir/openbroker-bom/0.4.0/openbroker-bom-0.4.0.jar returned status 404
