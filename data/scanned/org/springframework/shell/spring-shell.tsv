@@ -1,3 +1,4 @@
 1.0.0.RELEASE		2012-10-02T19:13:01Z	
 1.1.0.RELEASE		2014-07-26T00:47:47Z	
 1.2.0.RELEASE		2016-06-29T18:20:01Z	
+4.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/springframework/shell/spring-shell/4.0.4/spring-shell-4.0.4.jar returned status 404
