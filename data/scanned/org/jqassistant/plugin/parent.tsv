@@ -9,6 +9,7 @@
 2.10.0-M3		2026-08-28T15:33:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jqassistant/plugin/parent/2.10.0-M3/parent-2.10.0-M3.jar returned status 404
 2.10.0-M4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jqassistant/plugin/parent/2.10.0-M4/parent-2.10.0-M4.jar returned status 404
 2.10.0-M4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jqassistant/plugin/parent/2.10.0-M4.1/parent-2.10.0-M4.1.jar returned status 404
+2.10.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jqassistant/plugin/parent/2.10.0-RC1/parent-2.10.0-RC1.jar returned status 404
 2.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jqassistant/plugin/parent/2.2.0/parent-2.2.0.jar returned status 404
 2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jqassistant/plugin/parent/2.3.0/parent-2.3.0.jar returned status 404
 2.3.0-M3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/jqassistant/plugin/parent/2.3.0-M3/parent-2.3.0-M3.jar returned status 404
