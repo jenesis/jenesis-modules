@@ -99,6 +99,7 @@
 1.16.6		2026-06-08T06:47:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.16.6/micrometer-bom-1.16.6.jar returned status 404
 1.16.7		2026-08-20T08:02:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.16.7/micrometer-bom-1.16.7.jar returned status 404
 1.16.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.16.8/micrometer-bom-1.16.8.jar returned status 404
+1.16.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.16.9/micrometer-bom-1.16.9.jar returned status 404
 1.17.0		2026-06-08T08:32:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.17.0/micrometer-bom-1.17.0.jar returned status 404
 1.17.0-M1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.17.0-M1/micrometer-bom-1.17.0-M1.jar returned status 404
 1.17.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.17.0-M2/micrometer-bom-1.17.0-M2.jar returned status 404
@@ -106,6 +107,8 @@
 1.17.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.17.0-RC1/micrometer-bom-1.17.0-RC1.jar returned status 404
 1.17.1		2026-08-20T08:02:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.17.1/micrometer-bom-1.17.1.jar returned status 404
 1.17.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.17.2/micrometer-bom-1.17.2.jar returned status 404
+1.17.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.17.3/micrometer-bom-1.17.3.jar returned status 404
+1.18.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.18.0/micrometer-bom-1.18.0.jar returned status 404
 1.18.0-M1		2026-08-20T08:02:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.18.0-M1/micrometer-bom-1.18.0-M1.jar returned status 404
 1.18.0-M2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.18.0-M2/micrometer-bom-1.18.0-M2.jar returned status 404
 1.18.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/micrometer/micrometer-bom/1.18.0-RC1/micrometer-bom-1.18.0-RC1.jar returned status 404
