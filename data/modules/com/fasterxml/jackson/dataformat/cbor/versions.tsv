@@ -1065,3 +1065,5 @@
 4.4.6	named	net.snowflake	snowflake-ingest-sdk	2026-10-23T21:31:59Z	2.18.1
 2.23.0	named	com.fasterxml.jackson.dataformat	jackson-dataformat-cbor	2026-11-08T01:00:09Z	2.23.0
 2.0.2	named	software.amazon.glue	schema-registry-serde-msk-iam	2026-11-10T01:06:35Z	2.22.4
+3.0.1	named	software.amazon.glue	schema-registry-serde-msk-iam	2026-11-21T00:35:54Z	2.22.4
+3.0.0	named	software.amazon.glue	schema-registry-serde-msk-iam	2026-11-21T02:52:18Z	2.22.4

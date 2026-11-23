@@ -225,3 +225,6 @@
 8.0.0-beta.1		2026-11-19T10:26:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/8.0.0-beta.1/cosec-bom-8.0.0-beta.1.jar returned status 404
 8.0.0-beta.2		2026-11-19T10:26:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/8.0.0-beta.2/cosec-bom-8.0.0-beta.2.jar returned status 404
 8.0.0-beta.3		2026-11-19T10:26:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/8.0.0-beta.3/cosec-bom-8.0.0-beta.3.jar returned status 404
+8.0.0-beta.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/8.0.0-beta.4/cosec-bom-8.0.0-beta.4.jar returned status 404
+8.0.0-beta.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/8.0.0-beta.5/cosec-bom-8.0.0-beta.5.jar returned status 404
+8.0.0-beta.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosec/cosec-bom/8.0.0-beta.6/cosec-bom-8.0.0-beta.6.jar returned status 404

@@ -151,3 +151,5 @@
 8.0.0-beta.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosky/cosky-bom/8.0.0-beta.4/cosky-bom-8.0.0-beta.4.jar returned status 404
 8.0.0-beta.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosky/cosky-bom/8.0.0-beta.5/cosky-bom-8.0.0-beta.5.jar returned status 404
 8.0.0-beta.6		2026-11-19T10:26:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosky/cosky-bom/8.0.0-beta.6/cosky-bom-8.0.0-beta.6.jar returned status 404
+8.0.0-beta.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosky/cosky-bom/8.0.0-beta.7/cosky-bom-8.0.0-beta.7.jar returned status 404
+8.0.0-beta.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/ahoo/cosky/cosky-bom/8.0.0-beta.8/cosky-bom-8.0.0-beta.8.jar returned status 404

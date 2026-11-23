@@ -1,3 +1,7 @@
 2.0.0-alpha.65.66-rc.0		2026-11-19T12:03:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jazz/jazz-kotlin-android/2.0.0-alpha.65.66-rc.0/jazz-kotlin-android-2.0.0-alpha.65.66-rc.0.jar returned status 404
 2.0.0-alpha.66		2026-11-19T12:03:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jazz/jazz-kotlin-android/2.0.0-alpha.66/jazz-kotlin-android-2.0.0-alpha.66.jar returned status 404
 2.0.0-alpha.67		2026-11-19T12:03:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jazz/jazz-kotlin-android/2.0.0-alpha.67/jazz-kotlin-android-2.0.0-alpha.67.jar returned status 404
+2.0.0-alpha.68			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jazz/jazz-kotlin-android/2.0.0-alpha.68/jazz-kotlin-android-2.0.0-alpha.68.jar returned status 404
+2.0.0-alpha.69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jazz/jazz-kotlin-android/2.0.0-alpha.69/jazz-kotlin-android-2.0.0-alpha.69.jar returned status 404
+2.0.0-alpha.70			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jazz/jazz-kotlin-android/2.0.0-alpha.70/jazz-kotlin-android-2.0.0-alpha.70.jar returned status 404
+2.0.0-beta.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tools/jazz/jazz-kotlin-android/2.0.0-beta.0/jazz-kotlin-android-2.0.0-beta.0.jar returned status 404

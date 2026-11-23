@@ -12,3 +12,4 @@
 0.4.0	metadata	2026-11-19T12:03:37Z	
 0.5.0		2026-11-19T12:03:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/annexflow/lvm/lvm-io-iossimulatorarm64/0.5.0/lvm-io-iossimulatorarm64-0.5.0.jar returned status 404
 0.5.0	metadata	2026-11-19T12:03:37Z	
+0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/annexflow/lvm/lvm-io-iossimulatorarm64/0.6.0/lvm-io-iossimulatorarm64-0.6.0.jar returned status 404

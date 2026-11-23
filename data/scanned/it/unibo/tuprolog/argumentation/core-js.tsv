@@ -51,6 +51,8 @@
 0.25.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.25.2/core-js-0.25.2.jar returned status 404
 0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.0/core-js-0.26.0.jar returned status 404
 0.26.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.1/core-js-0.26.1.jar returned status 404
+0.26.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.10/core-js-0.26.10.jar returned status 404
+0.26.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.11/core-js-0.26.11.jar returned status 404
 0.26.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.2/core-js-0.26.2.jar returned status 404
 0.26.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.3/core-js-0.26.3.jar returned status 404
 0.26.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.4/core-js-0.26.4.jar returned status 404
@@ -58,6 +60,7 @@
 0.26.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.6/core-js-0.26.6.jar returned status 404
 0.26.7		2026-11-19T10:24:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.7/core-js-0.26.7.jar returned status 404
 0.26.8		2026-11-19T10:24:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.8/core-js-0.26.8.jar returned status 404
+0.26.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/unibo/tuprolog/argumentation/core-js/0.26.9/core-js-0.26.9.jar returned status 404
 0.3.0		2021-05-20T15:12:36Z	
 0.3.1		2021-06-15T14:02:29Z	
 0.4.0		2021-07-16T10:01:27Z	

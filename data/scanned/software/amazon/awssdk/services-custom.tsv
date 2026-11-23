@@ -1684,6 +1684,12 @@
 2.58.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.58.0/services-custom-2.58.0.jar returned status 404
 2.59.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.59.0/services-custom-2.59.0.jar returned status 404
 2.59.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.59.1/services-custom-2.59.1.jar returned status 404
+2.59.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.59.2/services-custom-2.59.2.jar returned status 404
+2.59.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.59.3/services-custom-2.59.3.jar returned status 404
+2.59.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.59.4/services-custom-2.59.4.jar returned status 404
+2.59.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.59.5/services-custom-2.59.5.jar returned status 404
+2.59.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.59.6/services-custom-2.59.6.jar returned status 404
+2.59.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.59.7/services-custom-2.59.7.jar returned status 404
 2.7.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.7.29/services-custom-2.7.29.jar returned status 404
 2.7.30			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.7.30/services-custom-2.7.30.jar returned status 404
 2.7.31			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/amazon/awssdk/services-custom/2.7.31/services-custom-2.7.31.jar returned status 404

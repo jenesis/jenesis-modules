@@ -4,3 +4,4 @@
 2.1.0		2026-11-10T12:35:32Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/cr3dentials/zktls-sdk/2.1.0/zktls-sdk-2.1.0.jar returned status 404
 2.1.1		2026-11-10T13:20:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/cr3dentials/zktls-sdk/2.1.1/zktls-sdk-2.1.1.jar returned status 404
 2.2.0		2026-11-19T12:05:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/cr3dentials/zktls-sdk/2.2.0/zktls-sdk-2.2.0.jar returned status 404
+2.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/xyz/cr3dentials/zktls-sdk/2.3.0/zktls-sdk-2.3.0.jar returned status 404

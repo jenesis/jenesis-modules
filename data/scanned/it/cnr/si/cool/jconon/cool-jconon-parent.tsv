@@ -532,3 +532,4 @@
 5.9.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/jconon/cool-jconon-parent/5.9.7/cool-jconon-parent-5.9.7.jar returned status 404
 5.9.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/jconon/cool-jconon-parent/5.9.8/cool-jconon-parent-5.9.8.jar returned status 404
 5.9.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/jconon/cool-jconon-parent/5.9.9/cool-jconon-parent-5.9.9.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/it/cnr/si/cool/jconon/cool-jconon-parent/6.0.0/cool-jconon-parent-6.0.0.jar returned status 404

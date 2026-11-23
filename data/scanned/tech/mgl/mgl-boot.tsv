@@ -13,6 +13,7 @@ ${revision}			IllegalArgumentException: Illegal character in path at index 19: t
 2025.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2025.5.1/mgl-boot-2025.5.1.jar returned status 404
 2026.1.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2026.1.10/mgl-boot-2026.1.10.jar returned status 404
 2026.1.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2026.1.11/mgl-boot-2026.1.11.jar returned status 404
+2026.1.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2026.1.12/mgl-boot-2026.1.12.jar returned status 404
 2026.1.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2026.1.2/mgl-boot-2026.1.2.jar returned status 404
 2026.1.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2026.1.5/mgl-boot-2026.1.5.jar returned status 404
 2026.1.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/tech/mgl/mgl-boot/2026.1.6/mgl-boot-2026.1.6.jar returned status 404
