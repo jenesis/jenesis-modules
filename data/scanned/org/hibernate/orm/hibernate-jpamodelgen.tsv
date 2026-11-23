@@ -248,6 +248,7 @@
 7.2.23.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.2.23.Final/hibernate-jpamodelgen-7.2.23.Final.jar returned status 404
 7.2.24.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.2.24.Final/hibernate-jpamodelgen-7.2.24.Final.jar returned status 404
 7.2.25.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.2.25.Final/hibernate-jpamodelgen-7.2.25.Final.jar returned status 404
+7.2.26.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.2.26.Final/hibernate-jpamodelgen-7.2.26.Final.jar returned status 404
 7.2.3.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.2.3.Final/hibernate-jpamodelgen-7.2.3.Final.jar returned status 404
 7.2.4.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.2.4.Final/hibernate-jpamodelgen-7.2.4.Final.jar returned status 404
 7.2.5.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.2.5.Final/hibernate-jpamodelgen-7.2.5.Final.jar returned status 404
@@ -281,6 +282,7 @@
 7.4.14.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.4.14.Final/hibernate-jpamodelgen-7.4.14.Final.jar returned status 404
 7.4.15.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.4.15.Final/hibernate-jpamodelgen-7.4.15.Final.jar returned status 404
 7.4.16.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.4.16.Final/hibernate-jpamodelgen-7.4.16.Final.jar returned status 404
+7.4.17.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.4.17.Final/hibernate-jpamodelgen-7.4.17.Final.jar returned status 404
 7.4.2.Final		2026-06-21T00:27:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.4.2.Final/hibernate-jpamodelgen-7.4.2.Final.jar returned status 404
 7.4.3.Final		2026-06-28T00:53:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.4.3.Final/hibernate-jpamodelgen-7.4.3.Final.jar returned status 404
 7.4.4.Final		2026-07-05T00:50:52Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/hibernate/orm/hibernate-jpamodelgen/7.4.4.Final/hibernate-jpamodelgen-7.4.4.Final.jar returned status 404

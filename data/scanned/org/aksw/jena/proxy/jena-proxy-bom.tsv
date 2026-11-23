@@ -3,3 +3,4 @@
 0.8.2		2026-11-02T15:20:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aksw/jena/proxy/jena-proxy-bom/0.8.2/jena-proxy-bom-0.8.2.jar returned status 404
 0.8.4		2026-11-12T01:43:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aksw/jena/proxy/jena-proxy-bom/0.8.4/jena-proxy-bom-0.8.4.jar returned status 404
 0.8.6		2026-11-12T01:43:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aksw/jena/proxy/jena-proxy-bom/0.8.6/jena-proxy-bom-0.8.6.jar returned status 404
+0.8.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aksw/jena/proxy/jena-proxy-bom/0.8.7/jena-proxy-bom-0.8.7.jar returned status 404

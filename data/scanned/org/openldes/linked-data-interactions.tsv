@@ -1,1 +1,2 @@
 3.2.2		2026-11-06T22:33:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openldes/linked-data-interactions/3.2.2/linked-data-interactions-3.2.2.jar returned status 404
+3.2.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openldes/linked-data-interactions/3.2.3/linked-data-interactions-3.2.3.jar returned status 404

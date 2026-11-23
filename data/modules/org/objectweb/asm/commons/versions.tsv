@@ -309,3 +309,4 @@ RELEASE113	named	org.netbeans.external	asm-commons-7.2	2020-02-21T16:30:26Z	7.2.
 1.0.0-M1	named	io.micronaut.scala	micronaut-inject-scala_3.10.1	2026-11-12T07:34:54Z	9.10.1
 1.0.0-M1	named	io.micronaut.scala	micronaut-inject-scala_3.3.9	2026-11-12T07:34:54Z	9.10.1
 1.0.0-M1	named	io.micronaut.scala	micronaut-inject-scala_3.9.0	2026-11-12T07:34:54Z	9.10.1
+0.17.0	named	org.teavm	teavm-relocated-libs-asm-commons	2026-11-21T16:31:10Z	9.10.1

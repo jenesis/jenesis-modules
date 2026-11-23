@@ -13,3 +13,4 @@
 1.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/stebz/stebz-bom/1.8/stebz-bom-1.8.jar returned status 404
 1.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/stebz/stebz-bom/1.9/stebz-bom-1.9.jar returned status 404
 2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/stebz/stebz-bom/2.0/stebz-bom-2.0.jar returned status 404
+2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/stebz/stebz-bom/2.1/stebz-bom-2.1.jar returned status 404

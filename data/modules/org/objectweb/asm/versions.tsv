@@ -1051,3 +1051,4 @@ RELEASE113	named	org.netbeans.external	asm-7.2	2020-02-21T16:30:24Z	7.2.0
 0.3.0	named	gg.ginco.hytest	runtime	2026-10-13T13:30:58Z	9.10.1
 9.11.1	named	org.ow2.asm	asm	2026-10-17T14:04:42Z	9.11.1
 1.19.0	named	org.virtuslab.scala-cli	cliBootstrapped	2026-11-12T09:51:55Z	9.11.1
+0.17.0	named	org.teavm	teavm-relocated-libs-asm	2026-11-21T16:31:10Z	9.10.1
