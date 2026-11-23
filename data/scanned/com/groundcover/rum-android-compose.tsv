@@ -1,3 +1,4 @@
 0.0.1-rc.0		2026-11-08T10:15:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/groundcover/rum-android-compose/0.0.1-rc.0/rum-android-compose-0.0.1-rc.0.jar returned status 404
 0.0.1-rc.1		2026-11-15T11:15:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/groundcover/rum-android-compose/0.0.1-rc.1/rum-android-compose-0.0.1-rc.1.jar returned status 404
 0.0.1-rc.2		2026-11-15T14:40:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/groundcover/rum-android-compose/0.0.1-rc.2/rum-android-compose-0.0.1-rc.2.jar returned status 404
+0.0.1-rc.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/groundcover/rum-android-compose/0.0.1-rc.3/rum-android-compose-0.0.1-rc.3.jar returned status 404

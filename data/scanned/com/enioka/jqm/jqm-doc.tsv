@@ -33,3 +33,4 @@
 3.5.1		2026-09-23T10:16:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-doc/3.5.1/jqm-doc-3.5.1.jar returned status 404
 3.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-doc/3.5.2/jqm-doc-3.5.2.jar returned status 404
 3.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-doc/3.5.3/jqm-doc-3.5.3.jar returned status 404
+3.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/enioka/jqm/jqm-doc/3.5.4/jqm-doc-3.5.4.jar returned status 404

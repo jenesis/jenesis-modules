@@ -3,3 +3,7 @@
 1.0.2		2026-11-05T23:24:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/futureagi/traceai-java-parent/1.0.2/traceai-java-parent-1.0.2.jar returned status 404
 1.0.3		2026-11-10T06:40:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/futureagi/traceai-java-parent/1.0.3/traceai-java-parent-1.0.3.jar returned status 404
 1.1.0		2026-11-10T11:37:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/futureagi/traceai-java-parent/1.1.0/traceai-java-parent-1.1.0.jar returned status 404
+1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/futureagi/traceai-java-parent/1.2.0/traceai-java-parent-1.2.0.jar returned status 404
+1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/futureagi/traceai-java-parent/1.3.0/traceai-java-parent-1.3.0.jar returned status 404
+1.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/futureagi/traceai-java-parent/1.4.0/traceai-java-parent-1.4.0.jar returned status 404
+1.4.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/futureagi/traceai-java-parent/1.4.1/traceai-java-parent-1.4.1.jar returned status 404

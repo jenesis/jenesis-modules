@@ -32,3 +32,4 @@
 3.1.1	plain	2026-09-16T07:33:33Z	
 3.1.2		2026-11-19T10:29:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/openklant/3.1.2/openklant-3.1.2.jar returned status 404
 3.1.2	plain	2026-11-19T10:29:43Z	
+3.1.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/nl/nl-portal/openklant/3.1.3/openklant-3.1.3.jar returned status 404
