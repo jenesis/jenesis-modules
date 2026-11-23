@@ -5386,3 +5386,8 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 2.6.0	named	com.exaroton	api	2026-11-17T11:40:02Z	2.12.1
 2.0.8	named	com.conaxgames	clibraries	2026-11-17T14:34:44Z	2.14.0
 4.0.0	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-18T11:46:19Z	2.10
+12.4.0.88193	named	org.sonarsource.sonarlint.core	sonarlint-java-client-dependencies	2026-11-19T16:14:51Z	2.15.0
+12.4.0.88193	named	org.sonarsource.sonarlint.core	sonarlint-java-client-osgi	2026-11-19T16:14:52Z	2.15.0
+6.4.0.80007	named	org.sonarsource.sonarlint.ls	sonarlint-language-server	2026-11-19T17:00:13Z	2.15.0
+10.37.0.15768	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-11-20T09:40:48Z	2.15.0
+10.37.0.15768	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-11-20T09:40:48Z	2.15.0

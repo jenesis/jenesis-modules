@@ -40,6 +40,7 @@
 0.25.0	debug-sources	2026-10-28T04:12:07Z	
 0.26.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/ampere-core-android/0.26.0/ampere-core-android-0.26.0.jar returned status 404
 0.26.0	debug-sources	2026-10-31T18:10:17Z	
+0.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/ampere-core-android/0.27.0/ampere-core-android-0.27.0.jar returned status 404
 0.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/ampere-core-android/0.3.0/ampere-core-android-0.3.0.jar returned status 404
 0.3.0	debug-sources	2026-03-02T03:36:28Z	
 0.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/link/socket/ampere-core-android/0.4.0/ampere-core-android-0.4.0.jar returned status 404

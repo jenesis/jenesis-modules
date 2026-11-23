@@ -534,6 +534,7 @@
 7.1.2.184-RC	light	2026-10-21T17:36:31Z	
 7.1.2.184-RC	zero	2026-10-21T17:36:32Z	
 7.1.2.191			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/lucee/7.1.2.191/lucee-7.1.2.191.jar returned status 404
+7.1.2.195			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/lucee/7.1.2.195/lucee-7.1.2.195.jar returned status 404
 7.2.0.12-ALPHA		2026-02-09T17:26:28Z	
 7.2.0.12-ALPHA	light	2026-02-09T17:26:28Z	
 7.2.0.12-ALPHA	zero	2026-02-09T17:26:28Z	
@@ -589,6 +590,7 @@
 8.0.0.186-RC	light	2026-08-21T16:04:16Z	
 8.0.0.186-RC	zero	2026-08-21T16:04:16Z	
 8.0.0.304			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/lucee/lucee/8.0.0.304/lucee-8.0.0.304.jar returned status 404
+8.0.0.310			
 8.0.0.59-ALPHA		2026-04-24T18:36:05Z	
 8.0.0.59-ALPHA	light	2026-04-24T18:36:05Z	
 8.0.0.59-ALPHA	zero	2026-04-24T18:36:05Z	

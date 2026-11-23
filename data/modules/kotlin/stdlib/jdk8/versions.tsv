@@ -1971,3 +1971,5 @@ wire-hashing	named	io.github.graphdsl	graphdsl-gradle-plugin	2026-09-25T18:21:16
 2.5.0	named	com.google.genai	google-genai	2026-11-18T07:36:09Z	
 4.12.13	named	net.corda	corda-opentelemetry-driver	2026-11-18T12:22:38Z	
 2.6.0	named	com.google.genai	google-genai	2026-11-18T22:26:18Z	
+4.14.4	named	net.corda	corda-opentelemetry-driver	2026-11-20T09:56:21Z	
+4.13.5	named	net.corda	corda-opentelemetry-driver	2026-11-20T09:56:21Z	
