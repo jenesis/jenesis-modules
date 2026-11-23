@@ -1,1 +1,3 @@
 10.8.1		2026-11-14T21:35:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-bom/10.8.1/ph-oton-bom-10.8.1.jar returned status 404
+10.8.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-bom/10.8.2/ph-oton-bom-10.8.2.jar returned status 404
+10.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/helger/photon/ph-oton-bom/10.9.0/ph-oton-bom-10.9.0.jar returned status 404

@@ -89,6 +89,7 @@
 6.125.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-spanner-parent/6.125.0/google-cloud-spanner-parent-6.125.0.jar returned status 404
 6.126.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-spanner-parent/6.126.0/google-cloud-spanner-parent-6.126.0.jar returned status 404
 6.127.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-spanner-parent/6.127.0/google-cloud-spanner-parent-6.127.0.jar returned status 404
+6.128.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-spanner-parent/6.128.0/google-cloud-spanner-parent-6.128.0.jar returned status 404
 6.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-spanner-parent/6.13.0/google-cloud-spanner-parent-6.13.0.jar returned status 404
 6.14.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-spanner-parent/6.14.0/google-cloud-spanner-parent-6.14.0.jar returned status 404
 6.14.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/google/cloud/google-cloud-spanner-parent/6.14.1/google-cloud-spanner-parent-6.14.1.jar returned status 404

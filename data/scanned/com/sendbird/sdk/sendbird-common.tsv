@@ -1,5 +1,7 @@
 1.0.0		2026-10-21T07:55:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-common/1.0.0/sendbird-common-1.0.0.jar returned status 404
 1.0.1		2026-10-21T07:55:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-common/1.0.1/sendbird-common-1.0.1.jar returned status 404
+1.0.1-ai-agent-jet			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-common/1.0.1-ai-agent-jet/sendbird-common-1.0.1-ai-agent-jet.jar returned status 404
+1.0.1-ai-agent-snapshot			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-common/1.0.1-ai-agent-snapshot/sendbird-common-1.0.1-ai-agent-snapshot.jar returned status 404
 1.0.2		2026-10-21T07:54:36Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-common/1.0.2/sendbird-common-1.0.2.jar returned status 404
 1.0.3		2026-10-21T07:54:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-common/1.0.3/sendbird-common-1.0.3.jar returned status 404
 1.0.4		2026-10-21T07:55:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/sendbird/sdk/sendbird-common/1.0.4/sendbird-common-1.0.4.jar returned status 404

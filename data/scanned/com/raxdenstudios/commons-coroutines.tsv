@@ -37,6 +37,8 @@
 5.5.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.5.9/commons-coroutines-5.5.9.jar returned status 404
 5.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.6.1/commons-coroutines-5.6.1.jar returned status 404
 5.6.10		2026-11-19T08:29:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.6.10/commons-coroutines-5.6.10.jar returned status 404
+5.6.11			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.6.11/commons-coroutines-5.6.11.jar returned status 404
+5.6.12			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.6.12/commons-coroutines-5.6.12.jar returned status 404
 5.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.6.2/commons-coroutines-5.6.2.jar returned status 404
 5.6.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.6.3/commons-coroutines-5.6.3.jar returned status 404
 5.6.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.6.4/commons-coroutines-5.6.4.jar returned status 404
@@ -44,3 +46,6 @@
 5.6.7		2026-06-17T14:17:34Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.6.7/commons-coroutines-5.6.7.jar returned status 404
 5.6.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.6.8/commons-coroutines-5.6.8.jar returned status 404
 5.6.9		2026-11-09T15:29:54Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/5.6.9/commons-coroutines-5.6.9.jar returned status 404
+6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/6.0.0/commons-coroutines-6.0.0.jar returned status 404
+7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/7.0.0/commons-coroutines-7.0.0.jar returned status 404
+8.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/raxdenstudios/commons-coroutines/8.0.0/commons-coroutines-8.0.0.jar returned status 404

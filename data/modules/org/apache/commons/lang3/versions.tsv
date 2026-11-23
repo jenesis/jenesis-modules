@@ -1582,4 +1582,9 @@ v3.1.1	named	com.equinor.neqsim	neqsim	2025-11-14T16:08:05Z	3.19.0
 6.0.2	named	com.liquibase.ext	liquibase-commercial-cassandra	2026-11-17T15:41:19Z	3.21.0
 3.22.0-0	automatic	de.knightsoft-net	gwt-commons-lang3	2026-11-18T12:14:18Z	
 4.0.15.0	named	com.ascentstream.pulsar	buildtools	2026-11-20T08:06:58Z	3.19.0
+3.29.0-Java8	named	com.equinor.neqsim	neqsim	2026-11-20T08:17:08Z	3.20.0
+3.29.0	named	com.equinor.neqsim	neqsim	2026-11-20T08:31:17Z	3.21.0
+3.26.45-1	named	com.ubs-hainer	filebridge-jdbc-driver	2026-11-20T15:05:15Z	3.19.0
+3.26.43-1	named	com.ubs-hainer	filebridge-jdbc-driver	2026-11-20T15:40:02Z	3.19.0
+3.26.41-2	named	com.ubs-hainer	filebridge-jdbc-driver	2026-11-20T17:51:57Z	3.19.0
 3.2	named	org.polypheny	polypheny-jdbc-driver	2026-11-21T16:59:48Z	3.18.0

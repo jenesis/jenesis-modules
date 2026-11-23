@@ -762,6 +762,7 @@
 5.3.0-experimental-internal-npmjs.2	linux-x64	2026-11-19T07:45:33Z	
 5.3.0-experimental-internal-npmjs.2	macos-arm64	2026-11-19T07:45:31Z	
 5.3.0-experimental-internal-npmjs.2	windows-x64	2026-11-19T07:45:34Z	
+5.3.0-experimental-internal-npmjs.3			
 5.3.0-experimental-rn-spm.1		2026-11-19T07:45:21Z	
 5.3.0-experimental-rn-spm.1	linux-arm64	2026-11-19T07:45:33Z	
 5.3.0-experimental-rn-spm.1	linux-x64	2026-11-19T07:45:34Z	
@@ -777,3 +778,4 @@
 5.3.0-preview.1	linux-x64	2026-11-12T15:41:14Z	
 5.3.0-preview.1	macos-arm64	2026-11-12T15:41:13Z	
 5.3.0-preview.1	windows-x64	2026-11-12T15:41:14Z	
+5.3.0-rc.1			
