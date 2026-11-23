@@ -58,3 +58,9 @@
 0.57.0	metadata	2026-11-19T07:25:24Z	
 0.57.1		2026-11-19T07:25:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/mesh-lod-iosarm64/0.57.1/mesh-lod-iosarm64-0.57.1.jar returned status 404
 0.57.1	metadata	2026-11-19T07:25:24Z	
+0.57.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/mesh-lod-iosarm64/0.57.2/mesh-lod-iosarm64-0.57.2.jar returned status 404
+0.58.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/mesh-lod-iosarm64/0.58.0/mesh-lod-iosarm64-0.58.0.jar returned status 404
+0.59.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/mesh-lod-iosarm64/0.59.0/mesh-lod-iosarm64-0.59.0.jar returned status 404
+0.60.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/mesh-lod-iosarm64/0.60.0/mesh-lod-iosarm64-0.60.0.jar returned status 404
+0.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/mesh-lod-iosarm64/0.61.0/mesh-lod-iosarm64-0.61.0.jar returned status 404
+0.62.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/asset/mesh-lod-iosarm64/0.62.0/mesh-lod-iosarm64-0.62.0.jar returned status 404
