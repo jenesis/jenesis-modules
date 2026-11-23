@@ -36,6 +36,7 @@
 0.21.0			
 0.22.0		2026-11-19T09:49:30Z	
 0.23.0		2026-11-19T09:49:30Z	
+0.24.0			
 0.3.0		2026-08-02T18:39:59Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-ui/0.3.0/priv-ui-0.3.0.jar returned status 404
 0.3.1		2026-08-03T07:48:53Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-ui/0.3.1/priv-ui-0.3.1.jar returned status 404
 0.3.2		2026-08-03T08:55:22Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/priv-kit/priv-ui/0.3.2/priv-ui-0.3.2.jar returned status 404

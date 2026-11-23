@@ -1,3 +1,5 @@
 1.0.0		2026-11-19T09:53:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tapmind-tech/tapmindsdk-beta-test/1.0.0/tapmindsdk-beta-test-1.0.0.jar returned status 404
 1.0.1		2026-11-19T09:53:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tapmind-tech/tapmindsdk-beta-test/1.0.1/tapmindsdk-beta-test-1.0.1.jar returned status 404
 1.0.2		2026-11-19T09:53:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tapmind-tech/tapmindsdk-beta-test/1.0.2/tapmindsdk-beta-test-1.0.2.jar returned status 404
+1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tapmind-tech/tapmindsdk-beta-test/1.0.3/tapmindsdk-beta-test-1.0.3.jar returned status 404
+1.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/tapmind-tech/tapmindsdk-beta-test/1.0.4/tapmindsdk-beta-test-1.0.4.jar returned status 404

@@ -1,1 +1,2 @@
 10.0.0-RC1		2026-11-08T17:25:21Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jexxa-bom/10.0.0-RC1/jexxa-bom-10.0.0-RC1.jar returned status 404
+10.0.0-RC2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/jexxa/jexxa-bom/10.0.0-RC2/jexxa-bom-10.0.0-RC2.jar returned status 404

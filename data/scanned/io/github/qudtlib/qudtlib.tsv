@@ -68,4 +68,5 @@
 7.1.1	jar-with-dependencies	2025-10-09T12:40:40Z	
 7.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qudtlib/qudtlib/7.2.0/qudtlib-7.2.0.jar returned status 404
 7.2.0	jar-with-dependencies	2026-02-11T08:50:58Z	
+7.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/qudtlib/qudtlib/7.3.0/qudtlib-7.3.0.jar returned status 404
 7.3.0	jar-with-dependencies	2026-11-19T09:50:09Z	

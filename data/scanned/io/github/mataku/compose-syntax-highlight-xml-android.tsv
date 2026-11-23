@@ -1,3 +1,4 @@
 0.10.0		2026-10-31T06:20:33Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mataku/compose-syntax-highlight-xml-android/0.10.0/compose-syntax-highlight-xml-android-0.10.0.jar returned status 404
 0.11.0		2026-11-02T19:36:23Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mataku/compose-syntax-highlight-xml-android/0.11.0/compose-syntax-highlight-xml-android-0.11.0.jar returned status 404
+0.12.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mataku/compose-syntax-highlight-xml-android/0.12.0/compose-syntax-highlight-xml-android-0.12.0.jar returned status 404
 0.9.0		2026-10-29T07:38:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/mataku/compose-syntax-highlight-xml-android/0.9.0/compose-syntax-highlight-xml-android-0.9.0.jar returned status 404

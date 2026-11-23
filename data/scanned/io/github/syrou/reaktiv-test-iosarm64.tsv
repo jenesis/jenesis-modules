@@ -86,3 +86,4 @@
 0.15.81	metadata	2026-11-19T09:52:51Z	
 0.15.82		2026-11-19T09:52:51Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/syrou/reaktiv-test-iosarm64/0.15.82/reaktiv-test-iosarm64-0.15.82.jar returned status 404
 0.15.82	metadata	2026-11-19T09:52:51Z	
+0.15.83			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/syrou/reaktiv-test-iosarm64/0.15.83/reaktiv-test-iosarm64-0.15.83.jar returned status 404
