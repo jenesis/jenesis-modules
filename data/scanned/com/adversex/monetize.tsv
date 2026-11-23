@@ -9,3 +9,4 @@
 1.0.3		2026-10-20T10:06:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adversex/monetize/1.0.3/monetize-1.0.3.jar returned status 404
 1.0.4		2026-10-20T12:20:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adversex/monetize/1.0.4/monetize-1.0.4.jar returned status 404
 1.0.5		2026-11-04T11:09:46Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adversex/monetize/1.0.5/monetize-1.0.5.jar returned status 404
+1.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/adversex/monetize/1.0.6/monetize-1.0.6.jar returned status 404

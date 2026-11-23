@@ -1,2 +1,3 @@
 0.0.1-alpha01			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/supersdk/supersdk-base/0.0.1-alpha01/supersdk-base-0.0.1-alpha01.jar returned status 404
 3.0.7		2026-11-19T08:37:15Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/supersdk/supersdk-base/3.0.7/supersdk-base-3.0.7.jar returned status 404
+3.0.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/supersdk/supersdk-base/3.0.9/supersdk-base-3.0.9.jar returned status 404

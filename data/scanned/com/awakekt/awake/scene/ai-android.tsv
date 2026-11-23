@@ -53,7 +53,13 @@
 0.56.0		2026-11-17T09:45:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.56.0/ai-android-0.56.0.jar returned status 404
 0.57.0		2026-11-19T07:32:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.57.0/ai-android-0.57.0.jar returned status 404
 0.57.1		2026-11-19T07:32:08Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.57.1/ai-android-0.57.1.jar returned status 404
+0.57.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.57.2/ai-android-0.57.2.jar returned status 404
+0.58.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.58.0/ai-android-0.58.0.jar returned status 404
+0.59.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.59.0/ai-android-0.59.0.jar returned status 404
 0.6.0		2026-10-09T18:46:25Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.6.0/ai-android-0.6.0.jar returned status 404
+0.60.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.60.0/ai-android-0.60.0.jar returned status 404
+0.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.61.0/ai-android-0.61.0.jar returned status 404
+0.62.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.62.0/ai-android-0.62.0.jar returned status 404
 0.7.1		2026-10-10T10:06:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.7.1/ai-android-0.7.1.jar returned status 404
 0.8.2		2026-10-10T19:31:17Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.8.2/ai-android-0.8.2.jar returned status 404
 0.8.3		2026-10-11T07:16:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/ai-android/0.8.3/ai-android-0.8.3.jar returned status 404
