@@ -272,3 +272,13 @@ org.sejda.core.writer
 org.sejda.sambox
 org.python.jython2
 com.google.common
+org.locationtech.proj4j.epsg
+org.locationtech.proj4j
+org.locationtech.proj4j.geoapi
+flying.saucer
+flying.saucer.pdf
+flying.saucer.pdf.osgi
+flying.saucer.swt
+flying.saucer.chrome.pdf
+flying.saucer.fop
+org.checkerframework.checker.qual

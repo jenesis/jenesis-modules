@@ -8,6 +8,7 @@
 0.103.0	metadata	2026-11-12T13:35:08Z	
 0.104.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/licensefindings/license-findings-api-model-macosarm64/0.104.0/license-findings-api-model-macosarm64-0.104.0.jar returned status 404
 0.104.0	metadata	2026-11-13T11:21:42Z	
+0.105.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/licensefindings/license-findings-api-model-macosarm64/0.105.0/license-findings-api-model-macosarm64-0.105.0.jar returned status 404
 0.60.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/licensefindings/license-findings-api-model-macosarm64/0.60.2/license-findings-api-model-macosarm64-0.60.2.jar returned status 404
 0.60.2	metadata	2026-04-20T11:11:19Z	
 0.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/eclipse/apoapsis/ortserver/components/licensefindings/license-findings-api-model-macosarm64/0.61.0/license-findings-api-model-macosarm64-0.61.0.jar returned status 404

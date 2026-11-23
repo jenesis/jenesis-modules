@@ -20,3 +20,4 @@
 3.18.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aesh/aesh-readline-bom/3.18.7/aesh-readline-bom-3.18.7.jar returned status 404
 3.18.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aesh/aesh-readline-bom/3.18.8/aesh-readline-bom-3.18.8.jar returned status 404
 3.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aesh/aesh-readline-bom/3.19/aesh-readline-bom-3.19.jar returned status 404
+3.19.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/aesh/aesh-readline-bom/3.19.1/aesh-readline-bom-3.19.1.jar returned status 404
