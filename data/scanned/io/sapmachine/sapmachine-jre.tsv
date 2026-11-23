@@ -36,6 +36,7 @@
 17.0.21			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/17.0.21/sapmachine-jre-17.0.21.jar returned status 404
 17.0.21.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/17.0.21.0.2/sapmachine-jre-17.0.21.0.2.jar returned status 404
 17.0.21.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/17.0.21.0.3/sapmachine-jre-17.0.21.0.3.jar returned status 404
+17.0.21.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/17.0.21.1/sapmachine-jre-17.0.21.1.jar returned status 404
 17.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/17.0.3/sapmachine-jre-17.0.3.jar returned status 404
 17.0.3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/17.0.3.0.1/sapmachine-jre-17.0.3.0.1.jar returned status 404
 17.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/17.0.4/sapmachine-jre-17.0.4.jar returned status 404
@@ -66,6 +67,7 @@
 21.0.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/21.0.13/sapmachine-jre-21.0.13.jar returned status 404
 21.0.13.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/21.0.13.0.2/sapmachine-jre-21.0.13.0.2.jar returned status 404
 21.0.13.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/21.0.13.0.3/sapmachine-jre-21.0.13.0.3.jar returned status 404
+21.0.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/21.0.13.1/sapmachine-jre-21.0.13.1.jar returned status 404
 21.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/21.0.2/sapmachine-jre-21.0.2.jar returned status 404
 21.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/21.0.3/sapmachine-jre-21.0.3.jar returned status 404
 21.0.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/21.0.4/sapmachine-jre-21.0.4.jar returned status 404
@@ -92,6 +94,7 @@
 25.0.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/25.0.5/sapmachine-jre-25.0.5.jar returned status 404
 25.0.5.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/25.0.5.0.2/sapmachine-jre-25.0.5.0.2.jar returned status 404
 25.0.5.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/25.0.5.0.3/sapmachine-jre-25.0.5.0.3.jar returned status 404
+25.0.5.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/25.0.5.1/sapmachine-jre-25.0.5.1.jar returned status 404
 26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/26/sapmachine-jre-26.jar returned status 404
 26.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/26.0.1/sapmachine-jre-26.0.1.jar returned status 404
 26.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/26.0.2/sapmachine-jre-26.0.2.jar returned status 404
@@ -100,3 +103,4 @@
 27.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/27.0.1/sapmachine-jre-27.0.1.jar returned status 404
 27.0.1.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/27.0.1.0.2/sapmachine-jre-27.0.1.0.2.jar returned status 404
 27.0.1.0.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/27.0.1.0.3/sapmachine-jre-27.0.1.0.3.jar returned status 404
+27.0.1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/sapmachine/sapmachine-jre/27.0.1.1/sapmachine-jre-27.0.1.1.jar returned status 404

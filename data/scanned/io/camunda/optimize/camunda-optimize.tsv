@@ -20,6 +20,7 @@
 8.10.0-rc3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.10.0-rc3/camunda-optimize-8.10.0-rc3.jar returned status 404
 8.10.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.10.1/camunda-optimize-8.10.1.jar returned status 404
 8.10.1-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.10.1-rc1/camunda-optimize-8.10.1-rc1.jar returned status 404
+8.10.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.10.10/camunda-optimize-8.10.10.jar returned status 404
 8.10.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.10.2/camunda-optimize-8.10.2.jar returned status 404
 8.10.2-rc1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.10.2-rc1/camunda-optimize-8.10.2-rc1.jar returned status 404
 8.10.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.10.3/camunda-optimize-8.10.3.jar returned status 404
@@ -79,6 +80,7 @@
 8.8.44			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.8.44/camunda-optimize-8.8.44.jar returned status 404
 8.8.45			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.8.45/camunda-optimize-8.8.45.jar returned status 404
 8.8.46			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.8.46/camunda-optimize-8.8.46.jar returned status 404
+8.8.47			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.8.47/camunda-optimize-8.8.47.jar returned status 404
 8.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.9.0/camunda-optimize-8.9.0.jar returned status 404
 8.9.0-alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.9.0-alpha1/camunda-optimize-8.9.0-alpha1.jar returned status 404
 8.9.0-alpha1.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.9.0-alpha1.1/camunda-optimize-8.9.0-alpha1.1.jar returned status 404
@@ -115,6 +117,7 @@
 8.9.26			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.9.26/camunda-optimize-8.9.26.jar returned status 404
 8.9.27			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.9.27/camunda-optimize-8.9.27.jar returned status 404
 8.9.28			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.9.28/camunda-optimize-8.9.28.jar returned status 404
+8.9.29			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.9.29/camunda-optimize-8.9.29.jar returned status 404
 8.9.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.9.3/camunda-optimize-8.9.3.jar returned status 404
 8.9.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.9.4/camunda-optimize-8.9.4.jar returned status 404
 8.9.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/camunda/optimize/camunda-optimize/8.9.5/camunda-optimize-8.9.5.jar returned status 404
