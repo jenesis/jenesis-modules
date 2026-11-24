@@ -82,3 +82,5 @@
 1.54.0	metadata	2026-11-19T10:31:11Z	
 1.54.1		2026-11-19T10:31:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-api-supplier-iossimulatorarm64/1.54.1/sdk-api-supplier-iossimulatorarm64-1.54.1.jar returned status 404
 1.54.1	metadata	2026-11-19T10:31:12Z	
+1.57.6		2026-11-23T13:03:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/solibo/oss/sdk-api-supplier-iossimulatorarm64/1.57.6/sdk-api-supplier-iossimulatorarm64-1.57.6.jar returned status 404
+1.57.6	metadata	2026-11-23T13:03:39Z	

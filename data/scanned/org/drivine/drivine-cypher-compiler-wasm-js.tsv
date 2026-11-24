@@ -26,3 +26,4 @@
 0.52.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-wasm-js/0.52.2/drivine-cypher-compiler-wasm-js-0.52.2.jar returned status 404
 0.52.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-wasm-js/0.52.3/drivine-cypher-compiler-wasm-js-0.52.3.jar returned status 404
 0.52.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-wasm-js/0.52.4/drivine-cypher-compiler-wasm-js-0.52.4.jar returned status 404
+0.52.5		2026-11-23T13:11:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-wasm-js/0.52.5/drivine-cypher-compiler-wasm-js-0.52.5.jar returned status 404

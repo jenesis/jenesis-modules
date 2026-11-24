@@ -7563,3 +7563,5 @@ v0.0.22	named	com.grafana	grafana-foundation-sdk	2026-10-29T15:09:56Z	2.19.1
 2.1.1	named	io.orqueio.spin	orqueio-spin-dataformat-all	2026-11-17T09:36:05Z	2.20.2
 6.0.2	named	com.liquibase.ext	liquibase-commercial-mongodb	2026-11-17T15:41:18Z	2.22.4
 2.2.2	named	org.operaton.spin	operaton-spin-dataformat-all	2026-11-20T06:41:49Z	2.22.4
+3.0.0	named	org.cibseven.spin	cibseven-spin-dataformat-all-jackson2	2026-11-20T20:15:00Z	2.21.7
+1.4.1	named	org.eximeebpms.spin	eximeebpms-spin-dataformat-all	2026-11-23T08:05:42Z	2.22.2

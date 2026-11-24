@@ -479,8 +479,11 @@
 0.3.16-dev07+c57f8cf			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.16-dev07+c57f8cf/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.16-dev07+c57f8cf.jar returned status 404
 0.3.16-dev07+c57f8cf	metadata	2026-11-19T10:55:19Z	
 0.3.16-dev0f+318d5fc			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.16-dev0f+318d5fc/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.16-dev0f+318d5fc.jar returned status 404
+0.3.16-dev0f+318d5fc	metadata	2026-11-23T13:11:26Z	
 0.3.16-dev0g+8296261			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.16-dev0g+8296261/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.16-dev0g+8296261.jar returned status 404
+0.3.16-dev0g+8296261	metadata	2026-11-23T13:11:27Z	
 0.3.16-dev0g+ce9ff13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.16-dev0g+ce9ff13/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.16-dev0g+ce9ff13.jar returned status 404
+0.3.16-dev0g+ce9ff13	metadata	2026-11-23T13:11:27Z	
 0.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.2/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.2.jar returned status 404
 0.3.2	metadata	2025-08-14T13:18:40Z	
 0.3.2-dev01+b3b533f			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/danilopianini/template-for-kotlin-multiplatform-projects-watchosarm64/0.3.2-dev01+b3b533f/template-for-kotlin-multiplatform-projects-watchosarm64-0.3.2-dev01+b3b533f.jar returned status 404

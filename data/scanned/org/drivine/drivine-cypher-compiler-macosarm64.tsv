@@ -45,7 +45,14 @@
 0.50.0		2026-11-19T10:56:58Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-macosarm64/0.50.0/drivine-cypher-compiler-macosarm64-0.50.0.jar returned status 404
 0.50.0	metadata	2026-11-19T10:56:58Z	
 0.51.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-macosarm64/0.51.1/drivine-cypher-compiler-macosarm64-0.51.1.jar returned status 404
+0.51.1	metadata	2026-11-23T13:11:34Z	
 0.52.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-macosarm64/0.52.1/drivine-cypher-compiler-macosarm64-0.52.1.jar returned status 404
+0.52.1	metadata	2026-11-23T13:11:34Z	
 0.52.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-macosarm64/0.52.2/drivine-cypher-compiler-macosarm64-0.52.2.jar returned status 404
+0.52.2	metadata	2026-11-23T13:11:34Z	
 0.52.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-macosarm64/0.52.3/drivine-cypher-compiler-macosarm64-0.52.3.jar returned status 404
+0.52.3	metadata	2026-11-23T13:11:35Z	
 0.52.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-macosarm64/0.52.4/drivine-cypher-compiler-macosarm64-0.52.4.jar returned status 404
+0.52.4	metadata	2026-11-23T13:11:35Z	
+0.52.5		2026-11-23T13:11:35Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/drivine/drivine-cypher-compiler-macosarm64/0.52.5/drivine-cypher-compiler-macosarm64-0.52.5.jar returned status 404
+0.52.5	metadata	2026-11-23T13:11:35Z	

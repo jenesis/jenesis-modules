@@ -5377,6 +5377,8 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 10.36.0.15337	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-11-11T10:13:09Z	2.15.0
 10.36.0.15337	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-11-11T10:13:09Z	2.15.0
 4.0.0.CR1	named	io.quarkus	quarkus-grpc-protoc-plugin	2026-11-11T12:30:17Z	2.10
+3.5.10	named	org.apache.spark	spark-connect-client-jvm_2.12	2026-11-13T05:08:46Z	2.10.1
+3.5.10	named	org.apache.spark	spark-connect-client-jvm_2.13	2026-11-13T05:11:45Z	2.10.1
 1.1.0	named	dev.uebelacker.babeli	babeli-cli	2026-11-13T21:40:15Z	2.15.0
 3.1.0	named	org.apache.seatunnel	connector-qdrant	2026-11-14T18:08:51Z	2.10.1
 3.1.0	named	org.apache.seatunnel	connector-graphql	2026-11-14T18:09:42Z	2.10.1
@@ -5394,3 +5396,4 @@ ml-2.1.2	named	io.mapsmessaging	jms_selector_parser	2026-10-18T23:25:42Z	2.14.0
 10.37.0.15768	named	org.sonarsource.dotnet	sonar-csharp-plugin	2026-11-20T09:40:48Z	2.15.0
 10.37.0.15768	named	org.sonarsource.dotnet	sonar-vbnet-plugin	2026-11-20T09:40:48Z	2.15.0
 2.0.9	named	com.conaxgames	clibraries	2026-11-20T16:15:31Z	2.14.0
+1.4.1	named	org.eximeebpms.bpm	eximeebpms-engine	2026-11-23T08:05:41Z	2.14.0
