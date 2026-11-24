@@ -5539,4 +5539,5 @@ v1.5.0	named	com.affinidi.tdk	credential.verification.client	2025-05-20T15:54:08
 0.0.5	named	at.ac.ait.lablink.clients	fmusim	2026-11-18T16:38:04Z	2.13.1
 7.0.13	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-11-19T15:56:01Z	2.22
 9.4.0	named	org.mock-server	mockserver-k8s-webhook	2026-11-20T09:10:20Z	2.23
+0.0.4	named	at.ac.ait.lablink.clients	dpbridge	2026-11-20T13:11:20Z	2.13.1
 1.0.4	named	com.deployagram	deployagram-kafka-interceptors	2026-11-22T22:55:10Z	2.14.2
