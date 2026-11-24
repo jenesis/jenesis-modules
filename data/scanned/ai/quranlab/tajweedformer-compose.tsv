@@ -1,3 +1,7 @@
 3.1.3		2026-11-13T17:40:00Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quranlab/tajweedformer-compose/3.1.3/tajweedformer-compose-3.1.3.jar returned status 404
 3.1.4		2026-11-13T21:26:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quranlab/tajweedformer-compose/3.1.4/tajweedformer-compose-3.1.4.jar returned status 404
 3.1.5		2026-11-14T07:59:42Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quranlab/tajweedformer-compose/3.1.5/tajweedformer-compose-3.1.5.jar returned status 404
+4.0.0		2026-11-23T10:41:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quranlab/tajweedformer-compose/4.0.0/tajweedformer-compose-4.0.0.jar returned status 404
+4.0.1		2026-11-23T10:41:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quranlab/tajweedformer-compose/4.0.1/tajweedformer-compose-4.0.1.jar returned status 404
+4.0.2		2026-11-23T10:41:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quranlab/tajweedformer-compose/4.0.2/tajweedformer-compose-4.0.2.jar returned status 404
+4.0.3		2026-11-23T10:41:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ai/quranlab/tajweedformer-compose/4.0.3/tajweedformer-compose-4.0.3.jar returned status 404
