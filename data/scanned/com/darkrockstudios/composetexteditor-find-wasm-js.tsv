@@ -53,3 +53,5 @@
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-wasm-js/3.2.0/composetexteditor-find-wasm-js-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-wasm-js/3.3.0/composetexteditor-find-wasm-js-3.3.0.jar returned status 404
 3.4.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-wasm-js/3.4.0/composetexteditor-find-wasm-js-3.4.0.jar returned status 404
+3.5.0		2026-11-23T11:39:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-wasm-js/3.5.0/composetexteditor-find-wasm-js-3.5.0.jar returned status 404
+3.5.1		2026-11-23T11:39:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/darkrockstudios/composetexteditor-find-wasm-js/3.5.1/composetexteditor-find-wasm-js-3.5.1.jar returned status 404

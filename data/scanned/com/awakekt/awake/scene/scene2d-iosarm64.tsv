@@ -109,13 +109,19 @@
 0.57.1		2026-11-19T07:33:31Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/scene2d-iosarm64/0.57.1/scene2d-iosarm64-0.57.1.jar returned status 404
 0.57.1	metadata	2026-11-19T07:33:31Z	
 0.57.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/scene2d-iosarm64/0.57.2/scene2d-iosarm64-0.57.2.jar returned status 404
+0.57.2	metadata	2026-11-23T11:34:56Z	
 0.58.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/scene2d-iosarm64/0.58.0/scene2d-iosarm64-0.58.0.jar returned status 404
+0.58.0	metadata	2026-11-23T11:34:57Z	
 0.59.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/scene2d-iosarm64/0.59.0/scene2d-iosarm64-0.59.0.jar returned status 404
+0.59.0	metadata	2026-11-23T11:34:57Z	
 0.6.0		2026-10-09T18:46:27Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/scene2d-iosarm64/0.6.0/scene2d-iosarm64-0.6.0.jar returned status 404
 0.6.0	metadata	2026-10-09T18:46:27Z	
 0.60.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/scene2d-iosarm64/0.60.0/scene2d-iosarm64-0.60.0.jar returned status 404
+0.60.0	metadata	2026-11-23T11:34:57Z	
 0.61.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/scene2d-iosarm64/0.61.0/scene2d-iosarm64-0.61.0.jar returned status 404
+0.61.0	metadata	2026-11-23T11:34:57Z	
 0.62.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/scene2d-iosarm64/0.62.0/scene2d-iosarm64-0.62.0.jar returned status 404
+0.62.0	metadata	2026-11-23T11:34:57Z	
 0.7.1		2026-10-10T10:06:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/scene2d-iosarm64/0.7.1/scene2d-iosarm64-0.7.1.jar returned status 404
 0.7.1	metadata	2026-10-10T10:06:07Z	
 0.8.2		2026-10-10T19:31:19Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/awakekt/awake/scene/scene2d-iosarm64/0.8.2/scene2d-iosarm64-0.8.2.jar returned status 404

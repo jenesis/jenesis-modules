@@ -1,0 +1,4 @@
+1.0.0		2026-11-23T11:28:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/devarsh/ads-beta-test/1.0.0/ads-beta-test-1.0.0.jar returned status 404
+1.0.1		2026-11-23T11:28:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/devarsh/ads-beta-test/1.0.1/ads-beta-test-1.0.1.jar returned status 404
+2.0.0		2026-11-23T11:28:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/devarsh/ads-beta-test/2.0.0/ads-beta-test-2.0.0.jar returned status 404
+2.0.1		2026-11-23T11:28:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/codes/devarsh/ads-beta-test/2.0.1/ads-beta-test-2.0.1.jar returned status 404
