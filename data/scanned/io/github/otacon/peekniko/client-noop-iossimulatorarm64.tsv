@@ -1,0 +1,4 @@
+1.0.0-alpha02		2026-11-23T12:35:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otacon/peekniko/client-noop-iossimulatorarm64/1.0.0-alpha02/client-noop-iossimulatorarm64-1.0.0-alpha02.jar returned status 404
+1.0.0-alpha02	metadata	2026-11-23T12:35:57Z	
+1.0.0-beta01		2026-11-23T12:35:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otacon/peekniko/client-noop-iossimulatorarm64/1.0.0-beta01/client-noop-iossimulatorarm64-1.0.0-beta01.jar returned status 404
+1.0.0-beta01	metadata	2026-11-23T12:35:57Z	

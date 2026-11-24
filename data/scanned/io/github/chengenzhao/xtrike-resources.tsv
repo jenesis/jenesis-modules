@@ -189,6 +189,10 @@
 3.1.5			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
 3.2			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
 3.2.1			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
+3.2.10		2026-11-23T12:27:39Z	InvalidModuleDescriptorException: Unsupported major.minor version 71.0
+3.2.11		2026-11-23T12:27:39Z	InvalidModuleDescriptorException: Unsupported major.minor version 71.0
+3.2.12		2026-11-23T12:27:40Z	InvalidModuleDescriptorException: Unsupported major.minor version 71.0
+3.2.13		2026-11-23T12:27:40Z	InvalidModuleDescriptorException: Unsupported major.minor version 71.0
 3.2.2			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
 3.2.3			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
 3.2.4			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
@@ -196,3 +200,4 @@
 3.2.6			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
 3.2.7			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
 3.2.8			InvalidModuleDescriptorException: Unsupported major.minor version 71.0
+3.2.9		2026-11-23T12:27:42Z	InvalidModuleDescriptorException: Unsupported major.minor version 71.0

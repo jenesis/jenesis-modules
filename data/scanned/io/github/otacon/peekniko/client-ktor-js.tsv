@@ -1,0 +1,2 @@
+1.0.0-alpha02		2026-11-23T12:35:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otacon/peekniko/client-ktor-js/1.0.0-alpha02/client-ktor-js-1.0.0-alpha02.jar returned status 404
+1.0.0-beta01		2026-11-23T12:35:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/otacon/peekniko/client-ktor-js/1.0.0-beta01/client-ktor-js-1.0.0-beta01.jar returned status 404

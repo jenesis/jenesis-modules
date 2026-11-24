@@ -42,3 +42,5 @@
 0.2.3	metadata	2026-10-29T15:27:52Z	
 0.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/compose/mosaic-theme-iossimulatorarm64/0.2.4/mosaic-theme-iossimulatorarm64-0.2.4.jar returned status 404
 0.2.4	metadata	2026-10-30T12:16:54Z	
+0.2.5		2026-11-23T12:34:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/lyxnx/compose/mosaic-theme-iossimulatorarm64/0.2.5/mosaic-theme-iossimulatorarm64-0.2.5.jar returned status 404
+0.2.5	metadata	2026-11-23T12:34:30Z	
