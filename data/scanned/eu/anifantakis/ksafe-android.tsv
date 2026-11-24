@@ -30,3 +30,5 @@
 3.1.0		2026-08-23T22:24:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-android/3.1.0/ksafe-android-3.1.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-android/3.2.0/ksafe-android-3.2.0.jar returned status 404
 3.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-android/3.3.0/ksafe-android-3.3.0.jar returned status 404
+3.3.1		2026-11-23T12:15:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-android/3.3.1/ksafe-android-3.3.1.jar returned status 404
+3.3.2		2026-11-23T12:15:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/eu/anifantakis/ksafe-android/3.3.2/ksafe-android-3.3.2.jar returned status 404

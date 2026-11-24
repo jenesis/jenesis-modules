@@ -1,1 +1,6 @@
+0.11.0		2026-11-23T12:15:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/watchface/wff-apk-wasm-js/0.11.0/wff-apk-wasm-js-0.11.0.jar returned status 404
+0.12.0		2026-11-23T12:15:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/watchface/wff-apk-wasm-js/0.12.0/wff-apk-wasm-js-0.12.0.jar returned status 404
+0.12.1		2026-11-23T12:15:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/watchface/wff-apk-wasm-js/0.12.1/wff-apk-wasm-js-0.12.1.jar returned status 404
 0.4.0		2026-11-19T09:18:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/watchface/wff-apk-wasm-js/0.4.0/wff-apk-wasm-js-0.4.0.jar returned status 404
+0.8.0		2026-11-23T12:15:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/watchface/wff-apk-wasm-js/0.8.0/wff-apk-wasm-js-0.8.0.jar returned status 404
+0.9.0		2026-11-23T12:15:38Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/watchface/wff-apk-wasm-js/0.9.0/wff-apk-wasm-js-0.9.0.jar returned status 404

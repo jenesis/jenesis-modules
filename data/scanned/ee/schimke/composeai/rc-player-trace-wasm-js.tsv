@@ -93,6 +93,7 @@
 2.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-wasm-js/2.5.0/rc-player-trace-wasm-js-2.5.0.jar returned status 404
 2.8.0		2026-10-12T00:01:05Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-wasm-js/2.8.0/rc-player-trace-wasm-js-2.8.0.jar returned status 404
 3.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-wasm-js/3.0.0/rc-player-trace-wasm-js-3.0.0.jar returned status 404
+3.10.0		2026-11-23T12:15:20Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-wasm-js/3.10.0/rc-player-trace-wasm-js-3.10.0.jar returned status 404
 3.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-wasm-js/3.2.0/rc-player-trace-wasm-js-3.2.0.jar returned status 404
 3.7.0		2026-11-19T09:17:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-wasm-js/3.7.0/rc-player-trace-wasm-js-3.7.0.jar returned status 404
 3.8.0		2026-11-19T09:17:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/rc-player-trace-wasm-js/3.8.0/rc-player-trace-wasm-js-3.8.0.jar returned status 404
