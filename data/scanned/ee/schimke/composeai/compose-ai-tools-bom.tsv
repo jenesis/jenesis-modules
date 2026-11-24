@@ -1,5 +1,7 @@
 2.100.0		2026-11-19T09:16:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-ai-tools-bom/2.100.0/compose-ai-tools-bom-2.100.0.jar returned status 404
 2.101.0		2026-11-19T09:16:13Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-ai-tools-bom/2.101.0/compose-ai-tools-bom-2.101.0.jar returned status 404
+2.101.1		2026-11-23T12:14:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-ai-tools-bom/2.101.1/compose-ai-tools-bom-2.101.1.jar returned status 404
+2.103.0		2026-11-23T12:14:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-ai-tools-bom/2.103.0/compose-ai-tools-bom-2.103.0.jar returned status 404
 2.18.1		2026-09-17T05:48:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-ai-tools-bom/2.18.1/compose-ai-tools-bom-2.18.1.jar returned status 404
 2.19.0		2026-09-20T08:21:11Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-ai-tools-bom/2.19.0/compose-ai-tools-bom-2.19.0.jar returned status 404
 2.20.0		2026-09-20T11:56:30Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/ee/schimke/composeai/compose-ai-tools-bom/2.20.0/compose-ai-tools-bom-2.20.0.jar returned status 404

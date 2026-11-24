@@ -45,4 +45,6 @@
 0.5.1		2026-10-17T17:56:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kourier/amqp-client-robust-tvossimulatorarm64/0.5.1/amqp-client-robust-tvossimulatorarm64-0.5.1.jar returned status 404
 0.5.1	metadata	2026-10-17T17:56:11Z	
 0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kourier/amqp-client-robust-tvossimulatorarm64/0.5.2/amqp-client-robust-tvossimulatorarm64-0.5.2.jar returned status 404
+0.5.2	metadata	2026-11-23T12:09:16Z	
 0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/kourier/amqp-client-robust-tvossimulatorarm64/0.5.3/amqp-client-robust-tvossimulatorarm64-0.5.3.jar returned status 404
+0.5.3	metadata	2026-11-23T12:09:16Z	

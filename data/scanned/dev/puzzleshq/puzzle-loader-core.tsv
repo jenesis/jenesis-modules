@@ -90,3 +90,9 @@
 1.4.5-alpha	common	2026-11-14T16:11:49Z	
 1.4.5-alpha	server	2026-11-14T16:11:49Z	
 1.4.6-alpha			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/puzzleshq/puzzle-loader-core/1.4.6-alpha/puzzle-loader-core-1.4.6-alpha.jar returned status 404
+1.4.6-alpha	client	2026-11-23T12:10:08Z	
+1.4.6-alpha	common	2026-11-23T12:10:08Z	
+1.4.6-alpha	server	2026-11-23T12:10:08Z	
+1.4.7-alpha	client	2026-11-23T12:10:08Z	
+1.4.7-alpha	common	2026-11-23T12:10:08Z	
+1.4.7-alpha	server	2026-11-23T12:10:08Z	
