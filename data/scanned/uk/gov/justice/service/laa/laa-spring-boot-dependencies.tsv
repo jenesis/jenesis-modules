@@ -11,3 +11,4 @@
 3.1.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/laa/laa-spring-boot-dependencies/3.1.4/laa-spring-boot-dependencies-3.1.4.jar returned status 404
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/laa/laa-spring-boot-dependencies/4.0.0/laa-spring-boot-dependencies-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/laa/laa-spring-boot-dependencies/4.1.0/laa-spring-boot-dependencies-4.1.0.jar returned status 404
+4.1.1		2026-11-23T13:49:57Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/uk/gov/justice/service/laa/laa-spring-boot-dependencies/4.1.1/laa-spring-boot-dependencies-4.1.1.jar returned status 404

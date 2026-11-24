@@ -10,3 +10,5 @@
 2.202603.0	named	lv.ailab.morphology	webservices	2026-06-16T12:46:14Z	33.5.0-jre
 0.3.8	named	io.github.bdezonia	zorbage-viewer	2026-11-03T08:55:00Z	33.7.1-jre
 3.53.0	named	com.google.cloud	google-cloud-firestore	2026-11-17T16:46:10Z	33.7.2-jre
+7.0.14	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-11-21T02:05:23Z	33.8.0-jre
+7.0.15	named	org.zowe.client.java.sdk	zowe-client-java-sdk	2026-11-23T00:25:22Z	33.8.0-jre

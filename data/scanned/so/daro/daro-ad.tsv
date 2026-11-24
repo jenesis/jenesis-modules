@@ -27,6 +27,7 @@
 26.10.2500-rc.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-ad/26.10.2500-rc.2/daro-ad-26.10.2500-rc.2.jar returned status 404
 26.10.2500-rc.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-ad/26.10.2500-rc.4/daro-ad-26.10.2500-rc.4.jar returned status 404
 26.10.900-rc.1		2026-10-08T23:55:44Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-ad/26.10.900-rc.1/daro-ad-26.10.900-rc.1.jar returned status 404
+26.11.2000		2026-11-23T13:39:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-ad/26.11.2000/daro-ad-26.11.2000.jar returned status 404
 26.9.1700			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-ad/26.9.1700/daro-ad-26.9.1700.jar returned status 404
 26.9.1800			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-ad/26.9.1800/daro-ad-26.9.1800.jar returned status 404
 26.9.2300			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/so/daro/daro-ad/26.9.2300/daro-ad-26.9.2300.jar returned status 404

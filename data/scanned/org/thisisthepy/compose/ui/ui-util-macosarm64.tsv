@@ -8,3 +8,5 @@
 1.11.1-ext.4	metadata	2026-11-19T11:37:24Z	
 1.11.1-ext.5		2026-11-19T11:37:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thisisthepy/compose/ui/ui-util-macosarm64/1.11.1-ext.5/ui-util-macosarm64-1.11.1-ext.5.jar returned status 404
 1.11.1-ext.5	metadata	2026-11-19T11:37:24Z	
+1.11.1-ext.6		2026-11-23T13:34:04Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/thisisthepy/compose/ui/ui-util-macosarm64/1.11.1-ext.6/ui-util-macosarm64-1.11.1-ext.6.jar returned status 404
+1.11.1-ext.6	metadata	2026-11-23T13:34:04Z	

@@ -3,3 +3,4 @@
 1.1.0		2026-11-03T14:55:02Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/quare/loadable-iosarm64/1.1.0/loadable-iosarm64-1.1.0.jar returned status 404
 1.1.0	metadata	2026-11-03T14:55:02Z	
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/software/quare/loadable-iosarm64/1.2.0/loadable-iosarm64-1.2.0.jar returned status 404
+1.2.0	metadata	2026-11-23T13:48:30Z	

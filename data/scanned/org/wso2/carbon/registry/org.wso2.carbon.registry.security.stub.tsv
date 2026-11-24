@@ -6,6 +6,7 @@
 4.10.6			
 4.10.7			
 4.10.8			
+4.10.9		2026-11-23T13:36:57Z	
 4.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/registry/org.wso2.carbon.registry.security.stub/4.4.5/org.wso2.carbon.registry.security.stub-4.4.5.jar returned status 404
 4.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/registry/org.wso2.carbon.registry.security.stub/4.4.6/org.wso2.carbon.registry.security.stub-4.4.6.jar returned status 404
 4.4.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/registry/org.wso2.carbon.registry.security.stub/4.4.7/org.wso2.carbon.registry.security.stub-4.4.7.jar returned status 404
