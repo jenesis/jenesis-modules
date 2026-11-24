@@ -3,4 +3,6 @@
 0.50.0		2026-11-19T09:54:16Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-noads-iosarm64/0.50.0/configuration-noads-iosarm64-0.50.0.jar returned status 404
 0.50.0	metadata	2026-11-19T09:54:16Z	
 0.51.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-noads-iosarm64/0.51.0/configuration-noads-iosarm64-0.51.0.jar returned status 404
+0.51.0	metadata	2026-11-23T12:40:46Z	
 0.51.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/uskhurshed/configuration-noads-iosarm64/0.51.1/configuration-noads-iosarm64-0.51.1.jar returned status 404
+0.51.1	metadata	2026-11-23T12:40:46Z	

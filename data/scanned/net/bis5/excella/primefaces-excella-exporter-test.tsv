@@ -85,4 +85,6 @@
 6.3.0-jakarta		2026-06-10T22:36:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bis5/excella/primefaces-excella-exporter-test/6.3.0-jakarta/primefaces-excella-exporter-test-6.3.0-jakarta.jar returned status 404
 6.3.0-jakarta	bootable	2026-06-10T22:36:06Z	
 6.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bis5/excella/primefaces-excella-exporter-test/6.3.1/primefaces-excella-exporter-test-6.3.1.jar returned status 404
+6.3.1	bootable	2026-11-23T13:00:21Z	
 6.3.1-jakarta			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/net/bis5/excella/primefaces-excella-exporter-test/6.3.1-jakarta/primefaces-excella-exporter-test-6.3.1-jakarta.jar returned status 404
+6.3.1-jakarta	bootable	2026-11-23T13:00:21Z	

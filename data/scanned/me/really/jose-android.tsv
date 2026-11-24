@@ -8,3 +8,4 @@
 0.4.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/jose-android/0.4.6/jose-android-0.4.6.jar returned status 404
 0.5.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/jose-android/0.5.0/jose-android-0.5.0.jar returned status 404
 0.5.1		2026-11-19T10:27:39Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/jose-android/0.5.1/jose-android-0.5.1.jar returned status 404
+0.6.0		2026-11-23T12:59:12Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/me/really/jose-android/0.6.0/jose-android-0.6.0.jar returned status 404

@@ -93,6 +93,7 @@
 0.26.8		2026-11-19T09:50:55Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-adaptive-iossimulatorarm64/0.26.8/domposable-adaptive-iossimulatorarm64-0.26.8.jar returned status 404
 0.26.8	metadata	2026-11-19T09:50:54Z	
 0.27.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-adaptive-iossimulatorarm64/0.27.0/domposable-adaptive-iossimulatorarm64-0.27.0.jar returned status 404
+0.27.0	metadata	2026-11-23T12:37:24Z	
 0.3.0		2026-10-12T15:36:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-adaptive-iossimulatorarm64/0.3.0/domposable-adaptive-iossimulatorarm64-0.3.0.jar returned status 404
 0.3.0	metadata	2026-10-12T15:36:24Z	
 0.4.0		2026-10-13T05:46:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/samuolis/domposable/domposable-adaptive-iossimulatorarm64/0.4.0/domposable-adaptive-iossimulatorarm64-0.4.0.jar returned status 404

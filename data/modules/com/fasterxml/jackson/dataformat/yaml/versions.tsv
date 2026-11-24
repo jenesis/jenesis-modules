@@ -2029,3 +2029,10 @@
 4.13.5	named	net.corda	corda-standalone-shell	2026-11-20T09:56:23Z	2.21.7
 4.14.4	named	net.corda	corda-standalone-shell	2026-11-20T09:56:24Z	2.21.7
 4.13.5	named	net.corda	corda-shell	2026-11-20T09:56:25Z	2.21.7
+0.128.10	named	io.simpleishard	trino-calcite	2026-11-23T00:05:22Z	2.21.5
+0.128.10	named	io.simpleishard	trino-splunk	2026-11-23T00:05:23Z	2.21.5
+0.128.10	named	io.simpleishard	trino-calcite-base	2026-11-23T00:05:25Z	2.21.5
+0.128.10	named	io.simpleishard	trino-servicenow	2026-11-23T00:05:25Z	2.21.5
+0.128.10	named	io.simpleishard	trino-sharepoint	2026-11-23T00:05:25Z	2.21.5
+0.128.10	named	io.simpleishard	trino-salesforce	2026-11-23T00:05:27Z	2.21.5
+0.128.10	named	io.simpleishard	trino-cloudops	2026-11-23T00:06:10Z	2.21.5

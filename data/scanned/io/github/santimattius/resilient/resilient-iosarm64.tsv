@@ -35,3 +35,4 @@
 2.0.1		2026-08-11T22:58:43Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/resilient/resilient-iosarm64/2.0.1/resilient-iosarm64-2.0.1.jar returned status 404
 2.0.1	metadata	2026-08-11T22:58:44Z	
 2.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/santimattius/resilient/resilient-iosarm64/2.1.0/resilient-iosarm64-2.1.0.jar returned status 404
+2.1.0	metadata	2026-11-23T12:39:33Z	

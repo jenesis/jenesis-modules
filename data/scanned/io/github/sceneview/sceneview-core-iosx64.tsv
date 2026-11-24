@@ -219,7 +219,11 @@
 4.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-core-iosx64/4.7.0/sceneview-core-iosx64-4.7.0.jar returned status 404
 4.7.0	metadata	2026-05-16T16:00:02Z	
 4.70.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-core-iosx64/4.70.0/sceneview-core-iosx64-4.70.0.jar returned status 404
+4.70.0	metadata	2026-11-23T12:39:37Z	
 4.71.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-core-iosx64/4.71.0/sceneview-core-iosx64-4.71.0.jar returned status 404
+4.71.0	metadata	2026-11-23T12:39:37Z	
+4.72.0		2026-11-23T12:39:37Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-core-iosx64/4.72.0/sceneview-core-iosx64-4.72.0.jar returned status 404
+4.72.0	metadata	2026-11-23T12:39:37Z	
 4.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-core-iosx64/4.8.0/sceneview-core-iosx64-4.8.0.jar returned status 404
 4.8.0	metadata	2026-05-16T19:43:47Z	
 4.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/sceneview/sceneview-core-iosx64/4.9.0/sceneview-core-iosx64-4.9.0.jar returned status 404
