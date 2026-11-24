@@ -3,10 +3,10 @@
 > ### [Jenesis](https://jenesis.build) - a modern Java build tool
 > _Java-native config, everything the JDK provides built in, with `module-info.java` treated as a feature, not an afterthought._
 
-_Index timestamp: 2026-11-19 13:11:43 UTC_  
-_Current chunk started: 2026-11-23 15:17:54 UTC_  
+_Index timestamp: 2026-11-23 14:53:28 UTC_  
+_Current chunk started: 2026-11-24 09:45:20 UTC_  
 _Index chain id: `1318453614498`_  
-_Last applied index chunk: 943_  
+_Last applied index chunk: 944_  
 
 ## Top artifacts by year
 
@@ -20,23 +20,23 @@ Catalogue-wide counts. Unless a section is explicitly labelled as "audit" or "hi
 
 | Metric | Value |
 |---|---:|
-| Total artifacts scanned | 19 477 388 |
-| Non-module artifacts | 17 337 581 |
-| Modular artifacts | 1 772 652 |
-| Total automatic modules | 1 378 911 |
-| Total named modules | 393 741 |
-| Total named modules with module-info version | 298 232 |
-| Distinct Maven artifacts | 727 746 |
-| Distinct module names | 46 105 |
-| Distinct automatic modules | 24 556 |
-| Distinct named modules | 19 933 |
-| Distinct named modules with module-info version | 14 662 |
-| Distinct groupIds publishing modules | 6 156 |
-| Most recent tracked publication | 2026-11-19 06:00:10 UTC |
+| Total artifacts scanned | 19 510 285 |
+| Non-module artifacts | 17 369 678 |
+| Modular artifacts | 1 778 051 |
+| Total automatic modules | 1 383 678 |
+| Total named modules | 394 373 |
+| Total named modules with module-info version | 298 670 |
+| Distinct Maven artifacts | 731 768 |
+| Distinct module names | 46 251 |
+| Distinct automatic modules | 24 667 |
+| Distinct named modules | 20 002 |
+| Distinct named modules with module-info version | 14 717 |
+| Distinct groupIds publishing modules | 6 203 |
+| Most recent tracked publication | 2026-11-23 10:23:47 UTC |
 
 ## Resolved catalogue size
 
-Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **380 413** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
+Across every `modules[-classifier].tsv` under `data/modules/`, the resolved view holds **381 042** distinct module-version rows. Each row is one (module name, classifier, `module-info` version) combination that survived owner resolution; rows whose `module-info` version contradicts the Maven version are excluded by the resolution policy.
 
 Of those, **248** rows (56 distinct values) carry a version key that is not a valid `ModuleDescriptor.Version` - it does not begin with a digit (e.g. a leading `v`, `r`, or `master-`, or stray strings like `@version@`). Such modules still load fine on the module path: a module version is optional metadata that resolution never uses, so the JVM keeps the string as `rawVersion()` and leaves the parsed `version()` empty rather than refusing the module.
 
@@ -50,8 +50,8 @@ Named vs automatic counts. Distinct-module counts use the **latest** version's t
 
 | Type | Distinct modules | Published rows |
 |---|---:|---:|
-| Named | 19 933 | 393 740 |
-| Automatic | 24 556 | 1 378 911 |
+| Named | 20 002 | 394 372 |
+| Automatic | 24 667 | 1 383 678 |
 
 ## Classifiers
 
@@ -59,10 +59,10 @@ A classifier-keyed JAR (e.g. `-jakarta`, `-jdk8`, `-jar-with-dependencies`) that
 
 | Metric | Value |
 |---|---:|
-| Distinct classifiers | 218 |
-| Modules with at least one classifier variant | 2 206 |
-| Classifier variant files (`versions-<classifier>.tsv`) | 4 690 |
-| Classifier-keyed resolved module-version rows | 25 052 |
+| Distinct classifiers | 219 |
+| Modules with at least one classifier variant | 2 211 |
+| Classifier variant files (`versions-<classifier>.tsv`) | 4 699 |
+| Classifier-keyed resolved module-version rows | 25 057 |
 
 Top classifiers by resolved module-version rows:
 
@@ -82,7 +82,7 @@ Top classifiers by resolved module-version rows:
 | `ios` | 640 |
 | `linux-aarch64` | 623 |
 | `desktop` | 621 |
-| `jar-with-dependencies` | 609 |
+| `jar-with-dependencies` | 610 |
 
 ## `module-info` version field across named publications
 
@@ -92,25 +92,25 @@ Counts canonical **named publications** (one count per published JAR, not per di
 
 | Publication category | Publications |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 292 484 |
-| `module-info` version is non-empty but differs from the Maven coordinate version | 5 748 |
-| `module-info` declared no version (Maven coordinate version is the only reference) | 62 868 |
+| `module-info` version matches the Maven coordinate version | 292 919 |
+| `module-info` version is non-empty but differs from the Maven coordinate version | 5 751 |
+| `module-info` declared no version (Maven coordinate version is the only reference) | 63 057 |
 
 Same breakdown but counted once per **canonical module**, against the latest named row in its no-classifier resolved view (the row a consumer fetching the "latest" of a module would land on). Modules whose latest row is automatic are excluded.
 
 | Module category (by latest canonical named row) | Modules |
 |---|---:|
-| `module-info` version matches the Maven coordinate version | 12 886 |
+| `module-info` version matches the Maven coordinate version | 12 940 |
 | `module-info` version is non-empty but differs from the Maven coordinate version | 221 |
-| `module-info` declared no version (Maven coordinate version is the only reference) | 4 687 |
+| `module-info` declared no version (Maven coordinate version is the only reference) | 4 701 |
 
 Each row describes what the **version-mismatch filter** (drop every named row whose `module-info` version semantically contradicts its Maven coordinate version) leaves behind in the module's `modules.tsv`, counted once per **canonical module** (no-classifier view). Modules with no canonical named row are out of scope. The first row is the in-scope total; rows two through four are mutually exclusive and sum to it; the fifth row overlaps with rows three and four (it's the subset whose head-of-`modules.tsv` is the one the filter removes).
 
 | Module version filtering impact | Module names |
 |---|---:|
-| Canonical modules with at least one named row (in scope) | 17 945 |
-| Filter keeps every named row: `modules.tsv` is unchanged | 17 301 |
-| Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 532 |
+| Canonical modules with at least one named row (in scope) | 18 013 |
+| Filter keeps every named row: `modules.tsv` is unchanged | 17 368 |
+| Filter drops some named rows but at least one survives: `modules.tsv` shrinks | 533 |
 | Filter drops every named row: `modules.tsv` is removed entirely | 112 |
 | Filter drops the module's current top row: "latest" shifts to an older Maven version (or vanishes if fully lost) | 221 |
 
@@ -120,7 +120,7 @@ Breaks down the publications whose `module-info` version differs from the Maven 
 
 | Pattern | Rows | Share |
 |---|---:|---:|
-| Module = Maven + `-SNAPSHOT` (release that forgot to drop SNAPSHOT) | 3 211 | 55.9% |
+| Module = Maven + `-SNAPSHOT` (release that forgot to drop SNAPSHOT) | 3 212 | 55.9% |
 | Module = Maven + `-<other suffix>` (build label, patch tag) | 19 | 0.3% |
 | Maven = Module + `-<suffix>` (repackager appended a coordinate suffix) | 176 | 3.1% |
 | Module = Maven + `.<segment>` (extra dot-segment in module-info) | 4 | 0.1% |
@@ -129,7 +129,7 @@ Breaks down the publications whose `module-info` version differs from the Maven 
 | Maven = Module + `+<metadata>` (build metadata in coordinate) | 0 | 0.0% |
 | Unresolved `${...}` placeholder in either version | 19 | 0.3% |
 | Different major segment (likely shaded/bundled artifact) | 507 | 8.8% |
-| Substantively different (same major, different version) | 1 789 | 31.1% |
+| Substantively different (same major, different version) | 1 791 | 31.1% |
 
 ## Type transitions
 
@@ -137,7 +137,7 @@ Modules that have switched between named and automatic over their history. A mod
 
 | Direction | Modules |
 |---|---:|
-| Automatic → Named | 1 638 |
+| Automatic → Named | 1 639 |
 | Named → Automatic | 152 |
 
 ## Recent activity (last 7 days)
@@ -146,9 +146,9 @@ Activity in the 7-day window ending at the **most recent tracked publication** (
 
 | Metric | Total | Named | Automatic |
 |---|---:|---:|---:|
-| Modules with a publication | 3 462 | 1 267 | 2 195 |
-| New version rows | 5 422 | 1 887 | 3 535 |
-| Non-modular artifacts | 24 803 | - | - |
+| Modules with a publication | 5 636 | 1 681 | 3 955 |
+| New version rows | 10 673 | 2 502 | 8 171 |
+| Non-modular artifacts | 31 326 | - | - |
 
 ## Monthly publications by type (last 12 months)
 
@@ -167,7 +167,7 @@ Per-month counts of **distinct entities** that published in the month. `Named`/`
 | 2026-08 | `█`&nbsp;4 173 (5.4%) | `▓▓`&nbsp;6 688 (8.6%) | `░░░░░░░░░░░░░░░░░░░░░░`&nbsp;66 733 (86.0%) |
 | 2026-09 | `█`&nbsp;3 866 (10.6%) | `▓▓`&nbsp;6 679 (18.4%) | `░░░░░░░░`&nbsp;25 827 (71.0%) |
 | 2026-10 | `█`&nbsp;4 275 (10.2%) | `▓▓▓`&nbsp;7 940 (18.9%) | `░░░░░░░░░░`&nbsp;29 725 (70.9%) |
-| 2026-11 | `█`&nbsp;3 271 (7.6%) | `▓▓`&nbsp;5 343 (12.4%) | `░░░░░░░░░░░`&nbsp;34 366 (80.0%) |
+| 2026-11 | `█`&nbsp;3 563 (7.0%) | `▓▓`&nbsp;6 428 (12.6%) | `░░░░░░░░░░░░░`&nbsp;40 858 (80.4%) |
 
 ## Naming patterns
 
@@ -175,7 +175,7 @@ How module names relate to their publishing groupId. "Competing groupIds" counts
 
 | Pattern | Modules |
 |---|---:|
-| Multiple competing groupIds in audit history | 4 413 |
+| Multiple competing groupIds in audit history | 4 426 |
 
 ### Leading dot-segments shared with the owning groupId
 
@@ -183,11 +183,11 @@ For each canonical (no-classifier) module that resolved to an owner (implicit or
 
 | Shared leading dot-segments | Canonical modules |
 |---:|---:|
-| 0 | 9 450 |
-| 1 | 1 304 |
-| 2 | 13 303 |
-| 3 | 14 328 |
-| 4 | 2 558 |
+| 0 | 9 463 |
+| 1 | 1 314 |
+| 2 | 13 377 |
+| 3 | 14 402 |
+| 4 | 2 560 |
 | 5 | 371 |
 | 6 | 50 |
 | 7 | - |
@@ -201,9 +201,9 @@ Recorded permanent failures across every scanned coordinate. Variable bits of we
 
 | Metric | Value |
 |---|---:|
-| Total failed coordinates | 4 182 892 |
-| Incorrectly indexed (mis-stamped 404s) | 4 179 265 |
-| Genuine artifact errors | 3 627 |
+| Total failed coordinates | 4 205 467 |
+| Incorrectly indexed (mis-stamped 404s) | 4 201 760 |
+| Genuine artifact errors | 3 707 |
 
 ### Top 25 genuine error messages
 
@@ -211,7 +211,7 @@ Excludes the mis-stamped-404 class broken out above, so the genuine artifact err
 
 | Error message | Count |
 |---|---:|
-| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 1 395 |
+| `InvalidModuleDescriptorException: Unsupported major.minor version <VERSION>` | 1 475 |
 | `IllegalArgumentException: End of central directory record not found in supplied tail buffer` | 594 |
 | `InvalidModuleDescriptorException: Package <PACKAGE> missing from ModulePackages class file attribute` | 542 |
 | `IllegalArgumentException: Illegal character in path at index <INDEX>: <PATH>` | 330 |
@@ -241,7 +241,7 @@ Modules with the longest release history. Counts come from the main (no-classifi
 
 | Module | Versions |
 |---|---:|
-| `software.amazon.awssdk.* (524 modules)` | [1, 1 874] |
+| `software.amazon.awssdk.* (529 modules)` | [1, 1 877] |
 | `org.scala.lang.scala3.* (12 modules)` | [15, 1 252] |
 | `com.graphqljava` | 1 237 |
 | `org.scala.lang.* (excl. scala3) (4 modules)` | [354, 1 216] |
@@ -265,7 +265,7 @@ Modules with the longest release history. Counts come from the main (no-classifi
 | `jakarta.enterprise.* (2 modules)` | 437 |
 | `jaxen` | 433 |
 | `primefaces` | 415 |
-| `org.hibernate.orm.c3p0` | 411 |
+| `org.hibernate.orm.c3p0` | 413 |
 
 ## Top 25 groupIds by module count
 
@@ -274,7 +274,7 @@ GroupIds that publish the most distinct module names, sorted by module count. Ea
 | groupId | Modules published |
 |---|---:|
 | `org.bytedeco` | 678 |
-| `software.amazon.awssdk` | 527 |
+| `software.amazon.awssdk` | 532 |
 | `org.lwjgl` | 505 |
 | `org.apereo.cas` | 493 |
 | `dev.oblivruin.fjgl` | 413 |
@@ -289,7 +289,7 @@ GroupIds that publish the most distinct module names, sorted by module count. Ea
 | `io.micronaut.oraclecloud` | 216 |
 | `com.gitee.zodiacstack` | 211 |
 | `com.blazebit` | 209 |
-| `io.github.bluetape4k` | 197 |
+| `io.github.bluetape4k` | 201 |
 | `com.aoapps` | 189 |
 | `io.netty` | 186 |
 | `org.drools` | 185 |
@@ -305,7 +305,7 @@ Module names that have been published under the most different groupIds across h
 
 | Module | Distinct groupIds |
 |---|---:|
-| `com.google.gson` | 315 |
+| `com.google.gson` | 316 |
 | `com.fasterxml.jackson.databind` | 282 |
 | `com.fasterxml.jackson.core` | 242 |
 | `com.fasterxml.jackson.annotation [-jar-with-dependencies]` | 232 |
@@ -326,7 +326,7 @@ Module names that have been published under the most different groupIds across h
 | `com.fasterxml.jackson.core [-jar-with-dependencies]` | 76 |
 | `org.apache.commons.lang3` | 76 |
 | `com.google.gson [-all]` | 72 |
-| `io.netty.internal.tcnative` | 70 |
+| `io.netty.internal.tcnative` | 71 |
 | `org.apache.commons.io` | 70 |
 | `org.yaml.snakeyaml` | 70 |
 | `com.fasterxml.jackson.module.jaxb` | 67 |
@@ -337,31 +337,31 @@ Modules whose most recent publication landed in the 7-day window ending at the m
 
 | Module | Last publication |
 |---|---|
-| `org.tectonicus.jnbt` | 2026-11-19 06:00:10 UTC |
-| `com.netflix.tools.cli` | 2026-11-19 05:54:52 UTC |
-| `com.netflix.tools.cli.test` | 2026-11-19 05:54:52 UTC |
-| `com.netflix.tools.ja` | 2026-11-19 05:54:52 UTC |
-| `com.netflix.tools.ja.test` | 2026-11-19 05:54:52 UTC |
-| `com.netflix.tools.jmh` | 2026-11-19 05:54:52 UTC |
-| `com.netflix.tools.json` | 2026-11-19 05:54:52 UTC |
-| `com.netflix.tools.json.test` | 2026-11-19 05:54:52 UTC |
-| `com.netflix.tools.launcher` | 2026-11-19 05:54:52 UTC |
-| `com.netflix.tools.launcher.test` | 2026-11-19 05:54:52 UTC |
-| `com.netflix.tools.jist` | 2026-11-19 05:35:57 UTC |
-| `com.netflix.tools.jist.test` | 2026-11-19 05:35:57 UTC |
-| `io.github.openlogiclab.kafkapipeline` | 2026-11-19 05:35:57 UTC |
-| `com.stripe` | 2026-11-19 04:20:12 UTC |
-| `org.chdb.runtime.linux.x86_64` | 2026-11-19 04:04:57 UTC |
-| `org.chdb.runtime.macos.aarch64` | 2026-11-19 04:04:57 UTC |
-| `org.chdb.runtime.macos.x86_64` | 2026-11-19 04:04:57 UTC |
-| `org.chdb.runtime.linux.aarch64` | 2026-11-19 04:04:56 UTC |
-| `org.chdb.arrow` | 2026-11-19 04:04:53 UTC |
-| `org.chdb.jdbc` | 2026-11-19 04:04:53 UTC |
-| `com.microsoft.playwright.driver.bundle` | 2026-11-19 03:55:28 UTC |
-| `com.microsoft.playwright` | 2026-11-19 03:55:25 UTC |
-| `com.microsoft.playwright.driver` | 2026-11-19 03:55:25 UTC |
-| `com.linecorp.armeria` | 2026-11-19 03:36:18 UTC |
-| `com.linecorp.armeria.xds.api` | 2026-11-19 03:36:18 UTC |
+| `com.apify.client` | 2026-11-23 10:23:47 UTC |
+| `org.cryptomator.cryptofs` | 2026-11-23 10:23:47 UTC |
+| `com.auth0.java` | 2026-11-23 09:51:02 UTC |
+| `io.github.oberhoff.distributedcaffeine` | 2026-11-23 09:51:01 UTC |
+| `org.neo4j.spec.graph` | 2026-11-23 09:46:33 UTC |
+| `com.udondan.iamFloyd` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.devtools_latest` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.devtools_v156` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.devtools_v157` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.devtools_v158` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.firefox_driver` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.grid` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.http` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.ie_driver` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.java` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.json` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.manager` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.node_kubernetes` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.os` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.remote_driver` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.safari_driver` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.session_map_jdbc` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.session_map_redis` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.support` | 2026-11-23 09:21:07 UTC |
+| `org.seleniumhq.selenium.api` | 2026-11-23 09:21:06 UTC |
 
 ## Top 25 groupIds by average versions per module
 
@@ -369,7 +369,7 @@ Restricted to groupIds publishing at least 3 modules so the average isn't domina
 
 | groupId | Modules | Total versions | Avg versions / module |
 |---|---:|---:|---:|
-| `software.amazon.awssdk` | 527 | 654 440 | 1241.8 |
+| `software.amazon.awssdk` | 532 | 655 918 | 1232.9 |
 | `org.scala-lang` | 19 | 12 748 | 670.9 |
 | `com.graphql-java` | 3 | 1 420 | 473.3 |
 | `io.fluxzero` | 5 | 2 320 | 464.0 |
@@ -390,8 +390,8 @@ Restricted to groupIds publishing at least 3 modules so the average isn't domina
 | `com.jwebmp.core` | 3 | 594 | 198.0 |
 | `io.github.brantunger` | 3 | 593 | 197.7 |
 | `net.serenity-bdd` | 27 | 5 325 | 197.2 |
-| `org.springframework` | 23 | 4 420 | 192.2 |
-| `org.hibernate.orm` | 27 | 4 987 | 184.7 |
+| `org.springframework` | 23 | 4 464 | 194.1 |
+| `org.hibernate.orm` | 27 | 5 023 | 186.0 |
 | `org.apache.tomcat.embed` | 5 | 914 | 182.8 |
 | `com.netflix.spectator` | 27 | 4 878 | 180.7 |
 
