@@ -18,6 +18,12 @@
 0.23.0	metadata	2026-11-06T13:40:17Z	
 0.23.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/asyncapi-macosarm64/0.23.1/asyncapi-macosarm64-0.23.1.jar returned status 404
 0.23.1	metadata	2026-11-06T20:20:15Z	
+0.23.10		2026-11-23T12:07:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/asyncapi-macosarm64/0.23.10/asyncapi-macosarm64-0.23.10.jar returned status 404
+0.23.10	metadata	2026-11-23T12:07:14Z	
+0.23.11		2026-11-23T12:07:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/asyncapi-macosarm64/0.23.11/asyncapi-macosarm64-0.23.11.jar returned status 404
+0.23.11	metadata	2026-11-23T12:07:14Z	
+0.23.12		2026-11-23T12:07:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/asyncapi-macosarm64/0.23.12/asyncapi-macosarm64-0.23.12.jar returned status 404
+0.23.12	metadata	2026-11-23T12:07:14Z	
 0.23.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/asyncapi-macosarm64/0.23.2/asyncapi-macosarm64-0.23.2.jar returned status 404
 0.23.2	metadata	2026-11-09T16:06:54Z	
 0.23.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/asyncapi-macosarm64/0.23.3/asyncapi-macosarm64-0.23.3.jar returned status 404
@@ -32,3 +38,5 @@
 0.23.7	metadata	2026-11-12T16:48:23Z	
 0.23.8		2026-11-19T08:51:28Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/asyncapi-macosarm64/0.23.8/asyncapi-macosarm64-0.23.8.jar returned status 404
 0.23.8	metadata	2026-11-19T08:51:28Z	
+0.23.9		2026-11-23T12:07:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/community/flock/wirespec/converter/asyncapi-macosarm64/0.23.9/asyncapi-macosarm64-0.23.9.jar returned status 404
+0.23.9	metadata	2026-11-23T12:07:14Z	

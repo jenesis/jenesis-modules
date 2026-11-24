@@ -13,7 +13,9 @@
 2.11.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/rtc/clientcore-iosx64/2.11.2/clientcore-iosx64-2.11.2.jar returned status 404
 2.11.2	metadata	2026-11-05T11:59:44Z	
 2.11.2-snapshot.202611201104			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/rtc/clientcore-iosx64/2.11.2-snapshot.202611201104/clientcore-iosx64-2.11.2-snapshot.202611201104.jar returned status 404
+2.11.2-snapshot.202611201104	metadata	2026-11-23T11:59:18Z	
 2.11.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/rtc/clientcore-iosx64/2.11.3/clientcore-iosx64-2.11.3.jar returned status 404
+2.11.3	metadata	2026-11-23T11:59:19Z	
 2.6.1-snapshot.202607280910		2026-07-28T10:19:29Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/rtc/clientcore-iosx64/2.6.1-snapshot.202607280910/clientcore-iosx64-2.6.1-snapshot.202607280910.jar returned status 404
 2.6.1-snapshot.202607280910	metadata	2026-07-28T10:19:28Z	
 2.6.2		2026-08-25T09:40:24Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/vonage/rtc/clientcore-iosx64/2.6.2/clientcore-iosx64-2.6.2.jar returned status 404

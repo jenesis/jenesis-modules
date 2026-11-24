@@ -242,4 +242,7 @@
 2026.11.19.025241-e0bcbfe	named	app.cash.backfila	service	2026-11-19T03:10:37Z	2.0.72.Final
 2026.11.19.044929-0b76220	named	app.cash.backfila	service	2026-11-19T05:11:07Z	2.0.72.Final
 2026.11.19.045346-e14b99b	named	app.cash.backfila	service	2026-11-19T05:14:50Z	2.0.72.Final
+4.0.11	named	com.google.cloud.bigdataoss	gcs-connector	2026-11-20T14:47:57Z	2.0.81.Final
+3.1.23	named	com.google.cloud.bigdataoss	gcs-connector	2026-11-20T16:00:34Z	2.0.81.Final
+3.0.24	named	com.google.cloud.bigdataoss	gcs-connector	2026-11-20T16:45:53Z	2.0.81.Final
 0.9.9	named	de.gwdg.metadataqa	metadata-qa-api	2026-11-23T10:23:50Z	2.0.70.Final
