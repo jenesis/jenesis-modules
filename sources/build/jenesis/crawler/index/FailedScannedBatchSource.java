@@ -14,10 +14,12 @@ import build.jenesis.crawler.store.ScannedStore;
  * {@link ScannedStore} writes: one {@link ScannedEntry} per tab-separated line, with the
  * groupId encoded in the directory path and the artifactId in the filename stem.
  *
- * Since {@code scanned/} doesn't store {@code size} or {@code lastModified}, both default
- * to 0 on the re-emitted {@link Coordinate} (which makes {@code scanOne} skip the small-jar
- * fast path and go straight to the cached-tail strategy - the right behaviour when we
- * don't actually know the JAR size).
+ * Since {@code scanned/} doesn't store {@code size}, it defaults to 0 on the re-emitted
+ * {@link Coordinate} (which makes {@code scanOne} skip the small-jar fast path and go straight
+ * to the cached-tail strategy - the right behaviour when we don't actually know the JAR size).
+ * The row's {@code publishedAt} is carried over as {@code lastModified}, so a retry rewrites
+ * the row with the timestamp it already had instead of blanking it; a row recorded without
+ * one stays at 0.
  */
 public final class FailedScannedBatchSource implements BatchSource {
 
@@ -130,7 +132,7 @@ public final class FailedScannedBatchSource implements BatchSource {
                 } else if (!matchesAny(message, patterns)) {
                     continue;
                 }
-                sink.add(new Coordinate(groupId, artifactId, entry.version(), entry.classifier(), JAR_EXTENSION, 0L, 0L));
+                sink.add(new Coordinate(groupId, artifactId, entry.version(), entry.classifier(), JAR_EXTENSION, 0L, entry.publishedAt()));
             }
         }
     }

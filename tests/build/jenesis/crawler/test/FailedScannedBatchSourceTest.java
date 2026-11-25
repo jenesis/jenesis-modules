@@ -31,6 +31,23 @@ public class FailedScannedBatchSourceTest {
     }
 
     @Test
+    public void retried_coordinate_keeps_the_recorded_publication_timestamp() throws IOException {
+        Path dir = Files.createDirectories(root.resolve("scanned").resolve("com").resolve("example"));
+        Files.writeString(dir.resolve("lib.tsv"), String.join("\n",
+                "1.0\t\t2026-11-19T09:58:53Z\tInvalidModuleDescriptorException: Unsupported major.minor version 71.0",
+                "2.0\t\t\tInvalidModuleDescriptorException: Unsupported major.minor version 71.0"
+        ) + "\n", StandardCharsets.UTF_8);
+
+        FailedScannedBatchSource source = FailedScannedBatchSource.from(root.resolve("scanned"), List.of(), 100);
+
+        assertThat(source.next().coordinates())
+                .extracting(Coordinate::version, Coordinate::lastModified)
+                .containsExactlyInAnyOrder(
+                        org.assertj.core.groups.Tuple.tuple("1.0", Instant.parse("2026-11-19T09:58:53Z").toEpochMilli()),
+                        org.assertj.core.groups.Tuple.tuple("2.0", 0L));
+    }
+
+    @Test
     public void explicit_pattern_bypasses_404_skip() throws IOException {
         Path dir = Files.createDirectories(root.resolve("scanned").resolve("com").resolve("example"));
         Files.writeString(dir.resolve("lib.tsv"),
