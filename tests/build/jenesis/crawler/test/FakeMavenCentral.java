@@ -16,6 +16,7 @@ public final class FakeMavenCentral implements AutoCloseable {
     private final Map<String, byte[]> artifactBodies = new ConcurrentHashMap<>();
     private final Map<String, byte[]> indexBodies = new ConcurrentHashMap<>();
     private volatile byte[] propertiesBody = new byte[0];
+    private volatile String artifactLastModified;
 
     public FakeMavenCentral() throws IOException {
         this.server = HttpServer.create(new InetSocketAddress("127.0.0.1", 0), 0);
@@ -40,6 +41,14 @@ public final class FakeMavenCentral implements AutoCloseable {
 
     public URI artifactBaseUri() {
         return URI.create("http://127.0.0.1:" + port() + "/maven2/");
+    }
+
+    /**
+     * Makes every artifact response carry this {@code Last-Modified} (an RFC 1123 date). Unset,
+     * artifacts are served without one, as before.
+     */
+    public void setArtifactLastModified(String httpDate) {
+        this.artifactLastModified = httpDate;
     }
 
     /**
@@ -121,6 +130,10 @@ public final class FakeMavenCentral implements AutoCloseable {
                 if (body == null) {
                     exchange.sendResponseHeaders(404, -1);
                     return;
+                }
+                String lastModified = artifactLastModified;
+                if (lastModified != null) {
+                    exchange.getResponseHeaders().add("Last-Modified", lastModified);
                 }
                 serveBytes(exchange, body);
                 return;

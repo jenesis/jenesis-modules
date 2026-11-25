@@ -821,7 +821,13 @@ public final class Crawler implements AutoCloseable {
                         } else {
                             nonmodular++;
                         }
-                        scannedStore.markOk(coordinate);
+                        // A coordinate that reached us without a timestamp (the metadata
+                        // reconcile and the failure retry know none) is recorded with the
+                        // storage layer's instead, so the scan record can still be bucketed
+                        // by publish month. One the index did stamp keeps the index value.
+                        scannedStore.markOk(coordinate.lastModified() > 0L || outcome.lastModifiedMillis() <= 0L
+                                ? coordinate
+                                : coordinate.withLastModified(outcome.lastModifiedMillis()));
                     } catch (RuntimeException unexpected) {
                         if (is404(unexpected)) {
                             notFound++;
@@ -963,11 +969,17 @@ public final class Crawler implements AutoCloseable {
      * bucket-landing time for a pre-2019 bulk-imported artifact), probe the configured
      * canonical timestamp source for the upstream {@code Last-Modified}. Runs on the same
      * executor task as the primary scan so the extra HEAD is fanned out, not serialised.
-     * Skips when there's nothing to upgrade (failed scans, non-modular artifacts, already
-     * canonical, no fallback configured, or fallback equals the primary source).
+     * Skips when there's nothing to upgrade (failed scans, already canonical, no fallback
+     * configured, or fallback equals the primary source). A non-modular artifact is skipped
+     * too when the index stamped its coordinate, since its scan record takes the index value;
+     * one that arrived without a timestamp is upgraded, because the storage layer's is then
+     * the only one its scan record will get.
      */
     private ScanOutcome upgradeTimestamp(ScanOutcome outcome) {
-        if (outcome.error() != null || outcome.module().isEmpty() || outcome.lastModifiedCanonical()) {
+        if (outcome.error() != null || outcome.lastModifiedCanonical()) {
+            return outcome;
+        }
+        if (outcome.module().isEmpty() && outcome.coordinate().lastModified() > 0L) {
             return outcome;
         }
         URI fallback = configuration.canonicalTimestampBaseUri();

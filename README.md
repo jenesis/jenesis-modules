@@ -80,7 +80,7 @@ checkpoint frequency, git publishing, rebaselining, canonical timestamps - are t
 top of `Crawl`, which is the reference that cannot go stale.
 
 The [companion programs](https://jenesis.build/modules/crawling/) (`RetryFailed`, `ReconcileMetadata`,
-`LoadCoordinates`, `IndexProbe`, `ModuleSummary`, `Regenerate`, `DriftReport`, `ModuleMaven`) are documented
+`BackfillTimestamps`, `LoadCoordinates`, `IndexProbe`, `ModuleSummary`, `Regenerate`, `DriftReport`, `ModuleMaven`) are documented
 for users; each prints its own usage when run without arguments.
 
 ## The data layout

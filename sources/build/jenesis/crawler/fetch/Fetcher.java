@@ -334,9 +334,11 @@ public final class Fetcher implements AutoCloseable {
      * timestamp we could extract from the response (or {@code 0L} when nothing usable came
      * back); {@code status} is the HTTP status code ({@code 0} when the request never made
      * it that far); {@code error} is a short human-readable string when an exception was
-     * raised (or {@code null} on a normal response, even a 4xx).
+     * raised (or {@code null} on a normal response, even a 4xx). {@code lastModifiedCanonical}
+     * says whether the timestamp is the upstream publish time (see {@link RangedBody}) rather
+     * than a mirror's own {@code Last-Modified}.
      */
-    public record HeadProbe(long lastModifiedMillis, int status, String error) {
+    public record HeadProbe(long lastModifiedMillis, boolean lastModifiedCanonical, int status, String error) {
 
         public boolean ok() {
             return lastModifiedMillis > 0L;
@@ -356,12 +358,13 @@ public final class Fetcher implements AutoCloseable {
             HttpResponse<Void> response = send(request, HttpResponse.BodyHandlers.discarding());
             int status = response.statusCode();
             if (status / 100 != 2) {
-                return new HeadProbe(0L, status, null);
+                return new HeadProbe(0L, false, status, null);
             }
-            long millis = preferredLastModifiedFromHeaders(response.headers()).millis();
-            return new HeadProbe(millis, status, millis > 0L ? null : "no Last-Modified header");
+            LastModified stamp = preferredLastModifiedFromHeaders(response.headers());
+            return new HeadProbe(stamp.millis(), stamp.canonical(), status,
+                    stamp.millis() > 0L ? null : "no Last-Modified header");
         } catch (IOException error) {
-            return new HeadProbe(0L, 0, error.getClass().getSimpleName() + ": " + error.getMessage());
+            return new HeadProbe(0L, false, 0, error.getClass().getSimpleName() + ": " + error.getMessage());
         }
     }
 
