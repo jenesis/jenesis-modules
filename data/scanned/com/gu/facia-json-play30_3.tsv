@@ -114,18 +114,18 @@
 33.0.0-PREVIEW.update-content-api-client.2026-06-16T1351.9338e59a		2026-06-16T13:56:02Z	
 33.0.1		2026-07-06T10:21:04Z	
 33.0.1-PREVIEW.update-content-api-client.2026-07-02T1520.692fbca7		2026-07-02T15:24:31Z	
-34.0.0			
-34.0.0-PREVIEW.gluse-capi-football-comp-preview-release.2026-07-08T1401.a026bb9e			
-34.0.0-PREVIEW.gluse-capi-football-comp-preview-release.2026-07-14T1312.270b4171			
-34.0.0-PREVIEW.gluse-capi-football-comp-preview-release.2026-07-16T1521.06be11fa			
-34.0.1			
-35.0.0			
-35.0.0-PREVIEW.abadd-tests-to-facia-content.2026-07-28T1719.31b4ee5b			
-35.0.0-PREVIEW.introduce-ab-test-model.2026-07-27T1446.b0487e8e			
-35.0.0-PREVIEW.introduce-ab-test-model.2026-07-27T1514.50c64f7a			
-35.0.0-PREVIEW.introduce-ab-test-model.2026-07-28T0818.68e860ad			
-35.0.0-PREVIEW.introduce-ab-test-model.2026-07-29T1454.6787c72d			
-35.0.0-PREVIEW.update-aws-sdk-to-fix-NoClassDefFoundError-on-EndpointResolver.2026-07-29T1423.072fee04			
+34.0.0		2026-07-22T14:20:05Z	
+34.0.0-PREVIEW.gluse-capi-football-comp-preview-release.2026-07-08T1401.a026bb9e		2026-07-08T14:05:16Z	
+34.0.0-PREVIEW.gluse-capi-football-comp-preview-release.2026-07-14T1312.270b4171		2026-07-14T13:16:19Z	
+34.0.0-PREVIEW.gluse-capi-football-comp-preview-release.2026-07-16T1521.06be11fa		2026-07-16T15:25:26Z	
+34.0.1		2026-07-31T11:38:46Z	
+35.0.0		2026-07-31T13:43:20Z	
+35.0.0-PREVIEW.abadd-tests-to-facia-content.2026-07-28T1719.31b4ee5b		2026-07-28T17:23:25Z	
+35.0.0-PREVIEW.introduce-ab-test-model.2026-07-27T1446.b0487e8e		2026-07-27T14:50:05Z	
+35.0.0-PREVIEW.introduce-ab-test-model.2026-07-27T1514.50c64f7a		2026-07-27T15:18:25Z	
+35.0.0-PREVIEW.introduce-ab-test-model.2026-07-28T0818.68e860ad		2026-07-28T08:23:11Z	
+35.0.0-PREVIEW.introduce-ab-test-model.2026-07-29T1454.6787c72d		2026-07-29T14:58:54Z	
+35.0.0-PREVIEW.update-aws-sdk-to-fix-NoClassDefFoundError-on-EndpointResolver.2026-07-29T1423.072fee04		2026-07-29T14:27:28Z	
 36.0.0		2026-08-06T15:33:37Z	
 36.0.0-PREVIEW.introduce-ab-test-model.2026-08-04T1332.1903f97e		2026-08-04T13:37:14Z	
 36.0.0-PREVIEW.rt-update-capi-client.2026-08-05T1215.83c3bc2f		2026-08-05T12:19:23Z	
@@ -133,38 +133,38 @@
 37.0.0-PREVIEW.add-carabiner-to-gitignore.2026-08-10T1011.a4c9633d		2026-08-10T10:15:26Z	
 38.0.0		2026-08-24T14:37:11Z	
 38.0.0-PREVIEW.eiadd-manually-ended-date.2026-08-21T1150.d5613722		2026-08-21T11:54:31Z	
-39.0.0			
-39.0.0-PREVIEW.update-capiversion-to-50-for-customdata.2026-09-02T1232.0ef21c3f			
-40.0.0			
-40.0.0-PREVIEW.adu-event-graphics.2026-09-02T1451.c67f5173			
-40.0.0-PREVIEW.adu-re-revisit-event-graphics.2026-09-04T1140.5fcb1191			
-40.0.0-PREVIEW.glupdate-custom-subnav-model.2026-09-08T2328.04cd90bc			
-40.0.0-PREVIEW.rt-update-capi-client.2026-09-02T1308.ebcd4d47			
-40.0.0-PREVIEW.rt-update-capi-client.2026-09-03T1436.a3ce517f			
-40.0.0-PREVIEW.rt-update-capi-client.2026-09-03T1444.81ea9b9d			
-41.0.0			
-41.0.0-PREVIEW.adu-implement-storage-event-graphic.2026-09-07T1415.a7d87573			
-41.1.0			
-42.0.0			
-42.0.0-PREVIEW.adu-implement-storage-event-graphic.2026-09-11T1245.a99a7586			
-42.0.0-PREVIEW.adu-implement-storage-event-graphic.2026-09-11T1321.8de198e1			
-43.0.0			
-43.0.0-PREVIEW.abbump-dependency.2026-09-23T1057.8179e644			
-43.0.0-PREVIEW.abbump-dependency.2026-09-23T1114.431b077f			
-43.0.0-PREVIEW.glspike-multimedia-atom.2026-09-14T2312.0048b41e			
+39.0.0		2026-09-02T12:46:36Z	
+39.0.0-PREVIEW.update-capiversion-to-50-for-customdata.2026-09-02T1232.0ef21c3f		2026-09-02T12:36:43Z	
+40.0.0		2026-09-07T09:41:57Z	
+40.0.0-PREVIEW.adu-event-graphics.2026-09-02T1451.c67f5173		2026-09-02T14:56:03Z	
+40.0.0-PREVIEW.adu-re-revisit-event-graphics.2026-09-04T1140.5fcb1191		2026-09-04T11:44:52Z	
+40.0.0-PREVIEW.glupdate-custom-subnav-model.2026-09-08T2328.04cd90bc		2026-09-08T23:32:21Z	
+40.0.0-PREVIEW.rt-update-capi-client.2026-09-02T1308.ebcd4d47		2026-09-02T13:12:28Z	
+40.0.0-PREVIEW.rt-update-capi-client.2026-09-03T1436.a3ce517f		2026-09-03T14:40:16Z	
+40.0.0-PREVIEW.rt-update-capi-client.2026-09-03T1444.81ea9b9d		2026-09-03T14:48:08Z	
+41.0.0		2026-09-09T08:21:59Z	
+41.0.0-PREVIEW.adu-implement-storage-event-graphic.2026-09-07T1415.a7d87573		2026-09-07T14:19:56Z	
+41.1.0		2026-09-09T17:20:59Z	
+42.0.0		2026-09-11T14:21:18Z	
+42.0.0-PREVIEW.adu-implement-storage-event-graphic.2026-09-11T1245.a99a7586		2026-09-11T12:54:45Z	
+42.0.0-PREVIEW.adu-implement-storage-event-graphic.2026-09-11T1321.8de198e1		2026-09-11T13:25:32Z	
+43.0.0		2026-09-24T12:01:19Z	
+43.0.0-PREVIEW.abbump-dependency.2026-09-23T1057.8179e644		2026-09-23T11:06:29Z	
+43.0.0-PREVIEW.abbump-dependency.2026-09-23T1114.431b077f		2026-09-23T11:36:40Z	
+43.0.0-PREVIEW.glspike-multimedia-atom.2026-09-14T2312.0048b41e		2026-09-14T23:23:30Z	
 44.0.0		2026-10-12T12:56:17Z	
-44.0.0-PREVIEW.glspike-multimedia-atom.2026-10-14T0921.44c491a9			
-44.0.0-PREVIEW.glspike-multimedia-atom.2026-10-18T1910.1d96b33b			
-45.0.0			
-45.0.0-PREVIEW.abremove-dynamic.2026-10-21T1643.88f7b918			
-46.0.0			
-46.0.0-PREVIEW.glspike-multimedia-atom.2026-10-27T1513.89cee52c			
-46.0.0-PREVIEW.glspike-multimedia-atom.2026-10-28T1207.9b5a6c63			
-47.0.0			
-47.0.0-PREVIEW.ec-bump-capiVersion.2026-10-29T1121.29cbbc55			
-47.0.0-PREVIEW.ec-bump-capiVersion.2026-10-29T1339.1716cc91			
-47.0.1			
-47.1.0			
+44.0.0-PREVIEW.glspike-multimedia-atom.2026-10-14T0921.44c491a9		2026-10-14T09:26:02Z	
+44.0.0-PREVIEW.glspike-multimedia-atom.2026-10-18T1910.1d96b33b		2026-10-18T19:26:20Z	
+45.0.0		2026-10-22T14:25:48Z	
+45.0.0-PREVIEW.abremove-dynamic.2026-10-21T1643.88f7b918		2026-10-21T16:53:53Z	
+46.0.0		2026-10-28T15:22:51Z	
+46.0.0-PREVIEW.glspike-multimedia-atom.2026-10-27T1513.89cee52c		2026-10-27T15:26:42Z	
+46.0.0-PREVIEW.glspike-multimedia-atom.2026-10-28T1207.9b5a6c63		2026-10-28T12:17:30Z	
+47.0.0		2026-10-29T15:32:01Z	
+47.0.0-PREVIEW.ec-bump-capiVersion.2026-10-29T1121.29cbbc55		2026-10-29T11:32:48Z	
+47.0.0-PREVIEW.ec-bump-capiVersion.2026-10-29T1339.1716cc91		2026-10-29T13:47:06Z	
+47.0.1		2026-10-30T12:00:58Z	
+47.1.0		2026-11-05T10:39:48Z	
 47.2.1		2026-11-10T17:19:26Z	
 47.2.2		2026-11-12T09:20:00Z	
 47.2.2-PREVIEW.abremove-flexible-special.2026-11-11T1001.b8e1c850		2026-11-11T10:13:09Z	

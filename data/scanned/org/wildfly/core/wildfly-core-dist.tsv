@@ -1,34 +1,34 @@
 1.0.0.Alpha10		2014-10-20T21:06:49Z	
 1.0.0.Alpha11		2014-11-03T23:13:05Z	
 1.0.0.Alpha12		2014-11-09T23:15:00Z	
-1.0.0.Alpha13			
+1.0.0.Alpha13		2014-11-14T21:23:32Z	
 1.0.0.Alpha14		2014-12-05T23:02:52Z	
 1.0.0.Alpha15		2014-12-23T19:47:02Z	
-1.0.0.Alpha16			
-1.0.0.Alpha17			
-1.0.0.Alpha18			
-1.0.0.Alpha19			
+1.0.0.Alpha16		2015-01-24T00:25:56Z	
+1.0.0.Alpha17		2015-02-09T17:12:33Z	
+1.0.0.Alpha18		2015-02-13T21:23:06Z	
+1.0.0.Alpha19		2015-02-24T02:28:47Z	
 1.0.0.Alpha5		2014-08-20T05:52:22Z	
-1.0.0.Alpha6			
-1.0.0.Alpha7			
+1.0.0.Alpha6		2014-09-12T18:30:31Z	
+1.0.0.Alpha7		2014-09-12T21:32:21Z	
 1.0.0.Alpha8		2014-09-13T15:25:37Z	
 1.0.0.Alpha9		2014-10-08T03:42:00Z	
-1.0.0.Beta1			
+1.0.0.Beta1		2015-03-24T21:01:54Z	
 1.0.0.Beta2		2015-03-25T20:07:46Z	
-1.0.0.Beta3			
-1.0.0.Beta4			
-1.0.0.Beta5			
-1.0.0.Beta6			
-1.0.0.CR1			
-1.0.0.CR2			
-1.0.0.CR3			
-1.0.0.CR4			
-1.0.0.CR5			
-1.0.0.CR6			
-1.0.0.CR7			
-1.0.0.Final			
-1.0.1.Final			
-1.0.2.Final			
+1.0.0.Beta3		2015-03-27T14:57:27Z	
+1.0.0.Beta4		2015-04-10T21:14:50Z	
+1.0.0.Beta5		2015-04-22T03:07:45Z	
+1.0.0.Beta6		2015-04-27T21:49:56Z	
+1.0.0.CR1		2015-05-01T16:02:01Z	
+1.0.0.CR2		2015-05-08T19:41:38Z	
+1.0.0.CR3		2015-05-12T21:23:57Z	
+1.0.0.CR4		2015-05-13T21:46:19Z	
+1.0.0.CR5		2015-05-22T17:51:56Z	
+1.0.0.CR6		2015-06-10T13:55:32Z	
+1.0.0.CR7		2015-06-18T23:03:54Z	
+1.0.0.Final		2015-06-25T21:45:15Z	
+1.0.1.Final		2015-07-17T18:26:01Z	
+1.0.2.Final		2015-10-26T17:42:49Z	
 10.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta1/wildfly-core-dist-10.0.0.Beta1.jar returned status 404
 10.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta2/wildfly-core-dist-10.0.0.Beta2.jar returned status 404
 10.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/10.0.0.Beta3/wildfly-core-dist-10.0.0.Beta3.jar returned status 404
@@ -133,63 +133,63 @@
 19.0.0.Beta9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Beta9/wildfly-core-dist-19.0.0.Beta9.jar returned status 404
 19.0.0.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.0.Final/wildfly-core-dist-19.0.0.Final.jar returned status 404
 19.0.1.Final			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/19.0.1.Final/wildfly-core-dist-19.0.1.Final.jar returned status 404
-2.0.0.Alpha1			
-2.0.0.Alpha10			
-2.0.0.Alpha11			
-2.0.0.Alpha12			
-2.0.0.Alpha13			
-2.0.0.Alpha2			
-2.0.0.Alpha3			
-2.0.0.Alpha4			
-2.0.0.Alpha5			
-2.0.0.Alpha6			
-2.0.0.Alpha7			
-2.0.0.Alpha8			
-2.0.0.Alpha9			
-2.0.0.Beta1			
-2.0.0.Beta2			
-2.0.0.Beta3			
-2.0.0.Beta4			
-2.0.0.Beta5			
-2.0.0.Beta6			
-2.0.0.Beta7			
-2.0.0.CR1			
-2.0.0.CR2			
-2.0.0.CR3			
-2.0.0.CR4			
-2.0.0.CR5			
-2.0.0.CR6			
-2.0.0.CR7			
-2.0.0.CR8			
-2.0.0.CR9			
-2.0.0.Final			
-2.0.1.Final			
-2.0.10.Final			
-2.0.2.Final			
-2.0.3.Final			
-2.0.4.Final			
-2.0.5.CR1			
-2.0.5.Final			
-2.0.6.Final			
-2.0.7.Final			
-2.0.8.Final			
-2.0.9.Final			
-2.1.0.CR1			
-2.1.0.CR2			
-2.1.0.Final			
-2.2.0.CR1			
-2.2.0.CR2			
-2.2.0.CR3			
-2.2.0.CR4			
-2.2.0.CR5			
-2.2.0.CR6			
-2.2.0.CR7			
-2.2.0.CR8			
-2.2.0.CR9			
-2.2.0.Final			
-2.2.1.CR1			
-2.2.1.CR2			
-2.2.1.Final			
+2.0.0.Alpha1		2015-05-16T00:13:27Z	
+2.0.0.Alpha10		2015-07-16T18:29:15Z	
+2.0.0.Alpha11		2015-07-23T22:26:33Z	
+2.0.0.Alpha12		2015-07-30T21:51:48Z	
+2.0.0.Alpha13		2015-08-06T18:47:59Z	
+2.0.0.Alpha2		2015-05-17T22:46:02Z	
+2.0.0.Alpha3		2015-05-28T21:34:17Z	
+2.0.0.Alpha4		2015-06-08T15:48:38Z	
+2.0.0.Alpha5		2015-06-26T23:55:17Z	
+2.0.0.Alpha6		2015-07-05T20:48:25Z	
+2.0.0.Alpha7		2015-07-10T17:31:33Z	
+2.0.0.Alpha8		2015-07-10T18:38:16Z	
+2.0.0.Alpha9		2015-07-11T17:02:28Z	
+2.0.0.Beta1		2015-08-09T16:14:58Z	
+2.0.0.Beta2		2015-08-14T20:48:58Z	
+2.0.0.Beta3		2015-08-21T20:42:56Z	
+2.0.0.Beta4		2015-08-22T23:35:22Z	
+2.0.0.Beta5		2015-08-28T22:53:50Z	
+2.0.0.Beta6		2015-09-04T14:46:44Z	
+2.0.0.Beta7		2015-09-10T23:18:49Z	
+2.0.0.CR1		2015-09-16T02:19:19Z	
+2.0.0.CR2		2015-09-21T20:16:37Z	
+2.0.0.CR3		2015-09-22T00:29:38Z	
+2.0.0.CR4		2015-09-23T02:04:43Z	
+2.0.0.CR5		2015-09-24T23:07:37Z	
+2.0.0.CR6		2015-10-02T15:23:51Z	
+2.0.0.CR7		2015-10-19T18:26:04Z	
+2.0.0.CR8		2015-10-23T18:14:19Z	
+2.0.0.CR9		2015-10-29T03:59:20Z	
+2.0.0.Final		2015-10-30T18:36:44Z	
+2.0.1.Final		2015-11-06T02:55:14Z	
+2.0.10.Final		2016-01-29T05:32:39Z	
+2.0.2.Final		2015-11-19T22:37:48Z	
+2.0.3.Final		2015-11-25T19:06:14Z	
+2.0.4.Final		2015-12-04T18:37:17Z	
+2.0.5.CR1		2015-12-17T00:18:28Z	
+2.0.5.Final		2015-12-23T05:48:36Z	
+2.0.6.Final		2016-01-13T21:53:17Z	
+2.0.7.Final		2016-01-15T03:08:18Z	
+2.0.8.Final		2016-01-28T05:50:15Z	
+2.0.9.Final		2016-01-29T04:04:24Z	
+2.1.0.CR1		2016-02-02T20:40:36Z	
+2.1.0.CR2		2016-02-10T14:21:15Z	
+2.1.0.Final		2016-03-17T19:10:34Z	
+2.2.0.CR1		2016-05-10T19:10:30Z	
+2.2.0.CR2		2016-05-10T22:30:37Z	
+2.2.0.CR3		2016-06-19T20:58:13Z	
+2.2.0.CR4		2016-06-24T23:02:26Z	
+2.2.0.CR5		2016-07-01T03:03:28Z	
+2.2.0.CR6		2016-07-10T19:16:36Z	
+2.2.0.CR7		2016-07-11T01:28:53Z	
+2.2.0.CR8		2016-07-20T19:03:32Z	
+2.2.0.CR9		2016-07-27T20:16:49Z	
+2.2.0.Final		2016-08-03T17:10:55Z	
+2.2.1.CR1		2016-10-29T14:11:13Z	
+2.2.1.CR2		2017-03-04T15:55:53Z	
+2.2.1.Final		2017-03-21T21:42:03Z	
 20.0.0.Beta1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta1/wildfly-core-dist-20.0.0.Beta1.jar returned status 404
 20.0.0.Beta2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta2/wildfly-core-dist-20.0.0.Beta2.jar returned status 404
 20.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/20.0.0.Beta3/wildfly-core-dist-20.0.0.Beta3.jar returned status 404
@@ -269,75 +269,75 @@
 29.0.0.Beta6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/29.0.0.Beta6/wildfly-core-dist-29.0.0.Beta6.jar returned status 404
 29.0.0.Final		2025-08-08T13:54:56Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/29.0.0.Final/wildfly-core-dist-29.0.0.Final.jar returned status 404
 29.0.1.Final		2025-09-03T10:31:01Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/29.0.1.Final/wildfly-core-dist-29.0.1.Final.jar returned status 404
-3.0.0.Alpha1			
-3.0.0.Alpha10			
-3.0.0.Alpha11			
-3.0.0.Alpha12			
-3.0.0.Alpha13			
-3.0.0.Alpha14			
-3.0.0.Alpha15			
-3.0.0.Alpha16			
-3.0.0.Alpha17			
-3.0.0.Alpha18			
-3.0.0.Alpha19			
-3.0.0.Alpha2			
-3.0.0.Alpha20			
-3.0.0.Alpha21			
-3.0.0.Alpha22			
-3.0.0.Alpha23			
-3.0.0.Alpha24			
-3.0.0.Alpha25			
-3.0.0.Alpha3			
-3.0.0.Alpha4			
-3.0.0.Alpha5			
-3.0.0.Alpha6			
-3.0.0.Alpha7			
-3.0.0.Alpha8			
-3.0.0.Alpha9			
-3.0.0.Beta1			
-3.0.0.Beta10			
-3.0.0.Beta11			
-3.0.0.Beta12			
-3.0.0.Beta13			
-3.0.0.Beta14			
-3.0.0.Beta15			
-3.0.0.Beta16			
-3.0.0.Beta17			
-3.0.0.Beta18			
-3.0.0.Beta19			
-3.0.0.Beta2			
-3.0.0.Beta20			
-3.0.0.Beta21			
-3.0.0.Beta22			
-3.0.0.Beta23			
-3.0.0.Beta24			
-3.0.0.Beta25			
-3.0.0.Beta26			
-3.0.0.Beta27			
-3.0.0.Beta28			
-3.0.0.Beta29			
-3.0.0.Beta3			
-3.0.0.Beta30			
-3.0.0.Beta31			
-3.0.0.Beta5			
-3.0.0.Beta6			
-3.0.0.Beta7			
-3.0.0.Beta8			
-3.0.0.Beta9			
-3.0.0.CR1			
-3.0.0.Final			
-3.0.1.Final			
-3.0.10.Final			
-3.0.2.CR1			
-3.0.2.Final			
-3.0.3.Final			
-3.0.4.Final			
-3.0.5.Final			
-3.0.6.Final			
-3.0.7.Final			
-3.0.8.Final			
-3.0.9.Final			
-3.1.0.Final			
+3.0.0.Alpha1		2016-05-20T02:40:35Z	
+3.0.0.Alpha10		2016-10-20T19:51:22Z	
+3.0.0.Alpha11		2016-10-29T17:32:34Z	
+3.0.0.Alpha12		2016-11-09T03:07:44Z	
+3.0.0.Alpha13		2016-11-29T18:22:22Z	
+3.0.0.Alpha14		2016-12-02T02:05:03Z	
+3.0.0.Alpha15		2016-12-09T19:36:30Z	
+3.0.0.Alpha16		2016-12-19T21:55:47Z	
+3.0.0.Alpha17		2017-01-03T17:29:34Z	
+3.0.0.Alpha18		2017-01-16T14:10:15Z	
+3.0.0.Alpha19		2017-01-16T17:15:50Z	
+3.0.0.Alpha2		2016-06-20T01:31:11Z	
+3.0.0.Alpha20		2017-01-24T21:22:30Z	
+3.0.0.Alpha21		2017-01-24T21:23:39Z	
+3.0.0.Alpha22		2017-01-24T21:24:44Z	
+3.0.0.Alpha23		2017-02-05T13:36:46Z	
+3.0.0.Alpha24		2017-02-08T11:55:56Z	
+3.0.0.Alpha25		2017-02-12T14:55:50Z	
+3.0.0.Alpha3		2016-07-01T00:30:33Z	
+3.0.0.Alpha4		2016-07-28T20:55:57Z	
+3.0.0.Alpha5		2016-08-12T23:04:06Z	
+3.0.0.Alpha6		2016-09-01T02:39:29Z	
+3.0.0.Alpha7		2016-09-01T17:01:35Z	
+3.0.0.Alpha8		2016-09-16T23:06:56Z	
+3.0.0.Alpha9		2016-09-29T22:37:21Z	
+3.0.0.Beta1		2017-02-14T20:29:23Z	
+3.0.0.Beta10		2017-03-22T10:19:26Z	
+3.0.0.Beta11		2017-03-24T22:35:57Z	
+3.0.0.Beta12		2017-03-31T10:37:06Z	
+3.0.0.Beta13		2017-04-03T11:15:40Z	
+3.0.0.Beta14		2017-04-07T19:50:55Z	
+3.0.0.Beta15		2017-04-12T16:49:23Z	
+3.0.0.Beta16		2017-04-23T11:30:12Z	
+3.0.0.Beta17		2017-04-27T23:08:47Z	
+3.0.0.Beta18		2017-05-06T02:35:42Z	
+3.0.0.Beta19		2017-05-09T10:23:57Z	
+3.0.0.Beta2		2017-02-15T14:06:26Z	
+3.0.0.Beta20		2017-05-09T23:12:04Z	
+3.0.0.Beta21		2017-05-10T13:08:42Z	
+3.0.0.Beta22		2017-05-18T21:42:55Z	
+3.0.0.Beta23		2017-05-24T20:31:12Z	
+3.0.0.Beta24		2017-06-04T11:36:15Z	
+3.0.0.Beta25		2017-06-07T01:59:32Z	
+3.0.0.Beta26		2017-06-08T19:32:10Z	
+3.0.0.Beta27		2017-06-22T19:45:07Z	
+3.0.0.Beta28		2017-07-03T09:22:28Z	
+3.0.0.Beta29		2017-07-27T01:59:33Z	
+3.0.0.Beta3		2017-02-18T18:43:34Z	
+3.0.0.Beta30		2017-07-28T02:06:04Z	
+3.0.0.Beta31		2017-08-10T20:14:58Z	
+3.0.0.Beta5		2017-02-24T11:41:01Z	
+3.0.0.Beta6		2017-02-28T10:43:31Z	
+3.0.0.Beta7		2017-03-03T22:10:54Z	
+3.0.0.Beta8		2017-03-13T20:06:42Z	
+3.0.0.Beta9		2017-03-14T21:39:35Z	
+3.0.0.CR1		2017-08-20T22:03:37Z	
+3.0.0.Final		2017-08-22T20:35:47Z	
+3.0.1.Final		2017-08-25T22:00:37Z	
+3.0.10.Final		2017-11-03T11:44:07Z	
+3.0.2.CR1		2017-09-09T13:59:42Z	
+3.0.2.Final		2017-09-15T01:59:24Z	
+3.0.3.Final		2017-09-16T12:32:45Z	
+3.0.4.Final		2017-10-02T21:36:47Z	
+3.0.5.Final		2017-10-10T19:59:54Z	
+3.0.6.Final		2017-10-13T17:06:22Z	
+3.0.7.Final		2017-10-20T01:50:39Z	
+3.0.8.Final		2017-10-20T04:00:47Z	
+3.0.9.Final		2017-10-27T21:37:08Z	
+3.1.0.Final		2018-02-12T10:40:25Z	
 30.0.0.Beta1		2025-09-23T17:01:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/30.0.0.Beta1/wildfly-core-dist-30.0.0.Beta1.jar returned status 404
 30.0.0.Beta2		2025-09-23T17:01:10Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/30.0.0.Beta2/wildfly-core-dist-30.0.0.Beta2.jar returned status 404
 30.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/30.0.0.Beta3/wildfly-core-dist-30.0.0.Beta3.jar returned status 404
@@ -381,7 +381,7 @@
 35.0.0.Beta3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/35.0.0.Beta3/wildfly-core-dist-35.0.0.Beta3.jar returned status 404
 4.0.0.Alpha1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha1/wildfly-core-dist-4.0.0.Alpha1.jar returned status 404
 4.0.0.Alpha10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha10/wildfly-core-dist-4.0.0.Alpha10.jar returned status 404
-4.0.0.Alpha2			
+4.0.0.Alpha2		2017-10-29T19:00:38Z	
 4.0.0.Alpha3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha3/wildfly-core-dist-4.0.0.Alpha3.jar returned status 404
 4.0.0.Alpha4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha4/wildfly-core-dist-4.0.0.Alpha4.jar returned status 404
 4.0.0.Alpha5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wildfly/core/wildfly-core-dist/4.0.0.Alpha5/wildfly-core-dist-4.0.0.Alpha5.jar returned status 404

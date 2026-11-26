@@ -1,8 +1,8 @@
 2.0.0		2026-08-10T13:59:05Z	
 2.0.1		2026-08-14T13:45:16Z	
-3.0.0			
-4.0.0			
-5.0.0			
-6.0.0			
-6.1.0			
+3.0.0		2026-08-31T10:25:17Z	
+4.0.0		2026-09-11T14:08:52Z	
+5.0.0		2026-09-27T17:22:05Z	
+6.0.0		2026-10-26T04:32:36Z	
+6.1.0		2026-11-07T09:55:45Z	
 7.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/logging4s/logging4s-cats_3/7.0.0/logging4s-cats_3-7.0.0.jar returned status 404

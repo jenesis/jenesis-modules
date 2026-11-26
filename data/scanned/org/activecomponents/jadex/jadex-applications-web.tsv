@@ -8,11 +8,11 @@
 3.0.0-RC80			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/jadex-applications-web/3.0.0-RC80/jadex-applications-web-3.0.0-RC80.jar returned status 404
 3.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/jadex-applications-web/3.0.1/jadex-applications-web-3.0.1.jar returned status 404
 3.0.102			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/jadex-applications-web/3.0.102/jadex-applications-web-3.0.102.jar returned status 404
-3.0.106			
-3.0.112			
-3.0.113			
-3.0.115			
-3.0.117			
+3.0.106		2018-11-22T10:21:11Z	
+3.0.112		2018-11-27T12:54:57Z	
+3.0.113		2018-12-03T10:18:51Z	
+3.0.115		2019-01-11T13:19:58Z	
+3.0.117		2020-05-10T21:14:19Z	
 3.0.43			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/jadex-applications-web/3.0.43/jadex-applications-web-3.0.43.jar returned status 404
 3.0.69			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/jadex-applications-web/3.0.69/jadex-applications-web-3.0.69.jar returned status 404
 3.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/jadex-applications-web/3.0.7/jadex-applications-web-3.0.7.jar returned status 404
@@ -27,22 +27,22 @@
 3.0.85			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/jadex-applications-web/3.0.85/jadex-applications-web-3.0.85.jar returned status 404
 3.0.86			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/jadex-applications-web/3.0.86/jadex-applications-web-3.0.86.jar returned status 404
 3.0.91			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/activecomponents/jadex/jadex-applications-web/3.0.91/jadex-applications-web-3.0.91.jar returned status 404
-3.0.95			
+3.0.95		2018-06-08T16:56:33Z	
 4.0.241		2021-06-14T17:44:14Z	
 4.0.244		2021-06-24T14:39:13Z	
-4.0.249			
-4.0.250			
-4.0.252			
-4.0.254			
-4.0.255			
-4.0.256			
-4.0.257			
-4.0.258			
-4.0.260			
-4.0.261			
-4.0.262			
-4.0.263			
-4.0.264			
-4.0.265			
-4.0.266			
-4.0.267			
+4.0.249		2021-09-03T07:44:49Z	
+4.0.250		2021-10-21T16:13:31Z	
+4.0.252		2022-02-25T09:12:55Z	
+4.0.254		2022-03-15T17:55:03Z	
+4.0.255		2022-03-17T17:33:30Z	
+4.0.256		2022-03-18T12:36:03Z	
+4.0.257		2022-03-18T14:43:40Z	
+4.0.258		2022-03-18T15:25:33Z	
+4.0.260		2022-03-21T16:31:04Z	
+4.0.261		2022-03-21T16:58:55Z	
+4.0.262		2022-03-21T18:48:32Z	
+4.0.263		2022-03-22T14:48:38Z	
+4.0.264		2022-03-24T15:44:01Z	
+4.0.265		2022-03-25T09:20:47Z	
+4.0.266		2022-08-28T10:17:02Z	
+4.0.267		2022-09-08T10:41:54Z	

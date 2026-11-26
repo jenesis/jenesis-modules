@@ -129,11 +129,11 @@
 6.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-undertow/6.1.0/cas-server-webapp-undertow-6.1.0.jar returned status 404
 6.1.0-RC1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-undertow/6.1.0-RC1/cas-server-webapp-undertow-6.1.0-RC1.jar returned status 404
 6.1.0-RC1	resources	2019-02-04T23:31:39Z	
-6.1.0-RC2			
+6.1.0-RC2		2019-03-04T21:43:38Z	
 6.1.0-RC2	resources	2019-03-04T21:43:40Z	
-6.1.0-RC3			
+6.1.0-RC3		2019-04-29T10:21:35Z	
 6.1.0-RC3	resources	2019-04-29T10:21:51Z	
-6.1.0-RC4			
+6.1.0-RC4		2019-06-07T19:09:27Z	
 6.1.0-RC4	resources	2019-06-07T19:09:28Z	
 6.1.0-RC5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-undertow/6.1.0-RC5/cas-server-webapp-undertow-6.1.0-RC5.jar returned status 404
 6.1.0-RC6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apereo/cas/cas-server-webapp-undertow/6.1.0-RC6/cas-server-webapp-undertow-6.1.0-RC6.jar returned status 404

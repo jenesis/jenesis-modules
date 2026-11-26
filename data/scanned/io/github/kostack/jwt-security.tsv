@@ -14,7 +14,7 @@
 1.0.3	plain	2026-08-14T09:40:23Z	
 1.0.3	test-fixtures	2026-08-14T09:40:23Z	
 1.0.3	test-fixtures-sources	2026-08-14T09:40:23Z	
-2.0.0			
+2.0.0		2026-11-12T16:44:20Z	
 2.0.0-beta-1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/github/kostack/jwt-security/2.0.0-beta-1/jwt-security-2.0.0-beta-1.jar returned status 404
 2.0.0-beta-1	plain	2026-11-03T14:05:00Z	
 2.0.0-beta-1	test-fixtures	2026-11-03T14:05:00Z	
@@ -47,4 +47,4 @@
 2.0.0-beta-8	plain	2026-11-09T08:29:48Z	
 2.0.0-beta-8	test-fixtures	2026-11-09T08:29:48Z	
 2.0.0-beta-8	test-fixtures-sources	2026-11-09T08:29:48Z	
-2.0.1			
+2.0.1		2026-11-12T18:55:17Z	

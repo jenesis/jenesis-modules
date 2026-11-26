@@ -22,6 +22,6 @@
 1.48-4569cea	v48	2024-01-24T10:46:31Z	
 1.49-f01d2d9		2024-02-06T14:55:28Z	
 1.49-f01d2d9	v49	2024-02-06T14:55:27Z	
-1.51-9d1df16			
+1.51-9d1df16		2026-11-20T14:10:05Z	
 1.51-9d1df16	v51	2026-11-23T12:10:24Z	
 SNAPSHOT			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/dev/vality/file-storage-proto/SNAPSHOT/file-storage-proto-SNAPSHOT.jar returned status 404

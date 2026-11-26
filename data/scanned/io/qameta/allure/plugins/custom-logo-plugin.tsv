@@ -1,18 +1,18 @@
-2.10.0			
-2.11.0			
-2.12.0			
-2.12.1			
-2.13.0			
-2.13.1			
+2.10.0		2019-02-16T17:07:47Z	
+2.11.0		2019-05-02T10:36:20Z	
+2.12.0		2019-05-20T20:07:38Z	
+2.12.1		2019-05-25T18:17:13Z	
+2.13.0		2019-09-08T17:27:56Z	
+2.13.1		2019-12-16T12:55:59Z	
 2.13.10		2021-05-10T20:09:33Z	
-2.13.2			
-2.13.3			
-2.13.4			
-2.13.5			
-2.13.6			
-2.13.7			
-2.13.8			
-2.13.9			
+2.13.2		2020-02-24T19:09:19Z	
+2.13.3		2020-04-21T14:06:34Z	
+2.13.4		2020-06-19T09:44:46Z	
+2.13.5		2020-07-07T11:53:39Z	
+2.13.6		2020-09-30T15:33:01Z	
+2.13.7		2020-11-24T20:45:12Z	
+2.13.8		2020-12-16T19:12:16Z	
+2.13.9		2021-03-30T12:05:55Z	
 2.14.0		2021-05-19T11:33:07Z	
 2.15.0		2021-09-14T13:52:57Z	
 2.16.0		2021-10-28T13:14:06Z	
@@ -61,11 +61,11 @@
 2.42.1		2026-06-08T09:53:07Z	
 2.43.0		2026-06-16T12:11:37Z	
 2.44.0		2026-07-01T14:23:40Z	
-2.44.1			
-2.45.0			
+2.44.1		2026-07-28T16:40:20Z	
+2.45.0		2026-08-06T12:50:50Z	
 2.46.0		2026-08-28T11:24:29Z	
-2.46.1			
-2.46.2			
+2.46.1		2026-09-03T14:47:18Z	
+2.46.2		2026-11-10T16:12:40Z	
 2.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qameta/allure/plugins/custom-logo-plugin/2.8.0/custom-logo-plugin-2.8.0.jar returned status 404
 2.8.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qameta/allure/plugins/custom-logo-plugin/2.8.1/custom-logo-plugin-2.8.1.jar returned status 404
 2.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/qameta/allure/plugins/custom-logo-plugin/2.9.0/custom-logo-plugin-2.9.0.jar returned status 404

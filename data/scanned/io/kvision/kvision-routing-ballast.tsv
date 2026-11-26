@@ -1,4 +1,4 @@
-10.0.0-RC			
+10.0.0-RC		2026-11-15T13:16:07Z	
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-routing-ballast/6.0.0/kvision-routing-ballast-6.0.0.jar returned status 404
 6.0.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-routing-ballast/6.0.1/kvision-routing-ballast-6.0.1.jar returned status 404
 6.0.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/io/kvision/kvision-routing-ballast/6.0.2/kvision-routing-ballast-6.0.2.jar returned status 404
@@ -53,6 +53,6 @@
 9.4.0		2026-02-22T15:18:13Z	
 9.5.0		2026-03-28T16:04:28Z	
 9.6.0		2026-06-11T07:02:07Z	
-9.7.0			
+9.7.0		2026-09-13T17:01:01Z	
 9.7.0-RC		2026-08-17T12:30:35Z	
 9.7.0-RC2		2026-08-19T17:56:56Z	

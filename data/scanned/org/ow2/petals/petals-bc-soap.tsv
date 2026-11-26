@@ -19,23 +19,23 @@
 4.0.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-soap/4.0.6/petals-bc-soap-4.0.6.jar returned status 404
 4.0.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-soap/4.0.7/petals-bc-soap-4.0.7.jar returned status 404
 4.0.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-bc-soap/4.0.8/petals-bc-soap-4.0.8.jar returned status 404
-4.3.0			
-4.3.1			
-4.3.2			
-4.3.3			
-4.3.4			
-4.3.5			
-4.3.6			
-4.4.0			
-4.4.1			
-4.4.2			
-4.4.3			
-4.4.4			
-5.0.0			
+4.3.0		2013-09-23T09:58:27Z	
+4.3.1		2014-07-29T17:00:51Z	
+4.3.2		2014-08-25T09:19:04Z	
+4.3.3		2015-05-21T07:18:28Z	
+4.3.4		2015-08-07T08:39:13Z	
+4.3.5		2015-09-07T13:13:34Z	
+4.3.6		2016-09-16T14:28:14Z	
+4.4.0		2015-09-30T08:20:48Z	
+4.4.1		2016-05-19T07:07:18Z	
+4.4.2		2016-09-20T13:52:10Z	
+4.4.3		2018-01-03T11:31:00Z	
+4.4.4		2018-02-15T13:47:13Z	
+5.0.0		2018-07-25T15:41:51Z	
 5.0.0	test-javadoc	2018-07-25T15:42:41Z	
-5.0.1			
+5.0.1		2020-03-04T08:20:05Z	
 5.0.1	test-javadoc	2020-03-04T08:25:19Z	
-5.1.0			
+5.1.0		2023-04-11T12:22:22Z	
 5.1.0	test-javadoc	2023-04-11T12:22:23Z	
-5.2.0			
+5.2.0		2026-02-27T09:50:39Z	
 5.2.0	test-javadoc	2026-02-27T09:50:39Z	

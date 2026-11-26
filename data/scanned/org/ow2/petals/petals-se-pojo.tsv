@@ -12,14 +12,14 @@
 2.2.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-se-pojo/2.2.4/petals-se-pojo-2.2.4.jar returned status 404
 2.2.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-se-pojo/2.2.5/petals-se-pojo-2.2.5.jar returned status 404
 2.2.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/ow2/petals/petals-se-pojo/2.2.6/petals-se-pojo-2.2.6.jar returned status 404
-2.3.0			
-2.4.0			
-2.4.1			
-2.5.0			
-2.5.1			
-2.6.0			
+2.3.0		2013-09-23T13:19:31Z	
+2.4.0		2016-05-19T08:01:43Z	
+2.4.1		2016-09-21T14:36:07Z	
+2.5.0		2018-01-03T12:19:01Z	
+2.5.1		2018-02-15T13:53:20Z	
+2.6.0		2018-07-25T15:52:59Z	
 2.6.0	test-javadoc	2018-07-25T15:53:08Z	
-2.7.0			
+2.7.0		2023-04-12T12:06:38Z	
 2.7.0	test-javadoc	2023-04-12T12:06:39Z	
-2.8.0			
+2.8.0		2026-02-24T10:14:15Z	
 2.8.0	test-javadoc	2026-02-24T10:14:15Z	

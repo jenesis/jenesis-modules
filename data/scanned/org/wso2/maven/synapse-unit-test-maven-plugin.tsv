@@ -119,12 +119,12 @@
 5.4.15		2026-02-05T07:18:37Z	
 5.4.16		2026-04-22T17:36:49Z	
 5.4.17		2026-07-03T10:27:16Z	
-5.4.18			
-5.4.19			
+5.4.18		2026-07-17T05:17:02Z	
+5.4.19		2026-07-31T04:06:07Z	
 5.4.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/synapse-unit-test-maven-plugin/5.4.2/synapse-unit-test-maven-plugin-5.4.2.jar returned status 404
-5.4.20			
-5.4.21			
-5.4.22			
+5.4.20		2026-09-03T11:40:14Z	
+5.4.21		2026-09-07T15:08:18Z	
+5.4.22		2026-10-15T03:40:46Z	
 5.4.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/synapse-unit-test-maven-plugin/5.4.3/synapse-unit-test-maven-plugin-5.4.3.jar returned status 404
 5.4.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/synapse-unit-test-maven-plugin/5.4.4/synapse-unit-test-maven-plugin-5.4.4.jar returned status 404
 5.4.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/maven/synapse-unit-test-maven-plugin/5.4.5/synapse-unit-test-maven-plugin-5.4.5.jar returned status 404

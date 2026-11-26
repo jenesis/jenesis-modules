@@ -1,13 +1,13 @@
-1.0.0-Beryllium			
-1.0.1-Beryllium-SR1			
-1.0.2-Beryllium-SR2			
-1.0.3-Beryllium-SR3			
-1.0.4-Beryllium-SR4			
-1.1.0-Boron			
-1.1.1-Boron-SR1			
-1.1.2-Boron-SR2			
-1.1.3-Boron-SR3			
-1.1.4-Boron-SR4			
+1.0.0-Beryllium		2016-02-16T12:16:51Z	
+1.0.1-Beryllium-SR1		2016-03-18T14:47:43Z	
+1.0.2-Beryllium-SR2		2016-05-07T05:54:51Z	
+1.0.3-Beryllium-SR3		2016-07-30T08:53:48Z	
+1.0.4-Beryllium-SR4		2016-10-19T10:09:59Z	
+1.1.0-Boron		2016-09-12T20:41:09Z	
+1.1.1-Boron-SR1		2016-10-31T07:21:21Z	
+1.1.2-Boron-SR2		2016-12-15T10:36:00Z	
+1.1.3-Boron-SR3		2017-04-05T19:04:26Z	
+1.1.4-Boron-SR4		2017-06-15T22:26:22Z	
 1.13.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.0/features-netconf-connector-1.13.0.jar returned status 404
 1.13.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.1/features-netconf-connector-1.13.1.jar returned status 404
 1.13.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.2/features-netconf-connector-1.13.2.jar returned status 404
@@ -17,11 +17,11 @@
 1.13.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.6/features-netconf-connector-1.13.6.jar returned status 404
 1.13.7			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.7/features-netconf-connector-1.13.7.jar returned status 404
 1.13.8			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.13.8/features-netconf-connector-1.13.8.jar returned status 404
-1.2.0-Carbon			
-1.2.1-Carbon			
-1.2.2-Carbon			
-1.2.3-Carbon			
-1.2.4-Carbon			
+1.2.0-Carbon		2017-05-22T06:34:00Z	
+1.2.1-Carbon		2017-07-12T00:22:11Z	
+1.2.2-Carbon		2017-10-10T02:27:04Z	
+1.2.3-Carbon		2018-02-15T10:42:57Z	
+1.2.4-Carbon		2018-04-21T10:17:34Z	
 1.3.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.3.0/features-netconf-connector-1.3.0.jar returned status 404
 1.3.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.3.1/features-netconf-connector-1.3.1.jar returned status 404
 1.3.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/netconf/features-netconf-connector/1.3.2/features-netconf-connector-1.3.2.jar returned status 404

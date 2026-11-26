@@ -67,17 +67,17 @@
 5.11.9		2023-04-19T06:49:20Z	
 5.12.0		2026-02-12T06:05:48Z	
 5.12.1		2026-02-19T10:34:22Z	
-5.12.10			
-5.12.11			
-5.12.12			
+5.12.10		2026-09-28T11:23:59Z	
+5.12.11		2026-10-13T05:11:35Z	
+5.12.12		2026-11-22T13:22:40Z	
 5.12.2		2026-02-19T11:02:40Z	
 5.12.3		2026-03-03T14:05:18Z	
 5.12.4		2026-03-11T20:25:03Z	
 5.12.5		2026-04-08T11:34:21Z	
 5.12.6		2026-06-23T10:32:48Z	
-5.12.7			
+5.12.7		2026-07-26T14:01:44Z	
 5.12.8		2026-08-25T08:18:49Z	
-5.12.9			
+5.12.9		2026-09-01T09:33:51Z	
 5.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/inbound/auth/saml2/org.wso2.carbon.identity.query.saml/5.2.0/org.wso2.carbon.identity.query.saml-5.2.0.jar returned status 404
 5.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/inbound/auth/saml2/org.wso2.carbon.identity.query.saml/5.2.1/org.wso2.carbon.identity.query.saml-5.2.1.jar returned status 404
 5.2.10			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/inbound/auth/saml2/org.wso2.carbon.identity.query.saml/5.2.10/org.wso2.carbon.identity.query.saml-5.2.10.jar returned status 404

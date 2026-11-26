@@ -1,13 +1,13 @@
-1.6.0-Beryllium			
-1.6.1-Beryllium-SR1			
-1.6.2-Beryllium-SR2			
-1.6.3-Beryllium-SR3			
-1.6.4-Beryllium-SR4			
-1.7.0-Boron			
-1.7.1-Boron-SR1			
-1.7.2-Boron-SR2			
-1.7.3-Boron-SR3			
-1.7.4-Boron-SR4			
+1.6.0-Beryllium		2016-02-18T19:58:30Z	
+1.6.1-Beryllium-SR1		2016-03-18T14:46:14Z	
+1.6.2-Beryllium-SR2		2016-05-07T05:55:22Z	
+1.6.3-Beryllium-SR3		2016-07-30T08:53:54Z	
+1.6.4-Beryllium-SR4		2016-10-19T10:10:05Z	
+1.7.0-Boron		2016-09-12T20:41:18Z	
+1.7.1-Boron-SR1		2016-10-31T07:21:33Z	
+1.7.2-Boron-SR2		2016-12-15T10:36:12Z	
+1.7.3-Boron-SR3		2017-04-05T19:04:30Z	
+1.7.4-Boron-SR4		2017-06-15T22:26:34Z	
 1.8.0-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/features-odlparent/1.8.0-Carbon/features-odlparent-1.8.0-Carbon.jar returned status 404
 1.8.1-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/features-odlparent/1.8.1-Carbon/features-odlparent-1.8.1-Carbon.jar returned status 404
 1.8.2-Carbon			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/odlparent/features-odlparent/1.8.2-Carbon/features-odlparent-1.8.2-Carbon.jar returned status 404

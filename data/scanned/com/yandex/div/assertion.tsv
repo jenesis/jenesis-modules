@@ -188,28 +188,28 @@
 32.54.0		2026-06-15T14:16:22Z	
 32.55.0		2026-06-22T14:15:06Z	
 32.56.0		2026-06-29T16:19:58Z	
-32.57.0			
-32.58.0			
+32.57.0		2026-07-07T10:07:05Z	
+32.58.0		2026-07-13T16:46:11Z	
 32.59.0		2026-07-20T16:07:28Z	
 32.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/32.6.0/assertion-32.6.0.jar returned status 404
-32.60.0			
+32.60.0		2026-07-27T16:56:12Z	
 32.61.0		2026-08-04T14:22:25Z	
-32.61.4			
+32.61.4		2026-09-04T11:17:18Z	
 32.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/32.7.1/assertion-32.7.1.jar returned status 404
 32.8.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/32.8.0/assertion-32.8.0.jar returned status 404
 32.9.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/32.9.0/assertion-32.9.0.jar returned status 404
 33.0.0		2026-08-26T09:52:44Z	
-33.1.0			
-33.10.0			
+33.1.0		2026-09-02T10:29:47Z	
+33.10.0		2026-11-02T16:15:06Z	
 33.11.0		2026-11-09T14:57:54Z	
 33.12.0		2026-11-19T08:43:25Z	
-33.2.0			
-33.3.0			
+33.2.0		2026-09-08T12:25:27Z	
+33.3.0		2026-09-15T09:26:54Z	
 33.4.0		2026-09-22T10:36:36Z	
-33.5.0			
-33.6.0			
-33.8.0			
-33.9.0			
+33.5.0		2026-09-28T10:47:12Z	
+33.6.0		2026-10-05T13:22:10Z	
+33.8.0		2026-10-21T11:21:59Z	
+33.9.0		2026-10-27T13:41:49Z	
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/4.0.0/assertion-4.0.0.jar returned status 404
 5.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/5.0.0/assertion-5.0.0.jar returned status 404
 6.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/yandex/div/assertion/6.0.0/assertion-6.0.0.jar returned status 404

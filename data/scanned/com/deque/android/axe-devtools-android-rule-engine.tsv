@@ -1,4 +1,4 @@
-10.0.0			
+10.0.0		2026-11-09T17:20:27Z	
 4.0.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/deque/android/axe-devtools-android-rule-engine/4.0.0/axe-devtools-android-rule-engine-4.0.0.jar returned status 404
 4.1.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/deque/android/axe-devtools-android-rule-engine/4.1.0/axe-devtools-android-rule-engine-4.1.0.jar returned status 404
 4.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/com/deque/android/axe-devtools-android-rule-engine/4.2.0/axe-devtools-android-rule-engine-4.2.0.jar returned status 404
@@ -28,5 +28,5 @@
 8.3.1		2026-05-12T17:55:16Z	
 9.0.0		2026-06-29T17:59:47Z	
 9.1.0		2026-08-03T16:17:57Z	
-9.2.0			
-9.3.0			
+9.2.0		2026-09-08T14:49:38Z	
+9.3.0		2026-10-08T17:47:21Z	

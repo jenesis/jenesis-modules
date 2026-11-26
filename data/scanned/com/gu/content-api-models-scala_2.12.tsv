@@ -194,7 +194,7 @@
 38.0.0-PREVIEW.abbump-content-atom-hasaudio.2026-04-22T1548.6fcc15bc		2026-04-22T15:56:25Z	
 38.0.0-PREVIEW.expose-ad-url.2026-04-17T1536.4888241d		2026-04-17T15:43:43Z	
 38.0.0-PREVIEW.rjr-add-new-caption-field-to-capi-model.2026-04-08T1528.c2707d49		2026-04-08T15:36:12Z	
-38.0.1-PREVIEW.updatesbt-release-150.2026-07-08T1624.29d4984d			
+38.0.1-PREVIEW.updatesbt-release-150.2026-07-08T1624.29d4984d		2026-07-08T16:31:52Z	
 39.0.0		2026-05-18T12:48:32Z	
 39.0.0-PREVIEW.aheproduct-element-uuid.2026-05-07T0838.fab08696		2026-05-07T08:46:45Z	
 39.0.0-PREVIEW.rjr-add-new-caption-field-to-capi-model.2026-05-07T1048.9a68b592		2026-05-07T10:55:08Z	
@@ -214,13 +214,13 @@
 44.0.0-PREVIEW.aheproduct-summary-element.2026-06-24T1318.dea7cd56		2026-06-24T13:26:14Z	
 44.0.0-PREVIEW.aheproduct-summary-element.2026-06-25T1458.232a9450		2026-06-25T15:06:06Z	
 44.1.0-PREVIEW.add-football-competition-atom.2026-06-29T1035.e6248de2		2026-06-29T10:42:59Z	
-45.0.0			
+45.0.0		2026-07-09T08:18:07Z	
 45.0.0-PREVIEW.add-football-competition-atom.2026-06-29T1713.8cf99b42		2026-06-29T17:20:44Z	
-45.0.0-PREVIEW.add-football-competition-atom.2026-07-10T1433.e0815164			
-45.0.0-PREVIEW.add-football-competition-atom.2026-07-15T1406.97e79cef			
-45.0.1			
-45.0.1-PREVIEW.test-scrooge-extras-updated-thrift.2026-07-14T1711.82daec15			
-46.0.0			
+45.0.0-PREVIEW.add-football-competition-atom.2026-07-10T1433.e0815164		2026-07-10T14:40:44Z	
+45.0.0-PREVIEW.add-football-competition-atom.2026-07-15T1406.97e79cef		2026-07-15T14:14:05Z	
+45.0.1		2026-07-16T12:21:21Z	
+45.0.1-PREVIEW.test-scrooge-extras-updated-thrift.2026-07-14T1711.82daec15		2026-07-14T17:19:22Z	
+46.0.0		2026-07-17T13:59:48Z	
 47.0.0		2026-07-21T09:39:37Z	
 47.0.0-PREVIEW.updatesbt-release-150.2026-07-21T0932.add15c4c		2026-07-21T09:38:57Z	
 48.0.0		2026-08-11T13:33:15Z	
@@ -228,14 +228,14 @@
 48.0.0-PREVIEW.update-gitignore-to-fix-release-workflow.2026-08-11T1301.43ba6cba		2026-08-11T13:10:13Z	
 49.0.0		2026-08-13T09:27:52Z	
 50.0.0		2026-08-26T14:27:01Z	
-51.0.0			
-51.0.0-PREVIEW.add-ab-tests-to-model.2026-09-16T0954.2527af8a			
-51.0.0-PREVIEW.dscemmsupdate-tag-model-adds-commercialInformation.2026-09-08T1039.dd0cebd1			
-51.0.0-PREVIEW.glspike-multimedia-atom.2026-09-01T2254.c3eb903b			
-51.0.0-PREVIEW.glspike-multimedia-atom.2026-09-02T1329.19761cd3			
-51.0.1			
+51.0.0		2026-09-10T13:32:31Z	
+51.0.0-PREVIEW.add-ab-tests-to-model.2026-09-16T0954.2527af8a		2026-09-16T10:11:29Z	
+51.0.0-PREVIEW.dscemmsupdate-tag-model-adds-commercialInformation.2026-09-08T1039.dd0cebd1		2026-09-08T10:45:58Z	
+51.0.0-PREVIEW.glspike-multimedia-atom.2026-09-01T2254.c3eb903b		2026-09-01T23:01:03Z	
+51.0.0-PREVIEW.glspike-multimedia-atom.2026-09-02T1329.19761cd3		2026-09-02T13:36:11Z	
+51.0.1		2026-09-17T11:10:45Z	
 52.0.0		2026-09-22T08:50:48Z	
-53.0.0			
-53.0.0-PREVIEW.dscemmsupdate-tag-model-adds-commercialInformation.2026-10-06T1258.45453f85			
-53.0.0-PREVIEW.ec-add-live-pricing-field.2026-10-16T1407.b21b6ed0			
-53.1.0			
+53.0.0		2026-10-28T17:33:57Z	
+53.0.0-PREVIEW.dscemmsupdate-tag-model-adds-commercialInformation.2026-10-06T1258.45453f85		2026-10-06T13:11:05Z	
+53.0.0-PREVIEW.ec-add-live-pricing-field.2026-10-16T1407.b21b6ed0		2026-10-16T14:16:07Z	
+53.1.0		2026-11-19T15:48:15Z	

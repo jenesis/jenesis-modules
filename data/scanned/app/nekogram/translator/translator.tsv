@@ -28,7 +28,7 @@
 1.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/translator/translator/1.6.1/translator-1.6.1.jar returned status 404
 1.7.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/translator/translator/1.7.0/translator-1.7.0.jar returned status 404
 1.7.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/app/nekogram/translator/translator/1.7.1/translator-1.7.1.jar returned status 404
-2.0.0			
-2.0.1			
-2.0.2			
-2.1.0			
+2.0.0		2026-09-29T06:07:09Z	
+2.0.1		2026-10-03T03:21:23Z	
+2.0.2		2026-10-03T03:50:50Z	
+2.1.0		2026-11-03T11:30:38Z	

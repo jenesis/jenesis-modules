@@ -62,7 +62,7 @@
 3.0.14		2026-05-20T19:01:40Z	
 3.0.15		2026-06-19T15:45:26Z	
 3.0.16		2026-07-01T19:21:34Z	
-3.0.17			
+3.0.17		2026-07-20T10:03:30Z	
 3.0.18		2026-08-28T22:04:03Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/authservice/authservice-bom/3.0.18/authservice-bom-3.0.18.jar returned status 404
 3.0.19			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/no/priv/bang/authservice/authservice-bom/3.0.19/authservice-bom-3.0.19.jar returned status 404
 3.0.2		2025-07-11T13:33:11Z	

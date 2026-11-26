@@ -143,17 +143,17 @@
 8.1.1-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/8.1.1-beta.1/serverpackcreator-api-8.1.1-beta.1.jar returned status 404
 8.1.1-beta.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/8.1.1-beta.2/serverpackcreator-api-8.1.1-beta.2.jar returned status 404
 8.1.2		2026-06-10T19:30:47Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/8.1.2/serverpackcreator-api-8.1.2.jar returned status 404
-9.0.0			
+9.0.0		2026-09-28T20:25:52Z	
 9.0.0-alpha.6		2026-08-23T09:58:14Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/9.0.0-alpha.6/serverpackcreator-api-9.0.0-alpha.6.jar returned status 404
 9.0.0-alpha.7		2026-08-23T17:43:07Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/9.0.0-alpha.7/serverpackcreator-api-9.0.0-alpha.7.jar returned status 404
 9.0.0-alpha.9			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/9.0.0-alpha.9/serverpackcreator-api-9.0.0-alpha.9.jar returned status 404
 9.0.0-beta.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/de/griefed/serverpackcreator/serverpackcreator-api/9.0.0-beta.1/serverpackcreator-api-9.0.0-beta.1.jar returned status 404
-9.0.0-beta.3			
-9.0.0-beta.4			
-9.1.0			
+9.0.0-beta.3		2026-09-24T20:42:26Z	
+9.0.0-beta.4		2026-09-27T20:01:34Z	
+9.1.0		2026-10-03T01:21:06Z	
 9.2.0		2026-10-07T18:27:05Z	
 9.2.1		2026-10-11T15:12:05Z	
 9.3.0		2026-10-17T01:10:59Z	
 9.3.1		2026-10-18T15:16:34Z	
-9.4.0			
-9.4.1			
+9.4.0		2026-11-01T23:15:25Z	
+9.4.1		2026-11-10T11:09:57Z	

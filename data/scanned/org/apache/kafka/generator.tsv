@@ -92,13 +92,13 @@
 4.2.0	test	2026-02-10T09:45:59Z	
 4.2.1		2026-05-12T05:43:34Z	
 4.2.1	test	2026-05-12T05:43:46Z	
-4.2.2			
+4.2.2		2026-09-22T15:28:02Z	
 4.2.2	test	2026-09-22T15:28:05Z	
 4.3.0		2026-05-13T09:19:06Z	IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/apache/kafka/generator/4.3.0/generator-4.3.0.jar returned status 404
 4.3.0	test	2026-05-13T09:19:08Z	
 4.3.1		2026-06-17T18:46:29Z	
 4.3.1	test	2026-06-17T18:46:32Z	
-4.3.2			
+4.3.2		2026-10-11T02:51:08Z	
 4.3.2	test	2026-10-11T02:51:14Z	
-4.4.0			
+4.4.0		2026-10-06T16:22:30Z	
 4.4.0	test	2026-10-06T16:22:32Z	

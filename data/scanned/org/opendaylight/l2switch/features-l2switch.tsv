@@ -9,21 +9,21 @@
 0.2.2-Lithium-SR2		2015-10-07T06:09:45Z	
 0.2.3-Lithium-SR3		2015-11-24T05:50:17Z	
 0.2.4-Lithium-SR4		2016-02-29T08:00:30Z	
-0.3.0-Beryllium			
-0.3.1-Beryllium-SR1			
-0.3.2-Beryllium-SR2			
-0.3.3-Beryllium-SR3			
-0.3.4-Beryllium-SR4			
-0.4.0-Boron			
-0.4.1-Boron-SR1			
-0.4.2-Boron-SR2			
-0.4.3-Boron-SR3			
-0.4.4-Boron-SR4			
-0.5.0-Carbon			
-0.5.1-Carbon			
-0.5.2-Carbon			
-0.5.3-Carbon			
-0.5.4-Carbon			
+0.3.0-Beryllium		2016-02-16T12:09:08Z	
+0.3.1-Beryllium-SR1		2016-03-18T14:47:02Z	
+0.3.2-Beryllium-SR2		2016-05-07T05:54:01Z	
+0.3.3-Beryllium-SR3		2016-07-30T08:53:44Z	
+0.3.4-Beryllium-SR4		2016-10-19T10:09:54Z	
+0.4.0-Boron		2016-09-12T20:41:04Z	
+0.4.1-Boron-SR1		2016-10-31T07:21:15Z	
+0.4.2-Boron-SR2		2016-12-15T10:35:54Z	
+0.4.3-Boron-SR3		2017-04-05T19:04:22Z	
+0.4.4-Boron-SR4		2017-06-15T22:26:14Z	
+0.5.0-Carbon		2017-05-22T06:33:53Z	
+0.5.1-Carbon		2017-07-12T00:22:07Z	
+0.5.2-Carbon		2017-10-10T02:27:00Z	
+0.5.3-Carbon		2018-02-15T10:42:44Z	
+0.5.4-Carbon		2018-04-21T10:17:13Z	
 0.6.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/features-l2switch/0.6.0/features-l2switch-0.6.0.jar returned status 404
 0.6.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/features-l2switch/0.6.1/features-l2switch-0.6.1.jar returned status 404
 0.6.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/opendaylight/l2switch/features-l2switch/0.6.2/features-l2switch-0.6.2.jar returned status 404

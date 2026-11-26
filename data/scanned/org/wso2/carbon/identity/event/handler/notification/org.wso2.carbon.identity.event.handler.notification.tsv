@@ -56,15 +56,15 @@
 1.13.0		2026-03-24T05:25:58Z	
 1.13.1		2026-03-24T11:15:59Z	
 1.13.10		2026-08-18T03:04:36Z	
-1.13.11			
-1.13.12			
+1.13.11		2026-10-27T15:33:14Z	
+1.13.12		2026-11-14T07:08:43Z	
 1.13.2		2026-03-31T03:07:03Z	
 1.13.3		2026-04-08T05:09:20Z	
 1.13.4		2026-04-30T05:28:42Z	
 1.13.5		2026-06-17T11:59:10Z	
 1.13.6		2026-06-17T14:13:48Z	
-1.13.7			
-1.13.8			
+1.13.7		2026-07-08T12:49:08Z	
+1.13.8		2026-07-17T05:16:22Z	
 1.13.9		2026-08-12T09:58:43Z	
 1.2.0			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.identity.event.handler.notification/1.2.0/org.wso2.carbon.identity.event.handler.notification-1.2.0.jar returned status 404
 1.2.1			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/wso2/carbon/identity/event/handler/notification/org.wso2.carbon.identity.event.handler.notification/1.2.1/org.wso2.carbon.identity.event.handler.notification-1.2.1.jar returned status 404

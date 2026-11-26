@@ -52,23 +52,23 @@
 0.5.13			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openurp/platform/openurp-platform-cas/0.5.13/openurp-platform-cas-0.5.13.jar returned status 404
 0.5.14			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openurp/platform/openurp-platform-cas/0.5.14/openurp-platform-cas-0.5.14.jar returned status 404
 0.5.15			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openurp/platform/openurp-platform-cas/0.5.15/openurp-platform-cas-0.5.15.jar returned status 404
-0.5.16			
-0.5.17			
-0.5.18			
-0.5.19			
+0.5.16		2021-10-18T13:49:09Z	
+0.5.17		2021-10-21T15:04:12Z	
+0.5.18		2021-10-22T13:42:56Z	
+0.5.19		2021-11-04T15:16:30Z	
 0.5.2			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openurp/platform/openurp-platform-cas/0.5.2/openurp-platform-cas-0.5.2.jar returned status 404
-0.5.20			
-0.5.21			
-0.5.22			
-0.5.23			
-0.5.24			
-0.5.25			
-0.5.26			
-0.5.27			
-0.5.28			
-0.5.29			
+0.5.20		2021-11-05T14:00:55Z	
+0.5.21		2021-11-08T08:05:08Z	
+0.5.22		2021-11-09T12:10:07Z	
+0.5.23		2022-04-12T14:27:02Z	
+0.5.24		2022-04-13T04:57:15Z	
+0.5.25		2022-04-13T14:46:55Z	
+0.5.26		2022-04-14T08:17:52Z	
+0.5.27		2022-04-25T15:04:42Z	
+0.5.28		2022-05-06T13:40:02Z	
+0.5.29		2022-05-11T14:52:16Z	
 0.5.3			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openurp/platform/openurp-platform-cas/0.5.3/openurp-platform-cas-0.5.3.jar returned status 404
-0.5.30			
+0.5.30		2022-05-13T07:43:34Z	
 0.5.4			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openurp/platform/openurp-platform-cas/0.5.4/openurp-platform-cas-0.5.4.jar returned status 404
 0.5.5			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openurp/platform/openurp-platform-cas/0.5.5/openurp-platform-cas-0.5.5.jar returned status 404
 0.5.6			IOException: Tail request on https://maven-central.storage-download.googleapis.com/maven2/org/openurp/platform/openurp-platform-cas/0.5.6/openurp-platform-cas-0.5.6.jar returned status 404
