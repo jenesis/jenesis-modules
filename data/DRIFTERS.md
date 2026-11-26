@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-25. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-26. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -1093,7 +1093,7 @@ com.gizmodata.quack.jdbc  [fork: keep `com.gizmodata`, `dev.brikk.duckdb` still 
 org.xerial.sqlitejdbc  [fork: keep `org.xerial`, `io.github.slayyyyer` still publishes the name]
   A * org.xerial                           2021-06..2026-10 3.54.1.0             |.........===========|
   ?   io.github.slayyyyer                  2026-11..2026-11 0.2.0                |...................=|
-  ?   tech.molecules                       2026-08..2026-11 0.4.2                |...................=|
+  ?   tech.molecules                       2026-08..2026-11 0.4.2                |..................==|
   R   org.apache.tika                      2023-01..2026-10 3.3.3                |............========|
   ?   int.esa.nmf                          2026-09..2026-09 5.1                  |...................=|
   ?   int.esa.nmf.sdk                      2026-07..2026-09 5.1                  |..................==|
@@ -1310,15 +1310,15 @@ io.netty.common  [fork: keep `io.netty`, `org.apache.arrow` still publishes the 
   R   io.quarkiverse.roq                   2026-04..2026-04 2.1.0.CR1            |..................=.|
     + 5 more: com.scylladb, com.github.tonivade, de.codecentric, com.google.cloud, software.amazon.jdbc
 io.matthewnelson.kmp.tor.resource.lib.tor  [fork: keep `io.matthewnelson.kmp-tor`, `com.sparrowwallet` still publishes the name]
-  ? * io.matthewnelson.kmp-tor             2024-11..2026-02 409.5.0              |...............====.|
+  ? * io.matthewnelson.kmp-tor             2024-11..2026-02 409.5.0              |...............===..|
   ?   com.sparrowwallet                    2026-11..2026-11 409.16.0             |...................=|
   ?   io.github.rodvar.kmp-tor             2026-09..2026-11 409.16.0             |...................=|
 io.matthewnelson.kmp.tor.resource.exec.tor  [fork: keep `io.matthewnelson.kmp-tor`, `com.sparrowwallet` still publishes the name]
-  ? * io.matthewnelson.kmp-tor             2024-11..2026-02 409.5.0              |...............====.|
+  ? * io.matthewnelson.kmp-tor             2024-11..2026-02 409.5.0              |...............===..|
   ?   com.sparrowwallet                    2026-11..2026-11 409.16.0             |...................=|
   ?   io.github.rodvar.kmp-tor             2026-09..2026-11 409.16.0             |...................=|
 io.matthewnelson.kmp.tor.resource.geoip  [fork: keep `io.matthewnelson.kmp-tor`, `com.sparrowwallet` still publishes the name]
-  ? * io.matthewnelson.kmp-tor             2024-11..2026-02 409.5.0              |...............====.|
+  ? * io.matthewnelson.kmp-tor             2024-11..2026-02 409.5.0              |...............===..|
   ?   com.sparrowwallet                    2026-11..2026-11 409.16.0             |...................=|
   ?   io.github.rodvar.kmp-tor             2026-09..2026-11 409.16.0             |...................=|
 com.ethlo.time  [fork: keep `com.ethlo.time`, `io.github.adorsys-gis` still publishes the name]
@@ -1510,7 +1510,7 @@ org.slf4j.simple  [fork: keep `org.slf4j`, `com.atomgraph.etl.json` still publis
   R   io.btrace                            2025-12..2026-02 0.14.0               |.................==.|
     + 25 more: dev.neovoxel.jarflow, io.github.mario-bezerra, com.vajrapulse, no.elixir, com.mineplex.studio.sdk, se.bjurr.gitchangelog, io.github.eschizoid, cz.o2.proxima, dev.lukebemish, io.github.lizhi404, io.opentelemetry.contrib, io.github.qsy7.java.examples, (+13 more)
 io.matthewnelson.kmp.tor.resource.noexec.tor  [fork: keep `io.matthewnelson.kmp-tor`, `io.github.rodvar.kmp-tor` still publishes the name]
-  ? * io.matthewnelson.kmp-tor             2024-11..2026-02 409.5.0              |...............====.|
+  ? * io.matthewnelson.kmp-tor             2024-11..2026-02 409.5.0              |...............===..|
   ?   io.github.rodvar.kmp-tor             2026-09..2026-11 409.16.0             |...................=|
 com.fasterxml.jackson.datatype.jsr310  [fork: keep `com.fasterxml.jackson.datatype`, `io.teknek.reckoning` still publishes the name]
   A * com.fasterxml.jackson.datatype       2017-10..2026-11 2.23.0               |.===================|
@@ -1526,7 +1526,7 @@ org.snakeyaml.engine.v2  [fork: keep `org.snakeyaml`, `io.github.baokhang83.mnem
   R   dev.dejvokep                         2024-07..2026-10 1.3.8                |..............======|
   R   org.frankframework                   2025-01..2026-10 9.4.5                |...............=====|
   ?   io.btrace                            2026-07..2026-10 0.29.0               |..................==|
-  R   io.github.ethanz0x0                  2025-08..2026-08 2.0.4                |.................===|
+  R   io.github.ethanz0x0                  2025-08..2026-08 2.0.4                |.................==.|
     + 29 more: com.walmartlabs.concord.k8s, com.datadoghq, org.wildfly.glow, org.apache.zeppelin, io.acryl, io.fabric8, io.strimzi, io.github.phompang, eu.koboo, io.dscope.camel, org.workflomics, org.sonarsource.iac, (+17 more)
 io.github.classgraph.vfs  [fork: keep `io.github.classgraph`, `de.redsix` still publishes the name]
   ? * io.github.classgraph                 2026-10..2026-11 6.0.2                |...................=|
@@ -2083,7 +2083,7 @@ com.graphqljava  [owned by `com.graphql-java`; 3 other group(s) shade the name]
   A * com.graphql-java                     2020-11..2026-11 0.0.0-2026-11-18T02-26-02-fe3abcf |.......=============|
   ?   com.guicedee.modules.services        2026-07..2026-11 2.5.1                |..................==|
   R   com.liferay                          2025-05..2025-05 19.11.JAKARTA-LIFERAY-PATCHED-1 |................=...|
-  R   io.github.my-workforce               2022-07..2023-07 19.6                 |...........===......|
+  R   io.github.my-workforce               2022-07..2023-07 19.6                 |...........==.......|
 org.htmlunit  [owned by `org.htmlunit`; 1 other group(s) shade the name]
   ? * org.htmlunit                         2026-05..2026-11 5.8.0                |..................==|
   ?   com.nordstrom.ui-tools               2026-07..2026-07 4.46.0               |..................=.|
