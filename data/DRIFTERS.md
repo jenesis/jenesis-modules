@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-26. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-27. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -639,7 +639,7 @@ org.hibernate.orm.jcache  [renamed `org.hibernate` -> `org.hibernate.orm` (lates
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
   R   com.guicedee.services                2019-11..2022-02 1.2.2.1-jre17        |.....======.........|
 org.hibernate.orm.micrometer  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.17.Final)]
-  A * org.hibernate                        2020-12..2023-02 5.6.15.Final         |........=====.......|
+  A * org.hibernate                        2020-12..2023-02 5.6.15.Final         |.......======.......|
   A   org.hibernate.orm                    2021-03..2026-11 7.4.17.Final         |........============|
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.hibernate.orm.spatial  [renamed `org.hibernate` -> `org.hibernate.orm` (latest 7.4.17.Final)]
@@ -1037,7 +1037,7 @@ org.eclipse.milo.opcua.stack.transport  [fork: keep `org.eclipse.milo`, `cn.ioco
   ? * org.eclipse.milo                     2025-04..2026-11 1.2.0-RC3            |................====|
   ?   cn.iocoder.boot                      2026-11..2026-11 1.2.0-RC3-preview-20261123 |...................=|
 com.carrotsearch.hppc  [fork: keep `com.carrotsearch`, `org.teavm` still publishes the name]
-  A * com.carrotsearch                     2020-12..2026-11 0.13.0               |........============|
+  A * com.carrotsearch                     2020-12..2026-11 0.13.0               |.......=============|
   R   org.teavm                            2024-12..2026-11 0.17.0               |...............=====|
   ?   io.github.jarrunner.teavm            2026-10..2026-10 0.16.0-jr.1          |...................=|
 org.mozilla.rhino  [fork: keep `org.mozilla`, `org.teavm` still publishes the name]
@@ -1642,7 +1642,7 @@ com.h2database  [fork: keep `com.h2database`, `io.vidocq.runtime.extensions.modu
   ?   io.vidocq.runtime.extensions.module.repackaged 2026-08..2026-11 0.4.0-RC2            |...................=|
   R   ai.platon.pulsar                     2026-01..2026-01 1.4.197              |.................=..|
   R   net.xdob.h2db                        2022-06..2023-02 2.1.1                |..........===.......|
-  R   org.lucee                            2023-01..2023-01 2.1.214.0001L        |............=.......|
+  R   org.lucee                            2023-01..2023-01 2.1.214.0001L        |...........=........|
 org.eclipse.microprofile.config  [fork: keep `org.eclipse.microprofile.config`, `io.vidocq.ravel` still publishes the name]
   ? * org.eclipse.microprofile.config      2026-01..2026-10 3.1.3                |.................===|
   ?   io.vidocq.ravel                      2026-05..2026-11 0.4.0-RC2            |..................==|
@@ -1663,13 +1663,13 @@ cafe.cryptography.curve25519_elisabeth  [fork: keep `cafe.cryptography`, `com.we
 org.jctools.core  [fork: keep `org.jctools`, `net.kieker-monitoring` still publishes the name]
   A * org.jctools                          2020-11..2026-08 4.0.7                |.......============.|
   R   net.kieker-monitoring                2024-09..2026-11 2.0.4                |...............=====|
-  ?   io.monix                             2026-08..2026-10 3.5.2                |...................=|
+  ?   io.monix                             2026-08..2026-10 3.5.2                |..................==|
   R   io.xdag                              2025-10..2025-12 0.1.6                |.................=..|
   R   io.github.shangor                    2025-07..2025-08 1.1.3                |................=...|
   R   io.actor4j                           2025-06..2025-06 2.4.0-beta.3         |................=...|
     + 1 more: io.github.jponge.jct
 org.lwjgl  [fork: keep `org.lwjgl`, `org.eclipse.rdf4j` still publishes the name]
-  A * org.lwjgl                            2017-09..2026-08 3.4.3                |.===================|
+  A * org.lwjgl                            2017-09..2026-08 3.4.3                |.==================.|
   ?   org.eclipse.rdf4j                    2026-11..2026-11 6.2.0-M2             |...................=|
   R   io.github.lego-eden                  2025-10..2026-10 0.2.5                |.................===|
   R   com.io7m.jcoronado                   2024-12..2026-09 2.1.0                |...............=====|
@@ -2072,7 +2072,7 @@ org.apache.maven.resolver  [owned by `org.apache.maven.resolver`; 1 other group(
   ? * org.apache.maven.resolver            2017-06..2026-11 2.0.26               |.===================|
   ?   com.jcabi                            2026-11..2026-11 0.17.2               |...................=|
 com.google.errorprone.annotations  [owned by `com.google.errorprone`; 60 other group(s) shade the name]
-  A * com.google.errorprone                2019-12..2026-11 2.53.0               |......==============|
+  A * com.google.errorprone                2019-12..2026-11 2.53.0               |.....===============|
   R   org.apache.seatunnel                 2024-10..2026-11 3.1.0                |...............=====|
   ?   io.github.dfa1.vortex                2026-10..2026-11 0.20.0               |...................=|
   R   com.facebook.presto                  2025-02..2026-11 0.300                |................====|
@@ -3431,7 +3431,7 @@ org.bukkit  [no clear owner; `com.uroria.curepur` is earliest and most recent]
   ?   com.620cloud.server                  2026-06..2026-10 26.3.build.374-stable |..................==|
   ?   io.github.xucy10                     2026-08..2026-08 26.2-R0.1            |..................=.|
   ?   com.mineplex.studio.server           2024-10..2026-04 26.1.2-357           |...............====.|
-  ?   com.uroria.latest                    2024-07..2024-07 1.21-R0.1-2d776710d6 |...............=....|
+  ?   com.uroria.latest                    2024-07..2024-07 1.21-R0.1-2d776710d6 |..............=.....|
   ?   com.uroria                           2024-07..2024-07 1.21-R0.1            |..............=.....|
 ij  [no clear owner; `net.imagej` is earliest and most recent]
   ? * net.imagej                           2019-03..2025-02 1.54p                |....=============...|
