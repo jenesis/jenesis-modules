@@ -1,6 +1,6 @@
 # Module ownership drifters
 
-Generated 2026-11-27. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
+Generated 2026-11-28. A module *drifts* when more than one groupId publishes the name and its `owners.tsv` does not yet name every publisher (no `owners.tsv`, or one that leaves some publishing groupId neither `allowed` nor `rejected`). Resolving a drift means deciding each groupId via `SetOwners` (which writes `allowed`/`rejected`); a fully-named module drops off this list.
 
 | Category | Unresolved | Resolved via owners.tsv |
 |---|---:|---:|
@@ -253,7 +253,7 @@ spring.tx  [explicit rule: owned by `org.springframework`; 6 other group(s) reje
   ?   io.github.duanluan.springframework   2026-06..2026-06 5.3.42               |..................=.|
   R   net.xdob.springframework             2025-03..2025-03 5.3.41               |................=...|
   R   com.succsoft                         2024-12..2024-12 5.3.42               |...............=....|
-  R   com.liferay                          2024-01..2024-08 5.3.39.LIFERAY-PATCHED-1 |..............==....|
+  R   com.liferay                          2024-01..2024-08 5.3.39.LIFERAY-PATCHED-1 |.............===....|
     + 1 more: com.labun
 kotlin.stdlib.jdk8  [explicit rule: owned by `org.jetbrains.kotlin`; 247 other group(s) rejected]
   A * org.jetbrains.kotlin                 2019-01..2026-11 2.5.0-RC             |....================|
@@ -833,7 +833,7 @@ bento.fx  [renamed `software.coley` -> `software.coley.bento-fx` (latest 0.16.0)
   ? * software.coley                       2025-04..2026-01 0.15.1               |................==..|
   ?   software.coley.bento-fx              2026-07..2026-07 0.16.0               |..................=.|
 com.peruncs.odbjca.api  [renamed `com.peruncs.odbjca` -> `com.peruncs` (latest 0.0.2)]
-  ? * com.peruncs.odbjca                   2018-11..2018-11 0.0.1                |....=...............|
+  ? * com.peruncs.odbjca                   2018-11..2018-11 0.0.1                |...=................|
   ?   com.peruncs                          2018-11..2018-11 0.0.2                |....=...............|
 ```
 
@@ -932,7 +932,7 @@ com.fasterxml.jackson.dataformat.yaml  [fork: keep `com.fasterxml.jackson.datafo
   R   net.corda                            2024-07..2026-11 4.13.5               |..............======|
   R   dev.skyramp                          2025-02..2026-11 1.3.56               |................====|
   ?   io.github.hasanyelaldi               2026-11..2026-11 0.2.0                |...................=|
-  ?   ai.chalk                             2026-08..2026-11 1.3.10               |...................=|
+  ?   ai.chalk                             2026-08..2026-11 1.3.10               |..................==|
     + 69 more: org.geneontology.obographs, io.openlineage, org.wildfly.prospero, org.incenp, io.fabrikt, org.apache.plc4x.extras, org.apiaddicts.apitools.dosonarapi, org.apache.dolphinscheduler, io.fabric8, dev.itara, org.apache.flink, com.helpchoice, (+57 more)
 com.fasterxml.jackson.kotlin  [fork: keep `com.fasterxml.jackson.module`, `io.fabrikt` still publishes the name]
   A * com.fasterxml.jackson.module         2021-01..2026-11 2.23.0               |........============|
@@ -1383,7 +1383,7 @@ tools.jackson.core  [fork: keep `tools.jackson.core`, `com.zonzonzon` still publ
 org.apache.logging.log4j.core  [fork: keep `org.apache.logging.log4j`, `io.github.jseqa` still publishes the name]
   A * org.apache.logging.log4j             2017-11..2026-07 2.25.5               |..=================.|
   ?   io.github.jseqa                      2026-11..2026-11 0.1.0                |...................=|
-  R   io.openems                           2026-02..2026-10 3.4.0-openems.2      |..................==|
+  R   io.openems                           2026-02..2026-10 3.4.0-openems.2      |.................===|
   R   app.freerouting                      2026-05..2026-10 2.5.0                |..................==|
   R   com.ghgande                          2025-12..2026-09 3.4.0                |.................===|
   ?   dk.dma.ais.lib                       2026-07..2026-07 2.8.7                |..................=.|
@@ -1623,7 +1623,7 @@ org.jboss.logging  [fork: keep `org.jboss.logging`, `org.openldes.ldio` still pu
   ?   org.openldes.ldio                    2026-11..2026-11 3.2.2                |...................=|
   R   io.quarkus                           2024-09..2026-10 4.0.0.Beta2          |...............=====|
   R   org.jboss.ironjacamar                2026-05..2026-08 1.5.28.Final         |..................==|
-  R   io.appform.ranger                    2025-11..2026-08 2.0.0-RC6            |.................===|
+  R   io.appform.ranger                    2025-11..2026-08 2.0.0-RC6            |.................==.|
   R   org.tinystruct                       2026-05..2026-08 1.0.9                |..................=.|
     + 5 more: be.vlaanderen.informatievlaanderen.ldes.ldio, io.mvnpm, ch.nerdin, com.abavilla, com.guicedee.services
 com.azure.storage.blob  [fork: keep `com.azure`, `org.openldes.ldio` still publishes the name]
@@ -2055,7 +2055,7 @@ org.hibernate.orm.ant  [owned by `org.hibernate.orm`; 1 other group(s) shade the
   ?   io.github.martinhickson              2026-08..2026-08 6.6.7-bravura-1      |..................=.|
 org.flywaydb.core  [owned by `org.flywaydb`; 4 other group(s) shade the name]
   A * org.flywaydb                         2017-12..2026-11 13.13.0              |..==================|
-  ?   io.github.wu9007                     2026-08..2026-08 9.9.9                |...................=|
+  ?   io.github.wu9007                     2026-08..2026-08 9.9.9                |..................=.|
   R   io.github.coolbeevip                 2023-03..2026-01 9.15.2.5             |............======..|
   R   io.gitee.gbase8s                     2025-01..2025-01 6.5.7                |...............=....|
   A   org.flywaydb.enterprise              2020-04..2022-07 9.0.0                |......======........|
@@ -2938,7 +2938,7 @@ org.apache.commons.io  [no clear owner; `commons-io` is earliest and most recent
   ?   com.jfrog                            2026-06..2026-11 1.2.1                |..................==|
   ?   no.entur                             2024-03..2026-11 1.150.0              |..............======|
   ?   org.datakurator                      2024-11..2026-11 3.4.0                |...............=====|
-  ?   org.apache.seatunnel                 2026-02..2026-11 3.1.0                |..................==|
+  ?   org.apache.seatunnel                 2026-02..2026-11 3.1.0                |.................===|
     + 103 more: io.youtrackdb, io.openliberty.tools, org.ysb33r.gradle, com.networknt, io.boxlang, io.github.dawnuu, com.github.cafdataprocessing.workers.languagedetection, org.utplsql, org.apache.distributedlog, org.apache.hudi, io.streamnative, org.apache.jackrabbit, (+91 more)
 org.newsclub.net.unix  [no clear owner; `com.kohlschutter.junixsocket` is earliest and most recent]
   ? * com.kohlschutter.junixsocket         2018-12..2026-08 2.11.1               |....================|
